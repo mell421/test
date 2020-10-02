@@ -400,7 +400,6 @@ The voice kids th _7
 #### liste
 Survivor au _7x17(1) 
 Skam espana _4x4(1) 
-Mr heart _1x4(3) 
 The gifted series _2x4(1) 
 The voice kids _7x6(1) 
 Oxygen _1x3(1) 
@@ -434,8 +433,7 @@ Safe haven _1x6(5)
 Gaya sa pelikula _1x2(1) 
 The gifted series _2x5(1) 
 The voice kids _7x7(1) 
-Oxygen _1x4(1) 
-Mr heart _1x7(3) 
+Oxygen _1x4(1)  
 Gameboys _1x5(4) 
 The masked singer vv _1x3(2) 
 Drag race holland _1x3(1) 
@@ -808,7 +806,6 @@ Gaya sa pelikula _1x2(1)
 The gifted series _2x5(4) 
 The voice kids _7x7(4) 
 Oxygen _1x4(3) 
-Mr heart _1x7(6) 
 The masked singer vv _1x3(2) 
 Drag race holland _1x3(2) 
 Wtfock _4x5(4) 
@@ -863,67 +860,67 @@ Lls _1 > 3; Ingredients _1 > 2; Oxygen _1 > 2; Survivor au _7 > 1;
 Lls _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1;
 
 ### conclu 21/09/20 
-Lls _1 > 3; Survivor au _7 > 3; Mr heart _1 > 2; Ingredients _1 > 1;
+Lls _1 > 3; Survivor au _7 > 3; Ingredients _1 > 1;
 
 ### conclu 22/09/20 
-Lls _1 > 3; Survivor au _7 > 3; Mr heart _1 > 2; Ingredients _1 > 1;
+Lls _1 > 3; Survivor au _7 > 3; Ingredients _1 > 1;
 
 ### conclu 23/09/20 
-Lls _1 > 3; Survivor au _7 > 3; Mr heart _1 > 2; Ingredients _1 > 1; The good doctor _3 > 1;
+Lls _1 > 3; Survivor au _7 > 3; Ingredients _1 > 1; The good doctor _3 > 1;
 
 ### conclu 24/09/20 
-Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; Mr heart _1 > 2; Love by chance _2 > 1; The good doctor _3 > 1;
+Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; Love by chance _2 > 1; The good doctor _3 > 1;
 
 ### conclu 25/09/20 
-Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; Love by chance _2 > 2; Mr heart _1 > 2; The good doctor _3 > 1; Unbag _1 > 1;
+Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; Love by chance _2 > 2; The good doctor _3 > 1; Unbag _1 > 1;
 
 ### conclu 26/09/20 
-Survivor au _7 > 5; Mr heart _1 > 4; Lls _1 > 3; Ingredients _1 > 2; Gameboys _1 > 1; Koh-lanta _25 > 1;
+Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; Gameboys _1 > 1; Koh-lanta _25 > 1;
 
 ### conclu 27/09/20 
-Mr heart _1 > 6; Survivor au _7 > 5; Ingredients _1 > 3; Lls _1 > 3; Gameboys _1 > 2; The voice kids _7 > 2; Koh-lanta _25 > 1; The good doctor _3 > 1; The masked singer vv _1 > 1;
+Survivor au _7 > 5; Ingredients _1 > 3; Lls _1 > 3; Gameboys _1 > 2; The voice kids _7 > 2; Koh-lanta _25 > 1; The good doctor _3 > 1; The masked singer vv _1 > 1;
 
 ### conclu 28/09/20 
-Safe haven _1 > 5; Survivor au _7 > 5; Mr heart _1 > 4; Lls _1 > 3; Gameboys _1 > 2; The good doctor _3 > 2; The voice kids _7 > 2; Ingredients _1 > 1;
+Safe haven _1 > 5; Survivor au _7 > 5; Lls _1 > 3; Gameboys _1 > 2; The good doctor _3 > 2; The voice kids _7 > 2; Ingredients _1 > 1;
 
 ### conclu 29/09/20 
-Safe haven _1 > 5; Survivor au _7 > 5; Mr heart _1 > 4; Ingredients _1 > 3; Lls _1 > 3; Gameboys _1 > 2; Love by chance _2 > 1; The good doctor _3 > 1;
+Safe haven _1 > 5; Survivor au _7 > 5; Ingredients _1 > 3; Lls _1 > 3; Gameboys _1 > 2; Love by chance _2 > 1; The good doctor _3 > 1;
 
 ### conclu 30/09/20 
-Gameboys _1 > 5; Survivor au _7 > 5; Mr heart _1 > 4; Lls _1 > 3; Safe haven _1 > 3; The good doctor _3 > 2; Ingredients _1 > 1; The voice kids _7 > 1;
+Gameboys _1 > 5; Survivor au _7 > 5; Lls _1 > 3; Safe haven _1 > 3; The good doctor _3 > 2; Ingredients _1 > 1; The voice kids _7 > 1;
 
 ### conclu 01/10/20 
-Love by chance _2 > 5; Gameboys _1 > 4; Lls _1 > 3; Mr heart _1 > 3; The good doctor _3 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Ingredients _1 > 1; The voice kids _7 > 1;
+Love by chance _2 > 5; Gameboys _1 > 4; Lls _1 > 3; The good doctor _3 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Ingredients _1 > 1; The voice kids _7 > 1;
 
 ---
 
 ## conclu bis
 
 ### concluBis 23/09/20 
-Survivor au _7 > 7; Ingredients _1 > 5; Lls _1 > 5; The good doctor _3 > 4; Mr heart _1 > 4; My gear and your gown _1 > 1; Cheerleaders new jersey _1 > 1; 
+Survivor au _7 > 7; Ingredients _1 > 5; Lls _1 > 5; The good doctor _3 > 4; My gear and your gown _1 > 1; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 24/09/20 
-Survivor au _7 > 9; Ingredients _1 > 6; The good doctor _3 > 5; Lls _1 > 5; Mr heart _1 > 4; Love by chance _2 > 3; My gear and your gown _1 > 1; Cheerleaders new jersey _1 > 1; 
+Survivor au _7 > 9; Ingredients _1 > 6; The good doctor _3 > 5; Lls _1 > 5; Love by chance _2 > 3; My gear and your gown _1 > 1; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 25/09/20 
-Survivor au _7 > 9; Ingredients _1 > 6; The good doctor _3 > 5; Love by chance _2 > 5; Lls _1 > 5; Mr heart _1 > 4; Unbag _1 > 3; Cheerleaders new jersey _1 > 1; 
+Survivor au _7 > 9; Ingredients _1 > 6; The good doctor _3 > 5; Love by chance _2 > 5; Lls _1 > 5; Unbag _1 > 3; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 26/09/20 
-Survivor au _7 > 9; Mr heart _1 > 9; Ingredients _1 > 6; Lls _1 > 5; Gameboys _1 > 4; The good doctor _3 > 3; Koh-lanta _25 > 3; Love by chance _2 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 1; 
+Survivor au _7 > 9; Ingredients _1 > 6; Lls _1 > 5; Gameboys _1 > 4; The good doctor _3 > 3; Koh-lanta _25 > 3; Love by chance _2 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 27/09/20 
-Mr heart _1 > 11; Survivor au _7 > 9; Ingredients _1 > 7; The voice kids _7 > 6; The good doctor _3 > 5; Gameboys _1 > 5; Lls _1 > 5; Koh-lanta _25 > 3; The masked singer vv _1 > 3; Love by chance _2 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
+Survivor au _7 > 9; Ingredients _1 > 7; The voice kids _7 > 6; The good doctor _3 > 5; Gameboys _1 > 5; Lls _1 > 5; Koh-lanta _25 > 3; The masked singer vv _1 > 3; Love by chance _2 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
 ### concluBis 28/09/20 
-Mr heart _1 > 10; Safe haven _1 > 10; Survivor au _7 > 9; The voice kids _7 > 6; The good doctor _3 > 5; Lls _1 > 5; Gameboys _1 > 4; Ingredients _1 > 3; Love by chance _2 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1; 
+Safe haven _1 > 10; Survivor au _7 > 9; The voice kids _7 > 6; The good doctor _3 > 5; Lls _1 > 5; Gameboys _1 > 4; Ingredients _1 > 3; Love by chance _2 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1; 
 
 ### concluBis 29/09/20 
-Survivor au _7 > 9; Mr heart _1 > 9; Safe haven _1 > 9; Ingredients _1 > 7; Lls _1 > 5; The good doctor _3 > 4; Gameboys _1 > 4; Love by chance _2 > 3; The voice kids _7 > 2; My gear and your gown _1 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1; 
+Survivor au _7 > 9; Safe haven _1 > 9; Ingredients _1 > 7; Lls _1 > 5; The good doctor _3 > 4; Gameboys _1 > 4; Love by chance _2 > 3; The voice kids _7 > 2; My gear and your gown _1 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1; 
 
 ### concluBis 30/09/20 
-Mr heart _1 > 10; Gameboys _1 > 10; Survivor au _7 > 9; Safe haven _1 > 7; The good doctor _3 > 6; Lls _1 > 5; The voice kids _7 > 3; Ingredients _1 > 3; Love by chance _2 > 2; Dwts _29 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
+Gameboys _1 > 10; Survivor au _7 > 9; Safe haven _1 > 7; The good doctor _3 > 6; Lls _1 > 5; The voice kids _7 > 3; Ingredients _1 > 3; Love by chance _2 > 2; Dwts _29 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
 ### concluBis 01/10/20 
-Love by chance _2 > 9; Mr heart _1 > 9; Gameboys _1 > 9; The good doctor _3 > 7; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; The voice kids _7 > 3; Ingredients _1 > 3; En of love _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
+Love by chance _2 > 9; Gameboys _1 > 9; The good doctor _3 > 7; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; The voice kids _7 > 3; Ingredients _1 > 3; En of love _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
 
