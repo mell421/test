@@ -199,15 +199,22 @@ Druck _5x2(1) Skam espana _4x5(1) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) Th
 #### ter
 *Until we meet again _1 My engineer summer trip _1 Rpdr vegas revue _1 Grand hotel _1 Where your eyes linger _1 Agt _15 2wish _1 History1 my hero _1*
 
+### sem 05-10-2020 -> 
+#### liste
+I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gifted series _2x6(1) History1 obsessed _1x2(1) Oxygen _1x5(1) The voice kids _7x8(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Im tee me too _1x4(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Wtfock _4x6(1) The masked singer vv _1x4(1) Koh-lanta _25x7(1) Yyy _2x2(1) Offgun fun night _1x3(2) The masked singer _4x3(1) Love by chance _2x7(1) En of love _1x3(2) My day _1x2(1) Dwts _29x4(1) The good doctor _3x11(2) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
+
+#### ter
+*Mr heart _1 History1 stay away from me _1 Clem _10*
+
+
+
+
+
+
+
+
+
 ---
-
-
-
-
-
-
-
-
 
 ## apercu mois
 
@@ -281,15 +288,15 @@ Friend forever _1x2(1) Love by chance _2x7(6) En of love _1x3(2) My day _1x2(1) 
 #### ter
 *History1 stay away from me _1 Clem _10 Until we meet again _1 My engineer summer trip _1 Rpdr vegas revue _1 Grand hotel _1 Where your eyes linger _1 Agt _15 2wish _1 History1 my hero _1 My friendship _1 The voice senior nl _3 Yyy _1 Sing on _1 The masked singer au _2 Strictly come dancing _16 My engineer _1 The voice kids vv _5 2gether _2 The voice kids th _7 Theory of love _1 Love by chance _1 Drag race canada _1*
 
+
+
+
+
+
+
+
+
 ---
-
-
-
-
-
-
-
-
 
 ## conclu
 
@@ -332,15 +339,22 @@ Friend forever _1x2(1) Love by chance _2x7(6) En of love _1x3(2) My day _1x2(1) 
 ### conclu 01/10/20 
 > Love by chance _2 > 5; Gameboys _1 > 4; Lls _1 > 3; The good doctor _3 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Ingredients _1 > 1; The voice kids _7 > 1;
 
+### conclu 02/10/20 
+> Love by chance _2 > 5; Gameboys _1 > 3; Lls _1 > 3; Safe haven _1 > 3; The good doctor _3 > 3; Survivor au _7 > 2; Ingredients _1 > 1; The voice kids _7 > 1;
+
+### conclu 03/10/20 
+> Safe haven _1 > 8; Lls _1 > 3; The good doctor _3 > 3; Druck _5 > 2; Love by chance _2 > 2; Survivor au _7 > 2; Gaya sa pelikula _1 > 1; Ingredients _1 > 1; Koh-lanta _25 > 1; Wtfock _4 > 1;
+
+
+
+
+
+
+
+
+
+
 ---
-
-
-
-
-
-
-
-
 
 ## conclu bis
 
@@ -371,4 +385,8 @@ Friend forever _1x2(1) Love by chance _2x7(6) En of love _1x3(2) My day _1x2(1) 
 ### concluBis 01/10/20 
 > Love by chance _2 > 9; Gameboys _1 > 9; The good doctor _3 > 7; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; The voice kids _7 > 3; Ingredients _1 > 3; En of love _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
+### concluBis 02/10/20 
+> Love by chance _2 > 9; Gameboys _1 > 8; Safe haven _1 > 7; The good doctor _3 > 6; Lls _1 > 5; Survivor au _7 > 4; The voice kids _7 > 3; Ingredients _1 > 3; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; En of love _1 > 1; Kaamelott _5 > 1;
 
+### concluBis 03/10/20 
+> Safe haven _1 > 14; Love by chance _2 > 6; The good doctor _3 > 5; Koh-lanta _25 > 5; Lls _1 > 5; Druck _5 > 4; Survivor au _7 > 4; Wtfock _4 > 3; Gaya sa pelikula _1 > 3; Ingredients _1 > 3; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; The voice kids _7 > 1; Gameboys _1 > 1; En of love _1 > 1; Kaamelott _5 > 1;
