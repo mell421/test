@@ -390,3 +390,4 @@ Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) The g
 
 ### concluBis 03/10/20 
 > Safe haven _1 > 14; Love by chance _2 > 6; The good doctor _3 > 5; Koh-lanta _25 > 5; Lls _1 > 5; Druck _5 > 4; Survivor au _7 > 4; Wtfock _4 > 3; Gaya sa pelikula _1 > 3; Ingredients _1 > 3; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; The voice kids _7 > 1; Gameboys _1 > 1; Kaamelott _5 > 1;
+
