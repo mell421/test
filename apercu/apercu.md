@@ -201,7 +201,7 @@ Druck _5x2(1) Skam espana _4x5(1) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) Th
 
 ### sem 05-10-2020 -> 
 #### liste
-I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gifted series _2x6(1) History1 obsessed _1x2(1) Oxygen _1x5(1) The voice kids _7x8(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Im tee me too _1x4(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Wtfock _4x6(1) The masked singer vv _1x4(1) Koh-lanta _25x7(1) Yyy _2x2(1) Offgun fun night _1x3(2) The masked singer _4x3(1) Love by chance _2x7(1) En of love _1x3(2) My day _1x2(1) Dwts _29x4(1) The good doctor _3x11(2) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
+I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gifted series _2x6(1) History1 obsessed _1x2(1) Oxygen _1x5(1) The voice kids _7x8(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Im tee me too _1x4(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Wtfock _4x6(1) The masked singer vv _1x4(1) Koh-lanta _25x7(1) Yyy _2x2(1) Offgun fun night _1x3(2) The masked singer _4x3(1) Love by chance _2x7(1) My day _1x2(1) Dwts _29x4(1) The good doctor _3x11(2) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
 
 #### ter
 *Mr heart _1 History1 stay away from me _1 Clem _10*
@@ -283,7 +283,7 @@ Survivor au _1x2(1) The voice kids _7x3(2) Nailed it holiday _2x3(1) Koh-lanta _
 
 ### mois 01-10-2020 -> 
 #### liste
-Friend forever _1x2(1) Love by chance _2x7(6) En of love _1x3(2) My day _1x2(1) Dwts _29x4(3) The good doctor _3x11(4) Gameboys _1x6(5) Bright win inbox _1x6(2) My gear and your gown _1x5(4) Druck _5x2(1) Skam espana _4x5(4) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) The gifted series _2x5(4) The voice kids _7x7(4) Oxygen _1x4(3) The masked singer vv _1x3(2) Drag race holland _1x3(2) Wtfock _4x5(4) Koh-lanta _25x6(4) Im tee me too _1x3(2) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) Cheerleaders new jersey _1x14(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
+Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) The good doctor _3x11(4) Gameboys _1x6(5) Bright win inbox _1x6(2) My gear and your gown _1x5(4) Druck _5x2(1) Skam espana _4x5(4) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) The gifted series _2x5(4) The voice kids _7x7(4) Oxygen _1x4(3) The masked singer vv _1x3(2) Drag race holland _1x3(2) Wtfock _4x5(4) Koh-lanta _25x6(4) Im tee me too _1x3(2) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) Cheerleaders new jersey _1x14(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
 
 #### ter
 *History1 stay away from me _1 Clem _10 Until we meet again _1 My engineer summer trip _1 Rpdr vegas revue _1 Grand hotel _1 Where your eyes linger _1 Agt _15 2wish _1 History1 my hero _1 My friendship _1 The voice senior nl _3 Yyy _1 Sing on _1 The masked singer au _2 Strictly come dancing _16 My engineer _1 The voice kids vv _5 2gether _2 The voice kids th _7 Theory of love _1 Love by chance _1 Drag race canada _1*
@@ -383,10 +383,10 @@ Friend forever _1x2(1) Love by chance _2x7(6) En of love _1x3(2) My day _1x2(1) 
 > Gameboys _1 > 10; Survivor au _7 > 9; Safe haven _1 > 7; The good doctor _3 > 6; Lls _1 > 5; The voice kids _7 > 3; Ingredients _1 > 3; Love by chance _2 > 2; Dwts _29 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
 ### concluBis 01/10/20 
-> Love by chance _2 > 9; Gameboys _1 > 9; The good doctor _3 > 7; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; The voice kids _7 > 3; Ingredients _1 > 3; En of love _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
+> Love by chance _2 > 9; Gameboys _1 > 9; The good doctor _3 > 7; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; The voice kids _7 > 3; Ingredients _1 > 3; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
 ### concluBis 02/10/20 
-> Love by chance _2 > 9; Gameboys _1 > 8; Safe haven _1 > 7; The good doctor _3 > 6; Lls _1 > 5; Survivor au _7 > 4; The voice kids _7 > 3; Ingredients _1 > 3; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; En of love _1 > 1; Kaamelott _5 > 1;
+> Love by chance _2 > 9; Gameboys _1 > 8; Safe haven _1 > 7; The good doctor _3 > 6; Lls _1 > 5; Survivor au _7 > 4; The voice kids _7 > 3; Ingredients _1 > 3; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1;
 
 ### concluBis 03/10/20 
-> Safe haven _1 > 14; Love by chance _2 > 6; The good doctor _3 > 5; Koh-lanta _25 > 5; Lls _1 > 5; Druck _5 > 4; Survivor au _7 > 4; Wtfock _4 > 3; Gaya sa pelikula _1 > 3; Ingredients _1 > 3; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; The voice kids _7 > 1; Gameboys _1 > 1; En of love _1 > 1; Kaamelott _5 > 1;
+> Safe haven _1 > 14; Love by chance _2 > 6; The good doctor _3 > 5; Koh-lanta _25 > 5; Lls _1 > 5; Druck _5 > 4; Survivor au _7 > 4; Wtfock _4 > 3; Gaya sa pelikula _1 > 3; Ingredients _1 > 3; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; The voice kids _7 > 1; Gameboys _1 > 1; Kaamelott _5 > 1;
