@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Liste des Légumes</title>
+</head>
+<body>
+    <ul><li th:each="v : ${veges}" > [[${v.name}]]</li></ul>
+    <ul><li th:each="v : ${veges}" > <span th:text="'Fruit: '+ ${v.name} + ', prix: '+ ${v.price}" th:attr="style='background:' + ${v.color}"></span></li></ul>
+    <!--
+    <div th:each="v : ${veges}">
+        <span th:text="'Fruit: '+ ${v.name} + ', prix: '+ ${v.price}" th:attr="style='background:' + ${v.color}"></span>
+    </div>
+    -->
+    <form th:action=@{/addvegetable} method="post" th:object="${veg}">
+        <input type="text" placeholder="name" th:field="*{name}"/>
+        <input type="text" placeholder="color" th:field="*{color}"/>
+        <input type="text" placeholder="price" th:field="*{price}"/>
+        <input type="submit" value="Valider">
+    </form>
+    
+</body>
+</html>
