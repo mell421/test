@@ -201,7 +201,7 @@ Druck _5x2(1) Skam espana _4x5(1) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) Th
 
 ### sem 05-10-2020 -> 
 #### liste
-I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gifted series _2x6(1) History1 obsessed _1x2(1) Oxygen _1x5(1) The voice kids _7x8(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Im tee me too _1x4(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Wtfock _4x6(1) The masked singer vv _1x4(1) Koh-lanta _25x7(1) Yyy _2x2(1) Offgun fun night _1x3(2) The masked singer _4x3(1) Love by chance _2x7(1) My day _1x2(1) Dwts _29x4(1) The good doctor _3x11(2) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
+I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gifted series _2x6(1) Oxygen _1x5(1) The voice kids _7x8(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Im tee me too _1x4(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Wtfock _4x6(1) The masked singer vv _1x4(1) Koh-lanta _25x7(1) Yyy _2x2(1) Offgun fun night _1x3(2) The masked singer _4x3(1) Love by chance _2x7(1) My day _1x2(1) Dwts _29x4(1) The good doctor _3x11(2) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
 
 #### ter
 *Mr heart _1 History1 stay away from me _1 Clem _10*
