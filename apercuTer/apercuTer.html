@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>apercuTer.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="ajout-reponse">ajout reponse</h1>
+<hr>
+<h2 id="aper%C3%A7u-semaine">Aperçu semaine</h2>
+<h3 id="sem-22-06-2020">sem 22-06-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Cheerleaders _5 Love victor _1 Top chef _11</em></p>
+<h3 id="sem-29-06-2020">sem 29-06-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Dancers off the floor _1 Skam france _6 Cheerleaders _6</em></p>
+<h3 id="sem-06-07-2020">sem 06-07-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Cheerleaders _7</em></p>
+<h3 id="sem-13-07-2020">sem 13-07-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Skam italia _4 Floor is lava _1 Camping paradis _11</em></p>
+<h3 id="sem-20-07-2020">sem 20-07-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>The voice au _9 The order _1 Tales of the city _1 Incroyable talent la bataille du jury _1 Queering _2</em></p>
+<h3 id="sem-27-07-2020">sem 27-07-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Cheerleaders _8 Sing on esp _1 Rpdrasu _2 Rpdras _5 Why r u _1 Boca a boca _1</em></p>
+<h3 id="sem-03-08-2020">sem 03-08-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Reminders _1 Sotus _2 Skin wars fresh paint _1 He she it _1 Ultimate tag _1 Sotus _1</em></p>
+<h3 id="sem-10-08-2020">sem 10-08-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Sing on ger _1 La course des champions _1 Keeping up with the Kardashians _2 Awake _1</em></p>
+<h3 id="sem-17-08-2020">sem 17-08-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Alyssas secret _6 Alyssas secret _5 Alyssas secret _4 Nailed it _4 Alyssas secret _3 Unhhhh _2 World of dance _4 The moment _1 The moment _2 The order _2 The titan games _2</em></p>
+<h3 id="sem-24-08-2020">sem 24-08-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Adventure time _3 The gifted series _1 2gether _1 Keeping up with the Kardashians _3</em></p>
+<h3 id="sem-31-08-2020">sem 31-08-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>The voice th _8 The voice kids uk _4 Roommate _1</em></p>
+<h3 id="sem-07-09-2020">sem 07-09-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Theory of love _1 Love by chance _1 Drag race canada _1 Tbbt _10</em></p>
+<h3 id="sem-14-09-2020">sem 14-09-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Strictly come dancing _16 My engineer _1 The voice kids vv _5 2gether _2 The voice kids th _7</em></p>
+<h3 id="sem-21-09-2020">sem 21-09-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>My friendship _1 The voice senior nl _3 Yyy _1 Sing on _1 The masked singer au _2</em></p>
+<h3 id="sem-28-09-2020">sem 28-09-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Until we meet again _1 My engineer summer trip _1 Rpdr vegas revue _1 Grand hotel _1 Where your eyes linger _1 Agt _15 2wish _1 History1 my hero _1</em></p>
+<h3 id="sem-05-10-2020">sem 05-10-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Mr heart _1 History1 stay away from me _1 Clem _10</em></p>
+<hr>
+<h2 id="apercu-mois">apercu mois</h2>
+<h3 id="mois-01-01-2020">mois 01-01-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Nailed it _3 Monsieur flap _2 La petite mort _2 Rpdruk _1 Nailed it _2 Ninja warrior us _1 The voice us _17 Wtfock _3 The masked singer _2 Strictly come dancing _17 The masked singer fr _1 The greatest dancer _1 Incroyable talent _14 Nailed it _1</em></p>
+<h3 id="mois-01-02-2020">mois 01-02-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Peur sur le lac _1 Falconette _1 Mortel _1 Dracula uk _1</em></p>
+<h3 id="mois-01-03-2020">mois 01-03-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>The voice nl _10 The masked singer uk _1 Munch _3 La petite mort _3 Adventure time _2 Quien es la mascara _1</em></p>
+<h3 id="mois-01-04-2020">mois 01-04-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Vampires _1 Valemont _1 Stalk _1 Strictly come dancing _15 The voice kids be _1 /9-1-1 lone star _1 The greatest dancer _2 Skam france _5 The voice au _8</em></p>
+<h3 id="mois-01-05-2020">mois 01-05-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Les simpson _2 The voice vv _5 Young sheldon _3 Arrow _6 The masked singer de _2 The voice kids de _8 Ares _1 October faction _1 Will and grace _11 Kaamelott _3 Carmilla _4 Skam espana _3 Monsieur flap _3 Lego masters _1 Descendants wicked world _2 Descendants wicked world _1 Visible out on television _1 The voice au _7 La casa de papel _2 Elite _3 The circle _1 Pékin express _13 Nailed it holiday _1 La casa de papel _1 Cheerleaders _1</em></p>
+<h3 id="mois-01-06-2020">mois 01-06-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>TharnType _1 Rpdr _12 Cheerleaders champions league _1 Alyssas secret _2 Control z _1 Cheerleaders _3 The voice kids nl _1 The masked singer _3 The voice us _18 The outs _1 Cheerleaders _2 Cheerhab _1 The voice senior nl _2 Rpdru _12 Rpscdr _1 The voice senior nl _1 /9-1-1 _3 The voice uk _8 The voice nl _6 Tbbt _9 The voice senior vv _1 Amours solitaires _1</em></p>
+<h3 id="mois-01-07-2020">mois 01-07-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Dancers off the floor _1 Skam france _6 Cheerleaders _6 Cheerleaders _5 Love victor _1 Top chef _11 Bitmuch _2 The voice _9 Himym _5 Cheerleaders _4 Eastsiders _4 Kaamelott _4 Queer eye _3 Cheer _1 Dancing on ice nl _1 Dancers just plain dancin _1 Cheerhab _2 Keeping up with the Kardashians _1 La casa de papel _3 The voice kids nl _9 Koh-lanta _24</em></p>
+<h3 id="mois-01-08-2020">mois 01-08-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Ultimate tag _1 Sotus _1 Cheerleaders _8 Sing on esp _1 Rpdrasu _2 Rpdras _5 Why r u _1 Boca a boca _1 The voice au _9 The order _1 Tales of the city _1 Incroyable talent la bataille du jury _1 Queering _2 Skam italia _4 Floor is lava _1 Camping paradis _11 Cheerleaders _7</em></p>
+<h3 id="mois-01-09-2020">mois 01-09-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>Tbbt _10 The voice th _8 The voice kids uk _4 Roommate _1 Adventure time _3 The gifted series _1 2gether _1 Keeping up with the Kardashians _3 Alyssas secret _6 Alyssas secret _5 Alyssas secret _4 Nailed it _4 Alyssas secret _3 Unhhhh _2 World of dance _4 The moment _1 The moment _2 The order _2 The titan games _2 Sing on ger _1 La course des champions _1 Keeping up with the Kardashians _2 Awake _1 Reminders _1 Sotus _2 Skin wars fresh paint _1 He she it _1</em></p>
+<h3 id="mois-01-10-2020">mois 01-10-2020 -&gt;</h3>
+<h4 id="ter">ter</h4>
+<p><em>History1 stay away from me _1 Clem _10 Until we meet again _1 My engineer summer trip _1 Rpdr vegas revue _1 Grand hotel _1 Where your eyes linger _1 Agt _15 2wish _1 History1 my hero _1 My friendship _1 The voice senior nl _3 Yyy _1 Sing on _1 The masked singer au _2 Strictly come dancing _16 My engineer _1 The voice kids vv _5 2gether _2 The voice kids th _7 Theory of love _1 Love by chance _1 Drag race canada _1</em></p>
+
+</body>
+</html>
