@@ -13,7 +13,6 @@ Gaya sa pelikula 1x3
 Unbag 1x5
 The masked singer 4x3
 * Capture lover 1x1
-En of love 2x2
 * Zombie detective 1x1
 The good doctor 3x12
 Dwts 29x4
