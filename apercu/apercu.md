@@ -160,7 +160,7 @@ I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gift
 
 ### sem 12-10-2020 -> 
 #### liste
-Boyband love _1x3(1) Grandsons the reality project _1x2(1) The gifted series _2x7(1) Oxygen _1x6(1) Love by chance _2x8(1) Wtfock _4x7(1) Offgun fun night _1x5(2) We are not human _1x12(3) Im tee me too _1x5(1) The voice germany _10x2(1) The masked singer vv _1x5(1) Koh-lanta _25x8(1) Gaya sa pelikula _1x4(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) En of love _2x3(2) Zombie detective _1x2(1) The good doctor _3x13(2) Dwts _29x5(1) My gear and your gown _1x6(1) 
+Boyband love _1x3(1) Grandsons the reality project _1x2(1) The gifted series _2x7(1) Oxygen _1x6(1) Love by chance _2x8(1) Wtfock _4x7(1) Offgun fun night _1x5(2) We are not human _1x12(3) Im tee me too _1x5(1) The voice germany _10x2(1) The masked singer vv _1x5(1) Koh-lanta _25x8(1) Gaya sa pelikula _1x4(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) Zombie detective _1x2(1) The good doctor _3x13(2) Dwts _29x5(1) My gear and your gown _1x6(1) 
 
 
 
@@ -284,13 +284,13 @@ Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) The g
 > The good doctor _3 > 8; Ingredients _1 > 4; Lls _1 > 3; Friend forever _1 > 2; Safe haven _1 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1; Offgun fun night _1 > 1;  
 
 ### conclu 08/10/20
-> The good doctor _3 > 7; Ingredients _1 > 4; En of love _2 > 3; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1; Offgun fun night _1 > 1;  
+> The good doctor _3 > 7; Ingredients _1 > 4; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1; Offgun fun night _1 > 1;  
 
 ### conclu 09/10/20
-> The good doctor _3 > 7; Ingredients _1 > 4; En of love _2 > 3; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Friend zone _1 > 1; My gear and your gown _1 > 1;   
+> The good doctor _3 > 7; Ingredients _1 > 4; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Friend zone _1 > 1; My gear and your gown _1 > 1;   
 
 ### conclu 10/10/20
-> The good doctor _3 > 6; We are not human _1 > 5; Lls _1 > 3; Offgun fun night _1 > 2; Survivor au _7 > 2; Wtfock _4 > 2; En of love _2 > 1; Ingredients _1 > 1; Koh-lanta _25 > 1; Love by chance _2 > 1;  
+> The good doctor _3 > 6; We are not human _1 > 5; Lls _1 > 3; Offgun fun night _1 > 2; Survivor au _7 > 2; Wtfock _4 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1; Love by chance _2 > 1;  
 
 
 
@@ -347,15 +347,15 @@ Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) The g
 > Ingredients _1 > 8; The good doctor _3 > 7; Safe haven _1 > 7; My gear and your gown _1 > 6; Friend forever _1 > 5; Lls _1 > 5; Offgun fun night _1 > 4; Survivor au _7 > 4; Skam espana _4 > 3; The gifted series _2 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 07/10/20
-> The good doctor _3 > 14; Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Friend forever _1 > 4; Survivor au _7 > 4; My gear and your gown _1 > 3; Dwts _29 > 3; Offgun fun night _1 > 3; Skam espana _4 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; En of love _2 > 1; Kaamelott _5 > 1;  
+> The good doctor _3 > 14; Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Friend forever _1 > 4; Survivor au _7 > 4; My gear and your gown _1 > 3; Dwts _29 > 3; Offgun fun night _1 > 3; Skam espana _4 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 08/10/20
-> The good doctor _3 > 13; Ingredients _1 > 8; Safe haven _1 > 6; En of love _2 > 5; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Offgun fun night _1 > 3; Skam espana _4 > 2; Capture lover _1 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Dwts _29 > 1; Zombie detective _1 > 1; Kaamelott _5 > 1;  
+> The good doctor _3 > 13; Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Offgun fun night _1 > 3; Skam espana _4 > 2; Capture lover _1 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Dwts _29 > 1; Zombie detective _1 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 09/10/20
-> The good doctor _3 > 13; Ingredients _1 > 8; Safe haven _1 > 6; En of love _2 > 5; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Unbag _1 > 3; Friend zone _1 > 3; Skam espana _4 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; The masked singer _4 > 1; Kaamelott _5 > 1; 
+> The good doctor _3 > 13; Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Unbag _1 > 3; Friend zone _1 > 3; Skam espana _4 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; The masked singer _4 > 1; Kaamelott _5 > 1; 
 
 ### concluBis 10/10/20
-> The good doctor _3 > 12; We are not human _1 > 9; Koh-lanta _25 > 5; Lls _1 > 5; Love by chance _2 > 4; Wtfock _4 > 4; Offgun fun night _1 > 4; Survivor au _7 > 4; En of love _2 > 3; Ingredients _1 > 3; My gear and your gown _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1;
+> The good doctor _3 > 12; We are not human _1 > 9; Koh-lanta _25 > 5; Lls _1 > 5; Love by chance _2 > 4; Wtfock _4 > 4; Offgun fun night _1 > 4; Survivor au _7 > 4; Ingredients _1 > 3; My gear and your gown _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1;
 
 
