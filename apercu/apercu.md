@@ -162,7 +162,8 @@ I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gift
 #### liste
 Boyband love _1x3(1) Grandsons the reality project _1x2(1) The gifted series _2x7(1) Oxygen _1x6(1) Love by chance _2x8(1) Wtfock _4x7(1) We are not human _1x12(3) Im tee me too _1x5(1) The voice germany _10x2(1) The masked singer vv _1x5(1) Koh-lanta _25x8(1) Gaya sa pelikula _1x4(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) Zombie detective _1x2(1) The good doctor _3x13(2) Dwts _29x5(1) My gear and your gown _1x6(1) 
 
-
+### sem 19-10-2020 -> 
+Ben x jim _1x2(1) The gifted series _2x8(1) Boys lockdown _1x2(1) Love in time _1x4(2) Wtfock _4x8(1) Druck _5x5(2) Strictly come dancing _18x2(1) The masked singer fr _2x2(1) Boyband love _1x4(1) Oxygen _1x7(1) Quaranthings _1x2(1) The masked singer vv _1x6(1) Ingredients _1x16(1) Im tee me too _1x6(1) Gaya sa pelikula _1x5(1) Grandsons the reality project _1x3(1) Koh-lanta _25x9(1) We are not human _1x19(7) The masked singer _4x5(1) Love by chance _2x9(1) Safe haven _1x9(2) The good doctor _3x15(2) Dwts _29x6(1) The voice germany _10x3(1) Bright win inbox _1x7(1) My gear and your gown _1x7(1)
 
 
 
