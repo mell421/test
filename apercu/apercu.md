@@ -156,11 +156,11 @@ Druck _5x2(1) Skam espana _4x5(1) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) Th
 
 ### sem 05-10-2020 -> 
 #### liste
-I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gifted series _2x6(1) Oxygen _1x5(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Im tee me too _1x4(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Wtfock _4x6(1) The masked singer vv _1x4(1) Koh-lanta _25x7(1) Offgun fun night _1x3(2) The masked singer _4x3(1) Love by chance _2x7(1) My day _1x2(1) Dwts _29x4(1) The good doctor _3x11(2) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
+I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gifted series _2x6(1) Oxygen _1x5(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Im tee me too _1x4(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Wtfock _4x6(1) The masked singer vv _1x4(1) Koh-lanta _25x7(1) The masked singer _4x3(1) Love by chance _2x7(1) My day _1x2(1) Dwts _29x4(1) The good doctor _3x11(2) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
 
 ### sem 12-10-2020 -> 
 #### liste
-Boyband love _1x3(1) Grandsons the reality project _1x2(1) The gifted series _2x7(1) Oxygen _1x6(1) Love by chance _2x8(1) Wtfock _4x7(1) Offgun fun night _1x5(2) We are not human _1x12(3) Im tee me too _1x5(1) The voice germany _10x2(1) The masked singer vv _1x5(1) Koh-lanta _25x8(1) Gaya sa pelikula _1x4(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) Zombie detective _1x2(1) The good doctor _3x13(2) Dwts _29x5(1) My gear and your gown _1x6(1) 
+Boyband love _1x3(1) Grandsons the reality project _1x2(1) The gifted series _2x7(1) Oxygen _1x6(1) Love by chance _2x8(1) Wtfock _4x7(1) We are not human _1x12(3) Im tee me too _1x5(1) The voice germany _10x2(1) The masked singer vv _1x5(1) Koh-lanta _25x8(1) Gaya sa pelikula _1x4(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) Zombie detective _1x2(1) The good doctor _3x13(2) Dwts _29x5(1) My gear and your gown _1x6(1) 
 
 
 
@@ -275,40 +275,40 @@ Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) The g
 > Safe haven _1 > 6; Ingredients _1 > 4; Lls _1 > 3; Druck _5 > 2; Love by chance _2 > 2; Survivor au _7 > 2; The good doctor _3 > 2; Gaya sa pelikula _1 > 1;  
 
 ### conclu 05/10/20
-> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; Offgun fun night _1 > 2; Skam espana _4 > 2; The good doctor _3 > 2; The gifted series _2 > 1;  
+> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; Skam espana _4 > 2; The good doctor _3 > 2; The gifted series _2 > 1;  
 
 ### conclu 06/10/20
-> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; The good doctor _3 > 3; My gear and your gown _1 > 2; Offgun fun night _1 > 2; Survivor au _7 > 2; Skam espana _4 > 1;  
+> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; The good doctor _3 > 3; My gear and your gown _1 > 2; Survivor au _7 > 2; Skam espana _4 > 1;  
 
 ### conclu 07/10/20
-> The good doctor _3 > 8; Ingredients _1 > 4; Lls _1 > 3; Friend forever _1 > 2; Safe haven _1 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1; Offgun fun night _1 > 1;  
+> The good doctor _3 > 8; Ingredients _1 > 4; Lls _1 > 3; Friend forever _1 > 2; Safe haven _1 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1;   
 
 ### conclu 08/10/20
-> The good doctor _3 > 7; Ingredients _1 > 4; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1; Offgun fun night _1 > 1;  
+> The good doctor _3 > 7; Ingredients _1 > 4; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1;   
 
 ### conclu 09/10/20
 > The good doctor _3 > 7; Ingredients _1 > 4; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Friend zone _1 > 1; My gear and your gown _1 > 1;   
 
 ### conclu 10/10/20
-> The good doctor _3 > 6; We are not human _1 > 5; Lls _1 > 3; Offgun fun night _1 > 2; Survivor au _7 > 2; Wtfock _4 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1; Love by chance _2 > 1;  
+> The good doctor _3 > 6; We are not human _1 > 5; Lls _1 > 3; Survivor au _7 > 2; Wtfock _4 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1; Love by chance _2 > 1;  
 
 ### conclu 11/10/20 
-> The good doctor _3 > 5; Ingredients _1 > 4; We are not human _1 > 4; Lls _1 > 3; Offgun fun night _1 > 2; Oxygen _1 > 2; Survivor au _7 > 2; Wtfock _4 > 1; 
+> The good doctor _3 > 5; Ingredients _1 > 4; We are not human _1 > 4; Lls _1 > 3; Oxygen _1 > 2; Survivor au _7 > 2; Wtfock _4 > 1; 
 
 ### conclu 12/10/20 
-> The good doctor _3 > 6; We are not human _1 > 5; Lls _1 > 3; Offgun fun night _1 > 2; Survivor au _7 > 2; The gifted series _2 > 2; Ingredients _1 > 1; Love by chance _2 > 1; Oxygen _1 > 1; 
+> The good doctor _3 > 6; We are not human _1 > 5; Lls _1 > 3; Survivor au _7 > 2; The gifted series _2 > 2; Ingredients _1 > 1; Love by chance _2 > 1; Oxygen _1 > 1; 
 
 ### conclu 13/10/20 
-> The good doctor _3 > 5; We are not human _1 > 5; Lls _1 > 3; My gear and your gown _1 > 3; Survivor au _7 > 2; The voice germany _10 > 2; Ingredients _1 > 1; Love by chance _2 > 1; Offgun fun night _1 > 1; The gifted series _2 > 1; 
+> The good doctor _3 > 5; We are not human _1 > 5; Lls _1 > 3; My gear and your gown _1 > 3; Survivor au _7 > 2; The voice germany _10 > 2; Ingredients _1 > 1; Love by chance _2 > 1; The gifted series _2 > 1; 
 
 ### conclu 14/10/20 
 > The good doctor _3 > 8; We are not human _1 > 5; Lls _1 > 3; Safe haven _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; My gear and your gown _1 > 1; The voice germany _10 > 1; 
 
 ### conclu 15/10/20 
-> We are not human _1 > 11; Lls _1 > 3; The good doctor _3 > 3; Offgun fun night _1 > 2; Safe haven _1 > 2; Love by chance _2 > 1; Survivor au _7 > 1; The masked singer _4 > 1; 
+> We are not human _1 > 11; Lls _1 > 3; The good doctor _3 > 3; Safe haven _1 > 2; Love by chance _2 > 1; Survivor au _7 > 1; The masked singer _4 > 1; 
 
 ### conclu 16/10/20 
-> We are not human _1 > 11; Lls _1 > 3; The good doctor _3 > 3; Offgun fun night _1 > 2; Safe haven _1 > 2; Love by chance _2 > 1; Survivor au _7 > 1; 
+> We are not human _1 > 11; Lls _1 > 3; The good doctor _3 > 3; Safe haven _1 > 2; Love by chance _2 > 1; Survivor au _7 > 1; 
 
 ### conclu 17/10/20 
 > We are not human _1 > 11; Lls _1 > 3; Safe haven _1 > 3; The good doctor _3 > 3; Grandsons the reality project _1 > 2; Koh-lanta _25 > 1; Survivor au _7 > 1; 
@@ -351,49 +351,49 @@ Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) The g
 > Love by chance _2 > 9; Gameboys _1 > 9; The good doctor _3 > 7; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
 ### concluBis 02/10/20 
-> Love by chance _2 > 9; Gameboys _1 > 8; Safe haven _1 > 7; The good doctor _3 > 6; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1;
+> Love by chance _2 > 9; Gameboys _1 > 8; Safe haven _1 > 7; The good doctor _3 > 6; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1;
 
 ### concluBis 03/10/20 
-> Safe haven _1 > 14; Love by chance _2 > 6; The good doctor _3 > 5; Koh-lanta _25 > 5; Lls _1 > 5; Druck _5 > 4; Survivor au _7 > 4; Wtfock _4 > 3; Gaya sa pelikula _1 > 3; Ingredients _1 > 3; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; Gameboys _1 > 1; Kaamelott _5 > 1;
+> Safe haven _1 > 14; Love by chance _2 > 6; The good doctor _3 > 5; Koh-lanta _25 > 5; Lls _1 > 5; Druck _5 > 4; Survivor au _7 > 4; Wtfock _4 > 3; Gaya sa pelikula _1 > 3; Ingredients _1 > 3; Cheerleaders new jersey _1 > 2; Gameboys _1 > 1; Kaamelott _5 > 1;
 
 ### concluBis 04/10/20
-> Safe haven _1 > 12; Ingredients _1 > 8; Lls _1 > 5; The good doctor _3 > 4; Love by chance _2 > 4; Druck _5 > 4; Survivor au _7 > 4; Gaya sa pelikula _1 > 3; Koh-lanta _25 > 2; Wtfock _4 > 2; Offgun fun night _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1;  
+> Safe haven _1 > 12; Ingredients _1 > 8; Lls _1 > 5; The good doctor _3 > 4; Love by chance _2 > 4; Druck _5 > 4; Survivor au _7 > 4; Gaya sa pelikula _1 > 3; Koh-lanta _25 > 2; Wtfock _4 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1;  
 
 ### concluBis 05/10/20
-> Ingredients _1 > 8; Safe haven _1 > 7; The good doctor _3 > 6; Friend forever _1 > 5; Lls _1 > 5; Skam espana _4 > 4; Offgun fun night _1 > 4; Survivor au _7 > 4; The gifted series _2 > 3; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1;  
+> Ingredients _1 > 8; Safe haven _1 > 7; The good doctor _3 > 6; Friend forever _1 > 5; Lls _1 > 5; Skam espana _4 > 4; Survivor au _7 > 4; The gifted series _2 > 3; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 06/10/20
-> Ingredients _1 > 8; The good doctor _3 > 7; Safe haven _1 > 7; My gear and your gown _1 > 6; Friend forever _1 > 5; Lls _1 > 5; Offgun fun night _1 > 4; Survivor au _7 > 4; Skam espana _4 > 3; The gifted series _2 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1;  
+> Ingredients _1 > 8; The good doctor _3 > 7; Safe haven _1 > 7; My gear and your gown _1 > 6; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Skam espana _4 > 3; The gifted series _2 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 07/10/20
-> The good doctor _3 > 14; Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Friend forever _1 > 4; Survivor au _7 > 4; My gear and your gown _1 > 3; Dwts _29 > 3; Offgun fun night _1 > 3; Skam espana _4 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Kaamelott _5 > 1;  
+> The good doctor _3 > 14; Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Friend forever _1 > 4; Survivor au _7 > 4; My gear and your gown _1 > 3; Dwts _29 > 3; Skam espana _4 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 08/10/20
-> The good doctor _3 > 13; Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Offgun fun night _1 > 3; Skam espana _4 > 2; Capture lover _1 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Dwts _29 > 1; Zombie detective _1 > 1; Kaamelott _5 > 1;  
+> The good doctor _3 > 13; Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Skam espana _4 > 2; Capture lover _1 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Dwts _29 > 1; Zombie detective _1 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 09/10/20
 > The good doctor _3 > 13; Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Unbag _1 > 3; Friend zone _1 > 3; Skam espana _4 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; The masked singer _4 > 1; Kaamelott _5 > 1; 
 
 ### concluBis 10/10/20
-> The good doctor _3 > 12; We are not human _1 > 9; Koh-lanta _25 > 5; Lls _1 > 5; Love by chance _2 > 4; Wtfock _4 > 4; Offgun fun night _1 > 4; Survivor au _7 > 4; Ingredients _1 > 3; My gear and your gown _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1;
+> The good doctor _3 > 12; We are not human _1 > 9; Koh-lanta _25 > 5; Lls _1 > 5; Love by chance _2 > 4; Wtfock _4 > 4; Survivor au _7 > 4; Ingredients _1 > 3; My gear and your gown _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1;
 
 ### concluBis 11/10/20 
-> The good doctor _3 > 11; Ingredients _1 > 8; We are not human _1 > 8; Oxygen _1 > 5; Lls _1 > 5; Offgun fun night _1 > 4; Survivor au _7 > 4; Koh-lanta _25 > 3; Wtfock _4 > 3; Love by chance _2 > 2; Cheerleaders new jersey _1 > 2; My gear and your gown _1 > 1; Kaamelott _5 > 1;
+> The good doctor _3 > 11; Ingredients _1 > 8; We are not human _1 > 8; Oxygen _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Koh-lanta _25 > 3; Wtfock _4 > 3; Love by chance _2 > 2; Cheerleaders new jersey _1 > 2; My gear and your gown _1 > 1; Kaamelott _5 > 1;
 
 ### concluBis 12/10/20 
-> The good doctor _3 > 12; We are not human _1 > 9; The gifted series _2 > 5; Lls _1 > 5; Offgun fun night _1 > 4; Survivor au _7 > 4; Love by chance _2 > 3; Oxygen _1 > 3; Ingredients _1 > 3; Koh-lanta _25 > 2; Wtfock _4 > 2; Cheerleaders new jersey _1 > 2; My gear and your gown _1 > 1; Boyband love _1 > 1; Kaamelott _5 > 1;  
+> The good doctor _3 > 12; We are not human _1 > 9; The gifted series _2 > 5; Lls _1 > 5; Survivor au _7 > 4; Love by chance _2 > 3; Oxygen _1 > 3; Ingredients _1 > 3; Koh-lanta _25 > 2; Wtfock _4 > 2; Cheerleaders new jersey _1 > 2; My gear and your gown _1 > 1; Boyband love _1 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 13/10/20 
-> The good doctor _3 > 10; We are not human _1 > 9; My gear and your gown _1 > 5; Lls _1 > 5; Love by chance _2 > 4; The voice germany _10 > 4; Survivor au _7 > 4; The gifted series _2 > 3; Offgun fun night _1 > 3; Ingredients _1 > 3; Koh-lanta _25 > 2; Oxygen _1 > 2; Cheerleaders new jersey _1 > 2; Bright win inbox _1 > 1; Kaamelott _5 > 1; 
+> The good doctor _3 > 10; We are not human _1 > 9; My gear and your gown _1 > 5; Lls _1 > 5; Love by chance _2 > 4; The voice germany _10 > 4; Survivor au _7 > 4; The gifted series _2 > 3; Ingredients _1 > 3; Koh-lanta _25 > 2; Oxygen _1 > 2; Cheerleaders new jersey _1 > 2; Bright win inbox _1 > 1; Kaamelott _5 > 1; 
 
 ### concluBis 14/10/20 
-> The good doctor _3 > 16; We are not human _1 > 9; Safe haven _1 > 8; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; The voice germany _10 > 3; Ingredients _1 > 3; Love by chance _2 > 2; Dwts _29 > 2; Offgun fun night _1 > 2; Koh-lanta _25 > 1; The gifted series _2 > 1; Cheerleaders new jersey _1 > 1; 
+> The good doctor _3 > 16; We are not human _1 > 9; Safe haven _1 > 8; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; The voice germany _10 > 3; Ingredients _1 > 3; Love by chance _2 > 2; Dwts _29 > 2; Koh-lanta _25 > 1; The gifted series _2 > 1; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 15/10/20 
-> We are not human _1 > 19; The good doctor _3 > 8; Safe haven _1 > 7; Love by chance _2 > 6; Offgun fun night _1 > 6; Lls _1 > 5; The masked singer _4 > 3; Survivor au _7 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; 
+> We are not human _1 > 19; The good doctor _3 > 8; Safe haven _1 > 7; Love by chance _2 > 6; Lls _1 > 5; The masked singer _4 > 3; Survivor au _7 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; 
 
 ### concluBis 16/10/20 
-> We are not human _1 > 19; The good doctor _3 > 8; Safe haven _1 > 7; Love by chance _2 > 6; Offgun fun night _1 > 6; Lls _1 > 5; Survivor au _7 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; 
+> We are not human _1 > 19; The good doctor _3 > 8; Safe haven _1 > 7; Love by chance _2 > 6; Lls _1 > 5; Survivor au _7 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; 
 
 ### concluBis 17/10/20 
 > We are not human _1 > 19; The good doctor _3 > 10; Safe haven _1 > 8; Lls _1 > 5; Koh-lanta _25 > 4; Grandsons the reality project _1 > 4; Im tee me too _1 > 3; Survivor au _7 > 3; Love by chance _2 > 2; Ingredients _1 > 2; 
