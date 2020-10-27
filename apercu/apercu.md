@@ -317,7 +317,35 @@ Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) The g
 ### conclu 17/10/20 
 > We are not human _1 > 11; Lls _1 > 3; Safe haven _1 > 3; The good doctor _3 > 3; Grandsons the reality project _1 > 2; Koh-lanta _25 > 1; Survivor au _7 > 1; 
 
+### conclu 18/10/20
+> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Druck _5 > 2; Safe haven _1 > 2; The good doctor _3 > 2; Boyband love _1 > 1;
 
+### conclu 19/10/20
+> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Safe haven _1 > 2; The good doctor _3 > 2; Love in time _1 > 1; 
+
+### conclu 20/10/20
+> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Joséphine ange gardien _23 > 2; Safe haven _1 > 2; The good doctor _3 > 2; Love in time _1 > 1; 
+
+### conclu 21/10/20
+> The good doctor _3 > 8; We are not human _1 > 5; Ingredients _1 > 3; Lls _1 > 3; Dwts _29 > 2; Koh-lanta _25 > 1; My gear and your gown _1 > 1; 
+
+### conclu 22/10/20
+> The good doctor _3 > 6; Ingredients _1 > 3; Lls _1 > 3; Quaranthings _1 > 3; Safe haven _1 > 3; Craving you _1 > 2; We are not human _1 > 2; Dwts _29 > 1; The voice us _19 > 1; 
+
+### conclu 23/10/20
+> The good doctor _3 > 5; Safe haven _1 > 4; Craving you _1 > 3; Ingredients _1 > 3; Lls _1 > 3; Quaranthings _1 > 2; We are not human _1 > 2; Dwts _29 > 1; The voice us _19 > 1; 
+
+### conclu 24/10/20
+> The good doctor _3 > 5; Safe haven _1 > 4; Lls _1 > 3; The voice germany _10 > 3; Craving you _1 > 2; Koh-lanta _25 > 2; The masked singer vv _1 > 2; We are not human _1 > 2; Ingredients _1 > 1; 
+
+### conclu 25/10/20
+> The good doctor _3 > 5; Safe haven _1 > 4; Craving you _1 > 3; Lls _1 > 3; Koh-lanta _25 > 2; The voice germany _10 > 2; We are not human _1 > 2; Ingredients _1 > 1; The masked singer vv _1 > 1; The voice us _19 > 1; 
+
+### conclu 26/10/20
+> The good doctor _3 > 5; Safe haven _1 > 4; Craving you _1 > 3; Lls _1 > 3; Koh-lanta _25 > 2; The voice germany _10 > 2; We are not human _1 > 2; Ingredients _1 > 1; The gifted series _2 > 1; The voice us _19 > 1;
+
+### conclu 27/10/20
+> Safe haven _1 > 4; Craving you _1 > 3; Lls _1 > 3; Love by chance _2 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; We are not human _1 > 2; Dwts _29 > 1; Ingredients _1 > 1; 
 
 
 
@@ -402,3 +430,32 @@ Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) The g
 ### concluBis 17/10/20 
 > We are not human _1 > 19; The good doctor _3 > 10; Safe haven _1 > 8; Lls _1 > 5; Koh-lanta _25 > 4; Grandsons the reality project _1 > 4; Im tee me too _1 > 3; Survivor au _7 > 3; Love by chance _2 > 2; Ingredients _1 > 2; 
 
+### concluBis 18/10/20
+> We are not human _1 > 19; Ingredients _1 > 7; The good doctor _3 > 7; Safe haven _1 > 5; Lls _1 > 5; Druck _5 > 4; Boyband love _1 > 3; Koh-lanta _25 > 2; Wtfock _4 > 2; Grandsons the reality project _1 > 2; Survivor au _7 > 2; Love by chance _2 > 1; Oxygen _1 > 1; 
+
+### concluBis 19/10/20
+> We are not human _1 > 19; Ingredients _1 > 7; The good doctor _3 > 7; Safe haven _1 > 5; Lls _1 > 5; Love in time _1 > 3; Koh-lanta _25 > 2; Druck _5 > 2; Survivor au _7 > 2; Love by chance _2 > 1; The gifted series _2 > 1; 
+
+### concluBis 20/10/20
+> We are not human _1 > 19; Ingredients _1 > 7; The good doctor _3 > 7; Safe haven _1 > 5; Lls _1 > 5; Joséphine ange gardien _23 > 4; Love in time _1 > 3; Koh-lanta _25 > 2; The gifted series _2 > 2; Druck _5 > 2; Survivor au _7 > 2; Love by chance _2 > 1; The masked singer vv _1 > 1; 
+
+### concluBis 21/10/20
+> The good doctor _3 > 15; We are not human _1 > 9; Ingredients _1 > 7; My gear and your gown _1 > 5; Lls _1 > 5; Dwts _29 > 4; Koh-lanta _25 > 3; The voice germany _10 > 3; The masked singer vv _1 > 2; Survivor au _7 > 2; The gifted series _2 > 1; Quien es la mascara _2 > 1; 
+
+### concluBis 22/10/20
+> The good doctor _3 > 13; Ingredients _1 > 7; Safe haven _1 > 7; Quaranthings _1 > 5; Lls _1 > 5; Craving you _1 > 4; We are not human _1 > 4; Dwts _29 > 3; The voice us _19 > 3; My gear and your gown _1 > 2; The masked singer vv _1 > 2; Survivor au _7 > 2; The gifted series _2 > 1; The voice germany _10 > 1;  
+
+### concluBis 23/10/20
+> The good doctor _3 > 12; Safe haven _1 > 8; Ingredients _1 > 7; Craving you _1 > 5; Lls _1 > 5; Quaranthings _1 > 4; We are not human _1 > 4; Dwts _29 > 3; The voice us _19 > 3; My gear and your gown _1 > 2; The masked singer vv _1 > 2; The voice germany _10 > 2; Survivor au _7 > 2; The gifted series _2 > 1; 
+
+### concluBis 24/10/20
+> The good doctor _3 > 10; Safe haven _1 > 8; The masked singer vv _1 > 6; The voice germany _10 > 6; Lls _1 > 5; Koh-lanta _25 > 4; Craving you _1 > 4; We are not human _1 > 4; Ingredients _1 > 3; My gear and your gown _1 > 2; Im tee me too _1 > 2; Quaranthings _1 > 2; Survivor au _7 > 2; The gifted series _2 > 1; The voice us _19 > 1; 
+
+### concluBis 25/10/20
+> The good doctor _3 > 12; Safe haven _1 > 8; Craving you _1 > 5; Lls _1 > 5; Koh-lanta _25 > 4; The voice germany _10 > 4; We are not human _1 > 4; Oxygen _1 > 3; The masked singer vv _1 > 3; The voice us _19 > 3; Ingredients _1 > 3; Gameboys _1 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1; Quien es la mascara _2 > 1; 
+
+### concluBis 26/10/20
+> The good doctor _3 > 12; Safe haven _1 > 8; The gifted series _2 > 5; The voice germany _10 > 5; Craving you _1 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Oxygen _1 > 3; The voice us _19 > 3; Ingredients _1 > 3; Survivor au _7 > 2; Quien es la mascara _2 > 1; 
+
+### concluBis 27/10/20
+> Safe haven _1 > 8; The voice germany _10 > 7; Love by chance _2 > 5; My gear and your gown _1 > 5; Dwts _29 > 5; Craving you _1 > 5; Lls _1 > 5; Koh-lanta _25 > 4; The voice us _19 > 4; We are not human _1 > 4; Ingredients _1 > 3; The gifted series _2 > 2; Survivor au _7 > 2; The good doctor _3 > 1; 
