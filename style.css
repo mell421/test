@@ -1,0 +1,22 @@
+table {
+	border-collapse: collapse;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #000;
+	margin: 5px;
+	border-width: 5px;
+	margin: auto;
+}
+
+tr {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+}
+
+td {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+  font-size: 12px;
+}
