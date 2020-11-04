@@ -19,62 +19,15 @@
  nb resume mois <script> 
   document.write(nbMois)
 </script></p>
-<table contenteditable="false">
-  <tr>
-    <th class="" onclick="ajoutConclu()">lundi</th>
-    <th class="">mardi</th>
-    <th class="">mercredi</th>
-    <th class="">jeudi</th>
-    <th class="">vendredi</th>
-    <th class="">samedi</th>
-    <th class="">dimanche</th>
-  </tr>
- <tr>
-  <tr>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-  </tr>
-  <tr>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-  </tr>
-  <tr>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-  </tr>
-  <tr>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-    <td class=""></td>
-  </tr>
-</table>
+
 <p> --- </p>
-<table contenteditable="false">
-  <tr>
-    <th class="date">date</th>
-    <th class="conclu">conclu</th>
-    <th class="conclubis">conclusem</th>
-    <th class="resumesem">resumesem</th>
-    <th class="resumemois">resumemois</th>
+<table class="trier" contenteditable="false">
+  <tr class="title">
+    <td class="date">date <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
+    <td class="conclu">conclu <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
+    <td class="conclubis">conclusem <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
+    <td class="resumesem">resumesem <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
+    <td class="resumemois">resumemois <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
   </tr>
  <tr>
     <td class="date">01/01</td>
