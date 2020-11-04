@@ -13,14 +13,24 @@ tr {
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000;
+
 }
 
 td {
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000;
-  font-size: 12px;
+  	font-size: 12px;
+  /* text-align: justify; */
 }
+.date { background-color: ghostwhite; }
+.conclu { background-color: ghostwhite; }
+.conclubis { background-color: ghostwhite; }
+.resumesem { background-color: ghostwhite; }
+.resumemois { background-color: ghostwhite; }
+.titre { font-weight: bold;}
+.sommaire {font-size: 15px;}
+.sommaire :hover {color: #bf2b2f;}
 
 /*  */
 #trier { background-color:white; color:black; border-collapse:collapse; BORDER:white 1px solid; FONT:12 Arial; TEXT-ALIGN:center }
