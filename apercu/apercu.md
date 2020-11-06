@@ -109,16 +109,16 @@ Survivor au _1x2(1) Nailed it holiday _2x3(1) Koh-lanta _25x2(1) Unbag _1x2(1) A
 The gifted series _2x2(1) Ingredients _1x13(1) Wtfock _4x2(1) Koh-lanta _25x3(1) Aggretsuko _3x4(1) Love by chance _2x3(2) 
 
 #### sem 14-09-2020 -> 
-Skam espana _4x3(2) The gifted series _2x3(1) Wtfock _4x3(1) Oxygen _1x2(1) Koh-lanta _25x4(1) Cheerleaders new jersey _1x14(1) Love by chance _2x4(1) Unbag _1x3(1) The voice vv _6x2(1) 
+The gifted series _2x3(1) Wtfock _4x3(1) Oxygen _1x2(1) Koh-lanta _25x4(1) Cheerleaders new jersey _1x14(1) Love by chance _2x4(1) Unbag _1x3(1) The voice vv _6x2(1) 
 
 #### sem 21-09-2020 -> 
-Survivor au _7x17(1) Skam espana _4x4(1) The gifted series _2x4(1) Oxygen _1x3(1) Love in time _1x2(1) Ingredients _1x14(1) Wtfock _4x4(1) Koh-lanta _25x5(1) Drag race holland _1x2(1) Im tee me too _1x2(1) My gear and your gown _1x3(2) Unbag _1x4(1) Love by chance _2x5(1) Baby _3x2(1) Bright win inbox _1x5(1) Hes coming to me _1x3(1) Dwts _29x2(1) My dear loser edge of 17 _1x2(1) 
+Survivor au _7x17(1) The gifted series _2x4(1) Oxygen _1x3(1) Love in time _1x2(1) Ingredients _1x14(1) Wtfock _4x4(1) Koh-lanta _25x5(1) Drag race holland _1x2(1) Im tee me too _1x2(1) My gear and your gown _1x3(2) Unbag _1x4(1) Love by chance _2x5(1) Baby _3x2(1) Bright win inbox _1x5(1) Hes coming to me _1x3(1) Dwts _29x2(1) My dear loser edge of 17 _1x2(1) 
 
 #### sem 28-09-2020 -> 
-Druck _5x2(1) Skam espana _4x5(1) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) The gifted series _2x5(1) Oxygen _1x4(1)  Gameboys _1x5(4) The masked singer vv _1x3(2) Drag race holland _1x3(1) Wtfock _4x5(1) Koh-lanta _25x6(1) Im tee me too _1x3(1) Unbag _1x5(1) I can see your voice _1x2(1) The masked singer _4x2(1) Love by chance _2x6(1) Dwts _29x3(1) My gear and your gown _1x4(1) 
+Druck _5x2(1) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) The gifted series _2x5(1) Oxygen _1x4(1)  Gameboys _1x5(4) The masked singer vv _1x3(2) Drag race holland _1x3(1) Wtfock _4x5(1) Koh-lanta _25x6(1) Im tee me too _1x3(1) Unbag _1x5(1) I can see your voice _1x2(1) The masked singer _4x2(1) Love by chance _2x6(1) Dwts _29x3(1) My gear and your gown _1x4(1) 
 
 #### sem 05-10-2020 -> 
-I can see your voice _1x3(1) Skam espana _4x6(1) Friend forever _1x3(2) The gifted series _2x6(1) Oxygen _1x5(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Im tee me too _1x4(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Wtfock _4x6(1) The masked singer vv _1x4(1) Koh-lanta _25x7(1) The masked singer _4x3(1) Love by chance _2x7(1) My day _1x2(1) Dwts _29x4(1) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
+I can see your voice _1x3(1) Friend forever _1x3(2) The gifted series _2x6(1) Oxygen _1x5(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Im tee me too _1x4(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Wtfock _4x6(1) The masked singer vv _1x4(1) Koh-lanta _25x7(1) The masked singer _4x3(1) Love by chance _2x7(1) My day _1x2(1) Dwts _29x4(1) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
 
 #### sem 12-10-2020 -> 
 Boyband love _1x3(1) Grandsons the reality project _1x2(1) The gifted series _2x7(1) Oxygen _1x6(1) Love by chance _2x8(1) Wtfock _4x7(1) We are not human _1x12(3) Im tee me too _1x5(1) The voice germany _10x2(1) The masked singer vv _1x5(1) Koh-lanta _25x8(1) Gaya sa pelikula _1x4(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) Zombie detective _1x2(1) Dwts _29x5(1) My gear and your gown _1x6(1) 
@@ -164,10 +164,10 @@ Cheerleaders new jersey _1x13(12) Ingredients _1x10(10) Long khong _1x4(3) Alta 
 Survivor au _1x2(1) Nailed it holiday _2x3(1) Koh-lanta _25x2(1) Unbag _1x2(1) Aggretsuko _3x3(2) Bright win inbox _1x4(3) So much in love _1x3(2) Blacklist series _1x2(1) Ingredients _1x12(2) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) Survivor au _7x16(2) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Calculating love _1x3(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Taking the stands _1x5(2) Lucifer _4x4(1) 
 
 #### mois 01-10-2020 -> 
-Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) Gameboys _1x6(5) Bright win inbox _1x6(2) My gear and your gown _1x5(4) Druck _5x2(1) Skam espana _4x5(4) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) The gifted series _2x5(4) Oxygen _1x4(3) The masked singer vv _1x3(2) Drag race holland _1x3(2) Wtfock _4x5(4) Koh-lanta _25x6(4) Im tee me too _1x3(2) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) Cheerleaders new jersey _1x14(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
+Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) Gameboys _1x6(5) Bright win inbox _1x6(2) My gear and your gown _1x5(4) Druck _5x2(1) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) The gifted series _2x5(4) Oxygen _1x4(3) The masked singer vv _1x3(2) Drag race holland _1x3(2) Wtfock _4x5(4) Koh-lanta _25x6(4) Im tee me too _1x3(2) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) Cheerleaders new jersey _1x14(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
 
 #### mois 01-11-2020 -> 
-Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Skam espana _4x7(2) Strictly come dancing _18x4(3) The masked singer fr _2x4(3) Craving you _1x7(6) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) The masked singer vv _1x8(5) Koh-lanta _25x11(5) Im tee me too _1x8(5) Gaya sa pelikula _1x7(5) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Skinship _1x2(1) Friend forever _1x4(2) The masked singer de _3x3(2) The voice us _19x5(4) Incroyable talent _15x3(2) Bright win inbox _1x8(2) Safe haven _1x11(5) Love by chance _2x10(3) Dwts _29x8(4) Joséphine ange gardien _23x4(3) My gear and your gown _1x9(4) Boys lockdown _1x3(2) The gifted series _2x9(4) Gameboys _1x7(1) Calculating love _1x4(1) Offgun fun night _2x2(1) Quaranthings _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) Wtfock _4x8(3) Druck _5x5(3) Grandsons the reality project _1x3(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _18x4(3) The masked singer fr _2x4(3) Craving you _1x7(6) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) The masked singer vv _1x8(5) Koh-lanta _25x11(5) Im tee me too _1x8(5) Gaya sa pelikula _1x7(5) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Skinship _1x2(1) Friend forever _1x4(2) The masked singer de _3x3(2) The voice us _19x5(4) Incroyable talent _15x3(2) Bright win inbox _1x8(2) Safe haven _1x11(5) Love by chance _2x10(3) Dwts _29x8(4) Joséphine ange gardien _23x4(3) My gear and your gown _1x9(4) Boys lockdown _1x3(2) The gifted series _2x9(4) Gameboys _1x7(1) Calculating love _1x4(1) Offgun fun night _2x2(1) Quaranthings _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) Wtfock _4x8(3) Druck _5x5(3) Grandsons the reality project _1x3(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 
 
 
@@ -229,10 +229,10 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Skam espana _4x7(2) Stri
 > Safe haven _1 > 6; Ingredients _1 > 4; Lls _1 > 3; Druck _5 > 2; Love by chance _2 > 2; Survivor au _7 > 2; Gaya sa pelikula _1 > 1;  
 
 ### conclu 05/10/20
-> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; Skam espana _4 > 2; The gifted series _2 > 1;  
+> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; The gifted series _2 > 1;  
 
 ### conclu 06/10/20
-> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; My gear and your gown _1 > 2; Survivor au _7 > 2; Skam espana _4 > 1;  
+> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; My gear and your gown _1 > 2; Survivor au _7 > 2;   
 
 ### conclu 07/10/20
 > Ingredients _1 > 4; Lls _1 > 3; Friend forever _1 > 2; Safe haven _1 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1;   
@@ -321,10 +321,10 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Skam espana _4x7(2) Stri
 > Survivor au _7 > 9; Ingredients _1 > 7; Gameboys _1 > 5; Lls _1 > 5; Koh-lanta _25 > 3; The masked singer vv _1 > 3; Love by chance _2 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
 ### concluBis 28/09/20 
-> Safe haven _1 > 10; Survivor au _7 > 9; Lls _1 > 5; Gameboys _1 > 4; Ingredients _1 > 3; Love by chance _2 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1; 
+> Safe haven _1 > 10; Survivor au _7 > 9; Lls _1 > 5; Gameboys _1 > 4; Ingredients _1 > 3; Love by chance _2 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
 ### concluBis 29/09/20 
-> Survivor au _7 > 9; Safe haven _1 > 9; Ingredients _1 > 7; Lls _1 > 5; Gameboys _1 > 4; Love by chance _2 > 3; My gear and your gown _1 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1; 
+> Survivor au _7 > 9; Safe haven _1 > 9; Ingredients _1 > 7; Lls _1 > 5; Gameboys _1 > 4; Love by chance _2 > 3; My gear and your gown _1 > 2; The masked singer vv _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
 
 ### concluBis 30/09/20 
 > Gameboys _1 > 10; Survivor au _7 > 9; Safe haven _1 > 7; Lls _1 > 5; Ingredients _1 > 3; Love by chance _2 > 2; Dwts _29 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1; 
@@ -342,22 +342,22 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Skam espana _4x7(2) Stri
 > Safe haven _1 > 12; Ingredients _1 > 8; Lls _1 > 5; Love by chance _2 > 4; Druck _5 > 4; Survivor au _7 > 4; Gaya sa pelikula _1 > 3; Koh-lanta _25 > 2; Wtfock _4 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1;  
 
 ### concluBis 05/10/20
-> Ingredients _1 > 8; Safe haven _1 > 7; Friend forever _1 > 5; Lls _1 > 5; Skam espana _4 > 4; Survivor au _7 > 4; The gifted series _2 > 3; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1;  
+> Ingredients _1 > 8; Safe haven _1 > 7; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; The gifted series _2 > 3; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 06/10/20
-> Ingredients _1 > 8; Safe haven _1 > 7; My gear and your gown _1 > 6; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Skam espana _4 > 3; The gifted series _2 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1;  
+> Ingredients _1 > 8; Safe haven _1 > 7; My gear and your gown _1 > 6; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; The gifted series _2 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 07/10/20
-> Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Friend forever _1 > 4; Survivor au _7 > 4; My gear and your gown _1 > 3; Dwts _29 > 3; Skam espana _4 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Kaamelott _5 > 1;  
+> Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Friend forever _1 > 4; Survivor au _7 > 4; My gear and your gown _1 > 3; Dwts _29 > 3; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 08/10/20
-> Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Skam espana _4 > 2; Capture lover _1 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Dwts _29 > 1; Zombie detective _1 > 1; Kaamelott _5 > 1;  
+> Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Capture lover _1 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; Dwts _29 > 1; Zombie detective _1 > 1; Kaamelott _5 > 1;  
 
 ### concluBis 09/10/20
-> Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Unbag _1 > 3; Friend zone _1 > 3; Skam espana _4 > 2; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; The masked singer _4 > 1; Kaamelott _5 > 1; 
+> Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; My gear and your gown _1 > 3; Unbag _1 > 3; Friend zone _1 > 3; Cheerleaders new jersey _1 > 2; Koh-lanta _25 > 1; The masked singer _4 > 1; Kaamelott _5 > 1; 
 
 ### concluBis 10/10/20
-> We are not human _1 > 9; Koh-lanta _25 > 5; Lls _1 > 5; Love by chance _2 > 4; Wtfock _4 > 4; Survivor au _7 > 4; Ingredients _1 > 3; My gear and your gown _1 > 2; Cheerleaders new jersey _1 > 2; Skam espana _4 > 1; Kaamelott _5 > 1;
+> We are not human _1 > 9; Koh-lanta _25 > 5; Lls _1 > 5; Love by chance _2 > 4; Wtfock _4 > 4; Survivor au _7 > 4; Ingredients _1 > 3; My gear and your gown _1 > 2; Cheerleaders new jersey _1 > 2; Kaamelott _5 > 1;
 
 ### concluBis 11/10/20 
 > Ingredients _1 > 8; We are not human _1 > 8; Oxygen _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Koh-lanta _25 > 3; Wtfock _4 > 3; Love by chance _2 > 2; Cheerleaders new jersey _1 > 2; My gear and your gown _1 > 1; Kaamelott _5 > 1;
