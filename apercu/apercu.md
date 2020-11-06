@@ -303,34 +303,34 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 > Safe haven _1 > 4; Craving you _1 > 3; Lls _1 > 3; Love by chance _2 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; We are not human _1 > 2; Dwts _29 > 1; Ingredients _1 > 1; 
 
 ### conclu 28/10/20
-Craving you _1 > 3; Lls _1 > 3; Safe haven _1 > 3; The voice germany _10 > 2; The voice us _19 > 2; Love by chance _2 > 1; The masked singer de _3 > 1; We are not human _1 > 1; 
+> Craving you _1 > 3; Lls _1 > 3; Safe haven _1 > 3; The voice germany _10 > 2; The voice us _19 > 2; Love by chance _2 > 1; The masked singer de _3 > 1; We are not human _1 > 1; 
 
 ### conclu 29/10/20 
-I can see your voice _1 > 3; Lls _1 > 3; Safe haven _1 > 3; Pogi lang hanap _1 > 2; The voice germany _10 > 2; Love by chance _2 > 1; The masked singer de _3 > 1; We are not human _1 > 1; 
+> I can see your voice _1 > 3; Lls _1 > 3; Safe haven _1 > 3; Pogi lang hanap _1 > 2; The voice germany _10 > 2; Love by chance _2 > 1; The masked singer de _3 > 1; We are not human _1 > 1; 
 
 ### conclu 30/10/20 
-Craving you _1 > 4; Lls _1 > 3; I can see your voice _1 > 2; Safe haven _1 > 2; The voice germany _10 > 2; Love by chance _2 > 1; Pogi lang hanap _1 > 1; We are not human _1 > 1; 
+> Craving you _1 > 4; Lls _1 > 3; I can see your voice _1 > 2; Safe haven _1 > 2; The voice germany _10 > 2; Love by chance _2 > 1; Pogi lang hanap _1 > 1; We are not human _1 > 1; 
 
 ### conclu 31/10/20 
-The voice germany _10 > 5; Lls _1 > 3; Craving you _1 > 2; Koh-lanta _25 > 2; I can see your voice _1 > 1; Safe haven _1 > 1; We are not human _1 > 1; 
+> The voice germany _10 > 5; Lls _1 > 3; Craving you _1 > 2; Koh-lanta _25 > 2; I can see your voice _1 > 1; Safe haven _1 > 1; We are not human _1 > 1; 
 
 ### conclu 01/11/20 
-Craving you _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Ingredients _1 > 2; I can see your voice _1 > 1; Koh-lanta _25 > 1; We are not human _1 > 1; 
+> Craving you _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Ingredients _1 > 2; I can see your voice _1 > 1; Koh-lanta _25 > 1; We are not human _1 > 1; 
 
 ### conclu 02/11/20
-Craving you _1 > 4; Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; Safe haven _1 > 1; The gifted series _2 > 1; 
+> Craving you _1 > 4; Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; Safe haven _1 > 1; The gifted series _2 > 1; 
 
 ### conclu 03/11/20
-Craving you _1 > 4; Ingredients _1 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; I can see your voice _1 > 1; My gear and your gown _1 > 1; Safe haven _1 > 1; 
+> Craving you _1 > 4; Ingredients _1 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; I can see your voice _1 > 1; My gear and your gown _1 > 1; Safe haven _1 > 1; 
 
 ### conclu 04/11/20
-Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; Craving you _1 > 2; Druck _5 > 2; We are not human _1 > 2; Love by chance _2 > 1; 
+> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; Craving you _1 > 2; Druck _5 > 2; We are not human _1 > 2; Love by chance _2 > 1; 
 
 ### conclu 05/11/20 
-Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; Craving you _1 > 2; Druck _5 > 2; We are not human _1 > 2; Love by chance _2 > 1; 
+> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; Craving you _1 > 2; Druck _5 > 2; We are not human _1 > 2; Love by chance _2 > 1; 
 
 ### conclu 06/11/20 
-Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; Craving you _1 > 2; Druck _5 > 2; We are not human _1 > 2; Love by chance _2 > 1; 
+> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; Craving you _1 > 2; Druck _5 > 2; We are not human _1 > 2; Love by chance _2 > 1; 
 
 
 
@@ -446,34 +446,34 @@ Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; Cr
 > Safe haven _1 > 8; The voice germany _10 > 7; Love by chance _2 > 5; My gear and your gown _1 > 5; Dwts _29 > 5; Craving you _1 > 5; Lls _1 > 5; Koh-lanta _25 > 4; The voice us _19 > 4; We are not human _1 > 4; Ingredients _1 > 3; The gifted series _2 > 2; Survivor au _7 > 2; 
 
 ### concluBis 28/10/20
-Safe haven _1 > 7; Craving you _1 > 5; Lls _1 > 5; The voice germany _10 > 4; The voice us _19 > 4; Love by chance _2 > 3; The masked singer de _3 > 3; We are not human _1 > 3; Koh-lanta _25 > 2; My gear and your gown _1 > 2; Dwts _29 > 2; Incroyable talent _15 > 2; Ingredients _1 > 2; Survivor au _7 > 1; 
+> Safe haven _1 > 7; Craving you _1 > 5; Lls _1 > 5; The voice germany _10 > 4; The voice us _19 > 4; Love by chance _2 > 3; The masked singer de _3 > 3; We are not human _1 > 3; Koh-lanta _25 > 2; My gear and your gown _1 > 2; Dwts _29 > 2; Incroyable talent _15 > 2; Ingredients _1 > 2; Survivor au _7 > 1; 
 
 ### concluBis 29/10/20
-Safe haven _1 > 7; I can see your voice _1 > 5; Lls _1 > 5; The voice germany _10 > 4; Pogi lang hanap _1 > 4; Love by chance _2 > 3; The masked singer de _3 > 3; We are not human _1 > 3; Koh-lanta _25 > 2; Dwts _29 > 2; The voice us _19 > 2; Ingredients _1 > 2; My gear and your gown _1 > 1; The masked singer _4 > 1; Survivor au _7 > 1; 
+> Safe haven _1 > 7; I can see your voice _1 > 5; Lls _1 > 5; The voice germany _10 > 4; Pogi lang hanap _1 > 4; Love by chance _2 > 3; The masked singer de _3 > 3; We are not human _1 > 3; Koh-lanta _25 > 2; Dwts _29 > 2; The voice us _19 > 2; Ingredients _1 > 2; My gear and your gown _1 > 1; The masked singer _4 > 1; Survivor au _7 > 1; 
 
 ### concluBis 30/10/20
-Craving you _1 > 8; Safe haven _1 > 6; Lls _1 > 5; The voice germany _10 > 4; I can see your voice _1 > 4; Love by chance _2 > 3; Pogi lang hanap _1 > 3; We are not human _1 > 3; Koh-lanta _25 > 2; The masked singer de _3 > 2; Ingredients _1 > 2; My gear and your gown _1 > 1; The masked singer _4 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
+> Craving you _1 > 8; Safe haven _1 > 6; Lls _1 > 5; The voice germany _10 > 4; I can see your voice _1 > 4; Love by chance _2 > 3; Pogi lang hanap _1 > 3; We are not human _1 > 3; Koh-lanta _25 > 2; The masked singer de _3 > 2; Ingredients _1 > 2; My gear and your gown _1 > 1; The masked singer _4 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
 
 ### concluBis 31/10/20
-The voice germany _10 > 9; Koh-lanta _25 > 6; Lls _1 > 5; Craving you _1 > 4; Safe haven _1 > 3; I can see your voice _1 > 3; We are not human _1 > 3; Love by chance _2 > 2; The masked singer de _3 > 2; Ingredients _1 > 2; My gear and your gown _1 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
+> The voice germany _10 > 9; Koh-lanta _25 > 6; Lls _1 > 5; Craving you _1 > 4; Safe haven _1 > 3; I can see your voice _1 > 3; We are not human _1 > 3; Love by chance _2 > 2; The masked singer de _3 > 2; Ingredients _1 > 2; My gear and your gown _1 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
 
 ### concluBis 01/11/20
-The voice germany _10 > 8; Craving you _1 > 8; Ingredients _1 > 6; Lls _1 > 5; Koh-lanta _25 > 3; I can see your voice _1 > 3; We are not human _1 > 3; Safe haven _1 > 2; Oxygen _1 > 2; The masked singer de _3 > 2; Love by chance _2 > 1; Boyband love _1 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
+> The voice germany _10 > 8; Craving you _1 > 8; Ingredients _1 > 6; Lls _1 > 5; Koh-lanta _25 > 3; I can see your voice _1 > 3; We are not human _1 > 3; Safe haven _1 > 2; Oxygen _1 > 2; The masked singer de _3 > 2; Love by chance _2 > 1; Boyband love _1 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
 
 ### concluBis 02/11/20
-Ingredients _1 > 8; The voice germany _10 > 8; Craving you _1 > 8; The gifted series _2 > 5; Strictly come dancing _18 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Safe haven _1 > 3; Oxygen _1 > 2; I can see your voice _1 > 2; Survivor au _7 > 2; Love by chance _2 > 1; Boyband love _1 > 1; The masked singer de _3 > 1; Cheerleaders new jersey _1 > 1; 
+> Ingredients _1 > 8; The voice germany _10 > 8; Craving you _1 > 8; The gifted series _2 > 5; Strictly come dancing _18 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Safe haven _1 > 3; Oxygen _1 > 2; I can see your voice _1 > 2; Survivor au _7 > 2; Love by chance _2 > 1; Boyband love _1 > 1; The masked singer de _3 > 1; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 03/11/20
-Ingredients _1 > 8; Craving you _1 > 8; Strictly come dancing _18 > 6; My gear and your gown _1 > 5; The voice germany _10 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Safe haven _1 > 3; The gifted series _2 > 3; I can see your voice _1 > 3; The masked singer de _3 > 2; Survivor au _7 > 2; Grandsons the reality project _1 > 1; Cheerleaders new jersey _1 > 1; 
+> Ingredients _1 > 8; Craving you _1 > 8; Strictly come dancing _18 > 6; My gear and your gown _1 > 5; The voice germany _10 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Safe haven _1 > 3; The gifted series _2 > 3; I can see your voice _1 > 3; The masked singer de _3 > 2; Survivor au _7 > 2; Grandsons the reality project _1 > 1; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 04/11/20
-Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Craving you _1 > 5; Lls _1 > 5; Druck _5 > 4; We are not human _1 > 4; Love by chance _2 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; Dwts _29 > 1; Cheerleaders new jersey _1 > 1; 
+> Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Craving you _1 > 5; Lls _1 > 5; Druck _5 > 4; We are not human _1 > 4; Love by chance _2 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; Dwts _29 > 1; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 05/11/20
-Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Craving you _1 > 5; Lls _1 > 5; Druck _5 > 4; We are not human _1 > 4; Love by chance _2 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; Dwts _29 > 1; Cheerleaders new jersey _1 > 1; 
+> Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Craving you _1 > 5; Lls _1 > 5; Druck _5 > 4; We are not human _1 > 4; Love by chance _2 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; Dwts _29 > 1; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 06/11/20
-Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Lls _1 > 5; Craving you _1 > 4; Druck _5 > 4; We are not human _1 > 4; Love by chance _2 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; The masked singer _4 > 1; Young sheldon _4 > 1; Cheerleaders new jersey _1 > 1; 
+> Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Lls _1 > 5; Craving you _1 > 4; Druck _5 > 4; We are not human _1 > 4; Love by chance _2 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; The masked singer _4 > 1; Young sheldon _4 > 1; Cheerleaders new jersey _1 > 1; 
 
 
 
