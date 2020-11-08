@@ -175,7 +175,6 @@ Sam & cat 1x20
 Teotfw 2x3
 * Teotfw 2x1
 The l word 1x4
-* The good doctor 3x1
 Two pints of lager 3x2
 Malcolm 2x14
 * We are not human 1x1
