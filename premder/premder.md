@@ -1,12 +1,8 @@
 ### tisaep all
 
 Love by chance 2x7
-Wtfock 4x6
-Offgun fun night 1x4
 We are not human 1x11
-Im tee me too 1x4
 * The voice germany 10x1
-The masked singer vv 1x4
 Koh-lanta 25x7
 Gaya sa pelikula 1x3
 * Friend zone 1x1
@@ -14,12 +10,9 @@ Unbag 1x5
 The masked singer 4x3
 * Capture lover 1x1
 * Zombie detective 1x1
-The good doctor 3x12
 Dwts 29x4
-* En of love 2x1
 My gear and your gown 1x5
 I can see your voice 1x2
-Skam espana 4x5
 Friend forever 1x2
 The gifted series 2x5
 Oxygen 1x4
@@ -27,8 +20,6 @@ Oxygen 1x4
 Ingredients 1x14
 Druck 5x2
 Safe haven 1x6
-* Yyy 2x1
-* Offgun fun night 1x1
 * Friend forever 1x1
 * My day 1x1
 Gameboys 1x5
@@ -36,7 +27,6 @@ Bright win inbox 1x5
 * Druck 5x1
 * Gaya sa pelikula 1x1
 * Safe haven 1x1
-* The masked singer vv 1x1
 Drag race holland 1x2
 * Gameboys 1x1
 * I can see your voice 1x1
@@ -44,18 +34,15 @@ Drag race holland 1x2
 Survivor au 7x16
 * Love in time 1x1
 * Drag race holland 1x1
-* Im tee me too 1x1
 * Baby 3x1
 Hes coming to me 1x2
 * Dwts 29x1
 * My dear loser edge of 17 1x1
 * My gear and your gown 1x1
-* Skam espana 4x1
 * Oxygen 1x1
 Cheerleaders new jersey 1x13
 * The voice vv 6x1
 * The gifted series 2x1
-* Wtfock 4x1
 Aggretsuko 3x3
 * Love by chance 2x1
 * Survivor au 1x1
@@ -188,7 +175,6 @@ Sam & cat 1x20
 Teotfw 2x3
 * Teotfw 2x1
 The l word 1x4
-* The good doctor 3x1
 Two pints of lager 3x2
 Malcolm 2x14
 * We are not human 1x1

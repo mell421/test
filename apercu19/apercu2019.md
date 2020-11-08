@@ -5,7 +5,6 @@
 ---
 
 ## Aperçu semaine
-
 ### sem 22-04-20 19 
 Girl meets world _1x7(2) You vs wild _1x3(1) Samokazem _1x3(1) Lls _1x64(1) 
 ### sem 29-04-20 19 
@@ -13,7 +12,6 @@ Girl meets world _1x8(1)
 ### sem 06-05-20 19 
 Skam vsg _1x4(1) 
 ### sem 13-05-20 19 
- 
 ### sem 20-05-20 19 
 Sam & cat _1x19(3) Shadowhunters _3x14(2) 
 ### sem 27-05-20 19 
@@ -63,13 +61,13 @@ The politician _1x5(1)
 ### sem 28-10-20 19 
 We are not human _1x9(8) 
 ### sem 04-11-20 19 
-The good doctor _3x2(1) Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1) 
+Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1) 
 ### sem 11-11-20 19 
-Teotfw _2x4(3) The good doctor _3x4(2) The l word _1x5(1) 
+Teotfw _2x4(3) The l word _1x5(1) 
 ### sem 18-11-20 19 
-Hsmtmts _1x2(1) The good doctor _3x6(2) Mental _1x2(1) 
+Hsmtmts _1x2(1) Mental _1x2(1) 
 ### sem 25-11-20 19 
-Hsmtmts _1x3(1) The good doctor _3x7(1) Mental _1x3(1) 
+Hsmtmts _1x3(1) Mental _1x3(1) 
 ### sem 02-12-20 19 
 Ga _2x15(1) New amsterdam _1x4(1) 
 ### sem 09-12-20 19 
@@ -99,4 +97,4 @@ Drag race thailand _2x8(1) La mas draga _1x2(1) The politician _1x3(2) Prodigal 
 ### mois 01-11-2019 
 Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) We are not human _1x9(8) The politician _1x5(2) Skam vsg _1x5(1) Prodigal son _1x3(1) Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) La mas draga _1x3(1) Dawson _1x2(1) 
 ### mois 01-12-2019 
-Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) The good doctor _3x7(6) Mental _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 
+Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) Mental _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 

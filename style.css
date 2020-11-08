@@ -23,13 +23,13 @@ td {
   	font-size: 12px;
   /* text-align: justify; */
 }
-.date { background-color: ghostwhite; }
-.conclu { background-color: ghostwhite; }
-.conclubis { background-color: ghostwhite; }
-.resumesem { background-color: ghostwhite; }
-.resumemois { background-color: ghostwhite; }
-.titre { font-weight: bold;}
-.sommaire {font-size: 15px;}
+.date { background-color:  rgb(237, 237, 250); }
+.conclu { background-color:  rgb(227, 227, 252); }
+.conclubis { background-color:  rgb(227, 227, 252); }
+.resumesem { background-color:  rgb(227, 227, 252); }
+.resumemois { background-color: rgb(227, 227, 252); }
+.titre { font-weight: bold; background-color: aquamarine;}
+.sommaire {font-size: 15px; background-color: #ffefd5;}
 .sommaire :hover {color: #bf2b2f;}
 
 /*  */
