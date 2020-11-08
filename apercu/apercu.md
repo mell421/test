@@ -121,10 +121,10 @@ Druck _5x2(1) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) The gifted series _2x5
 I can see your voice _1x3(1) Friend forever _1x3(2) The gifted series _2x6(1) Oxygen _1x5(1) Boyband love _1x2(1) Ingredients _1x15(1) Druck _5x3(1) Gaya sa pelikula _1x3(1) Safe haven _1x7(1) Koh-lanta _25x7(1) The masked singer _4x3(1) Love by chance _2x7(1) My day _1x2(1) Dwts _29x4(1) Gameboys _1x6(1) Bright win inbox _1x6(1) My gear and your gown _1x5(1)
 
 #### sem 12-10-2020 -> 
-Boyband love _1x3(1) Grandsons the reality project _1x2(1) The gifted series _2x7(1) Oxygen _1x6(1) Love by chance _2x8(1) We are not human _1x12(3) The voice germany _10x2(1) Koh-lanta _25x8(1) Gaya sa pelikula _1x4(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) Zombie detective _1x2(1) Dwts _29x5(1) My gear and your gown _1x6(1) 
+Boyband love _1x3(1) The gifted series _2x7(1) Oxygen _1x6(1) Love by chance _2x8(1) We are not human _1x12(3) The voice germany _10x2(1) Koh-lanta _25x8(1) Gaya sa pelikula _1x4(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) Zombie detective _1x2(1) Dwts _29x5(1) My gear and your gown _1x6(1) 
 
 #### sem 19-10-2020 -> 
-Ben x jim _1x2(1) The gifted series _2x8(1) Boys lockdown _1x2(1) Love in time _1x4(2) Druck _5x5(2) Strictly come dancing _18x2(1) The masked singer fr _2x2(1) Boyband love _1x4(1) Oxygen _1x7(1) Quaranthings _1x2(1) Ingredients _1x16(1) Gaya sa pelikula _1x5(1) Grandsons the reality project _1x3(1) Koh-lanta _25x9(1) We are not human _1x19(7) The masked singer _4x5(1) Love by chance _2x9(1) Safe haven _1x9(2) Dwts _29x6(1) The voice germany _10x3(1) Bright win inbox _1x7(1) My gear and your gown _1x7(1)
+Ben x jim _1x2(1) The gifted series _2x8(1) Boys lockdown _1x2(1) Love in time _1x4(2) Druck _5x5(2) Strictly come dancing _18x2(1) The masked singer fr _2x2(1) Boyband love _1x4(1) Oxygen _1x7(1) Quaranthings _1x2(1) Ingredients _1x16(1) Gaya sa pelikula _1x5(1) Koh-lanta _25x9(1) We are not human _1x19(7) The masked singer _4x5(1) Love by chance _2x9(1) Safe haven _1x9(2) Dwts _29x6(1) The voice germany _10x3(1) Bright win inbox _1x7(1) My gear and your gown _1x7(1)
 
 #### sem 26-10-2020 -> 
 Boys lockdown _1x3(1) The gifted series _2x9(1) Gameboys _1x7(1) Oxygen _1x8(1) Strictly come dancing _18x3(1) Craving you _1x5(4) The masked singer fr _2x3(1) Boyband love _1x5(1) Calculating love _1x4(1) Offgun fun night _2x2(1) The voice germany _10x6(3) Koh-lanta _25x10(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Gaya sa pelikula _1x6(1) Quaranthings _1x3(1) Incroyable talent _15x2(1) Safe haven _1x10(1) The voice us _19x3(2) Quien es la mascara _2x3(2) Dwts _29x7(1) My gear and your gown _1x8(1) Joséphine ange gardien _23x3(2) 
@@ -172,7 +172,7 @@ Survivor au _1x2(1) Nailed it holiday _2x3(1) Koh-lanta _25x2(1) Unbag _1x2(1) A
 Friend forever _1x2(1) Love by chance _2x7(6) My day _1x2(1) Dwts _29x4(3) Gameboys _1x6(5) Bright win inbox _1x6(2) My gear and your gown _1x5(4) Druck _5x2(1) Safe haven _1x6(5) Gaya sa pelikula _1x2(1) The gifted series _2x5(4) Oxygen _1x4(3) Drag race holland _1x3(2) Koh-lanta _25x6(4) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) Cheerleaders new jersey _1x14(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
 
 #### mois 01-11-2020 -> 
-Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _18x4(3) The masked singer fr _2x4(3) Craving you _1x7(6) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Koh-lanta _25x11(5) Gaya sa pelikula _1x7(5) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Skinship _1x2(1) Friend forever _1x4(2) The masked singer de _3x3(2) The voice us _19x5(4) Incroyable talent _15x3(2) Bright win inbox _1x8(2) Safe haven _1x11(5) Love by chance _2x10(3) Dwts _29x8(4) Joséphine ange gardien _23x4(3) My gear and your gown _1x9(4) Boys lockdown _1x3(2) The gifted series _2x9(4) Gameboys _1x7(1) Calculating love _1x4(1) Offgun fun night _2x2(1) Quaranthings _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) Druck _5x5(3) Grandsons the reality project _1x3(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _18x4(3) The masked singer fr _2x4(3) Craving you _1x7(6) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Koh-lanta _25x11(5) Gaya sa pelikula _1x7(5) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Skinship _1x2(1) Friend forever _1x4(2) The masked singer de _3x3(2) The voice us _19x5(4) Incroyable talent _15x3(2) Bright win inbox _1x8(2) Safe haven _1x11(5) Love by chance _2x10(3) Dwts _29x8(4) Joséphine ange gardien _23x4(3) My gear and your gown _1x9(4) Boys lockdown _1x3(2) The gifted series _2x9(4) Gameboys _1x7(1) Calculating love _1x4(1) Offgun fun night _2x2(1) Quaranthings _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) Druck _5x5(3) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 
 
 
@@ -270,7 +270,7 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 > We are not human _1 > 11; Lls _1 > 3; Safe haven _1 > 2; Love by chance _2 > 1; Survivor au _7 > 1; 
 
 ### conclu 17/10/20 
-> We are not human _1 > 11; Lls _1 > 3; Safe haven _1 > 3; Grandsons the reality project _1 > 2; Koh-lanta _25 > 1; Survivor au _7 > 1; 
+> We are not human _1 > 11; Lls _1 > 3; Safe haven _1 > 3; Koh-lanta _25 > 1; Survivor au _7 > 1; 
 
 ### conclu 18/10/20
 > We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Druck _5 > 2; Safe haven _1 > 2; Boyband love _1 > 1;
@@ -413,10 +413,10 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 > We are not human _1 > 19; Safe haven _1 > 7; Love by chance _2 > 6; Lls _1 > 5; Survivor au _7 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; 
 
 ### concluBis 17/10/20 
-> We are not human _1 > 19; Safe haven _1 > 8; Lls _1 > 5; Koh-lanta _25 > 4; Grandsons the reality project _1 > 4; Survivor au _7 > 3; Love by chance _2 > 2; Ingredients _1 > 2; 
+> We are not human _1 > 19; Safe haven _1 > 8; Lls _1 > 5; Koh-lanta _25 > 4; Survivor au _7 > 3; Love by chance _2 > 2; Ingredients _1 > 2; 
 
 ### concluBis 18/10/20
-> We are not human _1 > 19; Ingredients _1 > 7; Safe haven _1 > 5; Lls _1 > 5; Druck _5 > 4; Boyband love _1 > 3; Koh-lanta _25 > 2; Grandsons the reality project _1 > 2; Survivor au _7 > 2; Love by chance _2 > 1; Oxygen _1 > 1; 
+> We are not human _1 > 19; Ingredients _1 > 7; Safe haven _1 > 5; Lls _1 > 5; Druck _5 > 4; Boyband love _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; Love by chance _2 > 1; Oxygen _1 > 1; 
 
 ### concluBis 19/10/20
 > We are not human _1 > 19; Ingredients _1 > 7; Safe haven _1 > 5; Lls _1 > 5; Love in time _1 > 3; Koh-lanta _25 > 2; Druck _5 > 2; Survivor au _7 > 2; Love by chance _2 > 1; The gifted series _2 > 1; 
@@ -464,7 +464,7 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 > Ingredients _1 > 8; The voice germany _10 > 8; Craving you _1 > 8; The gifted series _2 > 5; Strictly come dancing _18 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Safe haven _1 > 3; Oxygen _1 > 2; I can see your voice _1 > 2; Survivor au _7 > 2; Love by chance _2 > 1; Boyband love _1 > 1; The masked singer de _3 > 1; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 03/11/20
-> Ingredients _1 > 8; Craving you _1 > 8; Strictly come dancing _18 > 6; My gear and your gown _1 > 5; The voice germany _10 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Safe haven _1 > 3; The gifted series _2 > 3; I can see your voice _1 > 3; The masked singer de _3 > 2; Survivor au _7 > 2; Grandsons the reality project _1 > 1; Cheerleaders new jersey _1 > 1; 
+> Ingredients _1 > 8; Craving you _1 > 8; Strictly come dancing _18 > 6; My gear and your gown _1 > 5; The voice germany _10 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Safe haven _1 > 3; The gifted series _2 > 3; I can see your voice _1 > 3; The masked singer de _3 > 2; Survivor au _7 > 2; Cheerleaders new jersey _1 > 1; 
 
 ### concluBis 04/11/20
 > Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Craving you _1 > 5; Lls _1 > 5; Druck _5 > 4; We are not human _1 > 4; Love by chance _2 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; Dwts _29 > 1; Cheerleaders new jersey _1 > 1; 
