@@ -14,7 +14,7 @@
   <a href="tab.html">tableau 2020</a><br>
   <a href="tab2021.html">tableau 2021</a><br>
 
-  <a href="apercu21/apercu21.html">suivi 2020</a> 
+  <a href="apercu21/apercu21.html">suivi 2021</a> 
   <a href="apercu21/apercu21.pdf" target="_blank">pdf</a> 
   <a href="apercu21/apercu21.md" target="_blank">md</a><br>
 
@@ -34,8 +34,20 @@
 </p>
 <br>
 <p> --- </p>
+
+<script>
+  var theContent = $('#trier');
+ $('#save').on('click', function(){
+   var editedContent   = theContent.html();
+   localStorage.newContent = editedContent;
+   if(localStorage.getItem('newContent')) {
+  theContent.html(localStorage.getItem('newContent'));
+}
+ });
+</script>
+<button id="save">Save Changes</button>
 <br>
-<table class="trier" contenteditable="false">
+<table class="trier" contenteditable="true">
   <tr class="title">
     <td id="date">date <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
     <td id="conclu">conclu <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
