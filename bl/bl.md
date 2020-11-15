@@ -1,4 +1,6 @@
 # titre
+## sommaire
+<bl.md>
 
 ## terminé
 * tharnType
