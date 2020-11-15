@@ -1,7 +1,5 @@
-# titre
-
 [retour](./../index.html)
-
+# titre
 
 ## terminé
 * tharnType
@@ -83,66 +81,7 @@
 * thonhon chonlathee
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[retour](./../index.html)
 
 
 
