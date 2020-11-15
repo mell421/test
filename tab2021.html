@@ -1,0 +1,664 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>suivi 2020</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+  <script src="jquery.js"></script> 
+</head>
+<body>
+<p>
+<h2 class="sommaire">sommaire</h2>
+<p class="sommaire">
+  <a href="index.html">accueil</a><br>
+  <a href="tab.html">tableau 2020</a><br>
+  <a href="tab2021.html">tableau 2021</a><br>
+  <a href="tabMonth.html">tableau mois</a><br><br><br>
+
+  <a href="bl/bl.html">BL</a> 
+  <a href="bl/bl.pdf" target="_blank">pdf</a> 
+  <a href="bl/bl.md" target="_blank">md</a><br>
+
+  <a href="apercu21/apercu21.html">suivi 2021</a> 
+  <a href="apercu21/apercu21.pdf" target="_blank">pdf</a> 
+  <a href="apercu21/apercu21.md" target="_blank">md</a><br>
+
+  <a href="apercu/apercu.html">suivi 2020</a> 
+  <a href="apercu/apercu.pdf" target="_blank">pdf</a> 
+  <a href="apercu/apercu.md" target="_blank">md</a><br>
+
+  <a href="apercu19/apercu2019.html">suivi 2019</a> 
+  <a href="apercu19/apercu2019.pdf" target="_blank">pdf</a> 
+  <a href="apercu19/apercu2019.md" target="_blank">md</a><br>
+
+  <a href="apercuTer/apercuTer.html">suivi terminé</a> 
+  <a href="apercuTer/apercuTer.pdf" target="_blank">pdf</a> 
+  <a href="apercuTer/apercuTer.md" target="_blank">md</a>
+
+</p>
+</p>
+<p> --- </p>
+
+<br>
+<table class="trier" contenteditable="false">
+  <tr class="title">
+    <td id="date">date <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
+    <td id="conclu">conclu <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
+    <td id="conclubis">conclusem <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
+    <td id="resumesem">resumesem <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
+    <td id="resumemois">resumemois <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date">01/01</td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date">02/01</td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date">03/01</td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date">04/01</td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date">05/01</td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date">06/01</td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date">07/01</td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date">08/01</td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- lundi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class="resumesem"></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mardi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- mercr -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- jeudi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- vendredi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- samedi -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+  <tr><!-- dimanche -->
+    <td class="date"></td>
+    <td class="conclu"></td>
+    <td class="conclubis"></td>
+    <td class=""></td>
+    <td class="resumemois"></td>
+  </tr>
+</table>
+  
+</body>
+</html>
