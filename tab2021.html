@@ -5,6 +5,7 @@
   <title>suivi 2020</title>
   <link rel="stylesheet" href="style.css">
   <script src="script.js"></script>
+  <script src="jquery.js"></script> 
 </head>
 <body>
 <p>
@@ -33,22 +34,10 @@
 
 </p>
 </p>
-<br>
 <p> --- </p>
 
-<script>
-  var theContent = $('#trier');
- $('#save').on('click', function(){
-   var editedContent   = theContent.html();
-   localStorage.newContent = editedContent;
-   if(localStorage.getItem('newContent')) {
-  theContent.html(localStorage.getItem('newContent'));
-}
- });
-</script>
-<button id="save">Save Changes</button>
 <br>
-<table class="trier" contenteditable="true">
+<table class="trier" contenteditable="false">
   <tr class="title">
     <td id="date">date <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
     <td id="conclu">conclu <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
