@@ -38,6 +38,7 @@
 * night of love
 * i'm tee me too
 * grandsons the reality project
+* craving you
 
 ## en cours / a jour
 * we are not human
@@ -67,7 +68,6 @@
 * quaranthings
 * boys lockdown
 * ben x jim
-* craving you
 * swap test
 * pogi lang hanap
 * offgun fun night 2
