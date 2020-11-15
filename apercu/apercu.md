@@ -341,15 +341,15 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 ### concluBis 06/11/20
 > Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Lls _1 > 5; Druck _5 > 4; We are not human _1 > 4; Love by chance _2 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; The masked singer _4 > 1; Young sheldon _4 > 1; Cheerleaders new jersey _1 > 1; 
 ### concluBis 07/11/20 
-The voice germany _10 > 9; Ingredients _1 > 8; Druck _5 > 8; Koh-lanta _25 > 6; Lls _1 > 5; Quaranthings _1 > 4; We are not human _1 > 4; Safe haven _1 > 3; Love by chance _2 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; Gaya sa pelikula _1 > 1; TharnType _2 > 1; Cheerleaders new jersey _1 > 1; 
+> The voice germany _10 > 9; Ingredients _1 > 8; Druck _5 > 8; Koh-lanta _25 > 6; Lls _1 > 5; Quaranthings _1 > 4; We are not human _1 > 4; Safe haven _1 > 3; Love by chance _2 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; Gaya sa pelikula _1 > 1; TharnType _2 > 1; Cheerleaders new jersey _1 > 1; 
 ### concluBis 08/11/20 
-Love by chance _2 > 9; Strictly come dancing _18 > 8; The voice germany _10 > 6; Druck _5 > 6; Lls _1 > 5; Oxygen _1 > 4; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Quaranthings _1 > 2; Survivor au _7 > 2; Cheerleaders new jersey _1 > 1; 
+> Love by chance _2 > 9; Strictly come dancing _18 > 8; The voice germany _10 > 6; Druck _5 > 6; Lls _1 > 5; Oxygen _1 > 4; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Quaranthings _1 > 2; Survivor au _7 > 2; Cheerleaders new jersey _1 > 1; 
 ### concluBis 09/11/20 
-Strictly come dancing _18 > 8; Love by chance _2 > 7; The voice germany _10 > 6; Druck _5 > 6; Lls _1 > 5; The gifted series _2 > 4; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Oxygen _1 > 2; Quaranthings _1 > 2; Survivor au _7 > 2; Cheerleaders new jersey _1 > 1; 
+> Strictly come dancing _18 > 8; Love by chance _2 > 7; The voice germany _10 > 6; Druck _5 > 6; Lls _1 > 5; The gifted series _2 > 4; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Oxygen _1 > 2; Quaranthings _1 > 2; Survivor au _7 > 2; Cheerleaders new jersey _1 > 1; 
 ### concluBis 10/11/20 
-The voice germany _10 > 11; Strictly come dancing _18 > 7; Love by chance _2 > 6; Druck _5 > 5; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 3; My gear and your gown _1 > 3; Ingredients _1 > 3; Safe haven _1 > 2; The gifted series _2 > 2; Survivor au _7 > 2; Quaranthings _1 > 1; Cheerleaders new jersey _1 > 1; 
+> The voice germany _10 > 11; Strictly come dancing _18 > 7; Love by chance _2 > 6; Druck _5 > 5; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 3; My gear and your gown _1 > 3; Ingredients _1 > 3; Safe haven _1 > 2; The gifted series _2 > 2; Survivor au _7 > 2; Quaranthings _1 > 1; Cheerleaders new jersey _1 > 1; 
 ### concluBis 11/11/20 
-The voice germany _10 > 11; Safe haven _1 > 9; Strictly come dancing _18 > 6; Lls _1 > 5; We are not human _1 > 4; Love by chance _2 > 3; The voice us _19 > 3; Quaranthings _1 > 3; Ingredients _1 > 3; Koh-lanta _25 > 2; Better days _1 > 2; Survivor au _7 > 2; Dwts _29 > 1; Cheerleaders new jersey _1 > 1; 
+> The voice germany _10 > 11; Safe haven _1 > 9; Strictly come dancing _18 > 6; Lls _1 > 5; We are not human _1 > 4; Love by chance _2 > 3; The voice us _19 > 3; Quaranthings _1 > 3; Ingredients _1 > 3; Koh-lanta _25 > 2; Better days _1 > 2; Survivor au _7 > 2; Dwts _29 > 1; Cheerleaders new jersey _1 > 1; 
 
 
 
