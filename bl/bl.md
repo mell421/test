@@ -40,6 +40,7 @@
 * i'm tee me too
 * grandsons the reality project
 * craving you
+* skinship
 
 ## en cours / a jour
 * we are not human
@@ -72,7 +73,6 @@
 * swap test
 * pogi lang hanap
 * offgun fun night 2
-* skinship
 * lakan
 * discipline 2
 * sea him
