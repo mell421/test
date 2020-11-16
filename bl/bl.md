@@ -40,7 +40,7 @@
 |offgun fun night|offgun fun night|10 |show|thailande|
 |en of love 3|en of love this is love|3|serie|thailande|
 |theory of love 1.5|theory of love special|1|serie|thailande|
-|love from outer space|love from outer space|1|cm|thailande|
+|love from outta space|love from outta space|1|cm|thailande|
 |destiny calls|destiny calls|1|cm|thailande|
 |the boy next door|the boy next door|15 |serie|corée|
 |night of love|night of love|1|cm|thailande|
