@@ -5,7 +5,7 @@
 ## terminé
  
 |titre|titre officiel|nb episodes |categorie|pays|
-| ---| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 |bite fight|bite fight|1|film|chine|
 |tharnType|tharnType|13 |serie|thailande|
 |why r u|why r u|13 |serie|thailande|
@@ -64,7 +64,7 @@
 ## en cours / a jour
  
 |titre|titre officiel|nb episodes |categorie|pays|nb vu|
-| ---| ---| --- | ---| --- | --- |
+| --- | --- | --- | --- | --- | --- |
 |we are not human|we are not human|24|serie|chine|18|
 |the untamed|the untamed|50|serie|chine|2|
 |long khong|long khong|8|serie|thailande|3|
@@ -113,8 +113,8 @@
  ## non commencée
  
 |titre|titre officiel|nb episodes |categorie|pays|nb vu|
-| ---| ---| --- | ---| --- | --- |
-|gen y|gen y|12|||0|
+| --- | --- | --- | --- | --- | --- |
+|gen y|gen y|12|serie|thailande|0|
 |||||||
 |||||||
 |||||||
@@ -126,12 +126,12 @@
 |titre|titre officiel|nb episodes |categorie|pays|nb vu|
 | ---| ---| --- | ---| --- | --- |
 |why r u 2|why r u 2|?|serie|thailande|0|
-|manner of death|manner of death|12|||0|
-|hemp rope|hemp rope|?|||0|
+|manner of death|manner of death|12|serie|thailande|0|
+|hemp rope|hemp rope|?|serie|thailande|0|
 |destiny|destiny|?|||0|
-|love mechanics|love mechanics|?|||0|
-|my engineer 2|my engineer 2|?|||0|
-|yyy 2|yyy 2|?|||0|
+|love mechanics|love mechanics|?|serie|thailande|0|
+|my engineer 2|my engineer 2|?|serie|thailande|0|
+|yyy 2|yyy 2|?|serie|thailande|0|
 |||||||
 |||||||
 |||||||
