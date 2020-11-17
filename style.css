@@ -1,5 +1,7 @@
 /*  */
 .sommaire {font-size: 15px; background-color: #ffefd5;}
+
+
 table {
 	/* width:100%; */
 	border-collapse: collapse;
@@ -35,7 +37,7 @@ td {
 .resumesem { background-color:  rgb(227, 227, 252); }
 .resumemois { background-color: rgb(227, 227, 252); }
 .titre { font-weight: bold; background-color: aquamarine;}
-.sommaire {font-size: 15px; background-color: #ffefd5;}
+
 .sommaire a:hover {color: #bf2b2f;}
 
 /*  */

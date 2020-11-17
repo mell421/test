@@ -3,12 +3,12 @@ document.write(`
 <p class="sommaire">
 
 
-<table class="sommaire" style="font-size: 15px; width:50%;">
+<table class="sommaire" style="font-size: 15px; width:50%;border: none;">
         <tr class="titre">
-            <td colspan="4">SOMMAIRE</td>
+            <th colspan="4">SOMMAIRE</th>
         </tr>
         <tr>
-            <td colspan="4"> - </td>
+            <th colspan="4"> - </th>
         </tr>
         <tr>
             <td><a href="index.html">accueil</a></td>
@@ -17,7 +17,7 @@ document.write(`
             <td><a href="tabMonth.html">tableau mois</a></td>
         </tr>
         <tr class="titre">
-        <td colspan="4">pages</td>
+        <th colspan="4">pages</th>
         </tr>
         <tr>
             <td><a href="bl/bl.html">BL</a></td>
@@ -47,6 +47,21 @@ document.write(`
             <td><a href="apercuTer/apercuTer.html">suivi terminé</a></td>
             <td><a href="apercuTer/apercuTer.pdf" target="_blank">pdf</a></td>
             <td><a href="apercuTer/apercuTer.md" target="_blank">md</a></td>
+            <td></td>
+        </tr>
+        <tr class="titre">
+            <th colspan="4"> APPLICATIONS </th>
+        </tr>
+        <tr>
+            <td><a href="https://ajoutreponse.glideapp.io/" target="_blank">ajout rep</a></td>
+            <td><a href="https://copyscriptajout.glideapp.io/" target="_blank">conclu resume</a></td>
+            <td><a href="" target="_blank">a venir</a></td>
+            <td><a href="" target="_blank">a venir</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
             <td></td>
         </tr>
       </table>
