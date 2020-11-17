@@ -45,7 +45,7 @@ td {
 #trier TR		{ background-color:#ffefd5 }
 #trier .title	{ background-color:#bf2b2f; FONT:14 Arial; color:#ffffff; font-weight:bold }
 SPAN { FONT:bold 12 Arial; CURSOR:pointer }
-/* BODY { background-color:#FFF5E5 } */
+BODY { background-color: whitesmoke } 
 #trier TD		{ BORDER:white 1px solid; }
 
 
