@@ -116,6 +116,9 @@
 | --- | --- | --- | --- | --- | --- |
 |gen y|gen y|12|serie|thailande|0|
 |ITSAY|ITSAY|5|serie|thailande|0|
+|cherry magic|cherry magic|12|serie|japon|0|
+|||||||
+|||||||
 |||||||
 |||||||
 |||||||
@@ -124,7 +127,7 @@
  ## a venir
  
 |titre|titre officiel|nb episodes |categorie|pays|nb vu|
-| ---| ---| --- | ---| --- | --- |
+| --- | ---| --- | --- | --- | --- |
 |why r u 2|why r u 2|?|serie|thailande|0|
 |manner of death|manner of death|12|serie|thailande|0|
 |hemp rope|hemp rope|?|serie|thailande|0|
