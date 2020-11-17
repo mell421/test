@@ -1,12 +1,14 @@
 /*  */
+.sommaire {font-size: 15px; background-color: #ffefd5;}
 table {
+	/* width:100%; */
 	border-collapse: collapse;
 	border-width: 5px;
 	border-style: solid;
 	border-color: #000;
-	margin: 5px;
+	/* margin: 5px; */
 	border-width: 5px;
-	margin: auto;
+	/* margin: auto; */
 }
 
 tr {
@@ -17,12 +19,16 @@ tr {
 }
 
 td {
+	vertical-align: top;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000;
-  	font-size: 12px;
+  	 /* font-size: 12px;  */
   /* text-align: justify; */
 }
+.debut {background-color: yellow;}
+.fin {background-color: rgb(111, 214, 111);}
+	
 .date { background-color:  rgb(237, 237, 250); }
 .conclu { background-color:  rgb(227, 227, 252); }
 .conclubis { background-color:  rgb(227, 227, 252); }
@@ -30,7 +36,7 @@ td {
 .resumemois { background-color: rgb(227, 227, 252); }
 .titre { font-weight: bold; background-color: aquamarine;}
 .sommaire {font-size: 15px; background-color: #ffefd5;}
-.sommaire :hover {color: #bf2b2f;}
+.sommaire a:hover {color: #bf2b2f;}
 
 /*  */
 #trier { background-color:white; color:black; border-collapse:collapse; BORDER:white 1px solid; FONT:12 Arial; TEXT-ALIGN:center }
