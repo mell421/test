@@ -21,32 +21,32 @@ document.write(`
         </tr>
         <tr>
             <td><a href="bl/bl.html">BL</a></td>
-            <td><a href="bl/bl.pdf" target="_blank">pdf</a></td>
-            <td><a href="bl/bl.md" target="_blank">md</a></td>
+            <td><a href="bl/bl.pdf" target="_blank">pdf</a> <a href="bl/bl.md" target="_blank">md</a></td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
             <td><a href="apercu21/apercu21.html">suivi 2021</a></td>
-            <td><a href="apercu21/apercu21.pdf" target="_blank">pdf</a></td>
-            <td><a href="apercu21/apercu21.md" target="_blank">md</a></td>
+            <td><a href="apercu21/apercu21.pdf" target="_blank">pdf</a> <a href="apercu21/apercu21.md" target="_blank">md</a></td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
             <td><a href="apercu/apercu.html">suivi 2020</a></td>
-            <td><a href="apercu/apercu.pdf" target="_blank">pdf</a></td>
-            <td><a href="apercu/apercu.md" target="_blank">md</a></td>
+            <td><a href="apercu/apercu.pdf" target="_blank">pdf</a> <a href="apercu/apercu.md" target="_blank">md</a></td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
             <td><a href="apercu19/apercu2019.html">suivi 2019</a></td>
-            <td><a href="apercu19/apercu2019.pdf" target="_blank">pdf</a></td>
-            <td><a href="apercu19/apercu2019.md" target="_blank">md</a></td>
+            <td><a href="apercu19/apercu2019.pdf" target="_blank">pdf</a> <a href="apercu19/apercu2019.md" target="_blank">md</a></td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
             <td><a href="apercuTer/apercuTer.html">suivi terminé</a></td>
-            <td><a href="apercuTer/apercuTer.pdf" target="_blank">pdf</a></td>
-            <td><a href="apercuTer/apercuTer.md" target="_blank">md</a></td>
+            <td><a href="apercuTer/apercuTer.pdf" target="_blank">pdf</a> <a href="apercuTer/apercuTer.md" target="_blank">md</a></td>
+            <td></td>
             <td></td>
         </tr>
         <tr class="titre">
