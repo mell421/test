@@ -7,40 +7,11 @@
   <script src="script.js"></script>
 </head>
 <body>
-<p>
-<h2 class="sommaire">sommaire</h2>
-<p class="sommaire">
-  <a href="index.html">accueil</a><br>
-  <a href="tab.html">tableau 2020</a><br>
-  <a href="tab2021.html">tableau 2021</a><br>
-  <a href="tabMonth.html">tableau mois</a><br><br><br>
-
-  <a href="bl/bl.html">BL</a> 
-  <a href="bl/bl.pdf" target="_blank">pdf</a> 
-  <a href="bl/bl.md" target="_blank">md</a><br>
-
-  <a href="apercu21/apercu21.html">suivi 2021</a> 
-  <a href="apercu21/apercu21.pdf" target="_blank">pdf</a> 
-  <a href="apercu21/apercu21.md" target="_blank">md</a><br>
-
-  <a href="apercu/apercu.html">suivi 2020</a> 
-  <a href="apercu/apercu.pdf" target="_blank">pdf</a> 
-  <a href="apercu/apercu.md" target="_blank">md</a><br>
-
-  <a href="apercu19/apercu2019.html">suivi 2019</a> 
-  <a href="apercu19/apercu2019.pdf" target="_blank">pdf</a> 
-  <a href="apercu19/apercu2019.md" target="_blank">md</a><br>
-
-  <a href="apercuTer/apercuTer.html">suivi terminé</a> 
-  <a href="apercuTer/apercuTer.pdf" target="_blank">pdf</a> 
-  <a href="apercuTer/apercuTer.md" target="_blank">md</a>
-
-</p>
-</p>
+  <script src="sommaire.js"></script>
 <br>
 <p> --- </p>
 <br>
-<table class="trier" contenteditable="false">
+<table class="trier" style="font-size: 12px;">
   <tr class="title">
     <td id="date">date <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
     <td id="conclu">conclu <span onclick=TableOrder(event,1)>&#9660;</span><span onclick=TableOrder(event,0)>&#9650;</span></td>
@@ -801,7 +772,7 @@
     <td class=""></td>
     <td class="resumemois">Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _18x4(3) The masked singer fr _2x4(3) 
       Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Koh-lanta _25x11(5) Gaya sa pelikula _1x7(5) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) 
-      Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Skinship _1x2(1) Friend forever _1x4(2) The masked singer de _3x3(2) 
+      Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) The masked singer de _3x3(2) 
       The voice us _19x5(4) Incroyable talent _15x3(2) Bright win inbox _1x8(2) Safe haven _1x11(5) Love by chance _2x10(3) Dwts _29x8(4) Joséphine ange gardien _23x4(3) 
       My gear and your gown _1x9(4) Boys lockdown _1x3(2) The gifted series _2x9(4) Gameboys _1x7(1) Calculating love _1x4(1) Offgun fun night _2x2(1) Quaranthings _1x3(2) 
       Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) Druck _5x5(3) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1)</td>
@@ -815,7 +786,7 @@
       Cheerleaders new jersey _1 > 1;</td>
     <td class="resumesem">The gifted series _2x10(1) Strictly come dancing _18x5(2) Oxygen _1x9(1) Boyband love _1x6(1) Better days _1x2(1) The masked singer fr _2x4(1) 
       Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Koh-lanta _25x11(1) Gaya sa pelikula _1x7(1) Swap test _1x3(1) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(1) 
-      I can see your voice _1x5(2) The masked singer _4x6(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Skinship _1x2(1) Friend forever _1x4(1) The masked singer de _3x3(2) The voice us _19x5(2) 
+      I can see your voice _1x5(2) The masked singer _4x6(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) The masked singer de _3x3(2) The voice us _19x5(2) 
       Incroyable talent _15x3(1) Bright win inbox _1x8(1) Safe haven _1x11(1) Love by chance _2x10(1) Dwts _29x8(1) Joséphine ange gardien _23x4(1) My gear and your gown _1x9(1)</td>
     <td class=""></td>
   </tr>
@@ -902,43 +873,54 @@
   </tr>
   <tr>
     <td class="date">12/11</td>
-    <td class="conclu"></td>
-    <td class="conclubis"></td>
+    <td class="conclu">Lls _1 > 3; The voice germany _10 > 2; Love by chance _2 > 1; The masked singer _4 > 1; The voice us _19 > 1; We are not human _1 > 1; </td>
+    <td class="conclubis">Lls _1 > 5; Love by chance _2 > 4; Safe haven _1 > 4; The voice germany _10 > 4; The voice us _19 > 3; The masked singer _4 > 3; 
+      We are not human _1 > 3; Bt21 universe _1 > 2; Ingredients _1 > 2; Koh-lanta _25 > 1; Strictly come dancing _18 > 1; Survivor au _7 > 1; </td>
     <td class=""></td>
     <td class=""></td>
   </tr>
   <tr>
     <td class="date">13/11</td>
-    <td class="conclu"></td>
-    <td class="conclubis"></td>
+    <td class="conclu">Bt21 universe _1 > 2; Lls _1 > 2; Love by chance _2 > 2; The voice germany _10 > 2; The voice us _19 > 1; We are not human _1 > 1; </td>
+    <td class="conclubis">Love by chance _2 > 7; The voice germany _10 > 5; The voice us _19 > 5; Bt21 universe _1 > 4; Lls _1 > 4; We are not human _1 > 3; Safe haven _1 > 2; 
+      Strictly come dancing _18 > 2; Ingredients _1 > 2; Koh-lanta _25 > 1; Survivor au _7 > 1; </td>
     <td class=""></td>
     <td class=""></td>
   </tr>
   <tr>
     <td class="date">14/11</td>
-    <td class="conclu"></td>
-    <td class="conclubis"></td>
+    <td class="conclu">The voice germany _10 > 6; Lls _1 > 3; Bt21 universe _1 > 2; Koh-lanta _25 > 2; Love by chance _2 > 2; We are not human _1 > 2; Ingredients _1 > 1; 
+      The voice us _19 > 1; </td>
+    <td class="conclubis">The voice germany _10 > 11; Love by chance _2 > 6; Koh-lanta _25 > 5; The voice us _19 > 5; Lls _1 > 5; Bt21 universe _1 > 4; We are not human _1 > 4; 
+      Strictly come dancing _18 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Cheerleaders new jersey _1 > 1; </td>
     <td class=""></td>
     <td class=""></td>
   </tr>
   <tr>
     <td class="date">15/11</td>
-    <td class="conclu"></td>
-    <td class="conclubis"></td>
+    <td class="conclu">Ingredients _1 > 5; Strictly come dancing _18 > 4; The voice germany _10 > 4; Better days _1 > 3; Lls _1 > 3; Koh-lanta _25 > 2; Love by chance _2 > 1; 
+      The voice us _19 > 1; We are not human _1 > 1; </td>
+    <td class="conclubis">Ingredients _1 > 9; The voice germany _10 > 9; Strictly come dancing _18 > 8; Koh-lanta _25 > 5; Better days _1 > 5; Lls _1 > 5; The voice us _19 > 4; 
+      Love by chance _2 > 3; We are not human _1 > 3; Safe haven _1 > 2; Oxygen _1 > 2; Bt21 universe _1 > 2; Survivor au _7 > 2; Cheerleaders new jersey _1 > 1; </td>
     <td class=""></td>
     <td class=""></td>
   </tr>
   <tr>
     <td class="date">16/11</td>
-    <td class="conclu"></td>
-    <td class="conclubis"></td>
-    <td class="resumesem"></td>
+    <td class="conclu">Ingredients _1 > 5; Strictly come dancing _18 > 5; Lls _1 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; My vampire boyfriend _1 > 2; Better days _1 > 1; 
+      Love by chance _2 > 1; The voice us _19 > 1; We are not human _1 > 1; </td>
+    <td class="conclubis">Ingredients _1 > 9; Strictly come dancing _18 > 9; The voice germany _10 > 7; Lls _1 > 5; Koh-lanta _25 > 4; My vampire boyfriend _1 > 4; Love by chance _2 > 3; 
+      The gifted series _2 > 3; The voice us _19 > 3; Better days _1 > 3; We are not human _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Quaranthings _1 > 1; Bt21 universe _1 > 1; Cheerleaders new jersey _1 > 1; </td>
+    <td class="resumesem">The gifted series _2x12(1) Quaranthings _1x6(1) Oh mando _1x2(1) Sea him _1x3(1) Strictly come dancing _18x9(2) My vampire boyfriend _1x3(2) Better days _1x4(2) 
+      Oxygen _1x11(1) Ingredients _1x18(1) The voice germany _10x12(2) Koh-lanta _25x13(1) Thonhon chonlathee _1x2(1) Young sheldon _4x3(1) The masked singer _4x8(1) Bt21 universe _1x3(2) Love by chance _2x13(1) 
+      Unbag _1x9(1) The voice us _19x8(2) Safe haven _1x13(1) Boyband love _1x7(1) Bright win inbox _1x9(1) Incroyable talent _15x5(1) Dwts _29x10(1) My gear and your gown _1x11(1) </td>
     <td class=""></td>
   </tr>
   <tr>
     <td class="date">17/11</td>
-    <td class="conclu"></td>
-    <td class="conclubis"></td>
+    <td class="conclu">The voice germany _10 > 8; Ingredients _1 > 5; Strictly come dancing _18 > 4; Lls _1 > 3; Koh-lanta _25 > 1; My vampire boyfriend _1 > 1; The voice us _19 > 1; We are not human _1 > 1; </td>
+    <td class="conclubis">The voice germany _10 > 14; Ingredients _1 > 9; Strictly come dancing _18 > 8; Lls _1 > 5; The voice us _19 > 4; Koh-lanta _25 > 3; My vampire boyfriend _1 > 3; 
+      We are not human _1 > 3; Love by chance _2 > 2; My gear and your gown _1 > 2; Better days _1 > 2; Survivor au _7 > 2; Safe haven _1 > 1; The gifted series _2 > 1; Cheerleaders new jersey _1 > 1; </td>
     <td class=""></td>
     <td class=""></td>
   </tr>
