@@ -3,7 +3,7 @@ document.write(`
 <p class="sommaire">
 
 
-<table class="sommaire" style="font-size: 15px;">
+<table class="sommaire" style="font-size: 15px; width:50%;">
         <tr class="titre">
             <td colspan="4">SOMMAIRE</td>
         </tr>
