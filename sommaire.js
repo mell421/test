@@ -14,7 +14,7 @@ document.write(`
             <td><a href="index.html">accueil</a></td>
             <td><a href="tab.html">tableau 2020</a></td>
             <td><a href="tab2021.html">tableau 2021</a></td>
-            <td><a href="tabMonth.html">tableau mois</a></td>
+            <td><a href="tabMonth.html">agenda</a></td>
         </tr>
         <tr class="titre">
         <th colspan="4">pages</th>

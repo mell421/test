@@ -120,6 +120,7 @@
 |why r u 2|why r u 2|?|serie|thailande|0|
 |manner of death|manner of death|12|serie|thailande|0|
 |von|von|1|film|thailande|0|
+|wish you|wish you|?|serie|corée|0|
 |||||||
 |||||||
 |||||||
@@ -136,7 +137,6 @@
 |my engineer 2|my engineer 2|?|serie|thailande|0|
 |yyy 2|yyy 2|?|serie|thailande|0|
 |color rush|color rush|?|serie|corée|0|
-|wish you|wish you|?|serie|corée|0|
 |to my star|to my star|?|serie|corée|0|
 |||||||
 |||||||
