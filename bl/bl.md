@@ -115,7 +115,7 @@
 |titre|titre officiel|nb episodes |categorie|pays|nb vu|
 | --- | --- | --- | --- | --- | --- |
 |gen y|gen y|12|serie|thailande|0|
-|ITSAY|ITSAY|5|serie|thailande|0|
+|i told sunset about you|i told sunset about you|5|serie|thailande|0|
 |cherry magic|cherry magic|12|serie|japon|0|
 |why r u 2|why r u 2|?|serie|thailande|0|
 |manner of death|manner of death|12|serie|thailande|0|
