@@ -127,7 +127,7 @@
  ## a venir
  
 |titre|titre officiel|nb episodes |categorie|pays|nb vu|
-| --- | ---| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 |why r u 2|why r u 2|?|serie|thailande|0|
 |manner of death|manner of death|12|serie|thailande|0|
 |hemp rope|hemp rope|?|serie|thailande|0|
@@ -135,7 +135,7 @@
 |love mechanics|love mechanics|?|serie|thailande|0|
 |my engineer 2|my engineer 2|?|serie|thailande|0|
 |yyy 2|yyy 2|?|serie|thailande|0|
-|||||||
+|color rush|color rush|?|serie|corée|0|
 |||||||
 |||||||
 |||||||
