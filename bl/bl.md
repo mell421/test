@@ -48,6 +48,7 @@
 |grandsons the reality project|grandsons the reality project|4|show|thailande|
 |craving you|craving you|10 |serie|taiwan|
 |skinship|skinship|3|serie|thailande|
+|love by chance 2|a chance to love|13|serie|thailande|
 ||||||
 ||||||
 ||||||
@@ -76,7 +77,6 @@
 |blacklist|blacklist|13|serie|thailande|1|
 |bright win inbox|bright win inbox|?|show|thailande|8|
 |unbag|unbag|?|show|thailande|?|
-|love by chance 2|a chance to love|13|serie|thailande|12|
 |the gifted 2|the gifted graduation|13|serie|thailande|11|
 |oxygen|oxygen|12|serie|thailande|10|
 |my gear and your gown|my gear and your gown|12|serie|thailande|11|

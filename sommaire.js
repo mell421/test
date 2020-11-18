@@ -20,8 +20,8 @@ document.write(`
         <tr>
             <td><a href="bl/bl.html">BL</a></td>
             <td><a href="bl/bl.pdf" target="_blank">pdf</a> <a href="bl/bl.md" target="_blank">md</a></td>
-            <td></td>
-            <td></td>
+            <td><a href="cal/cal.html">episodes en retard</a></td>
+            <td><a href="cal/cal.pdf" target="_blank">pdf</a> <a href="cal/cal.md" target="_blank">md</a></td>
         </tr>
         <tr>
             <td><a href="apercu21/apercu21.html">suivi 2021</a></td>
