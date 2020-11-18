@@ -1,8 +1,6 @@
 
 document.write(`
 <p class="sommaire">
-
-
 <table class="sommaire" style="font-size: 15px; width:50%;border: none;">
         <tr class="titre">
             <th colspan="4">SOMMAIRE</th>
@@ -53,9 +51,9 @@ document.write(`
             <th colspan="4"> APPLICATIONS </th>
         </tr>
         <tr>
-            <td><a href="https://ajoutreponse.glideapp.io/" target="_blank">ajout rep</a></td>
-            <td><a href="https://copyscriptajout.glideapp.io/" target="_blank">conclu resume</a></td>
-            <td><a href="" target="_blank">a venir</a></td>
+            <td><a href="https://ajoutreponse.glideapp.io/" target="_blank">tvtime 2.0</a></td>
+            <td><a href="https://copyscriptajout.glideapp.io/" target="_blank">analyse visio</a></td>
+            <td><a href="https://www.tvtime.com/en/user/8064728/profile" target="_blank">TVTIME</a></td>
             <td><a href="" target="_blank">a venir</a></td>
         </tr>
         <tr>
