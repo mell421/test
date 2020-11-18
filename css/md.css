@@ -1,6 +1,4 @@
 
-document.write(`
-<head><meta charset="utf-8"><title>ajout</title><style>
 @charset "UTF-8";
 
 @import 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.css';
@@ -956,6 +954,3 @@ h6{font-size:1rem;margin-bottom:-.65001rem;padding-top:.65001rem}
 @media screen and (max-width:46.1875em){.editor-header{display:none}
 .editor-header--first{display:block;width:100%}
 }
-</style></head><body id="preview">
-
-`)
