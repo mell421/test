@@ -1,7 +1,8 @@
 
 document.write(`
-<style>
+<head><meta charset="utf-8"><title>ajout</title><style>
 @charset "UTF-8";
+
 @import 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.css';
 code{color:#c7254e;background-color:#f9f2f4;border-radius:4px}
 code,kbd{padding:2px 4px}
@@ -565,6 +566,7 @@ body{max-width:1024px;margin:0 auto;overflow:auto;padding:2%}
 .preview-mode-toggle-html{background-image:url("../img/icons/eye.svg")}
 .sr-only{visibility:hidden;text-overflow:110%;overflow:hidden;top:-100px;position:absolute}
 .mnone{margin:0!important}
+
 @media screen and (min-width:27.5em){html{font-size:.875em}
 body{font-size:1rem}
 ul,ol{margin-bottom:.83999rem;padding-top:.16001rem}
@@ -661,6 +663,7 @@ h6{font-size:1rem;margin-bottom:-.65001rem;padding-top:.65001rem}
 #zen{width:400px}
 #editor{font-size:1rem}
 }
+
 @media screen and (min-width:46.25em){html{font-size:.875em}
 body{font-size:1rem}
 ul,ol{margin-bottom:.83999rem;padding-top:.16001rem}
@@ -766,6 +769,7 @@ h6{font-size:1rem;margin-bottom:-.65001rem;padding-top:.65001rem}
 #editor{font-size:1rem}
 .preview-mode-toggle-src,.preview-mode-toggle-html{display:block}
 }
+
 @media screen and (min-width:62.5em){html{font-size:.875em}
 body{font-size:1rem}
 ul,ol{margin-bottom:.83999rem;padding-top:.16001rem}
@@ -865,6 +869,7 @@ h6{font-size:1rem;margin-bottom:-.65001rem;padding-top:.65001rem}
 #zen{width:700px}
 #editor{font-size:1rem}
 }
+
 @media screen and (min-width:87.5em){html{font-size:.875em}
 body{font-size:1rem}
 ul,ol{margin-bottom:.83999rem;padding-top:.16001rem}
@@ -887,6 +892,7 @@ h6{font-size:1rem;margin-bottom:-.65001rem;padding-top:.65001rem}
 .modal--dillinger.about .modal-dialog,#zen{font-size:1.25rem}
 #editor{font-size:1rem}
 }
+
 @media (min-width:768px){.form-inline .form-group{display:inline-block;margin-bottom:0;vertical-align:middle}
 .form-inline .form-control{display:inline-block;width:auto;vertical-align:middle}
 .form-inline .input-group{display:inline-table;vertical-align:middle}
@@ -904,19 +910,25 @@ h6{font-size:1rem;margin-bottom:-.65001rem;padding-top:.65001rem}
 .modal-content{box-shadow:0 5px 15px rgba(0,0,0,.5)}
 .modal-sm{width:300px}
 }
+
 @media (min-width:992px){.modal-lg{width:900px}
 }
+
 @media screen and (max-width:1200px){#_default_{max-width:30%}
 #_default_ ._default_{font-size:.825rem;line-height:.875rem;padding:12px 12px 6px 24px;text-align:justify}
 }
+
 @media screen and (max-width:1100px){#_default_{max-width:27%}
 #_default_ ._default_{font-size:.8rem;line-height:.85rem;padding:12px 6px 6px 24px;text-align:justify}
 }
+
 @media screen and (max-width:1000px){#_default_{max-width:24%}
 #_default_ ._default_{font-size:.775rem;line-height:.8rem;padding:12px 6px 6px 24px;text-align:justify}
 }
+
 @media screen and (max-width:900px){#_default_{max-width:30%}
 }
+
 @media screen and (max-width:767px){.table-responsive{width:100%;margin-bottom:15px;overflow-y:hidden;overflow-x:auto;-ms-overflow-style:-ms-autohiding-scrollbar;border:1px solid #ddd;-webkit-overflow-scrolling:touch}
 .table-responsive>.table{margin-bottom:0}
 .table-responsive>.table>thead>tr>th,.table-responsive>.table>thead>tr>td,.table-responsive>.table>tbody>tr>th,.table-responsive>.table>tbody>tr>td,.table-responsive>.table>tfoot>tr>th,.table-responsive>.table>tfoot>tr>td{white-space:nowrap}
@@ -925,19 +937,24 @@ h6{font-size:1rem;margin-bottom:-.65001rem;padding-top:.65001rem}
 .table-responsive>.table-bordered>thead>tr>th:last-child,.table-responsive>.table-bordered>thead>tr>td:last-child,.table-responsive>.table-bordered>tbody>tr>th:last-child,.table-responsive>.table-bordered>tbody>tr>td:last-child,.table-responsive>.table-bordered>tfoot>tr>th:last-child,.table-responsive>.table-bordered>tfoot>tr>td:last-child{border-right:0}
 .table-responsive>.table-bordered>tbody>tr:last-child>th,.table-responsive>.table-bordered>tbody>tr:last-child>td,.table-responsive>.table-bordered>tfoot>tr:last-child>th,.table-responsive>.table-bordered>tfoot>tr:last-child>td{border-bottom:0}
 }
+
 @media screen and (max-width:720px){#_default_{max-width:60%}
 #_default_ ._default_{font-size:.75rem;line-height:1rem;padding:12px 24px}
 }
+
 @media screen and (max-width:620px){#_default_{max-width:50%}
 #_default_ ._default_{font-size:.66rem;letter-spacing:1px;line-height:1rem;padding:10px 24px}
 }
+
 @media screen and (max-width:520px){#_default_ ._default_{font-size:.4rem;line-height:.875rem;padding:6px 12px 6px 24px;text-align:justify}
 }
+
 @media screen and (max-width:460px){#_default_{display:none}
 }
+
 @media screen and (max-width:46.1875em){.editor-header{display:none}
 .editor-header--first{display:block;width:100%}
 }
-</style>
+</style></head><body id="preview">
 
 `)
