@@ -7,28 +7,28 @@
 |titre|titre officiel|nb episodes |categorie|pays|
 | --- | --- | --- | --- | --- |
 |bite fight|bite fight|1|film|chine|
-|tharnType|tharnType|13 |serie|thailande|
-|why r u|why r u|13 |serie|thailande|
-|sotus|sotus|16 |serie|thailande|
+|tharnType|tharnType|13|serie|thailande|
+|why r u|why r u|13|serie|thailande|
+|sotus|sotus|16|serie|thailande|
 |he she it|he she it|3|serie|thailande|
-|sotus 2|sotus s|13 |serie|thailande|
+|sotus 2|sotus s|13|serie|thailande|
 |reminderS|reminderS|3|serie|thailande|
 |the moment 2|the moment since|5|serie|thailande|
 |the moment|the moment I need you|4|serie|thailande|
-|2gether|2gether|13 |serie|thailande|
-|the gifted|the gifted|13 |serie|thailande|
+|2gether|2gether|13|serie|thailande|
+|the gifted|the gifted|13|serie|thailande|
 |roommate|roommate|5|serie|thailande|
-|love by chance|love by chance|12 |serie|thailande|
-|theory of love|theory of love|12 |serie|thailande|
+|love by chance|love by chance|12|serie|thailande|
+|theory of love|theory of love|12|serie|thailande|
 |2gether 1.5|still 2gether|5|serie|thailande|
-|my engineer|my engineer|14 |serie|thailande|
+|my engineer|my engineer|14|serie|thailande|
 |yyy|yyy|6|serie|thailande|
 |my friendship|my friendship|2|serie|thailande|
 |history1.1|history1 my hero|4|serie|taiwan|
 |2wish|2wish|2|serie|thailande|
 |where your eyes linger|where your eyes linger|8|serie|corée|
 |my engineer summer trip|my engineer summer trip|3|show|thailande|
-|until we meet again|until we meet again|16 |serie|thailande|
+|until we meet again|until we meet again|16|serie|thailande|
 |history1.2|history1 obsessed|4|serie|taiwan|
 |mr heart|mr heart|8|serie|corée|
 |en of love|en of love tossara|4|serie|thailande|
@@ -37,16 +37,16 @@
 |discipline|discipline|6|serie|corée|
 |en of love 2|en of love love mechanics|4|serie|thailande|
 |yyy 1.5|yyy special|3|serie|thailande|
-|offgun fun night|offgun fun night|10 |show|thailande|
+|offgun fun night|offgun fun night|10|show|thailande|
 |en of love 3|en of love this is love|3|serie|thailande|
 |theory of love 1.5|theory of love special|1|serie|thailande|
 |love from outta space|love from outta space|1|cm|thailande|
 |destiny calls|destiny calls|1|cm|thailande|
-|the boy next door|the boy next door|15 |serie|corée|
+|the boy next door|the boy next door|15|serie|corée|
 |night of love|night of love|1|cm|thailande|
 |i'm tee me too|i'm tee me too|8|serie|thailande|
 |grandsons the reality project|grandsons the reality project|4|show|thailande|
-|craving you|craving you|10 |serie|taiwan|
+|craving you|craving you|10|serie|taiwan|
 |skinship|skinship|3|serie|thailande|
 |love by chance 2|a chance to love|13|serie|thailande|
 ||||||
