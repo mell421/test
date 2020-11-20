@@ -52,10 +52,44 @@ td {
 #trier TR		{ background-color:#ffefd5 }
 #trier .title	{ background-color:#bf2b2f; FONT:14 Arial; color:#ffffff; font-weight:bold }
 SPAN { FONT:bold 12 Arial; CURSOR:pointer }
- BODY { background-color: whitesmoke }  
+BODY { background-color: whitesmoke }  
 #trier TD		{ BORDER:white 1px solid; }
 
-
 /* BODY :not(.footer){background-color: whitesmoke} */
+#menu ul {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	text-align:center;
+}
+#menu li {
+	float:left;
+	margin:auto;
+	padding:0;
+	background-color:grey;
+}
+#menu li a {
+	display:block;
+	width:100px;
+	color:white;
+	text-decoration:none;
+	padding:5px;
+}
+#menu li a:hover {
+	color:#FFD700;
+}
 
+#menu ul li ul {
+	display:none;
+}
 
+#menu ul li:hover ul {
+	display:block;
+}
+#menu li:hover ul li {
+	float:none;
+}
+
+#menu li ul {
+	position:absolute;
+}
