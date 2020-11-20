@@ -18,7 +18,7 @@ document.write(`
       <li><a href="apercuTer/apercuTer.html">suivi terminé</a> <a href="apercuTer/apercuTer.pdf" target="_blank">pdf</a> <a href="apercuTer/apercuTer.md" target="_blank">md</a></li>
     </ul>
   </li>
-  <li><a href="#">pages</a>
+  <li><a href="#">séries/BLs</a>
   <ul>
       <li><a href="bl/bl.html">BL</a> <a href="bl/bl.pdf" target="_blank">pdf</a> <a href="bl/bl.md" target="_blank">md</a></li>
       <li><a href="cal/cal.html">ep en retard</a> <a href="cal/cal.pdf" target="_blank">pdf</a> <a href="cal/cal.md" target="_blank">md</a></li>
