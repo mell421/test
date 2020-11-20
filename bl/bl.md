@@ -50,6 +50,7 @@
 |skinship|skinship|3|serie|thailande|
 |love by chance 2|a chance to love|13|serie|thailande|
 |baby bright KS best friends forever|baby bright KS best friends forever|1|cm|thailande|
+|gaya sa pelikula|gaya sa pelikula|8|serie|philippines|
 ||||||
 ||||||
 ||||||
@@ -83,7 +84,6 @@
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
 |gameboys|gameboys|13,5|serie|philippines|7|
 |safe haven|safe haven|15|serie|philippines|13|
-|gaya sa pelikula|gaya sa pelikula|8|serie|philippines|7|
 |my day|my day|12|serie|philippines|1|
 |friend forever|friend forever|12|serie|thailande|3|
 |boyband love|boyband love|8|serie|philippines|6|
