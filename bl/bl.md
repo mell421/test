@@ -4,7 +4,7 @@
  
 ## terminé
  
-|titre|titre officiel|nb episodes|categorie|pays|
+|titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
 |bite fight|bite fight|1|film|chine|
 |tharnType|tharnType|13|serie|thailande|
@@ -65,7 +65,7 @@
  
 ## en cours / a jour
  
-|titre|titre officiel|nb episodes |categorie|pays|nb vu|
+|titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |we are not human|we are not human|24|serie|chine|18|
 |the untamed|the untamed|50|serie|chine|2|
@@ -112,7 +112,7 @@
 
  ## non commencée / date connue
  
-|titre|titre officiel|nb episodes |categorie|pays|nb vu|
+|titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |gen y|gen y|12|serie|thailande|0|
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|
@@ -129,7 +129,7 @@
 
  ## a venir
  
-|titre|titre officiel|nb episodes |categorie|pays|nb vu|
+|titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |hemp rope|hemp rope|?|serie|thailande|0|
 |destiny|destiny|?|serie|thailande|0|
