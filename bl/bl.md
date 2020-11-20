@@ -49,7 +49,7 @@
 |craving you|craving you|10|serie|taiwan|
 |skinship|skinship|3|serie|thailande|
 |love by chance 2|a chance to love|13|serie|thailande|
-||||||
+|baby bright KS best friends forever|baby bright KS best friends forever|1|cm|thailande|
 ||||||
 ||||||
 ||||||
@@ -76,33 +76,33 @@
 |he's coming to me|he's coming to me|8|serie|thailande|2|
 |blacklist|blacklist|13|serie|thailande|1|
 |bright win inbox|bright win inbox|?|show|thailande|8|
-|unbag|unbag|?|show|thailande|?|
+|unbag|unbag|?|show|thailande|9|
 |the gifted 2|the gifted graduation|13|serie|thailande|11|
-|oxygen|oxygen|12|serie|thailande|10|
+|oxygen|oxygen|13|serie|thailande|10|
 |my gear and your gown|my gear and your gown|12|serie|thailande|11|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
-|gameboys|gameboys|13,5|serie|philippines|6|
-|safe haven|safe haven|15|serie|philippines|12|
+|gameboys|gameboys|13,5|serie|philippines|7|
+|safe haven|safe haven|15|serie|philippines|13|
 |gaya sa pelikula|gaya sa pelikula|8|serie|philippines|7|
 |my day|my day|12|serie|philippines|1|
 |friend forever|friend forever|12|serie|thailande|3|
 |boyband love|boyband love|8|serie|philippines|6|
 |capture lover|capture lover|?|serie|chine|?|
 |friend zone|friend zone|?|serie|thailande|1|
-|quaranthings|quaranthings|8|serie|philippines|5|
+|quaranthings|quaranthings|8|serie|philippines|6|
 |boys lockdown|boys lockdown|?|serie|philippines|2|
 |ben x jim|ben x jim|?|serie|philippines|1|
 |swap test|swap test|?|serie|philippines|2|
-|pogi lang hanap|pogi lang hanap|?|serie|philippines|3|
+|pogi lang hanap|pogi lang hanap|?|serie|philippines|4|
 |offgun fun night 2|offgun fun night 2|11|show|thailande|1|
 |lakan|lakan|8|serie|philippines|2|
-|discipline 2|discipline z : vampire|6|serie|corée|2|
+|discipline 2|discipline z : vampire|6|serie|corée|3|
 |sea him|sea him|?|serie|vietnam|2|
 |better days|better days|?|serie|philippines|3|
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|1|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|1|
-|||||||
-|||||||
+|oh mando|oh mando|?|serie|philippines|1|
+|history2.1|history2 right or wrong|8|serie|taiwan|1|
 |||||||
 |||||||
 |||||||
