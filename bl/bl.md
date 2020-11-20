@@ -87,18 +87,18 @@
 |my day|my day|12|serie|philippines|1|
 |friend forever|friend forever|12|serie|thailande|3|
 |boyband love|boyband love|8|serie|philippines|6|
-|capture lover|capture lover|?|serie|chine|?|
+|capture lover|capture lover|?|serie|chine|1|
 |friend zone|friend zone|?|serie|thailande|1|
 |quaranthings|quaranthings|8|serie|philippines|6|
-|boys lockdown|boys lockdown|?|serie|philippines|2|
-|ben x jim|ben x jim|?|serie|philippines|1|
+|boys lockdown|boys lockdown|6|serie|philippines|2|
+|ben x jim|ben x jim|7|serie|philippines|1|
 |swap test|swap test|?|serie|philippines|2|
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|
 |offgun fun night 2|offgun fun night 2|11|show|thailande|1|
 |lakan|lakan|8|serie|philippines|2|
 |discipline 2|discipline z : vampire|6|serie|corée|3|
 |sea him|sea him|?|serie|vietnam|2|
-|better days|better days|?|serie|philippines|3|
+|better days|better days|?|serie|philippines|4|
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|1|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|1|
 |oh mando|oh mando|?|serie|philippines|1|
@@ -139,6 +139,9 @@
 |color rush|color rush|?|serie|corée|0|
 |to my star|to my star|?|serie|corée|0|
 |I just slept|I just slept|?|serie|corée|0|
+|bittersweet|bittersweet|8|serie|thailande|0|
+|kinnporshe|kinnporshe|?|serie|thailande|0|
+|||||||
 |||||||
 |||||||
 |||||||
