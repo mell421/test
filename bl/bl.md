@@ -4,8 +4,8 @@
  
 ## terminé
  
-|titre|titre officiel|nb episodes |categorie|pays|
-| --- | --- | --- | --- | --- |
+|titre|titre officiel|nb episodes|categorie|pays|
+| --- | --- | :---: | --- | --- |
 |bite fight|bite fight|1|film|chine|
 |tharnType|tharnType|13|serie|thailande|
 |why r u|why r u|13|serie|thailande|
@@ -66,7 +66,7 @@
 ## en cours / a jour
  
 |titre|titre officiel|nb episodes |categorie|pays|nb vu|
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | :---: | --- | --- | --- |
 |we are not human|we are not human|24|serie|chine|18|
 |the untamed|the untamed|50|serie|chine|2|
 |long khong|long khong|8|serie|thailande|3|
@@ -113,7 +113,7 @@
  ## non commencée / date connue
  
 |titre|titre officiel|nb episodes |categorie|pays|nb vu|
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | :---: | --- | --- | --- |
 |gen y|gen y|12|serie|thailande|0|
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|
 |cherry magic|cherry magic|12|serie|japon|0|
@@ -130,7 +130,7 @@
  ## a venir
  
 |titre|titre officiel|nb episodes |categorie|pays|nb vu|
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | :---: | --- | --- | --- |
 |hemp rope|hemp rope|?|serie|thailande|0|
 |destiny|destiny|?|serie|thailande|0|
 |love mechanics|love mechanics|?|serie|thailande|0|
