@@ -1,4 +1,7 @@
 [retour](./../index.html)
+<!-- -->
+[PDF](./bl.pdf) [MD](./bl.md) 
+
 
 # liste de bl
  

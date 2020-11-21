@@ -1,4 +1,7 @@
 [retour](./../index.html)
+<!-- -->
+[PDF](./apercuTer.pdf) [MD](./apercuTer.md) 
+
 
 # ajout reponse
 

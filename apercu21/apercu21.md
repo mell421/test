@@ -1,4 +1,8 @@
 [retour](./../index.html)
+<!-- -->
+[PDF](./apercu21.pdf) [MD](./apercu21.md) 
+
+
 # ajout reponse 2021
 
 ---
