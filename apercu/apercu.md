@@ -92,6 +92,10 @@ Boys lockdown _1x3(1) The gifted series _2x9(1) Gameboys _1x7(1) Oxygen _1x8(1) 
 The gifted series _2x10(1) Strictly come dancing _18x5(2) Oxygen _1x9(1) Boyband love _1x6(1) Better days _1x2(1) The masked singer fr _2x4(1) Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Koh-lanta _25x11(1) Swap test _1x3(1) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(1) I can see your voice _1x5(2) The masked singer _4x6(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) The masked singer de _3x3(2) The voice us _19x5(2) Incroyable talent _15x3(1) Bright win inbox _1x8(1) Safe haven _1x11(1) Dwts _29x8(1) Joséphine ange gardien _23x4(1) My gear and your gown _1x9(1) 
 #### sem 09-11-2020 -> 
 Strictly come dancing _18x7(2) The gifted series _2x11(1) Lakan _1x3(1) Pogi lang hanap _1x4(1) The masked singer fr _2x5(1) Oxygen _1x10(1) Calculating love _1x5(1) Druck _5x8(3) TharnType _2x2(1) Koh-lanta _25x12(1) Quaranthings _1x5(2) The voice germany _10x10(2) Discipline _2x3(1) Young sheldon _4x2(1) Unbag _1x8(1) Blood _1x17(1) The masked singer _4x7(1) The good doctor _4x2(1) The masked singer de _3x4(1) Incroyable talent _15x4(1) Safe haven _1x12(1) The voice us _19x6(1) Dwts _29x9(1) My gear and your gown _1x10(1) 
+#### sem 16-11-2020 -> 
+The gifted series _2x12(1) Quaranthings _1x6(1) Oh mando _1x2(1) Sea him _1x3(1) Strictly come dancing _18x9(2) My vampire boyfriend _1x3(2) Better days _1x4(2) Oxygen _1x11(1) Ingredients _1x18(1) The voice germany _10x12(2) Koh-lanta _25x13(1) Thonhon chonlathee _1x2(1) Young sheldon _4x3(1) The masked singer _4x8(1) Bt21 universe _1x3(2) Unbag _1x9(1) The voice us _19x8(2) Safe haven _1x13(1) Boyband love _1x7(1) Bright win inbox _1x9(1) Incroyable talent _15x5(1) Dwts _29x10(1) My gear and your gown _1x11(1) 
+
+
 
 
 
@@ -240,7 +244,26 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 > The voice germany _10 > 6; Lls _1 > 3; Strictly come dancing _18 > 3; Druck _5 > 2; We are not human _1 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1; My gear and your gown _1 > 1; 
 ### conclu 11/11/20 
 > The voice germany _10 > 6; Safe haven _1 > 4; Lls _1 > 3; Strictly come dancing _18 > 2; We are not human _1 > 2; Ingredients _1 > 1; Quaranthings _1 > 1; The voice us _19 > 1; 
-
+### conclu 12/11/20
+> Lls _1 > 3; The voice germany _10 > 2; The masked singer _4 > 1; The voice us _19 > 1; We are not human _1 > 1; 
+### conclu 13/11/20
+> Bt21 universe _1 > 2; Lls _1 > 2; The voice germany _10 > 2; The voice us _19 > 1; We are not human _1 > 1; 
+### conclu 14/11/20
+> The voice germany _10 > 6; Lls _1 > 3; Bt21 universe _1 > 2; Koh-lanta _25 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1; 
+### conclu 15/11/20
+> Ingredients _1 > 5; Strictly come dancing _18 > 4; The voice germany _10 > 4; Better days _1 > 3; Lls _1 > 3; Koh-lanta _25 > 2; The voice us _19 > 1; We are not human _1 > 1; 
+### conclu 16/11/20
+> Ingredients _1 > 5; Strictly come dancing _18 > 5; Lls _1 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; My vampire boyfriend _1 > 2; Better days _1 > 1; The voice us _19 > 1; We are not human _1 > 1; 
+### conclu 17/11/20
+> The voice germany _10 > 8; Ingredients _1 > 5; Strictly come dancing _18 > 4; Lls _1 > 3; Koh-lanta _25 > 1; My vampire boyfriend _1 > 1; The voice us _19 > 1; We are not human _1 > 1; 
+### conclu 18/11/20
+> Ingredients _1 > 5; The voice germany _10 > 5; The voice us _19 > 4; Lls _1 > 3; The masked singer de _3 > 3; Safe haven _1 > 2; Strictly come dancing _18 > 1; We are not human _1 > 1; 
+### conclu 19/11/20
+> The voice us _19 > 6; Ingredients _1 > 5; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 2; The masked singer de _3 > 2; Strictly come dancing _18 > 1; We are not human _1 > 1; 
+### conclu 20/11/20
+> Cheerleaders new jersey _1 > 5; Ingredients _1 > 5; The voice us _19 > 4; Lls _1 > 3; Quaranthings _1 > 2; The voice germany _10 > 2; Safe haven _1 > 1; Strictly come dancing _18 > 1; We are not human _1 > 1; 
+### conclu 21/11/20
+> Ingredients _1 > 5; Cheerleaders new jersey _1 > 4; Better days _1 > 3; Lls _1 > 3; The voice germany _10 > 3; The voice us _19 > 2; Koh-lanta _25 > 1; Quaranthings _1 > 1; Strictly come dancing _18 > 1; We are not human _1 > 1; 
 
 
 
@@ -352,7 +375,26 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 > The voice germany _10 > 11; Strictly come dancing _18 > 7; Druck _5 > 5; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 3; My gear and your gown _1 > 3; Ingredients _1 > 3; Safe haven _1 > 2; The gifted series _2 > 2; Survivor au _7 > 2; Quaranthings _1 > 1; Cheerleaders new jersey _1 > 1; 
 ### concluBis 11/11/20 
 > The voice germany _10 > 11; Safe haven _1 > 9; Strictly come dancing _18 > 6; Lls _1 > 5; We are not human _1 > 4; The voice us _19 > 3; Quaranthings _1 > 3; Ingredients _1 > 3; Koh-lanta _25 > 2; Better days _1 > 2; Survivor au _7 > 2; Dwts _29 > 1; Cheerleaders new jersey _1 > 1; 
-
+### concluBis 12/11/20
+> Lls _1 > 5; Safe haven _1 > 4; The voice germany _10 > 4; The voice us _19 > 3; The masked singer _4 > 3; We are not human _1 > 3; Bt21 universe _1 > 2; Ingredients _1 > 2; Koh-lanta _25 > 1; Strictly come dancing _18 > 1; Survivor au _7 > 1; 
+### concluBis 13/11/20
+> The voice germany _10 > 5; The voice us _19 > 5; Bt21 universe _1 > 4; Lls _1 > 4; We are not human _1 > 3; Safe haven _1 > 2; Strictly come dancing _18 > 2; Ingredients _1 > 2; Koh-lanta _25 > 1; Survivor au _7 > 1; 
+### concluBis 14/11/20
+> The voice germany _10 > 11; Koh-lanta _25 > 5; The voice us _19 > 5; Lls _1 > 5; Bt21 universe _1 > 4; We are not human _1 > 4; Strictly come dancing _18 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Cheerleaders new jersey _1 > 1; 
+### concluBis 15/11/20
+> Ingredients _1 > 9; The voice germany _10 > 9; Strictly come dancing _18 > 8; Koh-lanta _25 > 5; Better days _1 > 5; Lls _1 > 5; The voice us _19 > 4; We are not human _1 > 3; Safe haven _1 > 2; Oxygen _1 > 2; Bt21 universe _1 > 2; Survivor au _7 > 2; Cheerleaders new jersey _1 > 1; 
+### concluBis 16/11/20
+> Ingredients _1 > 9; Strictly come dancing _18 > 9; The voice germany _10 > 7; Lls _1 > 5; Koh-lanta _25 > 4; My vampire boyfriend _1 > 4; The gifted series _2 > 3; The voice us _19 > 3; Better days _1 > 3; We are not human _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Quaranthings _1 > 1; Bt21 universe _1 > 1; Cheerleaders new jersey _1 > 1; 
+### concluBis 17/11/20
+> The voice germany _10 > 14; Ingredients _1 > 9; Strictly come dancing _18 > 8; Lls _1 > 5; The voice us _19 > 4; Koh-lanta _25 > 3; My vampire boyfriend _1 > 3; We are not human _1 > 3; My gear and your gown _1 > 2; Better days _1 > 2; Survivor au _7 > 2; Safe haven _1 > 1; The gifted series _2 > 1; Cheerleaders new jersey _1 > 1; 
+### concluBis 18/11/20
+> The voice germany _10 > 11; Ingredients _1 > 9; The voice us _19 > 8; The masked singer de _3 > 7; Safe haven _1 > 5; Strictly come dancing _18 > 5; Lls _1 > 5; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; My vampire boyfriend _1 > 1; Cheerleaders new jersey _1 > 1; 
+### concluBis 19/11/20
+> The voice germany _10 > 10; The voice us _19 > 10; Ingredients _1 > 9; Strictly come dancing _18 > 5; The masked singer de _3 > 5; Lls _1 > 5; Safe haven _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Dwts _29 > 2; Survivor au _7 > 2; My gear and your gown _1 > 1; My vampire boyfriend _1 > 1; Cheerleaders new jersey _1 > 1; 
+### concluBis 20/11/20
+> Cheerleaders new jersey _1 > 10; Ingredients _1 > 9; The voice us _19 > 8; The voice germany _10 > 7; Quaranthings _1 > 6; Lls _1 > 5; Safe haven _1 > 3; Strictly come dancing _18 > 3; The masked singer de _3 > 3; We are not human _1 > 3; Survivor au _7 > 2; Koh-lanta _25 > 1; 
+### concluBis 21/11/20
+> Ingredients _1 > 9; Cheerleaders new jersey _1 > 9; The voice germany _10 > 6; The voice us _19 > 6; Koh-lanta _25 > 5; Better days _1 > 5; Lls _1 > 5; Strictly come dancing _18 > 3; Quaranthings _1 > 3; We are not human _1 > 3; Safe haven _1 > 2; The masked singer de _3 > 2; Survivor au _7 > 2; 
 
 
 

@@ -70,7 +70,7 @@
 |we are not human|we are not human|24|serie|chine|18|
 |the untamed|the untamed|50|serie|chine|2|
 |long khong|long khong|8|serie|thailande|3|
-|calculating love|calculating love|?|serie|thailande|4|
+|calculating love|calculating love|?|serie|thailande|5|
 |the shipper|the shipper|12|serie|thailande|2|
 |ingredients|ingredients|22|serie|thailande|17|
 |so much in love|so much in love|12|serie|thailande|2|
@@ -86,7 +86,7 @@
 |safe haven|safe haven|15|serie|philippines|13|
 |my day|my day|12|serie|philippines|1|
 |friend forever|friend forever|12|serie|thailande|3|
-|boyband love|boyband love|8|serie|philippines|6|
+|boyband love|boyband love|9|serie|philippines|7|
 |capture lover|capture lover|?|serie|chine|1|
 |friend zone|friend zone|?|serie|thailande|1|
 |quaranthings|quaranthings|8|serie|philippines|6|
@@ -99,8 +99,8 @@
 |discipline 2|discipline z : vampire|6|serie|corée|3|
 |sea him|sea him|?|serie|vietnam|2|
 |better days|better days|?|serie|philippines|4|
-|tharnType 2|tharnType 7 years of love|13|serie|thailande|1|
-|thonhon chonlathee|thonhon chonlathee|12|serie|thailande|1|
+|tharnType 2|tharnType 7 years of love|13|serie|thailande|2|
+|thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|
 |oh mando|oh mando|?|serie|philippines|1|
 |history2.1|history2 right or wrong|8|serie|taiwan|1|
 |||||||
@@ -141,7 +141,7 @@
 |I just slept|I just slept|?|serie|corée|0|
 |bittersweet|bittersweet|8|serie|thailande|0|
 |kinnporshe|kinnporshe|?|serie|thailande|0|
-|||||||
+|lovely writer|lovely writer|?|serie|thailande||0|
 |||||||
 |||||||
 |||||||

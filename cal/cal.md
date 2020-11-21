@@ -87,7 +87,6 @@
 ### 13
 * [ ] ben x jim 105
 * [ ] druck 508
-* [ ] tharntype 202
 ### 14
 * [ ] friend forever 109
 ### 17
