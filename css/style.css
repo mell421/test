@@ -1,8 +1,3 @@
-/* debut fin de page */
-.sommaire {font-size: 15px; background-color: #ffefd5;}
-.sommaire a:hover {color: #bf2b2f;}
-.footer {background-color: #bf2b2f;}
-
 /* tables */
 table {
 	/* width:100%; */
@@ -42,7 +37,6 @@ td {
 .resumesem { background-color:  rgb(227, 227, 252); }
 .resumemois { background-color: rgb(227, 227, 252); }
 
-
 .titre { font-weight: bold; background-color: aquamarine;}
 
 
@@ -55,7 +49,9 @@ SPAN { FONT:bold 12 Arial; CURSOR:pointer }
 BODY { background-color: whitesmoke }  
 #trier TD		{ BORDER:white 1px solid; }
 
-/* BODY :not(.footer){background-color: whitesmoke} */
+/* footer */
+
+/* menu */
 #menu ul {
 	margin:0;
 	padding:0;
@@ -93,3 +89,5 @@ BODY { background-color: whitesmoke }
 #menu li ul {
 	position:absolute;
 }
+
+#footer, #menu {background-color: rgb(218, 189, 186);}

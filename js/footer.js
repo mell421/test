@@ -1,10 +1,14 @@
 
 document.write(`
-<p class="footer">
+<div id="footer">
     <hr>
     <p> </p>
     <p>me contacter</p>
-</p>
+    <hr>
+    <hr>
+    <hr>
+    <hr>
+</div>
 `)
 
   
