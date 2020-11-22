@@ -144,7 +144,7 @@
 |I just slept|I just slept|?|serie|corée|0|
 |bittersweet|bittersweet|8|serie|thailande|0|
 |kinnporshe|kinnporshe|?|serie|thailande|0|
-|lovely writer|lovely writer|?|serie|thailande||0|
+|lovely writer|lovely writer|?|serie|thailande|0|
 |||||||
 |||||||
 |||||||
