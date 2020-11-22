@@ -54,6 +54,7 @@
 |love by chance 2|a chance to love|13|serie|thailande|
 |baby bright KS best friends forever|baby bright KS best friends forever|1|cm|thailande|
 |gaya sa pelikula|gaya sa pelikula|8|serie|philippines|
+|quaranthings|quaranthings|8|serie|philippines|
 ||||||
 ||||||
 ||||||
@@ -92,7 +93,6 @@
 |boyband love|boyband love|9|serie|philippines|7|
 |capture lover|capture lover|?|serie|chine|1|
 |friend zone|friend zone|?|serie|thailande|1|
-|quaranthings|quaranthings|8|serie|philippines|6|
 |boys lockdown|boys lockdown|6|serie|philippines|2|
 |ben x jim|ben x jim|7|serie|philippines|1|
 |swap test|swap test|?|serie|philippines|2|

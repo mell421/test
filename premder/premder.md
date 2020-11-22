@@ -15,7 +15,6 @@ Young sheldon 4x3
 * History2 right or wrong 1x1
 Gameboys 1x7
 Unbag 1x9
-Quaranthings 1x6
 The masked singer 4x8
 Pogi lang hanap 1x4
 Dwts 29x10
@@ -68,7 +67,6 @@ Quien es la mascara 2x2
 Love in time 1x3
 * Strictly come dancing 18x1
 * The masked singer fr 2x1
-* Quaranthings 1x1
 We are not human 1x18
 * The voice germany 10x1
 * Friend zone 1x1

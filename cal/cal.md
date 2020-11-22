@@ -31,7 +31,6 @@
 * infidele 206
 * so much in love 110
 ### 16
-* quaranthings 107
 * someone has to die 101
 * someone has to die 102
 * someone has to die 103
@@ -55,7 +54,6 @@
 ### 29
 * so much in love 112
 ### 30
-* quaranthings 108
 * DR NL 107
 ### 31
 * my day 112
