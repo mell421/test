@@ -23,7 +23,6 @@ The voice us 19x9
 The masked singer de 3x5
 Safe haven 1x13
 The voice germany 10x12
-My gear and your gown 1x11
 The gifted series 2x11
 * Oh mando 1x1
 Sea him 1x2
@@ -89,7 +88,6 @@ Survivor au 7x16
 Hes coming to me 1x2
 * Dwts 29x1
 * My dear loser edge of 17 1x1
-* My gear and your gown 1x1
 * Oxygen 1x1
 * The voice vv 6x1
 * The gifted series 2x1

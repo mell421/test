@@ -87,7 +87,6 @@
 * ITSAY 104
 ### 13
 * ben x jim 105
-* druck 508
 ### 14
 * friend forever 109
 ### 17

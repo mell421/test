@@ -55,6 +55,7 @@
 |baby bright KS best friends forever|baby bright KS best friends forever|1|cm|thailande|
 |gaya sa pelikula|gaya sa pelikula|8|serie|philippines|
 |quaranthings|quaranthings|8|serie|philippines|
+|my gear and your gown|my gear and your gown|12|serie|thailande|
 ||||||
 ||||||
 ||||||
@@ -82,9 +83,8 @@
 |blacklist|blacklist|13|serie|thailande|1|
 |bright win inbox|bright win inbox|?|show|thailande|8|
 |unbag|unbag|?|show|thailande|9|
-|the gifted 2|the gifted graduation|13|serie|thailande|11|
+|the gifted 2|the gifted graduation|13|serie|thailande|12|
 |oxygen|oxygen|13|serie|thailande|10|
-|my gear and your gown|my gear and your gown|12|serie|thailande|11|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
 |gameboys|gameboys|13,5|serie|philippines|7|
 |safe haven|safe haven|15|serie|philippines|13|
