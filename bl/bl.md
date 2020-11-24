@@ -56,6 +56,7 @@
 |gaya sa pelikula|gaya sa pelikula|8|serie|philippines|
 |quaranthings|quaranthings|8|serie|philippines|
 |my gear and your gown|my gear and your gown|12|serie|thailande|
+|bright win inbox|bright win inbox|9|show|thailande|
 ||||||
 ||||||
 ||||||
@@ -81,7 +82,6 @@
 |so much in love|so much in love|12|serie|thailande|2|
 |he's coming to me|he's coming to me|8|serie|thailande|2|
 |blacklist|blacklist|13|serie|thailande|1|
-|bright win inbox|bright win inbox|?|show|thailande|8|
 |unbag|unbag|?|show|thailande|9|
 |the gifted 2|the gifted graduation|13|serie|thailande|12|
 |oxygen|oxygen|13|serie|thailande|10|

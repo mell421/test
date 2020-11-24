@@ -32,7 +32,6 @@ Oxygen 1x10
 Ingredients 1x17
 * Thonhon chonlathee 1x1
 Bt21 universe 1x2
-Bright win inbox 1x8
 Incroyable talent 15x4
 * Bt21 universe 1x1
 Lakan 1x2
@@ -95,7 +94,6 @@ Nailed it holiday 2x2
 * Koh-lanta 25x1
 * Unbag 1x1
 * Aggretsuko 3x1
-* Bright win inbox 1x1
 So much in love 1x2
 * Blacklist series 1x1
 Good singers 1x2
