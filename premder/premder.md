@@ -18,7 +18,6 @@ Gameboys 1x7
 Unbag 1x9
 The masked singer 4x8
 Pogi lang hanap 1x4
-Dwts 29x10
 The voice us 19x9
 The masked singer de 3x5
 Safe haven 1x13
@@ -86,7 +85,6 @@ Survivor au 7x16
 * Drag race holland 1x1
 * Baby 3x1
 Hes coming to me 1x2
-* Dwts 29x1
 * My dear loser edge of 17 1x1
 * Oxygen 1x1
 * The voice vv 6x1
