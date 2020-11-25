@@ -9,6 +9,111 @@
 
 ## Aperçu semaine
 
+### sem 06-01-2020 
+* Dracula uk _1
+### sem 13-01-2020 
+### sem 20-01-2020 
+* Falconette _1
+* Mortel _1
+### sem 27-01-2020 
+* Peur sur le lac _1
+### sem 03-02-2020 
+### sem 10-02-2020 
+* La petite mort _3
+* Adventure time _2
+* Quien es la mascara _1
+### sem 17-02-2020 
+* Munch _3
+### sem 24-02-2020 
+* The masked singer uk _1
+### sem 02-03-2020 
+* The voice nl _10
+### sem 09-03-2020 
+* The greatest dancer _2
+* Skam france _5
+* The voice au _8
+### sem 16-03-2020 
+* The voice kids be _1
+* /9-1-1 lone star _1
+### sem 23-03-2020 
+* Valemont _1
+* Stalk _1
+* Strictly come dancing _15
+### sem 30-03-2020 
+* Vampires _1
+### sem 06-04-2020 
+* Cheerleaders _1
+### sem 13-04-2020 
+* Visible out on television _1
+* The voice au _7
+* La casa de papel _2
+* Elite _3
+* The circle _1
+* Pékin express _13
+* Nailed it holiday _1
+* La casa de papel _1
+### sem 20-04-2020 
+* Lego masters _1
+* Descendants wicked world _2
+* Descendants wicked world _1
+### sem 27-04-2020 
+* The voice kids de _8
+* Ares _1
+* October faction _1
+* Will and grace _11
+* Kaamelott _3
+* Carmilla _4
+* Skam espana _3
+* Monsieur flap _3
+### sem 04-05-2020 
+* Amours solitaires _1
+* Les simpson _2
+* The voice vv _5
+* Young sheldon _3
+* Arrow _6
+* The masked singer de _2
+### sem 11-05-2020 
+* The voice uk _8
+* The voice nl _6
+* Tbbt _9
+* The voice senior vv _1
+### sem 18-05-2020 
+* The voice senior nl _2
+* Rpdru _12
+* Rpscdr _1
+* The voice senior nl _1
+* /9-1-1 _3
+### sem 25-05-2020 
+* Cheerleaders _3
+* The voice kids nl _1
+* The masked singer _3
+* The voice us _18
+* The outs _1
+* Cheerleaders _2
+* Cheerhab _1
+### sem 01-06-2020 
+* TharnType _1
+* Rpdr _12
+* Cheerleaders champions league _1
+* Alyssas secret _2
+* Control z _1
+### sem 08-06-2020 
+* Cheerhab _2
+* Keeping up with the Kardashians _1
+* La casa de papel _3
+* The voice kids nl _9
+* Koh-lanta _24
+### sem 15-06-2020 
+* Bitmuch _2
+* The voice _9
+* Himym _5
+* Cheerleaders _4
+* Eastsiders _4
+* Kaamelott _4
+* Queer eye _3
+* Cheer _1
+* Dancing on ice nl _1
+* Dancers just plain dancin _1
 ### sem 22-06-2020 
 * Cheerleaders _5 
 * Love victor _1 
@@ -95,7 +200,7 @@
 * Where your eyes linger _1 
 * Agt _15 
 * 2wish _1 
-* History1 my hero _1*
+* History1 my hero _1
 ### sem 05-10-2020 
 * Mr heart _1 
 * History1 stay away from me _1 
