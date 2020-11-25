@@ -62,12 +62,7 @@
 ||||||
 ||||||
 ||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+
  
 ## en cours / a jour
  
@@ -84,7 +79,7 @@
 |blacklist|blacklist|13|serie|thailande|1|
 |unbag|unbag|?|show|thailande|9|
 |the gifted 2|the gifted graduation|13|serie|thailande|12|
-|oxygen|oxygen|13|serie|thailande|10|
+|oxygen|oxygen|13|serie|thailande|11|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
 |gameboys|gameboys|13,5|serie|philippines|7|
 |safe haven|safe haven|15|serie|philippines|13|
@@ -104,7 +99,7 @@
 |better days|better days|?|serie|philippines|4|
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|2|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|
-|oh mando|oh mando|?|serie|philippines|1|
+|oh mando|oh mando|6|serie|philippines|1|
 |history2.1|history2 right or wrong|8|serie|taiwan|1|
 |||||||
 |||||||
@@ -120,8 +115,9 @@
 |why r u 2|why r u 2|?|serie|thailande|0|
 |manner of death|manner of death|12|serie|thailande|0|
 |von|von|1|film|thailande|0|
-|wish you|wish you|?|serie|corée|0|
-|||||||
+|wish you|wish you|8|serie|corée|0|
+|my bromance|my bromance|1|film|thailande|0|
+|my bromance|my bromance|1|serie|thailande|0|
 |||||||
 |||||||
 |||||||
@@ -142,8 +138,8 @@
 |bittersweet|bittersweet|8|serie|thailande|0|
 |kinnporshe|kinnporshe|?|serie|thailande|0|
 |lovely writer|lovely writer|?|serie|thailande|0|
-|||||||
-|||||||
+|1000 stars|a tales of 1000 stars|?|serie|thailande|0|
+|F4 thailand|F4 thailand|?|serie|thailande|0|
 |||||||
 |||||||
 |||||||

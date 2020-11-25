@@ -19,7 +19,6 @@ Unbag 1x9
 The masked singer 4x8
 Pogi lang hanap 1x4
 The voice us 19x9
-The masked singer de 3x5
 Safe haven 1x13
 The voice germany 10x12
 The gifted series 2x11
@@ -49,7 +48,6 @@ Swap test 1x2
 I can see your voice 1x4
 * Lakan 1x1
 Friend forever 1x3
-* The masked singer de 3x1
 Joséphine ange gardien 23x3
 Boys lockdown 1x2
 * Offgun fun night 2x1
@@ -119,7 +117,6 @@ The shipper 1x2
 *  khong 1x1
 * Himym 6x1
 * Good singers 1x1
-Odaat 4x7
 The untamed 1x2
 Young dracula 1x6
 * The untamed 1x1
@@ -170,7 +167,6 @@ Community 1x2
 Mental 1x3
 * Les ratz 1x1
 * Why women kill 1x1
-* Odaat 4x1
 * Dare me 1x1
 Prodigal son 1x4
 * Kingdom 2x1
