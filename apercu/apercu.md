@@ -271,7 +271,12 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 > Cheerleaders new jersey _1 > 6; Lls _1 > 3; The voice germany _10 > 3; The voice us _19 > 3; Ingredients _1 > 2; Koh-lanta _25 > 2; Safe haven _1 > 1; Strictly come dancing _18 > 1; We are not human _1 > 1; 
 ### conclu 23/11/20 
 > Strictly come dancing _18 > 5; Cheerleaders new jersey _1 > 4; Druck _5 > 3; Lls _1 > 3; Ingredients _1 > 2; Koh-lanta _25 > 2; The voice us _19 > 2; Safe haven _1 > 1; The voice germany _10 > 1; We are not human _1 > 1; 
-
+### conclu 24/11/20 
+> The voice germany _10 > 5; Cheerleaders new jersey _1 > 4; Strictly come dancing _18 > 4; Druck _5 > 3; Lls _1 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; The voice us _19 > 1; We are not human _1 > 1; 
+### conclu 25/11/20 
+> The voice us _19 > 6; Cheerleaders new jersey _1 > 3; Lls _1 > 3; The voice germany _10 > 3; Druck _5 > 2; Ingredients _1 > 2; Safe haven _1 > 2; Strictly come dancing _18 > 2; We are not human _1 > 1; 
+### conclu 26/11/20 
+> The voice germany _10 > 8; The voice us _19 > 4; Cheerleaders new jersey _1 > 3; Lls _1 > 3; Ingredients _1 > 2; Druck _5 > 1; Safe haven _1 > 1; Strictly come dancing _18 > 1; We are not human _1 > 1; 
 
 
 
@@ -405,6 +410,17 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 > Cheerleaders new jersey _1 > 11; The voice germany _10 > 7; The voice us _19 > 7; Koh-lanta _25 > 6; Lls _1 > 5; Ingredients _1 > 4; Safe haven _1 > 3; Strictly come dancing _18 > 3; We are not human _1 > 3; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
 ### concluBis 23/11/20 
 > Cheerleaders new jersey _1 > 9; Strictly come dancing _18 > 9; The voice us _19 > 6; Druck _5 > 6; Lls _1 > 5; Koh-lanta _25 > 4; The gifted series _2 > 4; The voice germany _10 > 4; Ingredients _1 > 4; Safe haven _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; 
+### concluBis 24/11/20 
+> The voice germany _10 > 10; Cheerleaders new jersey _1 > 9; Strictly come dancing _18 > 8; Druck _5 > 6; The voice us _19 > 5; Lls _1 > 5; Ingredients _1 > 4; Koh-lanta _25 > 3; The gifted series _2 > 3; We are not human _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; 
+### concluBis 25/11/20 
+> The voice us _19 > 10; Cheerleaders new jersey _1 > 8; The voice germany _10 > 7; Safe haven _1 > 6; Strictly come dancing _18 > 6; Druck _5 > 5; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; The gifted series _2 > 1; Incroyable talent _15 > 1; 
+### concluBis 26/11/20 
+> The voice germany _10 > 14; The voice us _19 > 8; Cheerleaders new jersey _1 > 7; Safe haven _1 > 5; Strictly come dancing _18 > 5; Lls _1 > 5; Druck _5 > 4; Ingredients _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; The gifted series _2 > 1; 
+
+
+
+
+
 
 
 
