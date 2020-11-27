@@ -50,6 +50,32 @@
             el_down.innerHTML = generateP(); 
         } 
     </script> 
+
+<h1 style = "color: green">  
+    GeeksforGeeks  
+</h1> 
+  
+<h3> 
+    Click on the button to 
+    generate random password. 
+</h3> 
+  
+<button onclick = "gfg_Run2()">  
+    Click Here 
+</button> 
+  
+<p id = "geeks2"></p> 
+  
+<script> 
+    var el_down = document.getElementById("geeks2"); 
+      
+    function gfg_Run2() { 
+        el_down.innerHTML =  
+            Math.random().toString(36).slice(2) +  
+            Math.random().toString(36) 
+                .toUpperCase().slice(2); 
+        }  
+</script>  
 </body> 
   
 </html> 
