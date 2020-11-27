@@ -57,6 +57,7 @@
 |quaranthings|quaranthings|8|serie|philippines|
 |my gear and your gown|my gear and your gown|12|serie|thailande|
 |bright win inbox|bright win inbox|9|show|thailande|
+|long time no see|long time no see|5|serie|thailande|
 ||||||
 ||||||
 ||||||
@@ -102,7 +103,6 @@
 |oh mando|oh mando|6|serie|philippines|1|
 |history2.1|history2 right or wrong|8|serie|taiwan|1|
 |be love|be love|?|serie|japon|1|
-|long time no see|long time no see|5|serie|thailande|2|
 |||||||
 |||||||
 |||||||

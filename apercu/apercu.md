@@ -58,7 +58,7 @@ Drag race thailand _2x10(1) Blank _1x5(1) Taking the stands _1x3(1) Arrow _7x2(1
 #### sem 29-06-2020 
 Young dracula _1x7(2) The untamed _1x2(1) 
 #### sem 06-07-2020 
-Odaat _4x8(1) The untamed _1x3(1) 
+The untamed _1x3(1) 
 #### sem 13-07-2020 
 #### sem 20-07-2020 
 Long khong _1x2(1) Himym _6x2(1) Good singers _1x2(1) 

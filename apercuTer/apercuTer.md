@@ -8,7 +8,8 @@
 ---
 
 ## Aperçu semaine
-
+<!-- ### sem 06-12-2019 
+* -->
 ### sem 06-01-2020 
 * Dracula uk _1
 ### sem 13-01-2020 
@@ -242,9 +243,14 @@
 * Gaya sa pelikula _1 
 * Love by chance _2
 ### sem 30-10-2020 
-**
+* 
+* Long time no see _1
+* The masked singer de _3
+* Bright win inbox _1
+* Dwts _29
+* My gear and your gown _1
 ### sem 07-12-2020 
-**
+
 ### sem 14-12-2020 
 **
 ### sem 21-12-2020 
@@ -285,5 +291,11 @@
 *The boy next door _1 En of love _3 Offgun fun night _1 Yyy _2 En of love _2 Discipline _1 The voice kids _7 History1 obsessed _1 En of love _1 Mr heart _1*
 #### mois 01-12-2020 
 *Quaranthings _1 Gaya sa pelikula _1 Love by chance _2 Skinship _1 The voice uk _9 Craving you _1 Bt21 animation _3 Bt21 special film _1 Bt21 animation _2 Bt21 animation _1 Bt21 store _1 Bt21 stickers _1 Bt21 game _1 Bt21 vr _1 Grandsons the reality project _1 The masked singer vv _1 Wtfock _4 Im tee me too _1 Skam espana _4 The good doctor _3*
+#### mois 01-01-2021 
+**
+
+
+
+
 
 [retour](./../index.html)

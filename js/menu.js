@@ -35,8 +35,8 @@ document.write(`
   <li><a href="#">Item 5</a>
   <ul>
       <li><a href="increment.html">increment</a></li>
-      <li><a href="mesSites/sites.html">Sous-item 2</a></li>
-      <li><a href="#">Sous-item 3</a></li>
+      <li><a href="mpd.html">générateur de mot de passe</a></li>
+      <!-- <li><a href="mesSites/sites.html">Sous-item 3</a></li> -->
     </ul>
   </li>
 </ul>
