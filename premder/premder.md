@@ -12,7 +12,6 @@ Safe haven 1x14
 The gifted series 2x12
 Strictly come dancing 18x10
 Oxygen 1x11
-The masked singer fr 2x5
 Boyband love 1x7
 Calculating love 1x5
 TharnType 2x2
@@ -63,7 +62,6 @@ Quien es la mascara 2x2
 * Boys lockdown 1x1
 Love in time 1x3
 * Strictly come dancing 18x1
-* The masked singer fr 2x1
 We are not human 1x18
 * The voice germany 10x1
 * Friend zone 1x1
