@@ -9,7 +9,6 @@ The voice nl 11x1
 The voice us 19x11
 Incroyable talent 15x5
 Safe haven 1x14
-The gifted series 2x12
 Strictly come dancing 18x10
 Oxygen 1x11
 Boyband love 1x7
@@ -83,7 +82,6 @@ Hes coming to me 1x2
 * My dear loser edge of 17 1x1
 * Oxygen 1x1
 * The voice vv 6x1
-* The gifted series 2x1
 Aggretsuko 3x3
 * Survivor au 1x1
 Nailed it holiday 2x2

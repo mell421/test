@@ -58,6 +58,7 @@
 |my gear and your gown|my gear and your gown|12|serie|thailande|
 |bright win inbox|bright win inbox|9|show|thailande|
 |long time no see|long time no see|5|serie|thailande|
+|the gifted 2|the gifted graduation|13|serie|thailande|
 ||||||
 ||||||
 ||||||
@@ -79,7 +80,6 @@
 |he's coming to me|he's coming to me|8|serie|thailande|2|
 |blacklist|blacklist|13|serie|thailande|1|
 |unbag|unbag|?|show|thailande|9|
-|the gifted 2|the gifted graduation|13|serie|thailande|12|
 |oxygen|oxygen|13|serie|thailande|11|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
 |gameboys|gameboys|13,5|serie|philippines|7|
