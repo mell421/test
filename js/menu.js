@@ -39,7 +39,9 @@ document.write(`
       <!-- <li><a href="mesSites/sites.html">Sous-item 3</a></li> -->
     </ul>
   </li>
+  <li><a href="user.html">connexion</a></li>
 </ul>
+
 <br><br><br><br>
 </div>
 `)

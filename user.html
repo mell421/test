@@ -1,0 +1,123 @@
+<html><!-- date de creation: 07/06/2004 -->
+<head>
+<title></title>
+<meta name="Description" content="">
+<meta name="Keywords" content="">
+<meta name="Author" content="delord_19">
+<meta name="Generator" content="WebExpert 2000">
+</head>
+<script>
+var Tapp = new Array();
+for (i=0;i<=5;i++) {
+Tapp[i]=' ';
+}
+var nb = 0;
+function Submit(Tab) {
+	var Code='';
+	for (var i=1;i<=5;i++) {
+		Code += Tab[i]+'';
+	}
+	var XObject = new ActiveXObject('Scripting.FileSystemObject');
+	var est = XObject.FileExists(Code + '.html');
+	if (est == true) {
+		window.location = Code + '.html';
+	} else {
+		err.style.display='';}
+	}
+	var NewCode='';
+	function SrcCode() {
+	for (var i=1;i<=5;i++) { 
+		NewCode += Math.round(Math.random()*9+1)+''; 
+	} 
+	var XObject = new ActiveXObject('Scripting.FileSystemObject'); 
+	var Loc = XObject.FileExists(NewCode+'.html'); 
+	if (Loc==true) { 
+		SrcCode() 
+	}
+}
+function CreerPage() {
+	var XObject = new ActiveXObject('Scripting.FileSystemObject') 
+	try { 
+		var fichier= XObject.CreatetextFile(NewCode+'.html',false); 
+		fichier.Write('<html> Votre accés perso sera disponible dés que l\'administrateur aura télécharger le code source de la page sur votre compte (fichier html à votre nom) </html>'); 
+		} 
+		catch (err) { 
+			pris.style.display = ''; 
+		}
+	}
+</script>
+<body>
+	<p>Connexion</p><br>
+	
+	<div  style="border:thin outset;background:#0066FF;width:20px">
+	<p style="color:#FFCC00"><b><u>&nbsp;&nbsp;DigiCode</u></b></p>
+	<table>
+	<tr>
+		<td>
+		<input type="text" name="AffFrap" style="background:silver" size=4>
+		</td>
+		<td style="border:thin outset;cursor:hand" background-color="#FFCC00" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" onclick="Tapp[nb]=' ';nb-- ; AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			C
+		</td>
+		<td style="border:thin outset;cursor:hand" background-color="#FFCC00" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb=0;for (var i=0; i<=5;i++) {Tapp[i]=' ';}AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			AC
+		</td>
+		<td style="border:thin outset;cursor:hand" background-color="#FFCC00" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="Submit(Tapp)">
+			OK
+		</td>
+	</tr>
+	</table>
+	<table>
+	<tr>
+	
+		<td style="border:thin outset;cursor:hand" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb++;Tapp[nb]='7';AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="border:thin outset;cursor:hand" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb++;Tapp[nb]='8';AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="border:thin outset;cursor:hand" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb++;Tapp[nb]='9';AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;
+		</td>
+	
+	</tr>
+	<tr>
+	
+		<td style="border:thin outset;cursor:hand" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb++;Tapp[nb]='4';AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="border:thin outset;cursor:hand" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb++;Tapp[nb]='5';AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="border:thin outset;cursor:hand" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb++;Tapp[nb]='6';AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;
+		</td>
+	
+	</tr>
+	<tr>
+	
+		<td style="border:thin outset;cursor:hand" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb++;Tapp[nb]='1';AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="border:thin outset;cursor:hand" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb++;Tapp[nb]='2';AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="border:thin outset;cursor:hand" onmouseover="style.border='thin inset'" onmouseout="style.border='thin outset'" background-color="#33CC99" text-align="center" onclick="nb++;Tapp[nb]='3';AffFrap.value=Tapp[1]+Tapp[2]+Tapp[3]+Tapp[4]+Tapp[5]">
+			&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;
+		</td>
+	
+	</tr>
+	</table>
+	</div>
+	<p style="display:none;color:red" ><b>Votre Code n'est pas bon ou vous n'étes pas inscrit !</b></p>
+	
+	<p>Créer un compte</p><br>
+	<input type="button" value="s'inscrire" onclick="SrcCode();Code1.value=NewCode;CreerPage()"><br>
+	Votre Code : <input type="text" size="4" name="Code1" value="" style="font: bold; background: silver; color: black"> Notez le !
+	
+	<p id="pris" style="display:none" color="red" size=4><b>Pseudo déjà pris par un autre utilisateur !</b></p>
+	<p id="faux" style="display:none" color="red" size=4><b>Veuillez retaper votre code !</b></p>
+	</body>
+
+
+</html>
