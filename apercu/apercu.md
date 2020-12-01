@@ -81,23 +81,23 @@ Oxygen _1x2(1) Koh-lanta _25x4(1) Unbag _1x3(1) The voice vv _6x2(1)
 #### sem 21-09-2020 
 Survivor au _7x17(1) Oxygen _1x3(1) Love in time _1x2(1) Ingredients _1x14(1) Koh-lanta _25x5(1) Drag race holland _1x2(1) Unbag _1x4(1) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) 
 #### sem 28-09-2020 
-Safe haven _1x6(5) Oxygen _1x4(1) Gameboys _1x5(4) Drag race holland _1x3(1) Koh-lanta _25x6(1) Unbag _1x5(1) I can see your voice _1x2(1) The masked singer _4x2(1) 
+Oxygen _1x4(1) Gameboys _1x5(4) Drag race holland _1x3(1) Koh-lanta _25x6(1) Unbag _1x5(1) I can see your voice _1x2(1) The masked singer _4x2(1) 
 #### sem 05-10-2020 
-I can see your voice _1x3(1) Friend forever _1x3(2) Oxygen _1x5(1) Boyband love _1x2(1) Ingredients _1x15(1) Safe haven _1x7(1) Koh-lanta _25x7(1) The masked singer _4x3(1) My day _1x2(1) Gameboys _1x6(1)
+I can see your voice _1x3(1) Friend forever _1x3(2) Oxygen _1x5(1) Boyband love _1x2(1) Ingredients _1x15(1) Koh-lanta _25x7(1) The masked singer _4x3(1) My day _1x2(1) Gameboys _1x6(1)
 #### sem 12-10-2020 
 Boyband love _1x3(1) Oxygen _1x6(1) We are not human _1x12(3) The voice germany _10x2(1) Koh-lanta _25x8(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### sem 19-10-2020 
-Ben x jim _1x2(1) Boys lockdown _1x2(1) Love in time _1x4(2) Strictly come dancing _18x2(1) Boyband love _1x4(1) Oxygen _1x7(1) Ingredients _1x16(1) Koh-lanta _25x9(1) We are not human _1x19(7) The masked singer _4x5(1) Safe haven _1x9(2) The voice germany _10x3(1)
+Ben x jim _1x2(1) Boys lockdown _1x2(1) Love in time _1x4(2) Strictly come dancing _18x2(1) Boyband love _1x4(1) Oxygen _1x7(1) Ingredients _1x16(1) Koh-lanta _25x9(1) We are not human _1x19(7) The masked singer _4x5(1) The voice germany _10x3(1)
 #### sem 26-10-2020 
-Boys lockdown _1x3(1) Gameboys _1x7(1) Oxygen _1x8(1) Strictly come dancing _18x3(1) Boyband love _1x5(1) Calculating love _1x4(1) Offgun fun night _2x2(1) The voice germany _10x6(3) Koh-lanta _25x10(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Incroyable talent _15x2(1) Safe haven _1x10(1) The voice us _19x3(2) Quien es la mascara _2x3(2) Joséphine ange gardien _23x3(2) 
+Boys lockdown _1x3(1) Gameboys _1x7(1) Oxygen _1x8(1) Strictly come dancing _18x3(1) Boyband love _1x5(1) Calculating love _1x4(1) Offgun fun night _2x2(1) The voice germany _10x6(3) Koh-lanta _25x10(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Incroyable talent _15x2(1) The voice us _19x3(2) Quien es la mascara _2x3(2) Joséphine ange gardien _23x3(2) 
 #### sem 02-11-2020 
-Strictly come dancing _18x5(2) Oxygen _1x9(1) Boyband love _1x6(1) Better days _1x2(1) Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Koh-lanta _25x11(1) Swap test _1x3(1) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(1) I can see your voice _1x5(2) The masked singer _4x6(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) The voice us _19x5(2) Incroyable talent _15x3(1) Safe haven _1x11(1) Joséphine ange gardien _23x4(1) 
+Strictly come dancing _18x5(2) Oxygen _1x9(1) Boyband love _1x6(1) Better days _1x2(1) Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Koh-lanta _25x11(1) Swap test _1x3(1) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(1) I can see your voice _1x5(2) The masked singer _4x6(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) The voice us _19x5(2) Incroyable talent _15x3(1) Joséphine ange gardien _23x4(1) 
 #### sem 09-11-2020 
-Strictly come dancing _18x7(2) Lakan _1x3(1) Pogi lang hanap _1x4(1) Oxygen _1x10(1) Calculating love _1x5(1) TharnType _2x2(1) Koh-lanta _25x12(1) The voice germany _10x10(2) Discipline _2x3(1) Young sheldon _4x2(1) Unbag _1x8(1) Blood _1x17(1) The masked singer _4x7(1) The good doctor _4x2(1) Incroyable talent _15x4(1) Safe haven _1x12(1) The voice us _19x6(1) 
+Strictly come dancing _18x7(2) Lakan _1x3(1) Pogi lang hanap _1x4(1) Oxygen _1x10(1) Calculating love _1x5(1) TharnType _2x2(1) Koh-lanta _25x12(1) The voice germany _10x10(2) Discipline _2x3(1) Young sheldon _4x2(1) Unbag _1x8(1) Blood _1x17(1) The masked singer _4x7(1) The good doctor _4x2(1) Incroyable talent _15x4(1) The voice us _19x6(1) 
 #### sem 16-11-2020 
-Oh mando _1x2(1) Sea him _1x3(1) Strictly come dancing _18x9(2) My vampire boyfriend _1x3(2) Better days _1x4(2) Oxygen _1x11(1) Ingredients _1x18(1) The voice germany _10x12(2) Koh-lanta _25x13(1) Thonhon chonlathee _1x2(1) Young sheldon _4x3(1) The masked singer _4x8(1) Bt21 universe _1x3(2) Unbag _1x9(1) The voice us _19x8(2) Safe haven _1x13(1) Boyband love _1x7(1) Incroyable talent _15x5(1) 
+Oh mando _1x2(1) Sea him _1x3(1) Strictly come dancing _18x9(2) My vampire boyfriend _1x3(2) Better days _1x4(2) Oxygen _1x11(1) Ingredients _1x18(1) The voice germany _10x12(2) Koh-lanta _25x13(1) Thonhon chonlathee _1x2(1) Young sheldon _4x3(1) The masked singer _4x8(1) Bt21 universe _1x3(2) Unbag _1x9(1) The voice us _19x8(2) Boyband love _1x7(1) Incroyable talent _15x5(1) 
 #### sem 23-11-2020 
-Strictly come dancing _18x11(2) Oxygen _1x12(1) Boyband love _1x8(1) Calculating love _1x6(1) TharnType _2x3(1) The voice senior vv _2x2(1) Thonhon chonlathee _1x3(1) Koh-lanta _25x14(1) Better days _1x5(1) Discipline _2x4(1) Young sheldon _4x4(1) History2 right or wrong _1x2(1) Gameboys _1x8(1) Unbag _1x10(1) The masked singer _4x9(1) Pogi lang hanap _1x5(1) The voice us _19x10(2) Safe haven _1x14(1) The voice germany _10x13(1) 
+Strictly come dancing _18x11(2) Oxygen _1x12(1) Boyband love _1x8(1) Calculating love _1x6(1) TharnType _2x3(1) The voice senior vv _2x2(1) Thonhon chonlathee _1x3(1) Koh-lanta _25x14(1) Better days _1x5(1) Discipline _2x4(1) Young sheldon _4x4(1) History2 right or wrong _1x2(1) Gameboys _1x8(1) Unbag _1x10(1) The masked singer _4x9(1) Pogi lang hanap _1x5(1) The voice us _19x10(2) The voice germany _10x13(1) 
 
 
 
@@ -125,9 +125,9 @@ Ingredients _1x10(10) Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1)
 #### mois 01-09-2020 
 Survivor au _1x2(1) Nailed it holiday _2x3(1) Koh-lanta _25x2(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1) Ingredients _1x12(2) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) Survivor au _7x16(2) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Calculating love _1x3(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Taking the stands _1x5(2) Lucifer _4x4(1) 
 #### mois 01-10-2020 
-Friend forever _1x2(1) My day _1x2(1) Gameboys _1x6(5) Safe haven _1x6(5) Oxygen _1x4(3) Drag race holland _1x3(2) Koh-lanta _25x6(4) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
+Friend forever _1x2(1) My day _1x2(1) Gameboys _1x6(5) Oxygen _1x4(3) Drag race holland _1x3(2) Koh-lanta _25x6(4) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
 #### mois 01-11-2020 
-Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _18x4(3) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Koh-lanta _25x11(5) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) The voice us _19x5(4) Incroyable talent _15x3(2) Safe haven _1x11(5) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Gameboys _1x7(1) Calculating love _1x4(1) Offgun fun night _2x2(1) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _18x4(3) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Koh-lanta _25x11(5) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) The voice us _19x5(4) Incroyable talent _15x3(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Gameboys _1x7(1) Calculating love _1x4(1) Offgun fun night _2x2(1) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 
 
 
@@ -158,29 +158,29 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 ### conclu 27/09/20 
 > Survivor au _7 > 5; Ingredients _1 > 3; Lls _1 > 3; Gameboys _1 > 2; Koh-lanta _25 > 1; 
 ### conclu 28/09/20 
-> Safe haven _1 > 5; Survivor au _7 > 5; Lls _1 > 3; Gameboys _1 > 2; Ingredients _1 > 1;
+> Survivor au _7 > 5; Lls _1 > 3; Gameboys _1 > 2; Ingredients _1 > 1;
 ### conclu 29/09/20 
-> Safe haven _1 > 5; Survivor au _7 > 5; Ingredients _1 > 3; Lls _1 > 3; Gameboys _1 > 2; 
+> Survivor au _7 > 5; Ingredients _1 > 3; Lls _1 > 3; Gameboys _1 > 2; 
 ### conclu 30/09/20 
-> Gameboys _1 > 5; Survivor au _7 > 5; Lls _1 > 3; Safe haven _1 > 3; Ingredients _1 > 1; 
+> Gameboys _1 > 5; Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 1; 
 ### conclu 01/10/20 
-> Gameboys _1 > 4; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Ingredients _1 > 1; 
+> Gameboys _1 > 4; Lls _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; 
 ### conclu 02/10/20 
-> Gameboys _1 > 3; Lls _1 > 3; Safe haven _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; 
+> Gameboys _1 > 3; Lls _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; 
 ### conclu 03/10/20 
-> Safe haven _1 > 8; Lls _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1;
+> Lls _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1;
 ### conclu 04/10/20
-> Safe haven _1 > 6; Ingredients _1 > 4; Lls _1 > 3; Survivor au _7 > 2; 
+> Ingredients _1 > 4; Lls _1 > 3; Survivor au _7 > 2; 
 ### conclu 05/10/20
-> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; 
+> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; 
 ### conclu 06/10/20
-> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Safe haven _1 > 3; Survivor au _7 > 2; 
+> Ingredients _1 > 4; Friend forever _1 > 3; Lls _1 > 3; Survivor au _7 > 2; 
 ### conclu 07/10/20
-> Ingredients _1 > 4; Lls _1 > 3; Friend forever _1 > 2; Safe haven _1 > 2; Survivor au _7 > 2; 
+> Ingredients _1 > 4; Lls _1 > 3; Friend forever _1 > 2; Survivor au _7 > 2; 
 ### conclu 08/10/20
-> Ingredients _1 > 4; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; 
+> Ingredients _1 > 4; Lls _1 > 3; Survivor au _7 > 2; 
 ### conclu 09/10/20
-> Ingredients _1 > 4; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Friend zone _1 > 1; 
+> Ingredients _1 > 4; Lls _1 > 3; Survivor au _7 > 2; Friend zone _1 > 1; 
 ### conclu 10/10/20
 > We are not human _1 > 5; Lls _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1; 
 ### conclu 11/10/20 
@@ -190,55 +190,55 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 ### conclu 13/10/20 
 > We are not human _1 > 5; Lls _1 > 3; Survivor au _7 > 2; The voice germany _10 > 2; Ingredients _1 > 1; 
 ### conclu 14/10/20 
-> We are not human _1 > 5; Lls _1 > 3; Safe haven _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; The voice germany _10 > 1; 
+> We are not human _1 > 5; Lls _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; The voice germany _10 > 1; 
 ### conclu 15/10/20 
-> We are not human _1 > 11; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 1; The masked singer _4 > 1; 
+> We are not human _1 > 11; Lls _1 > 3; Survivor au _7 > 1; The masked singer _4 > 1; 
 ### conclu 16/10/20 
-> We are not human _1 > 11; Lls _1 > 3; Safe haven _1 > 2; Survivor au _7 > 1; 
+> We are not human _1 > 11; Lls _1 > 3; Survivor au _7 > 1; 
 ### conclu 17/10/20 
-> We are not human _1 > 11; Lls _1 > 3; Safe haven _1 > 3; Koh-lanta _25 > 1; Survivor au _7 > 1; 
+> We are not human _1 > 11; Lls _1 > 3; Koh-lanta _25 > 1; Survivor au _7 > 1; 
 ### conclu 18/10/20
-> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Safe haven _1 > 2; Boyband love _1 > 1;
+> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Boyband love _1 > 1;
 ### conclu 19/10/20
-> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Safe haven _1 > 2; Love in time _1 > 1; 
+> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Love in time _1 > 1; 
 ### conclu 20/10/20
-> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Joséphine ange gardien _23 > 2; Safe haven _1 > 2; Love in time _1 > 1; 
+> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Joséphine ange gardien _23 > 2; Love in time _1 > 1; 
 ### conclu 21/10/20
 > We are not human _1 > 5; Ingredients _1 > 3; Lls _1 > 3; Koh-lanta _25 > 1; 
 ### conclu 22/10/20
-> Ingredients _1 > 3; Lls _1 > 3; Safe haven _1 > 3; We are not human _1 > 2; The voice us _19 > 1; 
+> Ingredients _1 > 3; Lls _1 > 3; We are not human _1 > 2; The voice us _19 > 1; 
 ### conclu 23/10/20
-> Safe haven _1 > 4; Ingredients _1 > 3; Lls _1 > 3; We are not human _1 > 2; The voice us _19 > 1; 
+> Ingredients _1 > 3; Lls _1 > 3; We are not human _1 > 2; The voice us _19 > 1; 
 ### conclu 24/10/20
-> Safe haven _1 > 4; Lls _1 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; Ingredients _1 > 1; 
+> Lls _1 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; Ingredients _1 > 1; 
 ### conclu 25/10/20
-> Safe haven _1 > 4; Lls _1 > 3; Koh-lanta _25 > 2; The voice germany _10 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1; 
+> Lls _1 > 3; Koh-lanta _25 > 2; The voice germany _10 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1; 
 ### conclu 26/10/20
-> Safe haven _1 > 4; Lls _1 > 3; Koh-lanta _25 > 2; The voice germany _10 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1;
+> Lls _1 > 3; Koh-lanta _25 > 2; The voice germany _10 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1;
 ### conclu 27/10/20
-> Safe haven _1 > 4; Lls _1 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; We are not human _1 > 2; Ingredients _1 > 1; 
+> Lls _1 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; We are not human _1 > 2; Ingredients _1 > 1; 
 ### conclu 28/10/20
-> Lls _1 > 3; Safe haven _1 > 3; The voice germany _10 > 2; The voice us _19 > 2; We are not human _1 > 1; 
+> Lls _1 > 3; The voice germany _10 > 2; The voice us _19 > 2; We are not human _1 > 1; 
 ### conclu 29/10/20 
-> I can see your voice _1 > 3; Lls _1 > 3; Safe haven _1 > 3; Pogi lang hanap _1 > 2; The voice germany _10 > 2; We are not human _1 > 1; 
+> I can see your voice _1 > 3; Lls _1 > 3; Pogi lang hanap _1 > 2; The voice germany _10 > 2; We are not human _1 > 1; 
 ### conclu 30/10/20 
-> Lls _1 > 3; I can see your voice _1 > 2; Safe haven _1 > 2; The voice germany _10 > 2; Pogi lang hanap _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 3; I can see your voice _1 > 2; The voice germany _10 > 2; Pogi lang hanap _1 > 1; We are not human _1 > 1; 
 ### conclu 31/10/20 
-> The voice germany _10 > 5; Lls _1 > 3; Koh-lanta _25 > 2; I can see your voice _1 > 1; Safe haven _1 > 1; We are not human _1 > 1; 
+> The voice germany _10 > 5; Lls _1 > 3; Koh-lanta _25 > 2; I can see your voice _1 > 1; We are not human _1 > 1; 
 ### conclu 01/11/20 
 > The voice germany _10 > 4; Lls _1 > 3; Ingredients _1 > 2; I can see your voice _1 > 1; Koh-lanta _25 > 1; We are not human _1 > 1; 
 ### conclu 02/11/20
-> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; Safe haven _1 > 1; 
+> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; 
 ### conclu 03/11/20
-> Ingredients _1 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; I can see your voice _1 > 1; Safe haven _1 > 1; 
+> Ingredients _1 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; The voice germany _10 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; I can see your voice _1 > 1; 
 ### conclu 04/11/20
-> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; We are not human _1 > 2; 
+> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; We are not human _1 > 2; 
 ### conclu 05/11/20 
-> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; We are not human _1 > 2; 
+> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; We are not human _1 > 2; 
 ### conclu 06/11/20 
-> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 3; We are not human _1 > 2; 
+> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; We are not human _1 > 2; 
 ### conclu 07/11/20 
-> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; Safe haven _1 > 1; 
+> Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Koh-lanta _25 > 2; We are not human _1 > 2; 
 ### conclu 08/11/20 
 > Strictly come dancing _18 > 4; Lls _1 > 3; The voice germany _10 > 3; We are not human _1 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1; Oxygen _1 > 1; 
 ### conclu 09/11/20 
@@ -246,7 +246,7 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 ### conclu 10/11/20 
 > The voice germany _10 > 6; Lls _1 > 3; Strictly come dancing _18 > 3; We are not human _1 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1; 
 ### conclu 11/11/20 
-> The voice germany _10 > 6; Safe haven _1 > 4; Lls _1 > 3; Strictly come dancing _18 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1; 
+> The voice germany _10 > 6; Lls _1 > 3; Strictly come dancing _18 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1; 
 ### conclu 12/11/20
 > Lls _1 > 3; The voice germany _10 > 2; The masked singer _4 > 1; The voice us _19 > 1; We are not human _1 > 1; 
 ### conclu 13/11/20
@@ -260,23 +260,23 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 ### conclu 17/11/20
 > The voice germany _10 > 8; Ingredients _1 > 5; Strictly come dancing _18 > 4; Lls _1 > 3; Koh-lanta _25 > 1; My vampire boyfriend _1 > 1; The voice us _19 > 1; We are not human _1 > 1; 
 ### conclu 18/11/20
-> Ingredients _1 > 5; The voice germany _10 > 5; The voice us _19 > 4; Lls _1 > 3; Safe haven _1 > 2; Strictly come dancing _18 > 1; We are not human _1 > 1; 
+> Ingredients _1 > 5; The voice germany _10 > 5; The voice us _19 > 4; Lls _1 > 3; Strictly come dancing _18 > 1; We are not human _1 > 1; 
 ### conclu 19/11/20
-> The voice us _19 > 6; Ingredients _1 > 5; The voice germany _10 > 4; Lls _1 > 3; Safe haven _1 > 2; Strictly come dancing _18 > 1; We are not human _1 > 1; 
+> The voice us _19 > 6; Ingredients _1 > 5; The voice germany _10 > 4; Lls _1 > 3; Strictly come dancing _18 > 1; We are not human _1 > 1; 
 ### conclu 20/11/20
-> Ingredients _1 > 5; The voice us _19 > 4; Lls _1 > 3; The voice germany _10 > 2; Safe haven _1 > 1; Strictly come dancing _18 > 1; We are not human _1 > 1; 
+> Ingredients _1 > 5; The voice us _19 > 4; Lls _1 > 3; The voice germany _10 > 2; Strictly come dancing _18 > 1; We are not human _1 > 1; 
 ### conclu 21/11/20
 > Ingredients _1 > 5; Better days _1 > 3; Lls _1 > 3; The voice germany _10 > 3; The voice us _19 > 2; Koh-lanta _25 > 1; Strictly come dancing _18 > 1; We are not human _1 > 1; 
 ### conclu 22/11/20 
-> Lls _1 > 3; The voice germany _10 > 3; The voice us _19 > 3; Ingredients _1 > 2; Koh-lanta _25 > 2; Safe haven _1 > 1; Strictly come dancing _18 > 1; We are not human _1 > 1; 
+> Lls _1 > 3; The voice germany _10 > 3; The voice us _19 > 3; Ingredients _1 > 2; Koh-lanta _25 > 2; Strictly come dancing _18 > 1; We are not human _1 > 1; 
 ### conclu 23/11/20 
-> Strictly come dancing _18 > 5; Lls _1 > 3; Ingredients _1 > 2; Koh-lanta _25 > 2; The voice us _19 > 2; Safe haven _1 > 1; The voice germany _10 > 1; We are not human _1 > 1; 
+> Strictly come dancing _18 > 5; Lls _1 > 3; Ingredients _1 > 2; Koh-lanta _25 > 2; The voice us _19 > 2; The voice germany _10 > 1; We are not human _1 > 1; 
 ### conclu 24/11/20 
 > The voice germany _10 > 5; Strictly come dancing _18 > 4; Lls _1 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; The voice us _19 > 1; We are not human _1 > 1; 
 ### conclu 25/11/20 
-> The voice us _19 > 6; Lls _1 > 3; The voice germany _10 > 3; Ingredients _1 > 2; Safe haven _1 > 2; Strictly come dancing _18 > 2; We are not human _1 > 1; 
+> The voice us _19 > 6; Lls _1 > 3; The voice germany _10 > 3; Ingredients _1 > 2; Strictly come dancing _18 > 2; We are not human _1 > 1; 
 ### conclu 26/11/20 
-> The voice germany _10 > 8; The voice us _19 > 4; Lls _1 > 3; Ingredients _1 > 2; Safe haven _1 > 1; Strictly come dancing _18 > 1; We are not human _1 > 1; 
+> The voice germany _10 > 8; The voice us _19 > 4; Lls _1 > 3; Ingredients _1 > 2; Strictly come dancing _18 > 1; We are not human _1 > 1; 
 
 
 
@@ -297,29 +297,29 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 ### concluBis 27/09/20 
 > Survivor au _7 > 9; Ingredients _1 > 7; Gameboys _1 > 5; Lls _1 > 5; Koh-lanta _25 > 3; Kaamelott _5 > 1; 
 ### concluBis 28/09/20 
-> Safe haven _1 > 10; Survivor au _7 > 9; Lls _1 > 5; Gameboys _1 > 4; Ingredients _1 > 3; Kaamelott _5 > 1; 
+> Survivor au _7 > 9; Lls _1 > 5; Gameboys _1 > 4; Ingredients _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 29/09/20 
-> Survivor au _7 > 9; Safe haven _1 > 9; Ingredients _1 > 7; Lls _1 > 5; Gameboys _1 > 4; Kaamelott _5 > 1; 
+> Survivor au _7 > 9; Ingredients _1 > 7; Lls _1 > 5; Gameboys _1 > 4; Kaamelott _5 > 1; 
 ### concluBis 30/09/20 
-> Gameboys _1 > 10; Survivor au _7 > 9; Safe haven _1 > 7; Lls _1 > 5; Ingredients _1 > 3; Kaamelott _5 > 1; 
+> Gameboys _1 > 10; Survivor au _7 > 9; Lls _1 > 5; Ingredients _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 01/10/20 
-> Gameboys _1 > 9; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1; 
+> Gameboys _1 > 9; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 02/10/20 
-> Gameboys _1 > 8; Safe haven _1 > 7; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1;
+> Gameboys _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1;
 ### concluBis 03/10/20 
-> Safe haven _1 > 14; Koh-lanta _25 > 5; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Gameboys _1 > 1; Kaamelott _5 > 1;
+> Koh-lanta _25 > 5; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Gameboys _1 > 1; Kaamelott _5 > 1;
 ### concluBis 04/10/20
-> Safe haven _1 > 12; Ingredients _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Koh-lanta _25 > 2; Kaamelott _5 > 1; 
+> Ingredients _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Koh-lanta _25 > 2; Kaamelott _5 > 1; 
 ### concluBis 05/10/20
-> Ingredients _1 > 8; Safe haven _1 > 7; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1; 
+> Ingredients _1 > 8; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 06/10/20
-> Ingredients _1 > 8; Safe haven _1 > 7; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1; 
+> Ingredients _1 > 8; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Koh-lanta _25 > 1; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 07/10/20
-> Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Friend forever _1 > 4; Survivor au _7 > 4; Koh-lanta _25 > 1; Kaamelott _5 > 1; 
+> Ingredients _1 > 8; Lls _1 > 5; Friend forever _1 > 4; Survivor au _7 > 4; Koh-lanta _25 > 1; Kaamelott _5 > 1; 
 ### concluBis 08/10/20
-> Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; Capture lover _1 > 2; Koh-lanta _25 > 1; Zombie detective _1 > 1; Kaamelott _5 > 1; 
+> Ingredients _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Capture lover _1 > 2; Koh-lanta _25 > 1; Zombie detective _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 09/10/20
-> Ingredients _1 > 8; Safe haven _1 > 6; Lls _1 > 5; Survivor au _7 > 4; Unbag _1 > 3; Friend zone _1 > 3; Koh-lanta _25 > 1; The masked singer _4 > 1; Kaamelott _5 > 1; 
+> Ingredients _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Unbag _1 > 3; Friend zone _1 > 3; Koh-lanta _25 > 1; The masked singer _4 > 1; Kaamelott _5 > 1; 
 ### concluBis 10/10/20
 > We are not human _1 > 9; Koh-lanta _25 > 5; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1;
 ### concluBis 11/10/20 
@@ -329,93 +329,93 @@ Oxygen _1x9(5) Boyband love _1x6(5) Better days _1x2(1) Strictly come dancing _1
 ### concluBis 13/10/20 
 > We are not human _1 > 9; Lls _1 > 5; The voice germany _10 > 4; Survivor au _7 > 4; Ingredients _1 > 3; Koh-lanta _25 > 2; Oxygen _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 14/10/20 
-> We are not human _1 > 9; Safe haven _1 > 8; Lls _1 > 5; Survivor au _7 > 4; The voice germany _10 > 3; Ingredients _1 > 3; Koh-lanta _25 > 1; 
+> We are not human _1 > 9; Lls _1 > 5; Survivor au _7 > 4; The voice germany _10 > 3; Ingredients _1 > 3; Koh-lanta _25 > 1; 
 ### concluBis 15/10/20 
-> We are not human _1 > 19; Safe haven _1 > 7; Lls _1 > 5; The masked singer _4 > 3; Survivor au _7 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; 
+> We are not human _1 > 19; Lls _1 > 5; The masked singer _4 > 3; Survivor au _7 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; 
 ### concluBis 16/10/20 
-> We are not human _1 > 19; Safe haven _1 > 7; Lls _1 > 5; Survivor au _7 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; 
+> We are not human _1 > 19; Lls _1 > 5; Survivor au _7 > 3; Ingredients _1 > 2; Koh-lanta _25 > 1; 
 ### concluBis 17/10/20 
-> We are not human _1 > 19; Safe haven _1 > 8; Lls _1 > 5; Koh-lanta _25 > 4; Survivor au _7 > 3; Ingredients _1 > 2; 
+> We are not human _1 > 19; Lls _1 > 5; Koh-lanta _25 > 4; Survivor au _7 > 3; Ingredients _1 > 2; 
 ### concluBis 18/10/20
-> We are not human _1 > 19; Ingredients _1 > 7; Safe haven _1 > 5; Lls _1 > 5; Boyband love _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; Oxygen _1 > 1; 
+> We are not human _1 > 19; Ingredients _1 > 7; Lls _1 > 5; Boyband love _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; Oxygen _1 > 1; 
 ### concluBis 19/10/20
-> We are not human _1 > 19; Ingredients _1 > 7; Safe haven _1 > 5; Lls _1 > 5; Love in time _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; 
+> We are not human _1 > 19; Ingredients _1 > 7; Lls _1 > 5; Love in time _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; 
 ### concluBis 20/10/20
-> We are not human _1 > 19; Ingredients _1 > 7; Safe haven _1 > 5; Lls _1 > 5; Joséphine ange gardien _23 > 4; Love in time _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2;
+> We are not human _1 > 19; Ingredients _1 > 7; Lls _1 > 5; Joséphine ange gardien _23 > 4; Love in time _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2;
 ### concluBis 21/10/20
 > We are not human _1 > 9; Ingredients _1 > 7; Lls _1 > 5; Koh-lanta _25 > 3; The voice germany _10 > 3; Survivor au _7 > 2; Quien es la mascara _2 > 1; 
 ### concluBis 22/10/20
-> Ingredients _1 > 7; Safe haven _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice us _19 > 3; Survivor au _7 > 2; The voice germany _10 > 1; 
+> Ingredients _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice us _19 > 3; Survivor au _7 > 2; The voice germany _10 > 1; 
 ### concluBis 23/10/20
-> Safe haven _1 > 8; Ingredients _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice us _19 > 3; The voice germany _10 > 2; Survivor au _7 > 2; 
+> Ingredients _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice us _19 > 3; The voice germany _10 > 2; Survivor au _7 > 2; 
 ### concluBis 24/10/20
-> Safe haven _1 > 8; The voice germany _10 > 6; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; The voice us _19 > 1; 
+> The voice germany _10 > 6; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; The voice us _19 > 1; 
 ### concluBis 25/10/20
-> Safe haven _1 > 8; Lls _1 > 5; Koh-lanta _25 > 4; The voice germany _10 > 4; We are not human _1 > 4; Oxygen _1 > 3; The voice us _19 > 3; Ingredients _1 > 3; Gameboys _1 > 2; Survivor au _7 > 2; Quien es la mascara _2 > 1; 
+> Lls _1 > 5; Koh-lanta _25 > 4; The voice germany _10 > 4; We are not human _1 > 4; Oxygen _1 > 3; The voice us _19 > 3; Ingredients _1 > 3; Gameboys _1 > 2; Survivor au _7 > 2; Quien es la mascara _2 > 1; 
 ### concluBis 26/10/20
-> Safe haven _1 > 8; The voice germany _10 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Oxygen _1 > 3; The voice us _19 > 3; Ingredients _1 > 3; Survivor au _7 > 2; Quien es la mascara _2 > 1; 
+> The voice germany _10 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Oxygen _1 > 3; The voice us _19 > 3; Ingredients _1 > 3; Survivor au _7 > 2; Quien es la mascara _2 > 1; 
 ### concluBis 27/10/20
-> Safe haven _1 > 8; The voice germany _10 > 7; Lls _1 > 5; Koh-lanta _25 > 4; The voice us _19 > 4; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
+> The voice germany _10 > 7; Lls _1 > 5; Koh-lanta _25 > 4; The voice us _19 > 4; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
 ### concluBis 28/10/20
-> Safe haven _1 > 7; Lls _1 > 5; The voice germany _10 > 4; The voice us _19 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Incroyable talent _15 > 2; Ingredients _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 5; The voice germany _10 > 4; The voice us _19 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Incroyable talent _15 > 2; Ingredients _1 > 2; Survivor au _7 > 1; 
 ### concluBis 29/10/20
-> Safe haven _1 > 7; I can see your voice _1 > 5; Lls _1 > 5; The voice germany _10 > 4; Pogi lang hanap _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Ingredients _1 > 2; The masked singer _4 > 1; Survivor au _7 > 1; 
+> I can see your voice _1 > 5; Lls _1 > 5; The voice germany _10 > 4; Pogi lang hanap _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; The voice us _19 > 2; Ingredients _1 > 2; The masked singer _4 > 1; Survivor au _7 > 1; 
 ### concluBis 30/10/20
-> Safe haven _1 > 6; Lls _1 > 5; The voice germany _10 > 4; I can see your voice _1 > 4; Pogi lang hanap _1 > 3; We are not human _1 > 3; Koh-lanta _25 > 2; Ingredients _1 > 2; The masked singer _4 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
+> Lls _1 > 5; The voice germany _10 > 4; I can see your voice _1 > 4; Pogi lang hanap _1 > 3; We are not human _1 > 3; Koh-lanta _25 > 2; Ingredients _1 > 2; The masked singer _4 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
 ### concluBis 31/10/20
-> The voice germany _10 > 9; Koh-lanta _25 > 6; Lls _1 > 5; Safe haven _1 > 3; I can see your voice _1 > 3; We are not human _1 > 3; Ingredients _1 > 2; The voice us _19 > 1; Survivor au _7 > 1; 
+> The voice germany _10 > 9; Koh-lanta _25 > 6; Lls _1 > 5; I can see your voice _1 > 3; We are not human _1 > 3; Ingredients _1 > 2; The voice us _19 > 1; Survivor au _7 > 1; 
 ### concluBis 01/11/20
-> The voice germany _10 > 8; Ingredients _1 > 6; Lls _1 > 5; Koh-lanta _25 > 3; I can see your voice _1 > 3; We are not human _1 > 3; Safe haven _1 > 2; Oxygen _1 > 2; Boyband love _1 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
+> The voice germany _10 > 8; Ingredients _1 > 6; Lls _1 > 5; Koh-lanta _25 > 3; I can see your voice _1 > 3; We are not human _1 > 3; Oxygen _1 > 2; Boyband love _1 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
 ### concluBis 02/11/20
-> Ingredients _1 > 8; The voice germany _10 > 8; Strictly come dancing _18 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Safe haven _1 > 3; Oxygen _1 > 2; I can see your voice _1 > 2; Survivor au _7 > 2; Boyband love _1 > 1; 
+> Ingredients _1 > 8; The voice germany _10 > 8; Strictly come dancing _18 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Oxygen _1 > 2; I can see your voice _1 > 2; Survivor au _7 > 2; Boyband love _1 > 1; 
 ### concluBis 03/11/20
-> Ingredients _1 > 8; Strictly come dancing _18 > 6; The voice germany _10 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; Safe haven _1 > 3; I can see your voice _1 > 3; Survivor au _7 > 2; 
+> Ingredients _1 > 8; Strictly come dancing _18 > 6; The voice germany _10 > 5; Lls _1 > 5; Koh-lanta _25 > 4; We are not human _1 > 4; I can see your voice _1 > 3; Survivor au _7 > 2; 
 ### concluBis 04/11/20
-> Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; 
+> Ingredients _1 > 8; The voice germany _10 > 8; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; 
 ### concluBis 05/11/20
-> Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; 
+> Ingredients _1 > 8; The voice germany _10 > 8; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; 
 ### concluBis 06/11/20
-> Ingredients _1 > 8; The voice germany _10 > 8; Safe haven _1 > 7; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; The masked singer _4 > 1; Young sheldon _4 > 1; 
+> Ingredients _1 > 8; The voice germany _10 > 8; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 2; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; The masked singer _4 > 1; Young sheldon _4 > 1; 
 ### concluBis 07/11/20 
-> The voice germany _10 > 9; Ingredients _1 > 8; Koh-lanta _25 > 6; Lls _1 > 5; We are not human _1 > 4; Safe haven _1 > 3; Strictly come dancing _18 > 2; Survivor au _7 > 2; TharnType _2 > 1; 
+> The voice germany _10 > 9; Ingredients _1 > 8; Koh-lanta _25 > 6; Lls _1 > 5; We are not human _1 > 4; Strictly come dancing _18 > 2; Survivor au _7 > 2; TharnType _2 > 1; 
 ### concluBis 08/11/20 
-> Strictly come dancing _18 > 8; The voice germany _10 > 6; Lls _1 > 5; Oxygen _1 > 4; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; 
+> Strictly come dancing _18 > 8; The voice germany _10 > 6; Lls _1 > 5; Oxygen _1 > 4; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Survivor au _7 > 2; 
 ### concluBis 09/11/20 
-> Strictly come dancing _18 > 8; The voice germany _10 > 6; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Oxygen _1 > 2; Survivor au _7 > 2; 
+> Strictly come dancing _18 > 8; The voice germany _10 > 6; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Oxygen _1 > 2; Survivor au _7 > 2; 
 ### concluBis 10/11/20 
-> The voice germany _10 > 11; Strictly come dancing _18 > 7; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; 
+> The voice germany _10 > 11; Strictly come dancing _18 > 7; Lls _1 > 5; We are not human _1 > 4; Koh-lanta _25 > 3; Ingredients _1 > 3; Survivor au _7 > 2; 
 ### concluBis 11/11/20 
-> The voice germany _10 > 11; Safe haven _1 > 9; Strictly come dancing _18 > 6; Lls _1 > 5; We are not human _1 > 4; The voice us _19 > 3; Ingredients _1 > 3; Koh-lanta _25 > 2; Better days _1 > 2; Survivor au _7 > 2; 
+> The voice germany _10 > 11; Strictly come dancing _18 > 6; Lls _1 > 5; We are not human _1 > 4; The voice us _19 > 3; Ingredients _1 > 3; Koh-lanta _25 > 2; Better days _1 > 2; Survivor au _7 > 2; 
 ### concluBis 12/11/20
-> Lls _1 > 5; Safe haven _1 > 4; The voice germany _10 > 4; The voice us _19 > 3; The masked singer _4 > 3; We are not human _1 > 3; Bt21 universe _1 > 2; Ingredients _1 > 2; Koh-lanta _25 > 1; Strictly come dancing _18 > 1; Survivor au _7 > 1; 
+> Lls _1 > 5; The voice germany _10 > 4; The voice us _19 > 3; The masked singer _4 > 3; We are not human _1 > 3; Bt21 universe _1 > 2; Ingredients _1 > 2; Koh-lanta _25 > 1; Strictly come dancing _18 > 1; Survivor au _7 > 1; 
 ### concluBis 13/11/20
-> The voice germany _10 > 5; The voice us _19 > 5; Bt21 universe _1 > 4; Lls _1 > 4; We are not human _1 > 3; Safe haven _1 > 2; Strictly come dancing _18 > 2; Ingredients _1 > 2; Koh-lanta _25 > 1; Survivor au _7 > 1; 
+> The voice germany _10 > 5; The voice us _19 > 5; Bt21 universe _1 > 4; Lls _1 > 4; We are not human _1 > 3; Strictly come dancing _18 > 2; Ingredients _1 > 2; Koh-lanta _25 > 1; Survivor au _7 > 1; 
 ### concluBis 14/11/20
-> The voice germany _10 > 11; Koh-lanta _25 > 5; The voice us _19 > 5; Lls _1 > 5; Bt21 universe _1 > 4; We are not human _1 > 4; Strictly come dancing _18 > 3; Ingredients _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; 
+> The voice germany _10 > 11; Koh-lanta _25 > 5; The voice us _19 > 5; Lls _1 > 5; Bt21 universe _1 > 4; We are not human _1 > 4; Strictly come dancing _18 > 3; Ingredients _1 > 3; Survivor au _7 > 2; 
 ### concluBis 15/11/20
-> Ingredients _1 > 9; The voice germany _10 > 9; Strictly come dancing _18 > 8; Koh-lanta _25 > 5; Better days _1 > 5; Lls _1 > 5; The voice us _19 > 4; We are not human _1 > 3; Safe haven _1 > 2; Oxygen _1 > 2; Bt21 universe _1 > 2; Survivor au _7 > 2; 
+> Ingredients _1 > 9; The voice germany _10 > 9; Strictly come dancing _18 > 8; Koh-lanta _25 > 5; Better days _1 > 5; Lls _1 > 5; The voice us _19 > 4; We are not human _1 > 3; Oxygen _1 > 2; Bt21 universe _1 > 2; Survivor au _7 > 2; 
 ### concluBis 16/11/20
-> Ingredients _1 > 9; Strictly come dancing _18 > 9; The voice germany _10 > 7; Lls _1 > 5; Koh-lanta _25 > 4; My vampire boyfriend _1 > 4; The voice us _19 > 3; Better days _1 > 3; We are not human _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; Bt21 universe _1 > 1; 
+> Ingredients _1 > 9; Strictly come dancing _18 > 9; The voice germany _10 > 7; Lls _1 > 5; Koh-lanta _25 > 4; My vampire boyfriend _1 > 4; The voice us _19 > 3; Better days _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Bt21 universe _1 > 1; 
 ### concluBis 17/11/20
-> The voice germany _10 > 14; Ingredients _1 > 9; Strictly come dancing _18 > 8; Lls _1 > 5; The voice us _19 > 4; Koh-lanta _25 > 3; My vampire boyfriend _1 > 3; We are not human _1 > 3; Better days _1 > 2; Survivor au _7 > 2; Safe haven _1 > 1; 
+> The voice germany _10 > 14; Ingredients _1 > 9; Strictly come dancing _18 > 8; Lls _1 > 5; The voice us _19 > 4; Koh-lanta _25 > 3; My vampire boyfriend _1 > 3; We are not human _1 > 3; Better days _1 > 2; Survivor au _7 > 2; 
 ### concluBis 18/11/20
-> The voice germany _10 > 11; Ingredients _1 > 9; The voice us _19 > 8; Safe haven _1 > 5; Strictly come dancing _18 > 5; Lls _1 > 5; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
+> The voice germany _10 > 11; Ingredients _1 > 9; The voice us _19 > 8; Strictly come dancing _18 > 5; Lls _1 > 5; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
 ### concluBis 19/11/20
-> The voice germany _10 > 10; The voice us _19 > 10; Ingredients _1 > 9; Strictly come dancing _18 > 5; Lls _1 > 5; Safe haven _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
+> The voice germany _10 > 10; The voice us _19 > 10; Ingredients _1 > 9; Strictly come dancing _18 > 5; Lls _1 > 5; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
 ### concluBis 20/11/20
-> Ingredients _1 > 9; The voice us _19 > 8; The voice germany _10 > 7; Lls _1 > 5; Safe haven _1 > 3; Strictly come dancing _18 > 3; We are not human _1 > 3; Survivor au _7 > 2; Koh-lanta _25 > 1; 
+> Ingredients _1 > 9; The voice us _19 > 8; The voice germany _10 > 7; Lls _1 > 5; Strictly come dancing _18 > 3; We are not human _1 > 3; Survivor au _7 > 2; Koh-lanta _25 > 1; 
 ### concluBis 21/11/20
-> Ingredients _1 > 9; The voice germany _10 > 6; The voice us _19 > 6; Koh-lanta _25 > 5; Better days _1 > 5; Lls _1 > 5; Strictly come dancing _18 > 3; We are not human _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; 
+> Ingredients _1 > 9; The voice germany _10 > 6; The voice us _19 > 6; Koh-lanta _25 > 5; Better days _1 > 5; Lls _1 > 5; Strictly come dancing _18 > 3; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 22/11/20 
-> The voice germany _10 > 7; The voice us _19 > 7; Koh-lanta _25 > 6; Lls _1 > 5; Ingredients _1 > 4; Safe haven _1 > 3; Strictly come dancing _18 > 3; We are not human _1 > 3; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
+> The voice germany _10 > 7; The voice us _19 > 7; Koh-lanta _25 > 6; Lls _1 > 5; Ingredients _1 > 4; Strictly come dancing _18 > 3; We are not human _1 > 3; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
 ### concluBis 23/11/20 
-> Strictly come dancing _18 > 9; The voice us _19 > 6; Lls _1 > 5; Koh-lanta _25 > 4; The voice germany _10 > 4; Ingredients _1 > 4; Safe haven _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; 
+> Strictly come dancing _18 > 9; The voice us _19 > 6; Lls _1 > 5; Koh-lanta _25 > 4; The voice germany _10 > 4; Ingredients _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 24/11/20 
-> The voice germany _10 > 10; Strictly come dancing _18 > 8; The voice us _19 > 5; Lls _1 > 5; Ingredients _1 > 4; Koh-lanta _25 > 3; We are not human _1 > 3; Safe haven _1 > 2; Survivor au _7 > 2; 
+> The voice germany _10 > 10; Strictly come dancing _18 > 8; The voice us _19 > 5; Lls _1 > 5; Ingredients _1 > 4; Koh-lanta _25 > 3; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 25/11/20 
-> The voice us _19 > 10; The voice germany _10 > 7; Safe haven _1 > 6; Strictly come dancing _18 > 6; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; Incroyable talent _15 > 1; 
+> The voice us _19 > 10; The voice germany _10 > 7; Strictly come dancing _18 > 6; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; Incroyable talent _15 > 1; 
 ### concluBis 26/11/20 
-> The voice germany _10 > 14; The voice us _19 > 8; Safe haven _1 > 5; Strictly come dancing _18 > 5; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; 
+> The voice germany _10 > 14; The voice us _19 > 8; Strictly come dancing _18 > 5; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Koh-lanta _25 > 2; Survivor au _7 > 2; 
 
 
 

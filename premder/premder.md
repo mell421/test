@@ -8,7 +8,6 @@ The voice germany 10x14
 The voice nl 11x1
 The voice us 19x11
 Incroyable talent 15x5
-Safe haven 1x14
 Strictly come dancing 18x10
 Oxygen 1x11
 Boyband love 1x7
@@ -68,7 +67,6 @@ We are not human 1x18
 * Boyband love 1x1
 * Friend forever 1x1
 * My day 1x1
-* Safe haven 1x1
 Drag race holland 1x2
 * Gameboys 1x1
 * I can see your voice 1x1
