@@ -19,7 +19,6 @@ Thonhon chonlathee 1x2
 Koh-lanta 25x13
 Better days 1x4
 Discipline 2x3
-Cheerleaders new jersey 1x15
 Young sheldon 4x3
 * History2 right or wrong 1x1
 Gameboys 1x7
@@ -102,7 +101,6 @@ Phineas & ferb 1x32
 Taking the stands 1x4
 Lucifer 4x3
 Ingredients 1x0
-* Cheerleaders new jersey 1x1
 * Alta mar 1x1
 * Into the night 1x1
 * Nailed it ger 1x1
