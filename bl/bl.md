@@ -76,17 +76,17 @@
 |long khong|long khong|8|serie|thailande|3|
 |calculating love|calculating love|?|serie|thailande|5|
 |the shipper|the shipper|12|serie|thailande|2|
-|ingredients|ingredients|22|serie|thailande|17|
+|ingredients|ingredients|22|serie|thailande|18|
 |so much in love|so much in love|12|serie|thailande|2|
 |he's coming to me|he's coming to me|8|serie|thailande|2|
 |blacklist|blacklist|13|serie|thailande|1|
 |unbag|unbag|?|show|thailande|9|
-|oxygen|oxygen|13|serie|thailande|11|
+|oxygen|oxygen|13|serie|thailande|12|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
 |gameboys|gameboys|13,5|serie|philippines|7|
 |my day|my day|12|serie|philippines|1|
 |friend forever|friend forever|12|serie|thailande|3|
-|boyband love|boyband love|9|serie|philippines|7|
+|boyband love|boyband love|9|serie|philippines|8|
 |capture lover|capture lover|?|serie|chine|1|
 |friend zone|friend zone|?|serie|thailande|1|
 |boys lockdown|boys lockdown|6|serie|philippines|2|
@@ -95,15 +95,19 @@
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|
 |offgun fun night 2|offgun fun night 2|11|show|thailande|1|
 |lakan|lakan|8|serie|philippines|2|
-|discipline 2|discipline z : vampire|6|serie|corée|3|
-|sea him|sea him|?|serie|vietnam|2|
-|better days|better days|?|serie|philippines|4|
+|discipline 2|discipline z : vampire|6|serie|corée|4|
+|sea him|sea him|?|serie|vietnam|3|
+|better days|better days|6|serie|philippines|5|
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|2|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|
-|oh mando|oh mando|6|serie|philippines|1|
-|history2.1|history2 right or wrong|8|serie|taiwan|1|
-|be love|be love|4|serie|japon|1|
+|oh mando|oh mando|6|serie|philippines|3|
+|history2.1|history2 right or wrong|8|serie|taiwan|2|
+|be love|be love|4|serie|japon|2|
 |cheat|cheat|?|serie|philippines|1|
+|manner of death|manner of death|12|serie|thailande|1|
+|ghost runner|ghost runner|6|serie|thailande|1|
+|||||||
+|||||||
 |||||||
 |||||||
 |||||||
@@ -115,8 +119,7 @@
 |gen y|gen y|12|serie|thailande|0|
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|
 |cherry magic|cherry magic|12|serie|japon|0|
-|why r u 2|why r u 2|?|serie|thailande|0|
-|manner of death|manner of death|12|serie|thailande|0|
+|why r u 2|why r u saifahzon story|?|serie|thailande|0|
 |von|von|1|film|thailande|0|
 |wish you|wish you|8|serie|corée|0|
 |my bromance|my bromance|1|film|thailande|0|
