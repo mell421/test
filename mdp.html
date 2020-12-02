@@ -1,0 +1,117 @@
+<!DOCTYPE HTML> 
+<html> 
+  
+<head> 
+    <title> Random Password </title> 
+    <link rel="stylesheet" href="css/style.css">
+
+</head> 
+  
+<body style="text-align:center;"> 
+    <script src="js/menu.js"></script>
+    <h1 style="color: green">  
+        Password  
+    </h1> 
+      
+    <h3> 
+        Click on the button to 
+        generate random password. 
+    </h3> 
+      
+    <button onclick="gfg_Run()"> 
+        Click Here 
+    </button> 
+    <br> 
+      
+    <div> 
+        <p id="geeks"></p> 
+    </div> 
+      
+    <script> 
+        var el_down = document.getElementById("geeks"); 
+  
+        /* Function to generate combination of password */ 
+        function generateP() { 
+            var pass = ''; 
+            var str = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' +  
+                    'abcdefghijklmnopqrstuvwxyz0123456789@#$'; 
+              
+            for (i = 1; i <= 10; i++) { 
+                var char = Math.floor(Math.random() 
+                            * str.length + 1); 
+                  
+                pass += str.charAt(char) 
+            } 
+              
+            return pass; 
+        } 
+  
+        function gfg_Run() { 
+            el_down.innerHTML = generateP(); 
+        } 
+    </script> 
+
+<h1 style = "color: green">  
+    other one 
+</h1> 
+  
+<h3> 
+    Click on the button to 
+    generate random password. 
+</h3> 
+  
+<button onclick = "gfg_Run2()">  
+    Click Here 
+</button> 
+  <!--  -->
+<p id = "geeks2"></p> 
+  
+<script> 
+    var el_down2 = document.getElementById("geeks2"); 
+      
+    function gfg_Run2() { 
+        el_down2.innerHTML =  
+            Math.random().toString(36).slice(2) +  
+            Math.random().toString(36) 
+                .toUpperCase().slice(2); 
+        }  
+</script>  
+
+<h1 style = "color: green">  
+    Validate password 
+</h1> 
+<p> 
+    String: 
+    <input type="text" 
+           placeholder="abc"
+           id="t1" /> 
+    <br/> 
+    <br/> 
+    <input type="button"
+           value="Check" 
+           onclick="test_str()" /> 
+    <br/> 
+    <br/> Output: 
+    <input type="text" 
+           id="t2"
+           readonly/> 
+</p> 
+<script type="text/javascript"> 
+    function test_str() { 
+        var res; 
+        var str = 
+            document.getElementById("t1").value; 
+        if (str.match(/[a-z]/g) && str.match( 
+                /[A-Z]/g) && str.match( 
+                /[0-9]/g) && str.match( 
+                /[^a-zA-Z\d]/g) && str.length >= 8) 
+            res = "TRUE"; 
+        else 
+            res = "FALSE"; 
+        document.getElementById("t2").value = res; 
+
+    } 
+</script> 
+</body> 
+  
+</html> 
