@@ -146,6 +146,17 @@
 |lovely writer|lovely writer|?|serie|thailande|0|
 |1000 stars|a tales of 1000 stars|?|serie|thailande|0|
 |F4 thailand|F4 thailand|?|serie|thailande|0|
+|fish upon the sky|fish upon the sky|?|serie|thailande|0|
+|drag I love you|drag I love you|?|serie|thailande|0|
+|never too late|never too late|?|serie|thailande|0|
+|baker boys|baker boys|?|serie|thailande|0|
+|enchante|enchante|?|serie|thailande|0|
+|bad buddy|bad buddy|?|serie|thailande|0|
+|the player|the player|?|serie|thailande|0|
+|NOTME|NOTME|?|serie|thailande|0|
+|||||||
+|||||||
+|||||||
 |||||||
 |||||||
 |||||||

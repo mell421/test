@@ -20,7 +20,7 @@ document.write(`
       <td>9✔️</span></td>
       <td>10✔️<br>TGDO 402<br><span class="debut">gen y 101</span></td>
       <td>11✔️</td>
-      <td>12✔️<br>ICSYV 106<br>oh mando 102<br>ITSAY 104<br>ben x jim 105</td>
+      <td>12✔️<br>ICSYV 106<br>ITSAY 104<br>ben x jim 105</td>
       <td>13✔️</td><td>14✔️</td><td>15✔️</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ document.write(`
   </tr>
   <tr>
       <td>30✔️<br>lakan 103<br>MOD 102</td>
-      <td colspan="6">ajouter unbag</td>
+      <td colspan="6"></td>
   </tr>
 </table>
 <hr>
