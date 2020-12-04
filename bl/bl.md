@@ -60,6 +60,7 @@
 |long time no see|long time no see|5|serie|thailande|
 |the gifted 2|the gifted graduation|13|serie|thailande|
 |safe haven|safe haven|15|serie|philippines|
+|better days|better days|6|serie|philippines|
 ||||||
 ||||||
 ||||||
@@ -97,7 +98,6 @@
 |lakan|lakan|8|serie|philippines|2|
 |discipline 2|discipline z : vampire|6|serie|corée|4|
 |sea him|sea him|?|serie|vietnam|3|
-|better days|better days|6|serie|philippines|5|
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|2|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|
 |oh mando|oh mando|6|serie|philippines|3|
@@ -106,6 +106,8 @@
 |cheat|cheat|?|serie|philippines|1|
 |manner of death|manner of death|12|serie|thailande|1|
 |ghost runner|ghost runner|6|serie|thailande|1|
+|cherry magic|cherry magic|12|serie|japon|1|
+|wish you|wish you|8|serie|corée|2|
 |||||||
 |||||||
 |||||||
@@ -118,10 +120,8 @@
 | --- | --- | :---: | --- | --- | --- |
 |gen y|gen y|12|serie|thailande|0|
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|
-|cherry magic|cherry magic|12|serie|japon|0|
 |why r u 2|why r u saifahzon story|?|serie|thailande|0|
 |von|von|1|film|thailande|0|
-|wish you|wish you|8|serie|corée|0|
 |my bromance|my bromance|1|film|thailande|0|
 |my bromance|my bromance|1|serie|thailande|0|
 |||||||

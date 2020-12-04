@@ -16,7 +16,6 @@ TharnType 2x2
 * The voice senior vv 2x1
 Thonhon chonlathee 1x2
 Koh-lanta 25x13
-Better days 1x4
 Discipline 2x3
 Young sheldon 4x3
 * History2 right or wrong 1x1
@@ -37,7 +36,6 @@ Lakan 1x2
 * Young sheldon 4x1
 Blood 1x16
 * The good doctor 4x1
-* Better days 1x1
 * Sea him 1x1
 Swap test 1x2
 * Discipline 2x1
