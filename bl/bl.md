@@ -5,7 +5,7 @@
 
 # liste de bl
  
-## terminé
+## terminé/finish
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
@@ -69,14 +69,14 @@
 ||||||
 
  
-## en cours / a jour
+## en cours / a jour / now/up-to-date
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |we are not human|we are not human|24|serie|chine|18|
 |the untamed|the untamed|50|serie|chine|2|
 |long khong|long khong|8|serie|thailande|3|
-|calculating love|calculating love|?|serie|thailande|5|
+|calculating love|calculating love|6|serie|thailande|5|
 |the shipper|the shipper|12|serie|thailande|2|
 |ingredients|ingredients|22|serie|thailande|18|
 |so much in love|so much in love|12|serie|thailande|2|
@@ -108,6 +108,7 @@
 |ghost runner|ghost runner|6|serie|thailande|1|
 |cherry magic|cherry magic|12|serie|japon|1|
 |wish you|wish you|8|serie|corée|2|
+|why r u 2|why r u saifahzon story|?|serie|thailande|1|
 |||||||
 |||||||
 |||||||
@@ -120,7 +121,6 @@
 | --- | --- | :---: | --- | --- | --- |
 |gen y|gen y|12|serie|thailande|0|
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|
-|why r u 2|why r u saifahzon story|?|serie|thailande|0|
 |von|von|1|film|thailande|0|
 |my bromance|my bromance|1|film|thailande|0|
 |my bromance|my bromance|1|serie|thailande|0|
