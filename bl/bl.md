@@ -61,6 +61,7 @@
 |the gifted 2|the gifted graduation|13|serie|thailande|
 |safe haven|safe haven|15|serie|philippines|
 |better days|better days|6|serie|philippines|
+|boyband love|boyband love|9|serie|philippines|
 ||||||
 ||||||
 ||||||
@@ -87,7 +88,6 @@
 |gameboys|gameboys|13,5|serie|philippines|7|
 |my day|my day|12|serie|philippines|1|
 |friend forever|friend forever|12|serie|thailande|3|
-|boyband love|boyband love|9|serie|philippines|8|
 |capture lover|capture lover|?|serie|chine|1|
 |friend zone|friend zone|?|serie|thailande|1|
 |boys lockdown|boys lockdown|6|serie|philippines|2|
