@@ -62,6 +62,7 @@
 |safe haven|safe haven|15|serie|philippines|
 |better days|better days|6|serie|philippines|
 |boyband love|boyband love|9|serie|philippines|
+|oxygen|oxygen|13|serie|thailande|
 ||||||
 ||||||
 ||||||
@@ -83,7 +84,6 @@
 |he's coming to me|he's coming to me|8|serie|thailande|2|
 |blacklist|blacklist|13|serie|thailande|1|
 |unbag|unbag|?|show|thailande|9|
-|oxygen|oxygen|13|serie|thailande|12|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
 |gameboys|gameboys|13,5|serie|philippines|7|
 |my day|my day|12|serie|philippines|1|
