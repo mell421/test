@@ -15,7 +15,6 @@ Calculating love 1x5
 TharnType 2x2
 * The voice senior vv 2x1
 Thonhon chonlathee 1x2
-Koh-lanta 25x13
 Discipline 2x3
 Young sheldon 4x3
 * History2 right or wrong 1x1
@@ -80,7 +79,6 @@ Hes coming to me 1x2
 Aggretsuko 3x3
 * Survivor au 1x1
 Nailed it holiday 2x2
-* Koh-lanta 25x1
 * Unbag 1x1
 * Aggretsuko 3x1
 So much in love 1x2
