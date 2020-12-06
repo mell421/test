@@ -2,10 +2,9 @@
 
 ### tisaep all
 
-* 
-Be love 1x1
+* Be love 1x1
 The voice germany 10x14
-The voice nl 11x1
+* The voice nl 11x1
 The voice us 19x11
 Incroyable talent 15x5
 Strictly come dancing 18x10

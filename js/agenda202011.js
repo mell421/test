@@ -28,7 +28,7 @@ document.write(`
       <td>17✔️<br>TGDO 403<br>gen y 102</td>
       <td>18✔️</td>
       <td>19✔️<br>ICSYV 107<br>cherry magic 107<br>ITSAY 105<br>ben x jim 106</td>
-      <td>20✔️<br>tharnType 203</td>
+      <td>20✔️</td>
       <td>21✔️<br>friend forever 110</td>
       <td>22✔️<br>boys lockdown 105</td>
   </tr>
@@ -36,7 +36,7 @@ document.write(`
       <td>23✔️</td>
       <td>24✔️<br>TGDO 404<br>gen y 103</td>
       <td>25✔️</td>
-      <td>26✔️<br>oh mando 104<br>cherry magic 108<br><span class="fin">ben x jim 107</span><br>TV GER 1015</td>
+      <td>26✔️<br>cherry magic 108<br><span class="fin">ben x jim 107</span><br>TV GER 1015</td>
       <td>27✔️<br>ICSYV 108<br>TV NL 1102<br>thonhon chonlathee 103<br>tharnType 204</td>
       <td>28✔️<br>friend forever 111</td>
       <td>29✔️<br><span class="fin">boys lockdown 106</span><br>TV GER 1016</td>
