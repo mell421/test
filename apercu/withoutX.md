@@ -150,25 +150,25 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 
 ## conclu
 ### conclu 19/09/20 
-> Lls _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1;
+> Lls _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; 
 ### conclu 20/09/20 
-> Lls _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1;
+> Lls _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; 
 ### conclu 21/09/20 
-> Lls _1 > 3; Survivor au _7 > 3; Ingredients _1 > 1;
+> Lls _1 > 3; Survivor au _7 > 3; Ingredients _1 > 1; 
 ### conclu 22/09/20 
-> Lls _1 > 3; Survivor au _7 > 3; Ingredients _1 > 1;
+> Lls _1 > 3; Survivor au _7 > 3; Ingredients _1 > 1; 
 ### conclu 23/09/20 
 > Lls _1 > 3; Survivor au _7 > 3; Ingredients _1 > 1; 
 ### conclu 24/09/20 
 > Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; 
 ### conclu 25/09/20 
-> Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; Unbag _1 > 1;
+> Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; Unbag _1 > 1; 
 ### conclu 26/09/20 
-> Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; Gameboys _1 > 1; Koh-lanta _25 > 1;
+> Survivor au _7 > 5; Lls _1 > 3; Ingredients _1 > 2; Gameboys _1 > 1; 
 ### conclu 27/09/20 
 > Survivor au _7 > 5; Ingredients _1 > 3; Lls _1 > 3; Gameboys _1 > 2; 
 ### conclu 28/09/20 
-> Survivor au _7 > 5; Lls _1 > 3; Gameboys _1 > 2; Ingredients _1 > 1;
+> Survivor au _7 > 5; Lls _1 > 3; Gameboys _1 > 2; Ingredients _1 > 1; 
 ### conclu 29/09/20 
 > Survivor au _7 > 5; Ingredients _1 > 3; Lls _1 > 3; Gameboys _1 > 2; 
 ### conclu 30/09/20 
@@ -178,7 +178,7 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### conclu 02/10/20 
 > Gameboys _1 > 3; Lls _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; 
 ### conclu 03/10/20 
-> Lls _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; Koh-lanta _25 > 1;
+> Lls _1 > 3; Survivor au _7 > 2; Ingredients _1 > 1; 
 ### conclu 04/10/20
 > Ingredients _1 > 4; Lls _1 > 3; Survivor au _7 > 2; 
 ### conclu 05/10/20
@@ -208,7 +208,7 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### conclu 17/10/20 
 > We are not human _1 > 11; Lls _1 > 3; Survivor au _7 > 1; 
 ### conclu 18/10/20
-> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Boyband love _1 > 1;
+> We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; 
 ### conclu 19/10/20
 > We are not human _1 > 11; Ingredients _1 > 3; Lls _1 > 3; Love in time _1 > 1; 
 ### conclu 20/10/20
@@ -224,7 +224,7 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### conclu 25/10/20
 > Lls _1 > 3; The voice germany _10 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1; 
 ### conclu 26/10/20
-> Lls _1 > 3; The voice germany _10 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1;
+> Lls _1 > 3; The voice germany _10 > 2; We are not human _1 > 2; Ingredients _1 > 1; The voice us _19 > 1; 
 ### conclu 27/10/20
 > Lls _1 > 3; The voice germany _10 > 3; The voice us _19 > 2; We are not human _1 > 2; Ingredients _1 > 1; 
 ### conclu 28/10/20
@@ -326,9 +326,9 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### concluBis 01/10/20 
 > Gameboys _1 > 9; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 02/10/20 
-> Gameboys _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1;
+> Gameboys _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 03/10/20 
-> Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Gameboys _1 > 1; Kaamelott _5 > 1;
+> Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Gameboys _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 04/10/20
 > Ingredients _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Kaamelott _5 > 1; 
 ### concluBis 05/10/20
@@ -342,9 +342,9 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### concluBis 09/10/20
 > Ingredients _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Unbag _1 > 3; Friend zone _1 > 3; The masked singer _4 > 1; Kaamelott _5 > 1; 
 ### concluBis 10/10/20
-> We are not human _1 > 9; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1;
+> We are not human _1 > 9; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 11/10/20 
-> Ingredients _1 > 8; We are not human _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Kaamelott _5 > 1;
+> Ingredients _1 > 8; We are not human _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Kaamelott _5 > 1; 
 ### concluBis 12/10/20 
 > We are not human _1 > 9; Lls _1 > 5; Survivor au _7 > 4; Ingredients _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 13/10/20 
@@ -362,7 +362,7 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### concluBis 19/10/20
 > We are not human _1 > 19; Ingredients _1 > 7; Lls _1 > 5; Love in time _1 > 3; Survivor au _7 > 2; 
 ### concluBis 20/10/20
-> We are not human _1 > 19; Ingredients _1 > 7; Lls _1 > 5; Joséphine ange gardien _23 > 4; Love in time _1 > 3; Survivor au _7 > 2;
+> We are not human _1 > 19; Ingredients _1 > 7; Lls _1 > 5; Joséphine ange gardien _23 > 4; Love in time _1 > 3; Survivor au _7 > 2; 
 ### concluBis 21/10/20
 > We are not human _1 > 9; Ingredients _1 > 7; Lls _1 > 5; The voice germany _10 > 3; Survivor au _7 > 2; Quien es la mascara _2 > 1; 
 ### concluBis 22/10/20

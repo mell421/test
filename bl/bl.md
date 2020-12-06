@@ -134,7 +134,7 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |hemp rope|hemp rope|?|serie|thailande|0|
-|destiny|destiny|?|serie|thailande|0|
+|ydestiny|ydestiny|?|serie|thailande|0|
 |love mechanics|love mechanics|?|serie|thailande|0|
 |my engineer 2|my engineer 2|?|serie|thailande|0|
 |yyy 2|yyy 2|?|serie|thailande|0|
@@ -154,7 +154,7 @@
 |bad buddy|bad buddy|?|serie|thailande|0|
 |the player|the player|?|serie|thailande|0|
 |NOTME|NOTME|?|serie|thailande|0|
-|||||||
+|you never eat alone|you never eat alone|?|serie|thailande|0|
 |||||||
 |||||||
 |||||||
