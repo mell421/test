@@ -130,20 +130,12 @@
 |||||||
 
  ## a venir
- 
+ <!-- tri par pays puis par studio -->
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|hemp rope|hemp rope|?|serie|thailande|0|
-|ydestiny|ydestiny|?|serie|thailande|0|
-|love mechanics|love mechanics|?|serie|thailande|0|
-|my engineer 2|my engineer 2|?|serie|thailande|0|
-|yyy 2|yyy 2|?|serie|thailande|0|
 |color rush|color rush|?|serie|corée|0|
 |to my star|to my star|9|serie|corée|0|
 |I just slept|I just slept|?|serie|corée|0|
-|bittersweet|bittersweet|8|serie|thailande|0|
-|kinnporshe|kinnporshe|?|serie|thailande|0|
-|lovely writer|lovely writer|?|serie|thailande|0|
 |1000 stars|a tales of 1000 stars|?|serie|thailande|0|
 |F4 thailand|F4 thailand|?|serie|thailande|0|
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|
@@ -154,7 +146,15 @@
 |bad buddy|bad buddy|?|serie|thailande|0|
 |the player|the player|?|serie|thailande|0|
 |NOTME|NOTME|?|serie|thailande|0|
+|hemp rope|hemp rope|?|serie|thailande|0|
+|love mechanics|love mechanics|?|serie|thailande|0|
+|ydestiny|ydestiny|?|serie|thailande|0|
 |you never eat alone|you never eat alone|?|serie|thailande|0|
+|my engineer 2|my engineer 2|?|serie|thailande|0|
+|yyy 2|yyy 2|?|serie|thailande|0|
+|bittersweet|bittersweet|8|serie|thailande|0|
+|kinnporshe|kinnporshe|?|serie|thailande|0|
+|lovely writer|lovely writer|?|serie|thailande|0|
 |||||||
 |||||||
 |||||||
