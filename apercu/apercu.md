@@ -52,9 +52,9 @@ Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1)
 #### sem 08-06-2020 
 Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### sem 15-06-2020 
-Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Taking the stands _1x2(1) Modern family _1x15(1) 1rw _3x5(1) 
+Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) 
 #### sem 22-06-2020 
-Drag race thailand _2x10(1) Blank _1x5(1) Taking the stands _1x3(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
+Drag race thailand _2x10(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
 #### sem 29-06-2020 
 Young dracula _1x7(2) The untamed _1x2(1) 
 #### sem 06-07-2020 
@@ -67,7 +67,7 @@ Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) Calculating love 
 #### sem 03-08-2020 
 Lucifer _4x4(1) Ingredients _1x10(10) Long khong _1x4(1) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) 
 #### sem 10-08-2020 
-Long khong _1x5(1) Ingredients _1x11(1) Calculating love _1x3(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Taking the stands _1x5(2) 
+Long khong _1x5(1) Ingredients _1x11(1) Calculating love _1x3(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) 
 #### sem 17-08-2020 
 Survivor _40x2(1) Survivor au _7x16(2) The office _1x5(2) You _1x3(1) 
 #### sem 24-08-2020 
@@ -128,11 +128,11 @@ Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Mag
 #### mois 01-06-2020 
 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) Survivor au _7x14(1) 
 #### mois 01-07-2020 
-Young dracula _1x7(2) The untamed _1x2(1) Drag race thailand _2x10(1) Blank _1x5(1) Taking the stands _1x3(2) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
+Young dracula _1x7(2) The untamed _1x2(1) Drag race thailand _2x10(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### mois 01-08-2020 
 Ingredients _1x10(10) Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Calculating love _1x2(1) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
 #### mois 01-09-2020 
-Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1) Ingredients _1x12(2) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) Survivor au _7x16(2) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Calculating love _1x3(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Taking the stands _1x5(2) Lucifer _4x4(1) 
+Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1) Ingredients _1x12(2) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) Survivor au _7x16(2) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Calculating love _1x3(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 #### mois 01-10-2020 
 Friend forever _1x2(1) My day _1x2(1) Gameboys _1x6(5) Drag race holland _1x3(2) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
 #### mois 01-11-2020 

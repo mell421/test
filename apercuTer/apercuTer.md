@@ -252,7 +252,6 @@
 * Dwts _29
 * My gear and your gown _1
 ### sem 07-12-2020 
-* 
 * Oxygen _1
 * Boyband love _1
 * Koh-lanta _25

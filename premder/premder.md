@@ -87,7 +87,6 @@ You 1x2
 Long khong 1x4
 * Love alarm 1x1
 Phineas & ferb 1x32
-Taking the stands 1x4
 Lucifer 4x3
 Ingredients 1x0
 * Alta mar 1x1
@@ -97,7 +96,7 @@ Forever knight 1x10
 The shipper 1x2
 * The shipper 1x1
 * Calculating love 1x1
-*  khong 1x1
+* Long khong 1x1
 * Himym 6x1
 * Good singers 1x1
 The untamed 1x2
@@ -113,7 +112,6 @@ Kaamelott 5x12
 Tf 4x13
 Heirs of the night 1x3
 * Heirs of the night 1x1
-* Taking the stands 1x1
 Modern family 1x14
 1rw 3x4
 Penny dreadful city of angels 1x2
