@@ -260,6 +260,7 @@
 * Cheerleaders new jersey _1
 ### sem 14-12-2020 
 * 
+* Taking the stands _1
 ### sem 21-12-2020 
 * 
 ### sem 28-12-2020 

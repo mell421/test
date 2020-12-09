@@ -1,9 +1,13 @@
 [retour](./../index.html)
 <!-- -->
-[PDF](./withoutX.pdf) [MD](./withoutX.md) 
+[PDF](./apercu.pdf) [MD](./apercu.md) 
 
 # ajout reponse 2020
 
+oh mando 1
+calculating love 1
+tvs vv 2
+incroyable talent 15
 
 ## Aperçu semaine
 #### sem 06-01-2020 
@@ -51,9 +55,9 @@ Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1)
 #### sem 08-06-2020 
 Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### sem 15-06-2020 
-Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Taking the stands _1x2(1) Modern family _1x15(1) 1rw _3x5(1) 
+Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) 
 #### sem 22-06-2020 
-Drag race thailand _2x10(1) Blank _1x5(1) Taking the stands _1x3(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
+Drag race thailand _2x10(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
 #### sem 29-06-2020 
 Young dracula _1x7(2) The untamed _1x2(1) 
 #### sem 06-07-2020 
@@ -62,11 +66,11 @@ The untamed _1x3(1)
 #### sem 20-07-2020 
 Long khong _1x2(1) Himym _6x2(1) Good singers _1x2(1) 
 #### sem 27-07-2020 
-Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) Calculating love _1x2(1) 
+Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) 
 #### sem 03-08-2020 
 Lucifer _4x4(1) Ingredients _1x10(10) Long khong _1x4(1) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) 
 #### sem 10-08-2020 
-Long khong _1x5(1) Ingredients _1x11(1) Calculating love _1x3(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Taking the stands _1x5(2) 
+Long khong _1x5(1) Ingredients _1x11(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) 
 #### sem 17-08-2020 
 Survivor _40x2(1) Survivor au _7x16(2) The office _1x5(2) You _1x3(1) 
 #### sem 24-08-2020 
@@ -88,17 +92,17 @@ We are not human _1x12(3) The voice germany _10x2(1) Friend zone _1x2(1) Unbag _
 #### sem 19-10-2020 
 Ben x jim _1x2(1) Boys lockdown _1x2(1) Love in time _1x4(2) Strictly come dancing _18x2(1) Ingredients _1x16(1) We are not human _1x19(7) The masked singer _4x5(1) The voice germany _10x3(1)
 #### sem 26-10-2020 
-Boys lockdown _1x3(1) Gameboys _1x7(1) Strictly come dancing _18x3(1) Calculating love _1x4(1) Offgun fun night _2x2(1) The voice germany _10x6(3) Pogi lang hanap _1x2(1) Swap test _1x2(1) Incroyable talent _15x2(1) The voice us _19x3(2) Quien es la mascara _2x3(2) Joséphine ange gardien _23x3(2) 
+Boys lockdown _1x3(1) Gameboys _1x7(1) Strictly come dancing _18x3(1) Offgun fun night _2x2(1) The voice germany _10x6(3) Pogi lang hanap _1x2(1) Swap test _1x2(1) The voice us _19x3(2) Quien es la mascara _2x3(2) Joséphine ange gardien _23x3(2) 
 #### sem 02-11-2020 
-Strictly come dancing _18x5(2) Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Swap test _1x3(1) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(1) I can see your voice _1x5(2) The masked singer _4x6(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) The voice us _19x5(2) Incroyable talent _15x3(1) Joséphine ange gardien _23x4(1) 
+Strictly come dancing _18x5(2) Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Swap test _1x3(1) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(1) I can see your voice _1x5(2) The masked singer _4x6(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) The voice us _19x5(2) Joséphine ange gardien _23x4(1) 
 #### sem 09-11-2020 
-Strictly come dancing _18x7(2) Lakan _1x3(1) Pogi lang hanap _1x4(1) Calculating love _1x5(1) TharnType _2x2(1) The voice germany _10x10(2) Discipline _2x3(1) Young sheldon _4x2(1) Unbag _1x8(1) Blood _1x17(1) The masked singer _4x7(1) The good doctor _4x2(1) Incroyable talent _15x4(1) The voice us _19x6(1) 
+Strictly come dancing _18x7(2) Lakan _1x3(1) Pogi lang hanap _1x4(1) TharnType _2x2(1) The voice germany _10x10(2) Discipline _2x3(1) Young sheldon _4x2(1) Unbag _1x8(1) Blood _1x17(1) The masked singer _4x7(1) The good doctor _4x2(1) The voice us _19x6(1) 
 #### sem 16-11-2020 
-Oh mando _1x2(1) Sea him _1x3(1) Strictly come dancing _18x9(2) My vampire boyfriend _1x3(2) Ingredients _1x18(1) The voice germany _10x12(2) Thonhon chonlathee _1x2(1) Young sheldon _4x3(1) The masked singer _4x8(1) Bt21 universe _1x3(2) Unbag _1x9(1) The voice us _19x8(2) Incroyable talent _15x5(1) 
+Sea him _1x3(1) Strictly come dancing _18x9(2) My vampire boyfriend _1x3(2) Ingredients _1x18(1) The voice germany _10x12(2) Thonhon chonlathee _1x2(1) Young sheldon _4x3(1) The masked singer _4x8(1) Bt21 universe _1x3(2) Unbag _1x9(1) The voice us _19x8(2) 
 #### sem 23-11-2020 
-Strictly come dancing _18x11(2) Calculating love _1x6(1) TharnType _2x3(1) The voice senior vv _2x2(1) Thonhon chonlathee _1x3(1) Discipline _2x4(1) Young sheldon _4x4(1) History2 right or wrong _1x2(1) Gameboys _1x8(1) Unbag _1x10(1) The masked singer _4x9(1) Pogi lang hanap _1x5(1) The voice us _19x10(2) The voice germany _10x13(1) 
+Strictly come dancing _18x11(2) TharnType _2x3(1) Thonhon chonlathee _1x3(1) Discipline _2x4(1) Young sheldon _4x4(1) History2 right or wrong _1x2(1) Gameboys _1x8(1) Unbag _1x10(1) The masked singer _4x9(1) Pogi lang hanap _1x5(1) The voice us _19x10(2) The voice germany _10x13(1) 
 #### sem 30-11-2020 
-History2 right or wrong _1x3(1) Strictly come dancing _18x13(2) Ingredients _1x19(1) The voice senior vv _2x3(1) The voice senior it _1x2(1) Discipline _2x5(1) The masked singer _4x10(1) Be love _1x2(1) The voice germany _10x15(2) The voice nl _11x2(1) The voice us _19x12(2) Incroyable talent _15x6(1) 
+History2 right or wrong _1x3(1) Strictly come dancing _18x13(2) Ingredients _1x19(1) The voice senior it _1x2(1) Discipline _2x5(1) The masked singer _4x10(1) Be love _1x2(1) The voice germany _10x15(2) The voice nl _11x2(1) The voice us _19x12(2) 
 
 
 
@@ -127,17 +131,17 @@ Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Mag
 #### mois 01-06-2020 
 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) Survivor au _7x14(1) 
 #### mois 01-07-2020 
-Young dracula _1x7(2) The untamed _1x2(1) Drag race thailand _2x10(1) Blank _1x5(1) Taking the stands _1x3(2) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
+Young dracula _1x7(2) The untamed _1x2(1) Drag race thailand _2x10(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### mois 01-08-2020 
-Ingredients _1x10(10) Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Calculating love _1x2(1) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
+Ingredients _1x10(10) Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
 #### mois 01-09-2020 
-Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1) Ingredients _1x12(2) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) Survivor au _7x16(2) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Calculating love _1x3(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Taking the stands _1x5(2) Lucifer _4x4(1) 
+Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1) Ingredients _1x12(2) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) Survivor au _7x16(2) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 #### mois 01-10-2020 
 Friend forever _1x2(1) My day _1x2(1) Gameboys _1x6(5) Drag race holland _1x3(2) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
 #### mois 01-11-2020 
-Strictly come dancing _18x4(3) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) The voice us _19x5(4) Incroyable talent _15x3(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Gameboys _1x7(1) Calculating love _1x4(1) Offgun fun night _2x2(1) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Strictly come dancing _18x4(3) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) The voice us _19x5(4) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Gameboys _1x7(1) Offgun fun night _2x2(1) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
-The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Strictly come dancing _18x13(9) Ingredients _1x19(2) The voice senior vv _2x3(2) The voice senior it _1x2(1) Discipline _2x5(3) The masked singer _4x10(4) The voice nl _11x2(1) The voice us _19x12(7) Incroyable talent _15x6(3) Calculating love _1x6(2) TharnType _2x3(2) Thonhon chonlathee _1x3(2) Young sheldon _4x4(3) Gameboys _1x8(1) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Bt21 universe _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
+The voice germany _10x16(8) Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Strictly come dancing _18x13(9) Ingredients _1x19(2) The voice senior it _1x2(1) Discipline _2x5(3) The masked singer _4x10(4) The voice nl _11x2(1) The voice us _19x12(7) TharnType _2x3(2) Thonhon chonlathee _1x3(2) Young sheldon _4x4(3) Gameboys _1x8(1) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Bt21 universe _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
 
 
 
@@ -378,7 +382,7 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### concluBis 27/10/20
 > The voice germany _10 > 7; Lls _1 > 5; The voice us _19 > 4; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
 ### concluBis 28/10/20
-> Lls _1 > 5; The voice germany _10 > 4; The voice us _19 > 4; We are not human _1 > 3; Incroyable talent _15 > 2; Ingredients _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 5; The voice germany _10 > 4; The voice us _19 > 4; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; 
 ### concluBis 29/10/20
 > I can see your voice _1 > 5; Lls _1 > 5; The voice germany _10 > 4; Pogi lang hanap _1 > 4; We are not human _1 > 3; The voice us _19 > 2; Ingredients _1 > 2; The masked singer _4 > 1; Survivor au _7 > 1; 
 ### concluBis 30/10/20
@@ -434,19 +438,19 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### concluBis 24/11/20 
 > The voice germany _10 > 10; Strictly come dancing _18 > 8; The voice us _19 > 5; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 25/11/20 
-> The voice us _19 > 10; The voice germany _10 > 7; Strictly come dancing _18 > 6; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; Incroyable talent _15 > 1; 
+> The voice us _19 > 10; The voice germany _10 > 7; Strictly come dancing _18 > 6; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 26/11/20 
 > The voice germany _10 > 14; The voice us _19 > 8; Strictly come dancing _18 > 5; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 27/11/20 
 > The voice germany _10 > 14; The voice us _19 > 7; Strictly come dancing _18 > 6; Lls _1 > 5; Ingredients _1 > 4; The masked singer _4 > 3; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 28/11/20 
-> The voice germany _10 > 13; Strictly come dancing _18 > 7; The voice us _19 > 7; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; The voice senior vv _2 > 2; Survivor au _7 > 2; The voice senior it _1 > 1; 
+> The voice germany _10 > 13; Strictly come dancing _18 > 7; The voice us _19 > 7; Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; The voice senior it _1 > 1; 
 ### concluBis 29/11/20 
 > Strictly come dancing _18 > 10; Ingredients _1 > 9; The voice germany _10 > 9; The voice us _19 > 5; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 30/11/20 
 > Strictly come dancing _18 > 9; The voice germany _10 > 8; Ingredients _1 > 7; Lls _1 > 5; The voice us _19 > 4; We are not human _1 > 2; History2 right or wrong _1 > 1; Survivor au _7 > 1; 
 ### concluBis 01/12/20 
-> The voice germany _10 > 14; Ingredients _1 > 9; Strictly come dancing _18 > 9; The voice us _19 > 5; Lls _1 > 5; Be love _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; Oh mando _1 > 1; 
+> The voice germany _10 > 14; Ingredients _1 > 9; Strictly come dancing _18 > 9; The voice us _19 > 5; Lls _1 > 5; Be love _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 
 
 

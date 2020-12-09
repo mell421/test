@@ -134,6 +134,7 @@
  <!-- tri par pays puis par studio -->
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
+|corée||||||
 |color rush|color rush|?|serie|corée|0|
 |to my star|to my star|9|serie|corée|0|
 |I just slept|I just slept|?|serie|corée|0|
