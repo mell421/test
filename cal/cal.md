@@ -81,7 +81,6 @@
 * gen y 101
 ### 12
 * ICSYV 106
-* oh mando 102
 * cherry magic 106
 * ITSAY 104
 ### 13
@@ -93,11 +92,9 @@
 * gen y 102
 ### 19
 * ICSYV 107
-* oh mando 102
 * cherry magic 107
 * ITSAY 105
 * ben x jim 106
-* TV GER 1013
 ### 20
 * tharnType 203
 ### 

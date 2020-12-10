@@ -83,7 +83,7 @@
 |so much in love|so much in love|12|serie|thailande|2|
 |he's coming to me|he's coming to me|8|serie|thailande|2|
 |blacklist|blacklist|13|serie|thailande|1|
-|unbag|unbag|?|show|thailande|9|
+|unbag|unbag|?|show|thailande|10|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
 |gameboys|gameboys|13,5|serie|philippines|7|
 |my day|my day|12|serie|philippines|1|
@@ -100,10 +100,10 @@
 |sea him|sea him|?|serie|vietnam|3|
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|2|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|
-|oh mando|oh mando|6|serie|philippines|3|
+|oh mando|oh mando|6|serie|philippines|5|
 |history2.1|history2 right or wrong|8|serie|taiwan|2|
 |be love|be love|4|serie|japon|2|
-|cheat|cheat|?|serie|philippines|1|
+|cheat|cheat|?|serie|philippines|2|
 |manner of death|manner of death|12|serie|thailande|1|
 |ghost runner|ghost runner|6|serie|thailande|1|
 |cherry magic|cherry magic|12|serie|japon|1|
@@ -125,6 +125,7 @@
 |my bromance|my bromance|1|serie|thailande|0|
 |||||||
 |von|von|1|film|thailande|0|
+|roommate 2|roommate 2 soulmate|?|serie|thailande|0|
 |||||||
 |||||||
 |||||||
@@ -158,7 +159,6 @@
 |you never eat alone|you never eat alone|?|serie|thailande|0|
 |yyy 2|yyy 2|?|serie|thailande|0|
 |OTHER||||||
-|roommate 2|roommate 2 soulmate|?|serie|thailande|0|
 |my engineer 2|my engineer 2|?|serie|thailande|0|
 |bittersweet|bittersweet|8|serie|thailande|0|
 |kinnporshe|kinnporshe|?|serie|thailande|0|

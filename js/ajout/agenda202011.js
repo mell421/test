@@ -36,10 +36,10 @@ document.write(`
       <td>23✔️</td>
       <td>24✔️<br>TGDO 404<br>gen y 103</td>
       <td>25✔️</td>
-      <td>26✔️<br>cherry magic 108<br><span class="fin">ben x jim 107</span><br>TV GER 1015</td>
-      <td>27✔️<br>ICSYV 108<br>TV NL 1102<br>thonhon chonlathee 103<br>tharnType 204</td>
+      <td>26✔️<br>cherry magic 108<br><span class="fin">ben x jim 107</span></td>
+      <td>27✔️<br>ICSYV 108<br>thonhon chonlathee 103<br>tharnType 204</td>
       <td>28✔️<br>friend forever 111</td>
-      <td>29✔️<br><span class="fin">boys lockdown 106</span><br>TV GER 1016</td>
+      <td>29✔️<br><span class="fin">boys lockdown 106</span></td>
   </tr>
   <tr>
       <td>30✔️<br>lakan 103<br>MOD 102</td>

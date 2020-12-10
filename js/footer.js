@@ -76,12 +76,19 @@ document.write(" à " + heure + "</center>");
 
 </script>
 
-<!-- -->
+<!--
 
+<script>
+let githubinfo=""
 
-
-
-
+async function loadGithubInfo() {
+  let url = 'https://api.github.com/users/mell421'
+  let res = await fetch(url)
+  this.githubinfo = await res.json()
+  console.log(this.githubinfo.pushed_at)
+  this.avatar = this.githubinfo.avatar_url
+</script>
+-->
 
 </div>
 `)
