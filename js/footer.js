@@ -15,8 +15,6 @@ document.write(`
     <!-- -->
     <!-- -->
 
-    
-
 
     <!--// imprimer la page -->
 <script LANGUAGE="JavaScript">
@@ -36,23 +34,24 @@ function printit(){
 </script>
 
 
+<!-- -->
+
+
 <script language="Javascript">
-<!--
 var NS = (navigator.appName == "Netscape");
 var VERSION = parseInt(navigator.appVersion);
 
 if (VERSION > 3) {
   document.write('<form><input type=button value="Imprimer la page" name="Print" onClick="printit()"></form>');
 }
-//-->
 </script>
 
 
+<!-- -->
 
 
-    <!--// date dernière maj -->
-    <script LANGUAGE="JavaScript">
-<!--
+<!--// date dernière maj -->
+<script LANGUAGE="JavaScript">
 
 //on prend la date du fichier
 var lastMod = document.lastModified;
@@ -74,21 +73,26 @@ document.write(lastDate.getDate() + " ");
 document.write(tabMois[lastDate.getMonth()] + " ");
 document.write(annee + " ");
 document.write(" à " + heure + "</center>");
-//-->
+
 </script>
 
+<!--
 
+<script>
+let githubinfo=""
 
+async function loadGithubInfo() {
+  let url = 'https://api.github.com/users/mell421'
+  let res = await fetch(url)
+  this.githubinfo = await res.json()
+  console.log(this.githubinfo.pushed_at)
+  this.avatar = this.githubinfo.avatar_url
+</script>
+-->
+<script>
 
+</script>
 
-
-
-
+<span id="git-last-commit-date"></span>
 </div>
 `)
-
-  
-  
-  
-
-  

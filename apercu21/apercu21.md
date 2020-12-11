@@ -5,11 +5,10 @@
 
 # ajout reponse 2021
 
----
 
 ## Aperçu semaine
 #### sem 04-01-2021 
-Soundtrack _1x2(1) Zérostérone _1x5(4) Lls _1x87(1) Supergirl _1x10(1) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) 
+Soundtrack _1x2(1) 
 
 
 

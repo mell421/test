@@ -243,7 +243,7 @@
 * Gaya sa pelikula _1 
 * Love by chance _2
 ### sem 30-10-2020 
-* 
+* The gifted series _2
 * The masked singer fr _2
 * Druck _5
 * Long time no see _1
@@ -252,9 +252,15 @@
 * Dwts _29
 * My gear and your gown _1
 ### sem 07-12-2020 
-* 
+* Oxygen _1
+* Boyband love _1
+* Koh-lanta _25
+* Better days _1
+* Safe haven _1
+* Cheerleaders new jersey _1
 ### sem 14-12-2020 
 * 
+* Taking the stands _1
 ### sem 21-12-2020 
 * 
 ### sem 28-12-2020 

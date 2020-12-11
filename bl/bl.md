@@ -5,7 +5,7 @@
 
 # liste de bl
  
-## terminé
+## terminé/finish
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
@@ -60,6 +60,9 @@
 |long time no see|long time no see|5|serie|thailande|
 |the gifted 2|the gifted graduation|13|serie|thailande|
 |safe haven|safe haven|15|serie|philippines|
+|better days|better days|6|serie|philippines|
+|boyband love|boyband love|9|serie|philippines|
+|oxygen|oxygen|13|serie|thailande|
 ||||||
 ||||||
 ||||||
@@ -67,26 +70,24 @@
 ||||||
 
  
-## en cours / a jour
+## en cours / a jour / now/up-to-date
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |we are not human|we are not human|24|serie|chine|18|
 |the untamed|the untamed|50|serie|chine|2|
 |long khong|long khong|8|serie|thailande|3|
-|calculating love|calculating love|?|serie|thailande|5|
+|calculating love|calculating love|6|serie|thailande|5|
 |the shipper|the shipper|12|serie|thailande|2|
 |ingredients|ingredients|22|serie|thailande|18|
 |so much in love|so much in love|12|serie|thailande|2|
 |he's coming to me|he's coming to me|8|serie|thailande|2|
 |blacklist|blacklist|13|serie|thailande|1|
-|unbag|unbag|?|show|thailande|9|
-|oxygen|oxygen|13|serie|thailande|12|
+|unbag|unbag|?|show|thailande|10|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
-|gameboys|gameboys|13,5|serie|philippines|7|
+|gameboys|gameboys|13,5|serie|philippines|8|
 |my day|my day|12|serie|philippines|1|
 |friend forever|friend forever|12|serie|thailande|3|
-|boyband love|boyband love|9|serie|philippines|8|
 |capture lover|capture lover|?|serie|chine|1|
 |friend zone|friend zone|?|serie|thailande|1|
 |boys lockdown|boys lockdown|6|serie|philippines|2|
@@ -97,15 +98,17 @@
 |lakan|lakan|8|serie|philippines|2|
 |discipline 2|discipline z : vampire|6|serie|corée|4|
 |sea him|sea him|?|serie|vietnam|3|
-|better days|better days|6|serie|philippines|5|
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|2|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|
-|oh mando|oh mando|6|serie|philippines|3|
+|oh mando|oh mando|6|serie|philippines|5|
 |history2.1|history2 right or wrong|8|serie|taiwan|2|
 |be love|be love|4|serie|japon|2|
-|cheat|cheat|?|serie|philippines|1|
+|cheat|cheat|?|serie|philippines|2|
 |manner of death|manner of death|12|serie|thailande|1|
 |ghost runner|ghost runner|6|serie|thailande|1|
+|cherry magic|cherry magic|12|serie|japon|1|
+|wish you|wish you|8|serie|corée|2|
+|why r u 2|why r u saifahzon story|?|serie|thailande|1|
 |||||||
 |||||||
 |||||||
@@ -118,34 +121,50 @@
 | --- | --- | :---: | --- | --- | --- |
 |gen y|gen y|12|serie|thailande|0|
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|
-|cherry magic|cherry magic|12|serie|japon|0|
-|why r u 2|why r u saifahzon story|?|serie|thailande|0|
-|von|von|1|film|thailande|0|
-|wish you|wish you|8|serie|corée|0|
 |my bromance|my bromance|1|film|thailande|0|
 |my bromance|my bromance|1|serie|thailande|0|
+|||||||
+|von|von|1|film|thailande|0|
+|roommate 2|roommate 2 soulmate|?|serie|thailande|0|
 |||||||
 |||||||
 |||||||
 |||||||
 
  ## a venir
- 
+ <!-- tri par pays puis par studio -->
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|hemp rope|hemp rope|?|serie|thailande|0|
-|destiny|destiny|?|serie|thailande|0|
-|love mechanics|love mechanics|?|serie|thailande|0|
-|my engineer 2|my engineer 2|?|serie|thailande|0|
-|yyy 2|yyy 2|?|serie|thailande|0|
+|corée||||||
 |color rush|color rush|?|serie|corée|0|
 |to my star|to my star|9|serie|corée|0|
 |I just slept|I just slept|?|serie|corée|0|
+|you make me dance|you make me dance|?|serie|corée|0|
+|GMMTV||||||
+|1000 stars|a tales of 1000 stars|?|serie|thailande|0|
+|F4 thailand|F4 thailand|?|serie|thailande|0|
+|fish upon the sky|fish upon the sky|?|serie|thailande|0|
+|drag I love you|drag I love you|?|serie|thailande|0|
+|never too late|never too late|?|serie|thailande|0|
+|baker boys|baker boys|?|serie|thailande|0|
+|enchante|enchante|?|serie|thailande|0|
+|bad buddy|bad buddy|?|serie|thailande|0|
+|the player|the player|?|serie|thailande|0|
+|NOTME|NOTME|?|serie|thailande|0|
+|SWS||||||
+|hemp rope|hemp rope|?|serie|thailande|0|
+|love mechanics|love mechanics|?|serie|thailande|0|
+|COPYABANGKOK||||||
+|ydestiny|ydestiny|?|serie|thailande|0|
+|you never eat alone|you never eat alone|?|serie|thailande|0|
+|yyy 2|yyy 2|?|serie|thailande|0|
+|OTHER||||||
+|my engineer 2|my engineer 2|?|serie|thailande|0|
 |bittersweet|bittersweet|8|serie|thailande|0|
 |kinnporshe|kinnporshe|?|serie|thailande|0|
 |lovely writer|lovely writer|?|serie|thailande|0|
-|1000 stars|a tales of 1000 stars|?|serie|thailande|0|
-|F4 thailand|F4 thailand|?|serie|thailande|0|
+|||||||
+|||||||
 |||||||
 |||||||
 |||||||

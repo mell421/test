@@ -2,33 +2,44 @@
 
 ### tisaep all
 
-* 
-Be love 1x1
-The voice germany 10x14
-The voice nl 11x1
-The voice us 19x11
-Incroyable talent 15x5
-Strictly come dancing 18x10
-Oxygen 1x11
-Boyband love 1x7
+Cheat 1x2
+The voice germany 10x17
+* Tale of the nine tailed 1x1
+Strictly come dancing 18x14
+Oh mando 1x5
+The voice senior it 1x2
+The voice senior vv 2x3
+The voice nl 11x2
+TharnType 2x3
+* Why r u 2x1
+The voice us 19x14
+Wish you 1x2
+* Wish you 1x1
+Young sheldon 4x4
+* Cherry magic 1x1
+Unbag 1x10
+The masked singer 4x10
+* Ghost runner 1x1
+* Manner of death 1x1
+Incroyable talent 15x6
+* Cheat 1x1
+Be love 1x2
+Sea him 1x3
+History2 right or wrong 1x2
+Ingredients 1x18
+* The voice senior it 1x1
+Discipline 2x4
+* Be love 1x1
+* The voice nl 11x1
 Calculating love 1x5
-TharnType 2x2
 * The voice senior vv 2x1
 Thonhon chonlathee 1x2
-Koh-lanta 25x13
-Better days 1x4
-Discipline 2x3
-Young sheldon 4x3
 * History2 right or wrong 1x1
 Gameboys 1x7
-Unbag 1x9
-The masked singer 4x8
 Pogi lang hanap 1x4
 * Oh mando 1x1
-Sea him 1x2
 My vampire boyfriend 1x2
 * My vampire boyfriend 1x1
-Ingredients 1x17
 * Thonhon chonlathee 1x1
 Bt21 universe 1x2
 * Bt21 universe 1x1
@@ -37,7 +48,6 @@ Lakan 1x2
 * Young sheldon 4x1
 Blood 1x16
 * The good doctor 4x1
-* Better days 1x1
 * Sea him 1x1
 Swap test 1x2
 * Discipline 2x1
@@ -64,7 +74,6 @@ We are not human 1x18
 * Friend zone 1x1
 * Capture lover 1x1
 * Zombie detective 1x1
-* Boyband love 1x1
 * Friend forever 1x1
 * My day 1x1
 Drag race holland 1x2
@@ -77,12 +86,10 @@ Survivor au 7x16
 * Baby 3x1
 Hes coming to me 1x2
 * My dear loser edge of 17 1x1
-* Oxygen 1x1
 * The voice vv 6x1
 Aggretsuko 3x3
 * Survivor au 1x1
 Nailed it holiday 2x2
-* Koh-lanta 25x1
 * Unbag 1x1
 * Aggretsuko 3x1
 So much in love 1x2
@@ -96,7 +103,6 @@ You 1x2
 Long khong 1x4
 * Love alarm 1x1
 Phineas & ferb 1x32
-Taking the stands 1x4
 Lucifer 4x3
 Ingredients 1x0
 * Alta mar 1x1
@@ -106,13 +112,12 @@ Forever knight 1x10
 The shipper 1x2
 * The shipper 1x1
 * Calculating love 1x1
-*  khong 1x1
+* Long khong 1x1
 * Himym 6x1
 * Good singers 1x1
 The untamed 1x2
 Young dracula 1x6
 * The untamed 1x1
-Drag race thailand 2x9
 Blank 1x4
 * Arrow 7x1
 * Top chef us 1x1
@@ -122,7 +127,6 @@ Kaamelott 5x12
 Tf 4x13
 Heirs of the night 1x3
 * Heirs of the night 1x1
-* Taking the stands 1x1
 Modern family 1x14
 1rw 3x4
 Penny dreadful city of angels 1x2
