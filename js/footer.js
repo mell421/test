@@ -89,12 +89,10 @@ async function loadGithubInfo() {
   this.avatar = this.githubinfo.avatar_url
 </script>
 -->
+<script>
 
+</script>
+
+<span id="git-last-commit-date"></span>
 </div>
 `)
-
-  
-  
-  
-
-  
