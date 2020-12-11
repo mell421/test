@@ -85,7 +85,7 @@
 |blacklist|blacklist|13|serie|thailande|1|
 |unbag|unbag|?|show|thailande|10|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
-|gameboys|gameboys|13,5|serie|philippines|7|
+|gameboys|gameboys|13,5|serie|philippines|8|
 |my day|my day|12|serie|philippines|1|
 |friend forever|friend forever|12|serie|thailande|3|
 |capture lover|capture lover|?|serie|chine|1|

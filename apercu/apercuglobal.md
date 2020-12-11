@@ -17,7 +17,7 @@ Skam vsg _1x4(1)
 ### sem 20-05-2019 
 Sam & cat _1x19(3) Shadowhunters _3x14(2) 
 ### sem 27-05-2019 
-Rpdru _9x4(1) Drag race thailand _2x5(1) Lls _1x65(1) 
+Rpdru _9x4(1) Lls _1x65(1) 
 ### sem 03-06-2019 
 Lls _1x73(8) Jeopardy _33x158(1) Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) 
 ### sem 10-06-2019 
@@ -41,7 +41,7 @@ Dark _1x2(1) Rpdru _9x6(2) Dragula _1x4(1) Dna _1x6(1) Riverdale _3x11(1) Kunoic
 ### sem 12-08-2019 
 Travelers _1x5(1) 
 ### sem 19-08-2019 
-Total drama _2x5(3) Drag race thailand _2x7(2) Chica vampiro _1x6(5) 
+Total drama _2x5(3) Chica vampiro _1x6(5) 
 ### sem 26-08-2019 
 Dirk gently _2x3(2) 1rw _3x3(2) Dark _1x5(3) The voice germany _1x6(1) Rpdru _9x7(1) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(2) 
 ### sem 02-09-2019 
@@ -55,7 +55,7 @@ Ahs _9x2(1)
 ### sem 30-09-2019 
 The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(1) Criminal uk _1x2(1) Million dollar mile _1x3(1) Criminal germany _1x2(1) 
 ### sem 07-10-2019 
-Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) The politician _1x4(1) Two pints of lager _3x2(1) La mas draga _1x3(2) Dawson _1x2(1) Drag race thailand _2x8(1) 
+Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) The politician _1x4(1) Two pints of lager _3x2(1) La mas draga _1x3(2) Dawson _1x2(1) 
 ### sem 14-10-2019 
 Skam vsg _1x5(1) Prodigal son _1x3(1) 
 ### sem 21-10-2019 
@@ -109,7 +109,7 @@ Les ratz _1x2(1) Survivor au _7x7(2) Why women kill _1x2(1)
 #### sem 06-04-2020 
 Why women kill _1x4(2) Survivor au _7x10(3) The office _1x3(2) Community _1x3(1) Mental _1x4(1) Ninja warrior junior us _2x7(2) 
 #### sem 13-04-2020 
-Hsmtmts _1x4(1) Nailed it holiday _2x2(1) Survivor au _7x12(2) Only connect _15x25(1) Les ratz _1x3(1) The circle france _1x3(2) Bloodride _1x2(1) Ahs _9x5(1) Drag race thailand _2x9(1) 
+Hsmtmts _1x4(1) Nailed it holiday _2x2(1) Survivor au _7x12(2) Only connect _15x25(1) Les ratz _1x3(1) The circle france _1x3(2) Bloodride _1x2(1) Ahs _9x5(1) 
 #### sem 20-04-2020 
 All for one _2x4(1) Forever knight _1x10(1) The circle br _1x2(1) Survivor au _7x13(1) Les ratz _1x5(2) Les zinzins de lespace _1x5(4) The circle france _1x4(1) Mental samourai _1x2(1) 
 #### sem 27-04-2020 
@@ -127,7 +127,7 @@ Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1)
 #### sem 15-06-2020 
 Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) 
 #### sem 22-06-2020 
-Drag race thailand _2x10(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
+Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
 #### sem 29-06-2020 
 Young dracula _1x7(2) The untamed _1x2(1) 
 #### sem 06-07-2020 
@@ -187,15 +187,15 @@ Strictly come dancing _18x15(2) Oh mando _1x6(4) The voice senior it _1x3(1) The
 ### mois 01-05-2019 
 Girl meets world _1x8(3) You vs wild _1x3(1) Samokazem _1x3(1) Lls _1x64(1) 
 ### mois 01-06-2019 
-Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Lls _1x66(2) Jessie _1x2(1) Rpdru _9x4(1) Drag race thailand _2x5(1) Sam & cat _1x19(3) Shadowhunters _3x14(2) Skam vsg _1x4(1) 
+Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Lls _1x66(2) Jessie _1x2(1) Rpdru _9x4(1) Sam & cat _1x19(3) Shadowhunters _3x14(2) Skam vsg _1x4(1) 
 ### mois 01-07-2019 
 Tf _4x12(1) Rupaul show _1x6(5) Sytycd _15x2(1) Doom patrol _1x4(2) Steven universe _1x2(1) Explained _1x7(1) The voice germany _1x5(4) Lls _1x77(11) Nos4a2 _1x3(2) Les lapins crétins _1x48(6) What if _1x2(1) Years and years _1x4(2) /3% _3x3(2) Jeopardy _33x158(1) How to sell drugs online (fast) _1x2(1) 
 ### mois 01-08-2019 
 Riverdale _3x11(1) Kunoichi _1x8(2) Sasuke _1x8(3) Girl meets world _1x9(1) Another life _1x2(1) Will and grace _5x4(3) Scrubs _1x11(2) Malcolm _2x14(3) Lls _1x86(9) Euphoria _1x2(1) Dragula _1x3(2) Light as a feather _1x7(1) Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
 ### mois 01-09-2019 
-Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(3) Dirk gently _2x3(2) Dark _1x5(4) The voice germany _1x6(1) Rpdru _9x7(3) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(5) Drag race thailand _2x7(2) Chica vampiro _1x6(5) Travelers _1x5(1) Dragula _1x4(1) Dna _1x6(1) 
+Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(3) Dirk gently _2x3(2) Dark _1x5(4) The voice germany _1x6(1) Rpdru _9x7(3) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(5) Chica vampiro _1x6(5) Travelers _1x5(1) Dragula _1x4(1) Dna _1x6(1) 
 ### mois 01-10-2019 
-Drag race thailand _2x8(1) La mas draga _1x2(1) The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(2) Criminal uk _1x2(1) Million dollar mile _1x3(2) Criminal germany _1x2(1) Chica vampiro _1x7(1) Lucifer _4x3(2) Ga _2x13(1) Carnival row _1x2(1) 
+La mas draga _1x2(1) The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(2) Criminal uk _1x2(1) Million dollar mile _1x3(2) Criminal germany _1x2(1) Chica vampiro _1x7(1) Lucifer _4x3(2) Ga _2x13(1) Carnival row _1x2(1) 
 ### mois 01-11-2019 
 Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) We are not human _1x9(8) The politician _1x5(2) Skam vsg _1x5(1) Prodigal son _1x3(1) Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) La mas draga _1x3(1) Dawson _1x2(1) 
 ### mois 01-12-2019 
@@ -209,11 +209,11 @@ Ninja warrior junior us _2x2(1) Jeopardy _32x159(2) I am not okay with this _1x2
 #### mois 01-04-2020 
 Survivor au _7x9(5) Mental _1x4(1) Ninja warrior junior us _2x7(5) Why women kill _1x3(2) Les ratz _1x2(1) Dare me _1x2(1) Vwars _1x6(2) Prodigal son _1x5(2) Kingdom _2x2(1) Only connect _15x24(2) Breaking bad _4x8(1) I am not okay with this _1x4(2) Castlevania _3x2(1) 
 #### mois 01-05-2020 
-Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) All for one _2x4(1) Forever knight _1x10(1) The circle br _1x2(1) Survivor au _7x13(5) Les ratz _1x5(3) Les zinzins de lespace _1x5(4) The circle france _1x4(3) samourai _1x2(1) Hsmtmts _1x4(1) Nailed it holiday _2x2(1) Only connect _15x25(1) Bloodride _1x2(1) Ahs _9x5(1) Drag race thailand _2x9(1) Why women kill _1x4(1) The office _1x3(2) Community _1x3(1) Mental _1x4(1) 
+Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) All for one _2x4(1) Forever knight _1x10(1) The circle br _1x2(1) Survivor au _7x13(5) Les ratz _1x5(3) Les zinzins de lespace _1x5(4) The circle france _1x4(3) samourai _1x2(1) Hsmtmts _1x4(1) Nailed it holiday _2x2(1) Only connect _15x25(1) Bloodride _1x2(1) Ahs _9x5(1) Why women kill _1x4(1) The office _1x3(2) Community _1x3(1) Mental _1x4(1) 
 #### mois 01-06-2020 
 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) Survivor au _7x14(1) 
 #### mois 01-07-2020 
-Young dracula _1x7(2) The untamed _1x2(1) Drag race thailand _2x10(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
+Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### mois 01-08-2020 
 Ingredients _1x10(10) Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Calculating love _1x2(1) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
 #### mois 01-09-2020 

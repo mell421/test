@@ -118,7 +118,6 @@ The shipper 1x2
 The untamed 1x2
 Young dracula 1x6
 * The untamed 1x1
-Drag race thailand 2x9
 Blank 1x4
 * Arrow 7x1
 * Top chef us 1x1
