@@ -5,8 +5,6 @@
 # ajout reponse 2020
 
 oh mando 1
-calculating love 1
-tvs vv 2
 incroyable talent 15
 TV US
 

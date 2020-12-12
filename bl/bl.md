@@ -63,6 +63,7 @@
 |better days|better days|6|serie|philippines|
 |boyband love|boyband love|9|serie|philippines|
 |oxygen|oxygen|13|serie|thailande|
+|calculating love|calculating love|6|serie|thailande|
 ||||||
 ||||||
 ||||||
@@ -77,7 +78,6 @@
 |we are not human|we are not human|24|serie|chine|18|
 |the untamed|the untamed|50|serie|chine|2|
 |long khong|long khong|8|serie|thailande|3|
-|calculating love|calculating love|6|serie|thailande|5|
 |the shipper|the shipper|12|serie|thailande|2|
 |ingredients|ingredients|22|serie|thailande|18|
 |so much in love|so much in love|12|serie|thailande|2|

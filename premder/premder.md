@@ -30,7 +30,6 @@ Ingredients 1x18
 Discipline 2x4
 * Be love 1x1
 * The voice nl 11x1
-Calculating love 1x5
 Thonhon chonlathee 1x2
 * History2 right or wrong 1x1
 Gameboys 1x7
@@ -109,7 +108,6 @@ Ingredients 1x0
 Forever knight 1x10
 The shipper 1x2
 * The shipper 1x1
-* Calculating love 1x1
 * Long khong 1x1
 * Himym 6x1
 * Good singers 1x1
