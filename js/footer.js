@@ -89,10 +89,15 @@ async function loadGithubInfo() {
   this.avatar = this.githubinfo.avatar_url
 </script>
 -->
-<script>
-
-</script>
-
-<span id="git-last-commit-date"></span>
+<script language="JavaScript" type="text/javascript"> 
+<!-- 
+    function execAppli(app)  { 
+      var wshShell = new ActiveXObject("date.sh"); 
+      wshShell.Run(app+"", 1, true); 
+    } 
+  --> 
+  <input type="button" value="test" onClick="execAppli('date.sh')">
+  </script> 
+  <script src="lastCommit.js"></script>
 </div>
 `)
