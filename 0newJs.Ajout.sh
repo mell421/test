@@ -1,5 +1,6 @@
 #!/bin/bash
 
-echo "document.write(\`" > js/new.js
-echo " " >> js/new.js
-echo "\`)" >> js/new.js
+read -p 'nom du fichier(js) : ' nom
+echo "document.write(\`" > js/$nom.js
+echo " " >> js/$nom.js
+echo "\`)" >> js/$nom.js

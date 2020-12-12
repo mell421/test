@@ -89,6 +89,6 @@ document.write(" à " + heure + "</center>");
   
   <input type="button" value="test" onClick="execAppli('date.sh')">
   </script> 
-  <script src="0lastCommit.js"></script>
+  <script src="js/lastCommit.js"></script>
 </div>
 `)
