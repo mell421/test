@@ -175,6 +175,9 @@ Strictly come dancing _18x11(2) TharnType _2x3(1) Thonhon chonlathee _1x3(1) Dis
 History2 right or wrong _1x3(1) Strictly come dancing _18x13(2) Ingredients _1x19(1) The voice senior it _1x2(1) Discipline _2x5(1) The masked singer _4x10(1) Be love _1x2(1) The voice germany _10x15(2) The voice nl _11x2(1) The voice us _19x12(2) Incroyable talent _15x6(1) 
 #### sem 07-12-2020 
 Strictly come dancing _18x15(2) Oh mando _1x6(4) The voice senior it _1x3(1) The voice nl _11x3(1) TharnType _2x4(1) Why r u _2x2(1) The voice us _19x15(3) Wish you _1x3(2) Young sheldon _4x5(1) Cherry magic _1x2(1) Unbag _1x11(1) The masked singer _4x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) The voice germany _10x17(2) Incroyable talent _15x7(1) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
+#### sem 14-12-2020 
+A queen is born _1x2(1) Strictly come dancing _18x17(2) Ingredients _1x20(1) Wish you _1x5(2) The voice nl _11x4(1) The voice senior it _1x4(1) District z _1x2(1) Discipline _2x6(1) Gameboys _1x9(1) The masked singer _4x12(1) The voice us _19x17(2) Incroyable talent _15x8(1) Cheat _1x3(1) The voice germany _10x18(1) Tale of the nine tailed _1x2(1)
+
 
 
 
@@ -398,6 +401,19 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 > Ingredients _1 > 5; Strictly come dancing _18 > 4; The voice germany _10 > 4; The voice us _19 > 4; Lls _1 > 3; Oh mando _1 > 3; We are not human _1 > 1; 
 ### conclu 09/12/20 
 > The voice us _19 > 7; Ingredients _1 > 5; The voice germany _10 > 4; Lls _1 > 3; Oh mando _1 > 2; Strictly come dancing _18 > 2; We are not human _1 > 1; 
+### conclu 10/12/20 
+> The voice us _19 > 7; Ingredients _1 > 5; Strictly come dancing _18 > 4; Lls _1 > 3; The voice germany _10 > 3; Oh mando _1 > 1; We are not human _1 > 1; 
+### conclu 11/12/20 
+> The voice us _19 > 6; Ingredients _1 > 5; Lls _1 > 3; Strictly come dancing _18 > 3; The voice germany _10 > 3; We are not human _1 > 1; 
+### conclu 12/12/20 
+> Ingredients _1 > 5; The voice us _19 > 5; Lls _1 > 3; The voice germany _10 > 3; Wish you _1 > 3; Strictly come dancing _18 > 2; The voice senior it _1 > 2; We are not human _1 > 1; 
+### conclu 13/12/20 
+> Strictly come dancing _18 > 6; Ingredients _1 > 5; The voice us _19 > 4; Lls _1 > 3; The voice germany _10 > 3; Wish you _1 > 2; We are not human _1 > 1; 
+### conclu 14/12/20 
+> Strictly come dancing _18 > 7; Ingredients _1 > 5; Lls _1 > 3; The voice germany _10 > 3; The voice us _19 > 3; Wish you _1 > 2; We are not human _1 > 1;
+
+
+
 
 
 
@@ -564,7 +580,16 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 > The voice germany _10 > 12; Strictly come dancing _18 > 10; The voice us _19 > 10; Ingredients _1 > 9; Oh mando _1 > 7; Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; The masked singer _4 > 1; Wish you _1 > 1; Survivor au _7 > 1; 
 ### concluBis 09/12/20 
 > The voice us _19 > 13; The voice germany _10 > 10; Ingredients _1 > 9; Strictly come dancing _18 > 8; Oh mando _1 > 6; Lls _1 > 5; We are not human _1 > 3; Incroyable talent _15 > 2; Wish you _1 > 2; Unbag _1 > 1; Survivor au _7 > 1; 
-
+### concluBis 10/12/20 
+> The voice us _19 > 13; Strictly come dancing _18 > 10; Ingredients _1 > 9; The voice germany _10 > 9; Lls _1 > 5; The masked singer _4 > 4; Oh mando _1 > 4; We are not human _1 > 3; Wish you _1 > 2; Survivor au _7 > 1; 
+### concluBis 11/12/20 
+> The voice us _19 > 12; Ingredients _1 > 9; The voice germany _10 > 9; Strictly come dancing _18 > 9; Lls _1 > 5; The masked singer _4 > 3; Oh mando _1 > 3; We are not human _1 > 3; Wish you _1 > 1; Survivor au _7 > 1; 
+### concluBis 12/12/20 
+> The voice us _19 > 11; Ingredients _1 > 9; The voice germany _10 > 9; Strictly come dancing _18 > 8; Wish you _1 > 6; Lls _1 > 5; The voice senior it _1 > 4; We are not human _1 > 3; Oh mando _1 > 2; The masked singer _4 > 1; The voice nl _11 > 1; Survivor au _7 > 1; 
+### concluBis 13/12/20 
+> Strictly come dancing _18 > 12; Ingredients _1 > 11; The voice us _19 > 10; The voice germany _10 > 9; Wish you _1 > 5; Lls _1 > 5; We are not human _1 > 3; Oh mando _1 > 2; The masked singer _4 > 1; The voice nl _11 > 1; Survivor au _7 > 1; 
+### concluBis 14/12/20 
+> Strictly come dancing _18 > 14; Ingredients _1 > 10; The voice germany _10 > 9; The voice us _19 > 9; Wish you _1 > 5; Lls _1 > 5; We are not human _1 > 3; Oh mando _1 > 2; A queen is born _1 > 2; The masked singer _4 > 1;
 
 
 

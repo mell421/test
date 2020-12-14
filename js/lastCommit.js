@@ -1,3 +1,3 @@
 document.write(`<center>
-Git last modification : Sat Dec 12 14:46:14 2020 +0100
+Git last modification : Mon Dec 14 21:36:48 2020 +0100
   </center>`)
