@@ -79,7 +79,7 @@
 |the untamed|the untamed|50|serie|chine|2|
 |long khong|long khong|8|serie|thailande|3|
 |the shipper|the shipper|12|serie|thailande|2|
-|ingredients|ingredients|22|serie|thailande|18|
+|ingredients|ingredients|22|serie|thailande|19|
 |so much in love|so much in love|12|serie|thailande|2|
 |he's coming to me|he's coming to me|8|serie|thailande|2|
 |blacklist|blacklist|13|serie|thailande|1|
@@ -96,9 +96,9 @@
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|
 |offgun fun night 2|offgun fun night 2|11|show|thailande|1|
 |lakan|lakan|8|serie|philippines|2|
-|discipline 2|discipline z : vampire|6|serie|corée|4|
+|discipline 2|discipline z : vampire|6|serie|corée|5|
 |sea him|sea him|?|serie|vietnam|3|
-|tharnType 2|tharnType 7 years of love|13|serie|thailande|2|
+|tharnType 2|tharnType 7 years of love|13|serie|thailande|3|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|
 |oh mando|oh mando|6|serie|philippines|5|
 |history2.1|history2 right or wrong|8|serie|taiwan|2|
@@ -107,7 +107,7 @@
 |manner of death|manner of death|12|serie|thailande|1|
 |ghost runner|ghost runner|6|serie|thailande|1|
 |cherry magic|cherry magic|12|serie|japon|1|
-|wish you|wish you|8|serie|corée|2|
+|wish you|wish you|8|serie|corée|4|
 |why r u 2|why r u saifahzon story|?|serie|thailande|1|
 |||||||
 |||||||
@@ -122,11 +122,13 @@
 |gen y|gen y|12|serie|thailande|0|
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|
 |my bromance|my bromance|1|film|thailande|0|
-|my bromance|my bromance|1|serie|thailande|0|
+|my bromance|my bromance|12|serie|thailande|0|
 |||||||
 |von|von|1|film|thailande|0|
 |roommate 2|roommate 2 soulmate|?|serie|thailande|0|
-|||||||
+|lovely writer|lovely writer|?|serie|thailande|0|
+|tell the world i love you|tell the world i love you|1|film|thailande|0|
+|you never eat alone|you never eat alone|?|serie|thailande|0|
 |||||||
 |||||||
 |||||||
@@ -145,7 +147,6 @@
 |F4 thailand|F4 thailand|?|serie|thailande|0|
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|
 |drag I love you|drag I love you|?|serie|thailande|0|
-|never too late|never too late|?|serie|thailande|0|
 |baker boys|baker boys|?|serie|thailande|0|
 |enchante|enchante|?|serie|thailande|0|
 |bad buddy|bad buddy|?|serie|thailande|0|
@@ -154,15 +155,13 @@
 |SWS||||||
 |hemp rope|hemp rope|?|serie|thailande|0|
 |love mechanics|love mechanics|?|serie|thailande|0|
-|COPYABANGKOK||||||
+|COPYABANGKOK|||||| 
 |ydestiny|ydestiny|?|serie|thailande|0|
-|you never eat alone|you never eat alone|?|serie|thailande|0|
 |yyy 2|yyy 2|?|serie|thailande|0|
 |OTHER||||||
 |my engineer 2|my engineer 2|?|serie|thailande|0|
 |bittersweet|bittersweet|8|serie|thailande|0|
 |kinnporshe|kinnporshe|?|serie|thailande|0|
-|lovely writer|lovely writer|?|serie|thailande|0|
 |||||||
 |||||||
 |||||||
@@ -173,9 +172,3 @@
 
 
 [retour](./../index.html)
- 
- 
- 
- 
- 
-

@@ -259,7 +259,9 @@
 * Safe haven _1
 * Cheerleaders new jersey _1
 ### sem 14-12-2020 
-* 
+* Calculating love _1
+* The voice senior vv _2
+* Drag race thailand _2
 * Taking the stands _1
 ### sem 21-12-2020 
 * 
@@ -300,7 +302,7 @@
 #### mois 01-12-2020 
 *Quaranthings _1 Gaya sa pelikula _1 Love by chance _2 Skinship _1 The voice uk _9 Craving you _1 Bt21 animation _3 Bt21 special film _1 Bt21 animation _2 Bt21 animation _1 Bt21 store _1 Bt21 stickers _1 Bt21 game _1 Bt21 vr _1 Grandsons the reality project _1 The masked singer vv _1 Wtfock _4 Im tee me too _1 Skam espana _4 The good doctor _3*
 #### mois 01-01-2021 
-**
+*insererici Calculating love _1 The voice senior vv _2 Drag race thailand _2 Taking the stands _1 Oxygen _1 Boyband love _1 Koh-lanta _25 Better days _1 Safe haven _1*
 
 
 

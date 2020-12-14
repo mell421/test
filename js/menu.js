@@ -37,10 +37,9 @@ document.write(`
   <ul>
       <li><a href="increment.html">increment</a></li>
       <li><a href="mdp.html">générateur de mot de passe</a></li>
-      <!-- <li><a href="mesSites/sites.html">Sous-item 3</a></li> -->
     </ul>
   </li>
-  <li><a href="user.html">connexion</a></li>
+  <li><a href="#">#</a></li>
 </ul>
 
 <br><br><br><br>

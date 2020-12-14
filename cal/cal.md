@@ -63,7 +63,6 @@
 ### 1
 * boys lockdown 103
 ### 5
-* ICSYV 105
 * pogi lang hanap 105
 * cherry magic 105
 * ITSAY 103
@@ -80,7 +79,6 @@
 * TGDO 402
 * gen y 101
 ### 12
-* ICSYV 106
 * cherry magic 106
 * ITSAY 104
 ### 13
@@ -91,12 +89,10 @@
 * TGDO 403
 * gen y 102
 ### 19
-* ICSYV 107
 * cherry magic 107
 * ITSAY 105
 * ben x jim 106
-### 20
-* tharnType 203
+### 
 ### 
 ### 
 ### 
