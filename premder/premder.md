@@ -49,7 +49,6 @@ Blood 1x16
 Swap test 1x2
 * Discipline 2x1
 * The stranded 1x1
-I can see your voice 1x4
 * Lakan 1x1
 Friend forever 1x3
 Joséphine ange gardien 23x3
@@ -75,7 +74,6 @@ We are not human 1x18
 * My day 1x1
 Drag race holland 1x2
 * Gameboys 1x1
-* I can see your voice 1x1
 * The masked singer 4x1
 Survivor au 7x16
 * Love in time 1x1

@@ -11,7 +11,6 @@ SCD
 TV GER
 TMS
 discipline 
-ICSYV
 
 ## Aperçu semaine
 #### sem 06-01-2020 

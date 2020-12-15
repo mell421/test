@@ -81,9 +81,9 @@ Unbag _1x3(1) The voice vv _6x2(1)
 #### sem 21-09-2020 
 Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(1) Drag race holland _1x2(1) Unbag _1x4(1) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) 
 #### sem 28-09-2020 
-Gameboys _1x5(4) Drag race holland _1x3(1) Unbag _1x5(1) I can see your voice _1x2(1) The masked singer _4x2(1) 
+Gameboys _1x5(4) Drag race holland _1x3(1) Unbag _1x5(1) The masked singer _4x2(1) 
 #### sem 05-10-2020 
-I can see your voice _1x3(1) Friend forever _1x3(2) Ingredients _1x15(1) The masked singer _4x3(1) My day _1x2(1) Gameboys _1x6(1)
+Friend forever _1x3(2) Ingredients _1x15(1) The masked singer _4x3(1) My day _1x2(1) Gameboys _1x6(1)
 #### sem 12-10-2020 
 We are not human _1x12(3) The voice germany _10x2(1) Friend zone _1x2(1) Unbag _1x6(1) The masked singer _4x4(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### sem 19-10-2020 
@@ -91,7 +91,7 @@ Ben x jim _1x2(1) Boys lockdown _1x2(1) Love in time _1x4(2) Strictly come danci
 #### sem 26-10-2020 
 Boys lockdown _1x3(1) Gameboys _1x7(1) Strictly come dancing _18x3(1) Offgun fun night _2x2(1) The voice germany _10x6(3) Pogi lang hanap _1x2(1) Swap test _1x2(1) Incroyable talent _15x2(1) The voice us _19x3(2) Quien es la mascara _2x3(2) Joséphine ange gardien _23x3(2) 
 #### sem 02-11-2020 
-Strictly come dancing _18x5(2) Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Swap test _1x3(1) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(1) I can see your voice _1x5(2) The masked singer _4x6(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) The voice us _19x5(2) Incroyable talent _15x3(1) Joséphine ange gardien _23x4(1) 
+Strictly come dancing _18x5(2) Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Swap test _1x3(1) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(1) The masked singer _4x6(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) The voice us _19x5(2) Incroyable talent _15x3(1) Joséphine ange gardien _23x4(1) 
 #### sem 09-11-2020 
 Strictly come dancing _18x7(2) Lakan _1x3(1) Pogi lang hanap _1x4(1) TharnType _2x2(1) The voice germany _10x10(2) Discipline _2x3(1) Young sheldon _4x2(1) Unbag _1x8(1) Blood _1x17(1) The masked singer _4x7(1) The good doctor _4x2(1) Incroyable talent _15x4(1) The voice us _19x6(1) 
 #### sem 16-11-2020 
@@ -138,9 +138,9 @@ Ingredients _1x10(10) Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1)
 #### mois 01-09-2020 
 Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1) Ingredients _1x12(2) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) Survivor au _7x16(2) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 #### mois 01-10-2020 
-Friend forever _1x2(1) My day _1x2(1) Gameboys _1x6(5) Drag race holland _1x3(2) Unbag _1x5(3) I can see your voice _1x2(1) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
+Friend forever _1x2(1) My day _1x2(1) Gameboys _1x6(5) Drag race holland _1x3(2) Unbag _1x5(3) The masked singer _4x2(1) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
 #### mois 01-11-2020 
-Strictly come dancing _18x4(3) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) I can see your voice _1x5(3) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) The voice us _19x5(4) Incroyable talent _15x3(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Gameboys _1x7(1) Offgun fun night _2x2(1) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Strictly come dancing _18x4(3) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) The masked singer _4x6(4) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) The voice us _19x5(4) Incroyable talent _15x3(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Gameboys _1x7(1) Offgun fun night _2x2(1) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
 The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Strictly come dancing _18x13(9) Ingredients _1x19(2) The voice senior it _1x2(1) Discipline _2x5(3) The masked singer _4x10(4) The voice nl _11x2(1) The voice us _19x12(7) Incroyable talent _15x6(3) TharnType _2x3(2) Thonhon chonlathee _1x3(2) Young sheldon _4x4(3) Gameboys _1x8(1) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Bt21 universe _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
 
@@ -235,17 +235,17 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### conclu 28/10/20
 > Lls _1 > 3; The voice germany _10 > 2; The voice us _19 > 2; We are not human _1 > 1; 
 ### conclu 29/10/20 
-> I can see your voice _1 > 3; Lls _1 > 3; Pogi lang hanap _1 > 2; The voice germany _10 > 2; We are not human _1 > 1; 
+> Lls _1 > 3; Pogi lang hanap _1 > 2; The voice germany _10 > 2; We are not human _1 > 1; 
 ### conclu 30/10/20 
-> Lls _1 > 3; I can see your voice _1 > 2; The voice germany _10 > 2; Pogi lang hanap _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 3; The voice germany _10 > 2; Pogi lang hanap _1 > 1; We are not human _1 > 1; 
 ### conclu 31/10/20 
-> The voice germany _10 > 5; Lls _1 > 3; I can see your voice _1 > 1; We are not human _1 > 1; 
+> The voice germany _10 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 01/11/20 
-> The voice germany _10 > 4; Lls _1 > 3; Ingredients _1 > 2; I can see your voice _1 > 1; We are not human _1 > 1; 
+> The voice germany _10 > 4; Lls _1 > 3; Ingredients _1 > 2; We are not human _1 > 1; 
 ### conclu 02/11/20
 > Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; We are not human _1 > 2; 
 ### conclu 03/11/20
-> Ingredients _1 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; The voice germany _10 > 3; We are not human _1 > 2; I can see your voice _1 > 1; 
+> Ingredients _1 > 4; Lls _1 > 3; Strictly come dancing _18 > 3; The voice germany _10 > 3; We are not human _1 > 2; 
 ### conclu 04/11/20
 > Ingredients _1 > 4; The voice germany _10 > 4; Lls _1 > 3; We are not human _1 > 2; 
 ### conclu 05/11/20 
@@ -367,9 +367,9 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### concluBis 04/10/20
 > Ingredients _1 > 8; Lls _1 > 5; Survivor au _7 > 4; Kaamelott _5 > 1; 
 ### concluBis 05/10/20
-> Ingredients _1 > 8; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1; 
+> Ingredients _1 > 8; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Gameboys _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 06/10/20
-> Ingredients _1 > 8; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Gameboys _1 > 1; I can see your voice _1 > 1; Kaamelott _5 > 1; 
+> Ingredients _1 > 8; Friend forever _1 > 5; Lls _1 > 5; Survivor au _7 > 4; Gameboys _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 07/10/20
 > Ingredients _1 > 8; Lls _1 > 5; Friend forever _1 > 4; Survivor au _7 > 4; Kaamelott _5 > 1; 
 ### concluBis 08/10/20
@@ -415,17 +415,17 @@ The voice germany _10x16(8) Be love _1x3(2) Oh mando _1x3(2) Sea him _1x4(2) His
 ### concluBis 28/10/20
 > Lls _1 > 5; The voice germany _10 > 4; The voice us _19 > 4; We are not human _1 > 3; Incroyable talent _15 > 2; Ingredients _1 > 2; Survivor au _7 > 1; 
 ### concluBis 29/10/20
-> I can see your voice _1 > 5; Lls _1 > 5; The voice germany _10 > 4; Pogi lang hanap _1 > 4; We are not human _1 > 3; The voice us _19 > 2; Ingredients _1 > 2; The masked singer _4 > 1; Survivor au _7 > 1; 
+> Lls _1 > 5; The voice germany _10 > 4; Pogi lang hanap _1 > 4; We are not human _1 > 3; The voice us _19 > 2; Ingredients _1 > 2; The masked singer _4 > 1; Survivor au _7 > 1; 
 ### concluBis 30/10/20
-> Lls _1 > 5; The voice germany _10 > 4; I can see your voice _1 > 4; Pogi lang hanap _1 > 3; We are not human _1 > 3; Ingredients _1 > 2; The masked singer _4 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
+> Lls _1 > 5; The voice germany _10 > 4; Pogi lang hanap _1 > 3; We are not human _1 > 3; Ingredients _1 > 2; The masked singer _4 > 1; The voice us _19 > 1; Survivor au _7 > 1; 
 ### concluBis 31/10/20
-> The voice germany _10 > 9; Lls _1 > 5; I can see your voice _1 > 3; We are not human _1 > 3; Ingredients _1 > 2; The voice us _19 > 1; Survivor au _7 > 1; 
+> The voice germany _10 > 9; Lls _1 > 5; We are not human _1 > 3; Ingredients _1 > 2; The voice us _19 > 1; Survivor au _7 > 1; 
 ### concluBis 01/11/20
-> The voice germany _10 > 8; Ingredients _1 > 6; Lls _1 > 5; I can see your voice _1 > 3; We are not human _1 > 3; The voice us _19 > 1; Survivor au _7 > 1; 
+> The voice germany _10 > 8; Ingredients _1 > 6; Lls _1 > 5; We are not human _1 > 3; The voice us _19 > 1; Survivor au _7 > 1; 
 ### concluBis 02/11/20
-> Ingredients _1 > 8; The voice germany _10 > 8; Strictly come dancing _18 > 5; Lls _1 > 5; We are not human _1 > 4; I can see your voice _1 > 2; Survivor au _7 > 2; 
+> Ingredients _1 > 8; The voice germany _10 > 8; Strictly come dancing _18 > 5; Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 2; 
 ### concluBis 03/11/20
-> Ingredients _1 > 8; Strictly come dancing _18 > 6; The voice germany _10 > 5; Lls _1 > 5; We are not human _1 > 4; I can see your voice _1 > 3; Survivor au _7 > 2; 
+> Ingredients _1 > 8; Strictly come dancing _18 > 6; The voice germany _10 > 5; Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 2; 
 ### concluBis 04/11/20
 > Ingredients _1 > 8; The voice germany _10 > 8; Lls _1 > 5; We are not human _1 > 4; The voice us _19 > 2; Strictly come dancing _18 > 2; Survivor au _7 > 2; 
 ### concluBis 05/11/20
