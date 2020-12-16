@@ -20,7 +20,6 @@ Unbag 1x10
 The masked singer 4x10
 * Ghost runner 1x1
 * Manner of death 1x1
-Incroyable talent 15x6
 * Cheat 1x1
 Be love 1x2
 Sea him 1x3
@@ -56,7 +55,6 @@ Boys lockdown 1x2
 * Offgun fun night 2x1
 * Pogi lang hanap 1x1
 * Swap test 1x1
-* Incroyable talent 15x1
 Quien es la mascara 2x2
 * The voice us 19x1
 * Quien es la mascara 2x1

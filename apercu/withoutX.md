@@ -5,7 +5,6 @@
 # ajout reponse 2020
 
 oh mando 1
-incroyable talent 15
 TV US
 SCD 
 TV GER
