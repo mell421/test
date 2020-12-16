@@ -5,7 +5,6 @@
 # ajout reponse 2020
 
 oh mando 1
-TV US
 SCD 
 TV GER
 TMS

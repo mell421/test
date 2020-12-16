@@ -265,6 +265,7 @@
 * Taking the stands _1
 ### sem 21-12-2020 
 * 
+* The voice us _19
 * Incroyable talent _15
 * I can see your voice _1
 ### sem 28-12-2020 

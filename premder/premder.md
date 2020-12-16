@@ -11,7 +11,6 @@ The voice senior it 1x2
 The voice nl 11x2
 TharnType 2x3
 * Why r u 2x1
-The voice us 19x14
 Wish you 1x2
 * Wish you 1x1
 Young sheldon 4x4
@@ -56,7 +55,6 @@ Boys lockdown 1x2
 * Pogi lang hanap 1x1
 * Swap test 1x1
 Quien es la mascara 2x2
-* The voice us 19x1
 * Quien es la mascara 2x1
 * Joséphine ange gardien 23x1
 * Ben x jim 1x1
