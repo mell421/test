@@ -6,7 +6,6 @@ Cheat 1x2
 The voice germany 10x17
 * Tale of the nine tailed 1x1
 Strictly come dancing 18x14
-Oh mando 1x5
 The voice senior it 1x2
 The voice nl 11x2
 TharnType 2x3
@@ -32,7 +31,6 @@ Thonhon chonlathee 1x2
 * History2 right or wrong 1x1
 Gameboys 1x7
 Pogi lang hanap 1x4
-* Oh mando 1x1
 My vampire boyfriend 1x2
 * My vampire boyfriend 1x1
 * Thonhon chonlathee 1x1

@@ -4,7 +4,6 @@
 
 # ajout reponse 2020
 
-oh mando 1
 SCD 
 TV GER
 TMS

@@ -64,6 +64,7 @@
 |boyband love|boyband love|9|serie|philippines|
 |oxygen|oxygen|13|serie|thailande|
 |calculating love|calculating love|6|serie|thailande|
+|oh mando|oh mando|6|serie|philippines|
 ||||||
 ||||||
 ||||||
@@ -100,15 +101,14 @@
 |sea him|sea him|?|serie|vietnam|3|
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|3|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|
-|oh mando|oh mando|6|serie|philippines|5|
 |history2.1|history2 right or wrong|8|serie|taiwan|2|
 |be love|be love|4|serie|japon|2|
-|cheat|cheat|?|serie|philippines|2|
+|cheat|cheat|?|serie|philippines|3|
 |manner of death|manner of death|12|serie|thailande|1|
 |ghost runner|ghost runner|6|serie|thailande|1|
 |cherry magic|cherry magic|12|serie|japon|1|
 |wish you|wish you|8|serie|corée|4|
-|why r u 2|why r u saifahzon story|?|serie|thailande|1|
+|why r u 2|why r u saifahzon story|3|serie|thailande|1|
 |||||||
 |||||||
 |||||||
