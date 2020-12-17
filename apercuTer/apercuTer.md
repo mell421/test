@@ -265,6 +265,7 @@
 * Taking the stands _1
 ### sem 21-12-2020 
 * 
+* The masked singer _4
 * Oh mando _1
 * The voice us _19
 * Incroyable talent _15

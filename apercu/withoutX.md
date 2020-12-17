@@ -6,7 +6,6 @@
 
 SCD 
 TV GER
-TMS
 discipline 
 
 ## Aperçu semaine

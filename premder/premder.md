@@ -15,7 +15,6 @@ Wish you 1x2
 Young sheldon 4x4
 * Cherry magic 1x1
 Unbag 1x10
-The masked singer 4x10
 * Ghost runner 1x1
 * Manner of death 1x1
 * Cheat 1x1
@@ -68,7 +67,6 @@ We are not human 1x18
 * My day 1x1
 Drag race holland 1x2
 * Gameboys 1x1
-* The masked singer 4x1
 Survivor au 7x16
 * Love in time 1x1
 * Drag race holland 1x1
