@@ -1,32 +1,24 @@
 #!/bin/bash
 ./0supprZ.sh
-list=( "Lls" "Ingredients" "The voice germany" "Strictly come dancing" "Gameboys" "Wish you" )
+list=( "Lls" "Ingredients" "The voice germany" 
+"Strictly come dancing" "Gameboys" "Wish you" 
+"Unbag" )
 
 echo " " > logChercher
-
+echo "" > 0graph.dat
 for i in "${list[@]}"
 do
-    echo "i =" $i >> logChercher
-    ./0chercherSerie.sh $i
-   
+    ./0chercherSerie.sh $i 
 done
 
-echo " " >> logChercher
+echo "" >> logChercher
 for i in "${list[@]}"
 do
     echo "i =" $i >> logChercher
-    
-    if [[ -f Z/$i ]]
-    then
-        echo "count : " $(wc Z/$i) >> logChercher
-    else
-        j = "$(echo $i | tr '[:blank:]' ' ' )"
-        # i = $(sed 's/""/" "' $i)
-        echo "j =" $j >> logChercher
-    fi;
-    
+    # echo "count : " $(wc Z/$(echo $i | tr -d ' ' )) >> logChercher
+    echo "ligne : " $(wc -l Z/$(echo $i | tr -d ' ' )) >> logChercher
+    echo "mot   : " $(wc -w Z/$(echo $i | tr -d ' ' )) >> logChercher
+    echo "carac : " $(wc -c Z/$(echo $i | tr -d ' ' )) >> logChercher
+    echo $(echo $i | tr -d ' ' ) $(wc Z/$(echo $i | tr -d ' ')) >> 0graph.dat
     echo " " >> logChercher
-
 done
-
-
