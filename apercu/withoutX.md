@@ -6,7 +6,6 @@
 
 SCD 
 TV GER
-discipline 
 
 ## Aperçu semaine
 #### sem 06-01-2020 

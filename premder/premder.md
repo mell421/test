@@ -23,7 +23,6 @@ Sea him 1x3
 History2 right or wrong 1x2
 Ingredients 1x18
 * The voice senior it 1x1
-Discipline 2x4
 * Be love 1x1
 * The voice nl 11x1
 Thonhon chonlathee 1x2
@@ -42,7 +41,6 @@ Blood 1x16
 * The good doctor 4x1
 * Sea him 1x1
 Swap test 1x2
-* Discipline 2x1
 * The stranded 1x1
 * Lakan 1x1
 Friend forever 1x3

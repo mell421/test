@@ -65,6 +65,7 @@
 |oxygen|oxygen|13|serie|thailande|
 |calculating love|calculating love|6|serie|thailande|
 |oh mando|oh mando|6|serie|philippines|
+|discipline 2|discipline z : vampire|6|serie|corée|
 ||||||
 ||||||
 ||||||
@@ -97,7 +98,6 @@
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|
 |offgun fun night 2|offgun fun night 2|11|show|thailande|1|
 |lakan|lakan|8|serie|philippines|2|
-|discipline 2|discipline z : vampire|6|serie|corée|5|
 |sea him|sea him|?|serie|vietnam|3|
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|3|
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|
@@ -126,6 +126,7 @@
 |||||||
 |von|von|1|film|thailande|0|
 |roommate 2|roommate 2 soulmate|?|serie|thailande|0|
+|color rush|color rush|?|serie|corée|0|
 |lovely writer|lovely writer|?|serie|thailande|0|
 |tell the world i love you|tell the world i love you|1|film|thailande|0|
 |you never eat alone|you never eat alone|?|serie|thailande|0|
@@ -138,7 +139,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |corée||||||
-|color rush|color rush|?|serie|corée|0|
 |to my star|to my star|9|serie|corée|0|
 |I just slept|I just slept|?|serie|corée|0|
 |you make me dance|you make me dance|?|serie|corée|0|

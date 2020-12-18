@@ -164,19 +164,19 @@ Ben x jim _1x2(1) Boys lockdown _1x2(1) Love in time _1x4(2) Strictly come danci
 #### sem 26-10-2020 
 Boys lockdown _1x3(1) Gameboys _1x7(1) Strictly come dancing _18x3(1) Offgun fun night _2x2(1) The voice germany _10x6(3) Pogi lang hanap _1x2(1) Swap test _1x2(1) Quien es la mascara _2x3(2) Joséphine ange gardien _23x3(2) 
 #### sem 02-11-2020 
-Strictly come dancing _18x5(2) Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Swap test _1x3(1) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) Joséphine ange gardien _23x4(1) 
+Strictly come dancing _18x5(2) Sea him _1x2(1) Ingredients _1x17(1) The voice germany _10x8(2) Swap test _1x3(1) The stranded _1x2(1) Unbag _1x7(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) Joséphine ange gardien _23x4(1) 
 #### sem 09-11-2020 
-Strictly come dancing _18x7(2) Lakan _1x3(1) Pogi lang hanap _1x4(1) TharnType _2x2(1) The voice germany _10x10(2) Discipline _2x3(1) Young sheldon _4x2(1) Unbag _1x8(1) Blood _1x17(1) The good doctor _4x2(1) 
+Strictly come dancing _18x7(2) Lakan _1x3(1) Pogi lang hanap _1x4(1) TharnType _2x2(1) The voice germany _10x10(2) Young sheldon _4x2(1) Unbag _1x8(1) Blood _1x17(1) The good doctor _4x2(1) 
 #### sem 16-11-2020 
 Sea him _1x3(1) Strictly come dancing _18x9(2) My vampire boyfriend _1x3(2) Ingredients _1x18(1) The voice germany _10x12(2) Thonhon chonlathee _1x2(1) Young sheldon _4x3(1) Bt21 universe _1x3(2) Unbag _1x9(1) 
 #### sem 23-11-2020 
-Strictly come dancing _18x11(2) TharnType _2x3(1) Thonhon chonlathee _1x3(1) Discipline _2x4(1) Young sheldon _4x4(1) History2 right or wrong _1x2(1) Gameboys _1x8(1) Unbag _1x10(1) Pogi lang hanap _1x5(1) The voice germany _10x13(1) 
+Strictly come dancing _18x11(2) TharnType _2x3(1) Thonhon chonlathee _1x3(1) Young sheldon _4x4(1) History2 right or wrong _1x2(1) Gameboys _1x8(1) Unbag _1x10(1) Pogi lang hanap _1x5(1) The voice germany _10x13(1) 
 #### sem 30-11-2020 
-History2 right or wrong _1x3(1) Strictly come dancing _18x13(2) Ingredients _1x19(1) The voice senior it _1x2(1) Discipline _2x5(1) Be love _1x2(1) The voice germany _10x15(2) The voice nl _11x2(1) 
+History2 right or wrong _1x3(1) Strictly come dancing _18x13(2) Ingredients _1x19(1) The voice senior it _1x2(1) Be love _1x2(1) The voice germany _10x15(2) The voice nl _11x2(1) 
 #### sem 07-12-2020 
 Strictly come dancing _18x15(2) The voice senior it _1x3(1) The voice nl _11x3(1) TharnType _2x4(1) Why r u _2x2(1) Wish you _1x3(2) Young sheldon _4x5(1) Cherry magic _1x2(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) The voice germany _10x17(2) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
 #### sem 14-12-2020 
-A queen is born _1x2(1) Strictly come dancing _18x17(2) Ingredients _1x20(1) Wish you _1x5(2) The voice nl _11x4(1) The voice senior it _1x4(1) District z _1x2(1) Discipline _2x6(1) Gameboys _1x9(1) Cheat _1x3(1) The voice germany _10x18(1) Tale of the nine tailed _1x2(1)
+A queen is born _1x2(1) Strictly come dancing _18x17(2) Ingredients _1x20(1) Wish you _1x5(2) The voice nl _11x4(1) The voice senior it _1x4(1) District z _1x2(1) Gameboys _1x9(1) Cheat _1x3(1) The voice germany _10x18(1) Tale of the nine tailed _1x2(1)
 
 
 
@@ -224,9 +224,9 @@ Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) S
 #### mois 01-10-2020 
 Friend forever _1x2(1) My day _1x2(1) Gameboys _1x6(5) Drag race holland _1x3(2) Unbag _1x5(3) Survivor au _7x17(1) Love in time _1x2(1) Ingredients _1x14(2) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) The voice vv _6x2(1) Aggretsuko _3x4(1) 
 #### mois 01-11-2020 
-Strictly come dancing _18x4(3) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Swap test _1x3(2) Discipline _2x2(1) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Gameboys _1x7(1) Offgun fun night _2x2(1) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Strictly come dancing _18x4(3) Sea him _1x2(1) Ingredients _1x17(3) The voice germany _10x8(7) Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Gameboys _1x7(1) Offgun fun night _2x2(1) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
-The voice germany _10x16(8) Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Strictly come dancing _18x13(9) Ingredients _1x19(2) The voice senior it _1x2(1) Discipline _2x5(3) The voice nl _11x2(1) TharnType _2x3(2) Thonhon chonlathee _1x3(2) Young sheldon _4x4(3) Gameboys _1x8(1) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Bt21 universe _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
+The voice germany _10x16(8) Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Strictly come dancing _18x13(9) Ingredients _1x19(2) The voice senior it _1x2(1) The voice nl _11x2(1) TharnType _2x3(2) Thonhon chonlathee _1x3(2) Young sheldon _4x4(3) Gameboys _1x8(1) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Bt21 universe _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
 
 
 
