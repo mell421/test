@@ -174,7 +174,7 @@ Strictly come dancing _18x11(2) TharnType _2x3(1) Thonhon chonlathee _1x3(1) You
 #### sem 30-11-2020 
 History2 right or wrong _1x3(1) Strictly come dancing _18x13(2) Ingredients _1x19(1) The voice senior it _1x2(1) Be love _1x2(1) The voice germany _10x15(2) The voice nl _11x2(1) 
 #### sem 07-12-2020 
-Strictly come dancing _18x15(2) The voice senior it _1x3(1) The voice nl _11x3(1) TharnType _2x4(1) Why r u _2x2(1) Wish you _1x3(2) Young sheldon _4x5(1) Cherry magic _1x2(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) The voice germany _10x17(2) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
+Strictly come dancing _18x15(2) The voice senior it _1x3(1) The voice nl _11x3(1) TharnType _2x4(1) Wish you _1x3(2) Young sheldon _4x5(1) Cherry magic _1x2(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) The voice germany _10x17(2) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
 #### sem 14-12-2020 
 A queen is born _1x2(1) Strictly come dancing _18x17(2) Ingredients _1x20(1) Wish you _1x5(2) The voice nl _11x4(1) The voice senior it _1x4(1) District z _1x2(1) Gameboys _1x9(1) Cheat _1x3(1) The voice germany _10x18(1) Tale of the nine tailed _1x2(1)
 

@@ -265,6 +265,8 @@
 * Taking the stands _1
 ### sem 21-12-2020 
 * 
+* Why r u _2
+* Fais pas ci fais pas ça _9 (special)
 * Discipline _2
 * The masked singer _4
 * Oh mando _1

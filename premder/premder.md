@@ -9,7 +9,6 @@ Strictly come dancing 18x14
 The voice senior it 1x2
 The voice nl 11x2
 TharnType 2x3
-* Why r u 2x1
 Wish you 1x2
 * Wish you 1x1
 Young sheldon 4x4

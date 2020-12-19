@@ -66,6 +66,7 @@
 |calculating love|calculating love|6|serie|thailande|
 |oh mando|oh mando|6|serie|philippines|
 |discipline 2|discipline z : vampire|6|serie|corée|
+|why r u 2|why r u saifahzon story|3|serie|thailande|
 ||||||
 ||||||
 ||||||
@@ -85,7 +86,7 @@
 |so much in love|so much in love|12|serie|thailande|2|
 |he's coming to me|he's coming to me|8|serie|thailande|2|
 |blacklist|blacklist|13|serie|thailande|1|
-|unbag|unbag|?|show|thailande|10|
+|unbag|unbag|?|show|thailande|11|
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|
 |gameboys|gameboys|13,5|serie|philippines|8|
 |my day|my day|12|serie|philippines|1|
@@ -106,9 +107,8 @@
 |cheat|cheat|?|serie|philippines|3|
 |manner of death|manner of death|12|serie|thailande|1|
 |ghost runner|ghost runner|6|serie|thailande|1|
-|cherry magic|cherry magic|12|serie|japon|1|
-|wish you|wish you|8|serie|corée|4|
-|why r u 2|why r u saifahzon story|3|serie|thailande|1|
+|cherry magic|cherry magic|12|serie|japon|2|
+|wish you|wish you|8|serie|corée|6|
 |||||||
 |||||||
 |||||||
