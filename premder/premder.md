@@ -5,7 +5,6 @@
 Cheat 1x2
 The voice germany 10x17
 * Tale of the nine tailed 1x1
-Strictly come dancing 18x14
 The voice senior it 1x2
 The voice nl 11x2
 TharnType 2x3
@@ -54,7 +53,6 @@ Quien es la mascara 2x2
 * Ben x jim 1x1
 * Boys lockdown 1x1
 Love in time 1x3
-* Strictly come dancing 18x1
 We are not human 1x18
 * The voice germany 10x1
 * Friend zone 1x1

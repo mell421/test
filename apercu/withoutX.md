@@ -4,7 +4,6 @@
 
 # ajout reponse 2020
 
-SCD 
 TV GER
 
 ## Aperçu semaine

@@ -2,7 +2,10 @@
 ./0supprZ.sh
 list=( "Lls" "Ingredients" "The voice germany" 
 "Strictly come dancing" "Gameboys" "Wish you" 
-"Unbag" )
+"Unbag" 
+"Pogi lang hanap" "Friend forever" "The voice senior it" 
+"My vampire boyfriend" "Bt21 universe" "The voice nl" 
+"Cheat" "Young sheldon" "Be love" "Blood" "TharnType" "Sea him" )
 
 echo " " > logChercher
 echo "" > 0graph.dat

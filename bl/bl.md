@@ -5,17 +5,17 @@
 
 # liste de bl
  
-## terminé/finish
+## terminé = finish
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
-|bite fight|bite fight|1|film|chine|
-|tharnType|tharnType|13|serie|thailande|
-|why r u|why r u|13|serie|thailande|
-|sotus|sotus|16|serie|thailande|
-|he she it|he she it|3|serie|thailande|
-|sotus 2|sotus s|13|serie|thailande|
-|reminderS|reminderS|3|serie|thailande|
+|bite fight|bite fight|1|film|chine|                    <!-- -->
+|tharnType|tharnType|13|serie|thailande|                <!-- -->
+|why r u|why r u|13|serie|thailande|                    <!-- -->
+|sotus|sotus|16|serie|thailande|                        <!-- -->
+|he she it|he she it|3|serie|thailande|                 <!-- -->
+|sotus 2|sotus s|13|serie|thailande|                    <!-- -->
+|reminderS|reminderS|3|serie|thailande|                 <!-- -->
 |the moment 2|the moment since|5|serie|thailande|
 |the moment|the moment I need you|4|serie|thailande|
 |2gether|2gether|13|serie|thailande|
@@ -66,7 +66,7 @@
 |calculating love|calculating love|6|serie|thailande|
 |oh mando|oh mando|6|serie|philippines|
 |discipline 2|discipline z : vampire|6|serie|corée|
-|why r u 2|why r u saifahzon story|3|serie|thailande|
+|why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 59 -->
 ||||||
 ||||||
 ||||||
@@ -74,7 +74,7 @@
 ||||||
 
  
-## en cours / a jour / now/up-to-date
+## en cours / a jour = now/up-to-date
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
@@ -119,17 +119,23 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|gen y|gen y|12|serie|thailande|0|
-|i told sunset about you|i told sunset about you|5|serie|thailande|0|
-|my bromance|my bromance|1|film|thailande|0|
-|my bromance|my bromance|12|serie|thailande|0|
+|gen y|gen y|12|serie|thailande|0|<!-- -->
+|i told sunset about you|i told sunset about you|5|serie|thailande|0|<!-- -->
+|my bromance|my bromance|1|film|thailande|0|<!-- -->
+|my bromance|my bromance|12|serie|thailande|0|<!-- -->
+|||||||<!-- -->
+|2020||||||<!-- -->
+|you never eat alone|you never eat alone|?|serie|thailande|0|<!-- 22/12 -->
+|follow my sunshine|follow my sunshine|7|serie|vietnam|0|<!-- 23/12 -->
+|von|von|1|film|thailande|0|<!-- 25/12 -->
+|roommate 2|roommate 2 soulmate|?|serie|thailande|0|<!-- 25/12 -->
+|color rush|color rush|?|serie|corée|0|<!-- 30/12 -->
+|2021||||||<!-- -->
+|lovely writer|lovely writer|?|serie|thailande|0|<!-- -->
+|tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- -->
 |||||||
-|von|von|1|film|thailande|0|
-|roommate 2|roommate 2 soulmate|?|serie|thailande|0|
-|color rush|color rush|?|serie|corée|0|
-|lovely writer|lovely writer|?|serie|thailande|0|
-|tell the world i love you|tell the world i love you|1|film|thailande|0|
-|you never eat alone|you never eat alone|?|serie|thailande|0|
+|||||||
+|||||||
 |||||||
 |||||||
 |||||||
@@ -138,33 +144,35 @@
  <!-- tri par pays puis par studio -->
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|corée||||||
-|to my star|to my star|9|serie|corée|0|
-|I just slept|I just slept|?|serie|corée|0|
-|you make me dance|you make me dance|?|serie|corée|0|
-|GMMTV||||||
-|1000 stars|a tales of 1000 stars|?|serie|thailande|0|
-|F4 thailand|F4 thailand|?|serie|thailande|0|
-|fish upon the sky|fish upon the sky|?|serie|thailande|0|
-|drag I love you|drag I love you|?|serie|thailande|0|
-|baker boys|baker boys|?|serie|thailande|0|
-|enchante|enchante|?|serie|thailande|0|
-|bad buddy|bad buddy|?|serie|thailande|0|
-|the player|the player|?|serie|thailande|0|
-|NOTME|NOTME|?|serie|thailande|0|
-|SWS||||||
-|hemp rope|hemp rope|?|serie|thailande|0|
-|love mechanics|love mechanics|?|serie|thailande|0|
-|COPYABANGKOK|||||| 
-|ydestiny|ydestiny|?|serie|thailande|0|
-|yyy 2|yyy 2|?|serie|thailande|0|
-|OTHER||||||
-|my engineer 2|my engineer 2|?|serie|thailande|0|
-|bittersweet|bittersweet|8|serie|thailande|0|
-|kinnporshe|kinnporshe|?|serie|thailande|0|
-|middle love|muddle love|?|serie|thailande|0|
-|love stage|love stage|?|serie|thailande|0|
-|||||||
+|corée||||||<!-- -->
+|to my star|to my star|9|serie|corée|0|<!-- -->
+|I just slept|I just slept|?|serie|corée|0|<!-- -->
+|you make me dance|you make me dance|?|serie|corée|0|<!-- -->
+|vietnam||||||<!-- -->
+|khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
+|GMMTV||||||<!-- -->
+|1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- -->
+|F4 thailand|F4 thailand|?|serie|thailande|0|<!-- -->
+|fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- -->
+|drag I love you|drag I love you|?|serie|thailande|0|<!-- -->
+|baker boys|baker boys|?|serie|thailande|0|<!-- -->
+|enchante|enchante|?|serie|thailande|0|<!-- -->
+|bad buddy|bad buddy|?|serie|thailande|0|<!-- -->
+|the player|the player|?|serie|thailande|0|<!-- -->
+|NOTME|NOTME|?|serie|thailande|0|<!-- -->
+|SWS||||||<!-- -->
+|hemp rope|hemp rope|?|serie|thailande|0|<!-- -->
+|love mechanics|love mechanics|?|serie|thailande|0|<!-- -->
+|COPYABANGKOK|||||| <!-- -->
+|ydestiny|ydestiny|?|serie|thailande|0|<!-- -->
+|yyy 2|yyy 2|?|serie|thailande|0|<!-- -->
+|OTHER||||||<!-- -->
+|my engineer 2|my engineer 2|?|serie|thailande|0|<!-- -->
+|bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
+|kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
+|middle love|muddle love|?|serie|thailande|0|<!-- MII2 -->
+|love stage|love stage|?|serie|thailande|0|<!-- kaohturbo -->
+|pinoy||||||
 |||||||
 |||||||
 |||||||
