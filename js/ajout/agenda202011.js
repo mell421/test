@@ -42,7 +42,7 @@ document.write(`
       <td>29✔️<br><span class="fin">boys lockdown 106</span></td>
   </tr>
   <tr>
-      <td>30✔️<br>lakan 103<br>MOD 102</td>
+      <td>30✔️<br>lakan 103</td>
       <td colspan="6"></td>
   </tr>
 </table>
