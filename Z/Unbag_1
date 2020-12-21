@@ -75,8 +75,6 @@ apercu/withoutX.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Su
 apercu/withoutX.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; Unbag _1 > 1; 
 apercu/withoutX.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; Survivor au _7 > 1; 
 apercu/withoutX.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; Survivor au _7 > 1; 
-premder/premder.md:Unbag 1x10
-premder/premder.md:* Unbag 1x1
 tab.html:    <td class="resumesem">Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(1) 
 tab.html:    <td class="resumemois">Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) 
 tab.html:    <td class="resumesem">Unbag _1x3(1) The voice vv _6x2(1) </td>
@@ -102,6 +100,6 @@ tab.html:    <td class="conclubis">Ingredients _1 > 9; Wish you _1 > 7; Lls _1 >
 tab.html:    <td class="conclubis">Lls _1 > 20; Ingredients _1 > 8; Wish you _1 > 5; Unbag _1 > 4; We are not human _1 > 2; Cheat _1 > 1; </td>
 tab.html:    <td class="conclubis">Lls _1 > 20; Ingredients _1 > 8; Wish you _1 > 7; We are not human _1 > 2; Unbag _1 > 1; The voice nl _11 > 1; </td>
 tab.html:    <td class="conclubis">Lls _1 > 20; Ingredients _1 > 8; Wish you _1 > 7; Sweet home _1 > 4; Unbag _1 > 2; The voice nl _11 > 2; 
-tab.html:      Unbag _1 > 1; We are not human _1 > 1; </td>
-tab.html:    <td class="conclubis">concluBis 21/12/20 = Lls _1 > 20; Ingredients _1 > 8; Cherry magic _1 > 7; Wish you _1 > 6; Unbag _1 > 3; 
-tab.html:      Druck _6x2(1) District z _1x3(1) Lls _1x95(8) Unbag _1x12(1) Cheat _1x4(1) </td>
+tab.html:    <td class="conclu">Lls _1 > 12; Ingredients _1 > 4; Cherry magic _1 > 3; Wish you _1 > 2; Sweet home _1 > 1; Unbag _1 > 1; 
+tab.html:    <td class="conclubis">Lls _1 > 20; Ingredients _1 > 8; Cherry magic _1 > 7; Wish you _1 > 6; Unbag _1 > 3; Sweet home _1 > 3; 
+tab.html:      District z _1x3(1) Lls _1x95(8) Unbag _1x12(1) Cheat _1x4(1) </td>

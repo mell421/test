@@ -1,82 +1,87 @@
  
 
-i = Lls
-ligne :  774 Z/Lls
-mot   :  16235 Z/Lls
-carac :  82819 Z/Lls
+i = Lls _1
+ligne :  773 Z/Lls_1
+mot   :  16234 Z/Lls_1
+carac :  82770 Z/Lls_1
  
-i = Ingredients
-ligne :  752 Z/Ingredients
-mot   :  16250 Z/Ingredients
-carac :  84062 Z/Ingredients
+i = Ingredients _1
+ligne :  750 Z/Ingredients_1
+mot   :  16249 Z/Ingredients_1
+carac :  83983 Z/Ingredients_1
  
-i = Gameboys
-ligne :  112 Z/Gameboys
-mot   :  2680 Z/Gameboys
-carac :  15564 Z/Gameboys
+i = Wish you _1
+ligne :  96 Z/Wishyou_1
+mot   :  2555 Z/Wishyou_1
+carac :  12359 Z/Wishyou_1
  
-i = Wish you
-ligne :  98 Z/Wishyou
-mot   :  2560 Z/Wishyou
-carac :  12437 Z/Wishyou
+i = Unbag _1
+ligne :  105 Z/Unbag_1
+mot   :  2854 Z/Unbag_1
+carac :  17392 Z/Unbag_1
  
-i = Unbag
-ligne :  107 Z/Unbag
-mot   :  2843 Z/Unbag
-carac :  17394 Z/Unbag
+i = Gameboys _1
+ligne :  110 Z/Gameboys_1
+mot   :  2675 Z/Gameboys_1
+carac :  15500 Z/Gameboys_1
  
-i = Pogi lang hanap
-ligne :  42 Z/Pogilanghanap
-mot   :  1078 Z/Pogilanghanap
-carac :  7135 Z/Pogilanghanap
+i = The voice nl _10
+ligne :  3 Z/Thevoicenl_10
+mot   :  115 Z/Thevoicenl_10
+carac :  623 Z/Thevoicenl_10
  
-i = Friend forever
-ligne :  42 Z/Friendforever
-mot   :  1017 Z/Friendforever
-carac :  6376 Z/Friendforever
+i = Pogi lang hanap _1
+ligne :  40 Z/Pogilanghanap_1
+mot   :  1069 Z/Pogilanghanap_1
+carac :  7053 Z/Pogilanghanap_1
  
-i = My vampire boyfriend
-ligne :  38 Z/Myvampireboyfriend
-mot   :  991 Z/Myvampireboyfriend
-carac :  5600 Z/Myvampireboyfriend
+i = Friend forever _1
+ligne :  40 Z/Friendforever_1
+mot   :  1010 Z/Friendforever_1
+carac :  6296 Z/Friendforever_1
  
-i = Bt21 universe
-ligne :  38 Z/Bt21universe
-mot   :  918 Z/Bt21universe
-carac :  5145 Z/Bt21universe
+i = My vampire boyfriend _1
+ligne :  36 Z/Myvampireboyfriend_1
+mot   :  982 Z/Myvampireboyfriend_1
+carac :  5508 Z/Myvampireboyfriend_1
  
-i = The voice nl
-ligne :  52 Z/Thevoicenl
-mot   :  1552 Z/Thevoicenl
-carac :  9175 Z/Thevoicenl
+i = Bt21 universe _1
+ligne :  36 Z/Bt21universe_1
+mot   :  911 Z/Bt21universe_1
+carac :  5067 Z/Bt21universe_1
  
-i = Cheat
-ligne :  30 Z/Cheat
-mot   :  738 Z/Cheat
-carac :  4066 Z/Cheat
+i = Cheat _1
+ligne :  28 Z/Cheat_1
+mot   :  731 Z/Cheat_1
+carac :  3990 Z/Cheat_1
  
-i = Young sheldon
-ligne :  32 Z/Youngsheldon
-mot   :  812 Z/Youngsheldon
-carac :  5579 Z/Youngsheldon
+i = Young sheldon _4
+ligne :  29 Z/Youngsheldon_4
+mot   :  801 Z/Youngsheldon_4
+carac :  5458 Z/Youngsheldon_4
  
-i = Be love
-ligne :  35 Z/Belove
-mot   :  980 Z/Belove
-carac :  5987 Z/Belove
+i = Be love _1
+ligne :  33 Z/Belove_1
+mot   :  1019 Z/Belove_1
+carac :  6138 Z/Belove_1
  
-i = Blood
-ligne :  32 Z/Blood
-mot   :  883 Z/Blood
-carac :  6636 Z/Blood
+i = Blood _1
+ligne :  30 Z/Blood_1
+mot   :  878 Z/Blood_1
+carac :  6569 Z/Blood_1
  
-i = TharnType
-ligne :  24 Z/TharnType
-mot   :  607 Z/TharnType
-carac :  4294 Z/TharnType
+i = Sweet home _1
+ligne :  15 Z/Sweethome_1
+mot   :  499 Z/Sweethome_1
+carac :  2445 Z/Sweethome_1
  
-i = Sea him
-ligne :  22 Z/Seahim
-mot   :  659 Z/Seahim
-carac :  4934 Z/Seahim
+i = TharnType _2
+ligne :  21 Z/TharnType_2
+mot   :  599 Z/TharnType_2
+carac :  4185 Z/TharnType_2
+ 
+i = Sea him _1
+ligne :  20 Z/Seahim_1
+mot   :  652 Z/Seahim_1
+carac :  4868 Z/Seahim_1
  
