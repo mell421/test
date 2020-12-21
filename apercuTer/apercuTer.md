@@ -275,7 +275,8 @@
 * Incroyable talent _15
 * I can see your voice _1
 ### sem 28-12-2020 
-* 
+* j
+* The voice senior it _1
 
 
 

@@ -99,11 +99,11 @@ Sea him _1x3(1) My vampire boyfriend _1x3(2) Ingredients _1x18(1) Thonhon chonla
 #### sem 23-11-2020 
 TharnType _2x3(1) Thonhon chonlathee _1x3(1) Young sheldon _4x4(1) History2 right or wrong _1x2(1) Gameboys _1x8(1) Unbag _1x10(1) Pogi lang hanap _1x5(1) 
 #### sem 30-11-2020 
-History2 right or wrong _1x3(1) Ingredients _1x19(1) The voice senior it _1x2(1) Be love _1x2(1) The voice nl _11x2(1) 
+History2 right or wrong _1x3(1) Ingredients _1x19(1) Be love _1x2(1) The voice nl _11x2(1) 
 #### sem 07-12-2020 
-The voice senior it _1x3(1) The voice nl _11x3(1) TharnType _2x4(1) Wish you _1x3(2) Young sheldon _4x5(1) Cherry magic _1x2(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
+The voice nl _11x3(1) TharnType _2x4(1) Wish you _1x3(2) Young sheldon _4x5(1) Cherry magic _1x2(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
 #### sem 14-12-2020 
-A queen is born _1x2(1) Ingredients _1x20(1) Wish you _1x5(2) The voice nl _11x4(1) The voice senior it _1x4(1) District z _1x2(1) Gameboys _1x9(1) Cheat _1x3(1) Tale of the nine tailed _1x2(1) 
+A queen is born _1x2(1) Ingredients _1x20(1) Wish you _1x5(2) The voice nl _11x4(1) District z _1x2(1) Gameboys _1x9(1) Cheat _1x3(1) Tale of the nine tailed _1x2(1) 
 
 
 
@@ -142,7 +142,7 @@ Friend forever _1x2(1) My day _1x2(1) Gameboys _1x6(5) Drag race holland _1x3(2)
 #### mois 01-11-2020 
 Sea him _1x2(1) Ingredients _1x17(3) Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Gameboys _1x7(1) Offgun fun night _2x2(1) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
-Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x19(2) The voice senior it _1x2(1) The voice nl _11x2(1) TharnType _2x3(2) Thonhon chonlathee _1x3(2) Young sheldon _4x4(3) Gameboys _1x8(1) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Bt21 universe _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
+Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x19(2) The voice nl _11x2(1) TharnType _2x3(2) Thonhon chonlathee _1x3(2) Young sheldon _4x4(3) Gameboys _1x8(1) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Bt21 universe _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
 
 
 
@@ -323,7 +323,7 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 ### conclu 11/12/20 
 > Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 12/12/20 
-> Ingredients _1 > 5; Lls _1 > 3; Wish you _1 > 3; The voice senior it _1 > 2; We are not human _1 > 1; 
+> Ingredients _1 > 5; Lls _1 > 3; Wish you _1 > 3; We are not human _1 > 1; 
 ### conclu 13/12/20 
 > Ingredients _1 > 5; Lls _1 > 3; Wish you _1 > 2; We are not human _1 > 1; 
 ### conclu 14/12/20 
@@ -475,7 +475,7 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 ### concluBis 27/11/20 
 > Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 28/11/20 
-> Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; The voice senior it _1 > 1; 
+> Lls _1 > 5; Ingredients _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 29/11/20 
 > Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 30/11/20 
@@ -491,7 +491,7 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 ### concluBis 05/12/20 
 > Ingredients _1 > 9; Lls _1 > 5; Wish you _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 06/12/20 
-> Ingredients _1 > 9; Lls _1 > 5; Wish you _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Unbag _1 > 1; The voice senior it _1 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; Wish you _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Unbag _1 > 1; 
 ### concluBis 07/12/20 
 > Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; Unbag _1 > 1; Wish you _1 > 1; 
 ### concluBis 08/12/20 
@@ -503,7 +503,7 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 ### concluBis 11/12/20 
 > Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Wish you _1 > 1; Survivor au _7 > 1; 
 ### concluBis 12/12/20 
-> Ingredients _1 > 9; Wish you _1 > 6; Lls _1 > 5; The voice senior it _1 > 4; We are not human _1 > 3; The voice nl _11 > 1; Survivor au _7 > 1; 
+> Ingredients _1 > 9; Wish you _1 > 6; Lls _1 > 5; We are not human _1 > 3; The voice nl _11 > 1; Survivor au _7 > 1; 
 ### concluBis 13/12/20 
 > Ingredients _1 > 11; Wish you _1 > 5; Lls _1 > 5; We are not human _1 > 3; The voice nl _11 > 1; Survivor au _7 > 1; 
 ### concluBis 14/12/20 

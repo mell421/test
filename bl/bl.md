@@ -1,5 +1,5 @@
 [retour](./../index.html)
-<!-- -->
+<!--  -->
 [PDF](./bl.pdf) [MD](./bl.md) 
 
 
@@ -9,13 +9,13 @@
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
-|bite fight|bite fight|1|film|chine|                    <!-- -->
-|tharnType|tharnType|13|serie|thailande|                <!-- -->
-|why r u|why r u|13|serie|thailande|                    <!-- -->
-|sotus|sotus|16|serie|thailande|                        <!-- -->
-|he she it|he she it|3|serie|thailande|                 <!-- -->
-|sotus 2|sotus s|13|serie|thailande|                    <!-- -->
-|reminderS|reminderS|3|serie|thailande|                 <!-- -->
+|bite fight|bite fight|1|film|chine|                    <!-- 1 -->
+|tharnType|tharnType|13|serie|thailande|                <!-- 2 -->
+|why r u|why r u|13|serie|thailande|                    <!-- 3 -->
+|sotus|sotus|16|serie|thailande|                        <!-- 4 -->
+|he she it|he she it|3|serie|thailande|                 <!-- 5 -->
+|sotus 2|sotus s|13|serie|thailande|                    <!-- 6 -->
+|reminderS|reminderS|3|serie|thailande|                 <!-- 7 -->
 |the moment 2|the moment since|5|serie|thailande|
 |the moment|the moment I need you|4|serie|thailande|
 |2gether|2gether|13|serie|thailande|
@@ -67,7 +67,7 @@
 |oh mando|oh mando|6|serie|philippines|
 |discipline 2|discipline z : vampire|6|serie|corée|
 |why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 59 -->
-|bl broken fantasy|bl broken fantasy|1|special|thailande|
+|bl broken fantasy|bl broken fantasy|1|special|thailande|<!-- 60 -->
 ||||||
 ||||||
 ||||||

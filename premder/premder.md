@@ -4,7 +4,6 @@
 
 Cheat 1x2
 * Tale of the nine tailed 1x1
-The voice senior it 1x2
 The voice nl 11x2
 TharnType 2x3
 Wish you 1x2
@@ -19,7 +18,6 @@ Be love 1x2
 Sea him 1x3
 History2 right or wrong 1x2
 Ingredients 1x18
-* The voice senior it 1x1
 * Be love 1x1
 * The voice nl 11x1
 Thonhon chonlathee 1x2
