@@ -4,9 +4,10 @@
 ./0supprZ.sh
 list=( "Lls" "Ingredients" 
 "Gameboys" "Wish you" "Unbag" 
-"Pogi lang hanap" "Friend forever" "The voice senior it" 
+"Pogi lang hanap" "Friend forever"  
 "My vampire boyfriend" "Bt21 universe" "The voice nl" 
 "Cheat" "Young sheldon" "Be love" "Blood" "TharnType" "Sea him" )
+list2=( "" "" )
 
 echo " " > logChercher
 echo "" > 0graph.dat
