@@ -67,6 +67,7 @@
 |oh mando|oh mando|6|serie|philippines|
 |discipline 2|discipline z : vampire|6|serie|corée|
 |why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 59 -->
+|bl broken fantasy|bl broken fantasy|1|special|thailande|
 ||||||
 ||||||
 ||||||
@@ -109,7 +110,6 @@
 |ghost runner|ghost runner|6|serie|thailande|1|
 |cherry magic|cherry magic|12|serie|japon|2|
 |wish you|wish you|8|serie|corée|6|
-|||||||
 |||||||
 |||||||
 |||||||
