@@ -264,7 +264,7 @@
 * Drag race thailand _2
 * Taking the stands _1
 ### sem 21-12-2020 
-* 
+* The voice germany _10
 * Strictly come dancing _18
 * Why r u _2
 * Fais pas ci fais pas ça _9 (special)

@@ -1,8 +1,9 @@
 #!/bin/bash
+
+./0date.sh
 ./0supprZ.sh
-list=( "Lls" "Ingredients" "The voice germany" 
-"Gameboys" "Wish you" 
-"Unbag" 
+list=( "Lls" "Ingredients" 
+"Gameboys" "Wish you" "Unbag" 
 "Pogi lang hanap" "Friend forever" "The voice senior it" 
 "My vampire boyfriend" "Bt21 universe" "The voice nl" 
 "Cheat" "Young sheldon" "Be love" "Blood" "TharnType" "Sea him" )

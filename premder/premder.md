@@ -3,7 +3,6 @@
 ### tisaep all
 
 Cheat 1x2
-The voice germany 10x17
 * Tale of the nine tailed 1x1
 The voice senior it 1x2
 The voice nl 11x2
@@ -54,7 +53,6 @@ Quien es la mascara 2x2
 * Boys lockdown 1x1
 Love in time 1x3
 We are not human 1x18
-* The voice germany 10x1
 * Friend zone 1x1
 * Capture lover 1x1
 * Zombie detective 1x1
