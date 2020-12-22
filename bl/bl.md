@@ -57,7 +57,7 @@
 |quaranthings|quaranthings|8|serie|philippines|
 |my gear and your gown|my gear and your gown|12|serie|thailande|
 |bright win inbox|bright win inbox|9|show|thailande|
-|long time no see|long time no see|5|serie|thailande|
+|long time no see|long time no see|5|serie|corée|
 |the gifted 2|the gifted graduation|13|serie|thailande|
 |safe haven|safe haven|15|serie|philippines|
 |better days|better days|6|serie|philippines|
