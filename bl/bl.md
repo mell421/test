@@ -99,16 +99,16 @@
 |swap test|swap test|?|serie|philippines|2|<!--  -->
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!--  -->
 |offgun fun night 2|offgun fun night 2|11|show|thailande|1|<!--  -->
-|lakan|lakan|8|serie|philippines|2|<!--  -->
-|sea him|sea him|?|serie|vietnam|3|<!--  -->
+|lakan|lakan|8|serie|philippines|4|<!--  -->
+|sea him|sea him|?|serie|vietnam|4|<!--  -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|3|<!--  -->
-|thonhon chonlathee|thonhon chonlathee|12|serie|thailande|2|<!--  -->
+|thonhon chonlathee|thonhon chonlathee|12|serie|thailande|3|<!--  -->
 |history2.1|history2 right or wrong|8|serie|taiwan|2|<!--  -->
 |be love|be love|4|serie|japon|2|<!--  -->
-|cheat|cheat|?|serie|philippines|3|<!--  -->
-|manner of death|manner of death|12|serie|thailande|1|<!--  -->
-|ghost runner|ghost runner|6|serie|thailande|1|<!--  -->
-|cherry magic|cherry magic|12|serie|japon|2|<!--  -->
+|cheat|cheat|?|serie|philippines|4|<!--  -->
+|manner of death|manner of death|12|serie|thailande|2|<!--  -->
+|ghost runner|ghost runner|6|serie|thailande|3|<!--  -->
+|cherry magic|cherry magic|12|serie|japon|11|<!--  -->
 |wish you|wish you|8|serie|corée|6|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -123,16 +123,16 @@
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|<!-- -->
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
+|follow my sunshine|follow my sunshine|7|serie|vietnam|0|<!-- 23/12 -->
 |||||||<!-- -->
 |2020||||||<!-- -->
 |you never eat alone|you never eat alone|?|serie|thailande|0|<!-- 22/12 -->
-|follow my sunshine|follow my sunshine|7|serie|vietnam|0|<!-- 23/12 -->
 |von|von|1|film|thailande|0|<!-- 25/12 -->
 |roommate 2|roommate 2 soulmate|?|serie|thailande|0|<!-- 25/12 -->
 |color rush|color rush|?|serie|corée|0|<!-- 30/12 -->
 |2021||||||<!-- -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!-- -->
-|tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- -->
+|tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 14/02 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

@@ -40,6 +40,11 @@ ligne :  40 Z/Friendforever_1
 mot   :  1010 Z/Friendforever_1
 carac :  6296 Z/Friendforever_1
  
+i = Cheat _1
+ligne :  28 Z/Cheat_1
+mot   :  731 Z/Cheat_1
+carac :  3990 Z/Cheat_1
+ 
 i = My vampire boyfriend _1
 ligne :  36 Z/Myvampireboyfriend_1
 mot   :  982 Z/Myvampireboyfriend_1
@@ -50,10 +55,15 @@ ligne :  36 Z/Bt21universe_1
 mot   :  911 Z/Bt21universe_1
 carac :  5067 Z/Bt21universe_1
  
-i = Cheat _1
-ligne :  28 Z/Cheat_1
-mot   :  731 Z/Cheat_1
-carac :  3990 Z/Cheat_1
+i = Cherry magic _1
+ligne :  13 Z/Cherrymagic_1
+mot   :  432 Z/Cherrymagic_1
+carac :  2446 Z/Cherrymagic_1
+ 
+i = Sweet home _1
+ligne :  15 Z/Sweethome_1
+mot   :  499 Z/Sweethome_1
+carac :  2445 Z/Sweethome_1
  
 i = Young sheldon _4
 ligne :  29 Z/Youngsheldon_4
@@ -70,18 +80,18 @@ ligne :  30 Z/Blood_1
 mot   :  878 Z/Blood_1
 carac :  6569 Z/Blood_1
  
-i = Sweet home _1
-ligne :  15 Z/Sweethome_1
-mot   :  499 Z/Sweethome_1
-carac :  2445 Z/Sweethome_1
- 
-i = TharnType _2
-ligne :  21 Z/TharnType_2
-mot   :  599 Z/TharnType_2
-carac :  4185 Z/TharnType_2
+i = Lakan _1
+ligne :  16 Z/Lakan_1
+mot   :  529 Z/Lakan_1
+carac :  3943 Z/Lakan_1
  
 i = Sea him _1
 ligne :  20 Z/Seahim_1
 mot   :  652 Z/Seahim_1
 carac :  4868 Z/Seahim_1
+ 
+i = TharnType _2
+ligne :  21 Z/TharnType_2
+mot   :  599 Z/TharnType_2
+carac :  4185 Z/TharnType_2
  
