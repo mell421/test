@@ -344,7 +344,12 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 > Lls _1 > 12; Ingredients _1 > 4; Wish you _1 > 3; Sweet home _1 > 2; 
 ### conclu 21/12/20 
 > Lls _1 > 12; Ingredients _1 > 4; Cherry magic _1 > 3; Wish you _1 > 2; Sweet home _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
-
+### conclu 22/12/20 
+> Lls _1 > 12; Ingredients _1 > 4; Cherry magic _1 > 3; Wish you _1 > 2; Sweet home _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+### conclu 23/12/20 
+> Lls _1 > 10; Cherry magic _1 > 6; Ingredients _1 > 4; Love stage 2014 _1 > 1; Unbag _1 > 1; We are not human _1 > 1; Wish you _1 > 1; 
+### conclu 24/12/20 
+> Lls _1 > 10; Cherry magic _1 > 7; Ingredients _1 > 4; Offgun fun night _2 > 1; We are not human _1 > 1; Wish you _1 > 1; 
 
 
 
@@ -538,7 +543,12 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 > Lls _1 > 20; Ingredients _1 > 8; Wish you _1 > 7; Sweet home _1 > 4; Unbag _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Gameboys _1 > 1; Survivor au _7 > 1; 
 ### concluBis 21/12/20 
 > Lls _1 > 20; Ingredients _1 > 8; Cherry magic _1 > 7; Wish you _1 > 6; Unbag _1 > 3; Sweet home _1 > 3; We are not human _1 > 3; Gameboys _1 > 2; Ghost runner _1 > 2; Survivor au _7 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
-
+### concluBis 22/12/20 
+> Lls _1 > 20; Ingredients _1 > 8; Cherry magic _1 > 7; Wish you _1 > 6; Unbag _1 > 3; Ghost runner _1 > 3; Sweet home _1 > 3; We are not human _1 > 3; Gameboys _1 > 2; The voice nl _11 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
+### concluBis 23/12/20 
+> Lls _1 > 18; Cherry magic _1 > 12; Ingredients _1 > 8; Unbag _1 > 3; Wish you _1 > 3; Love stage 2014 _1 > 3; We are not human _1 > 3; Cheat _1 > 2; Sweet home _1 > 2; Survivor au _7 > 2; Gameboys _1 > 1; The voice nl _11 > 1; Lakan _1 > 1; Kaamelott _5 > 1; 
+### concluBis 24/12/20 
+> Lls _1 > 18; Cherry magic _1 > 13; Ingredients _1 > 8; Wish you _1 > 3; Offgun fun night _2 > 3; We are not human _1 > 3; Unbag _1 > 2; Cheat _1 > 2; Meet me outside _1 > 2; Survivor au _7 > 2; Gameboys _1 > 1; The voice nl _11 > 1; Love stage 2014 _1 > 1; Kaamelott _5 > 1; 
 
 
 

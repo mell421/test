@@ -5,6 +5,7 @@
 # ajout reponse 19
 
 wish you 
+cherry
 
 ## Aperçu semaine
 #### sem 22-04-2019 
@@ -174,7 +175,7 @@ TharnType _2x3(1) Thonhon chonlathee _1x3(1) Young sheldon _4x4(1) History2 righ
 #### sem 30-11-2020 
 History2 right or wrong _1x3(1) Ingredients _1x19(1) Be love _1x2(1) The voice nl _11x2(1) 
 #### sem 07-12-2020 
-The voice nl _11x3(1) TharnType _2x4(1) Young sheldon _4x5(1) Cherry magic _1x2(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
+The voice nl _11x3(1) TharnType _2x4(1) Young sheldon _4x5(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
 #### sem 14-12-2020 
 A queen is born _1x2(1) Ingredients _1x20(1) The voice nl _11x4(1) District z _1x2(1) Gameboys _1x9(1) Cheat _1x3(1) Tale of the nine tailed _1x2(1)
 

@@ -68,7 +68,7 @@
 |discipline 2|discipline z : vampire|6|serie|corée|
 |why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 59 -->
 |bl broken fantasy|bl broken fantasy|1|special|thailande|<!-- 60 -->
-||||||
+|midnight screening with the vampire|midnight screening with the vampire|1|film|japon|
 ||||||
 ||||||
 ||||||
@@ -110,6 +110,8 @@
 |ghost runner|ghost runner|6|serie|thailande|3|<!--  -->
 |cherry magic|cherry magic|12|serie|japon|11|<!--  -->
 |wish you|wish you|8|serie|corée|6|<!--  -->
+|follow my sunshine|follow my sunshine|7|serie|vietnam|1|<!--  -->
+|meet me outside|meet me outside|6|serie|philippines|3|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -123,7 +125,6 @@
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|<!-- -->
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
-|follow my sunshine|follow my sunshine|7|serie|vietnam|0|<!-- 23/12 -->
 |||||||<!-- -->
 |2020||||||<!-- -->
 |you never eat alone|you never eat alone|?|serie|thailande|0|<!-- 22/12 -->
