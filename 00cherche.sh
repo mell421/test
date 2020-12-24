@@ -4,7 +4,7 @@
 ./0supprZ.sh
 list=( "Lls _1" "Ingredients _1" "Wish you _1" "Unbag _1" "Gameboys _1" 
 "The voice nl _11" "Pogi lang hanap _1" "Friend forever _1" "Cheat _1" "My vampire boyfriend _1" 
-"Bt21 universe _1" "Cherry magic _1" "Sweet home _1" "Young sheldon _4" "Be love _1" 
+"Bt21 universe _1" "Sweet home _1" "Young sheldon _4" "Be love _1" 
 "Blood _1" "Lakan _1" "Sea him _1" "TharnType _2" )
 list2=( "" "" )
 

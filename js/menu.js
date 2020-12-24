@@ -33,13 +33,13 @@ document.write(`
       <li><a href="https://www.tvtime.com/en/user/8064728/profile" target="_blank">TVTIME</a></li>
     </ul>
   </li>
-  <li><a href="#">Item 5</a>
+  <li><a href="#">autres</a>
   <ul>
       <li><a href="increment.html">increment</a></li>
       <li><a href="mdp.html">générateur de mot de passe</a></li>
     </ul>
   </li>
-  <li><a href="#">#</a></li>
+  <li><a href="# ">#</a></li>
 </ul>
 
 <br><br><br><br>

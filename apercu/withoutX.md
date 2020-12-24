@@ -4,8 +4,7 @@
 
 # ajout reponse 19
 
-wish you 
-cherry
+wish you
 
 ## Aperçu semaine
 #### sem 22-04-2019 

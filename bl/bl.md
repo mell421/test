@@ -68,7 +68,8 @@
 |discipline 2|discipline z : vampire|6|serie|corée|
 |why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 59 -->
 |bl broken fantasy|bl broken fantasy|1|special|thailande|<!-- 60 -->
-|midnight screening with the vampire|midnight screening with the vampire|1|film|japon|
+|midnight screening with the vampire|midnight screening with the vampire|1|film|japon|<!--  -->
+|cherry magic|cherry magic|12|serie|japon|<!--  -->
 ||||||
 ||||||
 ||||||
@@ -98,7 +99,7 @@
 |ben x jim|ben x jim|7|serie|philippines|1|<!--  -->
 |swap test|swap test|?|serie|philippines|2|<!--  -->
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!--  -->
-|offgun fun night 2|offgun fun night 2|11|show|thailande|1|<!--  -->
+|offgun fun night 2|offgun fun night 2|11|show|thailande|4|<!--  -->
 |lakan|lakan|8|serie|philippines|4|<!--  -->
 |sea him|sea him|?|serie|vietnam|4|<!--  -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|3|<!--  -->
@@ -108,10 +109,10 @@
 |cheat|cheat|?|serie|philippines|4|<!--  -->
 |manner of death|manner of death|12|serie|thailande|2|<!--  -->
 |ghost runner|ghost runner|6|serie|thailande|3|<!--  -->
-|cherry magic|cherry magic|12|serie|japon|11|<!--  -->
 |wish you|wish you|8|serie|corée|6|<!--  -->
 |follow my sunshine|follow my sunshine|7|serie|vietnam|1|<!--  -->
-|meet me outside|meet me outside|6|serie|philippines|3|<!--  -->
+|meet me outside|meet me outside|6|serie|philippines|4|<!--  -->
+|happenstance|happenstance|?|serie|philippines|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

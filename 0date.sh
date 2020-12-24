@@ -2,7 +2,7 @@
 
 git_last_commit_date="$(git log -1 --format=%cd)"
 echo "document.write(\`<center>" > js/lastCommit.js
-echo "Git last modification : $git_last_commit_date" >> js/lastCommit.js
+echo "Date last modification : $git_last_commit_date" >> js/lastCommit.js
 echo "  </center>\`)" >> js/lastCommit.js
 # html_files="$(find . -type f -name "*.html")"
 # echo "
