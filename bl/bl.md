@@ -70,6 +70,9 @@
 |bl broken fantasy|bl broken fantasy|1|special|thailande|<!-- 60 -->
 |midnight screening with the vampire|midnight screening with the vampire|1|film|japon|<!--  -->
 |cherry magic|cherry magic|12|serie|japon|<!--  -->
+|cherry magic 1.5|cherry magic valentine's|1|special|japon|<!--  -->
+|cherry magic 1.6|cherry magic tsugeMinato|1|special|japon|<!--  -->
+|wish you|wish you|8|serie|corée|<!--  -->
 ||||||
 ||||||
 ||||||
@@ -109,7 +112,6 @@
 |cheat|cheat|?|serie|philippines|4|<!--  -->
 |manner of death|manner of death|12|serie|thailande|2|<!--  -->
 |ghost runner|ghost runner|6|serie|thailande|3|<!--  -->
-|wish you|wish you|8|serie|corée|6|<!--  -->
 |follow my sunshine|follow my sunshine|7|serie|vietnam|1|<!--  -->
 |meet me outside|meet me outside|6|serie|philippines|4|<!--  -->
 |happenstance|happenstance|?|serie|philippines|1|<!--  -->

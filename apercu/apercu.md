@@ -101,11 +101,11 @@ TharnType _2x3(1) Thonhon chonlathee _1x3(1) Young sheldon _4x4(1) History2 righ
 #### sem 30-11-2020 
 History2 right or wrong _1x3(1) Ingredients _1x19(1) Be love _1x2(1) The voice nl _11x2(1) 
 #### sem 07-12-2020 
-The voice nl _11x3(1) TharnType _2x4(1) Wish you _1x3(2) Young sheldon _4x5(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
+The voice nl _11x3(1) TharnType _2x4(1) Young sheldon _4x5(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) Cheat _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
 #### sem 14-12-2020 
-A queen is born _1x2(1) Ingredients _1x20(1) Wish you _1x5(2) The voice nl _11x4(1) District z _1x2(1) Gameboys _1x9(1) Cheat _1x3(1) Tale of the nine tailed _1x2(1) 
+A queen is born _1x2(1) Ingredients _1x20(1) The voice nl _11x4(1) District z _1x2(1) Gameboys _1x9(1) Cheat _1x3(1) Tale of the nine tailed _1x2(1) 
 #### sem 21-12-2020 
-Ghost runner _1x4(2) Sweet home _1x4(3) Wish you _1x7(2) The voice nl _11x5(1) Druck _6x2(1) District z _1x3(1) Lls _1x95(8) Unbag _1x12(1) Cheat _1x4(1) 
+Ghost runner _1x4(2) Sweet home _1x4(3) The voice nl _11x5(1) Druck _6x2(1) District z _1x3(1) Lls _1x95(8) Unbag _1x12(1) Cheat _1x4(1) 
 
 
 
@@ -311,9 +311,9 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 ### conclu 04/12/20 
 > Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 05/12/20 
-> Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; Wish you _1 > 1; 
+> Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 06/12/20 
-> Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; Wish you _1 > 1; 
+> Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 07/12/20 
 > Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 08/12/20 
@@ -325,31 +325,31 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 ### conclu 11/12/20 
 > Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 12/12/20 
-> Ingredients _1 > 5; Lls _1 > 3; Wish you _1 > 3; We are not human _1 > 1; 
+> Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 13/12/20 
-> Ingredients _1 > 5; Lls _1 > 3; Wish you _1 > 2; We are not human _1 > 1; 
+> Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 14/12/20 
-> Ingredients _1 > 5; Lls _1 > 3; Wish you _1 > 2; We are not human _1 > 1; 
+> Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 ### conclu 15/12/20 
-> Ingredients _1 > 5; Lls _1 > 3; Wish you _1 > 2; 
+> Ingredients _1 > 5; Lls _1 > 3; 
 ### conclu 16/12/20 
-> Ingredients _1 > 5; Lls _1 > 3; Wish you _1 > 3; Cheat _1 > 1; 
+> Ingredients _1 > 5; Lls _1 > 3; Cheat _1 > 1; 
 ### conclu 17/12/20 
-> Lls _1 > 10; Ingredients _1 > 4; Wish you _1 > 1; 
+> Lls _1 > 10; Ingredients _1 > 4; 
 ### conclu 18/12/20 
-> Lls _1 > 12; Ingredients _1 > 4; Wish you _1 > 1; 
+> Lls _1 > 12; Ingredients _1 > 4; 
 ### conclu 19/12/20 
-> Lls _1 > 12; Ingredients _1 > 4; Wish you _1 > 3; 
+> Lls _1 > 12; Ingredients _1 > 4; 
 ### conclu 20/12/20 
-> Lls _1 > 12; Ingredients _1 > 4; Wish you _1 > 3; Sweet home _1 > 2; 
+> Lls _1 > 12; Ingredients _1 > 4; Sweet home _1 > 2; 
 ### conclu 21/12/20 
-> Lls _1 > 12; Ingredients _1 > 4; Wish you _1 > 2; Sweet home _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 12; Ingredients _1 > 4; Sweet home _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 22/12/20 
-> Lls _1 > 12; Ingredients _1 > 4; Wish you _1 > 2; Sweet home _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 12; Ingredients _1 > 4; Sweet home _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 23/12/20 
-> Lls _1 > 10; Ingredients _1 > 4; Love stage 2014 _1 > 1; Unbag _1 > 1; We are not human _1 > 1; Wish you _1 > 1; 
+> Lls _1 > 10; Ingredients _1 > 4; Love stage 2014 _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 24/12/20 
-> Lls _1 > 10; Ingredients _1 > 4; Offgun fun night _2 > 1; We are not human _1 > 1; Wish you _1 > 1; 
+> Lls _1 > 10; Ingredients _1 > 4; Offgun fun night _2 > 1; We are not human _1 > 1; 
 
 
 
@@ -510,45 +510,45 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 ### concluBis 04/12/20 
 > Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Young sheldon _4 > 2; Survivor au _7 > 2; 
 ### concluBis 05/12/20 
-> Ingredients _1 > 9; Lls _1 > 5; Wish you _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; 
+> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 06/12/20 
-> Ingredients _1 > 9; Lls _1 > 5; Wish you _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Unbag _1 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; Unbag _1 > 1; 
 ### concluBis 07/12/20 
-> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; Unbag _1 > 1; Wish you _1 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; Unbag _1 > 1; 
 ### concluBis 08/12/20 
-> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; Wish you _1 > 1; Survivor au _7 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; Survivor au _7 > 1; 
 ### concluBis 09/12/20 
-> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Wish you _1 > 2; Unbag _1 > 1; Survivor au _7 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; Survivor au _7 > 1; 
 ### concluBis 10/12/20 
-> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Wish you _1 > 2; Survivor au _7 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 1; 
 ### concluBis 11/12/20 
-> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Wish you _1 > 1; Survivor au _7 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 1; 
 ### concluBis 12/12/20 
-> Ingredients _1 > 9; Wish you _1 > 6; Lls _1 > 5; We are not human _1 > 3; The voice nl _11 > 1; Survivor au _7 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; The voice nl _11 > 1; Survivor au _7 > 1; 
 ### concluBis 13/12/20 
-> Ingredients _1 > 11; Wish you _1 > 5; Lls _1 > 5; We are not human _1 > 3; The voice nl _11 > 1; Survivor au _7 > 1; 
+> Ingredients _1 > 11; Lls _1 > 5; We are not human _1 > 3; The voice nl _11 > 1; Survivor au _7 > 1; 
 ### concluBis 14/12/20 
-> Ingredients _1 > 10; Wish you _1 > 5; Lls _1 > 5; We are not human _1 > 3; A queen is born _1 > 2; 
+> Ingredients _1 > 10; Lls _1 > 5; We are not human _1 > 3; A queen is born _1 > 2; 
 ### concluBis 15/12/20 
-> Ingredients _1 > 9; Wish you _1 > 5; Lls _1 > 5; We are not human _1 > 2; A queen is born _1 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 2; A queen is born _1 > 1; 
 ### concluBis 16/12/20 
-> Ingredients _1 > 9; Wish you _1 > 7; Lls _1 > 5; Cheat _1 > 4; We are not human _1 > 2; Unbag _1 > 1; A queen is born _1 > 1; 
+> Ingredients _1 > 9; Lls _1 > 5; Cheat _1 > 4; We are not human _1 > 2; Unbag _1 > 1; A queen is born _1 > 1; 
 ### concluBis 17/12/20 
-> Lls _1 > 18; Ingredients _1 > 8; Wish you _1 > 5; Cheat _1 > 2; We are not human _1 > 2; 
+> Lls _1 > 18; Ingredients _1 > 8; Cheat _1 > 2; We are not human _1 > 2; 
 ### concluBis 18/12/20 
-> Lls _1 > 20; Ingredients _1 > 8; Wish you _1 > 5; Unbag _1 > 4; We are not human _1 > 2; Cheat _1 > 1; 
+> Lls _1 > 20; Ingredients _1 > 8; Unbag _1 > 4; We are not human _1 > 2; Cheat _1 > 1; 
 ### concluBis 19/12/20 
-> Lls _1 > 20; Ingredients _1 > 8; Wish you _1 > 7; We are not human _1 > 2; Unbag _1 > 1; The voice nl _11 > 1; 
+> Lls _1 > 20; Ingredients _1 > 8; We are not human _1 > 2; Unbag _1 > 1; The voice nl _11 > 1; 
 ### concluBis 20/12/20 
-> Lls _1 > 20; Ingredients _1 > 8; Wish you _1 > 7; Sweet home _1 > 4; Unbag _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Gameboys _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 20; Ingredients _1 > 8; Sweet home _1 > 4; Unbag _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Gameboys _1 > 1; Survivor au _7 > 1; 
 ### concluBis 21/12/20 
-> Lls _1 > 20; Ingredients _1 > 8; Wish you _1 > 6; Unbag _1 > 3; Sweet home _1 > 3; We are not human _1 > 3; Gameboys _1 > 2; Ghost runner _1 > 2; Survivor au _7 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 20; Ingredients _1 > 8; Unbag _1 > 3; Sweet home _1 > 3; We are not human _1 > 3; Gameboys _1 > 2; Ghost runner _1 > 2; Survivor au _7 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
 ### concluBis 22/12/20 
-> Lls _1 > 20; Ingredients _1 > 8; Wish you _1 > 6; Unbag _1 > 3; Ghost runner _1 > 3; Sweet home _1 > 3; We are not human _1 > 3; Gameboys _1 > 2; The voice nl _11 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 20; Ingredients _1 > 8; Unbag _1 > 3; Ghost runner _1 > 3; Sweet home _1 > 3; We are not human _1 > 3; Gameboys _1 > 2; The voice nl _11 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 23/12/20 
-> Lls _1 > 18; Ingredients _1 > 8; Unbag _1 > 3; Wish you _1 > 3; Love stage 2014 _1 > 3; We are not human _1 > 3; Cheat _1 > 2; Sweet home _1 > 2; Survivor au _7 > 2; Gameboys _1 > 1; The voice nl _11 > 1; Lakan _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 18; Ingredients _1 > 8; Unbag _1 > 3; Love stage 2014 _1 > 3; We are not human _1 > 3; Cheat _1 > 2; Sweet home _1 > 2; Survivor au _7 > 2; Gameboys _1 > 1; The voice nl _11 > 1; Lakan _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 24/12/20 
-> Lls _1 > 18; Ingredients _1 > 8; Wish you _1 > 3; Offgun fun night _2 > 3; We are not human _1 > 3; Unbag _1 > 2; Cheat _1 > 2; Meet me outside _1 > 2; Survivor au _7 > 2; Gameboys _1 > 1; The voice nl _11 > 1; Love stage 2014 _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 18; Ingredients _1 > 8; Offgun fun night _2 > 3; We are not human _1 > 3; Unbag _1 > 2; Cheat _1 > 2; Meet me outside _1 > 2; Survivor au _7 > 2; Gameboys _1 > 1; The voice nl _11 > 1; Love stage 2014 _1 > 1; Kaamelott _5 > 1; 
 
 
 

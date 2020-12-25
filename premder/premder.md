@@ -18,7 +18,6 @@ Manner of death 1x2
 Ghost runner 1x3
 Sweet home 1x3
 * Sweet home 1x1
-Wish you 1x6
 The voice nl 11x4
 * Druck 6x1
 District z 1x2
@@ -29,7 +28,6 @@ Ingredients 1x19
 Gameboys 1x8
 * Tale of the nine tailed 1x1
 TharnType 2x3
-* Wish you 1x1
 Young sheldon 4x4
 * Ghost runner 1x1
 * Manner of death 1x1

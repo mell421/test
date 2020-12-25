@@ -1,6 +1,6 @@
 #!/bin/bash
-read -p '1 html - 2 js - 3 sh : ' type
 
+read -p '1 html - 2 js - 3 sh : ' type
 if (( type == 1 ))
 then
     read -p 'nom du fichier(html) : ' nom
