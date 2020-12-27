@@ -51,7 +51,7 @@ if (VERSION > 3) {
 
 
 <!--// date dernière maj -->
-<script LANGUAGE="JavaScript">
+<!-- <script LANGUAGE="JavaScript">
 
 //on prend la date du fichier
 var lastMod = document.lastModified;
@@ -75,24 +75,20 @@ document.write(annee + " ");
 document.write(" à " + heure + "</center>");
 
 </script>
+-->
 
 <!--
 
-<script>
-let githubinfo=""
-
-async function loadGithubInfo() {
-  let url = 'https://api.github.com/users/mell421'
-  let res = await fetch(url)
-  this.githubinfo = await res.json()
-  console.log(this.githubinfo.pushed_at)
-  this.avatar = this.githubinfo.avatar_url
-</script>
 -->
-<script>
-
-</script>
-
-<span id="git-last-commit-date"></span>
+<script language="JavaScript" type="text/javascript"> 
+ 
+    function execAppli(app)  { 
+      var wshShell = new ActiveXObject("date.sh"); 
+      wshShell.Run(app+"", 1, true); 
+    } 
+  
+  <input type="button" value="test" onClick="execAppli('date.sh')">
+  </script> 
+  <script src="js/lastCommit.js"></script>
 </div>
 `)

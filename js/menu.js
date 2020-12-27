@@ -14,7 +14,7 @@ document.write(`
   <ul>
       <li><a href="apercu19/apercu2019.html">séries en cours 2019</a></li>
       <li><a href="apercu/apercu.html">séries ec 2020</a></li>
-      <li><a href="apercu21/apercu21.html">séries ec 2021</a></li>
+      <li><a href="apercu/apercu21.html">séries ec 2021</a></li>
       <li><a href="apercu/apercuglobal.html">séries ec global</a></li>
       <li><a href="apercuTer/apercuTer.html">séries terminées</a></li>
     </ul>
@@ -33,14 +33,13 @@ document.write(`
       <li><a href="https://www.tvtime.com/en/user/8064728/profile" target="_blank">TVTIME</a></li>
     </ul>
   </li>
-  <li><a href="#">Item 5</a>
+  <li><a href="#">autres</a>
   <ul>
       <li><a href="increment.html">increment</a></li>
       <li><a href="mdp.html">générateur de mot de passe</a></li>
-      <!-- <li><a href="mesSites/sites.html">Sous-item 3</a></li> -->
     </ul>
   </li>
-  <li><a href="user.html">connexion</a></li>
+  <li><a href="# ">#</a></li>
 </ul>
 
 <br><br><br><br>
