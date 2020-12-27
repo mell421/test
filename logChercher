@@ -1,44 +1,49 @@
  
 
 i = Lls _1
-ligne :  606 Z/Lls_1
-mot   :  12754 Z/Lls_1
-carac :  65398 Z/Lls_1
+ligne :  624 Z/Lls_1
+mot   :  13622 Z/Lls_1
+carac :  69207 Z/Lls_1
  
 i = Ingredients _1
-ligne :  591 Z/Ingredients_1
-mot   :  12766 Z/Ingredients_1
-carac :  66336 Z/Ingredients_1
+ligne :  609 Z/Ingredients_1
+mot   :  13634 Z/Ingredients_1
+carac :  70145 Z/Ingredients_1
  
 i = Unbag _1
-ligne :  99 Z/Unbag_1
-mot   :  2691 Z/Unbag_1
-carac :  15518 Z/Unbag_1
+ligne :  117 Z/Unbag_1
+mot   :  3529 Z/Unbag_1
+carac :  19109 Z/Unbag_1
  
 i = Gameboys _1
-ligne :  119 Z/Gameboys_1
-mot   :  2878 Z/Gameboys_1
-carac :  16362 Z/Gameboys_1
+ligne :  128 Z/Gameboys_1
+mot   :  3413 Z/Gameboys_1
+carac :  18615 Z/Gameboys_1
  
 i = The voice nl _11
-ligne :  46 Z/Thevoicenl_11
-mot   :  1440 Z/Thevoicenl_11
-carac :  7850 Z/Thevoicenl_11
+ligne :  61 Z/Thevoicenl_11
+mot   :  2171 Z/Thevoicenl_11
+carac :  10998 Z/Thevoicenl_11
+ 
+i = Cheat _1
+ligne :  43 Z/Cheat_1
+mot   :  1444 Z/Cheat_1
+carac :  6991 Z/Cheat_1
+ 
+i = Offgun fun night _2
+ligne :  33 Z/Offgunfunnight_2
+mot   :  1430 Z/Offgunfunnight_2
+carac :  7097 Z/Offgunfunnight_2
+ 
+i = Sweet home _1
+ligne :  30 Z/Sweethome_1
+mot   :  1114 Z/Sweethome_1
+carac :  5125 Z/Sweethome_1
  
 i = Pogi lang hanap _1
 ligne :  40 Z/Pogilanghanap_1
 mot   :  1001 Z/Pogilanghanap_1
 carac :  6730 Z/Pogilanghanap_1
- 
-i = Friend forever _1
-ligne :  40 Z/Friendforever_1
-mot   :  948 Z/Friendforever_1
-carac :  5978 Z/Friendforever_1
- 
-i = Cheat _1
-ligne :  34 Z/Cheat_1
-mot   :  909 Z/Cheat_1
-carac :  4738 Z/Cheat_1
  
 i = My vampire boyfriend _1
 ligne :  36 Z/Myvampireboyfriend_1
@@ -50,10 +55,10 @@ ligne :  36 Z/Bt21universe_1
 mot   :  802 Z/Bt21universe_1
 carac :  4617 Z/Bt21universe_1
  
-i = Sweet home _1
-ligne :  24 Z/Sweethome_1
-mot   :  774 Z/Sweethome_1
-carac :  3682 Z/Sweethome_1
+i = Meet me outside _1
+ligne :  21 Z/Meetmeoutside_1
+mot   :  1023 Z/Meetmeoutside_1
+carac :  4475 Z/Meetmeoutside_1
  
 i = Young sheldon _4
 ligne :  29 Z/Youngsheldon_4
@@ -64,6 +69,16 @@ i = Be love _1
 ligne :  33 Z/Belove_1
 mot   :  943 Z/Belove_1
 carac :  5757 Z/Belove_1
+ 
+i = From dusk till dawn _2
+ligne : 
+mot   : 
+carac : 
+ 
+i = Love stage 2014 _1
+ligne :  18 Z/Lovestage2014_1
+mot   :  917 Z/Lovestage2014_1
+carac :  3927 Z/Lovestage2014_1
  
 i = Blood _1
 ligne :  30 Z/Blood_1

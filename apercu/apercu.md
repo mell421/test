@@ -350,7 +350,12 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 > Lls _1 > 10; Ingredients _1 > 4; Love stage 2014 _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 24/12/20 
 > Lls _1 > 10; Ingredients _1 > 4; Offgun fun night _2 > 1; We are not human _1 > 1; 
-
+### conclu 25/12/20 
+> Lls _1 > 9; Ingredients _1 > 4; Meet me outside _1 > 4; From dusk till dawn _2 > 2; Offgun fun night _2 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+### conclu 26/12/20 
+> Lls _1 > 9; Meet me outside _1 > 5; Ingredients _1 > 4; From dusk till dawn _2 > 2; Offgun fun night _2 > 1; The voice nl _11 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+### conclu 27/12/20 
+> Lls _1 > 9; Meet me outside _1 > 5; Ingredients _1 > 4; From dusk till dawn _2 > 2; Offgun fun night _2 > 1; The voice nl _11 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 
 
 
@@ -549,7 +554,12 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 > Lls _1 > 18; Ingredients _1 > 8; Unbag _1 > 3; Love stage 2014 _1 > 3; We are not human _1 > 3; Cheat _1 > 2; Sweet home _1 > 2; Survivor au _7 > 2; Gameboys _1 > 1; The voice nl _11 > 1; Lakan _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 24/12/20 
 > Lls _1 > 18; Ingredients _1 > 8; Offgun fun night _2 > 3; We are not human _1 > 3; Unbag _1 > 2; Cheat _1 > 2; Meet me outside _1 > 2; Survivor au _7 > 2; Gameboys _1 > 1; The voice nl _11 > 1; Love stage 2014 _1 > 1; Kaamelott _5 > 1; 
-
+### concluBis 25/12/20 
+> Lls _1 > 15; Ingredients _1 > 8; Meet me outside _1 > 8; From dusk till dawn _2 > 4; Unbag _1 > 3; Offgun fun night _2 > 3; We are not human _1 > 3; Gameboys _1 > 2; Cheat _1 > 2; Love stage 2014 _1 > 2; Survivor au _7 > 2; The voice nl _11 > 1; Sweet home _1 > 1; Kaamelott _5 > 1; 
+### concluBis 26/12/20 
+> Lls _1 > 15; Meet me outside _1 > 9; Ingredients _1 > 8; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; Offgun fun night _2 > 3; We are not human _1 > 3; Gameboys _1 > 2; Cheat _1 > 2; Love stage 2014 _1 > 2; Survivor au _7 > 2; District z _1 > 1; Sweet home _1 > 1; Kaamelott _5 > 1; 
+### concluBis 27/12/20 
+> Lls _1 > 16; Ingredients _1 > 9; Meet me outside _1 > 9; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; Offgun fun night _2 > 3; We are not human _1 > 3; Gameboys _1 > 2; Cheat _1 > 2; Love stage 2014 _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
 
 
 
