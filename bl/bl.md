@@ -77,6 +77,10 @@
 ||||||
 ||||||
 ||||||
+||||||
+||||||
+||||||
+||||||
 
  
 ## en cours / a jour = now/up-to-date
@@ -130,13 +134,21 @@
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
 |||||||<!-- -->
-|2020||||||<!-- -->
+|liens ?||||||<!-- -->
 |you never eat alone|you never eat alone|?|serie|thailande|0|<!-- 22/12 -->
 |von|von|1|film|thailande|0|<!-- 25/12 -->
+|||||||<!-- -->
+|2020||||||<!-- -->
 |color rush|color rush|?|serie|corée|0|<!-- 30/12 -->
 |2021||||||<!-- -->
-|lovely writer|lovely writer|?|serie|thailande|0|<!-- -->
+|lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 14/02 -->
+|we best love|we best love forever the 1st|6|serie|taiwan|0|<!-- 08/01 -->
+|the night beyond the tricornered window|the night beyond the tricornered window|?|serie|japon|0|<!-- 22/01 -->
+|brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->
+|we best love 2|we best love 2|6|serie|taiwan|0|<!-- 05/03 -->
+|love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
+|top secret together|top secret together|?|serie|thailande|0|<!-- ??/05 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -166,7 +178,6 @@
 |NOTME|NOTME|?|serie|thailande|0|<!-- -->
 |SWS||||||<!-- -->
 |hemp rope|hemp rope|?|serie|thailande|0|<!-- -->
-|love mechanics|love mechanics|?|serie|thailande|0|<!-- -->
 |COPYABANGKOK|||||| <!-- -->
 |ydestiny|ydestiny|?|serie|thailande|0|<!-- -->
 |yyy 2|yyy 2|?|serie|thailande|0|<!-- -->
@@ -175,6 +186,7 @@
 |bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
 |kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
 |middle love|muddle love|?|serie|thailande|0|<!-- MII2 -->
+|call it what you want|call it what you want|?|serie|thailande|0|<!-- -->
 |love stage|love stage|?|serie|thailande|0|<!-- kaohturbo -->
 |pinoy||||||
 |||||||
