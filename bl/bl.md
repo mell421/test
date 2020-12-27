@@ -19,7 +19,7 @@
 |the moment 2|the moment since|5|serie|thailande|       <!-- 8 -->
 |the moment|the moment I need you|4|serie|thailande|    <!-- 9 -->
 |2gether|2gether|13|serie|thailande|                    <!-- 10 -->
-|the gifted|the gifted|13|serie|thailande|              <!-- 11 -->
+|the gifted|the gifted|13|serie()|thailande|              <!-- 11 -->
 |roommate|roommate|5|serie|thailande|                   <!-- 12 -->
 |love by chance|love by chance|12|serie|thailande|      <!-- 13 -->
 |theory of love|theory of love|12|serie|thailande|      <!-- 14 -->
@@ -47,7 +47,7 @@
 |destiny calls|destiny calls|1|cm|thailande|
 |the boy next door|the boy next door|15|serie|corée|
 |night of love|night of love|1|cm|thailande|
-|i'm tee me too|i'm tee me too|8|serie|thailande|
+|i'm tee me too|i'm tee me too|8|serie()|thailande|
 |grandsons the reality project|grandsons the reality project|4|show|thailande|
 |craving you|craving you|10|serie|taiwan|
 |skinship|skinship|3|serie|thailande|
@@ -58,7 +58,7 @@
 |my gear and your gown|my gear and your gown|12|serie|thailande|
 |bright win inbox|bright win inbox|9|show|thailande|
 |long time no see|long time no see|5|serie|corée|
-|the gifted 2|the gifted graduation|13|serie|thailande|
+|the gifted 2|the gifted graduation|13|serie()|thailande|
 |safe haven|safe haven|15|serie|philippines|
 |better days|better days|6|serie|philippines|
 |boyband love|boyband love|9|serie|philippines|
@@ -66,8 +66,8 @@
 |calculating love|calculating love|6|serie|thailande|
 |oh mando|oh mando|6|serie|philippines|
 |discipline 2|discipline z : vampire|6|serie|corée|
-|why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 59 -->
-|bl broken fantasy|bl broken fantasy|1|special|thailande|<!-- 60 -->
+|why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 58 -->
+|bl broken fantasy|bl broken fantasy|1|special|thailande|<!-- 59 -->
 |midnight screening with the vampire|midnight screening with the vampire|1|film|japon|<!--  -->
 |cherry magic|cherry magic|12|serie|japon|<!--  -->
 |cherry magic 1.5|cherry magic valentine's|1|special|japon|<!--  -->
@@ -89,12 +89,12 @@
 | --- | --- | :---: | --- | --- | --- |
 |we are not human|we are not human|24|serie|chine|18|<!--  -->
 |the untamed|the untamed|50|serie|chine|2|<!--  -->
-|long khong|long khong|8|serie|thailande|3|<!--  -->
+|long khong|long khong|8|serie()|thailande|3|<!--  -->
 |the shipper|the shipper|12|serie|thailande|2|<!--  -->
 |ingredients|ingredients|22|serie|thailande|19|<!--  -->
 |so much in love|so much in love|12|serie|thailande|2|<!--  -->
 |he's coming to me|he's coming to me|8|serie|thailande|2|<!--  -->
-|blacklist|blacklist|13|serie|thailande|1|<!--  -->
+|blacklist|blacklist|13|serie()|thailande|1|<!--  -->
 |unbag|unbag|?|show|thailande|11|<!--  -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!--  -->
 |gameboys|gameboys|13,5|serie|philippines|8|<!--  -->
@@ -135,15 +135,15 @@
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
 |||||||<!-- -->
 |liens ?||||||<!-- -->
-|you never eat alone|you never eat alone|?|serie|thailande|0|<!-- 22/12 -->
-|von|von|1|film|thailande|0|<!-- 25/12 -->
+|you never eat alone|you never eat alone|?|serie()|thailande|0|<!-- 22/12 -->
+|von|von|1|film()|thailande|0|<!-- 25/12 -->
 |||||||<!-- -->
 |2020||||||<!-- -->
 |color rush|color rush|?|serie|corée|0|<!-- 30/12 -->
 |2021||||||<!-- -->
+|we best love|we best love forever the 1st|6|serie|taiwan|0|<!-- 08/01 -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 14/02 -->
-|we best love|we best love forever the 1st|6|serie|taiwan|0|<!-- 08/01 -->
 |the night beyond the tricornered window|the night beyond the tricornered window|?|serie|japon|0|<!-- 22/01 -->
 |brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->
 |we best love 2|we best love 2|6|serie|taiwan|0|<!-- 05/03 -->
@@ -168,13 +168,13 @@
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
 |GMMTV||||||<!-- -->
 |1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- -->
-|F4 thailand|F4 thailand|?|serie|thailande|0|<!-- -->
+|F4 thailand|F4 thailand|?|serie()|thailande|0|<!-- -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- -->
-|drag I love you|drag I love you|?|serie|thailande|0|<!-- -->
+|drag I love you|drag I love you|?|serie()|thailande|0|<!-- -->
 |baker boys|baker boys|?|serie|thailande|0|<!-- -->
 |enchante|enchante|?|serie|thailande|0|<!-- -->
 |bad buddy|bad buddy|?|serie|thailande|0|<!-- -->
-|the player|the player|?|serie|thailande|0|<!-- -->
+|the player|the player|?|serie()|thailande|0|<!-- -->
 |NOTME|NOTME|?|serie|thailande|0|<!-- -->
 |SWS||||||<!-- -->
 |hemp rope|hemp rope|?|serie|thailande|0|<!-- -->
