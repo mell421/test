@@ -46,5 +46,6 @@ document.write(`
       <td colspan="6"></td>
   </tr>
 </table>
+</p>
 <hr>
 `)
