@@ -1,102 +1,102 @@
  
 
 i = Lls _1
-ligne :  631 Z/Lls_1
-mot   :  13818 Z/Lls_1
-carac :  70423 Z/Lls_1
+ligne :  651 Z/Lls_1
+mot   :  14850 Z/Lls_1
+carac :  76564 Z/Lls_1
  
 i = Ingredients _1
-ligne :  616 Z/Ingredients_1
-mot   :  13831 Z/Ingredients_1
-carac :  71370 Z/Ingredients_1
+ligne :  636 Z/Ingredients_1
+mot   :  14863 Z/Ingredients_1
+carac :  77535 Z/Ingredients_1
  
 i = Unbag _1
-ligne :  119 Z/Unbag_1
-mot   :  3594 Z/Unbag_1
-carac :  19459 Z/Unbag_1
+ligne :  123 Z/Unbag_1
+mot   :  3812 Z/Unbag_1
+carac :  20639 Z/Unbag_1
  
 i = Gameboys _1
 ligne :  128 Z/Gameboys_1
 mot   :  3413 Z/Gameboys_1
-carac :  18649 Z/Gameboys_1
+carac :  18853 Z/Gameboys_1
  
 i = The voice nl _11
-ligne :  64 Z/Thevoicenl_11
-mot   :  2252 Z/Thevoicenl_11
-carac :  11468 Z/Thevoicenl_11
- 
-i = Cheat _1
-ligne :  45 Z/Cheat_1
-mot   :  1496 Z/Cheat_1
-carac :  7275 Z/Cheat_1
+ligne :  70 Z/Thevoicenl_11
+mot   :  2658 Z/Thevoicenl_11
+carac :  13712 Z/Thevoicenl_11
  
 i = Offgun fun night _2
-ligne :  38 Z/Offgunfunnight_2
-mot   :  1577 Z/Offgunfunnight_2
-carac :  7836 Z/Offgunfunnight_2
+ligne :  54 Z/Offgunfunnight_2
+mot   :  2452 Z/Offgunfunnight_2
+carac :  12108 Z/Offgunfunnight_2
+ 
+i = Cheat _1
+ligne :  49 Z/Cheat_1
+mot   :  1778 Z/Cheat_1
+carac :  8951 Z/Cheat_1
+ 
+i = Meet me outside _1
+ligne :  45 Z/Meetmeoutside_1
+mot   :  2147 Z/Meetmeoutside_1
+carac :  10008 Z/Meetmeoutside_1
+ 
+i = From dusk till dawn _2
+ligne :  43 Z/Fromdusktilldawn_2
+mot   :  2082 Z/Fromdusktilldawn_2
+carac :  9718 Z/Fromdusktilldawn_2
  
 i = Sweet home _1
-ligne :  32 Z/Sweethome_1
-mot   :  1168 Z/Sweethome_1
-carac :  5407 Z/Sweethome_1
+ligne :  42 Z/Sweethome_1
+mot   :  1646 Z/Sweethome_1
+carac :  7610 Z/Sweethome_1
+ 
+i = Love stage 2014 _1
+ligne :  42 Z/Lovestage2014_1
+mot   :  2039 Z/Lovestage2014_1
+carac :  9381 Z/Lovestage2014_1
  
 i = Pogi lang hanap _1
 ligne :  40 Z/Pogilanghanap_1
 mot   :  1001 Z/Pogilanghanap_1
-carac :  6740 Z/Pogilanghanap_1
- 
-i = My vampire boyfriend _1
-ligne :  36 Z/Myvampireboyfriend_1
-mot   :  869 Z/Myvampireboyfriend_1
-carac :  5047 Z/Myvampireboyfriend_1
- 
-i = Bt21 universe _1
-ligne :  36 Z/Bt21universe_1
-mot   :  802 Z/Bt21universe_1
-carac :  4626 Z/Bt21universe_1
- 
-i = Meet me outside _1
-ligne :  28 Z/Meetmeoutside_1
-mot   :  1220 Z/Meetmeoutside_1
-carac :  5504 Z/Meetmeoutside_1
+carac :  6800 Z/Pogilanghanap_1
  
 i = Young sheldon _4
-ligne :  30 Z/Youngsheldon_4
-mot   :  757 Z/Youngsheldon_4
-carac :  5257 Z/Youngsheldon_4
+ligne :  32 Z/Youngsheldon_4
+mot   :  899 Z/Youngsheldon_4
+carac :  6295 Z/Youngsheldon_4
  
 i = Be love _1
 ligne :  33 Z/Belove_1
 mot   :  943 Z/Belove_1
-carac :  5765 Z/Belove_1
- 
-i = From dusk till dawn _2
-ligne : 
-mot   : 
-carac : 
- 
-i = Love stage 2014 _1
-ligne :  24 Z/Lovestage2014_1
-mot   :  1085 Z/Lovestage2014_1
-carac :  4746 Z/Lovestage2014_1
- 
-i = Blood _1
-ligne :  30 Z/Blood_1
-mot   :  868 Z/Blood_1
-carac :  6499 Z/Blood_1
+carac :  5813 Z/Belove_1
  
 i = Lakan _1
-ligne :  20 Z/Lakan_1
-mot   :  677 Z/Lakan_1
-carac :  4564 Z/Lakan_1
+ligne :  22 Z/Lakan_1
+mot   :  819 Z/Lakan_1
+carac :  5590 Z/Lakan_1
  
 i = Sea him _1
-ligne :  21 Z/Seahim_1
-mot   :  635 Z/Seahim_1
-carac :  4737 Z/Seahim_1
+ligne :  23 Z/Seahim_1
+mot   :  777 Z/Seahim_1
+carac :  5763 Z/Seahim_1
+ 
+i = Manner of death _1
+ligne :  22 Z/Mannerofdeath_1
+mot   :  966 Z/Mannerofdeath_1
+carac :  4976 Z/Mannerofdeath_1
  
 i = TharnType _2
 ligne :  21 Z/TharnType_2
 mot   :  553 Z/TharnType_2
-carac :  3918 Z/TharnType_2
+carac :  3948 Z/TharnType_2
+ 
+i = Friend zone _1
+ligne :  16 Z/Friendzone_1
+mot   :  440 Z/Friendzone_1
+carac :  2804 Z/Friendzone_1
+ 
+i = Capture lover _1
+ligne :  15 Z/Capturelover_1
+mot   :  540 Z/Capturelover_1
+carac :  3645 Z/Capturelover_1
  

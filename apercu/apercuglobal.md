@@ -179,6 +179,8 @@ The voice nl _11x3(1) TharnType _2x4(1) Young sheldon _4x5(1) Unbag _1x11(1) Gho
 A queen is born _1x2(1) Ingredients _1x20(1) The voice nl _11x4(1) District z _1x2(1) Gameboys _1x9(1) Cheat _1x3(1) Tale of the nine tailed _1x2(1)
 #### sem 21-12-2020 
 Ghost runner _1x4(2) Sweet home _1x4(3) The voice nl _11x5(1) Druck _6x2(1) District z _1x3(1) Lls _1x95(8) Unbag _1x12(1) Cheat _1x4(1) 
+#### sem 28-12-2020 
+Capture lover _1x3(1) Manner of death _1x5(3) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(2) Druck _6x3(1) Roommate _2x2(1) Ingredients _1x21(1) The voice nl _11x6(1) District z _1x4(1) Meet me outside _1x6(5) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Happenstance _1x2(1) Offgun fun night _2x5(3) Follow my sunshine _1x2(1) Lego masters fr _1x2(1) Thonhon chonlathee _1x4(1) Love stage 2014 _1x4(3) Lakan _1x5(2) Cheat _1x5(1) Sea him _1x5(1) 
 
 
 
@@ -439,6 +441,14 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 > Lls _1 > 9; Meet me outside _1 > 5; Ingredients _1 > 4; From dusk till dawn _2 > 2; Offgun fun night _2 > 1; The voice nl _11 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 27/12/20 
 > Lls _1 > 9; Meet me outside _1 > 5; Ingredients _1 > 4; From dusk till dawn _2 > 2; Offgun fun night _2 > 1; The voice nl _11 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+### conclu 28/12/20 
+> Lls _1 > 9; Meet me outside _1 > 5; Ingredients _1 > 4; Manner of death _1 > 3; From dusk till dawn _2 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+### conclu 29/12/20 
+> Lls _1 > 9; Love stage 2014 _1 > 6; Ingredients _1 > 4; Meet me outside _1 > 3; From dusk till dawn _2 > 1; We are not human _1 > 1; 
+### conclu 30/12/20 
+> Lls _1 > 9; Ingredients _1 > 4; Meet me outside _1 > 3; Offgun fun night _2 > 3; Sweet home _1 > 2; From dusk till dawn _2 > 1; Love stage 2014 _1 > 1; We are not human _1 > 1; 
+### conclu 31/12/20 
+> Lls _1 > 9; Sweet home _1 > 5; Ingredients _1 > 4; Love stage 2014 _1 > 3; Manner of death _1 > 1; Offgun fun night _2 > 1; We are not human _1 > 1; 
 
 
 
@@ -643,7 +653,14 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) Ingredients _1x1
 > Lls _1 > 15; Meet me outside _1 > 9; Ingredients _1 > 8; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; Offgun fun night _2 > 3; We are not human _1 > 3; Gameboys _1 > 2; Cheat _1 > 2; Love stage 2014 _1 > 2; Survivor au _7 > 2; District z _1 > 1; Sweet home _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 27/12/20 
 > Lls _1 > 16; Ingredients _1 > 9; Meet me outside _1 > 9; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; Offgun fun night _2 > 3; We are not human _1 > 3; Gameboys _1 > 2; Cheat _1 > 2; Love stage 2014 _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
-
+### concluBis 28/12/20 
+> Lls _1 > 15; Meet me outside _1 > 10; Ingredients _1 > 8; Manner of death _1 > 7; The voice nl _11 > 4; Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Offgun fun night _2 > 2; Survivor au _7 > 2; Cheat _1 > 1; Love stage 2014 _1 > 1; Kaamelott _5 > 1; 
+### concluBis 29/12/20 
+> Lls _1 > 15; Love stage 2014 _1 > 12; Ingredients _1 > 8; Meet me outside _1 > 8; The voice nl _11 > 3; Manner of death _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Offgun fun night _2 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
+### concluBis 30/12/20 
+> Lls _1 > 15; Ingredients _1 > 8; Offgun fun night _2 > 8; Sweet home _1 > 8; Meet me outside _1 > 7; Love stage 2014 _1 > 4; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Lego masters fr _1 > 1; Kaamelott _5 > 1; 
+### concluBis 31/12/20 
+> Lls _1 > 15; Sweet home _1 > 11; Ingredients _1 > 8; Love stage 2014 _1 > 8; Meet me outside _1 > 4; Offgun fun night _2 > 3; Manner of death _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
 
 
 [retour](./../index.html)

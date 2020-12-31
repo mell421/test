@@ -274,7 +274,6 @@
 * Incroyable talent _15
 * I can see your voice _1
 ### sem 28-12-2020 
-* F
 * Wish you _1
 * Cherry magic _1 
 * From dusk till dawn _1

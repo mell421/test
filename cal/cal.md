@@ -15,7 +15,6 @@
 ### 3
 * my day 109
 ### 8
-* cherry magic 101
 * infidele 203
 * infidele 204
 * so much in love 109
@@ -24,8 +23,6 @@
 ### 10
 * my day 110
 * friend forever 104
-### 14
-* cherry magic 102
 ### 15
 * infidele 205
 * infidele 206
@@ -38,7 +35,6 @@
 ### 17
 * friend forever 105
 ### 22
-* cherry magic 103
 * ITSAY 101
 * ben x jim 102
 * so much in love 111
@@ -48,7 +44,6 @@
 * my day 111
 * friend forever 106
 ### 28
-* cherry magic 104
 * ITSAY 102
 * ben x jim 103
 ### 29
@@ -64,7 +59,6 @@
 * boys lockdown 103
 ### 5
 * pogi lang hanap 105
-* cherry magic 105
 * ITSAY 103
 * ben x jim 104
 * so much in love 113
@@ -79,7 +73,6 @@
 * TGDO 402
 * gen y 101
 ### 12
-* cherry magic 106
 * ITSAY 104
 ### 13
 * ben x jim 105
@@ -89,7 +82,6 @@
 * TGDO 403
 * gen y 102
 ### 19
-* cherry magic 107
 * ITSAY 105
 * ben x jim 106
 ### 
