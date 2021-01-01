@@ -77,6 +77,8 @@
 |wish you|wish you|8|serie|corée|<!--  -->
 |your name engraved herein|your name engraved herein|1|film|taiwan|
 |floss|floss|1|cm|taiwan|
+|offgun fun night 2|offgun fun night 2|13|show|thailande|<!--  -->
+|meet me outside|meet me outside|6|serie|philippines|<!--  -->
 ||||||
 ||||||
 ||||||
@@ -108,7 +110,6 @@
 |ben x jim|ben x jim|7|serie|philippines|1|<!--  -->
 |swap test|swap test|?|serie|philippines|2|<!--  -->
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!--  -->
-|offgun fun night 2|offgun fun night 2|11|show|thailande|4|<!--  -->
 |lakan|lakan|8|serie|philippines|4|<!--  -->
 |sea him|sea him|?|serie|vietnam|4|<!--  -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|3|<!--  -->
@@ -119,7 +120,6 @@
 |manner of death|manner of death|12|serie|thailande|2|<!--  -->
 |ghost runner|ghost runner|6|serie|thailande|3|<!--  -->
 |follow my sunshine|follow my sunshine|7|serie|vietnam|2|<!--  -->
-|meet me outside|meet me outside|6|serie|philippines|5|<!--  -->
 |happenstance|happenstance|?|serie|philippines|1|<!--  -->
 |roommate 2|roommate 2 soulmate|4|serie|thailande|1|<!--  -->
 |color rush|color rush|?|serie|corée|1|<!--  -->
