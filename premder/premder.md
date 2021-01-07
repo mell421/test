@@ -59,8 +59,6 @@ Pogi lang hanap 1x4
 My vampire boyfriend 1x2
 * My vampire boyfriend 1x1
 * Thonhon chonlathee 1x1
-Bt21 universe 1x2
-* Bt21 universe 1x1
 * TharnType 2x1
 * Young sheldon 4x1
 Blood 1x16

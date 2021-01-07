@@ -95,17 +95,17 @@
 |the untamed|the untamed|50|serie|chine|2|<!-- 2 -->
 |long khong|long khong|8|serie(*)|thailande|3|<!-- 3 -->
 |the shipper|the shipper|12|serie|thailande|3|<!-- 4 -->
-|ingredients|ingredients|22|serie|thailande|20|<!-- 5 -->
+|ingredients|ingredients|21|serie|thailande|20|<!-- 5 -->
 |so much in love|so much in love|12|serie|thailande|2|<!-- 6 -->
 |he's coming to me|he's coming to me|8|serie|thailande|2|<!-- 7 -->
 |blacklist|blacklist|13|serie(*)|thailande|1|<!-- 8 -->
 |unbag|unbag|?|show|thailande|11|<!-- 9 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!-- 10 -->
-|gameboys|gameboys|13,5|serie|philippines|8|<!-- 11 -->
+|gameboys|gameboys|13,5|serie|philippines|10|<!-- 11 -->
 |my day|my day|12|serie|philippines|1|<!-- 12 -->
 |friend forever|friend forever|12|serie|thailande|3|<!-- 13 -->
 |capture lover|capture lover|?|serie|chine|2|<!-- 14 -->
-|friend zone|friend zone|?|serie|thailande|2|<!-- 15 -->
+|friend zone|friend zone|?|serie|thailande|3|<!-- 15 -->
 |boys lockdown|boys lockdown|6|serie|philippines|2|<!-- 16 -->
 |ben x jim|ben x jim|7|serie|philippines|1|<!-- 17 -->
 |swap test|swap test|?|serie|philippines|2|<!-- 18 -->
@@ -114,19 +114,21 @@
 |sea him|sea him|10|serie|vietnam|5|<!-- 21 -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|3|<!-- 22 -->
 |thonhon chonlathee|thonhon chonlathee|12|serie|thailande|3|<!-- 23 -->
-|history2.1|history2 right or wrong|8|serie|taiwan|2|<!-- 24 -->
+|history2.1|history2 right or wrong|8|serie|taiwan|3|<!-- 24 -->
 |be love|be love|4|serie|japon|2|<!-- 25 -->
 |cheat|cheat|?|serie|philippines|4|<!-- 26 -->
 |manner of death|manner of death|12|serie|thailande|3|<!-- 27 -->
-|ghost runner|ghost runner|6|serie|thailande|4|<!-- 28 -->
-|follow my sunshine|follow my sunshine|7|serie|vietnam|2|<!-- 29 -->
+|ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
+|follow my sunshine|follow my sunshine|7|serie|vietnam|3|<!-- 29 -->
 |happenstance|happenstance|9|serie|philippines|2|<!-- 30 -->
-|roommate 2|roommate 2 soulmate|4|serie|thailande|1|<!-- 31 -->
-|color rush|color rush|?|serie|corée|2|<!-- 32 -->
+|roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
+|color rush|color rush|8|serie|corée|4|<!-- 32 -->
 |mako ventures|mako ventures|?|show|philippines|1|<!-- 33 -->
-|friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|2|<!-- 34 -->
+|friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|3|<!-- 34 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
-|nation's brother|nation's brother|?|serie|vietnam|1|<!-- 36 -->
+|nation's brother|nation's brother|?|serie|vietnam|2|<!-- 36 -->
+|you are ma boy|you are ma boy|?|serie|vietnam|1|<!--  -->
+|unlocked|unlocked|9|serie|philippines|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -147,7 +149,8 @@
 |von|von|1|film(*)|thailande|0|<!-- 25/12 -->
 |||||||<!-- -->
 |2021||||||<!-- -->
-|we best love|we best love forever the 1st|6|serie|taiwan|0|<!-- 08/01 -->
+|we best love|we best love n1 for you|6|serie|taiwan|0|<!-- 08/01 -->
+|1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- 29/01 -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->
 |to my star|to my star|9|serie|corée|0|<!-- 22/01 -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 25/02 -->
@@ -171,10 +174,10 @@
 |corée||||||<!-- -->
 |I just slept|I just slept|?|serie|corée|0|<!-- -->
 |you make me dance|you make me dance|?|serie|corée|0|<!-- -->
+|semantic error|semantic error|?|serie|corée|0|<!-- -->
 |vietnam||||||<!-- -->
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
 |GMMTV||||||<!-- -->
-|1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- -->
 |F4 thailand|F4 thailand|?|serie(*)|thailande|0|<!-- -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- -->
 |drag I love you|drag I love you|?|serie(*)|thailande|0|<!-- -->
