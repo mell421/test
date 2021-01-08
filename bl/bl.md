@@ -5,8 +5,9 @@
 
 # liste de bl
 
-\* bl related <!-- -->  
-\*\* gl <!-- -->
+\* bl (side couple) <!-- -->  
+\*\* avec acteurs de bl <!-- -->
+\*\*\* gl <!-- -->
 
 ## terminé = finish
  
@@ -22,7 +23,7 @@
 |the moment 2|the moment since|5|serie|thailande|       <!-- 8 -->
 |the moment|the moment I need you|4|serie|thailande|    <!-- 9 -->
 |2gether|2gether|13|serie|thailande|                    <!-- 10 -->
-|the gifted|the gifted|13|serie(*)|thailande|           <!-- 11 -->
+|the gifted|the gifted|13|serie(**)|thailande|           <!-- 11 -->
 |roommate|roommate|5|serie|thailande|                   <!-- 12 -->
 |love by chance|love by chance|12|serie|thailande|      <!-- 13 -->
 |theory of love|theory of love|12|serie|thailande|      <!-- 14 -->
@@ -50,7 +51,7 @@
 |destiny calls|destiny calls|1|cm|thailande|
 |the boy next door|the boy next door|15|serie|corée|
 |night of love|night of love|1|cm|thailande|
-|i'm tee me too|i'm tee me too|8|serie(*)|thailande|
+|i'm tee me too|i'm tee me too|8|serie(**)|thailande|
 |grandsons the reality project|grandsons the reality project|4|show|thailande|
 |craving you|craving you|10|serie|taiwan|
 |skinship|skinship|3|serie|thailande|
@@ -61,7 +62,7 @@
 |my gear and your gown|my gear and your gown|12|serie|thailande|
 |bright win inbox|bright win inbox|9|show|thailande|
 |long time no see|long time no see|5|serie|corée|
-|the gifted 2|the gifted graduation|13|serie(*)|thailande|
+|the gifted 2|the gifted graduation|13|serie(**)|thailande|
 |safe haven|safe haven|15|serie|philippines|
 |better days|better days|6|serie|philippines|
 |boyband love|boyband love|9|serie|philippines|
@@ -99,14 +100,14 @@
 |ingredients|ingredients|21|serie|thailande|20|<!-- 5 -->
 |so much in love|so much in love|12|serie|thailande|2|<!-- 6 -->
 |he's coming to me|he's coming to me|8|serie|thailande|2|<!-- 7 -->
-|blacklist|blacklist|13|serie(*)|thailande|1|<!-- 8 -->
+|blacklist|blacklist|13|serie(**)|thailande|1|<!-- 8 -->
 |unbag|unbag|?|show|thailande|11|<!-- 9 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!-- 10 -->
 |gameboys|gameboys|13,5|serie|philippines|10|<!-- 11 -->
 |my day|my day|12|serie|philippines|1|<!-- 12 -->
 |friend forever|friend forever|12|serie|thailande|3|<!-- 13 -->
 |capture lover|capture lover|?|serie|chine|2|<!-- 14 -->
-|friend zone|friend zone|?|serie|thailande|3|<!-- 15 -->
+|friend zone|friend zone|?|serie(*)|thailande|3|<!-- 15 -->
 |boys lockdown|boys lockdown|6|serie|philippines|2|<!-- 16 -->
 |ben x jim|ben x jim|7|serie|philippines|1|<!-- 17 -->
 |swap test|swap test|?|serie|philippines|2|<!-- 18 -->
@@ -147,10 +148,10 @@
 |||||||<!-- -->
 |liens ?||||||<!-- -->
 |you never eat alone|you never eat alone|?|serie(*)|thailande|0|<!-- 22/12 -->
-|von|von|1|film(*)|thailande|0|<!-- 25/12 -->
+|von|von|1|film(**)|thailande|0|<!-- 25/12 -->
 |||||||<!-- -->
 |2021||||||<!-- -->
-|we best love|we best love n1 for you|6|serie|taiwan|0|<!-- 08/01 -->
+|we best love|we best love n1 for you|6|serie|taiwan|1|<!--  -->
 |1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- 29/01 -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->
 |to my star|to my star|9|serie|corée|0|<!-- 22/01 -->
@@ -179,13 +180,13 @@
 |vietnam||||||<!-- -->
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
 |GMMTV||||||<!-- -->
-|F4 thailand|F4 thailand|?|serie(*)|thailande|0|<!-- -->
+|F4 thailand|F4 thailand|?|serie(**)|thailande|0|<!-- -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- -->
-|drag I love you|drag I love you|?|serie(*)|thailande|0|<!-- -->
+|drag I love you|drag I love you|?|serie(**)|thailande|0|<!-- -->
 |baker boys|baker boys|?|serie|thailande|0|<!-- -->
 |enchante|enchante|?|serie|thailande|0|<!-- -->
 |bad buddy|bad buddy|?|serie|thailande|0|<!-- -->
-|the player|the player|?|serie(*)|thailande|0|<!-- -->
+|the player|the player|?|serie(**)|thailande|0|<!-- -->
 |NOTME|NOTME|?|serie|thailande|0|<!-- -->
 |SWS||||||<!-- -->
 |hemp rope|hemp rope|?|serie|thailande|0|<!-- -->
