@@ -4,7 +4,6 @@
 Druck 6x3
 * Rpdru 13x1
 * Rpdr 13x1
-District z 1x4
 Friend.ship with kristsingto 1x2
 The shipper 1x3
 * Friend.ship with kristsingto 1x1
@@ -43,7 +42,6 @@ Cheat 1x4
 * Sweet home 1x1
 * Druck 6x1
 * A queen is born 1x1
-* District z 1x1
 Gameboys 1x8
 * Tale of the nine tailed 1x1
 TharnType 2x3

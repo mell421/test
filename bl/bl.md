@@ -41,7 +41,7 @@
 |en of love|en of love tossara|4|serie|thailande|                           <!-- 26 -->
 |red wine in the dark night|red wine in the dark night|1|film|thailande|    <!-- 27 -->
 |history1.3|history1 stay away from me|4|serie|taiwan|
-|discipline|discipline|6|serie|corée|
+|discipline|discipline|6|serie(*)|corée|
 |en of love 2|en of love love mechanics|4|serie|thailande|
 |yyy 1.5|yyy special|3|serie|thailande|
 |offgun fun night|offgun fun night|10|show|thailande|
