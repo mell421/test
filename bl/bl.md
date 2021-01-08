@@ -6,8 +6,8 @@
 # liste de bl
 
 \* bl (side couple) <!-- -->  
-\*\* avec acteurs de bl <!-- -->
-\*\*\* gl <!-- -->
+\*\* avec acteurs de bl <!-- -->  
+\*\*\* gl <!-- -->  
 
 ## terminé = finish
  
@@ -131,6 +131,7 @@
 |nation's brother|nation's brother|?|serie|vietnam|2|<!-- 36 -->
 |you are ma boy|you are ma boy|?|serie|vietnam|1|<!--  -->
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
+|we best love|we best love n1 for you|6|serie|taiwan|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -151,7 +152,6 @@
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
 |||||||<!-- -->
 |2021||||||<!-- -->
-|we best love|we best love n1 for you|6|serie|taiwan|1|<!--  -->
 |1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- 29/01 -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->
 |to my star|to my star|9|serie|corée|0|<!-- 22/01 -->
