@@ -5,7 +5,8 @@
 
 # liste de bl
 
-\* bl related
+\* bl related <!-- -->  
+\*\* gl <!-- -->
 
 ## terminé = finish
  
@@ -21,7 +22,7 @@
 |the moment 2|the moment since|5|serie|thailande|       <!-- 8 -->
 |the moment|the moment I need you|4|serie|thailande|    <!-- 9 -->
 |2gether|2gether|13|serie|thailande|                    <!-- 10 -->
-|the gifted|the gifted|13|serie(*)|thailande|              <!-- 11 -->
+|the gifted|the gifted|13|serie(*)|thailande|           <!-- 11 -->
 |roommate|roommate|5|serie|thailande|                   <!-- 12 -->
 |love by chance|love by chance|12|serie|thailande|      <!-- 13 -->
 |theory of love|theory of love|12|serie|thailande|      <!-- 14 -->

@@ -1,92 +1,77 @@
  
 
 i = Lls _1
-ligne :  663 Z/Lls_1
-mot   :  15022 Z/Lls_1
-carac :  77536 Z/Lls_1
+ligne :  684 Z/Lls_1
+mot   :  15962 Z/Lls_1
+carac :  82171 Z/Lls_1
  
 i = Ingredients _1
-ligne :  649 Z/Ingredients_1
-mot   :  15037 Z/Ingredients_1
-carac :  78473 Z/Ingredients_1
+ligne :  670 Z/Ingredients_1
+mot   :  15961 Z/Ingredients_1
+carac :  82849 Z/Ingredients_1
  
 i = Unbag _1
-ligne :  136 Z/Unbag_1
-mot   :  4154 Z/Unbag_1
-carac :  22398 Z/Unbag_1
+ligne :  155 Z/Unbag_1
+mot   :  5098 Z/Unbag_1
+carac :  27236 Z/Unbag_1
  
-i = The voice nl _11
-ligne :  65 Z/Thevoicenl_11
-mot   :  2365 Z/Thevoicenl_11
-carac :  12215 Z/Thevoicenl_11
+i = Gameboys _1
+ligne :  126 Z/Gameboys_1
+mot   :  3978 Z/Gameboys_1
+carac :  21262 Z/Gameboys_1
  
 i = Sweet home _1
-ligne :  55 Z/Sweethome_1
-mot   :  2082 Z/Sweethome_1
-carac :  9715 Z/Sweethome_1
+ligne :  70 Z/Sweethome_1
+mot   :  2850 Z/Sweethome_1
+carac :  13752 Z/Sweethome_1
  
 i = Love stage 2014 _1
-ligne :  55 Z/Lovestage2014_1
-mot   :  2290 Z/Lovestage2014_1
-carac :  10677 Z/Lovestage2014_1
+ligne :  66 Z/Lovestage2014_1
+mot   :  2843 Z/Lovestage2014_1
+carac :  13653 Z/Lovestage2014_1
  
-i = From dusk till dawn _2
-ligne :  44 Z/Fromdusktilldawn_2
-mot   :  1810 Z/Fromdusktilldawn_2
-carac :  8645 Z/Fromdusktilldawn_2
- 
-i = Sea him _1
-ligne :  27 Z/Seahim_1
-mot   :  986 Z/Seahim_1
-carac :  6202 Z/Seahim_1
- 
-i = Manner of death _1
-ligne :  26 Z/Mannerofdeath_1
-mot   :  1018 Z/Mannerofdeath_1
-carac :  5241 Z/Mannerofdeath_1
- 
-i = Young sheldon _4
-ligne :  26 Z/Youngsheldon_4
-mot   :  756 Z/Youngsheldon_4
-carac :  5264 Z/Youngsheldon_4
+i = The voice nl _11
+ligne :  66 Z/Thevoicenl_11
+mot   :  2459 Z/Thevoicenl_11
+carac :  12856 Z/Thevoicenl_11
  
 i = District z _1
-ligne :  19 Z/Districtz_1
-mot   :  743 Z/Districtz_1
-carac :  4084 Z/Districtz_1
+ligne :  42 Z/Districtz_1
+mot   :  1870 Z/Districtz_1
+carac :  9761 Z/Districtz_1
  
-i = Ghost runner _1
-ligne :  20 Z/Ghostrunner_1
-mot   :  723 Z/Ghostrunner_1
-carac :  3672 Z/Ghostrunner_1
+i = Sea him _1
+ligne :  38 Z/Seahim_1
+mot   :  1642 Z/Seahim_1
+carac :  9523 Z/Seahim_1
  
 i = Color rush _1
-ligne :  13 Z/Colorrush_1
-mot   :  544 Z/Colorrush_1
-carac :  2528 Z/Colorrush_1
+ligne :  34 Z/Colorrush_1
+mot   :  1613 Z/Colorrush_1
+carac :  7936 Z/Colorrush_1
  
-i = Lakan _1
-ligne :  19 Z/Lakan_1
-mot   :  672 Z/Lakan_1
-carac :  4541 Z/Lakan_1
+i = Rpdru _9
+ligne :  33 Z/Rpdru_9
+mot   :  1301 Z/Rpdru_9
+carac :  6958 Z/Rpdru_9
+ 
+i = Friend.ship with kristsingto _1
+ligne :  30 Z/Friend.shipwithkristsingto_1
+mot   :  1387 Z/Friend.shipwithkristsingto_1
+carac :  6767 Z/Friend.shipwithkristsingto_1
+ 
+i = Ghost runner _1
+ligne :  27 Z/Ghostrunner_1
+mot   :  1117 Z/Ghostrunner_1
+carac :  5929 Z/Ghostrunner_1
+ 
+i = Manner of death _1
+ligne :  27 Z/Mannerofdeath_1
+mot   :  1118 Z/Mannerofdeath_1
+carac :  5926 Z/Mannerofdeath_1
  
 i = Druck _6
-ligne :  13 Z/Druck_6
-mot   :  501 Z/Druck_6
-carac :  2907 Z/Druck_6
- 
-i = Friend zone _1
-ligne :  13 Z/Friendzone_1
-mot   :  356 Z/Friendzone_1
-carac :  2259 Z/Friendzone_1
- 
-i = Capture lover _1
-ligne :  13 Z/Capturelover_1
-mot   :  444 Z/Capturelover_1
-carac :  3037 Z/Capturelover_1
- 
-i = Thonhon chonlathee _1
-ligne :  13 Z/Thonhonchonlathee_1
-mot   :  394 Z/Thonhonchonlathee_1
-carac :  3062 Z/Thonhonchonlathee_1
+ligne :  24 Z/Druck_6
+mot   :  1149 Z/Druck_6
+carac :  6240 Z/Druck_6
  

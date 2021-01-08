@@ -57,8 +57,8 @@ apercu/apercu20.md:> Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1;
 apercu/apercu20.md:> Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1; 
 apercu/apercu20.md:> Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1; 
 apercu/apercu20.md:> Lls _1 > 3; We are not human _1 > 1; 
-apercu/apercu20.md:> Bt21 universe _1 > 2; Lls _1 > 2; We are not human _1 > 1; 
-apercu/apercu20.md:> Lls _1 > 3; Bt21 universe _1 > 2; We are not human _1 > 2; Ingredients _1 > 1; 
+apercu/apercu20.md:> Lls _1 > 2; We are not human _1 > 1; 
+apercu/apercu20.md:> Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1; 
 apercu/apercu20.md:> Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 apercu/apercu20.md:> Ingredients _1 > 5; Lls _1 > 3; My vampire boyfriend _1 > 2; We are not human _1 > 1; 
 apercu/apercu20.md:> Ingredients _1 > 5; Lls _1 > 3; My vampire boyfriend _1 > 1; We are not human _1 > 1; 
@@ -156,11 +156,11 @@ apercu/apercu20.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Su
 apercu/apercu20.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
 apercu/apercu20.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
 apercu/apercu20.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
-apercu/apercu20.md:> Lls _1 > 5; We are not human _1 > 3; Bt21 universe _1 > 2; Ingredients _1 > 2; Survivor au _7 > 1; 
-apercu/apercu20.md:> Bt21 universe _1 > 4; Lls _1 > 4; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; 
-apercu/apercu20.md:> Lls _1 > 5; Bt21 universe _1 > 4; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
-apercu/apercu20.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Bt21 universe _1 > 2; Survivor au _7 > 2; 
-apercu/apercu20.md:> Ingredients _1 > 9; Lls _1 > 5; My vampire boyfriend _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; Bt21 universe _1 > 1; 
+apercu/apercu20.md:> Lls _1 > 5; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; 
+apercu/apercu20.md:> Lls _1 > 4; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; 
+apercu/apercu20.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
+apercu/apercu20.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; 
+apercu/apercu20.md:> Ingredients _1 > 9; Lls _1 > 5; My vampire boyfriend _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 apercu/apercu20.md:> Ingredients _1 > 9; Lls _1 > 5; My vampire boyfriend _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; 
 apercu/apercu20.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
 apercu/apercu20.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
@@ -206,12 +206,23 @@ apercu/apercu20.md:> Lls _1 > 15; Ingredients _1 > 8; Manner of death _1 > 7; Th
 apercu/apercu20.md:> Lls _1 > 15; Love stage 2014 _1 > 12; Ingredients _1 > 8; The voice nl _11 > 3; Manner of death _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 apercu/apercu20.md:> Lls _1 > 15; Ingredients _1 > 8; Sweet home _1 > 8; Love stage 2014 _1 > 4; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Lego masters fr _1 > 1; Kaamelott _5 > 1; 
 apercu/apercu20.md:> Lls _1 > 15; Sweet home _1 > 11; Ingredients _1 > 8; Love stage 2014 _1 > 8; Manner of death _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
+apercu/apercu21.md:Color rush _1x3(2) Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Follow my sunshine _1x3(2) Friend zone _1x3(1) Sweet home _1x6(5) Lego masters fr _1x3(2) The voice be _9x2(1) Love stage 2014 _1x6(5) Joséphine ange gardien _23x5(1) Capture lover _1x3(1) Manner of death _1x5(4) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(10) Druck _6x3(2) Roommate _2x2(1) Ingredients _1x21(2) The voice nl _11x6(4) District z _1x4(3) Young sheldon _4x6(2) From dusk till dawn _2x4(3) Thonhon chonlathee _1x4(1) Lakan _1x5(2) Cheat _1x5(4) A queen is born _1x2(1) Gameboys _1x9(1) Tale of the nine tailed _1x2(1) TharnType _2x4(1) 
 apercu/apercu21.md:> Lls _1 > 9; Ingredients _1 > 4; Sweet home _1 > 4; Color rush _1 > 3; Love stage 2014 _1 > 2; Unbag _1 > 1; We are not human _1 > 1; 
 apercu/apercu21.md:> Lls _1 > 9; Ingredients _1 > 4; Druck _6 > 3; Friend.ship with kristsingto _1 > 2; Sweet home _1 > 2; Color rush _1 > 1; Love stage 2014 _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 apercu/apercu21.md:> Sweet home _1 > 5; Friend.ship with kristsingto _1 > 3; Lls _1 > 3; Unbag _1 > 3; Color rush _1 > 2; Ingredients _1 > 2; Love stage 2014 _1 > 2; Sea him _1 > 2; District z _1 > 1; We are not human _1 > 1; 
+apercu/apercu21.md:> Sweet home _1 > 4; Friend.ship with kristsingto _1 > 3; Lls _1 > 3; Unbag _1 > 3; Color rush _1 > 2; Gameboys _1 > 2; Ingredients _1 > 2; Love stage 2014 _1 > 2; District z _1 > 1; Rpdru _9 > 1; 
+apercu/apercu21.md:> Sweet home _1 > 4; Friend.ship with kristsingto _1 > 3; Lls _1 > 3; Unbag _1 > 3; Color rush _1 > 2; Gameboys _1 > 2; Ingredients _1 > 2; Love stage 2014 _1 > 2; District z _1 > 1; Rpdru _9 > 1; 
+apercu/apercu21.md:> Friend.ship with kristsingto _1 > 4; Lls _1 > 3; Sweet home _1 > 3; Unbag _1 > 3; District z _1 > 2; Friend zone _1 > 2; Gameboys _1 > 2; Ingredients _1 > 2; Nations brother _1 > 1; Rpdru _9 > 1; 
+apercu/apercu21.md:> Color rush _1 > 5; District z _1 > 3; Friend.ship with kristsingto _1 > 3; Lls _1 > 3; Unbag _1 > 3; Gameboys _1 > 2; Ingredients _1 > 2; Nations brother _1 > 1; Rpdru _9 > 1; We are not human _1 > 1; 
+apercu/apercu21.md:> Color rush _1 > 6; Friend.ship with kristsingto _1 > 3; Gameboys _1 > 3; Lls _1 > 3; District z _1 > 2; Ingredients _1 > 2; Rpdru _9 > 2; Happenstance _1 > 1; Nations brother _1 > 1; We are not human _1 > 1; 
 apercu/apercu21.md:> Lls _1 > 15; Sweet home _1 > 9; Ingredients _1 > 8; Love stage 2014 _1 > 6; Color rush _1 > 5; Unbag _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Manner of death _1 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Happenstance _1 > 1; Kaamelott _5 > 1; 
 apercu/apercu21.md:> Lls _1 > 15; Ingredients _1 > 8; Sweet home _1 > 7; Druck _6 > 6; Love stage 2014 _1 > 4; Friend.ship with kristsingto _1 > 4; Unbag _1 > 3; Color rush _1 > 3; We are not human _1 > 3; Sea him _1 > 2; District z _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
 apercu/apercu21.md:> Sweet home _1 > 11; Love stage 2014 _1 > 8; Unbag _1 > 5; Friend.ship with kristsingto _1 > 5; Lls _1 > 5; Sea him _1 > 4; District z _1 > 4; Color rush _1 > 4; Ingredients _1 > 4; We are not human _1 > 3; Druck _6 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Manner of death _1 > 1; Kaamelott _5 > 1; 
+apercu/apercu21.md:> Sweet home _1 > 9; Love stage 2014 _1 > 6; Unbag _1 > 5; Friend.ship with kristsingto _1 > 5; Lls _1 > 5; Gameboys _1 > 4; Rpdru _9 > 4; Color rush _1 > 4; Ingredients _1 > 4; District z _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Druck _6 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
+apercu/apercu21.md:> Sweet home _1 > 9; Unbag _1 > 5; Gameboys _1 > 5; Rpdru _9 > 5; Friend.ship with kristsingto _1 > 5; Lls _1 > 5; Love stage 2014 _1 > 4; Color rush _1 > 4; Ingredients _1 > 4; District z _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Druck _6 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
+apercu/apercu21.md:> Friend.ship with kristsingto _1 > 8; Sweet home _1 > 6; Unbag _1 > 5; Lls _1 > 5; Gameboys _1 > 4; District z _1 > 4; Friend zone _1 > 4; Ingredients _1 > 4; Rpdru _9 > 3; Nations brother _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Lego masters fr _1 > 2; Color rush _1 > 2; Survivor au _7 > 2; Druck _6 > 1; You are ma boy _1 > 1; Kaamelott _5 > 1; 
+apercu/apercu21.md:> Color rush _1 > 9; Friend.ship with kristsingto _1 > 7; District z _1 > 6; Unbag _1 > 5; Lls _1 > 5; Gameboys _1 > 4; Ingredients _1 > 4; Rpdru _9 > 3; Nations brother _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Lego masters fr _1 > 2; Name that tune _1 > 2; Survivor au _7 > 2; Druck _6 > 1; The masked dancer _1 > 1; Kaamelott _5 > 1; 
+apercu/apercu21.md:> Color rush _1 > 12; District z _1 > 6; Happenstance _1 > 6; Friend.ship with kristsingto _1 > 6; Gameboys _1 > 5; Lls _1 > 5; Rpdru _9 > 4; Ingredients _1 > 4; Follow my sunshine _1 > 3; Nations brother _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 apercu/apercuglobal.md:Girl meets world _1x7(2) You vs wild _1x3(1) Samokazem _1x3(1) Lls _1x64(1) 
 apercu/apercuglobal.md:Rpdru _9x4(1) Lls _1x65(1) 
 apercu/apercuglobal.md:Lls _1x73(8) Jeopardy _33x158(1) Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) 
@@ -284,8 +295,8 @@ apercu/apercuglobal.md:> Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1
 apercu/apercuglobal.md:> Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1; 
 apercu/apercuglobal.md:> Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1; 
 apercu/apercuglobal.md:> Lls _1 > 3; We are not human _1 > 1; 
-apercu/apercuglobal.md:> Bt21 universe _1 > 2; Lls _1 > 2; We are not human _1 > 1; 
-apercu/apercuglobal.md:> Lls _1 > 3; Bt21 universe _1 > 2; We are not human _1 > 2; Ingredients _1 > 1; 
+apercu/apercuglobal.md:> Lls _1 > 2; We are not human _1 > 1; 
+apercu/apercuglobal.md:> Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1; 
 apercu/apercuglobal.md:> Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; 
 apercu/apercuglobal.md:> Ingredients _1 > 5; Lls _1 > 3; My vampire boyfriend _1 > 2; We are not human _1 > 1; 
 apercu/apercuglobal.md:> Ingredients _1 > 5; Lls _1 > 3; My vampire boyfriend _1 > 1; We are not human _1 > 1; 
@@ -383,11 +394,11 @@ apercu/apercuglobal.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3
 apercu/apercuglobal.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
 apercu/apercuglobal.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
 apercu/apercuglobal.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
-apercu/apercuglobal.md:> Lls _1 > 5; We are not human _1 > 3; Bt21 universe _1 > 2; Ingredients _1 > 2; Survivor au _7 > 1; 
-apercu/apercuglobal.md:> Bt21 universe _1 > 4; Lls _1 > 4; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; 
-apercu/apercuglobal.md:> Lls _1 > 5; Bt21 universe _1 > 4; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
-apercu/apercuglobal.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Bt21 universe _1 > 2; Survivor au _7 > 2; 
-apercu/apercuglobal.md:> Ingredients _1 > 9; Lls _1 > 5; My vampire boyfriend _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; Bt21 universe _1 > 1; 
+apercu/apercuglobal.md:> Lls _1 > 5; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; 
+apercu/apercuglobal.md:> Lls _1 > 4; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; 
+apercu/apercuglobal.md:> Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; 
+apercu/apercuglobal.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; 
+apercu/apercuglobal.md:> Ingredients _1 > 9; Lls _1 > 5; My vampire boyfriend _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 apercu/apercuglobal.md:> Ingredients _1 > 9; Lls _1 > 5; My vampire boyfriend _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; 
 apercu/apercuglobal.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
 apercu/apercuglobal.md:> Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; My vampire boyfriend _1 > 1; 
@@ -553,15 +564,15 @@ tab2020.html:    <td class="conclubis">Lls _1 > 5; We are not human _1 > 4; Ingr
 tab2020.html:    <td class="conclu">Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1; </td>
 tab2020.html:    <td class="conclubis">Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; </td>
 tab2020.html:    <td class="conclu">Lls _1 > 3; We are not human _1 > 1; </td>
-tab2020.html:    <td class="conclubis">Lls _1 > 5; We are not human _1 > 3; Bt21 universe _1 > 2; Ingredients _1 > 2; Survivor au _7 > 1; </td>
-tab2020.html:    <td class="conclu">Bt21 universe _1 > 2; Lls _1 > 2; We are not human _1 > 1; </td>
-tab2020.html:    <td class="conclubis">Bt21 universe _1 > 4; Lls _1 > 4; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; </td>
-tab2020.html:    <td class="conclu">Lls _1 > 3; Bt21 universe _1 > 2; We are not human _1 > 2; Ingredients _1 > 1; </td>
-tab2020.html:    <td class="conclubis">Lls _1 > 5; Bt21 universe _1 > 4; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; </td>
+tab2020.html:    <td class="conclubis">Lls _1 > 5; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; </td>
+tab2020.html:    <td class="conclu">Lls _1 > 2; We are not human _1 > 1; </td>
+tab2020.html:    <td class="conclubis">Lls _1 > 4; We are not human _1 > 3; Ingredients _1 > 2; Survivor au _7 > 1; </td>
+tab2020.html:    <td class="conclu">Lls _1 > 3; We are not human _1 > 2; Ingredients _1 > 1; </td>
+tab2020.html:    <td class="conclubis">Lls _1 > 5; We are not human _1 > 4; Ingredients _1 > 3; Survivor au _7 > 2; </td>
 tab2020.html:    <td class="conclu">Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; </td>
-tab2020.html:    <td class="conclubis">Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Bt21 universe _1 > 2; Survivor au _7 > 2; </td>
+tab2020.html:    <td class="conclubis">Ingredients _1 > 9; Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; </td>
 tab2020.html:    <td class="conclu">Ingredients _1 > 5; Lls _1 > 3; My vampire boyfriend _1 > 2; We are not human _1 > 1; </td>
-tab2020.html:    <td class="conclubis">Ingredients _1 > 9; Lls _1 > 5; My vampire boyfriend _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
+tab2020.html:    <td class="conclubis">Ingredients _1 > 9; Lls _1 > 5; My vampire boyfriend _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; </td>
 tab2020.html:    <td class="conclu">Ingredients _1 > 5; Lls _1 > 3; My vampire boyfriend _1 > 1; We are not human _1 > 1; </td>
 tab2020.html:    <td class="conclubis">Ingredients _1 > 9; Lls _1 > 5; My vampire boyfriend _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; </td>
 tab2020.html:    <td class="conclu">Ingredients _1 > 5; Lls _1 > 3; We are not human _1 > 1; </td>
@@ -661,3 +672,13 @@ tab2021.html:    <td class="conclu">Lls _1 > 9; Ingredients _1 > 4; Druck _6 > 3
 tab2021.html:    <td class="conclubis">Lls _1 > 15; Ingredients _1 > 8; Sweet home _1 > 7; Druck _6 > 6; Love stage 2014 _1 > 4; 
 tab2021.html:    <td class="conclu">Sweet home _1 > 5; Friend.ship with kristsingto _1 > 3; Lls _1 > 3; Unbag _1 > 3; Color rush _1 > 2; Ingredients _1 > 2; 
 tab2021.html:    <td class="conclubis">Sweet home _1 > 11; Love stage 2014 _1 > 8; Unbag _1 > 5; Friend.ship with kristsingto _1 > 5; Lls _1 > 5; 
+tab2021.html:    <td class="conclu">Sweet home _1 > 4; Friend.ship with kristsingto _1 > 3; Lls _1 > 3; Unbag _1 > 3; Color rush _1 > 2; Gameboys _1 > 2; 
+tab2021.html:    <td class="conclubis">Sweet home _1 > 9; Love stage 2014 _1 > 6; Unbag _1 > 5; Friend.ship with kristsingto _1 > 5; Lls _1 > 5; 
+tab2021.html:    <td class="conclu">Sweet home _1 > 4; Friend.ship with kristsingto _1 > 3; Lls _1 > 3; Unbag _1 > 3; Color rush _1 > 2; Gameboys _1 > 2; 
+tab2021.html:    <td class="conclubis">Sweet home _1 > 9; Unbag _1 > 5; Gameboys _1 > 5; Rpdru _9 > 5; Friend.ship with kristsingto _1 > 5; Lls _1 > 5; 
+tab2021.html:    <td class="conclu">Friend.ship with kristsingto _1 > 4; Lls _1 > 3; Sweet home _1 > 3; Unbag _1 > 3; District z _1 > 2; Friend zone _1 > 2; 
+tab2021.html:    <td class="conclubis">Friend.ship with kristsingto _1 > 8; Sweet home _1 > 6; Unbag _1 > 5; Lls _1 > 5; Gameboys _1 > 4; District z _1 > 4; 
+tab2021.html:    <td class="conclu">Color rush _1 > 5; District z _1 > 3; Friend.ship with kristsingto _1 > 3; Lls _1 > 3; Unbag _1 > 3; Gameboys _1 > 2; 
+tab2021.html:    <td class="conclubis">Color rush _1 > 9; Friend.ship with kristsingto _1 > 7; District z _1 > 6; Unbag _1 > 5; Lls _1 > 5; Gameboys _1 > 4; 
+tab2021.html:    <td class="conclu">Color rush _1 > 6; Friend.ship with kristsingto _1 > 3; Gameboys _1 > 3; Lls _1 > 3; District z _1 > 2; Ingredients _1 > 2; 
+tab2021.html:      Lls _1 > 5; Rpdru _9 > 4; Ingredients _1 > 4; Follow my sunshine _1 > 3; Nations brother _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; 

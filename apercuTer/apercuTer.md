@@ -282,7 +282,7 @@
 * Meet me outside _1
 * Offgun fun night _2
 ### sem 11-01-2021 
-* 
+* *insererici*
 * Bt21 universe _1
 ### sem 18-01-2021 
 * 
