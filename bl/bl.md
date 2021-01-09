@@ -9,20 +9,23 @@
 \*\* avec acteurs de bl <!-- -->  
 \*\*\* gl <!-- -->  
 
+## SKAM + REMAKES
+ 
+|titre|pays|nb saisons terminées|
+| --- | --- | :---: | 
+|skam|norvège|all|
+|skam france|france|all|
+|skam espana|espagne|all|
+|druck|allemagne|all|
+|wtfock|belgique|all|
+|skam austin|usa|all|
+|skam nl|pays-bas|all|
+|skam italia|italie|all|
+
 ## terminé = finish
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
-|SKAM + REMAKES|||||
-|skam||all|||
-|skam france||all|||
-|skam espana||all|||
-|druck||all|||
-|wtfock||all|||
-|skam austin||all|||
-|skam nl||all|||
-|skam italia||all|||
-|ASIE|||||
 |bite fight|bite fight|1|film|chine|                    <!-- 1 -->
 |tharnType|tharnType|13|serie|thailande|                <!-- 2 -->
 |why r u|why r u|13|serie|thailande|                    <!-- 3 -->
