@@ -13,14 +13,19 @@
  
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
-|skam|norvège|all|
-|skam france|france|all|
-|skam espana|espagne|all|
-|druck|allemagne|all|
-|wtfock|belgique|all|
-|skam austin|usa|all|
-|skam nl|pays-bas|all|
-|skam italia|italie|all|
+|skam|norvège|4|
+|skam france|france|6|
+|skam espana|espagne|4|
+|druck|allemagne|5|
+|wtfock|belgique|4|
+|skam austin|usa|2|
+|skam nl|pays-bas|2|
+|skam italia|italie|4|
+  
+|titre|pays|nb ep vu|
+| --- | --- | :---: | 
+|skam france 7|france|0|
+|druck 6|allemagne|4|
 
 ## terminé = finish
  
