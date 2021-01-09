@@ -13,6 +13,16 @@
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
+|SKAM + REMAKES|||||
+|skam||all|||
+|skam france||all|||
+|skam espana||all|||
+|druck||all|||
+|wtfock||all|||
+|skam austin||all|||
+|skam nl||all|||
+|skam italia||all|||
+|ASIE|||||
 |bite fight|bite fight|1|film|chine|                    <!-- 1 -->
 |tharnType|tharnType|13|serie|thailande|                <!-- 2 -->
 |why r u|why r u|13|serie|thailande|                    <!-- 3 -->
@@ -132,6 +142,7 @@
 |you are ma boy|you are ma boy|?|serie|vietnam|1|<!--  -->
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
 |we best love|we best love n1 for you|6|serie|taiwan|1|<!--  -->
+|romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
