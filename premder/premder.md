@@ -27,7 +27,6 @@ Manner of death 1x4
 * The masked singer uk 2x1
 Lls 1x96
 * Roommate 2x1
-Ingredients 1x20
 The voice nl 11x5
 Young sheldon 4x5
 From dusk till dawn 2x3
@@ -107,7 +106,6 @@ Long khong 1x4
 * Love alarm 1x1
 Phineas & ferb 1x32
 Lucifer 4x3
-Ingredients 1x0
 * Alta mar 1x1
 * Into the night 1x1
 * Nailed it ger 1x1
