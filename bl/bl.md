@@ -13,14 +13,14 @@
  
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
-|skam|norvège|4|
 |skam france|france|6|
-|skam espana|espagne|4|
 |druck|allemagne|5|
+|skam|norvège|4|
+|skam espana|espagne|4|
 |wtfock|belgique|4|
+|skam italia|italie|4|
 |skam austin|usa|2|
 |skam nl|pays-bas|2|
-|skam italia|italie|4|
   
 |titre|pays|nb ep vu|
 | --- | --- | :---: | 
@@ -193,7 +193,7 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |corée||||||<!-- -->
-|I just slept|I just slept|?|serie|corée|0|<!-- -->
+|I just slept|I just slept|?|serie(***)|corée|0|<!-- -->
 |you make me dance|you make me dance|?|serie|corée|0|<!-- -->
 |semantic error|semantic error|?|serie|corée|0|<!-- -->
 |vietnam||||||<!-- -->
