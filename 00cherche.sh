@@ -4,7 +4,7 @@
 ./0supprZ.sh
 # >= 10
 list=( "Lls _1" 
-"Unbag _1" "Gameboys _1" "Sweet home _1" "Love stage 2014 _1" "Color rush _1" "The voice nl _11" "Rpdru _9" 
+"Unbag _1" "Sweet home _1" "Love stage 2014 _1" "Color rush _1" "The voice nl _11" "Rpdru _9" 
 "Friend.ship with kristsingto _1" "Druck _6" "Sea him _1" "From dusk till dawn _2" 
 "History2 right or wrong _1" "Happenstance _1" "Ghost runner _1" "Manner of death _1" )
 

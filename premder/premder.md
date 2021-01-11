@@ -6,7 +6,6 @@ Druck 6x4
 Rpdru 13x2
 Rpdr 13x2
 History2 right or wrong 1x4
-Gameboys 1x10
 TharnType 2x4
 * We best love 1x1
 Mako ventures 1x2
@@ -98,7 +97,6 @@ We are not human 1x18
 * Friend forever 1x1
 * My day 1x1
 Drag race holland 1x2
-* Gameboys 1x1
 Survivor au 7x16
 * Love in time 1x1
 * Drag race holland 1x1
