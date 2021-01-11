@@ -105,7 +105,6 @@ Survivor au 7x16
 * Baby 3x1
 Hes coming to me 1x2
 * My dear loser edge of 17 1x1
-* The voice vv 6x1
 Aggretsuko 3x3
 * Survivor au 1x1
 Nailed it holiday 2x2
