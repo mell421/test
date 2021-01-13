@@ -180,7 +180,7 @@ A queen is born _1x2(1) The voice nl _11x4(1) Cheat _1x3(1) Tale of the nine tai
 #### sem 21-12-2020 
 Ghost runner _1x4(2) Sweet home _1x4(3) The voice nl _11x5(1) Druck _6x2(1) Lls _1x95(8) Unbag _1x12(1) Cheat _1x4(1) 
 #### sem 28-12-2020 
-Capture lover _1x3(1) Manner of death _1x5(3) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(2) Druck _6x3(1) Roommate _2x2(1) The voice nl _11x6(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Happenstance _1x2(1) Follow my sunshine _1x2(1) Lego masters fr _1x2(1) Thonhon chonlathee _1x4(1) Love stage 2014 _1x4(3) Lakan _1x5(2) Cheat _1x5(1) Sea him _1x5(1) 
+Capture lover _1x3(1) Manner of death _1x5(3) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(2) Druck _6x3(1) Roommate _2x2(1) The voice nl _11x6(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Happenstance _1x2(1) Follow my sunshine _1x2(1) Thonhon chonlathee _1x4(1) Love stage 2014 _1x4(3) Lakan _1x5(2) Cheat _1x5(1) Sea him _1x5(1) 
 
 
 
@@ -658,7 +658,7 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) The voice nl _11
 ### concluBis 29/12/20 
 > Lls _1 > 15; Love stage 2014 _1 > 12; The voice nl _11 > 3; Manner of death _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 30/12/20 
-> Lls _1 > 15; Sweet home _1 > 8; Love stage 2014 _1 > 4; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Lego masters fr _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 15; Sweet home _1 > 8; Love stage 2014 _1 > 4; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 31/12/20 
 > Lls _1 > 15; Sweet home _1 > 11; Love stage 2014 _1 > 8; Manner of death _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
 

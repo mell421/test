@@ -18,7 +18,6 @@ The masked dancer 1x2
 Friend.ship with kristsingto 1x3
 Friend zone 1x3
 * You are ma boy 1x1
-Lego masters fr 1x3
 The voice be 9x2
 Nation's brother 1x2
 Rpdru 9x7
@@ -52,7 +51,6 @@ From dusk till dawn 2x3
 * Happenstance 1x1
 * Follow my sunshine 1x1
 * From dusk till dawn 2x1
-* Lego masters fr 1x1
 Thonhon chonlathee 1x3
 Lakan 1x4
 * Love stage 2014 1x1

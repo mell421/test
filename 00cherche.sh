@@ -9,7 +9,7 @@ list=( "Lls _1"
 "History2 right or wrong _1" "Happenstance _1" "Ghost runner _1" "Manner of death _1" )
 
 # entre 4 et 9
-listBis=( "TharnType _2" "Friend zone _1" "Nations brother _1" "Young sheldon _4" "Lego masters fr _1" "The masked singer uk _2" 
+listBis=( "TharnType _2" "Friend zone _1" "Nations brother _1" "Young sheldon _4" "The masked singer uk _2" 
 "Follow my sunshine _1" "We best love _1" "Capture lover _1" "The masked dancer _1" )
 
 listAtt=( "Friend forever _1" "My vampire boyfriend _1" "Blood _1" "Cheat _1" 
