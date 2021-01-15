@@ -101,6 +101,8 @@
 |meet me outside|meet me outside|6|serie|philippines|<!-- 68 -->
 |ingredients|ingredients|21+1|serie|thailande|<!--  -->
 |gameboys|gameboys|13+1|serie|philippines|<!-- 11 -->
+|enemy i love you|tinh dich anh yeu em|1|cm|vietnam|<!--  -->
+|my extraordinary|my extraordinary|8|serie|philippines|<!-- -->
 ||||||
 ||||||
 ||||||
@@ -139,10 +141,10 @@
 |cheat|cheat|6|serie|philippines|5|<!-- 26 -->
 |manner of death|manner of death|12|serie|thailande|8|<!-- 27 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
-|follow my sunshine|sau vat nang|7|serie|vietnam|4|<!-- 29 -->
+|follow my sunshine|sau vat nang|5|serie|vietnam|4|<!-- 29 -->
 |happenstance|happenstance|9|serie|philippines|3|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
-|color rush|color rush|8|serie|corée|4|<!-- 32 -->
+|color rush|color rush|8|serie|corée|5|<!-- 32 -->
 |mako ventures|mako ventures|?|show|philippines|2|<!-- 33 -->
 |friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|3|<!-- 34 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
@@ -173,7 +175,6 @@
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
 |||||||<!-- -->
 |2021||||||<!-- -->
-|ennemy i love you|tinh dich anh yeu em|?|serie|vietnam|0|<!-- 14/01 -->
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
 |to my star|to my star|9|serie|corée|0|<!-- 22/01 -->
 |the night beyond the tricornered window|the night beyond the tricornered window|?|serie|japon|0|<!-- 22/01 -->
@@ -182,7 +183,7 @@
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 25/02 -->
 |you make me dance|you make me dance|?|serie|corée|0|<!-- 26/02 -->
 |brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->
-|we best love 2|we best love 2|6|serie|taiwan|0|<!-- 05/03 -->
+|we best love 2|fighting mister 2nd|6|serie|taiwan|0|<!-- 05/03 -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
 |top secret together|top secret together|?|serie|thailande|0|<!-- ??/05 -->
 |||||||<!--  -->
@@ -216,15 +217,19 @@
 |COPYABANGKOK|||||| <!-- -->
 |ydestiny|ydestiny|?|serie|thailande|0|<!-- -->
 |yyy 2|yyy 2|?|serie|thailande|0|<!-- -->
-|OTHER||||||<!-- -->
+|OTHER THAI||||||<!-- -->
 |my engineer 2|my engineer 2|?|serie|thailande|0|<!-- -->
 |bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
 |kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
-|middle love|muddle love|?|serie|thailande|0|<!-- MII2 -->
+|middle love|middle love|?|serie|thailande|0|<!-- MII2 -->
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- -->
 |love stage|love stage|?|serie|thailande|0|<!-- kaowbo -->
+|nitiman|nitiman|?|serie|thailande|0|
 |pinoy||||||
 |gameboys 2|gameboys 2|?|serie|philippines|0|
+|cheat 2|cheat 2|?|serie|philippines|0|
+|my extraordinary 2|a kiss 2 remember|12|serie|philippines|0|<!-- -->
+|taiwan||||||
 |||||||
 |||||||
 |||||||
