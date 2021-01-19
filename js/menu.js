@@ -22,6 +22,7 @@ document.write(`
   <li><a href="#">BLs</a>
   <ul>
       <li><a href="bl/bl.html">BL</a></li>
+      <li><a href="liste/liste.html">tous</a></li>
       <li><a href="cal/cal.html">ep en retard</a></li>
       <li><a href="premder/premder.html">premder</a></li>
     </ul>
