@@ -54,14 +54,12 @@ From dusk till dawn 2x3
 Thonhon chonlathee 1x3
 Lakan 1x4
 * Love stage 2014 1x1
-Cheat 1x4
 * Sweet home 1x1
 * Druck 6x1
 * A queen is born 1x1
 * Tale of the nine tailed 1x1
 * Ghost runner 1x1
 * Manner of death 1x1
-* Cheat 1x1
 Be love 1x2
 * Be love 1x1
 * The voice nl 11x1

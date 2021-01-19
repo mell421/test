@@ -5,10 +5,6 @@
 
 # liste de bl
 
-\* bl (side couple) <!-- -->  
-\*\* avec acteurs de bl <!-- -->  
-\*\*\* gl <!-- -->  
-
 ## SKAM + REMAKES
  
 |titre|pays|nb saisons terminées|
@@ -25,8 +21,12 @@
 |titre|pays|nb ep vu|
 | --- | --- | :---: | 
 |skam france 7|france|0|
-|druck 6|allemagne|4|
+|druck 6|allemagne|5|
 
+## asie
+\* bl (side couple) <!-- -->  
+\*\* avec acteurs de bl <!-- -->  
+\*\*\* gl <!-- -->  
 ## terminé = finish
  
 |titre|titre officiel|nb ep|categorie|pays|
@@ -94,7 +94,7 @@
 |cherry magic|cherry magic|12|serie|japon|<!--  -->
 |cherry magic 1.5|cherry magic valentine's|1|special|japon|<!--  -->
 |cherry magic 1.6|cherry magic tsugeMinato|1|special|japon|<!--  -->
-|wish you|wish you|8|serie|corée|<!--  -->
+|wish you|wish you|8+1|serie|corée|<!--  -->
 |your name engraved herein|your name engraved herein|1|film|taiwan|
 |floss|floss|1|cm|taiwan|
 |offgun fun night 2|offgun fun night 2|12+1|show|thailande|<!--  -->
@@ -103,6 +103,7 @@
 |gameboys|gameboys|13+1|serie|philippines|<!-- 11 -->
 |enemy i love you|tinh dich anh yeu em|1|cm|vietnam|<!--  -->
 |my extraordinary|my extraordinary|8|serie|philippines|<!-- -->
+|cheat|cheat|6|serie|philippines|<!-- 26 -->
 ||||||
 ||||||
 ||||||
@@ -133,27 +134,27 @@
 |swap test|swap test|?|serie|philippines|2|<!-- 18 -->
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 19 -->
 |lakan|lakan|8|serie|philippines|4|<!-- 20 -->
-|sea him|sea him|10|serie|vietnam|5|<!-- 21 -->
+|sea him|sea him|10|serie|vietnam|6|<!-- 21 -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|3|<!-- 22 -->
-|thonhon chonlathee|thonhon chonlathee|12|serie|thailande|3|<!-- 23 -->
+|thonhon chonlathee|thonhon chonlathee|10|serie|thailande|8|<!-- 23 -->
 |history2.1|history2 right or wrong|8|serie|taiwan|4|<!-- 24 -->
 |be love|be love|4|serie|japon|2|<!-- 25 -->
-|cheat|cheat|6|serie|philippines|5|<!-- 26 -->
-|manner of death|manner of death|12|serie|thailande|8|<!-- 27 -->
+|manner of death|manner of death|12|serie|thailande|9|<!-- 27 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |follow my sunshine|sau vat nang|5|serie|vietnam|4|<!-- 29 -->
 |happenstance|happenstance|9|serie|philippines|3|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
-|color rush|color rush|8|serie|corée|5|<!-- 32 -->
-|mako ventures|mako ventures|?|show|philippines|2|<!-- 33 -->
-|friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|3|<!-- 34 -->
+|color rush|color rush|8|serie|corée|6|<!-- 32 -->
+|mako ventures|mako ventures|?|show|philippines|3|<!-- 33 -->
+|friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|4|<!-- 34 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
 |nation's brother|anh trai quoc dan|?|serie|vietnam|2|<!-- 36 -->
 |you are ma boy|em la chang trai cua anh|?|serie|vietnam|2|<!--  -->
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
-|we best love|we best love no1 for you|6|serie|taiwan|2|<!--  -->
+|we best love|we best love no1 for you|6|serie|taiwan|3|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door|pearl next door|8|serie(***)|philippines|2|<!--  -->
+|warper series|warper series|?|show|thailande|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -169,18 +170,18 @@
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|<!-- -->
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
-|||||||<!-- -->
-|liens ?||||||<!-- -->
+|fools|NHỮNG KẺ KHỜ|?|serie|vietnam|0|<!-- -->
+|liens ? subs ?||||||<!-- -->
 |you never eat alone|you never eat alone|?|serie(*)|thailande|0|<!-- 22/12 -->
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
+|c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
 |||||||<!-- -->
 |2021||||||<!-- -->
-|c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
 |to my star|to my star|9|serie|corée|0|<!-- 22/01 -->
 |the night beyond the tricornered window|the night beyond the tricornered window|?|serie|japon|0|<!-- 22/01 -->
 |1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- 29/01 -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->
-|tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 25/02 -->
+|tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |you make me dance|you make me dance|?|serie|corée|0|<!-- 26/02 -->
 |brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|0|<!-- 05/03 -->
@@ -202,7 +203,6 @@
 |semantic error|semantic error|?|serie|corée|0|<!-- -->
 |vietnam||||||<!-- -->
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
-|fools|fools|?|serie|vietnam|0|
 |GMMTV||||||<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|0|<!-- -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- -->
