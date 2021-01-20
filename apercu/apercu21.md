@@ -8,7 +8,7 @@
 
 ## Aperçu semaine
 #### sem 04-01-2021 
-Rpdru _9x8(1) Nations brother _1x2(1) The voice uk _10x2(1) Ninja warrior _5x2(1) The masked singer uk _2x3(1) Together with me _1x2(1) Druck _6x4(1) Rpdru _13x2(1) Rpdr _13x2(1) Friend.ship with kristsingto _1x3(2) The shipper _1x4(1) Mako ventures _1x2(1) Color rush _1x3(2) Happenstance _1x3(1) Unbag _1x13(1) Sea him _1x6(1) Ghost runner _1x5(1) Follow my sunshine _1x3(1) Friend zone _1x3(1) Sweet home _1x6(2) The voice be _9x2(1) Love stage 2014 _1x6(2) Joséphine ange gardien _23x5(1) 
+Rpdru _9x8(1) Nations brother _1x2(1) The voice uk _10x2(1) Ninja warrior _5x2(1) The masked singer uk _2x3(1) Together with me _1x2(1) Druck _6x4(1) Rpdru _13x2(1) Rpdr _13x2(1) Friend.ship with kristsingto _1x3(2) The shipper _1x4(1) Mako ventures _1x2(1) Color rush _1x3(2) Happenstance _1x3(1) Unbag _1x13(1) Sea him _1x6(1) Ghost runner _1x5(1) Friend zone _1x3(1) Sweet home _1x6(2) The voice be _9x2(1) Love stage 2014 _1x6(2) Joséphine ange gardien _23x5(1) 
 
 
 
@@ -18,7 +18,7 @@ Rpdru _9x8(1) Nations brother _1x2(1) The voice uk _10x2(1) Ninja warrior _5x2(1
 
 ## apercu mois
 #### mois 01-01-2021 
-Color rush _1x3(2) Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Follow my sunshine _1x3(2) Friend zone _1x3(1) Sweet home _1x6(5) The voice be _9x2(1) Love stage 2014 _1x6(5) Joséphine ange gardien _23x5(1) Capture lover _1x3(1) Manner of death _1x5(4) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(10) Druck _6x3(2) Roommate _2x2(1) The voice nl _11x6(4) Young sheldon _4x6(2) From dusk till dawn _2x4(3) Thonhon chonlathee _1x4(1) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) TharnType _2x4(1) 
+Color rush _1x3(2) Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend zone _1x3(1) Sweet home _1x6(5) The voice be _9x2(1) Love stage 2014 _1x6(5) Joséphine ange gardien _23x5(1) Capture lover _1x3(1) Manner of death _1x5(4) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(10) Druck _6x3(2) Roommate _2x2(1) The voice nl _11x6(4) Young sheldon _4x6(2) From dusk till dawn _2x4(3) Thonhon chonlathee _1x4(1) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) TharnType _2x4(1) 
 
 
 
@@ -74,7 +74,7 @@ Color rush _1x3(2) Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost run
 ### concluBis 07/01/21 
 > Color rush _1 > 9; Friend.ship with kristsingto _1 > 7; Unbag _1 > 5; Lls _1 > 5; Rpdru _9 > 3; Nations brother _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Name that tune _1 > 2; Survivor au _7 > 2; Druck _6 > 1; The masked dancer _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 08/01/21 
-> Color rush _1 > 12; Happenstance _1 > 6; Friend.ship with kristsingto _1 > 6; Lls _1 > 5; Rpdru _9 > 4; Follow my sunshine _1 > 3; Nations brother _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Color rush _1 > 12; Happenstance _1 > 6; Friend.ship with kristsingto _1 > 6; Lls _1 > 5; Rpdru _9 > 4; Nations brother _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 
 
 

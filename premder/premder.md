@@ -10,7 +10,6 @@ TharnType 2x4
 * We best love 1x1
 Mako ventures 1x2
 Happenstance 1x3
-Follow my sunshine 1x3
 * Unlocked 1x1
 Color rush 1x4
 * Name that tune 1x1
@@ -49,7 +48,6 @@ The voice nl 11x5
 Young sheldon 4x5
 From dusk till dawn 2x3
 * Happenstance 1x1
-* Follow my sunshine 1x1
 * From dusk till dawn 2x1
 Thonhon chonlathee 1x3
 Lakan 1x4

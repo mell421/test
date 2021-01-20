@@ -10,7 +10,7 @@ list=( "Lls _1"
 
 # entre 4 et 9
 listBis=( "TharnType _2" "Friend zone _1" "Nations brother _1" "Young sheldon _4" "The masked singer uk _2" 
-"Follow my sunshine _1" "We best love _1" "Capture lover _1" "The masked dancer _1" )
+"We best love _1" "Capture lover _1" "The masked dancer _1" )
 
 listAtt=( "Friend forever _1" "My vampire boyfriend _1" "Blood _1" 
 "Pogi lang hanap _1" "Be love _1" "Lakan _1" "Thonhon chonlathee _1" )
