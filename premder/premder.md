@@ -11,7 +11,6 @@ TharnType 2x4
 Mako ventures 1x2
 Happenstance 1x3
 * Unlocked 1x1
-Color rush 1x4
 * Name that tune 1x1
 The masked dancer 1x2
 Friend.ship with kristsingto 1x3
@@ -31,7 +30,6 @@ The shipper 1x3
 * Friend.ship with kristsingto 1x1
 * Mako ventures 1x1
 Unbag 1x12
-* Color rush 1x1
 Sea him 1x5
 Ghost runner 1x4
 Sweet home 1x5

@@ -269,6 +269,7 @@
 |interested in 1||5|||
 |cheat|cheat|6|serie|philippines|<!-- 26 -->
 |follow my sunshine|sau vat nang|5|serie|vietnam|4|<!-- 29 -->
+|color rush|color rush|8|serie|corée|<!-- 32 -->
 ||||||
 ||||||
 ||||||
@@ -428,7 +429,6 @@
 |TMS UK 2|||||4|<!--  -->
 |TMD 1|||||3|<!--  -->
 |TV BE 9|||||3|<!--  -->
-|color rush|color rush|8|serie|corée|6|<!-- 32 -->
 |mako ventures|mako ventures|?|show|philippines|3|<!-- 33 -->
 |friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|4|<!-- 34 -->
 |RPDR 13|||||3|<!--  -->

@@ -105,6 +105,7 @@
 |my extraordinary|my extraordinary|8|serie|philippines|<!-- -->
 |cheat|cheat|6|serie|philippines|<!-- 26 -->
 |follow my sunshine|sau vat nang|5|serie|vietnam|<!-- 29 -->
+|color rush|color rush|8|serie|corée|<!-- 32 -->
 ||||||
 ||||||
 ||||||
@@ -144,7 +145,6 @@
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |happenstance|happenstance|9|serie|philippines|4|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
-|color rush|color rush|8|serie|corée|7|<!-- 32 -->
 |mako ventures|mako ventures|?|show|philippines|3|<!-- 33 -->
 |friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|4|<!-- 34 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
