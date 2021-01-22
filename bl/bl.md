@@ -106,6 +106,7 @@
 |cheat|cheat|6|serie|philippines|<!-- 26 -->
 |follow my sunshine|sau vat nang|5|serie|vietnam|<!-- 29 -->
 |color rush|color rush|8|serie|corée|<!-- 32 -->
+|thonhon chonlathee|thonhon chonlathee|10|serie|thailande|<!-- 23 -->
 ||||||
 ||||||
 ||||||
@@ -138,7 +139,6 @@
 |lakan|lakan|8|serie|philippines|4|<!-- 20 -->
 |sea him|uoc hen lang chai|10|serie|vietnam|6|<!-- 21 -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|3|<!-- 22 -->
-|thonhon chonlathee|thonhon chonlathee|10|serie|thailande|8|<!-- 23 -->
 |history2.1|history2 right or wrong|8|serie|taiwan|4|<!-- 24 -->
 |be love|be love|4|serie|japon|2|<!-- 25 -->
 |manner of death|manner of death|12|serie|thailande|9|<!-- 27 -->
@@ -155,6 +155,7 @@
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door|pearl next door|8|serie(***)|philippines|2|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
+|to my star|to my star|9|serie|corée|3|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -177,7 +178,6 @@
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
 |||||||<!-- -->
 |2021||||||<!-- -->
-|to my star|to my star|9|serie|corée|0|<!-- 22/01 -->
 |the night beyond the tricornered window|the night beyond the tricornered window|?|serie|japon|0|<!-- 22/01 -->
 |1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- 29/01 -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->

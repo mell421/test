@@ -270,6 +270,7 @@
 |cheat|cheat|6|serie|philippines|<!-- 26 -->
 |follow my sunshine|sau vat nang|5|serie|vietnam|4|<!-- 29 -->
 |color rush|color rush|8|serie|corée|<!-- 32 -->
+|thonhon chonlathee|thonhon chonlathee|10|serie|thailande|<!-- 23 -->
 ||||||
 ||||||
 ||||||
@@ -410,7 +411,6 @@
 |blood 1|||||16|<!--  -->
 |young sheldon 4|||||5|<!--  -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|4|<!-- 22 -->
-|thonhon chonlathee|thonhon chonlathee|10|serie|thailande|8|<!-- 23 -->
 |my vampire boyfriend 1|||||2|<!--  -->
 |history2.1|history2 right or wrong|8|serie|taiwan|4|<!-- 24 -->
 |TV NL 11|||||7|<!--  -->
@@ -451,7 +451,7 @@
 |koishite akuma 1|||||3|<!--  -->
 |911 4|||||1|<!--  -->
 |911 lone star 2|||||1|<!--  -->
-|||||||<!--  -->
+|to my star 1||9|||3|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

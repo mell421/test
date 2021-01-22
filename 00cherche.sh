@@ -5,7 +5,7 @@
 # >= 10
 list=( "Lls _1" 
 "Unbag _1" "Sweet home _1" "Manner of death _1" "The voice nl _11" "Love stage 2014 _1" "Druck _6" "Friend.ship with kristsingto _1" "Rpdru _9" 
-"Sea him _1" "Thonhon chonlathee _1" "Happenstance _1" "History2 right or wrong _1" "We best love _1" "TharnType _2" "Ghost runner _1" )
+"Sea him _1" "Happenstance _1" "History2 right or wrong _1" "We best love _1" "TharnType _2" "Ghost runner _1" )
 
 # entre 4 et 9
 listBis=( "Koishite akuma _1" "Friend zone _1" "Nations brother _1" "Young sheldon _4" 

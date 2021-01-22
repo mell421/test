@@ -47,7 +47,6 @@ Young sheldon 4x5
 From dusk till dawn 2x3
 * Happenstance 1x1
 * From dusk till dawn 2x1
-Thonhon chonlathee 1x3
 Lakan 1x4
 * Love stage 2014 1x1
 * Sweet home 1x1
@@ -63,7 +62,6 @@ Be love 1x2
 Pogi lang hanap 1x4
 My vampire boyfriend 1x2
 * My vampire boyfriend 1x1
-* Thonhon chonlathee 1x1
 * TharnType 2x1
 * Young sheldon 4x1
 Blood 1x16

@@ -2,71 +2,76 @@
 
 i = Lls _1
 ligne :  684 Z/Lls_1
-mot   :  12960 Z/Lls_1
-carac :  67570 Z/Lls_1
+mot   :  12951 Z/Lls_1
+carac :  67489 Z/Lls_1
  
 i = Unbag _1
 ligne :  155 Z/Unbag_1
-mot   :  4380 Z/Unbag_1
-carac :  23694 Z/Unbag_1
+mot   :  4357 Z/Unbag_1
+carac :  23468 Z/Unbag_1
  
 i = Sweet home _1
 ligne :  70 Z/Sweethome_1
-mot   :  2391 Z/Sweethome_1
-carac :  11633 Z/Sweethome_1
+mot   :  2388 Z/Sweethome_1
+carac :  11606 Z/Sweethome_1
  
-i = Love stage 2014 _1
-ligne :  66 Z/Lovestage2014_1
-mot   :  2422 Z/Lovestage2014_1
-carac :  11733 Z/Lovestage2014_1
+i = Manner of death _1
+ligne :  27 Z/Mannerofdeath_1
+mot   :  1004 Z/Mannerofdeath_1
+carac :  5171 Z/Mannerofdeath_1
  
 i = The voice nl _11
 ligne :  66 Z/Thevoicenl_11
-mot   :  2113 Z/Thevoicenl_11
-carac :  10967 Z/Thevoicenl_11
+mot   :  2098 Z/Thevoicenl_11
+carac :  10832 Z/Thevoicenl_11
  
-i = Rpdru _9
-ligne :  33 Z/Rpdru_9
-mot   :  1041 Z/Rpdru_9
-carac :  5945 Z/Rpdru_9
+i = Love stage 2014 _1
+ligne :  66 Z/Lovestage2014_1
+mot   :  2410 Z/Lovestage2014_1
+carac :  11625 Z/Lovestage2014_1
+ 
+i = Druck _6
+ligne :  24 Z/Druck_6
+mot   :  961 Z/Druck_6
+carac :  5188 Z/Druck_6
  
 i = Friend.ship with kristsingto _1
 ligne :  30 Z/Friend.shipwithkristsingto_1
 mot   :  1084 Z/Friend.shipwithkristsingto_1
 carac :  5480 Z/Friend.shipwithkristsingto_1
  
-i = Druck _6
-ligne :  24 Z/Druck_6
-mot   :  970 Z/Druck_6
-carac :  5269 Z/Druck_6
+i = Rpdru _9
+ligne :  33 Z/Rpdru_9
+mot   :  1041 Z/Rpdru_9
+carac :  5945 Z/Rpdru_9
  
 i = Sea him _1
 ligne :  38 Z/Seahim_1
-mot   :  1394 Z/Seahim_1
-carac :  8132 Z/Seahim_1
- 
-i = From dusk till dawn _2
-ligne :  45 Z/Fromdusktilldawn_2
-mot   :  1669 Z/Fromdusktilldawn_2
-carac :  8087 Z/Fromdusktilldawn_2
- 
-i = History2 right or wrong _1
-ligne :  12 Z/History2rightorwrong_1
-mot   :  269 Z/History2rightorwrong_1
-carac :  1882 Z/History2rightorwrong_1
+mot   :  1367 Z/Seahim_1
+carac :  7889 Z/Seahim_1
  
 i = Happenstance _1
 ligne :  13 Z/Happenstance_1
-mot   :  501 Z/Happenstance_1
-carac :  3164 Z/Happenstance_1
+mot   :  492 Z/Happenstance_1
+carac :  3083 Z/Happenstance_1
+ 
+i = History2 right or wrong _1
+ligne :  12 Z/History2rightorwrong_1
+mot   :  259 Z/History2rightorwrong_1
+carac :  1776 Z/History2rightorwrong_1
+ 
+i = We best love _1
+ligne :  0 Z/Webestlove_1
+mot   :  0 Z/Webestlove_1
+carac :  0 Z/Webestlove_1
+ 
+i = TharnType _2
+ligne :  18 Z/TharnType_2
+mot   :  481 Z/TharnType_2
+carac :  3329 Z/TharnType_2
  
 i = Ghost runner _1
 ligne :  27 Z/Ghostrunner_1
-mot   :  1016 Z/Ghostrunner_1
-carac :  5370 Z/Ghostrunner_1
- 
-i = Manner of death _1
-ligne :  27 Z/Mannerofdeath_1
-mot   :  1013 Z/Mannerofdeath_1
-carac :  5252 Z/Mannerofdeath_1
+mot   :  1013 Z/Ghostrunner_1
+carac :  5343 Z/Ghostrunner_1
  
