@@ -20,8 +20,8 @@
   
 |titre|pays|nb ep vu|
 | --- | --- | :---: | 
-|skam france 7|france|0|
-|druck 6|allemagne|5|
+|skam france 7|france|1|
+|druck 6|allemagne|6|
 
 ## asie
 \* bl (side couple) <!-- -->  
@@ -122,7 +122,7 @@
 |we are not human|we are not human|24|serie|chine|18|<!-- 1 -->
 |the untamed|the untamed|50|serie|chine|2|<!-- 2 -->
 |long khong|long khong|8|serie(*)|thailande|3|<!-- 3 -->
-|the shipper|the shipper|12|serie|thailande|3|<!-- 4 -->
+|the shipper|the shipper|12|serie|thailande|4|<!-- 4 -->
 |so much in love|so much in love|12|serie|thailande|2|<!-- 6 -->
 |he's coming to me|he's coming to me|8|serie|thailande|2|<!-- 7 -->
 |blacklist|blacklist|13|serie(**)|thailande|1|<!-- 8 -->
@@ -133,7 +133,7 @@
 |capture lover|capture lover|?|serie|chine|2|<!-- 14 -->
 |friend zone|friend zone|?|serie(*)|thailande|3|<!-- 15 -->
 |boys lockdown|boys lockdown|6|serie|philippines|2|<!-- 16 -->
-|ben x jim|ben x jim|7|serie|philippines|1|<!-- 17 -->
+|ben x jim|ben x jim|7|serie|philippines|2|<!-- 17 -->
 |swap test|swap test|?|serie|philippines|2|<!-- 18 -->
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 19 -->
 |lakan|lakan|8|serie|philippines|4|<!-- 20 -->
@@ -141,21 +141,23 @@
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|3|<!-- 22 -->
 |history2.1|history2 right or wrong|8|serie|taiwan|4|<!-- 24 -->
 |be love|be love|4|serie|japon|2|<!-- 25 -->
-|manner of death|manner of death|12|serie|thailande|9|<!-- 27 -->
+|manner of death|manner of death|12|serie|thailande|10|<!-- 27 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
-|happenstance|happenstance|9|serie|philippines|4|<!-- 30 -->
+|happenstance|happenstance|9|serie|philippines|5|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
-|mako ventures|mako ventures|?|show|philippines|3|<!-- 33 -->
+|mako ventures|mako ventures|?|show|philippines|5|<!-- 33 -->
 |friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|4|<!-- 34 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
 |nation's brother|anh trai quoc dan|?|serie|vietnam|2|<!-- 36 -->
 |you are ma boy|em la chang trai cua anh|?|serie|vietnam|3|<!--  -->
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
-|we best love|we best love no1 for you|6|serie|taiwan|3|<!--  -->
+|we best love|we best love no1 for you|6|serie|taiwan|4|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door|pearl next door|8|serie(***)|philippines|2|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
 |to my star|to my star|9|serie|corée|3|<!--  -->
+|fools|NHỮNG KẺ KHỜ|?|serie|vietnam|1|<!-- -->
+|tien bromance||10|seie|vietnam|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -171,7 +173,6 @@
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|<!-- -->
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
-|fools|NHỮNG KẺ KHỜ|?|serie|vietnam|0|<!-- -->
 |liens ? subs ?||||||<!-- -->
 |you never eat alone|you never eat alone|?|serie(*)|thailande|0|<!-- 22/12 -->
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
@@ -182,7 +183,7 @@
 |1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- 29/01 -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
-|you make me dance|you make me dance|?|serie|corée|0|<!-- 26/02 -->
+|you make me dance|you make me dance|8|serie|corée|0|<!-- 26/02 -->
 |brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|0|<!-- 05/03 -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
@@ -229,7 +230,9 @@
 |gameboys 2|gameboys 2|?|serie|philippines|0|
 |cheat 2|cheat 2|?|serie|philippines|0|
 |my extraordinary 2|a kiss 2 remember|12|serie|philippines|0|<!-- -->
+|turbulance|turbulance|?|serie|philippines|0|
 |taiwan||||||
+|||||||
 |||||||
 |||||||
 |||||||

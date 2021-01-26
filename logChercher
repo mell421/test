@@ -1,74 +1,94 @@
  
 
 i = Lls _1
-ligne :  684 Z/Lls_1
-mot   :  12951 Z/Lls_1
-carac :  67489 Z/Lls_1
+ligne :  720 Z/Lls_1
+mot   :  14826 Z/Lls_1
+carac :  75551 Z/Lls_1
  
 i = Unbag _1
-ligne :  155 Z/Unbag_1
-mot   :  4357 Z/Unbag_1
-carac :  23468 Z/Unbag_1
- 
-i = Sweet home _1
-ligne :  70 Z/Sweethome_1
-mot   :  2388 Z/Sweethome_1
-carac :  11606 Z/Sweethome_1
+ligne :  179 Z/Unbag_1
+mot   :  5738 Z/Unbag_1
+carac :  29558 Z/Unbag_1
  
 i = Manner of death _1
-ligne :  27 Z/Mannerofdeath_1
-mot   :  1004 Z/Mannerofdeath_1
-carac :  5171 Z/Mannerofdeath_1
+ligne :  59 Z/Mannerofdeath_1
+mot   :  2786 Z/Mannerofdeath_1
+carac :  13192 Z/Mannerofdeath_1
  
 i = The voice nl _11
-ligne :  66 Z/Thevoicenl_11
-mot   :  2098 Z/Thevoicenl_11
-carac :  10832 Z/Thevoicenl_11
+ligne :  83 Z/Thevoicenl_11
+mot   :  3188 Z/Thevoicenl_11
+carac :  15898 Z/Thevoicenl_11
+ 
+i = Sweet home _1
+ligne :  80 Z/Sweethome_1
+mot   :  3068 Z/Sweethome_1
+carac :  14716 Z/Sweethome_1
+ 
+i = Druck _6
+ligne :  44 Z/Druck_6
+mot   :  2189 Z/Druck_6
+carac :  10995 Z/Druck_6
+ 
+i = Friend.ship with kristsingto _1
+ligne :  44 Z/Friend.shipwithkristsingto_1
+mot   :  2031 Z/Friend.shipwithkristsingto_1
+carac :  10151 Z/Friend.shipwithkristsingto_1
  
 i = Love stage 2014 _1
 ligne :  66 Z/Lovestage2014_1
 mot   :  2410 Z/Lovestage2014_1
 carac :  11625 Z/Lovestage2014_1
  
-i = Druck _6
-ligne :  24 Z/Druck_6
-mot   :  961 Z/Druck_6
-carac :  5188 Z/Druck_6
- 
-i = Friend.ship with kristsingto _1
-ligne :  30 Z/Friend.shipwithkristsingto_1
-mot   :  1084 Z/Friend.shipwithkristsingto_1
-carac :  5480 Z/Friend.shipwithkristsingto_1
- 
 i = Rpdru _9
-ligne :  33 Z/Rpdru_9
-mot   :  1041 Z/Rpdru_9
-carac :  5945 Z/Rpdru_9
- 
-i = Sea him _1
-ligne :  38 Z/Seahim_1
-mot   :  1367 Z/Seahim_1
-carac :  7889 Z/Seahim_1
+ligne :  42 Z/Rpdru_9
+mot   :  1578 Z/Rpdru_9
+carac :  8843 Z/Rpdru_9
  
 i = Happenstance _1
-ligne :  13 Z/Happenstance_1
-mot   :  492 Z/Happenstance_1
-carac :  3083 Z/Happenstance_1
+ligne :  28 Z/Happenstance_1
+mot   :  1408 Z/Happenstance_1
+carac :  7603 Z/Happenstance_1
  
-i = History2 right or wrong _1
-ligne :  12 Z/History2rightorwrong_1
-mot   :  259 Z/History2rightorwrong_1
-carac :  1776 Z/History2rightorwrong_1
+i = Sea him _1
+ligne :  41 Z/Seahim_1
+mot   :  1562 Z/Seahim_1
+carac :  8917 Z/Seahim_1
+ 
+i = Young sheldon _4
+ligne :  34 Z/Youngsheldon_4
+mot   :  1279 Z/Youngsheldon_4
+carac :  7480 Z/Youngsheldon_4
+ 
+i = Mako ventures _1
+ligne :  16 Z/Makoventures_1
+mot   :  1024 Z/Makoventures_1
+carac :  5227 Z/Makoventures_1
+ 
+i = Koishite akuma _1
+ligne :  15 Z/Koishiteakuma_1
+mot   :  875 Z/Koishiteakuma_1
+carac :  3951 Z/Koishiteakuma_1
  
 i = We best love _1
-ligne :  0 Z/Webestlove_1
-mot   :  0 Z/Webestlove_1
-carac :  0 Z/Webestlove_1
+ligne :  14 Z/Webestlove_1
+mot   :  848 Z/Webestlove_1
+carac :  4161 Z/Webestlove_1
+ 
+i = History2 right or wrong _1
+ligne :  22 Z/History2rightorwrong_1
+mot   :  783 Z/History2rightorwrong_1
+carac :  4215 Z/History2rightorwrong_1
+ 
+i = The masked singer uk _2
+ligne :  19 Z/Themaskedsingeruk_2
+mot   :  1100 Z/Themaskedsingeruk_2
+carac :  6369 Z/Themaskedsingeruk_2
  
 i = TharnType _2
-ligne :  18 Z/TharnType_2
-mot   :  481 Z/TharnType_2
-carac :  3329 Z/TharnType_2
+ligne :  23 Z/TharnType_2
+mot   :  805 Z/TharnType_2
+carac :  4905 Z/TharnType_2
  
 i = Ghost runner _1
 ligne :  27 Z/Ghostrunner_1
