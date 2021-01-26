@@ -157,7 +157,7 @@
 |warper series|warper series|?|show|thailande|1|<!--  -->
 |to my star|to my star|9|serie|corée|3|<!--  -->
 |fools|NHỮNG KẺ KHỜ|?|serie|vietnam|1|<!-- -->
-|tien bromance||10|seie|vietnam|1|<!--  -->
+|tien bromance||10|serie|vietnam|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

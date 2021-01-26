@@ -21,7 +21,6 @@ Koishite akuma 1x3
 * Dancing on ice uk 13x1
 The voice no 6x2
 * The voice no 6x1
-Sweet home 1x6
 Friend.ship with kristsingto 1x4
 Druck 6x5
 The voice uk 10x3
@@ -68,7 +67,6 @@ From dusk till dawn 2x3
 * From dusk till dawn 2x1
 Lakan 1x4
 * Love stage 2014 1x1
-* Sweet home 1x1
 * Druck 6x1
 * A queen is born 1x1
 * Tale of the nine tailed 1x1
