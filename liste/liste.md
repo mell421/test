@@ -272,7 +272,8 @@
 |color rush|color rush|8|serie|corée|<!-- 32 -->
 |thonhon chonlathee|thonhon chonlathee|10|serie|thailande|<!-- 23 -->
 |sweet home 1||10|||<!--  -->
-||||||
+|bonding 2||8|||
+|friend.ship with krist-singto|friend.ship with krist-singto|6+2|show|thailande|<!-- 34 -->
 ||||||
 ||||||
 ||||||
@@ -430,7 +431,6 @@
 |TMD 1|||||3|<!--  -->
 |TV BE 9|||||3|<!--  -->
 |mako ventures|mako ventures|?|show|philippines|3|<!-- 33 -->
-|friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|4|<!-- 34 -->
 |RPDR 13|||||3|<!--  -->
 |RPDRU 13|||||3|<!--  -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->

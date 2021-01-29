@@ -107,6 +107,7 @@
 |follow my sunshine|sau vat nang|5|serie|vietnam|<!-- 29 -->
 |color rush|color rush|8|serie|corée|<!-- 32 -->
 |thonhon chonlathee|thonhon chonlathee|10|serie|thailande|<!-- 23 -->
+|friend.ship with krist-singto|friend.ship with krist-singto|6+2|show|thailande|<!-- 34 -->
 ||||||
 ||||||
 ||||||
@@ -146,7 +147,6 @@
 |happenstance|happenstance|9|serie|philippines|5|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
 |mako ventures|mako ventures|?|show|philippines|5|<!-- 33 -->
-|friend.ship with krist-singto|friend.ship with krist-singto|?|show|thailande|4|<!-- 34 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
 |nation's brother|anh trai quoc dan|?|serie|vietnam|2|<!-- 36 -->
 |you are ma boy|em la chang trai cua anh|?|serie|vietnam|3|<!--  -->

@@ -21,7 +21,6 @@ Koishite akuma 1x3
 * Dancing on ice uk 13x1
 The voice no 6x2
 * The voice no 6x1
-Friend.ship with kristsingto 1x4
 Druck 6x5
 The voice uk 10x3
 Ninja warrior 5x3
@@ -51,7 +50,6 @@ Rpdru 9x7
 * Rpdru 13x1
 * Rpdr 13x1
 The shipper 1x3
-* Friend.ship with kristsingto 1x1
 * Mako ventures 1x1
 Ghost runner 1x4
 * The voice be 9x1
