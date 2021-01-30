@@ -23,7 +23,6 @@ The voice no 6x2
 * The voice no 6x1
 Druck 6x5
 The voice uk 10x3
-Ninja warrior 5x3
 The masked singer uk 2x4
 Rpdru 13x3
 Rpdr 13x3
@@ -45,7 +44,6 @@ Nation's brother 1x2
 Rpdru 9x7
 * Nation's brother 1x1
 * The voice uk 10x1
-* Ninja warrior 5x1
 * Together with me 1x1
 * Rpdru 13x1
 * Rpdr 13x1

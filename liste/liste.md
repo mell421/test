@@ -274,6 +274,7 @@
 |sweet home 1||10|||<!--  -->
 |bonding 2||8|||
 |friend.ship with krist-singto|friend.ship with krist-singto|6+2|show|thailande|<!-- 34 -->
+|ninja warrior 5||5|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -434,7 +435,6 @@
 |RPDR 13|||||3|<!--  -->
 |RPDRU 13|||||3|<!--  -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
-|ninja warrior 5|||||3|<!--  -->
 |TV UK 10|||||3|<!--  -->
 |nation's brother|anh trai quoc dan|?|serie|vietnam|2|<!-- 36 -->
 |RPDRU 9|||||7|<!--  -->
@@ -463,5 +463,32 @@
 |||||||<!--  -->
 |||||||<!--  -->
 
+
+
+## a venir
+ 
+|titre|titre officiel|nb ep|categorie|pays|nb vu|
+| --- | --- | :---: | --- | --- | --- |
+|top chef||?|||0|<!--  -->
+|TV ||?|||0|<!--  -->
+|KL||||||<!--  -->
+|TMS 5||||||<!--  -->
+|game of talents||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 
 [retour](./../index.html)

@@ -12,7 +12,7 @@ listBis=( "The voice no _6" "To my star _1" "The masked dancer _1" "Friend zone 
 "The voice be _9" "Pearl next door _1" 
 "The voice uk _10" "Rpdr _13" 
 "Rpdru _13" "You are ma boy _1" "Capture lover _1" 
-"Dancing on ice uk _13" "Ninja warrior _5" "Name that tune _1" )
+"Dancing on ice uk _13" "Name that tune _1" )
 
 listAtt=( "Friend forever _1" "My vampire boyfriend _1" "Blood _1" 
 "Pogi lang hanap _1" "Be love _1" "Lakan _1" "From dusk till dawn _2" )
