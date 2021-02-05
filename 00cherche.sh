@@ -8,7 +8,7 @@ list=( "Lls _1"
 "Sea him _1" "Young sheldon _4" "Mako ventures _1" "Koishite akuma _1" "We best love _1" "History2 right or wrong _1" "The masked singer uk _2" "TharnType _2" "Ghost runner _1" )
 
 # entre 4 et 9
-listBis=( "The voice no _6" "To my star _1" "The masked dancer _1" "Friend zone _1" "Nations brother _1" 
+listBis=( "The voice no _6" "The masked dancer _1" "Friend zone _1" "Nations brother _1" 
 "The voice be _9" "Pearl next door _1" 
 "The voice uk _10" "Rpdr _13" 
 "Rpdru _13" "You are ma boy _1" "Capture lover _1" 

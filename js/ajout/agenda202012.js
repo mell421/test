@@ -10,7 +10,7 @@ document.write(`
               <td>1<br>TGDO 405<br>gen y 104</td>
               <td>2</td>
               <td>3</td>
-              <td>4<br>tharnType 205</td>
+              <td>4</td>
               <td>5<br><span class="fin">friend forever 112</span></td>
               <td>6</td>
           </tr>
@@ -34,7 +34,7 @@ document.write(`
           </tr>
           <tr>
               <td>21</td>
-              <td>22<br><span class="debut">you never eat alone 101</span></td>
+              <td>22</td>
               <td>23<br>gen y 107</td>
               <td>24</td>
               <td>25<br>tharnType 208</td>

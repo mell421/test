@@ -108,6 +108,7 @@
 |color rush|color rush|8|serie|corée|<!-- 32 -->
 |thonhon chonlathee|thonhon chonlathee|10|serie|thailande|<!-- 23 -->
 |friend.ship with krist-singto|friend.ship with krist-singto|6+2|show|thailande|<!-- 34 -->
+|to my star|to my star|9|serie|corée|<!--  -->
 ||||||
 ||||||
 ||||||
@@ -153,11 +154,15 @@
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
 |we best love|we best love no1 for you|6|serie|taiwan|4|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
-|pearl next door|pearl next door|8|serie(***)|philippines|2|<!--  -->
+|pearl next door|pearl next door|8|serie(gl)|philippines|2|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
-|to my star|to my star|9|serie|corée|3|<!--  -->
 |fools|NHỮNG KẺ KHỜ|?|serie|vietnam|1|<!-- -->
 |tien bromance||10|serie|vietnam|1|<!--  -->
+|1000 stars|a tales of 1000 stars|?|serie|thailande|1|<!--  -->
+|slam dance|slam dance|?|serie(*)|thailande|1|<!--  -->
+|you never eat alone|you never eat alone|?|serie(*)|thailande|1|<!--  -->
+|school's out let's date now||?|serie(gl/bl)|vietnam|1|<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -174,13 +179,11 @@
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
 |liens ? subs ?||||||<!-- -->
-|you never eat alone|you never eat alone|?|serie(*)|thailande|0|<!-- 22/12 -->
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
 |||||||<!-- -->
 |2021||||||<!-- -->
 |the night beyond the tricornered window|the night beyond the tricornered window|?|serie|japon|0|<!-- 22/01 -->
-|1000 stars|a tales of 1000 stars|?|serie|thailande|0|<!-- 29/01 -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |you make me dance|you make me dance|8|serie|corée|0|<!-- 26/02 -->
@@ -200,7 +203,7 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |corée||||||<!-- -->
-|I just slept|I just slept|?|serie(***)|corée|0|<!-- -->
+|I just slept|I just slept|?|serie(gl)|corée|0|<!-- -->
 |semantic error|semantic error|?|serie|corée|0|<!-- -->
 |vietnam||||||<!-- -->
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
