@@ -5,7 +5,7 @@
 # >= 10
 list=( "Lls _1" 
 "Unbag _1" "Manner of death _1" "The voice nl _11" "Druck _6" "Love stage 2014 _1" "Rpdru _9" "Happenstance _1" 
-"Sea him _1" "Young sheldon _4" "Mako ventures _1" "Koishite akuma _1" "We best love _1" "History2 right or wrong _1" "The masked singer uk _2" "TharnType _2" "Ghost runner _1" )
+"Sea him _1" "Young sheldon _4" "Mako ventures _1" "Koishite akuma _1" "History2 right or wrong _1" "The masked singer uk _2" "TharnType _2" "Ghost runner _1" )
 
 # entre 4 et 9
 listBis=( "The voice no _6" "The masked dancer _1" "Friend zone _1" "Nations brother _1" 

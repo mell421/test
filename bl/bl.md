@@ -107,8 +107,9 @@
 |follow my sunshine|sau vat nang|5|serie|vietnam|<!-- 29 -->
 |color rush|color rush|8|serie|corée|<!-- 32 -->
 |thonhon chonlathee|thonhon chonlathee|10|serie|thailande|<!-- 23 -->
-|friend.ship with krist-singto|friend.ship with krist-singto|6+2|show|thailande|<!-- 34 -->
+|friend.ship with krist-singto|friend.ship with krist-singto|6+3|show|thailande|<!-- 34 -->
 |to my star|to my star|9|serie|corée|<!--  -->
+|we best love|we best love no1 for you|6|serie|taiwan|<!--  -->
 ||||||
 ||||||
 ||||||
@@ -150,13 +151,12 @@
 |mako ventures|mako ventures|?|show|philippines|5|<!-- 33 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
 |nation's brother|anh trai quoc dan|?|serie|vietnam|2|<!-- 36 -->
-|you are ma boy|em la chang trai cua anh|?|serie|vietnam|3|<!--  -->
+|you are ma boy|em la chang trai cua anh|6|serie|vietnam|3|<!--  -->
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
-|we best love|we best love no1 for you|6|serie|taiwan|4|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door|pearl next door|8|serie(gl)|philippines|2|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
-|fools|NHỮNG KẺ KHỜ|?|serie|vietnam|1|<!-- -->
+|fools|NHỮNG KẺ KHỜ|4|serie|vietnam|1|<!-- -->
 |tien bromance||10|serie|vietnam|1|<!--  -->
 |1000 stars|a tales of 1000 stars|?|serie|thailande|1|<!--  -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--  -->

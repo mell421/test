@@ -21,7 +21,6 @@ Happenstance 1x6
 Rpdru 13x5
 Rpdr 13x5
 Skam fr 7x2
-We best love 1x5
 * 1000 stars 1x1
 Rpdruk 2x3
 Unbag 1x14
@@ -49,7 +48,6 @@ Pearl next door 1x2
 * Pearl next door 1x1
 * Romantic blue 1x1
 History2 right or wrong 1x4
-* We best love 1x1
 * Unlocked 1x1
 * Name that tune 1x1
 Friend zone 1x3

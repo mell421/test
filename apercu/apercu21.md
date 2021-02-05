@@ -10,11 +10,11 @@
 #### sem 04-01-2021 
 Rpdru _9x8(1) Nations brother _1x2(1) The voice uk _10x2(1) The masked singer uk _2x3(1) Together with me _1x2(1) Druck _6x4(1) Rpdru _13x2(1) Rpdr _13x2(1) The shipper _1x4(1) Mako ventures _1x2(1) Happenstance _1x3(1) Unbag _1x13(1) Sea him _1x6(1) Ghost runner _1x5(1) Friend zone _1x3(1) The voice be _9x2(1) Love stage 2014 _1x6(2) Joséphine ange gardien _23x5(1) 
 #### sem 11-01-2021 
-The voice uk _10x3(1) We best love _1x3(2) The masked singer uk _2x4(1) Druck _6x5(1) Romantic blue _1x2(1) Rpdru _13x3(1) Rpdr _13x3(1) History2 right or wrong _1x5(2) TharnType _2x5(1) Mako ventures _1x3(1) Happenstance _1x4(1) Unlocked _1x2(1) Name that tune _1x2(1) The masked dancer _1x3(1) Friend zone _1x4(1) You are ma boy _1x2(1) The voice be _9x3(1) Nations brother _1x3(1) 
+The voice uk _10x3(1) The masked singer uk _2x4(1) Druck _6x5(1) Romantic blue _1x2(1) Rpdru _13x3(1) Rpdr _13x3(1) History2 right or wrong _1x5(2) TharnType _2x5(1) Mako ventures _1x3(1) Happenstance _1x4(1) Unlocked _1x2(1) Name that tune _1x2(1) The masked dancer _1x3(1) Friend zone _1x4(1) You are ma boy _1x2(1) The voice be _9x3(1) Nations brother _1x3(1) 
 #### sem 18-01-2021 -> 
-Koishite akuma _1x4(3) Dancing on ice uk _13x2(1) The voice no _6x3(2) Druck _6x6(1) The voice nl _11x7(1) The voice uk _10x4(1) The masked singer uk _2x5(1) Mako ventures _1x4(1) Rpdru _13x4(1) Rpdr _13x4(1) We best love _1x4(1) Sea him _1x7(1) Warper series _1x2(1) Rpdruk _2x2(1) Happenstance _1x5(1) Unbag _1x14(1) Name that tune _1x3(1) The masked dancer _1x4(1) The voice be _9x4(1) Pearl next door _1x3(2) You are ma boy _1x3(1) Manner of death _1x9(4) 
+Koishite akuma _1x4(3) Dancing on ice uk _13x2(1) The voice no _6x3(2) Druck _6x6(1) The voice nl _11x7(1) The voice uk _10x4(1) The masked singer uk _2x5(1) Mako ventures _1x4(1) Rpdru _13x4(1) Rpdr _13x4(1) Sea him _1x7(1) Warper series _1x2(1) Rpdruk _2x2(1) Happenstance _1x5(1) Unbag _1x14(1) Name that tune _1x3(1) The masked dancer _1x4(1) The voice be _9x4(1) Pearl next door _1x3(2) You are ma boy _1x3(1) Manner of death _1x9(4) 
 #### sem 25-01-2021 
-Dancing on ice uk _13x3(1) Tien bromance _1x2(1) Druck _6x7(1) The voice uk _10x5(1) Ben x jim _1x3(1) The voice no _6x4(1) The masked singer uk _2x6(1) Fools _1x2(1) Mako ventures _1x6(2) Rpdru _13x5(1) Rpdr _13x5(1) Skam fr _7x2(1) We best love _1x5(1) Young sheldon _4x7(1) Name that tune _1x4(1) Rpdruk _2x3(1) Happenstance _1x6(1) The masked dancer _1x5(1) The voice be _9x5(1) You are ma boy _1x4(1) /9-1-1 lone star _2x2(1) /9-1-1 _4x2(1) The voice nl _11x8(1) Manner of death _1x10(1) 
+Dancing on ice uk _13x3(1) Tien bromance _1x2(1) Druck _6x7(1) The voice uk _10x5(1) Ben x jim _1x3(1) The voice no _6x4(1) The masked singer uk _2x6(1) Fools _1x2(1) Mako ventures _1x6(2) Rpdru _13x5(1) Rpdr _13x5(1) Skam fr _7x2(1) Young sheldon _4x7(1) Name that tune _1x4(1) Rpdruk _2x3(1) Happenstance _1x6(1) The masked dancer _1x5(1) The voice be _9x5(1) You are ma boy _1x4(1) /9-1-1 lone star _2x2(1) /9-1-1 _4x2(1) The voice nl _11x8(1) Manner of death _1x10(1) 
 
 
 
@@ -56,11 +56,11 @@ Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend 
 ### conclu 09/01/21 
 > History2 right or wrong _1 > 4; Lls _1 > 3; Rpdru _9 > 2; Happenstance _1 > 1; We are not human _1 > 1; 
 ### conclu 10/01/21 
-> Lls _1 > 3; Druck _6 > 2; We are not human _1 > 2; We best love _1 > 2; History2 right or wrong _1 > 1; Rpdru _9 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; Druck _6 > 2; We are not human _1 > 2; History2 right or wrong _1 > 1; Rpdru _9 > 1; Survivor au _7 > 1; 
 ### conclu 11/01/21 
-> Druck _6 > 3; Lls _1 > 3; We are not human _1 > 2; We best love _1 > 2; History2 right or wrong _1 > 1; Survivor au _7 > 1; 
+> Druck _6 > 3; Lls _1 > 3; We are not human _1 > 2; History2 right or wrong _1 > 1; Survivor au _7 > 1; 
 ### conclu 12/01/21 
-> Manner of death _1 > 9; Druck _6 > 3; Lls _1 > 3; Rpdru _9 > 2; We are not human _1 > 2; We best love _1 > 2; History2 right or wrong _1 > 1; Survivor au _7 > 1; 
+> Manner of death _1 > 9; Druck _6 > 3; Lls _1 > 3; Rpdru _9 > 2; We are not human _1 > 2; History2 right or wrong _1 > 1; Survivor au _7 > 1; 
 ### conclu 13/01/21 
 > Manner of death _1 > 9; Druck _6 > 3; Lls _1 > 3; The voice be _9 > 2; We are not human _1 > 2; Pearl next door _1 > 1; Survivor au _7 > 1; 
 ### conclu 14/01/21 
@@ -68,7 +68,7 @@ Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend 
 ### conclu 15/01/21 
 > Manner of death _1 > 8; Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Happenstance _1 > 1; Pearl next door _1 > 1; Survivor au _7 > 1; 
 ### conclu 16/01/21 
-> Manner of death _1 > 7; Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; We best love _1 > 1; 
+> Manner of death _1 > 7; Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; 
 ### conclu 17/01/21 
 > Manner of death _1 > 6; Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; 
 ### conclu 18/01/21 
@@ -119,19 +119,19 @@ Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend 
 ### concluBis 09/01/21 
 > History2 right or wrong _1 > 8; Lls _1 > 5; Rpdru _9 > 4; Happenstance _1 > 3; We are not human _1 > 3; TharnType _2 > 2; Nations brother _1 > 2; Survivor au _7 > 2; Rpdru _13 > 1; Kaamelott _5 > 1; 
 ### concluBis 10/01/21 
-> Druck _6 > 6; Lls _1 > 5; History2 right or wrong _1 > 4; We best love _1 > 4; We are not human _1 > 4; Rpdru _9 > 3; Survivor au _7 > 3; The masked singer uk _2 > 2; Kaamelott _5 > 2; Happenstance _1 > 1; Unbag _1 > 1; 
+> Druck _6 > 6; Lls _1 > 5; History2 right or wrong _1 > 4; We are not human _1 > 4; Rpdru _9 > 3; Survivor au _7 > 3; The masked singer uk _2 > 2; Kaamelott _5 > 2; Happenstance _1 > 1; Unbag _1 > 1; 
 ### concluBis 11/01/21 
-> Druck _6 > 7; History2 right or wrong _1 > 5; Lls _1 > 5; We best love _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; The masked singer uk _2 > 2; TharnType _2 > 1; Happenstance _1 > 1; The voice uk _10 > 1; Kaamelott _5 > 1; 
+> Druck _6 > 7; History2 right or wrong _1 > 5; Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; The masked singer uk _2 > 2; TharnType _2 > 1; Happenstance _1 > 1; The voice uk _10 > 1; Kaamelott _5 > 1; 
 ### concluBis 12/01/21 
-> Manner of death _1 > 15; Druck _6 > 7; History2 right or wrong _1 > 5; Lls _1 > 5; Rpdru _9 > 4; We best love _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; The masked singer uk _2 > 2; Kaamelott _5 > 2; TharnType _2 > 1; Happenstance _1 > 1; The voice uk _10 > 1; Unbag _1 > 1; 
+> Manner of death _1 > 15; Druck _6 > 7; History2 right or wrong _1 > 5; Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 4; Survivor au _7 > 3; The masked singer uk _2 > 2; Kaamelott _5 > 2; TharnType _2 > 1; Happenstance _1 > 1; The voice uk _10 > 1; Unbag _1 > 1; 
 ### concluBis 13/01/21 
-> Manner of death _1 > 15; Druck _6 > 7; The voice be _9 > 6; Lls _1 > 5; We are not human _1 > 4; Pearl next door _1 > 3; Survivor au _7 > 3; History2 right or wrong _1 > 2; You are ma boy _1 > 2; Kaamelott _5 > 2; TharnType _2 > 1; We best love _1 > 1; Unbag _1 > 1; 
+> Manner of death _1 > 15; Druck _6 > 7; The voice be _9 > 6; Lls _1 > 5; We are not human _1 > 4; Pearl next door _1 > 3; Survivor au _7 > 3; History2 right or wrong _1 > 2; You are ma boy _1 > 2; Kaamelott _5 > 2; TharnType _2 > 1; Unbag _1 > 1; 
 ### concluBis 14/01/21 
 > Manner of death _1 > 14; Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; Kaamelott _5 > 2; Druck _6 > 1; Pearl next door _1 > 1; Unbag _1 > 1; 
 ### concluBis 15/01/21 
-> Manner of death _1 > 14; Unbag _1 > 7; Lls _1 > 5; Happenstance _1 > 4; We are not human _1 > 4; Pearl next door _1 > 3; Survivor au _7 > 3; We best love _1 > 2; Druck _6 > 1; Rpdruk _2 > 1; Kaamelott _5 > 1; 
+> Manner of death _1 > 14; Unbag _1 > 7; Lls _1 > 5; Happenstance _1 > 4; We are not human _1 > 4; Pearl next door _1 > 3; Survivor au _7 > 3; Druck _6 > 1; Rpdruk _2 > 1; Kaamelott _5 > 1; 
 ### concluBis 16/01/21 
-> Manner of death _1 > 13; Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; We best love _1 > 3; Survivor au _7 > 3; Sea him _1 > 2; Happenstance _1 > 2; Pearl next door _1 > 1; Kaamelott _5 > 1; 
+> Manner of death _1 > 13; Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; Sea him _1 > 2; Happenstance _1 > 2; Pearl next door _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 17/01/21 
 > Manner of death _1 > 12; Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; The voice nl _11 > 2; Druck _6 > 2; Pearl next door _1 > 2; Sea him _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 18/01/21 
@@ -145,7 +145,7 @@ Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend 
 ### concluBis 22/01/21 
 > Manner of death _1 > 10; The voice nl _11 > 5; Lls _1 > 5; Mako ventures _1 > 4; Koishite akuma _1 > 4; We are not human _1 > 4; Happenstance _1 > 3; Survivor au _7 > 3; Young sheldon _4 > 2; The masked dancer _1 > 2; Unbag _1 > 2; The voice no _6 > 1; Kaamelott _5 > 1; 
 ### concluBis 23/01/21 
-> Manner of death _1 > 10; The voice nl _11 > 6; Happenstance _1 > 5; Lls _1 > 5; Koishite akuma _1 > 4; We are not human _1 > 4; Young sheldon _4 > 3; Rpdr _13 > 3; Mako ventures _1 > 3; Survivor au _7 > 3; We best love _1 > 2; Unbag _1 > 2; The masked dancer _1 > 1; The voice no _6 > 1; Kaamelott _5 > 1; 
+> Manner of death _1 > 10; The voice nl _11 > 6; Happenstance _1 > 5; Lls _1 > 5; Koishite akuma _1 > 4; We are not human _1 > 4; Young sheldon _4 > 3; Rpdr _13 > 3; Mako ventures _1 > 3; Survivor au _7 > 3; Unbag _1 > 2; The masked dancer _1 > 1; The voice no _6 > 1; Kaamelott _5 > 1; 
 ### concluBis 24/01/21 
 > Manner of death _1 > 10; Druck _6 > 8; The voice no _6 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Koishite akuma _1 > 3; Survivor au _7 > 3; Young sheldon _4 > 2; The masked singer uk _2 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 25/01/21 

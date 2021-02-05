@@ -273,9 +273,10 @@
 |thonhon chonlathee|thonhon chonlathee|10|serie|thailande|<!-- 23 -->
 |sweet home 1||10|||<!--  -->
 |bonding 2||8|||
-|friend.ship with krist-singto|friend.ship with krist-singto|6+2|show|thailande|<!-- 34 -->
+|friend.ship with krist-singto|friend.ship with krist-singto|6+3|show|thailande|<!-- 34 -->
 |ninja warrior 5||5|||<!--  -->
 |to my star 1||9|||<!--  -->
+|we best love|we best love no1 for you|6|serie|taiwan|<!--  -->
 ||||||
 ||||||
 ||||||
@@ -439,10 +440,9 @@
 |TV UK 10|||||3|<!--  -->
 |nation's brother|anh trai quoc dan|?|serie|vietnam|2|<!-- 36 -->
 |RPDRU 9|||||7|<!--  -->
-|you are ma boy|em la chang trai cua anh|?|serie|vietnam|3|<!--  -->
+|you are ma boy|em la chang trai cua anh|6|serie|vietnam|3|<!--  -->
 |name that tune 1|||||2|<!--  -->
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
-|we best love|we best love no1 for you|6|serie|taiwan|3|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door|pearl next door|8|serie(***)|philippines|2|<!--  -->
 |RPDRUK 2|||||1|<!--  -->
