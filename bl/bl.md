@@ -110,6 +110,7 @@
 |friend.ship with krist-singto|friend.ship with krist-singto|6+3|show|thailande|<!-- 34 -->
 |to my star|to my star|9|serie|corée|<!--  -->
 |we best love|we best love no1 for you|6|serie|taiwan|<!--  -->
+|fools|NHỮNG KẺ KHỜ|4|serie|vietnam|<!-- -->
 ||||||
 ||||||
 ||||||
@@ -140,28 +141,27 @@
 |swap test|swap test|?|serie|philippines|2|<!-- 18 -->
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 19 -->
 |lakan|lakan|8|serie|philippines|4|<!-- 20 -->
-|sea him|uoc hen lang chai|10|serie|vietnam|6|<!-- 21 -->
-|tharnType 2|tharnType 7 years of love|13|serie|thailande|3|<!-- 22 -->
+|sea him|uoc hen lang chai|10|serie|vietnam|7|<!-- 21 -->
+|tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 22 -->
 |history2.1|history2 right or wrong|8|serie|taiwan|4|<!-- 24 -->
-|be love|be love|4|serie|japon|2|<!-- 25 -->
-|manner of death|manner of death|12|serie|thailande|10|<!-- 27 -->
+|be love|be love|4|serie|japon|3|<!-- 25 -->
+|manner of death|manner of death|14|serie|thailande|11|<!-- 27 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
-|happenstance|happenstance|9|serie|philippines|5|<!-- 30 -->
+|happenstance|happenstance|9|serie|philippines|7|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
-|mako ventures|mako ventures|?|show|philippines|5|<!-- 33 -->
+|mako ventures|mako ventures|?|show|philippines|7|<!-- 33 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
-|nation's brother|anh trai quoc dan|?|serie|vietnam|2|<!-- 36 -->
-|you are ma boy|em la chang trai cua anh|6|serie|vietnam|3|<!--  -->
+|nation's brother|anh trai quoc dan|?|serie|vietnam|3|<!-- 36 -->
+|you are ma boy|em la chang trai cua anh|6|serie|vietnam|5|<!--  -->
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door|pearl next door|8|serie(gl)|philippines|2|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
-|fools|NHỮNG KẺ KHỜ|4|serie|vietnam|1|<!-- -->
 |tien bromance||10|serie|vietnam|1|<!--  -->
 |1000 stars|a tales of 1000 stars|?|serie|thailande|1|<!--  -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--  -->
 |you never eat alone|you never eat alone|?|serie(*)|thailande|1|<!--  -->
-|school's out let's date now||?|serie(gl/bl)|vietnam|1|<!--  -->
+|school's out let's date now||?|serie(gl/bl)|vietnam|2|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -184,7 +184,7 @@
 |||||||<!-- -->
 |2021||||||<!-- -->
 |the night beyond the tricornered window|the night beyond the tricornered window|?|serie|japon|0|<!-- 22/01 -->
-|lovely writer|lovely writer|?|serie|thailande|0|<!--14/02 -->
+|lovely writer|lovely writer|?|serie|thailande|0|<!--26/02 -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |you make me dance|you make me dance|8|serie|corée|0|<!-- 26/02 -->
 |brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->

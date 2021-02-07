@@ -8,7 +8,6 @@ The voice be 9x6
 * You never eat alone 1x1
 * Slam dance 1x1
 Manner of death 1x11
-Fools 1x3
 You are ma boy 1x4
 The voice uk 10x5
 Be love 1x3
@@ -32,7 +31,6 @@ Dancing on ice uk 13x2
 * Tien bromance 1x1
 Druck 6x6
 Ben x jim 1x2
-* Fools 1x1
 * Skam fr 7x1
 Young sheldon 4x6
 * 911 lone star 2x1

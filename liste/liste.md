@@ -277,6 +277,7 @@
 |ninja warrior 5||5|||<!--  -->
 |to my star 1||9|||<!--  -->
 |we best love|we best love no1 for you|6|serie|taiwan|<!--  -->
+|fools 1||4|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -438,29 +439,28 @@
 |RPDRU 13|||||3|<!--  -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
 |TV UK 10|||||3|<!--  -->
-|nation's brother|anh trai quoc dan|?|serie|vietnam|2|<!-- 36 -->
+|nation's brother|anh trai quoc dan|?|serie|vietnam|3|<!-- 36 -->
 |RPDRU 9|||||7|<!--  -->
-|you are ma boy|em la chang trai cua anh|6|serie|vietnam|3|<!--  -->
+|you are ma boy|em la chang trai cua anh|6|serie|vietnam|5|<!--  -->
 |name that tune 1|||||2|<!--  -->
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door|pearl next door|8|serie(***)|philippines|2|<!--  -->
-|RPDRUK 2|||||1|<!--  -->
+|RPDRUK 2|||||3|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
-|TV NO 6|||||2|<!--  -->
-|dancing on ice uk 13|||||1|<!--  -->
+|TV NO 6|||||5|<!--  -->
+|dancing on ice uk 13|||||3|<!--  -->
 |koishite akuma 1|||||3|<!--  -->
-|911 4|||||1|<!--  -->
-|911 lone star 2|||||1|<!--  -->
-|skam fr 7||10|||1|<!--  -->
-|fools 1||?|||1|<!--  -->
+|911 4|||||3|<!--  -->
+|911 lone star 2|||||3|<!--  -->
+|skam fr 7||10|||2|<!--  -->
 |tien bromance 1||10|||1|<!--  -->
 |1000 stars||?|||1|<!--  -->
 |slam dance||?|||1|<!--  -->
 |you never eat alone||?|||1|<!--  -->
-|school's out let's date now||?|||1|<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
+|school's out let's date now||?|||2|<!--  -->
+|TV VV 7||16|||1|<!--  -->
+|TV FR 10||?|||1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -478,7 +478,7 @@
 |KL|||||0|<!--  -->
 |TMS 5|||||0|<!--  -->
 |game of talents|||||0|<!--  -->
-|||||||<!--  -->
+|PE 14||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
