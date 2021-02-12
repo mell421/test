@@ -180,7 +180,7 @@ A queen is born _1x2(1) The voice nl _11x4(1) Tale of the nine tailed _1x2(1)
 #### sem 21-12-2020 
 Ghost runner _1x4(2) The voice nl _11x5(1) Druck _6x2(1) Lls _1x95(8) Unbag _1x12(1) 
 #### sem 28-12-2020 
-Capture lover _1x3(1) Manner of death _1x5(3) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(2) Druck _6x3(1) Roommate _2x2(1) The voice nl _11x6(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Happenstance _1x2(1) Love stage 2014 _1x4(3) Lakan _1x5(2) Sea him _1x5(1) 
+Capture lover _1x3(1) Manner of death _1x5(3) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(2) Druck _6x3(1) Roommate _2x2(1) The voice nl _11x6(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Happenstance _1x2(1) Lakan _1x5(2) Sea him _1x5(1) 
 
 
 
@@ -432,7 +432,7 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) The voice nl _11
 ### conclu 22/12/20 
 > Lls _1 > 12; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 23/12/20 
-> Lls _1 > 10; Love stage 2014 _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 10; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 24/12/20 
 > Lls _1 > 10; We are not human _1 > 1; 
 ### conclu 25/12/20 
@@ -444,11 +444,11 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) The voice nl _11
 ### conclu 28/12/20 
 > Lls _1 > 9; Manner of death _1 > 3; From dusk till dawn _2 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 29/12/20 
-> Lls _1 > 9; Love stage 2014 _1 > 6; From dusk till dawn _2 > 1; We are not human _1 > 1; 
+> Lls _1 > 9; From dusk till dawn _2 > 1; We are not human _1 > 1; 
 ### conclu 30/12/20 
-> Lls _1 > 9; From dusk till dawn _2 > 1; Love stage 2014 _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 9; From dusk till dawn _2 > 1; We are not human _1 > 1; 
 ### conclu 31/12/20 
-> Lls _1 > 9; Love stage 2014 _1 > 3; Manner of death _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 9; Manner of death _1 > 1; We are not human _1 > 1; 
 
 
 
@@ -644,23 +644,23 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) The voice nl _11
 ### concluBis 22/12/20 
 > Lls _1 > 20; Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; The voice nl _11 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 23/12/20 
-> Lls _1 > 18; Unbag _1 > 3; Love stage 2014 _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; The voice nl _11 > 1; Lakan _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 18; Unbag _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; The voice nl _11 > 1; Lakan _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 24/12/20 
-> Lls _1 > 18; We are not human _1 > 3; Unbag _1 > 2; Survivor au _7 > 2; The voice nl _11 > 1; Love stage 2014 _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 18; We are not human _1 > 3; Unbag _1 > 2; Survivor au _7 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
 ### concluBis 25/12/20 
-> Lls _1 > 15; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Love stage 2014 _1 > 2; Survivor au _7 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 15; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
 ### concluBis 26/12/20 
-> Lls _1 > 15; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Love stage 2014 _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 15; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 27/12/20 
-> Lls _1 > 16; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Love stage 2014 _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 16; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 28/12/20 
-> Lls _1 > 15; Manner of death _1 > 7; The voice nl _11 > 4; Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Love stage 2014 _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 15; Manner of death _1 > 7; The voice nl _11 > 4; Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 29/12/20 
-> Lls _1 > 15; Love stage 2014 _1 > 12; The voice nl _11 > 3; Manner of death _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 15; The voice nl _11 > 3; Manner of death _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 30/12/20 
-> Lls _1 > 15; Love stage 2014 _1 > 4; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 15; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 31/12/20 
-> Lls _1 > 15; Love stage 2014 _1 > 8; Manner of death _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 15; Manner of death _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
 
 
 [retour](./../index.html)

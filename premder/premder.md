@@ -60,7 +60,6 @@ Rpdru 9x7
 * Mako ventures 1x1
 Ghost runner 1x4
 * The voice be 9x1
-Love stage 2014 1x5
 Joséphine ange gardien 23x4
 Capture lover 1x2
 * The masked dancer 1x1
@@ -70,7 +69,6 @@ From dusk till dawn 2x3
 * Happenstance 1x1
 * From dusk till dawn 2x1
 Lakan 1x4
-* Love stage 2014 1x1
 * Druck 6x1
 * A queen is born 1x1
 * Tale of the nine tailed 1x1

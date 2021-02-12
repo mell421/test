@@ -8,7 +8,7 @@
 
 ## Aperçu semaine
 #### sem 04-01-2021 
-Rpdru _9x8(1) Nations brother _1x2(1) The voice uk _10x2(1) The masked singer uk _2x3(1) Together with me _1x2(1) Druck _6x4(1) Rpdru _13x2(1) Rpdr _13x2(1) The shipper _1x4(1) Mako ventures _1x2(1) Happenstance _1x3(1) Unbag _1x13(1) Sea him _1x6(1) Ghost runner _1x5(1) Friend zone _1x3(1) The voice be _9x2(1) Love stage 2014 _1x6(2) Joséphine ange gardien _23x5(1) 
+Rpdru _9x8(1) Nations brother _1x2(1) The voice uk _10x2(1) The masked singer uk _2x3(1) Together with me _1x2(1) Druck _6x4(1) Rpdru _13x2(1) Rpdr _13x2(1) The shipper _1x4(1) Mako ventures _1x2(1) Happenstance _1x3(1) Unbag _1x13(1) Sea him _1x6(1) Ghost runner _1x5(1) Friend zone _1x3(1) The voice be _9x2(1) Joséphine ange gardien _23x5(1) 
 #### sem 11-01-2021 
 The voice uk _10x3(1) The masked singer uk _2x4(1) Druck _6x5(1) Romantic blue _1x2(1) Rpdru _13x3(1) Rpdr _13x3(1) History2 right or wrong _1x5(2) TharnType _2x5(1) Mako ventures _1x3(1) Happenstance _1x4(1) Unlocked _1x2(1) Name that tune _1x2(1) The masked dancer _1x3(1) Friend zone _1x4(1) You are ma boy _1x2(1) The voice be _9x3(1) Nations brother _1x3(1) 
 #### sem 18-01-2021 -> 
@@ -24,7 +24,7 @@ Dancing on ice uk _13x3(1) Tien bromance _1x2(1) Druck _6x7(1) The voice uk _10x
 
 ## apercu mois
 #### mois 01-01-2021 
-Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend zone _1x3(1) The voice be _9x2(1) Love stage 2014 _1x6(5) Joséphine ange gardien _23x5(1) Capture lover _1x3(1) Manner of death _1x5(4) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(10) Druck _6x3(2) Roommate _2x2(1) The voice nl _11x6(4) Young sheldon _4x6(2) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) TharnType _2x4(1) 
+Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend zone _1x3(1) The voice be _9x2(1) Joséphine ange gardien _23x5(1) Capture lover _1x3(1) Manner of death _1x5(4) The masked dancer _1x2(1) The masked singer uk _2x2(1) Lls _1x97(10) Druck _6x3(2) Roommate _2x2(1) The voice nl _11x6(4) Young sheldon _4x6(2) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) TharnType _2x4(1) 
 
 
 
@@ -38,15 +38,15 @@ Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend 
 
 ## conclu
 ### conclu 01/01/21 
-> Lls _1 > 9; Love stage 2014 _1 > 2; Unbag _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 9; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 02/01/21 
-> Lls _1 > 9; Druck _6 > 3; Love stage 2014 _1 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 9; Druck _6 > 3; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 03/01/21 
-> Lls _1 > 3; Unbag _1 > 3; Love stage 2014 _1 > 2; Sea him _1 > 2; We are not human _1 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; Sea him _1 > 2; We are not human _1 > 1; 
 ### conclu 04/01/21 
-> Lls _1 > 3; Unbag _1 > 3; Love stage 2014 _1 > 2; Rpdru _9 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; Rpdru _9 > 1; 
 ### conclu 05/01/21 
-> Lls _1 > 3; Unbag _1 > 3; Love stage 2014 _1 > 2; Rpdru _9 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; Rpdru _9 > 1; 
 ### conclu 06/01/21 
 > Lls _1 > 3; Unbag _1 > 3; Friend zone _1 > 2; Nations brother _1 > 1; Rpdru _9 > 1; 
 ### conclu 07/01/21 
@@ -101,15 +101,15 @@ Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend 
 ## conclu bis
 
 ### concluBis 01/01/21 
-> Lls _1 > 15; Love stage 2014 _1 > 6; Unbag _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Manner of death _1 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Happenstance _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 15; Unbag _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Manner of death _1 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Happenstance _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 02/01/21 
-> Lls _1 > 15; Druck _6 > 6; Love stage 2014 _1 > 4; Unbag _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 15; Druck _6 > 6; Unbag _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 03/01/21 
-> Love stage 2014 _1 > 8; Unbag _1 > 5; Lls _1 > 5; Sea him _1 > 4; We are not human _1 > 3; Druck _6 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Manner of death _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 5; Lls _1 > 5; Sea him _1 > 4; We are not human _1 > 3; Druck _6 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Manner of death _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 04/01/21 
-> Love stage 2014 _1 > 6; Unbag _1 > 5; Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; Sea him _1 > 2; Druck _6 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 5; Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; Sea him _1 > 2; Druck _6 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 05/01/21 
-> Unbag _1 > 5; Rpdru _9 > 5; Lls _1 > 5; Love stage 2014 _1 > 4; We are not human _1 > 3; Sea him _1 > 2; Druck _6 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 5; Rpdru _9 > 5; Lls _1 > 5; We are not human _1 > 3; Sea him _1 > 2; Druck _6 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 06/01/21 
 > Unbag _1 > 5; Lls _1 > 5; Friend zone _1 > 4; Rpdru _9 > 3; Nations brother _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Druck _6 > 1; You are ma boy _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 07/01/21 

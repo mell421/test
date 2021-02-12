@@ -124,7 +124,7 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |we are not human|we are not human|24|serie|chine|18|<!-- 1 -->
-|the untamed|the untamed|50|serie|chine|2|<!-- 2 -->
+|the untamed|the untamed|50|serie|chine|3|<!-- 2 -->
 |long khong|long khong|8|serie(*)|thailande|3|<!-- 3 -->
 |the shipper|the shipper|12|serie|thailande|4|<!-- 4 -->
 |so much in love|so much in love|12|serie|thailande|2|<!-- 6 -->
@@ -151,14 +151,14 @@
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
 |mako ventures|mako ventures|?|show|philippines|7|<!-- 33 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
-|nation's brother|anh trai quoc dan|?|serie|vietnam|3|<!-- 36 -->
+|nation's brother|anh trai quoc dan|6|serie|vietnam|3|<!-- 36 -->
 |you are ma boy|em la chang trai cua anh|6|serie|vietnam|5|<!--  -->
 |unlocked|unlocked|9|serie|philippines|1|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door|pearl next door|8|serie(gl)|philippines|2|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
 |tien bromance||10|serie|vietnam|1|<!--  -->
-|1000 stars|a tales of 1000 stars|?|serie|thailande|1|<!--  -->
+|1000 stars|a tales of 1000 stars|?|serie|thailande|2|<!--  -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--  -->
 |you never eat alone|you never eat alone|?|serie(*)|thailande|1|<!--  -->
 |school's out let's date now||?|serie(gl/bl)|vietnam|2|<!--  -->
