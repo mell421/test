@@ -145,7 +145,7 @@
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 22 -->
 |history2.1|history2 right or wrong|8|serie|taiwan|4|<!-- 24 -->
 |be love|be love|4|serie|japon|3|<!-- 25 -->
-|manner of death|manner of death|14|serie|thailande|11|<!-- 27 -->
+|manner of death|manner of death|14|serie|thailande|12|<!-- 27 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |happenstance|happenstance|9|serie|philippines|7|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
@@ -158,7 +158,7 @@
 |pearl next door|pearl next door|8|serie(gl)|philippines|2|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
 |tien bromance||10|serie|vietnam|1|<!--  -->
-|1000 stars|a tales of 1000 stars|?|serie|thailande|2|<!--  -->
+|1000 stars|a tales of 1000 stars|?|serie|thailande|3|<!--  -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--  -->
 |you never eat alone|you never eat alone|?|serie(*)|thailande|1|<!--  -->
 |school's out let's date now||?|serie(gl/bl)|vietnam|2|<!--  -->

@@ -11,7 +11,6 @@ Manner of death 1x11
 You are ma boy 1x4
 The voice uk 10x5
 Be love 1x3
-The masked singer uk 2x6
 TharnType 2x5
 Mako ventures 1x7
 The voice no 6x4
@@ -63,7 +62,6 @@ Ghost runner 1x4
 Joséphine ange gardien 23x4
 Capture lover 1x2
 * The masked dancer 1x1
-* The masked singer uk 2x1
 * Roommate 2x1
 From dusk till dawn 2x3
 * Happenstance 1x1
