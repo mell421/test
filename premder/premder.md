@@ -44,7 +44,6 @@ Sea him 1x6
 Pearl next door 1x2
 * Pearl next door 1x1
 * Romantic blue 1x1
-History2 right or wrong 1x4
 * Unlocked 1x1
 * Name that tune 1x1
 Friend zone 1x3
@@ -74,7 +73,6 @@ Lakan 1x4
 * Manner of death 1x1
 * Be love 1x1
 * The voice nl 11x1
-* History2 right or wrong 1x1
 Pogi lang hanap 1x4
 My vampire boyfriend 1x2
 * My vampire boyfriend 1x1

@@ -111,6 +111,7 @@
 |to my star|to my star|9|serie|corée|<!--  -->
 |we best love|we best love no1 for you|6|serie|taiwan|<!--  -->
 |fools|NHỮNG KẺ KHỜ|4|serie|vietnam|<!-- -->
+|history2.1|history2 right or wrong|8|serie|taiwan|<!-- 24 -->
 ||||||
 ||||||
 ||||||
@@ -143,7 +144,6 @@
 |lakan|lakan|8|serie|philippines|4|<!-- 20 -->
 |sea him|uoc hen lang chai|10|serie|vietnam|7|<!-- 21 -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 22 -->
-|history2.1|history2 right or wrong|8|serie|taiwan|4|<!-- 24 -->
 |be love|be love|4|serie|japon|3|<!-- 25 -->
 |manner of death|manner of death|14|serie|thailande|12|<!-- 27 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
@@ -178,6 +178,7 @@
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|<!-- -->
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
+|history2.2|history2 crossing the line|8|serie|taiwan|0|<!-- 24 -->
 |liens ? subs ?||||||<!-- -->
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->

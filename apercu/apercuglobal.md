@@ -170,9 +170,9 @@ Lakan _1x3(1) Pogi lang hanap _1x4(1) TharnType _2x2(1) Young sheldon _4x2(1) Un
 #### sem 16-11-2020 
 Sea him _1x3(1) My vampire boyfriend _1x3(2) Young sheldon _4x3(1) Unbag _1x9(1) 
 #### sem 23-11-2020 
-TharnType _2x3(1) Young sheldon _4x4(1) History2 right or wrong _1x2(1) Unbag _1x10(1) Pogi lang hanap _1x5(1) 
+TharnType _2x3(1) Young sheldon _4x4(1) Unbag _1x10(1) Pogi lang hanap _1x5(1) 
 #### sem 30-11-2020 
-History2 right or wrong _1x3(1) Be love _1x2(1) The voice nl _11x2(1) 
+Be love _1x2(1) The voice nl _11x2(1) 
 #### sem 07-12-2020 
 The voice nl _11x3(1) TharnType _2x4(1) Young sheldon _4x5(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
 #### sem 14-12-2020 
@@ -230,7 +230,7 @@ Friend forever _1x2(1) My day _1x2(1) Drag race holland _1x3(2) Unbag _1x5(3) Su
 #### mois 01-11-2020 
 Sea him _1x2(1) Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
-Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) The voice nl _11x2(1) TharnType _2x3(2) Young sheldon _4x4(3) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
+Be love _1x3(2) Sea him _1x4(2) The voice nl _11x2(1) TharnType _2x3(2) Young sheldon _4x4(3) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
 
 
 
@@ -598,7 +598,7 @@ Be love _1x3(2) Sea him _1x4(2) History2 right or wrong _1x3(2) The voice nl _11
 ### concluBis 29/11/20 
 > Lls _1 > 5; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 30/11/20 
-> Lls _1 > 5; We are not human _1 > 2; History2 right or wrong _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 5; We are not human _1 > 2; Survivor au _7 > 1; 
 ### concluBis 01/12/20 
 > Lls _1 > 5; Be love _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; 
 ### concluBis 02/12/20 
