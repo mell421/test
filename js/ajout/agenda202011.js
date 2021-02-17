@@ -37,7 +37,7 @@ document.write(`
       <td>24✔️<br>TGDO 404<br>gen y 103</td>
       <td>25✔️</td>
       <td>26✔️<br><span class="fin">ben x jim 107</span></td>
-      <td>27✔️<br>tharnType 204</td>
+      <td>27✔️</td>
       <td>28✔️<br>friend forever 111</td>
       <td>29✔️<br><span class="fin">boys lockdown 106</span></td>
   </tr>
@@ -46,5 +46,6 @@ document.write(`
       <td colspan="6"></td>
   </tr>
 </table>
+</p>
 <hr>
 `)

@@ -1,102 +1,82 @@
  
 
 i = Lls _1
-ligne :  624 Z/Lls_1
-mot   :  13622 Z/Lls_1
-carac :  69207 Z/Lls_1
- 
-i = Ingredients _1
-ligne :  609 Z/Ingredients_1
-mot   :  13634 Z/Ingredients_1
-carac :  70145 Z/Ingredients_1
+ligne :  720 Z/Lls_1
+mot   :  14319 Z/Lls_1
+carac :  73062 Z/Lls_1
  
 i = Unbag _1
-ligne :  117 Z/Unbag_1
-mot   :  3529 Z/Unbag_1
-carac :  19109 Z/Unbag_1
+ligne :  179 Z/Unbag_1
+mot   :  5369 Z/Unbag_1
+carac :  27657 Z/Unbag_1
  
-i = Gameboys _1
-ligne :  128 Z/Gameboys_1
-mot   :  3413 Z/Gameboys_1
-carac :  18615 Z/Gameboys_1
+i = Manner of death _1
+ligne :  59 Z/Mannerofdeath_1
+mot   :  2513 Z/Mannerofdeath_1
+carac :  11948 Z/Mannerofdeath_1
  
 i = The voice nl _11
-ligne :  61 Z/Thevoicenl_11
-mot   :  2171 Z/Thevoicenl_11
-carac :  10998 Z/Thevoicenl_11
+ligne :  83 Z/Thevoicenl_11
+mot   :  2993 Z/Thevoicenl_11
+carac :  14965 Z/Thevoicenl_11
  
-i = Cheat _1
-ligne :  43 Z/Cheat_1
-mot   :  1444 Z/Cheat_1
-carac :  6991 Z/Cheat_1
- 
-i = Offgun fun night _2
-ligne :  33 Z/Offgunfunnight_2
-mot   :  1430 Z/Offgunfunnight_2
-carac :  7097 Z/Offgunfunnight_2
- 
-i = Sweet home _1
-ligne :  30 Z/Sweethome_1
-mot   :  1114 Z/Sweethome_1
-carac :  5125 Z/Sweethome_1
- 
-i = Pogi lang hanap _1
-ligne :  40 Z/Pogilanghanap_1
-mot   :  1001 Z/Pogilanghanap_1
-carac :  6730 Z/Pogilanghanap_1
- 
-i = My vampire boyfriend _1
-ligne :  36 Z/Myvampireboyfriend_1
-mot   :  869 Z/Myvampireboyfriend_1
-carac :  5038 Z/Myvampireboyfriend_1
- 
-i = Bt21 universe _1
-ligne :  36 Z/Bt21universe_1
-mot   :  802 Z/Bt21universe_1
-carac :  4617 Z/Bt21universe_1
- 
-i = Meet me outside _1
-ligne :  21 Z/Meetmeoutside_1
-mot   :  1023 Z/Meetmeoutside_1
-carac :  4475 Z/Meetmeoutside_1
- 
-i = Young sheldon _4
-ligne :  29 Z/Youngsheldon_4
-mot   :  736 Z/Youngsheldon_4
-carac :  5094 Z/Youngsheldon_4
- 
-i = Be love _1
-ligne :  33 Z/Belove_1
-mot   :  943 Z/Belove_1
-carac :  5757 Z/Belove_1
- 
-i = From dusk till dawn _2
-ligne : 
-mot   : 
-carac : 
+i = Druck _6
+ligne :  44 Z/Druck_6
+mot   :  1913 Z/Druck_6
+carac :  9577 Z/Druck_6
  
 i = Love stage 2014 _1
-ligne :  18 Z/Lovestage2014_1
-mot   :  917 Z/Lovestage2014_1
-carac :  3927 Z/Lovestage2014_1
+ligne :  66 Z/Lovestage2014_1
+mot   :  2230 Z/Lovestage2014_1
+carac :  10685 Z/Lovestage2014_1
  
-i = Blood _1
-ligne :  30 Z/Blood_1
-mot   :  868 Z/Blood_1
-carac :  6493 Z/Blood_1
+i = Rpdru _9
+ligne :  42 Z/Rpdru_9
+mot   :  1479 Z/Rpdru_9
+carac :  8088 Z/Rpdru_9
  
-i = Lakan _1
-ligne :  19 Z/Lakan_1
-mot   :  661 Z/Lakan_1
-carac :  4442 Z/Lakan_1
+i = Happenstance _1
+ligne :  28 Z/Happenstance_1
+mot   :  1275 Z/Happenstance_1
+carac :  6864 Z/Happenstance_1
  
 i = Sea him _1
-ligne :  20 Z/Seahim_1
-mot   :  619 Z/Seahim_1
-carac :  4615 Z/Seahim_1
+ligne :  41 Z/Seahim_1
+mot   :  1460 Z/Seahim_1
+carac :  8380 Z/Seahim_1
+ 
+i = Young sheldon _4
+ligne :  34 Z/Youngsheldon_4
+mot   :  1182 Z/Youngsheldon_4
+carac :  7043 Z/Youngsheldon_4
+ 
+i = Mako ventures _1
+ligne :  16 Z/Makoventures_1
+mot   :  869 Z/Makoventures_1
+carac :  4426 Z/Makoventures_1
+ 
+i = Koishite akuma _1
+ligne :  15 Z/Koishiteakuma_1
+mot   :  766 Z/Koishiteakuma_1
+carac :  3437 Z/Koishiteakuma_1
+ 
+i = History2 right or wrong _1
+ligne :  22 Z/History2rightorwrong_1
+mot   :  724 Z/History2rightorwrong_1
+carac :  3951 Z/History2rightorwrong_1
+ 
+i = The masked singer uk _2
+ligne :  19 Z/Themaskedsingeruk_2
+mot   :  998 Z/Themaskedsingeruk_2
+carac :  5785 Z/Themaskedsingeruk_2
  
 i = TharnType _2
-ligne :  21 Z/TharnType_2
-mot   :  553 Z/TharnType_2
-carac :  3913 Z/TharnType_2
+ligne :  23 Z/TharnType_2
+mot   :  785 Z/TharnType_2
+carac :  4804 Z/TharnType_2
+ 
+i = Ghost runner _1
+ligne :  27 Z/Ghostrunner_1
+mot   :  866 Z/Ghostrunner_1
+carac :  4680 Z/Ghostrunner_1
  
