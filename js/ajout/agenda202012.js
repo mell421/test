@@ -43,7 +43,7 @@ document.write(`
           </tr>
           <tr>
               <td>28<br>lakan 105</td>
-              <td>29<br>you never eat alone 102</td>
+              <td>29</td>
               <td>30<br>gen y 108</td>
               <td>31</td>
               <td colspan="3"></td>
