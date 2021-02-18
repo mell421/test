@@ -180,7 +180,7 @@ A queen is born _1x2(1) The voice nl _11x4(1) Tale of the nine tailed _1x2(1)
 #### sem 21-12-2020 
 Ghost runner _1x4(2) The voice nl _11x5(1) Druck _6x2(1) Lls _1x95(8) Unbag _1x12(1) 
 #### sem 28-12-2020 
-Capture lover _1x3(1) Manner of death _1x5(3) The masked dancer _1x2(1) Lls _1x97(2) Druck _6x3(1) Roommate _2x2(1) The voice nl _11x6(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Happenstance _1x2(1) Lakan _1x5(2) Sea him _1x5(1) 
+Capture lover _1x3(1) Manner of death _1x5(3) Lls _1x97(2) Druck _6x3(1) Roommate _2x2(1) The voice nl _11x6(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Happenstance _1x2(1) Lakan _1x5(2) Sea him _1x5(1) 
 
 
 
