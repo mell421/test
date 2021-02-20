@@ -282,6 +282,7 @@
 |TMS UK 2||8|||<!--  -->
 |history2.1|history2 right or wrong|8|serie|taiwan|<!-- 24 -->
 |TMD 1|||||<!--  -->
+|nation's brother|anh trai quoc dan|?|serie|vietnam|<!-- 36 -->
 ||||||
 ||||||
 ||||||
@@ -439,7 +440,6 @@
 |RPDRU 13|||||3|<!--  -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
 |TV UK 10|||||3|<!--  -->
-|nation's brother|anh trai quoc dan|?|serie|vietnam|3|<!-- 36 -->
 |RPDRU 9|||||7|<!--  -->
 |you are ma boy|em la chang trai cua anh|6|serie|vietnam|5|<!--  -->
 |name that tune 1|||||2|<!--  -->

@@ -112,6 +112,7 @@
 |we best love|we best love no1 for you|6|serie|taiwan|<!--  -->
 |fools|NHỮNG KẺ KHỜ|4|serie|vietnam|<!-- -->
 |history2.1|history2 right or wrong|8|serie|taiwan|<!-- 24 -->
+|nation's brother|anh trai quoc dan|6|serie|vietnam|<!-- 36 -->
 ||||||
 ||||||
 ||||||
@@ -145,23 +146,29 @@
 |sea him|uoc hen lang chai|10|serie|vietnam|7|<!-- 21 -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 22 -->
 |be love|be love|4|serie|japon|3|<!-- 25 -->
-|manner of death|manner of death|14|serie|thailande|12|<!-- 27 -->
+|manner of death|manner of death|14|serie|thailande|13|<!-- 27 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |happenstance|happenstance|9|serie|philippines|7|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
 |mako ventures|mako ventures|?|show|philippines|7|<!-- 33 -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
-|nation's brother|anh trai quoc dan|6|serie|vietnam|3|<!-- 36 -->
 |you are ma boy|em la chang trai cua anh|6|serie|vietnam|5|<!--  -->
-|unlocked|unlocked|9|serie|philippines|1|<!--  -->
+|unlocked|unlocked|9|serie|philippines|2|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
-|pearl next door|pearl next door|8|serie(gl)|philippines|2|<!--  -->
+|pearl next door|pearl next door|8|serie(gl)|philippines|3|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
-|tien bromance||10|serie|vietnam|1|<!--  -->
+|tien bromance|tien bromance|10|serie|vietnam|1|<!--  -->
 |1000 stars|a tales of 1000 stars|?|serie|thailande|3|<!--  -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--  -->
-|you never eat alone|you never eat alone|?|serie(*)|thailande|1|<!--  -->
-|school's out let's date now||?|serie(gl/bl)|vietnam|2|<!--  -->
+|you never eat alone|you never eat alone|?|serie(*)|thailande|2|<!--  -->
+|school's out let's date now|school's out let's date now|?|serie(gl)|vietnam|3|<!--  -->
+|wabi vlog|wabi vlog|?|show|thailande|5|<!--  -->
+|wabi game|wabi game|?|show|thailande|2|<!--  -->
+|the harvest season|the harvest season|?|show|thailande|5|<!--  -->
+|bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!--  -->
+|history2.2|history2 crossing the line|8|serie|taiwan|4|<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -178,7 +185,7 @@
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|<!-- -->
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
-|history2.2|history2 crossing the line|8|serie|taiwan|0|<!-- 24 -->
+|brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->
 |liens ? subs ?||||||<!-- -->
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
@@ -186,12 +193,13 @@
 |2021||||||<!-- -->
 |the night beyond the tricornered window|the night beyond the tricornered window|?|serie|japon|0|<!-- 22/01 -->
 |lovely writer|lovely writer|?|serie|thailande|0|<!--26/02 -->
-|tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |you make me dance|you make me dance|8|serie|corée|0|<!-- 26/02 -->
-|brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->
+|tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|0|<!-- 05/03 -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
+|fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- 09/04 -->
 |top secret together|top secret together|?|serie|thailande|0|<!-- ??/05 -->
+|hemp rope|hemp rope|?|serie|thailande|0|<!-- juin/juillet -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -210,7 +218,6 @@
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
 |GMMTV||||||<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|0|<!-- -->
-|fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- -->
 |drag I love you|drag I love you|?|serie(**)|thailande|0|<!-- -->
 |baker boys|baker boys|?|serie|thailande|0|<!-- -->
 |enchante|enchante|?|serie|thailande|0|<!-- -->
@@ -218,11 +225,11 @@
 |the player|the player|?|serie(**)|thailande|0|<!-- -->
 |NOTME|NOTME|?|serie|thailande|0|<!-- -->
 |SWS||||||<!-- -->
-|hemp rope|hemp rope|?|serie|thailande|0|<!-- -->
 |COPYABANGKOK|||||| <!-- -->
 |ydestiny|ydestiny|?|serie|thailande|0|<!-- -->
 |yyy 2|yyy 2|?|serie|thailande|0|<!-- -->
 |OTHER THAI||||||<!-- -->
+|close friend|close friend|?|serie|thailande|0|
 |my engineer 2|my engineer 2|?|serie|thailande|0|<!-- -->
 |bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
 |kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
@@ -236,7 +243,6 @@
 |my extraordinary 2|a kiss 2 remember|12|serie|philippines|0|<!-- -->
 |turbulance|turbulance|?|serie|philippines|0|
 |taiwan||||||
-|||||||
 |||||||
 |||||||
 |||||||

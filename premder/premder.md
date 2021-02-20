@@ -47,9 +47,7 @@ Pearl next door 1x2
 * Name that tune 1x1
 Friend zone 1x3
 * You are ma boy 1x1
-Nation's brother 1x2
 Rpdru 9x7
-* Nation's brother 1x1
 * The voice uk 10x1
 * Together with me 1x1
 * Rpdru 13x1
