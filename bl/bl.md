@@ -113,6 +113,7 @@
 |fools|NHỮNG KẺ KHỜ|4|serie|vietnam|<!-- -->
 |history2.1|history2 right or wrong|8|serie|taiwan|<!-- 24 -->
 |nation's brother|anh trai quoc dan|6|serie|vietnam|<!-- 36 -->
+|history2.2|history2 crossing the line|8|serie|taiwan|<!--  -->
 ||||||
 ||||||
 ||||||
@@ -166,7 +167,6 @@
 |wabi game|wabi game|?|show|thailande|2|<!--  -->
 |the harvest season|the harvest season|?|show|thailande|5|<!--  -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!--  -->
-|history2.2|history2 crossing the line|8|serie|taiwan|4|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -186,6 +186,7 @@
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
 |brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->
+|history3.1|history3 trapped|20|serie|taiwan|0|<!--  -->
 |liens ? subs ?||||||<!-- -->
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->

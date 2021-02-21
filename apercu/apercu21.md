@@ -20,7 +20,7 @@ You are ma boy _1x5(1) The voice uk _10x6(1) Be love _1x4(1) TharnType _2x6(1) M
 #### sem 08-02-2021 
 The voice nl _11x11(2) Dancing on ice uk _13x5(2) Tbbt _11x2(1) The untamed _1x4(1) Schools out lets date now _1x3(2) Dancing on ice uk _12x4(2) The voice uk _10x7(1) The voice _10x2(1) Mako ventures _1x9(1) Rpdr _13x7(1) The voice vv _7x2(1) The voice no _6x6(1) Sea him _1x8(1) You are ma boy _1x6(1) Rpdruk _2x5(1) Happenstance _1x8(1) Name that tune _1x6(1) The voice be _9x7(1) /9-1-1 lone star _2x4(1) /9-1-1 _4x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) Manner of death _1x12(1) 
 #### sem 15-02-2021 
-Dancing on ice uk _13x6(1) History2 crossing the line _1x2(1) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) The voice uk _10x8(1) The voice _10x3(1) Rpdr _13x8(1) The voice vv _7x3(1) The voice no _6x7(1) Young sheldon _4x8(1) Skam fr _7x5(2) 1000 stars _1x4(2) Tokyo ghoul _3x16(1) Rpdru _13x7(1) Unbag _1x16(1) Rpdruk _2x6(1) Name that tune _1x7(1) Top chef _12x2(1) The harvest season _1x5(4) The voice be _9x8(1) Wabi show _1x3(2) Wabi vlog _1x5(4) /9-1-1 lone star _2x5(1) /9-1-1 _4x5(1) Manner of death _1x13(1) 
+Dancing on ice uk _13x6(1) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) The voice uk _10x8(1) The voice _10x3(1) Rpdr _13x8(1) The voice vv _7x3(1) The voice no _6x7(1) Young sheldon _4x8(1) Skam fr _7x5(2) 1000 stars _1x4(2) Tokyo ghoul _3x16(1) Rpdru _13x7(1) Unbag _1x16(1) Rpdruk _2x6(1) Name that tune _1x7(1) Top chef _12x2(1) The harvest season _1x5(4) The voice be _9x8(1) Wabi show _1x3(2) Wabi vlog _1x5(4) /9-1-1 lone star _2x5(1) /9-1-1 _4x5(1) Manner of death _1x13(1) 
 
 
 
@@ -136,7 +136,7 @@ You are ma boy _1x5(4) The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) M
 ### conclu 15/02/21 
 > Lls _1 > 3; The harvest season _1 > 3; The voice no _6 > 3; Unbag _1 > 3; Dancing on ice uk _13 > 2; Manner of death _1 > 2; The voice uk _10 > 2; Wabi vlog _1 > 2; We are not human _1 > 2; Skam fr _7 > 1; 
 ### conclu 16/02/21 
-> Lls _1 > 3; The voice no _6 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; /9-1-1 lone star _2 > 2; History2 crossing the line _1 > 2; Manner of death _1 > 2; /9-1-1 _4 > 1; The harvest season _1 > 1; The voice uk _10 > 1; 
+> Lls _1 > 3; The voice no _6 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; /9-1-1 lone star _2 > 2; Manner of death _1 > 2; /9-1-1 _4 > 1; The harvest season _1 > 1; The voice uk _10 > 1; 
 
 
 
@@ -240,7 +240,7 @@ You are ma boy _1x5(4) The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) M
 ### concluBis 15/02/21 
 > Unbag _1 > 7; The voice uk _10 > 6; The voice no _6 > 5; The harvest season _1 > 5; Lls _1 > 5; Manner of death _1 > 4; Rpdr _13 > 4; Dancing on ice uk _13 > 4; Skam fr _7 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; 1000 stars _1 > 2; Young sheldon _4 > 1; Wabi show _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 16/02/21 
-> Unbag _1 > 7; Manner of death _1 > 7; Wabi vlog _1 > 6; The voice no _6 > 5; Lls _1 > 5; /9-1-1 lone star _2 > 4; History2 crossing the line _1 > 4; We are not human _1 > 4; The voice uk _10 > 3; /9-1-1 _4 > 3; The harvest season _1 > 3; Survivor au _7 > 3; Rpdr _13 > 2; Tokyo ghoul _3 > 2; Young sheldon _4 > 1; Love in time _1 > 1; 
+> Unbag _1 > 7; Manner of death _1 > 7; Wabi vlog _1 > 6; The voice no _6 > 5; Lls _1 > 5; /9-1-1 lone star _2 > 4; We are not human _1 > 4; The voice uk _10 > 3; /9-1-1 _4 > 3; The harvest season _1 > 3; Survivor au _7 > 3; Rpdr _13 > 2; Tokyo ghoul _3 > 2; Young sheldon _4 > 1; Love in time _1 > 1; 
 
 
 
