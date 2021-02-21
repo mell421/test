@@ -257,7 +257,7 @@
 |FDTD 1||10|||
 |cherry magic|cherry magic|12+2|serie|japon|<!--  -->
 |wish you|wish you|8+1|serie|corée|<!--  -->
-|offgun fun night 2|offgun fun night 2|12+1|show|thailande|<!--  -->
+|offgun fun night 2|offgun fun night 2|12+2|show|thailande|<!--  -->
 |meet me outside|meet me outside|6|serie|philippines|<!-- 68 -->
 |BT21 universe 1||13|||
 |district z 1||5|||
@@ -276,13 +276,14 @@
 |friend.ship with krist-singto|friend.ship with krist-singto|6+3|show|thailande|<!-- 34 -->
 |ninja warrior 5||5|||<!--  -->
 |to my star 1||9|||<!--  -->
-|we best love|we best love no1 for you|6|serie|taiwan|<!--  -->
+|we best love|we best love no1 for you|6+1|serie|taiwan|<!--  -->
 |fools 1||4|||<!--  -->
 |love stage 2014 1||10|||<!--  -->
 |TMS UK 2||8|||<!--  -->
 |history2.1|history2 right or wrong|8|serie|taiwan|<!-- 24 -->
-|TMD 1|||||<!--  -->
-|nation's brother|anh trai quoc dan|?|serie|vietnam|<!-- 36 -->
+|TMD 1||9|||<!--  -->
+|nation's brother|anh trai quoc dan|6|serie|vietnam|<!-- 36 -->
+|druck 6||10|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -429,35 +430,34 @@
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |tale of the nine tailed 1|||||1|<!--  -->
 |a queen is born 1|||||1|<!--  -->
-|druck 6|||||5|<!--  -->
 |FDTD 2|||||3|<!--  -->
 |happenstance|happenstance|9|serie|philippines|4|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
 |LLS 1|||||96|<!--  -->
 |TV BE 9|||||3|<!--  -->
 |mako ventures|mako ventures|?|show|philippines|3|<!-- 33 -->
-|RPDR 13|||||3|<!--  -->
-|RPDRU 13|||||3|<!--  -->
+|RPDR 13||16|||3|<!--  -->
+|RPDRU 13||14|||3|<!--  -->
 |together with me|together with me|?|serie|thailande|1|<!--35  -->
 |TV UK 10|||||3|<!--  -->
 |RPDRU 9|||||7|<!--  -->
 |you are ma boy|em la chang trai cua anh|6|serie|vietnam|5|<!--  -->
-|name that tune 1|||||2|<!--  -->
-|unlocked|unlocked|9|serie|philippines|1|<!--  -->
+|name that tune 1||10|||2|<!--  -->
+|unlocked|unlocked|9|serie|philippines|2|<!--  -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door|pearl next door|8|serie(***)|philippines|2|<!--  -->
-|RPDRUK 2|||||3|<!--  -->
+|RPDRUK 2||11|||3|<!--  -->
 |warper series|warper series|?|show|thailande|1|<!--  -->
 |TV NO 6|||||5|<!--  -->
-|dancing on ice uk 13|||||3|<!--  -->
-|koishite akuma 1|||||3|<!--  -->
-|911 4|||||3|<!--  -->
-|911 lone star 2|||||3|<!--  -->
+|dancing on ice uk 13||10|||3|<!--  -->
+|koishite akuma 1||?|||3|<!--  -->
+|911 4||14|||3|<!--  -->
+|911 lone star 2||14|||3|<!--  -->
 |skam fr 7||10|||2|<!--  -->
 |tien bromance 1||10|||1|<!--  -->
-|1000 stars||?|||1|<!--  -->
+|1000 stars||12|||1|<!--  -->
 |slam dance||?|||1|<!--  -->
-|you never eat alone||?|||1|<!--  -->
+|you never eat alone||10|||1|<!--  -->
 |school's out let's date now||?|||2|<!--  -->
 |TV VV 7||16|||1|<!--  -->
 |TV FR 10||?|||1|<!--  -->

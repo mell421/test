@@ -27,7 +27,6 @@ Lls 1x97
 The shipper 1x4
 Dancing on ice uk 13x2
 * Tien bromance 1x1
-Druck 6x6
 Ben x jim 1x2
 * Skam fr 7x1
 Young sheldon 4x6
@@ -62,7 +61,6 @@ From dusk till dawn 2x3
 * Happenstance 1x1
 * From dusk till dawn 2x1
 Lakan 1x4
-* Druck 6x1
 * A queen is born 1x1
 * Tale of the nine tailed 1x1
 * Ghost runner 1x1
