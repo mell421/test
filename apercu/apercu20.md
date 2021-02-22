@@ -101,13 +101,13 @@ TharnType _2x3(1) Young sheldon _4x4(1) Unbag _1x10(1) Pogi lang hanap _1x5(1)
 #### sem 30-11-2020 
 Be love _1x2(1) The voice nl _11x2(1) 
 #### sem 07-12-2020 
-The voice nl _11x3(1) TharnType _2x4(1) Young sheldon _4x5(1) Unbag _1x11(1) Ghost runner _1x2(1) Manner of death _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
+The voice nl _11x3(1) TharnType _2x4(1) Young sheldon _4x5(1) Unbag _1x11(1) Ghost runner _1x2(1) Be love _1x3(1) Sea him _1x4(1) 
 #### sem 14-12-2020 
 A queen is born _1x2(1) The voice nl _11x4(1) Tale of the nine tailed _1x2(1) 
 #### sem 21-12-2020 
 Ghost runner _1x4(2) The voice nl _11x5(1) Lls _1x95(8) Unbag _1x12(1) 
 #### sem 28-12-2020 
-Capture lover _1x3(1) Manner of death _1x5(3) Lls _1x97(2) Roommate _2x2(1) The voice nl _11x6(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Happenstance _1x2(1) Lakan _1x5(2) Sea him _1x5(1) 
+Capture lover _1x3(1) Lls _1x97(2) Roommate _2x2(1) The voice nl _11x6(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Happenstance _1x2(1) Lakan _1x5(2) Sea him _1x5(1) 
 
 ---
 
@@ -341,13 +341,13 @@ Be love _1x3(2) Sea him _1x4(2) The voice nl _11x2(1) TharnType _2x3(2) Young sh
 ### conclu 27/12/20 
 > Lls _1 > 9; From dusk till dawn _2 > 2; The voice nl _11 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 28/12/20 
-> Lls _1 > 9; Manner of death _1 > 3; From dusk till dawn _2 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 9; From dusk till dawn _2 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 29/12/20 
 > Lls _1 > 9; From dusk till dawn _2 > 1; We are not human _1 > 1; 
 ### conclu 30/12/20 
 > Lls _1 > 9; From dusk till dawn _2 > 1; We are not human _1 > 1; 
 ### conclu 31/12/20 
-> Lls _1 > 9; Manner of death _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 9; We are not human _1 > 1; 
 
 ---
 
@@ -546,13 +546,13 @@ Be love _1x3(2) Sea him _1x4(2) The voice nl _11x2(1) TharnType _2x3(2) Young sh
 ### concluBis 27/12/20 
 > Lls _1 > 16; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 28/12/20 
-> Lls _1 > 15; Manner of death _1 > 7; The voice nl _11 > 4; Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 15; The voice nl _11 > 4; Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 29/12/20 
-> Lls _1 > 15; The voice nl _11 > 3; Manner of death _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 15; The voice nl _11 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 30/12/20 
 > Lls _1 > 15; From dusk till dawn _2 > 3; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 31/12/20 
-> Lls _1 > 15; Manner of death _1 > 3; We are not human _1 > 3; Survivor au _7 > 2; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 15; We are not human _1 > 3; Survivor au _7 > 2; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
 
 
 [retour](./../index.html)

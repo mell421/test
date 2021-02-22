@@ -114,6 +114,7 @@
 |history2.1|history2 right or wrong|8|serie|taiwan|<!-- 24 -->
 |nation's brother|anh trai quoc dan|6|serie|vietnam|<!-- 36 -->
 |history2.2|history2 crossing the line|8|serie|taiwan|<!--  -->
+|manner of death|manner of death|14|serie|thailande|<!-- 27 -->
 ||||||
 ||||||
 ||||||
@@ -147,7 +148,6 @@
 |sea him|uoc hen lang chai|10|serie|vietnam|7|<!-- 21 -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 22 -->
 |be love|be love|4|serie|japon|3|<!-- 25 -->
-|manner of death|manner of death|14|serie|thailande|13|<!-- 27 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |happenstance|happenstance|9|serie|philippines|7|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->

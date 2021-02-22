@@ -285,6 +285,7 @@
 |nation's brother|anh trai quoc dan|6|serie|vietnam|<!-- 36 -->
 |druck 6||10|||<!--  -->
 |history2.2|history2 crossing the line|8|serie|taiwan|<!--  -->
+|manner of death|manner of death|14|serie|thailande|<!-- 27 -->
 ||||||
 ||||||
 ||||||
@@ -427,7 +428,6 @@
 |my vampire boyfriend 1|||||2|<!--  -->
 |TV NL 11|||||7|<!--  -->
 |be love|be love|4|serie|japon|2|<!-- 25 -->
-|manner of death|manner of death|14|serie|thailande|9|<!-- 27 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |tale of the nine tailed 1|||||1|<!--  -->
 |a queen is born 1|||||1|<!--  -->

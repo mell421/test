@@ -7,7 +7,6 @@ The voice be 9x6
 * Schools out lets date now 1x1
 * You never eat alone 1x1
 * Slam dance 1x1
-Manner of death 1x11
 You are ma boy 1x4
 The voice uk 10x5
 Be love 1x3
@@ -64,7 +63,6 @@ Lakan 1x4
 * A queen is born 1x1
 * Tale of the nine tailed 1x1
 * Ghost runner 1x1
-* Manner of death 1x1
 * Be love 1x1
 * The voice nl 11x1
 Pogi lang hanap 1x4
