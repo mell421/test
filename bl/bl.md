@@ -10,7 +10,7 @@
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
 |skam france|france|6|
-|druck|allemagne|5|
+|druck|allemagne|6|
 |skam|norvège|4|
 |skam espana|espagne|4|
 |wtfock|belgique|4|
@@ -20,8 +20,7 @@
   
 |titre|pays|nb ep vu|
 | --- | --- | :---: | 
-|skam france 7|france|1|
-|druck 6|allemagne|6|
+|skam france 7|france|5|
 
 ## asie
 \* bl (side couple) <!-- -->  
@@ -97,7 +96,7 @@
 |wish you|wish you|8+1|serie|corée|<!--  -->
 |your name engraved herein|your name engraved herein|1|film|taiwan|
 |floss|floss|1|cm|taiwan|
-|offgun fun night 2|offgun fun night 2|12+1|show|thailande|<!--  -->
+|offgun fun night 2|offgun fun night 2|12+2|show|thailande|<!--  -->
 |meet me outside|meet me outside|6|serie|philippines|<!-- 68 -->
 |ingredients|ingredients|21+1|serie|thailande|<!--  -->
 |gameboys|gameboys|13+1|serie|philippines|<!-- 11 -->
@@ -115,6 +114,7 @@
 |nation's brother|anh trai quoc dan|6|serie|vietnam|<!-- 36 -->
 |history2.2|history2 crossing the line|8|serie|taiwan|<!--  -->
 |manner of death|manner of death|14|serie|thailande|<!-- 27 -->
+|you are ma boy|em la chang trai cua anh|6|serie|vietnam|<!-- 27 -->
 ||||||
 ||||||
 ||||||
@@ -131,42 +131,47 @@
 |the untamed|the untamed|50|serie|chine|3|<!-- 2 -->
 |long khong|long khong|8|serie(*)|thailande|3|<!-- 3 -->
 |the shipper|the shipper|12|serie|thailande|4|<!-- 4 -->
-|so much in love|so much in love|12|serie|thailande|2|<!-- 6 -->
-|he's coming to me|he's coming to me|8|serie|thailande|2|<!-- 7 -->
-|blacklist|blacklist|13|serie(**)|thailande|1|<!-- 8 -->
-|unbag|unbag|?|show|thailande|13|<!-- 9 -->
-|my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!-- 10 -->
-|my day|my day|12|serie|philippines|1|<!-- 12 -->
-|friend forever|friend forever|12|serie|thailande|3|<!-- 13 -->
-|capture lover|capture lover|?|serie|chine|2|<!-- 14 -->
-|friend zone|friend zone|?|serie(*)|thailande|3|<!-- 15 -->
-|boys lockdown|boys lockdown|6|serie|philippines|2|<!-- 16 -->
-|ben x jim|ben x jim|7|serie|philippines|2|<!-- 17 -->
-|swap test|swap test|?|serie|philippines|2|<!-- 18 -->
-|pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 19 -->
-|lakan|lakan|8|serie|philippines|4|<!-- 20 -->
-|sea him|uoc hen lang chai|10|serie|vietnam|7|<!-- 21 -->
-|tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 22 -->
-|be love|be love|4|serie|japon|3|<!-- 25 -->
-|ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
-|happenstance|happenstance|9|serie|philippines|7|<!-- 30 -->
-|roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
-|mako ventures|mako ventures|?|show|philippines|7|<!-- 33 -->
-|together with me|together with me|?|serie|thailande|1|<!--35  -->
-|you are ma boy|em la chang trai cua anh|6|serie|vietnam|5|<!--  -->
-|unlocked|unlocked|9|serie|philippines|2|<!--  -->
-|romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
-|pearl next door|pearl next door|8|serie(gl)|philippines|3|<!--  -->
-|warper series|warper series|?|show|thailande|1|<!--  -->
-|tien bromance|tien bromance|10|serie|vietnam|1|<!--  -->
-|1000 stars|a tales of 1000 stars|?|serie|thailande|3|<!--  -->
-|slam dance|slam dance|?|serie(*)|thailande|1|<!--  -->
-|you never eat alone|you never eat alone|?|serie(*)|thailande|2|<!--  -->
-|school's out let's date now|school's out let's date now|?|serie(gl)|vietnam|3|<!--  -->
-|wabi vlog|wabi vlog|?|show|thailande|5|<!--  -->
-|wabi game|wabi game|?|show|thailande|2|<!--  -->
-|the harvest season|the harvest season|?|show|thailande|5|<!--  -->
-|bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!--  -->
+|so much in love|so much in love|12|serie|thailande|2|<!-- 5 -->
+|he's coming to me|he's coming to me|8|serie|thailande|2|<!-- 6 -->
+|blacklist|blacklist|13|serie(**)|thailande|1|<!-- 7 -->
+|unbag|unbag|?|show|thailande|13|<!-- 8 -->
+|my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!-- 9 -->
+|my day|my day|12|serie|philippines|1|<!-- 10 -->
+|friend forever|friend forever|12|serie|thailande|3|<!-- 11 -->
+|capture lover|capture lover|?|serie|chine|2|<!-- 12 -->
+|friend zone|friend zone|?|serie(*)|thailande|3|<!-- 13 -->
+|boys lockdown|boys lockdown|6|serie|philippines|2|<!-- 14 -->
+|ben x jim|ben x jim|7|serie|philippines|2|<!-- 15 -->
+|swap test|swap test|?|serie|philippines|2|<!-- 16 -->
+|pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 17 -->
+|lakan|lakan|8|serie|philippines|4|<!-- 18 -->
+|sea him|uoc hen lang chai|10|serie|vietnam|7|<!-- 19 -->
+|tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 20 -->
+|be love|be love|4|serie|japon|3|<!-- 21 -->
+|ghost runner|ghost runner|8|serie|thailande|4|<!-- 22 -->
+|happenstance|happenstance|9|serie|philippines|7|<!-- 23 -->
+|roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 24 -->
+|mako ventures|mako ventures|?|show|philippines|7|<!-- 25 -->
+|together with me|together with me|?|serie|thailande|1|<!-- 26 -->
+|unlocked|unlocked|9|serie|philippines|2|<!-- 28 -->
+|romantic blue|romantic blue|12|serie(**)|thailande|1|<!-- 29 -->
+|pearl next door|pearl next door|8|serie(gl)|philippines|3|<!-- 30 -->
+|warper series|warper series|?|show|thailande|1|<!-- 31 -->
+|tien bromance|tien bromance|10|serie|vietnam|1|<!-- 32 -->
+|1000 stars|a tales of 1000 stars|?|serie|thailande|3|<!-- 33 -->
+|slam dance|slam dance|?|serie(*)|thailande|1|<!--34  -->
+|you never eat alone|you never eat alone|?|serie(*)|thailande|2|<!-- 35 -->
+|school's out let's date now|school's out let's date now|?|serie(gl)|vietnam|3|<!-- 36 -->
+|wabi vlog|wabi vlog|?|show|thailande|5|<!-- 37 -->
+|wabi game|wabi game|?|show|thailande|2|<!-- 38 -->
+|the harvest season|the harvest season|?|show|thailande|5|<!-- 39 -->
+|bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!-- 40 -->
+|girl2k|girl2k|10|serie(**)|thailande|2|<!-- 41 -->
+|meet my angel|meet my angel|?|serie|philippines|1|<!-- 42 -->
+|history3.1|history3 trapped|20|serie|taiwan|1|<!-- 43 -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -186,7 +191,6 @@
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
 |my bromance|my bromance|12|serie|thailande|0|<!-- -->
 |brothers|brothers|?|serie|thailande|0|<!-- ??/02 -->
-|history3.1|history3 trapped|20|serie|taiwan|0|<!--  -->
 |liens ? subs ?||||||<!-- -->
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->

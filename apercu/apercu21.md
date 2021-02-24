@@ -10,15 +10,15 @@
 #### sem 04-01-2021 
 Rpdru _9x8(1) The voice uk _10x2(1) Together with me _1x2(1) Rpdru _13x2(1) Rpdr _13x2(1) The shipper _1x4(1) Mako ventures _1x2(1) Happenstance _1x3(1) Unbag _1x13(1) Sea him _1x6(1) Ghost runner _1x5(1) Friend zone _1x3(1) The voice be _9x2(1) Joséphine ange gardien _23x5(1) 
 #### sem 11-01-2021 
-The voice uk _10x3(1) Romantic blue _1x2(1) Rpdru _13x3(1) Rpdr _13x3(1) TharnType _2x5(1) Mako ventures _1x3(1) Happenstance _1x4(1) Unlocked _1x2(1) Name that tune _1x2(1) Friend zone _1x4(1) You are ma boy _1x2(1) The voice be _9x3(1) 
+The voice uk _10x3(1) Romantic blue _1x2(1) Rpdru _13x3(1) Rpdr _13x3(1) TharnType _2x5(1) Mako ventures _1x3(1) Happenstance _1x4(1) Unlocked _1x2(1) Name that tune _1x2(1) Friend zone _1x4(1) The voice be _9x3(1) 
 #### sem 18-01-2021 -> 
-Koishite akuma _1x4(3) Dancing on ice uk _13x2(1) The voice no _6x3(2) The voice nl _11x7(1) The voice uk _10x4(1) Mako ventures _1x4(1) Rpdru _13x4(1) Rpdr _13x4(1) Sea him _1x7(1) Warper series _1x2(1) Rpdruk _2x2(1) Happenstance _1x5(1) Unbag _1x14(1) Name that tune _1x3(1) The voice be _9x4(1) Pearl next door _1x3(2) You are ma boy _1x3(1) 
+Koishite akuma _1x4(3) Dancing on ice uk _13x2(1) The voice no _6x3(2) The voice nl _11x7(1) The voice uk _10x4(1) Mako ventures _1x4(1) Rpdru _13x4(1) Rpdr _13x4(1) Sea him _1x7(1) Warper series _1x2(1) Rpdruk _2x2(1) Happenstance _1x5(1) Unbag _1x14(1) Name that tune _1x3(1) The voice be _9x4(1) Pearl next door _1x3(2) 
 #### sem 25-01-2021 
-Dancing on ice uk _13x3(1) Tien bromance _1x2(1) The voice uk _10x5(1) Ben x jim _1x3(1) The voice no _6x4(1) Mako ventures _1x6(2) Rpdru _13x5(1) Rpdr _13x5(1) Skam fr _7x2(1) Young sheldon _4x7(1) Name that tune _1x4(1) Rpdruk _2x3(1) Happenstance _1x6(1) The voice be _9x5(1) You are ma boy _1x4(1) /9-1-1 lone star _2x2(1) /9-1-1 _4x2(1) The voice nl _11x8(1) 
+Dancing on ice uk _13x3(1) Tien bromance _1x2(1) The voice uk _10x5(1) Ben x jim _1x3(1) The voice no _6x4(1) Mako ventures _1x6(2) Rpdru _13x5(1) Rpdr _13x5(1) Skam fr _7x2(1) Young sheldon _4x7(1) Name that tune _1x4(1) Rpdruk _2x3(1) Happenstance _1x6(1) The voice be _9x5(1) /9-1-1 lone star _2x2(1) /9-1-1 _4x2(1) The voice nl _11x8(1) 
 #### sem 01-02-2021 
-You are ma boy _1x5(1) The voice uk _10x6(1) Be love _1x4(1) TharnType _2x6(1) Mako ventures _1x8(2) The voice no _6x5(1) The voice nl _11x9(1) Happenstance _1x7(1) Rpdru _13x6(1) Rpdr _13x6(1) Skam fr _7x3(1) 1000 stars _1x2(1) Rpdruk _2x4(1) Unbag _1x15(1) Name that tune _1x5(1) The voice be _9x6(1) /9-1-1 lone star _2x3(1) /9-1-1 _4x3(1) Lls _1x98(1) The shipper _1x5(1) 
+The voice uk _10x6(1) Be love _1x4(1) TharnType _2x6(1) Mako ventures _1x8(2) The voice no _6x5(1) The voice nl _11x9(1) Happenstance _1x7(1) Rpdru _13x6(1) Rpdr _13x6(1) Skam fr _7x3(1) 1000 stars _1x2(1) Rpdruk _2x4(1) Unbag _1x15(1) Name that tune _1x5(1) The voice be _9x6(1) /9-1-1 lone star _2x3(1) /9-1-1 _4x3(1) Lls _1x98(1) The shipper _1x5(1) 
 #### sem 08-02-2021 
-The voice nl _11x11(2) Dancing on ice uk _13x5(2) Tbbt _11x2(1) The untamed _1x4(1) Schools out lets date now _1x3(2) Dancing on ice uk _12x4(2) The voice uk _10x7(1) The voice _10x2(1) Mako ventures _1x9(1) Rpdr _13x7(1) The voice vv _7x2(1) The voice no _6x6(1) Sea him _1x8(1) You are ma boy _1x6(1) Rpdruk _2x5(1) Happenstance _1x8(1) Name that tune _1x6(1) The voice be _9x7(1) /9-1-1 lone star _2x4(1) /9-1-1 _4x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) 
+The voice nl _11x11(2) Dancing on ice uk _13x5(2) Tbbt _11x2(1) The untamed _1x4(1) Schools out lets date now _1x3(2) Dancing on ice uk _12x4(2) The voice uk _10x7(1) The voice _10x2(1) Mako ventures _1x9(1) Rpdr _13x7(1) The voice vv _7x2(1) The voice no _6x6(1) Sea him _1x8(1) Rpdruk _2x5(1) Happenstance _1x8(1) Name that tune _1x6(1) The voice be _9x7(1) /9-1-1 lone star _2x4(1) /9-1-1 _4x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) 
 #### sem 15-02-2021 
 Dancing on ice uk _13x6(1) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) The voice uk _10x8(1) The voice _10x3(1) Rpdr _13x8(1) The voice vv _7x3(1) The voice no _6x7(1) Young sheldon _4x8(1) Skam fr _7x5(2) 1000 stars _1x4(2) Tokyo ghoul _3x16(1) Rpdru _13x7(1) Unbag _1x16(1) Rpdruk _2x6(1) Name that tune _1x7(1) Top chef _12x2(1) The harvest season _1x5(4) The voice be _9x8(1) Wabi show _1x3(2) Wabi vlog _1x5(4) /9-1-1 lone star _2x5(1) /9-1-1 _4x5(1) 
 
@@ -31,7 +31,7 @@ Dancing on ice uk _13x6(1) Bangkok love stories innocence _1x2(1) Schools out le
 #### mois 01-01-2021 
 Happenstance _1x3(2) Unbag _1x13(3) Sea him _1x6(2) Ghost runner _1x5(4) Friend zone _1x3(1) The voice be _9x2(1) Joséphine ange gardien _23x5(1) Capture lover _1x3(1) Lls _1x97(10) Roommate _2x2(1) The voice nl _11x6(4) Young sheldon _4x6(2) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) TharnType _2x4(1) 
 #### mois 01-02-2021 
-You are ma boy _1x5(4) The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) Mako ventures _1x8(7) The voice no _6x5(4) The voice nl _11x9(3) Happenstance _1x7(4) Rpdru _13x6(5) Rpdr _13x6(5) Skam fr _7x3(2) 1000 stars _1x2(1) Rpdruk _2x4(3) Unbag _1x15(2) Name that tune _1x5(4) The voice be _9x6(4) /9-1-1 lone star _2x3(2) /9-1-1 _4x3(2) Lls _1x98(1) The shipper _1x5(2) Dancing on ice uk _13x3(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Young sheldon _4x7(1) Koishite akuma _1x4(3) Sea him _1x7(1) Warper series _1x2(1) Pearl next door _1x3(2) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Rpdru _9x8(1) Together with me _1x2(1) 
+The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) Mako ventures _1x8(7) The voice no _6x5(4) The voice nl _11x9(3) Happenstance _1x7(4) Rpdru _13x6(5) Rpdr _13x6(5) Skam fr _7x3(2) 1000 stars _1x2(1) Rpdruk _2x4(3) Unbag _1x15(2) Name that tune _1x5(4) The voice be _9x6(4) /9-1-1 lone star _2x3(2) /9-1-1 _4x3(2) Lls _1x98(1) The shipper _1x5(2) Dancing on ice uk _13x3(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Young sheldon _4x7(1) Koishite akuma _1x4(3) Sea him _1x7(1) Warper series _1x2(1) Pearl next door _1x3(2) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Rpdru _9x8(1) Together with me _1x2(1) 
 
 
 
@@ -104,9 +104,9 @@ You are ma boy _1x5(4) The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) M
 ### conclu 30/01/21 
 > Lls _1 > 6; Mako ventures _1 > 2; The voice no _6 > 2; Unbag _1 > 2; We are not human _1 > 2; Rpdru _13 > 1; Survivor au _7 > 1; 
 ### conclu 31/01/21 
-> Lls _1 > 6; Mako ventures _1 > 5; Unbag _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; You are ma boy _1 > 1; 
+> Lls _1 > 6; Mako ventures _1 > 5; Unbag _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
 ### conclu 01/02/21 
-> Lls _1 > 6; Mako ventures _1 > 5; Unbag _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; You are ma boy _1 > 1; 
+> Lls _1 > 6; Mako ventures _1 > 5; Unbag _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
 ### conclu 02/02/21 
 > Lls _1 > 3; Mako ventures _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; The voice nl _11 > 1; 
 ### conclu 03/02/21 
@@ -114,9 +114,9 @@ You are ma boy _1x5(4) The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) M
 ### conclu 04/02/21 
 > Lls _1 > 3; Unbag _1 > 3; Mako ventures _1 > 2; We are not human _1 > 2; Name that tune _1 > 1; Survivor au _7 > 1; The voice nl _11 > 1; 
 ### conclu 05/02/21 
-> Lls _1 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; You are ma boy _1 > 2; Happenstance _1 > 1; Sea him _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Happenstance _1 > 1; Sea him _1 > 1; Survivor au _7 > 1; 
 ### conclu 06/02/21 
-> Lls _1 > 3; Rpdr _13 > 3; You are ma boy _1 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Sea him _1 > 1; Survivor au _7 > 1; The voice vv _7 > 1; 
+> Lls _1 > 3; Rpdr _13 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Sea him _1 > 1; Survivor au _7 > 1; The voice vv _7 > 1; 
 ### conclu 07/02/21 
 > Mako ventures _1 > 4; Dancing on ice uk _12 > 3; Lls _1 > 3; The voice uk _10 > 3; The voice nl _11 > 2; We are not human _1 > 2; Survivor au _7 > 1; The voice _10 > 1; 
 ### conclu 08/02/21 
@@ -158,7 +158,7 @@ You are ma boy _1x5(4) The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) M
 ### concluBis 05/01/21 
 > Unbag _1 > 5; Rpdru _9 > 5; Lls _1 > 5; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 06/01/21 
-> Unbag _1 > 5; Lls _1 > 5; Friend zone _1 > 4; Rpdru _9 > 3; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; You are ma boy _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 5; Lls _1 > 5; Friend zone _1 > 4; Rpdru _9 > 3; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 07/01/21 
 > Unbag _1 > 5; Lls _1 > 5; Rpdru _9 > 3; We are not human _1 > 3; Sea him _1 > 2; Name that tune _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
 ### concluBis 08/01/21 
@@ -172,7 +172,7 @@ You are ma boy _1x5(4) The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) M
 ### concluBis 12/01/21 
 > Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 4; Survivor au _7 > 3; Kaamelott _5 > 2; TharnType _2 > 1; Happenstance _1 > 1; The voice uk _10 > 1; Unbag _1 > 1; 
 ### concluBis 13/01/21 
-> The voice be _9 > 6; Lls _1 > 5; We are not human _1 > 4; Pearl next door _1 > 3; Survivor au _7 > 3; You are ma boy _1 > 2; Kaamelott _5 > 2; TharnType _2 > 1; Unbag _1 > 1; 
+> The voice be _9 > 6; Lls _1 > 5; We are not human _1 > 4; Pearl next door _1 > 3; Survivor au _7 > 3; Kaamelott _5 > 2; TharnType _2 > 1; Unbag _1 > 1; 
 ### concluBis 14/01/21 
 > Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; Kaamelott _5 > 2; Pearl next door _1 > 1; Unbag _1 > 1; 
 ### concluBis 15/01/21 
@@ -208,19 +208,19 @@ You are ma boy _1x5(4) The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) M
 ### concluBis 30/01/21 
 > Lls _1 > 10; Unbag _1 > 6; Mako ventures _1 > 5; Rpdru _13 > 4; The voice no _6 > 4; We are not human _1 > 4; Happenstance _1 > 3; Survivor au _7 > 3; The voice nl _11 > 2; Kaamelott _5 > 1; 
 ### concluBis 31/01/21 
-> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 6; The voice uk _10 > 4; We are not human _1 > 4; You are ma boy _1 > 3; Survivor au _7 > 3; The voice nl _11 > 2; Be love _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 6; The voice uk _10 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice nl _11 > 2; Be love _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 01/02/21 
-> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 6; The voice uk _10 > 4; We are not human _1 > 4; You are ma boy _1 > 3; Survivor au _7 > 3; The voice nl _11 > 2; Be love _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 6; The voice uk _10 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice nl _11 > 2; Be love _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 02/02/21 
-> Mako ventures _1 > 9; Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; Survivor au _7 > 3; You never eat alone _1 > 2; You are ma boy _1 > 1; Slam dance _1 > 1; Kaamelott _5 > 1; 
+> Mako ventures _1 > 9; Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; Survivor au _7 > 3; You never eat alone _1 > 2; Slam dance _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 03/02/21 
 > Mako ventures _1 > 9; Unbag _1 > 7; The voice be _9 > 5; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; Survivor au _7 > 3; /9-1-1 lone star _2 > 1; Kaamelott _5 > 1; 
 ### concluBis 04/02/21 
 > Unbag _1 > 7; Mako ventures _1 > 6; Name that tune _1 > 5; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; Survivor au _7 > 3; The voice be _9 > 1; Kaamelott _5 > 1; 
 ### concluBis 05/02/21 
-> Happenstance _1 > 7; Sea him _1 > 5; Mako ventures _1 > 5; Lls _1 > 5; The voice nl _11 > 4; You are ma boy _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; Unbag _1 > 2; Name that tune _1 > 1; Kaamelott _5 > 1; 
+> Happenstance _1 > 7; Sea him _1 > 5; Mako ventures _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Survivor au _7 > 3; Unbag _1 > 2; Name that tune _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 06/02/21 
-> Rpdr _13 > 7; The voice nl _11 > 5; Mako ventures _1 > 5; You are ma boy _1 > 5; Lls _1 > 5; The voice no _6 > 4; We are not human _1 > 4; Sea him _1 > 3; Happenstance _1 > 3; The voice vv _7 > 3; Survivor au _7 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
+> Rpdr _13 > 7; The voice nl _11 > 5; Mako ventures _1 > 5; Lls _1 > 5; The voice no _6 > 4; We are not human _1 > 4; Sea him _1 > 3; Happenstance _1 > 3; The voice vv _7 > 3; Survivor au _7 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 07/02/21 
 > Mako ventures _1 > 9; The voice uk _10 > 7; Dancing on ice uk _12 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; The voice _10 > 3; Survivor au _7 > 3; Unbag _1 > 2; Sea him _1 > 1; Rpdr _13 > 1; Kaamelott _5 > 1; 
 ### concluBis 08/02/21 

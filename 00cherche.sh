@@ -7,7 +7,7 @@
 # 19 - 15
 list=( "Lls _1" "Unbag _1" 
 "The voice nl _11" "Mako ventures _1" "Happenstance _1" "Sea him _1" "The voice be _9" 
-"The voice no _6" "Young sheldon _4" "Name that tune _1" "You are ma boy _1" "Koishite akuma _1" 
+"The voice no _6" "Young sheldon _4" "Name that tune _1" "Koishite akuma _1" 
 "Rpdr _13" "The voice uk _10" "TharnType _2" "Dancing on ice uk _13" "Be love _1" "Rpdruk _2" "/9-1-1 lone star _2" )
 
 # entre 4 et 9

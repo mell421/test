@@ -7,7 +7,6 @@ The voice be 9x6
 * Schools out lets date now 1x1
 * You never eat alone 1x1
 * Slam dance 1x1
-You are ma boy 1x4
 The voice uk 10x5
 Be love 1x3
 TharnType 2x5
@@ -44,7 +43,6 @@ Pearl next door 1x2
 * Unlocked 1x1
 * Name that tune 1x1
 Friend zone 1x3
-* You are ma boy 1x1
 Rpdru 9x7
 * The voice uk 10x1
 * Together with me 1x1
