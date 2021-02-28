@@ -421,65 +421,83 @@
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 19 -->
 |lakan|lakan|8|serie|philippines|4|<!-- 20 -->
 |the stranded 1|||||1|<!--  -->
-|sea him|uoc hen lang chai|10|serie|vietnam|6|<!-- 21 -->
+|sea him|uoc hen lang chai|10|serie|vietnam|7|<!-- 21 -->
 |the good doctor 4|||||1|<!--  -->
 |blood 1|||||16|<!--  -->
-|young sheldon 4|||||5|<!--  -->
+|young sheldon 4|||||8|<!--  -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|4|<!-- 22 -->
-|my vampire boyfriend 1|||||2|<!--  -->
-|TV NL 11|||||7|<!--  -->
+|my vampire boyfriend 1||12|||6|<!--  -->
+|TV NL 11|||||11|<!--  -->
 |be love|be love|4|serie|japon|2|<!-- 25 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |tale of the nine tailed 1|||||1|<!--  -->
 |a queen is born 1|||||1|<!--  -->
 |FDTD 2|||||3|<!--  -->
-|happenstance|happenstance|9|serie|philippines|4|<!-- 30 -->
+|happenstance 1|happenstance|9|serie|philippines|8|<!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
-|LLS 1|||||96|<!--  -->
+|LLS 1|||||97|<!--  -->
 |TV BE 9|||||3|<!--  -->
-|mako ventures|mako ventures|?|show|philippines|3|<!-- 33 -->
-|RPDR 13||16|||3|<!--  -->
-|RPDRU 13||14|||3|<!--  -->
-|together with me|together with me|?|serie|thailande|1|<!--35  -->
-|TV UK 10|||||3|<!--  -->
+|mako ventures 1|mako ventures|?|show|philippines|9|<!-- 33 -->
+|RPDR 13||16|||8|<!--  -->
+|RPDRU 13||14|||8|<!--  -->
+|together with me 1|together with me|?|serie|thailande|1|<!--35  -->
+|TV UK 10|||||9|<!--  -->
 |RPDRU 9|||||7|<!--  -->
-|name that tune 1||10|||2|<!--  -->
-|unlocked|unlocked|9|serie|philippines|2|<!--  -->
-|romantic blue|romantic blue|12|serie(**)|thailande|1|<!--  -->
-|pearl next door|pearl next door|8|serie(***)|philippines|2|<!--  -->
-|RPDRUK 2||11|||3|<!--  -->
-|warper series|warper series|?|show|thailande|1|<!--  -->
-|TV NO 6|||||5|<!--  -->
-|dancing on ice uk 13||10|||3|<!--  -->
+|name that tune 1||10|||8|<!--  -->
+|unlocked 1|unlocked|9|serie|philippines|2|<!--  -->
+|romantic blue 1|romantic blue|12|serie(**)|thailande|1|<!--  -->
+|pearl next door 1|pearl next door|8|serie(***)|philippines|2|<!--  -->
+|RPDRUK 2||11|||7|<!--  -->
+|warper series 1|warper series|?|show|thailande|1|<!--  -->
+|TV NO 6|||||8|<!--  -->
+|dancing on ice uk 13||10|||5|<!--  -->
 |koishite akuma 1||?|||3|<!--  -->
-|911 4||14|||3|<!--  -->
-|911 lone star 2||14|||3|<!--  -->
-|skam fr 7||10|||2|<!--  -->
+|911 4||14|||6|<!--  -->
+|911 lone star 2||14|||6|<!--  -->
+|skam fr 7||10|||6|<!--  -->
 |tien bromance 1||10|||1|<!--  -->
-|1000 stars||12|||1|<!--  -->
-|slam dance||?|||1|<!--  -->
-|you never eat alone||10|||1|<!--  -->
-|school's out let's date now||?|||2|<!--  -->
+|1000 stars 1||12|||5|<!--  -->
+|slam dance 1||?|||1|<!--  -->
+|you never eat alone 1||10|||2|<!--  -->
+|school's out let's date now 1||?|||2|<!--  -->
 |TV VV 7||16|||1|<!--  -->
-|TV FR 10||?|||1|<!--  -->
+|TV FR 10||?|||4|<!--  -->
+|TBBT 11||24|||1|<!--  -->
+|wabi vlog 1||?|||1|<!--  -->
+|wabi game 1||?|||1|<!--  -->
+|the harvest season 1||?|||1|<!--  -->
+|top chef 12||?|||3|<!--  -->
+|bangkok love stories innocence 1||?|||1|<!--  -->
+|girl2k 1||10|||4|<!--  -->
+|given 1||?|||2|<!--  -->
+|meet my angel 1||?|||1|<!--  -->
+|history3.1|history3 trapped|20|||1|<!--  -->
+|PE 14||?|||1|<!--  -->
+|lovely writer 1||?|||1|<!--  -->
+|you make me dance 1||8|||2|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-
-
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 
 ## a venir
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|top chef||?|||0|<!--  -->
-|TV ||?|||0|<!--  -->
-|KL|||||0|<!--  -->
-|TMS 5|||||0|<!--  -->
-|game of talents|||||0|<!--  -->
-|PE 14||||||<!--  -->
+|TV US 20||?|||0|<!--  -->
+|KL 26||?|||0|<!--  -->
+|TMS 5||?|||0|<!--  -->
+|game of talents 1|||||0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
