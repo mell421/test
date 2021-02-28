@@ -149,16 +149,16 @@
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 20 -->
 |be love|be love|4|serie|japon|3|<!-- 21 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 22 -->
-|happenstance|happenstance|9|serie|philippines|7|<!-- 23 -->
+|happenstance|happenstance|9|serie|philippines|8|<!-- 23 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 24 -->
-|mako ventures|mako ventures|?|show|philippines|7|<!-- 25 -->
+|mako ventures|mako ventures|?|show|philippines|9|<!-- 25 -->
 |together with me|together with me|?|serie|thailande|1|<!-- 26 -->
 |unlocked|unlocked|9|serie|philippines|2|<!-- 28 -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|<!-- 29 -->
 |pearl next door|pearl next door|8|serie(gl)|philippines|3|<!-- 30 -->
 |warper series|warper series|?|show|thailande|1|<!-- 31 -->
 |tien bromance|tien bromance|10|serie|vietnam|1|<!-- 32 -->
-|1000 stars|a tales of 1000 stars|?|serie|thailande|3|<!-- 33 -->
+|1000 stars|a tales of 1000 stars|?|serie|thailande|4|<!-- 33 -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--34  -->
 |you never eat alone|you never eat alone|?|serie(*)|thailande|2|<!-- 35 -->
 |school's out let's date now|school's out let's date now|?|serie(gl)|vietnam|3|<!-- 36 -->
@@ -166,7 +166,7 @@
 |wabi game|wabi game|?|show|thailande|2|<!-- 38 -->
 |the harvest season|the harvest season|?|show|thailande|5|<!-- 39 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!-- 40 -->
-|girl2k|girl2k|10|serie(**)|thailande|2|<!-- 41 -->
+|girl2k|girl2k|10|serie(**)|thailande|4|<!-- 41 -->
 |meet my angel|meet my angel|?|serie|philippines|1|<!-- 42 -->
 |history3.1|history3 trapped|20|serie|taiwan|1|<!-- 43 -->
 |||||||<!--  -->
@@ -174,6 +174,8 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
+|lovely writer|lovely writer|?|serie|thailande|0|<!--26/02 -->
+|you make me dance|you make me dance|8|serie|corée|0|<!-- 26/02 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -197,8 +199,6 @@
 |||||||<!-- -->
 |2021||||||<!-- -->
 |the night beyond the tricornered window|the night beyond the tricornered window|?|serie|japon|0|<!-- 22/01 -->
-|lovely writer|lovely writer|?|serie|thailande|0|<!--26/02 -->
-|you make me dance|you make me dance|8|serie|corée|0|<!-- 26/02 -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|0|<!-- 05/03 -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
