@@ -3,22 +3,26 @@
 ./0date.sh
 ./0supprZ.sh
 # >= 100
-# 99 - 20
+# 99 - 30
+# 29 - 20
 # 19 - 15
+# 14 - 10
 list=( "Lls _1" "Unbag _1" 
-"The voice nl _11" "Mako ventures _1" "Happenstance _1" "Sea him _1" "The voice be _9" 
-"The voice no _6" "Young sheldon _4" "Name that tune _1" "Koishite akuma _1" 
-"Rpdr _13" "The voice uk _10" "TharnType _2" "Dancing on ice uk _13" "Be love _1" "Rpdruk _2" "/9-1-1 lone star _2" )
+"The voice nl _11" "Mako ventures _1" "The voice be _9" "The voice uk _10" "Wabi vlog _1" "The voice no _6" "Happenstance _1" "Name that tune _1" 
+"Young sheldon _4" "Sea him _1" "Rpdru _13" "My vampire boyfriend _1" "/9-1-1 lone star _2" "Rpdr _13" "Girl2k _1" "Skam fr _7" "/9-1-1 _4" 
+"Rpdruk _2" "Dancing on ice uk _13" "The harvest season _1" "Love in time _1" "Koishite akuma _1" 
+"Given _1" "TharnType _2" "Pearl next door _1" "Be love _1" "1000 stars _1" "Wabi show _1" )
 
 # entre 4 et 9
-listBis=( "Rpdru _13" "Pearl next door _1" 
-"The harvest season _1" "Wabi vlog _1" "/9-1-1 _4" 
-"Wabi show _1" 
-"Skam fr _7" "The untamed _1" "The shipper _1" 
-"Ben x jim _1" )
+listBis=( "The voice _10" 
+"You make me dance _1" "Tokyo ghoul _3" 
+"The voice vv _7" 
+"The untamed _1" 
+"Top chef _12" "The shipper _1" 
+"Unlocked _1" "You never eat alone _1" "Schools out lets date now _1" )
 
-listAtt=( "Friend forever _1" "My vampire boyfriend _1" "Blood _1" "Pogi lang hanap _1" "Lakan _1" "From dusk till dawn _2" "Rpdru _9" 
-"Ghost runner _1" "Friend zone _1" "Capture lover _1" )
+listAtt=( "Friend forever _1" "Blood _1" "Pogi lang hanap _1" "Lakan _1" "From dusk till dawn _2" "Rpdru _9" 
+"Ghost runner _1" "Friend zone _1" "Capture lover _1" "Ben x jim _1" )
 
 echo " " > logChercher
 # echo "" > 0graph.dat
