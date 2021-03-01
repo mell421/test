@@ -13,7 +13,7 @@ list=( "Lls _1" "Unbag _1"
 # entre 4 et 9
 listBis=( "Rpdru _13" "Pearl next door _1" 
 "The harvest season _1" "Wabi vlog _1" "/9-1-1 _4" 
-"Wabi show _1" "Dancing on ice uk _12" 
+"Wabi show _1" 
 "Skam fr _7" "The untamed _1" "The shipper _1" 
 "Ben x jim _1" )
 

@@ -1,7 +1,14 @@
 [retour](./../index.html)
 
+### date de maj
+28/02/21
+
 ### tisaep all
-Skam fr 7x6
+* The voice kids ger 9x1
+Skam fr 7x7
+Dancing on ice uk 13x6
+The voice 10x4
+The voice uk 10x9
 The voice nl 11x12
 The voice vv 7x4
 The voice no 6x8
@@ -20,8 +27,6 @@ The voice be 9x9
 911 4x6
 Wabi vlog 1x6
 * History3 trapped 1x1
-The voice uk 10x8
-The voice 10x3
 Young sheldon 4x8
 Mako ventures 1x9
 Rpdru 13x8
@@ -37,7 +42,6 @@ My vampire boyfriend 1x6
 You never eat alone 1x2
 Tokyo ghoul 3x16
 Love in time 1x5
-Dancing on ice uk 13x5
 * Bangkok love stories innocence 1x1
 Schools out lets date now 1x3
 * Top chef 12x1
@@ -48,7 +52,6 @@ Wabi game 1x2
 * Wabi vlog 1x1
 * Tbbt 11x1
 The untamed 1x3
-Dancing on ice uk 12x3
 * The voice 10x1
 * The voice vv 7x1
 Sea him 1x7
@@ -218,7 +221,6 @@ Imortal 1x10
 * Ragnarok 1x1
 Orange marmelade 1x6
 Gossip girl 1x7
-* Dancing on ice uk 12x1
 * Shameless 5x1
 * Ex on the beach us 4x1
 Sex education 2x3
