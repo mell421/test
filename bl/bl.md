@@ -23,12 +23,12 @@
   
 |titre|pays|nb ep vu|
 | --- | --- | :---: | 
-|skam france 7|france|5|
+|skam france 7|france|7|
 
 ## asie
 \* bl (side couple) <!-- -->  
 \*\* avec acteurs de bl <!-- -->  
-\*\*\* gl <!-- -->  
+\*\*\*  <!-- -->  
 ## terminé = finish
  
 |titre|titre officiel|nb ep|categorie|pays|
@@ -161,19 +161,19 @@
 |pearl next door|pearl next door|8|serie(gl)|philippines|3|<!-- 30 -->
 |warper series|warper series|?|show|thailande|1|<!-- 31 -->
 |tien bromance|tien bromance|10|serie|vietnam|1|<!-- 32 -->
-|1000 stars|a tales of 1000 stars|12|serie|thailande|4|<!-- 33 -->
+|1000 stars|a tales of 1000 stars|12|serie|thailande|5|<!-- 33 -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--34  -->
-|you never eat alone|you never eat alone|12|serie(*)|thailande|2|<!-- 35 -->
-|school's out let's date now|school's out let's date now|?|serie(gl)|vietnam|3|<!-- 36 -->
+|you never eat alone|you never eat alone|12|serie(*)|thailande|3|<!-- 35 -->
+|school's out let's date now|school's out let's date now|?|serie(gl)|vietnam|4|<!-- 36 -->
 |wabi vlog|wabi vlog|?|show|thailande|5|<!-- 37 -->
 |wabi game|wabi game|?|show|thailande|2|<!-- 38 -->
 |the harvest season|the harvest season|?|show|thailande|5|<!-- 39 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!-- 40 -->
-|girl2k|girl2k|10|serie(**)|thailande|4|<!-- 41 -->
-|meet my angel|meet my angel|?|serie|philippines|1|<!-- 42 -->
+|girl2k|girl2k|10|serie(**)|thailande|5|<!-- 41 -->
+|meet my angel|meet my angel|?|serie|philippines|2|<!-- 42 -->
 |history3.1|history3 trapped|20|serie|taiwan|1|<!-- 43 -->
-|lovely writer|lovely writer|?|serie|thailande|0|<!--44 -->
-|you make me dance|you make me dance|8|serie|corée|0|<!-- 45 -->
+|lovely writer|lovely writer|?|serie|thailande|1|<!--44 -->
+|you make me dance|you make me dance|8|serie|corée|2|<!-- 45 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -206,9 +206,9 @@
 |we best love 2|fighting mister 2nd|6|serie|taiwan|0|<!-- 05/03 -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- 09/04 -->
+|call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->
 |top secret together|top secret together|?|serie|thailande|0|<!-- ??/05 -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->
-|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -232,6 +232,7 @@
 |bad buddy|bad buddy|?|serie|thailande|0|<!-- -->
 |the player|the player|?|serie(**)|thailande|0|<!-- -->
 |NOTME|NOTME|?|serie|thailande|0|<!-- -->
+|war of the flowers|war of the flowers|?|serie(**)|thailande|0|
 |SWS||||||<!-- -->
 |||||||
 |COPYABANGKOK|||||| <!-- -->
