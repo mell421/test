@@ -16,7 +16,6 @@ The voice no 6x8
 You make me dance 1x2
 * You make me dance 1x1
 Rpdruk 2x7
-Name that tune 1x8
 Girl2k 1x4
 Unbag 1x16
 * Lovely writer 1x1
@@ -77,7 +76,6 @@ Koishite akuma 1x3
 * Pearl next door 1x1
 * Romantic blue 1x1
 * Unlocked 1x1
-* Name that tune 1x1
 Friend zone 1x3
 Rpdru 9x7
 * The voice uk 10x1
