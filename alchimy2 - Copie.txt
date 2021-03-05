@@ -1,433 +1,123 @@
-Air, Earth, Fire and Water
+Air, Water
 
 A
 3	Air
-4	Aircraft carrier = Fighter + Ship
 5	Airplane
-6	Airship = Balloon + Hydrogen
-7	Alarm clock = Bell + Watch
-8	Album = Camera + Book
-9	Alcohol
-10	Algae
-15	Anchor = Chain + Ship
-16	Angel
 17	Animal
-20	Antibiotic = Mold + Scientist
-21	Anvil (enclume)
 22	Apple
 23	Apple pie = Apple + Dough
-24	Aquarium
 26	Archipelago
-27	Ark = Boat + Animal
-28	Armchair = Chair + Pillow
-29	Armor = Knight + Uniform
-30	Army = Soldier + Soldier
-31	Arrow = Bow + Feather
-32	Ash = Cigarette + Fire
-33	Ashtray = Ash + Glass
-34  Asia
-35  Astronaut = Man + Moon
-36  Atlas = Book + Road
-39  Aurora-borealis = Rainbow + Planet
  
 B
-43  Backpack = Book + Bag
 44  Bacon
 45  Bacteria
-46  Bag = Box + Canvas
-47  Bagpipes = Bag + Flute
+46  Bag
 48  Bakery = House + Break
-49  Ball = Wheel + Canvas
-50  Balloon = Canvas + Fire
-51  Ball-pen = Ink + Feather
-54  Bandage = Blood + Canvas
-55  Bank
 57  Barrel = Board + Rim
-58  Bat = Animal + Vampire
-59  Batman = Bat + Hero
-60  Bat-mobile = Batman + Car
-61  Beach
 62  Bear
 63  Beaver = Animal + Dam
-64  Bed = Pillow + Wood
 66  Beehive (ruche)
-68  Beet = Sugar + Seeds
 69  Beetle (coleoptere)
-70  Bell=Drum+metal
-72  Bicycle = Wheel + Wheel
 74  Bird
-75  Black Hole = Sun + Time
-76  Blanket = Carpet + Fur
-78  Blood
 81  Board (wood) = Saw + Wood
 82  Board = Chess + Board (wood)
 83  Boat
-84  Bomb = Metal + Gunpowder
-85  Bone = Dog + Meat
-87  Book
-88  Boots = Sidewalk + Skin
 89  Bottle
-91  Bow = Hunter + Wood
+91  Bow(arc)
 92  Box
-93  Bread = Furnace + Dough
 94  Brick
-95  Bridge = Road + River
 96  Broom (balai)
-97  Bug (ver)
-98  Bulb (ampoule)
-99  Bullet = Firearm + Arrow
 101 Butterfly
 
 C
-102 Cable = Rope + Electricity
 103 Cactus
-104 Cage
-107 Camera = Drawing + Microprocessor
-108 Camera Lens = Camera + Lens
-109 Campfire = Grill + Wood
 110 Can
-111 Canal = Road + Ship
-113 Candle = Wax + Fire
+113 Candle
 114 Candlestick = Candle + Silver
 115 Candy
-116 Candyfloss = Sugar + Cotton
 117 Canned = Metal + Metal
-118
-Cannon==Pipe+gunpowder
-119
-Canvas (toile)
-121
-Cape = Hero + Clothes
-122
-Car
-124
-Carbon dioxide
-127
-Carousel=Wheel+toys
-128
-Carpet = Canvas + Drawing
-129
-Carriage = Horse + Trolley
-131
-Case = Skin + Clothes
-133
-Castle
-134
-Cat
-135
-catapult=castle+slingshot
-136
-Cave (caverne)
-138
-Caviar
-139
-C.D. = Book + Laser
-140
-Cement
-141
-Cemetery = Grave + Grave
-143
-Ceramics
-144
-Chain = Rope + Metal
-145
-Chair
-146
-Chameleon=Lizard+Rainbow
-147
-Champagne = Wine + Sparkling Water
-148
-Charlock
-149
-Cheese
-150
-Chess
-152
-Chest=Case+wood
-153
-Chisel (ciseau)
-154
-Chocolate = Cocoa + Sugar
-155
-Cigar = Tobacco + Tobacco
-156
-Cigarette = Tobacco + Paper
-157
-Cinema = House + Film
-158
-Circus = Elephant + Tent
-159
-Claws = Animal + Weapon
-160
-Clay (glaise)
-162
-Clip = Laundry + Wood
-163
-Clothes
-164
-Clouds
-165
-Clown = Circus+man
-166
-Coal (charbon)
-167
-Cocoa = The Caribbean + Seeds
-170
-Coffin
-171
-Combustion engine (moteur)
-172
-Comet = Meteorite + Ice
-174
-Compost = Hay + Time
-175
-Computer
-176
-Concrete (beton)
-179
-Continent
-180
-Cookies = Chocolate + Dough
-183
-Cotton
+119 Canvas (toile)
+129 Carriage = Horse + Trolley
+133 Castle
+135 catapult=castle+slingshot
+138 Caviar
+140 Cement
+148 Charlock
+149 Cheese
+150 Chess
+153 Chisel (ciseau)
+154 Chocolate
+164 Clouds
+175 Computer
+176 Concrete (beton)
+179 Continent
+180 Cookies = Chocolate + Dough
 184
 Country
-185
-Court = Ball + Grass
-187
-Cowboy
-188
-Crayons = Pencil + Rainbow
-189
-Creeper = Jungle + Rope
-190
-Crocodile
 191
 Crop circles = UFO + Grain
-192
-Crown = Hat + Gold
-193
-Crumbs = Bird + Bread
-196
-Cutlery = Silver + Tools
- 
- 
  
 D
 198
 Dam = Concrete + River
 202
 Deodorant=Perfume+Can
-203
-Desert
-204
-Dew=Grass+Fog
 205
-Diamond = Coal + Time
+Diamond
 208
 Diver (plongeur)
-211
-Dog = Wolf + Man
-213
-Door=Padlock+House
 214
 Dough = Flour + Water
-215
-Dragon
-216
-Dragonfly = Fly + Lake
-217
-Drawing = Crayons + Paper
 218
 Dream (sommeil)
 219
 Drink
-220
-Drum = Canvas + Ceramics
-221
-Dry ice= ice + carbon dioxide
 224
 Dust
- 
- 
  
 E
 225
 E-mail = Latter + Computer
-227
-Earth
-228
-Earthquake = Volcano + Energy
-229
-Earthworm=Bug+Rope
-231
-Eclipse = Earth + Moon
-232
-Eel = Snake + Electricity
 233
 Egg
 234
 Eiffel tower
 235
 Electricity
-236
-Elephant = Animal + Fang
-237
-Energy
-238
-Envelope= Letter + Paper
-239
-Explosion=fire+gunpowder
- 
- 
  
 F
 240
 Factory (fabrique)
 241
 Fan (moulinet)
-242
-Fang = Animal + Bone
 243
 Farm
-244
-Fashion = Time + Clothes
-245
-Fat = Oil + Meat
-246
-Feather = Bird + Hunter
-247
-Fence (cloture)
 248
 Fern = Moss + Swamp
-249
-Ferry = Ship + Car
-250
-Fiber = Rope + Glass
-251
-Fighter = Airplane + Firearm
 252
 Filings = Metal + Saw
-253
-Film = Television + Spider-man
-255
-Fire
-256
-Firearm = Gunpowder + Weapon
-258
-Firefly = Fly + Light
-259
-Fireworks = Asia + Gunpowder
-260
-Fish
-261
-Fisherman = Fish + Hunter
-263
-Flag = Canvas + Country
-264
-Flamethrower = Firearm + Fire
-265
-Fleet = Ship + Ship
-266
-Flood = Rain + Rain
-267
-Floor=House+board(wood)
-268
-Flour = Quern + Grain
-269
-Flower
-270
-Flute=Wind+Pipe
-271
-Fly = Bug + Compost
-272
-Foam = Soap + Water
-273
-Fog (brouillard)
-274
-Forest
-275
-Forge = Anvil + House
-276
-Fossil
-277
-Fox = Animal + Fur
-278
-Frame = Wood + Painting
-279
-French fries = Potato + Oil
-282
-Fruit
-283
-Fur = Animal + Hunter
-284
-Furnace (four)
-285
-Furniture = Screw + Wood
-286
-Fusion = Hydrogen + Hydrogen
- 
- 
+267 Floor=House+board(wood)
+268 Flour = Quern + Grain
+274 Forest
+276 Fossil
+279 French fries = Potato + Oil
+284 Furnace (four)
  
 G
-287
-Galaxy
-290
-Generator = Electricity + Combustion engine
-296
-Glass
-297
-Glasses = Lens + Metal
-301
-Gold
-303
-Gondola = Boat + Venice
-304
-Gong = Bell + Asia
-305
-G.P.S. = Computer + Road
-306
-Graffiti = Drawing + Wall
-307
-Grain (blé)
-309
-Grape = Creeper + Fruit
-310
-Grass
-311
-Grave = Coffin + Earth
-313
-Grill = Coal + Metal
-314
-Guitar = Strings + Wood
-315
-Gunpowder = Coal + Sulfur
- 
- 
+301 Gold
+307 Grain (blé)
+310 Grass
+315 Gunpowder(poudre)
  
 H
-316
-Hail = Ice + Rain
 317
-Hair = Fur + Man
-318
-Ham=Meat+smoke
+Hair
 319
 Hammer (marteau)
-321
-Hang-glider = Parachute + Airplane
 322
 Hangings = Windows + Canvas
-323
-Hat = Clothes + Straw
-324
-Hay (foin)
 325
 Hedge (bouchure)
-327
-Helicopter = Combustion engine + Propeller
-328
-Helmet = Soldier + Hat
 331
 Hero
 336
@@ -438,190 +128,41 @@ Hospital
 Hourglass
 340
 House
-342
-Hovercraft = Ship + Air
-345
-Hunter
-348
-Hydrogen
- 
- 
  
 I
-349
-Icarus = Feather + Sun
-350
-Ice
-352
-Ice sculpture=Statue+ice
-353
-Iceberg
-357
-Ink = Soot + Water
-358
-Internet = Computer + Net
-360
-Island
- 
- 
+350 Ice
+353 Iceberg
+360 Island
  
 J
-361
-Japan
-362
-Jedi = Knight + Light saber
-363
-Jewelry = Gold + Silver
-364
-Juice
-365
-Jungle
- 
- 
+364 Juice
+365 Jungle
  
 K
-367
-Killer
-368
-Kimono = Clothes + Asia
-372
-Knife = Tools + Bread
-373
-Knight
- 
- 
+367 Killer
  
 L
-378
-Ladder= Rope + Wood
-379
-Lake
-380
-Lamp = Glass + Petroleum
-381
-Lantern = Lamp + Metal
-382
-Las Vegas = Desert + Town
-383
-Laser
-384
-Lasso = Cowboy + Rope
-385
-Laundry= Clothes + Washing Machine
-386
-Lava
-387
-Leaf = Tree + Sun
-388
-LED=Bulb+Fiber
-389
-Leech = Vampire + Bug
-392
-Lens = Diamond + Glass
-393
-Leprechaun = Gold + Rainbow
-394
-Letter = Paper + Ink
-395
-Lettuce = Vegetables + Leaf
-397
-Life
-398
-Light
-399
-Lighter = Matches + Metal
-400
-Lighthouse = Lantern + Sea
-402
-Light saber = Sword + Light
-405
-Lizard
-406
-Locomotive
-408
-Lunette = Lens + Lens
- 
- 
+378 Ladder(escalier)
+397 Life
+406 Locomotive
  
 M
-410
-Man
-412
-Manhole = Sidewalk + Steam
-414
-Map = Paper + Road
-416
-Mars = Plant + Rust
-417
-Matches (allumette)
-418
-Mayonnaise=oil+egg
-419
-Meadow = Grass + Grass
-420
-Meat = Electricity + Pig
-421
-Medal = Soldier + Metal
-423
-Metal
-424
-Meteorite = Stone + Solar system
-425
-Microprocessor
-426
-Microscope = Bacteria + Lens
-427
-Milk
-428
-Mine
-431
-Mixer = Knife + Electricity
-433
-Mold = Bread + Dust
-436
-Monkey
-437
-Moon = Sun + Ice
-438
-Mosaic = Drawing + Stone
-439
-Mosquito = Blood + Fly
-440
-Moss (mousse)
-442
-Motor-cycle = Bicycle + Combustion engine
-443
-Mountains
-445
-Mower = Combustion engine + Scythe
-446
-Mud (fange)
-447
-Mummy = Bandage + Zombies
-448
-Museum = Painting + Statue
-450
-Music = Guitar + Man
-451
-Mustard = Charlock + Pressure
- 
- 
+410 Man
+416 Mars = Plant + Rust
+418 Mayonnaise=oil+egg
+423 Metal
+427 Milk
+428 Mine
+436 Monkey
+440 Moss (mousse)
+443 Mountains
+451 Mustard = Charlock + Pressure
  
 N
 452
 Necklace = Pearl + Rope
 454
 Needle (aiguille)
-455
-Nest = Bird + Hay
-456
-Net = Rope + Rope
-458
-Newspaper = Camera + Paper
-460
-Ninja
-461
-Nugget = Gold + Stone
  
  
  
@@ -629,101 +170,45 @@ O
 463
 Ocean
 464
-Oil = Sunflower + Tools
-466
-Opal = Stone + Rainbow
-471
-Oxygen = Tree + Carbon dioxide
+Oil
  
  
  
 P
-472
-Padlock = Chain + Chain
-473
-Painting = Crayons + Canvas
 475
 Panda
 476
 Paneling = Board + Wall
-477
-Paper
-478
-Paper Airplane = Airplane + Paper
-479
-Paperclip = Clip + Metal
-481
-Parachute = Canvas + Air
 483
 Park
 486
 Pasta = Dough + Rope
-487
-Pavement = Road + Stone
-488
-Peacock= Bird + Rainbow
 489
 Pearl = Diver + Ocean
 490
 Pegasus = Horse + Steam
-491
-Pencil = Coal + Wood
 493
 Perfume
 494
 Petroleum
-497
-Pig
-498
-Pigeon = Bird + Letter
-500
-Pillow = Canvas + Feather
-503
-Pipe (smoking) = Tobacco + Wood
-504
-Pipe = Metal + Tunnel
-505
-Piranha = Fish + Meat
-506
-Pirates = Ship + Weapon
-507
-Pitchfork = Tools + Hay
 508
 Pizza = Cheese + Dough
 509
 Planet
-510
-Plankton
 512
 Plastic
-513
-Plasticine = Clay + Crayons
 514
 Plume
 518
 Pool
-521
-Port = Ship + Beach
-522
-Postage Stamp = Envelope + Drawing
 524
 Pot (cooking)
 525
 Potato
 526
 Power station = Dam + River
-527
-Pressure = Earth + Steam
-529
-Prison = Cage + House
-530
-Propeller (helice)
 532
 Pumice (pierre ponce)
-534
-Puzzle = Scissors + Drawing
-535
-Pyramid
  
  
  
@@ -731,125 +216,59 @@ Q
 537
 Quern (meule)
  
- 
- 
 R
 538
 Rabbit
 540
 Radiation
-541
-Radio waves
-542
-Railroad tracks = Metal + Road
 543
 Rain
 544
-Rainbow = Rain + Light
-546
-Reel = Wheel + Spindle
+Rainbow
 547
 Refrigerator
-549
-Ribs = Grill + Pig
 552
 Ring = Diamond + Gold
-553
-Rink (patinoire)
 554
 River
 555
 Road
-556
-Roast = Fire + Meat
-557
-Robot
 558
 Root (racine)
 559
-Rope = Yarn + Yarn
+Rope(cordon)
 561
 Rubber (gomme)
-562
-Ruby = Diamond + Fire
-563
-Rum = Alcohol + Pirates
 564
 Rust (rouille)
  
  
  
 S
-565
-Safe = Bank + Metal
-566
-Sail = Canvas + Ship
-567
-Sailing ship = Boat + Sail
 572
 Sand
-576
-Sandwich = Meat + Bread
-577
-Satellite = Moon + Radio waves
 578
 Saturn = Rim + Planet
-579
-Sauna = House + Steam
 580
 Saw = Tools + Chisel
 581
 Scarab = Beetle + Gold
 582
 Scarecrow (epouvantail)
-583
-Scientist
-584
-Scissors
-585
-Scorpion = Beetle + Gold
-586
-Screw = Metal + Whirlpool
-587
-Screwdriver = Tools + Screw
-588
-Scythe = Grass + Scissors
 589
 Sea
-590
-Sea Serpent = Dragon + Sea
-592
-Seal = Animal + Circus
-593
-Seeds (graines)
 594
 Shadow
-595
-Shark = Piranha + Sea
-596
-Sheep = Animal + Wool
 597
 Shell (coquille)
-599
-Shield = Sword + Wall
 600
 Ship
-601
-Shoal = Fish + Fish
-602
-Shuriken = Ninja + Weapon
 603
-Sidewalk = Road + Man
+Sidewalk(trottoir)
 604
 Silver
 606
 skateboard = board + Wheel
-607
-Skates = Skis + Rink
-608
-Skin (cuir)
-609
-Skis
 610
 Sky
 611
@@ -860,48 +279,12 @@ Sleigh = Trolley + Snow
 Slingshot = Rubber + Bow
 614
 Smoke
-616
-Snake
 617
 Snow
-618
-Snow Globe = Glass + Snow
-620
-Soap = Fat + Water
-621
-Solar Panel=Sun+electricity
-622
-Solar system
-623
-Soldier = Firearm + Man
-624
-Soot = Coal + Fire
-625
-Space Station = Astronaut + Satellite
-626
-Sparkling Water
-627
-Speaker = Drum + Electricity
-628
-Sphinx = Pyramids + Statue
 629
 Spices
-630
-Spider = Animal + Net
-631
-Spiderman = Hero + Spider
-632
-Spindle (fuseau)
 633
 sponge = Pumice + Canvas
-635
-Squid = Animal + Ink
-637
-Stain = Clothes + Mud
-638
-Stained glass = Window + Rainbow
-639
-Stamp = Letter + Wax
 641
 Statue
 642
@@ -910,109 +293,39 @@ Steam (vapeur)
 Steam engine = Clouds + Metal
 644
 Steamer = Clouds + Ship
-645
-Sticks = Asia + Cutlery
 646
 Stone
 647
 Storm = Electricity + Sky
-648
-Straw (paille)
-649
-Strings = Metal + Yarn
-650
-Sugar
-651
-Suit=uniform+Clothes
 652
 Sulfur (soufre)
 653
 Sun
-654
-Sunflower = Flower + Sun
-655
-Sunglasses = Glasses + Sun
 656
 Superman = Hero + Steam
 659
 Swamp (marais)
-660
-Sweater = Wool + Clothes
-661
-Sword
  
 T
-663 Tank = Car + Firearm
-664 Target = Bow + Canvas
-666 Tattoo = Man + Ink
 667 Tea
-669 Telescope = Galaxy + Lunette
-670 Television = Drawing + Radio waves
-671 Tennis = Court + Net
-672 Tent = Canvas + House
-675 Terrarium = Aquarium + Lizard
-676 The Caribbean = Pirates + Island
-677 The green lantern = Hero + Lamp
-678 Thief = Man + Gold
-680 Ticket = Circus + Paper
-681 Tides = Moon + Ocean
-682 Tiger = Cat + Zoo
 683 Time
 684 Tire = Rubber + Wheel
-687 Toast = Bread + Fire
-688 Tobacco = Alcohol + Leaf
 689 Tools
-690 Tornado = Propeller + Wind
 692 Town
-693 Toys = Car + Drawing
-694 Tractor = Farm + Trolley
 696 Treasure = Gold + Pirates
-697 treasury= castle+ gold
-698 Tree
 700 Trolley = Wheel + Tools
-701 Trout = Lake + Fish
-703 Tuna = Can + Fish
-704 Tunnel = Cave + Road
  
 U
 706 UFO
-708 Uniform = Clothes + Soldier
 710 Uranium
  
 V
-711 Vampire = Blood + Zombies
-713 Vase = Flower + Glass
-714 Vegetables
 715 Venice
-717 Vinegar = Alcohol + Oxygen
-719 Volcano
-720 Volleyball = Beach + Net
 
 W
 722 Wall
-723 Wallet = Crocodile + Hunter
-724 War=army+army
-725 Wardrobe = Clothes + House
-726 Washing Machine = Clothes + Soap
-727 Watch (montre)
 728 Water
-732 Wax = Beehive + Tools
-733 Weapon
-734 Werewolf = Zombies + Silver
-735 Whale = Fish + Plankton
 736 Wheel (roue)
-737 Whirlpool = Tornado + Sea
-738 Wind
-739 Windmill = Quern + Wind
-740 Window = Door + Glass
-741 Wine = Grape + Alcohol
-742 Wolf = Animal + Werewolf
+740 Window
 743 Wood
-745 Wool = Cotton + Animal
 
-Y
-746 Yarn = Cotton + Reel
-
-Z
-749 Zombies
-750 Zoo = Animal + Fence
