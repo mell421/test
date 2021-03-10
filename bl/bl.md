@@ -6,7 +6,7 @@
 # liste de bl
 
 ## date de maj
-28/02/21
+10/03/21
 
 ## SKAM + REMAKES
  
@@ -23,7 +23,7 @@
   
 |titre|pays|nb ep vu|
 | --- | --- | :---: | 
-|skam france 7|france|7|
+|skam france 7|france|8|
 
 ## asie
 \* bl (side couple) <!-- -->  
@@ -152,7 +152,7 @@
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 20 -->
 |be love|be love|4|serie|japon|3|<!-- 21 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 22 -->
-|happenstance|happenstance|9|serie|philippines|8|<!-- 23 -->
+|happenstance|happenstance|9|serie|philippines|8|                               <!-- 23 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 24 -->
 |mako ventures|mako ventures|?|show|philippines|10|<!-- 25 -->
 |together with me|together with me|?|serie|thailande|1|<!-- 26 -->
@@ -169,11 +169,12 @@
 |wabi game|wabi game|?|show|thailande|2|<!-- 38 -->
 |the harvest season|the harvest season|?|show|thailande|5|<!-- 39 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!-- 40 -->
-|girl2k|girl2k|10|serie(**)|thailande|6|<!-- 41 -->
+|girl2k|girl2k|10|serie(**)|thailande|6|                                        <!-- 41 -->
 |meet my angel|meet my angel|?|serie|philippines|2|<!-- 42 -->
 |history3.1|history3 trapped|20|serie|taiwan|1|<!-- 43 -->
 |lovely writer|lovely writer|?|serie|thailande|2|<!--44 -->
-|you make me dance|you make me dance|8|serie|corée|4|<!-- 45 -->
+|you make me dance|you make me dance|8|serie|corée|4|                           <!-- 45 -->
+|we best love 2|fighting mister 2nd|6|serie|taiwan|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -203,7 +204,6 @@
 |2021||||||<!-- -->
 |the night beyond the tricornered window|tnbttw|?|serie|japon|0|<!-- 22/01 -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
-|we best love 2|fighting mister 2nd|6|serie|taiwan|0|<!-- 05/03 -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- 09/04 -->
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->

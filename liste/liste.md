@@ -6,155 +6,155 @@
 # liste de séries + emissions
 
 ## date de maj
-28/02/21
+10/03/21
 
 ## terminé
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
-|elite 2||8|||
-|pékin express 12||10|||
-|fastest car 2||7|||
-|druck 4||9|||
-|baby 1||6|||
-|TMS DE 1||6|||
-|TMS AU 1||10|||
-|a discovery of witches 1||8|||
-|TVK 6||9|||
-|blackpink diaries 1||16|||
-|baby 2||6|||
-|the good doctor 2||18|||
-|la dernière vague 1||6|||
-|TV GER 9||17|||
-|DALS 10||20|||
-|DWTS 28||11|||
-|nailed it france 1||6|||
-|TV indonesia 4||22|||
-|nailed it 1||6|||
-|incroyable talent 14||8|||
-|the greatest dancer 1||8|||
-|TMS FR 1||12|||
-|SCD 17||25|||
-|TMS 2||13|||
-|wtfock 3||10|||
-|TV US 17||26|||
-|ANW 1||8|||
-|nailed it 2||7|||
-|RPDRUK 1||9|||
-|la petite mort 2||11|||
-|monsieur flap 2||8|||
-|nailed it 3||6|||
-|dracula uk 1||3|||
-|mortel 1||6|||
-|falconette 1||3|||
-|peur sur le lac 1||6|||
+|elite 2||8||espagne|
+|pékin express 12||10||france|
+|fastest car 2||7||us|
+|druck 4||9||allemagne|
+|baby 1||6||italie|
+|TMS DE 1||6||allemagne|
+|TMS AU 1||10||australie|
+|a discovery of witches 1||8||uk|
+|TVK 6||9||france|
+|blackpink diaries 1||16||corée|
+|baby 2||6||italie|
+|the good doctor 2||18||us|
+|la dernière vague 1||6||france|
+|TV GER 9||17||allemagne|
+|DALS 10||20||france|
+|DWTS 28||11||us|
+|nailed it france 1||6||france|
+|TV indonesia 4||22||indonésie|
+|nailed it 1||6||us|
+|incroyable talent 14||8||france|
+|the greatest dancer 1||8||uk|
+|TMS FR 1||12||france|
+|SCD 17||25||uk|
+|TMS 2||13||us|
+|wtfock 3||10||belgique|
+|TV US 17||26||us|
+|ANW 1||8||us|
+|nailed it 2||7||us|
+|RPDRUK 1||9||uk|
+|la petite mort 2||11||france|
+|monsieur flap 2||8||france|
+|nailed it 3||6||us|
+|dracula uk 1||3||uk|
+|mortel 1||6||france|
+|falconette 1||3||us|
+|peur sur le lac 1||6||france|
 |quien es la mascara 1||8|||
-|adventure time 2||26|||
-|la petite mort 3||10|||
-|munch 3||6|||
-|TMS UK 1||8|||
-|TV NL 10||17|||
-|TV AU 8||20|||
-|skam france 5||10|||
-|the greatest dancer 2||10|||
-|911 lone star 1||10|||
-|TVK BE 1||8|||
-|SCD 15||25|||
-|stalk 1||10|||
-|valemont 1||5|||
-|vampires 1||6|||
-|cheerleaders 1||35|||
-|la casa de papel 1||13|||
-|nailed it holiday 1||7|||
-|pékin express 13||6|||
-|the circle 1||12|||
-|elite 3||8|||
-|la casa de papel 2||9|||
-|TV AU 7||20|||
-|visible out on television 1||5|||
-|descendants wicked world 1||18|||
-|descendants wicked world 2||15|||
-|lego masters 1||10|||
-|monsieur flap 3||8|||
-|skam espana 3||9|||
-|carmilla 4||36|||
-|kaamelott 3||100|||
-|will and grace 11||18|||
-|october faction 1||10|||
-|ares 1||8|||
-|TVK DE 8||10|||
-|TMS DE 2||6|||
-|arrow 6||23|||
-|young sheldon 3||21|||
-|TV VV 5||16|||
-|les simpson 2||22|||
-|amours solitaires 1||23|||
-|TVS VV 1||4|||
-|TBBT 9||24|||
-|TV NL 6||17|||
-|TV UK 8||14|||
-|911 3||18|||
-|TVS NL 1||4|||
-|RPSCDR 1||4|||
-|RPDRU 12||12|||
-|TVS NL 2||4|||
-|cheerhab 1||8|||
-|cheerleaders 2||46|||
+|adventure time 2||26||us|
+|la petite mort 3||10||france|
+|munch 3||6||france|
+|TMS UK 1||8||uk|
+|TV NL 10||17||nl|
+|TV AU 8||20||australie|
+|skam france 5||10||france|
+|the greatest dancer 2||10||uk|
+|911 lone star 1||10||us|
+|TVK BE 1||8||blegique|
+|SCD 15||25||uk|
+|stalk 1||10||france|
+|valemont 1||5||us|
+|vampires 1||6||france|
+|cheerleaders 1||35||us|
+|la casa de papel 1||13||espagne|
+|nailed it holiday 1||7||us|
+|pékin express 13||6||france|
+|the circle 1||12||us|
+|elite 3||8||espagne|
+|la casa de papel 2||9||espagne|
+|TV AU 7||20||australie|
+|visible out on television 1||5||us|
+|descendants wicked world 1||18||us|
+|descendants wicked world 2||15||us|
+|lego masters 1||10||us|
+|monsieur flap 3||8||france|
+|skam espana 3||9||espagne|
+|carmilla 4||36||us|
+|kaamelott 3||100||france|
+|will and grace 11||18||us|
+|october faction 1||10||us|
+|ares 1||8||nl|
+|TVK DE 8||10||allemagne|
+|TMS DE 2||6||allemagne|
+|arrow 6||23||us|
+|young sheldon 3||21||us|
+|TV VV 5||16||vv|
+|les simpson 2||22||us|
+|amours solitaires 1||23||france|
+|TVS VV 1||4||vv|
+|TBBT 9||24||us|
+|TV NL 6||17||nl|
+|TV UK 8||14||uk|
+|911 3||18||us|
+|TVS NL 1||4||nnl|
+|RPSCDR 1||4||us|
+|RPDRU 12||12||us|
+|TVS NL 2||4||nl|
+|cheerhab 1||8||us|
+|cheerleaders 2||46||us|
 |the outs 1||7|||
-|TV US 18||17|||
-|TMS 3||18|||
-|TVK NL 1||9|||
-|cheerleaders 3||20|||
+|TV US 18||17||us|
+|TMS 3||18||us|
+|TVK NL 1||9||nl|
+|cheerleaders 3||20||us|
 |control z 1||8|||
-|alyssa's secret 2||52|||
-|cheerleaders champions league 1||6|||
-|RPDR 12||14|||
-|tharnType 1|tharnType|13|serie|thailande|  <!-- 2 -->
-|KL 24||15|||
-|TVK NL 9||13|||
-|la casa de papel 3||8|||
-|KUWTK 1||8|||
-|cheerhab 2||27|||
-|dancers just plain dancin 1||12|||
-|cheer 1||6|||
-|queer eye 3||8|||
-|kaamelott 4||100|||
-|eastsiders 4||6|||
-|cheerleaders 4||45|||
-|HIMYM 5||24|||
-|TV 9||17|||
-|bitmuch 2||6|||
-|top chef 11||18|||
-|love victor 1||10|||
-|cheerleaders 5||46|||
-|cheerleaders 6||41|||
-|skam france 6||10|||
-|dancers off the floor 1||10|||
-|ODAAT 4||7|||
-|cheerleaders 7||33|||
-|camping paradis 11||6|||
-|floor is lava 1||10|||
-|skam italia 4||10|||
-|queering 2||10|||
-|incroyable talent LBDJ 1||4|||
-|tales of the city 1||6|||
-|the order 1||10|||
-|TV AU 9||21|||
+|alyssa's secret 2||52||us|
+|cheerleaders champions league 1||6||us|
+|RPDR 12||14||us|
+|tharnType 1|tharnType|13|serie|thailande|  
+|KL 24||15||france|
+|TVK NL 9||13||nl|
+|la casa de papel 3||8||espagne|
+|KUWTK 1||8||us|
+|cheerhab 2||27||us|
+|dancers just plain dancin 1||12||us|
+|cheer 1||6||us|
+|queer eye 3||8||us|
+|kaamelott 4||100||france|
+|eastsiders 4||6||us|
+|cheerleaders 4||45||us|
+|HIMYM 5||24||us|
+|TV 9||17||france|
+|bitmuch 2||6||france|
+|top chef 11||18||france|
+|love victor 1||10||us|
+|cheerleaders 5||46||us|
+|cheerleaders 6||41||us|
+|skam france 6||10||france|
+|dancers off the floor 1||10||us|
+|ODAAT 4||7||us|
+|cheerleaders 7||33||us|
+|camping paradis 11||6||france|
+|floor is lava 1||10||us|
+|skam italia 4||10||italie|
+|queering 2||10||us|
+|incroyable talent LBDJ 1||4||france|
+|tales of the city 1||6||us|
+|the order 1||10||us|
+|TV AU 9||21||australie|
 |boca a boca 1||6|||
-|why r u 1|why r u|13|serie|thailande| <!-- 3 -->
-|RPDRAS 5||8|||
-|RPDRASU 2||8|||
-|sing on esp 1||8|||
-|cheerleaders 8||38|||
-|sotus 1|sotus|16|serie|thailande|<!-- 4 -->
-|ultimate tag 1||10|||
-|he she it 1|he she it|3|serie|thailande|   <!-- 5 -->
-|skin wars fresh paint 1||9|||
+|why r u 1|why r u|13|serie|thailande|  <!-- 3 -->
+|RPDRAS 5||8||us|
+|RPDRASU 2||8||us|
+|sing on esp 1||8||espagne|
+|cheerleaders 8||38||us|
+|sotus 1|sotus|16|serie|thailande| <!-- 4 -->
+|ultimate tag 1||10||us|
+|he she it 1|he she it|3|serie|thailande|  <!-- 5 -->
+|skin wars fresh paint 1||9||us|
 |sotus 2|sotus s|13|serie|thailande|       <!-- 6 -->
 |reminderS 1|reminderS|3|serie|thailande|   <!-- 7 -->
 |awake 1||8|||
 |KUWTK 2||11|||
-|la course des champions 1||4|||
+|la course des champions 1||4||france|
 |sing on ger 1||7|||
 |the titan games 2||12|||
 |the order 2||10|||
@@ -191,16 +191,16 @@
 |2wish 1|2wish|2|serie|thailande|                         <!-- 20 -->
 |AGT 15||25|||
 |where your eyes linger 1|where your eyes linger|8|serie|corée|  <!-- 21 -->
-|grand hotel 1||8|||
+|grand hotel 1||8||france|
 |RPDR vegas revue 1||6|||
 |my engineer summer trip 1|my engineer summer trip|3|show|thailande| <!-- 22 -->
 |until we meet again 1|until we meet again|18|serie|thailande| <!-- 23 -->
-|clem 10||6|||
+|clem 10||6||france|
 |history1.3|history1 stay away from me|4|serie|taiwan|
 |mr heart 1|mr heart|8|serie|corée|             <!-- 25 -->
 |en of love 1|en of love tossara|4|serie|thailande|              <!-- 26 -->
 |history1.2|history1 obsessed|4|serie|taiwan|    <!-- 24 -->
-|TVK 7||8|||
+|TVK 7||8||france|
 |discipline|discipline|6|serie(*)|corée|
 |en of love 2|en of love love mechanics|4|serie|thailande|
 |yyy 1.5|yyy special|3|serie|thailande|
@@ -234,7 +234,7 @@
 |TMS DE 3||6|||
 |long time no see|long time no see|5|serie|corée|
 |druck 5||10|||
-|TMS FR 2||6|||
+|TMS FR 2||6||france|
 |the gifted 2|the gifted graduation|13|serie(**)|thailande|
 |cheerleaders new jersey 1||30|||
 |safe haven|safe haven|15|serie|philippines|
@@ -247,12 +247,12 @@
 |TVS VV 2||4|||
 |calculating love|calculating love|6|serie|thailande|
 |ICSYV 1||10|||
-|incroyable talent 15||8|||
+|incroyable talent 15||8||france|
 |TV US 19||18|||
 |oh mando|oh mando|6|serie|philippines|
 |TMS 4||13|||
 |discipline 2|discipline z : vampire|6|serie|corée|
-|FPCFPC 9(spe)||1|||
+|FPCFPC 9(spe)||1||france|
 |why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 58 -->
 |SCD 18||17|||
 |TV GER 10||19|||
@@ -263,11 +263,11 @@
 |offgun fun night 2|offgun fun night 2|12+2|show|thailande|<!--  -->
 |meet me outside|meet me outside|6|serie|philippines|<!-- 68 -->
 |BT21 universe 1||13|||
-|district z 1||5|||
+|district z 1||5||france|
 |ingredients|ingredients|21+1|serie|thailande|<!--  -->
 |TV VV 6||16|||
 |gameboys|gameboys|13+1|serie|philippines|<!-- 11 -->
-|lego masters fr 1||4|||
+|lego masters fr 1||4||france|
 |my extraordinary|my extraordinary|8|serie|philippines|<!-- -->
 |interested in 1||5|||
 |cheat|cheat|6|serie|philippines|<!-- 26 -->
@@ -277,7 +277,7 @@
 |sweet home 1||10|||<!--  -->
 |bonding 2||8|||
 |friend.ship with krist-singto|friend.ship with krist-singto|6+3|show|thailande|<!-- 34 -->
-|ninja warrior 5||5|||<!--  -->
+|ninja warrior 5||5||france|<!--  -->
 |to my star 1||9|||<!--  -->
 |we best love|we best love no1 for you|6+1|serie|taiwan|<!--  -->
 |fools 1||4|||<!--  -->
@@ -293,7 +293,7 @@
 |dancing on ice uk 12||10|||<!--  -->
 |name that tune 1||10|||<!--  -->
 |evening cafe|evening cafe|4|serie|thailande|
-||||||
+|bt21 universe 2||11|||
 ||||||
 ||||||
 ||||||
@@ -432,56 +432,56 @@
 |young sheldon 4|||||8|<!--  -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|4|<!-- 22 -->
 |my vampire boyfriend 1||12|||6|<!--  -->
-|TV NL 11|||||11|<!--  -->
+|TV NL 11||?|||11|                                                                                  <!--  -->
 |be love|be love|4|serie|japon|2|<!-- 25 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |tale of the nine tailed 1|||||1|<!--  -->
 |a queen is born 1|||||1|<!--  -->
 |FDTD 2|||||3|<!--  -->
-|happenstance 1|happenstance|9|serie|philippines|8|<!-- 30 -->
+|happenstance 1|happenstance|9|serie|philippines|8|                                                 <!-- 30 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
-|LLS 1|||||97|<!--  -->
-|TV BE 9|||||3|<!--  -->
+|LLS 1|||||108|<!--  -->
+|TV BE 9|||||10|<!--  -->
 |mako ventures 1|mako ventures|?|show|philippines|9|<!-- 33 -->
-|RPDR 13||16|||8|<!--  -->
-|RPDRU 13||14|||8|<!--  -->
+|RPDR 13||16|||9|<!--  -->
+|RPDRU 13||14|||9|<!--  -->
 |together with me 1|together with me|?|serie|thailande|1|<!--35  -->
 |TV UK 10|||||9|<!--  -->
 |RPDRU 9|||||7|<!--  -->
 |unlocked 1|unlocked|9|serie|philippines|2|<!--  -->
 |romantic blue 1|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door 1|pearl next door|8|serie(***)|philippines|2|<!--  -->
-|RPDRUK 2||11|||7|<!--  -->
+|RPDRUK 2||10|||8|                                                                                  <!--  -->
 |warper series 1|warper series|?|show|thailande|1|<!--  -->
 |TV NO 6|||||8|<!--  -->
-|dancing on ice uk 13||10|||5|<!--  -->
+|dancing on ice uk 13||8|||7|                                                                       <!--  -->
 |koishite akuma 1||?|||3|<!--  -->
-|911 4||14|||6|<!--  -->
-|911 lone star 2||14|||6|<!--  -->
-|skam fr 7||10|||6|<!--  -->
+|911 4||14|||7|<!--  -->
+|911 lone star 2||14|||7|<!--  -->
+|skam fr 7||10|||8|                                                                                 <!--  -->
 |tien bromance 1||10|||1|<!--  -->
-|1000 stars 1||12|||5|<!--  -->
+|1000 stars 1||10|||6|<!--  -->
 |slam dance 1||?|||1|<!--  -->
 |you never eat alone 1||10|||2|<!--  -->
-|school's out let's date now 1||?|||2|<!--  -->
-|TV VV 7||16|||1|<!--  -->
+|school's out let's date now 1||?|||4|<!--  -->
+|TV VV 7||16|||5|<!--  -->
 |TV FR 10||?|||4|<!--  -->
 |TBBT 11||24|||1|<!--  -->
 |wabi vlog 1||?|||1|<!--  -->
 |wabi game 1||?|||1|<!--  -->
 |the harvest season 1||?|||1|<!--  -->
-|top chef 12||?|||3|<!--  -->
+|top chef 12||?|||4|<!--  -->
 |bangkok love stories innocence 1||?|||1|<!--  -->
-|girl2k 1||10|||4|<!--  -->
+|girl2k 1||10|||6|                                                                                  <!--  -->
 |given 1||?|||2|<!--  -->
 |meet my angel 1||?|||1|<!--  -->
 |history3.1|history3 trapped|20|||1|<!--  -->
 |PE 14||?|||1|<!--  -->
 |lovely writer 1||?|||1|<!--  -->
-|you make me dance 1||8|||2|<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
+|you make me dance 1||8|||2|                                                                        <!--  -->
+|tvk ger 9||?|||1|<!--  -->
+|TV US 20||?|||2|<!--  -->
+|WBL 2||6|||1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -498,11 +498,10 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|TV US 20||?|||0|<!--  -->
 |KL 26||?|||0|<!--  -->
 |TMS 5||?|||0|<!--  -->
-|game of talents 1|||||0|<!--  -->
-|||||||<!--  -->
+|game of talents 1||?|||0|<!--  -->
+|fish upon the sky||?|||0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
