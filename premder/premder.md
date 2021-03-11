@@ -42,7 +42,6 @@ Unbag 1x16
 Given 1x2
 * Meet my angel 1x1
 * Given 1x1
-Happenstance 1x8
 * Girl2k 1x1
 Unlocked 1x2
 Pearl next door 1x3
@@ -95,7 +94,6 @@ Joséphine ange gardien 23x4
 Capture lover 1x2
 * Roommate 2x1
 From dusk till dawn 2x3
-* Happenstance 1x1
 * From dusk till dawn 2x1
 Lakan 1x4
 * A queen is born 1x1
