@@ -2,7 +2,12 @@ document.write(`
 <div id="menu">
 <h2>MENU</h2>
 <ul>
-  <li><a href="index.html">accueil</a></li>
+  <li><a href="#">accueil</a>
+    <ul>
+      <li><a href="index.html">debut et sorties</a></li>
+      <li><a href="sheets.html">app sheets</a></li>
+    </ul>
+  </li>
   <li><a href="#">tableaux</a>
     <ul>
       <li><a href="tab2020.html">2020</a></li>
