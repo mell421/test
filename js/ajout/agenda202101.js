@@ -12,7 +12,7 @@ document.write(`
     </tr>
     <tr>
         <td>4</td>
-        <td>5<br>you never eat alone 103</td>
+        <td>5</td>
         <td>6<br>gen y 109</td>
         <td>7</td>
         <td>8<br><span class="debut">ADOW 201</span><br>tharnType 209</td>
@@ -20,7 +20,7 @@ document.write(`
     </tr>
     <tr>
         <td>11</td>
-        <td>12<br>you never eat alone 104<br>TGDO 406</td>
+        <td>12<br>TGDO 406</td>
         <td>13<br>gen y 110</td>
         <td>14</td>
         <td>15<br>tharnType 210<br>ADOW 202</td>

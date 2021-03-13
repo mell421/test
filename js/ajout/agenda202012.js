@@ -19,7 +19,7 @@ document.write(`
               <td>8<br>gen y 105</td>
               <td>9</td>
               <td>10</td>
-              <td>11<br>tharnType 206</td>
+              <td>11</td>
               <td>12</td>
               <td>13</td>
           </tr>
