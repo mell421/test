@@ -10,7 +10,7 @@
 list=( "Lls _1" "Unbag _1" 
 "The voice nl _11" "Mako ventures _1" "The voice be _9" "The voice uk _10" "Wabi vlog _1" "The voice no _6" "Young sheldon _4" 
 "/9-1-1 lone star _2" "Sea him _1" "Rpdru _13" "My vampire boyfriend _1" "Skam fr _7" "Rpdr _13" "Girl2k _1" "/9-1-1 _4" 
-"Rpdruk _2" "Dancing on ice uk _13" "The harvest season _1" "Love in time _1" "Koishite akuma _1" 
+"Rpdruk _2" "The harvest season _1" "Love in time _1" "Koishite akuma _1" 
 "Given _1" "TharnType _2" "You make me dance _1" "Pearl next door _1" "Be love _1" "1000 stars _1" "Wabi show _1" )
 
 # entre 9 et 4

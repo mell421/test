@@ -4,7 +4,6 @@
 10/03/21
 
 ### tisaep all
-Dancing on ice uk 13x7
 Lls 1x108
 Mako ventures 1x10
 The voice 10x5
@@ -74,7 +73,6 @@ Ben x jim 1x2
 * 911 4x1
 Koishite akuma 1x3
 * Koishite akuma 1x1
-* Dancing on ice uk 13x1
 * The voice no 6x1
 * Warper series 1x1
 * Rpdruk 2x1

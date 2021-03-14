@@ -82,7 +82,6 @@ function file(fichier)
 
 <p class="centrer"><input type="button" value="Générer" onclick="random()" /></p>
 
-<p style="font-size:0.7em; text-align:right">propulsé par <a href="http://www.infowebmaster.fr/" target="blank">InfoWebMaster</a></p>
 </form>
 
 </body></html>
