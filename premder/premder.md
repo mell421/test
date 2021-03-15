@@ -58,7 +58,6 @@ Wabi game 1x2
 The untamed 1x3
 * The voice 10x1
 * The voice vv 7x1
-Sea him 1x7
 * Schools out lets date now 1x1
 * You never eat alone 1x1
 * Slam dance 1x1
@@ -105,7 +104,6 @@ Pogi lang hanap 1x4
 * Young sheldon 4x1
 Blood 1x16
 * The good doctor 4x1
-* Sea him 1x1
 Swap test 1x2
 * The stranded 1x1
 * Lakan 1x1
