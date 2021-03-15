@@ -296,6 +296,7 @@
 |bt21 universe 2||11|||
 |happenstance|happenstance|9|serie|philippines|<!-- 23 -->
 |dancing on ice uk 13||8|||<!--  -->
+|survivor au 7||25|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -354,7 +355,6 @@
 |orange marmelade 1|||||6|<!--  -->
 |ragnarok 1|||||2|<!--  -->
 |TMS NL 1||||||<!--  -->
-|survivor au 7|||||16|<!--  -->
 |next in fashion 1||||||<!--  -->
 |3% 3|||||3|<!--  -->
 |IANOWT 1|||||3|<!--  -->

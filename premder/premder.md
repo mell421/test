@@ -125,7 +125,6 @@ We are not human 1x18
 * Friend forever 1x1
 * My day 1x1
 Drag race holland 1x2
-Survivor au 7x16
 * Love in time 1x1
 * Drag race holland 1x1
 * Baby 3x1
@@ -216,7 +215,6 @@ Ragnarok 1x2
 /3% 3x3
 Imortal 1x10
 * Next in fashion 1x1
-* Survivor au 7x1
 * The masked singer nl 1x1
 * Ragnarok 1x1
 Orange marmelade 1x6

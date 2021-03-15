@@ -70,69 +70,69 @@ The voice kids ger _9x2(1) Skam fr _7x8(5) The voice _10x5(4) The voice uk _10x1
 ### conclu 09/01/21 
 > Lls _1 > 3; Rpdru _9 > 2; We are not human _1 > 1; 
 ### conclu 10/01/21 
-> Lls _1 > 3; We are not human _1 > 2; Rpdru _9 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; We are not human _1 > 2; Rpdru _9 > 1; 
 ### conclu 11/01/21 
-> Lls _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 3; We are not human _1 > 2; 
 ### conclu 12/01/21 
-> Lls _1 > 3; Rpdru _9 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 3; Rpdru _9 > 2; We are not human _1 > 2; 
 ### conclu 13/01/21 
-> Lls _1 > 3; The voice be _9 > 2; We are not human _1 > 2; Pearl next door _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; The voice be _9 > 2; We are not human _1 > 2; Pearl next door _1 > 1; 
 ### conclu 14/01/21 
-> Lls _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 3; We are not human _1 > 2; 
 ### conclu 15/01/21 
-> Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Pearl next door _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Pearl next door _1 > 1; 
 ### conclu 16/01/21 
-> Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; 
 ### conclu 17/01/21 
-> Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; 
 ### conclu 18/01/21 
-> Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Koishite akuma _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Koishite akuma _1 > 1; 
 ### conclu 19/01/21 
-> Lls _1 > 3; Unbag _1 > 3; Koishite akuma _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; The voice nl _11 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; Koishite akuma _1 > 2; We are not human _1 > 2; The voice nl _11 > 1; 
 ### conclu 20/01/21 
-> Lls _1 > 3; Unbag _1 > 3; Koishite akuma _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; The voice nl _11 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; Koishite akuma _1 > 2; We are not human _1 > 2; The voice nl _11 > 1; 
 ### conclu 21/01/21 
-> Lls _1 > 3; Unbag _1 > 3; Koishite akuma _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; Koishite akuma _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; 
 ### conclu 22/01/21 
-> Lls _1 > 3; Koishite akuma _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; Survivor au _7 > 1; The voice nl _11 > 1; 
+> Lls _1 > 3; Koishite akuma _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; The voice nl _11 > 1; 
 ### conclu 23/01/21 
 > Lls _1 > 3; Koishite akuma _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Mako ventures _1 > 1; Rpdr _13 > 1; Young sheldon _4 > 1; 
 ### conclu 24/01/21 
-> Lls _1 > 3; The voice no _6 > 3; The voice nl _11 > 2; We are not human _1 > 2; Koishite akuma _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; The voice no _6 > 3; The voice nl _11 > 2; We are not human _1 > 2; Koishite akuma _1 > 1; 
 ### conclu 25/01/21 
-> Lls _1 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; 
 ### conclu 26/01/21 
-> Lls _1 > 6; Mako ventures _1 > 3; We are not human _1 > 2; /9-1-1 lone star _2 > 1; Survivor au _7 > 1; 
+> Lls _1 > 6; Mako ventures _1 > 3; We are not human _1 > 2; /9-1-1 lone star _2 > 1; 
 ### conclu 27/01/21 
-> Lls _1 > 6; The voice be _9 > 3; Mako ventures _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 6; The voice be _9 > 3; Mako ventures _1 > 2; We are not human _1 > 2; 
 ### conclu 28/01/21 
-> Lls _1 > 6; Mako ventures _1 > 4; We are not human _1 > 2; Survivor au _7 > 1; The voice be _9 > 1; 
+> Lls _1 > 6; Mako ventures _1 > 4; We are not human _1 > 2; The voice be _9 > 1; 
 ### conclu 29/01/21 
-> Lls _1 > 6; Mako ventures _1 > 4; Unbag _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 6; Mako ventures _1 > 4; Unbag _1 > 2; We are not human _1 > 2; 
 ### conclu 30/01/21 
-> Lls _1 > 6; Mako ventures _1 > 2; The voice no _6 > 2; Unbag _1 > 2; We are not human _1 > 2; Rpdru _13 > 1; Survivor au _7 > 1; 
+> Lls _1 > 6; Mako ventures _1 > 2; The voice no _6 > 2; Unbag _1 > 2; We are not human _1 > 2; Rpdru _13 > 1; 
 ### conclu 31/01/21 
-> Lls _1 > 6; Mako ventures _1 > 5; Unbag _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 6; Mako ventures _1 > 5; Unbag _1 > 2; We are not human _1 > 2; 
 ### conclu 01/02/21 
-> Lls _1 > 6; Mako ventures _1 > 5; Unbag _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 6; Mako ventures _1 > 5; Unbag _1 > 2; We are not human _1 > 2; 
 ### conclu 02/02/21 
-> Lls _1 > 3; Mako ventures _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; The voice nl _11 > 1; 
+> Lls _1 > 3; Mako ventures _1 > 3; Unbag _1 > 3; We are not human _1 > 2; The voice nl _11 > 1; 
 ### conclu 03/02/21 
-> Lls _1 > 3; Mako ventures _1 > 3; Unbag _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; The voice nl _11 > 1; 
+> Lls _1 > 3; Mako ventures _1 > 3; Unbag _1 > 3; We are not human _1 > 2; The voice nl _11 > 1; 
 ### conclu 04/02/21 
-> Lls _1 > 3; Unbag _1 > 3; Mako ventures _1 > 2; We are not human _1 > 2; Survivor au _7 > 1; The voice nl _11 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; Mako ventures _1 > 2; We are not human _1 > 2; The voice nl _11 > 1; 
 ### conclu 05/02/21 
-> Lls _1 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Sea him _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Sea him _1 > 1; 
 ### conclu 06/02/21 
-> Lls _1 > 3; Rpdr _13 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Sea him _1 > 1; Survivor au _7 > 1; The voice vv _7 > 1; 
+> Lls _1 > 3; Rpdr _13 > 3; Mako ventures _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Sea him _1 > 1; The voice vv _7 > 1; 
 ### conclu 07/02/21 
-> Mako ventures _1 > 4; Lls _1 > 3; The voice uk _10 > 3; The voice nl _11 > 2; We are not human _1 > 2; Survivor au _7 > 1; The voice _10 > 1; 
+> Mako ventures _1 > 4; Lls _1 > 3; The voice uk _10 > 3; The voice nl _11 > 2; We are not human _1 > 2; The voice _10 > 1; 
 ### conclu 08/02/21 
-> The voice nl _11 > 6; Lls _1 > 3; Mako ventures _1 > 3; We are not human _1 > 2; Survivor au _7 > 1; 
+> The voice nl _11 > 6; Lls _1 > 3; Mako ventures _1 > 3; We are not human _1 > 2; 
 ### conclu 09/02/21 
-> The voice nl _11 > 4; /9-1-1 lone star _2 > 3; Lls _1 > 3; Mako ventures _1 > 3; /9-1-1 _4 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
+> The voice nl _11 > 4; /9-1-1 lone star _2 > 3; Lls _1 > 3; Mako ventures _1 > 3; /9-1-1 _4 > 2; We are not human _1 > 2; 
 ### conclu 10/02/21 
-> Lls _1 > 3; Mako ventures _1 > 3; Wabi vlog _1 > 3; The harvest season _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; Survivor au _7 > 1; The voice be _9 > 1; Wabi show _1 > 1; 
+> Lls _1 > 3; Mako ventures _1 > 3; Wabi vlog _1 > 3; The harvest season _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; The voice be _9 > 1; Wabi show _1 > 1; 
 ### conclu 11/02/21 
 > Mako ventures _1 > 4; Lls _1 > 3; The harvest season _1 > 3; The voice nl _11 > 2; Wabi vlog _1 > 2; We are not human _1 > 2; 
 ### conclu 12/02/21 
@@ -148,33 +148,33 @@ The voice kids ger _9x2(1) Skam fr _7x8(5) The voice _10x5(4) The voice uk _10x1
 ### conclu 17/02/21 
 > The voice be _9 > 4; Lls _1 > 3; Unbag _1 > 3; /9-1-1 lone star _2 > 2; Rpdru _13 > 2; We are not human _1 > 2; /9-1-1 _4 > 1; Tokyo ghoul _3 > 1; 
 ### conclu 18/02/21 
-> My vampire boyfriend _1 > 4; The voice be _9 > 4; Lls _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 2; We are not human _1 > 2; Rpdru _13 > 1; Survivor au _7 > 1; 
+> My vampire boyfriend _1 > 4; The voice be _9 > 4; Lls _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 2; We are not human _1 > 2; Rpdru _13 > 1; 
 ### conclu 19/02/21 
 > Lls _1 > 3; My vampire boyfriend _1 > 3; Rpdruk _2 > 3; The voice nl _11 > 2; Wabi vlog _1 > 2; We are not human _1 > 2; Girl2k _1 > 1; 
 ### conclu 20/02/21 
-> Rpdru _13 > 5; Lls _1 > 3; My vampire boyfriend _1 > 3; Rpdr _13 > 2; The voice nl _11 > 2; We are not human _1 > 2; Survivor au _7 > 1; The voice no _6 > 1; 
+> Rpdru _13 > 5; Lls _1 > 3; My vampire boyfriend _1 > 3; Rpdr _13 > 2; The voice nl _11 > 2; We are not human _1 > 2; The voice no _6 > 1; 
 ### conclu 21/02/21 
-> Lls _1 > 3; Mako ventures _1 > 3; My vampire boyfriend _1 > 3; The voice uk _10 > 3; Rpdru _13 > 2; The voice nl _11 > 2; We are not human _1 > 2; Survivor au _7 > 1; 
+> Lls _1 > 3; Mako ventures _1 > 3; My vampire boyfriend _1 > 3; The voice uk _10 > 3; Rpdru _13 > 2; The voice nl _11 > 2; We are not human _1 > 2; 
 ### conclu 22/02/21 
-> Lls _1 > 3; Mako ventures _1 > 3; My vampire boyfriend _1 > 3; Rpdru _13 > 3; The voice uk _10 > 3; The voice nl _11 > 2; We are not human _1 > 2; Given _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; Mako ventures _1 > 3; My vampire boyfriend _1 > 3; Rpdru _13 > 3; The voice uk _10 > 3; The voice nl _11 > 2; We are not human _1 > 2; Given _1 > 1; 
 ### conclu 23/02/21 
-> Lls _1 > 3; Rpdru _13 > 3; The voice nl _11 > 3; Wabi vlog _1 > 3; /9-1-1 lone star _2 > 2; Given _1 > 2; Mako ventures _1 > 2; We are not human _1 > 2; /9-1-1 _4 > 1; Girl2k _1 > 1; Survivor au _7 > 1; The voice uk _10 > 1;
+> Lls _1 > 3; Rpdru _13 > 3; The voice nl _11 > 3; Wabi vlog _1 > 3; /9-1-1 lone star _2 > 2; Given _1 > 2; Mako ventures _1 > 2; We are not human _1 > 2; /9-1-1 _4 > 1; Girl2k _1 > 1; The voice uk _10 > 1;
 ### conclu 24/02/21 
-> The voice be _9 > 4; Given _1 > 3; Lls _1 > 3; The voice nl _11 > 3; Wabi vlog _1 > 3; Girl2k _1 > 2; We are not human _1 > 2; /9-1-1 lone star _2 > 1; Mako ventures _1 > 1; My vampire boyfriend _1 > 1; Survivor au _7 > 1; 
+> The voice be _9 > 4; Given _1 > 3; Lls _1 > 3; The voice nl _11 > 3; Wabi vlog _1 > 3; Girl2k _1 > 2; We are not human _1 > 2; /9-1-1 lone star _2 > 1; Mako ventures _1 > 1; My vampire boyfriend _1 > 1; 
 ### conclu 25/02/21 
-> The voice be _9 > 4; Girl2k _1 > 3; Lls _1 > 3; The voice nl _11 > 3; Wabi vlog _1 > 3; Given _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; Survivor au _7 > 1; 
+> The voice be _9 > 4; Girl2k _1 > 3; Lls _1 > 3; The voice nl _11 > 3; Wabi vlog _1 > 3; Given _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; 
 ### conclu 26/02/21 
-> Lls _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; Girl2k _1 > 2; Rpdruk _2 > 2; The voice be _9 > 2; We are not human _1 > 2; Given _1 > 1; Mako ventures _1 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; Girl2k _1 > 2; Rpdruk _2 > 2; The voice be _9 > 2; We are not human _1 > 2; Given _1 > 1; Mako ventures _1 > 1; 
 ### conclu 27/02/21 
-> Lls _1 > 3; The voice nl _11 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; You make me dance _1 > 3; Skam fr _7 > 2; We are not human _1 > 2; Girl2k _1 > 1; Survivor au _7 > 1; The voice be _9 > 1; 
+> Lls _1 > 3; The voice nl _11 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; You make me dance _1 > 3; Skam fr _7 > 2; We are not human _1 > 2; Girl2k _1 > 1; The voice be _9 > 1; 
 ### conclu 28/02/21 
-> Lls _1 > 3; The voice uk _10 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; You make me dance _1 > 3; The voice nl _11 > 2; We are not human _1 > 2; Girl2k _1 > 1; Skam fr _7 > 1; Survivor au _7 > 1; 
+> Lls _1 > 3; The voice uk _10 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; You make me dance _1 > 3; The voice nl _11 > 2; We are not human _1 > 2; Girl2k _1 > 1; Skam fr _7 > 1; 
 ### conclu 01/03/21 
-> Skam fr _7 > 5; Lls _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; The voice nl _11 > 2; The voice uk _10 > 2; We are not human _1 > 2; You make me dance _1 > 2; Survivor au _7 > 1; 
+> Skam fr _7 > 5; Lls _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; The voice nl _11 > 2; The voice uk _10 > 2; We are not human _1 > 2; You make me dance _1 > 2; 
 ### conclu 02/03/21 
-> Lls _1 > 3; Skam fr _7 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; /9-1-1 lone star _2 > 2; The voice nl _11 > 2; We are not human _1 > 2; You make me dance _1 > 2; /9-1-1 _4 > 1; Survivor au _7 > 1; Young sheldon _4 > 1; 
+> Lls _1 > 3; Skam fr _7 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; /9-1-1 lone star _2 > 2; The voice nl _11 > 2; We are not human _1 > 2; You make me dance _1 > 2; /9-1-1 _4 > 1; Young sheldon _4 > 1; 
 ### conclu 03/03/21 
-> Lls _1 > 6; The voice nl _11 > 6; The voice be _9 > 3; Skam fr _7 > 2; Unbag _1 > 2; We are not human _1 > 2; /9-1-1 lone star _2 > 1; Survivor au _7 > 1; You make me dance _1 > 1; 
+> Lls _1 > 6; The voice nl _11 > 6; The voice be _9 > 3; Skam fr _7 > 2; Unbag _1 > 2; We are not human _1 > 2; /9-1-1 lone star _2 > 1; You make me dance _1 > 1; 
 
 
 
@@ -186,129 +186,129 @@ The voice kids ger _9x2(1) Skam fr _7x8(5) The voice _10x5(4) The voice uk _10x1
 ## conclu bis
 
 ### concluBis 01/01/21 
-> Lls _1 > 15; Unbag _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 15; Unbag _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 02/01/21 
-> Lls _1 > 15; Unbag _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 15; Unbag _1 > 3; We are not human _1 > 3; Sea him _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 03/01/21 
-> Unbag _1 > 5; Lls _1 > 5; Sea him _1 > 4; We are not human _1 > 3; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 5; Lls _1 > 5; Sea him _1 > 4; We are not human _1 > 3; Ghost runner _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 04/01/21 
-> Unbag _1 > 5; Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 5; Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; Sea him _1 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 05/01/21 
-> Unbag _1 > 5; Rpdru _9 > 5; Lls _1 > 5; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 5; Rpdru _9 > 5; Lls _1 > 5; We are not human _1 > 3; Sea him _1 > 2; Ghost runner _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 06/01/21 
-> Unbag _1 > 5; Lls _1 > 5; Friend zone _1 > 4; Rpdru _9 > 3; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Unbag _1 > 5; Lls _1 > 5; Friend zone _1 > 4; Rpdru _9 > 3; We are not human _1 > 3; Sea him _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 07/01/21 
-> Unbag _1 > 5; Lls _1 > 5; Rpdru _9 > 3; We are not human _1 > 3; Sea him _1 > 2; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Unbag _1 > 5; Lls _1 > 5; Rpdru _9 > 3; We are not human _1 > 3; Sea him _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 08/01/21 
-> Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; Survivor au _7 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 09/01/21 
-> Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; TharnType _2 > 2; Survivor au _7 > 2; Rpdru _13 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; TharnType _2 > 2; Rpdru _13 > 1; Kaamelott _5 > 1; 
 ### concluBis 10/01/21 
-> Lls _1 > 5; We are not human _1 > 4; Rpdru _9 > 3; Survivor au _7 > 3; Kaamelott _5 > 2; Unbag _1 > 1; 
+> Lls _1 > 5; We are not human _1 > 4; Rpdru _9 > 3; Kaamelott _5 > 2; Unbag _1 > 1; 
 ### concluBis 11/01/21 
-> Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; TharnType _2 > 1; The voice uk _10 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 5; We are not human _1 > 4; TharnType _2 > 1; The voice uk _10 > 1; Kaamelott _5 > 1; 
 ### concluBis 12/01/21 
-> Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 4; Survivor au _7 > 3; Kaamelott _5 > 2; TharnType _2 > 1; The voice uk _10 > 1; Unbag _1 > 1; 
+> Lls _1 > 5; Rpdru _9 > 4; We are not human _1 > 4; Kaamelott _5 > 2; TharnType _2 > 1; The voice uk _10 > 1; Unbag _1 > 1; 
 ### concluBis 13/01/21 
-> The voice be _9 > 6; Lls _1 > 5; We are not human _1 > 4; Pearl next door _1 > 3; Survivor au _7 > 3; Kaamelott _5 > 2; TharnType _2 > 1; Unbag _1 > 1; 
+> The voice be _9 > 6; Lls _1 > 5; We are not human _1 > 4; Pearl next door _1 > 3; Kaamelott _5 > 2; TharnType _2 > 1; Unbag _1 > 1; 
 ### concluBis 14/01/21 
-> Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; Kaamelott _5 > 2; Pearl next door _1 > 1; Unbag _1 > 1; 
+> Lls _1 > 5; We are not human _1 > 4; Kaamelott _5 > 2; Pearl next door _1 > 1; Unbag _1 > 1; 
 ### concluBis 15/01/21 
-> Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; Pearl next door _1 > 3; Survivor au _7 > 3; Rpdruk _2 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; Pearl next door _1 > 3; Rpdruk _2 > 1; Kaamelott _5 > 1; 
 ### concluBis 16/01/21 
-> Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; Sea him _1 > 2; Pearl next door _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; Sea him _1 > 2; Pearl next door _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 17/01/21 
-> Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; The voice nl _11 > 2; Pearl next door _1 > 2; Sea him _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 2; Pearl next door _1 > 2; Sea him _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 18/01/21 
-> Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; Koishite akuma _1 > 3; Survivor au _7 > 3; The voice no _6 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; Koishite akuma _1 > 3; The voice no _6 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
 ### concluBis 19/01/21 
-> Unbag _1 > 7; The voice nl _11 > 5; Lls _1 > 5; Koishite akuma _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice no _6 > 2; Kaamelott _5 > 1; 
+> Unbag _1 > 7; The voice nl _11 > 5; Lls _1 > 5; Koishite akuma _1 > 4; We are not human _1 > 4; The voice no _6 > 2; Kaamelott _5 > 1; 
 ### concluBis 20/01/21 
-> Unbag _1 > 7; The voice nl _11 > 5; Lls _1 > 5; Koishite akuma _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice be _9 > 2; The voice no _6 > 2; Kaamelott _5 > 1; 
+> Unbag _1 > 7; The voice nl _11 > 5; Lls _1 > 5; Koishite akuma _1 > 4; We are not human _1 > 4; The voice be _9 > 2; The voice no _6 > 2; Kaamelott _5 > 1; 
 ### concluBis 21/01/21 
-> Unbag _1 > 7; Lls _1 > 5; Mako ventures _1 > 4; Koishite akuma _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice nl _11 > 2; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Lls _1 > 5; Mako ventures _1 > 4; Koishite akuma _1 > 4; We are not human _1 > 4; The voice nl _11 > 2; Kaamelott _5 > 1; 
 ### concluBis 22/01/21 
-> The voice nl _11 > 5; Lls _1 > 5; Mako ventures _1 > 4; Koishite akuma _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; Young sheldon _4 > 2; Unbag _1 > 2; The voice no _6 > 1; Kaamelott _5 > 1; 
+> The voice nl _11 > 5; Lls _1 > 5; Mako ventures _1 > 4; Koishite akuma _1 > 4; We are not human _1 > 4; Young sheldon _4 > 2; Unbag _1 > 2; The voice no _6 > 1; Kaamelott _5 > 1; 
 ### concluBis 23/01/21 
-> The voice nl _11 > 6; Lls _1 > 5; Koishite akuma _1 > 4; We are not human _1 > 4; Young sheldon _4 > 3; Rpdr _13 > 3; Mako ventures _1 > 3; Survivor au _7 > 3; Unbag _1 > 2; The voice no _6 > 1; Kaamelott _5 > 1; 
+> The voice nl _11 > 6; Lls _1 > 5; Koishite akuma _1 > 4; We are not human _1 > 4; Young sheldon _4 > 3; Rpdr _13 > 3; Mako ventures _1 > 3; Unbag _1 > 2; The voice no _6 > 1; Kaamelott _5 > 1; 
 ### concluBis 24/01/21 
-> The voice no _6 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Koishite akuma _1 > 3; Survivor au _7 > 3; Young sheldon _4 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
+> The voice no _6 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Koishite akuma _1 > 3; Young sheldon _4 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 25/01/21 
-> Mako ventures _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Survivor au _7 > 3; Young sheldon _4 > 2; Tien bromance _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
+> Mako ventures _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Young sheldon _4 > 2; Tien bromance _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 26/01/21 
-> Lls _1 > 10; Mako ventures _1 > 7; We are not human _1 > 4; /9-1-1 lone star _2 > 3; Survivor au _7 > 3; /9-1-1 _4 > 2; Unbag _1 > 2; Young sheldon _4 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 10; Mako ventures _1 > 7; We are not human _1 > 4; /9-1-1 lone star _2 > 3; /9-1-1 _4 > 2; Unbag _1 > 2; Young sheldon _4 > 1; Kaamelott _5 > 1; 
 ### concluBis 27/01/21 
-> Lls _1 > 10; The voice be _9 > 8; Mako ventures _1 > 6; We are not human _1 > 4; Survivor au _7 > 3; Young sheldon _4 > 2; /9-1-1 lone star _2 > 2; Unbag _1 > 2; /9-1-1 _4 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 10; The voice be _9 > 8; Mako ventures _1 > 6; We are not human _1 > 4; Young sheldon _4 > 2; /9-1-1 lone star _2 > 2; Unbag _1 > 2; /9-1-1 _4 > 1; Kaamelott _5 > 1; 
 ### concluBis 28/01/21 
-> Lls _1 > 10; Mako ventures _1 > 10; We are not human _1 > 4; The voice be _9 > 3; Survivor au _7 > 3; Unbag _1 > 2; Young sheldon _4 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 10; Mako ventures _1 > 10; We are not human _1 > 4; The voice be _9 > 3; Unbag _1 > 2; Young sheldon _4 > 1; Kaamelott _5 > 1; 
 ### concluBis 29/01/21 
-> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 7; We are not human _1 > 4; Survivor au _7 > 3; Rpdruk _2 > 2; The voice be _9 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 7; We are not human _1 > 4; Rpdruk _2 > 2; The voice be _9 > 1; Kaamelott _5 > 1; 
 ### concluBis 30/01/21 
-> Lls _1 > 10; Unbag _1 > 6; Mako ventures _1 > 5; Rpdru _13 > 4; The voice no _6 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice nl _11 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 10; Unbag _1 > 6; Mako ventures _1 > 5; Rpdru _13 > 4; The voice no _6 > 4; We are not human _1 > 4; The voice nl _11 > 2; Kaamelott _5 > 1; 
 ### concluBis 31/01/21 
-> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 6; The voice uk _10 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice nl _11 > 2; Be love _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 6; The voice uk _10 > 4; We are not human _1 > 4; The voice nl _11 > 2; Be love _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 01/02/21 
-> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 6; The voice uk _10 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice nl _11 > 2; Be love _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 10; Mako ventures _1 > 10; Unbag _1 > 6; The voice uk _10 > 4; We are not human _1 > 4; The voice nl _11 > 2; Be love _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 02/02/21 
-> Mako ventures _1 > 9; Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; Survivor au _7 > 3; You never eat alone _1 > 2; Slam dance _1 > 1; Kaamelott _5 > 1; 
+> Mako ventures _1 > 9; Unbag _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; You never eat alone _1 > 2; Slam dance _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 03/02/21 
-> Mako ventures _1 > 9; Unbag _1 > 7; The voice be _9 > 5; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; Survivor au _7 > 3; /9-1-1 lone star _2 > 1; Kaamelott _5 > 1; 
+> Mako ventures _1 > 9; Unbag _1 > 7; The voice be _9 > 5; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; /9-1-1 lone star _2 > 1; Kaamelott _5 > 1; 
 ### concluBis 04/02/21 
-> Unbag _1 > 7; Mako ventures _1 > 6; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; Survivor au _7 > 3; The voice be _9 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Mako ventures _1 > 6; Lls _1 > 5; We are not human _1 > 4; The voice nl _11 > 3; The voice be _9 > 1; Kaamelott _5 > 1; 
 ### concluBis 05/02/21 
-> Sea him _1 > 5; Mako ventures _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Survivor au _7 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
+> Sea him _1 > 5; Mako ventures _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 06/02/21 
-> Rpdr _13 > 7; The voice nl _11 > 5; Mako ventures _1 > 5; Lls _1 > 5; The voice no _6 > 4; We are not human _1 > 4; Sea him _1 > 3; The voice vv _7 > 3; Survivor au _7 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
+> Rpdr _13 > 7; The voice nl _11 > 5; Mako ventures _1 > 5; Lls _1 > 5; The voice no _6 > 4; We are not human _1 > 4; Sea him _1 > 3; The voice vv _7 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 07/02/21 
-> Mako ventures _1 > 9; The voice uk _10 > 7; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; The voice _10 > 3; Survivor au _7 > 3; Unbag _1 > 2; Sea him _1 > 1; Rpdr _13 > 1; Kaamelott _5 > 1; 
+> Mako ventures _1 > 9; The voice uk _10 > 7; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; The voice _10 > 3; Unbag _1 > 2; Sea him _1 > 1; Rpdr _13 > 1; Kaamelott _5 > 1; 
 ### concluBis 08/02/21 
-> The voice nl _11 > 12; Mako ventures _1 > 7; Lls _1 > 5; We are not human _1 > 4; Survivor au _7 > 3; The voice uk _10 > 2; Schools out lets date now _1 > 2; Unbag _1 > 2; Sea him _1 > 1; Kaamelott _5 > 1; 
+> The voice nl _11 > 12; Mako ventures _1 > 7; Lls _1 > 5; We are not human _1 > 4; The voice uk _10 > 2; Schools out lets date now _1 > 2; Unbag _1 > 2; Sea him _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 09/02/21 
-> The voice nl _11 > 10; Mako ventures _1 > 7; /9-1-1 lone star _2 > 6; Lls _1 > 5; /9-1-1 _4 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice no _6 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
+> The voice nl _11 > 10; Mako ventures _1 > 7; /9-1-1 lone star _2 > 6; Lls _1 > 5; /9-1-1 _4 > 4; We are not human _1 > 4; The voice no _6 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 10/02/21 
-> The voice nl _11 > 8; Mako ventures _1 > 7; The voice be _9 > 5; Wabi vlog _1 > 5; Lls _1 > 5; The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Survivor au _7 > 3; Unbag _1 > 2; The voice no _6 > 1; Kaamelott _5 > 1; 
+> The voice nl _11 > 8; Mako ventures _1 > 7; The voice be _9 > 5; Wabi vlog _1 > 5; Lls _1 > 5; The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Unbag _1 > 2; The voice no _6 > 1; Kaamelott _5 > 1; 
 ### concluBis 11/02/21 
-> Mako ventures _1 > 8; The voice nl _11 > 6; The harvest season _1 > 5; Lls _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice be _9 > 2; Wabi show _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
+> Mako ventures _1 > 8; The voice nl _11 > 6; The harvest season _1 > 5; Lls _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; The voice be _9 > 2; Wabi show _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 12/02/21 
-> Unbag _1 > 7; Mako ventures _1 > 7; The voice nl _11 > 6; The harvest season _1 > 5; Lls _1 > 5; Rpdruk _2 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Survivor au _7 > 3; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Mako ventures _1 > 7; The voice nl _11 > 6; The harvest season _1 > 5; Lls _1 > 5; Rpdruk _2 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 13/02/21 
-> Unbag _1 > 7; Mako ventures _1 > 6; The voice no _6 > 5; The harvest season _1 > 5; Lls _1 > 5; The voice nl _11 > 4; Rpdr _13 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; Skam fr _7 > 3; Survivor au _7 > 3; Rpdruk _2 > 2; 1000 stars _1 > 2; Wabi show _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Mako ventures _1 > 6; The voice no _6 > 5; The harvest season _1 > 5; Lls _1 > 5; The voice nl _11 > 4; Rpdr _13 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; Skam fr _7 > 3; Rpdruk _2 > 2; 1000 stars _1 > 2; Wabi show _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 14/02/21 
-> Unbag _1 > 7; The voice uk _10 > 6; The voice nl _11 > 5; The voice no _6 > 5; The harvest season _1 > 5; Lls _1 > 5; Rpdr _13 > 4; Skam fr _7 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; 1000 stars _1 > 2; Wabi show _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; The voice uk _10 > 6; The voice nl _11 > 5; The voice no _6 > 5; The harvest season _1 > 5; Lls _1 > 5; Rpdr _13 > 4; Skam fr _7 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; 1000 stars _1 > 2; Wabi show _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 15/02/21 
-> Unbag _1 > 7; The voice uk _10 > 6; The voice no _6 > 5; The harvest season _1 > 5; Lls _1 > 5; Rpdr _13 > 4; Skam fr _7 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; 1000 stars _1 > 2; Young sheldon _4 > 1; Wabi show _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; The voice uk _10 > 6; The voice no _6 > 5; The harvest season _1 > 5; Lls _1 > 5; Rpdr _13 > 4; Skam fr _7 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; 1000 stars _1 > 2; Young sheldon _4 > 1; Wabi show _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 16/02/21 
-> Unbag _1 > 7; Wabi vlog _1 > 6; The voice no _6 > 5; Lls _1 > 5; /9-1-1 lone star _2 > 4; We are not human _1 > 4; The voice uk _10 > 3; /9-1-1 _4 > 3; The harvest season _1 > 3; Survivor au _7 > 3; Rpdr _13 > 2; Tokyo ghoul _3 > 2; Young sheldon _4 > 1; Love in time _1 > 1; 
+> Unbag _1 > 7; Wabi vlog _1 > 6; The voice no _6 > 5; Lls _1 > 5; /9-1-1 lone star _2 > 4; We are not human _1 > 4; The voice uk _10 > 3; /9-1-1 _4 > 3; The harvest season _1 > 3; Rpdr _13 > 2; Tokyo ghoul _3 > 2; Young sheldon _4 > 1; Love in time _1 > 1; 
 ### concluBis 17/02/21 
-> The voice be _9 > 8; Unbag _1 > 7; Rpdru _13 > 6; Lls _1 > 5; /9-1-1 lone star _2 > 4; We are not human _1 > 4; /9-1-1 _4 > 3; Tokyo ghoul _3 > 3; Survivor au _7 > 3; Love in time _1 > 2; The voice uk _10 > 1; Wabi vlog _1 > 1; My vampire boyfriend _1 > 1; 
+> The voice be _9 > 8; Unbag _1 > 7; Rpdru _13 > 6; Lls _1 > 5; /9-1-1 lone star _2 > 4; We are not human _1 > 4; /9-1-1 _4 > 3; Tokyo ghoul _3 > 3; Love in time _1 > 2; The voice uk _10 > 1; Wabi vlog _1 > 1; My vampire boyfriend _1 > 1; 
 ### concluBis 18/02/21 
-> The voice be _9 > 8; My vampire boyfriend _1 > 8; Unbag _1 > 7; Rpdru _13 > 7; Lls _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; Tokyo ghoul _3 > 2; The voice uk _10 > 1; /9-1-1 lone star _2 > 1; Love in time _1 > 1; 
+> The voice be _9 > 8; My vampire boyfriend _1 > 8; Unbag _1 > 7; Rpdru _13 > 7; Lls _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Tokyo ghoul _3 > 2; The voice uk _10 > 1; /9-1-1 lone star _2 > 1; Love in time _1 > 1; 
 ### concluBis 19/02/21 
-> The voice nl _11 > 6; My vampire boyfriend _1 > 6; Rpdruk _2 > 5; Lls _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Girl2k _1 > 3; Survivor au _7 > 3; The voice be _9 > 2; Tokyo ghoul _3 > 2; Unbag _1 > 2; Rpdru _13 > 1; Love in time _1 > 1; 
+> The voice nl _11 > 6; My vampire boyfriend _1 > 6; Rpdruk _2 > 5; Lls _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Girl2k _1 > 3; The voice be _9 > 2; Tokyo ghoul _3 > 2; Unbag _1 > 2; Rpdru _13 > 1; Love in time _1 > 1; 
 ### concluBis 20/02/21 
-> Rpdru _13 > 11; Rpdr _13 > 6; My vampire boyfriend _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; The voice no _6 > 3; Survivor au _7 > 3; Skam fr _7 > 2; Given _1 > 2; Unbag _1 > 2; Rpdruk _2 > 1; Girl2k _1 > 1; 
+> Rpdru _13 > 11; Rpdr _13 > 6; My vampire boyfriend _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; The voice no _6 > 3; Skam fr _7 > 2; Given _1 > 2; Unbag _1 > 2; Rpdruk _2 > 1; Girl2k _1 > 1; 
 ### concluBis 21/02/21 
-> Mako ventures _1 > 7; The voice uk _10 > 7; Rpdru _13 > 6; My vampire boyfriend _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Survivor au _7 > 3; Rpdr _13 > 2; Given _1 > 2; Unbag _1 > 2; Young sheldon _4 > 1; The voice no _6 > 1; Girl2k _1 > 1; 
+> Mako ventures _1 > 7; The voice uk _10 > 7; Rpdru _13 > 6; My vampire boyfriend _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Rpdr _13 > 2; Given _1 > 2; Unbag _1 > 2; Young sheldon _4 > 1; The voice no _6 > 1; Girl2k _1 > 1; 
 ### concluBis 22/02/21 
-> Mako ventures _1 > 7; The voice uk _10 > 7; Rpdru _13 > 7; My vampire boyfriend _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Given _1 > 3; Survivor au _7 > 3; The voice no _6 > 2; Girl2k _1 > 2; Unbag _1 > 2; Young sheldon _4 > 1; Wabi vlog _1 > 1; Love in time _1 > 1; 
+> Mako ventures _1 > 7; The voice uk _10 > 7; Rpdru _13 > 7; My vampire boyfriend _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; Given _1 > 3; The voice no _6 > 2; Girl2k _1 > 2; Unbag _1 > 2; Young sheldon _4 > 1; Wabi vlog _1 > 1; Love in time _1 > 1; 
 ### concluBis 23/02/21 
-> Rpdru _13 > 6; The voice nl _11 > 5; Mako ventures _1 > 5; The voice uk _10 > 5; Wabi vlog _1 > 5; /9-1-1 lone star _2 > 5; Lls _1 > 5; Given _1 > 4; We are not human _1 > 4; /9-1-1 _4 > 3; Girl2k _1 > 3; Survivor au _7 > 3; Young sheldon _4 > 2; My vampire boyfriend _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
+> Rpdru _13 > 6; The voice nl _11 > 5; Mako ventures _1 > 5; The voice uk _10 > 5; Wabi vlog _1 > 5; /9-1-1 lone star _2 > 5; Lls _1 > 5; Given _1 > 4; We are not human _1 > 4; /9-1-1 _4 > 3; Girl2k _1 > 3; Young sheldon _4 > 2; My vampire boyfriend _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 24/02/21 
-> The voice be _9 > 9; The voice nl _11 > 5; Wabi vlog _1 > 5; Given _1 > 5; Lls _1 > 5; Girl2k _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; The voice uk _10 > 3; /9-1-1 lone star _2 > 3; My vampire boyfriend _1 > 3; Survivor au _7 > 3; /9-1-1 _4 > 2; Pekin express _14 > 2; Unbag _1 > 2; Young sheldon _4 > 1; Kaamelott _5 > 1; 
+> The voice be _9 > 9; The voice nl _11 > 5; Wabi vlog _1 > 5; Given _1 > 5; Lls _1 > 5; Girl2k _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; The voice uk _10 > 3; /9-1-1 lone star _2 > 3; My vampire boyfriend _1 > 3; /9-1-1 _4 > 2; Pekin express _14 > 2; Unbag _1 > 2; Young sheldon _4 > 1; Kaamelott _5 > 1; 
 ### concluBis 25/02/21 
-> The voice be _9 > 8; The voice nl _11 > 5; Wabi vlog _1 > 5; Girl2k _1 > 5; Lls _1 > 5; Given _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Survivor au _7 > 3; The voice uk _10 > 2; /9-1-1 lone star _2 > 2; Lovely writer _1 > 2; Unbag _1 > 2; Young sheldon _4 > 1; /9-1-1 _4 > 1; Top chef _12 > 1; Kaamelott _5 > 1; 
+> The voice be _9 > 8; The voice nl _11 > 5; Wabi vlog _1 > 5; Girl2k _1 > 5; Lls _1 > 5; Given _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; The voice uk _10 > 2; /9-1-1 lone star _2 > 2; Lovely writer _1 > 2; Unbag _1 > 2; Young sheldon _4 > 1; /9-1-1 _4 > 1; Top chef _12 > 1; Kaamelott _5 > 1; 
 ### concluBis 26/02/21 
-> Unbag _1 > 8; Rpdruk _2 > 6; Girl2k _1 > 6; The voice be _9 > 5; Wabi vlog _1 > 5; Lls _1 > 5; We are not human _1 > 4; Mako ventures _1 > 3; Given _1 > 3; Survivor au _7 > 3; The voice uk _10 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 8; Rpdruk _2 > 6; Girl2k _1 > 6; The voice be _9 > 5; Wabi vlog _1 > 5; Lls _1 > 5; We are not human _1 > 4; Mako ventures _1 > 3; Given _1 > 3; The voice uk _10 > 1; Kaamelott _5 > 1; 
 ### concluBis 27/02/21 
-> The voice nl _11 > 8; Unbag _1 > 7; Skam fr _7 > 6; Wabi vlog _1 > 5; You make me dance _1 > 5; Lls _1 > 5; We are not human _1 > 4; The voice be _9 > 3; The voice no _6 > 3; Girl2k _1 > 3; Survivor au _7 > 3; Mako ventures _1 > 2; 1000 stars _1 > 1; Kaamelott _5 > 1; 
+> The voice nl _11 > 8; Unbag _1 > 7; Skam fr _7 > 6; Wabi vlog _1 > 5; You make me dance _1 > 5; Lls _1 > 5; We are not human _1 > 4; The voice be _9 > 3; The voice no _6 > 3; Girl2k _1 > 3; Mako ventures _1 > 2; 1000 stars _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 28/02/21 
-> The voice uk _10 > 8; Unbag _1 > 7; The voice nl _11 > 6; Wabi vlog _1 > 5; You make me dance _1 > 5; Lls _1 > 5; We are not human _1 > 4; Skam fr _7 > 3; Girl2k _1 > 3; Survivor au _7 > 3; The voice be _9 > 2; The voice _10 > 2; Mako ventures _1 > 1; The voice no _6 > 1; Kaamelott _5 > 1; 
+> The voice uk _10 > 8; Unbag _1 > 7; The voice nl _11 > 6; Wabi vlog _1 > 5; You make me dance _1 > 5; Lls _1 > 5; We are not human _1 > 4; Skam fr _7 > 3; Girl2k _1 > 3; The voice be _9 > 2; The voice _10 > 2; Mako ventures _1 > 1; The voice no _6 > 1; Kaamelott _5 > 1; 
 ### concluBis 01/03/21 
-> Skam fr _7 > 9; Unbag _1 > 7; The voice uk _10 > 6; Wabi vlog _1 > 5; Lls _1 > 5; The voice nl _11 > 4; You make me dance _1 > 4; We are not human _1 > 4; Survivor au _7 > 3; The voice be _9 > 2; Girl2k _1 > 2; Mako ventures _1 > 1; The voice _10 > 1; The voice kids ger _9 > 1; Kaamelott _5 > 1; 
+> Skam fr _7 > 9; Unbag _1 > 7; The voice uk _10 > 6; Wabi vlog _1 > 5; Lls _1 > 5; The voice nl _11 > 4; You make me dance _1 > 4; We are not human _1 > 4; The voice be _9 > 2; Girl2k _1 > 2; Mako ventures _1 > 1; The voice _10 > 1; The voice kids ger _9 > 1; Kaamelott _5 > 1; 
 ### concluBis 02/03/21 
-> Unbag _1 > 7; Skam fr _7 > 7; Wabi vlog _1 > 5; Lls _1 > 5; The voice nl _11 > 4; Young sheldon _4 > 4; /9-1-1 lone star _2 > 4; You make me dance _1 > 4; We are not human _1 > 4; /9-1-1 _4 > 3; Survivor au _7 > 3; The voice uk _10 > 2; Girl2k _1 > 2; The voice be _9 > 1; Schools out lets date now _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Skam fr _7 > 7; Wabi vlog _1 > 5; Lls _1 > 5; The voice nl _11 > 4; Young sheldon _4 > 4; /9-1-1 lone star _2 > 4; You make me dance _1 > 4; We are not human _1 > 4; /9-1-1 _4 > 3; The voice uk _10 > 2; Girl2k _1 > 2; The voice be _9 > 1; Schools out lets date now _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 03/03/21 
-> The voice nl _11 > 13; Lls _1 > 10; The voice be _9 > 7; Unbag _1 > 6; Skam fr _7 > 5; We are not human _1 > 4; /9-1-1 lone star _2 > 3; You make me dance _1 > 3; Survivor au _7 > 3; /9-1-1 _4 > 2; Young sheldon _4 > 1; Girl2k _1 > 1; 
+> The voice nl _11 > 13; Lls _1 > 10; The voice be _9 > 7; Unbag _1 > 6; Skam fr _7 > 5; We are not human _1 > 4; /9-1-1 lone star _2 > 3; You make me dance _1 > 3; /9-1-1 _4 > 2; Young sheldon _4 > 1; Girl2k _1 > 1; 
 
 
 
