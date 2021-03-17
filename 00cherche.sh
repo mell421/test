@@ -3,29 +3,34 @@
 ./0date.sh
 ./0supprZ.sh
 # >= 100
-# 99 - 30
+# 99 - 50
+# 49 - 40
+# 39 - 30
 # 29 - 20
 # 19 - 15
 # 14 - 10
-list=( "Lls _1" "Unbag _1" 
-"The voice nl _11" "Mako ventures _1" "The voice be _9" "The voice uk _10" "Wabi vlog _1" "The voice no _6" "Young sheldon _4" 
-"/9-1-1 lone star _2" "Rpdru _13" "My vampire boyfriend _1" "Skam fr _7" "Rpdr _13" "Girl2k _1" "/9-1-1 _4" 
-"Rpdruk _2" "The harvest season _1" "Love in time _1" "Koishite akuma _1" 
-"Given _1" "TharnType _2" "You make me dance _1" "Pearl next door _1" "Be love _1" "1000 stars _1" "Wabi show _1" )
+list=( "Lls _1" "Unbag _1" "The voice nl _11" 
+"Mako ventures _1" "Wabi vlog _1" "The voice be _9" "The voice uk _10" 
+"Girl2k _1" "Young sheldon _4" "Skam fr _7" 
+"The voice no _6" "You make me dance _1" "/9-1-1 lone star _2" 
+"Rpdru _13" "Rpdr _13" "/9-1-1 _4" "Rpdruk _2" "My vampire boyfriend _1" 
+"The harvest season _1" "Love in time _1" 
+"Given _1" "The voice _10" "1000 stars _1" "TharnType _2" "The voice us _20" "Pearl next door _1" "Be love _1" "The voice vv _7" "Wabi show _1" )
 
 # entre 9 et 4
-listBis=( "The voice _10" 
+listBis=( "Top chef _12" "Meet my angel _1" 
 "Tokyo ghoul _3" 
-"The voice vv _7" 
-"The untamed _1" 
-"Schools out lets date now _1" "Top chef _12" "The shipper _1" 
-"Unlocked _1" "You never eat alone _1" )
+"" 
+"The voice kids ger _9" "Pekin express _14" "You never eat alone _1" "Schools out lets date now _1" "The untamed _1" 
+"Lovely writer _1" 
+"Unlocked _1" )
 
 # 3
-listBis=( "Lovely writer _1" "Pekin express _14" "The voice kids ger _9" "Slam dance _1" )
+listBis=( "Slam dance _1" )
 
-listAtt=( "Friend forever _1" "Blood _1" "Pogi lang hanap _1" "Lakan _1" "From dusk till dawn _2" "Rpdru _9" 
-"Ghost runner _1" "Friend zone _1" "Capture lover _1" "Ben x jim _1" )
+listAtt=( "The shipper _1" "Friend forever _1" "Koishite akuma _1" "Blood _1" "Pogi lang hanap _1" 
+"Lakan _1" "From dusk till dawn _2" "Rpdru _9" "Ghost runner _1" "Friend zone _1" 
+"Capture lover _1" "Ben x jim _1" )
 
 echo "" > logChercher
 # echo "" > 0graph.dat
