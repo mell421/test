@@ -300,6 +300,7 @@
 |sea him|uoc hen lang chai|10|serie|vietnam|<!-- 19 -->
 |Bt21 universe 3||9|||
 |girl2k|girl2k|10|serie(**)|thailande|<!-- 41 -->
+|RPDRUK 2||10|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -453,7 +454,6 @@
 |unlocked 1|unlocked|9|serie|philippines|2|<!--  -->
 |romantic blue 1|romantic blue|12|serie(**)|thailande|1|<!--  -->
 |pearl next door 1|pearl next door|8|serie(***)|philippines|2|<!--  -->
-|RPDRUK 2||10|||8|                                                                                  <!--  -->
 |warper series 1|warper series|?|show|thailande|1|<!--  -->
 |TV NO 6|||||8|<!--  -->
 |koishite akuma 1||?|||3|<!--  -->

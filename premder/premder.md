@@ -25,7 +25,6 @@ The voice no 6x10
 We best love 2x2
 1000 stars 1x7
 You make me dance 1x6
-Rpdruk 2x9
 Unbag 1x17
 * Game of talents 1x1
 * The masked singer 5x1
@@ -78,7 +77,6 @@ Koishite akuma 1x3
 * Koishite akuma 1x1
 * The voice no 6x1
 * Warper series 1x1
-* Rpdruk 2x1
 * Pearl next door 1x1
 * Romantic blue 1x1
 * Unlocked 1x1
