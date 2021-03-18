@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-10/03/21
+18/03/21
 
 ## terminé
  
@@ -299,6 +299,7 @@
 |survivor au 7||25|||<!--  -->
 |sea him|uoc hen lang chai|10|serie|vietnam|<!-- 19 -->
 |Bt21 universe 3||9|||
+|girl2k|girl2k|10|serie(**)|thailande|<!-- 41 -->
 ||||||
 ||||||
 ||||||
@@ -472,7 +473,6 @@
 |the harvest season 1||?|||1|<!--  -->
 |top chef 12||?|||4|<!--  -->
 |bangkok love stories innocence 1||?|||1|<!--  -->
-|girl2k 1||10|||6|                                                                                  <!--  -->
 |given 1||?|||2|<!--  -->
 |meet my angel 1||?|||1|<!--  -->
 |history3.1|history3 trapped|20|||1|<!--  -->

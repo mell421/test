@@ -6,7 +6,7 @@
 # liste de bl
 
 ## date de maj
-10/03/21
+18/03/21
 
 ## SKAM + REMAKES
  
@@ -121,6 +121,7 @@
 |evening cafe|evening cafe|4|serie|thailande|
 |happenstance|happenstance|9|serie|philippines|<!-- 23 -->
 |sea him|uoc hen lang chai|10|serie|vietnam|<!-- 19 -->
+|girl2k|girl2k|10|serie(**)|thailande|<!-- 41 -->
 ||||||
 ||||||
 ||||||
@@ -169,7 +170,6 @@
 |wabi game|wabi game|?|show|thailande|2|<!-- 38 -->
 |the harvest season|the harvest season|?|show|thailande|5|<!-- 39 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!-- 40 -->
-|girl2k|girl2k|10|serie(**)|thailande|6|                                        <!-- 41 -->
 |meet my angel|meet my angel|?|serie|philippines|2|<!-- 42 -->
 |history3.1|history3 trapped|20|serie|taiwan|1|<!-- 43 -->
 |lovely writer|lovely writer|?|serie|thailande|2|<!--44 -->
