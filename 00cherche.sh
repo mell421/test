@@ -12,7 +12,7 @@
 list=( "Lls _1" "Unbag _1" "The voice nl _11" 
 "Mako ventures _1" "Wabi vlog _1" "The voice be _9" "The voice uk _10" 
 "Young sheldon _4" "Skam fr _7" 
-"The voice no _6" "You make me dance _1" "/9-1-1 lone star _2" 
+"The voice no _6" "/9-1-1 lone star _2" 
 "Rpdru _13" "Rpdr _13" "/9-1-1 _4" "My vampire boyfriend _1" 
 "The harvest season _1" "Love in time _1" 
 "Given _1" "The voice _10" "1000 stars _1" "TharnType _2" "The voice us _20" "Pearl next door _1" "Be love _1" "The voice vv _7" "Wabi show _1" )

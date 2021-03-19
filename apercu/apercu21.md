@@ -6,7 +6,7 @@
 # ajout reponse 2021
 
 ## date de maj
-18/03/21
+19/03/21
 
 ## Aperçu semaine
 #### sem 04-01-2021 
@@ -26,11 +26,11 @@ Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) The voi
 #### sem 22-02-2021 
 History3 trapped _1x2(1) The voice uk _10x9(1) The voice _10x4(1) Young sheldon _4x9(1) Mako ventures _1x10(1) Rpdru _13x9(2) Rpdr _13x9(1) Given _1x3(2) The voice vv _7x4(1) The voice no _6x8(1) Skam fr _7x6(1) Meet my angel _1x2(1) 1000 stars _1x5(1) The voice nl _11x12(1) Unlocked _1x3(1) Pearl next door _1x4(1) Top chef _12x3(1) My vampire boyfriend _1x7(4) The voice be _9x9(1) You never eat alone _1x3(1) /9-1-1 lone star _2x6(1) /9-1-1 _4x6(1) Tokyo ghoul _3x17(1) Love in time _1x6(2) Wabi vlog _1x6(1) 
 #### sem 01-03-2021 
-The voice kids ger _9x2(1) Skam fr _7x8(2) The voice _10x5(1) The voice uk _10x10(1) The voice nl _11x13(1) The voice vv _7x5(1) The voice no _6x9(1) 1000 stars _1x6(1) You make me dance _1x3(2) Unbag _1x17(1) Lovely writer _1x2(1) Top chef _12x4(1) Pekin express _14x2(1) The voice be _9x10(1) /9-1-1 lone star _2x7(1) /9-1-1 _4x7(1) Wabi vlog _1x7(1) 
+The voice kids ger _9x2(1) Skam fr _7x8(2) The voice _10x5(1) The voice uk _10x10(1) The voice nl _11x13(1) The voice vv _7x5(1) The voice no _6x9(1) 1000 stars _1x6(1) Unbag _1x17(1) Lovely writer _1x2(1) Top chef _12x4(1) Pekin express _14x2(1) The voice be _9x10(1) /9-1-1 lone star _2x7(1) /9-1-1 _4x7(1) Wabi vlog _1x7(1) 
 #### sem 08-03-2021 
-Lls _1x109(11) Mako ventures _1x11(1) The voice _10x6(1) The voice uk _10x11(1) Rpdru _13x10(1) Rpdr _13x10(1) Skam fr _7x9(1) The voice vv _7x6(1) The voice no _6x10(1) Wabi vlog _1x8(1) 1000 stars _1x7(1) We best love _2x2(1) You make me dance _1x5(2) Young sheldon _4x11(2) Top chef _12x5(1) Lovely writer _1x3(1) The voice us _20x3(2) Pekin express _14x3(1) The voice be _9x11(1) You never eat alone _1x4(1) The voice nl _11x14(1) /9-1-1 lone star _2x8(1) /9-1-1 _4x8(1) Schools out lets date now _1x5(1) Meet my angel _1x3(1) 
+Lls _1x109(11) Mako ventures _1x11(1) The voice _10x6(1) The voice uk _10x11(1) Rpdru _13x10(1) Rpdr _13x10(1) Skam fr _7x9(1) The voice vv _7x6(1) The voice no _6x10(1) Wabi vlog _1x8(1) 1000 stars _1x7(1) We best love _2x2(1) Young sheldon _4x11(2) Top chef _12x5(1) Lovely writer _1x3(1) The voice us _20x3(2) Pekin express _14x3(1) The voice be _9x11(1) You never eat alone _1x4(1) The voice nl _11x14(1) /9-1-1 lone star _2x8(1) /9-1-1 _4x8(1) Schools out lets date now _1x5(1) Meet my angel _1x3(1) 
 #### sem 15-03-2021 
-The voice nl _11x16(2) History4 close to you _1x2(1) Lls _1x117(8) The voice uk _10x12(1) The voice _10x7(1) Rpdru _13x11(1) Rpdr _13x11(1) Mako ventures _1x12(1) Young sheldon _4x12(1) Skam fr _7x10(1) Koh-lanta _26x2(1) The voice vv _7x7(1) The voice no _6x11(1) We best love _2x3(1) 1000 stars _1x8(1) You make me dance _1x7(2) Unbag _1x18(1) Game of talents _1x2(1) The masked singer _5x2(1) Wabi vlog _1x9(1) Top chef _12x6(1) Lovely writer _1x4(1) Meet my angel _1x5(2) The voice us _20x5(2) Pekin express _14x4(1) The voice be _9x12(1) You never eat alone _1x5(1) /9-1-1 lone star _2x9(1) /9-1-1 _4x9(1) The voice kids ger _9x3(1) 
+The voice nl _11x16(2) History4 close to you _1x2(1) Lls _1x117(8) The voice uk _10x12(1) The voice _10x7(1) Rpdru _13x11(1) Rpdr _13x11(1) Mako ventures _1x12(1) Young sheldon _4x12(1) Skam fr _7x10(1) Koh-lanta _26x2(1) The voice vv _7x7(1) The voice no _6x11(1) We best love _2x3(1) 1000 stars _1x8(1) Unbag _1x18(1) Game of talents _1x2(1) The masked singer _5x2(1) Wabi vlog _1x9(1) Top chef _12x6(1) Lovely writer _1x4(1) Meet my angel _1x5(2) The voice us _20x5(2) Pekin express _14x4(1) The voice be _9x12(1) You never eat alone _1x5(1) /9-1-1 lone star _2x9(1) /9-1-1 _4x9(1) The voice kids ger _9x3(1) 
 
 
 
@@ -43,7 +43,7 @@ Unbag _1x13(3) Ghost runner _1x5(4) Friend zone _1x3(1) The voice be _9x2(1) Jos
 #### mois 01-02-2021 
 The voice uk _10x6(5) Be love _1x4(1) TharnType _2x6(2) Mako ventures _1x8(7) The voice no _6x5(4) The voice nl _11x9(3) Rpdru _13x6(5) Rpdr _13x6(5) Skam fr _7x3(2) 1000 stars _1x2(1) Unbag _1x15(2) The voice be _9x6(4) /9-1-1 lone star _2x3(2) /9-1-1 _4x3(2) Lls _1x98(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Young sheldon _4x7(1) Koishite akuma _1x4(3) Warper series _1x2(1) Pearl next door _1x3(2) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Rpdru _9x8(1) Together with me _1x2(1) 
 #### mois 01-03-2021 
-The voice kids ger _9x2(1) Skam fr _7x8(5) The voice _10x5(4) The voice uk _10x10(4) The voice nl _11x13(4) The voice vv _7x5(4) The voice no _6x9(4) 1000 stars _1x6(4) You make me dance _1x3(2) Unbag _1x17(2) Lovely writer _1x2(1) Top chef _12x4(3) Pekin express _14x2(1) The voice be _9x10(4) /9-1-1 lone star _2x7(4) /9-1-1 _4x7(4) Wabi vlog _1x7(6) History3 trapped _1x2(1) Young sheldon _4x9(2) Mako ventures _1x10(2) Rpdru _13x9(3) Rpdr _13x9(3) Given _1x3(2) Meet my angel _1x2(1) Unlocked _1x3(1) Pearl next door _1x4(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Love in time _1x6(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
+The voice kids ger _9x2(1) Skam fr _7x8(5) The voice _10x5(4) The voice uk _10x10(4) The voice nl _11x13(4) The voice vv _7x5(4) The voice no _6x9(4) 1000 stars _1x6(4) Unbag _1x17(2) Lovely writer _1x2(1) Top chef _12x4(3) Pekin express _14x2(1) The voice be _9x10(4) /9-1-1 lone star _2x7(4) /9-1-1 _4x7(4) Wabi vlog _1x7(6) History3 trapped _1x2(1) Young sheldon _4x9(2) Mako ventures _1x10(2) Rpdru _13x9(3) Rpdr _13x9(3) Given _1x3(2) Meet my angel _1x2(1) Unlocked _1x3(1) Pearl next door _1x4(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Love in time _1x6(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
 
 
 
@@ -170,43 +170,43 @@ The voice kids ger _9x2(1) Skam fr _7x8(5) The voice _10x5(4) The voice uk _10x1
 ### conclu 26/02/21 
 > Lls _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; The voice be _9 > 2; We are not human _1 > 2; Given _1 > 1; Mako ventures _1 > 1; 
 ### conclu 27/02/21 
-> Lls _1 > 3; The voice nl _11 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; You make me dance _1 > 3; Skam fr _7 > 2; We are not human _1 > 2; The voice be _9 > 1; 
+> Lls _1 > 3; The voice nl _11 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; Skam fr _7 > 2; We are not human _1 > 2; The voice be _9 > 1; 
 ### conclu 28/02/21 
-> Lls _1 > 3; The voice uk _10 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; You make me dance _1 > 3; The voice nl _11 > 2; We are not human _1 > 2; Skam fr _7 > 1; 
+> Lls _1 > 3; The voice uk _10 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; The voice nl _11 > 2; We are not human _1 > 2; Skam fr _7 > 1; 
 ### conclu 01/03/21 
-> Skam fr _7 > 5; Lls _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; The voice nl _11 > 2; The voice uk _10 > 2; We are not human _1 > 2; You make me dance _1 > 2; 
+> Skam fr _7 > 5; Lls _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; The voice nl _11 > 2; The voice uk _10 > 2; We are not human _1 > 2; 
 ### conclu 02/03/21 
-> Lls _1 > 3; Skam fr _7 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; /9-1-1 lone star _2 > 2; The voice nl _11 > 2; We are not human _1 > 2; You make me dance _1 > 2; /9-1-1 _4 > 1; Young sheldon _4 > 1; 
+> Lls _1 > 3; Skam fr _7 > 3; Unbag _1 > 3; Wabi vlog _1 > 3; /9-1-1 lone star _2 > 2; The voice nl _11 > 2; We are not human _1 > 2; /9-1-1 _4 > 1; Young sheldon _4 > 1; 
 ### conclu 03/03/21 
-> Lls _1 > 6; The voice nl _11 > 6; The voice be _9 > 3; Skam fr _7 > 2; Unbag _1 > 2; We are not human _1 > 2; /9-1-1 lone star _2 > 1; You make me dance _1 > 1; 
+> Lls _1 > 6; The voice nl _11 > 6; The voice be _9 > 3; Skam fr _7 > 2; Unbag _1 > 2; We are not human _1 > 2; /9-1-1 lone star _2 > 1; 
 ### conclu 04/03/21 
 > Lls _1 > 9; The voice be _9 > 2; The voice nl _11 > 2; Unbag _1 > 2; We are not human _1 > 2; The voice us _20 > 1; 
 ### conclu 05/03/21 
 > Lls _1 > 9; The voice nl _11 > 2; Unbag _1 > 2; We are not human _1 > 2; Young sheldon _4 > 2; 
 ### conclu 06/03/21 
-> Lls _1 > 9; Skam fr _7 > 4; Wabi vlog _1 > 3; The voice nl _11 > 2; We are not human _1 > 2; You make me dance _1 > 1; Young sheldon _4 > 1; 
+> Lls _1 > 9; Skam fr _7 > 4; Wabi vlog _1 > 3; The voice nl _11 > 2; We are not human _1 > 2; Young sheldon _4 > 1; 
 ### conclu 07/03/21 
-> Lls _1 > 12; Skam fr _7 > 3; The voice nl _11 > 2; Wabi vlog _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; You make me dance _1 > 1; 
+> Lls _1 > 12; Skam fr _7 > 3; The voice nl _11 > 2; Wabi vlog _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; 
 ### conclu 08/03/21 
-> Lls _1 > 12; The voice nl _11 > 2; Wabi vlog _1 > 2; We are not human _1 > 2; You make me dance _1 > 2; Mako ventures _1 > 1; Skam fr _7 > 1; Young sheldon _4 > 1; 
+> Lls _1 > 12; The voice nl _11 > 2; Wabi vlog _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; Skam fr _7 > 1; Young sheldon _4 > 1; 
 ### conclu 09/03/21 
-> Lls _1 > 12; The voice nl _11 > 4; Wabi vlog _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; Skam fr _7 > 1; You make me dance _1 > 1; 
+> Lls _1 > 12; The voice nl _11 > 4; Wabi vlog _1 > 2; We are not human _1 > 2; Mako ventures _1 > 1; Skam fr _7 > 1; 
 ### conclu 10/03/21 
-> Lls _1 > 12; The voice nl _11 > 2; The voice us _20 > 2; Wabi vlog _1 > 2; We are not human _1 > 2; Skam fr _7 > 1; The voice be _9 > 1; You make me dance _1 > 1; 
+> Lls _1 > 12; The voice nl _11 > 2; The voice us _20 > 2; Wabi vlog _1 > 2; We are not human _1 > 2; Skam fr _7 > 1; The voice be _9 > 1; 
 ### conclu 11/03/21 
 > Lls _1 > 12; Wabi vlog _1 > 4; The voice nl _11 > 2; We are not human _1 > 2; The voice be _9 > 1; 
 ### conclu 12/03/21 
 > Lls _1 > 12; Unbag _1 > 3; We are not human _1 > 2; The voice nl _11 > 1; Wabi vlog _1 > 1; 
 ### conclu 13/03/21 
-> Lls _1 > 12; Skam fr _7 > 1; Unbag _1 > 1; We are not human _1 > 1; You make me dance _1 > 1; 
+> Lls _1 > 12; Skam fr _7 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 14/03/21 
-> Lls _1 > 12; Skam fr _7 > 1; Unbag _1 > 1; We are not human _1 > 1; You make me dance _1 > 1; 
+> Lls _1 > 12; Skam fr _7 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 15/03/21 
-> Lls _1 > 12; The voice nl _11 > 3; Unbag _1 > 3; We are not human _1 > 2; You make me dance _1 > 2; 
+> Lls _1 > 12; The voice nl _11 > 3; Unbag _1 > 3; We are not human _1 > 2; 
 ### conclu 16/03/21 
-> Lls _1 > 12; Unbag _1 > 3; The voice kids ger _9 > 2; The voice nl _11 > 2; We are not human _1 > 2; You make me dance _1 > 1; 
+> Lls _1 > 12; Unbag _1 > 3; The voice kids ger _9 > 2; The voice nl _11 > 2; We are not human _1 > 2; 
 ### conclu 17/03/21 
-> Lls _1 > 12; Unbag _1 > 3; The voice us _20 > 2; We are not human _1 > 2; You make me dance _1 > 2; The voice nl _11 > 1; 
+> Lls _1 > 12; Unbag _1 > 3; The voice us _20 > 2; We are not human _1 > 2; The voice nl _11 > 1; 
 ### conclu 18/03/21 
 > Lls _1 > 12; Bad roommate _1 > 3; Unbag _1 > 3; We are not human _1 > 2; The voice nl _11 > 1; 
 
@@ -334,45 +334,45 @@ The voice nl _11 > 8; Mako ventures _1 > 7; The voice be _9 > 5; Wabi vlog _1 > 
 ### concluBis 26/02/21 
 > Unbag _1 > 8; The voice be _9 > 5; Wabi vlog _1 > 5; Lls _1 > 5; We are not human _1 > 4; Mako ventures _1 > 3; Given _1 > 3; The voice uk _10 > 1; Kaamelott _5 > 1; 
 ### concluBis 27/02/21 
-> The voice nl _11 > 8; Unbag _1 > 7; Skam fr _7 > 6; Wabi vlog _1 > 5; You make me dance _1 > 5; Lls _1 > 5; We are not human _1 > 4; The voice be _9 > 3; The voice no _6 > 3; Mako ventures _1 > 2; 1000 stars _1 > 1; Kaamelott _5 > 1; 
+> The voice nl _11 > 8; Unbag _1 > 7; Skam fr _7 > 6; Wabi vlog _1 > 5; Lls _1 > 5; We are not human _1 > 4; The voice be _9 > 3; The voice no _6 > 3; Mako ventures _1 > 2; 1000 stars _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 28/02/21 
-> The voice uk _10 > 8; Unbag _1 > 7; The voice nl _11 > 6; Wabi vlog _1 > 5; You make me dance _1 > 5; Lls _1 > 5; We are not human _1 > 4; Skam fr _7 > 3; The voice be _9 > 2; The voice _10 > 2; Mako ventures _1 > 1; The voice no _6 > 1; Kaamelott _5 > 1; 
+> The voice uk _10 > 8; Unbag _1 > 7; The voice nl _11 > 6; Wabi vlog _1 > 5; Lls _1 > 5; We are not human _1 > 4; Skam fr _7 > 3; The voice be _9 > 2; The voice _10 > 2; Mako ventures _1 > 1; The voice no _6 > 1; Kaamelott _5 > 1; 
 ### concluBis 01/03/21 
-> Skam fr _7 > 9; Unbag _1 > 7; The voice uk _10 > 6; Wabi vlog _1 > 5; Lls _1 > 5; The voice nl _11 > 4; You make me dance _1 > 4; We are not human _1 > 4; The voice be _9 > 2; Mako ventures _1 > 1; The voice _10 > 1; The voice kids ger _9 > 1; Kaamelott _5 > 1; 
+> Skam fr _7 > 9; Unbag _1 > 7; The voice uk _10 > 6; Wabi vlog _1 > 5; Lls _1 > 5; The voice nl _11 > 4; We are not human _1 > 4; The voice be _9 > 2; Mako ventures _1 > 1; The voice _10 > 1; The voice kids ger _9 > 1; Kaamelott _5 > 1; 
 ### concluBis 02/03/21 
-> Unbag _1 > 7; Skam fr _7 > 7; Wabi vlog _1 > 5; Lls _1 > 5; The voice nl _11 > 4; Young sheldon _4 > 4; /9-1-1 lone star _2 > 4; You make me dance _1 > 4; We are not human _1 > 4; /9-1-1 _4 > 3; The voice uk _10 > 2; The voice be _9 > 1; Schools out lets date now _1 > 1; Kaamelott _5 > 1; 
+> Unbag _1 > 7; Skam fr _7 > 7; Wabi vlog _1 > 5; Lls _1 > 5; The voice nl _11 > 4; Young sheldon _4 > 4; /9-1-1 lone star _2 > 4; We are not human _1 > 4; /9-1-1 _4 > 3; The voice uk _10 > 2; The voice be _9 > 1; Schools out lets date now _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 03/03/21 
-> The voice nl _11 > 13; Lls _1 > 10; The voice be _9 > 7; Unbag _1 > 6; Skam fr _7 > 5; We are not human _1 > 4; /9-1-1 lone star _2 > 3; You make me dance _1 > 3; /9-1-1 _4 > 2; Young sheldon _4 > 1; 
+> The voice nl _11 > 13; Lls _1 > 10; The voice be _9 > 7; Unbag _1 > 6; Skam fr _7 > 5; We are not human _1 > 4; /9-1-1 lone star _2 > 3; /9-1-1 _4 > 2; Young sheldon _4 > 1; 
 ### concluBis 04/03/21 
 > Lls _1 > 15; The voice nl _11 > 9; Unbag _1 > 6; The voice be _9 > 6; We are not human _1 > 4; The voice us _20 > 3; /9-1-1 lone star _2 > 2; Young sheldon _4 > 1; /9-1-1 _4 > 1; Skam fr _7 > 1; 
 ### concluBis 05/03/21 
 > Lls _1 > 15; The voice nl _11 > 8; Young sheldon _4 > 7; Unbag _1 > 6; We are not human _1 > 4; Skam fr _7 > 2; The voice us _20 > 2; The voice be _9 > 1; 
 ### concluBis 06/03/21 
-> Lls _1 > 15; Skam fr _7 > 8; The voice nl _11 > 5; Young sheldon _4 > 5; Wabi vlog _1 > 5; We are not human _1 > 4; You make me dance _1 > 3; The voice be _9 > 2; The voice vv _7 > 2; Unbag _1 > 2; Rpdru _13 > 1; The voice no _6 > 1; 
+> Lls _1 > 15; Skam fr _7 > 8; The voice nl _11 > 5; Young sheldon _4 > 5; Wabi vlog _1 > 5; We are not human _1 > 4; The voice be _9 > 2; The voice vv _7 > 2; Unbag _1 > 2; Rpdru _13 > 1; The voice no _6 > 1; 
 ### concluBis 07/03/21 
-> Lls _1 > 20; Skam fr _7 > 7; The voice nl _11 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Young sheldon _4 > 3; You make me dance _1 > 3; The voice uk _10 > 2; Unbag _1 > 2; The voice _10 > 1; 
+> Lls _1 > 20; Skam fr _7 > 7; The voice nl _11 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Young sheldon _4 > 3; The voice uk _10 > 2; Unbag _1 > 2; The voice _10 > 1; 
 ### concluBis 08/03/21 
-> Lls _1 > 20; The voice nl _11 > 5; Young sheldon _4 > 4; Wabi vlog _1 > 4; You make me dance _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Skam fr _7 > 3; The voice uk _10 > 2; Unbag _1 > 2; The voice _10 > 1; The voice us _20 > 1; 
+> Lls _1 > 20; The voice nl _11 > 5; Young sheldon _4 > 4; Wabi vlog _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Skam fr _7 > 3; The voice uk _10 > 2; Unbag _1 > 2; The voice _10 > 1; The voice us _20 > 1; 
 ### concluBis 09/03/21 
-> Lls _1 > 20; The voice nl _11 > 9; Wabi vlog _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Skam fr _7 > 3; You make me dance _1 > 3; The voice uk _10 > 2; Unbag _1 > 2; Young sheldon _4 > 1; /9-1-1 lone star _2 > 1; The voice us _20 > 1; 
+> Lls _1 > 20; The voice nl _11 > 9; Wabi vlog _1 > 4; We are not human _1 > 4; Mako ventures _1 > 3; Skam fr _7 > 3; The voice uk _10 > 2; Unbag _1 > 2; Young sheldon _4 > 1; /9-1-1 lone star _2 > 1; The voice us _20 > 1; 
 ### concluBis 10/03/21 
-> Lls _1 > 20; The voice nl _11 > 5; The voice be _9 > 4; Wabi vlog _1 > 4; The voice us _20 > 4; We are not human _1 > 4; Skam fr _7 > 3; You make me dance _1 > 3; Mako ventures _1 > 2; Unbag _1 > 2; The voice uk _10 > 1; Pekin express _14 > 1; 
+> Lls _1 > 20; The voice nl _11 > 5; The voice be _9 > 4; Wabi vlog _1 > 4; The voice us _20 > 4; We are not human _1 > 4; Skam fr _7 > 3; Mako ventures _1 > 2; Unbag _1 > 2; The voice uk _10 > 1; Pekin express _14 > 1; 
 ### concluBis 11/03/21 
 > Lls _1 > 20; Wabi vlog _1 > 8; The voice nl _11 > 5; The voice be _9 > 4; We are not human _1 > 4; Mako ventures _1 > 2; Top chef _12 > 2; Meet my angel _1 > 2; Unbag _1 > 2; The voice uk _10 > 1; The voice us _20 > 1; 
 ### concluBis 12/03/21 
 > Lls _1 > 20; Unbag _1 > 7; The voice nl _11 > 4; We are not human _1 > 4; Wabi vlog _1 > 3; The voice be _9 > 2; Top chef _12 > 2; Meet my angel _1 > 2; Mako ventures _1 > 1; Skam fr _7 > 1; The voice us _20 > 1; 
 ### concluBis 13/03/21 
-> Lls _1 > 20; Unbag _1 > 5; You make me dance _1 > 4; The voice nl _11 > 3; Skam fr _7 > 3; We are not human _1 > 3; 1000 stars _1 > 2; Young sheldon _4 > 1; Meet my angel _1 > 1; 
+> Lls _1 > 20; Unbag _1 > 5; The voice nl _11 > 3; Skam fr _7 > 3; We are not human _1 > 3; 1000 stars _1 > 2; Young sheldon _4 > 1; Meet my angel _1 > 1; 
 ### concluBis 14/03/21 
-> Lls _1 > 20; Unbag _1 > 5; You make me dance _1 > 5; The voice nl _11 > 3; Skam fr _7 > 3; We are not human _1 > 3; The voice uk _10 > 1; Meet my angel _1 > 1; 
+> Lls _1 > 20; Unbag _1 > 5; The voice nl _11 > 3; Skam fr _7 > 3; We are not human _1 > 3; The voice uk _10 > 1; Meet my angel _1 > 1; 
 ### concluBis 15/03/21 
-> Lls _1 > 20; The voice nl _11 > 11; Unbag _1 > 7; You make me dance _1 > 6; We are not human _1 > 4; The voice uk _10 > 3; Mako ventures _1 > 1; Meet my angel _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 20; The voice nl _11 > 11; Unbag _1 > 7; We are not human _1 > 4; The voice uk _10 > 3; Mako ventures _1 > 1; Meet my angel _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 16/03/21 
-> Lls _1 > 20; The voice nl _11 > 10; Unbag _1 > 7; You make me dance _1 > 5; The voice kids ger _9 > 4; We are not human _1 > 4; The voice uk _10 > 3; Mako ventures _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 20; The voice nl _11 > 10; Unbag _1 > 7; The voice kids ger _9 > 4; We are not human _1 > 4; The voice uk _10 > 3; Mako ventures _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 17/03/21 
-> Lls _1 > 20; Unbag _1 > 7; You make me dance _1 > 6; The voice nl _11 > 5; The voice us _20 > 5; The voice be _9 > 4; We are not human _1 > 4; The voice uk _10 > 1; Meet my angel _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 20; Unbag _1 > 7; The voice nl _11 > 5; The voice us _20 > 5; The voice be _9 > 4; We are not human _1 > 4; The voice uk _10 > 1; Meet my angel _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 18/03/21 
-> Lls _1 > 20; Unbag _1 > 7; Bad roommate _1 > 7; The voice nl _11 > 5; You make me dance _1 > 4; We are not human _1 > 4; The voice be _9 > 2; The voice uk _10 > 1; Top chef _12 > 1; Game of talents _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 20; Unbag _1 > 7; Bad roommate _1 > 7; The voice nl _11 > 5; We are not human _1 > 4; The voice be _9 > 2; The voice uk _10 > 1; Top chef _12 > 1; Game of talents _1 > 1; Kaamelott _5 > 1; 
 
 
 
