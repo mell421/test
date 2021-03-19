@@ -12,7 +12,7 @@
  
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
-|skam france|france|6|
+|skam france|france|7|
 |druck|allemagne|6|
 |skam|norvège|4|
 |skam espana|espagne|4|
@@ -23,7 +23,7 @@
   
 |titre|pays|nb ep vu|
 | --- | --- | :---: | 
-|skam france 7|france|8|
+||||
 
 ## asie
 \* bl (side couple) <!-- -->  

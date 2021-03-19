@@ -302,6 +302,7 @@
 |girl2k|girl2k|10|serie(**)|thailande|<!-- 41 -->
 |RPDRUK 2||10|||<!--  -->
 |you make me dance|you make me dance|8|serie|corée|<!-- 45 -->
+|skam fr 7||10|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -460,7 +461,6 @@
 |koishite akuma 1||?|||3|<!--  -->
 |911 4||14|||7|<!--  -->
 |911 lone star 2||14|||7|<!--  -->
-|skam fr 7||10|||8|                                                                                 <!--  -->
 |tien bromance 1||10|||1|<!--  -->
 |1000 stars 1||10|||6|<!--  -->
 |slam dance 1||?|||1|<!--  -->

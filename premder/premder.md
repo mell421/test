@@ -18,7 +18,6 @@ Rpdru 13x10
 Rpdr 13x10
 Mako ventures 1x11
 Young sheldon 4x11
-Skam fr 7x9
 * Koh-lanta 26x1
 The voice vv 7x6
 The voice no 6x10
@@ -68,7 +67,6 @@ TharnType 2x5
 The shipper 1x4
 * Tien bromance 1x1
 Ben x jim 1x2
-* Skam fr 7x1
 * 911 lone star 2x1
 * 911 4x1
 Koishite akuma 1x3
