@@ -1,7 +1,7 @@
 [retour](./../index.html)
 
 ### date de maj
-19/03/21
+20/03/21
 
 ### tisaep all
 Meet my angel 1x5
@@ -12,7 +12,6 @@ The voice kids ger 9x3
 The voice nl 11x15
 * History4 close to you 1x1
 Lls 1x116
-The voice uk 10x11
 The voice 10x6
 Rpdru 13x10
 Rpdr 13x10
@@ -78,7 +77,6 @@ Koishite akuma 1x3
 * Unlocked 1x1
 Friend zone 1x3
 Rpdru 9x7
-* The voice uk 10x1
 * Together with me 1x1
 * Rpdru 13x1
 * Rpdr 13x1

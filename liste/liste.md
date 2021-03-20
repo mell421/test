@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-18/03/21
+20/03/21
 
 ## terminé
  
@@ -303,6 +303,7 @@
 |RPDRUK 2||10|||<!--  -->
 |you make me dance|you make me dance|8|serie|corée|<!-- 45 -->
 |skam fr 7||10|||<!--  -->
+|TV UK 10||12|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -451,7 +452,6 @@
 |RPDR 13||16|||9|<!--  -->
 |RPDRU 13||14|||9|<!--  -->
 |together with me 1|together with me|?|serie|thailande|1|<!--35  -->
-|TV UK 10|||||9|<!--  -->
 |RPDRU 9|||||7|<!--  -->
 |unlocked 1|unlocked|9|serie|philippines|2|<!--  -->
 |romantic blue 1|romantic blue|12|serie(**)|thailande|1|<!--  -->
