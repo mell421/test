@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-20/03/21
+21/03/21
 
 ## terminé
  
@@ -482,8 +482,14 @@
 |tvk ger 9||?|||1|<!--  -->
 |TV US 20||?|||2|<!--  -->
 |WBL 2||6|||1|<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
+|TMS 5||9|||2|<!--  -->
+|game of talents 1||?|||2|<!--  -->
+|KL 26||?|||2|<!--  -->
+|history4.1|history4 close to you|10|||2|<!--  -->
+|bad roommate|bad roommate|30|||8|<!--  -->
+|BT21 original story 1||?|||6|<!--  -->
+|BT21 vlog||?|||3|<!--  -->
+|fiend or lover||4|||1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -498,17 +504,51 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|KL 26||?|||0|<!--  -->
-|TMS 5||?|||0|<!--  -->
-|game of talents 1||?|||0|<!--  -->
-|fish upon the sky||?|||0|<!--  -->
+|the most peaceful place 1||6|||0|<!-- 22/3 -->
+|nailed it 5||?|||0|<!-- 26/3 -->
+|absolute BL||?|||0|<!-- 27/3 -->
+|love is science 1||?|||0|<!-- 27/3 -->
+|ydestiny 1||?|||0|<!-- 30/3 -->
+|RPDRAS 6||?|||0|<!-- 1/4 -->
+|TVK NL ||?|||0|<!-- 2/4 -->
+|my lascivious boss 1||?|||0|<!-- 4/4 -->
+|fish upon the sky||?|||0|<!-- 9/4 -->
+|CIWYW 1||?|||0|<!-- 9/4 -->
+|scholar ryu's wedding ceremony 1||?|||0|<!-- 15/4 -->
+|nitiman||?|||0|<!-- 7/5 -->
+|special 2||8|||0|<!-- 20/5 -->
+|love victor 2||10|||0|<!-- 11/6 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|||||||<!--  -->
+|date future||||||<!--  -->
+|cheat 2||?|||0|<!--  -->
+|gameboys 2||?|||0|<!--  -->
+|turbulence 1||?|||0|<!--  -->
+|kinnporsche 1||?|||0|<!--  -->
+|wars of the flowers 1||?|||0|<!--  -->
+|hemp rope 1||?|||0|<!--  -->
+|bad buddy 1||?|||0|<!--  -->
+|not me 1||?|||0|<!--  -->
+|enchante 1||?|||0|<!--  -->
+|my engineer 2||?|||0|<!--  -->
+|yyy 2||?|||0|<!--  -->
+|sea him 2||?|||0|<!--  -->
+|never too late 1||||||<!--  -->
+|baker boys 1||||||<!--  -->
+|drag I love you 1||||||<!--  -->
+|elite 4||||||<!--  -->
+|F4 thailand||||||<!--  -->
+|lego masters 2||||||<!--  -->
+|love death & robots 2||||||<!--  -->
+|mama gogo 1||||||<!--  -->
+|my extraordinary 2||||||<!--  -->
+|skam france 8||||||<!--  -->
+|the player 1||||||<!--  -->
+|wtfock 5||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

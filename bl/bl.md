@@ -6,7 +6,7 @@
 # liste de bl
 
 ## date de maj
-19/03/21
+21/03/21
 
 ## SKAM + REMAKES
  
@@ -163,7 +163,7 @@
 |pearl next door|pearl next door|8|serie(gl)|philippines|3|<!-- 27 -->
 |warper series|warper series|?|show|thailande|1|<!-- 28 -->
 |tien bromance|tien bromance|10|serie|vietnam|1|<!-- 29 -->
-|1000 stars|a tales of 1000 stars|12|serie|thailande|7|<!-- 30 -->
+|1000 stars|a tales of 1000 stars|12|serie|thailande|8|<!-- 30 -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--31  -->
 |you never eat alone|you never eat alone|12|serie(*)|thailande|4|<!-- 32 -->
 |school's out let's date now|school's out let's date now|10|serie(gl)|vietnam|5|<!-- 33 -->
@@ -174,10 +174,10 @@
 |meet my angel|meet my angel|?|serie|philippines|5|<!-- 38 -->
 |history3.1|history3 trapped|20|serie|taiwan|1|<!-- 39 -->
 |lovely writer|lovely writer|?|serie|thailande|4|<!-- 40 -->
-|we best love 2|fighting mister 2nd|6|serie|taiwan|2|<!-- 41 -->
-|history4.1|history4 close to you|10|serie|taiwan|1|<!-- 42 -->
+|we best love 2|fighting mister 2nd|6|serie|taiwan|3|<!-- 41 -->
+|history4.1|history4 close to you|10|serie|taiwan|2|<!-- 42 -->
 |bad roommate|bad roommate|30|serie|thailande|8|<!-- 43 -->
-|||||||<!--  -->
+|friend or lover|friend or lover|4|serie|taiwan|1|<!-- 44 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -204,15 +204,18 @@
 |2021||||||<!-- -->
 |the night beyond the tricornered window|tnbttw|?|serie|japon|0|<!-- 22/01 -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
+|the most peaceful place||6|serie|vietnam|0|<!-- 22/03 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|0|<!-- 24/03 -->
 |ydestiny|ydestiny|?|serie|thailande|0|<!-- 30/03 -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
+|my lascivious boss||?|serie|vietnam|0|<!-- 04/04 -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- 09/04 -->
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->
+|scholar ryu's wedding ceremony|scholar ryu's wedding ceremony|?|serie|corée|0|<!-- 15/04 -->
 |top secret together|top secret together|?|serie|thailande|0|<!-- ??/05 -->
 |nitiman|nitiman|?|serie|thailande|0|<!-- 07/05 -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->
-|||||||<!--  -->
+|absolute BL|absolute BL|?|serie|japon|0|<!-- /03 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
