@@ -206,6 +206,8 @@
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |the most peaceful place||6|serie|vietnam|0|<!-- 22/03 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|0|<!-- 24/03 -->
+|absolute BL||?|||0|<!-- 27/3 -->
+|love is science 1||?|||0|<!-- 27/3 -->
 |ydestiny|ydestiny|?|serie|thailande|0|<!-- 30/03 -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
 |my lascivious boss||?|serie|vietnam|0|<!-- 04/04 -->
