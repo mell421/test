@@ -1,2 +1,2 @@
-*.jpeg
-*.png
+./*.jpeg
+./*.png
