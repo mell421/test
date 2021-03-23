@@ -1,7 +1,7 @@
 [retour](./../index.html)
 
 ### date de maj
-21/03/21
+23/03/21
 
 ### tisaep all
 * -
@@ -137,7 +137,6 @@ Drag race holland 1x2
 Hes coming to me 1x2
 * My dear loser edge of 17 1x1
 Aggretsuko 3x3
-* Survivor au 1x1
 Nailed it holiday 2x2
 * Unbag 1x1
 * Aggretsuko 3x1

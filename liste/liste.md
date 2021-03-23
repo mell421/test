@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-21/03/21
+23/03/21
 
 ## terminé
  
@@ -305,6 +305,7 @@
 |skam fr 7||10|||<!--  -->
 |TV UK 10||12|||<!--  -->
 |our memory|our memory|4|serie|taiwan|                          <!-- 91 -->
+|survivor au 1||13|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -417,7 +418,6 @@
 |blacklist|blacklist|13|serie(**)|thailande|1|<!-- 8 -->
 |aggretsuko 3|||||3|<!--  -->
 |unbag|unbag|?|show|thailande|13|<!-- 9 -->
-|survivor au 1|||||1|<!--  -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!-- 10 -->
 |baby 3|||||1|<!--  -->
 |DR NL 1|||||2|<!--  -->

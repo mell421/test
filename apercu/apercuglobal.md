@@ -5,7 +5,7 @@
 # ajout reponse 
 
 ## date de maj
-20/03/21
+23/03/21
 
 ## Aperçu semaine
 #### sem 22-04-2019 
@@ -147,7 +147,7 @@ Survivor _40x2(1) The office _1x5(2) You _1x3(1)
 #### sem 24-08-2020 
 Good singers _1x3(1) Hes coming to me _1x2(1) So much in love _1x2(1) 
 #### sem 31-08-2020 
-Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(1) Blacklist series _1x2(1) 
+Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(1) Blacklist series _1x2(1) 
 #### sem 07-09-2020 
 Aggretsuko _3x4(1) 
 #### sem 14-09-2020 
@@ -243,7 +243,7 @@ Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef u
 #### mois 01-08-2020 
 Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
 #### mois 01-09-2020 
-Survivor au _1x2(1) Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
+Nailed it holiday _2x3(1) Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 #### mois 01-10-2020 
 Friend forever _1x2(1) My day _1x2(1) Drag race holland _1x3(2) Unbag _1x5(3) Love in time _1x2(1) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) Aggretsuko _3x4(1) 
 #### mois 01-11-2020 

@@ -6,8 +6,8 @@ carac :  120151 Z/Lls_1
 
 i = Unbag _1
 ligne :  476 Z/Unbag_1
-mot   :  14937 Z/Unbag_1
-carac :  72541 Z/Unbag_1
+mot   :  14926 Z/Unbag_1
+carac :  72476 Z/Unbag_1
 
 i = The voice nl _11
 ligne :  355 Z/Thevoicenl_11
@@ -46,13 +46,13 @@ carac :  21068 Z//9-1-1lonestar_2
 
 i = Rpdru _13
 ligne :  82 Z/Rpdru_13
-mot   :  3412 Z/Rpdru_13
-carac :  18513 Z/Rpdru_13
+mot   :  3418 Z/Rpdru_13
+carac :  18542 Z/Rpdru_13
 
 i = Rpdr _13
 ligne :  123 Z/Rpdr_13
-mot   :  5011 Z/Rpdr_13
-carac :  25936 Z/Rpdr_13
+mot   :  5017 Z/Rpdr_13
+carac :  25965 Z/Rpdr_13
 
 i = /9-1-1 _4
 ligne :  78 Z//9-1-1_4
@@ -76,8 +76,8 @@ carac :  9425 Z/Loveintime_1
 
 i = The voice _10
 ligne :  48 Z/Thevoice_10
-mot   :  2087 Z/Thevoice_10
-carac :  11961 Z/Thevoice_10
+mot   :  2093 Z/Thevoice_10
+carac :  11990 Z/Thevoice_10
 
 i = 1000 stars _1
 ligne :  36 Z/1000stars_1
