@@ -5,7 +5,7 @@
 # ajout reponse 2020
 
 ## date de maj
-23/03/21
+26/03/21
 
 ## Aperçu semaine
 #### sem 06-01-2020 
@@ -100,15 +100,15 @@ My vampire boyfriend _1x3(2) Young sheldon _4x3(1) Unbag _1x9(1)
 #### sem 23-11-2020 
 TharnType _2x3(1) Young sheldon _4x4(1) Unbag _1x10(1) Pogi lang hanap _1x5(1) 
 #### sem 30-11-2020 
-Be love _1x2(1) The voice nl _11x2(1) 
+Be love _1x2(1) 
 #### sem 07-12-2020 
-The voice nl _11x3(1) TharnType _2x4(1) Young sheldon _4x5(1) Unbag _1x11(1) Ghost runner _1x2(1) Be love _1x3(1) 
+TharnType _2x4(1) Young sheldon _4x5(1) Unbag _1x11(1) Ghost runner _1x2(1) Be love _1x3(1) 
 #### sem 14-12-2020 
-A queen is born _1x2(1) The voice nl _11x4(1) Tale of the nine tailed _1x2(1) 
+A queen is born _1x2(1) Tale of the nine tailed _1x2(1) 
 #### sem 21-12-2020 
-Ghost runner _1x4(2) The voice nl _11x5(1) Lls _1x95(8) Unbag _1x12(1) 
+Ghost runner _1x4(2) Lls _1x95(8) Unbag _1x12(1) 
 #### sem 28-12-2020 
-Capture lover _1x3(1) Lls _1x97(2) Roommate _2x2(1) The voice nl _11x6(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
+Capture lover _1x3(1) Lls _1x97(2) Roommate _2x2(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
 
 ---
 
@@ -136,7 +136,7 @@ Friend forever _1x2(1) My day _1x2(1) Drag race holland _1x3(2) Unbag _1x5(3) Lo
 #### mois 01-11-2020 
 Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
-Be love _1x3(2) The voice nl _11x2(1) TharnType _2x3(2) Young sheldon _4x4(3) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
+Be love _1x3(2) TharnType _2x3(2) Young sheldon _4x4(3) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
 
 ---
 
@@ -338,9 +338,9 @@ Be love _1x3(2) The voice nl _11x2(1) TharnType _2x3(2) Young sheldon _4x4(3) Un
 ### conclu 25/12/20 
 > Lls _1 > 9; From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 26/12/20 
-> Lls _1 > 9; From dusk till dawn _2 > 2; The voice nl _11 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 9; From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 27/12/20 
-> Lls _1 > 9; From dusk till dawn _2 > 2; The voice nl _11 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+> Lls _1 > 9; From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 28/12/20 
 > Lls _1 > 9; From dusk till dawn _2 > 1; Unbag _1 > 1; We are not human _1 > 1; 
 ### conclu 29/12/20 
@@ -515,9 +515,9 @@ Be love _1x3(2) The voice nl _11x2(1) TharnType _2x3(2) Young sheldon _4x4(3) Un
 ### concluBis 11/12/20 
 > Lls _1 > 5; We are not human _1 > 3; 
 ### concluBis 12/12/20 
-> Lls _1 > 5; We are not human _1 > 3; The voice nl _11 > 1; 
+> Lls _1 > 5; We are not human _1 > 3; 
 ### concluBis 13/12/20 
-> Lls _1 > 5; We are not human _1 > 3; The voice nl _11 > 1; 
+> Lls _1 > 5; We are not human _1 > 3; 
 ### concluBis 14/12/20 
 > Lls _1 > 5; We are not human _1 > 3; A queen is born _1 > 2; 
 ### concluBis 15/12/20 
@@ -529,27 +529,27 @@ Be love _1x3(2) The voice nl _11x2(1) TharnType _2x3(2) Young sheldon _4x4(3) Un
 ### concluBis 18/12/20 
 > Lls _1 > 20; Unbag _1 > 4; We are not human _1 > 2; 
 ### concluBis 19/12/20 
-> Lls _1 > 20; We are not human _1 > 2; Unbag _1 > 1; The voice nl _11 > 1; 
+> Lls _1 > 20; We are not human _1 > 2; Unbag _1 > 1; 
 ### concluBis 20/12/20 
-> Lls _1 > 20; Unbag _1 > 2; The voice nl _11 > 2; We are not human _1 > 2; 
+> Lls _1 > 20; Unbag _1 > 2; We are not human _1 > 2; 
 ### concluBis 21/12/20 
-> Lls _1 > 20; Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 20; Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 22/12/20 
-> Lls _1 > 20; Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; The voice nl _11 > 2; Kaamelott _5 > 1; 
+> Lls _1 > 20; Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 23/12/20 
-> Lls _1 > 18; Unbag _1 > 3; We are not human _1 > 3; The voice nl _11 > 1; Lakan _1 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 18; Unbag _1 > 3; We are not human _1 > 3; Lakan _1 > 1; Kaamelott _5 > 1; 
 ### concluBis 24/12/20 
-> Lls _1 > 18; We are not human _1 > 3; Unbag _1 > 2; The voice nl _11 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 18; We are not human _1 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
 ### concluBis 25/12/20 
-> Lls _1 > 15; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; The voice nl _11 > 1; Kaamelott _5 > 1; 
+> Lls _1 > 15; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 26/12/20 
-> Lls _1 > 15; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+> Lls _1 > 15; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 27/12/20 
-> Lls _1 > 16; The voice nl _11 > 4; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+> Lls _1 > 16; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 28/12/20 
-> Lls _1 > 15; The voice nl _11 > 4; Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+> Lls _1 > 15; Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 29/12/20 
-> Lls _1 > 15; The voice nl _11 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+> Lls _1 > 15; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 30/12/20 
 > Lls _1 > 15; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
 ### concluBis 31/12/20 

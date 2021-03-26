@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-23/03/21
+26/03/21
 
 ## terminé
  
@@ -306,6 +306,7 @@
 |TV UK 10||12|||<!--  -->
 |our memory|our memory|4|serie|taiwan|                          <!-- 91 -->
 |survivor au 1||13|||<!--  -->
+|TV NL 11||17|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -440,7 +441,6 @@
 |young sheldon 4|||||8|<!--  -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|4|<!-- 22 -->
 |my vampire boyfriend 1||12|||6|<!--  -->
-|TV NL 11||?|||11|                                                                                  <!--  -->
 |be love|be love|4|serie|japon|2|<!-- 25 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
 |tale of the nine tailed 1|||||1|<!--  -->

@@ -1,7 +1,7 @@
 [retour](./../index.html)
 
 ### date de maj
-23/03/21
+26/03/21
 
 ### tisaep all
 * -
@@ -11,7 +11,6 @@ The voice 10x7
 Lls 1x121
 We best love 2x3
 1000 stars 1x8
-The voice nl 11x16
 Rpdru 13x11
 Rpdr 13x11
 The voice vv 7x7
@@ -105,7 +104,6 @@ Lakan 1x4
 * Tale of the nine tailed 1x1
 * Ghost runner 1x1
 * Be love 1x1
-* The voice nl 11x1
 Pogi lang hanap 1x4
 * My vampire boyfriend 1x1
 * TharnType 2x1

@@ -9,7 +9,7 @@
 # 29 - 20
 # 19 - 15
 # 14 - 10
-list=( "Lls _1" "Unbag _1" "The voice nl _11" 
+list=( "Lls _1" "Unbag _1" 
 "Mako ventures _1" "The voice be _9" "Wabi vlog _1" 
 "Young sheldon _4" 
 "The voice no _6" "/9-1-1 lone star _2" "Rpdru _13" 
