@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-26/03/21
+27/03/21
 
 ## terminé
  
@@ -307,7 +307,7 @@
 |our memory|our memory|4|serie|taiwan|                          <!-- 91 -->
 |survivor au 1||13|||<!--  -->
 |TV NL 11||17|||<!--  -->
-||||||
+|nailed it 5||6|||
 ||||||
 ||||||
 ||||||
@@ -506,7 +506,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the most peaceful place 1||6|||0|<!-- 22/3 -->
-|nailed it 5||?|||0|<!-- 26/3 -->
 |absolute BL||?|||0|<!-- 27/3 -->
 |love is science 1||?|||0|<!-- 27/3 -->
 |ydestiny 1||?|||0|<!-- 30/3 -->
