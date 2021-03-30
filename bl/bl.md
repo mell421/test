@@ -6,7 +6,7 @@
 # liste de bl
 
 ## date de maj
-21/03/21
+29/03/21
 
 ## SKAM + REMAKES
  
@@ -178,6 +178,8 @@
 |history4.1|history4 close to you|10|serie|taiwan|2|<!-- 42 -->
 |bad roommate|bad roommate|30|serie|thailande|8|<!-- 43 -->
 |friend or lover|friend or lover|4|serie|taiwan|1|<!-- 44 -->
+|precise shot|precise shot|20|serie|taiwan|4|<!--  -->
+|absolute BL|absolute bl|6|serie|japon|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -207,7 +209,6 @@
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |the most peaceful place||6|serie|vietnam|0|<!-- 22/03 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|0|<!-- 24/03 -->
-|absolute BL||?|||0|<!-- 27/3 -->
 |love is science 1||?|||0|<!-- 27/3 -->
 |ydestiny|ydestiny|?|serie|thailande|0|<!-- 30/03 -->
 |avril||||||<!-- -->

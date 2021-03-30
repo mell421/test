@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-27/03/21
+30/03/21
 
 ## terminé
  
@@ -308,6 +308,7 @@
 |survivor au 1||13|||<!--  -->
 |TV NL 11||17|||<!--  -->
 |nailed it 5||6|||
+|survivor au 2||12|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -490,9 +491,9 @@
 |bad roommate|bad roommate|30|||8|<!--  -->
 |BT21 original story 1||?|||6|<!--  -->
 |BT21 vlog||?|||3|<!--  -->
-|fiend or lover||4|||1|<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
+|friend or lover||4|||1|<!--  -->
+|precise shot 1||20|||4|<!--  -->
+|absolute BL||6|||1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -506,7 +507,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the most peaceful place 1||6|||0|<!-- 22/3 -->
-|absolute BL||?|||0|<!-- 27/3 -->
 |love is science 1||?|||0|<!-- 27/3 -->
 |ydestiny 1||?|||0|<!-- 30/3 -->
 |RPDRAS 6||?|||0|<!-- 1/4 -->
@@ -515,10 +515,10 @@
 |fish upon the sky||?|||0|<!-- 9/4 -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
 |scholar ryu's wedding ceremony 1||?|||0|<!-- 15/4 -->
+|close friend|close friend|6|||0|<!-- 22/04 -->
 |nitiman||?|||0|<!-- 7/5 -->
 |special 2||8|||0|<!-- 20/5 -->
 |love victor 2||10|||0|<!-- 11/6 -->
-|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

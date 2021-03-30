@@ -49,6 +49,11 @@ ligne :  93 Z//9-1-1lonestar_2
 mot   :  3891 Z//9-1-1lonestar_2
 carac :  20261 Z//9-1-1lonestar_2
 
+i = The voice us _20
+ligne :  26 Z/Thevoiceus_20
+mot   :  912 Z/Thevoiceus_20
+carac :  4455 Z/Thevoiceus_20
+
 i = /9-1-1 _4
 ligne :  77 Z//9-1-1_4
 mot   :  3287 Z//9-1-1_4
@@ -59,30 +64,30 @@ ligne :  75 Z/Myvampireboyfriend_1
 mot   :  2565 Z/Myvampireboyfriend_1
 carac :  12993 Z/Myvampireboyfriend_1
 
-i = The voice us _20
-ligne :  26 Z/Thevoiceus_20
-mot   :  912 Z/Thevoiceus_20
-carac :  4455 Z/Thevoiceus_20
-
 i = Bt21 original story _1
 ligne :  0 Z/Bt21originalstory_1
 mot   :  0 Z/Bt21originalstory_1
 carac :  0 Z/Bt21originalstory_1
-
-i = 1000 stars _1
-ligne :  36 Z/1000stars_1
-mot   :  1699 Z/1000stars_1
-carac :  10064 Z/1000stars_1
 
 i = The voice _10
 ligne :  48 Z/Thevoice_10
 mot   :  1971 Z/Thevoice_10
 carac :  11474 Z/Thevoice_10
 
+i = 1000 stars _1
+ligne :  36 Z/1000stars_1
+mot   :  1699 Z/1000stars_1
+carac :  10064 Z/1000stars_1
+
 i = The harvest season _1
 ligne :  48 Z/Theharvestseason_1
 mot   :  2002 Z/Theharvestseason_1
 carac :  9721 Z/Theharvestseason_1
+
+i = Top chef _12
+ligne :  25 Z/Topchef_12
+mot   :  1267 Z/Topchef_12
+carac :  7521 Z/Topchef_12
 
 i = Bad roommate _1
 ligne :  4 Z/Badroommate_1
@@ -94,25 +99,15 @@ ligne :  45 Z/Loveintime_1
 mot   :  1686 Z/Loveintime_1
 carac :  9141 Z/Loveintime_1
 
-i = Top chef _12
-ligne :  25 Z/Topchef_12
-mot   :  1267 Z/Topchef_12
-carac :  7521 Z/Topchef_12
-
-i = Given _1
-ligne :  42 Z/Given_1
-mot   :  1875 Z/Given_1
-carac :  9152 Z/Given_1
-
 i = The voice vv _7
 ligne :  29 Z/Thevoicevv_7
 mot   :  1422 Z/Thevoicevv_7
 carac :  8646 Z/Thevoicevv_7
 
-i = TharnType _2
-ligne :  40 Z/TharnType_2
-mot   :  1068 Z/TharnType_2
-carac :  6925 Z/TharnType_2
+i = Given _1
+ligne :  42 Z/Given_1
+mot   :  1875 Z/Given_1
+carac :  9152 Z/Given_1
 
 i = Meet my angel _1
 ligne :  22 Z/Meetmyangel_1
