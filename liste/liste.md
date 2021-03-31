@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-30/03/21
+31/03/21
 
 ## terminé
  
@@ -309,7 +309,7 @@
 |TV NL 11||17|||<!--  -->
 |nailed it 5||6|||
 |survivor au 2||12|||<!--  -->
-||||||
+|TMS DE 4||6|||
 ||||||
 ||||||
 ||||||
@@ -496,6 +496,7 @@
 |absolute BL||6|||1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
+|ydestiny 1||?|||0|<!-- 30/3 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -508,13 +509,12 @@
 | --- | --- | :---: | --- | --- | --- |
 |the most peaceful place 1||6|||0|<!-- 22/3 -->
 |love is science 1||?|||0|<!-- 27/3 -->
-|ydestiny 1||?|||0|<!-- 30/3 -->
 |RPDRAS 6||?|||0|<!-- 1/4 -->
 |TVK NL ||?|||0|<!-- 2/4 -->
 |my lascivious boss 1||?|||0|<!-- 4/4 -->
 |fish upon the sky||?|||0|<!-- 9/4 -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
-|scholar ryu's wedding ceremony 1||?|||0|<!-- 15/4 -->
+|scholar ryu's wedding ceremony 1||8|||0|<!-- 15/4 -->
 |close friend|close friend|6|||0|<!-- 22/04 -->
 |nitiman||?|||0|<!-- 7/5 -->
 |special 2||8|||0|<!-- 20/5 -->
