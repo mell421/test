@@ -25,7 +25,7 @@ document.write(`
           </tr>
           <tr>
               <td>15</td>
-              <td>16<br>YNEA 109<br><span class="debut">TMS DE 401</span></td>
+              <td>16<br>YNEA 109</td>
               <td>17</td>
               <td>18</td>
               <td>19<br>ADOW 207</td>

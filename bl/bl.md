@@ -6,7 +6,7 @@
 # liste de bl
 
 ## date de maj
-29/03/21
+31/03/21
 
 ## SKAM + REMAKES
  
@@ -21,7 +21,7 @@
 |skam austin|usa|2|
 |skam nl|pays-bas|2|
   
-|titre|pays|nb ep vu|
+|titre|saison|nb ep vu|
 | --- | --- | :---: | 
 ||||
 
@@ -124,6 +124,7 @@
 |girl2k|girl2k|10|serie(**)|thailande|                          <!-- 89 -->
 |you make me dance|you make me dance|8|serie|corée|             <!-- 90 -->
 |our memory|our memory|4|serie|taiwan|                          <!-- 91 -->
+|absolute BL|absolute bl|8|serie|japon|                         <!-- 92 -->
 ||||||
 ||||||
 ||||||
@@ -163,23 +164,23 @@
 |pearl next door|pearl next door|8|serie(gl)|philippines|3|<!-- 27 -->
 |warper series|warper series|?|show|thailande|1|<!-- 28 -->
 |tien bromance|tien bromance|10|serie|vietnam|1|<!-- 29 -->
-|1000 stars|a tales of 1000 stars|12|serie|thailande|8|<!-- 30 -->
+|1000 stars|a tales of 1000 stars|12|serie|thailande|9|<!-- 30 -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--31  -->
 |you never eat alone|you never eat alone|12|serie(*)|thailande|4|<!-- 32 -->
 |school's out let's date now|school's out let's date now|10|serie(gl)|vietnam|5|<!-- 33 -->
-|wabi vlog|wabi vlog|?|show|thailande|5|<!-- 34 -->
+|wabi vlog|wabi vlog|?|show|thailande|10|<!-- 34 -->
 |wabi game|wabi game|?|show|thailande|2|<!-- 35 -->
 |the harvest season|the harvest season|?|show|thailande|5|<!-- 36 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!-- 37 -->
-|meet my angel|meet my angel|?|serie|philippines|5|<!-- 38 -->
-|history3.1|history3 trapped|20|serie|taiwan|1|<!-- 39 -->
-|lovely writer|lovely writer|?|serie|thailande|4|<!-- 40 -->
-|we best love 2|fighting mister 2nd|6|serie|taiwan|3|<!-- 41 -->
-|history4.1|history4 close to you|10|serie|taiwan|2|<!-- 42 -->
+|meet my angel|meet my angel|8|serie|philippines|7|<!-- 38 -->
+|history3.1|history3 trapped|20|serie|taiwan|2|<!-- 39 -->
+|lovely writer|lovely writer|?|serie|thailande|5|<!-- 40 -->
+|we best love 2|fighting mister 2nd|6|serie|taiwan|4|<!-- 41 -->
+|history4.1|history4 close to you|10|serie|taiwan|3|<!-- 42 -->
 |bad roommate|bad roommate|30|serie|thailande|8|<!-- 43 -->
 |friend or lover|friend or lover|4|serie|taiwan|1|<!-- 44 -->
-|precise shot|precise shot|20|serie|taiwan|4|<!--  -->
-|absolute BL|absolute bl|6|serie|japon|1|<!--  -->
+|precise shot|precise shot|20|serie|taiwan|4|<!-- 45 -->
+|ydestiny|ydestiny|15|serie|thailande|1|<!-- 47 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -205,26 +206,25 @@
 |||||||<!-- -->
 |2021||||||<!-- -->
 |the night beyond the tricornered window|tnbttw|?|serie|japon|0|<!-- 22/01 -->
-|mars||||||<!-- -->
+|MARS||||||<!-- -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
-|the most peaceful place||6|serie|vietnam|0|<!-- 22/03 -->
+|the most peaceful place|the most peaceful place|6|serie|vietnam|0|<!-- 22/03 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|0|<!-- 24/03 -->
-|love is science 1||?|||0|<!-- 27/3 -->
-|ydestiny|ydestiny|?|serie|thailande|0|<!-- 30/03 -->
-|avril||||||<!-- -->
+|AVRIL||||||<!-- -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
 |my lascivious boss||?|serie|vietnam|0|<!-- 04/04 -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- 09/04 -->
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->
-|scholar ryu's wedding ceremony|scholar ryu's wedding ceremony|?|serie|corée|0|<!-- 15/04 -->
-|mai||||||<!-- -->
+|nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|0|<!-- 15/04 -->
+|close friend|close friend|?|serie|thailande|0|<!-- 22/04 -->
+|MAI||||||<!-- -->
 |top secret together|top secret together|?|serie|thailande|0|<!-- ??/05 -->
 |nitiman|nitiman|?|serie|thailande|0|<!-- 07/05 -->
-|||||||<!-- -->
+|JUIN||||||<!-- -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->
+|JUILLET||||||<!--  -->
 |||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
+|AOUT||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 
@@ -259,7 +259,6 @@
 |||||||
 |COPYABANGKOK|||||| <!-- -->
 |OTHER THAI||||||<!-- -->
-|close friend|close friend|?|serie|thailande|0|
 |bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
 |kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
 |middle love|middle love|?|serie|thailande|0|<!-- MII2 -->
