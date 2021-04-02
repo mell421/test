@@ -1,7 +1,7 @@
 [retour](./../index.html)
 
 ### date de maj
-30/03/21
+02/04/21
 
 ### tisaep all
 * -
@@ -22,7 +22,6 @@ Koh-lanta 26x3
 The voice no 6x12
 The voice vv 7x8
 Lovely writer 1x5
-1000 stars 1x9
 Game of talents 1x3
 The masked singer 5x3
 Top chef 12x7
@@ -77,7 +76,6 @@ The untamed 1x3
 * Slam dance 1x1
 Be love 1x3
 TharnType 2x5
-* 1000 stars 1x1
 The shipper 1x4
 * Tien bromance 1x1
 Ben x jim 1x2

@@ -6,7 +6,7 @@
 # liste de bl
 
 ## date de maj
-31/03/21
+02/04/21
 
 ## SKAM + REMAKES
  
@@ -125,6 +125,7 @@
 |you make me dance|you make me dance|8|serie|corée|             <!-- 90 -->
 |our memory|our memory|4|serie|taiwan|                          <!-- 91 -->
 |absolute BL|absolute bl|8|serie|japon|                         <!-- 92 -->
+|1000 stars|a tales of 1000 stars|12|serie|thailande|9|<!-- 30 -->
 ||||||
 ||||||
 ||||||
@@ -164,7 +165,6 @@
 |pearl next door|pearl next door|8|serie(gl)|philippines|3|<!-- 27 -->
 |warper series|warper series|?|show|thailande|1|<!-- 28 -->
 |tien bromance|tien bromance|10|serie|vietnam|1|<!-- 29 -->
-|1000 stars|a tales of 1000 stars|12|serie|thailande|9|<!-- 30 -->
 |slam dance|slam dance|?|serie(*)|thailande|1|<!--31  -->
 |you never eat alone|you never eat alone|12|serie(*)|thailande|4|<!-- 32 -->
 |school's out let's date now|school's out let's date now|10|serie(gl)|vietnam|5|<!-- 33 -->
@@ -174,7 +174,7 @@
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!-- 37 -->
 |meet my angel|meet my angel|8|serie|philippines|7|<!-- 38 -->
 |history3.1|history3 trapped|20|serie|taiwan|2|<!-- 39 -->
-|lovely writer|lovely writer|?|serie|thailande|5|<!-- 40 -->
+|lovely writer|lovely writer|?|serie|thailande|6|<!-- 40 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|4|<!-- 41 -->
 |history4.1|history4 close to you|10|serie|taiwan|3|<!-- 42 -->
 |bad roommate|bad roommate|30|serie|thailande|8|<!-- 43 -->
@@ -238,6 +238,7 @@
 |my engineer 2|my engineer 2|?|serie|thailande|0|<!-- -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|
 |cheat 2|cheat 2|?|serie|philippines|0|
+|quaranthings 2||?|||0|
 |||||||
 |my extraordinary 2|a kiss 2 remember|12|serie|philippines|0|<!-- -->
 |COREE||||||<!-- -->
@@ -255,10 +256,10 @@
 |the player|the player|?|serie(**)|thailande|0|<!-- -->
 |NOTME|NOTME|?|serie|thailande|0|<!-- -->
 |war of the flowers|war of the flowers|?|serie(**)|thailande|0|
-|SWS||||||<!-- -->
+|SWS||||||<!--  -->
 |||||||
-|COPYABANGKOK|||||| <!-- -->
-|OTHER THAI||||||<!-- -->
+|COPYABANGKOK|||||| <!--  -->
+|OTHER THAI||||||<!--  -->
 |bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
 |kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
 |middle love|middle love|?|serie|thailande|0|<!-- MII2 -->

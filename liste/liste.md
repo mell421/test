@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-31/03/21
+02/04/21
 
 ## terminé
  
@@ -304,13 +304,14 @@
 |you make me dance|you make me dance|8|serie|corée|<!-- 45 -->
 |skam fr 7||10|||<!--  -->
 |TV UK 10||12|||<!--  -->
-|our memory|our memory|4|serie|taiwan|                          <!-- 91 -->
+|our memory|our memory|4|serie|taiwan|<!-- 91 -->
 |survivor au 1||13|||<!--  -->
 |TV NL 11||17|||<!--  -->
 |nailed it 5||6|||
 |survivor au 2||12|||<!--  -->
 |TMS DE 4||6|||
 |absolute BL||8|||<!--  -->
+|1000 stars 1||10|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -465,7 +466,6 @@
 |911 4||14|||7|<!--  -->
 |911 lone star 2||14|||7|<!--  -->
 |tien bromance 1||10|||1|<!--  -->
-|1000 stars 1||10|||9|<!--  -->
 |slam dance 1||?|||1|<!--  -->
 |you never eat alone 1||10|||4|<!--  -->
 |school's out let's date now 1||?|||4|<!--  -->
