@@ -15,7 +15,7 @@ list=( "Lls _1" "Unbag _1"
 "Rpdr _13" "/9-1-1 lone star _2" 
 "The voice us _20" "/9-1-1 _4" "My vampire boyfriend _1" "Bt21 original story _1" 
 "The voice _10" "The harvest season _1" "Top chef _12" "Bad roommate _1" "Love in time _1" 
-"The voice vv _7" "Given _1" "Meet my angel _1" "Pearl next door _1" "Be love _1" "Wabi show _1" )
+"The voice vv _7" "Given _1" "Pearl next door _1" "Be love _1" "Wabi show _1" )
 
 # entre 9 et 4
 listBis=( "Bt21 vlog _1" 

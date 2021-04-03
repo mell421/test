@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-02/04/21
+03/04/21
 
 ## terminé
  
@@ -312,6 +312,7 @@
 |TMS DE 4||6|||
 |absolute BL||8|||<!--  -->
 |1000 stars 1||10|||<!--  -->
+|meet my angel|meet my angel|8|serie|philippines|<!-- 38 -->
 ||||||
 ||||||
 ||||||
@@ -478,7 +479,6 @@
 |top chef 12||?|||4|<!--  -->
 |bangkok love stories innocence 1||?|||1|<!--  -->
 |given 1||?|||2|<!--  -->
-|meet my angel 1||?|||1|<!--  -->
 |history3.1|history3 trapped|20|||2|<!--  -->
 |PE 14||?|||1|<!--  -->
 |lovely writer 1||?|||1|<!--  -->
