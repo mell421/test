@@ -24,16 +24,6 @@ ligne :  152 Z/Wabivlog_1
 mot   :  5851 Z/Wabivlog_1
 carac :  27571 Z/Wabivlog_1
 
-i = Young sheldon _4
-ligne :  121 Z/Youngsheldon_4
-mot   :  4289 Z/Youngsheldon_4
-carac :  22981 Z/Youngsheldon_4
-
-i = The voice no _6
-ligne :  111 Z/Thevoiceno_6
-mot   :  4255 Z/Thevoiceno_6
-carac :  21961 Z/Thevoiceno_6
-
 i = Rpdru _13
 ligne :  82 Z/Rpdru_13
 mot   :  3174 Z/Rpdru_13
@@ -44,20 +34,35 @@ ligne :  119 Z/Rpdr_13
 mot   :  4533 Z/Rpdr_13
 carac :  23734 Z/Rpdr_13
 
-i = /9-1-1 lone star _2
-ligne :  93 Z//9-1-1lonestar_2
-mot   :  3821 Z//9-1-1lonestar_2
-carac :  19830 Z//9-1-1lonestar_2
+i = Young sheldon _4
+ligne :  121 Z/Youngsheldon_4
+mot   :  4289 Z/Youngsheldon_4
+carac :  22981 Z/Youngsheldon_4
+
+i = The voice no _6
+ligne :  111 Z/Thevoiceno_6
+mot   :  4255 Z/Thevoiceno_6
+carac :  21961 Z/Thevoiceno_6
 
 i = The voice us _20
 ligne :  26 Z/Thevoiceus_20
 mot   :  866 Z/Thevoiceus_20
 carac :  4259 Z/Thevoiceus_20
 
+i = /9-1-1 lone star _2
+ligne :  161 Z//9-1-1lonestar_2
+mot   :  6043 Z//9-1-1lonestar_2
+carac :  34217 Z//9-1-1lonestar_2
+
 i = /9-1-1 _4
-ligne :  77 Z//9-1-1_4
-mot   :  3217 Z//9-1-1_4
-carac :  17099 Z//9-1-1_4
+ligne :  144 Z//9-1-1_4
+mot   :  5411 Z//9-1-1_4
+carac :  31311 Z//9-1-1_4
+
+i = The voice _10
+ligne :  48 Z/Thevoice_10
+mot   :  1922 Z/Thevoice_10
+carac :  11168 Z/Thevoice_10
 
 i = My vampire boyfriend _1
 ligne :  75 Z/Myvampireboyfriend_1
@@ -69,16 +74,6 @@ ligne :  0 Z/Bt21originalstory_1
 mot   :  0 Z/Bt21originalstory_1
 carac :  0 Z/Bt21originalstory_1
 
-i = The voice _10
-ligne :  48 Z/Thevoice_10
-mot   :  1922 Z/Thevoice_10
-carac :  11168 Z/Thevoice_10
-
-i = The harvest season _1
-ligne :  48 Z/Theharvestseason_1
-mot   :  1947 Z/Theharvestseason_1
-carac :  9462 Z/Theharvestseason_1
-
 i = Top chef _12
 ligne :  25 Z/Topchef_12
 mot   :  1192 Z/Topchef_12
@@ -89,33 +84,63 @@ ligne :  4 Z/Badroommate_1
 mot   :  119 Z/Badroommate_1
 carac :  542 Z/Badroommate_1
 
-i = Love in time _1
-ligne :  45 Z/Loveintime_1
-mot   :  1655 Z/Loveintime_1
-carac :  8957 Z/Loveintime_1
-
 i = The voice vv _7
 ligne :  29 Z/Thevoicevv_7
 mot   :  1355 Z/Thevoicevv_7
 carac :  8243 Z/Thevoicevv_7
+
+i = Precise shot _1
+ligne :  0 Z/Preciseshot_1
+mot   :  0 Z/Preciseshot_1
+carac :  0 Z/Preciseshot_1
+
+i = Love in time _1
+ligne :  45 Z/Loveintime_1
+mot   :  1655 Z/Loveintime_1
+carac :  8957 Z/Loveintime_1
 
 i = Given _1
 ligne :  42 Z/Given_1
 mot   :  1843 Z/Given_1
 carac :  8965 Z/Given_1
 
+i = Pekin express _14
+ligne :  15 Z/Pekinexpress_14
+mot   :  737 Z/Pekinexpress_14
+carac :  4464 Z/Pekinexpress_14
+
+i = Survivor au _3
+ligne :  1 Z/Survivorau_3
+mot   :  67 Z/Survivorau_3
+carac :  355 Z/Survivorau_3
+
+i = History3 trapped _1
+ligne :  6 Z/History3trapped_1
+mot   :  371 Z/History3trapped_1
+carac :  2565 Z/History3trapped_1
+
+i = Mental _1
+ligne :  19 Z/Mental_1
+mot   :  452 Z/Mental_1
+carac :  3402 Z/Mental_1
+
 i = Pearl next door _1
 ligne :  33 Z/Pearlnextdoor_1
 mot   :  1163 Z/Pearlnextdoor_1
 carac :  6752 Z/Pearlnextdoor_1
 
-i = Be love _1
-ligne :  36 Z/Belove_1
-mot   :  950 Z/Belove_1
-carac :  5818 Z/Belove_1
+i = Lovely writer _1
+ligne :  13 Z/Lovelywriter_1
+mot   :  680 Z/Lovelywriter_1
+carac :  4181 Z/Lovelywriter_1
 
-i = Wabi show _1
-ligne :  30 Z/Wabishow_1
-mot   :  1241 Z/Wabishow_1
-carac :  6287 Z/Wabishow_1
+i = Game of talents _1
+ligne :  4 Z/Gameoftalents_1
+mot   :  156 Z/Gameoftalents_1
+carac :  925 Z/Gameoftalents_1
+
+i = Bt21 vlog _1
+ligne :  0 Z/Bt21vlog_1
+mot   :  0 Z/Bt21vlog_1
+carac :  0 Z/Bt21vlog_1
 

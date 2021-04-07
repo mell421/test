@@ -10,44 +10,49 @@
 # 19 - 15
 # 14 - 10
 list=( "Lls _1" "Unbag _1" 
-"Mako ventures _1" "The voice be _9" "Wabi vlog _1" 
-"Young sheldon _4" "The voice no _6" "Rpdru _13" 
-"Rpdr _13" "/9-1-1 lone star _2" 
-"The voice us _20" "/9-1-1 _4" "My vampire boyfriend _1" "Bt21 original story _1" 
-"The voice _10" "The harvest season _1" "Top chef _12" "Bad roommate _1" "Love in time _1" 
-"The voice vv _7" "Given _1" "Pearl next door _1" "Be love _1" "Wabi show _1" )
+"Mako ventures _1" "The voice be _9" "Wabi vlog _1" "Rpdru _13" 
+"Rpdr _13" "Young sheldon _4" "The voice no _6" "The voice us _20" 
+"/9-1-1 lone star _2" 
+"/9-1-1 _4" "The voice _10" "My vampire boyfriend _1" "Bt21 original story _1" 
+"Top chef _12" "Bad roommate _1" "The voice vv _7" "Precise shot _1" "Love in time _1" 
+"Given _1" "Pekin express _14" "Survivor au _3" "History3 trapped _1" "Mental _1" "Pearl next door _1" "Lovely writer _1" "Game of talents _1" "Bt21 vlog _1" )
 
 # entre 9 et 4
-listBis=( "Bt21 vlog _1" 
-"The voice kids ger _9" "Pekin express _14" "Tokyo ghoul _3" 
-"Lovely writer _1" "Game of talents _1" "Schools out lets date now _1" 
-"You never eat alone _1" "The untamed _1" 
-"History4 close to you _1" "Precise shot _1" "We best love _2" "The masked singer _5" 
+listBis=( "The voice kids ger _9" 
+"History4 close to you _1" "We best love _2" "Schools out lets date now _1" "Tokyo ghoul _3" 
+"Drag race holland _1" "The masked singer _5" "You never eat alone _1" 
+"" 
+"Koh-lanta _26" 
 "Unlocked _1" )
 
 # 3
-listBis=( "History3 trapped _1" "Koh-lanta _26" "Slam dance _1" )
+listTer=( "The most peaceful place _1" )
 
 # 2
-listTer=( "Bangkok love stories innocence _1" "Tbbt _11" )
+listQuat=( "Ydestiny _1" "Friend or lover _1" )
 
-listAtt=( "The shipper _1" "TharnType _2" "Friend forever _1" "Koishite akuma _1" "Blood _1" "Pogi lang hanap _1" 
+listAtt=( "Bangkok love stories innocence _1" "Tbbt _11" "Slam dance _1" "The untamed _1" "The harvest season _1" "The shipper _1" "TharnType _2" "Wabi show _1" "Friend forever _1" "Be love _1" "Koishite akuma _1" "Blood _1" "Pogi lang hanap _1" 
 "Lakan _1" "From dusk till dawn _2" "Rpdru _9" "Ghost runner _1" "Friend zone _1" 
 "Capture lover _1" "Ben x jim _1" )
 
-echo "" > logChercher
+
 # echo "" > 0graph.dat
 for i in "${list[@]}"
 do
+    echo "i =" $i
     ./0chercherSerie.sh $i 
+    ./0chercherSerieBis.sh ${i,,} 
+    
 done
 
 for i in "${listBis[@]}"
 do
+    echo "i =" $i
     ./0chercherSerie.sh $i 
+    ./0chercherSerieBis.sh ${i,,} 
 done
 
-# echo "" >> logChercher
+echo "" > logChercher
 for i in "${list[@]}"
 do
     echo "i =" $i >> logChercher

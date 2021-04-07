@@ -6,7 +6,7 @@
 # liste de bl
 
 ## date de maj
-03/04/21
+04/04/21
 
 ## SKAM + REMAKES
  
@@ -125,8 +125,8 @@
 |you make me dance|you make me dance|8|serie|corée|             <!-- 90 -->
 |our memory|our memory|4|serie|taiwan|                          <!-- 91 -->
 |absolute BL|absolute bl|8|serie|japon|                         <!-- 92 -->
-|1000 stars|a tales of 1000 stars|12|serie|thailande|9|<!-- 30 -->
-|meet my angel|meet my angel|8|serie|philippines|<!-- 38 -->
+|1000 stars|a tales of 1000 stars|12|serie|thailande|9|         <!-- 93 -->
+|meet my angel|meet my angel|8|serie|philippines|               <!-- 94 -->
 ||||||
 ||||||
 ||||||
@@ -137,50 +137,53 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|we are not human|we are not human|24|serie|chine|18|<!-- 1 -->
-|the untamed|the untamed|50|serie|chine|3|<!-- 2 -->
-|long khong|long khong|8|serie(*)|thailande|3|<!-- 3 -->
-|the shipper|the shipper|12|serie|thailande|4|<!-- 4 -->
-|so much in love|so much in love|12|serie|thailande|2|<!-- 5 -->
-|he's coming to me|he's coming to me|8|serie|thailande|2|<!-- 6 -->
-|blacklist|blacklist|13|serie(**)|thailande|1|<!-- 7 -->
-|unbag|unbag|?|show|thailande|13|<!-- 8 -->
-|my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!-- 9 -->
-|my day|my day|12|serie|philippines|1|<!-- 10 -->
-|friend forever|friend forever|12|serie|thailande|3|<!-- 11 -->
-|capture lover|capture lover|?|serie|chine|2|<!-- 12 -->
-|friend zone|friend zone|?|serie(*)|thailande|3|<!-- 13 -->
-|boys lockdown|boys lockdown|6|serie|philippines|2|<!-- 14 -->
-|ben x jim|ben x jim|7|serie|philippines|2|<!-- 15 -->
-|swap test|swap test|?|serie|philippines|2|<!-- 16 -->
-|pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 17 -->
-|lakan|lakan|8|serie|philippines|4|<!-- 18 -->
-|tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 19 -->
-|be love|be love|4|serie|japon|3|<!-- 20 -->
-|ghost runner|ghost runner|8|serie|thailande|4|<!-- 21 -->
-|roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 22 -->
-|mako ventures|mako ventures|?|show|philippines|10|<!-- 23 -->
-|together with me|together with me|?|serie|thailande|1|<!-- 24 -->
-|unlocked|unlocked|9|serie|philippines|2|<!-- 25 -->
-|romantic blue|romantic blue|12|serie(**)|thailande|1|<!-- 26 -->
-|pearl next door|pearl next door|8|serie(gl)|philippines|3|<!-- 27 -->
-|warper series|warper series|?|show|thailande|1|<!-- 28 -->
-|tien bromance|tien bromance|10|serie|vietnam|1|<!-- 29 -->
-|slam dance|slam dance|?|serie(*)|thailande|1|<!--31  -->
-|you never eat alone|you never eat alone|12|serie(*)|thailande|4|<!-- 32 -->
-|school's out let's date now|school's out let's date now|10|serie(gl)|vietnam|5|<!-- 33 -->
-|wabi vlog|wabi vlog|?|show|thailande|10|<!-- 34 -->
-|wabi game|wabi game|?|show|thailande|2|<!-- 35 -->
-|the harvest season|the harvest season|?|show|thailande|5|<!-- 36 -->
-|bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|<!-- 37 -->
-|history3.1|history3 trapped|20|serie|taiwan|2|<!-- 39 -->
-|lovely writer|lovely writer|?|serie|thailande|6|<!-- 40 -->
-|we best love 2|fighting mister 2nd|6|serie|taiwan|4|<!-- 41 -->
-|history4.1|history4 close to you|10|serie|taiwan|3|<!-- 42 -->
-|bad roommate|bad roommate|30|serie|thailande|8|<!-- 43 -->
-|friend or lover|friend or lover|4|serie|taiwan|1|<!-- 44 -->
-|precise shot|precise shot|20|serie|taiwan|4|<!-- 45 -->
-|ydestiny|ydestiny|15|serie|thailande|1|<!-- 47 -->
+|we are not human|we are not human|24|serie|chine|18|           <!-- 1 -->
+|the untamed|the untamed|50|serie|chine|3|                      <!-- 2 -->
+|long khong|long khong|8|serie(*)|thailande|3|                  <!-- 3 -->
+|the shipper|the shipper|12|serie|thailande|4|                  <!-- 4 -->
+|so much in love|so much in love|12|serie|thailande|2|          <!-- 5 -->
+|he's coming to me|he's coming to me|8|serie|thailande|2|       <!-- 6 -->
+|blacklist|blacklist|13|serie(**)|thailande|1|                  <!-- 7 -->
+|unbag|unbag|?|show|thailande|13|                               <!-- 8 -->
+|my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1| <!-- 9 -->
+|my day|my day|12|serie|philippines|1|                          <!-- 10 -->
+|friend forever|friend forever|12|serie|thailande|3|            <!-- 11 -->
+|capture lover|capture lover|?|serie|chine|2|                   <!-- 12 -->
+|friend zone|friend zone|?|serie(*)|thailande|3|                <!-- 13 -->
+|boys lockdown|boys lockdown|6|serie|philippines|2|             <!-- 14 -->
+|ben x jim|ben x jim|7|serie|philippines|2|                     <!-- 15 -->
+|swap test|swap test|15|serie|philippines|2|                    <!-- 16 -->
+|pogi lang hanap|pogi lang hanap|?|serie|philippines|4|         <!-- 17 -->
+|lakan|lakan|8|serie|philippines|4|                             <!-- 18 -->
+|tharnType 2|tharnType 7 years of love|13|serie|thailande|5|    <!-- 19 -->
+|be love|be love|4|serie|japon|3|                               <!-- 20 -->
+|ghost runner|ghost runner|8|serie|thailande|4|                 <!-- 21 -->
+|roommate 2|roommate 2 soulmate|2|serie|thailande|1|            <!-- 22 -->
+|mako ventures|mako ventures|?|show|philippines|10|             <!-- 23 -->
+|together with me|together with me|?|serie|thailande|1|         <!-- 24 -->
+|unlocked|unlocked|9|serie|philippines|2|                       <!-- 25 -->
+|romantic blue|romantic blue|12|serie(**)|thailande|1|          <!-- 26 -->
+|pearl next door|pearl next door|8|serie(gl)|philippines|3|     <!-- 27 -->
+|warper series|warper series|?|show|thailande|1|                <!-- 28 -->
+|tien bromance|tien bromance|10|serie|vietnam|1|                <!-- 29 -->
+|slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 30 -->
+|you never eat alone|you never eat alone|12|serie(*)|thailande|4|   <!-- 31 -->
+|school's out let's date now|school's out let's date now|10|serie(gl)|vietnam|5|    <!-- 32 -->
+|wabi vlog|wabi vlog|?|show|thailande|10|                       <!-- 33 -->
+|wabi game|wabi game|?|show|thailande|2|                        <!-- 34 -->
+|the harvest season|the harvest season|?|show|thailande|5|      <!-- 35 -->
+|bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
+|history3.1|history3 trapped|20|serie|taiwan|4|                 <!-- 37 -->
+|lovely writer|lovely writer|?|serie|thailande|6|               <!-- 38 -->
+|we best love 2|fighting mister 2nd|6|serie|taiwan|5|           <!-- 39 -->
+|history4.1|history4 close to you|10|serie|taiwan|3|            <!-- 40 -->
+|bad roommate|bad roommate|30|serie|thailande|8|                <!-- 41 -->
+|friend or lover|friend or lover|4|serie|taiwan|1|              <!-- 42 -->
+|precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
+|ydestiny|ydestiny|15|serie|thailande|1|                        <!-- 44 -->
+|my lascivious boss|ong chu dung den day|?|serie|vietnam|1|     <!-- 45 -->
+|the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|2|  <!-- 46 -->
+|mr lipstick|mr lipstick|10|serie(**)|thailande|2|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -208,17 +211,14 @@
 |the night beyond the tricornered window|tnbttw|?|serie|japon|0|<!-- 22/01 -->
 |MARS||||||<!-- -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
-|the most peaceful place|the most peaceful place|6|serie|vietnam|0|<!-- 22/03 -->
-|mr lipstick|mr lipstick|10|serie(**)|thailande|0|<!-- 24/03 -->
 |AVRIL||||||<!-- -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
-|my lascivious boss||?|serie|vietnam|0|<!-- 04/04 -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- 09/04 -->
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|0|<!-- 15/04 -->
 |close friend|close friend|?|serie|thailande|0|<!-- 22/04 -->
 |MAI||||||<!-- -->
-|top secret together|top secret together|?|serie|thailande|0|<!-- ??/05 -->
+|top secret together|top secret together|?|serie|thailande|0|<!-- 07/05 -->
 |nitiman|nitiman|?|serie|thailande|0|<!-- 07/05 -->
 |JUIN||||||<!-- -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->

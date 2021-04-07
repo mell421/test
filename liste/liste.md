@@ -6,7 +6,7 @@
 # liste de séries + emissions
 
 ## date de maj
-03/04/21
+04/04/21
 
 ## terminé
  
@@ -310,9 +310,9 @@
 |nailed it 5||6|||
 |survivor au 2||12|||<!--  -->
 |TMS DE 4||6|||
-|absolute BL||8|||<!--  -->
+|absolute BL 1||8|||<!--  -->
 |1000 stars 1||10|||<!--  -->
-|meet my angel|meet my angel|8|serie|philippines|<!-- 38 -->
+|meet my angel 1|meet my angel|8|serie|philippines|<!-- 38 -->
 ||||||
 ||||||
 ||||||
@@ -496,7 +496,10 @@
 |precise shot 1||20|||4|<!--  -->
 |ydestiny 1||15|||0|<!--  -->
 |survivor au 3||26|||3|<!--  -->
-|||||||<!--  -->
+|TVK NL 10||?|||1|<!--  -->
+|my lascivious boss 1||?|||1|<!--  -->
+|the most peaceful place 1||6|||2|<!--  -->
+|mr lipstick 1||?|||2|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -507,19 +510,18 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|the most peaceful place 1||6|||0|<!-- 22/3 -->
 |love is science 1||?|||0|<!-- 27/3 -->
 |RPDRAS 6||?|||0|<!-- 1/4 -->
-|TVK NL ||?|||0|<!-- 2/4 -->
-|my lascivious boss 1||?|||0|<!-- 4/4 -->
 |fish upon the sky||?|||0|<!-- 9/4 -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
+|the circle us 2||13|||0|<!-- 14/04 -->
 |scholar ryu's wedding ceremony 1||8|||0|<!-- 15/4 -->
+|clem|||||0|<!-- 19/04 -->
 |close friend|close friend|6|||0|<!-- 22/04 -->
 |nitiman||?|||0|<!-- 7/5 -->
 |special 2||8|||0|<!-- 20/5 -->
 |love victor 2||10|||0|<!-- 11/6 -->
-|clem|||||0|<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
