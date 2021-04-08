@@ -1,0 +1,210 @@
+
+0 Arret a (compris) : arc
+A
+Abeille + Bois = Ruche
+Afrique + Cheval = Zèbre
+Aiguille + Arbre = Sapin
+Aiguille + Bois = Fuseau
+Aiguille + Fleur = Rose
+Aiguille + Homme = Sang
+Alcool + Canette = Bière
+Alcool + Fleur = Parfums
+Alcool + Jus = Boisson
+Alcool + Maison = Bar
+Alcool + Oxygène = Vinaigre
+Algues + Marais = Mousse
+Algues + Terre = Herbe
+Allumettes + Maison = Feu
+Allumettes + Métal = Allumoir
+Aluminium + Métal = Titane
+Aluminium + Verre = Canette
+Ampoule + Electricité = Lumière
+Ampoule + Fibre optique = LED
+Ange + Musique = Harpe
+Animal + Acide = Fourmi
+Animal + Aiguille = Hérisson
+Animal + Arbre = Girafe
+Animal + Arme blanche = Griffes
+Animal + Barrage = Castor
+Animal + Carotte = Lapin
+Animal + Cirque = Phoque
+Animal + Clotûre = Zoo
+Animal + Fange = Porc
+Animal + Ferme = Vache
+Animal + Forêt = Ours
+Animal + Fourrure = Renard
+Animal + Herbe = Engrais
+Animal + Homme = Centaure
+Animal + Mer = Poisson
+Animal + Terre = Taupe
+Animal + Touche = Calmar
+Appareil photographique + Livre = Album
+Aquarium + Lézard = Terrarium
+Aquarium + Métal = Cage
+Aquarium + Ver = Mante
+Arbre + Arbre = Forêt
+Arbre + Asie = Bambou
+Arbre + Dioxyde de carbone = Oxygène
+Arbre + Ferme = Fruit
+Arbre + Jus = Caoutchouc
+Arbre + Marais = Pétrole
+Arbre + Outils = Bois
+Arbre + Pot de fleur = Bonsai
+Arbre + Soleil = Feuille
+Arbre + Terre = Racine
+Arc + Gomme = Lance-pierre
+Arc + Plume = Flèche
+Arc + Toile = Cible
+Arc-en-ciel + Or = Leprechaun
+Arc-en-ciel + Planète = Aurores boréales
+Archipel + Pays = Indonésie
+Argent + Alcool = Hasard
+Argent + Bougie = Chandelier
+Argent + Outils = Coutellerie
+Argent + Papier = Papier-m...
+Arme à feu + Feu = Lance-flamme
+Arme à feu + Flèche = Balle
+Arme à feu + Homme = Soldat
+Arme blanche + Bateau = Pirates
+Arme blanche + Homme = Chasseur
+Armée + Armée = Guerre
+Asia + Archipel = Japon
+Asie + Blé = Riz
+Asie + Coutellerie = Bâtons
+Astronaute + Satellite = Station orb...
+Australie + Animal = Kangourou
+Avion + Arme à feu = Avion de chasse
+Avion + Papier = Avion de papier
+Avion + Robot = Drone
+Avion de chasse + Bateau = Porte-avion
+B
+Balai + Electricité = Aspirateur
+Balle + Armure = Gilet pare-balle
+Banque + Argent = Billetterie
+Barque + Animal = Arche
+Bateau + L'air = Aéroglisseur
+Bois + Soufre = Allumettes
+Briques + Vie = ADN
+C
+Cactus + Alcool = Tequila
+Cactus + Métal = Aiguille
+Cage + Animal = Hamster
+Canine + Animal = Eléphant
+Chaine + Bateau = Ancre
+Chasseur + Animal = Fourrure
+Chasseur + Bois = Arc
+Chemin + Livre = Atlas
+Cheval + Arc-en-ciel = Licorne
+Chevalier + Animal = Cheval
+Chevalier + Asie = Samourai
+Chevalier + Tenue militaire = Armure
+Cloche + Asie = Gong
+Coléoptère + Fleur = Abeille
+Continent + Pays = Australie
+Coton + Animal = Laine
+Crayon + Arc-en-ciel = Crayons de couleur
+D
+Désert + Animal = Chameau
+Désert + Arbre = Cactus
+Dessin + Mikroprocesseur = Appareil photographique
+E
+Epée + Arme à feu = Baionnette
+Extraterrestre + Avion = OFNI
+F
+Fenêtre + Arc-en-ciel = Vitrail
+Feuille + Alcool = Tabac
+Fossile + Animal = Dinosaure
+Fromage + Animal = Souris
+Fruit + Arbre = Pomme
+Fruit + Terre agricole = Ananas
+G
+Garou + Animal = Loup
+Glace + Continent = Antarctide
+Grain de raisin + Alcool = Vin
+Graines + Terre = Arbre
+H
+Herbe + Fruit = Airelles
+Héros + Araignée = Homme araignée
+Homme + Lune = Astronaute
+Homme + Poisson = Ailettes
+I
+J
+Japon + Jus = Saké
+Jungle + Animal = Singe
+K
+L
+Laine + Animal = Brebis
+Lait + Animal = Chat
+Lentille + Appareil photographique = Objectif
+Lézard + Arc-en-ciel = Caméléon
+L'île + Arbre = Palmier
+L'île + L'île = Archipel
+Lumière + Pluie = Arc-en-ciel
+Lumière + Vie = Ange
+M
+Maison + Arbre = Maison arb...
+Maison + Argent = Banque
+Marais + Animal = Hippopotame
+Mer + Avion = Hydroglisseur
+Métal + Bois = Arme blanche
+Métal + L'air = Aluminium
+Montagne + Animal = Chamois
+Montagne + Neige = Avalanche
+Montagne + Oiseau = Aigle
+Moule + Homme de science = Antibiotique
+Mur + Arbre = Bouchure
+N
+Ninja + Arme blanche = Shuriken
+O
+Océan + Vie = Algues
+OFNI + Blé = Agroglyphes
+Oiseau + Arbre = Pic
+Oiseau + Arc-en-ciel = Paon
+Or + Argent = Bijoux
+Or + Diamand = Anneau
+Or + Fabrique = Argent
+Or + Mirroir = Argent
+Os + Animal = Canine
+Ours + Australie = Koala
+P
+Papier + Appareil photographique = Journal
+Parachute + Avion = Deltaplane
+Pierre + Arc-en-ciel = Opale
+Pierre + Métal = Aimant
+Pirates + Alcool = Rhum
+Poisson + Animal = Dauphin
+Pomme + Arbre = Verger
+Porc + Argent = Tirelire
+Porcelaine + Continent = Asie
+Poudre à canon + Arme blanche = Arme à feu
+Poudre à canon + Asie = Feux d'artifice
+Q
+R
+Réseau + Animal = Araignée
+Résine + Temps = Ambre jaune
+S
+Sable + Continent = Afrique
+Serpent + Electricité = Anguille
+Soldat + Soldat = Armée
+Soufre + L'eau = Acide
+Sucre + Fruit = Alcool
+T
+Temps + Animal = Fossile
+Terre + Lézard = Animal
+U
+Uranium + Arme blanche = Bombe atomique
+V
+Vampire + Animal = Chauve-souris
+Verre + Electricité = Ampoule
+Verre + Poisson = Aquarium
+Vêtements + Armoire = Cintre
+Vêtements + Asie = Kimono
+Vêtements + Maison = Armoire
+Voiture + Arme à feu = Char
+Voiture + Ciel = Avion
+Voiture + Hôpital = Ambulance
+W
+X
+Y
+Z
+Zombie + Argent = Garou

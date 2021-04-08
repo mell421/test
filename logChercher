@@ -1,82 +1,146 @@
- 
 
 i = Lls _1
-ligne :  720 Z/Lls_1
-mot   :  14319 Z/Lls_1
-carac :  73062 Z/Lls_1
- 
+ligne :  1095 Z/Lls_1
+mot   :  22634 Z/Lls_1
+carac :  113876 Z/Lls_1
+
 i = Unbag _1
-ligne :  179 Z/Unbag_1
-mot   :  5369 Z/Unbag_1
-carac :  27657 Z/Unbag_1
- 
-i = Manner of death _1
-ligne :  59 Z/Mannerofdeath_1
-mot   :  2513 Z/Mannerofdeath_1
-carac :  11948 Z/Mannerofdeath_1
- 
-i = The voice nl _11
-ligne :  83 Z/Thevoicenl_11
-mot   :  2993 Z/Thevoicenl_11
-carac :  14965 Z/Thevoicenl_11
- 
-i = Druck _6
-ligne :  44 Z/Druck_6
-mot   :  1913 Z/Druck_6
-carac :  9577 Z/Druck_6
- 
-i = Love stage 2014 _1
-ligne :  66 Z/Lovestage2014_1
-mot   :  2230 Z/Lovestage2014_1
-carac :  10685 Z/Lovestage2014_1
- 
-i = Rpdru _9
-ligne :  42 Z/Rpdru_9
-mot   :  1479 Z/Rpdru_9
-carac :  8088 Z/Rpdru_9
- 
-i = Happenstance _1
-ligne :  28 Z/Happenstance_1
-mot   :  1275 Z/Happenstance_1
-carac :  6864 Z/Happenstance_1
- 
-i = Sea him _1
-ligne :  41 Z/Seahim_1
-mot   :  1460 Z/Seahim_1
-carac :  8380 Z/Seahim_1
- 
-i = Young sheldon _4
-ligne :  34 Z/Youngsheldon_4
-mot   :  1182 Z/Youngsheldon_4
-carac :  7043 Z/Youngsheldon_4
- 
+ligne :  476 Z/Unbag_1
+mot   :  13594 Z/Unbag_1
+carac :  67448 Z/Unbag_1
+
 i = Mako ventures _1
-ligne :  16 Z/Makoventures_1
-mot   :  869 Z/Makoventures_1
-carac :  4426 Z/Makoventures_1
- 
-i = Koishite akuma _1
-ligne :  15 Z/Koishiteakuma_1
-mot   :  766 Z/Koishiteakuma_1
-carac :  3437 Z/Koishiteakuma_1
- 
-i = History2 right or wrong _1
-ligne :  22 Z/History2rightorwrong_1
-mot   :  724 Z/History2rightorwrong_1
-carac :  3951 Z/History2rightorwrong_1
- 
-i = The masked singer uk _2
-ligne :  19 Z/Themaskedsingeruk_2
-mot   :  998 Z/Themaskedsingeruk_2
-carac :  5785 Z/Themaskedsingeruk_2
- 
-i = TharnType _2
-ligne :  23 Z/TharnType_2
-mot   :  785 Z/TharnType_2
-carac :  4804 Z/TharnType_2
- 
-i = Ghost runner _1
-ligne :  27 Z/Ghostrunner_1
-mot   :  866 Z/Ghostrunner_1
-carac :  4680 Z/Ghostrunner_1
- 
+ligne :  239 Z/Makoventures_1
+mot   :  8007 Z/Makoventures_1
+carac :  39555 Z/Makoventures_1
+
+i = The voice be _9
+ligne :  155 Z/Thevoicebe_9
+mot   :  5815 Z/Thevoicebe_9
+carac :  29487 Z/Thevoicebe_9
+
+i = Wabi vlog _1
+ligne :  152 Z/Wabivlog_1
+mot   :  5851 Z/Wabivlog_1
+carac :  27571 Z/Wabivlog_1
+
+i = Rpdru _13
+ligne :  82 Z/Rpdru_13
+mot   :  3174 Z/Rpdru_13
+carac :  17434 Z/Rpdru_13
+
+i = Rpdr _13
+ligne :  119 Z/Rpdr_13
+mot   :  4533 Z/Rpdr_13
+carac :  23734 Z/Rpdr_13
+
+i = Young sheldon _4
+ligne :  121 Z/Youngsheldon_4
+mot   :  4289 Z/Youngsheldon_4
+carac :  22981 Z/Youngsheldon_4
+
+i = The voice no _6
+ligne :  111 Z/Thevoiceno_6
+mot   :  4255 Z/Thevoiceno_6
+carac :  21961 Z/Thevoiceno_6
+
+i = The voice us _20
+ligne :  26 Z/Thevoiceus_20
+mot   :  866 Z/Thevoiceus_20
+carac :  4259 Z/Thevoiceus_20
+
+i = /9-1-1 lone star _2
+ligne :  161 Z//9-1-1lonestar_2
+mot   :  6043 Z//9-1-1lonestar_2
+carac :  34217 Z//9-1-1lonestar_2
+
+i = /9-1-1 _4
+ligne :  144 Z//9-1-1_4
+mot   :  5411 Z//9-1-1_4
+carac :  31311 Z//9-1-1_4
+
+i = The voice _10
+ligne :  48 Z/Thevoice_10
+mot   :  1922 Z/Thevoice_10
+carac :  11168 Z/Thevoice_10
+
+i = My vampire boyfriend _1
+ligne :  75 Z/Myvampireboyfriend_1
+mot   :  2537 Z/Myvampireboyfriend_1
+carac :  12831 Z/Myvampireboyfriend_1
+
+i = Bt21 original story _1
+ligne :  0 Z/Bt21originalstory_1
+mot   :  0 Z/Bt21originalstory_1
+carac :  0 Z/Bt21originalstory_1
+
+i = Top chef _12
+ligne :  25 Z/Topchef_12
+mot   :  1192 Z/Topchef_12
+carac :  7101 Z/Topchef_12
+
+i = Bad roommate _1
+ligne :  4 Z/Badroommate_1
+mot   :  119 Z/Badroommate_1
+carac :  542 Z/Badroommate_1
+
+i = The voice vv _7
+ligne :  29 Z/Thevoicevv_7
+mot   :  1355 Z/Thevoicevv_7
+carac :  8243 Z/Thevoicevv_7
+
+i = Precise shot _1
+ligne :  0 Z/Preciseshot_1
+mot   :  0 Z/Preciseshot_1
+carac :  0 Z/Preciseshot_1
+
+i = Love in time _1
+ligne :  45 Z/Loveintime_1
+mot   :  1655 Z/Loveintime_1
+carac :  8957 Z/Loveintime_1
+
+i = Given _1
+ligne :  42 Z/Given_1
+mot   :  1843 Z/Given_1
+carac :  8965 Z/Given_1
+
+i = Pekin express _14
+ligne :  15 Z/Pekinexpress_14
+mot   :  737 Z/Pekinexpress_14
+carac :  4464 Z/Pekinexpress_14
+
+i = Survivor au _3
+ligne :  1 Z/Survivorau_3
+mot   :  67 Z/Survivorau_3
+carac :  355 Z/Survivorau_3
+
+i = History3 trapped _1
+ligne :  6 Z/History3trapped_1
+mot   :  371 Z/History3trapped_1
+carac :  2565 Z/History3trapped_1
+
+i = Mental _1
+ligne :  19 Z/Mental_1
+mot   :  452 Z/Mental_1
+carac :  3402 Z/Mental_1
+
+i = Pearl next door _1
+ligne :  33 Z/Pearlnextdoor_1
+mot   :  1163 Z/Pearlnextdoor_1
+carac :  6752 Z/Pearlnextdoor_1
+
+i = Lovely writer _1
+ligne :  13 Z/Lovelywriter_1
+mot   :  680 Z/Lovelywriter_1
+carac :  4181 Z/Lovelywriter_1
+
+i = Game of talents _1
+ligne :  4 Z/Gameoftalents_1
+mot   :  156 Z/Gameoftalents_1
+carac :  925 Z/Gameoftalents_1
+
+i = Bt21 vlog _1
+ligne :  0 Z/Bt21vlog_1
+mot   :  0 Z/Bt21vlog_1
+carac :  0 Z/Bt21vlog_1
+

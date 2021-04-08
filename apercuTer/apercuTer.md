@@ -5,7 +5,8 @@
 
 # ajout reponse
 
----
+### date de maj
+03/04/21
 
 ## Aperçu semaine
 
@@ -302,24 +303,54 @@
 * Bonding _2
 * Sweet home _1
 ### sem 08-02-2021 
-* *insererici*
 * Fools _1
 * We best love _1 
 * To my star _1
 ### sem 15-02-2021 
-* *insererici*
+* History2 right or wrong _1
+* The masked singer uk _2
+* Love stage _1
 ### sem 22-02-2021 
-* 
+* History2 crossing the line _1
+* Druck _6
+* Nations brother _1
+* The masked dancer 1
 ### sem 01-03-2021 
-* 
+* Dancing on ice uk _12
+* You are ma boy _1
+* Manner of death _1
 ### sem 08-03-2021 
-* 
+* Evening cafe _1
+* Name that tune _1
 ### sem 15-03-2021 
-* 
+* Survivor au _7
+* Dancing on ice uk _13
+* Happenstance _1
+* Bt21 universe _2
 ### sem 22-03-2021 
-* 
+* Our memory _1
+* The voice uk _10
+* Skam france _7
+* You make me dance _1
+* Rpdruk _2
+* Girl2k _1
+* Bt21 universe _3
+* Sea him _1
 ### sem 29-03-2021 
-* 
+* Nailed it _5
+* The voice nl _11
+* Survivor au _1
+### sem 05-04-2021 
+* *insererici*
+* Meet my angel _1
+* Atots _1
+* Absolute bl _1
+* The masked singer de _4
+* Survivor au _2
+### sem 12-04-2021 
+* *insererici*
+### sem 19-04-2021 
+* *insererici*
 
 
 
@@ -357,13 +388,13 @@
 #### mois 01-02-2021 
 *Ninja warrior _5 Friend.ship with kristsingto _1 Bonding _2 Sweet home _1 Tonhon chonlathee _1 Color rush _1 Follow my sunshine _1 Cheat _1 Interested in _1 My extraordinary _1 Lego masters fr _1 Gameboys _1 The voice vv _6 Ingredients _1 District z _1 Bt21 universe _1 Meet me outside _1*
 #### mois 01-03-2021 
-*insererici Fools _1 We best love _1 To my star _1*
+*Dancing on ice uk _12 You are ma boy _1 Manner of death _1 History2 crossing the line _1 Druck _6 Nations brother _1 The masked dancer 1 History2 right or wrong _1 The masked singer uk _2 Love stage _1 Fools _1 We best love _1 To my star _1*
 #### mois 01-04-2021 
-**
+*insererici Absolute bl _1 The masked singer de _4 Survivor au _2 Nailed it _5 The voice nl _11 Survivor au _1 Our memory _1 The voice uk _10 Skam france _7 You make me dance _1 Rpdruk _2 Girl2k _1 Bt21 universe _3 Sea him _1 Survivor au _7 Dancing on ice uk _13 Happenstance _1 Bt21 universe _2 Evening cafe _1 Name that tune _1*
 #### mois 01-05-2021 
-**
+*insererici Meet my angel _1 Atots _1*
 #### mois 01-06-2021 
-**
+*insererici*
 #### mois 01-07-2021 
 **
 #### mois 01-08-2021 
