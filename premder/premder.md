@@ -3,13 +3,25 @@
 ### date de maj
 04/04/21
 
+### a mettre
+My lascivious boss 1x2
+The voice kids nl 10x2
+Friend or lover 1x2
+Bangkok love stories innocence 1x2
+
 ### tisaep all
 * $
 $
+The masked singer 5x5
+Top chef 12x9
+Lovely writer 1x7
+Bad roommate 1x16
+Pekin express 14x7
+The voice be 9x15
+Ydestiny 1x2
 Drag race holland 1x4
 The voice us 20x8
 Lls 1x131
-Bad roommate 1x12
 Mr lipstick 1x2
 * Mr lipstick 1x1
 Bt21 original story 1x7
@@ -26,19 +38,13 @@ Rpdr 13x13
 * The voice kids nl 10x1
 The voice vv 7x9
 Koh-lanta 26x4
-We best love 2x5
 Young sheldon 4x12
 Mental 1x5
-Top chef 12x8
 Unbag 1x18
 History3 trapped 1x4
-Lovely writer 1x6
 Game of talents 1x4
-The masked singer 5x4
 * Survivor au 3x1
-Pekin express 14x6
 * Ydestiny 1x1
-The voice be 9x14
 Precise shot 1x4
 * Precise shot 1x1
 Mako ventures 1x12
@@ -56,7 +62,6 @@ Schools out lets date now 1x5
 You never eat alone 1x4
 911 lone star 2x8
 911 4x8
-* We best love 2x1
 * The voice us 20x1
 * The voice kids ger 9x1
 * Lovely writer 1x1

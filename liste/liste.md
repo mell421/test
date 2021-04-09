@@ -313,6 +313,7 @@
 |absolute BL 1||8|||<!--  -->
 |1000 stars 1||10|||<!--  -->
 |meet my angel 1|meet my angel|8|serie|philippines|<!-- 38 -->
+|we best love 2|fighting mister 2nd|6|serie|taiwan|           <!-- 39 -->
 ||||||
 ||||||
 ||||||
@@ -484,7 +485,6 @@
 |lovely writer 1||?|||1|<!--  -->
 |tvk ger 9||?|||1|<!--  -->
 |TV US 20||?|||2|<!--  -->
-|WBL 2||6|||1|<!--  -->
 |TMS 5||9|||2|<!--  -->
 |game of talents 1||?|||2|<!--  -->
 |KL 26||?|||2|<!--  -->

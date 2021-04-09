@@ -22,6 +22,7 @@ document.write(`
       <li><a href="apercu/apercu21.html">séries ec 2021</a></li>
       <li><a href="apercu/apercuglobal.html">séries ec global</a></li>
       <li><a href="apercuTer/apercuTer.html">séries terminées</a></li>
+      <li><a href="aEff/aeff.html">à eff</a></li>
     </ul>
   </li>
   <li><a href="#">BLs</a>

@@ -127,6 +127,7 @@
 |absolute BL|absolute bl|8|serie|japon|                         <!-- 92 -->
 |1000 stars|a tales of 1000 stars|12|serie|thailande|9|         <!-- 93 -->
 |meet my angel|meet my angel|8|serie|philippines|               <!-- 94 -->
+|we best love 2|fighting mister 2nd|6|serie|taiwan|             <!-- 95 -->
 ||||||
 ||||||
 ||||||
@@ -175,7 +176,6 @@
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
 |history3.1|history3 trapped|20|serie|taiwan|4|                 <!-- 37 -->
 |lovely writer|lovely writer|?|serie|thailande|6|               <!-- 38 -->
-|we best love 2|fighting mister 2nd|6|serie|taiwan|5|           <!-- 39 -->
 |history4.1|history4 close to you|10|serie|taiwan|3|            <!-- 40 -->
 |bad roommate|bad roommate|30|serie|thailande|8|                <!-- 41 -->
 |friend or lover|friend or lover|4|serie|taiwan|1|              <!-- 42 -->

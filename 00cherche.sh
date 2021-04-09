@@ -9,31 +9,31 @@
 # 29 - 20
 # 19 - 15
 # 14 - 10
-list=( "Lls _1" "Unbag _1" 
-"Mako ventures _1" "The voice be _9" "Wabi vlog _1" "Rpdru _13" 
-"Rpdr _13" "Young sheldon _4" "The voice no _6" "The voice us _20" 
+list=( "Lls _1" "Unbag _1" "The voice be _9" 
+"Mako ventures _1" "Wabi vlog _1" "Rpdru _13" 
+"Rpdr _13" "Young sheldon _4" "The voice us _20" "The voice no _6" 
 "/9-1-1 lone star _2" 
-"/9-1-1 _4" "The voice _10" "My vampire boyfriend _1" "Bt21 original story _1" 
-"Top chef _12" "Bad roommate _1" "The voice vv _7" "Precise shot _1" "Love in time _1" 
-"Given _1" "Pekin express _14" "Survivor au _3" "History3 trapped _1" "Mental _1" "Pearl next door _1" "Lovely writer _1" "Game of talents _1" "Bt21 vlog _1" )
+"Bt21 original story _1" "/9-1-1 _4" "The voice _10" "My vampire boyfriend _1" 
+"Bad roommate _1" "Top chef _12" "The voice vv _7" "Precise shot _1" "Love in time _1" 
+"Pekin express _14" "Survivor au _3" "Given _1" "Lovely writer _1" "History3 trapped _1" "Mental _1" "Pearl next door _1" "Game of talents _1" "Drag race holland _1" "Bt21 vlog _1" )
 
 # entre 9 et 4
 listBis=( "The voice kids ger _9" 
-"History4 close to you _1" "We best love _2" "Schools out lets date now _1" "Tokyo ghoul _3" 
-"Drag race holland _1" "The masked singer _5" "You never eat alone _1" 
+"History4 close to you _1" "Schools out lets date now _1" "Tokyo ghoul _3" 
+"The masked singer _5" "You never eat alone _1" 
 "" 
 "Koh-lanta _26" 
 "Unlocked _1" )
 
 # 3
-listTer=( "The most peaceful place _1" )
+list3=( "The most peaceful place _1" )
 
 # 2
-listQuat=( "Ydestiny _1" "Friend or lover _1" )
+list2=( "Ydestiny _1" "Mr lipstick _1" "Friend or lover _1" )
 
-listAtt=( "Bangkok love stories innocence _1" "Tbbt _11" "Slam dance _1" "The untamed _1" "The harvest season _1" "The shipper _1" "TharnType _2" "Wabi show _1" "Friend forever _1" "Be love _1" "Koishite akuma _1" "Blood _1" "Pogi lang hanap _1" 
-"Lakan _1" "From dusk till dawn _2" "Rpdru _9" "Ghost runner _1" "Friend zone _1" 
-"Capture lover _1" "Ben x jim _1" )
+listAtt=( "Bangkok love stories innocence _1" "Tbbt _11" "Slam dance _1" "The untamed _1" "The harvest season _1" "The shipper _1" 
+"TharnType _2" "Wabi show _1" "Friend forever _1" "Be love _1" "Koishite akuma _1" "Blood _1" "Pogi lang hanap _1" "Lakan _1" 
+"From dusk till dawn _2" "Rpdru _9" "Ghost runner _1" "Friend zone _1" "Capture lover _1" "Ben x jim _1" )
 
 
 # echo "" > 0graph.dat
@@ -52,15 +52,15 @@ do
     ./0chercherSerieBis.sh ${i,,} 
 done
 
-echo "" > logChercher
-for i in "${list[@]}"
-do
-    echo "i =" $i >> logChercher
-    # echo "count : " $(wc Z/$(echo $i | tr -d ' ' )) >> logChercher
-    echo "ligne : " $(wc -l Z/$(echo $i | tr -d ' ' )) >> logChercher
-    echo "mot   : " $(wc -w Z/$(echo $i | tr -d ' ' )) >> logChercher
-    echo "carac : " $(wc -c Z/$(echo $i | tr -d ' ' )) >> logChercher
-    # echo $(echo $i | tr -d ' ' ) $(wc Z/$(echo $i | tr -d ' ')) >> 0graph.dat
-    echo "" >> logChercher
-    echo $i
-done
+# echo "" > logChercher
+# for i in "${list[@]}"
+# do
+#     echo "i =" $i >> logChercher
+#     # echo "count : " $(wc Z/$(echo $i | tr -d ' ' )) >> logChercher
+#     echo "ligne : " $(wc -l Z/$(echo $i | tr -d ' ' )) >> logChercher
+#     echo "mot   : " $(wc -w Z/$(echo $i | tr -d ' ' )) >> logChercher
+#     echo "carac : " $(wc -c Z/$(echo $i | tr -d ' ' )) >> logChercher
+#     # echo $(echo $i | tr -d ' ' ) $(wc Z/$(echo $i | tr -d ' ')) >> 0graph.dat
+#     echo "" >> logChercher
+#     echo "j =" $i
+# done
