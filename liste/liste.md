@@ -314,6 +314,7 @@
 |1000 stars 1||10|||<!--  -->
 |meet my angel 1|meet my angel|8|serie|philippines|<!-- 38 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|           <!-- 39 -->
+|RPDRU 13||14|||<!--  -->
 ||||||
 ||||||
 ||||||
@@ -456,7 +457,6 @@
 |TV BE 9|||||10|<!--  -->
 |mako ventures 1|mako ventures|?|show|philippines|9|<!-- 33 -->
 |RPDR 13||16|||9|<!--  -->
-|RPDRU 13||14|||9|<!--  -->
 |together with me 1|together with me|?|serie|thailande|1|<!--35  -->
 |RPDRU 9|||||7|<!--  -->
 |unlocked 1|unlocked|9|serie|philippines|2|<!--  -->

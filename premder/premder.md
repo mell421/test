@@ -33,7 +33,6 @@ The most peaceful place 1x2
 * My lascivious boss 1x1
 The voice 10x9
 Survivor au 3x5
-Rpdru 13x13
 Rpdr 13x13
 * The voice kids nl 10x1
 The voice vv 7x9
@@ -105,7 +104,6 @@ Koishite akuma 1x3
 Friend zone 1x3
 Rpdru 9x7
 * Together with me 1x1
-* Rpdru 13x1
 * Rpdr 13x1
 * Mako ventures 1x1
 Ghost runner 1x4
