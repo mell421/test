@@ -169,24 +169,25 @@
 |tien bromance|tien bromance|10|serie|vietnam|1|                <!-- 29 -->
 |slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 30 -->
 |you never eat alone|you never eat alone|12|serie(*)|thailande|4|   <!-- 31 -->
-|school's out let's date now|school's out let's date now|10|serie(gl)|vietnam|5|    <!-- 32 -->
+|school's out let's date now|school's out let's date now|6|serie(gl)|vietnam|5|    <!-- 32 -->
 |wabi vlog|wabi vlog|?|show|thailande|10|                       <!-- 33 -->
 |wabi game|wabi game|?|show|thailande|2|                        <!-- 34 -->
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 35 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
 |history3.1|history3 trapped|20|serie|taiwan|4|                 <!-- 37 -->
-|lovely writer|lovely writer|?|serie|thailande|6|               <!-- 38 -->
-|history4.1|history4 close to you|10|serie|taiwan|3|            <!-- 40 -->
-|bad roommate|bad roommate|30|serie|thailande|8|                <!-- 41 -->
+|lovely writer|lovely writer|?|serie|thailande|7|               <!-- 38 -->
+|history4.1|history4 close to you|10|serie|taiwan|4|            <!-- 40 -->
+|bad roommate|bad roommate|30|serie|thailande|16|                <!-- 41 -->
 |friend or lover|friend or lover|4|serie|taiwan|1|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
-|ydestiny|ydestiny|15|serie|thailande|1|                        <!-- 44 -->
-|my lascivious boss|ong chu dung den day|?|serie|vietnam|1|     <!-- 45 -->
+|ydestiny|ydestiny|15|serie|thailande|2|                        <!-- 44 -->
+|my lascivious boss|ong chu dung den day|?|serie|vietnam|2|     <!-- 45 -->
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|2|  <!-- 46 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
+|fish upon the sky|fish upon the sky|?|serie|thailande|1|<!-- 09/04 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -213,7 +214,6 @@
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |AVRIL||||||<!-- -->
 |love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
-|fish upon the sky|fish upon the sky|?|serie|thailande|0|<!-- 09/04 -->
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|0|<!-- 15/04 -->
 |close friend|close friend|?|serie|thailande|0|<!-- 22/04 -->
@@ -238,41 +238,44 @@
 |my engineer 2|my engineer 2|?|serie|thailande|0|<!-- -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|
 |cheat 2|cheat 2|?|serie|philippines|0|
-|quaranthings 2||?|||0|
-|||||||
+|quaranthings 2||?|serie|philippines|0|
+|meet my angel 2||?|serie|philippines|0|
 |my extraordinary 2|a kiss 2 remember|12|serie|philippines|0|<!-- -->
+|||||||<!--  -->
+|||||||<!--  -->
 |COREE||||||<!-- -->
 |I just slept|I just slept|?|serie(gl)|corée|0|<!-- -->
 |semantic error|semantic error|?|serie|corée|0|<!-- -->
 |VIETNAM||||||<!-- -->
-|sea him 2||?|||0|<!-- -->
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
 |GMMTV||||||<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|0|<!-- -->
 |drag I love you|drag I love you|?|serie(**)|thailande|0|<!-- -->
 |baker boys|baker boys|?|serie|thailande|0|<!-- -->
 |enchante|enchante|?|serie|thailande|0|<!-- -->
-|bad buddy|bad buddy|?|serie|thailande|0|<!-- -->
+|bad buddy|bad buddy|12|serie|thailande|0|<!-- -->
 |the player|the player|?|serie(**)|thailande|0|<!-- -->
 |NOTME|NOTME|?|serie|thailande|0|<!-- -->
-|war of the flowers|war of the flowers|?|serie(**)|thailande|0|
+|war of the flowers|war of the flowers|?|serie(**)|thailande|0|<!--  -->
 |SWS||||||<!--  -->
-|||||||
+|||||||<!--  -->
 |COPYABANGKOK|||||| <!--  -->
 |OTHER THAI||||||<!--  -->
 |bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
 |kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
 |middle love|middle love|?|serie|thailande|0|<!-- MII2 -->
 |love stage|love stage|?|serie|thailande|0|<!-- kaowbo -->
+|bite me|bite me|?|serie|thailande|0|<!--  -->
+|mr tuxedo|mr tuxedo|?|serie|thailande|0|<!--  -->
 |PINOY||||||
-|turbulance|turbulance|?|serie|philippines|0|
+|turbulance|turbulance|?|serie|philippines|0|<!--  -->
 |TAIWAN||||||
-|||||||
+|||||||<!--  -->
 |COLLAB||||||
-|||||||
-|||||||
-|||||||
-|||||||
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 
 
 
