@@ -4,20 +4,32 @@
 04/04/21
 
 ### a mettre
-My lascivious boss 1x2
-The voice kids nl 10x2
 Friend or lover 1x2
 Bangkok love stories innocence 1x2
+Fish upon the sky 1x2
 
 ### tisaep all
 * $
 $
+History4 close to you 1x5
+Survivor au 3x15
+The voice kids nl 10x2
+Young sheldon 4x13
+My lascivious boss 1x2
+The voice kids ger 9x7
+The voice 10x10
+Given 1x5
+Rpdr 13x14
+The voice vv 7x10
+Koh-lanta 26x5
+The voice no 6x13
+* Fish upon the sky 1x1
+Game of talents 1x5
 The masked singer 5x5
 Top chef 12x9
 Lovely writer 1x7
 Bad roommate 1x16
 Pekin express 14x7
-The voice be 9x15
 Ydestiny 1x2
 Drag race holland 1x4
 The voice us 20x8
@@ -26,28 +38,18 @@ Mr lipstick 1x2
 * Mr lipstick 1x1
 Bt21 original story 1x7
 Wabi vlog 1x12
-The voice kids ger 9x6
-History4 close to you 1x4
 The most peaceful place 1x2
 * The most peaceful place 1x1
 * My lascivious boss 1x1
-The voice 10x9
-Survivor au 3x5
-Rpdr 13x13
 * The voice kids nl 10x1
-The voice vv 7x9
-Koh-lanta 26x4
-Young sheldon 4x12
 Mental 1x5
 Unbag 1x18
 History3 trapped 1x4
-Game of talents 1x4
 * Survivor au 3x1
 * Ydestiny 1x1
 Precise shot 1x4
 * Precise shot 1x1
 Mako ventures 1x12
-The voice no 6x12
 * Friend or lover 1x1
 Bt21 vlog 1x3
 * Bt21 vlog 1x1
@@ -66,7 +68,6 @@ You never eat alone 1x4
 * Lovely writer 1x1
 * Pekin express 14x1
 * History3 trapped 1x1
-Given 1x2
 * Given 1x1
 Unlocked 1x2
 Pearl next door 1x3
@@ -107,7 +108,6 @@ Rpdru 9x7
 * Rpdr 13x1
 * Mako ventures 1x1
 Ghost runner 1x4
-* The voice be 9x1
 Joséphine ange gardien 23x4
 Capture lover 1x2
 * Roommate 2x1
