@@ -125,9 +125,10 @@
 |you make me dance|you make me dance|8|serie|corée|             <!-- 90 -->
 |our memory|our memory|4|serie|taiwan|                          <!-- 91 -->
 |absolute BL|absolute bl|8|serie|japon|                         <!-- 92 -->
-|1000 stars|a tales of 1000 stars|12|serie|thailande|9|         <!-- 93 -->
+|1000 stars|a tales of 1000 stars|12|serie|thailande|           <!-- 93 -->
 |meet my angel|meet my angel|8|serie|philippines|               <!-- 94 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|             <!-- 95 -->
+|roommate 2|roommate 2 soulmate|2|serie|thailande|<!-- 22 -->
 ||||||
 ||||||
 ||||||
@@ -159,7 +160,6 @@
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|5|    <!-- 19 -->
 |be love|be love|4|serie|japon|3|                               <!-- 20 -->
 |ghost runner|ghost runner|8|serie|thailande|4|                 <!-- 21 -->
-|roommate 2|roommate 2 soulmate|2|serie|thailande|1|            <!-- 22 -->
 |mako ventures|mako ventures|?|show|philippines|10|             <!-- 23 -->
 |together with me|together with me|?|serie|thailande|1|         <!-- 24 -->
 |unlocked|unlocked|9|serie|philippines|2|                       <!-- 25 -->
@@ -174,20 +174,21 @@
 |wabi game|wabi game|?|show|thailande|2|                        <!-- 34 -->
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 35 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
-|history3.1|history3 trapped|20|serie|taiwan|4|                 <!-- 37 -->
+|history3.1|history3 trapped|20|serie|taiwan|5|                 <!-- 37 -->
 |lovely writer|lovely writer|?|serie|thailande|7|               <!-- 38 -->
-|history4.1|history4 close to you|10|serie|taiwan|4|            <!-- 40 -->
-|bad roommate|bad roommate|30|serie|thailande|16|                <!-- 41 -->
+|history4.1|history4 close to you|10|serie|taiwan|5|            <!-- 40 -->
+|bad roommate|bad roommate|30|serie|thailande|16|               <!-- 41 -->
 |friend or lover|friend or lover|4|serie|taiwan|1|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
-|ydestiny|ydestiny|15|serie|thailande|2|                        <!-- 44 -->
+|ydestiny|ydestiny|15|serie|thailande|3|                        <!-- 44 -->
 |my lascivious boss|ong chu dung den day|?|serie|vietnam|2|     <!-- 45 -->
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|2|  <!-- 46 -->
-|mr lipstick|mr lipstick|10|serie(**)|thailande|2|<!--  -->
+|mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 47 -->
+|fish upon the sky|fish upon the sky|?|serie|thailande|1|       <!-- 48 -->
+|life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|fish upon the sky|fish upon the sky|?|serie|thailande|1|<!-- 09/04 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -227,6 +228,8 @@
 |AOUT||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
+|||||||<!--  -->
+|7 projects|7 projects|6|serie|thailande|0|<!--  -->
 
  ## a venir
  <!-- tri par pays puis par studio -->

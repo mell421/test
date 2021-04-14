@@ -4,13 +4,32 @@
 04/04/21
 
 ### a mettre
+* $
 Friend or lover 1x2
 Bangkok love stories innocence 1x2
 Fish upon the sky 1x2
+--
+Clem 
+Clem 
+Ciwyw 1x1
+Ciwyw 1x2
+Nobleman ryu's wedding 1x1 
+Nobleman ryu's wedding 1x2
+Wheel of love 1x1
+Wheel of love 1x2
 
 ### tisaep all
 * $
 $
+The circle us 2x2
+* The circle us 2x1
+Pekin express 14x8
+The circle france 1x4
+Ydestiny 1x3
+The voice us 20x9
+History3 trapped 1x5
+Life senjou no bokura 1x2
+* Life senjou no bokura 1x1
 History4 close to you 1x5
 Survivor au 3x15
 The voice kids nl 10x2
@@ -29,10 +48,7 @@ The masked singer 5x5
 Top chef 12x9
 Lovely writer 1x7
 Bad roommate 1x16
-Pekin express 14x7
-Ydestiny 1x2
 Drag race holland 1x4
-The voice us 20x8
 Lls 1x131
 Mr lipstick 1x2
 * Mr lipstick 1x1
@@ -44,7 +60,6 @@ The most peaceful place 1x2
 * The voice kids nl 10x1
 Mental 1x5
 Unbag 1x18
-History3 trapped 1x4
 * Survivor au 3x1
 * Ydestiny 1x1
 Precise shot 1x4
@@ -110,7 +125,6 @@ Rpdru 9x7
 Ghost runner 1x4
 Joséphine ange gardien 23x4
 Capture lover 1x2
-* Roommate 2x1
 From dusk till dawn 2x3
 * From dusk till dawn 2x1
 Lakan 1x4
@@ -204,7 +218,6 @@ All for one 2x3
 Les ratz 1x4
 Les zinzins de lespace 1x4
 * Les zinzins de lespace 1x1
-The circle france 1x3
 * Mental samourai 1x1
 Hsmtmts 1x3
 * Nailed it holiday 2x1

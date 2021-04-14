@@ -317,6 +317,7 @@
 |RPDRU 13||14|||<!--  -->
 |woodward cheer girls 1||10|||<!--  -->
 |TV BE 9||16|||<!--  -->
+|roommate 2|roommate 2 soulmate|2|serie|thailande|<!-- 22 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -453,7 +454,6 @@
 |tale of the nine tailed 1|||||1|<!--  -->
 |a queen is born 1|||||1|<!--  -->
 |FDTD 2|||||3|<!--  -->
-|roommate 2|roommate 2 soulmate|2|serie|thailande|1|<!-- 31 -->
 |LLS 1|||||108|<!--  -->
 |mako ventures 1|mako ventures|?|show|philippines|9|<!-- 33 -->
 |RPDR 13||16|||14|<!--  -->
@@ -501,7 +501,8 @@
 |the most peaceful place 1||6|||2|<!--  -->
 |mr lipstick 1||?|||2|<!--  -->
 |fish upon the sky||?|||1|<!--  -->
-|||||||<!--  -->
+|life senjou no bokura 1||4|||2|<!--  -->
+|the circle us 2||13|||2|<!-- 14/04 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -513,7 +514,6 @@
 | --- | --- | :---: | --- | --- | --- |
 |love is science 1||?|||0|<!-- 27/3 -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
-|the circle us 2||13|||0|<!-- 14/04 -->
 |scholar ryu's wedding ceremony 1||8|||0|<!-- 15/4 -->
 |wheel of love||4|||0|<!-- 18/4 -->
 |clem|||||0|<!-- 19/04 -->

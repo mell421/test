@@ -108,7 +108,7 @@ A queen is born _1x2(1) Tale of the nine tailed _1x2(1)
 #### sem 21-12-2020 
 Ghost runner _1x4(2) Lls _1x95(8) Unbag _1x12(1) 
 #### sem 28-12-2020 
-Capture lover _1x3(1) Lls _1x97(2) Roommate _2x2(1) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
+Capture lover _1x3(1) Lls _1x97(2) Young sheldon _4x6(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
 
 ---
 
@@ -141,419 +141,215 @@ Be love _1x3(2) TharnType _2x3(2) Young sheldon _4x4(3) Unbag _1x10(3) Pogi lang
 ---
 
 ## conclu
-### conclu 19/09/20 
-> Lls _1 > 3; 
-### conclu 20/09/20 
-> Lls _1 > 3; 
-### conclu 21/09/20 
-> Lls _1 > 3; 
-### conclu 22/09/20 
-> Lls _1 > 3; 
-### conclu 23/09/20 
-> Lls _1 > 3; 
-### conclu 24/09/20 
-> Lls _1 > 3; 
-### conclu 25/09/20 
-> Lls _1 > 3; Unbag _1 > 1; 
-### conclu 26/09/20 
-> Lls _1 > 3; 
-### conclu 27/09/20 
-> Lls _1 > 3; 
-### conclu 28/09/20 
-> Lls _1 > 3; 
-### conclu 29/09/20 
-> Lls _1 > 3; 
-### conclu 30/09/20 
-> Lls _1 > 3; 
-### conclu 01/10/20 
-> Lls _1 > 3; 
-### conclu 02/10/20 
-> Lls _1 > 3; 
-### conclu 03/10/20 
-> Lls _1 > 3; 
-### conclu 04/10/20
-> Lls _1 > 3; 
-### conclu 05/10/20
-> Friend forever _1 > 3; Lls _1 > 3; 
-### conclu 06/10/20
-> Friend forever _1 > 3; Lls _1 > 3; 
-### conclu 07/10/20
-> Lls _1 > 3; Friend forever _1 > 2; 
-### conclu 08/10/20
-> Lls _1 > 3; 
-### conclu 09/10/20
-> Lls _1 > 3; Friend zone _1 > 1; 
-### conclu 10/10/20
-> We are not human _1 > 5; Lls _1 > 3; 
-### conclu 11/10/20 
-> We are not human _1 > 4; Lls _1 > 3; 
-### conclu 12/10/20 
-> We are not human _1 > 5; Lls _1 > 3; 
-### conclu 13/10/20 
-> We are not human _1 > 5; Lls _1 > 3; 
-### conclu 14/10/20 
-> We are not human _1 > 5; Lls _1 > 3; 
-### conclu 15/10/20 
-> We are not human _1 > 11; Lls _1 > 3; 
-### conclu 16/10/20 
-> We are not human _1 > 11; Lls _1 > 3; 
-### conclu 17/10/20 
-> We are not human _1 > 11; Lls _1 > 3; 
-### conclu 18/10/20
-> We are not human _1 > 11; Lls _1 > 3; 
-### conclu 19/10/20
-> We are not human _1 > 11; Lls _1 > 3; Love in time _1 > 1; 
-### conclu 20/10/20
-> We are not human _1 > 11; Lls _1 > 3; Joséphine ange gardien _23 > 2; Love in time _1 > 1; 
-### conclu 21/10/20
-> We are not human _1 > 5; Lls _1 > 3; 
-### conclu 22/10/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 23/10/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 24/10/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 25/10/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 26/10/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 27/10/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 28/10/20
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 29/10/20 
-> Lls _1 > 3; Pogi lang hanap _1 > 2; We are not human _1 > 1; 
-### conclu 30/10/20 
-> Lls _1 > 3; Pogi lang hanap _1 > 1; We are not human _1 > 1; 
-### conclu 31/10/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 01/11/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 02/11/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 03/11/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 04/11/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 05/11/20 
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 06/11/20 
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 07/11/20 
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 08/11/20 
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 09/11/20 
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 10/11/20 
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 11/11/20 
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 12/11/20
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 13/11/20
-> Lls _1 > 2; We are not human _1 > 1; 
-### conclu 14/11/20
-> Lls _1 > 3; We are not human _1 > 2; 
-### conclu 15/11/20
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 16/11/20
-> Lls _1 > 3; My vampire boyfriend _1 > 2; We are not human _1 > 1; 
-### conclu 17/11/20
-> Lls _1 > 3; My vampire boyfriend _1 > 1; We are not human _1 > 1; 
-### conclu 18/11/20
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 19/11/20
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 20/11/20
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 21/11/20
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 22/11/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 23/11/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 24/11/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 25/11/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 26/11/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 27/11/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 28/11/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 29/11/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 30/11/20 
-> Lls _1 > 3; 
-### conclu 01/12/20 
-> Lls _1 > 3; Be love _1 > 2; We are not human _1 > 1; 
-### conclu 02/12/20 
-> Lls _1 > 3; Be love _1 > 2; We are not human _1 > 1; 
-### conclu 03/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 04/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 05/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 06/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 07/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 08/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 09/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 10/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 11/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 12/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 13/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 14/12/20 
-> Lls _1 > 3; We are not human _1 > 1; 
-### conclu 15/12/20 
-> Lls _1 > 3; 
-### conclu 16/12/20 
-> Lls _1 > 3; 
-### conclu 17/12/20 
-> Lls _1 > 10; 
-### conclu 18/12/20 
-> Lls _1 > 12; 
-### conclu 19/12/20 
-> Lls _1 > 12; 
-### conclu 20/12/20 
-> Lls _1 > 12; 
-### conclu 21/12/20 
-> Lls _1 > 12; Unbag _1 > 1; We are not human _1 > 1; 
-### conclu 22/12/20 
-> Lls _1 > 12; Unbag _1 > 1; We are not human _1 > 1; 
-### conclu 23/12/20 
-> Lls _1 > 10; Unbag _1 > 1; We are not human _1 > 1; 
-### conclu 24/12/20 
-> Lls _1 > 10; We are not human _1 > 1; 
-### conclu 25/12/20 
-> Lls _1 > 9; From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
-### conclu 26/12/20 
-> Lls _1 > 9; From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
-### conclu 27/12/20 
-> Lls _1 > 9; From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
-### conclu 28/12/20 
-> Lls _1 > 9; From dusk till dawn _2 > 1; Unbag _1 > 1; We are not human _1 > 1; 
-### conclu 29/12/20 
-> Lls _1 > 9; From dusk till dawn _2 > 1; We are not human _1 > 1; 
-### conclu 30/12/20 
-> Lls _1 > 9; From dusk till dawn _2 > 1; We are not human _1 > 1; 
-### conclu 31/12/20 
-> Lls _1 > 9; We are not human _1 > 1; 
+* conclu 19/09/20 > Lls _1 > 3; 
+* conclu 20/09/20 > Lls _1 > 3; 
+* conclu 21/09/20 > Lls _1 > 3; 
+* conclu 22/09/20 > Lls _1 > 3; 
+* conclu 23/09/20 > Lls _1 > 3; 
+* conclu 24/09/20 > Lls _1 > 3; 
+* conclu 25/09/20 > Lls _1 > 3; Unbag _1 > 1; 
+* conclu 26/09/20 > Lls _1 > 3; 
+* conclu 27/09/20 > Lls _1 > 3; 
+* conclu 28/09/20 > Lls _1 > 3; 
+* conclu 29/09/20 > Lls _1 > 3; 
+* conclu 30/09/20 > Lls _1 > 3; 
+* conclu 01/10/20 > Lls _1 > 3; 
+* conclu 02/10/20 > Lls _1 > 3; 
+* conclu 03/10/20 > Lls _1 > 3; 
+* conclu 04/10/20 > Lls _1 > 3; 
+* conclu 05/10/20 > Friend forever _1 > 3; Lls _1 > 3; 
+* conclu 06/10/20 > Friend forever _1 > 3; Lls _1 > 3; 
+* conclu 07/10/20 > Lls _1 > 3; Friend forever _1 > 2; 
+* conclu 08/10/20 > Lls _1 > 3; 
+* conclu 09/10/20 > Lls _1 > 3; Friend zone _1 > 1; 
+* conclu 10/10/20 > We are not human _1 > 5; Lls _1 > 3; 
+* conclu 11/10/20 > We are not human _1 > 4; Lls _1 > 3; 
+* conclu 12/10/20 > We are not human _1 > 5; Lls _1 > 3; 
+* conclu 13/10/20 > We are not human _1 > 5; Lls _1 > 3; 
+* conclu 14/10/20 > We are not human _1 > 5; Lls _1 > 3; 
+* conclu 15/10/20 > We are not human _1 > 11; Lls _1 > 3; 
+* conclu 16/10/20 > We are not human _1 > 11; Lls _1 > 3; 
+* conclu 17/10/20 > We are not human _1 > 11; Lls _1 > 3; 
+* conclu 18/10/20 > We are not human _1 > 11; Lls _1 > 3; 
+* conclu 19/10/20 > We are not human _1 > 11; Lls _1 > 3; Love in time _1 > 1; 
+* conclu 20/10/20 > We are not human _1 > 11; Lls _1 > 3; Joséphine ange gardien _23 > 2; Love in time _1 > 1; 
+* conclu 21/10/20 > We are not human _1 > 5; Lls _1 > 3; 
+* conclu 22/10/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 23/10/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 24/10/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 25/10/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 26/10/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 27/10/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 28/10/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 29/10/20 > Lls _1 > 3; Pogi lang hanap _1 > 2; We are not human _1 > 1; 
+* conclu 30/10/20 > Lls _1 > 3; Pogi lang hanap _1 > 1; We are not human _1 > 1; 
+* conclu 31/10/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 01/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 02/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 03/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 04/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 05/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 06/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 07/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 08/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 09/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 10/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 11/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 12/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 13/11/20 > Lls _1 > 2; We are not human _1 > 1; 
+* conclu 14/11/20 > Lls _1 > 3; We are not human _1 > 2; 
+* conclu 15/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 16/11/20 > Lls _1 > 3; My vampire boyfriend _1 > 2; We are not human _1 > 1; 
+* conclu 17/11/20 > Lls _1 > 3; My vampire boyfriend _1 > 1; We are not human _1 > 1; 
+* conclu 18/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 19/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 20/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 21/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 22/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 23/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 24/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 25/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 26/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 27/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 28/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 29/11/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 30/11/20 > Lls _1 > 3; 
+* conclu 01/12/20 > Lls _1 > 3; Be love _1 > 2; We are not human _1 > 1; 
+* conclu 02/12/20 > Lls _1 > 3; Be love _1 > 2; We are not human _1 > 1; 
+* conclu 03/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 04/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 05/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 06/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 07/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 08/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 09/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 10/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 11/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 12/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 13/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 14/12/20 > Lls _1 > 3; We are not human _1 > 1; 
+* conclu 15/12/20 > Lls _1 > 3; 
+* conclu 16/12/20 > Lls _1 > 3; 
+* conclu 17/12/20 > Lls _1 > 10; 
+* conclu 18/12/20 > Lls _1 > 12; 
+* conclu 19/12/20 > Lls _1 > 12; 
+* conclu 20/12/20 > Lls _1 > 12; 
+* conclu 21/12/20 > Lls _1 > 12; Unbag _1 > 1; We are not human _1 > 1; 
+* conclu 22/12/20 > Lls _1 > 12; Unbag _1 > 1; We are not human _1 > 1; 
+* conclu 23/12/20 > Lls _1 > 10; Unbag _1 > 1; We are not human _1 > 1; 
+* conclu 24/12/20 > Lls _1 > 10; We are not human _1 > 1; 
+* conclu 25/12/20 > Lls _1 > 9; From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
+* conclu 26/12/20 > Lls _1 > 9; From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
+* conclu 27/12/20 > Lls _1 > 9; From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
+* conclu 28/12/20 > Lls _1 > 9; From dusk till dawn _2 > 1; Unbag _1 > 1; We are not human _1 > 1; 
+* conclu 29/12/20 > Lls _1 > 9; From dusk till dawn _2 > 1; We are not human _1 > 1; 
+* conclu 30/12/20 > Lls _1 > 9; From dusk till dawn _2 > 1; We are not human _1 > 1; 
+* conclu 31/12/20 > Lls _1 > 9; We are not human _1 > 1; 
 
 ---
 
 ## conclu bis
 
-### concluBis 23/09/20 
-> Lls _1 > 5; 
-### concluBis 24/09/20 
-> Lls _1 > 5; 
-### concluBis 25/09/20 
-> Lls _1 > 5; Unbag _1 > 3; 
-### concluBis 26/09/20 
-> Lls _1 > 5; 
-### concluBis 27/09/20 
-> Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 28/09/20 
-> Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 29/09/20 
-> Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 30/09/20 
-> Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 01/10/20 
-> Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 02/10/20 
-> Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 03/10/20 
-> Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 04/10/20
-> Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 05/10/20
-> Friend forever _1 > 5; Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 06/10/20
-> Friend forever _1 > 5; Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 07/10/20
-> Lls _1 > 5; Friend forever _1 > 4; Kaamelott _5 > 1; 
-### concluBis 08/10/20
-> Lls _1 > 5; Capture lover _1 > 2; Zombie detective _1 > 1; Kaamelott _5 > 1; 
-### concluBis 09/10/20
-> Lls _1 > 5; Unbag _1 > 3; Friend zone _1 > 3; Kaamelott _5 > 1; 
-### concluBis 10/10/20
-> We are not human _1 > 9; Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 11/10/20 
-> We are not human _1 > 8; Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 12/10/20 
-> We are not human _1 > 9; Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 13/10/20 
-> We are not human _1 > 9; Lls _1 > 5; Kaamelott _5 > 1; 
-### concluBis 14/10/20 
-> We are not human _1 > 9; Lls _1 > 5; 
-### concluBis 15/10/20 
-> We are not human _1 > 19; Lls _1 > 5; 
-### concluBis 16/10/20 
-> We are not human _1 > 19; Lls _1 > 5; 
-### concluBis 17/10/20 
-> We are not human _1 > 19; Lls _1 > 5; 
-### concluBis 18/10/20
-> We are not human _1 > 19; Lls _1 > 5; 
-### concluBis 19/10/20
-> We are not human _1 > 19; Lls _1 > 5; Love in time _1 > 3; 
-### concluBis 20/10/20
-> We are not human _1 > 19; Lls _1 > 5; Joséphine ange gardien _23 > 4; Love in time _1 > 3; 
-### concluBis 21/10/20
-> We are not human _1 > 9; Lls _1 > 5; Quien es la mascara _2 > 1; 
-### concluBis 22/10/20
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 23/10/20
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 24/10/20
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 25/10/20
-> Lls _1 > 5; We are not human _1 > 4; Quien es la mascara _2 > 1; 
-### concluBis 26/10/20
-> Lls _1 > 5; We are not human _1 > 4; Quien es la mascara _2 > 1; 
-### concluBis 27/10/20
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 28/10/20
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 29/10/20
-> Lls _1 > 5; Pogi lang hanap _1 > 4; We are not human _1 > 3; 
-### concluBis 30/10/20
-> Lls _1 > 5; Pogi lang hanap _1 > 3; We are not human _1 > 3; 
-### concluBis 31/10/20
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 01/11/20
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 02/11/20
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 03/11/20
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 04/11/20
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 05/11/20
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 06/11/20
-> Lls _1 > 5; We are not human _1 > 4; Young sheldon _4 > 1; 
-### concluBis 07/11/20 
-> Lls _1 > 5; We are not human _1 > 4; TharnType _2 > 1; 
-### concluBis 08/11/20 
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 09/11/20 
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 10/11/20 
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 11/11/20 
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 12/11/20
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 13/11/20
-> Lls _1 > 4; We are not human _1 > 3; 
-### concluBis 14/11/20
-> Lls _1 > 5; We are not human _1 > 4; 
-### concluBis 15/11/20
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 16/11/20
-> Lls _1 > 5; My vampire boyfriend _1 > 4; We are not human _1 > 3; 
-### concluBis 17/11/20
-> Lls _1 > 5; My vampire boyfriend _1 > 3; We are not human _1 > 3; 
-### concluBis 18/11/20
-> Lls _1 > 5; We are not human _1 > 3; My vampire boyfriend _1 > 1; 
-### concluBis 19/11/20
-> Lls _1 > 5; We are not human _1 > 3; My vampire boyfriend _1 > 1; 
-### concluBis 20/11/20
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 21/11/20
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 22/11/20 
-> Lls _1 > 5; We are not human _1 > 3; My vampire boyfriend _1 > 1; 
-### concluBis 23/11/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 24/11/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 25/11/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 26/11/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 27/11/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 28/11/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 29/11/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 30/11/20 
-> Lls _1 > 5; We are not human _1 > 2; 
-### concluBis 01/12/20 
-> Lls _1 > 5; Be love _1 > 4; We are not human _1 > 3; 
-### concluBis 02/12/20 
-> Lls _1 > 5; Be love _1 > 4; We are not human _1 > 3; 
-### concluBis 03/12/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 04/12/20 
-> Lls _1 > 5; We are not human _1 > 3; Young sheldon _4 > 2; 
-### concluBis 05/12/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 06/12/20 
-> Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; 
-### concluBis 07/12/20 
-> Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; 
-### concluBis 08/12/20 
-> Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; 
-### concluBis 09/12/20 
-> Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; 
-### concluBis 10/12/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 11/12/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 12/12/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 13/12/20 
-> Lls _1 > 5; We are not human _1 > 3; 
-### concluBis 14/12/20 
-> Lls _1 > 5; We are not human _1 > 3; A queen is born _1 > 2; 
-### concluBis 15/12/20 
-> Lls _1 > 5; We are not human _1 > 2; A queen is born _1 > 1; 
-### concluBis 16/12/20 
-> Lls _1 > 5; We are not human _1 > 2; Unbag _1 > 1; A queen is born _1 > 1; 
-### concluBis 17/12/20 
-> Lls _1 > 18; We are not human _1 > 2; 
-### concluBis 18/12/20 
-> Lls _1 > 20; Unbag _1 > 4; We are not human _1 > 2; 
-### concluBis 19/12/20 
-> Lls _1 > 20; We are not human _1 > 2; Unbag _1 > 1; 
-### concluBis 20/12/20 
-> Lls _1 > 20; Unbag _1 > 2; We are not human _1 > 2; 
-### concluBis 21/12/20 
-> Lls _1 > 20; Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 2; Kaamelott _5 > 1; 
-### concluBis 22/12/20 
-> Lls _1 > 20; Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-### concluBis 23/12/20 
-> Lls _1 > 18; Unbag _1 > 3; We are not human _1 > 3; Lakan _1 > 1; Kaamelott _5 > 1; 
-### concluBis 24/12/20 
-> Lls _1 > 18; We are not human _1 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
-### concluBis 25/12/20 
-> Lls _1 > 15; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-### concluBis 26/12/20 
-> Lls _1 > 15; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-### concluBis 27/12/20 
-> Lls _1 > 16; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-### concluBis 28/12/20 
-> Lls _1 > 15; Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-### concluBis 29/12/20 
-> Lls _1 > 15; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-### concluBis 30/12/20 
-> Lls _1 > 15; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-### concluBis 31/12/20 
-> Lls _1 > 15; We are not human _1 > 3; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
+* concluBis 23/09/20 > Lls _1 > 5; 
+* concluBis 24/09/20 > Lls _1 > 5; 
+* concluBis 25/09/20 > Lls _1 > 5; Unbag _1 > 3; 
+* concluBis 26/09/20 > Lls _1 > 5; 
+* concluBis 27/09/20 > Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 28/09/20 > Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 29/09/20 > Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 30/09/20 > Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 01/10/20 > Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 02/10/20 > Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 03/10/20 > Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 04/10/20 > Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 05/10/20 > Friend forever _1 > 5; Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 06/10/20 > Friend forever _1 > 5; Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 07/10/20 > Lls _1 > 5; Friend forever _1 > 4; Kaamelott _5 > 1; 
+* concluBis 08/10/20 > Lls _1 > 5; Capture lover _1 > 2; Zombie detective _1 > 1; Kaamelott _5 > 1; 
+* concluBis 09/10/20 > Lls _1 > 5; Unbag _1 > 3; Friend zone _1 > 3; Kaamelott _5 > 1; 
+* concluBis 10/10/20 > We are not human _1 > 9; Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 11/10/20 > We are not human _1 > 8; Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 12/10/20 > We are not human _1 > 9; Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 13/10/20 > We are not human _1 > 9; Lls _1 > 5; Kaamelott _5 > 1; 
+* concluBis 14/10/20 > We are not human _1 > 9; Lls _1 > 5; 
+* concluBis 15/10/20 > We are not human _1 > 19; Lls _1 > 5; 
+* concluBis 16/10/20 > We are not human _1 > 19; Lls _1 > 5; 
+* concluBis 17/10/20 > We are not human _1 > 19; Lls _1 > 5; 
+* concluBis 18/10/20 > We are not human _1 > 19; Lls _1 > 5; 
+* concluBis 19/10/20 > We are not human _1 > 19; Lls _1 > 5; Love in time _1 > 3; 
+* concluBis 20/10/20 > We are not human _1 > 19; Lls _1 > 5; Joséphine ange gardien _23 > 4; Love in time _1 > 3; 
+* concluBis 21/10/20 > We are not human _1 > 9; Lls _1 > 5; Quien es la mascara _2 > 1; 
+* concluBis 22/10/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 23/10/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 24/10/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 25/10/20 > Lls _1 > 5; We are not human _1 > 4; Quien es la mascara _2 > 1; 
+* concluBis 26/10/20 > Lls _1 > 5; We are not human _1 > 4; Quien es la mascara _2 > 1; 
+* concluBis 27/10/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 28/10/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 29/10/20 > Lls _1 > 5; Pogi lang hanap _1 > 4; We are not human _1 > 3; 
+* concluBis 30/10/20 > Lls _1 > 5; Pogi lang hanap _1 > 3; We are not human _1 > 3; 
+* concluBis 31/10/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 01/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 02/11/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 03/11/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 04/11/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 05/11/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 06/11/20 > Lls _1 > 5; We are not human _1 > 4; Young sheldon _4 > 1; 
+* concluBis 07/11/20 > Lls _1 > 5; We are not human _1 > 4; TharnType _2 > 1; 
+* concluBis 08/11/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 09/11/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 10/11/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 11/11/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 12/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 13/11/20 > Lls _1 > 4; We are not human _1 > 3; 
+* concluBis 14/11/20 > Lls _1 > 5; We are not human _1 > 4; 
+* concluBis 15/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 16/11/20 > Lls _1 > 5; My vampire boyfriend _1 > 4; We are not human _1 > 3; 
+* concluBis 17/11/20 > Lls _1 > 5; My vampire boyfriend _1 > 3; We are not human _1 > 3; 
+* concluBis 18/11/20 > Lls _1 > 5; We are not human _1 > 3; My vampire boyfriend _1 > 1; 
+* concluBis 19/11/20 > Lls _1 > 5; We are not human _1 > 3; My vampire boyfriend _1 > 1; 
+* concluBis 20/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 21/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 22/11/20 > Lls _1 > 5; We are not human _1 > 3; My vampire boyfriend _1 > 1; 
+* concluBis 23/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 24/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 25/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 26/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 27/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 28/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 29/11/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 30/11/20 > Lls _1 > 5; We are not human _1 > 2; 
+* concluBis 01/12/20 > Lls _1 > 5; Be love _1 > 4; We are not human _1 > 3; 
+* concluBis 02/12/20 > Lls _1 > 5; Be love _1 > 4; We are not human _1 > 3; 
+* concluBis 03/12/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 04/12/20 > Lls _1 > 5; We are not human _1 > 3; Young sheldon _4 > 2; 
+* concluBis 05/12/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 06/12/20 > Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; 
+* concluBis 07/12/20 > Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; 
+* concluBis 08/12/20 > Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; 
+* concluBis 09/12/20 > Lls _1 > 5; We are not human _1 > 3; Unbag _1 > 1; 
+* concluBis 10/12/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 11/12/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 12/12/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 13/12/20 > Lls _1 > 5; We are not human _1 > 3; 
+* concluBis 14/12/20 > Lls _1 > 5; We are not human _1 > 3; A queen is born _1 > 2; 
+* concluBis 15/12/20 > Lls _1 > 5; We are not human _1 > 2; A queen is born _1 > 1; 
+* concluBis 16/12/20 > Lls _1 > 5; We are not human _1 > 2; Unbag _1 > 1; A queen is born _1 > 1; 
+* concluBis 17/12/20 > Lls _1 > 18; We are not human _1 > 2; 
+* concluBis 18/12/20 > Lls _1 > 20; Unbag _1 > 4; We are not human _1 > 2; 
+* concluBis 19/12/20 > Lls _1 > 20; We are not human _1 > 2; Unbag _1 > 1; 
+* concluBis 20/12/20 > Lls _1 > 20; Unbag _1 > 2; We are not human _1 > 2; 
+* concluBis 21/12/20 > Lls _1 > 20; Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 2; Kaamelott _5 > 1; 
+* concluBis 22/12/20 > Lls _1 > 20; Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+* concluBis 23/12/20 > Lls _1 > 18; Unbag _1 > 3; We are not human _1 > 3; Lakan _1 > 1; Kaamelott _5 > 1; 
+* concluBis 24/12/20 > Lls _1 > 18; We are not human _1 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
+* concluBis 25/12/20 > Lls _1 > 15; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+* concluBis 26/12/20 > Lls _1 > 15; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+* concluBis 27/12/20 > Lls _1 > 16; From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+* concluBis 28/12/20 > Lls _1 > 15; Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+* concluBis 29/12/20 > Lls _1 > 15; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+* concluBis 30/12/20 > Lls _1 > 15; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
+* concluBis 31/12/20 > Lls _1 > 15; We are not human _1 > 3; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
 
 
 [retour](./../index.html)

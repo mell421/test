@@ -231,9 +231,9 @@
 - 24/12/20 - 238* from dusk till dawn _2{0} lakan _1{5} lls _1{204} 
 - 25/12/20 - 38* young sheldon _4{7} from dusk till dawn _2{0} lakan _1{5} 
 - 26/12/20 - 46* young sheldon _4{7} from dusk till dawn _2{2} lakan _1{5} 
-- 27/12/20 - 455* lls _1{210} roommate _2{0} young sheldon _4{7} from dusk till dawn _2{4} 
-- 28/12/20 - 467* capture lover _1{4} lls _1{213} roommate _2{1} young sheldon _4{8} 
-- 29/12/20 - 471* joséphine ange gardien _23{5} capture lover _1{4} lls _1{215} roommate _2{1} 
+- 27/12/20 - 455* lls _1{210} young sheldon _4{7} from dusk till dawn _2{4} 
+- 28/12/20 - 467* capture lover _1{4} lls _1{213} young sheldon _4{8} 
+- 29/12/20 - 471* joséphine ange gardien _23{5} capture lover _1{4} lls _1{215} 
 - 30/12/20 - 269* joséphine ange gardien _23{5} capture lover _1{4} lls _1{217} 
 - 31/12/20 - 65* ghost runner _1{4} friend zone _1{4} joséphine ange gardien _23{5} capture lover _1{4} 
 - 01/01/21 - 105* unbag _1{42} ghost runner _1{6} friend zone _1{5} joséphine ange gardien _23{6} 
