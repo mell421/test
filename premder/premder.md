@@ -21,10 +21,11 @@ Wheel of love 1x2
 ### tisaep all
 * $
 $
-The circle us 2x2
+Top chef 12x10
+Lovely writer 1x8
+The circle us 2x4
 * The circle us 2x1
 Pekin express 14x8
-The circle france 1x4
 Ydestiny 1x3
 The voice us 20x9
 History3 trapped 1x5
@@ -45,8 +46,6 @@ The voice no 6x13
 * Fish upon the sky 1x1
 Game of talents 1x5
 The masked singer 5x5
-Top chef 12x9
-Lovely writer 1x7
 Bad roommate 1x16
 Drag race holland 1x4
 Lls 1x131
@@ -222,7 +221,6 @@ Les zinzins de lespace 1x4
 Hsmtmts 1x3
 * Nailed it holiday 2x1
 Only connect 15x24
-* The circle france 1x1
 * Bloodride 1x1
 Ahs 9x4
 Why women kill 1x3
