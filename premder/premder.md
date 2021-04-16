@@ -161,7 +161,6 @@ We are not human 1x18
 Hes coming to me 1x2
 * My dear loser edge of 17 1x1
 Aggretsuko 3x3
-Nailed it holiday 2x2
 * Unbag 1x1
 * Aggretsuko 3x1
 So much in love 1x2
@@ -219,7 +218,6 @@ Les zinzins de lespace 1x4
 * Les zinzins de lespace 1x1
 * Mental samourai 1x1
 Hsmtmts 1x3
-* Nailed it holiday 2x1
 Only connect 15x24
 * Bloodride 1x1
 Ahs 9x4
