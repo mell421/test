@@ -49,8 +49,8 @@
 * The voice au _7
 * La casa de papel _2
 * Elite _3
-* The circle _1
-* Pékin express _13
+* The circle us _1
+* Pekin express _13
 * Nailed it holiday _1
 * La casa de papel _1
 ### sem 20-04-2020 
@@ -386,7 +386,7 @@
 #### mois 01-04-2020 
 *Vampires _1 Valemont _1 Stalk _1 Strictly come dancing _15 The voice kids be _1 /9-1-1 lone star _1 The greatest dancer _2 Skam france _5 The voice au _8*
 #### mois 01-05-2020 
-*Les simpson _2 The voice vv _5 Young sheldon _3 Arrow _6 The masked singer de _2 The voice kids de _8 Ares _1 October faction _1 Will and grace _11 Kaamelott _3 Carmilla _4 Skam espana _3 Monsieur flap _3 Lego masters _1 Descendants wicked world _2 Descendants wicked world _1 Visible out on television _1 The voice au _7 La casa de papel _2 Elite _3 The circle _1 Pékin express _13 Nailed it holiday _1 La casa de papel _1 Cheerleaders _1*
+*Les simpson _2 The voice vv _5 Young sheldon _3 Arrow _6 The masked singer de _2 The voice kids de _8 Ares _1 October faction _1 Will and grace _11 Kaamelott _3 Carmilla _4 Skam espana _3 Monsieur flap _3 Lego masters _1 Descendants wicked world _2 Descendants wicked world _1 Visible out on television _1 The voice au _7 La casa de papel _2 Elite _3 The circle _1 Pekin express _13 Nailed it holiday _1 La casa de papel _1 Cheerleaders _1*
 #### mois 01-06-2020 
 *TharnType _1 Rpdr _12 Cheerleaders champions league _1 Alyssas secret _2 Control z _1 Cheerleaders _3 The voice kids nl _1 The masked singer _3 The voice us _18 The outs _1 Cheerleaders _2 Cheerhab _1 The voice senior nl _2 Rpdru _12 Rpscdr _1 The voice senior nl _1 /9-1-1 _3 The voice uk _8 The voice nl _6 Tbbt _9 The voice senior vv _1 Amours solitaires _1*
 #### mois 01-07-2020 

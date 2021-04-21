@@ -8,8 +8,6 @@
 $
 Bangkok love stories innocence 1x2
 --
-Clem 11x2
-Clem 11x1
 Ciwyw 1x1
 Ciwyw 1x3
 Wheel of love 1x2
@@ -17,6 +15,15 @@ Wheel of love 1x2
 ### tisaep all
 * $
 $
+The voice us 20x10
+911 lone star 2x9
+911 4x9
+Young sheldon 4x14
+Clem 11x2
+* Clem 11x1
+* Survivor au 4x1
+History4 close to you 1x6
+The voice kids ger 9x8
 Friend or lover 1x2
 * Wheel of love 1x1
 The voice 10x11
@@ -39,14 +46,10 @@ The circle us 2x4
 * The circle us 2x1
 Pekin express 14x8
 Ydestiny 1x3
-The voice us 20x9
 History3 trapped 1x5
 Life senjou no bokura 1x2
 * Life senjou no bokura 1x1
-History4 close to you 1x5
-Young sheldon 4x13
 My lascivious boss 1x2
-The voice kids ger 9x7
 Given 1x5
 * Fish upon the sky 1x1
 Bad roommate 1x16
@@ -75,8 +78,6 @@ Schools out lets date now 1x5
 * Game of talents 1x1
 * The masked singer 5x1
 You never eat alone 1x4
-911 lone star 2x8
-911 4x8
 * The voice us 20x1
 * The voice kids ger 9x1
 * Lovely writer 1x1

@@ -215,12 +215,13 @@
 |MARS||||||<!-- -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |AVRIL||||||<!-- -->
-|love mechanics|love mechanics|?|serie|thailande|0|<!-- ??/04 -->
+|love mechanics|love mechanics|16|serie|thailande|0|<!-- ??/04 -->
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->
-|close friend|close friend|?|serie|thailande|0|<!-- 22/04 -->
+|close friend|close friend|6|serie|thailande|0|<!-- 22/04 -->
 |MAI||||||<!-- -->
 |top secret together|top secret together|?|serie|thailande|0|<!-- 07/05 -->
 |nitiman|nitiman|?|serie|thailande|0|<!-- 07/05 -->
+|gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
 |JUIN||||||<!-- -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->
 |JUILLET||||||<!--  -->
@@ -229,7 +230,7 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|7 projects|7 projects|6|serie|thailande|0|<!--  -->
+|7 projects|7 projects|?|serie|thailande|0|<!--  -->
 
  ## a venir
  <!-- tri par pays puis par studio -->
@@ -239,10 +240,9 @@
 |sea him 2|sea him 2|?|serie|vietnam|0|<!-- -->
 |yyy 2|yyy 2|?|serie|thailande|0|<!-- -->
 |my engineer 2|my engineer 2|?|serie|thailande|0|<!-- -->
-|gameboys 2|gameboys 2|?|serie|philippines|0|
-|cheat 2|cheat 2|?|serie|philippines|0|
-|quaranthings 2||?|serie|philippines|0|
-|meet my angel 2||?|serie|philippines|0|
+|cheat 2|cheat 2|?|serie|philippines|0|<!-- -->
+|quaranthings 2||?|serie|philippines|0|<!-- -->
+|meet my angel 2||?|serie|philippines|0|<!-- -->
 |my extraordinary 2|a kiss 2 remember|12|serie|philippines|0|<!-- -->
 |||||||<!--  -->
 |||||||<!--  -->
