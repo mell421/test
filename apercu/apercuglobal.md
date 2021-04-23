@@ -152,9 +152,9 @@ Aggretsuko _3x4(1)
 #### sem 14-09-2020 
 Unbag _1x3(1) 
 #### sem 21-09-2020 
-Love in time _1x2(1) Drag race holland _1x2(1) Unbag _1x4(1) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) 
+Love in time _1x2(1) Unbag _1x4(1) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) 
 #### sem 28-09-2020 
-Drag race holland _1x3(1) Unbag _1x5(1) 
+Unbag _1x5(1) 
 #### sem 05-10-2020 
 Friend forever _1x3(2) My day _1x2(1) 
 #### sem 12-10-2020 
@@ -208,7 +208,7 @@ History4 close to you _1x3(1) Friend or lover _1x2(1) The voice _10x8(1) Lls _1x
 #### sem 29-03-2021 
 Lls _1x130(8) History4 close to you _1x4(1) History3 trapped _1x3(1) The voice _10x9(1) Precise shot _1x5(4) Mako ventures _1x13(1) Rpdr _13x13(1) Koh-lanta _26x4(1) The voice no _6x13(1) The voice vv _7x9(1) Lovely writer _1x6(1) Game of talents _1x4(1) The masked singer _5x4(1) Top chef _12x8(1) Wabi vlog _1x11(2) Pekin express _14x6(1) The voice us _20x7(1) The voice kids ger _9x5(1) 
 #### sem 05-04-2021 
-Drag race holland _1x4(1) History4 close to you _1x5(1) The most peaceful place _1x3(2) My lascivious boss _1x2(1) The voice _10x10(1) Rpdr _13x14(1) The voice kids nl _10x2(1) The voice vv _7x10(1) Koh-lanta _26x5(1) Young sheldon _4x13(1) Mental _1x6(2) Top chef _12x9(1) Unbag _1x19(1) History3 trapped _1x5(2) Lovely writer _1x7(1) Game of talents _1x5(1) The masked singer _5x5(1) Pekin express _14x7(1) Wabi vlog _1x12(1) Ydestiny _1x2(1) The voice us _20x8(1) The voice kids ger _9x6(1) 
+History4 close to you _1x5(1) The most peaceful place _1x3(2) My lascivious boss _1x2(1) The voice _10x10(1) Rpdr _13x14(1) The voice kids nl _10x2(1) The voice vv _7x10(1) Koh-lanta _26x5(1) Young sheldon _4x13(1) Mental _1x6(2) Top chef _12x9(1) Unbag _1x19(1) History3 trapped _1x5(2) Lovely writer _1x7(1) Game of talents _1x5(1) The masked singer _5x5(1) Pekin express _14x7(1) Wabi vlog _1x12(1) Ydestiny _1x2(1) The voice us _20x8(1) The voice kids ger _9x6(1) 
 
 
 
@@ -254,7 +254,7 @@ Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1)
 #### mois 01-09-2020 
 Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) Hes coming to me _1x2(1) Survivor _40x2(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 #### mois 01-10-2020 
-Friend forever _1x2(1) My day _1x2(1) Drag race holland _1x3(2) Unbag _1x5(3) Love in time _1x2(1) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) Aggretsuko _3x4(1) 
+Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Love in time _1x2(1) Baby _3x2(1) Hes coming to me _1x3(1) My dear loser edge of 17 _1x2(1) Aggretsuko _3x4(1) 
 #### mois 01-11-2020 
 Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Joséphine ange gardien _23x4(3) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
@@ -476,8 +476,8 @@ Game of talents _1x5(4) The masked singer _5x5(4) Pekin express _14x7(5) Wabi vl
 * conclu 03/04/21 > Lls _1 > 12; Unbag _1 > 4; Precise shot _1 > 2; History3 trapped _1 > 1; Rpdr _13 > 1; We are not human _1 > 1; 
 * conclu 04/04/21 > Lls _1 > 12; Unbag _1 > 4; The voice _10 > 2; History3 trapped _1 > 1; We are not human _1 > 1; 
 * conclu 05/04/21 > Unbag _1 > 5; Lls _1 > 3; The voice _10 > 3; The most peaceful place _1 > 2; Mental _1 > 1; The voice us _20 > 1; We are not human _1 > 1; 
-* conclu 06/04/21 > Lls _1 > 9; Bad roommate _1 > 4; Unbag _1 > 4; Bt21 original story _1 > 1; Drag race holland _1 > 1; 
-* conclu 07/04/21 > Lls _1 > 9; Bad roommate _1 > 4; Unbag _1 > 4; Bt21 original story _1 > 1; Drag race holland _1 > 1; We are not human _1 > 1; 
+* conclu 06/04/21 > Lls _1 > 9; Bad roommate _1 > 4; Unbag _1 > 4; Bt21 original story _1 > 1; 
+* conclu 07/04/21 > Lls _1 > 9; Bad roommate _1 > 4; Unbag _1 > 4; Bt21 original story _1 > 1; We are not human _1 > 1; 
 * conclu 08/04/21 > Lls _1 > 9; Bad roommate _1 > 6; Unbag _1 > 4; Top chef _12 > 2; Bt21 original story _1 > 1; Lovely writer _1 > 1; We are not human _1 > 1; 
 
 
@@ -684,10 +684,10 @@ Game of talents _1x5(4) The masked singer _5x5(4) Pekin express _14x7(5) Wabi vl
 * concluBis 02/04/21 > Lls _1 > 20; Unbag _1 > 8; The voice us _20 > 4; Precise shot _1 > 4; Top chef _12 > 3; History3 trapped _1 > 3; We are not human _1 > 3; Young sheldon _4 > 2; Lovely writer _1 > 2; Mako ventures _1 > 1; Wabi vlog _1 > 1; Mental _1 > 1; Kaamelott _5 > 1; 
 * concluBis 03/04/21 > Lls _1 > 20; Unbag _1 > 8; Rpdr _13 > 5; Precise shot _1 > 4; History3 trapped _1 > 3; We are not human _1 > 3; The voice vv _7 > 2; 
 * concluBis 04/04/21 > Lls _1 > 20; Unbag _1 > 8; The voice _10 > 5; Rpdr _13 > 3; History3 trapped _1 > 3; We are not human _1 > 3; Mental _1 > 2; 
-* concluBis 05/04/21 > Unbag _1 > 9; The voice _10 > 5; Lls _1 > 5; The most peaceful place _1 > 4; Rpdr _13 > 3; The voice us _20 > 3; Mental _1 > 3; We are not human _1 > 3; History4 close to you _1 > 2; History3 trapped _1 > 2; Young sheldon _4 > 1; Drag race holland _1 > 1; 
-* concluBis 06/04/21 > Lls _1 > 17; Bad roommate _1 > 9; Unbag _1 > 8; Rpdr _13 > 3; Bt21 original story _1 > 3; Drag race holland _1 > 3; We are not human _1 > 3; The voice us _20 > 2; Wabi vlog _1 > 1; Mr lipstick _1 > 1; 
-* concluBis 07/04/21 > Lls _1 > 17; Unbag _1 > 8; Bad roommate _1 > 8; Bt21 original story _1 > 3; Drag race holland _1 > 3; We are not human _1 > 3; Rpdr _13 > 2; The voice us _20 > 2; Pekin express _14 > 1; Mr lipstick _1 > 1; 
-* concluBis 08/04/21 > Lls _1 > 16; Bad roommate _1 > 14; Unbag _1 > 8; Top chef _12 > 5; Bt21 original story _1 > 3; Lovely writer _1 > 3; We are not human _1 > 3; The voice us _20 > 2; Drag race holland _1 > 2; 
+* concluBis 05/04/21 > Unbag _1 > 9; The voice _10 > 5; Lls _1 > 5; The most peaceful place _1 > 4; Rpdr _13 > 3; The voice us _20 > 3; Mental _1 > 3; We are not human _1 > 3; History4 close to you _1 > 2; History3 trapped _1 > 2; Young sheldon _4 > 1; 
+* concluBis 06/04/21 > Lls _1 > 17; Bad roommate _1 > 9; Unbag _1 > 8; Rpdr _13 > 3; Bt21 original story _1 > 3; We are not human _1 > 3; The voice us _20 > 2; Wabi vlog _1 > 1; Mr lipstick _1 > 1; 
+* concluBis 07/04/21 > Lls _1 > 17; Unbag _1 > 8; Bad roommate _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Rpdr _13 > 2; The voice us _20 > 2; Pekin express _14 > 1; Mr lipstick _1 > 1; 
+* concluBis 08/04/21 > Lls _1 > 16; Bad roommate _1 > 14; Unbag _1 > 8; Top chef _12 > 5; Bt21 original story _1 > 3; Lovely writer _1 > 3; We are not human _1 > 3; The voice us _20 > 2; 
 
 
 

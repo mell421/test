@@ -10,16 +10,12 @@
 * infidele 201
 * infidele 202
 * so much in love 108
-### 2
-* DR NL 103
 ### 3
 * my day 109
 ### 8
 * infidele 203
 * infidele 204
 * so much in love 109
-### 9
-* DR NL 104
 ### 10
 * my day 110
 * friend forever 104
@@ -31,15 +27,12 @@
 * someone has to die 101
 * someone has to die 102
 * someone has to die 103
-* DR NL 105
 ### 17
 * friend forever 105
 ### 22
 * ITSAY 101
 * ben x jim 102
 * so much in love 111
-### 23
-* DR NL 106
 ### 24
 * my day 111
 * friend forever 106
@@ -48,8 +41,6 @@
 * ben x jim 103
 ### 29
 * so much in love 112
-### 30
-* DR NL 107
 ### 31
 * my day 112
 * friend forever 107
@@ -62,8 +53,6 @@
 * ITSAY 103
 * ben x jim 104
 * so much in love 113
-### 6
-* DR NL 108
 ### 7
 * pogi lang hanap 106
 * friend forever 108

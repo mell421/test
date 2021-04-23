@@ -175,22 +175,23 @@
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 35 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
 |history3.1|history3 trapped|20|serie|taiwan|5|                 <!-- 37 -->
-|lovely writer|lovely writer|?|serie|thailande|7|               <!-- 38 -->
+|lovely writer|lovely writer|?|serie|thailande|9|               <!-- 38 -->
 |history4.1|history4 close to you|10|serie|taiwan|5|            <!-- 40 -->
 |bad roommate|bad roommate|30|serie|thailande|16|               <!-- 41 -->
-|friend or lover|friend or lover|4|serie|taiwan|1|              <!-- 42 -->
+|friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
-|ydestiny|ydestiny|15|serie|thailande|3|                        <!-- 44 -->
-|my lascivious boss|ong chu dung den day|?|serie|vietnam|2|     <!-- 45 -->
-|the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|2|  <!-- 46 -->
+|ydestiny|ydestiny|15|serie|thailande|4|                        <!-- 44 -->
+|my lascivious boss|ong chu dung den day|?|serie|vietnam|3|     <!-- 45 -->
+|the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|3|  <!-- 46 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 47 -->
-|fish upon the sky|fish upon the sky|?|serie|thailande|1|       <!-- 48 -->
+|fish upon the sky|fish upon the sky|?|serie|thailande|2|       <!-- 48 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->
+|nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|4| <!-- 50 -->
+|wheel of love 1|weekend to remember|8|serie|philippines|1|     <!-- 51 -->
+|close friend|close friend|6|serie|thailande|1|                 <!-- 52 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|2| <!--  -->
-|wheel of love 1|weekend to remember|8|serie|philippines|1|     <!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -215,10 +216,9 @@
 |MARS||||||<!-- -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |AVRIL||||||<!-- -->
-|love mechanics|love mechanics|16|serie|thailande|0|<!-- ??/04 -->
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->
-|close friend|close friend|6|serie|thailande|0|<!-- 22/04 -->
 |MAI||||||<!-- -->
+|love mechanics|love mechanics|16|serie|thailande|0|<!-- ??/05 -->
 |top secret together|top secret together|?|serie|thailande|0|<!-- 07/05 -->
 |nitiman|nitiman|?|serie|thailande|0|<!-- 07/05 -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
