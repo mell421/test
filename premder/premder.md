@@ -45,7 +45,6 @@ Friend or lover 1x2
 The voice 10x11
 The circle br 1x2
 The voice kids nl 10x3
-Rpdr 13x15
 The voice vv 7x11
 Koh-lanta 26x6
 The voice no 6x14
@@ -125,7 +124,6 @@ Koishite akuma 1x3
 Friend zone 1x3
 Rpdru 9x7
 * Together with me 1x1
-* Rpdr 13x1
 * Mako ventures 1x1
 Ghost runner 1x4
 Joséphine ange gardien 23x4
