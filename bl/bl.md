@@ -146,7 +146,7 @@
 |so much in love|so much in love|12|serie|thailande|2|          <!-- 5 -->
 |he's coming to me|he's coming to me|8|serie|thailande|2|       <!-- 6 -->
 |blacklist|blacklist|13|serie(**)|thailande|1|                  <!-- 7 -->
-|unbag|unbag|?|show|thailande|13|                               <!-- 8 -->
+|unbag|unbag|?|show|thailande|18|                               <!-- 8 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1| <!-- 9 -->
 |my day|my day|12|serie|philippines|1|                          <!-- 10 -->
 |friend forever|friend forever|12|serie|thailande|3|            <!-- 11 -->
@@ -176,19 +176,19 @@
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
 |history3.1|history3 trapped|20|serie|taiwan|5|                 <!-- 37 -->
 |lovely writer|lovely writer|?|serie|thailande|9|               <!-- 38 -->
-|history4.1|history4 close to you|10|serie|taiwan|5|            <!-- 40 -->
-|bad roommate|bad roommate|30|serie|thailande|16|               <!-- 41 -->
+|history4.1|history4 close to you|10|serie|taiwan|7|            <!-- 40 -->
+|bad roommate|bad roommate|30|serie|thailande|25|               <!-- 41 -->
 |friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
-|ydestiny|ydestiny|15|serie|thailande|4|                        <!-- 44 -->
-|my lascivious boss|ong chu dung den day|?|serie|vietnam|3|     <!-- 45 -->
+|ydestiny|ydestiny|15|serie|thailande|5|                        <!-- 44 -->
+|my lascivious boss|ong chu dung den day|?|serie|vietnam|4|     <!-- 45 -->
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|3|  <!-- 46 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 47 -->
-|fish upon the sky|fish upon the sky|?|serie|thailande|2|       <!-- 48 -->
+|fish upon the sky|fish upon the sky|?|serie|thailande|3|       <!-- 48 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|4| <!-- 50 -->
-|wheel of love 1|weekend to remember|8|serie|philippines|1|     <!-- 51 -->
-|close friend|close friend|6|serie|thailande|1|                 <!-- 52 -->
+|wheel of love 1|weekend to remember|8|serie|philippines|2|     <!-- 51 -->
+|close friend|close friend|6|serie|thailande|2|                 <!-- 52 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
