@@ -62,7 +62,6 @@ Life senjou no bokura 1x2
 * Life senjou no bokura 1x1
 Given 1x5
 * Fish upon the sky 1x1
-Bad roommate 1x16
 Lls 1x131
 Mr lipstick 1x2
 * Mr lipstick 1x1
@@ -80,7 +79,6 @@ Bt21 vlog 1x3
 * Bt21 vlog 1x1
 * Bt21 original story 1x1
 Schools out lets date now 1x5
-* Bad roommate 1x1
 * History4 close to you 1x1
 * Koh-lanta 26x1
 * Game of talents 1x1

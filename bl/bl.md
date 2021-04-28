@@ -129,6 +129,7 @@
 |meet my angel|meet my angel|8|serie|philippines|               <!-- 94 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|             <!-- 95 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|<!-- 22 -->
+|bad roommate|bad roommate|30|serie|thailande|<!-- 41 -->
 ||||||
 ||||||
 ||||||
@@ -177,7 +178,6 @@
 |history3.1|history3 trapped|20|serie|taiwan|5|                 <!-- 37 -->
 |lovely writer|lovely writer|?|serie|thailande|9|               <!-- 38 -->
 |history4.1|history4 close to you|10|serie|taiwan|7|            <!-- 40 -->
-|bad roommate|bad roommate|30|serie|thailande|25|               <!-- 41 -->
 |friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
 |ydestiny|ydestiny|15|serie|thailande|5|                        <!-- 44 -->

@@ -325,6 +325,7 @@
 |RPDR 13||16|||<!--  -->
 |PE 14||10|||<!--  -->
 |tvk ger 9||10|||<!--  -->
+|bad roommate|bad roommate|30|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -490,7 +491,6 @@
 |game of talents 1||?|||5|<!--  -->
 |KL 26||?|||5|<!--  -->
 |history4.1|history4 close to you|10|||4|<!--  -->
-|bad roommate|bad roommate|30|||16|<!--  -->
 |BT21 original story 1||?|||6|<!--  -->
 |BT21 vlog||?|||3|<!--  -->
 |friend or lover||4|||1|<!--  -->
