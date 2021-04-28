@@ -302,51 +302,51 @@
 - 26/02/21 - 282* unbag _1{128} lovely writer _1{1} top chef _12{3} /9-1-1 lone star _2{22} /9-1-1 _4{18} wabi vlog _1{28} history3 trapped _1{1} 
 - 27/02/21 - 329* the voice vv _7{5} the voice no _6{31} unbag _1{130} lovely writer _1{1} top chef _12{3} 
 - 28/02/21 - 377* the voice _10{5} the voice vv _7{5} the voice no _6{32} unbag _1{132} 
-- 01/03/21 - 279* the voice kids ger _9{2} the voice _10{8} the voice vv _7{7} the voice no _6{35} 
-- 02/03/21 - 268* young sheldon _4{29} /9-1-1 lone star _2{24} /9-1-1 _4{20} schools out lets date now _1{4} the voice kids ger _9{3} the voice _10{9} the voice vv _7{7} 
-- 03/03/21 - 579* lls _1{346} you never eat alone _1{4} the voice us _20{0} young sheldon _4{31} /9-1-1 lone star _2{26} /9-1-1 _4{22} schools out lets date now _1{5} the voice kids ger _9{3} 
+- 01/03/21 - 279* the voice _10{8} the voice vv _7{7} the voice no _6{35} 
+- 02/03/21 - 268* young sheldon _4{29} /9-1-1 lone star _2{24} /9-1-1 _4{20} schools out lets date now _1{4} the voice _10{9} the voice vv _7{7} 
+- 03/03/21 - 579* lls _1{346} you never eat alone _1{4} the voice us _20{0} young sheldon _4{31} /9-1-1 lone star _2{26} /9-1-1 _4{22} schools out lets date now _1{5} 
 - 04/03/21 - 610* top chef _12{5} lovely writer _1{3} lls _1{348} the voice us _20{0} you never eat alone _1{4} young sheldon _4{32} /9-1-1 lone star _2{28} /9-1-1 _4{23} 
 - 05/03/21 - 618* young sheldon _4{33} lls _1{350} top chef _12{5} lovely writer _1{3} the voice us _20{2} you never eat alone _1{4} /9-1-1 lone star _2{29} 
 - 06/03/21 - 587* the voice vv _7{7} the voice no _6{35} wabi vlog _1{40} young sheldon _4{35} lls _1{352} 
 - 07/03/21 - 648* lls _1{354} mako ventures _1{71} the voice _10{9} the voice vv _7{8} the voice no _6{36} wabi vlog _1{42} 
 - 08/03/21 - 687* lls _1{357} mako ventures _1{74} the voice _10{11} the voice vv _7{9} the voice no _6{37} wabi vlog _1{45} 
-- 09/03/21 - 760* /9-1-1 lone star _2{30} /9-1-1 _4{25} the voice kids ger _9{3} lls _1{359} mako ventures _1{76} the voice _10{12} 
-- 10/03/21 - 702* you never eat alone _1{5} the voice us _20{6} lls _1{361} /9-1-1 lone star _2{31} /9-1-1 _4{25} the voice kids ger _9{3} mako ventures _1{78} the voice _10{12} 
+- 09/03/21 - 760* /9-1-1 lone star _2{30} /9-1-1 _4{25} lls _1{359} mako ventures _1{76} the voice _10{12} 
+- 10/03/21 - 702* you never eat alone _1{5} the voice us _20{6} lls _1{361} /9-1-1 lone star _2{31} /9-1-1 _4{25} mako ventures _1{78} the voice _10{12} 
 - 11/03/21 - 552* lls _1{363} game of talents _1{0} the masked singer _5{0} wabi vlog _1{51} top chef _12{6} lovely writer _1{4} the voice us _20{8} 
 - 12/03/21 - 680* lls _1{365} unbag _1{152} game of talents _1{0} the masked singer _5{0} wabi vlog _1{53} top chef _12{7} lovely writer _1{4} the voice us _20{9} 
 - 13/03/21 - 852* young sheldon _4{42} koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} lls _1{367} 
 - 14/03/21 - 953* lls _1{369} the voice _10{12} mako ventures _1{81} young sheldon _4{43} koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} 
 - 15/03/21 - 788* history4 close to you _1{1} lls _1{372} the voice _10{13} mako ventures _1{82} young sheldon _4{44} koh-lanta _26{1} the voice vv _7{10} 
-- 16/03/21 - 788* the voice kids ger _9{4} history4 close to you _1{1} lls _1{374} the voice _10{13} mako ventures _1{83} young sheldon _4{44} koh-lanta _26{1} 
-- 17/03/21 - 779* the voice us _20{11} the voice kids ger _9{6} history4 close to you _1{1} lls _1{376} the voice _10{13} mako ventures _1{84} 
-- 18/03/21 - 533* lls _1{378} game of talents _1{1} the masked singer _5{1} top chef _12{9} lovely writer _1{5} bad roommate _1{0} the voice us _20{13} the voice kids ger _9{6} 
+- 16/03/21 - 788* history4 close to you _1{1} lls _1{374} the voice _10{13} mako ventures _1{83} young sheldon _4{44} koh-lanta _26{1} 
+- 17/03/21 - 779* the voice us _20{11} history4 close to you _1{1} lls _1{376} the voice _10{13} mako ventures _1{84} 
+- 18/03/21 - 533* lls _1{378} game of talents _1{1} the masked singer _5{1} top chef _12{9} lovely writer _1{5} bad roommate _1{0} the voice us _20{13} 
 - 19/03/21 - 474* bt21 vlog _1{0} bt21 original story _1{0} schools out lets date now _1{6} lls _1{380} game of talents _1{1} the masked singer _5{1} top chef _12{9} lovely writer _1{5} bad roommate _1{1} 
 - 20/03/21 - 506* the voice vv _7{10} the voice no _6{38} koh-lanta _26{1} bt21 vlog _1{1} bt21 original story _1{2} schools out lets date now _1{6} lls _1{382} game of talents _1{1} the masked singer _5{1} top chef _12{10} 
 - 21/03/21 - 657* the voice _10{13} lls _1{384} the voice vv _7{11} the voice no _6{39} koh-lanta _26{1} bt21 vlog _1{2} bt21 original story _1{4} 
 - 22/03/21 - 672* history4 close to you _1{2} friend or lover _1{1} the voice _10{15} lls _1{387} the voice vv _7{12} the voice no _6{40} koh-lanta _26{2} 
-- 23/03/21 - 659* the voice us _20{14} the voice kids ger _9{7} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} lls _1{389} the voice vv _7{12} 
-- 24/03/21 - 582* wabi vlog _1{56} the voice us _20{16} the voice kids ger _9{7} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} lls _1{391} 
-- 25/03/21 - 195* game of talents _1{3} the masked singer _5{2} top chef _12{12} wabi vlog _1{57} the voice us _20{18} the voice kids ger _9{7} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} 
-- 26/03/21 - 204* game of talents _1{4} the masked singer _5{3} top chef _12{13} wabi vlog _1{59} the voice us _20{20} the voice kids ger _9{7} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} 
+- 23/03/21 - 659* the voice us _20{14} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} lls _1{389} the voice vv _7{12} 
+- 24/03/21 - 582* wabi vlog _1{56} the voice us _20{16} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} lls _1{391} 
+- 25/03/21 - 195* game of talents _1{3} the masked singer _5{2} top chef _12{12} wabi vlog _1{57} the voice us _20{18} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} 
+- 26/03/21 - 204* game of talents _1{4} the masked singer _5{3} top chef _12{13} wabi vlog _1{59} the voice us _20{20} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} 
 - 27/03/21 - 171* koh-lanta _26{2} the voice no _6{40} the voice vv _7{12} lovely writer _1{6} game of talents _1{6} the masked singer _5{4} top chef _12{14} 
 - 28/03/21 - 260* the voice _10{16} precise shot _1{0} mako ventures _1{85} koh-lanta _26{2} the voice no _6{41} the voice vv _7{13} lovely writer _1{6} 
 - 29/03/21 - 652* lls _1{402} history4 close to you _1{4} history3 trapped _1{3} the voice _10{18} precise shot _1{3} mako ventures _1{88} koh-lanta _26{3} the voice no _6{42} 
-- 30/03/21 - 578* the voice us _20{29} the voice kids ger _9{8} lls _1{404} history4 close to you _1{5} history3 trapped _1{3} the voice _10{19} precise shot _1{5} 
-- 31/03/21 - 640* wabi vlog _1{66} ydestiny _1{0} the voice us _20{31} the voice kids ger _9{8} lls _1{406} history4 close to you _1{5} history3 trapped _1{3} the voice _10{19} 
-- 01/04/21 - 654* game of talents _1{8} the masked singer _5{6} wabi vlog _1{68} ydestiny _1{1} the voice us _20{34} the voice kids ger _9{9} lls _1{409} history4 close to you _1{6} 
+- 30/03/21 - 578* the voice us _20{29} lls _1{404} history4 close to you _1{5} history3 trapped _1{3} the voice _10{19} precise shot _1{5} 
+- 31/03/21 - 640* wabi vlog _1{66} ydestiny _1{0} the voice us _20{31} lls _1{406} history4 close to you _1{5} history3 trapped _1{3} the voice _10{19} 
+- 01/04/21 - 654* game of talents _1{8} the masked singer _5{6} wabi vlog _1{68} ydestiny _1{1} the voice us _20{34} lls _1{409} history4 close to you _1{6} 
 - 02/04/21 - 375* young sheldon _4{45} mental _1{6} top chef _12{16} unbag _1{196} history3 trapped _1{4} lovely writer _1{8} game of talents _1{9} the masked singer _5{6} wabi vlog _1{69} ydestiny _1{1} 
 - 03/04/21 - 396* the voice kids nl _10{0} the voice vv _7{15} koh-lanta _26{4} young sheldon _4{46} mental _1{7} top chef _12{18} unbag _1{198} history3 trapped _1{6} lovely writer _1{9} 
 - 04/04/21 - 414* the voice _10{20} the voice kids nl _10{0} the voice vv _7{16} koh-lanta _26{4} young sheldon _4{46} mental _1{7} top chef _12{18} unbag _1{200} 
 - 05/04/21 - 170* history4 close to you _1{7} the most peaceful place _1{1} my lascivious boss _1{1} the voice _10{23} the voice kids nl _10{1} the voice vv _7{17} koh-lanta _26{5} 
-- 06/04/21 - 620* the voice us _20{41} lls _1{419} bad roommate _1{16} mr lipstick _1{0} bt21 original story _1{22} wabi vlog _1{71} the voice kids ger _9{9} history4 close to you _1{8} the most peaceful place _1{3} my lascivious boss _1{1} the voice _10{25} 
-- 07/04/21 - 714* ydestiny _1{2} the voice us _20{42} lls _1{421} bad roommate _1{18} mr lipstick _1{1} bt21 original story _1{24} wabi vlog _1{72} the voice kids ger _9{9} history4 close to you _1{8} 
+- 06/04/21 - 620* the voice us _20{41} lls _1{419} bad roommate _1{16} mr lipstick _1{0} bt21 original story _1{22} wabi vlog _1{71} history4 close to you _1{8} the most peaceful place _1{3} my lascivious boss _1{1} the voice _10{25} 
+- 07/04/21 - 714* ydestiny _1{2} the voice us _20{42} lls _1{421} bad roommate _1{18} mr lipstick _1{1} bt21 original story _1{24} wabi vlog _1{72} history4 close to you _1{8} 
 - 08/04/21 - 739* top chef _12{19} lovely writer _1{10} bad roommate _1{20} ydestiny _1{2} the voice us _20{43} lls _1{423} mr lipstick _1{2} bt21 original story _1{26} wabi vlog _1{72} 
 - 09/04/21 - 681* game of talents _1{10} the masked singer _5{7} top chef _12{21} lovely writer _1{12} bad roommate _1{22} ydestiny _1{2} the voice us _20{44} lls _1{425} 
 - 10/04/21 - 220* the voice vv _7{17} koh-lanta _26{5} the voice no _6{43} fish upon the sky _1{0} game of talents _1{11} the masked singer _5{7} top chef _12{21} lovely writer _1{12} bad roommate _1{24} 
 - 11/04/21 - 225* the voice _10{25} given _1{14} the voice vv _7{17} koh-lanta _26{5} the voice no _6{44} fish upon the sky _1{0} game of talents _1{11} the masked singer _5{7} top chef _12{21} lovely writer _1{12} 
-- 12/04/21 - 216* history4 close to you _1{9} the voice kids nl _10{2} young sheldon _4{49} my lascivious boss _1{2} the voice kids ger _9{11} the voice _10{27} given _1{17} the voice vv _7{18} koh-lanta _26{6} 
-- 13/04/21 - 253* the voice us _20{45} history3 trapped _1{12} life senjou no bokura _1{0} history4 close to you _1{9} the voice kids nl _10{2} young sheldon _4{49} my lascivious boss _1{2} the voice kids ger _9{12} the voice _10{27} given _1{18} 
-- 14/04/21 - 182* ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} history4 close to you _1{10} the voice kids nl _10{2} young sheldon _4{50} my lascivious boss _1{2} the voice kids ger _9{13} 
+- 12/04/21 - 216* history4 close to you _1{9} the voice kids nl _10{2} young sheldon _4{49} my lascivious boss _1{2} the voice _10{27} given _1{17} the voice vv _7{18} koh-lanta _26{6} 
+- 13/04/21 - 253* the voice us _20{45} history3 trapped _1{12} life senjou no bokura _1{0} history4 close to you _1{9} the voice kids nl _10{2} young sheldon _4{49} my lascivious boss _1{2} the voice _10{27} given _1{18} 
+- 14/04/21 - 182* ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} history4 close to you _1{10} the voice kids nl _10{2} young sheldon _4{50} my lascivious boss _1{2} 
 - 15/04/21 - 154* top chef _12{22} lovely writer _1{13} the circle us _2{0} ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} history4 close to you _1{10} the voice kids nl _10{2} 
 - 16/04/21 - 360* unbag _1{225} nobleman ryus wedding _1{0} the masked singer _5{8} top chef _12{24} lovely writer _1{14} the circle us _2{2} ydestiny _1{3} the voice us _20{47} history3 trapped _1{12} life senjou no bokura _1{3} 
 - 17/04/21 - 457* the voice vv _7{18} koh-lanta _26{6} the voice no _6{49} game of talents _1{12} fish upon the sky _1{1} unbag _1{227} nobleman ryus wedding _1{1} the masked singer _5{10} top chef _12{26} lovely writer _1{15} 

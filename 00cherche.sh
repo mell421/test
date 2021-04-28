@@ -15,7 +15,7 @@ list=( "Lls _1" "Unbag _1"
 "Bt21 original story _1" "/9-1-1 lone star _2" 
 "The voice _10" "Given _1" "/9-1-1 _4" "Top chef _12" "The voice vv _7" 
 "Precise shot _1" "Lovely writer _1" 
-"The voice kids ger _9" "Game of talents _1" "History3 trapped _1" "Mental _1" "Pearl next door _1" "The masked singer _5" "History4 close to you _1" "Bt21 vlog _1" )
+"Game of talents _1" "History3 trapped _1" "Mental _1" "Pearl next door _1" "The masked singer _5" "History4 close to you _1" "Bt21 vlog _1" )
 
 # entre 9 et 4
 listBis=( "" 

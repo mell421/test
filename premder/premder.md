@@ -49,7 +49,6 @@ Young sheldon 4x14
 * Clem 11x1
 * Survivor au 4x1
 History4 close to you 1x6
-The voice kids ger 9x8
 Friend or lover 1x2
 * Wheel of love 1x1
 The voice 10x11
@@ -88,7 +87,6 @@ Schools out lets date now 1x5
 * The masked singer 5x1
 You never eat alone 1x4
 * The voice us 20x1
-* The voice kids ger 9x1
 * Lovely writer 1x1
 * History3 trapped 1x1
 * Given 1x1
