@@ -326,7 +326,7 @@
 |PE 14||10|||<!--  -->
 |tvk ger 9||10|||<!--  -->
 |bad roommate|bad roommate|30|||<!--  -->
-||||||<!--  -->
+|why are you like this||6|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -502,7 +502,7 @@
 |mr lipstick 1||?|||2|<!--  -->
 |fish upon the sky||?|||1|<!--  -->
 |life senjou no bokura 1||4|||2|<!--  -->
-|the circle us 2||13|||2|<!-- 14/04 -->
+|the circle us 2||13|||12|<!-- 14/04 -->
 |nobleman ryu's wedding 1||8|||4|<!-- 15/4 -->
 |wheel of love|weekend to remember|8|||1|<!-- 18/4 -->
 |surv au 4||26|||1|<!--  -->
