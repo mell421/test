@@ -23,12 +23,12 @@
   
 |titre|saison|nb ep vu|
 | --- | --- | :---: | 
-||||
+|wtfock|5|1|
 
 ## asie
 \* bl (side couple) <!-- -->  
 \*\* avec acteurs de bl <!-- -->  
-\*\*\*  <!-- -->  
+\*\*\*  autre asie<!-- -->  
 ## terminé = finish
  
 |titre|titre officiel|nb ep|categorie|pays|
@@ -130,7 +130,7 @@
 |we best love 2|fighting mister 2nd|6|serie|taiwan|             <!-- 95 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|<!-- 22 -->
 |bad roommate|bad roommate|30|serie|thailande|<!-- 41 -->
-||||||
+|my superboss|my superboss|30|serie(***)|thailande|
 ||||||
 ||||||
 ||||||

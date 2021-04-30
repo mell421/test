@@ -22,7 +22,6 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
-My superboss 1x24
 The voice kids nl 10x4
 * Wtfock 5x1
 Koh-lanta 26x7
@@ -37,7 +36,6 @@ Nobleman ryu's wedding 1x4
 The masked singer 5x7
 Top chef 12x11
 The circle us 2x8
-* My superboss 1x1
 Ydestiny 1x4
 The most peaceful place 1x3
 My lascivious boss 1x3
