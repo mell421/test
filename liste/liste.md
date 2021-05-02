@@ -328,6 +328,7 @@
 |bad roommate|bad roommate|30|||<!--  -->
 |why are you like this||6|||<!--  -->
 |my superboss||30|||<!--  -->
+|clem 11||6|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -507,7 +508,6 @@
 |nobleman ryu's wedding 1||8|||4|<!-- 15/4 -->
 |wheel of love|weekend to remember|8|||1|<!-- 18/4 -->
 |surv au 4||26|||1|<!--  -->
-|clem 11||6|||2|<!-- 19/04 -->
 |close friend|close friend|6|||1|<!-- 22/04 -->
 |ICSYV FR 1||?|||1|<!--  -->
 |||||||<!--  -->

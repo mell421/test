@@ -23,7 +23,7 @@
   
 |titre|saison|nb ep vu|
 | --- | --- | :---: | 
-|wtfock|5|1|
+|wtfock|5|2|
 
 ## asie
 \* bl (side couple) <!-- -->  
@@ -184,9 +184,9 @@
 |my lascivious boss|ong chu dung den day|?|serie|vietnam|4|     <!-- 45 -->
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|3|  <!-- 46 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 47 -->
-|fish upon the sky|fish upon the sky|?|serie|thailande|3|       <!-- 48 -->
+|fish upon the sky|fish upon the sky|?|serie|thailande|4|       <!-- 48 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->
-|nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|4| <!-- 50 -->
+|nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|6| <!-- 50 -->
 |wheel of love 1|weekend to remember|8|serie|philippines|2|     <!-- 51 -->
 |close friend|close friend|6|serie|thailande|2|                 <!-- 52 -->
 |||||||<!--  -->

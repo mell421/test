@@ -364,6 +364,7 @@
 * Survivor au _3
 ### sem 03-05-2021 
 * *insererici*
+* Clem _11
 * My superboss _1
 * Why are you like this _1
 * Bad roommate _1
@@ -381,7 +382,6 @@
 
 ## bientot
 * Mr lipstick _1
-* Clem _11
 * The circle us _2
 
 ---
@@ -421,11 +421,11 @@
 #### mois 01-04-2021 
 *insererici Absolute bl _1 The masked singer de _4 Survivor au _2 Nailed it _5 The voice nl _11 Survivor au _1 Our memory _1 The voice uk _10 Skam france _7 You make me dance _1 Rpdruk _2 Girl2k _1 Bt21 universe _3 Sea him _1 Survivor au _7 Dancing on ice uk _13 Happenstance _1 Bt21 universe _2 Evening cafe _1 Name that tune _1*
 #### mois 01-05-2021 
-*insererici My superboss _1 Why are you like this _1 Bad roommate _1 The voice kids ger _9 Pekin express _14 Rpdr _13 Drag race holland _1 Survivor au _3 Nailed it holiday _2 The circle france _1 Roommate _2 The voice be _9 Woodward cheer girls _1 Rpdru _13 We best love _2 Meet my angel _1 Atots _1*
+*My superboss _1 Why are you like this _1 Bad roommate _1 The voice kids ger _9 Pekin express _14 Rpdr _13 Drag race holland _1 Survivor au _3 Nailed it holiday _2 The circle france _1 Roommate _2 The voice be _9 Woodward cheer girls _1 Rpdru _13 We best love _2 Meet my angel _1 Atots _1*
 #### mois 01-06-2021 
-*insererici*
+*insererici Clem _11*
 #### mois 01-07-2021 
-**
+*insererici*
 #### mois 01-08-2021 
 **
 #### mois 01-09-2021 

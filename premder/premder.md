@@ -27,7 +27,6 @@ The voice kids nl 10x4
 Koh-lanta 26x7
 The voice vv 7x12
 The voice no 6x15
-Clem 11x3
 Fish upon the sky 1x3
 * I can see your voice fr 1x1
 Lovely writer 1x9
@@ -44,7 +43,6 @@ The voice us 20x10
 911 lone star 2x9
 911 4x9
 Young sheldon 4x14
-* Clem 11x1
 * Survivor au 4x1
 History4 close to you 1x6
 Friend or lover 1x2
