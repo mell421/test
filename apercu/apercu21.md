@@ -40,11 +40,11 @@ History4 close to you _1x5(1) The most peaceful place _1x3(2) My lascivious boss
 #### sem 12-04-2021 
 History4 close to you _1x6(1) The voice kids nl _10x3(1) Young sheldon _4x14(1) My lascivious boss _1x3(1) The voice _10x11(1) Given _1x6(3) The voice vv _7x11(1) Koh-lanta _26x6(1) The voice no _6x14(1) Fish upon the sky _1x2(1) Game of talents _1x6(1) The masked singer _5x6(1) Top chef _12x10(1) Lovely writer _1x8(1) Ydestiny _1x3(1) The voice us _20x9(1) Lls _1x132(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Wabi vlog _1x13(1) 
 #### sem 19-04-2021 
-History4 close to you _1x7(1) Friend or lover _1x3(1) Weekend to remember _1x2(1) The voice _10x12(1) The circle br _1x3(1) The voice kids nl _10x4(1) Wabi vlog _1x14(1) The voice vv _7x12(1) Koh-lanta _26x7(1) The voice no _6x15(1) Game of talents _1x7(1) Fish upon the sky _1x3(1) Unbag _1x20(1) Nobleman ryus wedding _1x3(2) The masked singer _5x7(1) Top chef _12x11(1) Lovely writer _1x9(1) Ydestiny _1x4(1) The voice us _20x10(1) History3 trapped _1x6(1) Life senjou no bokura _1x3(2) 
+History4 close to you _1x7(1) Friend or lover _1x3(1) Weekend to remember _1x2(1) The voice _10x12(1) The voice kids nl _10x4(1) Wabi vlog _1x14(1) The voice vv _7x12(1) Koh-lanta _26x7(1) The voice no _6x15(1) Game of talents _1x7(1) Fish upon the sky _1x3(1) Unbag _1x20(1) Nobleman ryus wedding _1x3(2) The masked singer _5x7(1) Top chef _12x11(1) Lovely writer _1x9(1) Ydestiny _1x4(1) The voice us _20x10(1) History3 trapped _1x6(1) Life senjou no bokura _1x3(2) 
 #### sem 26-04-2021 
 History4 close to you _1x8(1) Close friend _1x3(2) Weekend to remember _1x3(1) The voice _10x13(1) Young sheldon _4x16(2) The voice kids nl _10x5(1) Wtfock _5x2(1) Koh-lanta _26x8(1) The voice vv _7x13(1) The voice no _6x16(1) Fish upon the sky _1x4(1) I can see your voice fr _1x2(1) Lovely writer _1x10(1) Nobleman ryus wedding _1x5(2) The masked singer _5x8(1) Top chef _12x12(1) Ydestiny _1x5(1) The most peaceful place _1x4(1) My lascivious boss _1x4(1) Wabi vlog _1x15(1) The voice us _20x11(1) /9-1-1 lone star _2x10(1) /9-1-1 _4x10(1) Survivor au _4x2(1) 
 #### sem 03-05-2021 
-The circle br _1x4(1) Lls _1x141(9) History3 trapped _1x8(2) History3 modc _1x3(2) History4 close to you _1x9(1) Weekend to remember _1x4(1) The sweet blood _1x13(12) The voice _10x14(1) Rpdrdu _1x2(1) Wtfock _5x3(1) The voice kids nl _10x6(1) The voice no _6x17(1) The voice vv _7x14(1) Koh-lanta _26x9(1) Fish upon the sky _1x5(1) Unbag _1x21(1) Nobleman ryus wedding _1x7(2) The masked singer _5x9(1) Top chef _12x13(1) Ydestiny _1x6(1) Wabi vlog _1x16(1) The voice us _20x12(1) /9-1-1 lone star _2x11(1) /9-1-1 _4x11(1) My lascivious boss _1x5(1) Survivor au _4x6(4) 
+Lls _1x141(9) History3 trapped _1x8(2) History3 modc _1x3(2) History4 close to you _1x9(1) Weekend to remember _1x4(1) The sweet blood _1x13(12) The voice _10x14(1) Rpdrdu _1x2(1) Wtfock _5x3(1) The voice kids nl _10x6(1) The voice no _6x17(1) The voice vv _7x14(1) Koh-lanta _26x9(1) Fish upon the sky _1x5(1) Unbag _1x21(1) Nobleman ryus wedding _1x7(2) The masked singer _5x9(1) Top chef _12x13(1) Ydestiny _1x6(1) Wabi vlog _1x16(1) The voice us _20x12(1) /9-1-1 lone star _2x11(1) /9-1-1 _4x11(1) My lascivious boss _1x5(1) Survivor au _4x6(4) 
 
 
 
@@ -61,7 +61,7 @@ The voice _10x5(4) The voice vv _7x5(4) The voice no _6x9(4) Unbag _1x17(2) Love
 #### mois 01-04-2021 
 Game of talents _1x5(4) The masked singer _5x5(4) Wabi vlog _1x12(5) Ydestiny _1x2(1) The voice us _20x8(7) Lls _1x130(32) History4 close to you _1x4(3) History3 trapped _1x3(1) The voice _10x9(4) Precise shot _1x5(4) Mako ventures _1x13(3) Koh-lanta _26x4(3) The voice no _6x13(4) The voice vv _7x9(4) Lovely writer _1x6(4) Top chef _12x8(4) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Young sheldon _4x12(3) Unbag _1x18(1) You never eat alone _1x5(2) /9-1-1 lone star _2x9(2) /9-1-1 _4x9(2) 
 #### mois 01-05-2021 
-Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x14(5) Koh-lanta _26x9(5) Fish upon the sky _1x5(4) Unbag _1x21(3) Nobleman ryus wedding _1x7(6) The masked singer _5x9(4) Top chef _12x13(5) Lls _1x139(9) Ydestiny _1x6(4) Wabi vlog _1x16(4) The voice us _20x12(4) /9-1-1 lone star _2x11(2) /9-1-1 _4x11(2) My lascivious boss _1x5(4) History3 modc _1x2(1) Survivor au _4x6(5) History4 close to you _1x8(4) Close friend _1x3(2) Weekend to remember _1x3(2) The voice _10x13(4) Young sheldon _4x16(4) I can see your voice fr _1x2(1) Lovely writer _1x10(4) The most peaceful place _1x4(3) Friend or lover _1x3(1) The circle br _1x3(1) Game of talents _1x7(2) History3 trapped _1x6(3) Life senjou no bokura _1x3(2) Given _1x6(3) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
+Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x14(5) Koh-lanta _26x9(5) Fish upon the sky _1x5(4) Unbag _1x21(3) Nobleman ryus wedding _1x7(6) The masked singer _5x9(4) Top chef _12x13(5) Lls _1x139(9) Ydestiny _1x6(4) Wabi vlog _1x16(4) The voice us _20x12(4) /9-1-1 lone star _2x11(2) /9-1-1 _4x11(2) My lascivious boss _1x5(4) History3 modc _1x2(1) Survivor au _4x6(5) History4 close to you _1x8(4) Close friend _1x3(2) Weekend to remember _1x3(2) The voice _10x13(4) Young sheldon _4x16(4) I can see your voice fr _1x2(1) Lovely writer _1x10(4) The most peaceful place _1x4(3) Friend or lover _1x3(1) Game of talents _1x7(2) History3 trapped _1x6(3) Life senjou no bokura _1x3(2) Given _1x6(3) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
 
 
 
@@ -195,7 +195,7 @@ Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x
 * conclu 01/05/21 = Lls _1 > 11; Unbag _1 > 4; Nobleman ryus wedding _1 > 1; Survivor au _4 > 1; The voice no _6 > 1; We are not human _1 > 1; 
 * conclu 02/05/21 = Lls _1 > 9; The sweet blood _1 > 6; Unbag _1 > 4; The voice no _6 > 1; We are not human _1 > 1; 
 * conclu 03/05/21 = Lls _1 > 9; The sweet blood _1 > 6; Unbag _1 > 4; The voice no _6 > 1; We are not human _1 > 1; 
-* conclu 04/05/21 = Lls _1 > 11; The sweet blood _1 > 5; Unbag _1 > 4; The circle br _1 > 1; The voice no _6 > 1; We are not human _1 > 1; 
+* conclu 04/05/21 = Lls _1 > 11; The sweet blood _1 > 5; Unbag _1 > 4; The voice no _6 > 1; We are not human _1 > 1; 
 
 
 
@@ -330,7 +330,7 @@ Mako ventures _1 > 7; Wabi vlog _1 > 5; Lls _1 > 5; The harvest season _1 > 4; W
 * concluBis 01/05/21 = Lls _1 > 19; Unbag _1 > 8; The voice no _6 > 5; Nobleman ryus wedding _1 > 4; The voice kids nl _10 > 4; Wabi vlog _1 > 3; Survivor au _4 > 3; We are not human _1 > 3; Young sheldon _4 > 1; The voice vv _7 > 1; 
 * concluBis 02/05/21 = Lls _1 > 17; The sweet blood _1 > 10; Unbag _1 > 8; The voice no _6 > 5; Wabi vlog _1 > 3; Nobleman ryus wedding _1 > 3; We are not human _1 > 3; The voice _10 > 2; Survivor au _4 > 2; 
 * concluBis 03/05/21 = Lls _1 > 17; The sweet blood _1 > 10; Unbag _1 > 8; The voice no _6 > 5; Wabi vlog _1 > 3; We are not human _1 > 3; Nobleman ryus wedding _1 > 2; Survivor au _4 > 2; The voice _10 > 1; History4 close to you _1 > 1; History3 trapped _1 > 1; 
-* concluBis 04/05/21 = Lls _1 > 19; The sweet blood _1 > 9; Unbag _1 > 8; The voice no _6 > 5; Survivor au _4 > 4; Young sheldon _4 > 3; The circle br _1 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; Nobleman ryus wedding _1 > 1; 
+* concluBis 04/05/21 = Lls _1 > 19; The sweet blood _1 > 9; Unbag _1 > 8; The voice no _6 > 5; Survivor au _4 > 4; Young sheldon _4 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; Nobleman ryus wedding _1 > 1; 
 
 
 

@@ -49,7 +49,6 @@ History4 close to you 1x6
 Friend or lover 1x2
 * Wheel of love 1x1
 The voice 10x11
-The circle br 1x2
 Game of talents 1x6
 Unbag 1x19
 * Nobleman ryu's wedding 1x1
@@ -211,7 +210,6 @@ Magic for humans 2x2
 * Port charles 1x1
 Ninja warrior junior us 2x7
 All for one 2x3
-* The circle br 1x1
 Les ratz 1x4
 Les zinzins de lespace 1x4
 * Les zinzins de lespace 1x1
