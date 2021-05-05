@@ -329,6 +329,7 @@
 |why are you like this||6|||<!--  -->
 |my superboss||30|||<!--  -->
 |clem 11||6|||<!--  -->
+|the circle us 2||13|||<!-- 14/04 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -504,12 +505,19 @@
 |mr lipstick 1||?|||2|<!--  -->
 |fish upon the sky||?|||1|<!--  -->
 |life senjou no bokura 1||4|||2|<!--  -->
-|the circle us 2||13|||12|<!-- 14/04 -->
 |nobleman ryu's wedding 1||8|||4|<!-- 15/4 -->
 |wheel of love|weekend to remember|8|||1|<!-- 18/4 -->
 |surv au 4||26|||1|<!--  -->
 |close friend|close friend|6|||1|<!-- 22/04 -->
 |ICSYV FR 1||?|||1|<!--  -->
+|wtfock 5||10|||2|<!--  -->
+|history3.2|history3 modc|10|serie|taiwan|1|                    <!-- 53 -->
+|RPDRDU 1||8|||1|<!-- 22/5 -->
+|the sweet blood|the sweet blood|15|serie(***)|corée|12|        <!-- 54 -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -521,10 +529,9 @@
 |love is science 1||?|||0|<!-- 27/3 -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
 |papa and daddy||?|||0|<!-- 23/4 -->
-|wtfock 5||10|||0|<!--  -->
 |skinship 2||?|||0|<!-- 24/4 -->
-|RPDRDU 1||8|||0|<!-- 22/5 -->
 |nitiman||?|||0|<!-- 7/5 -->
+|skam france 8|||||0|<!--  -->
 |top secret together||?|||0|<!-- 14/5 -->
 |love death & robots 2|||||0|<!--  -->
 |special 2||8|||0|<!-- 20/5 -->
@@ -556,7 +563,6 @@
 |F4 thailand|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |my extraordinary 2|||||0|<!--  -->
-|skam france 8|||||0|<!--  -->
 |the player 1|||||0|<!--  -->
 |quaranthings 2|||||0|<!--  -->
 |meet my angel 2|||||0|<!--  -->

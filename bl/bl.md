@@ -24,6 +24,8 @@
 |titre|saison|nb ep vu|
 | --- | --- | :---: | 
 |wtfock|5|2|
+|france|8|0|
+
 
 ## asie
 \* bl (side couple) <!-- -->  
@@ -180,17 +182,17 @@
 |history4.1|history4 close to you|10|serie|taiwan|7|            <!-- 40 -->
 |friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
-|ydestiny|ydestiny|15|serie|thailande|5|                        <!-- 44 -->
-|my lascivious boss|ong chu dung den day|?|serie|vietnam|4|     <!-- 45 -->
+|ydestiny|ydestiny|15|serie|thailande|6|                        <!-- 44 -->
+|my lascivious boss|ong chu dung den day|?|serie|vietnam|5|     <!-- 45 -->
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|3|  <!-- 46 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 47 -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|4|       <!-- 48 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|6| <!-- 50 -->
-|wheel of love 1|weekend to remember|8|serie|philippines|2|     <!-- 51 -->
+|wheel of love 1|weekend to remember|8|serie|philippines|3|     <!-- 51 -->
 |close friend|close friend|6|serie|thailande|2|                 <!-- 52 -->
-|||||||<!--  -->
-|||||||<!--  -->
+|history3.2|history3 modc|10|serie|taiwan|2|                    <!-- 53 -->
+|the sweet blood|the sweet blood|15|serie(***)|corée|12|        <!-- 54 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

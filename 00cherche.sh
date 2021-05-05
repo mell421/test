@@ -9,32 +9,32 @@
 # 29 - 20
 # 19 - 15
 # 14 - 10
-list=( "Lls _1" "Unbag _1" 
-"Mako ventures _1" "Wabi vlog _1" "Young sheldon _4" "The voice no _6" 
-"The voice us _20" 
-"Bt21 original story _1" "/9-1-1 lone star _2" 
-"The voice _10" "Given _1" "/9-1-1 _4" "Top chef _12" "The voice vv _7" 
-"Precise shot _1" "Lovely writer _1" 
-"Game of talents _1" "History3 trapped _1" "Mental _1" "Pearl next door _1" "The masked singer _5" "History4 close to you _1" "Bt21 vlog _1" )
+list=( "Lls _1" "Unbag _1" "Wabi vlog _1" 
+"Mako ventures _1" "The voice no _6" "Young sheldon _4" "The voice us _20" 
+"" 
+"The voice _10" "/9-1-1 lone star _2" "Bt21 original story _1" "Top chef _12" "/9-1-1 _4" 
+"Given _1" "The voice vv _7" "Nobleman ryus wedding _1" "History4 close to you _1" "Lovely writer _1" 
+"History3 trapped _1" "The masked singer _5" "Precise shot _1" 
+"Koh-lanta _26" "Game of talents _1" "Survivor au _4" "Mental _1" "Ydestiny _1" "Bt21 vlog _1" )
 
 # entre 9 et 4
-listBis=( "" 
-"The circle us _2" "Schools out lets date now _1" 
-"Koh-lanta _26" "You never eat alone _1" 
-"" 
-"Life senjou no bokura _1" "Mr lipstick _1" 
-"The voice kids nl _10" "Unlocked _1" )
+listBis=( "The voice kids nl _10" "" 
+"Life senjou no bokura _1" "Schools out lets date now _1" 
+"The circle br _1" "The sweet blood _1" "You never eat alone _1" 
+"My lascivious boss _1" "Mr lipstick _1" 
+"Fish upon the sky _1" "The most peaceful place _1" 
+"Weekend to remember _1" "Friend or lover _1" "Unlocked _1" )
 
 # 3
-list3=( "Nobleman ryus wedding _1" "Ydestiny _1" "The most peaceful place _1" )
+list3=( "Wtfock _5" "Close friend _1" )
 
 # 2-0
-list2=( "Friend or lover _1" "The circle br _1" "My lascivious boss _1" 
-"Fish upon the sky _1" "Weekend to remember _1" )
+list2=( "History3 modc _1" "I can see your voice fr _1" "Rpdrdu _1" )
 
-listAtt=( "Bangkok love stories innocence _1" )
+listAtt=( )
 
-listOld=( "Love in time _1" "Tokyo ghoul _3" "My vampire boyfriend _1" "Tbbt _11" "Slam dance _1" "The untamed _1" "The harvest season _1" "The shipper _1" 
+listOld=( "Pearl next door _1" "Love in time _1" "Tokyo ghoul _3" "My vampire boyfriend _1" "Tbbt _11" "Slam dance _1" 
+"The untamed _1" "The harvest season _1" "The shipper _1" "Bangkok love stories innocence _1" 
 "TharnType _2" "Wabi show _1" "Friend forever _1" "Be love _1" "Koishite akuma _1" "Blood _1" "Pogi lang hanap _1" "Lakan _1" 
 "From dusk till dawn _2" "Rpdru _9" "Ghost runner _1" "Friend zone _1" "Capture lover _1" "Ben x jim _1" )
 

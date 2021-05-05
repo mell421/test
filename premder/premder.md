@@ -18,6 +18,8 @@ Skinship 2x2
 Skinship 2x1
 Papa and daddy 1x2
 Papa and daddy 1x1
+History3 modc 1x2
+History3 modc 1x1
 
 ### tisaep all
 * $
@@ -34,7 +36,6 @@ Lovely writer 1x9
 Nobleman ryu's wedding 1x4
 The masked singer 5x7
 Top chef 12x11
-The circle us 2x8
 Ydestiny 1x4
 The most peaceful place 1x3
 My lascivious boss 1x3
@@ -52,7 +53,6 @@ The circle br 1x2
 Game of talents 1x6
 Unbag 1x19
 * Nobleman ryu's wedding 1x1
-* The circle us 2x1
 History3 trapped 1x5
 Life senjou no bokura 1x2
 * Life senjou no bokura 1x1
