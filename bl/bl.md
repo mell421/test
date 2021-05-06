@@ -130,14 +130,17 @@
 |1000 stars|a tales of 1000 stars|12|serie|thailande|           <!-- 93 -->
 |meet my angel|meet my angel|8|serie|philippines|               <!-- 94 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|             <!-- 95 -->
-|roommate 2|roommate 2 soulmate|2|serie|thailande|<!-- 22 -->
-|bad roommate|bad roommate|30|serie|thailande|<!-- 41 -->
-|my superboss|my superboss|30|serie(***)|thailande|
-||||||
-||||||
-||||||
+|roommate 2|roommate 2 soulmate|2|serie|thailande|              <!-- 96 -->
+|bad roommate|bad roommate|30|serie|thailande|                  <!-- 97 -->
+|my superboss|my superboss|30|serie(***)|thailande|             <!-- 98 -->
+|nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|<!-- 50 -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
 
- 
 ## en cours / a jour = now/up-to-date
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
@@ -188,7 +191,6 @@
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 47 -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|4|       <!-- 48 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->
-|nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|6| <!-- 50 -->
 |wheel of love 1|weekend to remember|8|serie|philippines|3|     <!-- 51 -->
 |close friend|close friend|6|serie|thailande|2|                 <!-- 52 -->
 |history3.2|history3 modc|10|serie|taiwan|2|                    <!-- 53 -->
@@ -221,8 +223,9 @@
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->
 |MAI||||||<!-- -->
 |love mechanics|love mechanics|16|serie|thailande|0|<!-- ??/05 -->
-|top secret together|top secret together|?|serie|thailande|0|<!-- 07/05 -->
+|top secret together|top secret together|?|serie|thailande|0|<!-- 14/05 -->
 |nitiman|nitiman|?|serie|thailande|0|<!-- 07/05 -->
+|an eye for an eye|an eye for an eye|?|serie(**)|thailande|0|<!-- 17/05 -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
 |JUIN||||||<!-- -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->

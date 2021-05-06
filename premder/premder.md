@@ -7,57 +7,60 @@
 * $
 $
 Bangkok love stories innocence 1x2
-Wheel of love 1x2
 I can see your voice fr 1x2
-Close friend 1x2
-Wtfock 5x2
---
+Rpdrdu 1x2
+* --
 Ciwyw 1x1
 Ciwyw 1x3
 Skinship 2x2
 Skinship 2x1
 Papa and daddy 1x2
 Papa and daddy 1x1
-History3 modc 1x2
-History3 modc 1x1
 
 ### tisaep all
 * $
 $
-The voice kids nl 10x4
+Ydestiny 1x6
+The voice us 20x12
+911 lone star 2x11
+911 4x11
+The voice no 6x17
+Lls 1x141
+Young sheldon 4x16
+Survivor au 4x9
+My lascivious boss 1x5
+History3 trapped 1x7
+History3 modc 1x2
+History4 close to you 1x8
+Weekend to remember 1x3
+The sweet blood 1x12
+* The sweet blood 1x1
+The voice 10x13
+* Rpdrdu 1x1
+Wtfock 5x2
+The voice kids nl 10x5
+The voice vv 7x13
+Koh-lanta 26x8
+Fish upon the sky 1x4
+Unbag 1x20
+The masked singer 5x8
+Top chef 12x12
+Wabi vlog 1x15
+* History3 modc 1x1
+Close friend 1x2
 * Wtfock 5x1
-Koh-lanta 26x7
-The voice vv 7x12
-The voice no 6x15
-Fish upon the sky 1x3
 * I can see your voice fr 1x1
 Lovely writer 1x9
 * Close friend 1x1
-Nobleman ryu's wedding 1x4
-The masked singer 5x7
-Top chef 12x11
-Ydestiny 1x4
 The most peaceful place 1x3
-My lascivious boss 1x3
-Wabi vlog 1x14
-The voice us 20x10
-911 lone star 2x9
-911 4x9
-Young sheldon 4x14
 * Survivor au 4x1
-History4 close to you 1x6
 Friend or lover 1x2
-* Wheel of love 1x1
-The voice 10x11
+* Weekend to remember 1x1
 Game of talents 1x6
-Unbag 1x19
-* Nobleman ryu's wedding 1x1
-History3 trapped 1x5
 Life senjou no bokura 1x2
 * Life senjou no bokura 1x1
 Given 1x5
 * Fish upon the sky 1x1
-Lls 1x131
 Mr lipstick 1x2
 * Mr lipstick 1x1
 Bt21 original story 1x7
