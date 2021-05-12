@@ -20,7 +20,7 @@ list=( "Lls _1" "Unbag _1" "Wabi vlog _1"
 # entre 9 et 4
 listBis=( "The voice kids nl _10" "" 
 "Life senjou no bokura _1" "Schools out lets date now _1" 
-"The sweet blood _1" "You never eat alone _1" 
+"You never eat alone _1" 
 "My lascivious boss _1" "Mr lipstick _1" 
 "Fish upon the sky _1" "The most peaceful place _1" 
 "Weekend to remember _1" "Friend or lover _1" "Unlocked _1" )

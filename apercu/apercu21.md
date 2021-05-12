@@ -193,9 +193,9 @@ Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x
 * conclu 29/04/21 = Lls _1 > 9; Unbag _1 > 1; Wabi vlog _1 > 1; 
 * conclu 30/04/21 = Lls _1 > 9; Unbag _1 > 2; 
 * conclu 01/05/21 = Lls _1 > 11; Unbag _1 > 4; Survivor au _4 > 1; The voice no _6 > 1; We are not human _1 > 1; 
-* conclu 02/05/21 = Lls _1 > 9; The sweet blood _1 > 6; Unbag _1 > 4; The voice no _6 > 1; We are not human _1 > 1; 
-* conclu 03/05/21 = Lls _1 > 9; The sweet blood _1 > 6; Unbag _1 > 4; The voice no _6 > 1; We are not human _1 > 1; 
-* conclu 04/05/21 = Lls _1 > 11; The sweet blood _1 > 5; Unbag _1 > 4; The voice no _6 > 1; We are not human _1 > 1; 
+* conclu 02/05/21 = Lls _1 > 9; Unbag _1 > 4; The voice no _6 > 1; We are not human _1 > 1; 
+* conclu 03/05/21 = Lls _1 > 9; Unbag _1 > 4; The voice no _6 > 1; We are not human _1 > 1; 
+* conclu 04/05/21 = Lls _1 > 11; Unbag _1 > 4; The voice no _6 > 1; We are not human _1 > 1; 
 
 
 
@@ -328,9 +328,9 @@ Mako ventures _1 > 7; Wabi vlog _1 > 5; Lls _1 > 5; The harvest season _1 > 4; W
 * concluBis 29/04/21 = Lls _1 > 17; Wabi vlog _1 > 3; Unbag _1 > 3; Young sheldon _4 > 2; The voice no _6 > 2; Top chef _12 > 2; Survivor au _4 > 2; We are not human _1 > 2; Ydestiny _1 > 1; 
 * concluBis 30/04/21 = Lls _1 > 17; Unbag _1 > 6; Wabi vlog _1 > 2; Survivor au _4 > 2; We are not human _1 > 2; Young sheldon _4 > 1; The masked singer _5 > 1; The voice no _6 > 1; 
 * concluBis 01/05/21 = Lls _1 > 19; Unbag _1 > 8; The voice no _6 > 5; The voice kids nl _10 > 4; Wabi vlog _1 > 3; Survivor au _4 > 3; We are not human _1 > 3; Young sheldon _4 > 1; The voice vv _7 > 1; 
-* concluBis 02/05/21 = Lls _1 > 17; The sweet blood _1 > 10; Unbag _1 > 8; The voice no _6 > 5; Wabi vlog _1 > 3; We are not human _1 > 3; The voice _10 > 2; Survivor au _4 > 2; 
-* concluBis 03/05/21 = Lls _1 > 17; The sweet blood _1 > 10; Unbag _1 > 8; The voice no _6 > 5; Wabi vlog _1 > 3; We are not human _1 > 3; Survivor au _4 > 2; The voice _10 > 1; History4 close to you _1 > 1; History3 trapped _1 > 1; 
-* concluBis 04/05/21 = Lls _1 > 19; The sweet blood _1 > 9; Unbag _1 > 8; The voice no _6 > 5; Survivor au _4 > 4; Young sheldon _4 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; 
+* concluBis 02/05/21 = Lls _1 > 17; Unbag _1 > 8; The voice no _6 > 5; Wabi vlog _1 > 3; We are not human _1 > 3; The voice _10 > 2; Survivor au _4 > 2; 
+* concluBis 03/05/21 = Lls _1 > 17; Unbag _1 > 8; The voice no _6 > 5; Wabi vlog _1 > 3; We are not human _1 > 3; Survivor au _4 > 2; The voice _10 > 1; History4 close to you _1 > 1; History3 trapped _1 > 1; 
+* concluBis 04/05/21 = Lls _1 > 19; Unbag _1 > 8; The voice no _6 > 5; Survivor au _4 > 4; Young sheldon _4 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; 
 
 
 

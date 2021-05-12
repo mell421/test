@@ -33,8 +33,6 @@ History3 trapped 1x7
 History3 modc 1x2
 History4 close to you 1x8
 Weekend to remember 1x3
-The sweet blood 1x12
-* The sweet blood 1x1
 The voice 10x13
 * Rpdrdu 1x1
 Wtfock 5x2

@@ -134,6 +134,7 @@
 |bad roommate|bad roommate|30|serie|thailande|                  <!-- 97 -->
 |my superboss|my superboss|30|serie(***)|thailande|             <!-- 98 -->
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|<!-- 50 -->
+|the sweet blood|the sweet blood|15|serie(***)|corée|           <!-- 54 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -181,7 +182,7 @@
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 35 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
 |history3.1|history3 trapped|20|serie|taiwan|5|                 <!-- 37 -->
-|lovely writer|lovely writer|?|serie|thailande|9|               <!-- 38 -->
+|lovely writer|lovely writer|?|serie|thailande|10|              <!-- 38 -->
 |history4.1|history4 close to you|10|serie|taiwan|7|            <!-- 40 -->
 |friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
@@ -192,9 +193,8 @@
 |fish upon the sky|fish upon the sky|?|serie|thailande|4|       <!-- 48 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->
 |wheel of love 1|weekend to remember|8|serie|philippines|3|     <!-- 51 -->
-|close friend|close friend|6|serie|thailande|2|                 <!-- 52 -->
+|close friend|close friend|6|serie|thailande|3|                 <!-- 52 -->
 |history3.2|history3 modc|10|serie|taiwan|2|                    <!-- 53 -->
-|the sweet blood|the sweet blood|15|serie(***)|corée|12|        <!-- 54 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -227,6 +227,7 @@
 |nitiman|nitiman|?|serie|thailande|0|<!-- 07/05 -->
 |an eye for an eye|an eye for an eye|?|serie(**)|thailande|0|<!-- 17/05 -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
+|skinship 2|skinship 2|?|serie|thailande|0|<!-- 22/5 -->
 |JUIN||||||<!-- -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->
 |JUILLET||||||<!--  -->
@@ -235,6 +236,9 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|cutie pie|cutie pie|?|serie|thailande|0|<!--  -->
 |7 projects|7 projects|?|serie|thailande|0|<!--  -->
 
  ## a venir
@@ -249,6 +253,7 @@
 |quaranthings 2||?|serie|philippines|0|<!-- -->
 |meet my angel 2||?|serie|philippines|0|<!-- -->
 |my extraordinary 2|a kiss 2 remember|12|serie|philippines|0|<!-- -->
+|color rush 2|color rush 2|?|serie|corée|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |COREE||||||<!-- -->
