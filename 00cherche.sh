@@ -10,7 +10,7 @@
 # 19 - 15
 # 14 - 10
 list=( "Lls _1" "Unbag _1" "Wabi vlog _1" 
-"Mako ventures _1" "The voice no _6" "Young sheldon _4" "The voice us _20" 
+"The voice no _6" "Young sheldon _4" "The voice us _20" 
 "" 
 "The voice _10" "/9-1-1 lone star _2" "Bt21 original story _1" "Top chef _12" "/9-1-1 _4" 
 "Given _1" "The voice vv _7" "History4 close to you _1" 
