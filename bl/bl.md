@@ -135,6 +135,7 @@
 |my superboss|my superboss|30|serie(***)|thailande|             <!-- 98 -->
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|<!-- 50 -->
 |the sweet blood|the sweet blood|15|serie(***)|corée|           <!-- 54 -->
+|lovely writer|lovely writer|12|serie|thailande|              <!-- 38 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -182,7 +183,6 @@
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 35 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
 |history3.1|history3 trapped|20|serie|taiwan|5|                 <!-- 37 -->
-|lovely writer|lovely writer|?|serie|thailande|10|              <!-- 38 -->
 |history4.1|history4 close to you|10|serie|taiwan|7|            <!-- 40 -->
 |friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->

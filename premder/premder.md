@@ -48,7 +48,6 @@ Wabi vlog 1x15
 Close friend 1x2
 * Wtfock 5x1
 * I can see your voice fr 1x1
-Lovely writer 1x9
 * Close friend 1x1
 The most peaceful place 1x3
 * Survivor au 4x1
@@ -81,7 +80,6 @@ Schools out lets date now 1x5
 * The masked singer 5x1
 You never eat alone 1x4
 * The voice us 20x1
-* Lovely writer 1x1
 * History3 trapped 1x1
 * Given 1x1
 Unlocked 1x2

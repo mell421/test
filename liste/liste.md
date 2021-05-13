@@ -333,6 +333,7 @@
 |the circle br 1||12|||<!--  -->
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée| <!-- 50 -->
 |the sweet blood|the sweet blood|15|serie(***)|corée|           <!-- 54 -->
+|lovely writer|lovely writer|12|serie|thailande|              <!-- 38 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -490,7 +491,6 @@
 |bangkok love stories innocence 1||?|||1|<!--  -->
 |given 1||?|||5|<!--  -->
 |history3.1|history3 trapped|20|||4|<!--  -->
-|lovely writer 1||?|||7|<!--  -->
 |TV US 20||?|||9|<!--  -->
 |TMS 5||13|||5|<!--  -->
 |game of talents 1||?|||5|<!--  -->
