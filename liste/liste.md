@@ -336,6 +336,7 @@
 |the sweet blood|the sweet blood|15|serie(***)|corée|           <!-- 54 -->
 |lovely writer|lovely writer|12|serie|thailande|              <!-- 38 -->
 |love death & robots 2||8|||<!--  -->
+|young sheldon 4||18|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -459,7 +460,6 @@
 |the stranded 1|||||1|<!--  -->
 |the good doctor 4|||||1|<!--  -->
 |blood 1|||||16|<!--  -->
-|young sheldon 4|||||13|<!--  -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 22 -->
 |my vampire boyfriend 1||12|||6|<!--  -->
 |be love|be love|4|serie|japon|3|<!-- 25 -->

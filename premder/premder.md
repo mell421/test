@@ -7,8 +7,7 @@
 * $
 $
 Bangkok love stories innocence 1x2
-I can see your voice fr 1x2
-Rpdrdu 1x2
+Nitiman 1x2
 * --
 Ciwyw 1x1
 Ciwyw 1x3
@@ -20,32 +19,38 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
-Ydestiny 1x6
-The voice us 20x12
-911 lone star 2x11
-911 4x11
-The voice no 6x17
-Lls 1x141
-Young sheldon 4x16
-Survivor au 4x9
-My lascivious boss 1x5
-History3 trapped 1x7
+Game of talents 1x8
+Fish upon the sky 1x6
+Skam france 8x2
+Unbag 1x21
+Close friend 1x2
+I can see your voice fr 1x2
+The masked singer 5x10
+Top chef 12x14
+The voice us 20x14
+Lls 1x152
+Ydestiny 1x7
+911 lone star 2x12
+911 4x12
+Weekend to remember 1x4
+My lascivious boss 1x6
+The voice no 6x18
+History3 trapped 1x14
+History4 close to you 1x9
+The voice 10x14
+Survivor au 4x10
+Given 1x6
+Rpdrdu 1x2
+Wtfock 5x3
+The voice vv 7x14
+The voice kids nl 10x6
+Koh-lanta 26x9
+* Nitiman 1x1
+* Skam france 8x1
 History3 modc 1x2
-History4 close to you 1x8
-Weekend to remember 1x3
-The voice 10x13
 * Rpdrdu 1x1
-Wtfock 5x2
-The voice kids nl 10x5
-The voice vv 7x13
-Koh-lanta 26x8
-Fish upon the sky 1x4
-Unbag 1x20
-The masked singer 5x8
-Top chef 12x12
 Wabi vlog 1x15
 * History3 modc 1x1
-Close friend 1x2
 * Wtfock 5x1
 * I can see your voice fr 1x1
 * Close friend 1x1
@@ -53,10 +58,8 @@ The most peaceful place 1x3
 * Survivor au 4x1
 Friend or lover 1x2
 * Weekend to remember 1x1
-Game of talents 1x6
 Life senjou no bokura 1x2
 * Life senjou no bokura 1x1
-Given 1x5
 * Fish upon the sky 1x1
 Mr lipstick 1x2
 * Mr lipstick 1x1
@@ -130,7 +133,6 @@ Lakan 1x4
 Pogi lang hanap 1x4
 * My vampire boyfriend 1x1
 * TharnType 2x1
-* Young sheldon 4x1
 Blood 1x16
 * The good doctor 4x1
 Swap test 1x2

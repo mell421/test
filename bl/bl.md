@@ -237,9 +237,12 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|||||||<!--  -->
 |cutie pie|cutie pie|?|serie|thailande|0|<!--  -->
 |7 projects|7 projects|?|serie|thailande|0|<!--  -->
+|7p would you be my love|7p would you be my love|?|serie|thailande|0|<!--  -->
+|7p once upon a time|7p once upon a time|?|serie|thailande|0|<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 
  ## a venir
  <!-- tri par pays puis par studio -->

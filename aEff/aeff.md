@@ -34,32 +34,32 @@
 - 13/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 - 14/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 - 15/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 16/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-- 17/12/20 - lls _1{189} unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} 
-- 18/12/20 - lls _1{191} unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-- 19/12/20 - lls _1{193} unbag _1{23} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-- 20/12/20 - lls _1{195} unbag _1{24} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-- 21/12/20 - lls _1{198} unbag _1{26} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-- 22/12/20 - lls _1{200} unbag _1{28} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-- 23/12/20 - lls _1{202} unbag _1{30} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-- 24/12/20 - lls _1{204} unbag _1{32} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-- 25/12/20 - lls _1{206} unbag _1{33} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} lakan _1{5} 
-- 26/12/20 - lls _1{208} unbag _1{35} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-- 27/12/20 - lls _1{210} unbag _1{37} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-- 28/12/20 - lls _1{213} unbag _1{39} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{8} from dusk till dawn _2{7} 
-- 29/12/20 - lls _1{215} unbag _1{41} pogi lang hanap _1{10} from dusk till dawn _2{9} my vampire boyfriend _1{9} young sheldon _4{8} 
-- 30/12/20 - lls _1{217} unbag _1{41} from dusk till dawn _2{11} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{8} be love _1{7} 
-- 31/12/20 - lls _1{219} unbag _1{41} from dusk till dawn _2{13} pogi lang hanap _1{10} young sheldon _4{8} be love _1{7} lakan _1{6} 
-- 01/01/21 - lls _1{222} unbag _1{42} from dusk till dawn _2{15} pogi lang hanap _1{10} young sheldon _4{9} lakan _1{7} 
-- 02/01/21 - lls _1{224} unbag _1{44} from dusk till dawn _2{15} young sheldon _4{9} ghost runner _1{7} lakan _1{7} joséphine ange gardien _23{6} 
-- 03/01/21 - lls _1{226} unbag _1{46} from dusk till dawn _2{15} young sheldon _4{9} ghost runner _1{7} lakan _1{7} joséphine ange gardien _23{6} 
-- 04/01/21 - lls _1{228} unbag _1{49} from dusk till dawn _2{15} ghost runner _1{9} young sheldon _4{9} 
-- 05/01/21 - lls _1{230} unbag _1{51} from dusk till dawn _2{15} ghost runner _1{10} young sheldon _4{9} rpdru _9{8} 
+- 16/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 17/12/20 - lls _1{189} unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 18/12/20 - lls _1{191} unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 19/12/20 - lls _1{193} unbag _1{23} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 20/12/20 - lls _1{195} unbag _1{24} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 21/12/20 - lls _1{198} unbag _1{26} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 22/12/20 - lls _1{200} unbag _1{28} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 23/12/20 - lls _1{202} unbag _1{30} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 24/12/20 - lls _1{204} unbag _1{32} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 25/12/20 - lls _1{206} unbag _1{33} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} lakan _1{5} 
+- 26/12/20 - lls _1{208} unbag _1{35} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 27/12/20 - lls _1{210} unbag _1{37} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 28/12/20 - lls _1{213} unbag _1{39} pogi lang hanap _1{10} my vampire boyfriend _1{9} from dusk till dawn _2{7} 
+- 29/12/20 - lls _1{215} unbag _1{41} pogi lang hanap _1{10} from dusk till dawn _2{9} my vampire boyfriend _1{9} 
+- 30/12/20 - lls _1{217} unbag _1{41} from dusk till dawn _2{11} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 31/12/20 - lls _1{219} unbag _1{41} from dusk till dawn _2{13} pogi lang hanap _1{10} be love _1{7} lakan _1{6} 
+- 01/01/21 - lls _1{222} unbag _1{42} from dusk till dawn _2{15} pogi lang hanap _1{10} lakan _1{7} 
+- 02/01/21 - lls _1{224} unbag _1{44} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} joséphine ange gardien _23{6} 
+- 03/01/21 - lls _1{226} unbag _1{46} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} joséphine ange gardien _23{6} 
+- 04/01/21 - lls _1{228} unbag _1{49} from dusk till dawn _2{15} ghost runner _1{9} 
+- 05/01/21 - lls _1{230} unbag _1{51} from dusk till dawn _2{15} ghost runner _1{10} rpdru _9{8} 
 - 06/01/21 - lls _1{232} unbag _1{53} ghost runner _1{11} rpdru _9{10} 
 - 07/01/21 - lls _1{234} unbag _1{55} rpdru _9{12} ghost runner _1{11} 
 - 08/01/21 - lls _1{236} unbag _1{57} from dusk till dawn _2{15} rpdru _9{14} ghost runner _1{11} 
 - 09/01/21 - lls _1{238} unbag _1{57} rpdru _9{16} from dusk till dawn _2{15} ghost runner _1{11} 
-- 10/01/21 - lls _1{240} unbag _1{57} rpdru _9{18} ghost runner _1{11} young sheldon _4{9} 
+- 10/01/21 - lls _1{240} unbag _1{57} rpdru _9{18} ghost runner _1{11} 
 - 11/01/21 - lls _1{242} unbag _1{58} rpdru _9{20} ghost runner _1{11} 
 - 12/01/21 - lls _1{244} unbag _1{58} rpdru _9{20} from dusk till dawn _2{15} ghost runner _1{11} 
 - 13/01/21 - lls _1{246} unbag _1{59} rpdru _9{22} from dusk till dawn _2{15} 
@@ -74,106 +74,106 @@
 - 22/01/21 - lls _1{264} unbag _1{76} rpdru _9{22} from dusk till dawn _2{15} 
 - 23/01/21 - lls _1{266} unbag _1{77} rpdru _9{22} koishite akuma _1{11} tharntype _2{11} 
 - 24/01/21 - lls _1{268} unbag _1{78} rpdru _9{22} from dusk till dawn _2{15} koishite akuma _1{13} 
-- 25/01/21 - lls _1{270} unbag _1{79} rpdru _9{22} koishite akuma _1{15} young sheldon _4{14} 
-- 26/01/21 - lls _1{272} unbag _1{80} rpdru _9{22} young sheldon _4{15} koishite akuma _1{15} 
-- 27/01/21 - lls _1{274} unbag _1{81} rpdru _9{22} young sheldon _4{16} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 28/01/21 - lls _1{276} unbag _1{82} rpdru _9{22} young sheldon _4{17} koishite akuma _1{15} 
-- 29/01/21 - lls _1{278} unbag _1{83} rpdru _9{22} young sheldon _4{18} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 30/01/21 - lls _1{280} unbag _1{85} rpdru _9{22} young sheldon _4{18} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 31/01/21 - lls _1{282} unbag _1{87} rpdru _9{22} young sheldon _4{18} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 01/02/21 - lls _1{286} unbag _1{91} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} 
-- 02/02/21 - lls _1{288} unbag _1{93} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} 
-- 03/02/21 - lls _1{290} unbag _1{95} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} 
-- 04/02/21 - lls _1{292} unbag _1{97} rpdru _9{23} young sheldon _4{19} 
-- 05/02/21 - lls _1{294} unbag _1{99} rpdru _9{23} young sheldon _4{19} 
-- 06/02/21 - lls _1{296} unbag _1{100} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} 
-- 07/02/21 - lls _1{298} unbag _1{101} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} 
-- 08/02/21 - lls _1{300} unbag _1{102} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} the voice no _6{15} 
-- 09/02/21 - lls _1{302} unbag _1{103} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} the voice no _6{15} 
-- 10/02/21 - lls _1{304} unbag _1{104} young sheldon _4{19} the voice no _6{16} koishite akuma _1{16} 
-- 11/02/21 - lls _1{306} unbag _1{105} young sheldon _4{19} the voice no _6{17} koishite akuma _1{16} 
-- 12/02/21 - lls _1{308} unbag _1{106} young sheldon _4{19} the voice no _6{17} 
-- 13/02/21 - lls _1{310} unbag _1{108} young sheldon _4{19} the voice no _6{17} 
-- 14/02/21 - lls _1{312} unbag _1{110} the voice no _6{19} young sheldon _4{19} koishite akuma _1{16} 
-- 15/02/21 - lls _1{314} unbag _1{113} the voice no _6{22} young sheldon _4{20} 
-- 16/02/21 - lls _1{316} unbag _1{115} the voice no _6{24} young sheldon _4{21} 
-- 17/02/21 - lls _1{318} unbag _1{117} the voice no _6{26} young sheldon _4{22} 
-- 18/02/21 - lls _1{320} unbag _1{119} the voice no _6{26} young sheldon _4{22} wabi vlog _1{18} 
-- 19/02/21 - lls _1{322} unbag _1{121} the voice no _6{26} young sheldon _4{22} wabi vlog _1{18} 
-- 20/02/21 - lls _1{324} unbag _1{122} the voice no _6{26} young sheldon _4{22} wabi vlog _1{20} 
-- 21/02/21 - lls _1{326} unbag _1{123} the voice no _6{28} young sheldon _4{22} wabi vlog _1{20} 
-- 22/02/21 - lls _1{328} unbag _1{124} the voice no _6{30} young sheldon _4{24} wabi vlog _1{21} my vampire boyfriend _1{19} 
-- 23/02/21 - lls _1{330} unbag _1{125} the voice no _6{31} young sheldon _4{25} wabi vlog _1{22} my vampire boyfriend _1{21} 
-- 24/02/21 - lls _1{332} unbag _1{126} the voice no _6{31} young sheldon _4{26} wabi vlog _1{24} my vampire boyfriend _1{22} /9-1-1 lone star _2{19} 
-- 25/02/21 - lls _1{334} unbag _1{127} the voice no _6{31} young sheldon _4{27} wabi vlog _1{26} my vampire boyfriend _1{24} /9-1-1 lone star _2{21} 
-- 26/02/21 - lls _1{336} unbag _1{128} the voice no _6{31} wabi vlog _1{28} young sheldon _4{28} my vampire boyfriend _1{24} /9-1-1 lone star _2{22} 
-- 27/02/21 - lls _1{338} unbag _1{130} the voice no _6{31} wabi vlog _1{30} young sheldon _4{28} my vampire boyfriend _1{24} 
-- 28/02/21 - lls _1{340} unbag _1{132} the voice no _6{32} wabi vlog _1{32} young sheldon _4{28} my vampire boyfriend _1{24} 
-- 01/03/21 - lls _1{342} unbag _1{136} wabi vlog _1{36} the voice no _6{35} young sheldon _4{29} my vampire boyfriend _1{25} /9-1-1 lone star _2{24} 
-- 02/03/21 - lls _1{344} unbag _1{138} wabi vlog _1{38} the voice no _6{35} young sheldon _4{29} my vampire boyfriend _1{25} /9-1-1 lone star _2{24} 
-- 03/03/21 - lls _1{346} unbag _1{140} wabi vlog _1{40} the voice no _6{35} young sheldon _4{31} /9-1-1 lone star _2{26} my vampire boyfriend _1{25} 
-- 04/03/21 - lls _1{348} unbag _1{142} wabi vlog _1{40} the voice no _6{35} young sheldon _4{32} /9-1-1 lone star _2{28} my vampire boyfriend _1{25} 
-- 05/03/21 - lls _1{350} unbag _1{144} wabi vlog _1{40} the voice no _6{35} young sheldon _4{33} /9-1-1 lone star _2{29} 
-- 06/03/21 - lls _1{352} unbag _1{146} wabi vlog _1{40} the voice no _6{35} young sheldon _4{35} /9-1-1 lone star _2{29} 
-- 07/03/21 - lls _1{354} unbag _1{147} wabi vlog _1{42} young sheldon _4{37} the voice no _6{36} /9-1-1 lone star _2{29} 
-- 08/03/21 - lls _1{357} unbag _1{148} wabi vlog _1{45} young sheldon _4{39} the voice no _6{37} /9-1-1 lone star _2{30} 
-- 09/03/21 - lls _1{359} unbag _1{149} wabi vlog _1{47} young sheldon _4{41} the voice no _6{37} /9-1-1 lone star _2{30} 
-- 10/03/21 - lls _1{361} unbag _1{150} wabi vlog _1{49} young sheldon _4{42} the voice no _6{37} /9-1-1 lone star _2{31} 
-- 11/03/21 - lls _1{363} unbag _1{151} wabi vlog _1{51} young sheldon _4{42} the voice no _6{37} /9-1-1 lone star _2{31} 
-- 12/03/21 - lls _1{365} unbag _1{152} wabi vlog _1{53} young sheldon _4{42} the voice no _6{37} /9-1-1 lone star _2{31} /9-1-1 _4{25} 
-- 13/03/21 - lls _1{367} unbag _1{154} wabi vlog _1{55} young sheldon _4{42} the voice no _6{37} /9-1-1 lone star _2{31} 
-- 14/03/21 - lls _1{369} unbag _1{156} wabi vlog _1{55} young sheldon _4{43} the voice no _6{37} /9-1-1 lone star _2{31} 
-- 15/03/21 - lls _1{372} unbag _1{159} wabi vlog _1{56} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} 
-- 16/03/21 - lls _1{374} unbag _1{161} wabi vlog _1{56} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} 
-- 17/03/21 - lls _1{376} unbag _1{163} wabi vlog _1{56} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} 
-- 18/03/21 - lls _1{378} unbag _1{165} wabi vlog _1{56} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} 
-- 19/03/21 - lls _1{380} unbag _1{166} wabi vlog _1{56} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} /9-1-1 _4{26} 
-- 20/03/21 - lls _1{382} unbag _1{168} wabi vlog _1{56} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{26} the harvest season _1{16} 
-- 21/03/21 - lls _1{384} unbag _1{171} wabi vlog _1{56} young sheldon _4{44} the voice no _6{39} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the harvest season _1{16} love in time _1{15} 
-- 22/03/21 - lls _1{387} unbag _1{173} wabi vlog _1{56} young sheldon _4{44} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the harvest season _1{16} the voice _10{15} 
-- 23/03/21 - lls _1{389} unbag _1{175} wabi vlog _1{56} young sheldon _4{44} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice _10{16} the harvest season _1{16} 
-- 24/03/21 - lls _1{391} unbag _1{177} wabi vlog _1{56} young sheldon _4{44} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{16} the voice _10{16} 
-- 25/03/21 - lls _1{393} unbag _1{179} wabi vlog _1{57} young sheldon _4{44} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{18} the voice _10{16} 
-- 26/03/21 - lls _1{395} unbag _1{181} wabi vlog _1{59} young sheldon _4{44} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{20} the voice _10{16} 
-- 27/03/21 - lls _1{397} unbag _1{183} wabi vlog _1{61} young sheldon _4{44} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{22} bt21 original story _1{17} the voice _10{16} 
-- 28/03/21 - lls _1{399} unbag _1{185} wabi vlog _1{62} young sheldon _4{44} the voice no _6{41} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{24} bt21 original story _1{19} 
-- 29/03/21 - lls _1{402} unbag _1{187} wabi vlog _1{65} young sheldon _4{44} the voice no _6{42} /9-1-1 lone star _2{32} the voice us _20{27} /9-1-1 _4{26} my vampire boyfriend _1{25} bt21 original story _1{21} the voice _10{18} 
-- 30/03/21 - lls _1{404} unbag _1{189} wabi vlog _1{66} young sheldon _4{44} the voice no _6{42} /9-1-1 lone star _2{32} the voice us _20{29} /9-1-1 _4{26} my vampire boyfriend _1{25} bt21 original story _1{21} the voice _10{19} 
-- 31/03/21 - lls _1{406} unbag _1{191} wabi vlog _1{66} young sheldon _4{44} the voice no _6{42} /9-1-1 lone star _2{32} the voice us _20{31} /9-1-1 _4{26} my vampire boyfriend _1{25} bt21 original story _1{21} the voice _10{19} 
-- 01/04/21 - lls _1{409} unbag _1{194} wabi vlog _1{68} young sheldon _4{45} the voice no _6{43} the voice us _20{34} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
-- 02/04/21 - lls _1{411} unbag _1{196} wabi vlog _1{69} young sheldon _4{45} the voice no _6{43} the voice us _20{36} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
-- 03/04/21 - lls _1{413} unbag _1{198} wabi vlog _1{70} young sheldon _4{46} the voice no _6{43} the voice us _20{38} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
-- 04/04/21 - lls _1{415} unbag _1{200} wabi vlog _1{70} young sheldon _4{46} the voice no _6{43} the voice us _20{38} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
-- 05/04/21 - lls _1{417} unbag _1{203} wabi vlog _1{71} young sheldon _4{47} the voice no _6{43} the voice us _20{39} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} the voice _10{23} bt21 original story _1{22} 
-- 06/04/21 - lls _1{419} unbag _1{205} wabi vlog _1{71} young sheldon _4{48} the voice no _6{43} the voice us _20{41} /9-1-1 lone star _2{33} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} bt21 original story _1{22} 
-- 07/04/21 - lls _1{421} unbag _1{207} wabi vlog _1{72} young sheldon _4{48} the voice no _6{43} the voice us _20{42} /9-1-1 lone star _2{33} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} bt21 original story _1{24} 
-- 08/04/21 - lls _1{423} unbag _1{209} wabi vlog _1{72} young sheldon _4{48} the voice us _20{43} the voice no _6{43} /9-1-1 lone star _2{33} /9-1-1 _4{27} bt21 original story _1{26} the voice _10{25} my vampire boyfriend _1{25} 
-- 09/04/21 (eff) - lls _1{425} unbag _1{211} wabi vlog _1{72} young sheldon _4{48} the voice us _20{44} the voice no _6{43} /9-1-1 lone star _2{33} bt21 original story _1{28} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} 
-- 10/04/21 (eff) - lls _1{427} unbag _1{213} wabi vlog _1{72} young sheldon _4{48} the voice us _20{44} the voice no _6{43} /9-1-1 lone star _2{33} bt21 original story _1{29} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} 
-- 11/04/21 (eff) - lls _1{429} unbag _1{215} wabi vlog _1{72} young sheldon _4{48} the voice no _6{44} the voice us _20{44} /9-1-1 lone star _2{33} bt21 original story _1{30} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} 
-- 12/04/21 (eff) - lls _1{432} unbag _1{217} wabi vlog _1{73} young sheldon _4{49} the voice no _6{46} the voice us _20{45} /9-1-1 lone star _2{33} bt21 original story _1{32} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
-- 13/04/21 (eff) - lls _1{434} unbag _1{219} wabi vlog _1{73} young sheldon _4{49} the voice no _6{46} the voice us _20{45} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
-- 14/04/21 (eff) - lls _1{436} unbag _1{221} wabi vlog _1{73} young sheldon _4{50} the voice us _20{46} the voice no _6{46} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
-- 15/04/21 (eff) - lls _1{438} unbag _1{223} wabi vlog _1{73} young sheldon _4{51} the voice us _20{47} the voice no _6{47} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
-- 16/04/21 (eff) - lls _1{440} unbag _1{225} wabi vlog _1{73} young sheldon _4{52} the voice no _6{48} the voice us _20{47} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
-- 17/04/21 (eff) - lls _1{442} unbag _1{227} wabi vlog _1{73} young sheldon _4{53} the voice no _6{49} the voice us _20{47} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} top chef _12{26} 
-- 18/04/21 (eff) - lls _1{444} unbag _1{229} wabi vlog _1{73} young sheldon _4{54} the voice no _6{50} the voice us _20{47} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} given _1{27} /9-1-1 _4{27} 
-- 19/04/21 (eff) - lls _1{446} unbag _1{232} wabi vlog _1{76} young sheldon _4{54} the voice no _6{52} the voice us _20{48} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{30} top chef _12{27} given _1{27} 
-- 20/04/21 (eff) - lls _1{448} unbag _1{234} wabi vlog _1{77} young sheldon _4{54} the voice no _6{53} the voice us _20{48} /9-1-1 lone star _2{33} bt21 original story _1{33} the voice _10{31} /9-1-1 _4{27} top chef _12{27} given _1{27} 
-- 21/04/21 (eff) - lls _1{450} unbag _1{236} wabi vlog _1{78} young sheldon _4{56} the voice no _6{54} the voice us _20{50} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} /9-1-1 _4{27} top chef _12{27} given _1{27} 
-- 22/04/21 (eff) - lls _1{452} unbag _1{238} wabi vlog _1{80} young sheldon _4{57} the voice no _6{55} the voice us _20{52} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} top chef _12{27} /9-1-1 _4{27} given _1{27} 
-- 23/04/21 (eff) - lls _1{454} unbag _1{240} wabi vlog _1{82} young sheldon _4{58} the voice no _6{55} the voice us _20{52} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} top chef _12{28} /9-1-1 _4{27} given _1{27} 
-- 24/04/21 (eff) - lls _1{456} unbag _1{242} wabi vlog _1{84} young sheldon _4{59} the voice no _6{56} the voice us _20{52} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} top chef _12{29} /9-1-1 _4{27} given _1{27} the voice vv _7{22} 
-- 25/04/21 (eff) - lls _1{458} unbag _1{244} wabi vlog _1{86} young sheldon _4{60} the voice no _6{58} the voice us _20{52} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} top chef _12{29} /9-1-1 _4{27} given _1{27} the voice vv _7{23} 
-- 26/04/21 (eff) - lls _1{460} unbag _1{246} wabi vlog _1{88} young sheldon _4{63} the voice no _6{61} the voice us _20{53} /9-1-1 lone star _2{35} the voice _10{34} bt21 original story _1{33} top chef _12{30} /9-1-1 _4{28} given _1{27} the voice vv _7{24} 
-- 27/04/21 (eff) - lls _1{462} unbag _1{248} wabi vlog _1{89} young sheldon _4{65} the voice no _6{63} the voice us _20{53} /9-1-1 lone star _2{35} the voice _10{35} bt21 original story _1{33} top chef _12{30} /9-1-1 _4{28} given _1{27} 
-- 28/04/21 (eff) - lls _1{464} unbag _1{250} wabi vlog _1{90} young sheldon _4{67} the voice no _6{64} the voice us _20{54} /9-1-1 lone star _2{35} the voice _10{35} bt21 original story _1{33} top chef _12{30} /9-1-1 _4{28} given _1{27} 
-- 29/04/21 (eff) - lls _1{466} unbag _1{251} wabi vlog _1{91} young sheldon _4{68} the voice no _6{64} the voice us _20{54} /9-1-1 lone star _2{35} the voice _10{35} bt21 original story _1{33} top chef _12{30} /9-1-1 _4{28} given _1{27} the voice vv _7{24} 
-- 30/04/21 (eff) - lls _1{468} unbag _1{253} wabi vlog _1{93} young sheldon _4{69} the voice no _6{65} the voice us _20{54} /9-1-1 lone star _2{35} the voice _10{35} bt21 original story _1{33} top chef _12{31} /9-1-1 _4{28} given _1{27} the voice vv _7{24} 
-- 01/05/21 (eff) - lls _1{471} unbag _1{256} wabi vlog _1{95} young sheldon _4{71} the voice no _6{67} the voice us _20{55} /9-1-1 lone star _2{36} the voice _10{36} bt21 original story _1{34} top chef _12{32} /9-1-1 _4{29} given _1{28} the voice vv _7{25} 
-- 02/05/21 (eff) - lls _1{473} unbag _1{258} wabi vlog _1{96} young sheldon _4{72} the voice no _6{69} the voice us _20{55} the voice _10{36} /9-1-1 lone star _2{36} bt21 original story _1{34} top chef _12{32} /9-1-1 _4{29} given _1{28} the voice vv _7{26} 
-- 03/05/21 (eff) - lls _1{476} unbag _1{261} wabi vlog _1{98} the voice no _6{72} young sheldon _4{72} the voice us _20{56} the voice _10{38} /9-1-1 lone star _2{37} bt21 original story _1{34} top chef _12{33} /9-1-1 _4{29} given _1{28} the voice vv _7{27} 
-- 04/05/21 (eff) - lls _1{478} unbag _1{263} wabi vlog _1{99} the voice no _6{74} young sheldon _4{72} the voice us _20{56} the voice _10{39} /9-1-1 lone star _2{37} bt21 original story _1{34} top chef _12{33} /9-1-1 _4{30} given _1{28} the voice vv _7{27} 
+- 25/01/21 - lls _1{270} unbag _1{79} rpdru _9{22} koishite akuma _1{15} 
+- 26/01/21 - lls _1{272} unbag _1{80} rpdru _9{22} koishite akuma _1{15} 
+- 27/01/21 - lls _1{274} unbag _1{81} rpdru _9{22} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 28/01/21 - lls _1{276} unbag _1{82} rpdru _9{22} koishite akuma _1{15} 
+- 29/01/21 - lls _1{278} unbag _1{83} rpdru _9{22} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 30/01/21 - lls _1{280} unbag _1{85} rpdru _9{22} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 31/01/21 - lls _1{282} unbag _1{87} rpdru _9{22} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 01/02/21 - lls _1{286} unbag _1{91} rpdru _9{23} koishite akuma _1{16} 
+- 02/02/21 - lls _1{288} unbag _1{93} rpdru _9{23} koishite akuma _1{16} 
+- 03/02/21 - lls _1{290} unbag _1{95} rpdru _9{23} koishite akuma _1{16} 
+- 04/02/21 - lls _1{292} unbag _1{97} rpdru _9{23} 
+- 05/02/21 - lls _1{294} unbag _1{99} rpdru _9{23} 
+- 06/02/21 - lls _1{296} unbag _1{100} rpdru _9{23} koishite akuma _1{16} 
+- 07/02/21 - lls _1{298} unbag _1{101} rpdru _9{23} koishite akuma _1{16} 
+- 08/02/21 - lls _1{300} unbag _1{102} rpdru _9{23} koishite akuma _1{16} the voice no _6{15} 
+- 09/02/21 - lls _1{302} unbag _1{103} rpdru _9{23} koishite akuma _1{16} the voice no _6{15} 
+- 10/02/21 - lls _1{304} unbag _1{104} the voice no _6{16} koishite akuma _1{16} 
+- 11/02/21 - lls _1{306} unbag _1{105} the voice no _6{17} koishite akuma _1{16} 
+- 12/02/21 - lls _1{308} unbag _1{106} the voice no _6{17} 
+- 13/02/21 - lls _1{310} unbag _1{108} the voice no _6{17} 
+- 14/02/21 - lls _1{312} unbag _1{110} the voice no _6{19} koishite akuma _1{16} 
+- 15/02/21 - lls _1{314} unbag _1{113} the voice no _6{22} 
+- 16/02/21 - lls _1{316} unbag _1{115} the voice no _6{24} 
+- 17/02/21 - lls _1{318} unbag _1{117} the voice no _6{26} 
+- 18/02/21 - lls _1{320} unbag _1{119} the voice no _6{26} wabi vlog _1{18} 
+- 19/02/21 - lls _1{322} unbag _1{121} the voice no _6{26} wabi vlog _1{18} 
+- 20/02/21 - lls _1{324} unbag _1{122} the voice no _6{26} wabi vlog _1{20} 
+- 21/02/21 - lls _1{326} unbag _1{123} the voice no _6{28} wabi vlog _1{20} 
+- 22/02/21 - lls _1{328} unbag _1{124} the voice no _6{30} wabi vlog _1{21} my vampire boyfriend _1{19} 
+- 23/02/21 - lls _1{330} unbag _1{125} the voice no _6{31} wabi vlog _1{22} my vampire boyfriend _1{21} 
+- 24/02/21 - lls _1{332} unbag _1{126} the voice no _6{31} wabi vlog _1{24} my vampire boyfriend _1{22} /9-1-1 lone star _2{19} 
+- 25/02/21 - lls _1{334} unbag _1{127} the voice no _6{31} wabi vlog _1{26} my vampire boyfriend _1{24} /9-1-1 lone star _2{21} 
+- 26/02/21 - lls _1{336} unbag _1{128} the voice no _6{31} wabi vlog _1{28} my vampire boyfriend _1{24} /9-1-1 lone star _2{22} 
+- 27/02/21 - lls _1{338} unbag _1{130} the voice no _6{31} wabi vlog _1{30} my vampire boyfriend _1{24} 
+- 28/02/21 - lls _1{340} unbag _1{132} the voice no _6{32} wabi vlog _1{32} my vampire boyfriend _1{24} 
+- 01/03/21 - lls _1{342} unbag _1{136} wabi vlog _1{36} the voice no _6{35} my vampire boyfriend _1{25} /9-1-1 lone star _2{24} 
+- 02/03/21 - lls _1{344} unbag _1{138} wabi vlog _1{38} the voice no _6{35} my vampire boyfriend _1{25} /9-1-1 lone star _2{24} 
+- 03/03/21 - lls _1{346} unbag _1{140} wabi vlog _1{40} the voice no _6{35} /9-1-1 lone star _2{26} my vampire boyfriend _1{25} 
+- 04/03/21 - lls _1{348} unbag _1{142} wabi vlog _1{40} the voice no _6{35} /9-1-1 lone star _2{28} my vampire boyfriend _1{25} 
+- 05/03/21 - lls _1{350} unbag _1{144} wabi vlog _1{40} the voice no _6{35} /9-1-1 lone star _2{29} 
+- 06/03/21 - lls _1{352} unbag _1{146} wabi vlog _1{40} the voice no _6{35} /9-1-1 lone star _2{29} 
+- 07/03/21 - lls _1{354} unbag _1{147} wabi vlog _1{42} the voice no _6{36} /9-1-1 lone star _2{29} 
+- 08/03/21 - lls _1{357} unbag _1{148} wabi vlog _1{45} the voice no _6{37} /9-1-1 lone star _2{30} 
+- 09/03/21 - lls _1{359} unbag _1{149} wabi vlog _1{47} the voice no _6{37} /9-1-1 lone star _2{30} 
+- 10/03/21 - lls _1{361} unbag _1{150} wabi vlog _1{49} the voice no _6{37} /9-1-1 lone star _2{31} 
+- 11/03/21 - lls _1{363} unbag _1{151} wabi vlog _1{51} the voice no _6{37} /9-1-1 lone star _2{31} 
+- 12/03/21 - lls _1{365} unbag _1{152} wabi vlog _1{53} the voice no _6{37} /9-1-1 lone star _2{31} /9-1-1 _4{25} 
+- 13/03/21 - lls _1{367} unbag _1{154} wabi vlog _1{55} the voice no _6{37} /9-1-1 lone star _2{31} 
+- 14/03/21 - lls _1{369} unbag _1{156} wabi vlog _1{55} the voice no _6{37} /9-1-1 lone star _2{31} 
+- 15/03/21 - lls _1{372} unbag _1{159} wabi vlog _1{56} the voice no _6{38} /9-1-1 lone star _2{32} 
+- 16/03/21 - lls _1{374} unbag _1{161} wabi vlog _1{56} the voice no _6{38} /9-1-1 lone star _2{32} 
+- 17/03/21 - lls _1{376} unbag _1{163} wabi vlog _1{56} the voice no _6{38} /9-1-1 lone star _2{32} 
+- 18/03/21 - lls _1{378} unbag _1{165} wabi vlog _1{56} the voice no _6{38} /9-1-1 lone star _2{32} 
+- 19/03/21 - lls _1{380} unbag _1{166} wabi vlog _1{56} the voice no _6{38} /9-1-1 lone star _2{32} /9-1-1 _4{26} 
+- 20/03/21 - lls _1{382} unbag _1{168} wabi vlog _1{56} the voice no _6{38} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{26} the harvest season _1{16} 
+- 21/03/21 - lls _1{384} unbag _1{171} wabi vlog _1{56} the voice no _6{39} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the harvest season _1{16} love in time _1{15} 
+- 22/03/21 - lls _1{387} unbag _1{173} wabi vlog _1{56} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the harvest season _1{16} the voice _10{15} 
+- 23/03/21 - lls _1{389} unbag _1{175} wabi vlog _1{56} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice _10{16} the harvest season _1{16} 
+- 24/03/21 - lls _1{391} unbag _1{177} wabi vlog _1{56} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{16} the voice _10{16} 
+- 25/03/21 - lls _1{393} unbag _1{179} wabi vlog _1{57} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{18} the voice _10{16} 
+- 26/03/21 - lls _1{395} unbag _1{181} wabi vlog _1{59} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{20} the voice _10{16} 
+- 27/03/21 - lls _1{397} unbag _1{183} wabi vlog _1{61} the voice no _6{40} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{22} bt21 original story _1{17} the voice _10{16} 
+- 28/03/21 - lls _1{399} unbag _1{185} wabi vlog _1{62} the voice no _6{41} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{24} bt21 original story _1{19} 
+- 29/03/21 - lls _1{402} unbag _1{187} wabi vlog _1{65} the voice no _6{42} /9-1-1 lone star _2{32} the voice us _20{27} /9-1-1 _4{26} my vampire boyfriend _1{25} bt21 original story _1{21} the voice _10{18} 
+- 30/03/21 - lls _1{404} unbag _1{189} wabi vlog _1{66} the voice no _6{42} /9-1-1 lone star _2{32} the voice us _20{29} /9-1-1 _4{26} my vampire boyfriend _1{25} bt21 original story _1{21} the voice _10{19} 
+- 31/03/21 - lls _1{406} unbag _1{191} wabi vlog _1{66} the voice no _6{42} /9-1-1 lone star _2{32} the voice us _20{31} /9-1-1 _4{26} my vampire boyfriend _1{25} bt21 original story _1{21} the voice _10{19} 
+- 01/04/21 - lls _1{409} unbag _1{194} wabi vlog _1{68} the voice no _6{43} the voice us _20{34} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
+- 02/04/21 - lls _1{411} unbag _1{196} wabi vlog _1{69} the voice no _6{43} the voice us _20{36} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
+- 03/04/21 - lls _1{413} unbag _1{198} wabi vlog _1{70} the voice no _6{43} the voice us _20{38} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
+- 04/04/21 - lls _1{415} unbag _1{200} wabi vlog _1{70} the voice no _6{43} the voice us _20{38} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
+- 05/04/21 - lls _1{417} unbag _1{203} wabi vlog _1{71} the voice no _6{43} the voice us _20{39} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} the voice _10{23} bt21 original story _1{22} 
+- 06/04/21 - lls _1{419} unbag _1{205} wabi vlog _1{71} the voice no _6{43} the voice us _20{41} /9-1-1 lone star _2{33} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} bt21 original story _1{22} 
+- 07/04/21 - lls _1{421} unbag _1{207} wabi vlog _1{72} the voice no _6{43} the voice us _20{42} /9-1-1 lone star _2{33} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} bt21 original story _1{24} 
+- 08/04/21 - lls _1{423} unbag _1{209} wabi vlog _1{72} the voice us _20{43} the voice no _6{43} /9-1-1 lone star _2{33} /9-1-1 _4{27} bt21 original story _1{26} the voice _10{25} my vampire boyfriend _1{25} 
+- 09/04/21 (eff) - lls _1{425} unbag _1{211} wabi vlog _1{72} the voice us _20{44} the voice no _6{43} /9-1-1 lone star _2{33} bt21 original story _1{28} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} 
+- 10/04/21 (eff) - lls _1{427} unbag _1{213} wabi vlog _1{72} the voice us _20{44} the voice no _6{43} /9-1-1 lone star _2{33} bt21 original story _1{29} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} 
+- 11/04/21 (eff) - lls _1{429} unbag _1{215} wabi vlog _1{72} the voice no _6{44} the voice us _20{44} /9-1-1 lone star _2{33} bt21 original story _1{30} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} 
+- 12/04/21 (eff) - lls _1{432} unbag _1{217} wabi vlog _1{73} the voice no _6{46} the voice us _20{45} /9-1-1 lone star _2{33} bt21 original story _1{32} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
+- 13/04/21 (eff) - lls _1{434} unbag _1{219} wabi vlog _1{73} the voice no _6{46} the voice us _20{45} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
+- 14/04/21 (eff) - lls _1{436} unbag _1{221} wabi vlog _1{73} the voice us _20{46} the voice no _6{46} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
+- 15/04/21 (eff) - lls _1{438} unbag _1{223} wabi vlog _1{73} the voice us _20{47} the voice no _6{47} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
+- 16/04/21 (eff) - lls _1{440} unbag _1{225} wabi vlog _1{73} the voice no _6{48} the voice us _20{47} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} my vampire boyfriend _1{25} 
+- 17/04/21 (eff) - lls _1{442} unbag _1{227} wabi vlog _1{73} the voice no _6{49} the voice us _20{47} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} /9-1-1 _4{27} top chef _12{26} 
+- 18/04/21 (eff) - lls _1{444} unbag _1{229} wabi vlog _1{73} the voice no _6{50} the voice us _20{47} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{27} given _1{27} /9-1-1 _4{27} 
+- 19/04/21 (eff) - lls _1{446} unbag _1{232} wabi vlog _1{76} the voice no _6{52} the voice us _20{48} bt21 original story _1{33} /9-1-1 lone star _2{33} the voice _10{30} top chef _12{27} given _1{27} 
+- 20/04/21 (eff) - lls _1{448} unbag _1{234} wabi vlog _1{77} the voice no _6{53} the voice us _20{48} /9-1-1 lone star _2{33} bt21 original story _1{33} the voice _10{31} /9-1-1 _4{27} top chef _12{27} given _1{27} 
+- 21/04/21 (eff) - lls _1{450} unbag _1{236} wabi vlog _1{78} the voice no _6{54} the voice us _20{50} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} /9-1-1 _4{27} top chef _12{27} given _1{27} 
+- 22/04/21 (eff) - lls _1{452} unbag _1{238} wabi vlog _1{80} the voice no _6{55} the voice us _20{52} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} top chef _12{27} /9-1-1 _4{27} given _1{27} 
+- 23/04/21 (eff) - lls _1{454} unbag _1{240} wabi vlog _1{82} the voice no _6{55} the voice us _20{52} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} top chef _12{28} /9-1-1 _4{27} given _1{27} 
+- 24/04/21 (eff) - lls _1{456} unbag _1{242} wabi vlog _1{84} the voice no _6{56} the voice us _20{52} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} top chef _12{29} /9-1-1 _4{27} given _1{27} the voice vv _7{22} 
+- 25/04/21 (eff) - lls _1{458} unbag _1{244} wabi vlog _1{86} the voice no _6{58} the voice us _20{52} /9-1-1 lone star _2{34} bt21 original story _1{33} the voice _10{32} top chef _12{29} /9-1-1 _4{27} given _1{27} the voice vv _7{23} 
+- 26/04/21 (eff) - lls _1{460} unbag _1{246} wabi vlog _1{88} the voice no _6{61} the voice us _20{53} /9-1-1 lone star _2{35} the voice _10{34} bt21 original story _1{33} top chef _12{30} /9-1-1 _4{28} given _1{27} the voice vv _7{24} 
+- 27/04/21 (eff) - lls _1{462} unbag _1{248} wabi vlog _1{89} the voice no _6{63} the voice us _20{53} /9-1-1 lone star _2{35} the voice _10{35} bt21 original story _1{33} top chef _12{30} /9-1-1 _4{28} given _1{27} 
+- 28/04/21 (eff) - lls _1{464} unbag _1{250} wabi vlog _1{90} the voice no _6{64} the voice us _20{54} /9-1-1 lone star _2{35} the voice _10{35} bt21 original story _1{33} top chef _12{30} /9-1-1 _4{28} given _1{27} 
+- 29/04/21 (eff) - lls _1{466} unbag _1{251} wabi vlog _1{91} the voice no _6{64} the voice us _20{54} /9-1-1 lone star _2{35} the voice _10{35} bt21 original story _1{33} top chef _12{30} /9-1-1 _4{28} given _1{27} the voice vv _7{24} 
+- 30/04/21 (eff) - lls _1{468} unbag _1{253} wabi vlog _1{93} the voice no _6{65} the voice us _20{54} /9-1-1 lone star _2{35} the voice _10{35} bt21 original story _1{33} top chef _12{31} /9-1-1 _4{28} given _1{27} the voice vv _7{24} 
+- 01/05/21 (eff) - lls _1{471} unbag _1{256} wabi vlog _1{95} the voice no _6{67} the voice us _20{55} /9-1-1 lone star _2{36} the voice _10{36} bt21 original story _1{34} top chef _12{32} /9-1-1 _4{29} given _1{28} the voice vv _7{25} 
+- 02/05/21 (eff) - lls _1{473} unbag _1{258} wabi vlog _1{96} the voice no _6{69} the voice us _20{55} the voice _10{36} /9-1-1 lone star _2{36} bt21 original story _1{34} top chef _12{32} /9-1-1 _4{29} given _1{28} the voice vv _7{26} 
+- 03/05/21 (eff) - lls _1{476} unbag _1{261} wabi vlog _1{98} the voice no _6{72} the voice us _20{56} the voice _10{38} /9-1-1 lone star _2{37} bt21 original story _1{34} top chef _12{33} /9-1-1 _4{29} given _1{28} the voice vv _7{27} 
+- 04/05/21 (eff) - lls _1{478} unbag _1{263} wabi vlog _1{99} the voice no _6{74} the voice us _20{56} the voice _10{39} /9-1-1 lone star _2{37} bt21 original story _1{34} top chef _12{33} /9-1-1 _4{30} given _1{28} the voice vv _7{27} 
 
 
 
@@ -206,22 +206,22 @@
 - 30/10/20 - 73* the stranded _1{0} unbag _1{10} pogi lang hanap _1{3} lakan _1{0} friend forever _1{8} 
 - 31/10/20 - 158* swap test _1{1} the stranded _1{0} unbag _1{10} 
 - 05/11/20 - 307* the good doctor _4{0} 
-- 06/11/20 - 253* young sheldon _4{0} unbag _1{12} blood _1{4} the good doctor _4{0} 
-- 07/11/20 - 173* tharntype _2{0} young sheldon _4{1} unbag _1{12} blood _1{4} the good doctor _4{0} 
+- 06/11/20 - 253* unbag _1{12} blood _1{4} the good doctor _4{0} 
+- 07/11/20 - 173* tharntype _2{0} unbag _1{12} blood _1{4} the good doctor _4{0} 
 - 08/11/20 - 222* lakan _1{2} pogi lang hanap _1{7} tharntype _2{1} 
 - 09/11/20 - 267* lakan _1{3} pogi lang hanap _1{8} tharntype _2{2} 
 - 10/11/20 - 271* lakan _1{3} pogi lang hanap _1{8} 
 - 12/11/20 - 233* unbag _1{13} 
-- 13/11/20 - 245* young sheldon _4{2} unbag _1{13} 
-- 14/11/20 - 392* young sheldon _4{2} unbag _1{13} 
-- 15/11/20 - 411* young sheldon _4{2} unbag _1{13} 
+- 13/11/20 - 245* unbag _1{13} 
+- 14/11/20 - 392* unbag _1{13} 
+- 15/11/20 - 411* unbag _1{13} 
 - 16/11/20 - 374* my vampire boyfriend _1{1} 
 - 17/11/20 - 362* my vampire boyfriend _1{3} 
 - 18/11/20 - 356* my vampire boyfriend _1{5} 
 - 19/11/20 - 372* pogi lang hanap _1{8} 
-- 20/11/20 - 308* young sheldon _4{3} unbag _1{14} pogi lang hanap _1{8} 
-- 21/11/20 - 205* tharntype _2{2} young sheldon _4{3} unbag _1{14} 
-- 22/11/20 - 178* tharntype _2{2} young sheldon _4{3} 
+- 20/11/20 - 308* unbag _1{14} pogi lang hanap _1{8} 
+- 21/11/20 - 205* tharntype _2{2} unbag _1{14} 
+- 22/11/20 - 178* tharntype _2{2} 
 - 23/11/20 - 274* tharntype _2{3} 
 - 24/11/20 - 346* tharntype _2{3} 
 - 25/11/20 - 421* tharntype _2{3} 
@@ -232,11 +232,11 @@
 - 01/12/20 - 475* be love _1{2} 
 - 02/12/20 - 385* be love _1{4} 
 - 03/12/20 - 281* ghost runner _1{0} be love _1{6} 
-- 04/12/20 - 239* young sheldon _4{5} unbag _1{16} ghost runner _1{0} be love _1{6} 
-- 05/12/20 - 134* tharntype _2{4} young sheldon _4{6} unbag _1{16} ghost runner _1{0} 
-- 06/12/20 - 148* tharntype _2{4} young sheldon _4{6} unbag _1{16} 
-- 07/12/20 - 203* tharntype _2{5} young sheldon _4{7} 
-- 08/12/20 - 311* tale of the nine tailed _1{0} tharntype _2{5} young sheldon _4{7} 
+- 04/12/20 - 239* unbag _1{16} ghost runner _1{0} be love _1{6} 
+- 05/12/20 - 134* tharntype _2{4} unbag _1{16} ghost runner _1{0} 
+- 06/12/20 - 148* tharntype _2{4} unbag _1{16} 
+- 07/12/20 - 203* tharntype _2{5} 
+- 08/12/20 - 311* tale of the nine tailed _1{0} tharntype _2{5} 
 - 09/12/20 - 320* tale of the nine tailed _1{0} tharntype _2{5} 
 - 10/12/20 - 356* tale of the nine tailed _1{0} tharntype _2{5} 
 - 11/12/20 - 392* tale of the nine tailed _1{0} 
@@ -252,10 +252,10 @@
 - 22/12/20 - 295* lakan _1{4} lls _1{200} ghost runner _1{3} unbag _1{28} 
 - 23/12/20 - 283* lakan _1{4} lls _1{202} ghost runner _1{4} 
 - 24/12/20 - 238* from dusk till dawn _2{0} lakan _1{5} lls _1{204} 
-- 25/12/20 - 38* young sheldon _4{7} from dusk till dawn _2{0} lakan _1{5} 
-- 26/12/20 - 46* young sheldon _4{7} from dusk till dawn _2{2} lakan _1{5} 
-- 27/12/20 - 455* lls _1{210} young sheldon _4{7} from dusk till dawn _2{4} 
-- 28/12/20 - 467* capture lover _1{4} lls _1{213} young sheldon _4{8} 
+- 25/12/20 - 38* from dusk till dawn _2{0} lakan _1{5} 
+- 26/12/20 - 46* from dusk till dawn _2{2} lakan _1{5} 
+- 27/12/20 - 455* lls _1{210} from dusk till dawn _2{4} 
+- 28/12/20 - 467* capture lover _1{4} lls _1{213} 
 - 29/12/20 - 471* joséphine ange gardien _23{5} capture lover _1{4} lls _1{215} 
 - 30/12/20 - 269* joséphine ange gardien _23{5} capture lover _1{4} lls _1{217} 
 - 31/12/20 - 65* ghost runner _1{4} friend zone _1{4} joséphine ange gardien _23{5} capture lover _1{4} 
@@ -280,8 +280,8 @@
 - 19/01/21 - 148* /9-1-1 lone star _2{0} /9-1-1 _4{0} koishite akuma _1{3} the voice no _6{2} 
 - 20/01/21 - 140* /9-1-1 lone star _2{0} /9-1-1 _4{0} koishite akuma _1{5} the voice no _6{3} 
 - 21/01/21 - 131* /9-1-1 lone star _2{0} /9-1-1 _4{0} koishite akuma _1{7} the voice no _6{4} 
-- 22/01/21 - 113* young sheldon _4{9} /9-1-1 lone star _2{0} /9-1-1 _4{0} 
-- 23/01/21 - 73* young sheldon _4{10} 
+- 22/01/21 - 113* /9-1-1 lone star _2{0} /9-1-1 _4{0} 
+- 23/01/21 - 73* 
 - 24/01/21 - 89* ben x jim _1{2} the voice no _6{6} 
 - 25/01/21 - 105* tien bromance _1{1} ben x jim _1{3} the voice no _6{9} 
 - 26/01/21 - 425* /9-1-1 lone star _2{1} /9-1-1 _4{1} lls _1{272} the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
@@ -302,38 +302,38 @@
 - 10/02/21 - 220* the harvest season _1{0} wabi show _1{0} wabi vlog _1{0} /9-1-1 lone star _2{10} /9-1-1 _4{8} tbbt _11{1} 
 - 11/02/21 - 140* top chef _12{0} the harvest season _1{2} wabi show _1{2} wabi vlog _1{2} /9-1-1 lone star _2{10} /9-1-1 _4{8} 
 - 12/02/21 - 199* unbag _1{106} top chef _12{0} the harvest season _1{4} wabi show _1{3} wabi vlog _1{4} /9-1-1 lone star _2{10} 
-- 13/02/21 - 218* the voice vv _7{3} the voice no _6{17} young sheldon _4{19} tokyo ghoul _3{0} unbag _1{108} 
-- 14/02/21 - 209* the voice _10{3} the voice vv _7{3} the voice no _6{19} young sheldon _4{19} tokyo ghoul _3{0} unbag _1{110} 
-- 15/02/21 - 114* bangkok love stories innocence _1{1} schools out lets date now _1{3} the voice _10{4} the voice vv _7{4} the voice no _6{22} young sheldon _4{20} 
+- 13/02/21 - 218* the voice vv _7{3} the voice no _6{17} tokyo ghoul _3{0} unbag _1{108} 
+- 14/02/21 - 209* the voice _10{3} the voice vv _7{3} the voice no _6{19} tokyo ghoul _3{0} unbag _1{110} 
+- 15/02/21 - 114* bangkok love stories innocence _1{1} schools out lets date now _1{3} the voice _10{4} the voice vv _7{4} the voice no _6{22} 
 - 16/02/21 - 175* /9-1-1 lone star _2{11} /9-1-1 _4{9} tokyo ghoul _3{1} love in time _1{8} wabi vlog _1{13} my vampire boyfriend _1{9} bangkok love stories innocence _1{1} schools out lets date now _1{3} 
 - 17/02/21 - 199* you never eat alone _1{2} /9-1-1 lone star _2{13} /9-1-1 _4{11} tokyo ghoul _3{2} love in time _1{9} wabi vlog _1{15} my vampire boyfriend _1{9} 
 - 18/02/21 - 127* unlocked _1{2} pearl next door _1{9} top chef _12{1} my vampire boyfriend _1{10} you never eat alone _1{2} /9-1-1 lone star _2{15} /9-1-1 _4{13} 
 - 19/02/21 - 191* unlocked _1{2} pearl next door _1{9} top chef _12{1} my vampire boyfriend _1{12} you never eat alone _1{2} 
 - 20/02/21 - 164* given _1{0} the voice vv _7{4} the voice no _6{26} 
-- 21/02/21 - 191* the voice _10{4} young sheldon _4{22} given _1{1} the voice vv _7{4} the voice no _6{28} 
-- 22/02/21 - 207* history3 trapped _1{1} the voice _10{5} young sheldon _4{24} given _1{3} the voice vv _7{5} the voice no _6{30} 
-- 23/02/21 - 226* /9-1-1 lone star _2{17} /9-1-1 _4{14} wabi vlog _1{22} history3 trapped _1{1} the voice _10{5} young sheldon _4{25} given _1{5} the voice vv _7{5} 
-- 24/02/21 - 257* /9-1-1 lone star _2{19} /9-1-1 _4{16} wabi vlog _1{24} history3 trapped _1{1} the voice _10{5} young sheldon _4{26} 
+- 21/02/21 - 191* the voice _10{4} given _1{1} the voice vv _7{4} the voice no _6{28} 
+- 22/02/21 - 207* history3 trapped _1{1} the voice _10{5} given _1{3} the voice vv _7{5} the voice no _6{30} 
+- 23/02/21 - 226* /9-1-1 lone star _2{17} /9-1-1 _4{14} wabi vlog _1{22} history3 trapped _1{1} the voice _10{5} given _1{5} the voice vv _7{5} 
+- 24/02/21 - 257* /9-1-1 lone star _2{19} /9-1-1 _4{16} wabi vlog _1{24} history3 trapped _1{1} the voice _10{5} 
 - 25/02/21 - 163* top chef _12{2} /9-1-1 lone star _2{21} /9-1-1 _4{17} wabi vlog _1{26} history3 trapped _1{1} the voice _10{5} 
 - 26/02/21 - 282* unbag _1{128} top chef _12{3} /9-1-1 lone star _2{22} /9-1-1 _4{18} wabi vlog _1{28} history3 trapped _1{1} 
 - 27/02/21 - 329* the voice vv _7{5} the voice no _6{31} unbag _1{130} top chef _12{3} 
 - 28/02/21 - 377* the voice _10{5} the voice vv _7{5} the voice no _6{32} unbag _1{132} 
 - 01/03/21 - 279* the voice _10{8} the voice vv _7{7} the voice no _6{35} 
-- 02/03/21 - 268* young sheldon _4{29} /9-1-1 lone star _2{24} /9-1-1 _4{20} schools out lets date now _1{4} the voice _10{9} the voice vv _7{7} 
-- 03/03/21 - 579* lls _1{346} you never eat alone _1{4} the voice us _20{0} young sheldon _4{31} /9-1-1 lone star _2{26} /9-1-1 _4{22} schools out lets date now _1{5} 
-- 04/03/21 - 610* top chef _12{5} lls _1{348} the voice us _20{0} you never eat alone _1{4} young sheldon _4{32} /9-1-1 lone star _2{28} /9-1-1 _4{23} 
-- 05/03/21 - 618* young sheldon _4{33} lls _1{350} top chef _12{5} the voice us _20{2} you never eat alone _1{4} /9-1-1 lone star _2{29} 
-- 06/03/21 - 587* the voice vv _7{7} the voice no _6{35} wabi vlog _1{40} young sheldon _4{35} lls _1{352} 
+- 02/03/21 - 268* /9-1-1 lone star _2{24} /9-1-1 _4{20} schools out lets date now _1{4} the voice _10{9} the voice vv _7{7} 
+- 03/03/21 - 579* lls _1{346} you never eat alone _1{4} the voice us _20{0} /9-1-1 lone star _2{26} /9-1-1 _4{22} schools out lets date now _1{5} 
+- 04/03/21 - 610* top chef _12{5} lls _1{348} the voice us _20{0} you never eat alone _1{4} /9-1-1 lone star _2{28} /9-1-1 _4{23} 
+- 05/03/21 - 618* lls _1{350} top chef _12{5} the voice us _20{2} you never eat alone _1{4} /9-1-1 lone star _2{29} 
+- 06/03/21 - 587* the voice vv _7{7} the voice no _6{35} wabi vlog _1{40} lls _1{352} 
 - 07/03/21 - 648* lls _1{354} the voice _10{9} the voice vv _7{8} the voice no _6{36} wabi vlog _1{42} 
 - 08/03/21 - 687* lls _1{357} the voice _10{11} the voice vv _7{9} the voice no _6{37} wabi vlog _1{45} 
 - 09/03/21 - 760* /9-1-1 lone star _2{30} /9-1-1 _4{25} lls _1{359} the voice _10{12} 
 - 10/03/21 - 702* you never eat alone _1{5} the voice us _20{6} lls _1{361} /9-1-1 lone star _2{31} /9-1-1 _4{25} the voice _10{12} 
 - 11/03/21 - 552* lls _1{363} game of talents _1{0} the masked singer _5{0} wabi vlog _1{51} top chef _12{6} the voice us _20{8} 
 - 12/03/21 - 680* lls _1{365} unbag _1{152} game of talents _1{0} the masked singer _5{0} wabi vlog _1{53} top chef _12{7} the voice us _20{9} 
-- 13/03/21 - 852* young sheldon _4{42} koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} lls _1{367} 
-- 14/03/21 - 953* lls _1{369} the voice _10{12} young sheldon _4{43} koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} 
-- 15/03/21 - 788* history4 close to you _1{1} lls _1{372} the voice _10{13} young sheldon _4{44} koh-lanta _26{1} the voice vv _7{10} 
-- 16/03/21 - 788* history4 close to you _1{1} lls _1{374} the voice _10{13} young sheldon _4{44} koh-lanta _26{1} 
+- 13/03/21 - 852* koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} lls _1{367} 
+- 14/03/21 - 953* lls _1{369} the voice _10{12} koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} 
+- 15/03/21 - 788* history4 close to you _1{1} lls _1{372} the voice _10{13} koh-lanta _26{1} the voice vv _7{10} 
+- 16/03/21 - 788* history4 close to you _1{1} lls _1{374} the voice _10{13} koh-lanta _26{1} 
 - 17/03/21 - 779* the voice us _20{11} history4 close to you _1{1} lls _1{376} the voice _10{13} 
 - 18/03/21 - 533* lls _1{378} game of talents _1{1} the masked singer _5{1} top chef _12{9} the voice us _20{13} 
 - 19/03/21 - 474* bt21 vlog _1{0} bt21 original story _1{0} schools out lets date now _1{6} lls _1{380} game of talents _1{1} the masked singer _5{1} top chef _12{9} 
@@ -350,9 +350,9 @@
 - 30/03/21 - 578* the voice us _20{29} lls _1{404} history4 close to you _1{5} history3 trapped _1{3} the voice _10{19} precise shot _1{5} 
 - 31/03/21 - 640* wabi vlog _1{66} ydestiny _1{0} the voice us _20{31} lls _1{406} history4 close to you _1{5} history3 trapped _1{3} the voice _10{19} 
 - 01/04/21 - 654* game of talents _1{8} the masked singer _5{6} wabi vlog _1{68} ydestiny _1{1} the voice us _20{34} lls _1{409} history4 close to you _1{6} 
-- 02/04/21 - 375* young sheldon _4{45} mental _1{6} top chef _12{16} unbag _1{196} history3 trapped _1{4} game of talents _1{9} the masked singer _5{6} wabi vlog _1{69} ydestiny _1{1} 
-- 03/04/21 - 396* the voice kids nl _10{0} the voice vv _7{15} koh-lanta _26{4} young sheldon _4{46} mental _1{7} top chef _12{18} unbag _1{198} history3 trapped _1{6} 
-- 04/04/21 - 414* the voice _10{20} the voice kids nl _10{0} the voice vv _7{16} koh-lanta _26{4} young sheldon _4{46} mental _1{7} top chef _12{18} unbag _1{200} 
+- 02/04/21 - 375* mental _1{6} top chef _12{16} unbag _1{196} history3 trapped _1{4} game of talents _1{9} the masked singer _5{6} wabi vlog _1{69} ydestiny _1{1} 
+- 03/04/21 - 396* the voice kids nl _10{0} the voice vv _7{15} koh-lanta _26{4} mental _1{7} top chef _12{18} unbag _1{198} history3 trapped _1{6} 
+- 04/04/21 - 414* the voice _10{20} the voice kids nl _10{0} the voice vv _7{16} koh-lanta _26{4} mental _1{7} top chef _12{18} unbag _1{200} 
 - 05/04/21 - 170* history4 close to you _1{7} the most peaceful place _1{1} my lascivious boss _1{1} the voice _10{23} the voice kids nl _10{1} the voice vv _7{17} koh-lanta _26{5} 
 - 06/04/21 - 620* the voice us _20{41} lls _1{419} mr lipstick _1{0} bt21 original story _1{22} wabi vlog _1{71} history4 close to you _1{8} the most peaceful place _1{3} my lascivious boss _1{1} the voice _10{25} 
 - 07/04/21 - 714* ydestiny _1{2} the voice us _20{42} lls _1{421} mr lipstick _1{1} bt21 original story _1{24} wabi vlog _1{72} history4 close to you _1{8} 
@@ -360,21 +360,21 @@
 - 09/04/21 - 681* game of talents _1{10} the masked singer _5{7} top chef _12{21} ydestiny _1{2} the voice us _20{44} lls _1{425} 
 - 10/04/21 - 220* the voice vv _7{17} koh-lanta _26{5} the voice no _6{43} fish upon the sky _1{0} game of talents _1{11} the masked singer _5{7} top chef _12{21} 
 - 11/04/21 - 225* the voice _10{25} given _1{14} the voice vv _7{17} koh-lanta _26{5} the voice no _6{44} fish upon the sky _1{0} game of talents _1{11} the masked singer _5{7} top chef _12{21} 
-- 12/04/21 - 216* history4 close to you _1{9} the voice kids nl _10{2} young sheldon _4{49} my lascivious boss _1{2} the voice _10{27} given _1{17} the voice vv _7{18} koh-lanta _26{6} 
-- 13/04/21 - 253* the voice us _20{45} history3 trapped _1{12} life senjou no bokura _1{0} history4 close to you _1{9} the voice kids nl _10{2} young sheldon _4{49} my lascivious boss _1{2} the voice _10{27} given _1{18} 
-- 14/04/21 - 182* ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} history4 close to you _1{10} the voice kids nl _10{2} young sheldon _4{50} my lascivious boss _1{2} 
+- 12/04/21 - 216* history4 close to you _1{9} the voice kids nl _10{2} my lascivious boss _1{2} the voice _10{27} given _1{17} the voice vv _7{18} koh-lanta _26{6} 
+- 13/04/21 - 253* the voice us _20{45} history3 trapped _1{12} life senjou no bokura _1{0} history4 close to you _1{9} the voice kids nl _10{2} my lascivious boss _1{2} the voice _10{27} given _1{18} 
+- 14/04/21 - 182* ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} history4 close to you _1{10} the voice kids nl _10{2} my lascivious boss _1{2} 
 - 15/04/21 - 154* top chef _12{22} ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} history4 close to you _1{10} the voice kids nl _10{2} 
 - 16/04/21 - 360* unbag _1{225} the masked singer _5{8} top chef _12{24} ydestiny _1{3} the voice us _20{47} history3 trapped _1{12} life senjou no bokura _1{3} 
 - 17/04/21 - 457* the voice vv _7{18} koh-lanta _26{6} the voice no _6{49} game of talents _1{12} fish upon the sky _1{1} unbag _1{227} the masked singer _5{10} top chef _12{26} 
 - 18/04/21 - 519* the voice _10{27} the voice kids nl _10{2} wabi vlog _1{73} the voice vv _7{20} koh-lanta _26{7} the voice no _6{50} game of talents _1{12} fish upon the sky _1{1} unbag _1{229} 
 - 19/04/21 - 276* history4 close to you _1{11} friend or lover _1{3} weekend to remember _1{1} the voice _10{30} the voice kids nl _10{5} wabi vlog _1{76} the voice vv _7{22} koh-lanta _26{8} 
-- 20/04/21 - 230* the voice us _20{48} /9-1-1 lone star _2{33} /9-1-1 _4{27} young sheldon _4{54} survivor au _4{0} history4 close to you _1{13} friend or lover _1{3} weekend to remember _1{1} the voice _10{31} 
-- 21/04/21 - 290* ydestiny _1{4} the most peaceful place _1{3} my lascivious boss _1{2} wabi vlog _1{78} the voice us _20{50} /9-1-1 lone star _2{34} /9-1-1 _4{27} young sheldon _4{56} survivor au _4{0} history4 close to you _1{15} 
+- 20/04/21 - 230* the voice us _20{48} /9-1-1 lone star _2{33} /9-1-1 _4{27} survivor au _4{0} history4 close to you _1{13} friend or lover _1{3} weekend to remember _1{1} the voice _10{31} 
+- 21/04/21 - 290* ydestiny _1{4} the most peaceful place _1{3} my lascivious boss _1{2} wabi vlog _1{78} the voice us _20{50} /9-1-1 lone star _2{34} /9-1-1 _4{27} survivor au _4{0} history4 close to you _1{15} 
 - 22/04/21 - 282* top chef _12{27} ydestiny _1{5} the most peaceful place _1{3} my lascivious boss _1{2} wabi vlog _1{80} the voice us _20{52} /9-1-1 lone star _2{34} /9-1-1 _4{27} 
 - 23/04/21 - 116* i can see your voice fr _1{0} close friend _1{0} the masked singer _5{11} top chef _12{28} ydestiny _1{5} the most peaceful place _1{3} my lascivious boss _1{2} 
 - 24/04/21 - 140* wtfock _5{0} koh-lanta _26{8} the voice vv _7{22} the voice no _6{56} fish upon the sky _1{2} i can see your voice fr _1{0} close friend _1{0} the masked singer _5{12} 
-- 25/04/21 - 224* the voice _10{32} young sheldon _4{60} the voice kids nl _10{5} wtfock _5{0} koh-lanta _26{10} the voice vv _7{23} the voice no _6{58} fish upon the sky _1{2} 
-- 26/04/21 - 180* history4 close to you _1{16} close friend _1{1} weekend to remember _1{2} the voice _10{34} young sheldon _4{63} the voice kids nl _10{6} wtfock _5{1} koh-lanta _26{12} 
+- 25/04/21 - 224* the voice _10{32} the voice kids nl _10{5} wtfock _5{0} koh-lanta _26{10} the voice vv _7{23} the voice no _6{58} fish upon the sky _1{2} 
+- 26/04/21 - 180* history4 close to you _1{16} close friend _1{1} weekend to remember _1{2} the voice _10{34} the voice kids nl _10{6} wtfock _5{1} koh-lanta _26{12} 
 - 27/04/21 - 639* the voice us _20{53} /9-1-1 lone star _2{35} /9-1-1 _4{28} my lascivious boss _1{3} history3 modc _1{0} lls _1{462} survivor au _4{1} history4 close to you _1{18} close friend _1{2} weekend to remember _1{2} 
 - 28/04/21 - 764* lls _1{464} ydestiny _1{6} wabi vlog _1{90} the voice us _20{54} /9-1-1 lone star _2{35} /9-1-1 _4{28} my lascivious boss _1{4} history3 modc _1{0} survivor au _4{3} history4 close to you _1{18} 
 - 29/04/21 - 763* top chef _12{30} lls _1{466} ydestiny _1{7} wabi vlog _1{91} the voice us _20{54} /9-1-1 lone star _2{35} /9-1-1 _4{28} my lascivious boss _1{4} history3 modc _1{0} survivor au _4{4} 
@@ -382,7 +382,7 @@
 - 01/05/21 - 942* wtfock _5{2} the voice kids nl _10{7} the voice no _6{67} the voice vv _7{25} koh-lanta _26{13} fish upon the sky _1{4} unbag _1{256} the masked singer _5{15} top chef _12{32} lls _1{471} 
 - 02/05/21 - 449* the voice _10{36} rpdrdu _1{0} wtfock _5{2} the voice kids nl _10{8} the voice no _6{69} the voice vv _7{26} koh-lanta _26{13} fish upon the sky _1{4} unbag _1{258} the masked singer _5{15} 
 - 03/05/21 - 648* lls _1{476} history3 trapped _1{15} history3 modc _1{2} history4 close to you _1{20} weekend to remember _1{4} the voice _10{38} rpdrdu _1{1} wtfock _5{3} the voice kids nl _10{9} the voice no _6{72} 
-- 04/05/21 - 757* /9-1-1 lone star _2{37} /9-1-1 _4{30} the voice no _6{74} lls _1{478} young sheldon _4{72} survivor au _4{12} my lascivious boss _1{6} history3 trapped _1{16} history3 modc _1{2} history4 close to you _1{21} weekend to remember _1{4} 
+- 04/05/21 - 757* /9-1-1 lone star _2{37} /9-1-1 _4{30} the voice no _6{74} lls _1{478} survivor au _4{12} my lascivious boss _1{6} history3 trapped _1{16} history3 modc _1{2} history4 close to you _1{21} weekend to remember _1{4} 
 
 
 
