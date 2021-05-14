@@ -335,6 +335,7 @@
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée| <!-- 50 -->
 |the sweet blood|the sweet blood|15|serie(***)|corée|           <!-- 54 -->
 |lovely writer|lovely writer|12|serie|thailande|              <!-- 38 -->
+|love death & robots 2||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -534,7 +535,6 @@
 |skam france 8|||||0|<!--  -->
 |top secret together||?|||0|<!-- 14/5 -->
 |an eye for an eye 1|||||0|<!-- 17/05 -->
-|love death & robots 2|||||0|<!--  -->
 |special 2||8|||0|<!-- 20/5 -->
 |RPDRAS 6||?|||0|<!-- 22/5 -->
 |lego masters 2||?|||0|<!-- 2/6 -->
