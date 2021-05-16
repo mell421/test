@@ -13,7 +13,7 @@ list=( "Lls _1" "Unbag _1" "Wabi vlog _1"
 "The voice no _6" "The voice us _20" 
 "" 
 "/9-1-1 lone star _2" "Bt21 original story _1" "Top chef _12" "/9-1-1 _4" 
-"Given _1" "The voice vv _7" "History4 close to you _1" 
+"Given _1" "The voice vv _7" 
 "History3 trapped _1" "The masked singer _5" "Precise shot _1" 
 "Koh-lanta _26" "Game of talents _1" "Survivor au _4" "Mental _1" "Ydestiny _1" "Bt21 vlog _1" )
 

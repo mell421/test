@@ -36,7 +36,6 @@ Weekend to remember 1x4
 My lascivious boss 1x6
 The voice no 6x18
 History3 trapped 1x14
-History4 close to you 1x9
 Survivor au 4x10
 Given 1x6
 Rpdrdu 1x2
@@ -75,7 +74,6 @@ Bt21 vlog 1x3
 * Bt21 vlog 1x1
 * Bt21 original story 1x1
 Schools out lets date now 1x5
-* History4 close to you 1x1
 * Koh-lanta 26x1
 * Game of talents 1x1
 * The masked singer 5x1

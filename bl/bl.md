@@ -137,6 +137,7 @@
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|   <!-- 100 -->
 |the sweet blood|the sweet blood|15|serie(***)|corée|           <!-- 101 -->
 |lovely writer|lovely writer|12|serie|thailande|                <!-- 102 -->
+|history4.1|history4 close to you|10|serie|taiwan|            <!-- 40 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -183,7 +184,6 @@
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 35 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
 |history3.1|history3 trapped|20|serie|taiwan|14|                 <!-- 37 -->
-|history4.1|history4 close to you|10|serie|taiwan|9|            <!-- 40 -->
 |friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
 |ydestiny|ydestiny|15|serie|thailande|7|                        <!-- 44 -->
