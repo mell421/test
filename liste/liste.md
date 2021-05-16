@@ -337,6 +337,7 @@
 |lovely writer|lovely writer|12|serie|thailande|              <!-- 38 -->
 |love death & robots 2||8|||<!--  -->
 |young sheldon 4||18|||<!--  -->
+|TV FR 10||15|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -483,7 +484,6 @@
 |you never eat alone 1||10|||4|<!--  -->
 |school's out let's date now 1||6|||5|<!--  -->
 |TV VV 7||16|||10|<!--  -->
-|TV FR 10||?|||10|<!--  -->
 |TBBT 11||24|||1|<!--  -->
 |wabi vlog 1||?|||1|<!--  -->
 |wabi game 1||?|||1|<!--  -->

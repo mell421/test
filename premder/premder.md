@@ -37,7 +37,6 @@ My lascivious boss 1x6
 The voice no 6x18
 History3 trapped 1x14
 History4 close to you 1x9
-The voice 10x14
 Survivor au 4x10
 Given 1x6
 Rpdrdu 1x2
@@ -98,7 +97,6 @@ Wabi game 1x2
 * Wabi vlog 1x1
 * Tbbt 11x1
 The untamed 1x3
-* The voice 10x1
 * The voice vv 7x1
 * Schools out lets date now 1x1
 * You never eat alone 1x1
