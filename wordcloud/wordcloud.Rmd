@@ -9,6 +9,7 @@ suppressWarnings(source("~/GitHub/ajoutRep/ajoutRep/R/sources.R"))
 suppressWarnings(library(tidyverse))
 
 ```
+
 - [accueil](#accueil)
 - [page copy](#page-copy)
 - [copy max](#copy-max)
@@ -16,13 +17,9 @@ suppressWarnings(library(tidyverse))
 - [lettre](#lettre)
 - [liste EC : recherche alea](#liste-ec--recherche-alea)
 - [liste EC : recherche par Titre](#liste-ec--recherche-par-titre)
-- [Page test max](#page-test-max)
-- [Page test BIS](#page-test-bis)
-- [](#)
-
-```{r}
-
-```
+- [liste EC](#liste-ec)
+- [liste TER](#liste-ter)
+- [liste film](#liste-film)
 
 ## accueil
 [haut](#sommaire)
