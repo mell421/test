@@ -6,6 +6,7 @@ document.write(`
     <ul>
       <li><a href="index.html">debut et sorties</a></li>
       <li><a href="sheets.html">app sheets</a></li>
+      <li><a href="wordcloud/wordcloud.html">wordcloud</a></li>
     </ul>
   </li>
   <li><a href="#">tableaux</a>

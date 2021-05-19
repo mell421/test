@@ -361,7 +361,6 @@
 * Drag race holland _1
 * Survivor au _3
 ### sem 03-05-2021 
-* *insererici*
 * Clem _11
 * My superboss _1
 * Why are you like this _1
@@ -369,7 +368,6 @@
 * The voice kids ger _9
 * Pekin express _14
 ### sem 10-05-2021 
-* *insererici*
 * Nobleman ryus wedding _1
 * The circle br _1
 * The circle us _2
@@ -383,13 +381,40 @@
 * The sweet blood _1
 ### sem 24-05-2021 
 * *insererici*
+### sem 31-05-2021 
+* *insererici*
+### sem 07-06-2021 
+* *insererici*
 
 
 ---
 
 ## bientot
 * Mr lipstick _1
-* 
+* Life senjou no bokura _1
+* Given _1
+* $ a jour $
+* Special _2
+* /9-1-1 _4
+* /9-1-1 lone star _2
+* The voice us _20
+* Close friend _1
+* Game of talents _1
+* The voice no _6
+* The voice vv _7
+* The most peaceful place _1
+* Top chef _12
+* The masked singer _5
+* Koh-lanta _26
+* Skinship _2
+* Love victor _2
+* Elite _4
+* Rpdrdu _1
+* Fish upon the sky _1
+* Wtfock _5
+* Ydestiny _1
+* Skam france _8
+* Drag race esp _1
 
 ---
 
