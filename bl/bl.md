@@ -5,10 +5,17 @@
 
 # liste de bl
 
-## date de maj
-04/04/21
+## sommaire
+- [liste de bl](#liste-de-bl)
+  - [sommaire](#sommaire)
+  - [SKAM REMAKES](#skam-remakes)
+  - [asie](#asie)
+  - [terminé](#terminé)
+  - [en cours, a jour](#en-cours-a-jour)
+  - [non commencée, date connue](#non-commencée-date-connue)
+  - [a venir](#a-venir)
 
-## SKAM + REMAKES
+## SKAM REMAKES
  
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
@@ -31,7 +38,7 @@
 \* bl (side couple) <!-- -->  
 \*\* avec acteurs de bl <!-- -->  
 \*\*\*  autre asie<!-- -->  
-## terminé = finish
+## terminé
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
@@ -145,7 +152,7 @@
 ||||||<!--  -->
 ||||||<!--  -->
 
-## en cours / a jour = now/up-to-date
+## en cours, a jour
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
@@ -202,7 +209,7 @@
 |||||||<!--  -->
 |||||||<!--  -->
 
- ## non commencée / date connue
+ ## non commencée, date connue
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |

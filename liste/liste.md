@@ -5,8 +5,12 @@
 
 # liste de séries + emissions
 
-## date de maj
-04/04/21
+## sommaire
+- [liste de séries + emissions](#liste-de-séries--emissions)
+  - [sommaire](#sommaire)
+  - [terminé](#terminé)
+  - [en cours, a jour](#en-cours-a-jour)
+  - [a venir](#a-venir)
 
 ## terminé
  
@@ -351,7 +355,7 @@
 ||||||<!--  -->
 
 
-## en cours / a jour
+## en cours, a jour
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |

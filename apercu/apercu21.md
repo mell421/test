@@ -2,18 +2,48 @@
 <!-- -->
 [PDF](./apercu21.pdf) [MD](./apercu21.md) 
 
-
 # ajout reponse 2021
 
-## date de maj
-03/04/21
+## sommaire
+- [ajout reponse 2021](#ajout-reponse-2021)
+  - [sommaire](#sommaire)
+  - [Aperçu semaine](#aperçu-semaine)
+      - [sem 04-01-2021](#sem-04-01-2021)
+      - [sem 11-01-2021](#sem-11-01-2021)
+      - [sem 18-01-2021](#sem-18-01-2021)
+      - [sem 25-01-2021](#sem-25-01-2021)
+      - [sem 01-02-2021](#sem-01-02-2021)
+      - [sem 08-02-2021](#sem-08-02-2021)
+      - [sem 15-02-2021](#sem-15-02-2021)
+      - [sem 22-02-2021](#sem-22-02-2021)
+      - [sem 01-03-2021](#sem-01-03-2021)
+      - [sem 08-03-2021](#sem-08-03-2021)
+      - [sem 15-03-2021](#sem-15-03-2021)
+      - [sem 22-03-2021](#sem-22-03-2021)
+      - [sem 29-03-2021](#sem-29-03-2021)
+      - [sem 05-04-2021](#sem-05-04-2021)
+      - [sem 12-04-2021](#sem-12-04-2021)
+      - [sem 19-04-2021](#sem-19-04-2021)
+      - [sem 26-04-2021](#sem-26-04-2021)
+      - [sem 03-05-2021](#sem-03-05-2021)
+  - [apercu mois](#apercu-mois)
+      - [mois 01-01-2021](#mois-01-01-2021)
+      - [mois 01-02-2021](#mois-01-02-2021)
+      - [mois 01-03-2021](#mois-01-03-2021)
+      - [mois 01-04-2021](#mois-01-04-2021)
+      - [mois 01-05-2021](#mois-01-05-2021)
+  - [conclu](#conclu)
+  - [conclu bis](#conclu-bis)
+
+
+
 
 ## Aperçu semaine
 #### sem 04-01-2021 
 Rpdru _9x8(1) Together with me _1x2(1) The shipper _1x4(1) Unbag _1x13(1) Ghost runner _1x5(1) Friend zone _1x3(1) Joséphine ange gardien _23x5(1) 
 #### sem 11-01-2021 
 Romantic blue _1x2(1) TharnType _2x5(1) Unlocked _1x2(1) Friend zone _1x4(1) 
-#### sem 18-01-2021 -> 
+#### sem 18-01-2021 
 Koishite akuma _1x4(3) The voice no _6x3(2) Warper series _1x2(1) Unbag _1x14(1) Pearl next door _1x3(2) 
 #### sem 25-01-2021 
 Tien bromance _1x2(1) Ben x jim _1x3(1) The voice no _6x4(1) /9-1-1 lone star _2x2(1) /9-1-1 _4x2(1) 
