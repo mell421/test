@@ -8,18 +8,69 @@ output:
 suppressWarnings(source("~/GitHub/ajoutRep/ajoutRep/R/sources.R"))
 suppressWarnings(library(tidyverse))
 ```
-## sommaire
-- [sommaire](#sommaire)
+
+```{css eval=FALSE, include=FALSE}
+.titre { font-weight: bold; background-color: aquamarine;}
+
+#menu ul {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	text-align:center;
+}
+#menu li {
+	float:left;
+	margin:auto;
+	padding:0;
+	background-color:grey;
+}
+#menu li a {
+	display:block;
+	width:90px;
+	color:white;
+	text-decoration:none;
+	padding:5px;
+}
+#menu li a:hover {
+	color:#FFD700;
+}
+
+#menu ul li ul {
+	display:none;
+}
+
+#menu ul li:hover ul {
+	display:block;
+}
+#menu li:hover ul li {
+	float:none;
+}
+
+#menu li ul {
+	position:absolute;
+}
+
+#menu {background-color: rgb(218, 189, 186);}
+```
+[retour](./../index.html)  
+
+<!-- -->
+[MD](./wordcloud.Rmd)  
+
+## menu
+- [menu](#menu)
 - [accueil](#accueil)
 - [page copy](#page-copy)
 - [copy max](#copy-max)
 - [test resume](#test-resume)
-- [lettre](#lettre)
-- [liste EC : recherche alea](#liste-ec--recherche-alea)
-- [liste EC : recherche par Titre](#liste-ec--recherche-par-titre)
+- [debut](#debut)
+- [liste EC : alea](#liste-ec--alea)
+- [liste EC : Titre](#liste-ec--titre)
 - [liste EC](#liste-ec)
 - [liste TER](#liste-ter)
 - [liste film](#liste-film)
+  
+
 
 ## accueil
 [haut](#sommaire)
@@ -269,7 +320,7 @@ main <- function(){
 suppressWarnings(main())
 ```
 
-## lettre
+## debut
 [haut](#sommaire)
 ```{r lettre, echo=FALSE}
 
@@ -278,7 +329,7 @@ data %>% filter(episode == 1,status=="en cours") %>% select(descr.img,tisaep,Hor
 
 ```
 
-## liste EC : recherche alea
+## liste EC : alea
 [haut](#sommaire)
 ```{r alea, echo=FALSE}
 
@@ -287,7 +338,7 @@ max <- 100
 data %>% filter(status == "en cours") %>% sample_n(max) %>% group_by(tisa) %>% summarise(pc = n()) %>% arrange(desc(pc)) %>% filter(pc >= 2)
 ```
 
-## liste EC : recherche par Titre
+## liste EC : Titre
 [haut](#sommaire)
 ```{r titre, echo=FALSE}
 suppressWarnings(library(tidyverse))
