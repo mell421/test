@@ -4,3 +4,4 @@
 *.jpeg
 blame
 log
+!wordcloud/*.png
