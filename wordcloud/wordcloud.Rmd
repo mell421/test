@@ -72,8 +72,9 @@ suppressWarnings(library(tidyverse))
   
 
 
+
 ## accueil
-[haut](#sommaire)
+[haut](#menu)
 ```{r accueil, echo=FALSE}
 text <- data.frame(accueil())
 text <- text[2]
@@ -125,14 +126,14 @@ tm <- function(text){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "accueil.png", width = 800)
+  dev.print(device = png, file = "accueil.png", width = 600)
 }
 
 suppressWarnings(tm(text))
 ```
 
 ## page copy
-[haut](#sommaire)
+[haut](#menu)
 ```{r copy, echo=FALSE}
 
 main <- function(){
@@ -193,7 +194,7 @@ suppressWarnings(main())
 ```
 
 ## copy max
-[haut](#sommaire)
+[haut](#menu)
 ```{r copyMax, echo=FALSE}
 
 main <- function(){
@@ -259,7 +260,7 @@ suppressWarnings(main())
 ```
 
 ## test resume
-[haut](#sommaire)
+[haut](#menu)
 ```{r resume, echo=FALSE}
 
 main <- function(){
@@ -321,7 +322,7 @@ suppressWarnings(main())
 ```
 
 ## debut
-[haut](#sommaire)
+[haut](#menu)
 ```{r lettre, echo=FALSE}
 
 data <- data.frame(listDesc.desc())
@@ -330,7 +331,7 @@ data %>% filter(episode == 1,status=="en cours") %>% select(descr.img,tisaep,Hor
 ```
 
 ## liste EC : alea
-[haut](#sommaire)
+[haut](#menu)
 ```{r alea, echo=FALSE}
 
 data <- data.frame(listDesc.desc())
@@ -339,7 +340,7 @@ data %>% filter(status == "en cours") %>% sample_n(max) %>% group_by(tisa) %>% s
 ```
 
 ## liste EC : Titre
-[haut](#sommaire)
+[haut](#menu)
 ```{r titre, echo=FALSE}
 suppressWarnings(library(tidyverse))
 df <- data.frame(listDesc.ec())
@@ -357,7 +358,7 @@ data %>% filter(Titre == titre) %>% select(tisaep,Horodateur)
 ```
 
 ## liste EC
-[haut](#sommaire)
+[haut](#menu)
 ```{r ec, echo=FALSE}
 suppressWarnings(library(tidyverse))
 data <- data.frame(listDesc.desc())
@@ -365,7 +366,7 @@ data %>% filter(status == "en cours") %>% select(tisaep,Horodateur)
 ```
 
 ## liste TER
-[haut](#sommaire)
+[haut](#menu)
 ```{r ter, echo=FALSE}
 suppressWarnings(library(tidyverse))
 data <- data.frame(listDesc.desc())
@@ -373,7 +374,7 @@ data %>% filter(status == "terminée") %>% select(tisaep,Horodateur)
 ```
 
 ## liste film
-[haut](#sommaire)
+[haut](#menu)
 ```{r film, echo=FALSE}
 suppressWarnings(library(tidyverse))
 data <- data.frame(listDesc.desc())
