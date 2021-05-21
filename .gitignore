@@ -5,3 +5,5 @@
 blame
 log
 !wordcloud/*.png
+run.R
+run.bat
