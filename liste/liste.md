@@ -343,6 +343,8 @@
 |young sheldon 4||18|||<!--  -->
 |TV FR 10||15|||<!--  -->
 |history4.1|history4 close to you|10|serie|taiwan|            <!-- 40 -->
+|911 4||14|||<!--  -->
+|911 lone star 2||14|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -482,43 +484,41 @@
 |warper series 1|warper series|?|show|thailande|1|<!--  -->
 |TV NO 6|||||13|<!--  -->
 |koishite akuma 1||?|||3|<!--  -->
-|911 4||14|||8|<!--  -->
-|911 lone star 2||14|||8|<!--  -->
 |tien bromance 1||10|||1|<!--  -->
 |slam dance 1||?|||1|<!--  -->
 |you never eat alone 1||10|||4|<!--  -->
 |school's out let's date now 1||6|||5|<!--  -->
-|TV VV 7||16|||10|<!--  -->
+|TV VV 7||17|||10|<!--  -->
 |TBBT 11||24|||1|<!--  -->
 |wabi vlog 1||?|||1|<!--  -->
 |wabi game 1||?|||1|<!--  -->
 |the harvest season 1||?|||1|<!--  -->
 |top chef 12||?|||6|<!--  -->
 |bangkok love stories innocence 1||?|||1|<!--  -->
-|given 1||?|||5|<!--  -->
+|given 1||11|||8|<!--  -->
 |history3.1|history3 trapped|20|||4|<!--  -->
-|TV US 20||?|||9|<!--  -->
+|TV US 20||?|||13|<!--  -->
 |TMS 5||13|||5|<!--  -->
-|game of talents 1||?|||5|<!--  -->
-|KL 26||?|||5|<!--  -->
+|game of talents 1||10|||9|<!--  -->
+|KL 26||?|||10|<!--  -->
 |BT21 original story 1||?|||6|<!--  -->
 |BT21 vlog||?|||3|<!--  -->
-|friend or lover||4|||1|<!--  -->
+|friend or lover||4|||2|<!--  -->
 |precise shot 1||20|||4|<!--  -->
-|ydestiny 1||15|||2|<!--  -->
+|ydestiny 1||15|||8|<!--  -->
 |TVK NL 10||?|||2|<!--  -->
-|my lascivious boss 1||?|||2|<!--  -->
-|the most peaceful place 1||6|||2|<!--  -->
+|my lascivious boss 1||10|||2|<!--  -->
+|the most peaceful place 1||6|||5|<!--  -->
 |mr lipstick 1||?|||2|<!--  -->
-|fish upon the sky||?|||1|<!--  -->
+|fish upon the sky||?|||6|<!--  -->
 |life senjou no bokura 1||4|||2|<!--  -->
-|wheel of love|weekend to remember|8|||1|<!-- 18/4 -->
-|surv au 4||26|||1|<!--  -->
-|close friend|close friend|6|||1|<!-- 22/04 -->
-|ICSYV FR 1||?|||1|<!--  -->
+|wheel of love|weekend to remember|10|||5|<!-- 18/4 -->
+|surv au 4||26|||11|<!--  -->
+|close friend|close friend|6|||5|<!-- 22/04 -->
+|ICSYV FR 1||?|||2|<!--  -->
 |wtfock 5||10|||2|<!--  -->
 |history3.2|history3 modc|10|serie|taiwan|1|                    <!-- 53 -->
-|RPDRDU 1||8|||1|<!-- 22/5 -->
+|RPDRDU 1||8|||3|<!-- 22/5 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

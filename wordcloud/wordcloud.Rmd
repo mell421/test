@@ -7,6 +7,8 @@ output:
 ```{r setup, include = FALSE}
 suppressWarnings(source("~/GitHub/ajoutRep/ajoutRep/R/sources.R"))
 suppressWarnings(library(tidyverse))
+library(ggraph)
+library(tidygraph)
 ```
 
 ```{css eval=FALSE, include=FALSE}
@@ -73,8 +75,9 @@ suppressWarnings(library(tidyverse))
 - [premder](#premder)
 - [prem der](#prem-der)
 - [nb](#nb)
+- [networks](#networks)
 
-  
+
 
 
 
@@ -131,7 +134,7 @@ tm <- function(text){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "accueil.png", width = 600)
+  # dev.print(device = png, file = "accueil.png", width = 600)
 }
 
 suppressWarnings(tm(text))
@@ -191,7 +194,7 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "copy.png", width = 600)
+  # dev.print(device = png, file = "copy.png", width = 600)
 
 }
 
@@ -257,7 +260,7 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "max.png", width = 600)
+  # dev.print(device = png, file = "max.png", width = 600)
 
 }
 
@@ -319,7 +322,7 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "ec.png", width = 600)
+  # dev.print(device = png, file = "ec.png", width = 600)
 
 }
 
@@ -413,4 +416,59 @@ data <- data.frame(aListes())
 
 data %>% filter(titre != "")  %>% select(titre,nbDeLignes) 
 data %>% filter(titre_1 != "")  %>% select(titre_1,nbPage) 
+```
+
+## networks
+[haut](#menu)
+```{r, echo=FALSE}
+### EXPLORE STRUCTURE 
+df <- data.frame(listDesc.ec())
+df <- df[1:30,]
+# head(df)
+
+main <- function(){
+  ### CREATE NODES TABLE 
+get_random_names <- function(n) { 
+  unique_names <- distinct(df, Titre_1, .keep_all = TRUE) 
+  index <- sample(1:nrow(unique_names), n, replace = FALSE) 
+  names <- unique_names[index, ] 
+  names 
+}
+
+nodes <- get_random_names(10)
+
+
+### CREATE LINKS TABLE 
+# Create source and target vectors 
+src <- sample(1:nrow(nodes), nrow(nodes)*2, replace = TRUE)  
+target <- sample(1:nrow(nodes), nrow(nodes)*2, replace = TRUE)
+
+# Merge vectors to form a single table 
+links <- data.frame(src, target)
+
+# Clean up 
+links <- data.frame(src, target) %>%  
+  filter(!(src == target)) 
+links <- unique(links[c("src", "target")])
+
+
+### PLOT NETWORK 
+# Type cast to tbl_graph object
+social_net_tbls <- tbl_graph(nodes = nodes, 
+                             edges = links, 
+                             directed = FALSE)
+
+# Create the network 
+social_net <- ggraph(social_net_tbls, layout = "stress") +
+  geom_node_point(size = 2) +                                         
+  geom_node_text(aes(label = Titre_1), nudge_y = 0.05, nudge_x = 0.2)+ 
+  geom_edge_link() +
+  theme_void()
+
+# Render the network 
+  show(social_net)
+  # dev.print(device = png, file = "socialnet.png", width = 600)
+}
+main()
+
 ```
