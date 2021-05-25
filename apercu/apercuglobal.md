@@ -672,9 +672,9 @@ Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x
 * conclu 15/05/21 = Lls _1 > 12; Unbag _1 > 4; History3 trapped _1 > 3; The voice no _6 > 2; Survivor au _4 > 2; The voice us _20 > 1; 
 * conclu 16/05/21 = Lls _1 > 12; Unbag _1 > 4; History3 trapped _1 > 3; The voice no _6 > 2; Survivor au _4 > 2; The voice us _20 > 1; 
 * conclu 17/05/21 = Lls _1 > 12; Unbag _1 > 4; The voice no _6 > 2; Survivor au _4 > 2; My lascivious boss _1 > 2; History3 trapped _1 > 1; 
-* conclu 18/05/21 = Lls _1 > 12; Unbag _1 > 4; The voice no _6 > 2; History3 trapped _1 > 2; Plan b _1 > 2; 
-* conclu 19/05/21 = Lls _1 > 12; Unbag _1 > 4; The voice us _20 > 4; The voice no _6 > 2; Ydestiny _1 > 1; Plan b _1 > 1; 
-* conclu 20/05/21 = Lls _1 > 12; Unbag _1 > 4; The voice us _20 > 3; The voice no _6 > 2; Survivor au _4 > 2; Plan b _1 > 1; 
+* conclu 18/05/21 = Lls _1 > 12; Unbag _1 > 4; The voice no _6 > 2; History3 trapped _1 > 2; 
+* conclu 19/05/21 = Lls _1 > 12; Unbag _1 > 4; The voice us _20 > 4; The voice no _6 > 2; Ydestiny _1 > 1; 
+* conclu 20/05/21 = Lls _1 > 12; Unbag _1 > 4; The voice us _20 > 3; The voice no _6 > 2; Survivor au _4 > 2; 
 * conclu 21/05/21 = Lls _1 > 12; The voice no _6 > 3; The voice us _20 > 3; Survivor au _4 > 2; Game of talents _1 > 2; Unbag _1 > 2; 
 * conclu 22/05/21 = Lls _1 > 12; The voice no _6 > 3; Survivor au _4 > 2; The voice us _20 > 2; The most peaceful place _1 > 2; Unbag _1 > 2; The voice vv _7 > 1; 
 
@@ -925,11 +925,11 @@ Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x
 * concluBis 15/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice vv _7 > 7; History3 trapped _1 > 7; The voice no _6 > 6; Survivor au _4 > 4; The voice us _20 > 3; The voice kids nl _10 > 2; We are not human _1 > 2; Top chef _12 > 1; 
 * concluBis 16/05/21 = Lls _1 > 20; Unbag _1 > 8; History3 trapped _1 > 7; The voice no _6 > 6; The voice vv _7 > 5; Survivor au _4 > 4; The voice us _20 > 3; The most peaceful place _1 > 2; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; Nitiman _1 > 1; 
 * concluBis 17/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice no _6 > 6; My lascivious boss _1 > 6; Survivor au _4 > 4; The voice vv _7 > 3; History3 trapped _1 > 3; The voice us _20 > 2; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; The most peaceful place _1 > 1; 
-* concluBis 18/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice no _6 > 7; History3 trapped _1 > 4; Plan b _1 > 4; The voice vv _7 > 3; The voice us _20 > 2; We are not human _1 > 2; Top chef _12 > 1; 
-* concluBis 19/05/21 = Lls _1 > 20; The voice us _20 > 11; Unbag _1 > 8; The voice no _6 > 6; Ydestiny _1 > 3; Plan b _1 > 3; We are not human _1 > 2; The voice vv _7 > 1; Weekend to remember _1 > 1; 
-* concluBis 20/05/21 = Lls _1 > 20; The voice us _20 > 10; Unbag _1 > 8; The voice no _6 > 6; Top chef _12 > 4; Survivor au _4 > 4; Plan b _1 > 3; We are not human _1 > 2; Ydestiny _1 > 1; 
-* concluBis 21/05/21 = Lls _1 > 20; The voice us _20 > 10; The voice no _6 > 7; Survivor au _4 > 4; Game of talents _1 > 4; Unbag _1 > 4; Top chef _12 > 2; Close friend _1 > 2; Plan b _1 > 2; We are not human _1 > 2; The voice vv _7 > 1; The masked singer _5 > 1; 
-* concluBis 22/05/21 = Lls _1 > 20; The voice us _20 > 9; The voice no _6 > 7; The voice vv _7 > 5; Survivor au _4 > 4; The most peaceful place _1 > 4; Unbag _1 > 4; Plan b _1 > 2; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; 
+* concluBis 18/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice no _6 > 7; History3 trapped _1 > 4; The voice vv _7 > 3; The voice us _20 > 2; We are not human _1 > 2; Top chef _12 > 1; 
+* concluBis 19/05/21 = Lls _1 > 20; The voice us _20 > 11; Unbag _1 > 8; The voice no _6 > 6; Ydestiny _1 > 3; We are not human _1 > 2; The voice vv _7 > 1; Weekend to remember _1 > 1; 
+* concluBis 20/05/21 = Lls _1 > 20; The voice us _20 > 10; Unbag _1 > 8; The voice no _6 > 6; Top chef _12 > 4; Survivor au _4 > 4; We are not human _1 > 2; Ydestiny _1 > 1; 
+* concluBis 21/05/21 = Lls _1 > 20; The voice us _20 > 10; The voice no _6 > 7; Survivor au _4 > 4; Game of talents _1 > 4; Unbag _1 > 4; Top chef _12 > 2; Close friend _1 > 2; We are not human _1 > 2; The voice vv _7 > 1; The masked singer _5 > 1; 
+* concluBis 22/05/21 = Lls _1 > 20; The voice us _20 > 9; The voice no _6 > 7; The voice vv _7 > 5; Survivor au _4 > 4; The most peaceful place _1 > 4; Unbag _1 > 4; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; 
 
 
 
