@@ -160,41 +160,41 @@
 - 15/04/21 (eff) - lls _1{438} unbag _1{223} wabi vlog _1{73} the voice us _20{47} the voice no _6{47} bt21 original story _1{33} my vampire boyfriend _1{25} 
 - 16/04/21 (eff) - lls _1{440} unbag _1{225} wabi vlog _1{73} the voice no _6{48} the voice us _20{47} bt21 original story _1{33} my vampire boyfriend _1{25} 
 - 17/04/21 (eff) - lls _1{442} unbag _1{227} wabi vlog _1{73} the voice no _6{49} the voice us _20{47} bt21 original story _1{33} top chef _12{26} 
-- 18/04/21 (eff) - lls _1{444} unbag _1{229} wabi vlog _1{73} the voice no _6{50} the voice us _20{47} bt21 original story _1{33} given _1{27} 
-- 19/04/21 (eff) - lls _1{446} unbag _1{232} wabi vlog _1{76} the voice no _6{52} the voice us _20{48} bt21 original story _1{33} top chef _12{27} given _1{27} 
-- 20/04/21 (eff) - lls _1{448} unbag _1{234} wabi vlog _1{77} the voice no _6{53} the voice us _20{48} bt21 original story _1{33} top chef _12{27} given _1{27} 
-- 21/04/21 (eff) - lls _1{450} unbag _1{236} wabi vlog _1{78} the voice no _6{54} the voice us _20{50} bt21 original story _1{33} top chef _12{27} given _1{27} 
-- 22/04/21 (eff) - lls _1{452} unbag _1{238} wabi vlog _1{80} the voice no _6{55} the voice us _20{52} bt21 original story _1{33} top chef _12{27} given _1{27} 
-- 23/04/21 (eff) - lls _1{454} unbag _1{240} wabi vlog _1{82} the voice no _6{55} the voice us _20{52} bt21 original story _1{33} top chef _12{28} given _1{27} 
-- 24/04/21 (eff) - lls _1{456} unbag _1{242} wabi vlog _1{84} the voice no _6{56} the voice us _20{52} bt21 original story _1{33} top chef _12{29} given _1{27} the voice vv _7{22} 
-- 25/04/21 (eff) - lls _1{458} unbag _1{244} wabi vlog _1{86} the voice no _6{58} the voice us _20{52} bt21 original story _1{33} top chef _12{29} given _1{27} the voice vv _7{23} 
-- 26/04/21 (eff) - lls _1{460} unbag _1{246} wabi vlog _1{88} the voice no _6{61} the voice us _20{53} bt21 original story _1{33} top chef _12{30} given _1{27} the voice vv _7{24} 
-- 27/04/21 (eff) - lls _1{462} unbag _1{248} wabi vlog _1{89} the voice no _6{63} the voice us _20{53} bt21 original story _1{33} top chef _12{30} given _1{27} 
-- 28/04/21 (eff) - lls _1{464} unbag _1{250} wabi vlog _1{90} the voice no _6{64} the voice us _20{54} bt21 original story _1{33} top chef _12{30} given _1{27} 
-- 29/04/21 (eff) - lls _1{466} unbag _1{251} wabi vlog _1{91} the voice no _6{64} the voice us _20{54} bt21 original story _1{33} top chef _12{30} given _1{27} the voice vv _7{24} 
-- 30/04/21 (eff) - lls _1{468} unbag _1{253} wabi vlog _1{93} the voice no _6{65} the voice us _20{54} bt21 original story _1{33} top chef _12{31} given _1{27} the voice vv _7{24} 
-- 01/05/21 (eff) - lls _1{471} unbag _1{256} wabi vlog _1{95} the voice no _6{67} the voice us _20{55} bt21 original story _1{34} top chef _12{32} given _1{28} the voice vv _7{25} 
-- 02/05/21 (eff) - lls _1{473} unbag _1{258} wabi vlog _1{96} the voice no _6{69} the voice us _20{55} bt21 original story _1{34} top chef _12{32} given _1{28} the voice vv _7{26} 
-- 03/05/21 (eff) - lls _1{476} unbag _1{261} wabi vlog _1{98} the voice no _6{72} the voice us _20{56} bt21 original story _1{34} top chef _12{33} given _1{28} the voice vv _7{27} 
-- 04/05/21 (eff) - lls _1{478} unbag _1{263} wabi vlog _1{99} the voice no _6{74} the voice us _20{56} bt21 original story _1{34} top chef _12{33} given _1{28} the voice vv _7{27} 
-- 05/05/21 (eff) - lls _1{480} unbag _1{265} wabi vlog _1{100} the voice no _6{76} the voice us _20{56} bt21 original story _1{34} top chef _12{33} given _1{28} the voice vv _7{27} 
-- 06/05/21 (eff) - lls _1{482} unbag _1{267} wabi vlog _1{100} the voice no _6{78} the voice us _20{56} bt21 original story _1{34} top chef _12{33} given _1{28} the voice vv _7{27} my vampire boyfriend _1{25} 
-- 07/05/21 (eff) - lls _1{484} unbag _1{269} wabi vlog _1{100} the voice no _6{80} the voice us _20{56} top chef _12{34} bt21 original story _1{34} given _1{28} the voice vv _7{27} my vampire boyfriend _1{25} 
-- 08/05/21 (eff) - lls _1{486} unbag _1{271} wabi vlog _1{100} the voice no _6{82} the voice us _20{56} top chef _12{35} bt21 original story _1{34} given _1{28} the voice vv _7{27} 
-- 09/05/21 (eff) - lls _1{488} unbag _1{273} wabi vlog _1{100} the voice no _6{84} the voice us _20{56} top chef _12{36} bt21 original story _1{34} given _1{28} the voice vv _7{28} survivor au _4{21} 
-- 10/05/21 (eff) - lls _1{491} unbag _1{275} wabi vlog _1{100} the voice no _6{87} the voice us _20{57} top chef _12{37} bt21 original story _1{34} given _1{29} the voice vv _7{29} survivor au _4{24} 
-- 11/05/21 (eff) - lls _1{493} unbag _1{277} wabi vlog _1{100} the voice no _6{89} the voice us _20{57} top chef _12{37} bt21 original story _1{34} given _1{29} the voice vv _7{29} survivor au _4{26} 
-- 12/05/21 (eff) - lls _1{495} unbag _1{279} wabi vlog _1{100} the voice no _6{91} the voice us _20{57} top chef _12{37} bt21 original story _1{34} given _1{29} the voice vv _7{29} survivor au _4{27} 
-- 13/05/21 (eff) - lls _1{497} unbag _1{281} wabi vlog _1{100} the voice no _6{93} the voice us _20{58} top chef _12{37} bt21 original story _1{34} given _1{29} the voice vv _7{29} history3 trapped _1{28} 
-- 14/05/21 (eff) - lls _1{499} unbag _1{283} wabi vlog _1{100} the voice no _6{95} the voice us _20{59} top chef _12{38} bt21 original story _1{34} history3 trapped _1{30} survivor au _4{30} given _1{29} the voice vv _7{29} 
-- 15/05/21 (eff) - lls _1{501} unbag _1{285} wabi vlog _1{100} the voice no _6{97} the voice us _20{61} top chef _12{39} bt21 original story _1{34} history3 trapped _1{32} survivor au _4{32} the voice vv _7{29} given _1{29} my vampire boyfriend _1{25} 
-- 16/05/21 (eff) - lls _1{503} unbag _1{287} wabi vlog _1{100} the voice no _6{99} the voice us _20{63} top chef _12{40} history3 trapped _1{34} survivor au _4{34} bt21 original story _1{34} the voice vv _7{30} given _1{29} my vampire boyfriend _1{25} 
-- 17/05/21 (eff) - lls _1{506} unbag _1{290} the voice no _6{102} wabi vlog _1{100} the voice us _20{66} top chef _12{42} history3 trapped _1{36} survivor au _4{36} bt21 original story _1{34} the voice vv _7{32} given _1{30} my vampire boyfriend _1{25} the masked singer _5{22} 
-- 18/05/21 (eff) - lls _1{508} unbag _1{292} the voice no _6{104} wabi vlog _1{100} the voice us _20{67} top chef _12{43} history3 trapped _1{38} survivor au _4{38} bt21 original story _1{34} the voice vv _7{33} given _1{32} my vampire boyfriend _1{25} the masked singer _5{22} 
-- 19/05/21 (eff) - lls _1{510} unbag _1{294} the voice no _6{106} wabi vlog _1{100} the voice us _20{68} top chef _12{44} history3 trapped _1{40} survivor au _4{38} given _1{34} the voice vv _7{34} bt21 original story _1{34} my vampire boyfriend _1{25} the masked singer _5{22} 
-- 20/05/21 (eff) - lls _1{512} unbag _1{296} the voice no _6{108} wabi vlog _1{100} the voice us _20{70} top chef _12{44} history3 trapped _1{40} survivor au _4{38} given _1{35} the voice vv _7{35} bt21 original story _1{34} my vampire boyfriend _1{25} the masked singer _5{22} 
-- 21/05/21 (eff) - lls _1{514} unbag _1{298} the voice no _6{110} wabi vlog _1{100} the voice us _20{72} top chef _12{45} survivor au _4{40} history3 trapped _1{40} given _1{36} the voice vv _7{35} bt21 original story _1{34} my vampire boyfriend _1{25} the masked singer _5{22} 
-- 22/05/21 (eff) - lls _1{516} unbag _1{300} the voice no _6{112} wabi vlog _1{100} the voice us _20{74} top chef _12{46} survivor au _4{42} history3 trapped _1{40} given _1{37} the voice vv _7{36} bt21 original story _1{34} my vampire boyfriend _1{25} the masked singer _5{23} 
+- 18/04/21 (eff) - lls _1{444} unbag _1{229} wabi vlog _1{73} the voice no _6{50} the voice us _20{47} bt21 original story _1{33} 
+- 19/04/21 (eff) - lls _1{446} unbag _1{232} wabi vlog _1{76} the voice no _6{52} the voice us _20{48} bt21 original story _1{33} top chef _12{27} 
+- 20/04/21 (eff) - lls _1{448} unbag _1{234} wabi vlog _1{77} the voice no _6{53} the voice us _20{48} bt21 original story _1{33} top chef _12{27} 
+- 21/04/21 (eff) - lls _1{450} unbag _1{236} wabi vlog _1{78} the voice no _6{54} the voice us _20{50} bt21 original story _1{33} top chef _12{27} 
+- 22/04/21 (eff) - lls _1{452} unbag _1{238} wabi vlog _1{80} the voice no _6{55} the voice us _20{52} bt21 original story _1{33} top chef _12{27} 
+- 23/04/21 (eff) - lls _1{454} unbag _1{240} wabi vlog _1{82} the voice no _6{55} the voice us _20{52} bt21 original story _1{33} top chef _12{28} 
+- 24/04/21 (eff) - lls _1{456} unbag _1{242} wabi vlog _1{84} the voice no _6{56} the voice us _20{52} bt21 original story _1{33} top chef _12{29} the voice vv _7{22} 
+- 25/04/21 (eff) - lls _1{458} unbag _1{244} wabi vlog _1{86} the voice no _6{58} the voice us _20{52} bt21 original story _1{33} top chef _12{29} the voice vv _7{23} 
+- 26/04/21 (eff) - lls _1{460} unbag _1{246} wabi vlog _1{88} the voice no _6{61} the voice us _20{53} bt21 original story _1{33} top chef _12{30} the voice vv _7{24} 
+- 27/04/21 (eff) - lls _1{462} unbag _1{248} wabi vlog _1{89} the voice no _6{63} the voice us _20{53} bt21 original story _1{33} top chef _12{30} 
+- 28/04/21 (eff) - lls _1{464} unbag _1{250} wabi vlog _1{90} the voice no _6{64} the voice us _20{54} bt21 original story _1{33} top chef _12{30} 
+- 29/04/21 (eff) - lls _1{466} unbag _1{251} wabi vlog _1{91} the voice no _6{64} the voice us _20{54} bt21 original story _1{33} top chef _12{30} the voice vv _7{24} 
+- 30/04/21 (eff) - lls _1{468} unbag _1{253} wabi vlog _1{93} the voice no _6{65} the voice us _20{54} bt21 original story _1{33} top chef _12{31} the voice vv _7{24} 
+- 01/05/21 (eff) - lls _1{471} unbag _1{256} wabi vlog _1{95} the voice no _6{67} the voice us _20{55} bt21 original story _1{34} top chef _12{32} the voice vv _7{25} 
+- 02/05/21 (eff) - lls _1{473} unbag _1{258} wabi vlog _1{96} the voice no _6{69} the voice us _20{55} bt21 original story _1{34} top chef _12{32} the voice vv _7{26} 
+- 03/05/21 (eff) - lls _1{476} unbag _1{261} wabi vlog _1{98} the voice no _6{72} the voice us _20{56} bt21 original story _1{34} top chef _12{33} the voice vv _7{27} 
+- 04/05/21 (eff) - lls _1{478} unbag _1{263} wabi vlog _1{99} the voice no _6{74} the voice us _20{56} bt21 original story _1{34} top chef _12{33} the voice vv _7{27} 
+- 05/05/21 (eff) - lls _1{480} unbag _1{265} wabi vlog _1{100} the voice no _6{76} the voice us _20{56} bt21 original story _1{34} top chef _12{33} the voice vv _7{27} 
+- 06/05/21 (eff) - lls _1{482} unbag _1{267} wabi vlog _1{100} the voice no _6{78} the voice us _20{56} bt21 original story _1{34} top chef _12{33} the voice vv _7{27} my vampire boyfriend _1{25} 
+- 07/05/21 (eff) - lls _1{484} unbag _1{269} wabi vlog _1{100} the voice no _6{80} the voice us _20{56} top chef _12{34} bt21 original story _1{34} the voice vv _7{27} my vampire boyfriend _1{25} 
+- 08/05/21 (eff) - lls _1{486} unbag _1{271} wabi vlog _1{100} the voice no _6{82} the voice us _20{56} top chef _12{35} bt21 original story _1{34} the voice vv _7{27} 
+- 09/05/21 (eff) - lls _1{488} unbag _1{273} wabi vlog _1{100} the voice no _6{84} the voice us _20{56} top chef _12{36} bt21 original story _1{34} the voice vv _7{28} survivor au _4{21} 
+- 10/05/21 (eff) - lls _1{491} unbag _1{275} wabi vlog _1{100} the voice no _6{87} the voice us _20{57} top chef _12{37} bt21 original story _1{34} the voice vv _7{29} survivor au _4{24} 
+- 11/05/21 (eff) - lls _1{493} unbag _1{277} wabi vlog _1{100} the voice no _6{89} the voice us _20{57} top chef _12{37} bt21 original story _1{34} the voice vv _7{29} survivor au _4{26} 
+- 12/05/21 (eff) - lls _1{495} unbag _1{279} wabi vlog _1{100} the voice no _6{91} the voice us _20{57} top chef _12{37} bt21 original story _1{34} the voice vv _7{29} survivor au _4{27} 
+- 13/05/21 (eff) - lls _1{497} unbag _1{281} wabi vlog _1{100} the voice no _6{93} the voice us _20{58} top chef _12{37} bt21 original story _1{34} the voice vv _7{29} history3 trapped _1{28} 
+- 14/05/21 (eff) - lls _1{499} unbag _1{283} wabi vlog _1{100} the voice no _6{95} the voice us _20{59} top chef _12{38} bt21 original story _1{34} history3 trapped _1{30} survivor au _4{30} the voice vv _7{29} 
+- 15/05/21 (eff) - lls _1{501} unbag _1{285} wabi vlog _1{100} the voice no _6{97} the voice us _20{61} top chef _12{39} bt21 original story _1{34} history3 trapped _1{32} survivor au _4{32} the voice vv _7{29} my vampire boyfriend _1{25} 
+- 16/05/21 (eff) - lls _1{503} unbag _1{287} wabi vlog _1{100} the voice no _6{99} the voice us _20{63} top chef _12{40} history3 trapped _1{34} survivor au _4{34} bt21 original story _1{34} the voice vv _7{30} my vampire boyfriend _1{25} 
+- 17/05/21 (eff) - lls _1{506} unbag _1{290} the voice no _6{102} wabi vlog _1{100} the voice us _20{66} top chef _12{42} history3 trapped _1{36} survivor au _4{36} bt21 original story _1{34} the voice vv _7{32} my vampire boyfriend _1{25} the masked singer _5{22} 
+- 18/05/21 (eff) - lls _1{508} unbag _1{292} the voice no _6{104} wabi vlog _1{100} the voice us _20{67} top chef _12{43} history3 trapped _1{38} survivor au _4{38} bt21 original story _1{34} the voice vv _7{33} my vampire boyfriend _1{25} the masked singer _5{22} 
+- 19/05/21 (eff) - lls _1{510} unbag _1{294} the voice no _6{106} wabi vlog _1{100} the voice us _20{68} top chef _12{44} history3 trapped _1{40} survivor au _4{38} the voice vv _7{34} bt21 original story _1{34} my vampire boyfriend _1{25} the masked singer _5{22} 
+- 20/05/21 (eff) - lls _1{512} unbag _1{296} the voice no _6{108} wabi vlog _1{100} the voice us _20{70} top chef _12{44} history3 trapped _1{40} survivor au _4{38} the voice vv _7{35} bt21 original story _1{34} my vampire boyfriend _1{25} the masked singer _5{22} 
+- 21/05/21 (eff) - lls _1{514} unbag _1{298} the voice no _6{110} wabi vlog _1{100} the voice us _20{72} top chef _12{45} survivor au _4{40} history3 trapped _1{40} the voice vv _7{35} bt21 original story _1{34} my vampire boyfriend _1{25} the masked singer _5{22} 
+- 22/05/21 (eff) - lls _1{516} unbag _1{300} the voice no _6{112} wabi vlog _1{100} the voice us _20{74} top chef _12{46} survivor au _4{42} history3 trapped _1{40} the voice vv _7{36} bt21 original story _1{34} my vampire boyfriend _1{25} the masked singer _5{23} 
 
 
 
@@ -329,10 +329,10 @@
 - 17/02/21 - 199* you never eat alone _1{2} tokyo ghoul _3{2} love in time _1{9} wabi vlog _1{15} my vampire boyfriend _1{9} 
 - 18/02/21 - 127* unlocked _1{2} pearl next door _1{9} top chef _12{1} my vampire boyfriend _1{10} you never eat alone _1{2} 
 - 19/02/21 - 191* unlocked _1{2} pearl next door _1{9} top chef _12{1} my vampire boyfriend _1{12} you never eat alone _1{2} 
-- 20/02/21 - 164* given _1{0} the voice vv _7{4} the voice no _6{26} 
-- 21/02/21 - 191* given _1{1} the voice vv _7{4} the voice no _6{28} 
-- 22/02/21 - 207* history3 trapped _1{1} given _1{3} the voice vv _7{5} the voice no _6{30} 
-- 23/02/21 - 226* wabi vlog _1{22} history3 trapped _1{1} given _1{5} the voice vv _7{5} 
+- 20/02/21 - 164* the voice vv _7{4} the voice no _6{26} 
+- 21/02/21 - 191* the voice vv _7{4} the voice no _6{28} 
+- 22/02/21 - 207* history3 trapped _1{1} the voice vv _7{5} the voice no _6{30} 
+- 23/02/21 - 226* wabi vlog _1{22} history3 trapped _1{1} the voice vv _7{5} 
 - 24/02/21 - 257* wabi vlog _1{24} history3 trapped _1{1} 
 - 25/02/21 - 163* top chef _12{2} wabi vlog _1{26} history3 trapped _1{1} 
 - 26/02/21 - 282* unbag _1{128} top chef _12{3} wabi vlog _1{28} history3 trapped _1{1} 
@@ -379,9 +379,9 @@
 - 08/04/21 - 739* top chef _12{19} ydestiny _1{2} the voice us _20{43} lls _1{423} mr lipstick _1{2} bt21 original story _1{26} wabi vlog _1{72} 
 - 09/04/21 - 681* game of talents _1{10} the masked singer _5{7} top chef _12{21} ydestiny _1{2} the voice us _20{44} lls _1{425} 
 - 10/04/21 - 220* the voice vv _7{17} koh-lanta _26{5} the voice no _6{43} fish upon the sky _1{0} game of talents _1{11} the masked singer _5{7} top chef _12{21} 
-- 11/04/21 - 225* given _1{14} the voice vv _7{17} koh-lanta _26{5} the voice no _6{44} fish upon the sky _1{0} game of talents _1{11} the masked singer _5{7} top chef _12{21} 
-- 12/04/21 - 216* the voice kids nl _10{2} my lascivious boss _1{2} given _1{17} the voice vv _7{18} koh-lanta _26{6} 
-- 13/04/21 - 253* the voice us _20{45} history3 trapped _1{12} life senjou no bokura _1{0} the voice kids nl _10{2} my lascivious boss _1{2} given _1{18} 
+- 11/04/21 - 225* the voice vv _7{17} koh-lanta _26{5} the voice no _6{44} fish upon the sky _1{0} game of talents _1{11} the masked singer _5{7} top chef _12{21} 
+- 12/04/21 - 216* the voice kids nl _10{2} my lascivious boss _1{2} the voice vv _7{18} koh-lanta _26{6} 
+- 13/04/21 - 253* the voice us _20{45} history3 trapped _1{12} life senjou no bokura _1{0} the voice kids nl _10{2} my lascivious boss _1{2} 
 - 14/04/21 - 182* ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} the voice kids nl _10{2} my lascivious boss _1{2} 
 - 15/04/21 - 154* top chef _12{22} ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} the voice kids nl _10{2} 
 - 16/04/21 - 360* unbag _1{225} the masked singer _5{8} top chef _12{24} ydestiny _1{3} the voice us _20{47} history3 trapped _1{12} life senjou no bokura _1{3} 
@@ -407,17 +407,17 @@
 - 06/05/21 - 846* top chef _12{33} ydestiny _1{10} the voice us _20{56} the voice no _6{78} lls _1{482} survivor au _4{15} my lascivious boss _1{6} history3 trapped _1{16} 
 - 07/05/21 - 857* close friend _1{3} the masked singer _5{16} top chef _12{34} ydestiny _1{10} the voice us _20{56} the voice no _6{80} lls _1{484} 
 - 08/05/21 - 190* wtfock _5{3} the voice vv _7{27} the voice kids nl _10{9} koh-lanta _26{14} nitiman _1{0} skam fr _8{0} fish upon the sky _1{5} game of talents _1{14} close friend _1{3} the masked singer _5{17} 
-- 09/05/21 - 179* history3 trapped _1{19} survivor au _4{21} given _1{28} rpdrdu _1{1} wtfock _5{3} the voice vv _7{28} the voice kids nl _10{10} koh-lanta _26{14} nitiman _1{0} skam fr _8{0} 
-- 10/05/21 - 709* lls _1{491} history3 trapped _1{22} survivor au _4{24} given _1{29} rpdrdu _1{2} wtfock _5{4} the voice vv _7{29} the voice kids nl _10{11} koh-lanta _26{15} 
-- 11/05/21 - 827* weekend to remember _1{4} my lascivious boss _1{7} the voice no _6{89} lls _1{493} history3 trapped _1{24} survivor au _4{26} given _1{29} 
+- 09/05/21 - 179* history3 trapped _1{19} survivor au _4{21} rpdrdu _1{1} wtfock _5{3} the voice vv _7{28} the voice kids nl _10{10} koh-lanta _26{14} nitiman _1{0} skam fr _8{0} 
+- 10/05/21 - 709* lls _1{491} history3 trapped _1{22} survivor au _4{24} rpdrdu _1{2} wtfock _5{4} the voice vv _7{29} the voice kids nl _10{11} koh-lanta _26{15} 
+- 11/05/21 - 827* weekend to remember _1{4} my lascivious boss _1{7} the voice no _6{89} lls _1{493} history3 trapped _1{24} survivor au _4{26} 
 - 12/05/21 - 852* lls _1{495} ydestiny _1{11} the voice us _20{57} weekend to remember _1{4} my lascivious boss _1{8} the voice no _6{91} history3 trapped _1{26} 
 - 13/05/21 - 849* the masked singer _5{18} top chef _12{37} the voice us _20{58} lls _1{497} ydestiny _1{12} weekend to remember _1{4} my lascivious boss _1{8} the voice no _6{93} history3 trapped _1{28} 
 - 14/05/21 - 1000* unbag _1{283} close friend _1{4} i can see your voice fr _1{2} the masked singer _5{20} top chef _12{38} the voice us _20{59} lls _1{499} ydestiny _1{12} weekend to remember _1{4} my lascivious boss _1{8} 
 - 15/05/21 - 490* the voice vv _7{29} the voice kids nl _10{11} koh-lanta _26{15} game of talents _1{15} fish upon the sky _1{6} skam fr _8{1} unbag _1{285} close friend _1{5} i can see your voice fr _1{2} the masked singer _5{21} top chef _12{39} the voice us _20{61} 
 - 16/05/21 - 381* the most peaceful place _1{5} nitiman _1{1} rpdrdu _1{2} the voice vv _7{30} the voice kids nl _10{12} koh-lanta _26{15} game of talents _1{15} fish upon the sky _1{6} skam fr _8{1} unbag _1{287} close friend _1{5} i can see your voice fr _1{2} 
-- 17/05/21 - 645* my lascivious boss _1{9} lls _1{506} given _1{30} the most peaceful place _1{7} nitiman _1{3} rpdrdu _1{3} the voice vv _7{32} the voice kids nl _10{14} koh-lanta _26{16} game of talents _1{16} fish upon the sky _1{7} skam fr _8{2} 
-- 18/05/21 - 790* lls _1{508} plan b _1{0} the voice no _6{104} my lascivious boss _1{11} given _1{32} the most peaceful place _1{8} nitiman _1{3} rpdrdu _1{3} the voice vv _7{33} the voice kids nl _10{15} 
-- 19/05/21 - 833* lls _1{510} weekend to remember _1{5} ydestiny _1{13} an eye for an eye _1{0} the voice us _20{68} plan b _1{2} the voice no _6{106} my lascivious boss _1{11} given _1{34} the most peaceful place _1{8} 
+- 17/05/21 - 645* my lascivious boss _1{9} lls _1{506} the most peaceful place _1{7} nitiman _1{3} rpdrdu _1{3} the voice vv _7{32} the voice kids nl _10{14} koh-lanta _26{16} game of talents _1{16} fish upon the sky _1{7} skam fr _8{2} 
+- 18/05/21 - 790* lls _1{508} plan b _1{0} the voice no _6{104} my lascivious boss _1{11} the most peaceful place _1{8} nitiman _1{3} rpdrdu _1{3} the voice vv _7{33} the voice kids nl _10{15} 
+- 19/05/21 - 833* lls _1{510} weekend to remember _1{5} ydestiny _1{13} an eye for an eye _1{0} the voice us _20{68} plan b _1{2} the voice no _6{106} my lascivious boss _1{11} the most peaceful place _1{8} 
 - 20/05/21 - 909* top chef _12{44} the voice us _20{70} bt21 original story _1{34} survivor au _4{38} lls _1{512} weekend to remember _1{6} ydestiny _1{15} an eye for an eye _1{0} plan b _1{4} the voice no _6{108} 
 - 21/05/21 - 771* lls _1{514} game of talents _1{16} close friend _1{6} the masked singer _5{22} special _2{0} top chef _12{45} the voice us _20{72} bt21 original story _1{34} survivor au _4{40} weekend to remember _1{6} ydestiny _1{16} an eye for an eye _1{0} 
 - 22/05/21 - 761* skam fr _8{2} the voice vv _7{36} the voice kids nl _10{15} koh-lanta _26{16} the most peaceful place _1{8} lls _1{516} game of talents _1{18} close friend _1{7} the masked singer _5{23} special _2{0} top chef _12{46} the voice us _20{74} 

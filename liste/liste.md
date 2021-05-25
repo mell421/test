@@ -345,6 +345,7 @@
 |history4.1|history4 close to you|10|serie|taiwan|            <!-- 40 -->
 |911 4||14|||<!--  -->
 |911 lone star 2||14|||<!--  -->
+|given 1||11|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -495,7 +496,6 @@
 |the harvest season 1||?|||1|<!--  -->
 |top chef 12||?|||6|<!--  -->
 |bangkok love stories innocence 1||?|||1|<!--  -->
-|given 1||11|||8|<!--  -->
 |history3.1|history3 trapped|20|||4|<!--  -->
 |TV US 20||?|||13|<!--  -->
 |TMS 5||13|||5|<!--  -->

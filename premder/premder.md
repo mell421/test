@@ -48,7 +48,6 @@ Plan b 1x2
 * Plan b 1x1
 The voice no 6x19
 My lascivious boss 1x7
-Given 1x8
 Rpdrdu 1x3
 Unbag 1x21
 I can see your voice fr 1x2
@@ -89,7 +88,6 @@ Schools out lets date now 1x5
 You never eat alone 1x4
 * The voice us 20x1
 * History3 trapped 1x1
-* Given 1x1
 Unlocked 1x2
 Pearl next door 1x3
 My vampire boyfriend 1x6
