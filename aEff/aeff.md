@@ -348,45 +348,45 @@
 - 08/03/21 - 687* lls _1{357} the voice vv _7{9} the voice no _6{37} wabi vlog _1{45} 
 - 09/03/21 - 760* lls _1{359} 
 - 10/03/21 - 702* you never eat alone _1{5} the voice us _20{6} lls _1{361} 
-- 11/03/21 - 552* lls _1{363} game of talents _1{0} the masked singer _5{0} wabi vlog _1{51} top chef _12{6} the voice us _20{8} 
-- 12/03/21 - 680* lls _1{365} unbag _1{152} game of talents _1{0} the masked singer _5{0} wabi vlog _1{53} top chef _12{7} the voice us _20{9} 
+- 11/03/21 - 552* lls _1{363} the masked singer _5{0} wabi vlog _1{51} top chef _12{6} the voice us _20{8} 
+- 12/03/21 - 680* lls _1{365} unbag _1{152} the masked singer _5{0} wabi vlog _1{53} top chef _12{7} the voice us _20{9} 
 - 13/03/21 - 852* koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} lls _1{367} 
 - 14/03/21 - 953* lls _1{369} koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} 
 - 15/03/21 - 788* lls _1{372} koh-lanta _26{1} the voice vv _7{10} 
 - 16/03/21 - 788* lls _1{374} koh-lanta _26{1} 
 - 17/03/21 - 779* the voice us _20{11} lls _1{376} 
-- 18/03/21 - 533* lls _1{378} game of talents _1{1} the masked singer _5{1} top chef _12{9} the voice us _20{13} 
-- 19/03/21 - 474* bt21 vlog _1{0} bt21 original story _1{0} schools out lets date now _1{6} lls _1{380} game of talents _1{1} the masked singer _5{1} top chef _12{9} 
-- 20/03/21 - 506* the voice vv _7{10} the voice no _6{38} koh-lanta _26{1} bt21 vlog _1{1} bt21 original story _1{2} schools out lets date now _1{6} lls _1{382} game of talents _1{1} the masked singer _5{1} top chef _12{10} 
+- 18/03/21 - 533* lls _1{378} the masked singer _5{1} top chef _12{9} the voice us _20{13} 
+- 19/03/21 - 474* bt21 vlog _1{0} bt21 original story _1{0} schools out lets date now _1{6} lls _1{380} the masked singer _5{1} top chef _12{9} 
+- 20/03/21 - 506* the voice vv _7{10} the voice no _6{38} koh-lanta _26{1} bt21 vlog _1{1} bt21 original story _1{2} schools out lets date now _1{6} lls _1{382} the masked singer _5{1} top chef _12{10} 
 - 21/03/21 - 657* lls _1{384} the voice vv _7{11} the voice no _6{39} koh-lanta _26{1} bt21 vlog _1{2} bt21 original story _1{4} 
 - 22/03/21 - 672* friend or lover _1{1} lls _1{387} the voice vv _7{12} the voice no _6{40} koh-lanta _26{2} 
 - 23/03/21 - 659* the voice us _20{14} friend or lover _1{1} lls _1{389} the voice vv _7{12} 
 - 24/03/21 - 582* wabi vlog _1{56} the voice us _20{16} friend or lover _1{1} lls _1{391} 
-- 25/03/21 - 195* game of talents _1{3} the masked singer _5{2} top chef _12{12} wabi vlog _1{57} the voice us _20{18} friend or lover _1{1} 
-- 26/03/21 - 204* game of talents _1{4} the masked singer _5{3} top chef _12{13} wabi vlog _1{59} the voice us _20{20} friend or lover _1{1} 
-- 27/03/21 - 171* koh-lanta _26{2} the voice no _6{40} the voice vv _7{12} game of talents _1{6} the masked singer _5{4} top chef _12{14} 
+- 25/03/21 - 195* the masked singer _5{2} top chef _12{12} wabi vlog _1{57} the voice us _20{18} friend or lover _1{1} 
+- 26/03/21 - 204* the masked singer _5{3} top chef _12{13} wabi vlog _1{59} the voice us _20{20} friend or lover _1{1} 
+- 27/03/21 - 171* koh-lanta _26{2} the voice no _6{40} the voice vv _7{12} the masked singer _5{4} top chef _12{14} 
 - 28/03/21 - 260* precise shot _1{0} koh-lanta _26{2} the voice no _6{41} the voice vv _7{13} 
 - 29/03/21 - 652* lls _1{402} history3 trapped _1{3} precise shot _1{3} koh-lanta _26{3} the voice no _6{42} 
 - 30/03/21 - 578* the voice us _20{29} lls _1{404} history3 trapped _1{3} precise shot _1{5} 
 - 31/03/21 - 640* wabi vlog _1{66} ydestiny _1{0} the voice us _20{31} lls _1{406} history3 trapped _1{3} 
-- 01/04/21 - 654* game of talents _1{8} the masked singer _5{6} wabi vlog _1{68} ydestiny _1{1} the voice us _20{34} lls _1{409} 
-- 02/04/21 - 375* mental _1{6} top chef _12{16} unbag _1{196} history3 trapped _1{4} game of talents _1{9} the masked singer _5{6} wabi vlog _1{69} ydestiny _1{1} 
+- 01/04/21 - 654* the masked singer _5{6} wabi vlog _1{68} ydestiny _1{1} the voice us _20{34} lls _1{409} 
+- 02/04/21 - 375* mental _1{6} top chef _12{16} unbag _1{196} history3 trapped _1{4} the masked singer _5{6} wabi vlog _1{69} ydestiny _1{1} 
 - 03/04/21 - 396* the voice kids nl _10{0} the voice vv _7{15} koh-lanta _26{4} mental _1{7} top chef _12{18} unbag _1{198} history3 trapped _1{6} 
 - 04/04/21 - 414* the voice kids nl _10{0} the voice vv _7{16} koh-lanta _26{4} mental _1{7} top chef _12{18} unbag _1{200} 
 - 05/04/21 - 170* the most peaceful place _1{1} my lascivious boss _1{1} the voice kids nl _10{1} the voice vv _7{17} koh-lanta _26{5} 
 - 06/04/21 - 620* the voice us _20{41} lls _1{419} mr lipstick _1{0} bt21 original story _1{22} wabi vlog _1{71} the most peaceful place _1{3} my lascivious boss _1{1} 
 - 07/04/21 - 714* ydestiny _1{2} the voice us _20{42} lls _1{421} mr lipstick _1{1} bt21 original story _1{24} wabi vlog _1{72} 
 - 08/04/21 - 739* top chef _12{19} ydestiny _1{2} the voice us _20{43} lls _1{423} mr lipstick _1{2} bt21 original story _1{26} wabi vlog _1{72} 
-- 09/04/21 - 681* game of talents _1{10} the masked singer _5{7} top chef _12{21} ydestiny _1{2} the voice us _20{44} lls _1{425} 
-- 10/04/21 - 220* the voice vv _7{17} koh-lanta _26{5} the voice no _6{43} fish upon the sky _1{0} game of talents _1{11} the masked singer _5{7} top chef _12{21} 
-- 11/04/21 - 225* the voice vv _7{17} koh-lanta _26{5} the voice no _6{44} fish upon the sky _1{0} game of talents _1{11} the masked singer _5{7} top chef _12{21} 
+- 09/04/21 - 681* the masked singer _5{7} top chef _12{21} ydestiny _1{2} the voice us _20{44} lls _1{425} 
+- 10/04/21 - 220* the voice vv _7{17} koh-lanta _26{5} the voice no _6{43} fish upon the sky _1{0} the masked singer _5{7} top chef _12{21} 
+- 11/04/21 - 225* the voice vv _7{17} koh-lanta _26{5} the voice no _6{44} fish upon the sky _1{0} the masked singer _5{7} top chef _12{21} 
 - 12/04/21 - 216* the voice kids nl _10{2} my lascivious boss _1{2} the voice vv _7{18} koh-lanta _26{6} 
 - 13/04/21 - 253* the voice us _20{45} history3 trapped _1{12} life senjou no bokura _1{0} the voice kids nl _10{2} my lascivious boss _1{2} 
 - 14/04/21 - 182* ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} the voice kids nl _10{2} my lascivious boss _1{2} 
 - 15/04/21 - 154* top chef _12{22} ydestiny _1{3} the voice us _20{46} history3 trapped _1{12} life senjou no bokura _1{1} the voice kids nl _10{2} 
 - 16/04/21 - 360* unbag _1{225} the masked singer _5{8} top chef _12{24} ydestiny _1{3} the voice us _20{47} history3 trapped _1{12} life senjou no bokura _1{3} 
-- 17/04/21 - 457* the voice vv _7{18} koh-lanta _26{6} the voice no _6{49} game of talents _1{12} fish upon the sky _1{1} unbag _1{227} the masked singer _5{10} top chef _12{26} 
-- 18/04/21 - 519* the voice kids nl _10{2} wabi vlog _1{73} the voice vv _7{20} koh-lanta _26{7} the voice no _6{50} game of talents _1{12} fish upon the sky _1{1} unbag _1{229} 
+- 17/04/21 - 457* the voice vv _7{18} koh-lanta _26{6} the voice no _6{49} fish upon the sky _1{1} unbag _1{227} the masked singer _5{10} top chef _12{26} 
+- 18/04/21 - 519* the voice kids nl _10{2} wabi vlog _1{73} the voice vv _7{20} koh-lanta _26{7} the voice no _6{50} fish upon the sky _1{1} unbag _1{229} 
 - 19/04/21 - 276* friend or lover _1{3} weekend to remember _1{1} the voice kids nl _10{5} wabi vlog _1{76} the voice vv _7{22} koh-lanta _26{8} 
 - 20/04/21 - 230* the voice us _20{48} survivor au _4{0} friend or lover _1{3} weekend to remember _1{1} 
 - 21/04/21 - 290* ydestiny _1{4} the most peaceful place _1{3} my lascivious boss _1{2} wabi vlog _1{78} the voice us _20{50} survivor au _4{0} 
@@ -406,21 +406,21 @@
 - 05/05/21 - 806* ydestiny _1{10} the voice us _20{56} the voice no _6{76} lls _1{480} survivor au _4{13} my lascivious boss _1{6} history3 trapped _1{16} history3 modc _1{2} 
 - 06/05/21 - 846* top chef _12{33} ydestiny _1{10} the voice us _20{56} the voice no _6{78} lls _1{482} survivor au _4{15} my lascivious boss _1{6} history3 trapped _1{16} 
 - 07/05/21 - 857* close friend _1{3} the masked singer _5{16} top chef _12{34} ydestiny _1{10} the voice us _20{56} the voice no _6{80} lls _1{484} 
-- 08/05/21 - 190* wtfock _5{3} the voice vv _7{27} the voice kids nl _10{9} koh-lanta _26{14} nitiman _1{0} skam fr _8{0} fish upon the sky _1{5} game of talents _1{14} close friend _1{3} the masked singer _5{17} 
+- 08/05/21 - 190* wtfock _5{3} the voice vv _7{27} the voice kids nl _10{9} koh-lanta _26{14} nitiman _1{0} skam fr _8{0} fish upon the sky _1{5} close friend _1{3} the masked singer _5{17} 
 - 09/05/21 - 179* history3 trapped _1{19} survivor au _4{21} rpdrdu _1{1} wtfock _5{3} the voice vv _7{28} the voice kids nl _10{10} koh-lanta _26{14} nitiman _1{0} skam fr _8{0} 
 - 10/05/21 - 709* lls _1{491} history3 trapped _1{22} survivor au _4{24} rpdrdu _1{2} wtfock _5{4} the voice vv _7{29} the voice kids nl _10{11} koh-lanta _26{15} 
 - 11/05/21 - 827* weekend to remember _1{4} my lascivious boss _1{7} the voice no _6{89} lls _1{493} history3 trapped _1{24} survivor au _4{26} 
 - 12/05/21 - 852* lls _1{495} ydestiny _1{11} the voice us _20{57} weekend to remember _1{4} my lascivious boss _1{8} the voice no _6{91} history3 trapped _1{26} 
 - 13/05/21 - 849* the masked singer _5{18} top chef _12{37} the voice us _20{58} lls _1{497} ydestiny _1{12} weekend to remember _1{4} my lascivious boss _1{8} the voice no _6{93} history3 trapped _1{28} 
 - 14/05/21 - 1000* unbag _1{283} close friend _1{4} i can see your voice fr _1{2} the masked singer _5{20} top chef _12{38} the voice us _20{59} lls _1{499} ydestiny _1{12} weekend to remember _1{4} my lascivious boss _1{8} 
-- 15/05/21 - 490* the voice vv _7{29} the voice kids nl _10{11} koh-lanta _26{15} game of talents _1{15} fish upon the sky _1{6} skam fr _8{1} unbag _1{285} close friend _1{5} i can see your voice fr _1{2} the masked singer _5{21} top chef _12{39} the voice us _20{61} 
-- 16/05/21 - 381* the most peaceful place _1{5} nitiman _1{1} rpdrdu _1{2} the voice vv _7{30} the voice kids nl _10{12} koh-lanta _26{15} game of talents _1{15} fish upon the sky _1{6} skam fr _8{1} unbag _1{287} close friend _1{5} i can see your voice fr _1{2} 
-- 17/05/21 - 645* my lascivious boss _1{9} lls _1{506} the most peaceful place _1{7} nitiman _1{3} rpdrdu _1{3} the voice vv _7{32} the voice kids nl _10{14} koh-lanta _26{16} game of talents _1{16} fish upon the sky _1{7} skam fr _8{2} 
+- 15/05/21 - 490* the voice vv _7{29} the voice kids nl _10{11} koh-lanta _26{15} fish upon the sky _1{6} skam fr _8{1} unbag _1{285} close friend _1{5} i can see your voice fr _1{2} the masked singer _5{21} top chef _12{39} the voice us _20{61} 
+- 16/05/21 - 381* the most peaceful place _1{5} nitiman _1{1} rpdrdu _1{2} the voice vv _7{30} the voice kids nl _10{12} koh-lanta _26{15} fish upon the sky _1{6} skam fr _8{1} unbag _1{287} close friend _1{5} i can see your voice fr _1{2} 
+- 17/05/21 - 645* my lascivious boss _1{9} lls _1{506} the most peaceful place _1{7} nitiman _1{3} rpdrdu _1{3} the voice vv _7{32} the voice kids nl _10{14} koh-lanta _26{16} fish upon the sky _1{7} skam fr _8{2} 
 - 18/05/21 - 790* lls _1{508} the voice no _6{104} my lascivious boss _1{11} the most peaceful place _1{8} nitiman _1{3} rpdrdu _1{3} the voice vv _7{33} the voice kids nl _10{15} 
 - 19/05/21 - 833* lls _1{510} weekend to remember _1{5} ydestiny _1{13} an eye for an eye _1{0} the voice us _20{68} the voice no _6{106} my lascivious boss _1{11} the most peaceful place _1{8} 
 - 20/05/21 - 909* top chef _12{44} the voice us _20{70} bt21 original story _1{34} survivor au _4{38} lls _1{512} weekend to remember _1{6} ydestiny _1{15} an eye for an eye _1{0} the voice no _6{108} 
-- 21/05/21 - 771* lls _1{514} game of talents _1{16} close friend _1{6} the masked singer _5{22} special _2{0} top chef _12{45} the voice us _20{72} bt21 original story _1{34} survivor au _4{40} weekend to remember _1{6} ydestiny _1{16} an eye for an eye _1{0} 
-- 22/05/21 - 761* skam fr _8{2} the voice vv _7{36} the voice kids nl _10{15} koh-lanta _26{16} the most peaceful place _1{8} lls _1{516} game of talents _1{18} close friend _1{7} the masked singer _5{23} special _2{0} top chef _12{46} the voice us _20{74} 
+- 21/05/21 - 771* lls _1{514} close friend _1{6} the masked singer _5{22} special _2{0} top chef _12{45} the voice us _20{72} bt21 original story _1{34} survivor au _4{40} weekend to remember _1{6} ydestiny _1{16} an eye for an eye _1{0} 
+- 22/05/21 - 761* skam fr _8{2} the voice vv _7{36} the voice kids nl _10{15} koh-lanta _26{16} the most peaceful place _1{8} lls _1{516} close friend _1{7} the masked singer _5{23} special _2{0} top chef _12{46} the voice us _20{74} 
 
 
 
