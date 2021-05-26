@@ -38,7 +38,6 @@ Close friend 1x5
 The masked singer 5x11
 * Special 2x1
 Top chef 12x15
-The voice us 20x16
 Bt21 original story 1x8
 Survivor au 4x11
 Ydestiny 1x8
@@ -82,7 +81,6 @@ Schools out lets date now 1x5
 * Koh-lanta 26x1
 * The masked singer 5x1
 You never eat alone 1x4
-* The voice us 20x1
 * History3 trapped 1x1
 Unlocked 1x2
 Pearl next door 1x3
