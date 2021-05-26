@@ -9,6 +9,8 @@ suppressWarnings(source("~/GitHub/ajoutRep/ajoutRep/R/sources.R"))
 suppressWarnings(library(tidyverse))
 library(ggraph)
 library(tidygraph)
+require(devtools)
+library(wordcloud2)
 ```
 
 ```{css eval=FALSE, include=FALSE}
@@ -126,7 +128,7 @@ tm <- function(text){
 
   # Plot the most frequent words
   barplot(dtm_d[1:15,]$freq, las = 2, names.arg = dtm_d[1:15,]$word,
-          col ="lightgreen", main ="Top 15 most frequent words",
+          col =brewer.pal(8, "Dark2"), main ="Top 15 accueil",
           ylab = "Word frequencies")
 
   #generate word cloud
@@ -186,7 +188,7 @@ main <- function(){
 
   # Plot the most frequent words
   barplot(dtm_d[1:15,]$freq, las = 2, names.arg = dtm_d[1:15,]$word,
-          col ="lightgreen", main ="Top 15 most frequent words",
+          col =brewer.pal(8, "Dark2"), main ="Top 15 copy",
           ylab = "Word frequencies")
 
   #generate word cloud
@@ -195,6 +197,7 @@ main <- function(){
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
   # dev.print(device = png, file = "copy.png", width = 600)
+  wordcloud2(data = dtm_d, color = "random-light",shape="circle")
 
 }
 
@@ -251,8 +254,8 @@ main <- function(){
     dtm_d[1:15,]$freq, 
     las = 2, 
     names.arg = dtm_d[1:15,]$word,
-    col ="lightgreen", 
-    main ="Top 15 most frequent words",
+    col =brewer.pal(8, "Dark2"), 
+    main ="Top 15 max",
     ylab = "Word frequencies")
 
   #generate word cloud
@@ -261,6 +264,7 @@ main <- function(){
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
   # dev.print(device = png, file = "max.png", width = 600)
+  wordcloud2(data = dtm_d, color = "random-light",shape="circle")
 
 }
 
@@ -314,7 +318,7 @@ main <- function(){
 
   # Plot the most frequent words
   barplot(dtm_d[1:15,]$freq, las = 2, names.arg = dtm_d[1:15,]$word,
-          col ="lightgreen", main ="Top 15 most frequent words",
+          col =brewer.pal(8, "Dark2"), main ="Top 15 resume",
           ylab = "Word frequencies")
 
   #generate word cloud
@@ -323,6 +327,7 @@ main <- function(){
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
   # dev.print(device = png, file = "ec.png", width = 600)
+  wordcloud2(data = dtm_d, color = "random-light",shape="circle")
 
 }
 
@@ -333,7 +338,7 @@ suppressWarnings(main())
 [haut](#menu)
 ```{r lettre, echo=FALSE}
 data <- data.frame(listDesc.desc())
-data %>% filter(episode == 1,status=="en cours") %>% select(descr.img,tisaep,Horodateur) 
+data %>% filter(episode == 1,status=="en cours") %>% select(tisaep,Horodateur,descr.img) 
 
 ```
 
@@ -420,22 +425,22 @@ data %>% filter(titre_1 != "")  %>% select(titre_1,nbPage)
 
 ## networks
 [haut](#menu)
-```{r, echo=FALSE}
+```{r network1, echo=FALSE}
 ### EXPLORE STRUCTURE 
-df <- data.frame(listDesc.ec())
-df <- df[1:30,]
-# head(df)
+max <- 10
+df <- data.frame(listeCompl.ec())
+df <- df[1:max,]
 
 main <- function(){
   ### CREATE NODES TABLE 
 get_random_names <- function(n) { 
-  unique_names <- distinct(df, Titre_1, .keep_all = TRUE) 
+  unique_names <- distinct(df, en.cours, .keep_all = TRUE) 
   index <- sample(1:nrow(unique_names), n, replace = FALSE) 
   names <- unique_names[index, ] 
   names 
 }
 
-nodes <- get_random_names(10)
+nodes <- get_random_names(max)
 
 
 ### CREATE LINKS TABLE 
@@ -461,13 +466,67 @@ social_net_tbls <- tbl_graph(nodes = nodes,
 # Create the network 
 social_net <- ggraph(social_net_tbls, layout = "stress") +
   geom_node_point(size = 2) +                                         
-  geom_node_text(aes(label = Titre_1), nudge_y = 0.05, nudge_x = 0.2)+ 
+  geom_node_text(aes(label = en.cours), nudge_y = 0.05, nudge_x = 0.2)+ 
   geom_edge_link() +
   theme_void()
 
 # Render the network 
   show(social_net)
-  # dev.print(device = png, file = "socialnet.png", width = 600)
+  # dev.print(device = png, file = "socialnet1.png", width = 600)
+}
+main()
+
+```
+
+## network2
+```{r network2, echo=FALSE}
+### EXPLORE STRUCTURE 
+max <- 10
+df <- data.frame(listeCompl.ec())
+df <- df[1:max,]
+
+main <- function(){
+  ### CREATE NODES TABLE 
+get_random_names <- function(n) { 
+  unique_names <- distinct(df, en.cours, .keep_all = TRUE) 
+  index <- sample(1:nrow(unique_names), n, replace = FALSE) 
+  names <- unique_names[index, ] 
+  names 
+}
+
+nodes <- get_random_names(max)
+
+
+### CREATE LINKS TABLE 
+# Create source and target vectors 
+src <- sample(1:nrow(nodes), nrow(nodes)*2, replace = TRUE)  
+target <- sample(1:nrow(nodes), nrow(nodes)*2, replace = TRUE)
+
+# Merge vectors to form a single table 
+links <- data.frame(src, target)
+
+# Clean up 
+links <- data.frame(src, target) %>%  
+  filter(!(src == target)) 
+links <- unique(links[c("src", "target")])
+
+
+### PLOT NETWORK 
+# Type cast to tbl_graph object
+social_net_tbls <- tbl_graph(nodes = nodes, 
+                             edges = links, 
+                             directed = FALSE)
+
+# Create the network 
+social_net <- ggraph(social_net_tbls, layout = "stress") +
+  geom_node_point(size = 2) +                                         
+  geom_node_text(aes(label = en.cours), nudge_y = 0.05, nudge_x = 0.2)+ 
+  geom_edge_link() +
+  theme_void()
+
+# Render the network 
+  show(social_net)
+  # dev.print(device = png, file = "socialnet1.png", width = 600)
 }
 main()
 
