@@ -35,7 +35,6 @@ Koh-lanta 26x11
 The most peaceful place 1x5
 Lls 1x172
 Close friend 1x5
-The masked singer 5x11
 * Special 2x1
 Top chef 12x15
 Bt21 original story 1x8
@@ -79,7 +78,6 @@ Bt21 vlog 1x3
 * Bt21 original story 1x1
 Schools out lets date now 1x5
 * Koh-lanta 26x1
-* The masked singer 5x1
 You never eat alone 1x4
 * History3 trapped 1x1
 Unlocked 1x2
