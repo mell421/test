@@ -350,6 +350,7 @@
 |game of talents 1||10|||<!--  -->
 |TV US 20||18|||<!--  -->
 |TMS 5||12|||<!--  -->
+|close friend|close friend|6|serie|thailande|                 <!-- 52 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -514,7 +515,6 @@
 |life senjou no bokura 1||4|||2|<!--  -->
 |wheel of love|weekend to remember|10|||5|<!-- 18/4 -->
 |surv au 4||26|||11|<!--  -->
-|close friend|close friend|6|||5|<!-- 22/04 -->
 |ICSYV FR 1||?|||2|<!--  -->
 |wtfock 5||10|||2|<!--  -->
 |history3.2|history3 modc|10|serie|taiwan|1|                    <!-- 53 -->

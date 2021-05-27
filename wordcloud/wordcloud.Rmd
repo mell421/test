@@ -136,8 +136,7 @@ main <- function(){
   TextDoc <- tm_map(TextDoc, stripWhitespace)
   # Eliminate spaces
   # TextDoc <- gsub("[[:blank:]]", "", TextDoc)
-  # Text stemming - which reduces words to their root form
-  # TextDoc <- tm_map(TextDoc, stemDocument)
+  
 
   # Build a term-document matrix
   TextDoc_dtm <- TermDocumentMatrix(TextDoc)

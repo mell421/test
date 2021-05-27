@@ -485,6 +485,7 @@
 * *insererici*
 ### sem 31-05-2021 
 * *insererici*
+* Close friend _1
 * The masked singer _5
 * The voice us _20
 * Game of talents _1
@@ -504,14 +505,10 @@
 * Lls _1
 * $ a jour $
 * Special _2
-* 
-* Close friend _1
-* 
 * The voice no _6
 * The voice vv _7
 * The most peaceful place _1
 * Top chef _12
-* 
 * Koh-lanta _26
 * Skinship _2
 * Love victor _2
@@ -562,7 +559,7 @@
 #### mois 01-05-2021 
 *My superboss _1 Why are you like this _1 Bad roommate _1 The voice kids ger _9 Pekin express _14 Rpdr _13 Drag race holland _1 Survivor au _3 Nailed it holiday _2 The circle france _1 Roommate _2 The voice be _9 Woodward cheer girls _1 Rpdru _13 We best love _2 Meet my angel _1 Atots _1*
 #### mois 01-06-2021 
-*insererici The masked singer _5 The voice us _20 Game of talents _1 Plan b _1 Given _1 /9-1-1 lone star _2 /9-1-1 _4 History4 close to you _1 The voice _10 Young sheldon _4 Love death & robots _2 Lovely writer _1 The sweet blood _1 Nobleman ryus wedding _1 The circle br _1 The circle us _2 Clem _11*
+*insererici Close friend _1 The masked singer _5 The voice us _20 Game of talents _1 Plan b _1 Given _1 /9-1-1 lone star _2 /9-1-1 _4 History4 close to you _1 The voice _10 Young sheldon _4 Love death & robots _2 Lovely writer _1 The sweet blood _1 Nobleman ryus wedding _1 The circle br _1 The circle us _2 Clem _11*
 #### mois 01-07-2021 
 *insererici*
 #### mois 01-08-2021 

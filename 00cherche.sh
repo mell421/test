@@ -19,7 +19,7 @@ list=( "Lls _1" "Unbag _1" "The voice no _6" "Wabi vlog _1"
 
 # entre 9 et 3
 listBis=( "Fish upon the sky _1" 
-"Close friend _1" "Life senjou no bokura _1" "Schools out lets date now _1" "Tokyo ghoul _3" 
+"Life senjou no bokura _1" "Schools out lets date now _1" "Tokyo ghoul _3" 
 "You never eat alone _1" 
 "Nitiman _1" "Mr lipstick _1" 
 "" 

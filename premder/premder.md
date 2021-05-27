@@ -34,7 +34,6 @@ The voice kids nl 10x8
 Koh-lanta 26x11
 The most peaceful place 1x5
 Lls 1x172
-Close friend 1x5
 * Special 2x1
 Top chef 12x15
 Bt21 original story 1x8
@@ -56,7 +55,6 @@ Wabi vlog 1x15
 * History3 modc 1x1
 * Wtfock 5x1
 * I can see your voice fr 1x1
-* Close friend 1x1
 * Survivor au 4x1
 Friend or lover 1x2
 * Weekend to remember 1x1

@@ -145,6 +145,7 @@
 |the sweet blood|the sweet blood|15|serie(***)|corée|           <!-- 101 -->
 |lovely writer|lovely writer|12|serie|thailande|                <!-- 102 -->
 |history4.1|history4 close to you|10|serie|taiwan|            <!-- 40 -->
+|close friend|close friend|6|serie|thailande|                 <!-- 52 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -200,11 +201,11 @@
 |fish upon the sky|fish upon the sky|?|serie|thailande|6|       <!-- 48 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->
 |wheel of love 1|weekend to remember|8|serie|philippines|5|     <!-- 51 -->
-|close friend|close friend|6|serie|thailande|5|                 <!-- 52 -->
 |history3.2|history3 modc|10|serie|taiwan|2|                    <!-- 53 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
+|skinship 2|skinship 2|?|serie|thailande|1|<!-- 22/5 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -234,7 +235,6 @@
 |nitiman|nitiman|?|serie|thailande|0|<!-- 07/05 -->
 |an eye for an eye|an eye for an eye|?|serie(**)|thailande|0|<!-- 17/05 -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
-|skinship 2|skinship 2|?|serie|thailande|0|<!-- 22/5 -->
 |JUIN||||||<!-- -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->
 |JUILLET||||||<!--  -->
