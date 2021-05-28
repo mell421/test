@@ -48,7 +48,7 @@ rmarkdown::render_site()
 ## accueil
 [haut](#menu)
 ```{r accueil, echo=FALSE}
-text <- data.frame(accueil())
+text <- data.frame(listDesc.ec())
 text <- text[2]
 
 tm <- function(text){
@@ -99,6 +99,7 @@ tm <- function(text){
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
   dev.print(device = png, file = "accueil.png", width = 600)
+  wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 }
 
 suppressWarnings(tm(text))
