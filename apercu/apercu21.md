@@ -68,19 +68,19 @@ Friend or lover _1x2(1) Lls _1x122(5) The voice vv _7x8(1) The voice no _6x12(1)
 #### sem 29-03-2021 
 Lls _1x130(8) History3 trapped _1x3(1) Precise shot _1x5(4) Koh-lanta _26x4(1) The voice no _6x13(1) The voice vv _7x9(1) Top chef _12x8(1) Wabi vlog _1x11(2) 
 #### sem 05-04-2021 
-The most peaceful place _1x3(2) My lascivious boss _1x2(1) The voice kids nl _10x2(1) The voice vv _7x10(1) Koh-lanta _26x5(1) Mental _1x6(2) Top chef _12x9(1) Unbag _1x19(1) History3 trapped _1x5(2) Wabi vlog _1x12(1) Ydestiny _1x2(1) 
+My lascivious boss _1x2(1) The voice kids nl _10x2(1) The voice vv _7x10(1) Koh-lanta _26x5(1) Mental _1x6(2) Top chef _12x9(1) Unbag _1x19(1) History3 trapped _1x5(2) Wabi vlog _1x12(1) Ydestiny _1x2(1) 
 #### sem 12-04-2021 
 The voice kids nl _10x3(1) My lascivious boss _1x3(1) The voice vv _7x11(1) Koh-lanta _26x6(1) The voice no _6x14(1) Fish upon the sky _1x2(1) Top chef _12x10(1) Ydestiny _1x3(1) Lls _1x132(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Wabi vlog _1x13(1) 
 #### sem 19-04-2021 
 Friend or lover _1x3(1) Weekend to remember _1x2(1) The voice kids nl _10x4(1) Wabi vlog _1x14(1) The voice vv _7x12(1) Koh-lanta _26x7(1) The voice no _6x15(1) Fish upon the sky _1x3(1) Unbag _1x20(1) Top chef _12x11(1) Ydestiny _1x4(1) History3 trapped _1x6(1) Life senjou no bokura _1x3(2) 
 #### sem 26-04-2021 
-Weekend to remember _1x3(1) The voice kids nl _10x5(1) Wtfock _5x2(1) Koh-lanta _26x8(1) The voice vv _7x13(1) The voice no _6x16(1) Fish upon the sky _1x4(1) I can see your voice fr _1x2(1) Top chef _12x12(1) Ydestiny _1x5(1) The most peaceful place _1x4(1) My lascivious boss _1x4(1) Wabi vlog _1x15(1) Survivor au _4x2(1) 
+Weekend to remember _1x3(1) The voice kids nl _10x5(1) Wtfock _5x2(1) Koh-lanta _26x8(1) The voice vv _7x13(1) The voice no _6x16(1) Fish upon the sky _1x4(1) I can see your voice fr _1x2(1) Top chef _12x12(1) Ydestiny _1x5(1) My lascivious boss _1x4(1) Wabi vlog _1x15(1) Survivor au _4x2(1) 
 #### sem 03-05-2021 
 Lls _1x141(9) History3 trapped _1x8(2) History3 modc _1x3(2) Weekend to remember _1x4(1) Rpdrdu _1x2(1) Wtfock _5x3(1) The voice kids nl _10x6(1) The voice no _6x17(1) The voice vv _7x14(1) Koh-lanta _26x9(1) Fish upon the sky _1x5(1) Unbag _1x21(1) Top chef _12x13(1) Ydestiny _1x6(1) Wabi vlog _1x16(1) My lascivious boss _1x5(1) Survivor au _4x6(4) 
 #### sem 10-05-2021 
 Lls _1x146(5) History3 trapped _1x15(7) Survivor au _4x11(5) Rpdrdu _1x3(1) Wtfock _5x4(1) The voice vv _7x15(1) The voice kids nl _10x7(1) Koh-lanta _26x10(1) Nitiman _1x2(1) Skam fr _8x2(1) Fish upon the sky _1x6(1) Top chef _12x14(1) Ydestiny _1x7(1) The voice no _6x18(1) My lascivious boss _1x6(1) 
 #### sem 17-05-2021 
-My lascivious boss _1x8(2) Lls _1x162(16) The most peaceful place _1x5(1) Nitiman _1x3(1) Rpdrdu _1x4(1) The voice vv _7x16(1) The voice kids nl _10x8(1) Koh-lanta _26x11(1) Fish upon the sky _1x7(1) Skam fr _8x3(1) Unbag _1x22(1) I can see your voice fr _1x3(1) Top chef _12x15(1) Ydestiny _1x8(1) Weekend to remember _1x5(1) The voice no _6x19(1) 
+My lascivious boss _1x8(2) Lls _1x162(16) Nitiman _1x3(1) Rpdrdu _1x4(1) The voice vv _7x16(1) The voice kids nl _10x8(1) Koh-lanta _26x11(1) Fish upon the sky _1x7(1) Skam fr _8x3(1) Unbag _1x22(1) I can see your voice fr _1x3(1) Top chef _12x15(1) Ydestiny _1x8(1) Weekend to remember _1x5(1) The voice no _6x19(1) 
 
 
 
@@ -96,7 +96,7 @@ The voice vv _7x5(4) The voice no _6x9(4) Unbag _1x17(2) Top chef _12x4(3) Wabi 
 #### mois 01-04-2021 
 Wabi vlog _1x12(5) Ydestiny _1x2(1) Lls _1x130(32) History3 trapped _1x3(1) Precise shot _1x5(4) Koh-lanta _26x4(3) The voice no _6x13(4) The voice vv _7x9(4) Top chef _12x8(4) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
-Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x14(5) Koh-lanta _26x9(5) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Lls _1x139(9) Ydestiny _1x6(4) Wabi vlog _1x16(4) My lascivious boss _1x5(4) History3 modc _1x2(1) Survivor au _4x6(5) Weekend to remember _1x3(2) I can see your voice fr _1x2(1) The most peaceful place _1x4(3) Friend or lover _1x3(1) History3 trapped _1x6(3) Life senjou no bokura _1x3(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
+Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x14(5) Koh-lanta _26x9(5) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Lls _1x139(9) Ydestiny _1x6(4) Wabi vlog _1x16(4) My lascivious boss _1x5(4) History3 modc _1x2(1) Survivor au _4x6(5) Weekend to remember _1x3(2) I can see your voice fr _1x2(1) Friend or lover _1x3(1) History3 trapped _1x6(3) Life senjou no bokura _1x3(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
 
 
 
@@ -201,7 +201,7 @@ Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x
 * conclu 02/04/21 > Lls _1 > 12; Unbag _1 > 4; Precise shot _1 > 2; History3 trapped _1 > 1; Top chef _12 > 1; We are not human _1 > 1; 
 * conclu 03/04/21 > Lls _1 > 12; Unbag _1 > 4; Precise shot _1 > 2; History3 trapped _1 > 1; We are not human _1 > 1; 
 * conclu 04/04/21 > Lls _1 > 12; Unbag _1 > 4; History3 trapped _1 > 1; We are not human _1 > 1; 
-* conclu 05/04/21 > Unbag _1 > 5; Lls _1 > 3; The most peaceful place _1 > 2; Mental _1 > 1; We are not human _1 > 1; 
+* conclu 05/04/21 > Unbag _1 > 5; Lls _1 > 3; Mental _1 > 1; We are not human _1 > 1; 
 * conclu 06/04/21 > Lls _1 > 9; Unbag _1 > 4; Bt21 original story _1 > 1; 
 * conclu 07/04/21 > Lls _1 > 9; Unbag _1 > 4; Bt21 original story _1 > 1; We are not human _1 > 1; 
 * conclu 08/04/21 > Lls _1 > 9; Unbag _1 > 4; Top chef _12 > 2; Bt21 original story _1 > 1; We are not human _1 > 1; 
@@ -248,7 +248,7 @@ Wtfock _5x3(2) The voice kids nl _10x6(5) The voice no _6x17(4) The voice vv _7x
 * conclu 19/05/21 = Lls _1 > 12; Unbag _1 > 4; The voice no _6 > 2; Ydestiny _1 > 1; 
 * conclu 20/05/21 = Lls _1 > 12; Unbag _1 > 4; The voice no _6 > 2; Survivor au _4 > 2; 
 * conclu 21/05/21 = Lls _1 > 12; The voice no _6 > 3; Survivor au _4 > 2; Unbag _1 > 2; 
-* conclu 22/05/21 = Lls _1 > 12; The voice no _6 > 3; Survivor au _4 > 2; The most peaceful place _1 > 2; Unbag _1 > 2; The voice vv _7 > 1; 
+* conclu 22/05/21 = Lls _1 > 12; The voice no _6 > 3; Survivor au _4 > 2; Unbag _1 > 2; The voice vv _7 > 1; 
 
 
 
@@ -354,7 +354,7 @@ Wabi vlog _1 > 5; Lls _1 > 5; The harvest season _1 > 4; We are not human _1 > 4
 * concluBis 02/04/21 > Lls _1 > 20; Unbag _1 > 8; Precise shot _1 > 4; Top chef _12 > 3; History3 trapped _1 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; Mental _1 > 1; Kaamelott _5 > 1; 
 * concluBis 03/04/21 > Lls _1 > 20; Unbag _1 > 8; Precise shot _1 > 4; History3 trapped _1 > 3; We are not human _1 > 3; The voice vv _7 > 2; 
 * concluBis 04/04/21 > Lls _1 > 20; Unbag _1 > 8; History3 trapped _1 > 3; We are not human _1 > 3; Mental _1 > 2; 
-* concluBis 05/04/21 > Unbag _1 > 9; Lls _1 > 5; The most peaceful place _1 > 4; Mental _1 > 3; We are not human _1 > 3; History3 trapped _1 > 2; 
+* concluBis 05/04/21 > Unbag _1 > 9; Lls _1 > 5; Mental _1 > 3; We are not human _1 > 3; History3 trapped _1 > 2; 
 * concluBis 06/04/21 > Lls _1 > 17; Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; Mr lipstick _1 > 1; 
 * concluBis 07/04/21 > Lls _1 > 17; Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Mr lipstick _1 > 1; 
 * concluBis 08/04/21 > Lls _1 > 16; Unbag _1 > 8; Top chef _12 > 5; Bt21 original story _1 > 3; We are not human _1 > 3; 
@@ -395,13 +395,13 @@ Wabi vlog _1 > 5; Lls _1 > 5; The harvest season _1 > 4; We are not human _1 > 4
 * concluBis 13/05/21 = Lls _1 > 20; The voice no _6 > 7; History3 trapped _1 > 7; Top chef _12 > 4; Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
 * concluBis 14/05/21 = Lls _1 > 20; Unbag _1 > 10; History3 trapped _1 > 7; The voice no _6 > 6; Survivor au _4 > 4; Top chef _12 > 2; We are not human _1 > 2; 
 * concluBis 15/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice vv _7 > 7; History3 trapped _1 > 7; The voice no _6 > 6; Survivor au _4 > 4; The voice kids nl _10 > 2; We are not human _1 > 2; Top chef _12 > 1; 
-* concluBis 16/05/21 = Lls _1 > 20; Unbag _1 > 8; History3 trapped _1 > 7; The voice no _6 > 6; The voice vv _7 > 5; Survivor au _4 > 4; The most peaceful place _1 > 2; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; Nitiman _1 > 1; 
-* concluBis 17/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice no _6 > 6; My lascivious boss _1 > 6; Survivor au _4 > 4; The voice vv _7 > 3; History3 trapped _1 > 3; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; The most peaceful place _1 > 1; 
+* concluBis 16/05/21 = Lls _1 > 20; Unbag _1 > 8; History3 trapped _1 > 7; The voice no _6 > 6; The voice vv _7 > 5; Survivor au _4 > 4; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; Nitiman _1 > 1; 
+* concluBis 17/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice no _6 > 6; My lascivious boss _1 > 6; Survivor au _4 > 4; The voice vv _7 > 3; History3 trapped _1 > 3; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; 
 * concluBis 18/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice no _6 > 7; History3 trapped _1 > 4; The voice vv _7 > 3; We are not human _1 > 2; Top chef _12 > 1; 
 * concluBis 19/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice no _6 > 6; Ydestiny _1 > 3; We are not human _1 > 2; The voice vv _7 > 1; Weekend to remember _1 > 1; 
 * concluBis 20/05/21 = Lls _1 > 20; Unbag _1 > 8; The voice no _6 > 6; Top chef _12 > 4; Survivor au _4 > 4; We are not human _1 > 2; Ydestiny _1 > 1; 
 * concluBis 21/05/21 = Lls _1 > 20; The voice no _6 > 7; Survivor au _4 > 4; Unbag _1 > 4; Top chef _12 > 2; We are not human _1 > 2; The voice vv _7 > 1; 
-* concluBis 22/05/21 = Lls _1 > 20; The voice no _6 > 7; The voice vv _7 > 5; Survivor au _4 > 4; The most peaceful place _1 > 4; Unbag _1 > 4; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; 
+* concluBis 22/05/21 = Lls _1 > 20; The voice no _6 > 7; The voice vv _7 > 5; Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; Top chef _12 > 1; The voice kids nl _10 > 1; 
 
 
 

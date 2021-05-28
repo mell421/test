@@ -373,8 +373,8 @@
 - 02/04/21 - 375* mental _1{6} top chef _12{16} unbag _1{196} history3 trapped _1{4} wabi vlog _1{69} ydestiny _1{1} 
 - 03/04/21 - 396* the voice kids nl _10{0} the voice vv _7{15} koh-lanta _26{4} mental _1{7} top chef _12{18} unbag _1{198} history3 trapped _1{6} 
 - 04/04/21 - 414* the voice kids nl _10{0} the voice vv _7{16} koh-lanta _26{4} mental _1{7} top chef _12{18} unbag _1{200} 
-- 05/04/21 - 170* the most peaceful place _1{1} my lascivious boss _1{1} the voice kids nl _10{1} the voice vv _7{17} koh-lanta _26{5} 
-- 06/04/21 - 620* lls _1{419} mr lipstick _1{0} bt21 original story _1{22} wabi vlog _1{71} the most peaceful place _1{3} my lascivious boss _1{1} 
+- 05/04/21 - 170* my lascivious boss _1{1} the voice kids nl _10{1} the voice vv _7{17} koh-lanta _26{5} 
+- 06/04/21 - 620* lls _1{419} mr lipstick _1{0} bt21 original story _1{22} wabi vlog _1{71} my lascivious boss _1{1} 
 - 07/04/21 - 714* ydestiny _1{2} lls _1{421} mr lipstick _1{1} bt21 original story _1{24} wabi vlog _1{72} 
 - 08/04/21 - 739* top chef _12{19} ydestiny _1{2} lls _1{423} mr lipstick _1{2} bt21 original story _1{26} wabi vlog _1{72} 
 - 09/04/21 - 681* top chef _12{21} ydestiny _1{2} lls _1{425} 
@@ -389,9 +389,9 @@
 - 18/04/21 - 519* the voice kids nl _10{2} wabi vlog _1{73} the voice vv _7{20} koh-lanta _26{7} the voice no _6{50} fish upon the sky _1{1} unbag _1{229} 
 - 19/04/21 - 276* friend or lover _1{3} weekend to remember _1{1} the voice kids nl _10{5} wabi vlog _1{76} the voice vv _7{22} koh-lanta _26{8} 
 - 20/04/21 - 230* survivor au _4{0} friend or lover _1{3} weekend to remember _1{1} 
-- 21/04/21 - 290* ydestiny _1{4} the most peaceful place _1{3} my lascivious boss _1{2} wabi vlog _1{78} survivor au _4{0} 
-- 22/04/21 - 282* top chef _12{27} ydestiny _1{5} the most peaceful place _1{3} my lascivious boss _1{2} wabi vlog _1{80} 
-- 23/04/21 - 116* i can see your voice fr _1{0} top chef _12{28} ydestiny _1{5} the most peaceful place _1{3} my lascivious boss _1{2} 
+- 21/04/21 - 290* ydestiny _1{4} my lascivious boss _1{2} wabi vlog _1{78} survivor au _4{0} 
+- 22/04/21 - 282* top chef _12{27} ydestiny _1{5} my lascivious boss _1{2} wabi vlog _1{80} 
+- 23/04/21 - 116* i can see your voice fr _1{0} top chef _12{28} ydestiny _1{5} my lascivious boss _1{2} 
 - 24/04/21 - 140* wtfock _5{0} koh-lanta _26{8} the voice vv _7{22} the voice no _6{56} fish upon the sky _1{2} i can see your voice fr _1{0} 
 - 25/04/21 - 224* the voice kids nl _10{5} wtfock _5{0} koh-lanta _26{10} the voice vv _7{23} the voice no _6{58} fish upon the sky _1{2} 
 - 26/04/21 - 180* weekend to remember _1{2} the voice kids nl _10{6} wtfock _5{1} koh-lanta _26{12} 
@@ -414,13 +414,13 @@
 - 13/05/21 - 849* top chef _12{37} lls _1{497} ydestiny _1{12} weekend to remember _1{4} my lascivious boss _1{8} the voice no _6{93} history3 trapped _1{28} 
 - 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} top chef _12{38} lls _1{499} ydestiny _1{12} weekend to remember _1{4} my lascivious boss _1{8} 
 - 15/05/21 - 490* the voice vv _7{29} the voice kids nl _10{11} koh-lanta _26{15} fish upon the sky _1{6} skam fr _8{1} unbag _1{285} i can see your voice fr _1{2} top chef _12{39} 
-- 16/05/21 - 381* the most peaceful place _1{5} nitiman _1{1} rpdrdu _1{2} the voice vv _7{30} the voice kids nl _10{12} koh-lanta _26{15} fish upon the sky _1{6} skam fr _8{1} unbag _1{287} i can see your voice fr _1{2} 
-- 17/05/21 - 645* my lascivious boss _1{9} lls _1{506} the most peaceful place _1{7} nitiman _1{3} rpdrdu _1{3} the voice vv _7{32} the voice kids nl _10{14} koh-lanta _26{16} fish upon the sky _1{7} skam fr _8{2} 
-- 18/05/21 - 790* lls _1{508} the voice no _6{104} my lascivious boss _1{11} the most peaceful place _1{8} nitiman _1{3} rpdrdu _1{3} the voice vv _7{33} the voice kids nl _10{15} 
-- 19/05/21 - 833* lls _1{510} weekend to remember _1{5} ydestiny _1{13} an eye for an eye _1{0} the voice no _6{106} my lascivious boss _1{11} the most peaceful place _1{8} 
+- 16/05/21 - 381* nitiman _1{1} rpdrdu _1{2} the voice vv _7{30} the voice kids nl _10{12} koh-lanta _26{15} fish upon the sky _1{6} skam fr _8{1} unbag _1{287} i can see your voice fr _1{2} 
+- 17/05/21 - 645* my lascivious boss _1{9} lls _1{506} nitiman _1{3} rpdrdu _1{3} the voice vv _7{32} the voice kids nl _10{14} koh-lanta _26{16} fish upon the sky _1{7} skam fr _8{2} 
+- 18/05/21 - 790* lls _1{508} the voice no _6{104} my lascivious boss _1{11} nitiman _1{3} rpdrdu _1{3} the voice vv _7{33} the voice kids nl _10{15} 
+- 19/05/21 - 833* lls _1{510} weekend to remember _1{5} ydestiny _1{13} an eye for an eye _1{0} the voice no _6{106} my lascivious boss _1{11} 
 - 20/05/21 - 909* top chef _12{44} bt21 original story _1{34} survivor au _4{38} lls _1{512} weekend to remember _1{6} ydestiny _1{15} an eye for an eye _1{0} the voice no _6{108} 
 - 21/05/21 - 771* lls _1{514} special _2{0} top chef _12{45} bt21 original story _1{34} survivor au _4{40} weekend to remember _1{6} ydestiny _1{16} an eye for an eye _1{0} 
-- 22/05/21 - 761* skam fr _8{2} the voice vv _7{36} the voice kids nl _10{15} koh-lanta _26{16} the most peaceful place _1{8} lls _1{516} special _2{0} top chef _12{46} 
+- 22/05/21 - 761* skam fr _8{2} the voice vv _7{36} the voice kids nl _10{15} koh-lanta _26{16} lls _1{516} special _2{0} top chef _12{46} 
 
 
 

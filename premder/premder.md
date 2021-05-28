@@ -32,7 +32,6 @@ Skam france 8x3
 The voice vv 7x16
 The voice kids nl 10x8
 Koh-lanta 26x11
-The most peaceful place 1x5
 Lls 1x172
 * Special 2x1
 Top chef 12x15
@@ -63,7 +62,6 @@ Life senjou no bokura 1x2
 * Fish upon the sky 1x1
 Mr lipstick 1x2
 * Mr lipstick 1x1
-* The most peaceful place 1x1
 * My lascivious boss 1x1
 * The voice kids nl 10x1
 Mental 1x5
