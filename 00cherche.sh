@@ -11,7 +11,7 @@
 # 14 - 10
 list=( "Lls _1" "Unbag _1" "The voice no _6" "Wabi vlog _1" 
 "Top chef _12" "Survivor au _4" 
-"The voice vv _7" "History3 trapped _1" "" 
+"History3 trapped _1" 
 "Bt21 original story _1" 
 "My vampire boyfriend _1" 
 "The voice kids nl _10" "Koh-lanta _26" "Ydestiny _1" "Precise shot _1" "Love in time _1" 

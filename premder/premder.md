@@ -29,7 +29,6 @@ Nitiman 1x3
 Fish upon the sky 1x7
 Skinship 2x1
 Skam france 8x3
-The voice vv 7x16
 The voice kids nl 10x8
 Koh-lanta 26x11
 Lls 1x172
@@ -90,7 +89,6 @@ Wabi game 1x2
 * Wabi vlog 1x1
 * Tbbt 11x1
 The untamed 1x3
-* The voice vv 7x1
 * Schools out lets date now 1x1
 * You never eat alone 1x1
 * Slam dance 1x1
