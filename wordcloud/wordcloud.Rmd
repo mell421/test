@@ -3,10 +3,13 @@ title: "Wordcloud"
 output:
   html_document:
     df_print: paged
+    toc: true
 ---
 ```{r setup, include = FALSE}
 suppressWarnings(source("~/GitHub/ajoutRep/ajoutRep/R/sources.R"))
 suppressWarnings(library(tidyverse))
+knitr::opts_chunk$set(cache = TRUE)
+
 library(ggraph)
 library(tidygraph)
 require(devtools)
@@ -22,31 +25,8 @@ rmarkdown::render_site()
 <!-- -->
 [MD](./wordcloud.Rmd)  
 
-## menu
-- [menu](#menu)
-- [accueil](#accueil)
-- [page copy](#page-copy)
-- [copy max](#copy-max)
-- [test resume](#test-resume)
-- [debut](#debut)
-- [liste EC : alea](#liste-ec--alea)
-- [liste EC : Titre](#liste-ec--titre)
-- [liste EC](#liste-ec)
-- [liste TER](#liste-ter)
-- [liste film](#liste-film)
-- [premder ec](#premder-ec)
-- [premder](#premder)
-- [prem der](#prem-der)
-- [nb](#nb)
-- [networks](#networks)
-- [network2](#network2)
-
-
-
-
 
 ## accueil
-[haut](#menu)
 ```{r accueil, echo=FALSE}
 text <- data.frame(listDesc.ec())
 text <- text[2]
@@ -98,7 +78,7 @@ tm <- function(text){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "accueil.png", width = 600)
+  # dev.print(device = png, file = "accueil.png", width = 600)
   wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 }
 
@@ -106,7 +86,6 @@ suppressWarnings(tm(text))
 ```
 
 ## page copy
-[haut](#menu)
 ```{r copy, echo=FALSE}
 
 main <- function(){
@@ -158,7 +137,7 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "copy.png", width = 600)
+  # dev.print(device = png, file = "copy.png", width = 600)
   wordcloud2(data = dtm_d, color = "random-light",shape="circle",backgroundColor = "black")
 
 }
@@ -167,7 +146,6 @@ suppressWarnings(main())
 ```
 
 ## copy max
-[haut](#menu)
 ```{r copyMax, echo=FALSE}
 
 main <- function(){
@@ -225,7 +203,7 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "max.png", width = 600)
+  # dev.print(device = png, file = "max.png", width = 600)
   wordcloud2(data = dtm_d, color = "random-light",shape="circle",backgroundColor = "black")
 
 }
@@ -233,8 +211,7 @@ main <- function(){
 suppressWarnings(main())
 ```
 
-## test resume
-[haut](#menu)
+## resume
 ```{r resume, echo=FALSE}
 
 main <- function(){
@@ -288,7 +265,7 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "ec.png", width = 600)
+  # dev.print(device = png, file = "ec.png", width = 600)
   wordcloud2(data = dtm_d, color = "random-light",shape="circle",backgroundColor = "black")
 
 }
@@ -296,6 +273,7 @@ main <- function(){
 suppressWarnings(main())
 ```
 
+---
 ## debut
 [haut](#menu)
 ```{r lettre, echo=FALSE}
@@ -384,16 +362,15 @@ data <- data.frame(aListes())
 data %>% filter(titre != "")  %>% select(titre,nbDeLignes) 
 data %>% filter(titre_1 != "")  %>% select(titre_1,nbPage) 
 ```
-
+---
 ## networks
-[haut](#menu)
 ```{r network1, echo=FALSE}
-### EXPLORE STRUCTURE 
-max <- 10
+
+netw <- function(max=15){
+  
 df <- data.frame(listeCompl.ec())
 df <- df[1:max,]
 
-main <- function(){
   ### CREATE NODES TABLE 
 get_random_names <- function(n) { 
   unique_names <- distinct(df, en.cours, .keep_all = TRUE) 
@@ -434,62 +411,12 @@ social_net <- ggraph(social_net_tbls, layout = "stress") +
 
 # Render the network 
   show(social_net)
-  # dev.print(device = png, file = "socialnet1.png", width = 600)
-}
-main()
+  # dev.print(device = png, file = nameFile, width = 600)
 
-```
 
-## network2
-```{r network2, echo=FALSE}
-### EXPLORE STRUCTURE 
-max <- 10
-df <- data.frame(listeCompl.ec())
-df <- df[1:max,]
-
-main <- function(){
-  ### CREATE NODES TABLE 
-get_random_names <- function(n) { 
-  unique_names <- distinct(df, en.cours, .keep_all = TRUE) 
-  index <- sample(1:nrow(unique_names), n, replace = FALSE) 
-  names <- unique_names[index, ] 
-  names 
 }
 
-nodes <- get_random_names(max)
-
-
-### CREATE LINKS TABLE 
-# Create source and target vectors 
-src <- sample(1:nrow(nodes), nrow(nodes)*2, replace = TRUE)  
-target <- sample(1:nrow(nodes), nrow(nodes)*2, replace = TRUE)
-
-# Merge vectors to form a single table 
-links <- data.frame(src, target)
-
-# Clean up 
-links <- data.frame(src, target) %>%  
-  filter(!(src == target)) 
-links <- unique(links[c("src", "target")])
-
-
-### PLOT NETWORK 
-# Type cast to tbl_graph object
-social_net_tbls <- tbl_graph(nodes = nodes, 
-                             edges = links, 
-                             directed = FALSE)
-
-# Create the network 
-social_net <- ggraph(social_net_tbls, layout = "stress") +
-  geom_node_point(size = 2) +                                         
-  geom_node_text(aes(label = en.cours), nudge_y = 0.05, nudge_x = 0.2)+ 
-  geom_edge_link() +
-  theme_void()
-
-# Render the network 
-  show(social_net)
-  # dev.print(device = png, file = "socialnet1.png", width = 600)
-}
-main()
+netw(10) 
+netw(10)
 
 ```

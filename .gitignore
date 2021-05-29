@@ -4,6 +4,8 @@
 *.jpeg
 blame
 log
-!wordcloud/*.png
+!wordcloud/wordcloud_files/figure-html/*2.png
 run.R
 run.bat
+wordcloud/wordcloud_cache/*/*
+
