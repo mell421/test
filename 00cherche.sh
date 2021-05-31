@@ -9,7 +9,7 @@
 # 29 - 20
 # 19 - 15
 # 14 - 10
-list=( "Lls _1" "Unbag _1" "The voice no _6" "Wabi vlog _1" 
+list=( "Lls _1" "Unbag _1" "Wabi vlog _1" 
 "Top chef _12" "Survivor au _4" 
 "History3 trapped _1" 
 "Bt21 original story _1" 

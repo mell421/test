@@ -38,7 +38,6 @@ Bt21 original story 1x8
 Survivor au 4x11
 Ydestiny 1x8
 * An eye for an eye 1x1
-The voice no 6x19
 My lascivious boss 1x7
 Rpdrdu 1x3
 Unbag 1x21
@@ -99,7 +98,6 @@ The shipper 1x4
 Ben x jim 1x2
 Koishite akuma 1x3
 * Koishite akuma 1x1
-* The voice no 6x1
 * Warper series 1x1
 * Pearl next door 1x1
 * Romantic blue 1x1
