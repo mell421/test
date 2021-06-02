@@ -355,6 +355,7 @@
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|  <!-- 46 -->
 |TV VV 7||17|||<!--  -->
 |TV NO 6||21|||<!--  -->
+|LLS 1||185|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -483,7 +484,6 @@
 |tale of the nine tailed 1|||||1|<!--  -->
 |a queen is born 1|||||1|<!--  -->
 |FDTD 2|||||3|<!--  -->
-|LLS 1|||||108|<!--  -->
 |together with me 1|together with me|?|serie|thailande|1|<!--35  -->
 |RPDRU 9|||||7|<!--  -->
 |unlocked 1|unlocked|9|serie|philippines|2|<!--  -->

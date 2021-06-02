@@ -57,7 +57,7 @@
 
 ## Aperçu semaine
 ### sem 22-04-2019 
-Girl meets world _1x7(2) You vs wild _1x3(1) Samokazem _1x3(1) Lls _1x64(1) 
+Girl meets world _1x7(2) You vs wild _1x3(1) Samokazem _1x3(1) 
 ### sem 29-04-2019 
 Girl meets world _1x8(1) 
 ### sem 06-05-2019 
@@ -66,25 +66,25 @@ Skam vsg _1x4(1)
 ### sem 20-05-2019 
 Sam & cat _1x19(3) Shadowhunters _3x14(2) 
 ### sem 27-05-2019 
-Rpdru _9x4(1) Lls _1x65(1) 
+Rpdru _9x4(1) 
 ### sem 03-06-2019 
-Lls _1x73(8) Jeopardy _33x158(1) Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) 
+Jeopardy _33x158(1) Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) 
 ### sem 10-06-2019 
-Lls _1x75(2) Years and years _1x4(1) Nos4a2 _1x2(1) /3% _3x3(2) 
+Years and years _1x4(1) Nos4a2 _1x2(1) /3% _3x3(2) 
 ### sem 17-06-2019 
-Explained _1x7(1) The voice germany _1x5(4) Rupaul show _1x2(1) Lls _1x77(2) Doom patrol _1x3(1) Nos4a2 _1x3(1) Les lapins crétins _1x48(6) What if _1x2(1) 
+Explained _1x7(1) The voice germany _1x5(4) Rupaul show _1x2(1) Doom patrol _1x3(1) Nos4a2 _1x3(1) Les lapins crétins _1x48(6) What if _1x2(1) 
 ### sem 24-06-2019 
 Sytycd _15x2(1) Doom patrol _1x4(1) Steven universe _1x2(1) Rupaul show _1x5(3) 
 ### sem 01-07-2019 
 Tf _4x12(1) Rupaul show _1x6(1) 
 ### sem 08-07-2019 
-Lls _1x78(1) Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
+Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
 ### sem 15-07-2019 
-Dragula _1x2(1) Lls _1x82(4) 
+Dragula _1x2(1) 
 ### sem 22-07-2019 
-Dragula _1x3(1) Light as a feather _1x7(1) Lls _1x84(2) Will and grace _5x2(1) 
+Dragula _1x3(1) Light as a feather _1x7(1) Will and grace _5x2(1) 
 ### sem 29-07-2019 
-Kunoichi _1x6(1) Sasuke _1x2(1) Will and grace _5x4(2) Scrubs _1x11(2) Malcolm _2x14(3) Lls _1x86(2) Euphoria _1x2(1) 
+Kunoichi _1x6(1) Sasuke _1x2(1) Will and grace _5x4(2) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) 
 ### sem 05-08-2019 
 Dark _1x2(1) Rpdru _9x6(2) Dragula _1x4(1) Dna _1x6(1) Riverdale _3x11(1) Kunoichi _1x8(1) Sasuke _1x8(2) Girl meets world _1x9(1) Another life _1x2(1) 
 ### sem 12-08-2019 
@@ -134,13 +134,13 @@ Supergirl _1x9(1) Here and now _1x4(1) Sfu _5x7(2)
 
 ## Aperçu mois
 ### mois 01-05-2019 
-Girl meets world _1x8(3) You vs wild _1x3(1) Samokazem _1x3(1) Lls _1x64(1) 
+Girl meets world _1x8(3) You vs wild _1x3(1) Samokazem _1x3(1) 
 ### mois 01-06-2019 
-Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Lls _1x66(2) Jessie _1x2(1) Rpdru _9x4(1) Sam & cat _1x19(3) Shadowhunters _3x14(2) Skam vsg _1x4(1) 
+Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) Rpdru _9x4(1) Sam & cat _1x19(3) Shadowhunters _3x14(2) Skam vsg _1x4(1) 
 ### mois 01-07-2019 
-Tf _4x12(1) Rupaul show _1x6(5) Sytycd _15x2(1) Doom patrol _1x4(2) Steven universe _1x2(1) Explained _1x7(1) The voice germany _1x5(4) Lls _1x77(11) Nos4a2 _1x3(2) Les lapins crétins _1x48(6) What if _1x2(1) Years and years _1x4(2) /3% _3x3(2) Jeopardy _33x158(1) How to sell drugs online (fast) _1x2(1) 
+Tf _4x12(1) Rupaul show _1x6(5) Sytycd _15x2(1) Doom patrol _1x4(2) Steven universe _1x2(1) Explained _1x7(1) The voice germany _1x5(4) Nos4a2 _1x3(2) Les lapins crétins _1x48(6) What if _1x2(1) Years and years _1x4(2) /3% _3x3(2) Jeopardy _33x158(1) How to sell drugs online (fast) _1x2(1) 
 ### mois 01-08-2019 
-Riverdale _3x11(1) Kunoichi _1x8(2) Sasuke _1x8(3) Girl meets world _1x9(1) Another life _1x2(1) Will and grace _5x4(3) Scrubs _1x11(2) Malcolm _2x14(3) Lls _1x86(9) Euphoria _1x2(1) Dragula _1x3(2) Light as a feather _1x7(1) Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
+Riverdale _3x11(1) Kunoichi _1x8(2) Sasuke _1x8(3) Girl meets world _1x9(1) Another life _1x2(1) Will and grace _5x4(3) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) Dragula _1x3(2) Light as a feather _1x7(1) Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
 ### mois 01-09-2019 
 Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(3) Dirk gently _2x3(2) Dark _1x5(4) The voice germany _1x6(1) Rpdru _9x7(3) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(5) Chica vampiro _1x6(5) Travelers _1x5(1) Dragula _1x4(1) Dna _1x6(1) 
 ### mois 01-10-2019 

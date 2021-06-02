@@ -16,9 +16,6 @@ require(devtools)
 library(wordcloud2)
 ```
 
-```{r render, eval=FALSE, include=FALSE}
-rmarkdown::render_site()
-```
 
 [retour](./../index.html)  
 
@@ -85,9 +82,11 @@ tm <- function(text){
   
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=150, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   
+  dev.print(device = png, file = "accueil_2.png", width = 600)
+  
     wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     
-  # dev.print(device = png, file = "accueil.png", width = 600)
+  
 }
 
 suppressWarnings(tm(text))
@@ -153,9 +152,11 @@ tm <- function(text){
   
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=150, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   
+  dev.print(device = png, file = "encours_2.png", width = 600)
+  
     wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 
-  # dev.print(device = png, file = "encours.png", width = 600)
+  # 
 }
 
 suppressWarnings(tm(text))
@@ -221,9 +222,11 @@ tm <- function(text){
   
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=150, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   
+  dev.print(device = png, file = "termine_2.png", width = 600)
+  
     wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 
-  # dev.print(device = png, file = "ter.png", width = 600)
+  # 
 }
 
 suppressWarnings(tm(text))
@@ -282,7 +285,7 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  # dev.print(device = png, file = "copy.png", width=12,height=8, units='in', res=300)
+  dev.print(device = png, file = "copy_2.png", width=600)
 
     wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 
@@ -346,9 +349,11 @@ main <- function(){
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
   
+  dev.print(device = png, file = "conclu_2.png", width = 600)
+  
     wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 
-  # dev.print(device = png, file = "conclu.png", width = 600)
+  
 
 }
 
@@ -409,10 +414,11 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
+  dev.print(device = png, file = "conclubis_2.png", width = 600)
   
     wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 
-  # dev.print(device = png, file = "conclubis.png", width = 600)
+  
 
 }
 
@@ -473,10 +479,11 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=150, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
+dev.print(device = png, file = "sem_2.png", width = 600)
 
       wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 
-  # dev.print(device = png, file = "sem.png", width = 600)
+  
 
 }
 
@@ -537,10 +544,11 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
+  dev.print(device = png, file = "mois_2.png", width=600)
   
     wordcloud2(data = dtm_d, color = "random-light",shape="circle",backgroundColor ="black")
 
-  # dev.print(device = png, file = "mois.png", width=1200)
+  # 
 
 }
 
@@ -605,10 +613,10 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
-  
+  dev.print(device = png, file = "max_2.png", width = 600)
     wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 
-  # dev.print(device = png, file = "max.png", width = 600)
+  
 
 }
 
@@ -673,10 +681,11 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
+  dev.print(device = png, file = "eff_2.png", width = 600)
   
     wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 
-  # dev.print(device = png, file = "aeff.png", width = 600)
+  # 
 
 }
 
@@ -737,10 +746,11 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
             max.words=200, random.order=FALSE, rot.per=0.35,
             colors=brewer.pal(8, "Dark2"))
+  dev.print(device = png, file = "resume_2.png", width = 600)
   
     wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
 
-  # dev.print(device = png, file = "resume.png", width = 600)
+  # 
 
 }
 
@@ -893,12 +903,13 @@ social_net <- ggraph(social_net_tbls, layout = "stress") +
 
 # Render the network 
   show(social_net)
-  # dev.print(device = png, file = nameFile, width = 600)
+  # 
 
 
 }
 
 netw(10) 
+dev.print(device = png, file = "network1_1.png", width = 600)
 netw(10)
-
+dev.print(device = png, file = "network1_2.png", width = 600)
 ```

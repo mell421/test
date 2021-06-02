@@ -500,6 +500,7 @@
 * /9-1-1 _4
 ### sem 07-06-2021 
 * *insererici*
+* Lls _1
 * The voice no _6
 ### sem 14-06-2021 
 * *insererici*
@@ -512,7 +513,7 @@
 ## bientot
 * Mr lipstick _1
 * Life senjou no bokura _1
-* Lls _1
+* 
 * $ a jour $
 * Special _2
 * Top chef _12
@@ -568,7 +569,7 @@
 #### mois 01-06-2021 
 *insererici The voice vv _7 The most peaceful place _1 Kiss me again peteKao cut _1 Close friend _1 The masked singer _5 The voice us _20 Game of talents _1 Plan b _1 Given _1 /9-1-1 lone star _2 /9-1-1 _4 History4 close to you _1 The voice _10 Young sheldon _4 Love death & robots _2 Lovely writer _1 The sweet blood _1 Nobleman ryus wedding _1 The circle br _1 The circle us _2 Clem _11*
 #### mois 01-07-2021 
-*insererici The voice no _6*
+*insererici Lls _1 The voice no _6*
 #### mois 01-08-2021 
 **
 #### mois 01-09-2021 

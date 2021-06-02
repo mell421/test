@@ -31,7 +31,6 @@ Skinship 2x1
 Skam france 8x3
 The voice kids nl 10x8
 Koh-lanta 26x11
-Lls 1x172
 * Special 2x1
 Top chef 12x15
 Bt21 original story 1x8
