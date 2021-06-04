@@ -29,7 +29,6 @@ Nitiman 1x3
 Fish upon the sky 1x7
 Skinship 2x1
 Skam france 8x3
-The voice kids nl 10x8
 * Special 2x1
 Top chef 12x15
 Bt21 original story 1x8
@@ -59,7 +58,6 @@ Life senjou no bokura 1x2
 Mr lipstick 1x2
 * Mr lipstick 1x1
 * My lascivious boss 1x1
-* The voice kids nl 10x1
 Mental 1x5
 * Ydestiny 1x1
 Precise shot 1x4
