@@ -30,7 +30,6 @@ Fish upon the sky 1x7
 Skinship 2x1
 Skam france 8x3
 The voice kids nl 10x8
-Koh-lanta 26x11
 * Special 2x1
 Top chef 12x15
 Bt21 original story 1x8
@@ -70,7 +69,6 @@ Bt21 vlog 1x3
 * Bt21 vlog 1x1
 * Bt21 original story 1x1
 Schools out lets date now 1x5
-* Koh-lanta 26x1
 You never eat alone 1x4
 * History3 trapped 1x1
 Unlocked 1x2

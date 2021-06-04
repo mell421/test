@@ -62,25 +62,25 @@ Unbag _1x17(1) Top chef _12x4(1) Wabi vlog _1x7(1)
 #### sem 08-03-2021 
 Wabi vlog _1x8(1) Top chef _12x5(1) You never eat alone _1x4(1) Schools out lets date now _1x5(1) 
 #### sem 15-03-2021 
-Koh-lanta _26x2(1) Unbag _1x18(1) Wabi vlog _1x9(1) Top chef _12x6(1) You never eat alone _1x5(1) 
+Unbag _1x18(1) Wabi vlog _1x9(1) Top chef _12x6(1) You never eat alone _1x5(1) 
 #### sem 22-03-2021 
-Friend or lover _1x2(1) Koh-lanta _26x3(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(1) Top chef _12x7(1) 
+Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(1) Top chef _12x7(1) 
 #### sem 29-03-2021 
-History3 trapped _1x3(1) Precise shot _1x5(4) Koh-lanta _26x4(1) Top chef _12x8(1) Wabi vlog _1x11(2) 
+History3 trapped _1x3(1) Precise shot _1x5(4) Top chef _12x8(1) Wabi vlog _1x11(2) 
 #### sem 05-04-2021 
-My lascivious boss _1x2(1) The voice kids nl _10x2(1) Koh-lanta _26x5(1) Mental _1x6(2) Top chef _12x9(1) Unbag _1x19(1) History3 trapped _1x5(2) Wabi vlog _1x12(1) Ydestiny _1x2(1) 
+My lascivious boss _1x2(1) The voice kids nl _10x2(1) Mental _1x6(2) Top chef _12x9(1) Unbag _1x19(1) History3 trapped _1x5(2) Wabi vlog _1x12(1) Ydestiny _1x2(1) 
 #### sem 12-04-2021 
-The voice kids nl _10x3(1) My lascivious boss _1x3(1) Koh-lanta _26x6(1) Fish upon the sky _1x2(1) Top chef _12x10(1) Ydestiny _1x3(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Wabi vlog _1x13(1) 
+The voice kids nl _10x3(1) My lascivious boss _1x3(1) Fish upon the sky _1x2(1) Top chef _12x10(1) Ydestiny _1x3(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Wabi vlog _1x13(1) 
 #### sem 19-04-2021 
-Friend or lover _1x3(1) Weekend to remember _1x2(1) The voice kids nl _10x4(1) Wabi vlog _1x14(1) Koh-lanta _26x7(1) Fish upon the sky _1x3(1) Unbag _1x20(1) Top chef _12x11(1) Ydestiny _1x4(1) History3 trapped _1x6(1) Life senjou no bokura _1x3(2) 
+Friend or lover _1x3(1) Weekend to remember _1x2(1) The voice kids nl _10x4(1) Wabi vlog _1x14(1) Fish upon the sky _1x3(1) Unbag _1x20(1) Top chef _12x11(1) Ydestiny _1x4(1) History3 trapped _1x6(1) Life senjou no bokura _1x3(2) 
 #### sem 26-04-2021 
-Weekend to remember _1x3(1) The voice kids nl _10x5(1) Wtfock _5x2(1) Koh-lanta _26x8(1) Fish upon the sky _1x4(1) I can see your voice fr _1x2(1) Top chef _12x12(1) Ydestiny _1x5(1) My lascivious boss _1x4(1) Wabi vlog _1x15(1) Survivor au _4x2(1) 
+Weekend to remember _1x3(1) The voice kids nl _10x5(1) Wtfock _5x2(1) Fish upon the sky _1x4(1) I can see your voice fr _1x2(1) Top chef _12x12(1) Ydestiny _1x5(1) My lascivious boss _1x4(1) Wabi vlog _1x15(1) Survivor au _4x2(1) 
 #### sem 03-05-2021 
-History3 trapped _1x8(2) History3 modc _1x3(2) Weekend to remember _1x4(1) Rpdrdu _1x2(1) Wtfock _5x3(1) The voice kids nl _10x6(1) Koh-lanta _26x9(1) Fish upon the sky _1x5(1) Unbag _1x21(1) Top chef _12x13(1) Ydestiny _1x6(1) Wabi vlog _1x16(1) My lascivious boss _1x5(1) Survivor au _4x6(4) 
+History3 trapped _1x8(2) History3 modc _1x3(2) Weekend to remember _1x4(1) Rpdrdu _1x2(1) Wtfock _5x3(1) The voice kids nl _10x6(1) Fish upon the sky _1x5(1) Unbag _1x21(1) Top chef _12x13(1) Ydestiny _1x6(1) Wabi vlog _1x16(1) My lascivious boss _1x5(1) Survivor au _4x6(4) 
 #### sem 10-05-2021 
-History3 trapped _1x15(7) Survivor au _4x11(5) Rpdrdu _1x3(1) Wtfock _5x4(1) The voice kids nl _10x7(1) Koh-lanta _26x10(1) Nitiman _1x2(1) Skam fr _8x2(1) Fish upon the sky _1x6(1) Top chef _12x14(1) Ydestiny _1x7(1) My lascivious boss _1x6(1) 
+History3 trapped _1x15(7) Survivor au _4x11(5) Rpdrdu _1x3(1) Wtfock _5x4(1) The voice kids nl _10x7(1) Nitiman _1x2(1) Skam fr _8x2(1) Fish upon the sky _1x6(1) Top chef _12x14(1) Ydestiny _1x7(1) My lascivious boss _1x6(1) 
 #### sem 17-05-2021 
-My lascivious boss _1x8(2) Nitiman _1x3(1) Rpdrdu _1x4(1) The voice kids nl _10x8(1) Koh-lanta _26x11(1) Fish upon the sky _1x7(1) Skam fr _8x3(1) Unbag _1x22(1) I can see your voice fr _1x3(1) Top chef _12x15(1) Ydestiny _1x8(1) Weekend to remember _1x5(1) 
+My lascivious boss _1x8(2) Nitiman _1x3(1) Rpdrdu _1x4(1) The voice kids nl _10x8(1) Fish upon the sky _1x7(1) Skam fr _8x3(1) Unbag _1x22(1) I can see your voice fr _1x3(1) Top chef _12x15(1) Ydestiny _1x8(1) Weekend to remember _1x5(1) 
 
 
 
@@ -94,9 +94,9 @@ Be love _1x4(1) TharnType _2x6(2) Unbag _1x15(2) The shipper _1x5(2) Tien broman
 #### mois 01-03-2021 
 Unbag _1x17(2) Top chef _12x4(3) Wabi vlog _1x7(6) History3 trapped _1x2(1) Unlocked _1x3(1) Pearl next door _1x4(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Love in time _1x6(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
 #### mois 01-04-2021 
-Wabi vlog _1x12(5) Ydestiny _1x2(1) History3 trapped _1x3(1) Precise shot _1x5(4) Koh-lanta _26x4(3) Top chef _12x8(4) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
+Wabi vlog _1x12(5) Ydestiny _1x2(1) History3 trapped _1x3(1) Precise shot _1x5(4) Top chef _12x8(4) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
-Wtfock _5x3(2) The voice kids nl _10x6(5) Koh-lanta _26x9(5) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Ydestiny _1x6(4) Wabi vlog _1x16(4) My lascivious boss _1x5(4) History3 modc _1x2(1) Survivor au _4x6(5) Weekend to remember _1x3(2) I can see your voice fr _1x2(1) Friend or lover _1x3(1) History3 trapped _1x6(3) Life senjou no bokura _1x3(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
+Wtfock _5x3(2) The voice kids nl _10x6(5) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Ydestiny _1x6(4) Wabi vlog _1x16(4) My lascivious boss _1x5(4) History3 modc _1x2(1) Survivor au _4x6(5) Weekend to remember _1x3(2) I can see your voice fr _1x2(1) Friend or lover _1x3(1) History3 trapped _1x6(3) Life senjou no bokura _1x3(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
 
 
 
@@ -220,7 +220,7 @@ Wtfock _5x3(2) The voice kids nl _10x6(5) Koh-lanta _26x9(5) Fish upon the sky _
 * conclu 21/04/21 = Wabi vlog _1 > 6; Unbag _1 > 5; We are not human _1 > 1; 
 * conclu 22/04/21 = Unbag _1 > 5; Wabi vlog _1 > 2; 
 * conclu 23/04/21 = Unbag _1 > 1; Wabi vlog _1 > 1; 
-* conclu 24/04/21 = Koh-lanta _26 > 1; Unbag _1 > 1; Wabi vlog _1 > 1; 
+* conclu 24/04/21 = Unbag _1 > 1; Wabi vlog _1 > 1; 
 * conclu 25/04/21 = Unbag _1 > 1; 
 * conclu 26/04/21 = Unbag _1 > 1; 
 * conclu 27/04/21 = Survivor au _4 > 2; Unbag _1 > 1; 
@@ -366,15 +366,15 @@ Wabi vlog _1 > 5; The harvest season _1 > 4; We are not human _1 > 4; Wabi show 
 * concluBis 14/04/21 = Unbag _1 > 4; We are not human _1 > 3; Life senjou no bokura _1 > 2; 
 * concluBis 15/04/21 = Top chef _12 > 4; Unbag _1 > 4; We are not human _1 > 3; Life senjou no bokura _1 > 2; 
 * concluBis 16/04/21 = Unbag _1 > 9; Top chef _12 > 3; We are not human _1 > 3; 
-* concluBis 17/04/21 = Unbag _1 > 9; We are not human _1 > 3; Koh-lanta _26 > 2; Life senjou no bokura _1 > 1; 
+* concluBis 17/04/21 = Unbag _1 > 9; We are not human _1 > 3; Life senjou no bokura _1 > 1; 
 * concluBis 18/04/21 = Unbag _1 > 9; Wabi vlog _1 > 4; The voice kids nl _10 > 3; We are not human _1 > 3; Life senjou no bokura _1 > 1; 
 * concluBis 19/04/21 = Unbag _1 > 7; Wabi vlog _1 > 2; Life senjou no bokura _1 > 2; We are not human _1 > 2; 
 * concluBis 20/04/21 = Unbag _1 > 9; Wabi vlog _1 > 3; We are not human _1 > 3; 
 * concluBis 21/04/21 = Wabi vlog _1 > 12; Unbag _1 > 9; We are not human _1 > 3; Ydestiny _1 > 1; 
 * concluBis 22/04/21 = Unbag _1 > 9; Wabi vlog _1 > 8; Top chef _12 > 2; We are not human _1 > 2; 
 * concluBis 23/04/21 = Wabi vlog _1 > 5; Unbag _1 > 3; We are not human _1 > 2; Top chef _12 > 1; 
-* concluBis 24/04/21 = Wabi vlog _1 > 4; Koh-lanta _26 > 3; Unbag _1 > 3; We are not human _1 > 2; 
-* concluBis 25/04/21 = Unbag _1 > 3; Wabi vlog _1 > 2; We are not human _1 > 2; Koh-lanta _26 > 1; 
+* concluBis 24/04/21 = Wabi vlog _1 > 4; Unbag _1 > 3; We are not human _1 > 2; 
+* concluBis 25/04/21 = Unbag _1 > 3; Wabi vlog _1 > 2; We are not human _1 > 2; 
 * concluBis 26/04/21 = Unbag _1 > 3; Wabi vlog _1 > 2; We are not human _1 > 2; 
 * concluBis 27/04/21 = Survivor au _4 > 5; Unbag _1 > 3; We are not human _1 > 2; Wabi vlog _1 > 1; My lascivious boss _1 > 1; 
 * concluBis 28/04/21 = Wabi vlog _1 > 2; Survivor au _4 > 2; Unbag _1 > 2; Ydestiny _1 > 1; We are not human _1 > 1; 
