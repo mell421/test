@@ -12,7 +12,6 @@
 * $
 $
 Bangkok love stories innocence 1x2
-Skinship 2x2
 An eye for an eye 1x2
 Special 2x2
 * --
@@ -27,7 +26,6 @@ $
 Weekend to remember 1x6
 Nitiman 1x3
 Fish upon the sky 1x7
-Skinship 2x1
 Skam france 8x3
 * Special 2x1
 Top chef 12x15

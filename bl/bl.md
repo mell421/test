@@ -148,6 +148,7 @@
 |close friend|close friend|6|serie|thailande|                 <!-- 52 -->
 |Kiss me again peteKao cut|Kiss me again peteKao cut|3|serie|thailande|<!--  -->
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|  <!-- 46 -->
+|skinship 2|skinship 2|3|serie|thailande|<!-- 22/5 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -205,7 +206,6 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|skinship 2|skinship 2|?|serie|thailande|1|<!-- 22/5 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

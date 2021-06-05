@@ -29,7 +29,7 @@ listBis=( "Fish upon the sky _1"
 
 # 2-0
 list2=( "History3 modc _1" "Bangkok love stories innocence _1" 
-"Skinship _2" "Special _2" "An eye for an eye _1" 
+"Special _2" "An eye for an eye _1" 
 "" )
 
 listAtt=( )
