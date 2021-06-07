@@ -149,6 +149,7 @@
 |Kiss me again peteKao cut|Kiss me again peteKao cut|3|serie|thailande|<!--  -->
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|  <!-- 46 -->
 |skinship 2|skinship 2|3|serie|thailande|<!-- 22/5 -->
+|my lascivious boss|ong chu dung den day|10|serie|vietnam|     <!-- 45 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -197,7 +198,6 @@
 |friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
 |ydestiny|ydestiny|15|serie|thailande|8|                        <!-- 44 -->
-|my lascivious boss|ong chu dung den day|?|serie|vietnam|6|     <!-- 45 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 47 -->
 |fish upon the sky|fish upon the sky|?|serie|thailande|6|       <!-- 48 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->

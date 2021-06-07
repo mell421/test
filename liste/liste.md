@@ -360,6 +360,7 @@
 |TVK NL 10||10|||<!--  -->
 |skinship 2||3|||<!-- 24/4 -->
 |The masked dancer uk||7|||<!--  -->
+|my lascivious boss 1||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -510,7 +511,6 @@
 |friend or lover||4|||2|<!--  -->
 |precise shot 1||20|||4|<!--  -->
 |ydestiny 1||15|||8|<!--  -->
-|my lascivious boss 1||10|||2|<!--  -->
 |mr lipstick 1||?|||2|<!--  -->
 |fish upon the sky||?|||6|<!--  -->
 |life senjou no bokura 1||4|||2|<!--  -->

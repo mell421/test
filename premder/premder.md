@@ -33,7 +33,6 @@ Bt21 original story 1x8
 Survivor au 4x11
 Ydestiny 1x8
 * An eye for an eye 1x1
-My lascivious boss 1x7
 Rpdrdu 1x3
 Unbag 1x21
 I can see your voice fr 1x2
@@ -55,7 +54,6 @@ Life senjou no bokura 1x2
 * Fish upon the sky 1x1
 Mr lipstick 1x2
 * Mr lipstick 1x1
-* My lascivious boss 1x1
 Mental 1x5
 * Ydestiny 1x1
 Precise shot 1x4
