@@ -336,7 +336,7 @@ Tbbt _11x2(1) The untamed _1x4(1) Schools out lets date now _1x3(2) You never ea
 #### sem 15-02-2021 
 Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) Unbag _1x16(1) Top chef _12x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Wabi vlog _1x5(4) 
 #### sem 22-02-2021 
-History3 trapped _1x2(1) Unlocked _1x3(1) Pearl next door _1x4(1) Top chef _12x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) Love in time _1x6(2) Wabi vlog _1x6(1) 
+Unlocked _1x3(1) Pearl next door _1x4(1) Top chef _12x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) Love in time _1x6(2) Wabi vlog _1x6(1) 
 #### sem 01-03-2021 
 Unbag _1x17(1) Top chef _12x4(1) Wabi vlog _1x7(1) 
 #### sem 08-03-2021 
@@ -346,19 +346,19 @@ Unbag _1x18(1) Wabi vlog _1x9(1) Top chef _12x6(1) You never eat alone _1x5(1)
 #### sem 22-03-2021 
 Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(1) Top chef _12x7(1) 
 #### sem 29-03-2021 
-History3 trapped _1x3(1) Precise shot _1x5(4) Top chef _12x8(1) Wabi vlog _1x11(2) 
+Precise shot _1x5(4) Top chef _12x8(1) Wabi vlog _1x11(2) 
 #### sem 05-04-2021 
-Mental _1x6(2) Top chef _12x9(1) Unbag _1x19(1) History3 trapped _1x5(2) Wabi vlog _1x12(1) Ydestiny _1x2(1) 
+Mental _1x6(2) Top chef _12x9(1) Unbag _1x19(1) Wabi vlog _1x12(1) Ydestiny _1x2(1) 
 #### sem 12-04-2021 
 Fish upon the sky _1x2(1) Top chef _12x10(1) Ydestiny _1x3(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Wabi vlog _1x13(1) 
 #### sem 19-04-2021 
-Friend or lover _1x3(1) Weekend to remember _1x2(1) Wabi vlog _1x14(1) Fish upon the sky _1x3(1) Unbag _1x20(1) Top chef _12x11(1) Ydestiny _1x4(1) History3 trapped _1x6(1) Life senjou no bokura _1x3(2) 
+Friend or lover _1x3(1) Weekend to remember _1x2(1) Wabi vlog _1x14(1) Fish upon the sky _1x3(1) Unbag _1x20(1) Top chef _12x11(1) Ydestiny _1x4(1) Life senjou no bokura _1x3(2) 
 #### sem 26-04-2021 
 Weekend to remember _1x3(1) Wtfock _5x2(1) Fish upon the sky _1x4(1) I can see your voice fr _1x2(1) Top chef _12x12(1) Ydestiny _1x5(1) Wabi vlog _1x15(1) Survivor au _4x2(1) 
 #### sem 03-05-2021 
-History3 trapped _1x8(2) History3 modc _1x3(2) Weekend to remember _1x4(1) Rpdrdu _1x2(1) Wtfock _5x3(1) Fish upon the sky _1x5(1) Unbag _1x21(1) Top chef _12x13(1) Ydestiny _1x6(1) Wabi vlog _1x16(1) Survivor au _4x6(4) 
+History3 modc _1x3(2) Weekend to remember _1x4(1) Rpdrdu _1x2(1) Wtfock _5x3(1) Fish upon the sky _1x5(1) Unbag _1x21(1) Top chef _12x13(1) Ydestiny _1x6(1) Wabi vlog _1x16(1) Survivor au _4x6(4) 
 #### sem 10-05-2021 
-History3 trapped _1x15(7) Survivor au _4x11(5) Rpdrdu _1x3(1) Wtfock _5x4(1) Nitiman _1x2(1) Skam fr _8x2(1) Fish upon the sky _1x6(1) Top chef _12x14(1) Ydestiny _1x7(1) 
+Survivor au _4x11(5) Rpdrdu _1x3(1) Wtfock _5x4(1) Nitiman _1x2(1) Skam fr _8x2(1) Fish upon the sky _1x6(1) Top chef _12x14(1) Ydestiny _1x7(1) 
 #### sem 17-05-2021 
 Nitiman _1x3(1) Rpdrdu _1x4(1) Fish upon the sky _1x7(1) Skam fr _8x3(1) Unbag _1x22(1) I can see your voice fr _1x3(1) Top chef _12x15(1) Ydestiny _1x8(1) Weekend to remember _1x5(1) 
 
@@ -416,11 +416,11 @@ Unbag _1x13(3) Ghost runner _1x5(4) Friend zone _1x3(1) Joséphine ange gardien 
 #### mois 01-02-2021 
 Be love _1x4(1) TharnType _2x6(2) Unbag _1x15(2) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Pearl next door _1x3(2) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Rpdru _9x8(1) Together with me _1x2(1) 
 #### mois 01-03-2021 
-Unbag _1x17(2) Top chef _12x4(3) Wabi vlog _1x7(6) History3 trapped _1x2(1) Unlocked _1x3(1) Pearl next door _1x4(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Love in time _1x6(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
+Unbag _1x17(2) Top chef _12x4(3) Wabi vlog _1x7(6) Unlocked _1x3(1) Pearl next door _1x4(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Love in time _1x6(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
 #### mois 01-04-2021 
-Wabi vlog _1x12(5) Ydestiny _1x2(1) History3 trapped _1x3(1) Precise shot _1x5(4) Top chef _12x8(4) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
+Wabi vlog _1x12(5) Ydestiny _1x2(1) Precise shot _1x5(4) Top chef _12x8(4) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
-Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Ydestiny _1x6(4) Wabi vlog _1x16(4) History3 modc _1x2(1) Survivor au _4x6(5) Weekend to remember _1x3(2) I can see your voice fr _1x2(1) Friend or lover _1x3(1) History3 trapped _1x6(3) Life senjou no bokura _1x3(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
+Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Ydestiny _1x6(4) Wabi vlog _1x16(4) History3 modc _1x2(1) Survivor au _4x6(5) Weekend to remember _1x3(2) I can see your voice fr _1x2(1) Friend or lover _1x3(1) Life senjou no bokura _1x3(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
 
 
 
@@ -626,9 +626,9 @@ Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Ydest
 * conclu 30/03/21 > We are not human _1 > 2; Precise shot _1 > 1; Unbag _1 > 1; 
 * conclu 31/03/21 > Precise shot _1 > 2; We are not human _1 > 2; Unbag _1 > 1; 
 * conclu 01/04/21 > Precise shot _1 > 2; We are not human _1 > 2; Unbag _1 > 1; 
-* conclu 02/04/21 > Unbag _1 > 4; Precise shot _1 > 2; History3 trapped _1 > 1; Top chef _12 > 1; We are not human _1 > 1; 
-* conclu 03/04/21 > Unbag _1 > 4; Precise shot _1 > 2; History3 trapped _1 > 1; We are not human _1 > 1; 
-* conclu 04/04/21 > Unbag _1 > 4; History3 trapped _1 > 1; We are not human _1 > 1; 
+* conclu 02/04/21 > Unbag _1 > 4; Precise shot _1 > 2; Top chef _12 > 1; We are not human _1 > 1; 
+* conclu 03/04/21 > Unbag _1 > 4; Precise shot _1 > 2; We are not human _1 > 1; 
+* conclu 04/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 05/04/21 > Unbag _1 > 5; Mental _1 > 1; We are not human _1 > 1; 
 * conclu 06/04/21 > Unbag _1 > 4; Bt21 original story _1 > 1; 
 * conclu 07/04/21 > Unbag _1 > 4; Bt21 original story _1 > 1; We are not human _1 > 1; 
@@ -663,16 +663,16 @@ Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Ydest
 * conclu 06/05/21 = Unbag _1 > 4; Survivor au _4 > 3; We are not human _1 > 1; 
 * conclu 07/05/21 = Survivor au _4 > 3; Unbag _1 > 2; We are not human _1 > 1; 
 * conclu 08/05/21 = Survivor au _4 > 3; Unbag _1 > 2; We are not human _1 > 1; 
-* conclu 09/05/21 = Survivor au _4 > 5; History3 trapped _1 > 2; Unbag _1 > 2; We are not human _1 > 1; 
-* conclu 10/05/21 = History3 trapped _1 > 4; Unbag _1 > 2; Survivor au _4 > 1; We are not human _1 > 1; 
-* conclu 11/05/21 = History3 trapped _1 > 4; Unbag _1 > 2; 
-* conclu 12/05/21 = History3 trapped _1 > 3; Unbag _1 > 2; 
-* conclu 13/05/21 = History3 trapped _1 > 3; Survivor au _4 > 2; Unbag _1 > 2; 
-* conclu 14/05/21 = Unbag _1 > 4; History3 trapped _1 > 3; Survivor au _4 > 2; 
-* conclu 15/05/21 = Unbag _1 > 4; History3 trapped _1 > 3; Survivor au _4 > 2; 
-* conclu 16/05/21 = Unbag _1 > 4; History3 trapped _1 > 3; Survivor au _4 > 2; 
-* conclu 17/05/21 = Unbag _1 > 4; Survivor au _4 > 2; History3 trapped _1 > 1; 
-* conclu 18/05/21 = Unbag _1 > 4; History3 trapped _1 > 2; 
+* conclu 09/05/21 = Survivor au _4 > 5; Unbag _1 > 2; We are not human _1 > 1; 
+* conclu 10/05/21 = Unbag _1 > 2; Survivor au _4 > 1; We are not human _1 > 1; 
+* conclu 11/05/21 = Unbag _1 > 2; 
+* conclu 12/05/21 = Unbag _1 > 2; 
+* conclu 13/05/21 = Survivor au _4 > 2; Unbag _1 > 2; 
+* conclu 14/05/21 = Unbag _1 > 4; Survivor au _4 > 2; 
+* conclu 15/05/21 = Unbag _1 > 4; Survivor au _4 > 2; 
+* conclu 16/05/21 = Unbag _1 > 4; Survivor au _4 > 2; 
+* conclu 17/05/21 = Unbag _1 > 4; Survivor au _4 > 2; 
+* conclu 18/05/21 = Unbag _1 > 4; 
 * conclu 19/05/21 = Unbag _1 > 4; Ydestiny _1 > 1; 
 * conclu 20/05/21 = Unbag _1 > 4; Survivor au _4 > 2; 
 * conclu 21/05/21 = Survivor au _4 > 2; Unbag _1 > 2; 
@@ -879,10 +879,10 @@ Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Ydest
 * concluBis 30/03/21 > We are not human _1 > 4; Precise shot _1 > 3; Unbag _1 > 3; Kaamelott _5 > 1; 
 * concluBis 31/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 1; Kaamelott _5 > 1; 
 * concluBis 01/04/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; Kaamelott _5 > 1; 
-* concluBis 02/04/21 > Unbag _1 > 8; Precise shot _1 > 4; Top chef _12 > 3; History3 trapped _1 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; Mental _1 > 1; Kaamelott _5 > 1; 
-* concluBis 03/04/21 > Unbag _1 > 8; Precise shot _1 > 4; History3 trapped _1 > 3; We are not human _1 > 3; 
-* concluBis 04/04/21 > Unbag _1 > 8; History3 trapped _1 > 3; We are not human _1 > 3; Mental _1 > 2; 
-* concluBis 05/04/21 > Unbag _1 > 9; Mental _1 > 3; We are not human _1 > 3; History3 trapped _1 > 2; 
+* concluBis 02/04/21 > Unbag _1 > 8; Precise shot _1 > 4; Top chef _12 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; Mental _1 > 1; Kaamelott _5 > 1; 
+* concluBis 03/04/21 > Unbag _1 > 8; Precise shot _1 > 4; We are not human _1 > 3; 
+* concluBis 04/04/21 > Unbag _1 > 8; We are not human _1 > 3; Mental _1 > 2; 
+* concluBis 05/04/21 > Unbag _1 > 9; Mental _1 > 3; We are not human _1 > 3; 
 * concluBis 06/04/21 > Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; Mr lipstick _1 > 1; 
 * concluBis 07/04/21 > Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Mr lipstick _1 > 1; 
 * concluBis 08/04/21 > Unbag _1 > 8; Top chef _12 > 5; Bt21 original story _1 > 3; We are not human _1 > 3; 
@@ -910,22 +910,22 @@ Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Top chef _12x13(5) Ydest
 * concluBis 30/04/21 = Unbag _1 > 6; Wabi vlog _1 > 2; Survivor au _4 > 2; We are not human _1 > 2; 
 * concluBis 01/05/21 = Unbag _1 > 8; Wabi vlog _1 > 3; Survivor au _4 > 3; We are not human _1 > 3; 
 * concluBis 02/05/21 = Unbag _1 > 8; Wabi vlog _1 > 3; We are not human _1 > 3; Survivor au _4 > 2; 
-* concluBis 03/05/21 = Unbag _1 > 8; Wabi vlog _1 > 3; We are not human _1 > 3; Survivor au _4 > 2; History3 trapped _1 > 1; 
+* concluBis 03/05/21 = Unbag _1 > 8; Wabi vlog _1 > 3; We are not human _1 > 3; Survivor au _4 > 2; 
 * concluBis 04/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 3; Wabi vlog _1 > 1; 
 * concluBis 05/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 3; 
-* concluBis 06/05/21 = Unbag _1 > 8; Survivor au _4 > 7; We are not human _1 > 3; Top chef _12 > 2; History3 trapped _1 > 1; 
-* concluBis 07/05/21 = Survivor au _4 > 7; Unbag _1 > 4; Top chef _12 > 3; We are not human _1 > 3; History3 trapped _1 > 1; 
-* concluBis 08/05/21 = Survivor au _4 > 7; Unbag _1 > 4; We are not human _1 > 3; Top chef _12 > 1; History3 trapped _1 > 1; 
-* concluBis 09/05/21 = Survivor au _4 > 9; History3 trapped _1 > 6; Unbag _1 > 4; We are not human _1 > 3; 
-* concluBis 10/05/21 = History3 trapped _1 > 10; Survivor au _4 > 5; Unbag _1 > 4; We are not human _1 > 3; 
-* concluBis 11/05/21 = History3 trapped _1 > 10; Unbag _1 > 4; Survivor au _4 > 2; We are not human _1 > 2; 
-* concluBis 12/05/21 = History3 trapped _1 > 9; Unbag _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 2; We are not human _1 > 2; 
-* concluBis 13/05/21 = History3 trapped _1 > 7; Top chef _12 > 4; Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
-* concluBis 14/05/21 = Unbag _1 > 10; History3 trapped _1 > 7; Survivor au _4 > 4; Top chef _12 > 2; We are not human _1 > 2; 
-* concluBis 15/05/21 = Unbag _1 > 8; History3 trapped _1 > 7; Survivor au _4 > 4; We are not human _1 > 2; Top chef _12 > 1; 
-* concluBis 16/05/21 = Unbag _1 > 8; History3 trapped _1 > 7; Survivor au _4 > 4; We are not human _1 > 2; Top chef _12 > 1; Nitiman _1 > 1; 
-* concluBis 17/05/21 = Unbag _1 > 8; Survivor au _4 > 4; History3 trapped _1 > 3; We are not human _1 > 2; Top chef _12 > 1; 
-* concluBis 18/05/21 = Unbag _1 > 8; History3 trapped _1 > 4; We are not human _1 > 2; Top chef _12 > 1; 
+* concluBis 06/05/21 = Unbag _1 > 8; Survivor au _4 > 7; We are not human _1 > 3; Top chef _12 > 2; 
+* concluBis 07/05/21 = Survivor au _4 > 7; Unbag _1 > 4; Top chef _12 > 3; We are not human _1 > 3; 
+* concluBis 08/05/21 = Survivor au _4 > 7; Unbag _1 > 4; We are not human _1 > 3; Top chef _12 > 1; 
+* concluBis 09/05/21 = Survivor au _4 > 9; Unbag _1 > 4; We are not human _1 > 3; 
+* concluBis 10/05/21 = Survivor au _4 > 5; Unbag _1 > 4; We are not human _1 > 3; 
+* concluBis 11/05/21 = Unbag _1 > 4; Survivor au _4 > 2; We are not human _1 > 2; 
+* concluBis 12/05/21 = Unbag _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 2; We are not human _1 > 2; 
+* concluBis 13/05/21 = Top chef _12 > 4; Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
+* concluBis 14/05/21 = Unbag _1 > 10; Survivor au _4 > 4; Top chef _12 > 2; We are not human _1 > 2; 
+* concluBis 15/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; Top chef _12 > 1; 
+* concluBis 16/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; Top chef _12 > 1; Nitiman _1 > 1; 
+* concluBis 17/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; Top chef _12 > 1; 
+* concluBis 18/05/21 = Unbag _1 > 8; We are not human _1 > 2; Top chef _12 > 1; 
 * concluBis 19/05/21 = Unbag _1 > 8; Ydestiny _1 > 3; We are not human _1 > 2; Weekend to remember _1 > 1; 
 * concluBis 20/05/21 = Unbag _1 > 8; Top chef _12 > 4; Survivor au _4 > 4; We are not human _1 > 2; Ydestiny _1 > 1; 
 * concluBis 21/05/21 = Survivor au _4 > 4; Unbag _1 > 4; Top chef _12 > 2; We are not human _1 > 2; 

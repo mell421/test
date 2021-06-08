@@ -36,7 +36,6 @@ Ydestiny 1x8
 Rpdrdu 1x3
 Unbag 1x21
 I can see your voice fr 1x2
-History3 trapped 1x14
 Wtfock 5x3
 * Nitiman 1x1
 * Skam france 8x1
@@ -64,7 +63,6 @@ Bt21 vlog 1x3
 * Bt21 original story 1x1
 Schools out lets date now 1x5
 You never eat alone 1x4
-* History3 trapped 1x1
 Unlocked 1x2
 Pearl next door 1x3
 My vampire boyfriend 1x6

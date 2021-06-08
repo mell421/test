@@ -11,7 +11,7 @@
 # 14 - 10
 list=( "Unbag _1" "Wabi vlog _1" 
 "Top chef _12" "Survivor au _4" 
-"History3 trapped _1" 
+"" 
 "Bt21 original story _1" 
 "My vampire boyfriend _1" 
 "Ydestiny _1" "Precise shot _1" "Love in time _1" 

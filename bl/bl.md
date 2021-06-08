@@ -150,6 +150,7 @@
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|  <!-- 46 -->
 |skinship 2|skinship 2|3|serie|thailande|<!-- 22/5 -->
 |my lascivious boss|ong chu dung den day|10|serie|vietnam|     <!-- 45 -->
+|history3.1|history3 trapped|20|serie|taiwan|                 <!-- 37 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -194,7 +195,6 @@
 |wabi game|wabi game|?|show|thailande|2|                        <!-- 34 -->
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 35 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
-|history3.1|history3 trapped|20|serie|taiwan|14|                 <!-- 37 -->
 |friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
 |ydestiny|ydestiny|15|serie|thailande|8|                        <!-- 44 -->
