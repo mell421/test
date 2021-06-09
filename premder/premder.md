@@ -28,7 +28,6 @@ Nitiman 1x3
 Fish upon the sky 1x7
 Skam france 8x3
 * Special 2x1
-Top chef 12x15
 Bt21 original story 1x8
 Survivor au 4x11
 Ydestiny 1x8
@@ -69,7 +68,6 @@ My vampire boyfriend 1x6
 Tokyo ghoul 3x16
 Love in time 1x5
 * Bangkok love stories innocence 1x1
-* Top chef 12x1
 The harvest season 1x4
 * The harvest season 1x1
 Wabi game 1x2

@@ -159,42 +159,42 @@
 - 14/04/21 (eff) - unbag _1{221} wabi vlog _1{73} bt21 original story _1{33} my vampire boyfriend _1{25} 
 - 15/04/21 (eff) - unbag _1{223} wabi vlog _1{73} bt21 original story _1{33} my vampire boyfriend _1{25} 
 - 16/04/21 (eff) - unbag _1{225} wabi vlog _1{73} bt21 original story _1{33} my vampire boyfriend _1{25} 
-- 17/04/21 (eff) - unbag _1{227} wabi vlog _1{73} bt21 original story _1{33} top chef _12{26} 
+- 17/04/21 (eff) - unbag _1{227} wabi vlog _1{73} bt21 original story _1{33} 
 - 18/04/21 (eff) - unbag _1{229} wabi vlog _1{73} bt21 original story _1{33} 
-- 19/04/21 (eff) - unbag _1{232} wabi vlog _1{76} bt21 original story _1{33} top chef _12{27} 
-- 20/04/21 (eff) - unbag _1{234} wabi vlog _1{77} bt21 original story _1{33} top chef _12{27} 
-- 21/04/21 (eff) - unbag _1{236} wabi vlog _1{78} bt21 original story _1{33} top chef _12{27} 
-- 22/04/21 (eff) - unbag _1{238} wabi vlog _1{80} bt21 original story _1{33} top chef _12{27} 
-- 23/04/21 (eff) - unbag _1{240} wabi vlog _1{82} bt21 original story _1{33} top chef _12{28} 
-- 24/04/21 (eff) - unbag _1{242} wabi vlog _1{84} bt21 original story _1{33} top chef _12{29} 
-- 25/04/21 (eff) - unbag _1{244} wabi vlog _1{86} bt21 original story _1{33} top chef _12{29} 
-- 26/04/21 (eff) - unbag _1{246} wabi vlog _1{88} bt21 original story _1{33} top chef _12{30} 
-- 27/04/21 (eff) - unbag _1{248} wabi vlog _1{89} bt21 original story _1{33} top chef _12{30} 
-- 28/04/21 (eff) - unbag _1{250} wabi vlog _1{90} bt21 original story _1{33} top chef _12{30} 
-- 29/04/21 (eff) - unbag _1{251} wabi vlog _1{91} bt21 original story _1{33} top chef _12{30} 
-- 30/04/21 (eff) - unbag _1{253} wabi vlog _1{93} bt21 original story _1{33} top chef _12{31} 
-- 01/05/21 (eff) - unbag _1{256} wabi vlog _1{95} bt21 original story _1{34} top chef _12{32} 
-- 02/05/21 (eff) - unbag _1{258} wabi vlog _1{96} bt21 original story _1{34} top chef _12{32} 
-- 03/05/21 (eff) - unbag _1{261} wabi vlog _1{98} bt21 original story _1{34} top chef _12{33} 
-- 04/05/21 (eff) - unbag _1{263} wabi vlog _1{99} bt21 original story _1{34} top chef _12{33} 
-- 05/05/21 (eff) - unbag _1{265} wabi vlog _1{100} bt21 original story _1{34} top chef _12{33} 
-- 06/05/21 (eff) - unbag _1{267} wabi vlog _1{100} bt21 original story _1{34} top chef _12{33} my vampire boyfriend _1{25} 
-- 07/05/21 (eff) - unbag _1{269} wabi vlog _1{100} top chef _12{34} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 08/05/21 (eff) - unbag _1{271} wabi vlog _1{100} top chef _12{35} bt21 original story _1{34} 
-- 09/05/21 (eff) - unbag _1{273} wabi vlog _1{100} top chef _12{36} bt21 original story _1{34} survivor au _4{21} 
-- 10/05/21 (eff) - unbag _1{275} wabi vlog _1{100} top chef _12{37} bt21 original story _1{34} survivor au _4{24} 
-- 11/05/21 (eff) - unbag _1{277} wabi vlog _1{100} top chef _12{37} bt21 original story _1{34} survivor au _4{26} 
-- 12/05/21 (eff) - unbag _1{279} wabi vlog _1{100} top chef _12{37} bt21 original story _1{34} survivor au _4{27} 
-- 13/05/21 (eff) - unbag _1{281} wabi vlog _1{100} top chef _12{37} bt21 original story _1{34} 
-- 14/05/21 (eff) - unbag _1{283} wabi vlog _1{100} top chef _12{38} bt21 original story _1{34} survivor au _4{30} 
-- 15/05/21 (eff) - unbag _1{285} wabi vlog _1{100} top chef _12{39} bt21 original story _1{34} survivor au _4{32} my vampire boyfriend _1{25} 
-- 16/05/21 (eff) - unbag _1{287} wabi vlog _1{100} top chef _12{40} survivor au _4{34} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 17/05/21 (eff) - unbag _1{290} wabi vlog _1{100} top chef _12{42} survivor au _4{36} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 18/05/21 (eff) - unbag _1{292} wabi vlog _1{100} top chef _12{43} survivor au _4{38} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 19/05/21 (eff) - unbag _1{294} wabi vlog _1{100} top chef _12{44} survivor au _4{38} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 20/05/21 (eff) - unbag _1{296} wabi vlog _1{100} top chef _12{44} survivor au _4{38} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 21/05/21 (eff) - unbag _1{298} wabi vlog _1{100} top chef _12{45} survivor au _4{40} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 22/05/21 (eff) - unbag _1{300} wabi vlog _1{100} top chef _12{46} survivor au _4{42} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 19/04/21 (eff) - unbag _1{232} wabi vlog _1{76} bt21 original story _1{33} 
+- 20/04/21 (eff) - unbag _1{234} wabi vlog _1{77} bt21 original story _1{33} 
+- 21/04/21 (eff) - unbag _1{236} wabi vlog _1{78} bt21 original story _1{33} 
+- 22/04/21 (eff) - unbag _1{238} wabi vlog _1{80} bt21 original story _1{33} 
+- 23/04/21 (eff) - unbag _1{240} wabi vlog _1{82} bt21 original story _1{33} 
+- 24/04/21 (eff) - unbag _1{242} wabi vlog _1{84} bt21 original story _1{33} 
+- 25/04/21 (eff) - unbag _1{244} wabi vlog _1{86} bt21 original story _1{33} 
+- 26/04/21 (eff) - unbag _1{246} wabi vlog _1{88} bt21 original story _1{33} 
+- 27/04/21 (eff) - unbag _1{248} wabi vlog _1{89} bt21 original story _1{33} 
+- 28/04/21 (eff) - unbag _1{250} wabi vlog _1{90} bt21 original story _1{33} 
+- 29/04/21 (eff) - unbag _1{251} wabi vlog _1{91} bt21 original story _1{33} 
+- 30/04/21 (eff) - unbag _1{253} wabi vlog _1{93} bt21 original story _1{33} 
+- 01/05/21 (eff) - unbag _1{256} wabi vlog _1{95} bt21 original story _1{34} 
+- 02/05/21 (eff) - unbag _1{258} wabi vlog _1{96} bt21 original story _1{34} 
+- 03/05/21 (eff) - unbag _1{261} wabi vlog _1{98} bt21 original story _1{34} 
+- 04/05/21 (eff) - unbag _1{263} wabi vlog _1{99} bt21 original story _1{34} 
+- 05/05/21 (eff) - unbag _1{265} wabi vlog _1{100} bt21 original story _1{34} 
+- 06/05/21 (eff) - unbag _1{267} wabi vlog _1{100} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 07/05/21 (eff) - unbag _1{269} wabi vlog _1{100} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 08/05/21 (eff) - unbag _1{271} wabi vlog _1{100} bt21 original story _1{34} 
+- 09/05/21 (eff) - unbag _1{273} wabi vlog _1{100} bt21 original story _1{34} survivor au _4{21} 
+- 10/05/21 (eff) - unbag _1{275} wabi vlog _1{100} bt21 original story _1{34} survivor au _4{24} 
+- 11/05/21 (eff) - unbag _1{277} wabi vlog _1{100} bt21 original story _1{34} survivor au _4{26} 
+- 12/05/21 (eff) - unbag _1{279} wabi vlog _1{100} bt21 original story _1{34} survivor au _4{27} 
+- 13/05/21 (eff) - unbag _1{281} wabi vlog _1{100} bt21 original story _1{34} 
+- 14/05/21 (eff) - unbag _1{283} wabi vlog _1{100} bt21 original story _1{34} survivor au _4{30} 
+- 15/05/21 (eff) - unbag _1{285} wabi vlog _1{100} bt21 original story _1{34} survivor au _4{32} my vampire boyfriend _1{25} 
+- 16/05/21 (eff) - unbag _1{287} wabi vlog _1{100} survivor au _4{34} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 17/05/21 (eff) - unbag _1{290} wabi vlog _1{100} survivor au _4{36} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 18/05/21 (eff) - unbag _1{292} wabi vlog _1{100} survivor au _4{38} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 19/05/21 (eff) - unbag _1{294} wabi vlog _1{100} survivor au _4{38} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 20/05/21 (eff) - unbag _1{296} wabi vlog _1{100} survivor au _4{38} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 21/05/21 (eff) - unbag _1{298} wabi vlog _1{100} survivor au _4{40} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 22/05/21 (eff) - unbag _1{300} wabi vlog _1{100} survivor au _4{42} bt21 original story _1{34} my vampire boyfriend _1{25} 
 
 
 
@@ -320,107 +320,107 @@
 - 08/02/21 - 175* tbbt _11{1} the untamed _1{5} schools out lets date now _1{1} 
 - 09/02/21 - 219* tbbt _11{1} the untamed _1{5} schools out lets date now _1{2} 
 - 10/02/21 - 220* the harvest season _1{0} wabi show _1{0} wabi vlog _1{0} tbbt _11{1} 
-- 11/02/21 - 140* top chef _12{0} the harvest season _1{2} wabi show _1{2} wabi vlog _1{2} 
-- 12/02/21 - 199* unbag _1{106} top chef _12{0} the harvest season _1{4} wabi show _1{3} wabi vlog _1{4} 
+- 11/02/21 - 140* the harvest season _1{2} wabi show _1{2} wabi vlog _1{2} 
+- 12/02/21 - 199* unbag _1{106} the harvest season _1{4} wabi show _1{3} wabi vlog _1{4} 
 - 13/02/21 - 218* tokyo ghoul _3{0} unbag _1{108} 
 - 14/02/21 - 209* tokyo ghoul _3{0} unbag _1{110} 
 - 15/02/21 - 114* bangkok love stories innocence _1{1} schools out lets date now _1{3} 
 - 16/02/21 - 175* tokyo ghoul _3{1} love in time _1{8} wabi vlog _1{13} my vampire boyfriend _1{9} bangkok love stories innocence _1{1} schools out lets date now _1{3} 
 - 17/02/21 - 199* you never eat alone _1{2} tokyo ghoul _3{2} love in time _1{9} wabi vlog _1{15} my vampire boyfriend _1{9} 
-- 18/02/21 - 127* unlocked _1{2} pearl next door _1{9} top chef _12{1} my vampire boyfriend _1{10} you never eat alone _1{2} 
-- 19/02/21 - 191* unlocked _1{2} pearl next door _1{9} top chef _12{1} my vampire boyfriend _1{12} you never eat alone _1{2} 
+- 18/02/21 - 127* unlocked _1{2} pearl next door _1{9} my vampire boyfriend _1{10} you never eat alone _1{2} 
+- 19/02/21 - 191* unlocked _1{2} pearl next door _1{9} my vampire boyfriend _1{12} you never eat alone _1{2} 
 - 20/02/21 - 164* 
 - 21/02/21 - 191* 
 - 22/02/21 - 207* 
 - 23/02/21 - 226* wabi vlog _1{22} 
 - 24/02/21 - 257* wabi vlog _1{24} 
-- 25/02/21 - 163* top chef _12{2} wabi vlog _1{26} 
-- 26/02/21 - 282* unbag _1{128} top chef _12{3} wabi vlog _1{28} 
-- 27/02/21 - 329* unbag _1{130} top chef _12{3} 
+- 25/02/21 - 163* wabi vlog _1{26} 
+- 26/02/21 - 282* unbag _1{128} wabi vlog _1{28} 
+- 27/02/21 - 329* unbag _1{130} 
 - 28/02/21 - 377* unbag _1{132} 
 - 01/03/21 - 279* 
 - 02/03/21 - 268* schools out lets date now _1{4} 
 - 03/03/21 - 579* you never eat alone _1{4} schools out lets date now _1{5} 
-- 04/03/21 - 610* top chef _12{5} you never eat alone _1{4} 
-- 05/03/21 - 618* top chef _12{5} you never eat alone _1{4} 
+- 04/03/21 - 610* you never eat alone _1{4} 
+- 05/03/21 - 618* you never eat alone _1{4} 
 - 06/03/21 - 587* wabi vlog _1{40} 
 - 07/03/21 - 648* wabi vlog _1{42} 
 - 08/03/21 - 687* wabi vlog _1{45} 
 - 09/03/21 - 760* 
 - 10/03/21 - 702* you never eat alone _1{5} 
-- 11/03/21 - 552* wabi vlog _1{51} top chef _12{6} 
-- 12/03/21 - 680* unbag _1{152} wabi vlog _1{53} top chef _12{7} 
+- 11/03/21 - 552* wabi vlog _1{51} 
+- 12/03/21 - 680* unbag _1{152} wabi vlog _1{53} 
 - 13/03/21 - 852* 
 - 14/03/21 - 953* 
 - 15/03/21 - 788* 
 - 16/03/21 - 788* 
 - 17/03/21 - 779* 
-- 18/03/21 - 533* top chef _12{9} 
-- 19/03/21 - 474* bt21 vlog _1{0} bt21 original story _1{0} schools out lets date now _1{6} top chef _12{9} 
-- 20/03/21 - 506* bt21 vlog _1{1} bt21 original story _1{2} schools out lets date now _1{6} top chef _12{10} 
+- 18/03/21 - 533* 
+- 19/03/21 - 474* bt21 vlog _1{0} bt21 original story _1{0} schools out lets date now _1{6} 
+- 20/03/21 - 506* bt21 vlog _1{1} bt21 original story _1{2} schools out lets date now _1{6} 
 - 21/03/21 - 657* bt21 vlog _1{2} bt21 original story _1{4} 
 - 22/03/21 - 672* friend or lover _1{1} 
 - 23/03/21 - 659* friend or lover _1{1} 
 - 24/03/21 - 582* wabi vlog _1{56} friend or lover _1{1} 
-- 25/03/21 - 195* top chef _12{12} wabi vlog _1{57} friend or lover _1{1} 
-- 26/03/21 - 204* top chef _12{13} wabi vlog _1{59} friend or lover _1{1} 
-- 27/03/21 - 171* top chef _12{14} 
+- 25/03/21 - 195* wabi vlog _1{57} friend or lover _1{1} 
+- 26/03/21 - 204* wabi vlog _1{59} friend or lover _1{1} 
+- 27/03/21 - 171* 
 - 28/03/21 - 260* precise shot _1{0} 
 - 29/03/21 - 652* precise shot _1{3} 
 - 30/03/21 - 578* precise shot _1{5} 
 - 31/03/21 - 640* wabi vlog _1{66} ydestiny _1{0} 
 - 01/04/21 - 654* wabi vlog _1{68} ydestiny _1{1} 
-- 02/04/21 - 375* mental _1{6} top chef _12{16} unbag _1{196} wabi vlog _1{69} ydestiny _1{1} 
-- 03/04/21 - 396* mental _1{7} top chef _12{18} unbag _1{198} 
-- 04/04/21 - 414* mental _1{7} top chef _12{18} unbag _1{200} 
+- 02/04/21 - 375* mental _1{6} unbag _1{196} wabi vlog _1{69} ydestiny _1{1} 
+- 03/04/21 - 396* mental _1{7} unbag _1{198} 
+- 04/04/21 - 414* mental _1{7} unbag _1{200} 
 - 05/04/21 - 170* 
 - 06/04/21 - 620* mr lipstick _1{0} bt21 original story _1{22} wabi vlog _1{71} 
 - 07/04/21 - 714* ydestiny _1{2} mr lipstick _1{1} bt21 original story _1{24} wabi vlog _1{72} 
-- 08/04/21 - 739* top chef _12{19} ydestiny _1{2} mr lipstick _1{2} bt21 original story _1{26} wabi vlog _1{72} 
-- 09/04/21 - 681* top chef _12{21} ydestiny _1{2} 
-- 10/04/21 - 220* fish upon the sky _1{0} top chef _12{21} 
-- 11/04/21 - 225* fish upon the sky _1{0} top chef _12{21} 
+- 08/04/21 - 739* ydestiny _1{2} mr lipstick _1{2} bt21 original story _1{26} wabi vlog _1{72} 
+- 09/04/21 - 681* ydestiny _1{2} 
+- 10/04/21 - 220* fish upon the sky _1{0} 
+- 11/04/21 - 225* fish upon the sky _1{0} 
 - 12/04/21 - 216* 
 - 13/04/21 - 253* life senjou no bokura _1{0} 
 - 14/04/21 - 182* ydestiny _1{3} life senjou no bokura _1{1} 
-- 15/04/21 - 154* top chef _12{22} ydestiny _1{3} life senjou no bokura _1{1} 
-- 16/04/21 - 360* unbag _1{225} top chef _12{24} ydestiny _1{3} life senjou no bokura _1{3} 
-- 17/04/21 - 457* fish upon the sky _1{1} unbag _1{227} top chef _12{26} 
+- 15/04/21 - 154* ydestiny _1{3} life senjou no bokura _1{1} 
+- 16/04/21 - 360* unbag _1{225} ydestiny _1{3} life senjou no bokura _1{3} 
+- 17/04/21 - 457* fish upon the sky _1{1} unbag _1{227} 
 - 18/04/21 - 519* wabi vlog _1{73} fish upon the sky _1{1} unbag _1{229} 
 - 19/04/21 - 276* friend or lover _1{3} weekend to remember _1{1} wabi vlog _1{76} 
 - 20/04/21 - 230* survivor au _4{0} friend or lover _1{3} weekend to remember _1{1} 
 - 21/04/21 - 290* ydestiny _1{4} wabi vlog _1{78} survivor au _4{0} 
-- 22/04/21 - 282* top chef _12{27} ydestiny _1{5} wabi vlog _1{80} 
-- 23/04/21 - 116* i can see your voice fr _1{0} top chef _12{28} ydestiny _1{5} 
+- 22/04/21 - 282* ydestiny _1{5} wabi vlog _1{80} 
+- 23/04/21 - 116* i can see your voice fr _1{0} ydestiny _1{5} 
 - 24/04/21 - 140* wtfock _5{0} fish upon the sky _1{2} i can see your voice fr _1{0} 
 - 25/04/21 - 224* wtfock _5{0} fish upon the sky _1{2} 
 - 26/04/21 - 180* weekend to remember _1{2} wtfock _5{1} 
 - 27/04/21 - 639* history3 modc _1{0} survivor au _4{1} weekend to remember _1{2} 
 - 28/04/21 - 764* ydestiny _1{6} wabi vlog _1{90} history3 modc _1{0} survivor au _4{3} 
-- 29/04/21 - 763* top chef _12{30} ydestiny _1{7} wabi vlog _1{91} history3 modc _1{0} survivor au _4{4} 
-- 30/04/21 - 1045* unbag _1{253} top chef _12{31} ydestiny _1{8} wabi vlog _1{93} 
-- 01/05/21 - 942* wtfock _5{2} fish upon the sky _1{4} unbag _1{256} top chef _12{32} 
+- 29/04/21 - 763* ydestiny _1{7} wabi vlog _1{91} history3 modc _1{0} survivor au _4{4} 
+- 30/04/21 - 1045* unbag _1{253} ydestiny _1{8} wabi vlog _1{93} 
+- 01/05/21 - 942* wtfock _5{2} fish upon the sky _1{4} unbag _1{256} 
 - 02/05/21 - 449* rpdrdu _1{0} wtfock _5{2} fish upon the sky _1{4} unbag _1{258} 
 - 03/05/21 - 648* history3 modc _1{2} weekend to remember _1{4} rpdrdu _1{1} wtfock _5{3} 
 - 04/05/21 - 757* survivor au _4{12} history3 modc _1{2} weekend to remember _1{4} 
 - 05/05/21 - 806* ydestiny _1{10} survivor au _4{13} history3 modc _1{2} 
-- 06/05/21 - 846* top chef _12{33} ydestiny _1{10} survivor au _4{15} 
-- 07/05/21 - 857* top chef _12{34} ydestiny _1{10} 
+- 06/05/21 - 846* ydestiny _1{10} survivor au _4{15} 
+- 07/05/21 - 857* ydestiny _1{10} 
 - 08/05/21 - 190* wtfock _5{3} nitiman _1{0} skam fr _8{0} fish upon the sky _1{5} 
 - 09/05/21 - 179* survivor au _4{21} rpdrdu _1{1} wtfock _5{3} nitiman _1{0} skam fr _8{0} 
 - 10/05/21 - 709* survivor au _4{24} rpdrdu _1{2} wtfock _5{4} 
 - 11/05/21 - 827* weekend to remember _1{4} survivor au _4{26} 
 - 12/05/21 - 852* ydestiny _1{11} weekend to remember _1{4} 
-- 13/05/21 - 849* top chef _12{37} ydestiny _1{12} weekend to remember _1{4} 
-- 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} top chef _12{38} ydestiny _1{12} weekend to remember _1{4} 
-- 15/05/21 - 490* fish upon the sky _1{6} skam fr _8{1} unbag _1{285} i can see your voice fr _1{2} top chef _12{39} 
+- 13/05/21 - 849* ydestiny _1{12} weekend to remember _1{4} 
+- 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} ydestiny _1{12} weekend to remember _1{4} 
+- 15/05/21 - 490* fish upon the sky _1{6} skam fr _8{1} unbag _1{285} i can see your voice fr _1{2} 
 - 16/05/21 - 381* nitiman _1{1} rpdrdu _1{2} fish upon the sky _1{6} skam fr _8{1} unbag _1{287} i can see your voice fr _1{2} 
 - 17/05/21 - 645* nitiman _1{3} rpdrdu _1{3} fish upon the sky _1{7} skam fr _8{2} 
 - 18/05/21 - 790* nitiman _1{3} rpdrdu _1{3} 
 - 19/05/21 - 833* weekend to remember _1{5} ydestiny _1{13} an eye for an eye _1{0} 
-- 20/05/21 - 909* top chef _12{44} bt21 original story _1{34} survivor au _4{38} weekend to remember _1{6} ydestiny _1{15} an eye for an eye _1{0} 
-- 21/05/21 - 771* special _2{0} top chef _12{45} bt21 original story _1{34} survivor au _4{40} weekend to remember _1{6} ydestiny _1{16} an eye for an eye _1{0} 
-- 22/05/21 - 761* skam fr _8{2} special _2{0} top chef _12{46} 
+- 20/05/21 - 909* bt21 original story _1{34} survivor au _4{38} weekend to remember _1{6} ydestiny _1{15} an eye for an eye _1{0} 
+- 21/05/21 - 771* special _2{0} bt21 original story _1{34} survivor au _4{40} weekend to remember _1{6} ydestiny _1{16} an eye for an eye _1{0} 
+- 22/05/21 - 761* skam fr _8{2} special _2{0} 
 
 
 
