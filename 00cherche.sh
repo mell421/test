@@ -12,31 +12,28 @@
 list=( "Unbag _1" "Wabi vlog _1" 
 "Survivor au _4" 
 "" 
-"Bt21 original story _1" 
-"My vampire boyfriend _1" 
-"Ydestiny _1" "Precise shot _1" "Love in time _1" 
-"Mental _1" "Weekend to remember _1" "Pearl next door _1" "Bt21 vlog _1" )
+"Bt21 original story _1" "Ydestiny _1" 
+"My vampire boyfriend _1" "Nitiman _1" "Fish upon the sky _1" "Wtfock _5" 
+"Skam fr _8" "Precise shot _1" "The harvest season _1" "Vincenzo _1" "Weekend to remember _1" "Love in time _1" 
+"TharnType _2" "Mental _1" "Rpdrdu _1" "Pearl next door _1" "Be love _1" "Friend or lover _1" "Bt21 vlog _1" "Wabi show _1" )
 
 # entre 9 et 3
-listBis=( "Fish upon the sky _1" 
+listBis=( "Drag race esp _1" 
 "Life senjou no bokura _1" "Schools out lets date now _1" "Tokyo ghoul _3" 
-"You never eat alone _1" 
-"Nitiman _1" "Mr lipstick _1" 
-"" 
-"Wtfock _5" "Friend or lover _1" "Unlocked _1" 
-"Rpdrdu _1" "Skam fr _8" "I can see your voice fr _1" )
+"Crime scene kitchen _1" "You never eat alone _1" 
+"Mr lipstick _1" "The untamed _1" 
+"Agt _16" "The shipper _1" 
+"I can see your voice fr _1" "Unlocked _1" 
+"History3 modc _1" "Beat shazam _4" "Slam dance _1" "Tien bromance _1" )
 
 
 # 2-0
-list2=( "History3 modc _1" "Bangkok love stories innocence _1" 
-"Special _2" "An eye for an eye _1" 
+list2=( "Lego masters _2" "Dark blue kiss _1" "Special _2" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" 
 "" )
 
 listAtt=( )
 
-listOld=( "Tbbt _11" "Slam dance _1" 
-"The untamed _1" "The harvest season _1" "The shipper _1" 
-"TharnType _2" "Wabi show _1" "Friend forever _1" "Be love _1" "Koishite akuma _1" "Blood _1" "Pogi lang hanap _1" "Lakan _1" 
+listOld=( "Friend forever _1" "Koishite akuma _1" "Blood _1" "Pogi lang hanap _1" "Lakan _1" 
 "From dusk till dawn _2" "Rpdru _9" "Ghost runner _1" "Friend zone _1" "Capture lover _1" "Ben x jim _1" )
 
 

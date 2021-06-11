@@ -23,29 +23,41 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
-Weekend to remember 1x6
-Nitiman 1x3
-Fish upon the sky 1x7
-Skam france 8x3
+History3 modc 1x4
+Agt 16x2
+Lego masters 2x2
+* Lego masters 2x1
+Ydestiny 1x11
+Drag race esp 1x2
+Friend or lover 1x3
+Vincenzo 1x2
+Nitiman 1x5
+Skam france 8x5
+Fish upon the sky 1x9
+Crime scene kitchen 1x2
+* Beat shazam 4x1
+* Vincenzo 1x1
+* Agt 16x1
+Rpdrdu 1x5
+* Drag race esp 1x1
+Weekend to remember 1x7
+* Dark blue kiss 1x1
+Wtfock 5x5
+Unbag 1x22
+Crime scene kitchen 1x1
 * Special 2x1
 Bt21 original story 1x8
 Survivor au 4x11
-Ydestiny 1x8
 * An eye for an eye 1x1
-Rpdrdu 1x3
-Unbag 1x21
 I can see your voice fr 1x2
-Wtfock 5x3
 * Nitiman 1x1
 * Skam france 8x1
-History3 modc 1x2
 * Rpdrdu 1x1
 Wabi vlog 1x15
 * History3 modc 1x1
 * Wtfock 5x1
 * I can see your voice fr 1x1
 * Survivor au 4x1
-Friend or lover 1x2
 * Weekend to remember 1x1
 Life senjou no bokura 1x2
 * Life senjou no bokura 1x1

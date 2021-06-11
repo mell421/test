@@ -9,6 +9,7 @@
 - [liste de bl](#liste-de-bl)
   - [sommaire](#sommaire)
   - [SKAM REMAKES](#skam-remakes)
+  - [usa](#usa)
   - [asie](#asie)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
@@ -32,6 +33,17 @@
 | --- | --- | :---: | 
 |wtfock|5|3|
 |france|8|3|
+
+## usa
+
+|titre|titre officiel|nb ep|categorie|pays|
+| --- | --- | :---: | --- | --- |
+|Love victor 1|Love victor 1|10|serie|us|<!--  -->
+|Love victor 2|Love victor 2|10|serie|us|<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
 
 
 ## asie

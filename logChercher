@@ -1,46 +1,116 @@
 
 i = Unbag _1
-ligne :  589 Z/Unbag_1
-mot   :  19098 Z/Unbag_1
-carac :  92049 Z/Unbag_1
+ligne :  869 Z/Unbag_1
+mot   :  17767 Z/Unbag_1
+carac :  97988 Z/Unbag_1
 
 i = Wabi vlog _1
-ligne :  200 Z/Wabivlog_1
-mot   :  8599 Z/Wabivlog_1
-carac :  40817 Z/Wabivlog_1
+ligne :  300 Z/Wabivlog_1
+mot   :  7065 Z/Wabivlog_1
+carac :  37780 Z/Wabivlog_1
+
+i = Survivor au _4
+ligne :  102 Z/Survivorau_4
+mot   :  2176 Z/Survivorau_4
+carac :  11898 Z/Survivorau_4
 
 i = Bt21 original story _1
-ligne :  56 Z/Bt21originalstory_1
-mot   :  2996 Z/Bt21originalstory_1
-carac :  13576 Z/Bt21originalstory_1
+ligne :  102 Z/Bt21originalstory_1
+mot   :  2570 Z/Bt21originalstory_1
+carac :  13827 Z/Bt21originalstory_1
+
+i = Ydestiny _1
+ligne :  43 Z/Ydestiny_1
+mot   :  978 Z/Ydestiny_1
+carac :  6338 Z/Ydestiny_1
 
 i = My vampire boyfriend _1
 ligne :  75 Z/Myvampireboyfriend_1
-mot   :  2537 Z/Myvampireboyfriend_1
-carac :  12831 Z/Myvampireboyfriend_1
+mot   :  1713 Z/Myvampireboyfriend_1
+carac :  9768 Z/Myvampireboyfriend_1
+
+i = Nitiman _1
+ligne :  6 Z/Nitiman_1
+mot   :  140 Z/Nitiman_1
+carac :  916 Z/Nitiman_1
+
+i = Fish upon the sky _1
+ligne :  20 Z/Fishuponthesky_1
+mot   :  485 Z/Fishuponthesky_1
+carac :  3565 Z/Fishuponthesky_1
+
+i = Wtfock _5
+ligne :  12 Z/Wtfock_5
+mot   :  304 Z/Wtfock_5
+carac :  2239 Z/Wtfock_5
+
+i = Skam fr _8
+ligne :  6 Z/Skamfr_8
+mot   :  126 Z/Skamfr_8
+carac :  895 Z/Skamfr_8
 
 i = Precise shot _1
-ligne :  32 Z/Preciseshot_1
-mot   :  1856 Z/Preciseshot_1
-carac :  8716 Z/Preciseshot_1
+ligne :  48 Z/Preciseshot_1
+mot   :  1126 Z/Preciseshot_1
+carac :  5992 Z/Preciseshot_1
+
+i = The harvest season _1
+ligne :  48 Z/Theharvestseason_1
+mot   :  1378 Z/Theharvestseason_1
+carac :  7206 Z/Theharvestseason_1
+
+i = Vincenzo _1
+ligne :  0 Z/Vincenzo_1
+mot   :  0 Z/Vincenzo_1
+carac :  0 Z/Vincenzo_1
+
+i = Weekend to remember _1
+ligne :  16 Z/Weekendtoremember_1
+mot   :  442 Z/Weekendtoremember_1
+carac :  3057 Z/Weekendtoremember_1
 
 i = Love in time _1
 ligne :  45 Z/Loveintime_1
-mot   :  1655 Z/Loveintime_1
-carac :  8957 Z/Loveintime_1
+mot   :  1282 Z/Loveintime_1
+carac :  7318 Z/Loveintime_1
+
+i = TharnType _2
+ligne :  40 Z/TharnType_2
+mot   :  839 Z/TharnType_2
+carac :  5689 Z/TharnType_2
 
 i = Mental _1
-ligne :  29 Z/Mental_1
-mot   :  1136 Z/Mental_1
-carac :  6720 Z/Mental_1
+ligne :  37 Z/Mental_1
+mot   :  823 Z/Mental_1
+carac :  5615 Z/Mental_1
+
+i = Rpdrdu _1
+ligne :  8 Z/Rpdrdu_1
+mot   :  167 Z/Rpdrdu_1
+carac :  1272 Z/Rpdrdu_1
 
 i = Pearl next door _1
 ligne :  33 Z/Pearlnextdoor_1
-mot   :  1163 Z/Pearlnextdoor_1
-carac :  6752 Z/Pearlnextdoor_1
+mot   :  829 Z/Pearlnextdoor_1
+carac :  5059 Z/Pearlnextdoor_1
+
+i = Be love _1
+ligne :  36 Z/Belove_1
+mot   :  766 Z/Belove_1
+carac :  4922 Z/Belove_1
+
+i = Friend or lover _1
+ligne :  16 Z/Friendorlover_1
+mot   :  508 Z/Friendorlover_1
+carac :  3577 Z/Friendorlover_1
 
 i = Bt21 vlog _1
-ligne :  32 Z/Bt21vlog_1
-mot   :  2014 Z/Bt21vlog_1
-carac :  9288 Z/Bt21vlog_1
+ligne :  53 Z/Bt21vlog_1
+mot   :  1543 Z/Bt21vlog_1
+carac :  8299 Z/Bt21vlog_1
+
+i = Wabi show _1
+ligne :  30 Z/Wabishow_1
+mot   :  958 Z/Wabishow_1
+carac :  5055 Z/Wabishow_1
 
