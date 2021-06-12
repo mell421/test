@@ -24,7 +24,7 @@ listBis=( "Drag race esp _1"
 "Mr lipstick _1" "The untamed _1" 
 "Agt _16" "The shipper _1" 
 "I can see your voice fr _1" "Unlocked _1" 
-"History3 modc _1" "Beat shazam _4" "Slam dance _1" "Tien bromance _1" )
+"Beat shazam _4" "Slam dance _1" "Tien bromance _1" )
 
 
 # 2-0

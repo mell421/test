@@ -23,7 +23,6 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
-History3 modc 1x4
 Agt 16x2
 Lego masters 2x2
 * Lego masters 2x1
@@ -54,7 +53,6 @@ I can see your voice fr 1x2
 * Skam france 8x1
 * Rpdrdu 1x1
 Wabi vlog 1x15
-* History3 modc 1x1
 * Wtfock 5x1
 * I can see your voice fr 1x1
 * Survivor au 4x1

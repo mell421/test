@@ -395,15 +395,15 @@
 - 24/04/21 - 140* wtfock _5{0} fish upon the sky _1{2} i can see your voice fr _1{0} 
 - 25/04/21 - 224* wtfock _5{0} fish upon the sky _1{2} 
 - 26/04/21 - 180* weekend to remember _1{2} wtfock _5{1} 
-- 27/04/21 - 639* history3 modc _1{0} survivor au _4{1} weekend to remember _1{2} 
-- 28/04/21 - 764* ydestiny _1{6} wabi vlog _1{90} history3 modc _1{0} survivor au _4{3} 
-- 29/04/21 - 763* ydestiny _1{7} wabi vlog _1{91} history3 modc _1{0} survivor au _4{4} 
+- 27/04/21 - 639* survivor au _4{1} weekend to remember _1{2} 
+- 28/04/21 - 764* ydestiny _1{6} wabi vlog _1{90} survivor au _4{3} 
+- 29/04/21 - 763* ydestiny _1{7} wabi vlog _1{91} survivor au _4{4} 
 - 30/04/21 - 1045* unbag _1{253} ydestiny _1{8} wabi vlog _1{93} 
 - 01/05/21 - 942* wtfock _5{2} fish upon the sky _1{4} unbag _1{256} 
 - 02/05/21 - 449* rpdrdu _1{0} wtfock _5{2} fish upon the sky _1{4} unbag _1{258} 
-- 03/05/21 - 648* history3 modc _1{2} weekend to remember _1{4} rpdrdu _1{1} wtfock _5{3} 
-- 04/05/21 - 757* survivor au _4{12} history3 modc _1{2} weekend to remember _1{4} 
-- 05/05/21 - 806* ydestiny _1{10} survivor au _4{13} history3 modc _1{2} 
+- 03/05/21 - 648* weekend to remember _1{4} rpdrdu _1{1} wtfock _5{3} 
+- 04/05/21 - 757* survivor au _4{12} weekend to remember _1{4} 
+- 05/05/21 - 806* ydestiny _1{10} survivor au _4{13} 
 - 06/05/21 - 846* ydestiny _1{10} survivor au _4{15} 
 - 07/05/21 - 857* ydestiny _1{10} 
 - 08/05/21 - 190* wtfock _5{3} nitiman _1{0} skam fr _8{0} fish upon the sky _1{5} 
