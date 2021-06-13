@@ -365,6 +365,7 @@
 |top chef 12||18|||<!--  -->
 |Love victor 2|Love victor 2|10|serie|us|<!--  -->
 |history3.2|history3 modc|10|serie|taiwan|                    <!-- 53 -->
+|wheel of love|weekend to remember|8|||<!-- 18/4 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -472,7 +473,7 @@
 |love in time 1|||||3|<!--  -->
 |my day|my day|12|serie|philippines|1|<!-- 12 -->
 |friend forever|friend forever|12|serie|thailande|3|<!-- 13 -->
-|zombie detective 1|||||1|<!--  -->
+|zombie detective 1|||||2|<!--  -->
 |capture lover|capture lover|?|serie|chine|2|<!-- 14 -->
 |friend zone|friend zone|?|serie(*)|thailande|3|<!-- 15 -->
 |boys lockdown|boys lockdown|6|serie|philippines|2|<!-- 16 -->
@@ -483,8 +484,8 @@
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 19 -->
 |lakan|lakan|8|serie|philippines|4|<!-- 20 -->
 |the stranded 1|||||1|<!--  -->
-|the good doctor 4|||||1|<!--  -->
-|blood 1|||||16|<!--  -->
+|the good doctor 4||18|||1|<!--  -->
+|blood 1||20|||16|<!--  -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 22 -->
 |my vampire boyfriend 1||12|||6|<!--  -->
 |be love|be love|4|serie|japon|3|<!-- 25 -->
@@ -510,17 +511,28 @@
 |bangkok love stories innocence 1||?|||1|<!--  -->
 |BT21 original story 1||?|||6|<!--  -->
 |BT21 vlog||?|||3|<!--  -->
-|friend or lover||4|||2|<!--  -->
+|friend or lover||4|||3|<!--  -->
 |precise shot 1||20|||4|<!--  -->
-|ydestiny 1||15|||8|<!--  -->
+|ydestiny 1||15|||11|<!--  -->
 |mr lipstick 1||?|||2|<!--  -->
-|fish upon the sky||?|||6|<!--  -->
+|fish upon the sky||?|||10|<!--  -->
 |life senjou no bokura 1||4|||2|<!--  -->
-|wheel of love|weekend to remember|10|||5|<!-- 18/4 -->
 |surv au 4||26|||11|<!--  -->
 |ICSYV FR 1||?|||2|<!--  -->
-|wtfock 5||10|||2|<!--  -->
-|RPDRDU 1||8|||3|<!-- 22/5 -->
+|wtfock 5||10|||5|<!--  -->
+|RPDRDU 1||8|||7|<!-- 22/5 -->
+|skam france 8||10|||6|<!--  -->
+|nitiman||15|||6|<!-- 7/5 -->
+|an eye for an eye 1||?|||1|<!-- 17/05 -->
+|special 2||8|||1|<!-- 20/5 -->
+|crime scene kitchen||10|||3|<!--  -->
+|dark blue kiss||12|||1|<!--  -->
+|drag race esp||8|||3|<!--  -->
+|AGT 16||?|||2|<!--  -->
+|vincenzo||20|||2|<!--  -->
+|beat shazam 4||10|||2|<!--2/6  -->
+|lego masters 2||12|||3|<!-- 2/6 -->
+|stuck on you||8|||1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -533,20 +545,17 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
+|elite short 1||4||||<!--  -->
+|elite 4||8|||0|<!-- 18/6 -->
+|RPDRAS 6||?|||0|<!-- 22/5 -->
+|bad buddy 1||12|||0|<!--  -->
+|mortel 2||8|||0|<!--  -->
+|the titan games 3||?|||0|<!--  -->
+|||||||<!--  -->
 |love is science 1||?|||0|<!-- 27/3 -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
 |papa and daddy||?|||0|<!-- 23/4 -->
-|nitiman||?|||0|<!-- 7/5 -->
-|skam france 8|||||0|<!--  -->
 |top secret together||?|||0|<!-- 14/5 -->
-|an eye for an eye 1|||||0|<!-- 17/05 -->
-|special 2||8|||0|<!-- 20/5 -->
-|RPDRAS 6||?|||0|<!-- 22/5 -->
-|lego masters 2||?|||0|<!-- 2/6 -->
-|love victor 2||10|||0|<!-- 11/6 -->
-|elite 4|||||0|<!-- 18/6 -->
-|beat shazam 4|||||0|<!--2/6  -->
-
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -558,7 +567,6 @@
 |kinnporsche 1||?|||0|<!--  -->
 |wars of the flowers 1||?|||0|<!--  -->
 |hemp rope 1||?|||0|<!--  -->
-|bad buddy 1||12|||0|<!--  -->
 |not me 1||?|||0|<!--  -->
 |enchante 1||?|||0|<!--  -->
 |my engineer 2||?|||0|<!--  -->
@@ -567,7 +575,6 @@
 |never too late 1|||||0|<!--  -->
 |baker boys 1|||||0|<!--  -->
 |drag I love you 1|||||0|<!--  -->
-|elite 4|||||0|<!--  -->
 |F4 thailand|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |my extraordinary 2|||||0|<!--  -->

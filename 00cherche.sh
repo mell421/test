@@ -14,7 +14,7 @@ list=( "Unbag _1" "Wabi vlog _1"
 "" 
 "Bt21 original story _1" "Ydestiny _1" 
 "My vampire boyfriend _1" "Nitiman _1" "Fish upon the sky _1" "Wtfock _5" 
-"Skam fr _8" "Precise shot _1" "The harvest season _1" "Vincenzo _1" "Weekend to remember _1" "Love in time _1" 
+"Skam fr _8" "Precise shot _1" "The harvest season _1" "Vincenzo _1" "Love in time _1" 
 "TharnType _2" "Mental _1" "Rpdrdu _1" "Pearl next door _1" "Be love _1" "Friend or lover _1" "Bt21 vlog _1" "Wabi show _1" )
 
 # entre 9 et 3

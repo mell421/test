@@ -39,7 +39,6 @@ Crime scene kitchen 1x2
 * Agt 16x1
 Rpdrdu 1x5
 * Drag race esp 1x1
-Weekend to remember 1x7
 * Dark blue kiss 1x1
 Wtfock 5x5
 Unbag 1x22
@@ -56,7 +55,6 @@ Wabi vlog 1x15
 * Wtfock 5x1
 * I can see your voice fr 1x1
 * Survivor au 4x1
-* Weekend to remember 1x1
 Life senjou no bokura 1x2
 * Life senjou no bokura 1x1
 * Fish upon the sky 1x1

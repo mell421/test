@@ -387,39 +387,39 @@
 - 16/04/21 - 360* unbag _1{225} ydestiny _1{3} life senjou no bokura _1{3} 
 - 17/04/21 - 457* fish upon the sky _1{1} unbag _1{227} 
 - 18/04/21 - 519* wabi vlog _1{73} fish upon the sky _1{1} unbag _1{229} 
-- 19/04/21 - 276* friend or lover _1{3} weekend to remember _1{1} wabi vlog _1{76} 
-- 20/04/21 - 230* survivor au _4{0} friend or lover _1{3} weekend to remember _1{1} 
+- 19/04/21 - 276* friend or lover _1{3} wabi vlog _1{76} 
+- 20/04/21 - 230* survivor au _4{0} friend or lover _1{3} 
 - 21/04/21 - 290* ydestiny _1{4} wabi vlog _1{78} survivor au _4{0} 
 - 22/04/21 - 282* ydestiny _1{5} wabi vlog _1{80} 
 - 23/04/21 - 116* i can see your voice fr _1{0} ydestiny _1{5} 
 - 24/04/21 - 140* wtfock _5{0} fish upon the sky _1{2} i can see your voice fr _1{0} 
 - 25/04/21 - 224* wtfock _5{0} fish upon the sky _1{2} 
-- 26/04/21 - 180* weekend to remember _1{2} wtfock _5{1} 
-- 27/04/21 - 639* survivor au _4{1} weekend to remember _1{2} 
+- 26/04/21 - 180* wtfock _5{1} 
+- 27/04/21 - 639* survivor au _4{1} 
 - 28/04/21 - 764* ydestiny _1{6} wabi vlog _1{90} survivor au _4{3} 
 - 29/04/21 - 763* ydestiny _1{7} wabi vlog _1{91} survivor au _4{4} 
 - 30/04/21 - 1045* unbag _1{253} ydestiny _1{8} wabi vlog _1{93} 
 - 01/05/21 - 942* wtfock _5{2} fish upon the sky _1{4} unbag _1{256} 
 - 02/05/21 - 449* rpdrdu _1{0} wtfock _5{2} fish upon the sky _1{4} unbag _1{258} 
-- 03/05/21 - 648* weekend to remember _1{4} rpdrdu _1{1} wtfock _5{3} 
-- 04/05/21 - 757* survivor au _4{12} weekend to remember _1{4} 
+- 03/05/21 - 648* rpdrdu _1{1} wtfock _5{3} 
+- 04/05/21 - 757* survivor au _4{12} 
 - 05/05/21 - 806* ydestiny _1{10} survivor au _4{13} 
 - 06/05/21 - 846* ydestiny _1{10} survivor au _4{15} 
 - 07/05/21 - 857* ydestiny _1{10} 
 - 08/05/21 - 190* wtfock _5{3} nitiman _1{0} skam fr _8{0} fish upon the sky _1{5} 
 - 09/05/21 - 179* survivor au _4{21} rpdrdu _1{1} wtfock _5{3} nitiman _1{0} skam fr _8{0} 
 - 10/05/21 - 709* survivor au _4{24} rpdrdu _1{2} wtfock _5{4} 
-- 11/05/21 - 827* weekend to remember _1{4} survivor au _4{26} 
-- 12/05/21 - 852* ydestiny _1{11} weekend to remember _1{4} 
-- 13/05/21 - 849* ydestiny _1{12} weekend to remember _1{4} 
-- 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} ydestiny _1{12} weekend to remember _1{4} 
+- 11/05/21 - 827* survivor au _4{26} 
+- 12/05/21 - 852* ydestiny _1{11} 
+- 13/05/21 - 849* ydestiny _1{12} 
+- 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} ydestiny _1{12} 
 - 15/05/21 - 490* fish upon the sky _1{6} skam fr _8{1} unbag _1{285} i can see your voice fr _1{2} 
 - 16/05/21 - 381* nitiman _1{1} rpdrdu _1{2} fish upon the sky _1{6} skam fr _8{1} unbag _1{287} i can see your voice fr _1{2} 
 - 17/05/21 - 645* nitiman _1{3} rpdrdu _1{3} fish upon the sky _1{7} skam fr _8{2} 
 - 18/05/21 - 790* nitiman _1{3} rpdrdu _1{3} 
-- 19/05/21 - 833* weekend to remember _1{5} ydestiny _1{13} an eye for an eye _1{0} 
-- 20/05/21 - 909* bt21 original story _1{34} survivor au _4{38} weekend to remember _1{6} ydestiny _1{15} an eye for an eye _1{0} 
-- 21/05/21 - 771* special _2{0} bt21 original story _1{34} survivor au _4{40} weekend to remember _1{6} ydestiny _1{16} an eye for an eye _1{0} 
+- 19/05/21 - 833* ydestiny _1{13} an eye for an eye _1{0} 
+- 20/05/21 - 909* bt21 original story _1{34} survivor au _4{38} ydestiny _1{15} an eye for an eye _1{0} 
+- 21/05/21 - 771* special _2{0} bt21 original story _1{34} survivor au _4{40} ydestiny _1{16} an eye for an eye _1{0} 
 - 22/05/21 - 761* skam fr _8{2} special _2{0} 
 
 

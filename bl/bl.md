@@ -164,6 +164,7 @@
 |my lascivious boss|ong chu dung den day|10|serie|vietnam|     <!-- 45 -->
 |history3.1|history3 trapped|20|serie|taiwan|                 <!-- 37 -->
 |history3.2|history3 modc|10|serie|taiwan|                    <!-- 53 -->
+|wheel of love 1|weekend to remember|8|serie|philippines|     <!-- 51 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -181,7 +182,7 @@
 |so much in love|so much in love|12|serie|thailande|2|          <!-- 5 -->
 |he's coming to me|he's coming to me|8|serie|thailande|2|       <!-- 6 -->
 |blacklist|blacklist|13|serie(**)|thailande|1|                  <!-- 7 -->
-|unbag|unbag|?|show|thailande|18|                               <!-- 8 -->
+|unbag|unbag|?|show|thailande|23|                               <!-- 8 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1| <!-- 9 -->
 |my day|my day|12|serie|philippines|1|                          <!-- 10 -->
 |friend forever|friend forever|12|serie|thailande|3|            <!-- 11 -->
@@ -208,15 +209,16 @@
 |wabi game|wabi game|?|show|thailande|2|                        <!-- 34 -->
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 35 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 36 -->
-|friend or lover|friend or lover|4|serie|taiwan|2|              <!-- 42 -->
+|friend or lover|friend or lover|4|serie|taiwan|3|              <!-- 42 -->
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 43 -->
-|ydestiny|ydestiny|15|serie|thailande|8|                        <!-- 44 -->
+|ydestiny|ydestiny|15|serie|thailande|11|                        <!-- 44 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 47 -->
-|fish upon the sky|fish upon the sky|?|serie|thailande|6|       <!-- 48 -->
+|fish upon the sky|fish upon the sky|?|serie|thailande|10|       <!-- 48 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 49 -->
-|wheel of love 1|weekend to remember|8|serie|philippines|5|     <!-- 51 -->
-|||||||<!--  -->
-|||||||<!--  -->
+|nitiman|nitiman|15|serie|thailande|6|<!-- 52 -->
+|an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|<!-- 53 -->
+|dark blue kiss|dark blue kiss|12|serie|thailande|1|<!-- 54 -->
+|stuck on you|stuck on you|8|serie|philippines|1|<!-- 55 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -244,8 +246,6 @@
 |MAI||||||<!-- -->
 |love mechanics|love mechanics|16|serie|thailande|0|<!-- ??/05 -->
 |top secret together|top secret together|?|serie|thailande|0|<!-- 14/05 -->
-|nitiman|nitiman|?|serie|thailande|0|<!-- 07/05 -->
-|an eye for an eye|an eye for an eye|?|serie(**)|thailande|0|<!-- 17/05 -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
 |JUIN||||||<!-- -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->
