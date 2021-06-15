@@ -14,6 +14,8 @@ $
 Bangkok love stories innocence 1x2
 An eye for an eye 1x2
 Special 2x2
+Stuck on you 1x2
+Dark blue kiss 1x2
 * --
 Ciwyw 1x1
 Ciwyw 1x3
@@ -23,6 +25,15 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
+Wtfock 5x8
+Rpdrdu 1x7
+Nitiman 1x6
+Skam france 8x6
+Fish upon the sky 1x10
+* Stuck on you 1x1
+Beat shazam 4x2
+Unbag 1x23
+Crime scene kitchen 1x3
 Agt 16x2
 Lego masters 2x2
 * Lego masters 2x1
@@ -30,19 +41,12 @@ Ydestiny 1x11
 Drag race esp 1x2
 Friend or lover 1x3
 Vincenzo 1x2
-Nitiman 1x5
-Skam france 8x5
-Fish upon the sky 1x9
-Crime scene kitchen 1x2
 * Beat shazam 4x1
 * Vincenzo 1x1
 * Agt 16x1
-Rpdrdu 1x5
 * Drag race esp 1x1
 * Dark blue kiss 1x1
-Wtfock 5x5
-Unbag 1x22
-Crime scene kitchen 1x1
+* Crime scene kitchen 1x1
 * Special 2x1
 Bt21 original story 1x8
 Survivor au 4x11
@@ -231,7 +235,6 @@ Supergirl 1x9
 * Imortal 1x1
 * La guerre des mondes bbc 1x1
 Here and now 1x3
-Sfu 5x6
 * Magic for humans 2x1
 New amsterdam 1x7
 * Forever knight 1x1

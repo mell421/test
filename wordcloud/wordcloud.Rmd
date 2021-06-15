@@ -9,7 +9,6 @@ output:
 suppressWarnings(source("~/GitHub/ajoutRep/ajoutRep/R/sources.R"))
 suppressWarnings(library(tidyverse))
 # knitr::opts_chunk$set(cache = TRUE)
-
 library(ggraph)
 library(tidygraph)
 require(devtools)
@@ -21,6 +20,7 @@ library(wordcloud2)
 
 <!-- -->
 [MD](./wordcloud.Rmd)  
+
 
 ## accueil
 ```{r accueil, echo=FALSE}

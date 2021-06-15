@@ -128,7 +128,7 @@ Forever knight _1x7(2)
 ### sem 23-12-2019 
 Magic for humans _2x2(1) New amsterdam _1x8(1) Forever knight _1x8(1) 
 ### sem 30-12-2019 
-Supergirl _1x9(1) Here and now _1x4(1) Sfu _5x7(2) 
+Supergirl _1x9(1) Here and now _1x4(1) 
 
 ---
 

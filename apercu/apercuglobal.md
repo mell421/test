@@ -117,6 +117,10 @@
       - [sem 03-05-2021](#sem-03-05-2021)
       - [sem 10-05-2021](#sem-10-05-2021)
       - [sem 17-05-2021](#sem-17-05-2021)
+      - [sem 24-05-2021](#sem-24-05-2021)
+      - [sem 31-05-2021](#sem-31-05-2021)
+      - [sem 07-06-2021](#sem-07-06-2021)
+      - [sem 14-06-2021](#sem-14-06-2021)
   - [Aperçu mois](#aperçu-mois)
       - [mois 01-05-2019](#mois-01-05-2019)
       - [mois 01-06-2019](#mois-01-06-2019)
@@ -143,6 +147,7 @@
       - [mois 01-03-2021](#mois-01-03-2021)
       - [mois 01-04-2021](#mois-01-04-2021)
       - [mois 01-05-2021](#mois-01-05-2021)
+      - [mois 01-06-2021](#mois-01-06-2021)
   - [conclu](#conclu)
   - [conclu bis](#conclu-bis)
 
@@ -220,7 +225,7 @@ Forever knight _1x7(2)
 #### sem 23-12-2019 
 Magic for humans _2x2(1) New amsterdam _1x8(1) Forever knight _1x8(1) 
 #### sem 30-12-2019 
-Supergirl _1x9(1) Here and now _1x4(1) Sfu _5x7(2) 
+Supergirl _1x9(1) Here and now _1x4(1) 
 #### sem 06-01-2020 
 Soundtrack _1x2(1) Zérostérone _1x5(4) Supergirl _1x10(1) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) 
 #### sem 13-01-2020 
@@ -361,6 +366,15 @@ Rpdrdu _1x2(1) Wtfock _5x3(1) Fish upon the sky _1x5(1) Unbag _1x21(1) Ydestiny 
 Survivor au _4x11(5) Rpdrdu _1x3(1) Wtfock _5x4(1) Nitiman _1x2(1) Skam fr _8x2(1) Fish upon the sky _1x6(1) Ydestiny _1x7(1) 
 #### sem 17-05-2021 
 Nitiman _1x3(1) Rpdrdu _1x4(1) Fish upon the sky _1x7(1) Skam fr _8x3(1) Unbag _1x22(1) I can see your voice fr _1x3(1) Ydestiny _1x8(1) 
+#### sem 24-05-2021 
+Nitiman _1x4(1) Fish upon the sky _1x8(1) Skam fr _8x4(1) Special _2x2(1) Bt21 original story _1x9(1) Survivor au _4x12(1) Ydestiny _1x9(1) An eye for an eye _1x2(1) 
+#### sem 31-05-2021 
+Rpdrdu _1x6(2) Drag race esp _1x2(1) Nitiman _1x5(1) Skam fr _8x5(1) Fish upon the sky _1x9(1) Dark blue kiss _1x2(1) Wtfock _5x6(2) Unbag _1x23(1) Crime scene kitchen _1x2(1) Ydestiny _1x10(1) 
+#### sem 07-06-2021 
+Drag race esp _1x3(1) Friend or lover _1x4(1) Vincenzo _1x3(2) Nitiman _1x6(1) Skam fr _8x6(1) Fish upon the sky _1x10(1) Crime scene kitchen _1x3(1) Beat shazam _4x2(1) Agt _16x2(1) Ydestiny _1x11(1) 
+#### sem 14-06-2021 
+Drag race esp _1x4(1) Wtfock _5x9(3) Rpdrdu _1x8(2) Nitiman _1x7(1) Skam fr _8x7(1) Fish upon the sky _1x11(1) Stuck on you _1x2(1) Beat shazam _4x3(1) Unbag _1x24(1) Crime scene kitchen _1x4(1) Agt _16x3(1) Lego masters _2x3(2) Ydestiny _1x12(1) 
+
 
 
 
@@ -388,7 +402,7 @@ Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) We are not human _1x9(8)
 #### mois 01-12-2019 
 Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) Mental _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 
 #### mois 01-01-2020 
-Zérostérone _1x5(4) Supergirl _1x10(2) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) Here and now _1x4(1) Sfu _5x7(2) Magic for humans _2x2(1) New amsterdam _1x8(4) Forever knight _1x8(7) Vwars _1x4(3) Sam & cat _1x21(1) 
+Zérostérone _1x5(4) Supergirl _1x10(2) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) Here and now _1x4(1) Magic for humans _2x2(1) New amsterdam _1x8(4) Forever knight _1x8(7) Vwars _1x4(3) Sam & cat _1x21(1) 
 #### mois 01-02-2020 
 Ragnarok _1x2(1) Only connect _15x20(3) Orange marmelade _1x7(1) Gossip girl _1x8(1) Shameless _5x2(1) Ex on the beach us _4x2(1) Sex education _2x4(3) Dark _1x6(1) Forever knight _1x9(1) Blood _1x16(1) Aj and the queen _1x2(1) Soundtrack _1x2(1) 
 #### mois 01-03-2020 
@@ -421,6 +435,8 @@ Unbag _1x17(2) Wabi vlog _1x7(6) Unlocked _1x3(1) Pearl next door _1x4(1) My vam
 Wabi vlog _1x12(5) Ydestiny _1x2(1) Precise shot _1x5(4) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
 Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Ydestiny _1x6(4) Wabi vlog _1x16(4) Survivor au _4x6(5) I can see your voice fr _1x2(1) Friend or lover _1x3(1) Life senjou no bokura _1x3(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
+#### mois 01-06-2021 
+Rpdrdu _1x6(5) Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) Dark blue kiss _1x2(1) Wtfock _5x6(3) Unbag _1x23(2) Crime scene kitchen _1x2(1) Ydestiny _1x10(4) Special _2x2(1) Bt21 original story _1x9(1) Survivor au _4x12(6) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 
 
 
@@ -677,6 +693,31 @@ Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Ydestiny _1x6(4) Wabi vl
 * conclu 20/05/21 = Unbag _1 > 4; Survivor au _4 > 2; 
 * conclu 21/05/21 = Survivor au _4 > 2; Unbag _1 > 2; 
 * conclu 22/05/21 = Survivor au _4 > 2; Unbag _1 > 2; 
+* conclu 23/05/21 = Survivor au _4 > 2; Unbag _1 > 2; 
+* conclu 24/05/21 = Survivor au _4 > 2; Unbag _1 > 2; 
+* conclu 25/05/21 = Survivor au _4 > 2; Unbag _1 > 2; 
+* conclu 26/05/21 = Unbag _1 > 4; Survivor au _4 > 2; Ydestiny _1 > 1; 
+* conclu 27/05/21 = Unbag _1 > 4; Crime scene kitchen _1 > 2; Survivor au _4 > 1; 
+* conclu 28/05/21 = Unbag _1 > 5; Wtfock _5 > 3; Survivor au _4 > 1; 
+* conclu 29/05/21 = Unbag _1 > 4; Fish upon the sky _1 > 2; Survivor au _4 > 1; Wtfock _5 > 1; 
+* conclu 30/05/21 = Unbag _1 > 4; Wtfock _5 > 2; Survivor au _4 > 1; Nitiman _1 > 1; 
+* conclu 31/05/21 = Unbag _1 > 4; Rpdrdu _1 > 2; Survivor au _4 > 1; Wtfock _5 > 1; 
+* conclu 01/06/21 = Unbag _1 > 4; Wtfock _5 > 2; Survivor au _4 > 1; We are not human _1 > 1; 
+* conclu 02/06/21 = Unbag _1 > 4; Wtfock _5 > 2; Survivor au _4 > 1; Ydestiny _1 > 1; We are not human _1 > 1; 
+* conclu 03/06/21 = Unbag _1 > 6; Wtfock _5 > 3; Vincenzo _1 > 2; We are not human _1 > 2; Ydestiny _1 > 1; Agt _16 > 1; 
+* conclu 04/06/21 = Unbag _1 > 6; Beat shazam _4 > 3; Vincenzo _1 > 2; We are not human _1 > 2; Ydestiny _1 > 1; Agt _16 > 1; 
+* conclu 05/06/21 = Unbag _1 > 6; Nitiman _1 > 4; Vincenzo _1 > 3; We are not human _1 > 2; Skam fr _8 > 1; 
+* conclu 06/06/21 = Unbag _1 > 6; Nitiman _1 > 4; Vincenzo _1 > 3; Skam fr _8 > 2; We are not human _1 > 2; Wabi vlog _1 > 1; 
+* conclu 07/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; Nitiman _1 > 2; Drag race esp _1 > 2; We are not human _1 > 2; Wabi vlog _1 > 1; Skam fr _8 > 1; Friend or lover _1 > 1; 
+* conclu 08/06/21 = Unbag _1 > 6; Nitiman _1 > 3; Vincenzo _1 > 3; Skam fr _8 > 2; Drag race esp _1 > 2; We are not human _1 > 2; Wabi vlog _1 > 1; Fish upon the sky _1 > 1; Friend or lover _1 > 1; 
+* conclu 09/06/21 = Unbag _1 > 6; Ydestiny _1 > 4; Lego masters _2 > 3; Nitiman _1 > 2; Vincenzo _1 > 2; We are not human _1 > 2; Wabi vlog _1 > 1; Skam fr _8 > 1; 
+* conclu 10/06/21 = Unbag _1 > 6; Ydestiny _1 > 4; Wabi vlog _1 > 3; Crime scene kitchen _1 > 3; Nitiman _1 > 2; We are not human _1 > 2; Skam fr _8 > 1; Lego masters _2 > 1; 
+* conclu 11/06/21 = Unbag _1 > 6; Wabi vlog _1 > 3; Ydestiny _1 > 3; Crime scene kitchen _1 > 2; We are not human _1 > 2; Nitiman _1 > 1; Lego masters _2 > 1; 
+* conclu 12/06/21 = Unbag _1 > 6; Wabi vlog _1 > 3; Nitiman _1 > 3; Lego masters _2 > 2; We are not human _1 > 2; Ydestiny _1 > 1; Skam fr _8 > 1; 
+* conclu 13/06/21 = Unbag _1 > 6; Rpdrdu _1 > 6; Wabi vlog _1 > 3; Nitiman _1 > 3; Lego masters _2 > 2; We are not human _1 > 2; Ydestiny _1 > 1; Skam fr _8 > 1; 
+* conclu 14/06/21 = Unbag _1 > 6; Wtfock _5 > 6; Rpdrdu _1 > 4; Wabi vlog _1 > 3; We are not human _1 > 2; Ydestiny _1 > 1; Nitiman _1 > 1; Lego masters _2 > 1; 
+* conclu 15/06/21 = Unbag _1 > 6; Wtfock _5 > 4; Wabi vlog _1 > 3; Rpdrdu _1 > 2; Elite short _1 > 2; We are not human _1 > 2; Ydestiny _1 > 1; Nitiman _1 > 1; 
+
 
 
 
@@ -930,6 +971,30 @@ Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Ydestiny _1x6(4) Wabi vl
 * concluBis 20/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; Ydestiny _1 > 1; 
 * concluBis 21/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
 * concluBis 22/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
+* concluBis 23/05/21 = Survivor au _4 > 4; Unbag _1 > 4; Fish upon the sky _1 > 2; We are not human _1 > 2; Nitiman _1 > 1; 
+* concluBis 24/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; Nitiman _1 > 1; 
+* concluBis 25/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
+* concluBis 26/05/21 = Unbag _1 > 8; Survivor au _4 > 4; Ydestiny _1 > 4; We are not human _1 > 2; Rpdrdu _1 > 1; 
+* concluBis 27/05/21 = Unbag _1 > 8; Crime scene kitchen _1 > 4; Survivor au _4 > 3; Ydestiny _1 > 3; We are not human _1 > 2; 
+* concluBis 28/05/21 = Unbag _1 > 11; Wtfock _5 > 5; Survivor au _4 > 3; Crime scene kitchen _1 > 2; We are not human _1 > 2; 
+* concluBis 29/05/21 = Unbag _1 > 8; Fish upon the sky _1 > 4; Survivor au _4 > 3; Wtfock _5 > 3; We are not human _1 > 2; Wabi vlog _1 > 1; 
+* concluBis 30/05/21 = Unbag _1 > 8; Wtfock _5 > 4; Survivor au _4 > 3; Nitiman _1 > 3; We are not human _1 > 2; Wabi vlog _1 > 1; 
+* concluBis 31/05/21 = Unbag _1 > 8; Rpdrdu _1 > 6; Survivor au _4 > 3; Wtfock _5 > 3; Drag race esp _1 > 2; We are not human _1 > 2; 
+* concluBis 01/06/21 = Unbag _1 > 8; Wtfock _5 > 4; Wabi vlog _1 > 3; Survivor au _4 > 3; We are not human _1 > 3; Rpdrdu _1 > 1; 
+* concluBis 02/06/21 = Unbag _1 > 8; Ydestiny _1 > 5; Wtfock _5 > 4; Wabi vlog _1 > 3; Survivor au _4 > 3; We are not human _1 > 3; 
+* concluBis 03/06/21 = Unbag _1 > 10; Wtfock _5 > 5; Ydestiny _1 > 4; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; Wabi vlog _1 > 2; Survivor au _4 > 1; Rpdrdu _1 > 1; 
+* concluBis 04/06/21 = Unbag _1 > 10; Beat shazam _4 > 5; Ydestiny _1 > 4; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; Wabi vlog _1 > 2; Survivor au _4 > 1; Rpdrdu _1 > 1; 
+* concluBis 05/06/21 = Unbag _1 > 10; Nitiman _1 > 8; Skam fr _8 > 5; Vincenzo _1 > 5; We are not human _1 > 4; Fish upon the sky _1 > 3; Survivor au _4 > 2; Wabi vlog _1 > 2; Ydestiny _1 > 1; 
+* concluBis 06/06/21 = Unbag _1 > 10; Nitiman _1 > 8; Skam fr _8 > 6; Wabi vlog _1 > 5; Vincenzo _1 > 5; Fish upon the sky _1 > 4; We are not human _1 > 4; Survivor au _4 > 1; Crime scene kitchen _1 > 1; 
+* concluBis 07/06/21 = Unbag _1 > 10; Nitiman _1 > 6; Wabi vlog _1 > 5; Vincenzo _1 > 5; Skam fr _8 > 4; Drag race esp _1 > 4; We are not human _1 > 4; Friend or lover _1 > 3; Fish upon the sky _1 > 2; Survivor au _4 > 1; 
+* concluBis 08/06/21 = Unbag _1 > 10; Nitiman _1 > 7; Wabi vlog _1 > 5; Skam fr _8 > 5; Vincenzo _1 > 5; Drag race esp _1 > 4; We are not human _1 > 4; Fish upon the sky _1 > 3; Friend or lover _1 > 3; Survivor au _4 > 2; Ydestiny _1 > 2; Kaamelott _5 > 1; 
+* concluBis 09/06/21 = Unbag _1 > 10; Ydestiny _1 > 10; Wabi vlog _1 > 5; Lego masters _2 > 5; Nitiman _1 > 4; Vincenzo _1 > 4; We are not human _1 > 4; Skam fr _8 > 3; Fish upon the sky _1 > 2; Drag race esp _1 > 2; Survivor au _4 > 1; Friend or lover _1 > 1; Kaamelott _5 > 1; 
+* concluBis 10/06/21 = Unbag _1 > 10; Ydestiny _1 > 9; Wabi vlog _1 > 7; Crime scene kitchen _1 > 6; Nitiman _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Fish upon the sky _1 > 3; Skam fr _8 > 3; Lego masters _2 > 3; Agt _16 > 2; Kaamelott _5 > 2; 
+* concluBis 11/06/21 = Unbag _1 > 11; Wabi vlog _1 > 7; Ydestiny _1 > 7; Crime scene kitchen _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Nitiman _1 > 3; Lego masters _2 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Beat shazam _4 > 2; Kaamelott _5 > 2; 
+* concluBis 12/06/21 = Unbag _1 > 10; Wabi vlog _1 > 7; Nitiman _1 > 7; Skam fr _8 > 5; Ydestiny _1 > 4; Fish upon the sky _1 > 4; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; Kaamelott _5 > 2; 
+* concluBis 13/06/21 = Unbag _1 > 10; Rpdrdu _1 > 10; Wabi vlog _1 > 7; Nitiman _1 > 7; Skam fr _8 > 5; Ydestiny _1 > 4; Fish upon the sky _1 > 4; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; Kaamelott _5 > 2; 
+* concluBis 14/06/21 = Unbag _1 > 10; Wtfock _5 > 10; Rpdrdu _1 > 8; Wabi vlog _1 > 7; Nitiman _1 > 4; We are not human _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 3; Lego masters _2 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Drag race esp _1 > 2; Kaamelott _5 > 2; 
+* concluBis 15/06/21 = Unbag _1 > 10; Wtfock _5 > 8; Wabi vlog _1 > 7; Rpdrdu _1 > 6; Elite short _1 > 4; We are not human _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 3; Nitiman _1 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Kaamelott _5 > 2; Lego masters _2 > 1; 
 
 
 

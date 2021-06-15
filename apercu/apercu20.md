@@ -185,7 +185,7 @@ Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2)
 
 ## apercu mois
 #### mois 01-01-2020 
-Zérostérone _1x5(4) Supergirl _1x10(2) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) Here and now _1x4(1) Sfu _5x7(2) Magic for humans _2x2(1) New amsterdam _1x8(4) Forever knight _1x8(7) Vwars _1x4(3) Sam & cat _1x21(1) 
+Zérostérone _1x5(4) Supergirl _1x10(2) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) Here and now _1x4(1) Magic for humans _2x2(1) New amsterdam _1x8(4) Forever knight _1x8(7) Vwars _1x4(3) Sam & cat _1x21(1) 
 #### mois 01-02-2020 
 Ragnarok _1x2(1) Only connect _15x20(3) Orange marmelade _1x7(1) Gossip girl _1x8(1) Shameless _5x2(1) Ex on the beach us _4x2(1) Sex education _2x4(3) Dark _1x6(1) Forever knight _1x9(1) Blood _1x16(1) Aj and the queen _1x2(1) Soundtrack _1x2(1) 
 #### mois 01-03-2020 
