@@ -28,7 +28,7 @@ listBis=( "Drag race esp _1"
 
 
 # 2-0
-list2=( "Lego masters _2" "Dark blue kiss _1" "Special _2" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" 
+list2=( "Lego masters _2" "Dark blue kiss _1" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" 
 "" )
 
 listAtt=( )

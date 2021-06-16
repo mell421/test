@@ -367,7 +367,7 @@ Survivor au _4x11(5) Rpdrdu _1x3(1) Wtfock _5x4(1) Nitiman _1x2(1) Skam fr _8x2(
 #### sem 17-05-2021 
 Nitiman _1x3(1) Rpdrdu _1x4(1) Fish upon the sky _1x7(1) Skam fr _8x3(1) Unbag _1x22(1) I can see your voice fr _1x3(1) Ydestiny _1x8(1) 
 #### sem 24-05-2021 
-Nitiman _1x4(1) Fish upon the sky _1x8(1) Skam fr _8x4(1) Special _2x2(1) Bt21 original story _1x9(1) Survivor au _4x12(1) Ydestiny _1x9(1) An eye for an eye _1x2(1) 
+Nitiman _1x4(1) Fish upon the sky _1x8(1) Skam fr _8x4(1) Bt21 original story _1x9(1) Survivor au _4x12(1) Ydestiny _1x9(1) An eye for an eye _1x2(1) 
 #### sem 31-05-2021 
 Rpdrdu _1x6(2) Drag race esp _1x2(1) Nitiman _1x5(1) Skam fr _8x5(1) Fish upon the sky _1x9(1) Dark blue kiss _1x2(1) Wtfock _5x6(2) Unbag _1x23(1) Crime scene kitchen _1x2(1) Ydestiny _1x10(1) 
 #### sem 07-06-2021 
@@ -436,7 +436,7 @@ Wabi vlog _1x12(5) Ydestiny _1x2(1) Precise shot _1x5(4) Friend or lover _1x2(1)
 #### mois 01-05-2021 
 Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Ydestiny _1x6(4) Wabi vlog _1x16(4) Survivor au _4x6(5) I can see your voice fr _1x2(1) Friend or lover _1x3(1) Life senjou no bokura _1x3(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
 #### mois 01-06-2021 
-Rpdrdu _1x6(5) Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) Dark blue kiss _1x2(1) Wtfock _5x6(3) Unbag _1x23(2) Crime scene kitchen _1x2(1) Ydestiny _1x10(4) Special _2x2(1) Bt21 original story _1x9(1) Survivor au _4x12(6) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
+Rpdrdu _1x6(5) Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) Dark blue kiss _1x2(1) Wtfock _5x6(3) Unbag _1x23(2) Crime scene kitchen _1x2(1) Ydestiny _1x10(4) Bt21 original story _1x9(1) Survivor au _4x12(6) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 
 
 

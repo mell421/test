@@ -13,7 +13,6 @@
 $
 Bangkok love stories innocence 1x2
 An eye for an eye 1x2
-Special 2x2
 Stuck on you 1x2
 Dark blue kiss 1x2
 * --
@@ -47,7 +46,6 @@ Vincenzo 1x2
 * Drag race esp 1x1
 * Dark blue kiss 1x1
 * Crime scene kitchen 1x1
-* Special 2x1
 Bt21 original story 1x8
 Survivor au 4x11
 * An eye for an eye 1x1

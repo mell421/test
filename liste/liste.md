@@ -367,6 +367,7 @@
 |history3.2|history3 modc|10|serie|taiwan|                    <!-- 53 -->
 |wheel of love|weekend to remember|8|||<!-- 18/4 -->
 |SFU 5||12|||<!--  -->
+|special 2||8|||<!-- 20/5 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -524,7 +525,6 @@
 |skam france 8||10|||6|<!--  -->
 |nitiman||15|||6|<!-- 7/5 -->
 |an eye for an eye 1||?|||1|<!-- 17/05 -->
-|special 2||8|||1|<!-- 20/5 -->
 |crime scene kitchen||10|||3|<!--  -->
 |dark blue kiss||12|||1|<!--  -->
 |drag race esp||8|||3|<!--  -->
