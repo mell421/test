@@ -716,7 +716,7 @@ Rpdrdu _1x6(5) Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon t
 * conclu 12/06/21 = Unbag _1 > 6; Wabi vlog _1 > 3; Nitiman _1 > 3; Lego masters _2 > 2; We are not human _1 > 2; Ydestiny _1 > 1; Skam fr _8 > 1; 
 * conclu 13/06/21 = Unbag _1 > 6; Rpdrdu _1 > 6; Wabi vlog _1 > 3; Nitiman _1 > 3; Lego masters _2 > 2; We are not human _1 > 2; Ydestiny _1 > 1; Skam fr _8 > 1; 
 * conclu 14/06/21 = Unbag _1 > 6; Wtfock _5 > 6; Rpdrdu _1 > 4; Wabi vlog _1 > 3; We are not human _1 > 2; Ydestiny _1 > 1; Nitiman _1 > 1; Lego masters _2 > 1; 
-* conclu 15/06/21 = Unbag _1 > 6; Wtfock _5 > 4; Wabi vlog _1 > 3; Rpdrdu _1 > 2; Elite short _1 > 2; We are not human _1 > 2; Ydestiny _1 > 1; Nitiman _1 > 1; 
+* conclu 15/06/21 = Unbag _1 > 6; Wtfock _5 > 4; Wabi vlog _1 > 3; Rpdrdu _1 > 2; We are not human _1 > 2; Ydestiny _1 > 1; Nitiman _1 > 1; 
 
 
 
@@ -994,7 +994,7 @@ Rpdrdu _1x6(5) Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon t
 * concluBis 12/06/21 = Unbag _1 > 10; Wabi vlog _1 > 7; Nitiman _1 > 7; Skam fr _8 > 5; Ydestiny _1 > 4; Fish upon the sky _1 > 4; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; Kaamelott _5 > 2; 
 * concluBis 13/06/21 = Unbag _1 > 10; Rpdrdu _1 > 10; Wabi vlog _1 > 7; Nitiman _1 > 7; Skam fr _8 > 5; Ydestiny _1 > 4; Fish upon the sky _1 > 4; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; Kaamelott _5 > 2; 
 * concluBis 14/06/21 = Unbag _1 > 10; Wtfock _5 > 10; Rpdrdu _1 > 8; Wabi vlog _1 > 7; Nitiman _1 > 4; We are not human _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 3; Lego masters _2 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Drag race esp _1 > 2; Kaamelott _5 > 2; 
-* concluBis 15/06/21 = Unbag _1 > 10; Wtfock _5 > 8; Wabi vlog _1 > 7; Rpdrdu _1 > 6; Elite short _1 > 4; We are not human _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 3; Nitiman _1 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Kaamelott _5 > 2; Lego masters _2 > 1; 
+* concluBis 15/06/21 = Unbag _1 > 10; Wtfock _5 > 8; Wabi vlog _1 > 7; Rpdrdu _1 > 6; We are not human _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 3; Nitiman _1 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Kaamelott _5 > 2; Lego masters _2 > 1; 
 
 
 

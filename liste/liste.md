@@ -368,6 +368,7 @@
 |wheel of love|weekend to remember|8|||<!-- 18/4 -->
 |SFU 5||12|||<!--  -->
 |special 2||8|||<!-- 20/5 -->
+|elite short 1||4x3|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -545,7 +546,6 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|elite short 1||4||||<!--  -->
 |elite 4||8|||0|<!-- 18/6 -->
 |RPDRAS 6||?|||0|<!-- 22/5 -->
 |bad buddy 1||12|||0|<!--  -->
