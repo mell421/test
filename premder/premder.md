@@ -25,7 +25,6 @@ Papa and daddy 1x1
 * $
 $
 Wtfock 5x8
-Rpdrdu 1x7
 Nitiman 1x6
 Skam france 8x6
 Fish upon the sky 1x10
@@ -52,7 +51,6 @@ Survivor au 4x11
 I can see your voice fr 1x2
 * Nitiman 1x1
 * Skam france 8x1
-* Rpdrdu 1x1
 Wabi vlog 1x15
 * Wtfock 5x1
 * I can see your voice fr 1x1
