@@ -13,8 +13,6 @@
 $
 Bangkok love stories innocence 1x2
 An eye for an eye 1x2
-Stuck on you 1x2
-Dark blue kiss 1x2
 * --
 Ciwyw 1x1
 Ciwyw 1x3
@@ -24,19 +22,25 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
-Wtfock 5x8
-Nitiman 1x6
-Skam france 8x6
-Fish upon the sky 1x10
+* The cube 1x1
+Kaamelott 5x25
+Wtfock 5x9
+Nitiman 1x7
+Skam france 8x7
+Stuck on you 1x2
+Fish upon the sky 1x11
+Elite 4x2
+* Elite 4x1
+Beat shazam 4x3
+Dark blue kiss 1x2
+Crime scene kitchen 1x4
+Agt 16x3
+Lego masters 2x3
+Ydestiny 1x12
+Drag race esp 1x3
 * Stuck on you 1x1
-Beat shazam 4x2
 Unbag 1x23
-Crime scene kitchen 1x3
-Agt 16x2
-Lego masters 2x2
 * Lego masters 2x1
-Ydestiny 1x11
-Drag race esp 1x2
 Friend or lover 1x3
 Vincenzo 1x2
 * Beat shazam 4x1
@@ -135,7 +139,6 @@ We are not human 1x18
 * My day 1x1
 * Love in time 1x1
 * Baby 3x1
-Hes coming to me 1x2
 * My dear loser edge of 17 1x1
 Aggretsuko 3x3
 * Unbag 1x1
@@ -143,7 +146,6 @@ Aggretsuko 3x3
 So much in love 1x2
 * Blacklist series 1x1
 Good singers 1x2
-* Hes coming to me 1x1
 * So much in love 1x1
 * Survivor 40x1
 The office 1x4
@@ -166,7 +168,6 @@ Blank 1x4
 * Arrow 7x1
 * Top chef us 1x1
 * La casa de papel 4x1
-Kaamelott 5x12
 * Kaamelott 5x1
 Tf 4x13
 Heirs of the night 1x3

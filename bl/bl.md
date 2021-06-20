@@ -165,6 +165,7 @@
 |history3.1|history3 trapped|20|serie|taiwan|                 <!-- 37 -->
 |history3.2|history3 modc|10|serie|taiwan|                    <!-- 53 -->
 |wheel of love 1|weekend to remember|8|serie|philippines|     <!-- 51 -->
+|he's coming to me|he's coming to me|8|serie|thailande|       <!-- 6 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -180,7 +181,6 @@
 |long khong|long khong|8|serie(*)|thailande|3|                  <!-- 3 -->
 |the shipper|the shipper|12|serie|thailande|4|                  <!-- 4 -->
 |so much in love|so much in love|12|serie|thailande|2|          <!-- 5 -->
-|he's coming to me|he's coming to me|8|serie|thailande|2|       <!-- 6 -->
 |blacklist|blacklist|13|serie(**)|thailande|1|                  <!-- 7 -->
 |unbag|unbag|?|show|thailande|23|                               <!-- 8 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1| <!-- 9 -->
@@ -238,7 +238,7 @@
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
 |||||||<!-- -->
 |2021||||||<!-- -->
-|the night beyond the tricornered window|tnbttw|?|serie|japon|0|<!-- 22/01 -->
+|the night beyond the tricornered window|tnbttw|2|film|japon|0|<!-- 22/01 -->
 |MARS||||||<!-- -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |AVRIL||||||<!-- -->
