@@ -23,7 +23,6 @@ Papa and daddy 1x1
 * $
 $
 * The cube 1x1
-Kaamelott 5x25
 Wtfock 5x9
 Nitiman 1x7
 Skam france 8x7
@@ -168,7 +167,6 @@ Blank 1x4
 * Arrow 7x1
 * Top chef us 1x1
 * La casa de papel 4x1
-* Kaamelott 5x1
 Tf 4x13
 Heirs of the night 1x3
 * Heirs of the night 1x1

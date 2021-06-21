@@ -124,7 +124,7 @@ Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1)
 #### sem 08-06-2020 
 Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### sem 15-06-2020 
-Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) 
+Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) 
 #### sem 22-06-2020 
 Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
 #### sem 29-06-2020 
@@ -197,7 +197,7 @@ Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Mag
 #### mois 01-06-2020 
 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) 
 #### mois 01-07-2020 
-Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
+Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### mois 01-08-2020 
 Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
 #### mois 01-09-2020 
@@ -325,23 +325,23 @@ Be love _1x3(2) TharnType _2x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vamp
 * concluBis 24/09/20 > 
 * concluBis 25/09/20 > Unbag _1 > 3; 
 * concluBis 26/09/20 > 
-* concluBis 27/09/20 > Kaamelott _5 > 1; 
-* concluBis 28/09/20 > Kaamelott _5 > 1; 
-* concluBis 29/09/20 > Kaamelott _5 > 1; 
-* concluBis 30/09/20 > Kaamelott _5 > 1; 
-* concluBis 01/10/20 > Kaamelott _5 > 1; 
-* concluBis 02/10/20 > Kaamelott _5 > 1; 
-* concluBis 03/10/20 > Kaamelott _5 > 1; 
-* concluBis 04/10/20 > Kaamelott _5 > 1; 
-* concluBis 05/10/20 > Friend forever _1 > 5; Kaamelott _5 > 1; 
-* concluBis 06/10/20 > Friend forever _1 > 5; Kaamelott _5 > 1; 
-* concluBis 07/10/20 > Friend forever _1 > 4; Kaamelott _5 > 1; 
-* concluBis 08/10/20 > Capture lover _1 > 2; Zombie detective _1 > 1; Kaamelott _5 > 1; 
-* concluBis 09/10/20 > Unbag _1 > 3; Friend zone _1 > 3; Kaamelott _5 > 1; 
-* concluBis 10/10/20 > We are not human _1 > 9; Kaamelott _5 > 1; 
-* concluBis 11/10/20 > We are not human _1 > 8; Kaamelott _5 > 1; 
-* concluBis 12/10/20 > We are not human _1 > 9; Kaamelott _5 > 1; 
-* concluBis 13/10/20 > We are not human _1 > 9; Kaamelott _5 > 1; 
+* concluBis 27/09/20 > 
+* concluBis 28/09/20 > 
+* concluBis 29/09/20 > 
+* concluBis 30/09/20 > 
+* concluBis 01/10/20 > 
+* concluBis 02/10/20 > 
+* concluBis 03/10/20 > 
+* concluBis 04/10/20 > 
+* concluBis 05/10/20 > Friend forever _1 > 5; 
+* concluBis 06/10/20 > Friend forever _1 > 5; 
+* concluBis 07/10/20 > Friend forever _1 > 4; 
+* concluBis 08/10/20 > Capture lover _1 > 2; Zombie detective _1 > 1; 
+* concluBis 09/10/20 > Unbag _1 > 3; Friend zone _1 > 3; 
+* concluBis 10/10/20 > We are not human _1 > 9; 
+* concluBis 11/10/20 > We are not human _1 > 8; 
+* concluBis 12/10/20 > We are not human _1 > 9; 
+* concluBis 13/10/20 > We are not human _1 > 9; 
 * concluBis 14/10/20 > We are not human _1 > 9; 
 * concluBis 15/10/20 > We are not human _1 > 19; 
 * concluBis 16/10/20 > We are not human _1 > 19; 
@@ -410,17 +410,17 @@ Be love _1x3(2) TharnType _2x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vamp
 * concluBis 18/12/20 > Unbag _1 > 4; We are not human _1 > 2; 
 * concluBis 19/12/20 > We are not human _1 > 2; Unbag _1 > 1; 
 * concluBis 20/12/20 > Unbag _1 > 2; We are not human _1 > 2; 
-* concluBis 21/12/20 > Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 2; Kaamelott _5 > 1; 
-* concluBis 22/12/20 > Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 23/12/20 > Unbag _1 > 3; We are not human _1 > 3; Lakan _1 > 1; Kaamelott _5 > 1; 
-* concluBis 24/12/20 > We are not human _1 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 25/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 26/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 27/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 28/12/20 > Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 29/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 30/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 31/12/20 > We are not human _1 > 3; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
+* concluBis 21/12/20 > Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 2; 
+* concluBis 22/12/20 > Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; 
+* concluBis 23/12/20 > Unbag _1 > 3; We are not human _1 > 3; Lakan _1 > 1; 
+* concluBis 24/12/20 > We are not human _1 > 3; Unbag _1 > 2; 
+* concluBis 25/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; 
+* concluBis 26/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; 
+* concluBis 27/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; 
+* concluBis 28/12/20 > Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; 
+* concluBis 29/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; 
+* concluBis 30/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; 
+* concluBis 31/12/20 > We are not human _1 > 3; Ghost runner _1 > 1; From dusk till dawn _2 > 1; 
 
 
 [retour](./../index.html)

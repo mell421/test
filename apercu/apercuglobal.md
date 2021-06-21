@@ -270,7 +270,7 @@ Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1)
 #### sem 08-06-2020 
 Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### sem 15-06-2020 
-Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) 
+Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) 
 #### sem 22-06-2020 
 Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
 #### sem 29-06-2020 
@@ -414,7 +414,7 @@ Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Mag
 #### mois 01-06-2020 
 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) 
 #### mois 01-07-2020 
-Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Kaamelott _5x13(12) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
+Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### mois 01-08-2020 
 Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
 #### mois 01-09-2020 
@@ -733,23 +733,23 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) 
 * concluBis 24/09/20 > 
 * concluBis 25/09/20 > Unbag _1 > 3; 
 * concluBis 26/09/20 > 
-* concluBis 27/09/20 > Kaamelott _5 > 1; 
-* concluBis 28/09/20 > Kaamelott _5 > 1; 
-* concluBis 29/09/20 > Kaamelott _5 > 1; 
-* concluBis 30/09/20 > Kaamelott _5 > 1; 
-* concluBis 01/10/20 > Kaamelott _5 > 1; 
-* concluBis 02/10/20 > Kaamelott _5 > 1; 
-* concluBis 03/10/20 > Kaamelott _5 > 1; 
-* concluBis 04/10/20 > Kaamelott _5 > 1; 
-* concluBis 05/10/20 > Friend forever _1 > 5; Kaamelott _5 > 1; 
-* concluBis 06/10/20 > Friend forever _1 > 5; Kaamelott _5 > 1; 
-* concluBis 07/10/20 > Friend forever _1 > 4; Kaamelott _5 > 1; 
-* concluBis 08/10/20 > Capture lover _1 > 2; Zombie detective _1 > 1; Kaamelott _5 > 1; 
-* concluBis 09/10/20 > Unbag _1 > 3; Friend zone _1 > 3; Kaamelott _5 > 1; 
-* concluBis 10/10/20 > We are not human _1 > 9; Kaamelott _5 > 1; 
-* concluBis 11/10/20 > We are not human _1 > 8; Kaamelott _5 > 1; 
-* concluBis 12/10/20 > We are not human _1 > 9; Kaamelott _5 > 1; 
-* concluBis 13/10/20 > We are not human _1 > 9; Kaamelott _5 > 1; 
+* concluBis 27/09/20 > 
+* concluBis 28/09/20 > 
+* concluBis 29/09/20 > 
+* concluBis 30/09/20 > 
+* concluBis 01/10/20 > 
+* concluBis 02/10/20 > 
+* concluBis 03/10/20 > 
+* concluBis 04/10/20 > 
+* concluBis 05/10/20 > Friend forever _1 > 5; 
+* concluBis 06/10/20 > Friend forever _1 > 5; 
+* concluBis 07/10/20 > Friend forever _1 > 4; 
+* concluBis 08/10/20 > Capture lover _1 > 2; Zombie detective _1 > 1; 
+* concluBis 09/10/20 > Unbag _1 > 3; Friend zone _1 > 3; 
+* concluBis 10/10/20 > We are not human _1 > 9; 
+* concluBis 11/10/20 > We are not human _1 > 8; 
+* concluBis 12/10/20 > We are not human _1 > 9; 
+* concluBis 13/10/20 > We are not human _1 > 9; 
 * concluBis 14/10/20 > We are not human _1 > 9; 
 * concluBis 15/10/20 > We are not human _1 > 19; 
 * concluBis 16/10/20 > We are not human _1 > 19; 
@@ -818,63 +818,63 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) 
 * concluBis 18/12/20 > Unbag _1 > 4; We are not human _1 > 2; 
 * concluBis 19/12/20 > We are not human _1 > 2; Unbag _1 > 1; 
 * concluBis 20/12/20 > Unbag _1 > 2; We are not human _1 > 2; 
-* concluBis 21/12/20 > Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 2; Kaamelott _5 > 1; 
-* concluBis 22/12/20 > Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 23/12/20 > Unbag _1 > 3; We are not human _1 > 3; Lakan _1 > 1; Kaamelott _5 > 1; 
-* concluBis 24/12/20 > We are not human _1 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 25/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 26/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 27/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 28/12/20 > Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 29/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 30/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 31/12/20 > We are not human _1 > 3; Ghost runner _1 > 1; From dusk till dawn _2 > 1; Kaamelott _5 > 1; 
-* concluBis 01/01/21 > Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 1; Kaamelott _5 > 1; 
-* concluBis 02/01/21 > Unbag _1 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 03/01/21 > Unbag _1 > 5; We are not human _1 > 3; Ghost runner _1 > 1; Kaamelott _5 > 1; 
-* concluBis 04/01/21 > Unbag _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; Ghost runner _1 > 1; Kaamelott _5 > 1; 
-* concluBis 05/01/21 > Unbag _1 > 5; Rpdru _9 > 5; We are not human _1 > 3; Ghost runner _1 > 1; Kaamelott _5 > 1; 
-* concluBis 06/01/21 > Unbag _1 > 5; Friend zone _1 > 4; Rpdru _9 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 07/01/21 > Unbag _1 > 5; Rpdru _9 > 3; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 08/01/21 > Rpdru _9 > 4; We are not human _1 > 3; Kaamelott _5 > 1; 
-* concluBis 09/01/21 > Rpdru _9 > 4; We are not human _1 > 3; TharnType _2 > 2; Kaamelott _5 > 1; 
-* concluBis 10/01/21 > We are not human _1 > 4; Rpdru _9 > 3; Kaamelott _5 > 2; Unbag _1 > 1; 
-* concluBis 11/01/21 > We are not human _1 > 4; TharnType _2 > 1; Kaamelott _5 > 1; 
-* concluBis 12/01/21 > Rpdru _9 > 4; We are not human _1 > 4; Kaamelott _5 > 2; TharnType _2 > 1; Unbag _1 > 1; 
-* concluBis 13/01/21 > We are not human _1 > 4; Pearl next door _1 > 3; Kaamelott _5 > 2; TharnType _2 > 1; Unbag _1 > 1; 
-* concluBis 14/01/21 > We are not human _1 > 4; Kaamelott _5 > 2; Pearl next door _1 > 1; Unbag _1 > 1; 
-* concluBis 15/01/21 > Unbag _1 > 7; We are not human _1 > 4; Pearl next door _1 > 3; Kaamelott _5 > 1; 
-* concluBis 16/01/21 > Unbag _1 > 7; We are not human _1 > 4; Pearl next door _1 > 1; Kaamelott _5 > 1; 
-* concluBis 17/01/21 > Unbag _1 > 7; We are not human _1 > 4; Pearl next door _1 > 2; Kaamelott _5 > 1; 
-* concluBis 18/01/21 > Unbag _1 > 7; We are not human _1 > 4; Koishite akuma _1 > 3; Kaamelott _5 > 1; 
-* concluBis 19/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 20/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 21/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 22/01/21 > Koishite akuma _1 > 4; We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 23/01/21 > Koishite akuma _1 > 4; We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 24/01/21 > We are not human _1 > 4; Koishite akuma _1 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 25/01/21 > We are not human _1 > 4; Tien bromance _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 26/01/21 > We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 27/01/21 > We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 28/01/21 > We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 29/01/21 > Unbag _1 > 7; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 30/01/21 > Unbag _1 > 6; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 31/01/21 > Unbag _1 > 6; We are not human _1 > 4; Be love _1 > 1; Kaamelott _5 > 1; 
-* concluBis 01/02/21 > Unbag _1 > 6; We are not human _1 > 4; Be love _1 > 1; Kaamelott _5 > 1; 
-* concluBis 02/02/21 > Unbag _1 > 7; We are not human _1 > 4; You never eat alone _1 > 2; Slam dance _1 > 1; Kaamelott _5 > 1; 
-* concluBis 03/02/21 > Unbag _1 > 7; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 04/02/21 > Unbag _1 > 7; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 05/02/21 > We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 06/02/21 > We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 07/02/21 > We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 08/02/21 > We are not human _1 > 4; Schools out lets date now _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 09/02/21 > We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 10/02/21 > Wabi vlog _1 > 5; The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 11/02/21 > The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 12/02/21 > Unbag _1 > 7; The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Kaamelott _5 > 1; 
-* concluBis 13/02/21 > Unbag _1 > 7; The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 1; Kaamelott _5 > 1; 
-* concluBis 14/02/21 > Unbag _1 > 7; The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 1; Kaamelott _5 > 1; 
-* concluBis 15/02/21 > Unbag _1 > 7; The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 1; Kaamelott _5 > 1; 
+* concluBis 21/12/20 > Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 2; 
+* concluBis 22/12/20 > Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; 
+* concluBis 23/12/20 > Unbag _1 > 3; We are not human _1 > 3; Lakan _1 > 1; 
+* concluBis 24/12/20 > We are not human _1 > 3; Unbag _1 > 2; 
+* concluBis 25/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; 
+* concluBis 26/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; 
+* concluBis 27/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; 
+* concluBis 28/12/20 > Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; 
+* concluBis 29/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; 
+* concluBis 30/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; 
+* concluBis 31/12/20 > We are not human _1 > 3; Ghost runner _1 > 1; From dusk till dawn _2 > 1; 
+* concluBis 01/01/21 > Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 1; 
+* concluBis 02/01/21 > Unbag _1 > 3; We are not human _1 > 3; 
+* concluBis 03/01/21 > Unbag _1 > 5; We are not human _1 > 3; Ghost runner _1 > 1; 
+* concluBis 04/01/21 > Unbag _1 > 5; Rpdru _9 > 4; We are not human _1 > 3; Ghost runner _1 > 1; 
+* concluBis 05/01/21 > Unbag _1 > 5; Rpdru _9 > 5; We are not human _1 > 3; Ghost runner _1 > 1; 
+* concluBis 06/01/21 > Unbag _1 > 5; Friend zone _1 > 4; Rpdru _9 > 3; We are not human _1 > 3; 
+* concluBis 07/01/21 > Unbag _1 > 5; Rpdru _9 > 3; We are not human _1 > 3; 
+* concluBis 08/01/21 > Rpdru _9 > 4; We are not human _1 > 3; 
+* concluBis 09/01/21 > Rpdru _9 > 4; We are not human _1 > 3; TharnType _2 > 2; 
+* concluBis 10/01/21 > We are not human _1 > 4; Rpdru _9 > 3; Unbag _1 > 1; 
+* concluBis 11/01/21 > We are not human _1 > 4; TharnType _2 > 1; 
+* concluBis 12/01/21 > Rpdru _9 > 4; We are not human _1 > 4; TharnType _2 > 1; Unbag _1 > 1; 
+* concluBis 13/01/21 > We are not human _1 > 4; Pearl next door _1 > 3; TharnType _2 > 1; Unbag _1 > 1; 
+* concluBis 14/01/21 > We are not human _1 > 4; Pearl next door _1 > 1; Unbag _1 > 1; 
+* concluBis 15/01/21 > Unbag _1 > 7; We are not human _1 > 4; Pearl next door _1 > 3; 
+* concluBis 16/01/21 > Unbag _1 > 7; We are not human _1 > 4; Pearl next door _1 > 1; 
+* concluBis 17/01/21 > Unbag _1 > 7; We are not human _1 > 4; Pearl next door _1 > 2; 
+* concluBis 18/01/21 > Unbag _1 > 7; We are not human _1 > 4; Koishite akuma _1 > 3; 
+* concluBis 19/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; We are not human _1 > 4; 
+* concluBis 20/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; We are not human _1 > 4; 
+* concluBis 21/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; We are not human _1 > 4; 
+* concluBis 22/01/21 > Koishite akuma _1 > 4; We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 23/01/21 > Koishite akuma _1 > 4; We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 24/01/21 > We are not human _1 > 4; Koishite akuma _1 > 3; Unbag _1 > 2; 
+* concluBis 25/01/21 > We are not human _1 > 4; Tien bromance _1 > 2; Unbag _1 > 2; 
+* concluBis 26/01/21 > We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 27/01/21 > We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 28/01/21 > We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 29/01/21 > Unbag _1 > 7; We are not human _1 > 4; 
+* concluBis 30/01/21 > Unbag _1 > 6; We are not human _1 > 4; 
+* concluBis 31/01/21 > Unbag _1 > 6; We are not human _1 > 4; Be love _1 > 1; 
+* concluBis 01/02/21 > Unbag _1 > 6; We are not human _1 > 4; Be love _1 > 1; 
+* concluBis 02/02/21 > Unbag _1 > 7; We are not human _1 > 4; You never eat alone _1 > 2; Slam dance _1 > 1; 
+* concluBis 03/02/21 > Unbag _1 > 7; We are not human _1 > 4; 
+* concluBis 04/02/21 > Unbag _1 > 7; We are not human _1 > 4; 
+* concluBis 05/02/21 > We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 06/02/21 > We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 07/02/21 > We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 08/02/21 > We are not human _1 > 4; Schools out lets date now _1 > 2; Unbag _1 > 2; 
+* concluBis 09/02/21 > We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 10/02/21 > Wabi vlog _1 > 5; The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Unbag _1 > 2; 
+* concluBis 11/02/21 > The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 2; Unbag _1 > 2; 
+* concluBis 12/02/21 > Unbag _1 > 7; The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; 
+* concluBis 13/02/21 > Unbag _1 > 7; The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 1; 
+* concluBis 14/02/21 > Unbag _1 > 7; The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 1; 
+* concluBis 15/02/21 > Unbag _1 > 7; The harvest season _1 > 5; Wabi vlog _1 > 4; We are not human _1 > 4; Wabi show _1 > 1; 
 * concluBis 16/02/21 > Unbag _1 > 7; Wabi vlog _1 > 6; We are not human _1 > 4; The harvest season _1 > 3; Tokyo ghoul _3 > 2; Love in time _1 > 1; 
 * concluBis 17/02/21 > Unbag _1 > 7; We are not human _1 > 4; Tokyo ghoul _3 > 3; Love in time _1 > 2; Wabi vlog _1 > 1; My vampire boyfriend _1 > 1; 
 * concluBis 18/02/21 > My vampire boyfriend _1 > 8; Unbag _1 > 7; Wabi vlog _1 > 4; We are not human _1 > 4; Tokyo ghoul _3 > 2; Love in time _1 > 1; 
@@ -882,14 +882,14 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) 
 * concluBis 20/02/21 > My vampire boyfriend _1 > 5; We are not human _1 > 4; Unbag _1 > 2; 
 * concluBis 21/02/21 > My vampire boyfriend _1 > 5; We are not human _1 > 4; Unbag _1 > 2; 
 * concluBis 22/02/21 > My vampire boyfriend _1 > 5; We are not human _1 > 4; Unbag _1 > 2; Wabi vlog _1 > 1; Love in time _1 > 1; 
-* concluBis 23/02/21 > Wabi vlog _1 > 5; We are not human _1 > 4; My vampire boyfriend _1 > 2; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 24/02/21 > Wabi vlog _1 > 5; We are not human _1 > 4; My vampire boyfriend _1 > 3; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 25/02/21 > Wabi vlog _1 > 5; We are not human _1 > 4; Unbag _1 > 2; Kaamelott _5 > 1; 
-* concluBis 26/02/21 > Unbag _1 > 8; Wabi vlog _1 > 5; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 27/02/21 > Unbag _1 > 7; Wabi vlog _1 > 5; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 28/02/21 > Unbag _1 > 7; Wabi vlog _1 > 5; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 01/03/21 > Unbag _1 > 7; Wabi vlog _1 > 5; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 02/03/21 > Unbag _1 > 7; Wabi vlog _1 > 5; We are not human _1 > 4; Schools out lets date now _1 > 1; Kaamelott _5 > 1; 
+* concluBis 23/02/21 > Wabi vlog _1 > 5; We are not human _1 > 4; My vampire boyfriend _1 > 2; Unbag _1 > 2; 
+* concluBis 24/02/21 > Wabi vlog _1 > 5; We are not human _1 > 4; My vampire boyfriend _1 > 3; Unbag _1 > 2; 
+* concluBis 25/02/21 > Wabi vlog _1 > 5; We are not human _1 > 4; Unbag _1 > 2; 
+* concluBis 26/02/21 > Unbag _1 > 8; Wabi vlog _1 > 5; We are not human _1 > 4; 
+* concluBis 27/02/21 > Unbag _1 > 7; Wabi vlog _1 > 5; We are not human _1 > 4; 
+* concluBis 28/02/21 > Unbag _1 > 7; Wabi vlog _1 > 5; We are not human _1 > 4; 
+* concluBis 01/03/21 > Unbag _1 > 7; Wabi vlog _1 > 5; We are not human _1 > 4; 
+* concluBis 02/03/21 > Unbag _1 > 7; Wabi vlog _1 > 5; We are not human _1 > 4; Schools out lets date now _1 > 1; 
 * concluBis 03/03/21 > Unbag _1 > 6; We are not human _1 > 4; 
 * concluBis 04/03/21 > Unbag _1 > 6; We are not human _1 > 4; 
 * concluBis 05/03/21 > Unbag _1 > 6; We are not human _1 > 4; 
@@ -902,25 +902,25 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) 
 * concluBis 12/03/21 > Unbag _1 > 7; We are not human _1 > 4; Wabi vlog _1 > 3; 
 * concluBis 13/03/21 > Unbag _1 > 5; We are not human _1 > 3; 
 * concluBis 14/03/21 > Unbag _1 > 5; We are not human _1 > 3; 
-* concluBis 15/03/21 > Unbag _1 > 7; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 16/03/21 > Unbag _1 > 7; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 17/03/21 > Unbag _1 > 7; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 18/03/21 > Unbag _1 > 7; We are not human _1 > 4; Kaamelott _5 > 1; 
-* concluBis 19/03/21 > Bt21 original story _1 > 6; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; Kaamelott _5 > 1; 
-* concluBis 20/03/21 > Bt21 original story _1 > 6; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; Kaamelott _5 > 1; 
-* concluBis 21/03/21 > Bt21 original story _1 > 7; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; Kaamelott _5 > 1; 
-* concluBis 22/03/21 > Bt21 original story _1 > 7; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; Kaamelott _5 > 1; 
-* concluBis 23/03/21 > Bt21 original story _1 > 6; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; Kaamelott _5 > 1; 
+* concluBis 15/03/21 > Unbag _1 > 7; We are not human _1 > 4; 
+* concluBis 16/03/21 > Unbag _1 > 7; We are not human _1 > 4; 
+* concluBis 17/03/21 > Unbag _1 > 7; We are not human _1 > 4; 
+* concluBis 18/03/21 > Unbag _1 > 7; We are not human _1 > 4; 
+* concluBis 19/03/21 > Bt21 original story _1 > 6; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; 
+* concluBis 20/03/21 > Bt21 original story _1 > 6; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; 
+* concluBis 21/03/21 > Bt21 original story _1 > 7; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; 
+* concluBis 22/03/21 > Bt21 original story _1 > 7; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; 
+* concluBis 23/03/21 > Bt21 original story _1 > 6; We are not human _1 > 4; Unbag _1 > 3; Bt21 vlog _1 > 2; 
 * concluBis 24/03/21 > Bt21 original story _1 > 6; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; Bt21 vlog _1 > 2; 
 * concluBis 25/03/21 > Bt21 original story _1 > 8; Bt21 vlog _1 > 4; We are not human _1 > 4; Wabi vlog _1 > 3; Unbag _1 > 3; 
 * concluBis 26/03/21 > Wabi vlog _1 > 4; We are not human _1 > 4; Bt21 original story _1 > 3; Unbag _1 > 3; 
-* concluBis 27/03/21 > We are not human _1 > 4; Bt21 original story _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 2; Kaamelott _5 > 1; 
-* concluBis 28/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Bt21 original story _1 > 3; Wabi vlog _1 > 3; Unbag _1 > 3; Kaamelott _5 > 1; 
-* concluBis 29/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; Kaamelott _5 > 1; 
-* concluBis 30/03/21 > We are not human _1 > 4; Precise shot _1 > 3; Unbag _1 > 3; Kaamelott _5 > 1; 
-* concluBis 31/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 1; Kaamelott _5 > 1; 
-* concluBis 01/04/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; Kaamelott _5 > 1; 
-* concluBis 02/04/21 > Unbag _1 > 8; Precise shot _1 > 4; We are not human _1 > 3; Wabi vlog _1 > 1; Mental _1 > 1; Kaamelott _5 > 1; 
+* concluBis 27/03/21 > We are not human _1 > 4; Bt21 original story _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 2; 
+* concluBis 28/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Bt21 original story _1 > 3; Wabi vlog _1 > 3; Unbag _1 > 3; 
+* concluBis 29/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; 
+* concluBis 30/03/21 > We are not human _1 > 4; Precise shot _1 > 3; Unbag _1 > 3; 
+* concluBis 31/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 1; 
+* concluBis 01/04/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; 
+* concluBis 02/04/21 > Unbag _1 > 8; Precise shot _1 > 4; We are not human _1 > 3; Wabi vlog _1 > 1; Mental _1 > 1; 
 * concluBis 03/04/21 > Unbag _1 > 8; Precise shot _1 > 4; We are not human _1 > 3; 
 * concluBis 04/04/21 > Unbag _1 > 8; We are not human _1 > 3; Mental _1 > 2; 
 * concluBis 05/04/21 > Unbag _1 > 9; Mental _1 > 3; We are not human _1 > 3; 
@@ -987,14 +987,14 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) 
 * concluBis 05/06/21 = Unbag _1 > 10; Nitiman _1 > 8; Skam fr _8 > 5; Vincenzo _1 > 5; We are not human _1 > 4; Fish upon the sky _1 > 3; Survivor au _4 > 2; Wabi vlog _1 > 2; Ydestiny _1 > 1; 
 * concluBis 06/06/21 = Unbag _1 > 10; Nitiman _1 > 8; Skam fr _8 > 6; Wabi vlog _1 > 5; Vincenzo _1 > 5; Fish upon the sky _1 > 4; We are not human _1 > 4; Survivor au _4 > 1; Crime scene kitchen _1 > 1; 
 * concluBis 07/06/21 = Unbag _1 > 10; Nitiman _1 > 6; Wabi vlog _1 > 5; Vincenzo _1 > 5; Skam fr _8 > 4; Drag race esp _1 > 4; We are not human _1 > 4; Friend or lover _1 > 3; Fish upon the sky _1 > 2; Survivor au _4 > 1; 
-* concluBis 08/06/21 = Unbag _1 > 10; Nitiman _1 > 7; Wabi vlog _1 > 5; Skam fr _8 > 5; Vincenzo _1 > 5; Drag race esp _1 > 4; We are not human _1 > 4; Fish upon the sky _1 > 3; Friend or lover _1 > 3; Survivor au _4 > 2; Ydestiny _1 > 2; Kaamelott _5 > 1; 
-* concluBis 09/06/21 = Unbag _1 > 10; Ydestiny _1 > 10; Wabi vlog _1 > 5; Lego masters _2 > 5; Nitiman _1 > 4; Vincenzo _1 > 4; We are not human _1 > 4; Skam fr _8 > 3; Fish upon the sky _1 > 2; Drag race esp _1 > 2; Survivor au _4 > 1; Friend or lover _1 > 1; Kaamelott _5 > 1; 
-* concluBis 10/06/21 = Unbag _1 > 10; Ydestiny _1 > 9; Wabi vlog _1 > 7; Crime scene kitchen _1 > 6; Nitiman _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Fish upon the sky _1 > 3; Skam fr _8 > 3; Lego masters _2 > 3; Agt _16 > 2; Kaamelott _5 > 2; 
-* concluBis 11/06/21 = Unbag _1 > 11; Wabi vlog _1 > 7; Ydestiny _1 > 7; Crime scene kitchen _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Nitiman _1 > 3; Lego masters _2 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Beat shazam _4 > 2; Kaamelott _5 > 2; 
-* concluBis 12/06/21 = Unbag _1 > 10; Wabi vlog _1 > 7; Nitiman _1 > 7; Skam fr _8 > 5; Ydestiny _1 > 4; Fish upon the sky _1 > 4; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; Kaamelott _5 > 2; 
-* concluBis 13/06/21 = Unbag _1 > 10; Wabi vlog _1 > 7; Nitiman _1 > 7; Skam fr _8 > 5; Ydestiny _1 > 4; Fish upon the sky _1 > 4; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; Kaamelott _5 > 2; 
-* concluBis 14/06/21 = Unbag _1 > 10; Wtfock _5 > 10; Wabi vlog _1 > 7; Nitiman _1 > 4; We are not human _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 3; Lego masters _2 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Drag race esp _1 > 2; Kaamelott _5 > 2; 
-* concluBis 15/06/21 = Unbag _1 > 10; Wtfock _5 > 8; Wabi vlog _1 > 7; We are not human _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 3; Nitiman _1 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Kaamelott _5 > 2; Lego masters _2 > 1; 
+* concluBis 08/06/21 = Unbag _1 > 10; Nitiman _1 > 7; Wabi vlog _1 > 5; Skam fr _8 > 5; Vincenzo _1 > 5; Drag race esp _1 > 4; We are not human _1 > 4; Fish upon the sky _1 > 3; Friend or lover _1 > 3; Survivor au _4 > 2; Ydestiny _1 > 2; 
+* concluBis 09/06/21 = Unbag _1 > 10; Ydestiny _1 > 10; Wabi vlog _1 > 5; Lego masters _2 > 5; Nitiman _1 > 4; Vincenzo _1 > 4; We are not human _1 > 4; Skam fr _8 > 3; Fish upon the sky _1 > 2; Drag race esp _1 > 2; Survivor au _4 > 1; Friend or lover _1 > 1; 
+* concluBis 10/06/21 = Unbag _1 > 10; Ydestiny _1 > 9; Wabi vlog _1 > 7; Crime scene kitchen _1 > 6; Nitiman _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Fish upon the sky _1 > 3; Skam fr _8 > 3; Lego masters _2 > 3; Agt _16 > 2; 
+* concluBis 11/06/21 = Unbag _1 > 11; Wabi vlog _1 > 7; Ydestiny _1 > 7; Crime scene kitchen _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Nitiman _1 > 3; Lego masters _2 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Beat shazam _4 > 2; 
+* concluBis 12/06/21 = Unbag _1 > 10; Wabi vlog _1 > 7; Nitiman _1 > 7; Skam fr _8 > 5; Ydestiny _1 > 4; Fish upon the sky _1 > 4; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; 
+* concluBis 13/06/21 = Unbag _1 > 10; Wabi vlog _1 > 7; Nitiman _1 > 7; Skam fr _8 > 5; Ydestiny _1 > 4; Fish upon the sky _1 > 4; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; 
+* concluBis 14/06/21 = Unbag _1 > 10; Wtfock _5 > 10; Wabi vlog _1 > 7; Nitiman _1 > 4; We are not human _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 3; Lego masters _2 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Drag race esp _1 > 2; 
+* concluBis 15/06/21 = Unbag _1 > 10; Wtfock _5 > 8; Wabi vlog _1 > 7; We are not human _1 > 4; Ydestiny _1 > 3; Survivor au _4 > 3; Nitiman _1 > 3; Fish upon the sky _1 > 2; Skam fr _8 > 2; Lego masters _2 > 1; 
 
 
 
