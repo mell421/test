@@ -54,8 +54,8 @@
 - 30/12/20 - unbag _1{41} from dusk till dawn _2{11} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} 
 - 31/12/20 - unbag _1{41} from dusk till dawn _2{13} pogi lang hanap _1{10} be love _1{7} lakan _1{6} 
 - 01/01/21 - unbag _1{42} from dusk till dawn _2{15} pogi lang hanap _1{10} lakan _1{7} 
-- 02/01/21 - unbag _1{44} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} joséphine ange gardien _23{6} 
-- 03/01/21 - unbag _1{46} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} joséphine ange gardien _23{6} 
+- 02/01/21 - unbag _1{44} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} josephine ange gardien _23{6} 
+- 03/01/21 - unbag _1{46} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} josephine ange gardien _23{6} 
 - 04/01/21 - unbag _1{49} from dusk till dawn _2{15} ghost runner _1{9} 
 - 05/01/21 - unbag _1{51} from dusk till dawn _2{15} ghost runner _1{10} rpdru _9{8} 
 - 06/01/21 - unbag _1{53} ghost runner _1{11} rpdru _9{10} 
@@ -238,13 +238,13 @@
 
 
 ## (nb)
-- 22/10/20 - 151* quien es la mascara _2{1} joséphine ange gardien _23{2} 
-- 23/10/20 - 164* quien es la mascara _2{1} joséphine ange gardien _23{2} ben x jim _1{1} 
+- 22/10/20 - 151* quien es la mascara _2{1} josephine ange gardien _23{2} 
+- 23/10/20 - 164* quien es la mascara _2{1} josephine ange gardien _23{2} ben x jim _1{1} 
 - 24/10/20 - 135* swap test _1{0} 
 - 25/10/20 - 77* pogi lang hanap _1{0} 
 - 26/10/20 - 117* boys lockdown _1{2} 
-- 27/10/20 - 198* joséphine ange gardien _23{3} boys lockdown _1{2} 
-- 28/10/20 - 256* joséphine ange gardien _23{3}
+- 27/10/20 - 198* josephine ange gardien _23{3} boys lockdown _1{2} 
+- 28/10/20 - 256* josephine ange gardien _23{3}
 - 29/10/20 - 164* pogi lang hanap _1{1} lakan _1{0} friend forever _1{8} 
 - 30/10/20 - 73* the stranded _1{0} unbag _1{10} pogi lang hanap _1{3} lakan _1{0} friend forever _1{8} 
 - 31/10/20 - 158* swap test _1{1} the stranded _1{0} unbag _1{10} 
@@ -299,10 +299,10 @@
 - 26/12/20 - 46* from dusk till dawn _2{2} lakan _1{5} 
 - 27/12/20 - 455* from dusk till dawn _2{4} 
 - 28/12/20 - 467* capture lover _1{4} 
-- 29/12/20 - 471* joséphine ange gardien _23{5} capture lover _1{4} 
-- 30/12/20 - 269* joséphine ange gardien _23{5} capture lover _1{4} 
-- 31/12/20 - 65* ghost runner _1{4} friend zone _1{4} joséphine ange gardien _23{5} capture lover _1{4} 
-- 01/01/21 - 105* unbag _1{42} ghost runner _1{6} friend zone _1{5} joséphine ange gardien _23{6} 
+- 29/12/20 - 471* josephine ange gardien _23{5} capture lover _1{4} 
+- 30/12/20 - 269* josephine ange gardien _23{5} capture lover _1{4} 
+- 31/12/20 - 65* ghost runner _1{4} friend zone _1{4} josephine ange gardien _23{5} capture lover _1{4} 
+- 01/01/21 - 105* unbag _1{42} ghost runner _1{6} friend zone _1{5} josephine ange gardien _23{6} 
 - 02/01/21 - 75* the shipper _1{2} unbag _1{44} ghost runner _1{7} 
 - 03/01/21 - 22* together with me _1{0} the shipper _1{2} 
 - 04/01/21 - 72* rpdru _9{6} together with me _1{1} 
