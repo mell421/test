@@ -357,7 +357,7 @@ Mental _1x6(2) Unbag _1x19(1) Wabi vlog _1x12(1) Ydestiny _1x2(1)
 #### sem 12-04-2021 
 Fish upon the sky _1x2(1) Ydestiny _1x3(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Wabi vlog _1x13(1) 
 #### sem 19-04-2021 
-Friend or lover _1x3(1) Wabi vlog _1x14(1) Fish upon the sky _1x3(1) Unbag _1x20(1) Ydestiny _1x4(1) Life senjou no bokura _1x3(2) 
+Friend or lover _1x3(1) Wabi vlog _1x14(1) Fish upon the sky _1x3(1) Unbag _1x20(1) Ydestiny _1x4(1) 
 #### sem 26-04-2021 
 Wtfock _5x2(1) Fish upon the sky _1x4(1) I can see your voice fr _1x2(1) Ydestiny _1x5(1) Wabi vlog _1x15(1) Survivor au _4x2(1) 
 #### sem 03-05-2021 
@@ -434,7 +434,7 @@ Unbag _1x17(2) Wabi vlog _1x7(6) Unlocked _1x3(1) Pearl next door _1x4(1) My vam
 #### mois 01-04-2021 
 Wabi vlog _1x12(5) Ydestiny _1x2(1) Precise shot _1x5(4) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
-Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Ydestiny _1x6(4) Wabi vlog _1x16(4) Survivor au _4x6(5) I can see your voice fr _1x2(1) Friend or lover _1x3(1) Life senjou no bokura _1x3(2) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
+Wtfock _5x3(2) Fish upon the sky _1x5(4) Unbag _1x21(3) Ydestiny _1x6(4) Wabi vlog _1x16(4) Survivor au _4x6(5) I can see your voice fr _1x2(1) Friend or lover _1x3(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
 #### mois 01-06-2021 
 Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) Dark blue kiss _1x2(1) Wtfock _5x6(3) Unbag _1x23(2) Crime scene kitchen _1x2(1) Ydestiny _1x10(4) Bt21 original story _1x9(1) Survivor au _4x12(6) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 
@@ -931,13 +931,13 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Fish upon the sky _1x9(4) 
 * concluBis 10/04/21 = Unbag _1 > 4; We are not human _1 > 3; Bt21 original story _1 > 2; Mr lipstick _1 > 1; 
 * concluBis 11/04/21 = Unbag _1 > 4; We are not human _1 > 3; Bt21 original story _1 > 2; 
 * concluBis 12/04/21 = Unbag _1 > 4; We are not human _1 > 3; Bt21 original story _1 > 1; 
-* concluBis 13/04/21 = Unbag _1 > 4; We are not human _1 > 3; Life senjou no bokura _1 > 2; 
-* concluBis 14/04/21 = Unbag _1 > 4; We are not human _1 > 3; Life senjou no bokura _1 > 2; 
-* concluBis 15/04/21 = Unbag _1 > 4; We are not human _1 > 3; Life senjou no bokura _1 > 2; 
+* concluBis 13/04/21 = Unbag _1 > 4; We are not human _1 > 3; 
+* concluBis 14/04/21 = Unbag _1 > 4; We are not human _1 > 3; 
+* concluBis 15/04/21 = Unbag _1 > 4; We are not human _1 > 3; 
 * concluBis 16/04/21 = Unbag _1 > 9; We are not human _1 > 3; 
-* concluBis 17/04/21 = Unbag _1 > 9; We are not human _1 > 3; Life senjou no bokura _1 > 1; 
-* concluBis 18/04/21 = Unbag _1 > 9; Wabi vlog _1 > 4; We are not human _1 > 3; Life senjou no bokura _1 > 1; 
-* concluBis 19/04/21 = Unbag _1 > 7; Wabi vlog _1 > 2; Life senjou no bokura _1 > 2; We are not human _1 > 2; 
+* concluBis 17/04/21 = Unbag _1 > 9; We are not human _1 > 3; 
+* concluBis 18/04/21 = Unbag _1 > 9; Wabi vlog _1 > 4; We are not human _1 > 3; 
+* concluBis 19/04/21 = Unbag _1 > 7; Wabi vlog _1 > 2; We are not human _1 > 2; 
 * concluBis 20/04/21 = Unbag _1 > 9; Wabi vlog _1 > 3; We are not human _1 > 3; 
 * concluBis 21/04/21 = Wabi vlog _1 > 12; Unbag _1 > 9; We are not human _1 > 3; Ydestiny _1 > 1; 
 * concluBis 22/04/21 = Unbag _1 > 9; Wabi vlog _1 > 8; We are not human _1 > 2; 

@@ -372,6 +372,7 @@
 |RPDRDU 1||8|||<!-- 22/5 -->
 |he's coming to me|he's coming to me|8|serie|thailande|       <!-- 6 -->
 |kaamelott 5||50|||<!--  -->
+|life senjou no bokura|life senjou no bokura|4|serie|japon|   <!-- 39 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -519,7 +520,6 @@
 |ydestiny 1||15|||13|<!--  -->
 |mr lipstick 1||?|||2|<!--  -->
 |fish upon the sky||?|||10|<!--  -->
-|life senjou no bokura 1||4|||2|<!--  -->
 |surv au 4||26|||11|<!--  -->
 |ICSYV FR 1||?|||2|<!--  -->
 |wtfock 5||10|||5|<!--  -->

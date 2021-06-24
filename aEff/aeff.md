@@ -404,10 +404,10 @@
 - 10/04/21 - 220* fish upon the sky _1{0} 
 - 11/04/21 - 225* fish upon the sky _1{0} 
 - 12/04/21 - 216* 
-- 13/04/21 - 253* life senjou no bokura _1{0} 
-- 14/04/21 - 182* ydestiny _1{3} life senjou no bokura _1{1} 
-- 15/04/21 - 154* ydestiny _1{3} life senjou no bokura _1{1} 
-- 16/04/21 - 360* unbag _1{225} ydestiny _1{3} life senjou no bokura _1{3} 
+- 13/04/21 - 253* 
+- 14/04/21 - 182* ydestiny _1{3} 
+- 15/04/21 - 154* ydestiny _1{3} 
+- 16/04/21 - 360* unbag _1{225} ydestiny _1{3} 
 - 17/04/21 - 457* fish upon the sky _1{1} unbag _1{227} 
 - 18/04/21 - 519* wabi vlog _1{73} fish upon the sky _1{1} unbag _1{229} 
 - 19/04/21 - 276* friend or lover _1{3} wabi vlog _1{76} 

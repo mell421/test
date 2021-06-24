@@ -167,6 +167,7 @@
 |history3.2|history3 modc|10|serie|taiwan|                      <!-- 111 -->
 |wheel of love 1|weekend to remember|8|serie|philippines|       <!-- 112 -->
 |he's coming to me|he's coming to me|8|serie|thailande|         <!-- 113 -->
+|life senjou no bokura|life senjou no bokura|4|serie|japon|   <!-- 39 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -215,7 +216,6 @@
 |ydestiny|ydestiny|15|serie|thailande|13|                       <!-- 36 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 37 -->
 |fish upon the sky|fish upon the sky|12|serie|thailande|11|     <!-- 38 -->
-|life senjou no bokura|life senjou no bokura|4|serie|japon|2|   <!-- 39 -->
 |nitiman|nitiman|12|serie|thailande|7|                          <!-- 40 -->
 |an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 41 -->
 |dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 42 -->

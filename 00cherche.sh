@@ -13,7 +13,7 @@ list=( "Unbag _1" "Wabi vlog _1" # >= 100
 
 # entre 9 et 1
 listBis=( "Agt _16" # 9
-"Life senjou no bokura _1" "Schools out lets date now _1" "Tokyo ghoul _3" # 8
+"Schools out lets date now _1" "Tokyo ghoul _3" # 8
 "The cube _1" "Beat shazam _4" "You never eat alone _1" # 7
 "Mr lipstick _1" "The untamed _1" # 6
 "The shipper _1" # 5

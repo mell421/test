@@ -58,8 +58,6 @@ Wabi vlog 1x15
 * Wtfock 5x1
 * I can see your voice fr 1x1
 * Survivor au 4x1
-Life senjou no bokura 1x2
-* Life senjou no bokura 1x1
 * Fish upon the sky 1x1
 Mr lipstick 1x2
 * Mr lipstick 1x1
