@@ -5,8 +5,8 @@
 
 list=( "Unbag _1" "Wabi vlog _1" # >= 100
 "Survivor au _4" "Ydestiny _1" # 99 - 50
-"Nitiman _1" "Wtfock _5" # 49 - 40
-"Fish upon the sky _1" "Bt21 original story _1" "Skam fr _8" # 39 - 30
+"Nitiman _1" # 49 - 40
+"Bt21 original story _1" "Skam fr _8" # 39 - 30
 "My vampire boyfriend _1" # 29 - 20
 "Lego masters _2" "Drag race esp _1" "Crime scene kitchen _1" "Precise shot _1" "The harvest season _1" "TharnType _2" "Vincenzo _1" "Love in time _1" # 19 - 15
 "Mental _1" "Pearl next door _1" "Be love _1" "Elite _4" "Friend or lover _1" "Bt21 vlog _1" "Wabi show _1" ) # 14 - 10

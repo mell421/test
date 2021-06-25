@@ -13,8 +13,7 @@
   - [asie](#asie)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
-  - [non commencée, date connue](#non-commencée-date-connue)
-  - [a venir](#a-venir)
+  - [non commencée, a venir](#non-commencée-a-venir)
 
 ## SKAM REMAKES
  
@@ -24,14 +23,13 @@
 |druck|allemagne|6|
 |skam|norvège|4|
 |skam espana|espagne|4|
-|wtfock|belgique|4|
+|wtfock|belgique|5|
 |skam italia|italie|4|
 |skam austin|usa|2|
 |skam nl|pays-bas|2|
   
 |titre|saison|nb ep vu|
 | --- | --- | :---: | 
-|wtfock|5|9|
 |france|8|8|
 
 ## usa
@@ -167,7 +165,8 @@
 |history3.2|history3 modc|10|serie|taiwan|                      <!-- 111 -->
 |wheel of love 1|weekend to remember|8|serie|philippines|       <!-- 112 -->
 |he's coming to me|he's coming to me|8|serie|thailande|         <!-- 113 -->
-|life senjou no bokura|life senjou no bokura|4|serie|japon|   <!-- 39 -->
+|life senjou no bokura|life senjou no bokura|4|serie|japon|     <!-- 114 -->
+|fish upon the sky|fish upon the sky|12|serie|thailande|     <!-- 38 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -215,7 +214,6 @@
 |precise shot|precise shot|20|serie|taiwan|4|                   <!-- 35 -->
 |ydestiny|ydestiny|15|serie|thailande|13|                       <!-- 36 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 37 -->
-|fish upon the sky|fish upon the sky|12|serie|thailande|11|     <!-- 38 -->
 |nitiman|nitiman|12|serie|thailande|7|                          <!-- 40 -->
 |an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 41 -->
 |dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 42 -->
@@ -223,22 +221,23 @@
 |siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 44 -->
 |||||||<!--  -->
 |||||||<!--  -->
+|golden blood|golden blood|?|serie|thailande|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 
- ## non commencée, date connue
+ ## non commencée, a venir
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|light on me|light on me|16|serie|corée|0|<!--  -->
+|light on me|light on me|16|serie|corée|0|<!-- 29/6 -->
 |bad buddy|bad buddy|12|serie|thailande|0|<!-- -->
-|46 days|46 days|?|serie(**)|thailande|0|<!--  -->
-|deep|deep|?|serie(***)|thailande|0|<!--  -->
-|gameboys movie|gameboys movie|1|film|philippines|0|<!--  -->
+|46 days|46 days|?|serie(**)|thailande|0|<!-- 7/7 -->
+|deep|deep|?|serie(***)|thailande|0|<!-- 16/7 -->
+|gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|||||||<!--  -->
+|deja sorti|---|---||||<!--  -->
 |gen y|gen y|12|serie|thailande|0|<!-- -->
 |i told sunset about you|i told sunset about you|5|serie|thailande|0|<!-- -->
 |my bromance|my bromance|1|film|thailande|0|<!-- -->
@@ -246,37 +245,33 @@
 |the night beyond the tricornered window|tnbttw|2|film|japon|0|<!-- 22/01 -->
 |call it what you want|call it what you want|?|serie|thailande|0|<!-- 9/4 -->
 |||||||<!-- -->
-|liens ? subs ?||||||<!-- -->
+|liens ? subs ?|---|---||||<!-- -->
 |von|von|1|film(**)|thailande|0|<!-- 25/12 -->
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
 |||||||<!-- -->
-|2021||||||<!-- -->
-|JUIN||||||<!-- -->
-|golden blood|golden blood|?|serie|thailande|0|<!--  -->
-|JUILLET||||||<!--  -->
+|2021|---|---||||<!-- -->
+|JUIN|---|---||||<!-- -->
+|||||||<!--  -->
+|JUILLET|---|---||||<!--  -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
 |||||||<!--  -->
-|AOUT||||||<!--  -->
+|AOUT|---|---||||<!--  -->
 |checkout|checkout|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
-|SEPT||||||<!--  -->
+|SEPT|---|---||||<!--  -->
 |||||||<!--  -->
-|OCTOBRE||||||<!--  -->
+|OCTOBRE|---|---||||<!--  -->
 |||||||<!--  -->
-|NOVEMBRE||||||<!--  -->
+|NOVEMBRE|---|---||||<!--  -->
 |||||||<!--  -->
-|DECEMBRE||||||<!--  -->
+|DECEMBRE|---|---||||<!--  -->
 |||||||<!--  -->
-|????||||||<!--  -->
+|????|---|---||||<!--  -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
 |love mechanics|love mechanics|16|serie|thailande|0|<!-- ??/05 -->
 |hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->
-
- ## a venir
- <!-- tri par pays puis par studio -->
-|titre|titre officiel|nb ep|categorie|pays|nb vu|
-| --- | --- | :---: | --- | --- | --- |
-|SUITE||||||
+|||||||<!--  -->
+|SUITE|---|---||||
 |sea him 2|sea him 2|?|serie|vietnam|0|<!-- -->
 |yyy 2|yyy 2|?|serie|thailande|0|<!-- -->
 |my engineer 2|my engineer 2|?|serie|thailande|0|<!-- -->
@@ -292,15 +287,16 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|||||||<!--  -->
-|COREE||||||<!-- -->
+|----------|---|---||||<!--  -->
+|COREE|---|---||||<!-- -->
 |I just slept|I just slept|?|serie(gl)|corée|0|<!-- -->
 |semantic error|semantic error|?|serie|corée|0|<!-- -->
 |||||||<!--  -->
-|VIETNAM||||||<!-- -->
+|VIETNAM|---|---||||<!-- -->
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
 |||||||<!--  -->
-|GMMTV||||||<!-- -->
+|THAILANDE|---|---||||<!--  -->
+|GMMTV|--|--||||<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|0|<!-- -->
 |drag I love you|drag I love you|?|serie(**)|thailande|0|<!-- -->
 |baker boys|baker boys|?|serie|thailande|0|<!-- -->
@@ -309,14 +305,14 @@
 |NOTME|NOTME|?|serie|thailande|0|<!-- -->
 |war of the flowers|war of the flowers|?|serie(**)|thailande|0|<!--  -->
 |||||||<!--  -->
-|SWS||||||<!--  -->
-|7 projects||||||<!--  -->
+|SWS|--|--||||<!--  -->
+|7 projects|-|-||||<!--  -->
 |7p would you be my love|7p would you be my love|?|serie|thailande|0|<!--  -->
 |7p once upon a time|7p once upon a time|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
-|COPYABANGKOK|||||| <!--  -->
+|COPYABANGKOK|--|--|||| <!--  -->
 |||||||<!--  -->
-|OTHER THAI||||||<!--  -->
+|OTHER THAI|--|--||||<!--  -->
 |cutie pie|cutie pie|?|serie|thailande|0|<!--  -->
 |bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
 |kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
@@ -324,18 +320,23 @@
 |love stage|love stage|?|serie|thailande|0|<!-- kaowbo -->
 |bite me|bite me|?|serie|thailande|0|<!--  -->
 |mr tuxedo|mr tuxedo|?|serie|thailande|0|<!--  -->
+|make a wish|make a wish|?|serie|thailande|0|<!--  -->
+|bite me|bite me|?|serie|thailande|0|<!--  -->
+|triage|triage|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
-|PINOY||||||
+|PINOY|---|---||||
 |turbulance|turbulance|?|serie|philippines|0|<!--  -->
 |my badboyBF|my badboyBF|?|serie|philippines|0|<!--  -->
 |||||||<!--  -->
-|TAIWAN||||||
+|TAIWAN|---|---||||
 |||||||<!--  -->
-|COLLAB||||||
+|COLLAB|---|---||||
+|peach of time|peach of time|?|serie|corée-thailande|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
+
 
 
 

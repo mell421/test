@@ -527,6 +527,8 @@
 * Sfu _5
 ### sem 28-06-2021 
 * *insererici*
+* Wtfock _5
+* Fish upon the sky _1
 * Life senjou no bokura _1
 ### sem -07-2021 
 * *insererici*
@@ -545,8 +547,8 @@
 * 
 * $ a jour $
 * Elite _4
-* Fish upon the sky _1
-* Wtfock _5
+* 
+* 
 * Mortel _2
 * Ydestiny _1
 * Skam france _8
@@ -609,7 +611,7 @@
 #### mois 01-06-2021 
 *insererici The voice vv _7 The most peaceful place _1 Kiss me again peteKao cut _1 Close friend _1 The masked singer _5 The voice us _20 Game of talents _1 Plan b _1 Given _1 /9-1-1 lone star _2 /9-1-1 _4 History4 close to you _1 The voice _10 Young sheldon _4 Love death & robots _2 Lovely writer _1 The sweet blood _1 Nobleman ryus wedding _1 The circle br _1 The circle us _2 Clem _11*
 #### mois 01-07-2021 
-*insererici Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
+*insererici Wtfock _5 Fish upon the sky _1 Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
 #### mois 01-08-2021 
 **
 #### mois 01-09-2021 

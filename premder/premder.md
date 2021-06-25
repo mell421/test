@@ -23,11 +23,9 @@ Papa and daddy 1x1
 * $
 $
 * The cube 1x1
-Wtfock 5x9
 Nitiman 1x7
 Skam france 8x7
 Stuck on you 1x2
-Fish upon the sky 1x11
 Elite 4x2
 * Elite 4x1
 Beat shazam 4x3
@@ -55,10 +53,8 @@ I can see your voice fr 1x2
 * Nitiman 1x1
 * Skam france 8x1
 Wabi vlog 1x15
-* Wtfock 5x1
 * I can see your voice fr 1x1
 * Survivor au 4x1
-* Fish upon the sky 1x1
 Mr lipstick 1x2
 * Mr lipstick 1x1
 Mental 1x5

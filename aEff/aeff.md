@@ -205,20 +205,20 @@
 - 30/05/21 (eff) - unbag _1{316} wabi vlog _1{101} survivor au _4{59} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{20} precise shot _1{16} the harvest season _1{16} love in time _1{15} 
 - 31/05/21 (eff) - unbag _1{319} wabi vlog _1{102} survivor au _4{61} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{21} precise shot _1{16} the harvest season _1{16} 
 - 01/06/21 (eff) - unbag _1{322} wabi vlog _1{102} survivor au _4{64} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{22} precise shot _1{16} the harvest season _1{16} love in time _1{15} 
-- 02/06/21 (eff) - unbag _1{324} wabi vlog _1{103} survivor au _4{66} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{22} wtfock _5{16} precise shot _1{16} the harvest season _1{16} 
-- 03/06/21 (eff) - unbag _1{326} wabi vlog _1{104} survivor au _4{68} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{24} wtfock _5{18} precise shot _1{16} the harvest season _1{16} 
-- 04/06/21 (eff) - unbag _1{328} wabi vlog _1{105} survivor au _4{69} bt21 original story _1{36} ydestiny _1{26} my vampire boyfriend _1{25} wtfock _5{20} precise shot _1{16} the harvest season _1{16} 
-- 05/06/21 (eff) - unbag _1{330} wabi vlog _1{106} survivor au _4{70} bt21 original story _1{36} ydestiny _1{28} my vampire boyfriend _1{25} wtfock _5{20} precise shot _1{16} the harvest season _1{16} love in time _1{15} fish upon the sky _1{13} 
-- 06/06/21 (eff) - unbag _1{332} wabi vlog _1{107} survivor au _4{71} bt21 original story _1{36} ydestiny _1{29} my vampire boyfriend _1{25} wtfock _5{20} precise shot _1{16} the harvest season _1{16} love in time _1{15} fish upon the sky _1{14} 
-- 07/06/21 (eff) - unbag _1{334} wabi vlog _1{109} survivor au _4{72} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} wtfock _5{20} fish upon the sky _1{16} precise shot _1{16} the harvest season _1{16} nitiman _1{15} love in time _1{15} 
-- 08/06/21 (eff) - unbag _1{336} wabi vlog _1{111} survivor au _4{73} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} wtfock _5{20} nitiman _1{17} fish upon the sky _1{17} precise shot _1{16} the harvest season _1{16} love in time _1{15} tharntype _2{13} 
-- 09/06/21 (eff) - unbag _1{338} wabi vlog _1{113} survivor au _4{74} bt21 original story _1{36} ydestiny _1{31} my vampire boyfriend _1{25} wtfock _5{20} nitiman _1{19} fish upon the sky _1{19} precise shot _1{16} the harvest season _1{16} love in time _1{15} skam fr _8{14} 
-- 10/06/21 (eff) - unbag _1{340} wabi vlog _1{115} survivor au _4{75} bt21 original story _1{36} ydestiny _1{33} my vampire boyfriend _1{25} nitiman _1{21} fish upon the sky _1{20} wtfock _5{20} skam fr _8{16} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 11/06/21 (eff) - unbag _1{342} wabi vlog _1{117} survivor au _4{76} bt21 original story _1{36} ydestiny _1{35} my vampire boyfriend _1{25} nitiman _1{23} fish upon the sky _1{21} wtfock _5{20} skam fr _8{18} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 12/06/21 (eff) - unbag _1{344} wabi vlog _1{119} survivor au _4{77} ydestiny _1{37} bt21 original story _1{36} nitiman _1{25} my vampire boyfriend _1{25} fish upon the sky _1{22} wtfock _5{20} skam fr _8{19} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 13/06/21 (eff) - unbag _1{346} wabi vlog _1{121} survivor au _4{78} ydestiny _1{39} bt21 original story _1{36} nitiman _1{27} my vampire boyfriend _1{25} fish upon the sky _1{23} skam fr _8{21} wtfock _5{20} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 14/06/21 (eff) - unbag _1{349} wabi vlog _1{123} survivor au _4{79} ydestiny _1{42} bt21 original story _1{36} nitiman _1{30} fish upon the sky _1{25} my vampire boyfriend _1{25} skam fr _8{24} wtfock _5{21} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 15/06/21 (eff) - unbag _1{351} wabi vlog _1{125} survivor au _4{80} ydestiny _1{44} bt21 original story _1{36} nitiman _1{32} fish upon the sky _1{26} skam fr _8{25} my vampire boyfriend _1{25} wtfock _5{23} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 02/06/21 (eff) - unbag _1{324} wabi vlog _1{103} survivor au _4{66} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{22} precise shot _1{16} the harvest season _1{16} 
+- 03/06/21 (eff) - unbag _1{326} wabi vlog _1{104} survivor au _4{68} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{24} precise shot _1{16} the harvest season _1{16} 
+- 04/06/21 (eff) - unbag _1{328} wabi vlog _1{105} survivor au _4{69} bt21 original story _1{36} ydestiny _1{26} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} 
+- 05/06/21 (eff) - unbag _1{330} wabi vlog _1{106} survivor au _4{70} bt21 original story _1{36} ydestiny _1{28} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} love in time _1{15} 
+- 06/06/21 (eff) - unbag _1{332} wabi vlog _1{107} survivor au _4{71} bt21 original story _1{36} ydestiny _1{29} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} love in time _1{15} 
+- 07/06/21 (eff) - unbag _1{334} wabi vlog _1{109} survivor au _4{72} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} nitiman _1{15} love in time _1{15} 
+- 08/06/21 (eff) - unbag _1{336} wabi vlog _1{111} survivor au _4{73} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} nitiman _1{17} precise shot _1{16} the harvest season _1{16} love in time _1{15} tharntype _2{13} 
+- 09/06/21 (eff) - unbag _1{338} wabi vlog _1{113} survivor au _4{74} bt21 original story _1{36} ydestiny _1{31} my vampire boyfriend _1{25} nitiman _1{19} precise shot _1{16} the harvest season _1{16} love in time _1{15} skam fr _8{14} 
+- 10/06/21 (eff) - unbag _1{340} wabi vlog _1{115} survivor au _4{75} bt21 original story _1{36} ydestiny _1{33} my vampire boyfriend _1{25} nitiman _1{21} skam fr _8{16} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 11/06/21 (eff) - unbag _1{342} wabi vlog _1{117} survivor au _4{76} bt21 original story _1{36} ydestiny _1{35} my vampire boyfriend _1{25} nitiman _1{23} skam fr _8{18} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 12/06/21 (eff) - unbag _1{344} wabi vlog _1{119} survivor au _4{77} ydestiny _1{37} bt21 original story _1{36} nitiman _1{25} my vampire boyfriend _1{25} skam fr _8{19} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 13/06/21 (eff) - unbag _1{346} wabi vlog _1{121} survivor au _4{78} ydestiny _1{39} bt21 original story _1{36} nitiman _1{27} my vampire boyfriend _1{25} skam fr _8{21} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 14/06/21 (eff) - unbag _1{349} wabi vlog _1{123} survivor au _4{79} ydestiny _1{42} bt21 original story _1{36} nitiman _1{30} my vampire boyfriend _1{25} skam fr _8{24} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 15/06/21 (eff) - unbag _1{351} wabi vlog _1{125} survivor au _4{80} ydestiny _1{44} bt21 original story _1{36} nitiman _1{32} skam fr _8{25} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
 
 
 
@@ -401,73 +401,73 @@
 - 07/04/21 - 714* ydestiny _1{2} mr lipstick _1{1} bt21 original story _1{24} wabi vlog _1{72} 
 - 08/04/21 - 739* ydestiny _1{2} mr lipstick _1{2} bt21 original story _1{26} wabi vlog _1{72} 
 - 09/04/21 - 681* ydestiny _1{2} 
-- 10/04/21 - 220* fish upon the sky _1{0} 
-- 11/04/21 - 225* fish upon the sky _1{0} 
+- 10/04/21 - 220* 
+- 11/04/21 - 225* 
 - 12/04/21 - 216* 
 - 13/04/21 - 253* 
 - 14/04/21 - 182* ydestiny _1{3} 
 - 15/04/21 - 154* ydestiny _1{3} 
 - 16/04/21 - 360* unbag _1{225} ydestiny _1{3} 
-- 17/04/21 - 457* fish upon the sky _1{1} unbag _1{227} 
-- 18/04/21 - 519* wabi vlog _1{73} fish upon the sky _1{1} unbag _1{229} 
+- 17/04/21 - 457* unbag _1{227} 
+- 18/04/21 - 519* wabi vlog _1{73} unbag _1{229} 
 - 19/04/21 - 276* friend or lover _1{3} wabi vlog _1{76} 
 - 20/04/21 - 230* survivor au _4{0} friend or lover _1{3} 
 - 21/04/21 - 290* ydestiny _1{4} wabi vlog _1{78} survivor au _4{0} 
 - 22/04/21 - 282* ydestiny _1{5} wabi vlog _1{80} 
 - 23/04/21 - 116* i can see your voice fr _1{0} ydestiny _1{5} 
-- 24/04/21 - 140* wtfock _5{0} fish upon the sky _1{2} i can see your voice fr _1{0} 
-- 25/04/21 - 224* wtfock _5{0} fish upon the sky _1{2} 
-- 26/04/21 - 180* wtfock _5{1} 
+- 24/04/21 - 140* i can see your voice fr _1{0} 
+- 25/04/21 - 224* 
+- 26/04/21 - 180* 
 - 27/04/21 - 639* survivor au _4{1} 
 - 28/04/21 - 764* ydestiny _1{6} wabi vlog _1{90} survivor au _4{3} 
 - 29/04/21 - 763* ydestiny _1{7} wabi vlog _1{91} survivor au _4{4} 
 - 30/04/21 - 1045* unbag _1{253} ydestiny _1{8} wabi vlog _1{93} 
-- 01/05/21 - 942* wtfock _5{2} fish upon the sky _1{4} unbag _1{256} 
-- 02/05/21 - 449* wtfock _5{2} fish upon the sky _1{4} unbag _1{258} 
-- 03/05/21 - 648* wtfock _5{3} 
+- 01/05/21 - 942* unbag _1{256} 
+- 02/05/21 - 449* unbag _1{258} 
+- 03/05/21 - 648* 
 - 04/05/21 - 757* survivor au _4{12} 
 - 05/05/21 - 806* ydestiny _1{10} survivor au _4{13} 
 - 06/05/21 - 846* ydestiny _1{10} survivor au _4{15} 
 - 07/05/21 - 857* ydestiny _1{10} 
-- 08/05/21 - 190* wtfock _5{3} nitiman _1{0} skam fr _8{0} fish upon the sky _1{5} 
-- 09/05/21 - 179* survivor au _4{21} wtfock _5{3} nitiman _1{0} skam fr _8{0} 
-- 10/05/21 - 709* survivor au _4{24} wtfock _5{4} 
+- 08/05/21 - 190* nitiman _1{0} skam fr _8{0} 
+- 09/05/21 - 179* survivor au _4{21} nitiman _1{0} skam fr _8{0} 
+- 10/05/21 - 709* survivor au _4{24} 
 - 11/05/21 - 827* survivor au _4{26} 
 - 12/05/21 - 852* ydestiny _1{11} 
 - 13/05/21 - 849* ydestiny _1{12} 
 - 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} ydestiny _1{12} 
-- 15/05/21 - 490* fish upon the sky _1{6} skam fr _8{1} unbag _1{285} i can see your voice fr _1{2} 
-- 16/05/21 - 381* nitiman _1{1} fish upon the sky _1{6} skam fr _8{1} unbag _1{287} i can see your voice fr _1{2} 
-- 17/05/21 - 645* nitiman _1{3} fish upon the sky _1{7} skam fr _8{2} 
+- 15/05/21 - 490* skam fr _8{1} unbag _1{285} i can see your voice fr _1{2} 
+- 16/05/21 - 381* nitiman _1{1} skam fr _8{1} unbag _1{287} i can see your voice fr _1{2} 
+- 17/05/21 - 645* nitiman _1{3} skam fr _8{2} 
 - 18/05/21 - 790* nitiman _1{3} 
 - 19/05/21 - 833* ydestiny _1{13} an eye for an eye _1{0} 
 - 20/05/21 - 909* bt21 original story _1{34} survivor au _4{38} ydestiny _1{15} an eye for an eye _1{0} 
 - 21/05/21 - 771* bt21 original story _1{34} survivor au _4{40} ydestiny _1{16} an eye for an eye _1{0} 
 - 22/05/21 - 761* skam fr _8{2} 
-- 23/05/21 - 658* nitiman _1{3} fish upon the sky _1{7} skam fr _8{2} 
-- 24/05/21 - 659* nitiman _1{5} fish upon the sky _1{9} skam fr _8{3} 
-- 25/05/21 - 251* nitiman _1{6} fish upon the sky _1{9} skam fr _8{3} 
-- 26/05/21 - 329* ydestiny _1{17} nitiman _1{6} fish upon the sky _1{9} skam fr _8{3} 
-- 27/05/21 - 286* crime scene kitchen _1{0} ydestiny _1{19} nitiman _1{6} fish upon the sky _1{9} skam fr _8{3} 
-- 28/05/21 - 1089* wtfock _5{4} unbag _1{312} crime scene kitchen _1{2} ydestiny _1{20} nitiman _1{6} fish upon the sky _1{9} 
-- 29/05/21 - 989* skam fr _8{3} fish upon the sky _1{9} dark blue kiss _1{0} wtfock _5{6} unbag _1{314} crime scene kitchen _1{3} ydestiny _1{20} 
-- 30/05/21 - 992* nitiman _1{6} skam fr _8{3} fish upon the sky _1{11} dark blue kiss _1{0} wtfock _5{8} unbag _1{316} crime scene kitchen _1{3} ydestiny _1{20} 
-- 31/05/21 - 951* drag race esp _1{1} nitiman _1{9} skam fr _8{4} fish upon the sky _1{12} dark blue kiss _1{1} wtfock _5{11} unbag _1{319} 
-- 01/06/21 - 655* drag race esp _1{3} nitiman _1{10} skam fr _8{5} fish upon the sky _1{13} dark blue kiss _1{2} 
-- 02/06/21 - 682* ydestiny _1{22} drag race esp _1{3} nitiman _1{10} skam fr _8{5} fish upon the sky _1{13} 
+- 23/05/21 - 658* nitiman _1{3} skam fr _8{2} 
+- 24/05/21 - 659* nitiman _1{5} skam fr _8{3} 
+- 25/05/21 - 251* nitiman _1{6} skam fr _8{3} 
+- 26/05/21 - 329* ydestiny _1{17} nitiman _1{6} skam fr _8{3} 
+- 27/05/21 - 286* crime scene kitchen _1{0} ydestiny _1{19} nitiman _1{6} skam fr _8{3} 
+- 28/05/21 - 1089* unbag _1{312} crime scene kitchen _1{2} ydestiny _1{20} nitiman _1{6} 
+- 29/05/21 - 989* skam fr _8{3} dark blue kiss _1{0} unbag _1{314} crime scene kitchen _1{3} ydestiny _1{20} 
+- 30/05/21 - 992* nitiman _1{6} skam fr _8{3} dark blue kiss _1{0} unbag _1{316} crime scene kitchen _1{3} ydestiny _1{20} 
+- 31/05/21 - 951* drag race esp _1{1} nitiman _1{9} skam fr _8{4} dark blue kiss _1{1} unbag _1{319} 
+- 01/06/21 - 655* drag race esp _1{3} nitiman _1{10} skam fr _8{5} dark blue kiss _1{2} 
+- 02/06/21 - 682* ydestiny _1{22} drag race esp _1{3} nitiman _1{10} skam fr _8{5} 
 - 03/06/21 - 190* vincenzo _1{0} agt _16{0} ydestiny _1{24} drag race esp _1{3} nitiman _1{10} 
 - 04/06/21 - 179* beat shazam _4{0} vincenzo _1{2} agt _16{2} ydestiny _1{26} drag race esp _1{3} nitiman _1{10} 
-- 05/06/21 - 163* vincenzo _1{4} nitiman _1{10} skam fr _8{5} fish upon the sky _1{13} crime scene kitchen _1{5} beat shazam _4{2} agt _16{4} ydestiny _1{28} 
-- 06/06/21 - 182* vincenzo _1{6} nitiman _1{12} skam fr _8{7} fish upon the sky _1{14} crime scene kitchen _1{5} beat shazam _4{2} agt _16{4} ydestiny _1{29} drag race esp _1{3} 
-- 07/06/21 - 187* drag race esp _1{4} friend or lover _1{5} vincenzo _1{9} nitiman _1{15} skam fr _8{10} fish upon the sky _1{16} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} ydestiny _1{30} 
-- 08/06/21 - 200* drag race esp _1{6} friend or lover _1{7} vincenzo _1{11} nitiman _1{17} skam fr _8{12} fish upon the sky _1{17} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} ydestiny _1{30} 
-- 09/06/21 - 204* lego masters _2{0} ydestiny _1{31} drag race esp _1{8} friend or lover _1{9} vincenzo _1{13} nitiman _1{19} skam fr _8{14} fish upon the sky _1{19} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} 
-- 10/06/21 - 144* crime scene kitchen _1{7} agt _16{5} lego masters _2{2} ydestiny _1{33} drag race esp _1{9} friend or lover _1{10} vincenzo _1{15} nitiman _1{21} skam fr _8{16} fish upon the sky _1{20} beat shazam _4{3} 
+- 05/06/21 - 163* vincenzo _1{4} nitiman _1{10} skam fr _8{5} crime scene kitchen _1{5} beat shazam _4{2} agt _16{4} ydestiny _1{28} 
+- 06/06/21 - 182* vincenzo _1{6} nitiman _1{12} skam fr _8{7} crime scene kitchen _1{5} beat shazam _4{2} agt _16{4} ydestiny _1{29} drag race esp _1{3} 
+- 07/06/21 - 187* drag race esp _1{4} friend or lover _1{5} vincenzo _1{9} nitiman _1{15} skam fr _8{10} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} ydestiny _1{30} 
+- 08/06/21 - 200* drag race esp _1{6} friend or lover _1{7} vincenzo _1{11} nitiman _1{17} skam fr _8{12} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} ydestiny _1{30} 
+- 09/06/21 - 204* lego masters _2{0} ydestiny _1{31} drag race esp _1{8} friend or lover _1{9} vincenzo _1{13} nitiman _1{19} skam fr _8{14} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} 
+- 10/06/21 - 144* crime scene kitchen _1{7} agt _16{5} lego masters _2{2} ydestiny _1{33} drag race esp _1{9} friend or lover _1{10} vincenzo _1{15} nitiman _1{21} skam fr _8{16} beat shazam _4{3} 
 - 11/06/21 - 479* beat shazam _4{3} unbag _1{342} crime scene kitchen _1{9} agt _16{6} lego masters _2{4} ydestiny _1{35} drag race esp _1{9} friend or lover _1{10} vincenzo _1{15} nitiman _1{23} skam fr _8{18} 
-- 12/06/21 - 490* nitiman _1{25} skam fr _8{19} fish upon the sky _1{22} stuck on you _1{0} beat shazam _4{4} unbag _1{344} crime scene kitchen _1{11} agt _16{6} lego masters _2{6} ydestiny _1{37} drag race esp _1{9} 
-- 13/06/21 - 505* nitiman _1{27} skam fr _8{21} fish upon the sky _1{23} stuck on you _1{0} beat shazam _4{4} unbag _1{346} crime scene kitchen _1{11} agt _16{6} lego masters _2{8} ydestiny _1{39} drag race esp _1{9} 
-- 14/06/21 - 509* drag race esp _1{10} wtfock _5{21} nitiman _1{30} skam fr _8{24} fish upon the sky _1{25} stuck on you _1{1} beat shazam _4{5} unbag _1{349} crime scene kitchen _1{12} agt _16{7} lego masters _2{11} 
-- 15/06/21 - 504* drag race esp _1{11} wtfock _5{23} nitiman _1{32} skam fr _8{25} fish upon the sky _1{26} stuck on you _1{1} beat shazam _4{5} unbag _1{351} crime scene kitchen _1{12} 
+- 12/06/21 - 490* nitiman _1{25} skam fr _8{19} stuck on you _1{0} beat shazam _4{4} unbag _1{344} crime scene kitchen _1{11} agt _16{6} lego masters _2{6} ydestiny _1{37} drag race esp _1{9} 
+- 13/06/21 - 505* nitiman _1{27} skam fr _8{21} stuck on you _1{0} beat shazam _4{4} unbag _1{346} crime scene kitchen _1{11} agt _16{6} lego masters _2{8} ydestiny _1{39} drag race esp _1{9} 
+- 14/06/21 - 509* drag race esp _1{10} nitiman _1{30} skam fr _8{24} stuck on you _1{1} beat shazam _4{5} unbag _1{349} crime scene kitchen _1{12} agt _16{7} lego masters _2{11} 
+- 15/06/21 - 504* drag race esp _1{11} nitiman _1{32} skam fr _8{25} stuck on you _1{1} beat shazam _4{5} unbag _1{351} crime scene kitchen _1{12} 
 
 
 
