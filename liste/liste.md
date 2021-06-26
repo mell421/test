@@ -375,6 +375,7 @@
 |life senjou no bokura|life senjou no bokura|4|serie|japon|   <!-- 39 -->
 |fish upon the sky|fish upon the sky|12|serie|thailande|     <!-- 38 -->
 |wtfock 5||10|||<!--  -->
+|precise shot|precise shot|20|serie|taiwan|                   <!-- 35 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -518,7 +519,6 @@
 |BT21 original story 1||?|||6|<!--  -->
 |BT21 vlog||?|||3|<!--  -->
 |friend or lover||4|||3|<!--  -->
-|precise shot 1||20|||4|<!--  -->
 |ydestiny 1||15|||13|<!--  -->
 |mr lipstick 1||?|||2|<!--  -->
 |surv au 4||26|||11|<!--  -->

@@ -199,26 +199,26 @@
 - 24/05/21 (eff) - unbag _1{304} wabi vlog _1{100} survivor au _4{47} bt21 original story _1{35} my vampire boyfriend _1{25} 
 - 25/05/21 (eff) - unbag _1{306} wabi vlog _1{100} survivor au _4{49} bt21 original story _1{35} my vampire boyfriend _1{25} 
 - 26/05/21 (eff) - unbag _1{308} wabi vlog _1{100} survivor au _4{51} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{17} 
-- 27/05/21 (eff) - unbag _1{310} wabi vlog _1{100} survivor au _4{53} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{19} precise shot _1{16} the harvest season _1{16} 
-- 28/05/21 (eff) - unbag _1{312} wabi vlog _1{100} survivor au _4{55} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{20} precise shot _1{16} the harvest season _1{16} 
-- 29/05/21 (eff) - unbag _1{314} wabi vlog _1{100} survivor au _4{57} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{20} precise shot _1{16} the harvest season _1{16} love in time _1{15} 
-- 30/05/21 (eff) - unbag _1{316} wabi vlog _1{101} survivor au _4{59} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{20} precise shot _1{16} the harvest season _1{16} love in time _1{15} 
-- 31/05/21 (eff) - unbag _1{319} wabi vlog _1{102} survivor au _4{61} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{21} precise shot _1{16} the harvest season _1{16} 
-- 01/06/21 (eff) - unbag _1{322} wabi vlog _1{102} survivor au _4{64} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{22} precise shot _1{16} the harvest season _1{16} love in time _1{15} 
-- 02/06/21 (eff) - unbag _1{324} wabi vlog _1{103} survivor au _4{66} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{22} precise shot _1{16} the harvest season _1{16} 
-- 03/06/21 (eff) - unbag _1{326} wabi vlog _1{104} survivor au _4{68} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{24} precise shot _1{16} the harvest season _1{16} 
-- 04/06/21 (eff) - unbag _1{328} wabi vlog _1{105} survivor au _4{69} bt21 original story _1{36} ydestiny _1{26} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} 
-- 05/06/21 (eff) - unbag _1{330} wabi vlog _1{106} survivor au _4{70} bt21 original story _1{36} ydestiny _1{28} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} love in time _1{15} 
-- 06/06/21 (eff) - unbag _1{332} wabi vlog _1{107} survivor au _4{71} bt21 original story _1{36} ydestiny _1{29} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} love in time _1{15} 
-- 07/06/21 (eff) - unbag _1{334} wabi vlog _1{109} survivor au _4{72} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} nitiman _1{15} love in time _1{15} 
-- 08/06/21 (eff) - unbag _1{336} wabi vlog _1{111} survivor au _4{73} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} nitiman _1{17} precise shot _1{16} the harvest season _1{16} love in time _1{15} tharntype _2{13} 
-- 09/06/21 (eff) - unbag _1{338} wabi vlog _1{113} survivor au _4{74} bt21 original story _1{36} ydestiny _1{31} my vampire boyfriend _1{25} nitiman _1{19} precise shot _1{16} the harvest season _1{16} love in time _1{15} skam fr _8{14} 
-- 10/06/21 (eff) - unbag _1{340} wabi vlog _1{115} survivor au _4{75} bt21 original story _1{36} ydestiny _1{33} my vampire boyfriend _1{25} nitiman _1{21} skam fr _8{16} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 11/06/21 (eff) - unbag _1{342} wabi vlog _1{117} survivor au _4{76} bt21 original story _1{36} ydestiny _1{35} my vampire boyfriend _1{25} nitiman _1{23} skam fr _8{18} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 12/06/21 (eff) - unbag _1{344} wabi vlog _1{119} survivor au _4{77} ydestiny _1{37} bt21 original story _1{36} nitiman _1{25} my vampire boyfriend _1{25} skam fr _8{19} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 13/06/21 (eff) - unbag _1{346} wabi vlog _1{121} survivor au _4{78} ydestiny _1{39} bt21 original story _1{36} nitiman _1{27} my vampire boyfriend _1{25} skam fr _8{21} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 14/06/21 (eff) - unbag _1{349} wabi vlog _1{123} survivor au _4{79} ydestiny _1{42} bt21 original story _1{36} nitiman _1{30} my vampire boyfriend _1{25} skam fr _8{24} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
-- 15/06/21 (eff) - unbag _1{351} wabi vlog _1{125} survivor au _4{80} ydestiny _1{44} bt21 original story _1{36} nitiman _1{32} skam fr _8{25} my vampire boyfriend _1{25} precise shot _1{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 27/05/21 (eff) - unbag _1{310} wabi vlog _1{100} survivor au _4{53} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{19} the harvest season _1{16} 
+- 28/05/21 (eff) - unbag _1{312} wabi vlog _1{100} survivor au _4{55} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{20} the harvest season _1{16} 
+- 29/05/21 (eff) - unbag _1{314} wabi vlog _1{100} survivor au _4{57} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{20} the harvest season _1{16} love in time _1{15} 
+- 30/05/21 (eff) - unbag _1{316} wabi vlog _1{101} survivor au _4{59} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{20} the harvest season _1{16} love in time _1{15} 
+- 31/05/21 (eff) - unbag _1{319} wabi vlog _1{102} survivor au _4{61} bt21 original story _1{35} my vampire boyfriend _1{25} ydestiny _1{21} the harvest season _1{16} 
+- 01/06/21 (eff) - unbag _1{322} wabi vlog _1{102} survivor au _4{64} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{22} the harvest season _1{16} love in time _1{15} 
+- 02/06/21 (eff) - unbag _1{324} wabi vlog _1{103} survivor au _4{66} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{22} the harvest season _1{16} 
+- 03/06/21 (eff) - unbag _1{326} wabi vlog _1{104} survivor au _4{68} bt21 original story _1{36} my vampire boyfriend _1{25} ydestiny _1{24} the harvest season _1{16} 
+- 04/06/21 (eff) - unbag _1{328} wabi vlog _1{105} survivor au _4{69} bt21 original story _1{36} ydestiny _1{26} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 05/06/21 (eff) - unbag _1{330} wabi vlog _1{106} survivor au _4{70} bt21 original story _1{36} ydestiny _1{28} my vampire boyfriend _1{25} the harvest season _1{16} love in time _1{15} 
+- 06/06/21 (eff) - unbag _1{332} wabi vlog _1{107} survivor au _4{71} bt21 original story _1{36} ydestiny _1{29} my vampire boyfriend _1{25} the harvest season _1{16} love in time _1{15} 
+- 07/06/21 (eff) - unbag _1{334} wabi vlog _1{109} survivor au _4{72} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} the harvest season _1{16} nitiman _1{15} love in time _1{15} 
+- 08/06/21 (eff) - unbag _1{336} wabi vlog _1{111} survivor au _4{73} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} nitiman _1{17} the harvest season _1{16} love in time _1{15} tharntype _2{13} 
+- 09/06/21 (eff) - unbag _1{338} wabi vlog _1{113} survivor au _4{74} bt21 original story _1{36} ydestiny _1{31} my vampire boyfriend _1{25} nitiman _1{19} the harvest season _1{16} love in time _1{15} skam fr _8{14} 
+- 10/06/21 (eff) - unbag _1{340} wabi vlog _1{115} survivor au _4{75} bt21 original story _1{36} ydestiny _1{33} my vampire boyfriend _1{25} nitiman _1{21} skam fr _8{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 11/06/21 (eff) - unbag _1{342} wabi vlog _1{117} survivor au _4{76} bt21 original story _1{36} ydestiny _1{35} my vampire boyfriend _1{25} nitiman _1{23} skam fr _8{18} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 12/06/21 (eff) - unbag _1{344} wabi vlog _1{119} survivor au _4{77} ydestiny _1{37} bt21 original story _1{36} nitiman _1{25} my vampire boyfriend _1{25} skam fr _8{19} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 13/06/21 (eff) - unbag _1{346} wabi vlog _1{121} survivor au _4{78} ydestiny _1{39} bt21 original story _1{36} nitiman _1{27} my vampire boyfriend _1{25} skam fr _8{21} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 14/06/21 (eff) - unbag _1{349} wabi vlog _1{123} survivor au _4{79} ydestiny _1{42} bt21 original story _1{36} nitiman _1{30} my vampire boyfriend _1{25} skam fr _8{24} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
+- 15/06/21 (eff) - unbag _1{351} wabi vlog _1{125} survivor au _4{80} ydestiny _1{44} bt21 original story _1{36} nitiman _1{32} skam fr _8{25} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
 
 
 
@@ -388,9 +388,9 @@
 - 25/03/21 - 195* wabi vlog _1{57} friend or lover _1{1} 
 - 26/03/21 - 204* wabi vlog _1{59} friend or lover _1{1} 
 - 27/03/21 - 171* 
-- 28/03/21 - 260* precise shot _1{0} 
-- 29/03/21 - 652* precise shot _1{3} 
-- 30/03/21 - 578* precise shot _1{5} 
+- 28/03/21 - 260* 
+- 29/03/21 - 652* 
+- 30/03/21 - 578* 
 - 31/03/21 - 640* wabi vlog _1{66} ydestiny _1{0} 
 - 01/04/21 - 654* wabi vlog _1{68} ydestiny _1{1} 
 - 02/04/21 - 375* mental _1{6} unbag _1{196} wabi vlog _1{69} ydestiny _1{1} 

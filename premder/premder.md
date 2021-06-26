@@ -13,6 +13,7 @@
 $
 Bangkok love stories innocence 1x2
 An eye for an eye 1x2
+The cube 1x2
 * --
 Ciwyw 1x1
 Ciwyw 1x3
@@ -59,8 +60,6 @@ Mr lipstick 1x2
 * Mr lipstick 1x1
 Mental 1x5
 * Ydestiny 1x1
-Precise shot 1x4
-* Precise shot 1x1
 * Friend or lover 1x1
 Bt21 vlog 1x3
 * Bt21 vlog 1x1

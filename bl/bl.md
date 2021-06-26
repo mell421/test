@@ -167,6 +167,7 @@
 |he's coming to me|he's coming to me|8|serie|thailande|         <!-- 113 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|     <!-- 114 -->
 |fish upon the sky|fish upon the sky|12|serie|thailande|     <!-- 38 -->
+|precise shot|precise shot|20|serie|taiwan|                   <!-- 35 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -211,7 +212,6 @@
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 32 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 33 -->
 |friend or lover|friend or lover|4|serie|taiwan|3|              <!-- 34 -->
-|precise shot|precise shot|20|serie|taiwan|4|                   <!-- 35 -->
 |ydestiny|ydestiny|15|serie|thailande|13|                       <!-- 36 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 37 -->
 |nitiman|nitiman|12|serie|thailande|7|                          <!-- 40 -->

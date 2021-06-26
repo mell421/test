@@ -351,7 +351,7 @@ Unbag _1x18(1) Wabi vlog _1x9(1) You never eat alone _1x5(1)
 #### sem 22-03-2021 
 Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(1) 
 #### sem 29-03-2021 
-Precise shot _1x5(4) Wabi vlog _1x11(2) 
+Wabi vlog _1x11(2) 
 #### sem 05-04-2021 
 Mental _1x6(2) Unbag _1x19(1) Wabi vlog _1x12(1) Ydestiny _1x2(1) 
 #### sem 12-04-2021 
@@ -432,7 +432,7 @@ Be love _1x4(1) TharnType _2x6(2) Unbag _1x15(2) The shipper _1x5(2) Tien broman
 #### mois 01-03-2021 
 Unbag _1x17(2) Wabi vlog _1x7(6) Unlocked _1x3(1) Pearl next door _1x4(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Love in time _1x6(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
 #### mois 01-04-2021 
-Wabi vlog _1x12(5) Ydestiny _1x2(1) Precise shot _1x5(4) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
+Wabi vlog _1x12(5) Ydestiny _1x2(1) Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
 Unbag _1x21(3) Ydestiny _1x6(4) Wabi vlog _1x16(4) Survivor au _4x6(5) I can see your voice fr _1x2(1) Friend or lover _1x3(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
 #### mois 01-06-2021 
@@ -637,13 +637,13 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Dark blue kiss _1x2(1) Unb
 * conclu 25/03/21 > Bt21 original story _1 > 4; Bt21 vlog _1 > 2; We are not human _1 > 2; Unbag _1 > 1; Wabi vlog _1 > 1; 
 * conclu 26/03/21 > Wabi vlog _1 > 2; We are not human _1 > 2; Bt21 original story _1 > 1; Unbag _1 > 1; 
 * conclu 27/03/21 > We are not human _1 > 2; Bt21 original story _1 > 1; Unbag _1 > 1; 
-* conclu 28/03/21 > Precise shot _1 > 2; We are not human _1 > 2; Bt21 original story _1 > 1; Unbag _1 > 1; Wabi vlog _1 > 1; 
-* conclu 29/03/21 > We are not human _1 > 2; Precise shot _1 > 1; Unbag _1 > 1; 
-* conclu 30/03/21 > We are not human _1 > 2; Precise shot _1 > 1; Unbag _1 > 1; 
-* conclu 31/03/21 > Precise shot _1 > 2; We are not human _1 > 2; Unbag _1 > 1; 
-* conclu 01/04/21 > Precise shot _1 > 2; We are not human _1 > 2; Unbag _1 > 1; 
-* conclu 02/04/21 > Unbag _1 > 4; Precise shot _1 > 2; We are not human _1 > 1; 
-* conclu 03/04/21 > Unbag _1 > 4; Precise shot _1 > 2; We are not human _1 > 1; 
+* conclu 28/03/21 > We are not human _1 > 2; Bt21 original story _1 > 1; Unbag _1 > 1; Wabi vlog _1 > 1; 
+* conclu 29/03/21 > We are not human _1 > 2; Unbag _1 > 1; 
+* conclu 30/03/21 > We are not human _1 > 2; Unbag _1 > 1; 
+* conclu 31/03/21 > We are not human _1 > 2; Unbag _1 > 1; 
+* conclu 01/04/21 > We are not human _1 > 2; Unbag _1 > 1; 
+* conclu 02/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
+* conclu 03/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 04/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 05/04/21 > Unbag _1 > 5; Mental _1 > 1; We are not human _1 > 1; 
 * conclu 06/04/21 > Unbag _1 > 4; Bt21 original story _1 > 1; 
@@ -915,13 +915,13 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Dark blue kiss _1x2(1) Unb
 * concluBis 25/03/21 > Bt21 original story _1 > 8; Bt21 vlog _1 > 4; We are not human _1 > 4; Wabi vlog _1 > 3; Unbag _1 > 3; 
 * concluBis 26/03/21 > Wabi vlog _1 > 4; We are not human _1 > 4; Bt21 original story _1 > 3; Unbag _1 > 3; 
 * concluBis 27/03/21 > We are not human _1 > 4; Bt21 original story _1 > 3; Unbag _1 > 3; Wabi vlog _1 > 2; 
-* concluBis 28/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Bt21 original story _1 > 3; Wabi vlog _1 > 3; Unbag _1 > 3; 
-* concluBis 29/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; 
-* concluBis 30/03/21 > We are not human _1 > 4; Precise shot _1 > 3; Unbag _1 > 3; 
-* concluBis 31/03/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 1; 
-* concluBis 01/04/21 > Precise shot _1 > 4; We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; 
-* concluBis 02/04/21 > Unbag _1 > 8; Precise shot _1 > 4; We are not human _1 > 3; Wabi vlog _1 > 1; Mental _1 > 1; 
-* concluBis 03/04/21 > Unbag _1 > 8; Precise shot _1 > 4; We are not human _1 > 3; 
+* concluBis 28/03/21 > We are not human _1 > 4; Bt21 original story _1 > 3; Wabi vlog _1 > 3; Unbag _1 > 3; 
+* concluBis 29/03/21 > We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; 
+* concluBis 30/03/21 > We are not human _1 > 4; Unbag _1 > 3; 
+* concluBis 31/03/21 > We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 1; 
+* concluBis 01/04/21 > We are not human _1 > 4; Unbag _1 > 3; Wabi vlog _1 > 2; 
+* concluBis 02/04/21 > Unbag _1 > 8; We are not human _1 > 3; Wabi vlog _1 > 1; Mental _1 > 1; 
+* concluBis 03/04/21 > Unbag _1 > 8; We are not human _1 > 3; 
 * concluBis 04/04/21 > Unbag _1 > 8; We are not human _1 > 3; Mental _1 > 2; 
 * concluBis 05/04/21 > Unbag _1 > 9; Mental _1 > 3; We are not human _1 > 3; 
 * concluBis 06/04/21 > Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Wabi vlog _1 > 1; Mr lipstick _1 > 1; 
