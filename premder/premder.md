@@ -53,7 +53,6 @@ Survivor au 4x11
 I can see your voice fr 1x2
 * Nitiman 1x1
 * Skam france 8x1
-Wabi vlog 1x15
 * I can see your voice fr 1x1
 * Survivor au 4x1
 Mr lipstick 1x2
@@ -76,7 +75,6 @@ The harvest season 1x4
 * The harvest season 1x1
 Wabi game 1x2
 * Wabi game 1x1
-* Wabi vlog 1x1
 * Tbbt 11x1
 The untamed 1x3
 * Schools out lets date now 1x1

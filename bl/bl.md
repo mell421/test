@@ -149,6 +149,7 @@
 |meet my angel|meet my angel|8|serie|philippines|               <!-- 95 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan|             <!-- 96 -->
 |roommate 2|roommate 2 soulmate|2|serie|thailande|              <!-- 97 -->
+|wabi vlog|wabi vlog|15|show|thailande|                         <!-- 27/04 !! -->
 |bad roommate|bad roommate|30|serie|thailande|                  <!-- 98 -->
 |my superboss|my superboss|30|serie(***)|thailande|             <!-- 99 -->
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|   <!-- 100 -->
@@ -207,7 +208,6 @@
 |slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 27 -->
 |you never eat alone|you never eat alone|12|serie(*)|thailande|4|   <!-- 28 -->
 |school's out let's date now|school's out let's date now|6|serie(gl)|vietnam|5|    <!-- 29 -->
-|wabi vlog|wabi vlog|?|show|thailande|10|                       <!-- 30 -->
 |wabi game|wabi game|?|show|thailande|2|                        <!-- 31 -->
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 32 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 33 -->

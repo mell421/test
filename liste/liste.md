@@ -328,6 +328,7 @@
 |survivor au 3||26|||<!--  -->
 |DR NL 1||8|||<!--  -->
 |RPDR 13||16|||<!--  -->
+|wabi vlog|wabi vlog|15|show|thailande|                       <!-- 27/04 !!! -->
 |PE 14||10|||<!--  -->
 |tvk ger 9||10|||<!--  -->
 |bad roommate|bad roommate|30|||<!--  -->
@@ -512,7 +513,6 @@
 |you never eat alone 1||10|||4|<!--  -->
 |school's out let's date now 1||6|||5|<!--  -->
 |TBBT 11||24|||1|<!--  -->
-|wabi vlog 1||?|||1|<!--  -->
 |wabi game 1||?|||1|<!--  -->
 |the harvest season 1||?|||1|<!--  -->
 |bangkok love stories innocence 1||?|||1|<!--  -->

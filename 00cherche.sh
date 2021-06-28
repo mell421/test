@@ -3,7 +3,7 @@
 ./0date.sh
 ./0supprZ.sh
 
-list=( "Unbag _1" "Wabi vlog _1" # >= 100
+list=( "Unbag _1" # >= 100
 "Survivor au _4" "Ydestiny _1" # 99 - 50
 "Nitiman _1" # 49 - 40
 "Bt21 original story _1" "Skam fr _8" # 39 - 30
