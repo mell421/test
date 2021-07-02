@@ -378,7 +378,7 @@
 |wtfock 5||10|||<!--  -->
 |precise shot|precise shot|20|serie|taiwan|                   <!-- 35 -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|    <!-- 18 -->
-||||||<!--  -->
+|mortel 2||6|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -550,16 +550,15 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|domino challenge 1||?|||0|<!--  -->
-|marble mania 1||?|||0|<!--  -->
-|RPDRAS 6||12|||0|<!-- 22/5 -->
-|light on me 1||16|||0|<!--  -->
+|domino challenge 1||4|||2|<!--  -->
+|marble mania 1||?|||1|<!--  -->
+|RPDRAS 6||12|||3|<!-- 22/5 -->
+|RPDRASU 6||10|||3|<!-- 22/5 -->
+|light on me 1||16|||2|<!--  -->
 |bad buddy 1||12|||0|<!--  -->
-|mortel 2||8|||0|<!--  -->
 |camping paradis 12||?|||0|<!--  -->
 |46 days 1||?|||0|<!--  -->
 |ahss 1||7|||0|<!--  -->
-|deep 1||?|||0|<!--  -->
 |the titan games 3||?|||0|<!--  -->
 |ahs 10||?|||0|<!--  -->
 |||||||<!--  -->
