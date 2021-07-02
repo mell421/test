@@ -169,6 +169,7 @@
 |life senjou no bokura|life senjou no bokura|4|serie|japon|     <!-- 114 -->
 |fish upon the sky|fish upon the sky|12|serie|thailande|     <!-- 38 -->
 |precise shot|precise shot|20|serie|taiwan|                   <!-- 35 -->
+|tharnType 2|tharnType 7 years of love|13|serie|thailande|    <!-- 18 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -196,7 +197,6 @@
 |swap test|swap test|15|serie|philippines|2|                    <!-- 15 -->
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|         <!-- 16 -->
 |lakan|lakan|8|serie|philippines|4|                             <!-- 17 -->
-|tharnType 2|tharnType 7 years of love|13|serie|thailande|8|    <!-- 18 -->
 |be love|be love|4|serie|japon|3|                               <!-- 19 -->
 |ghost runner|ghost runner|8|serie|thailande|4|                 <!-- 20 -->
 |together with me|together with me|?|serie|thailande|1|         <!-- 21 -->

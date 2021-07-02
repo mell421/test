@@ -66,16 +66,16 @@
 - 11/01/21 - unbag _1{58} rpdru _9{20} ghost runner _1{11} 
 - 12/01/21 - unbag _1{58} rpdru _9{20} from dusk till dawn _2{15} ghost runner _1{11} 
 - 13/01/21 - unbag _1{59} rpdru _9{22} from dusk till dawn _2{15} 
-- 14/01/21 - unbag _1{60} rpdru _9{22} tharntype _2{11} 
-- 15/01/21 - unbag _1{61} rpdru _9{22} tharntype _2{11} 
-- 16/01/21 - unbag _1{63} rpdru _9{22} tharntype _2{11} ghost runner _1{11} 
+- 14/01/21 - unbag _1{60} rpdru _9{22} 
+- 15/01/21 - unbag _1{61} rpdru _9{22} 
+- 16/01/21 - unbag _1{63} rpdru _9{22} ghost runner _1{11} 
 - 17/01/21 - unbag _1{65} rpdru _9{22} 
 - 18/01/21 - unbag _1{68} rpdru _9{22} 
 - 19/01/21 - unbag _1{70} rpdru _9{22} 
 - 20/01/21 - unbag _1{72} rpdru _9{22} 
 - 21/01/21 - unbag _1{74} rpdru _9{22} 
 - 22/01/21 - unbag _1{76} rpdru _9{22} from dusk till dawn _2{15} 
-- 23/01/21 - unbag _1{77} rpdru _9{22} koishite akuma _1{11} tharntype _2{11} 
+- 23/01/21 - unbag _1{77} rpdru _9{22} koishite akuma _1{11} 
 - 24/01/21 - unbag _1{78} rpdru _9{22} from dusk till dawn _2{15} koishite akuma _1{13} 
 - 25/01/21 - unbag _1{79} rpdru _9{22} koishite akuma _1{15} 
 - 26/01/21 - unbag _1{80} rpdru _9{22} koishite akuma _1{15} 
@@ -211,7 +211,7 @@
 - 05/06/21 (eff) - unbag _1{330} survivor au _4{70} bt21 original story _1{36} ydestiny _1{28} my vampire boyfriend _1{25} the harvest season _1{16} love in time _1{15} 
 - 06/06/21 (eff) - unbag _1{332} survivor au _4{71} bt21 original story _1{36} ydestiny _1{29} my vampire boyfriend _1{25} the harvest season _1{16} love in time _1{15} 
 - 07/06/21 (eff) - unbag _1{334} survivor au _4{72} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} the harvest season _1{16} nitiman _1{15} love in time _1{15} 
-- 08/06/21 (eff) - unbag _1{336} survivor au _4{73} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} nitiman _1{17} the harvest season _1{16} love in time _1{15} tharntype _2{13} 
+- 08/06/21 (eff) - unbag _1{336} survivor au _4{73} bt21 original story _1{36} ydestiny _1{30} my vampire boyfriend _1{25} nitiman _1{17} the harvest season _1{16} love in time _1{15} 
 - 09/06/21 (eff) - unbag _1{338} survivor au _4{74} bt21 original story _1{36} ydestiny _1{31} my vampire boyfriend _1{25} nitiman _1{19} the harvest season _1{16} love in time _1{15} skam fr _8{14} 
 - 10/06/21 (eff) - unbag _1{340} survivor au _4{75} bt21 original story _1{36} ydestiny _1{33} my vampire boyfriend _1{25} nitiman _1{21} skam fr _8{16} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
 - 11/06/21 (eff) - unbag _1{342} survivor au _4{76} bt21 original story _1{36} ydestiny _1{35} my vampire boyfriend _1{25} nitiman _1{23} skam fr _8{18} the harvest season _1{16} vincenzo _1{15} love in time _1{15} 
@@ -250,9 +250,9 @@
 - 31/10/20 - 158* swap test _1{1} the stranded _1{0} unbag _1{10} 
 - 05/11/20 - 307* the good doctor _4{0} 
 - 06/11/20 - 253* unbag _1{12} blood _1{4} the good doctor _4{0} 
-- 07/11/20 - 173* tharntype _2{0} unbag _1{12} blood _1{4} the good doctor _4{0} 
-- 08/11/20 - 222* lakan _1{2} pogi lang hanap _1{7} tharntype _2{1} 
-- 09/11/20 - 267* lakan _1{3} pogi lang hanap _1{8} tharntype _2{2} 
+- 07/11/20 - 173* unbag _1{12} blood _1{4} the good doctor _4{0} 
+- 08/11/20 - 222* lakan _1{2} pogi lang hanap _1{7} 
+- 09/11/20 - 267* lakan _1{3} pogi lang hanap _1{8} 
 - 10/11/20 - 271* lakan _1{3} pogi lang hanap _1{8} 
 - 12/11/20 - 233* unbag _1{13} 
 - 13/11/20 - 245* unbag _1{13} 
@@ -263,11 +263,11 @@
 - 18/11/20 - 356* my vampire boyfriend _1{5} 
 - 19/11/20 - 372* pogi lang hanap _1{8} 
 - 20/11/20 - 308* unbag _1{14} pogi lang hanap _1{8} 
-- 21/11/20 - 205* tharntype _2{2} unbag _1{14} 
-- 22/11/20 - 178* tharntype _2{2} 
-- 23/11/20 - 274* tharntype _2{3} 
-- 24/11/20 - 346* tharntype _2{3} 
-- 25/11/20 - 421* tharntype _2{3} 
+- 21/11/20 - 205* unbag _1{14} 
+- 22/11/20 - 178* 
+- 23/11/20 - 274* 
+- 24/11/20 - 346* 
+- 25/11/20 - 421* 
 - 26/11/20 - 422* be love _1{0} 
 - 27/11/20 - 438* be love _1{0} 
 - 28/11/20 - 396* be love _1{0} 
@@ -276,12 +276,12 @@
 - 02/12/20 - 385* be love _1{4} 
 - 03/12/20 - 281* ghost runner _1{0} be love _1{6} 
 - 04/12/20 - 239* unbag _1{16} ghost runner _1{0} be love _1{6} 
-- 05/12/20 - 134* tharntype _2{4} unbag _1{16} ghost runner _1{0} 
-- 06/12/20 - 148* tharntype _2{4} unbag _1{16} 
-- 07/12/20 - 203* tharntype _2{5} 
-- 08/12/20 - 311* tale of the nine tailed _1{0} tharntype _2{5} 
-- 09/12/20 - 320* tale of the nine tailed _1{0} tharntype _2{5} 
-- 10/12/20 - 356* tale of the nine tailed _1{0} tharntype _2{5} 
+- 05/12/20 - 134* unbag _1{16} ghost runner _1{0} 
+- 06/12/20 - 148* unbag _1{16} 
+- 07/12/20 - 203* 
+- 08/12/20 - 311* tale of the nine tailed _1{0} 
+- 09/12/20 - 320* tale of the nine tailed _1{0} 
+- 10/12/20 - 356* tale of the nine tailed _1{0} 
 - 11/12/20 - 392* tale of the nine tailed _1{0} 
 - 12/12/20 - 300* tale of the nine tailed _1{0} 
 - 14/12/20 - 469* a queen is born _1{1} 
@@ -310,10 +310,10 @@
 - 06/01/21 - 78* friend zone _1{6} rpdru _9{10} together with me _1{1} 
 - 07/01/21 - 100* friend zone _1{8} rpdru _9{12} 
 - 08/01/21 - 60* unlocked _1{0} friend zone _1{8} 
-- 09/01/21 - 87* tharntype _2{6} unlocked _1{0} 
-- 10/01/21 - 82* romantic blue _1{0} tharntype _2{7} 
-- 11/01/21 - 105* romantic blue _1{1} tharntype _2{8} 
-- 12/01/21 - 70* romantic blue _1{1} tharntype _2{9} 
+- 09/01/21 - 87* unlocked _1{0} 
+- 10/01/21 - 82* romantic blue _1{0} 
+- 11/01/21 - 105* romantic blue _1{1} 
+- 12/01/21 - 70* romantic blue _1{1} 
 - 13/01/21 - 75* pearl next door _1{0} romantic blue _1{1} 
 - 14/01/21 - 94* pearl next door _1{2} 
 - 15/01/21 - 164* unbag _1{61} pearl next door _1{3} 
@@ -332,9 +332,9 @@
 - 28/01/21 - 376* the shipper _1{3} tien bromance _1{2} 
 - 29/01/21 - 468* unbag _1{83} the shipper _1{3} 
 - 30/01/21 - 202* unbag _1{85} 
-- 31/01/21 - 166* be love _1{7} tharntype _2{11} 
-- 01/02/21 - 200* be love _1{10} tharntype _2{13} 
-- 02/02/21 - 208* you never eat alone _1{0} slam dance _1{0} be love _1{11} tharntype _2{13} 
+- 31/01/21 - 166* be love _1{7} 
+- 01/02/21 - 200* be love _1{10} 
+- 02/02/21 - 208* you never eat alone _1{0} slam dance _1{0} be love _1{11} 
 - 03/02/21 - 143* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} be love _1{11} 
 - 04/02/21 - 145* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} 
 - 05/02/21 - 128* schools out lets date now _1{0} you never eat alone _1{1} 

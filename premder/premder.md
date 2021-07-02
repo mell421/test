@@ -81,7 +81,6 @@ The untamed 1x3
 * You never eat alone 1x1
 * Slam dance 1x1
 Be love 1x3
-TharnType 2x5
 The shipper 1x4
 * Tien bromance 1x1
 Ben x jim 1x2
@@ -106,7 +105,6 @@ Lakan 1x4
 * Be love 1x1
 Pogi lang hanap 1x4
 * My vampire boyfriend 1x1
-* TharnType 2x1
 Blood 1x16
 * The good doctor 4x1
 Swap test 1x2

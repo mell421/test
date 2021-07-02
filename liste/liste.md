@@ -377,6 +377,7 @@
 |fish upon the sky|fish upon the sky|12|serie|thailande|     <!-- 38 -->
 |wtfock 5||10|||<!--  -->
 |precise shot|precise shot|20|serie|taiwan|                   <!-- 35 -->
+|tharnType 2|tharnType 7 years of love|13|serie|thailande|    <!-- 18 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -494,7 +495,6 @@
 |the stranded 1|||||1|<!--  -->
 |the good doctor 4||18|||1|<!--  -->
 |blood 1||20|||16|<!--  -->
-|tharnType 2|tharnType 7 years of love|13|serie|thailande|5|<!-- 22 -->
 |my vampire boyfriend 1||12|||6|<!--  -->
 |be love|be love|4|serie|japon|3|<!-- 25 -->
 |ghost runner|ghost runner|8|serie|thailande|4|<!-- 28 -->
