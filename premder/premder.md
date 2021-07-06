@@ -31,10 +31,8 @@ Rpdras 6x3
 Light on me 1x2
 Crime scene kitchen 1x6
 Golden blood 1x2
-Glow up 1x3
 Bt21 original story 1x9
 Agt 16x5
-* Glow up 1x1
 * Light on me 1x1
 Drag race esp 1x5
 * Drop 1x1

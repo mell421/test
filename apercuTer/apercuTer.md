@@ -538,6 +538,7 @@
 * Tharntype _2
 ### sem 12-07-2021 
 * *insererici*
+* Glow up _1
 * Ydestiny _1
 ### sem -07-2021 
 * *insererici*
@@ -615,7 +616,7 @@
 #### mois 01-07-2021 
 *insererici Precise shot _1 Wtfock _5 Fish upon the sky _1 Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
 #### mois 01-08-2021 
-*insererici Ydestiny _1 Mortel _2 Tharntype _2*
+*insererici Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
 **
 #### mois 01-10-2021 
