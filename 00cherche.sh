@@ -4,7 +4,7 @@
 ./0supprZ.sh
 
 list=( "Unbag _1" # >= 100
-"Survivor au _4" "Ydestiny _1" # 99 - 50
+"Survivor au _4" # 99 - 50
 "Nitiman _1" # 49 - 40
 "Bt21 original story _1" "Skam fr _8" # 39 - 30
 "My vampire boyfriend _1" # 29 - 20

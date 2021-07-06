@@ -379,6 +379,7 @@
 |precise shot|precise shot|20|serie|taiwan|                   <!-- 35 -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|    <!-- 18 -->
 |mortel 2||6|||<!--  -->
+|ydestiny|ydestiny|15|serie|thailande|                       <!-- 36 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -519,7 +520,6 @@
 |BT21 original story 1||?|||6|<!--  -->
 |BT21 vlog||?|||3|<!--  -->
 |friend or lover||4|||3|<!--  -->
-|ydestiny 1||15|||13|<!--  -->
 |mr lipstick 1||?|||2|<!--  -->
 |surv au 4||26|||11|<!--  -->
 |ICSYV FR 1||?|||2|<!--  -->

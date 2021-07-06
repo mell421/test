@@ -35,7 +35,6 @@ Glow up 1x3
 Bt21 original story 1x9
 Agt 16x5
 * Glow up 1x1
-Ydestiny 1x14
 * Light on me 1x1
 Drag race esp 1x5
 * Drop 1x1
@@ -75,7 +74,6 @@ I can see your voice fr 1x2
 Mr lipstick 1x2
 * Mr lipstick 1x1
 Mental 1x5
-* Ydestiny 1x1
 * Friend or lover 1x1
 Bt21 vlog 1x3
 * Bt21 vlog 1x1
