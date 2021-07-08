@@ -172,6 +172,7 @@
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|    <!-- 18 -->
 |sweet curse|sweet curse|1|short|corée|<!--  -->
 |ydestiny|ydestiny|15|serie|thailande|                       <!-- 36 -->
+|pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 24 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -203,7 +204,6 @@
 |together with me|together with me|?|serie|thailande|1|         <!-- 21 -->
 |unlocked|unlocked|9|serie|philippines|2|                       <!-- 22 -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|          <!-- 23 -->
-|pearl next door|pearl next door|8|serie(gl)|philippines|3|     <!-- 24 -->
 |warper series|warper series|?|show|thailande|1|                <!-- 25 -->
 |tien bromance|tien bromance|10|serie|vietnam|1|                <!-- 26 -->
 |slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 27 -->
@@ -219,9 +219,14 @@
 |dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 42 -->
 |stuck on you|stuck on you|8|serie|philippines|2|               <!-- 43 -->
 |siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 44 -->
+|golden blood|golden blood|8|serie|thailande|2|<!--  -->
+|light on me|light on me|16|serie|corée|3|<!-- 29/6 -->
 |||||||<!--  -->
 |||||||<!--  -->
-|golden blood|golden blood|?|serie|thailande|1|<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 
@@ -229,10 +234,9 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|light on me|light on me|16|serie|corée|0|<!-- 29/6 -->
 |bad buddy|bad buddy|12|serie|thailande|0|<!-- -->
 |46 days|46 days|?|serie(**)|thailande|0|<!-- 7/7 -->
-|deep|deep|?|serie(***)|thailande|0|<!-- 16/7 -->
+|deep|deep|?|film(***)|thailande|0|<!-- 16/7 -->
 |gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
 |||||||<!--  -->
 |||||||<!--  -->

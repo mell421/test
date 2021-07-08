@@ -51,7 +51,7 @@ Rpdru _9x8(1) Together with me _1x2(1) The shipper _1x4(1) Unbag _1x13(1) Ghost 
 #### sem 11-01-2021 
 Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) 
 #### sem 18-01-2021 
-Koishite akuma _1x4(3) Warper series _1x2(1) Unbag _1x14(1) Pearl next door _1x3(2) 
+Koishite akuma _1x4(3) Warper series _1x2(1) Unbag _1x14(1) 
 #### sem 25-01-2021 
 Tien bromance _1x2(1) Ben x jim _1x3(1) 
 #### sem 01-02-2021 
@@ -61,7 +61,7 @@ Tbbt _11x2(1) The untamed _1x4(1) Schools out lets date now _1x3(2) You never ea
 #### sem 15-02-2021 
 Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) Unbag _1x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
 #### sem 22-02-2021 
-Unlocked _1x3(1) Pearl next door _1x4(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) Love in time _1x6(2) 
+Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) Love in time _1x6(2) 
 #### sem 01-03-2021 
 Unbag _1x17(1) 
 #### sem 08-03-2021 
@@ -103,9 +103,9 @@ Drag race esp _1x4(1) Nitiman _1x7(1) Skam fr _8x7(1) Stuck on you _1x2(1) Beat 
 #### mois 01-01-2021 
 Unbag _1x13(3) Ghost runner _1x5(4) Friend zone _1x3(1) Josephine ange gardien _23x5(1) Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) 
 #### mois 01-02-2021 
-Be love _1x4(1) Unbag _1x15(2) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Pearl next door _1x3(2) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Rpdru _9x8(1) Together with me _1x2(1) 
+Be love _1x4(1) Unbag _1x15(2) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Rpdru _9x8(1) Together with me _1x2(1) 
 #### mois 01-03-2021 
-Unbag _1x17(2) Unlocked _1x3(1) Pearl next door _1x4(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Love in time _1x6(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
+Unbag _1x17(2) Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Love in time _1x6(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
 #### mois 01-04-2021 
 Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
@@ -134,9 +134,9 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Dark blue kiss _1x2(1) Unb
 * conclu 10/01/21 > We are not human _1 > 2; Rpdru _9 > 1; 
 * conclu 11/01/21 > We are not human _1 > 2; 
 * conclu 12/01/21 > Rpdru _9 > 2; We are not human _1 > 2; 
-* conclu 13/01/21 > We are not human _1 > 2; Pearl next door _1 > 1; 
+* conclu 13/01/21 > We are not human _1 > 2; 
 * conclu 14/01/21 > We are not human _1 > 2; 
-* conclu 15/01/21 > Unbag _1 > 3; We are not human _1 > 2; Pearl next door _1 > 1; 
+* conclu 15/01/21 > Unbag _1 > 3; We are not human _1 > 2; 
 * conclu 16/01/21 > Unbag _1 > 3; We are not human _1 > 2; 
 * conclu 17/01/21 > Unbag _1 > 3; We are not human _1 > 2; 
 * conclu 18/01/21 > Unbag _1 > 3; We are not human _1 > 2; Koishite akuma _1 > 1; 
@@ -310,11 +310,11 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Skam fr _8x5(4) Dark blue kiss _1x2(1) Unb
 * concluBis 10/01/21 > We are not human _1 > 4; Rpdru _9 > 3; Unbag _1 > 1; 
 * concluBis 11/01/21 > We are not human _1 > 4; 
 * concluBis 12/01/21 > Rpdru _9 > 4; We are not human _1 > 4; Unbag _1 > 1; 
-* concluBis 13/01/21 > We are not human _1 > 4; Pearl next door _1 > 3; Unbag _1 > 1; 
-* concluBis 14/01/21 > We are not human _1 > 4; Pearl next door _1 > 1; Unbag _1 > 1; 
-* concluBis 15/01/21 > Unbag _1 > 7; We are not human _1 > 4; Pearl next door _1 > 3; 
-* concluBis 16/01/21 > Unbag _1 > 7; We are not human _1 > 4; Pearl next door _1 > 1; 
-* concluBis 17/01/21 > Unbag _1 > 7; We are not human _1 > 4; Pearl next door _1 > 2; 
+* concluBis 13/01/21 > We are not human _1 > 4; Unbag _1 > 1; 
+* concluBis 14/01/21 > We are not human _1 > 4; Unbag _1 > 1; 
+* concluBis 15/01/21 > Unbag _1 > 7; We are not human _1 > 4; 
+* concluBis 16/01/21 > Unbag _1 > 7; We are not human _1 > 4; 
+* concluBis 17/01/21 > Unbag _1 > 7; We are not human _1 > 4; 
 * concluBis 18/01/21 > Unbag _1 > 7; We are not human _1 > 4; Koishite akuma _1 > 3; 
 * concluBis 19/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; We are not human _1 > 4; 
 * concluBis 20/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; We are not human _1 > 4; 

@@ -89,7 +89,10 @@
     - [sem 28-06-2021](#sem-28-06-2021)
     - [sem 05-07-2021](#sem-05-07-2021)
     - [sem 12-07-2021](#sem-12-07-2021)
-    - [sem -07-2021](#sem--07-2021)
+    - [sem 19-07-2021](#sem-19-07-2021)
+    - [sem 26-07-2021](#sem-26-07-2021)
+    - [sem -08-2021](#sem--08-2021)
+    - [sem -08-2021](#sem--08-2021-1)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -512,14 +515,12 @@
 * Lls _1
 * The voice no _6
 ### sem 14-06-2021 
-* *insererici*
 * Weekend to remember _1
 * History3 modc _1
 * Love victor _2
 * Top chef _12
 * History3 trapped _1
 ### sem 21-06-2021 
-* *insererici*
 * Kaamelott _5
 * Hes coming to me _1
 * Rpdrdu _1
@@ -527,44 +528,58 @@
 * Special _2
 * Sfu _5
 ### sem 28-06-2021 
-* *insererici*
 * Precise shot _1
 * Wtfock _5
 * Fish upon the sky _1
 * Life senjou no bokura _1
 ### sem 05-07-2021 
-* *insererici*
 * Mortel _2
 * Tharntype _2
 ### sem 12-07-2021 
 * *insererici*
+* Pearl next door _1
 * Glow up _1
 * Ydestiny _1
-### sem -07-2021 
+### sem 19-07-2021 
+* *insererici*
+### sem 26-07-2021 
+* *insererici*
+### sem -08-2021 
+* *insererici*
+### sem -08-2021 
 * *insererici*
 
 ---
 
 ## bientot
 * Mr lipstick _1
+* Mental _1
 * 
-* Pearl next door _1
-* 
+* Young royals _1
+* Kaamelott _6
 * 
 * $ a jour $
 * Elite _4
-* 
 * Skam france _8
+* Nitiman _1
 * Drag race esp _1
+* Crime scene kitchen _1
+* The best story _1
+* Stuck on you _1
+* The cube _1
+* Beat shazam _4
+* Golden blood _1
+* 46 days _1
+* Ahss _1
+* Light on me _1
+* Rpdrasu _6
+* Lego masters _2
+* Rpdras _6
+* Ahs _10
 * 
 * $ other $
-* Nitiman _1
-* Stuck on you _1
-* Beat shazam _4
 * Unbag _1
-* Crime scene kitchen _1
 * Agt _16
-* Lego masters _2
 * Friend or lover _1
 * Vincenzo _1
 * Dark blue kiss _1
@@ -616,7 +631,7 @@
 #### mois 01-07-2021 
 *insererici Precise shot _1 Wtfock _5 Fish upon the sky _1 Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
 #### mois 01-08-2021 
-*insererici Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
+*insererici Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
 **
 #### mois 01-10-2021 

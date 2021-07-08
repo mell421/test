@@ -314,9 +314,9 @@
 - 10/01/21 - 82* romantic blue _1{0} 
 - 11/01/21 - 105* romantic blue _1{1} 
 - 12/01/21 - 70* romantic blue _1{1} 
-- 13/01/21 - 75* pearl next door _1{0} romantic blue _1{1} 
-- 14/01/21 - 94* pearl next door _1{2} 
-- 15/01/21 - 164* unbag _1{61} pearl next door _1{3} 
+- 13/01/21 - 75* romantic blue _1{1} 
+- 14/01/21 - 94* 
+- 15/01/21 - 164* unbag _1{61} 
 - 16/01/21 - 151* warper series _1{0} unbag _1{63} 
 - 17/01/21 - 116* 
 - 18/01/21 - 128* koishite akuma _1{1} 
@@ -350,8 +350,8 @@
 - 15/02/21 - 114* bangkok love stories innocence _1{1} schools out lets date now _1{3} 
 - 16/02/21 - 175* tokyo ghoul _3{1} love in time _1{8} my vampire boyfriend _1{9} bangkok love stories innocence _1{1} schools out lets date now _1{3} 
 - 17/02/21 - 199* you never eat alone _1{2} tokyo ghoul _3{2} love in time _1{9} my vampire boyfriend _1{9} 
-- 18/02/21 - 127* unlocked _1{2} pearl next door _1{9} my vampire boyfriend _1{10} you never eat alone _1{2} 
-- 19/02/21 - 191* unlocked _1{2} pearl next door _1{9} my vampire boyfriend _1{12} you never eat alone _1{2} 
+- 18/02/21 - 127* unlocked _1{2} my vampire boyfriend _1{10} you never eat alone _1{2} 
+- 19/02/21 - 191* unlocked _1{2} my vampire boyfriend _1{12} you never eat alone _1{2} 
 - 20/02/21 - 164* 
 - 21/02/21 - 191* 
 - 22/02/21 - 207* 
