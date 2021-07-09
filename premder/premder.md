@@ -33,7 +33,6 @@ Drag race esp 1x6
 Stuck on you 1x4
 The cube 1x4
 Nitiman 1x9
-Skam france 8x9
 Beat shazam 4x5
 Domino challenge 1x2
 Rpdrasu 6x3
@@ -70,7 +69,6 @@ Vincenzo 1x2
 * An eye for an eye 1x1
 I can see your voice fr 1x2
 * Nitiman 1x1
-* Skam france 8x1
 * I can see your voice fr 1x1
 * Survivor au 4x1
 Mr lipstick 1x2

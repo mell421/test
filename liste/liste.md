@@ -306,7 +306,7 @@
 |girl2k|girl2k|10|serie(**)|thailande|<!-- 41 -->
 |RPDRUK 2||10|||<!--  -->
 |you make me dance|you make me dance|8|serie|corée|<!-- 45 -->
-|skam fr 7||10|||<!--  -->
+|skam france 7||10|||<!--  -->
 |TV UK 10||12|||<!--  -->
 |our memory|our memory|4|serie|taiwan|<!-- 91 -->
 |survivor au 1||13|||<!--  -->
@@ -382,6 +382,7 @@
 |ydestiny|ydestiny|15|serie|thailande|                       <!-- 36 -->
 |glow up 1||8|||<!--  -->
 |pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 24 -->
+|skam france 8||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -523,7 +524,6 @@
 |mr lipstick 1||?|||2|<!--  -->
 |surv au 4||26|||11|<!--  -->
 |ICSYV FR 1||?|||2|<!--  -->
-|skam france 8||10|||6|<!--  -->
 |nitiman||15|||6|<!-- 7/5 -->
 |an eye for an eye 1||?|||1|<!-- 17/05 -->
 |crime scene kitchen||10|||3|<!--  -->

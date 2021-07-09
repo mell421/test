@@ -19,7 +19,7 @@
  
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
-|skam france|france|7|
+|skam france|france|8|
 |druck|allemagne|6|
 |skam|norvège|4|
 |skam espana|espagne|4|
