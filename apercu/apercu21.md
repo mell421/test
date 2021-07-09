@@ -83,17 +83,17 @@ I can see your voice fr _1x2(1) Survivor au _4x2(1)
 #### sem 03-05-2021 
 Unbag _1x21(1) Survivor au _4x6(4) 
 #### sem 10-05-2021 
-Survivor au _4x11(5) Nitiman _1x2(1) 
+Survivor au _4x11(5) 
 #### sem 17-05-2021 
-Nitiman _1x3(1) Unbag _1x22(1) I can see your voice fr _1x3(1) 
+Unbag _1x22(1) I can see your voice fr _1x3(1) 
 #### sem 24-05-2021 
-Nitiman _1x4(1) Bt21 original story _1x9(1) Survivor au _4x12(1) An eye for an eye _1x2(1) 
+Bt21 original story _1x9(1) Survivor au _4x12(1) An eye for an eye _1x2(1) 
 #### sem 31-05-2021 
-Drag race esp _1x2(1) Nitiman _1x5(1) Dark blue kiss _1x2(1) Unbag _1x23(1) Crime scene kitchen _1x2(1) 
+Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(1) Crime scene kitchen _1x2(1) 
 #### sem 07-06-2021 
-Drag race esp _1x3(1) Friend or lover _1x4(1) Vincenzo _1x3(2) Nitiman _1x6(1) Crime scene kitchen _1x3(1) Beat shazam _4x2(1) Agt _16x2(1) 
+Drag race esp _1x3(1) Friend or lover _1x4(1) Vincenzo _1x3(2) Crime scene kitchen _1x3(1) Beat shazam _4x2(1) Agt _16x2(1) 
 #### sem 14-06-2021 
-Drag race esp _1x4(1) Nitiman _1x7(1) Stuck on you _1x2(1) Beat shazam _4x3(1) Unbag _1x24(1) Crime scene kitchen _1x4(1) Agt _16x3(1) Lego masters _2x3(2) 
+Drag race esp _1x4(1) Stuck on you _1x2(1) Beat shazam _4x3(1) Unbag _1x24(1) Crime scene kitchen _1x4(1) Agt _16x3(1) Lego masters _2x3(2) 
 
 
 
@@ -111,7 +111,7 @@ Friend or lover _1x2(1) Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools ou
 #### mois 01-05-2021 
 Unbag _1x21(3) Survivor au _4x6(5) I can see your voice fr _1x2(1) Friend or lover _1x3(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
 #### mois 01-06-2021 
-Drag race esp _1x2(1) Nitiman _1x5(4) Dark blue kiss _1x2(1) Unbag _1x23(2) Crime scene kitchen _1x2(1) Bt21 original story _1x9(1) Survivor au _4x12(6) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
+Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(2) Crime scene kitchen _1x2(1) Bt21 original story _1x9(1) Survivor au _4x12(6) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 
 
 
@@ -271,23 +271,23 @@ Drag race esp _1x2(1) Nitiman _1x5(4) Dark blue kiss _1x2(1) Unbag _1x23(2) Crim
 * conclu 27/05/21 = Unbag _1 > 4; Crime scene kitchen _1 > 2; Survivor au _4 > 1; 
 * conclu 28/05/21 = Unbag _1 > 5; Survivor au _4 > 1; 
 * conclu 29/05/21 = Unbag _1 > 4; Survivor au _4 > 1; 
-* conclu 30/05/21 = Unbag _1 > 4; Survivor au _4 > 1; Nitiman _1 > 1; 
+* conclu 30/05/21 = Unbag _1 > 4; Survivor au _4 > 1; 
 * conclu 31/05/21 = Unbag _1 > 4; Survivor au _4 > 1; 
 * conclu 01/06/21 = Unbag _1 > 4; Survivor au _4 > 1; We are not human _1 > 1; 
 * conclu 02/06/21 = Unbag _1 > 4; Survivor au _4 > 1; We are not human _1 > 1; 
 * conclu 03/06/21 = Unbag _1 > 6; Vincenzo _1 > 2; We are not human _1 > 2; Agt _16 > 1; 
 * conclu 04/06/21 = Unbag _1 > 6; Beat shazam _4 > 3; Vincenzo _1 > 2; We are not human _1 > 2; Agt _16 > 1; 
-* conclu 05/06/21 = Unbag _1 > 6; Nitiman _1 > 4; Vincenzo _1 > 3; We are not human _1 > 2; 
-* conclu 06/06/21 = Unbag _1 > 6; Nitiman _1 > 4; Vincenzo _1 > 3; We are not human _1 > 2; 
-* conclu 07/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; Nitiman _1 > 2; Drag race esp _1 > 2; We are not human _1 > 2; Friend or lover _1 > 1; 
-* conclu 08/06/21 = Unbag _1 > 6; Nitiman _1 > 3; Vincenzo _1 > 3; Drag race esp _1 > 2; We are not human _1 > 2; Friend or lover _1 > 1; 
-* conclu 09/06/21 = Unbag _1 > 6; Lego masters _2 > 3; Nitiman _1 > 2; Vincenzo _1 > 2; We are not human _1 > 2; 
-* conclu 10/06/21 = Unbag _1 > 6; Crime scene kitchen _1 > 3; Nitiman _1 > 2; We are not human _1 > 2; Lego masters _2 > 1; 
-* conclu 11/06/21 = Unbag _1 > 6; Crime scene kitchen _1 > 2; We are not human _1 > 2; Nitiman _1 > 1; Lego masters _2 > 1; 
-* conclu 12/06/21 = Unbag _1 > 6; Nitiman _1 > 3; Lego masters _2 > 2; We are not human _1 > 2; 
-* conclu 13/06/21 = Unbag _1 > 6; Nitiman _1 > 3; Lego masters _2 > 2; We are not human _1 > 2; 
-* conclu 14/06/21 = Unbag _1 > 6; We are not human _1 > 2; Nitiman _1 > 1; Lego masters _2 > 1; 
-* conclu 15/06/21 = Unbag _1 > 6; We are not human _1 > 2; Nitiman _1 > 1; 
+* conclu 05/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
+* conclu 06/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
+* conclu 07/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; Drag race esp _1 > 2; We are not human _1 > 2; Friend or lover _1 > 1; 
+* conclu 08/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; Drag race esp _1 > 2; We are not human _1 > 2; Friend or lover _1 > 1; 
+* conclu 09/06/21 = Unbag _1 > 6; Lego masters _2 > 3; Vincenzo _1 > 2; We are not human _1 > 2; 
+* conclu 10/06/21 = Unbag _1 > 6; Crime scene kitchen _1 > 3; We are not human _1 > 2; Lego masters _2 > 1; 
+* conclu 11/06/21 = Unbag _1 > 6; Crime scene kitchen _1 > 2; We are not human _1 > 2; Lego masters _2 > 1; 
+* conclu 12/06/21 = Unbag _1 > 6; Lego masters _2 > 2; We are not human _1 > 2; 
+* conclu 13/06/21 = Unbag _1 > 6; Lego masters _2 > 2; We are not human _1 > 2; 
+* conclu 14/06/21 = Unbag _1 > 6; We are not human _1 > 2; Lego masters _2 > 1; 
+* conclu 15/06/21 = Unbag _1 > 6; We are not human _1 > 2; 
 
 
 
@@ -434,37 +434,37 @@ The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Unbag _1 >
 * concluBis 13/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
 * concluBis 14/05/21 = Unbag _1 > 10; Survivor au _4 > 4; We are not human _1 > 2; 
 * concluBis 15/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; 
-* concluBis 16/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; Nitiman _1 > 1; 
+* concluBis 16/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; 
 * concluBis 17/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; 
 * concluBis 18/05/21 = Unbag _1 > 8; We are not human _1 > 2; 
 * concluBis 19/05/21 = Unbag _1 > 8; We are not human _1 > 2; 
 * concluBis 20/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; 
 * concluBis 21/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
 * concluBis 22/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
-* concluBis 23/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; Nitiman _1 > 1; 
-* concluBis 24/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; Nitiman _1 > 1; 
+* concluBis 23/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
+* concluBis 24/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
 * concluBis 25/05/21 = Survivor au _4 > 4; Unbag _1 > 4; We are not human _1 > 2; 
 * concluBis 26/05/21 = Unbag _1 > 8; Survivor au _4 > 4; We are not human _1 > 2; 
 * concluBis 27/05/21 = Unbag _1 > 8; Crime scene kitchen _1 > 4; Survivor au _4 > 3; We are not human _1 > 2; 
 * concluBis 28/05/21 = Unbag _1 > 11; Survivor au _4 > 3; Crime scene kitchen _1 > 2; We are not human _1 > 2; 
 * concluBis 29/05/21 = Unbag _1 > 8; Survivor au _4 > 3; We are not human _1 > 2; 
-* concluBis 30/05/21 = Unbag _1 > 8; Survivor au _4 > 3; Nitiman _1 > 3; We are not human _1 > 2; 
+* concluBis 30/05/21 = Unbag _1 > 8; Survivor au _4 > 3; We are not human _1 > 2; 
 * concluBis 31/05/21 = Unbag _1 > 8; Survivor au _4 > 3; Drag race esp _1 > 2; We are not human _1 > 2; 
 * concluBis 01/06/21 = Unbag _1 > 8; Survivor au _4 > 3; We are not human _1 > 3; 
 * concluBis 02/06/21 = Unbag _1 > 8; Survivor au _4 > 3; We are not human _1 > 3; 
 * concluBis 03/06/21 = Unbag _1 > 10; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; Survivor au _4 > 1; 
 * concluBis 04/06/21 = Unbag _1 > 10; Beat shazam _4 > 5; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; Survivor au _4 > 1; 
-* concluBis 05/06/21 = Unbag _1 > 10; Nitiman _1 > 8; Vincenzo _1 > 5; We are not human _1 > 4; Survivor au _4 > 2; 
-* concluBis 06/06/21 = Unbag _1 > 10; Nitiman _1 > 8; Vincenzo _1 > 5; We are not human _1 > 4; Survivor au _4 > 1; Crime scene kitchen _1 > 1; 
-* concluBis 07/06/21 = Unbag _1 > 10; Nitiman _1 > 6; Vincenzo _1 > 5; Drag race esp _1 > 4; We are not human _1 > 4; Friend or lover _1 > 3; Survivor au _4 > 1; 
-* concluBis 08/06/21 = Unbag _1 > 10; Nitiman _1 > 7; Vincenzo _1 > 5; Drag race esp _1 > 4; We are not human _1 > 4; Friend or lover _1 > 3; Survivor au _4 > 2; 
-* concluBis 09/06/21 = Unbag _1 > 10; Lego masters _2 > 5; Nitiman _1 > 4; Vincenzo _1 > 4; We are not human _1 > 4; Drag race esp _1 > 2; Survivor au _4 > 1; Friend or lover _1 > 1; 
-* concluBis 10/06/21 = Unbag _1 > 10; Crime scene kitchen _1 > 6; Nitiman _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Lego masters _2 > 3; Agt _16 > 2; 
-* concluBis 11/06/21 = Unbag _1 > 11; Crime scene kitchen _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Nitiman _1 > 3; Lego masters _2 > 3; Beat shazam _4 > 2; 
-* concluBis 12/06/21 = Unbag _1 > 10; Nitiman _1 > 7; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; 
-* concluBis 13/06/21 = Unbag _1 > 10; Nitiman _1 > 7; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; 
-* concluBis 14/06/21 = Unbag _1 > 10; Nitiman _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Lego masters _2 > 3; Drag race esp _1 > 2; 
-* concluBis 15/06/21 = Unbag _1 > 10; We are not human _1 > 4; Survivor au _4 > 3; Nitiman _1 > 3; Lego masters _2 > 1; 
+* concluBis 05/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; Survivor au _4 > 2; 
+* concluBis 06/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; Survivor au _4 > 1; Crime scene kitchen _1 > 1; 
+* concluBis 07/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; Drag race esp _1 > 4; We are not human _1 > 4; Friend or lover _1 > 3; Survivor au _4 > 1; 
+* concluBis 08/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; Drag race esp _1 > 4; We are not human _1 > 4; Friend or lover _1 > 3; Survivor au _4 > 2; 
+* concluBis 09/06/21 = Unbag _1 > 10; Lego masters _2 > 5; Vincenzo _1 > 4; We are not human _1 > 4; Drag race esp _1 > 2; Survivor au _4 > 1; Friend or lover _1 > 1; 
+* concluBis 10/06/21 = Unbag _1 > 10; Crime scene kitchen _1 > 6; We are not human _1 > 4; Survivor au _4 > 3; Lego masters _2 > 3; Agt _16 > 2; 
+* concluBis 11/06/21 = Unbag _1 > 11; Crime scene kitchen _1 > 4; We are not human _1 > 4; Survivor au _4 > 3; Lego masters _2 > 3; Beat shazam _4 > 2; 
+* concluBis 12/06/21 = Unbag _1 > 10; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; 
+* concluBis 13/06/21 = Unbag _1 > 10; Lego masters _2 > 4; We are not human _1 > 4; Survivor au _4 > 3; 
+* concluBis 14/06/21 = Unbag _1 > 10; We are not human _1 > 4; Survivor au _4 > 3; Lego masters _2 > 3; Drag race esp _1 > 2; 
+* concluBis 15/06/21 = Unbag _1 > 10; We are not human _1 > 4; Survivor au _4 > 3; Lego masters _2 > 1; 
 
 
 

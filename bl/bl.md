@@ -173,6 +173,7 @@
 |sweet curse|sweet curse|1|short|corée|<!--  -->
 |ydestiny|ydestiny|15|serie|thailande|                       <!-- 36 -->
 |pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 24 -->
+|nitiman|nitiman|10|serie|thailande|                          <!-- 40 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -214,7 +215,6 @@
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 33 -->
 |friend or lover|friend or lover|4|serie|taiwan|3|              <!-- 34 -->
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 37 -->
-|nitiman|nitiman|12|serie|thailande|7|                          <!-- 40 -->
 |an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 41 -->
 |dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 42 -->
 |stuck on you|stuck on you|8|serie|philippines|2|               <!-- 43 -->
