@@ -3,7 +3,7 @@ title: "Wordcloud"
 output:
   html_document:
     df_print: paged
-    toc: true
+    toc: false
 ---
 ```{r setup, include = FALSE}
 suppressWarnings(source("~/GitHub/ajoutRep/ajoutRep/R/sources.R"))

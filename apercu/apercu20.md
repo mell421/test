@@ -161,9 +161,9 @@ We are not human _1x12(3) Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1
 #### sem 19-10-2020 
 Ben x jim _1x2(1) Boys lockdown _1x2(1) Love in time _1x4(2) We are not human _1x19(7) The voice germany _10x3(1)
 #### sem 26-10-2020 
-Boys lockdown _1x3(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Quien es la mascara _2x3(2) Josephine ange gardien _23x3(2) 
+Boys lockdown _1x3(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Quien es la mascara _2x3(2) 
 #### sem 02-11-2020 
-Swap test _1x3(1) The stranded _1x2(1) Unbag _1x7(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) Josephine ange gardien _23x4(1) 
+Swap test _1x3(1) The stranded _1x2(1) Unbag _1x7(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) 
 #### sem 09-11-2020 
 Lakan _1x3(1) Pogi lang hanap _1x4(1) Unbag _1x8(1) Blood _1x17(1) The good doctor _4x2(1) 
 #### sem 16-11-2020 
@@ -205,7 +205,7 @@ Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1
 #### mois 01-10-2020 
 Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Love in time _1x2(1) Baby _3x2(1) My dear loser edge of 17 _1x2(1) Aggretsuko _3x4(1) 
 #### mois 01-11-2020 
-Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Josephine ange gardien _23x4(3) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Love in time _1x4(2) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
 Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
 
@@ -243,7 +243,7 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * conclu 17/10/20 > We are not human _1 > 11; 
 * conclu 18/10/20 > We are not human _1 > 11; 
 * conclu 19/10/20 > We are not human _1 > 11; Love in time _1 > 1; 
-* conclu 20/10/20 > We are not human _1 > 11; Josephine ange gardien _23 > 2; Love in time _1 > 1; 
+* conclu 20/10/20 > We are not human _1 > 11; Love in time _1 > 1; 
 * conclu 21/10/20 > We are not human _1 > 5; 
 * conclu 22/10/20 > We are not human _1 > 2; 
 * conclu 23/10/20 > We are not human _1 > 2; 
@@ -348,7 +348,7 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * concluBis 17/10/20 > We are not human _1 > 19; 
 * concluBis 18/10/20 > We are not human _1 > 19; 
 * concluBis 19/10/20 > We are not human _1 > 19; Love in time _1 > 3; 
-* concluBis 20/10/20 > We are not human _1 > 19; Josephine ange gardien _23 > 4; Love in time _1 > 3; 
+* concluBis 20/10/20 > We are not human _1 > 19; Love in time _1 > 3; 
 * concluBis 21/10/20 > We are not human _1 > 9; Quien es la mascara _2 > 1; 
 * concluBis 22/10/20 > We are not human _1 > 4; 
 * concluBis 23/10/20 > We are not human _1 > 4; 

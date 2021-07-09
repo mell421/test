@@ -109,7 +109,6 @@ Friend zone 1x3
 Rpdru 9x7
 * Together with me 1x1
 Ghost runner 1x4
-Joséphine ange gardien 23x4
 Capture lover 1x2
 From dusk till dawn 2x3
 * From dusk till dawn 2x1
@@ -131,7 +130,6 @@ Boys lockdown 1x2
 * Swap test 1x1
 Quien es la mascara 2x2
 * Quien es la mascara 2x1
-* Joséphine ange gardien 23x1
 * Ben x jim 1x1
 * Boys lockdown 1x1
 We are not human 1x18
