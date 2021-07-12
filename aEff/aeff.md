@@ -382,11 +382,11 @@
 - 19/03/21 - 474* bt21 vlog _1{0} bt21 original story _1{0} schools out lets date now _1{6} 
 - 20/03/21 - 506* bt21 vlog _1{1} bt21 original story _1{2} schools out lets date now _1{6} 
 - 21/03/21 - 657* bt21 vlog _1{2} bt21 original story _1{4} 
-- 22/03/21 - 672* friend or lover _1{1} 
-- 23/03/21 - 659* friend or lover _1{1} 
-- 24/03/21 - 582* friend or lover _1{1} 
-- 25/03/21 - 195* friend or lover _1{1} 
-- 26/03/21 - 204* friend or lover _1{1} 
+- 22/03/21 - 672* 
+- 23/03/21 - 659* 
+- 24/03/21 - 582* 
+- 25/03/21 - 195* 
+- 26/03/21 - 204* 
 - 27/03/21 - 171* 
 - 28/03/21 - 260* 
 - 29/03/21 - 652* 
@@ -410,8 +410,8 @@
 - 16/04/21 - 360* unbag _1{225} 
 - 17/04/21 - 457* unbag _1{227} 
 - 18/04/21 - 519* unbag _1{229} 
-- 19/04/21 - 276* friend or lover _1{3} 
-- 20/04/21 - 230* survivor au _4{0} friend or lover _1{3} 
+- 19/04/21 - 276* 
+- 20/04/21 - 230* survivor au _4{0} 
 - 21/04/21 - 290* survivor au _4{0} 
 - 22/04/21 - 282* 
 - 23/04/21 - 116* i can see your voice fr _1{0} 
@@ -459,11 +459,11 @@
 - 04/06/21 - 179* beat shazam _4{0} vincenzo _1{2} agt _16{2} drag race esp _1{3} 
 - 05/06/21 - 163* vincenzo _1{4} crime scene kitchen _1{5} beat shazam _4{2} agt _16{4} 
 - 06/06/21 - 182* vincenzo _1{6} crime scene kitchen _1{5} beat shazam _4{2} agt _16{4} drag race esp _1{3} 
-- 07/06/21 - 187* drag race esp _1{4} friend or lover _1{5} vincenzo _1{9} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} 
-- 08/06/21 - 200* drag race esp _1{6} friend or lover _1{7} vincenzo _1{11} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} 
-- 09/06/21 - 204* lego masters _2{0} drag race esp _1{8} friend or lover _1{9} vincenzo _1{13} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} 
-- 10/06/21 - 144* crime scene kitchen _1{7} agt _16{5} lego masters _2{2} drag race esp _1{9} friend or lover _1{10} vincenzo _1{15} beat shazam _4{3} 
-- 11/06/21 - 479* beat shazam _4{3} unbag _1{342} crime scene kitchen _1{9} agt _16{6} lego masters _2{4} drag race esp _1{9} friend or lover _1{10} vincenzo _1{15} 
+- 07/06/21 - 187* drag race esp _1{4} vincenzo _1{9} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} 
+- 08/06/21 - 200* drag race esp _1{6} vincenzo _1{11} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} 
+- 09/06/21 - 204* lego masters _2{0} drag race esp _1{8} vincenzo _1{13} crime scene kitchen _1{7} beat shazam _4{3} agt _16{5} 
+- 10/06/21 - 144* crime scene kitchen _1{7} agt _16{5} lego masters _2{2} drag race esp _1{9} vincenzo _1{15} beat shazam _4{3} 
+- 11/06/21 - 479* beat shazam _4{3} unbag _1{342} crime scene kitchen _1{9} agt _16{6} lego masters _2{4} drag race esp _1{9} vincenzo _1{15} 
 - 12/06/21 - 490* stuck on you _1{0} beat shazam _4{4} unbag _1{344} crime scene kitchen _1{11} agt _16{6} lego masters _2{6} drag race esp _1{9} 
 - 13/06/21 - 505* stuck on you _1{0} beat shazam _4{4} unbag _1{346} crime scene kitchen _1{11} agt _16{6} lego masters _2{8} drag race esp _1{9} 
 - 14/06/21 - 509* drag race esp _1{10} stuck on you _1{1} beat shazam _4{5} unbag _1{349} crime scene kitchen _1{12} agt _16{7} lego masters _2{11} 

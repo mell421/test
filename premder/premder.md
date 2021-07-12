@@ -57,7 +57,6 @@ Elite 4x3
 Dark blue kiss 1x2
 * Stuck on you 1x1
 * Lego masters 2x1
-Friend or lover 1x3
 Vincenzo 1x2
 * Beat shazam 4x1
 * Vincenzo 1x1
@@ -72,7 +71,6 @@ I can see your voice fr 1x2
 Mr lipstick 1x2
 * Mr lipstick 1x1
 Mental 1x5
-* Friend or lover 1x1
 Bt21 vlog 1x3
 * Bt21 vlog 1x1
 * Bt21 original story 1x1

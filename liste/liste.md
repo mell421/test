@@ -384,7 +384,8 @@
 |pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 24 -->
 |skam france 8||10|||<!--  -->
 |nitiman|nitiman|10|serie|thailande|                          <!-- 40 -->
-||||||<!--  -->
+|God shave the queens||8|||<!--  -->
+|friend or lover|friend or lover|4|serie|taiwan|              <!-- 34 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -521,7 +522,6 @@
 |bangkok love stories innocence 1||?|||1|<!--  -->
 |BT21 original story 1||?|||6|<!--  -->
 |BT21 vlog||?|||3|<!--  -->
-|friend or lover||4|||3|<!--  -->
 |mr lipstick 1||?|||2|<!--  -->
 |surv au 4||26|||11|<!--  -->
 |ICSYV FR 1||?|||2|<!--  -->
