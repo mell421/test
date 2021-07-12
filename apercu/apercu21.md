@@ -61,7 +61,7 @@ Tbbt _11x2(1) The untamed _1x4(1) Schools out lets date now _1x3(2) You never ea
 #### sem 15-02-2021 
 Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) Unbag _1x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
 #### sem 22-02-2021 
-Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) Love in time _1x6(2) 
+Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) 
 #### sem 01-03-2021 
 Unbag _1x17(1) 
 #### sem 08-03-2021 
@@ -105,7 +105,7 @@ Unbag _1x13(3) Ghost runner _1x5(4) Friend zone _1x3(1) Capture lover _1x3(1) Fr
 #### mois 01-02-2021 
 Be love _1x4(1) Unbag _1x15(2) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Rpdru _9x8(1) Together with me _1x2(1) 
 #### mois 01-03-2021 
-Unbag _1x17(2) Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Love in time _1x6(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
+Unbag _1x17(2) Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
 #### mois 01-04-2021 
 Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
@@ -345,13 +345,13 @@ The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Unbag _1 >
 * concluBis 13/02/21 > Unbag _1 > 7; The harvest season _1 > 5; We are not human _1 > 4; Wabi show _1 > 1; 
 * concluBis 14/02/21 > Unbag _1 > 7; The harvest season _1 > 5; We are not human _1 > 4; Wabi show _1 > 1; 
 * concluBis 15/02/21 > Unbag _1 > 7; The harvest season _1 > 5; We are not human _1 > 4; Wabi show _1 > 1; 
-* concluBis 16/02/21 > Unbag _1 > 7; We are not human _1 > 4; The harvest season _1 > 3; Tokyo ghoul _3 > 2; Love in time _1 > 1; 
-* concluBis 17/02/21 > Unbag _1 > 7; We are not human _1 > 4; Tokyo ghoul _3 > 3; Love in time _1 > 2; My vampire boyfriend _1 > 1; 
-* concluBis 18/02/21 > My vampire boyfriend _1 > 8; Unbag _1 > 7; We are not human _1 > 4; Tokyo ghoul _3 > 2; Love in time _1 > 1; 
-* concluBis 19/02/21 > My vampire boyfriend _1 > 6; We are not human _1 > 4; Tokyo ghoul _3 > 2; Unbag _1 > 2; Love in time _1 > 1; 
+* concluBis 16/02/21 > Unbag _1 > 7; We are not human _1 > 4; The harvest season _1 > 3; Tokyo ghoul _3 > 2; 
+* concluBis 17/02/21 > Unbag _1 > 7; We are not human _1 > 4; Tokyo ghoul _3 > 3; My vampire boyfriend _1 > 1; 
+* concluBis 18/02/21 > My vampire boyfriend _1 > 8; Unbag _1 > 7; We are not human _1 > 4; Tokyo ghoul _3 > 2; 
+* concluBis 19/02/21 > My vampire boyfriend _1 > 6; We are not human _1 > 4; Tokyo ghoul _3 > 2; Unbag _1 > 2; 
 * concluBis 20/02/21 > My vampire boyfriend _1 > 5; We are not human _1 > 4; Unbag _1 > 2; 
 * concluBis 21/02/21 > My vampire boyfriend _1 > 5; We are not human _1 > 4; Unbag _1 > 2; 
-* concluBis 22/02/21 > My vampire boyfriend _1 > 5; We are not human _1 > 4; Unbag _1 > 2; Love in time _1 > 1; 
+* concluBis 22/02/21 > My vampire boyfriend _1 > 5; We are not human _1 > 4; Unbag _1 > 2; 
 * concluBis 23/02/21 > We are not human _1 > 4; My vampire boyfriend _1 > 2; Unbag _1 > 2; 
 * concluBis 24/02/21 > We are not human _1 > 4; My vampire boyfriend _1 > 3; Unbag _1 > 2; 
 * concluBis 25/02/21 > We are not human _1 > 4; Unbag _1 > 2; 

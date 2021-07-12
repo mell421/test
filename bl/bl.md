@@ -30,7 +30,7 @@
   
 |titre|saison|nb ep vu|
 | --- | --- | :---: | 
-|france|8|8|
+||||
 
 ## usa
 
@@ -175,7 +175,7 @@
 |pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 24 -->
 |nitiman|nitiman|10|serie|thailande|                          <!-- 40 -->
 |friend or lover|friend or lover|4|serie|taiwan|              <!-- 34 -->
-||||||<!--  -->
+|love in time|love in time|9|serie(***)|hong kong|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

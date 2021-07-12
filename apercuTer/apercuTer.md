@@ -536,7 +536,6 @@
 * Mortel _2
 * Tharntype _2
 ### sem 12-07-2021 
-* *insererici*
 * Friend or lover _1
 * God shave the queens _1
 * Nitiman _1
@@ -546,6 +545,7 @@
 * Ydestiny _1
 ### sem 19-07-2021 
 * *insererici*
+* Love in time _1
 ### sem 26-07-2021 
 * *insererici*
 ### sem -08-2021 
@@ -557,40 +557,47 @@
 
 ## bientot
 * Mr lipstick _1
-* Mental _1
 * 
-* Young royals _1
+* 
+* $ nbPcTps $
+* 
+* Mental _1
 * Kaamelott _6
+* Elite _4
+* Tokyo ghoul _3
+* Young royals _1
+* Survivor au _4
+* Glow up _2
 * 
 * Josephine ange gardien _23 (29/12/20)
 * 
 * $ a jour $
-* Elite _4
-* 
-* 
+* Domino challenge _1
 * Drag race esp _1
 * Crime scene kitchen _1
 * The best story _1
 * Stuck on you _1
 * The cube _1
+* Control z _2
 * Beat shazam _4
 * Golden blood _1
 * 46 days _1
+* Drop _1
 * Ahss _1
 * Light on me _1
 * Rpdrasu _6
 * Lego masters _2
 * Rpdras _6
+* Drag race nl _2
 * Ahs _10
 * 
 * $ other $
 * Unbag _1
 * Agt _16
-* 
 * Vincenzo _1
 * Dark blue kiss _1
 * Bt21 original story _1
-* Survivor au _4
+* 
 * 
 
 
@@ -637,7 +644,7 @@
 #### mois 01-07-2021 
 *insererici Precise shot _1 Wtfock _5 Fish upon the sky _1 Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
 #### mois 01-08-2021 
-*insererici Friend or lover _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
+*insererici Love in time _1 Friend or lover _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
 **
 #### mois 01-10-2021 
