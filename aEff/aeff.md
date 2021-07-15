@@ -181,44 +181,44 @@
 - 06/05/21 (eff) - unbag _1{267} bt21 original story _1{34} my vampire boyfriend _1{25} 
 - 07/05/21 (eff) - unbag _1{269} bt21 original story _1{34} my vampire boyfriend _1{25} 
 - 08/05/21 (eff) - unbag _1{271} bt21 original story _1{34} 
-- 09/05/21 (eff) - unbag _1{273} bt21 original story _1{34} survivor au _4{21} 
-- 10/05/21 (eff) - unbag _1{275} bt21 original story _1{34} survivor au _4{24} 
-- 11/05/21 (eff) - unbag _1{277} bt21 original story _1{34} survivor au _4{26} 
-- 12/05/21 (eff) - unbag _1{279} bt21 original story _1{34} survivor au _4{27} 
+- 09/05/21 (eff) - unbag _1{273} bt21 original story _1{34} 
+- 10/05/21 (eff) - unbag _1{275} bt21 original story _1{34} 
+- 11/05/21 (eff) - unbag _1{277} bt21 original story _1{34} 
+- 12/05/21 (eff) - unbag _1{279} bt21 original story _1{34} 
 - 13/05/21 (eff) - unbag _1{281} bt21 original story _1{34} 
-- 14/05/21 (eff) - unbag _1{283} bt21 original story _1{34} survivor au _4{30} 
-- 15/05/21 (eff) - unbag _1{285} bt21 original story _1{34} survivor au _4{32} my vampire boyfriend _1{25} 
-- 16/05/21 (eff) - unbag _1{287} survivor au _4{34} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 17/05/21 (eff) - unbag _1{290} survivor au _4{36} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 18/05/21 (eff) - unbag _1{292} survivor au _4{38} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 19/05/21 (eff) - unbag _1{294} survivor au _4{38} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 20/05/21 (eff) - unbag _1{296} survivor au _4{38} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 21/05/21 (eff) - unbag _1{298} survivor au _4{40} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 22/05/21 (eff) - unbag _1{300} survivor au _4{42} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 23/05/21 (eff) - unbag _1{302} survivor au _4{44} bt21 original story _1{34} my vampire boyfriend _1{25} 
-- 24/05/21 (eff) - unbag _1{304} survivor au _4{47} bt21 original story _1{35} my vampire boyfriend _1{25} 
-- 25/05/21 (eff) - unbag _1{306} survivor au _4{49} bt21 original story _1{35} my vampire boyfriend _1{25} 
-- 26/05/21 (eff) - unbag _1{308} survivor au _4{51} bt21 original story _1{35} my vampire boyfriend _1{25} 
-- 27/05/21 (eff) - unbag _1{310} survivor au _4{53} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 28/05/21 (eff) - unbag _1{312} survivor au _4{55} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 29/05/21 (eff) - unbag _1{314} survivor au _4{57} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 30/05/21 (eff) - unbag _1{316} survivor au _4{59} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 31/05/21 (eff) - unbag _1{319} survivor au _4{61} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 01/06/21 (eff) - unbag _1{322} survivor au _4{64} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 02/06/21 (eff) - unbag _1{324} survivor au _4{66} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 03/06/21 (eff) - unbag _1{326} survivor au _4{68} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 04/06/21 (eff) - unbag _1{328} survivor au _4{69} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 05/06/21 (eff) - unbag _1{330} survivor au _4{70} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 06/06/21 (eff) - unbag _1{332} survivor au _4{71} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 07/06/21 (eff) - unbag _1{334} survivor au _4{72} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 08/06/21 (eff) - unbag _1{336} survivor au _4{73} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 09/06/21 (eff) - unbag _1{338} survivor au _4{74} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 10/06/21 (eff) - unbag _1{340} survivor au _4{75} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 11/06/21 (eff) - unbag _1{342} survivor au _4{76} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 12/06/21 (eff) - unbag _1{344} survivor au _4{77} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 13/06/21 (eff) - unbag _1{346} survivor au _4{78} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 14/06/21 (eff) - unbag _1{349} survivor au _4{79} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 15/06/21 (eff) - unbag _1{351} survivor au _4{80} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 14/05/21 (eff) - unbag _1{283} bt21 original story _1{34} 
+- 15/05/21 (eff) - unbag _1{285} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 16/05/21 (eff) - unbag _1{287} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 17/05/21 (eff) - unbag _1{290} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 18/05/21 (eff) - unbag _1{292} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 19/05/21 (eff) - unbag _1{294} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 20/05/21 (eff) - unbag _1{296} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 21/05/21 (eff) - unbag _1{298} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 22/05/21 (eff) - unbag _1{300} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 23/05/21 (eff) - unbag _1{302} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 24/05/21 (eff) - unbag _1{304} bt21 original story _1{35} my vampire boyfriend _1{25} 
+- 25/05/21 (eff) - unbag _1{306} bt21 original story _1{35} my vampire boyfriend _1{25} 
+- 26/05/21 (eff) - unbag _1{308} bt21 original story _1{35} my vampire boyfriend _1{25} 
+- 27/05/21 (eff) - unbag _1{310} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 28/05/21 (eff) - unbag _1{312} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 29/05/21 (eff) - unbag _1{314} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 30/05/21 (eff) - unbag _1{316} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 31/05/21 (eff) - unbag _1{319} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 01/06/21 (eff) - unbag _1{322} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 02/06/21 (eff) - unbag _1{324} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 03/06/21 (eff) - unbag _1{326} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 04/06/21 (eff) - unbag _1{328} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 05/06/21 (eff) - unbag _1{330} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 06/06/21 (eff) - unbag _1{332} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 07/06/21 (eff) - unbag _1{334} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 08/06/21 (eff) - unbag _1{336} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 09/06/21 (eff) - unbag _1{338} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 10/06/21 (eff) - unbag _1{340} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 11/06/21 (eff) - unbag _1{342} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 12/06/21 (eff) - unbag _1{344} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 13/06/21 (eff) - unbag _1{346} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 14/06/21 (eff) - unbag _1{349} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 15/06/21 (eff) - unbag _1{351} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
 
 
 
@@ -411,28 +411,28 @@
 - 17/04/21 - 457* unbag _1{227} 
 - 18/04/21 - 519* unbag _1{229} 
 - 19/04/21 - 276* 
-- 20/04/21 - 230* survivor au _4{0} 
-- 21/04/21 - 290* survivor au _4{0} 
+- 20/04/21 - 230* 
+- 21/04/21 - 290* 
 - 22/04/21 - 282* 
 - 23/04/21 - 116* i can see your voice fr _1{0} 
 - 24/04/21 - 140* i can see your voice fr _1{0} 
 - 25/04/21 - 224* 
 - 26/04/21 - 180* 
-- 27/04/21 - 639* survivor au _4{1} 
-- 28/04/21 - 764* survivor au _4{3} 
-- 29/04/21 - 763* survivor au _4{4} 
+- 27/04/21 - 639* 
+- 28/04/21 - 764* 
+- 29/04/21 - 763* 
 - 30/04/21 - 1045* unbag _1{253} 
 - 01/05/21 - 942* unbag _1{256} 
 - 02/05/21 - 449* unbag _1{258} 
 - 03/05/21 - 648* 
-- 04/05/21 - 757* survivor au _4{12} 
-- 05/05/21 - 806* survivor au _4{13} 
-- 06/05/21 - 846* survivor au _4{15} 
+- 04/05/21 - 757* 
+- 05/05/21 - 806* 
+- 06/05/21 - 846* 
 - 07/05/21 - 857* 
 - 08/05/21 - 190* 
-- 09/05/21 - 179* survivor au _4{21} 
-- 10/05/21 - 709* survivor au _4{24} 
-- 11/05/21 - 827* survivor au _4{26} 
+- 09/05/21 - 179* 
+- 10/05/21 - 709* 
+- 11/05/21 - 827* 
 - 12/05/21 - 852* 
 - 13/05/21 - 849* 
 - 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} 
@@ -441,8 +441,8 @@
 - 17/05/21 - 645* 
 - 18/05/21 - 790* 
 - 19/05/21 - 833* an eye for an eye _1{0} 
-- 20/05/21 - 909* bt21 original story _1{34} survivor au _4{38} an eye for an eye _1{0} 
-- 21/05/21 - 771* bt21 original story _1{34} survivor au _4{40} an eye for an eye _1{0} 
+- 20/05/21 - 909* bt21 original story _1{34} an eye for an eye _1{0} 
+- 21/05/21 - 771* bt21 original story _1{34} an eye for an eye _1{0} 
 - 22/05/21 - 761* 
 - 23/05/21 - 658* 
 - 24/05/21 - 659* 

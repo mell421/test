@@ -3,7 +3,7 @@
 ./0date.sh
 ./0supprZ.sh
 
-list=( "Unbag _1" "Survivor au _4" # >= 100
+list=( "Unbag _1" # >= 100
 "" # 99 - 50
 "Bt21 original story _1" # 49 - 40
 "Drag race esp _1" "Crime scene kitchen _1" # 39 - 30
@@ -30,7 +30,7 @@ list2=( "Young royals _1" "Marble mania _1" "Siew sum noi _1" "An eye for an eye
 
 # nb bis
 list99=( "Unbag _1" # >= 200
-"Survivor au _4" "Bt21 original story _1" "My vampire boyfriend _1" # 199-100
+"Bt21 original story _1" "My vampire boyfriend _1" # 199-100
 "Crime scene kitchen _1" "Drag race esp _1" "The harvest season _1" "Lego masters _2" "Beat shazam _4" # 99-50
 "Vincenzo _1" "Agt _16" "" # 49-40
 "Koishite akuma _1" "Be love _1" "Kaamelott _6" "The cube _1" "Stuck on you _1" "" # 39-30

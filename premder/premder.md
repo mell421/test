@@ -23,7 +23,6 @@ Camping paradis 12x2
 ### tisaep all
 * $
 $
-Survivor au 4x17
 Drag race esp 1x7
 * Glow up 2x1
 /46 days 1x2
@@ -72,7 +71,6 @@ Vincenzo 1x2
 * An eye for an eye 1x1
 I can see your voice fr 1x2
 * I can see your voice fr 1x1
-* Survivor au 4x1
 Mr lipstick 1x2
 * Mr lipstick 1x1
 Mental 1x5
