@@ -9,7 +9,7 @@ list=( "Unbag _1" # >= 100
 "Drag race esp _1" "Crime scene kitchen _1" # 39 - 30
 "My vampire boyfriend _1" "Lego masters _2" "Kaamelott _6" # 29 - 20
 "Beat shazam _4" "Agt _16" "The cube _1" "Rpdrasu _6" "Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
-"Light on me _1" "Rpdras _6" "Mental _1" "Stuck on you _1" "Bt21 vlog _1" "Wabi show _1" ) # 14 - 10
+"Light on me _1" "Rpdras _6" "Stuck on you _1" "Bt21 vlog _1" "Wabi show _1" ) # 14 - 10
 
 # entre 9 et 3
 listBis=( "" # 9
@@ -35,7 +35,7 @@ list99=( "Unbag _1" # >= 200
 "Vincenzo _1" "Agt _16" "" # 49-40
 "Koishite akuma _1" "Be love _1" "Kaamelott _6" "The cube _1" "Stuck on you _1" "" # 39-30
 "Rpdrasu _6" "Elite _4" "Rpdras _6" "" # 29-20
-"Schools out lets date now _1" "Light on me _1" "You never eat alone _1" "Mental _1" "" # 19-15
+"Schools out lets date now _1" "Light on me _1" "You never eat alone _1" "" # 19-15
 "Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Tokyo ghoul _3" "The shipper _1" "Golden blood _1" "" # 14-10
 "Drop _1" "I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9
 "Unlocked _1" "The untamed _1" "" # 8

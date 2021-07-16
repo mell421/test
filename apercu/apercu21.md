@@ -73,7 +73,7 @@ Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(1)
 #### sem 29-03-2021 
 
 #### sem 05-04-2021 
-Mental _1x6(2) Unbag _1x19(1) 
+Unbag _1x19(1) 
 #### sem 12-04-2021 
 Mr lipstick _1x3(2) Bt21 original story _1x8(1) 
 #### sem 19-04-2021 
@@ -109,7 +109,7 @@ Unbag _1x17(2) Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone
 #### mois 01-04-2021 
 Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
-Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
+Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) 
 #### mois 01-06-2021 
 Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(2) Crime scene kitchen _1x2(1) Bt21 original story _1x9(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 
@@ -216,7 +216,7 @@ Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(2) Crime scene kitchen 
 * conclu 02/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 03/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 04/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
-* conclu 05/04/21 > Unbag _1 > 5; Mental _1 > 1; We are not human _1 > 1; 
+* conclu 05/04/21 > Unbag _1 > 5; We are not human _1 > 1; 
 * conclu 06/04/21 > Unbag _1 > 4; Bt21 original story _1 > 1; 
 * conclu 07/04/21 > Unbag _1 > 4; Bt21 original story _1 > 1; We are not human _1 > 1; 
 * conclu 08/04/21 > Unbag _1 > 4; Bt21 original story _1 > 1; We are not human _1 > 1; 
@@ -390,10 +390,10 @@ The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Unbag _1 >
 * concluBis 30/03/21 > We are not human _1 > 4; Unbag _1 > 3; 
 * concluBis 31/03/21 > We are not human _1 > 4; Unbag _1 > 3; 
 * concluBis 01/04/21 > We are not human _1 > 4; Unbag _1 > 3; 
-* concluBis 02/04/21 > Unbag _1 > 8; We are not human _1 > 3; Mental _1 > 1; 
+* concluBis 02/04/21 > Unbag _1 > 8; We are not human _1 > 3; 
 * concluBis 03/04/21 > Unbag _1 > 8; We are not human _1 > 3; 
-* concluBis 04/04/21 > Unbag _1 > 8; We are not human _1 > 3; Mental _1 > 2; 
-* concluBis 05/04/21 > Unbag _1 > 9; Mental _1 > 3; We are not human _1 > 3; 
+* concluBis 04/04/21 > Unbag _1 > 8; We are not human _1 > 3; 
+* concluBis 05/04/21 > Unbag _1 > 9; We are not human _1 > 3; 
 * concluBis 06/04/21 > Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Mr lipstick _1 > 1; 
 * concluBis 07/04/21 > Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Mr lipstick _1 > 1; 
 * concluBis 08/04/21 > Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; 

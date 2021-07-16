@@ -213,9 +213,9 @@ Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1)
 #### sem 11-11-2019 
 Teotfw _2x4(3) The l word _1x5(1) 
 #### sem 18-11-2019 
-Hsmtmts _1x2(1) Mental _1x2(1) 
+Hsmtmts _1x2(1) 
 #### sem 25-11-2019 
-Hsmtmts _1x3(1) Mental _1x3(1) 
+Hsmtmts _1x3(1) 
 #### sem 02-12-2019 
 Ga _2x15(1) New amsterdam _1x4(1) 
 #### sem 09-12-2019 
@@ -252,7 +252,7 @@ Dare me _1x2(1) Vwars _1x6(2) Ninja warrior junior us _2x5(2) Prodigal son _1x5(
 #### sem 30-03-2020 
 Les ratz _1x2(1) Why women kill _1x2(1) 
 #### sem 06-04-2020 
-Why women kill _1x4(2) The office _1x3(2) Community _1x3(1) Mental _1x4(1) Ninja warrior junior us _2x7(2) 
+Why women kill _1x4(2) The office _1x3(2) Community _1x3(1) Ninja warrior junior us _2x7(2) 
 #### sem 13-04-2020 
 Hsmtmts _1x4(1) Only connect _15x25(1) Les ratz _1x3(1) Bloodride _1x2(1) Ahs _9x5(1) 
 #### sem 20-04-2020 
@@ -353,7 +353,7 @@ Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(1)
 #### sem 29-03-2021 
 
 #### sem 05-04-2021 
-Mental _1x6(2) Unbag _1x19(1) 
+Unbag _1x19(1) 
 #### sem 12-04-2021 
 Mr lipstick _1x3(2) Bt21 original story _1x8(1) 
 #### sem 19-04-2021 
@@ -400,7 +400,7 @@ La mas draga _1x2(1) The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(2) Cri
 #### mois 01-11-2019 
 Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) We are not human _1x9(8) The politician _1x5(2) Skam vsg _1x5(1) Prodigal son _1x3(1) Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) La mas draga _1x3(1) Dawson _1x2(1) 
 #### mois 01-12-2019 
-Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) Mental _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 
+Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 
 #### mois 01-01-2020 
 Zerosterone _1x5(4) Supergirl _1x10(2) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) Here and now _1x4(1) Magic for humans _2x2(1) New amsterdam _1x8(4) Forever knight _1x8(7) Vwars _1x4(3) Sam & cat _1x21(1) 
 #### mois 01-02-2020 
@@ -408,9 +408,9 @@ Ragnarok _1x2(1) Only connect _15x20(3) Orange marmelade _1x7(1) Gossip girl _1x
 #### mois 01-03-2020 
 Ninja warrior junior us _2x2(1) Jeopardy _32x159(2) I am not okay with this _1x2(1) Ragnarok _1x3(2) /3% _3x4(1) Imortal _1x11(4) Only connect _15x22(2) Next in fashion _1x2(1) The masked singer nl _1x2(1) 
 #### mois 01-04-2020 
-Mental _1x4(1) Ninja warrior junior us _2x7(5) Why women kill _1x3(2) Les ratz _1x2(1) Dare me _1x2(1) Vwars _1x6(2) Prodigal son _1x5(2) Kingdom _2x2(1) Only connect _15x24(2) Breaking bad _4x8(1) I am not okay with this _1x4(2) Castlevania _3x2(1) 
+Ninja warrior junior us _2x7(5) Why women kill _1x3(2) Les ratz _1x2(1) Dare me _1x2(1) Vwars _1x6(2) Prodigal son _1x5(2) Kingdom _2x2(1) Only connect _15x24(2) Breaking bad _4x8(1) I am not okay with this _1x4(2) Castlevania _3x2(1) 
 #### mois 01-05-2020 
-Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) All for one _2x4(1) Forever knight _1x10(1) Les ratz _1x5(3) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) Hsmtmts _1x4(1) Only connect _15x25(1) Bloodride _1x2(1) Ahs _9x5(1) Why women kill _1x4(1) The office _1x3(2) Community _1x3(1) Mental _1x4(1) 
+Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) All for one _2x4(1) Forever knight _1x10(1) Les ratz _1x5(3) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) Hsmtmts _1x4(1) Only connect _15x25(1) Bloodride _1x2(1) Ahs _9x5(1) Why women kill _1x4(1) The office _1x3(2) Community _1x3(1) 
 #### mois 01-06-2020 
 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) 
 #### mois 01-07-2020 
@@ -434,7 +434,7 @@ Unbag _1x17(2) Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone
 #### mois 01-04-2021 
 Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 #### mois 01-05-2021 
-Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) Mental _1x6(2) 
+Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) 
 #### mois 01-06-2021 
 Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(2) Crime scene kitchen _1x2(1) Bt21 original story _1x9(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 
@@ -645,7 +645,7 @@ Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(2) Crime scene kitchen 
 * conclu 02/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 03/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 04/04/21 > Unbag _1 > 4; We are not human _1 > 1; 
-* conclu 05/04/21 > Unbag _1 > 5; Mental _1 > 1; We are not human _1 > 1; 
+* conclu 05/04/21 > Unbag _1 > 5; We are not human _1 > 1; 
 * conclu 06/04/21 > Unbag _1 > 4; Bt21 original story _1 > 1; 
 * conclu 07/04/21 > Unbag _1 > 4; Bt21 original story _1 > 1; We are not human _1 > 1; 
 * conclu 08/04/21 > Unbag _1 > 4; Bt21 original story _1 > 1; We are not human _1 > 1; 
@@ -920,10 +920,10 @@ Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(2) Crime scene kitchen 
 * concluBis 30/03/21 > We are not human _1 > 4; Unbag _1 > 3; 
 * concluBis 31/03/21 > We are not human _1 > 4; Unbag _1 > 3; 
 * concluBis 01/04/21 > We are not human _1 > 4; Unbag _1 > 3; 
-* concluBis 02/04/21 > Unbag _1 > 8; We are not human _1 > 3; Mental _1 > 1; 
+* concluBis 02/04/21 > Unbag _1 > 8; We are not human _1 > 3; 
 * concluBis 03/04/21 > Unbag _1 > 8; We are not human _1 > 3; 
-* concluBis 04/04/21 > Unbag _1 > 8; We are not human _1 > 3; Mental _1 > 2; 
-* concluBis 05/04/21 > Unbag _1 > 9; Mental _1 > 3; We are not human _1 > 3; 
+* concluBis 04/04/21 > Unbag _1 > 8; We are not human _1 > 3; 
+* concluBis 05/04/21 > Unbag _1 > 9; We are not human _1 > 3; 
 * concluBis 06/04/21 > Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Mr lipstick _1 > 1; 
 * concluBis 07/04/21 > Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; Mr lipstick _1 > 1; 
 * concluBis 08/04/21 > Unbag _1 > 8; Bt21 original story _1 > 3; We are not human _1 > 3; 

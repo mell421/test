@@ -71,7 +71,6 @@ I can see your voice fr 1x2
 * I can see your voice fr 1x1
 Mr lipstick 1x2
 * Mr lipstick 1x1
-Mental 1x5
 Bt21 vlog 1x3
 * Bt21 vlog 1x1
 * Bt21 original story 1x1
@@ -231,7 +230,6 @@ New amsterdam 1x7
 * Vwars 1x1
 Sam & cat 1x20
 * Hsmtmts 1x1
-* Mental 1x1
 Teotfw 2x3
 * Teotfw 2x1
 The l word 1x4
