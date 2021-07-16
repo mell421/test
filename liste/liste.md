@@ -388,6 +388,7 @@
 |friend or lover|friend or lover|4|serie|taiwan|              <!-- 34 -->
 |love in time 1||9|||<!--  -->
 |surv au 4||27|||<!--  -->
+|domino challenge 1||4|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -541,7 +542,6 @@
 |golden blood 1||8|||2|<!--  -->
 |RPDRAS 6||12|||3|<!-- 22/5 -->
 |RPDRASU 6||10|||3|<!-- 22/5 -->
-|domino challenge 1||4|||2|<!--  -->
 |marble mania 1||?|||1|<!--  -->
 |drop 1||8|||2|<!--  -->
 |light on me 1||16|||2|<!--  -->

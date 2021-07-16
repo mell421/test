@@ -30,7 +30,6 @@ Stuck on you 1x5
 * The best story 1x1
 Zombie detective 1x2
 Beat shazam 4x6
-Domino challenge 1x3
 Unbag 1x25
 Light on me 1x4
 Rpdrasu 6x4
@@ -49,7 +48,6 @@ Bt21 original story 1x9
 * Light on me 1x1
 * Drop 1x1
 * Marble mania 1x1
-* Domino challenge 1x1
 * Rpdrasu 6x1
 * Rpdras 6x1
 * Golden blood 1x1
