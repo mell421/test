@@ -240,9 +240,7 @@ The politician 1x4
 Skam vsg 1x4
 * Community 1x1
 * Two pints of lager 3x1
-La mas draga 1x2
 * Dawson 1x1
-* La mas draga 1x1
 * Prodigal son 1x1
 * The politician 1x1
 * Criminal uk 1x1
