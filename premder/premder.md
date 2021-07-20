@@ -99,7 +99,6 @@ Koishite akuma 1x3
 * Romantic blue 1x1
 * Unlocked 1x1
 Friend zone 1x3
-Rpdru 9x7
 * Together with me 1x1
 Ghost runner 1x4
 Capture lover 1x2

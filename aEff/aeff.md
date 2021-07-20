@@ -57,42 +57,42 @@
 - 02/01/21 - unbag _1{44} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
 - 03/01/21 - unbag _1{46} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
 - 04/01/21 - unbag _1{49} from dusk till dawn _2{15} ghost runner _1{9} 
-- 05/01/21 - unbag _1{51} from dusk till dawn _2{15} ghost runner _1{10} rpdru _9{8} 
-- 06/01/21 - unbag _1{53} ghost runner _1{11} rpdru _9{10} 
-- 07/01/21 - unbag _1{55} rpdru _9{12} ghost runner _1{11} 
-- 08/01/21 - unbag _1{57} from dusk till dawn _2{15} rpdru _9{14} ghost runner _1{11} 
-- 09/01/21 - unbag _1{57} rpdru _9{16} from dusk till dawn _2{15} ghost runner _1{11} 
-- 10/01/21 - unbag _1{57} rpdru _9{18} ghost runner _1{11} 
-- 11/01/21 - unbag _1{58} rpdru _9{20} ghost runner _1{11} 
-- 12/01/21 - unbag _1{58} rpdru _9{20} from dusk till dawn _2{15} ghost runner _1{11} 
-- 13/01/21 - unbag _1{59} rpdru _9{22} from dusk till dawn _2{15} 
-- 14/01/21 - unbag _1{60} rpdru _9{22} 
-- 15/01/21 - unbag _1{61} rpdru _9{22} 
-- 16/01/21 - unbag _1{63} rpdru _9{22} ghost runner _1{11} 
-- 17/01/21 - unbag _1{65} rpdru _9{22} 
-- 18/01/21 - unbag _1{68} rpdru _9{22} 
-- 19/01/21 - unbag _1{70} rpdru _9{22} 
-- 20/01/21 - unbag _1{72} rpdru _9{22} 
-- 21/01/21 - unbag _1{74} rpdru _9{22} 
-- 22/01/21 - unbag _1{76} rpdru _9{22} from dusk till dawn _2{15} 
-- 23/01/21 - unbag _1{77} rpdru _9{22} koishite akuma _1{11} 
-- 24/01/21 - unbag _1{78} rpdru _9{22} from dusk till dawn _2{15} koishite akuma _1{13} 
-- 25/01/21 - unbag _1{79} rpdru _9{22} koishite akuma _1{15} 
-- 26/01/21 - unbag _1{80} rpdru _9{22} koishite akuma _1{15} 
-- 27/01/21 - unbag _1{81} rpdru _9{22} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 28/01/21 - unbag _1{82} rpdru _9{22} koishite akuma _1{15} 
-- 29/01/21 - unbag _1{83} rpdru _9{22} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 30/01/21 - unbag _1{85} rpdru _9{22} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 31/01/21 - unbag _1{87} rpdru _9{22} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 01/02/21 - unbag _1{91} rpdru _9{23} koishite akuma _1{16} 
-- 02/02/21 - unbag _1{93} rpdru _9{23} koishite akuma _1{16} 
-- 03/02/21 - unbag _1{95} rpdru _9{23} koishite akuma _1{16} 
-- 04/02/21 - unbag _1{97} rpdru _9{23} 
-- 05/02/21 - unbag _1{99} rpdru _9{23} 
-- 06/02/21 - unbag _1{100} rpdru _9{23} koishite akuma _1{16} 
-- 07/02/21 - unbag _1{101} rpdru _9{23} koishite akuma _1{16} 
-- 08/02/21 - unbag _1{102} rpdru _9{23} koishite akuma _1{16} 
-- 09/02/21 - unbag _1{103} rpdru _9{23} koishite akuma _1{16} 
+- 05/01/21 - unbag _1{51} from dusk till dawn _2{15} ghost runner _1{10} 
+- 06/01/21 - unbag _1{53} ghost runner _1{11} 
+- 07/01/21 - unbag _1{55} ghost runner _1{11} 
+- 08/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
+- 09/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
+- 10/01/21 - unbag _1{57} ghost runner _1{11} 
+- 11/01/21 - unbag _1{58} ghost runner _1{11} 
+- 12/01/21 - unbag _1{58} from dusk till dawn _2{15} ghost runner _1{11} 
+- 13/01/21 - unbag _1{59} from dusk till dawn _2{15} 
+- 14/01/21 - unbag _1{60} 
+- 15/01/21 - unbag _1{61} 
+- 16/01/21 - unbag _1{63} ghost runner _1{11} 
+- 17/01/21 - unbag _1{65} 
+- 18/01/21 - unbag _1{68} 
+- 19/01/21 - unbag _1{70} 
+- 20/01/21 - unbag _1{72} 
+- 21/01/21 - unbag _1{74} 
+- 22/01/21 - unbag _1{76} from dusk till dawn _2{15} 
+- 23/01/21 - unbag _1{77} koishite akuma _1{11} 
+- 24/01/21 - unbag _1{78} from dusk till dawn _2{15} koishite akuma _1{13} 
+- 25/01/21 - unbag _1{79} koishite akuma _1{15} 
+- 26/01/21 - unbag _1{80} koishite akuma _1{15} 
+- 27/01/21 - unbag _1{81} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 28/01/21 - unbag _1{82} koishite akuma _1{15} 
+- 29/01/21 - unbag _1{83} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 30/01/21 - unbag _1{85} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 31/01/21 - unbag _1{87} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 01/02/21 - unbag _1{91} koishite akuma _1{16} 
+- 02/02/21 - unbag _1{93} koishite akuma _1{16} 
+- 03/02/21 - unbag _1{95} koishite akuma _1{16} 
+- 04/02/21 - unbag _1{97} 
+- 05/02/21 - unbag _1{99} 
+- 06/02/21 - unbag _1{100} koishite akuma _1{16} 
+- 07/02/21 - unbag _1{101} koishite akuma _1{16} 
+- 08/02/21 - unbag _1{102} koishite akuma _1{16} 
+- 09/02/21 - unbag _1{103} koishite akuma _1{16} 
 - 10/02/21 - unbag _1{104} koishite akuma _1{16} 
 - 11/02/21 - unbag _1{105} koishite akuma _1{16} 
 - 12/02/21 - unbag _1{106} 
@@ -305,10 +305,10 @@
 - 01/01/21 - 105* unbag _1{42} ghost runner _1{6} friend zone _1{5} 
 - 02/01/21 - 75* the shipper _1{2} unbag _1{44} ghost runner _1{7} 
 - 03/01/21 - 22* together with me _1{0} the shipper _1{2} 
-- 04/01/21 - 72* rpdru _9{6} together with me _1{1} 
-- 05/01/21 - 81* rpdru _9{8} together with me _1{1} 
-- 06/01/21 - 78* friend zone _1{6} rpdru _9{10} together with me _1{1} 
-- 07/01/21 - 100* friend zone _1{8} rpdru _9{12} 
+- 04/01/21 - 72* together with me _1{1} 
+- 05/01/21 - 81* together with me _1{1} 
+- 06/01/21 - 78* friend zone _1{6} together with me _1{1} 
+- 07/01/21 - 100* friend zone _1{8} 
 - 08/01/21 - 60* unlocked _1{0} friend zone _1{8} 
 - 09/01/21 - 87* unlocked _1{0} 
 - 10/01/21 - 82* romantic blue _1{0} 

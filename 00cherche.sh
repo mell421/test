@@ -51,7 +51,7 @@ list99=( "Unbag _1" # >= 200
 
 
 
-listOld=( "Be love _1" "Tien bromance _1" "Ben x jim _1" "Koishite akuma _1" "Warper series _1" "Romantic blue _1" "Friend zone _1" "Rpdru _9" 
+listOld=( "Be love _1" "Tien bromance _1" "Ben x jim _1" "Koishite akuma _1" "Warper series _1" "Romantic blue _1" "Friend zone _1" 
 "Together with me _1" "Ghost runner _1" "Capture lover _1" "From dusk till dawn _2" "Lakan _1" 
 "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" "Blood _1" "The good doctor _4" "Swap test _1" "The stranded _1" 
 "Friend forever _1" "Boys lockdown _1" )
