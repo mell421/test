@@ -34,7 +34,6 @@ Unbag 1x25
 Light on me 1x4
 Rpdrasu 6x4
 Rpdras 6x4
-Crime scene kitchen 1x7
 Golden blood 1x3
 * /46 days 1x1
 Agt 16x6
@@ -65,7 +64,6 @@ Vincenzo 1x2
 * Agt 16x1
 * Drag race esp 1x1
 * Dark blue kiss 1x1
-* Crime scene kitchen 1x1
 * An eye for an eye 1x1
 I can see your voice fr 1x2
 * I can see your voice fr 1x1

@@ -6,7 +6,7 @@
 list=( "Unbag _1" # >= 100
 "" # 99 - 50
 "Bt21 original story _1" # 49 - 40
-"Drag race esp _1" "Crime scene kitchen _1" # 39 - 30
+"Drag race esp _1" # 39 - 30
 "My vampire boyfriend _1" "Lego masters _2" "Kaamelott _6" # 29 - 20
 "Beat shazam _4" "Agt _16" "The cube _1" "Rpdrasu _6" "Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
 "Light on me _1" "Rpdras _6" "Stuck on you _1" "Bt21 vlog _1" "Wabi show _1" ) # 14 - 10
@@ -31,7 +31,7 @@ list2=( "Young royals _1" "Marble mania _1" "Siew sum noi _1" "An eye for an eye
 # nb bis
 list99=( "Unbag _1" # >= 200
 "Bt21 original story _1" "My vampire boyfriend _1" # 199-100
-"Crime scene kitchen _1" "Drag race esp _1" "The harvest season _1" "Lego masters _2" "Beat shazam _4" # 99-50
+"Drag race esp _1" "The harvest season _1" "Lego masters _2" "Beat shazam _4" # 99-50
 "Vincenzo _1" "Agt _16" "" # 49-40
 "Koishite akuma _1" "Be love _1" "Kaamelott _6" "The cube _1" "Stuck on you _1" "" # 39-30
 "Rpdrasu _6" "Elite _4" "Rpdras _6" "" # 29-20
