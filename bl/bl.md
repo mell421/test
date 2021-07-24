@@ -176,6 +176,7 @@
 |nitiman|nitiman|10|serie|thailande|                          <!-- 40 -->
 |friend or lover|friend or lover|4|serie|taiwan|              <!-- 34 -->
 |love in time|love in time|9|serie(***)|hong kong|<!--  -->
+|the best story|the best story|3|serie|thailande|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -217,12 +218,12 @@
 |mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 37 -->
 |an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 41 -->
 |dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 42 -->
-|stuck on you|stuck on you|8|serie|philippines|2|               <!-- 43 -->
+|stuck on you|stuck on you|8|serie|philippines|6|               <!-- 43 -->
 |siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 44 -->
-|golden blood|golden blood|8|serie|thailande|2|<!--  -->
-|light on me|light on me|16|serie|corée|3|<!-- 29/6 -->
-|||||||<!--  -->
-|||||||<!--  -->
+|golden blood|golden blood|8|serie|thailande|5|<!--  -->
+|light on me|light on me|16|serie|corée|8|<!-- 29/6 -->
+|46 days|46 days|18|serie(**)|thailande|6|<!-- 7/7 -->
+|given 2021|given 2021|6|serie|japon|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -235,7 +236,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |bad buddy|bad buddy|12|serie|thailande|0|<!-- -->
-|46 days|46 days|?|serie(**)|thailande|0|<!-- 7/7 -->
 |deep|deep|?|film(***)|thailande|0|<!-- 16/7 -->
 |gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
 |||||||<!--  -->
@@ -286,7 +286,6 @@
 |color rush 2|color rush 2|?|serie|corée|0|<!--  -->
 |wheel of love 2||?|serie|philippines|0|<!--  -->
 |my lascivious boss 2||?|serie|vietnam|0|<!--  -->
-|given 1.5|given movie|1|film|japon|0|<!--  -->
 |history 4.2||10|serie|taiwan|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -322,7 +321,6 @@
 |kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
 |middle love|middle love|?|serie|thailande|0|<!-- MII2 -->
 |love stage|love stage|?|serie|thailande|0|<!-- kaowbo -->
-|bite me|bite me|?|serie|thailande|0|<!--  -->
 |mr tuxedo|mr tuxedo|?|serie|thailande|0|<!--  -->
 |make a wish|make a wish|?|serie|thailande|0|<!--  -->
 |bite me|bite me|?|serie|thailande|0|<!--  -->

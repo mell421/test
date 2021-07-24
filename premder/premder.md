@@ -27,7 +27,6 @@ Drag race esp 1x7
 * Glow up 2x1
 /46 days 1x2
 Stuck on you 1x5
-* The best story 1x1
 Zombie detective 1x2
 Beat shazam 4x6
 Unbag 1x25

@@ -552,6 +552,7 @@
 * Love in time _1
 ### sem 26-07-2021 
 * *insererici*
+* The best story _1
 * Crime scene kitchen _1
 * Rpdru _9
 * La mas draga _2
@@ -582,7 +583,7 @@
 * 
 * Drag race esp _1
 * 
-* The best story _1
+* 
 * Stuck on you _1
 * The cube _1
 * Control z _2
@@ -651,7 +652,7 @@
 #### mois 01-07-2021 
 *insererici Precise shot _1 Wtfock _5 Fish upon the sky _1 Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
 #### mois 01-08-2021 
-*insererici Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 Friend or lover _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
+*insererici The best story _1 Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 Friend or lover _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
 **
 #### mois 01-10-2021 
