@@ -23,25 +23,36 @@ Camping paradis 12x2
 ### tisaep all
 * $
 $
-Drag race esp 1x7
+* La mas draga 3x1
+Beat shazam 4x8
+/46 days 1x6
+Rpdrasu 6x6
+Unbag 1x26
+Survivor 40x5
+Ahss 1x3
+Rpdras 6x6
+Light on me 1x8
+Golden blood 1x5
+Survivor au 5x9
+Agt 16x8
+Drop 1x4
+Lego masters 2x6
+Survivor au 8x3
+Camping paradis 12x3
+Kaamelott 6x5
+Stuck on you 1x6
+* Survivor au 8x1
+* Survivor au 5x1
+* Given 2021 1x1
+Good singers 1x3
+The cube 1x6
+* Ahss 1x1
+Josephine ange gardien 24x1
 * Glow up 2x1
-/46 days 1x2
-Stuck on you 1x5
 Zombie detective 1x2
-Beat shazam 4x6
-Unbag 1x25
-Light on me 1x4
-Rpdrasu 6x4
-Rpdras 6x4
-Golden blood 1x3
 * /46 days 1x1
-Agt 16x6
-Lego masters 2x5
-Drop 1x2
 * Young royals 1x1
 * Camping paradis 12x1
-Kaamelott 6x4
-The cube 1x4
 Bt21 original story 1x9
 * Light on me 1x1
 * Drop 1x1
@@ -61,7 +72,6 @@ Vincenzo 1x2
 * Beat shazam 4x1
 * Vincenzo 1x1
 * Agt 16x1
-* Drag race esp 1x1
 * Dark blue kiss 1x1
 * An eye for an eye 1x1
 I can see your voice fr 1x2
@@ -134,7 +144,6 @@ Aggretsuko 3x3
 * Aggretsuko 3x1
 So much in love 1x2
 * Blacklist series 1x1
-Good singers 1x2
 * So much in love 1x1
 * Survivor 40x1
 The office 1x4

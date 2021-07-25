@@ -369,11 +369,11 @@ Unbag _1x22(1) I can see your voice fr _1x3(1)
 #### sem 24-05-2021 
 Bt21 original story _1x9(1) An eye for an eye _1x2(1) 
 #### sem 31-05-2021 
-Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(1) 
+Dark blue kiss _1x2(1) Unbag _1x23(1) 
 #### sem 07-06-2021 
-Drag race esp _1x3(1) Vincenzo _1x3(2) Beat shazam _4x2(1) Agt _16x2(1) 
+Vincenzo _1x3(2) Beat shazam _4x2(1) Agt _16x2(1) 
 #### sem 14-06-2021 
-Drag race esp _1x4(1) Stuck on you _1x2(1) Beat shazam _4x3(1) Unbag _1x24(1) Agt _16x3(1) Lego masters _2x3(2) 
+Stuck on you _1x2(1) Beat shazam _4x3(1) Unbag _1x24(1) Agt _16x3(1) Lego masters _2x3(2) 
 
 
 
@@ -436,7 +436,7 @@ Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) 
 #### mois 01-05-2021 
 Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) 
 #### mois 01-06-2021 
-Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story _1x9(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
+Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story _1x9(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 
 
 
@@ -708,8 +708,8 @@ Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story 
 * conclu 04/06/21 = Unbag _1 > 6; Beat shazam _4 > 3; Vincenzo _1 > 2; We are not human _1 > 2; Agt _16 > 1; 
 * conclu 05/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
 * conclu 06/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
-* conclu 07/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; Drag race esp _1 > 2; We are not human _1 > 2; 
-* conclu 08/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; Drag race esp _1 > 2; We are not human _1 > 2; 
+* conclu 07/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
+* conclu 08/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
 * conclu 09/06/21 = Unbag _1 > 6; Lego masters _2 > 3; Vincenzo _1 > 2; We are not human _1 > 2; 
 * conclu 10/06/21 = Unbag _1 > 6; We are not human _1 > 2; Lego masters _2 > 1; 
 * conclu 11/06/21 = Unbag _1 > 6; We are not human _1 > 2; Lego masters _2 > 1; 
@@ -979,21 +979,21 @@ Drag race esp _1x2(1) Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story 
 * concluBis 28/05/21 = Unbag _1 > 11; We are not human _1 > 2; 
 * concluBis 29/05/21 = Unbag _1 > 8; We are not human _1 > 2; 
 * concluBis 30/05/21 = Unbag _1 > 8; We are not human _1 > 2; 
-* concluBis 31/05/21 = Unbag _1 > 8; Drag race esp _1 > 2; We are not human _1 > 2; 
+* concluBis 31/05/21 = Unbag _1 > 8; We are not human _1 > 2; 
 * concluBis 01/06/21 = Unbag _1 > 8; We are not human _1 > 3; 
 * concluBis 02/06/21 = Unbag _1 > 8; We are not human _1 > 3; 
 * concluBis 03/06/21 = Unbag _1 > 10; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; 
 * concluBis 04/06/21 = Unbag _1 > 10; Beat shazam _4 > 5; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; 
 * concluBis 05/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
 * concluBis 06/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
-* concluBis 07/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; Drag race esp _1 > 4; We are not human _1 > 4; 
-* concluBis 08/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; Drag race esp _1 > 4; We are not human _1 > 4; 
-* concluBis 09/06/21 = Unbag _1 > 10; Lego masters _2 > 5; Vincenzo _1 > 4; We are not human _1 > 4; Drag race esp _1 > 2; 
+* concluBis 07/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
+* concluBis 08/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
+* concluBis 09/06/21 = Unbag _1 > 10; Lego masters _2 > 5; Vincenzo _1 > 4; We are not human _1 > 4; 
 * concluBis 10/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 3; Agt _16 > 2; 
 * concluBis 11/06/21 = Unbag _1 > 11; We are not human _1 > 4; Lego masters _2 > 3; Beat shazam _4 > 2; 
 * concluBis 12/06/21 = Unbag _1 > 10; Lego masters _2 > 4; We are not human _1 > 4; 
 * concluBis 13/06/21 = Unbag _1 > 10; Lego masters _2 > 4; We are not human _1 > 4; 
-* concluBis 14/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 3; Drag race esp _1 > 2; 
+* concluBis 14/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 3; 
 * concluBis 15/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 1; 
 
 

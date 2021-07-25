@@ -9,7 +9,7 @@
 - [liste de bl](#liste-de-bl)
   - [sommaire](#sommaire)
   - [SKAM REMAKES](#skam-remakes)
-  - [usa](#usa)
+  - [usa and drag race](#usa-and-drag-race)
   - [asie](#asie)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
@@ -32,12 +32,61 @@
 | --- | --- | :---: | 
 ||||
 
-## usa
+## usa and drag race
 
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
+|DRAG RACE|||||<!--  -->
+|RPDRUK 1||8|||<!--  -->
+|RPSCDR 1||4|||<!--  -->
+|RPDRU 12||12|||<!--  -->
+|RPDR 12||14|||<!--  -->
+|RPDRAS 5||8|||<!--  -->
+|RPDRASU 5||8|||<!--  -->
+|DRCA 1||10|||<!--  -->
+|RPDR VR 1||6|||<!--  -->
+|DRTH 2||13|||<!--  -->
+|RPDRUK 2||10|||<!--  -->
+|RPDRU 13||14|||<!--  -->
+|DRNL 1||8|||<!--  -->
+|RPDR 13||16|||<!--  -->
+|RPDRDU 1||8|||<!--  -->
+|god shave the queens 1||8|||<!--  -->
+|queen of drags 1||6|||<!--  -->
+|la mas draga 1||7|||<!--  -->
+|la mas draga 2||9|||<!--  -->
+|RPDRU 9||12|||<!--  -->
+|DRESP 1||9|||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+|LGBT US + EUROPE|||||<!--  -->
+|visible out on tv||1|||<!--  -->
+|carmilla 4||36|||<!--  -->
+|the outs 1||7|||<!--  -->
+|eastsiders 4||6|||<!--  -->
 |Love victor 1|Love victor 1|10|serie|us|<!--  -->
+|queering 2||10|||<!--  -->
+|tales of the city 1||6|||<!--  -->
+|interested in 1||5|||<!--  -->
+|bonding 2||8|serie(*)||<!--  -->
+|love stage 2014 1||10|||<!--  -->
+|given anime 1||11|||<!--  -->
+|special 2||8|||<!--  -->
 |Love victor 2|Love victor 2|10|serie|us|<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+|A DEPLACER|||||<!--  -->
+|RPDRAS 6||12|||<!--  -->
+|RPDRASU 6||10|||<!--  -->
+|young royals 1||6|||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -167,16 +216,16 @@
 |wheel of love 1|weekend to remember|8|serie|philippines|       <!-- 112 -->
 |he's coming to me|he's coming to me|8|serie|thailande|         <!-- 113 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|     <!-- 114 -->
-|fish upon the sky|fish upon the sky|12|serie|thailande|     <!-- 38 -->
-|precise shot|precise shot|20|serie|taiwan|                   <!-- 35 -->
-|tharnType 2|tharnType 7 years of love|13|serie|thailande|    <!-- 18 -->
-|sweet curse|sweet curse|1|short|corée|<!--  -->
-|ydestiny|ydestiny|15|serie|thailande|                       <!-- 36 -->
-|pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 24 -->
-|nitiman|nitiman|10|serie|thailande|                          <!-- 40 -->
-|friend or lover|friend or lover|4|serie|taiwan|              <!-- 34 -->
-|love in time|love in time|9|serie(***)|hong kong|<!--  -->
-|the best story|the best story|3|serie|thailande|<!--  -->
+|fish upon the sky|fish upon the sky|12|serie|thailande|     <!-- 115 -->
+|precise shot|precise shot|20|serie|taiwan|                   <!-- 116 -->
+|tharnType 2|tharnType 7 years of love|13|serie|thailande|    <!-- 117 -->
+|sweet curse|sweet curse|1|short|corée|                       <!-- 118 -->
+|ydestiny|ydestiny|15|serie|thailande|                       <!-- 119 -->
+|pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 120 -->
+|nitiman|nitiman|10|serie|thailande|                          <!-- 121 -->
+|friend or lover|friend or lover|4|serie|taiwan|              <!-- 122 -->
+|love in time|love in time|9|serie(***)|hong kong|            <!-- 123 -->
+|the best story|the best story|3|serie|thailande|             <!-- 124 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -191,7 +240,7 @@
 |the shipper|the shipper|12|serie|thailande|4|                  <!-- 4 -->
 |so much in love|so much in love|12|serie|thailande|2|          <!-- 5 -->
 |blacklist|blacklist|13|serie(**)|thailande|1|                  <!-- 6 -->
-|unbag|unbag|?|show|thailande|23|                               <!-- 7 -->
+|unbag|unbag|?|show|thailande|26|                               <!-- 7 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1| <!-- 8 -->
 |my day|my day|12|serie|philippines|1|                          <!-- 9 -->
 |friend forever|friend forever|12|serie|thailande|3|            <!-- 10 -->
@@ -207,23 +256,23 @@
 |together with me|together with me|?|serie|thailande|1|         <!-- 21 -->
 |unlocked|unlocked|9|serie|philippines|2|                       <!-- 22 -->
 |romantic blue|romantic blue|12|serie(**)|thailande|1|          <!-- 23 -->
-|warper series|warper series|?|show|thailande|1|                <!-- 25 -->
-|tien bromance|tien bromance|10|serie|vietnam|1|                <!-- 26 -->
-|slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 27 -->
-|you never eat alone|you never eat alone|12|serie(*)|thailande|4|   <!-- 28 -->
-|school's out let's date now|school's out let's date now|6|serie(gl)|vietnam|5|    <!-- 29 -->
-|wabi game|wabi game|?|show|thailande|2|                        <!-- 31 -->
-|the harvest season|the harvest season|?|show|thailande|5|      <!-- 32 -->
-|bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 33 -->
-|mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 37 -->
-|an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 41 -->
-|dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 42 -->
-|stuck on you|stuck on you|8|serie|philippines|6|               <!-- 43 -->
-|siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 44 -->
-|golden blood|golden blood|8|serie|thailande|5|<!--  -->
-|light on me|light on me|16|serie|corée|8|<!-- 29/6 -->
-|46 days|46 days|18|serie(**)|thailande|6|<!-- 7/7 -->
-|given 2021|given 2021|6|serie|japon|1|<!--  -->
+|warper series|warper series|?|show|thailande|1|                <!-- 24 -->
+|tien bromance|tien bromance|10|serie|vietnam|1|                <!-- 25 -->
+|slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 26 -->
+|you never eat alone|you never eat alone|12|serie(*)|thailande|4|   <!-- 27 -->
+|school's out let's date now|school's out let's date now|6|serie(gl)|vietnam|5|    <!-- 28 -->
+|wabi game|wabi game|?|show|thailande|2|                        <!-- 29 -->
+|the harvest season|the harvest season|?|show|thailande|5|      <!-- 30 -->
+|bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 31 -->
+|mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 32 -->
+|an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 33 -->
+|dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 34 -->
+|stuck on you|stuck on you|8|serie|philippines|6|               <!-- 35 -->
+|siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 36 -->
+|golden blood|golden blood|8|serie|thailande|5|                 <!-- 37 -->
+|light on me|light on me|16|serie|corée|8|                      <!-- 38 -->
+|46 days|46 days|18|serie(**)|thailande|6|                      <!-- 39 -->
+|given 2021|given 2021|6|serie|japon|1|                         <!-- 40 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -236,8 +285,9 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |bad buddy|bad buddy|12|serie|thailande|0|<!-- -->
-|deep|deep|?|film(***)|thailande|0|<!-- 16/7 -->
 |gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
+|bite me|bite me|?|serie|thailande|0|<!--  -->
+|checkout|checkout|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -254,13 +304,10 @@
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
 |||||||<!-- -->
 |2021|---|---||||<!-- -->
-|JUIN|---|---||||<!-- -->
-|||||||<!--  -->
 |JUILLET|---|---||||<!--  -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
 |||||||<!--  -->
 |AOUT|---|---||||<!--  -->
-|checkout|checkout|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
 |SEPT|---|---||||<!--  -->
 |||||||<!--  -->
@@ -323,7 +370,6 @@
 |love stage|love stage|?|serie|thailande|0|<!-- kaowbo -->
 |mr tuxedo|mr tuxedo|?|serie|thailande|0|<!--  -->
 |make a wish|make a wish|?|serie|thailande|0|<!--  -->
-|bite me|bite me|?|serie|thailande|0|<!--  -->
 |triage|triage|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
 |PINOY|---|---||||
