@@ -39,7 +39,6 @@ Drop 1x4
 Lego masters 2x6
 Survivor au 8x3
 Camping paradis 12x3
-Kaamelott 6x5
 Stuck on you 1x6
 * Survivor au 8x1
 * Survivor au 5x1
@@ -61,7 +60,6 @@ Bt21 original story 1x9
 * Rpdras 6x1
 * Golden blood 1x1
 * Siew sum noi 1x1
-* Kaamelott 6x1
 Elite 4x3
 * The cube 1x1
 * Elite 4x1
