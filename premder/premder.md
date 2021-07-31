@@ -28,7 +28,6 @@ Beat shazam 4x8
 /46 days 1x6
 Rpdrasu 6x6
 Unbag 1x26
-Survivor 40x5
 Ahss 1x3
 Rpdras 6x6
 Light on me 1x8
@@ -143,7 +142,6 @@ Aggretsuko 3x3
 So much in love 1x2
 * Blacklist series 1x1
 * So much in love 1x1
-* Survivor 40x1
 The office 1x4
 You 1x2
 Long khong 1x4

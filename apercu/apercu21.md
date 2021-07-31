@@ -107,7 +107,7 @@ Stuck on you _1x5(1) The cube _1x5(1) Beat shazam _4x6(1) Rpdrasu _6x4(1) Rpdras
 #### sem 12-07-2021 
 Glow up _2x2(1) /46 days _1x3(2) Stuck on you _1x6(1) Zombie detective _1x3(1) Beat shazam _4x7(1) Unbag _1x26(1) Light on me _1x5(2) Rpdrasu _6x5(1) Rpdras _6x5(1) Golden blood _1x4(1) Agt _16x7(1) Lego masters _2x6(1) Drop _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) 
 #### sem 19-07-2021 
-Stuck on you _1x7(1) /46 days _1x5(2) Survivor au _8x2(1) Survivor au _5x5(4) Given 2021 _1x2(1) Good singers _1x4(1) The cube _1x7(2) Beat shazam _4x8(1) Light on me _1x7(2) Rpdrasu _6x6(1) Rpdras _6x6(1) Ahss _1x3(2) Golden blood _1x5(1) Survivor _40x3(1) Agt _16x8(1) Drop _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
+Stuck on you _1x7(1) /46 days _1x5(2) Survivor au _8x2(1) Survivor au _5x5(4) Given 2021 _1x2(1) Good singers _1x4(1) The cube _1x7(2) Beat shazam _4x8(1) Light on me _1x7(2) Rpdrasu _6x6(1) Rpdras _6x6(1) Ahss _1x3(2) Golden blood _1x5(1) Agt _16x8(1) Drop _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
 
 
 
@@ -341,8 +341,8 @@ Golden blood _1x3(2) Bt21 original story _1x10(1) Agt _16x6(5) Light on me _1x2(
 * conclu 20/07/21 = Light on me _1 > 3; Unbag _1 > 3; Survivor au _5 > 2; We are not human _1 > 2; Survivor au _8 > 1; Forever knight _1 > 1; 
 * conclu 21/07/21 = Survivor au _5 > 9; Agt _16 > 4; Unbag _1 > 3; Light on me _1 > 2; Survivor au _8 > 2; We are not human _1 > 2; Forever knight _1 > 1; 
 * conclu 22/07/21 = Survivor au _5 > 8; Unbag _1 > 6; Light on me _1 > 2; Survivor au _8 > 2; We are not human _1 > 2; Agt _16 > 1; Golden blood _1 > 1; /46 days _1 > 1; Forever knight _1 > 1; 
-* conclu 23/07/21 = Survivor au _5 > 8; Unbag _1 > 6; /46 days _1 > 3; Light on me _1 > 2; We are not human _1 > 2; Beat shazam _4 > 1; Survivor _40 > 1; Forever knight _1 > 1; 
-* conclu 24/07/21 = Survivor au _5 > 8; Unbag _1 > 6; /46 days _1 > 3; Light on me _1 > 2; We are not human _1 > 2; Beat shazam _4 > 1; Survivor _40 > 1; Forever knight _1 > 1; 
+* conclu 23/07/21 = Survivor au _5 > 8; Unbag _1 > 6; /46 days _1 > 3; Light on me _1 > 2; We are not human _1 > 2; Beat shazam _4 > 1; Forever knight _1 > 1; 
+* conclu 24/07/21 = Survivor au _5 > 8; Unbag _1 > 6; /46 days _1 > 3; Light on me _1 > 2; We are not human _1 > 2; Beat shazam _4 > 1; Forever knight _1 > 1; 
 
 
 
@@ -557,8 +557,8 @@ The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Unbag _1 >
 * concluBis 20/07/21 = Light on me _1 > 5; Unbag _1 > 5; Survivor au _5 > 4; We are not human _1 > 4; Survivor au _8 > 3; Forever knight _1 > 3; Beat shazam _4 > 2; Rpdrasu _6 > 2; /46 days _1 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; The cube _1 > 1; Bt21 original story _1 > 1; 
 * concluBis 21/07/21 = Survivor au _5 > 15; Agt _16 > 10; Light on me _1 > 7; Unbag _1 > 5; Survivor au _8 > 4; We are not human _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; Rpdrasu _6 > 1; /46 days _1 > 1; Bt21 original story _1 > 1; 
 * concluBis 22/07/21 = Survivor au _5 > 14; Unbag _1 > 10; Light on me _1 > 7; /46 days _1 > 5; Agt _16 > 4; Survivor au _8 > 4; We are not human _1 > 4; Golden blood _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; Ahss _1 > 1; Bt21 original story _1 > 1; 
-* concluBis 23/07/21 = Survivor au _5 > 14; Unbag _1 > 10; Light on me _1 > 7; /46 days _1 > 7; We are not human _1 > 4; Beat shazam _4 > 3; Survivor _40 > 3; Forever knight _1 > 3; Rpdrasu _6 > 2; Survivor au _8 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; Bt21 original story _1 > 1; 
-* concluBis 24/07/21 = Survivor au _5 > 14; Unbag _1 > 10; Light on me _1 > 7; /46 days _1 > 7; We are not human _1 > 4; Beat shazam _4 > 3; Survivor _40 > 3; Forever knight _1 > 3; Rpdrasu _6 > 2; Survivor au _8 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; Bt21 original story _1 > 1; 
+* concluBis 23/07/21 = Survivor au _5 > 14; Unbag _1 > 10; Light on me _1 > 7; /46 days _1 > 7; We are not human _1 > 4; Beat shazam _4 > 3; Forever knight _1 > 3; Rpdrasu _6 > 2; Survivor au _8 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; Bt21 original story _1 > 1; 
+* concluBis 24/07/21 = Survivor au _5 > 14; Unbag _1 > 10; Light on me _1 > 7; /46 days _1 > 7; We are not human _1 > 4; Beat shazam _4 > 3; Forever knight _1 > 3; Rpdrasu _6 > 2; Survivor au _8 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; Bt21 original story _1 > 1; 
 
 
 

@@ -398,6 +398,7 @@
 |the best story|the best story|3|serie|thailande|<!--  -->
 |drag race esp||9|||<!--  -->
 |kaamelott 6||9|||<!--  -->
+|survivor 40||14|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -488,7 +489,6 @@
 |phineas & ferb 1|||||32|<!--  -->
 |love alarm 1|||||1|<!--  -->
 |you 1|||||2|<!--  -->
-|survivor 40|||||1|<!--  -->
 |so much in love|so much in love|12|serie|thailande|2|<!-- 6 -->
 |blacklist|blacklist|13|serie(**)|thailande|1|<!-- 8 -->
 |aggretsuko 3|||||3|<!--  -->
