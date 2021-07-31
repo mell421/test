@@ -38,7 +38,6 @@ Drop 1x4
 Lego masters 2x6
 Survivor au 8x3
 Camping paradis 12x3
-Stuck on you 1x6
 * Survivor au 8x1
 * Survivor au 5x1
 * Given 2021 1x1
@@ -63,7 +62,6 @@ Elite 4x3
 * The cube 1x1
 * Elite 4x1
 Dark blue kiss 1x2
-* Stuck on you 1x1
 * Lego masters 2x1
 Vincenzo 1x2
 * Beat shazam 4x1

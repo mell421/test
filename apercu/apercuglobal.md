@@ -373,7 +373,7 @@ Dark blue kiss _1x2(1) Unbag _1x23(1)
 #### sem 07-06-2021 
 Vincenzo _1x3(2) Beat shazam _4x2(1) Agt _16x2(1) 
 #### sem 14-06-2021 
-Stuck on you _1x2(1) Beat shazam _4x3(1) Unbag _1x24(1) Agt _16x3(1) Lego masters _2x3(2) 
+Beat shazam _4x3(1) Unbag _1x24(1) Agt _16x3(1) Lego masters _2x3(2) 
 
 
 

@@ -399,6 +399,7 @@
 |drag race esp||9|||<!--  -->
 |kaamelott 6||9|||<!--  -->
 |survivor 40||14|||<!--  -->
+|stuck on you|stuck on you|8|serie|philippines|               <!-- 35 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -538,7 +539,6 @@
 |vincenzo||20|||2|<!--  -->
 |beat shazam 4||10|||2|<!--2/6  -->
 |lego masters 2||12|||3|<!-- 2/6 -->
-|stuck on you||8|||1|<!--  -->
 |elite 4||8|||3|<!-- 18/6 -->
 |the cube 1||8|||0|<!--  -->
 |siew sum noi 1||12|||1|<!--  -->
