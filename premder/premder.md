@@ -264,7 +264,6 @@ Total drama 2x6
 * Chica vampiro 1x1
 Travelers 1x4
 * Dark 1x1
-Dragula 1x3
 Dna 1x5
 Riverdale 3x10
 Kunoichi 1x7
@@ -276,7 +275,6 @@ Scrubs 1x10
 * Euphoria 1x1
 Light as a feather 1x6
 * Will and grace 5x1
-* Dragula 1x1
 Nos4a2 1x3
 Doom patrol 1x4
 Rupaul show 1x5

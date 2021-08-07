@@ -80,13 +80,12 @@ Tf _4x12(1) Rupaul show _1x6(1)
 ### sem 08-07-2019 
 Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
 ### sem 15-07-2019 
-Dragula _1x2(1) 
 ### sem 22-07-2019 
-Dragula _1x3(1) Light as a feather _1x7(1) Will and grace _5x2(1) 
+Light as a feather _1x7(1) Will and grace _5x2(1) 
 ### sem 29-07-2019 
 Kunoichi _1x6(1) Sasuke _1x2(1) Will and grace _5x4(2) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) 
 ### sem 05-08-2019 
-Dark _1x2(1) Dragula _1x4(1) Dna _1x6(1) Riverdale _3x11(1) Kunoichi _1x8(1) Sasuke _1x8(2) Girl meets world _1x9(1) Another life _1x2(1) 
+Dark _1x2(1) Dna _1x6(1) Riverdale _3x11(1) Kunoichi _1x8(1) Sasuke _1x8(2) Girl meets world _1x9(1) Another life _1x2(1) 
 ### sem 12-08-2019 
 Travelers _1x5(1) 
 ### sem 19-08-2019 
@@ -140,9 +139,9 @@ Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _
 ### mois 01-07-2019 
 Tf _4x12(1) Rupaul show _1x6(5) Sytycd _15x2(1) Doom patrol _1x4(2) Steven universe _1x2(1) Explained _1x7(1) The voice germany _1x5(4) Nos4a2 _1x3(2) Les lapins cretins _1x48(6) What if _1x2(1) Years and years _1x4(2) /3% _3x3(2) Jeopardy _33x158(1) How to sell drugs online (fast) _1x2(1) 
 ### mois 01-08-2019 
-Riverdale _3x11(1) Kunoichi _1x8(2) Sasuke _1x8(3) Girl meets world _1x9(1) Another life _1x2(1) Will and grace _5x4(3) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) Dragula _1x3(2) Light as a feather _1x7(1) Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
+Riverdale _3x11(1) Kunoichi _1x8(2) Sasuke _1x8(3) Girl meets world _1x9(1) Another life _1x2(1) Will and grace _5x4(3) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) Light as a feather _1x7(1) Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
 ### mois 01-09-2019 
-Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(3) Dirk gently _2x3(2) Dark _1x5(4) The voice germany _1x6(1) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(5) Chica vampiro _1x6(5) Travelers _1x5(1) Dragula _1x4(1) Dna _1x6(1) 
+Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(3) Dirk gently _2x3(2) Dark _1x5(4) The voice germany _1x6(1) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(5) Chica vampiro _1x6(5) Travelers _1x5(1) Dna _1x6(1) 
 ### mois 01-10-2019 
 The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(2) Criminal uk _1x2(1) Million dollar mile _1x3(2) Criminal germany _1x2(1) Chica vampiro _1x7(1) Lucifer _4x3(2) Ga _2x13(1) Carnival row _1x2(1) 
 ### mois 01-11-2019 
