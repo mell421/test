@@ -568,6 +568,7 @@
 * Kaamelott _6
 ### sem 09-08-2021 
 * *insererici*
+* La mas draga _3
 * Dragula _1
 * Rpdr out of the closet _2
 ### sem 16-08-2021 
@@ -586,7 +587,7 @@
 * 
 * $ nbPcTps $
 * 
-* La mas draga _3
+* 
 * 
 * Elite _4
 * Tokyo ghoul _3
@@ -672,7 +673,7 @@
 #### mois 01-08-2021 
 *Stuck on you _1 Survivor _40 Kaamelott _6 Drag race esp _1 The best story _1 Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 Friend or lover _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
-*insererici Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
+*insererici La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
 #### mois 01-10-2021 
 **
 #### mois 01-11-2021 

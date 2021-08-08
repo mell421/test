@@ -15,7 +15,6 @@ Bangkok love stories innocence 1x2
 An eye for an eye 1x2
 Young royals 1x2
 Camping paradis 12x2
-La mas draga 3x2
 Glow up 2x2
 * --
 Ciwyw 1x1
@@ -36,7 +35,6 @@ Golden blood 1x6
 Survivor au 8x6
 Given 2021 1x2
 The cube 1x7
-* La mas draga 3x1
 Beat shazam 4x8
 /46 days 1x6
 Unbag 1x26
