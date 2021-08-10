@@ -25,27 +25,37 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
-Ahss 1x4
-Rpdrasu 6x7
+Drop 1x5
+Survivor au 8x11
+The voice au 10x2
+* The voice au 10x1
+Good singers 1x4
+* Dont say no 1x1
+* Drag race nl 2x1
+Light on me 1x12
+Rpdrasu 6x8
+Rpdras 6x8
+Unbag 1x27
+Ahss 1x5
+Survivor sa 8x4
+Golden blood 1x7
+Control z 2x2
+* Control z 2x1
+/46 days 1x7
+Given 2021 1x3
+Glow up 2x2
+* Survivor sa 8x1
+Rpdu 1x4
 Bt21 original story 1x10
-Rpdras 6x7
-Light on me 1x10
 Survivor au 5x10
-Golden blood 1x6
-Survivor au 8x6
-Given 2021 1x2
 The cube 1x7
 Beat shazam 4x8
-/46 days 1x6
-Unbag 1x26
 Agt 16x8
-Drop 1x4
 Lego masters 2x6
 Camping paradis 12x3
 * Survivor au 8x1
 * Survivor au 5x1
 * Given 2021 1x1
-Good singers 1x3
 * Ahss 1x1
 Josephine ange gardien 24x1
 * Glow up 2x1
