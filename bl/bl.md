@@ -231,6 +231,7 @@
 |love in time|love in time|9|serie(***)|hong kong|            <!-- 123 -->
 |the best story|the best story|3|serie|thailande|             <!-- 124 -->
 |stuck on you|stuck on you|8|serie|philippines|               <!-- 35 -->
+|golden blood|golden blood|8|serie|thailande|                 <!-- 37 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -273,7 +274,6 @@
 |an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 33 -->
 |dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 34 -->
 |siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 36 -->
-|golden blood|golden blood|8|serie|thailande|5|                 <!-- 37 -->
 |light on me|light on me|16|serie|corée|8|                      <!-- 38 -->
 |46 days|46 days|18|serie(**)|thailande|6|                      <!-- 39 -->
 |given 2021|given 2021|6|serie|japon|1|                         <!-- 40 -->

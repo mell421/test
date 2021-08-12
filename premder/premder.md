@@ -38,7 +38,6 @@ Rpdras 6x8
 Unbag 1x27
 Ahss 1x5
 Survivor sa 8x4
-Golden blood 1x7
 Control z 2x2
 * Control z 2x1
 /46 days 1x7
@@ -68,7 +67,6 @@ Zombie detective 1x2
 * Marble mania 1x1
 * Rpdrasu 6x1
 * Rpdras 6x1
-* Golden blood 1x1
 * Siew sum noi 1x1
 Elite 4x3
 * The cube 1x1

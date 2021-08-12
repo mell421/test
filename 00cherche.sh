@@ -17,7 +17,7 @@ listBis=( "" # 9
 "You never eat alone _1" # 7
 "Mr lipstick _1" "The untamed _1" # 6
 "Dark blue kiss _1" "The shipper _1" # 5
-"Drop _1" "Golden blood _1" "I can see your voice fr _1" "Unlocked _1" # 4
+"Drop _1" "I can see your voice fr _1" "Unlocked _1" # 4
 "Slam dance _1" # 3
 ) 
 
@@ -36,7 +36,7 @@ list99=( "Unbag _1" # >= 200
 "Koishite akuma _1" "Be love _1" "The cube _1" "" # 39-30
 "Rpdrasu _6" "Elite _4" "Rpdras _6" "" # 29-20
 "Schools out lets date now _1" "Light on me _1" "You never eat alone _1" "" # 19-15
-"Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Tokyo ghoul _3" "The shipper _1" "Golden blood _1" "" # 14-10
+"Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Tokyo ghoul _3" "The shipper _1" "" # 14-10
 "Drop _1" "I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9
 "Unlocked _1" "The untamed _1" "" # 8
 "Marble mania _1" "Tien bromance _1" "" # 7
