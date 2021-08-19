@@ -574,6 +574,7 @@
 * Survivor _1
 ### sem 23-08-2021 
 * *insererici*
+* Dragula _3
 * Light on me _1
 * Ahss _1
 * Survivor _2
@@ -587,11 +588,7 @@
 ## bientot
 * Mr lipstick _1
 * 
-* 
 * $ nbPcTps $
-* 
-* 
-* 
 * Elite _4
 * Tokyo ghoul _3
 * Young royals _1
@@ -601,33 +598,61 @@
 * Josephine ange gardien _23 (29/12/20)
 * 
 * $ a jour $
-* 
-* 
-* The cube _1
-* Control z _2
-* Beat shazam _4
-* 
-* 46 days _1
-* Drop _1
-* 
-* 
 * Rpdrasu _6
 * Given 2021 _1
-* Lego masters _2
+* Post mortem _1
+* Beat shazam _4
+* The cube _1
+* Drop _1
+* 46 days _1
 * Rpdras _6
+* Lego masters _2
+* Nailed it _6
 * Drag race nl _2
 * Ahs _10
+* Rpdruk _3
+* Peach of time _1
+* 
+* Control z _2
+* 
+* 
+* 
+* 
+* $ a venir $
+* Koh-lanta _27
+* Game of talents fr _1
+* Bite me _1
+* Q-force _1
+* /9-1-1 _5
+* Dwts _30
+* The voice us _21
+* Alter ego _1
+* Survivor _41
+* The masked singer _6
+* Young sheldon _5
+* Dragula _4
+* Dexter _9
+* Queen of the universe _1
 * 
 * $ other $
-* Unbag _1
 * Agt _16
+* 
+* The voice au _10
+* Survivor au _8
+* Survivor au _5
+* Survivor sa _8
+* Dont say no _1
+* Unbag _1
+* Rpdu _1
+* 
 * Vincenzo _1
 * Dark blue kiss _1
 * Bt21 original story _1
-* Rpdruk _3
-* /9-1-1 _5
+* 
+* 
+* $ plus tard $
 * /9-1-1 lone star _3
-* Young sheldon _5
+* 
 * 
 
 
@@ -672,17 +697,17 @@
 #### mois 01-06-2021 
 *The voice vv _7 The most peaceful place _1 Kiss me again peteKao cut _1 Close friend _1 The masked singer _5 The voice us _20 Game of talents _1 Plan b _1 Given _1 /9-1-1 lone star _2 /9-1-1 _4 History4 close to you _1 The voice _10 Young sheldon _4 Love death & robots _2 Lovely writer _1 The sweet blood _1 Nobleman ryus wedding _1 The circle br _1 The circle us _2 Clem _11*
 #### mois 01-07-2021 
-*insererici Precise shot _1 Wtfock _5 Fish upon the sky _1 Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
+*Precise shot _1 Wtfock _5 Fish upon the sky _1 Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
 #### mois 01-08-2021 
 *Stuck on you _1 Survivor _40 Kaamelott _6 Drag race esp _1 The best story _1 Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 Friend or lover _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
-*insererici Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
+*insererici Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
 #### mois 01-10-2021 
-**
+*insererici*
 #### mois 01-11-2021 
-**
+*insererici*
 #### mois 01-12-2021 
-**
+*insererici*
 
 
 

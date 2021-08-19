@@ -26,10 +26,8 @@ Papa and daddy 1x1
 * $
 $
 Agt 16x12
-Dragula 3x9
 The voice au 10x6
 Survivor au 8x14
-* Dragula 3x1
 Survivor au 5x11
 Survivor sa 8x6
 Given 2021 1x5

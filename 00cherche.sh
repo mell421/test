@@ -3,29 +3,24 @@
 ./0date.sh
 ./0supprZ.sh
 
-list=( "Unbag _1" # >= 100
-"" # 99 - 50
-"Bt21 original story _1" # 49 - 40
-"" # 39 - 30
-"My vampire boyfriend _1" "Lego masters _2" # 29 - 20
-"Beat shazam _4" "Agt _16" "The cube _1" "Rpdrasu _6" "Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
-"Rpdras _6" "Bt21 vlog _1" "Wabi show _1" ) # 14 - 10
-
-# entre 9 et 3
-listBis=( "" # 9
-"Schools out lets date now _1" "Tokyo ghoul _3" # 8
-"You never eat alone _1" # 7
-"Mr lipstick _1" "The untamed _1" # 6
-"Dark blue kiss _1" "The shipper _1" # 5
-"Drop _1" "I can see your voice fr _1" "Unlocked _1" # 4
-"Slam dance _1" # 3
-) 
-
-
-# 0
-list2=( "Young royals _1" "Marble mania _1" "Siew sum noi _1" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" # 2
-"Camping paradis _12" # 1
-"" ) # 0
+list=( "Unbag _1" "Bt21 original story _1" # >= 100
+"Survivor au _5" "Survivor au _8" "Beat shazam _4" "Agt _16" "" # 99 - 50
+"/46 days _1" # 49 - 40
+"Rpdrasu _6" "The cube _1" "Lego masters _2" "" # 39 - 30
+"Rpdras _6" "My vampire boyfriend _1" "Survivor sa _8" # 29 - 20
+"The voice au _10" "Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
+"Drop _1" "Bt21 vlog _1" "Wabi show _1" # 14 - 10
+"" # 9
+"Given 2021 _1" "Schools out lets date now _1" "Tokyo ghoul _3" # 8
+"Good singers _1" "Rpdu _1" "You never eat alone _1" # 7
+"Control z _2" "Camping paradis _12" "Mr lipstick _1" "The untamed _1" # 6
+"Zombie detective _1" "Dark blue kiss _1" "The shipper _1" # 5
+"Glow up _2" "Young royals _1" "I can see your voice fr _1" "Unlocked _1" # 4
+"Josephine ange gardien _24" "Slam dance _1" # 3
+"Dont say no _1" "Drag race nl _2" "Marble mania _1" "Siew sum noi _1" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" # 2
+"" # 1
+"" # 0
+)  
 
 
 # nb bis
