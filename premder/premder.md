@@ -25,31 +25,34 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
+Agt 16x12
+Dragula 3x9
+The voice au 10x6
+Survivor au 8x14
+* Dragula 3x1
+Survivor au 5x11
+Survivor sa 8x6
+Given 2021 1x5
+Dont say no 1x2
+Drag race nl 2x2
+The cube 1x8
+Rpdrasu 6x9
+Rpdras 6x9
+Lego masters 2x7
 Drop 1x5
-Survivor au 8x11
-The voice au 10x2
 * The voice au 10x1
 Good singers 1x4
 * Dont say no 1x1
 * Drag race nl 2x1
-Light on me 1x12
-Rpdrasu 6x8
-Rpdras 6x8
 Unbag 1x27
-Survivor sa 8x4
 Control z 2x2
 * Control z 2x1
 /46 days 1x7
-Given 2021 1x3
 Glow up 2x2
 * Survivor sa 8x1
 Rpdu 1x4
 Bt21 original story 1x10
-Survivor au 5x10
-The cube 1x7
 Beat shazam 4x8
-Agt 16x8
-Lego masters 2x6
 Camping paradis 12x3
 * Survivor au 8x1
 * Survivor au 5x1
@@ -60,7 +63,6 @@ Zombie detective 1x2
 * /46 days 1x1
 * Young royals 1x1
 * Camping paradis 12x1
-* Light on me 1x1
 * Drop 1x1
 * Marble mania 1x1
 * Rpdrasu 6x1

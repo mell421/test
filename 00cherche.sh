@@ -9,7 +9,7 @@ list=( "Unbag _1" # >= 100
 "" # 39 - 30
 "My vampire boyfriend _1" "Lego masters _2" # 29 - 20
 "Beat shazam _4" "Agt _16" "The cube _1" "Rpdrasu _6" "Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
-"Light on me _1" "Rpdras _6" "Bt21 vlog _1" "Wabi show _1" ) # 14 - 10
+"Rpdras _6" "Bt21 vlog _1" "Wabi show _1" ) # 14 - 10
 
 # entre 9 et 3
 listBis=( "" # 9
@@ -29,29 +29,29 @@ list2=( "Young royals _1" "Marble mania _1" "Siew sum noi _1" "An eye for an eye
 
 
 # nb bis
-list99=( "Unbag _1" # >= 200
-"Bt21 original story _1" "My vampire boyfriend _1" # 199-100
-"The harvest season _1" "Lego masters _2" "Beat shazam _4" # 99-50
-"Vincenzo _1" "Agt _16" "" # 49-40
-"Koishite akuma _1" "Be love _1" "The cube _1" "" # 39-30
-"Rpdrasu _6" "Elite _4" "Rpdras _6" "" # 29-20
-"Schools out lets date now _1" "Light on me _1" "You never eat alone _1" "" # 19-15
-"Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Tokyo ghoul _3" "The shipper _1" "" # 14-10
-"Drop _1" "I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9
+list99=( "Unbag _1" "Bt21 original story _1" # >= 200
+"My vampire boyfriend _1" "Beat shazam _4" "Agt _16" "Rpdrasu _6" "The cube _1" "Lego masters _2" "Survivor au _5" "Survivor au _8" # 199-100
+"46 days _1" "Rpdras _6" "Vincenzo _1" "The harvest season _1" # 99-50
+"Survivor sa _8" "" # 49-40
+"Koishite akuma _1" "Be love _1" "Given 2021 _1" # 39-30
+"The voice au _10" "Drop _1" "Elite _4" "" # 29-20
+"Schools out lets date now _1" "You never eat alone _1" "Good singers _1" "Camping paradis _12" # 19-15
+"Dont say no _1" "Drag race nl _2" "Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Rpdu _1" "Tokyo ghoul _3" "Glow up _2" "The shipper _1" "Zombie detective _1" # 14-10
+"Control z _2" "I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9
 "Unlocked _1" "The untamed _1" "" # 8
-"Marble mania _1" "Tien bromance _1" "" # 7
+"Young royals _1" "Marble mania _1" "Tien bromance _1" "" # 7
 "Slam dance _1" "" # 6
 "Siew sum noi _1" "An eye for an eye _1" "Tbbt _11" "" # 5
 "Bangkok love stories innocence _1" "" # 4
-"Young royals _1" "" # 3
-"Camping paradis _12" "" # 2
+"" # 3
+"" # 2
 "" # 1
 "" # 0
 )
 
 
 
-listOld=( "Be love _1" "Tien bromance _1" "Ben x jim _1" "Koishite akuma _1" "Warper series _1" "Romantic blue _1" "Friend zone _1" 
+listOld=( "Tien bromance _1" "Ben x jim _1" "Koishite akuma _1" "Warper series _1" "Romantic blue _1" "Friend zone _1" 
 "Together with me _1" "Ghost runner _1" "Capture lover _1" "From dusk till dawn _2" "Lakan _1" 
 "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" "Blood _1" "The good doctor _4" "Swap test _1" "The stranded _1" 
 "Friend forever _1" "Boys lockdown _1" )
