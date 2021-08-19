@@ -36,7 +36,6 @@ Light on me 1x12
 Rpdrasu 6x8
 Rpdras 6x8
 Unbag 1x27
-Ahss 1x5
 Survivor sa 8x4
 Control z 2x2
 * Control z 2x1
@@ -55,7 +54,6 @@ Camping paradis 12x3
 * Survivor au 8x1
 * Survivor au 5x1
 * Given 2021 1x1
-* Ahss 1x1
 Josephine ange gardien 24x1
 * Glow up 2x1
 Zombie detective 1x2
