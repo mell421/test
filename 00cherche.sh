@@ -4,7 +4,7 @@
 ./0supprZ.sh
 
 list=( "Unbag _1" "Bt21 original story _1" # >= 100
-"Survivor au _5" "Survivor au _8" "Beat shazam _4" "Agt _16" "" # 99 - 50
+"Survivor au _5" "Survivor au _8" "Agt _16" "" # 99 - 50
 "/46 days _1" # 49 - 40
 "Rpdrasu _6" "The cube _1" "Lego masters _2" "" # 39 - 30
 "Rpdras _6" "My vampire boyfriend _1" "Survivor sa _8" # 29 - 20
@@ -25,7 +25,7 @@ list=( "Unbag _1" "Bt21 original story _1" # >= 100
 
 # nb bis
 list99=( "Unbag _1" "Bt21 original story _1" # >= 200
-"My vampire boyfriend _1" "Beat shazam _4" "Agt _16" "Rpdrasu _6" "The cube _1" "Lego masters _2" "Survivor au _5" "Survivor au _8" # 199-100
+"My vampire boyfriend _1" "Agt _16" "Rpdrasu _6" "The cube _1" "Lego masters _2" "Survivor au _5" "Survivor au _8" # 199-100
 "46 days _1" "Rpdras _6" "Vincenzo _1" "The harvest season _1" # 99-50
 "Survivor sa _8" "" # 49-40
 "Koishite akuma _1" "Be love _1" "Given 2021 _1" # 39-30

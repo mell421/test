@@ -95,19 +95,19 @@ Bt21 original story _1x9(1) An eye for an eye _1x2(1)
 #### sem 31-05-2021 
 Dark blue kiss _1x2(1) Unbag _1x23(1) 
 #### sem 07-06-2021 
-Vincenzo _1x3(2) Beat shazam _4x2(1) Agt _16x2(1) 
+Vincenzo _1x3(2) Agt _16x2(1) 
 #### sem 14-06-2021 
-Beat shazam _4x3(1) Unbag _1x24(1) Agt _16x3(1) Lego masters _2x3(2) 
+Unbag _1x24(1) Agt _16x3(1) Lego masters _2x3(2) 
 #### sem 21-06-2021 
-Elite _4x4(3) The cube _1x3(2) Beat shazam _4x4(1) Dark blue kiss _1x3(1) Agt _16x4(1) Lego masters _2x4(1) 
+Elite _4x4(3) The cube _1x3(2) Dark blue kiss _1x3(1) Agt _16x4(1) Lego masters _2x4(1) 
 #### sem 28-06-2021 
-Drop _1x2(1) The cube _1x4(1) Marble mania _1x2(1) Beat shazam _4x5(1) Unbag _1x25(1) Rpdrasu _6x3(2) Rpdras _6x3(2) Agt _16x5(1) Lego masters _2x5(1) Siew sum noi _1x2(1) 
+Drop _1x2(1) The cube _1x4(1) Marble mania _1x2(1) Unbag _1x25(1) Rpdrasu _6x3(2) Rpdras _6x3(2) Agt _16x5(1) Lego masters _2x5(1) Siew sum noi _1x2(1) 
 #### sem 05-07-2021 
-The cube _1x5(1) Beat shazam _4x6(1) Rpdrasu _6x4(1) Rpdras _6x4(1) Bt21 original story _1x10(1) Agt _16x6(1) 
+The cube _1x5(1) Rpdrasu _6x4(1) Rpdras _6x4(1) Bt21 original story _1x10(1) Agt _16x6(1) 
 #### sem 12-07-2021 
-Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Beat shazam _4x7(1) Unbag _1x26(1) Rpdrasu _6x5(1) Rpdras _6x5(1) Agt _16x7(1) Lego masters _2x6(1) Drop _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) 
+Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Rpdrasu _6x5(1) Rpdras _6x5(1) Agt _16x7(1) Lego masters _2x6(1) Drop _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) 
 #### sem 19-07-2021 
-/46 days _1x5(2) Survivor au _8x2(1) Survivor au _5x5(4) Given 2021 _1x2(1) Good singers _1x4(1) The cube _1x7(2) Beat shazam _4x8(1) Rpdrasu _6x6(1) Rpdras _6x6(1) Agt _16x8(1) Drop _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
+/46 days _1x5(2) Survivor au _8x2(1) Survivor au _5x5(4) Given 2021 _1x2(1) Good singers _1x4(1) The cube _1x7(2) Rpdrasu _6x6(1) Rpdras _6x6(1) Agt _16x8(1) Drop _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
 
 
 
@@ -127,7 +127,7 @@ Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original
 #### mois 01-06-2021 
 Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story _1x9(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 #### mois 01-07-2021 
-Bt21 original story _1x10(1) Agt _16x6(5) Drop _1x2(1) The cube _1x4(3) Marble mania _1x2(1) Beat shazam _4x5(4) Unbag _1x25(2) Rpdrasu _6x3(2) Rpdras _6x3(2) Lego masters _2x5(4) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
+Bt21 original story _1x10(1) Agt _16x6(5) Drop _1x2(1) The cube _1x4(3) Marble mania _1x2(1) Unbag _1x25(2) Rpdrasu _6x3(2) Rpdras _6x3(2) Lego masters _2x5(4) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 
 
 
@@ -292,7 +292,7 @@ Bt21 original story _1x10(1) Agt _16x6(5) Drop _1x2(1) The cube _1x4(3) Marble m
 * conclu 01/06/21 = Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 02/06/21 = Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 03/06/21 = Unbag _1 > 6; Vincenzo _1 > 2; We are not human _1 > 2; Agt _16 > 1; 
-* conclu 04/06/21 = Unbag _1 > 6; Beat shazam _4 > 3; Vincenzo _1 > 2; We are not human _1 > 2; Agt _16 > 1; 
+* conclu 04/06/21 = Unbag _1 > 6; Vincenzo _1 > 2; We are not human _1 > 2; Agt _16 > 1; 
 * conclu 05/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
 * conclu 06/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
 * conclu 07/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
@@ -313,7 +313,7 @@ Bt21 original story _1x10(1) Agt _16x6(5) Drop _1x2(1) The cube _1x4(3) Marble m
 * conclu 22/06/21 = Unbag _1 > 6; Elite _4 > 2; We are not human _1 > 2; The cube _1 > 1; 
 * conclu 23/06/21 = Unbag _1 > 6; We are not human _1 > 2; Lego masters _2 > 1; Elite _4 > 1; 
 * conclu 24/06/21 = Unbag _1 > 6; We are not human _1 > 2; Elite _4 > 1; 
-* conclu 25/06/21 = Unbag _1 > 6; We are not human _1 > 2; Beat shazam _4 > 1; Elite _4 > 1; 
+* conclu 25/06/21 = Unbag _1 > 6; We are not human _1 > 2; Elite _4 > 1; 
 * conclu 26/06/21 = Unbag _1 > 6; We are not human _1 > 2; The cube _1 > 1; 
 * conclu 27/06/21 = Unbag _1 > 6; We are not human _1 > 2; Rpdrasu _6 > 1; 
 * conclu 28/06/21 = Unbag _1 > 6; We are not human _1 > 2; Rpdrasu _6 > 1; 
@@ -321,28 +321,28 @@ Bt21 original story _1x10(1) Agt _16x6(5) Drop _1x2(1) The cube _1x4(3) Marble m
 * conclu 30/06/21 = Unbag _1 > 6; Rpdrasu _6 > 2; We are not human _1 > 2; Rpdras _6 > 1; 
 * conclu 01/07/21 = Unbag _1 > 6; Agt _16 > 2; Rpdrasu _6 > 2; We are not human _1 > 2; Bt21 original story _1 > 1; Rpdras _6 > 1; 
 * conclu 02/07/21 = Unbag _1 > 6; We are not human _1 > 2; Agt _16 > 1; 
-* conclu 03/07/21 = Unbag _1 > 6; We are not human _1 > 2; Beat shazam _4 > 1; 
+* conclu 03/07/21 = Unbag _1 > 6; We are not human _1 > 2; 
 * conclu 04/07/21 = Unbag _1 > 6; We are not human _1 > 2; 
 * conclu 05/07/21 = Unbag _1 > 6; We are not human _1 > 2; 
 * conclu 06/07/21 = Unbag _1 > 6; We are not human _1 > 2; Young royals _1 > 1; 
 * conclu 07/07/21 = Unbag _1 > 6; Agt _16 > 6; Lego masters _2 > 2; We are not human _1 > 2; 
 * conclu 08/07/21 = Unbag _1 > 6; Agt _16 > 2; We are not human _1 > 2; Lego masters _2 > 1; 
-* conclu 09/07/21 = Unbag _1 > 6; Beat shazam _4 > 6; We are not human _1 > 2; Agt _16 > 1; 
-* conclu 10/07/21 = Unbag _1 > 6; Beat shazam _4 > 2; We are not human _1 > 2; Bt21 original story _1 > 1; /46 days _1 > 1; 
-* conclu 11/07/21 = Unbag _1 > 6; We are not human _1 > 2; Bt21 original story _1 > 1; Beat shazam _4 > 1; /46 days _1 > 1; 
+* conclu 09/07/21 = Unbag _1 > 6; We are not human _1 > 2; Agt _16 > 1; 
+* conclu 10/07/21 = Unbag _1 > 6; We are not human _1 > 2; Bt21 original story _1 > 1; /46 days _1 > 1; 
+* conclu 11/07/21 = Unbag _1 > 6; We are not human _1 > 2; Bt21 original story _1 > 1; /46 days _1 > 1; 
 * conclu 12/07/21 = Unbag _1 > 6; We are not human _1 > 2; Bt21 original story _1 > 1; /46 days _1 > 1; 
 * conclu 13/07/21 = Unbag _1 > 6; /46 days _1 > 2; Bt21 original story _1 > 1; We are not human _1 > 1; 
 * conclu 14/07/21 = Unbag _1 > 6; Bt21 original story _1 > 1; /46 days _1 > 1; We are not human _1 > 1; 
 * conclu 15/07/21 = Unbag _1 > 4; /46 days _1 > 2; Bt21 original story _1 > 1; The cube _1 > 1; We are not human _1 > 1; 
-* conclu 16/07/21 = Unbag _1 > 6; The cube _1 > 6; Bt21 original story _1 > 2; We are not human _1 > 2; Beat shazam _4 > 1; Forever knight _1 > 1; 
-* conclu 17/07/21 = Unbag _1 > 6; The cube _1 > 6; Beat shazam _4 > 2; We are not human _1 > 2; Forever knight _1 > 1; 
-* conclu 18/07/21 = Unbag _1 > 6; The cube _1 > 4; Survivor au _5 > 3; We are not human _1 > 2; Beat shazam _4 > 1; Rpdrasu _6 > 1; Forever knight _1 > 1; 
-* conclu 19/07/21 = Survivor au _5 > 3; Unbag _1 > 3; /46 days _1 > 2; We are not human _1 > 2; Beat shazam _4 > 1; Forever knight _1 > 1; 
+* conclu 16/07/21 = Unbag _1 > 6; The cube _1 > 6; Bt21 original story _1 > 2; We are not human _1 > 2; Forever knight _1 > 1; 
+* conclu 17/07/21 = Unbag _1 > 6; The cube _1 > 6; We are not human _1 > 2; Forever knight _1 > 1; 
+* conclu 18/07/21 = Unbag _1 > 6; The cube _1 > 4; Survivor au _5 > 3; We are not human _1 > 2; Rpdrasu _6 > 1; Forever knight _1 > 1; 
+* conclu 19/07/21 = Survivor au _5 > 3; Unbag _1 > 3; /46 days _1 > 2; We are not human _1 > 2; Forever knight _1 > 1; 
 * conclu 20/07/21 = Unbag _1 > 3; Survivor au _5 > 2; We are not human _1 > 2; Survivor au _8 > 1; Forever knight _1 > 1; 
 * conclu 21/07/21 = Survivor au _5 > 9; Agt _16 > 4; Unbag _1 > 3; Survivor au _8 > 2; We are not human _1 > 2; Forever knight _1 > 1; 
 * conclu 22/07/21 = Survivor au _5 > 8; Unbag _1 > 6; Survivor au _8 > 2; We are not human _1 > 2; Agt _16 > 1; /46 days _1 > 1; Forever knight _1 > 1; 
-* conclu 23/07/21 = Survivor au _5 > 8; Unbag _1 > 6; /46 days _1 > 3; We are not human _1 > 2; Beat shazam _4 > 1; Forever knight _1 > 1; 
-* conclu 24/07/21 = Survivor au _5 > 8; Unbag _1 > 6; /46 days _1 > 3; We are not human _1 > 2; Beat shazam _4 > 1; Forever knight _1 > 1; 
+* conclu 23/07/21 = Survivor au _5 > 8; Unbag _1 > 6; /46 days _1 > 3; We are not human _1 > 2; Forever knight _1 > 1; 
+* conclu 24/07/21 = Survivor au _5 > 8; Unbag _1 > 6; /46 days _1 > 3; We are not human _1 > 2; Forever knight _1 > 1; 
 
 
 
@@ -508,57 +508,57 @@ The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Unbag _1 >
 * concluBis 01/06/21 = Unbag _1 > 8; We are not human _1 > 3; 
 * concluBis 02/06/21 = Unbag _1 > 8; We are not human _1 > 3; 
 * concluBis 03/06/21 = Unbag _1 > 10; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; 
-* concluBis 04/06/21 = Unbag _1 > 10; Beat shazam _4 > 5; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; 
+* concluBis 04/06/21 = Unbag _1 > 10; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; 
 * concluBis 05/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
 * concluBis 06/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
 * concluBis 07/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
 * concluBis 08/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
 * concluBis 09/06/21 = Unbag _1 > 10; Lego masters _2 > 5; Vincenzo _1 > 4; We are not human _1 > 4; 
 * concluBis 10/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 3; Agt _16 > 2; 
-* concluBis 11/06/21 = Unbag _1 > 11; We are not human _1 > 4; Lego masters _2 > 3; Beat shazam _4 > 2; 
+* concluBis 11/06/21 = Unbag _1 > 11; We are not human _1 > 4; Lego masters _2 > 3; 
 * concluBis 12/06/21 = Unbag _1 > 10; Lego masters _2 > 4; We are not human _1 > 4; 
 * concluBis 13/06/21 = Unbag _1 > 10; Lego masters _2 > 4; We are not human _1 > 4; 
 * concluBis 14/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 3; 
 * concluBis 15/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 1; 
 * concluBis 16/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 1; 
 * concluBis 17/06/21 = Unbag _1 > 10; We are not human _1 > 4; Agt _16 > 1; 
-* concluBis 18/06/21 = Unbag _1 > 10; We are not human _1 > 4; Beat shazam _4 > 2; Dark blue kiss _1 > 1; 
+* concluBis 18/06/21 = Unbag _1 > 10; We are not human _1 > 4; Dark blue kiss _1 > 1; 
 * concluBis 19/06/21 = Unbag _1 > 8; We are not human _1 > 3; Elite _4 > 2; 
 * concluBis 20/06/21 = Unbag _1 > 8; Elite _4 > 3; We are not human _1 > 3; The cube _1 > 1; 
 * concluBis 21/06/21 = Unbag _1 > 10; Elite _4 > 5; The cube _1 > 4; We are not human _1 > 4; 
 * concluBis 22/06/21 = Unbag _1 > 10; Elite _4 > 4; We are not human _1 > 4; The cube _1 > 3; 
 * concluBis 23/06/21 = Unbag _1 > 10; Lego masters _2 > 4; We are not human _1 > 4; Elite _4 > 3; The cube _1 > 2; 
 * concluBis 24/06/21 = Unbag _1 > 10; We are not human _1 > 4; Elite _4 > 3; Agt _16 > 2; The cube _1 > 2; Lego masters _2 > 1; 
-* concluBis 25/06/21 = Unbag _1 > 10; We are not human _1 > 4; Beat shazam _4 > 3; Elite _4 > 3; Agt _16 > 2; Rpdrasu _6 > 2; Lego masters _2 > 1; Rpdras _6 > 1; 
-* concluBis 26/06/21 = Unbag _1 > 10; We are not human _1 > 4; The cube _1 > 3; Beat shazam _4 > 2; Rpdrasu _6 > 2; Rpdras _6 > 1; 
-* concluBis 27/06/21 = Unbag _1 > 10; We are not human _1 > 4; Rpdrasu _6 > 3; Beat shazam _4 > 2; Rpdras _6 > 2; Drop _1 > 1; 
-* concluBis 28/06/21 = Unbag _1 > 10; We are not human _1 > 4; Rpdrasu _6 > 3; Rpdras _6 > 2; Beat shazam _4 > 1; 
-* concluBis 29/06/21 = Unbag _1 > 10; Rpdrasu _6 > 4; We are not human _1 > 4; Rpdras _6 > 3; Beat shazam _4 > 1; Drop _1 > 1; Forever knight _1 > 1; 
+* concluBis 25/06/21 = Unbag _1 > 10; We are not human _1 > 4; Elite _4 > 3; Agt _16 > 2; Rpdrasu _6 > 2; Lego masters _2 > 1; Rpdras _6 > 1; 
+* concluBis 26/06/21 = Unbag _1 > 10; We are not human _1 > 4; The cube _1 > 3; Rpdrasu _6 > 2; Rpdras _6 > 1; 
+* concluBis 27/06/21 = Unbag _1 > 10; We are not human _1 > 4; Rpdrasu _6 > 3; Rpdras _6 > 2; Drop _1 > 1; 
+* concluBis 28/06/21 = Unbag _1 > 10; We are not human _1 > 4; Rpdrasu _6 > 3; Rpdras _6 > 2; 
+* concluBis 29/06/21 = Unbag _1 > 10; Rpdrasu _6 > 4; We are not human _1 > 4; Rpdras _6 > 3; Drop _1 > 1; Forever knight _1 > 1; 
 * concluBis 30/06/21 = Unbag _1 > 10; Rpdrasu _6 > 4; We are not human _1 > 4; Rpdras _6 > 3; Forever knight _1 > 1; 
 * concluBis 01/07/21 = Unbag _1 > 10; Agt _16 > 4; Rpdrasu _6 > 4; We are not human _1 > 4; Bt21 original story _1 > 3; Rpdras _6 > 3; Forever knight _1 > 1; 
 * concluBis 02/07/21 = Unbag _1 > 10; We are not human _1 > 4; Agt _16 > 3; Bt21 original story _1 > 2; Rpdrasu _6 > 1; 
-* concluBis 03/07/21 = Unbag _1 > 10; We are not human _1 > 4; Beat shazam _4 > 3; The cube _1 > 2; Bt21 original story _1 > 1; Forever knight _1 > 1; 
+* concluBis 03/07/21 = Unbag _1 > 10; We are not human _1 > 4; The cube _1 > 2; Bt21 original story _1 > 1; Forever knight _1 > 1; 
 * concluBis 04/07/21 = Unbag _1 > 10; We are not human _1 > 4; The cube _1 > 3; Bt21 original story _1 > 1; Forever knight _1 > 1; 
 * concluBis 05/07/21 = Unbag _1 > 10; We are not human _1 > 4; Bt21 original story _1 > 1; The cube _1 > 1; Forever knight _1 > 1; 
 * concluBis 06/07/21 = Unbag _1 > 10; We are not human _1 > 4; Young royals _1 > 3; Camping paradis _12 > 2; Bt21 original story _1 > 1; The cube _1 > 1; Forever knight _1 > 1; 
 * concluBis 07/07/21 = Unbag _1 > 10; Agt _16 > 10; Lego masters _2 > 6; We are not human _1 > 4; Forever knight _1 > 2; Bt21 original story _1 > 1; Drop _1 > 1; Imortal _1 > 1; 
 * concluBis 08/07/21 = Unbag _1 > 10; Agt _16 > 4; We are not human _1 > 4; Lego masters _2 > 3; Forever knight _1 > 2; Bt21 original story _1 > 1; Imortal _1 > 1; 
-* concluBis 09/07/21 = Unbag _1 > 10; Beat shazam _4 > 10; We are not human _1 > 4; Agt _16 > 3; Forever knight _1 > 2; Bt21 original story _1 > 1; Rpdrasu _6 > 1; Imortal _1 > 1; 
-* concluBis 10/07/21 = Unbag _1 > 10; Beat shazam _4 > 5; We are not human _1 > 4; Bt21 original story _1 > 3; /46 days _1 > 3; Rpdrasu _6 > 2; Forever knight _1 > 2; Rpdras _6 > 1; Imortal _1 > 1; 
-* concluBis 11/07/21 = Unbag _1 > 10; We are not human _1 > 4; Bt21 original story _1 > 3; Beat shazam _4 > 3; /46 days _1 > 3; Forever knight _1 > 2; Rpdrasu _6 > 1; Glow up _2 > 1; Imortal _1 > 1; 
-* concluBis 12/07/21 = Unbag _1 > 10; We are not human _1 > 4; Bt21 original story _1 > 3; /46 days _1 > 3; Beat shazam _4 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 13/07/21 = Unbag _1 > 10; /46 days _1 > 4; Bt21 original story _1 > 3; We are not human _1 > 3; Beat shazam _4 > 2; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 14/07/21 = Unbag _1 > 10; Bt21 original story _1 > 3; /46 days _1 > 3; We are not human _1 > 3; Drop _1 > 2; Forever knight _1 > 2; Beat shazam _4 > 1; Josephine ange gardien _24 > 1; Imortal _1 > 1; 
+* concluBis 09/07/21 = Unbag _1 > 10; We are not human _1 > 4; Agt _16 > 3; Forever knight _1 > 2; Bt21 original story _1 > 1; Rpdrasu _6 > 1; Imortal _1 > 1; 
+* concluBis 10/07/21 = Unbag _1 > 10; We are not human _1 > 4; Bt21 original story _1 > 3; /46 days _1 > 3; Rpdrasu _6 > 2; Forever knight _1 > 2; Rpdras _6 > 1; Imortal _1 > 1; 
+* concluBis 11/07/21 = Unbag _1 > 10; We are not human _1 > 4; Bt21 original story _1 > 3; /46 days _1 > 3; Forever knight _1 > 2; Rpdrasu _6 > 1; Glow up _2 > 1; Imortal _1 > 1; 
+* concluBis 12/07/21 = Unbag _1 > 10; We are not human _1 > 4; Bt21 original story _1 > 3; /46 days _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 13/07/21 = Unbag _1 > 10; /46 days _1 > 4; Bt21 original story _1 > 3; We are not human _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 14/07/21 = Unbag _1 > 10; Bt21 original story _1 > 3; /46 days _1 > 3; We are not human _1 > 3; Drop _1 > 2; Forever knight _1 > 2; Josephine ange gardien _24 > 1; Imortal _1 > 1; 
 * concluBis 15/07/21 = Unbag _1 > 8; /46 days _1 > 4; Bt21 original story _1 > 3; Agt _16 > 3; The cube _1 > 3; We are not human _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 16/07/21 = Unbag _1 > 10; The cube _1 > 10; Bt21 original story _1 > 5; Beat shazam _4 > 5; We are not human _1 > 4; Forever knight _1 > 3; Rpdrasu _6 > 2; Imortal _1 > 2; Rpdras _6 > 1; /46 days _1 > 1; 
-* concluBis 17/07/21 = Unbag _1 > 10; The cube _1 > 10; Beat shazam _4 > 6; We are not human _1 > 4; Forever knight _1 > 3; Agt _16 > 2; Rpdrasu _6 > 2; Given 2021 _1 > 2; Imortal _1 > 2; Rpdras _6 > 1; Bt21 original story _1 > 1; 
-* concluBis 18/07/21 = Unbag _1 > 10; The cube _1 > 8; Survivor au _5 > 6; We are not human _1 > 4; Beat shazam _4 > 3; Rpdrasu _6 > 3; Forever knight _1 > 3; Agt _16 > 2; Rpdras _6 > 2; Imortal _1 > 2; Bt21 original story _1 > 1; 
-* concluBis 19/07/21 = Survivor au _5 > 5; Unbag _1 > 5; The cube _1 > 4; /46 days _1 > 4; We are not human _1 > 4; Beat shazam _4 > 3; Forever knight _1 > 3; Agt _16 > 2; Imortal _1 > 2; Rpdrasu _6 > 1; Bt21 original story _1 > 1; 
-* concluBis 20/07/21 = Unbag _1 > 5; Survivor au _5 > 4; We are not human _1 > 4; Survivor au _8 > 3; Forever knight _1 > 3; Beat shazam _4 > 2; Rpdrasu _6 > 2; /46 days _1 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; The cube _1 > 1; Bt21 original story _1 > 1; 
+* concluBis 16/07/21 = Unbag _1 > 10; The cube _1 > 10; Bt21 original story _1 > 5; We are not human _1 > 4; Forever knight _1 > 3; Rpdrasu _6 > 2; Imortal _1 > 2; Rpdras _6 > 1; /46 days _1 > 1; 
+* concluBis 17/07/21 = Unbag _1 > 10; The cube _1 > 10; We are not human _1 > 4; Forever knight _1 > 3; Agt _16 > 2; Rpdrasu _6 > 2; Given 2021 _1 > 2; Imortal _1 > 2; Rpdras _6 > 1; Bt21 original story _1 > 1; 
+* concluBis 18/07/21 = Unbag _1 > 10; The cube _1 > 8; Survivor au _5 > 6; We are not human _1 > 4; Rpdrasu _6 > 3; Forever knight _1 > 3; Agt _16 > 2; Rpdras _6 > 2; Imortal _1 > 2; Bt21 original story _1 > 1; 
+* concluBis 19/07/21 = Survivor au _5 > 5; Unbag _1 > 5; The cube _1 > 4; /46 days _1 > 4; We are not human _1 > 4; Forever knight _1 > 3; Agt _16 > 2; Imortal _1 > 2; Rpdrasu _6 > 1; Bt21 original story _1 > 1; 
+* concluBis 20/07/21 = Unbag _1 > 5; Survivor au _5 > 4; We are not human _1 > 4; Survivor au _8 > 3; Forever knight _1 > 3; Rpdrasu _6 > 2; /46 days _1 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; The cube _1 > 1; Bt21 original story _1 > 1; 
 * concluBis 21/07/21 = Survivor au _5 > 15; Agt _16 > 10; Unbag _1 > 5; Survivor au _8 > 4; We are not human _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; Rpdrasu _6 > 1; /46 days _1 > 1; Bt21 original story _1 > 1; 
 * concluBis 22/07/21 = Survivor au _5 > 14; Unbag _1 > 10; /46 days _1 > 5; Agt _16 > 4; Survivor au _8 > 4; We are not human _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; Bt21 original story _1 > 1; 
-* concluBis 23/07/21 = Survivor au _5 > 14; Unbag _1 > 10; /46 days _1 > 7; We are not human _1 > 4; Beat shazam _4 > 3; Forever knight _1 > 3; Rpdrasu _6 > 2; Survivor au _8 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; Bt21 original story _1 > 1; 
-* concluBis 24/07/21 = Survivor au _5 > 14; Unbag _1 > 10; /46 days _1 > 7; We are not human _1 > 4; Beat shazam _4 > 3; Forever knight _1 > 3; Rpdrasu _6 > 2; Survivor au _8 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; Bt21 original story _1 > 1; 
+* concluBis 23/07/21 = Survivor au _5 > 14; Unbag _1 > 10; /46 days _1 > 7; We are not human _1 > 4; Forever knight _1 > 3; Rpdrasu _6 > 2; Survivor au _8 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; Bt21 original story _1 > 1; 
+* concluBis 24/07/21 = Survivor au _5 > 14; Unbag _1 > 10; /46 days _1 > 7; We are not human _1 > 4; Forever knight _1 > 3; Rpdrasu _6 > 2; Survivor au _8 > 2; Imortal _1 > 2; Agt _16 > 1; Rpdras _6 > 1; Bt21 original story _1 > 1; 
 
 
 

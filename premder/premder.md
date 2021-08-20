@@ -14,8 +14,6 @@ $
 Bangkok love stories innocence 1x2
 An eye for an eye 1x2
 Young royals 1x2
-Camping paradis 12x2
-Glow up 2x2
 * --
 Ciwyw 1x1
 Ciwyw 1x3
@@ -25,6 +23,15 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
+The cube 1x9
+Drag race nl 2x3
+Survivor 3x3
+* Survivor 3x1
+Rpdrasu 6x10
+Rpdras 6x10
+Marble mania 1x2
+Lego masters 2x8
+Unbag 1x28
 Agt 16x12
 The voice au 10x6
 Survivor au 8x14
@@ -32,17 +39,11 @@ Survivor au 5x11
 Survivor sa 8x6
 Given 2021 1x5
 Dont say no 1x2
-Drag race nl 2x2
-The cube 1x8
-Rpdrasu 6x9
-Rpdras 6x9
-Lego masters 2x7
 Drop 1x5
 * The voice au 10x1
 Good singers 1x4
 * Dont say no 1x1
 * Drag race nl 2x1
-Unbag 1x27
 Control z 2x2
 * Control z 2x1
 /46 days 1x7
@@ -50,7 +51,6 @@ Glow up 2x2
 * Survivor sa 8x1
 Rpdu 1x4
 Bt21 original story 1x10
-Beat shazam 4x8
 Camping paradis 12x3
 * Survivor au 8x1
 * Survivor au 5x1
@@ -72,7 +72,6 @@ Elite 4x3
 Dark blue kiss 1x2
 * Lego masters 2x1
 Vincenzo 1x2
-* Beat shazam 4x1
 * Vincenzo 1x1
 * Agt 16x1
 * Dark blue kiss 1x1

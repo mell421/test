@@ -370,9 +370,9 @@ Bt21 original story _1x9(1) An eye for an eye _1x2(1)
 #### sem 31-05-2021 
 Dark blue kiss _1x2(1) Unbag _1x23(1) 
 #### sem 07-06-2021 
-Vincenzo _1x3(2) Beat shazam _4x2(1) Agt _16x2(1) 
+Vincenzo _1x3(2) Agt _16x2(1) 
 #### sem 14-06-2021 
-Beat shazam _4x3(1) Unbag _1x24(1) Agt _16x3(1) Lego masters _2x3(2) 
+Unbag _1x24(1) Agt _16x3(1) Lego masters _2x3(2) 
 
 
 
@@ -704,7 +704,7 @@ Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story _1x9(1) An eye for an 
 * conclu 01/06/21 = Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 02/06/21 = Unbag _1 > 4; We are not human _1 > 1; 
 * conclu 03/06/21 = Unbag _1 > 6; Vincenzo _1 > 2; We are not human _1 > 2; Agt _16 > 1; 
-* conclu 04/06/21 = Unbag _1 > 6; Beat shazam _4 > 3; Vincenzo _1 > 2; We are not human _1 > 2; Agt _16 > 1; 
+* conclu 04/06/21 = Unbag _1 > 6; Vincenzo _1 > 2; We are not human _1 > 2; Agt _16 > 1; 
 * conclu 05/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
 * conclu 06/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
 * conclu 07/06/21 = Unbag _1 > 6; Vincenzo _1 > 3; We are not human _1 > 2; 
@@ -982,14 +982,14 @@ Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story _1x9(1) An eye for an 
 * concluBis 01/06/21 = Unbag _1 > 8; We are not human _1 > 3; 
 * concluBis 02/06/21 = Unbag _1 > 8; We are not human _1 > 3; 
 * concluBis 03/06/21 = Unbag _1 > 10; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; 
-* concluBis 04/06/21 = Unbag _1 > 10; Beat shazam _4 > 5; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; 
+* concluBis 04/06/21 = Unbag _1 > 10; Vincenzo _1 > 4; We are not human _1 > 4; Agt _16 > 3; 
 * concluBis 05/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
 * concluBis 06/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
 * concluBis 07/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
 * concluBis 08/06/21 = Unbag _1 > 10; Vincenzo _1 > 5; We are not human _1 > 4; 
 * concluBis 09/06/21 = Unbag _1 > 10; Lego masters _2 > 5; Vincenzo _1 > 4; We are not human _1 > 4; 
 * concluBis 10/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 3; Agt _16 > 2; 
-* concluBis 11/06/21 = Unbag _1 > 11; We are not human _1 > 4; Lego masters _2 > 3; Beat shazam _4 > 2; 
+* concluBis 11/06/21 = Unbag _1 > 11; We are not human _1 > 4; Lego masters _2 > 3; 
 * concluBis 12/06/21 = Unbag _1 > 10; Lego masters _2 > 4; We are not human _1 > 4; 
 * concluBis 13/06/21 = Unbag _1 > 10; Lego masters _2 > 4; We are not human _1 > 4; 
 * concluBis 14/06/21 = Unbag _1 > 10; We are not human _1 > 4; Lego masters _2 > 3; 
