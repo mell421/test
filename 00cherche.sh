@@ -11,7 +11,7 @@ list=( "Unbag _1" "Bt21 original story _1" # >= 100
 "The voice au _10" "Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
 "Drop _1" "Bt21 vlog _1" "Wabi show _1" # 14 - 10
 "" # 9
-"Given 2021 _1" "Schools out lets date now _1" "Tokyo ghoul _3" # 8
+"Schools out lets date now _1" "Tokyo ghoul _3" # 8
 "Good singers _1" "Rpdu _1" "You never eat alone _1" # 7
 "Control z _2" "Camping paradis _12" "Mr lipstick _1" "The untamed _1" # 6
 "Zombie detective _1" "Dark blue kiss _1" "The shipper _1" # 5
@@ -28,7 +28,7 @@ list99=( "Unbag _1" "Bt21 original story _1" # >= 200
 "My vampire boyfriend _1" "Agt _16" "Rpdrasu _6" "The cube _1" "Lego masters _2" "Survivor au _5" "Survivor au _8" # 199-100
 "46 days _1" "Rpdras _6" "Vincenzo _1" "The harvest season _1" # 99-50
 "Survivor sa _8" "" # 49-40
-"Koishite akuma _1" "Be love _1" "Given 2021 _1" # 39-30
+"Koishite akuma _1" "Be love _1" # 39-30
 "The voice au _10" "Drop _1" "Elite _4" "" # 29-20
 "Schools out lets date now _1" "You never eat alone _1" "Good singers _1" "Camping paradis _12" # 19-15
 "Dont say no _1" "Drag race nl _2" "Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Rpdu _1" "Tokyo ghoul _3" "Glow up _2" "The shipper _1" "Zombie detective _1" # 14-10
@@ -61,7 +61,7 @@ do
     
 done
 
-# for i in "${listBis[@]}"
+# for i in "${list99[@]}"
 # do
 #     echo "j =" $i
 #     ./0chercherSerie.sh $i 
@@ -69,7 +69,7 @@ done
 # done
 
 # echo "" > logChercher
-# for i in "${list[@]}"
+# for i in "${list99[@]}"
 # do
 #     echo "i =" $i >> logChercher
 #     # echo "count : " $(wc Z/$(echo $i | tr -d ' ' )) >> logChercher

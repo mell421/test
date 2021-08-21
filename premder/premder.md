@@ -37,7 +37,6 @@ The voice au 10x6
 Survivor au 8x14
 Survivor au 5x11
 Survivor sa 8x6
-Given 2021 1x5
 Dont say no 1x2
 Drop 1x5
 * The voice au 10x1
@@ -54,7 +53,6 @@ Bt21 original story 1x10
 Camping paradis 12x3
 * Survivor au 8x1
 * Survivor au 5x1
-* Given 2021 1x1
 Josephine ange gardien 24x1
 * Glow up 2x1
 Zombie detective 1x2
