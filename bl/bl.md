@@ -230,13 +230,13 @@
 |ydestiny|ydestiny|15|serie|thailande|                       <!-- 119 -->
 |pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 120 -->
 |nitiman|nitiman|10|serie|thailande|                          <!-- 121 -->
-|friend or lover|friend or lover|4|serie|taiwan|              <!-- 122 -->
 |love in time|love in time|9|serie(***)|hong kong|            <!-- 123 -->
 |the best story|the best story|3|serie|thailande|             <!-- 124 -->
 |stuck on you|stuck on you|8|serie|philippines|               <!-- 35 -->
 |golden blood|golden blood|8|serie|thailande|                 <!-- 37 -->
 |light on me|light on me|16|serie|corée|                      <!-- 38 -->
 |given 2021|given 2021|6|serie|japon|                         <!-- 40 -->
+|friend or lover|friend or lover|5|serie|taiwan|              <!-- 122 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

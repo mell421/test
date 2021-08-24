@@ -385,7 +385,6 @@
 |skam france 8||10|||<!--  -->
 |nitiman|nitiman|10|serie|thailande|                          <!-- 40 -->
 |God shave the queens||8|||<!--  -->
-|friend or lover|friend or lover|4|serie|taiwan|              <!-- 34 -->
 |love in time 1||9|||<!--  -->
 |surv au 4||27|||<!--  -->
 |domino challenge 1||4|||<!--  -->
@@ -412,8 +411,10 @@
 |AHSS 1||7|||<!--  -->
 |light on me 1||16|||<!--  -->
 |dragula 3||10|||<!--  -->
-|beat shazam 4||10|||<!--2/6  -->
+|beat shazam 4||10|||<!--  -->
 |given 2021||6|||<!--  -->
+|friend or lover|friend or lover|5|serie|taiwan|              <!-- 34 -->
+|survivor 3||15|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

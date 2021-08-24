@@ -16,6 +16,7 @@ library(dplyr)
 require(devtools)
 library(wordcloud2)
 library(car)
+library(DT)
 
 ```
 
