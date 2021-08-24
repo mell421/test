@@ -12,7 +12,7 @@ list=( "Unbag _1" "Bt21 original story _1" # >= 100
 "Drop _1" "Bt21 vlog _1" "Wabi show _1" # 14 - 10
 "" # 9
 "Schools out lets date now _1" "Tokyo ghoul _3" # 8
-"Good singers _1" "Rpdu _1" "You never eat alone _1" # 7
+"Good singers _1" "You never eat alone _1" # 7
 "Control z _2" "Camping paradis _12" "Mr lipstick _1" "The untamed _1" # 6
 "Zombie detective _1" "Dark blue kiss _1" "The shipper _1" # 5
 "Glow up _2" "Young royals _1" "I can see your voice fr _1" "Unlocked _1" # 4
@@ -31,7 +31,7 @@ list99=( "Unbag _1" "Bt21 original story _1" # >= 200
 "Koishite akuma _1" "Be love _1" # 39-30
 "The voice au _10" "Drop _1" "Elite _4" "" # 29-20
 "Schools out lets date now _1" "You never eat alone _1" "Good singers _1" "Camping paradis _12" # 19-15
-"Dont say no _1" "Drag race nl _2" "Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Rpdu _1" "Tokyo ghoul _3" "Glow up _2" "The shipper _1" "Zombie detective _1" # 14-10
+"Dont say no _1" "Drag race nl _2" "Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Tokyo ghoul _3" "Glow up _2" "The shipper _1" "Zombie detective _1" # 14-10
 "Control z _2" "I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9
 "Unlocked _1" "The untamed _1" "" # 8
 "Young royals _1" "Marble mania _1" "Tien bromance _1" "" # 7

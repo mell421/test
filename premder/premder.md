@@ -47,7 +47,6 @@ Control z 2x2
 /46 days 1x7
 Glow up 2x2
 * Survivor sa 8x1
-Rpdu 1x4
 Bt21 original story 1x10
 Camping paradis 12x3
 * Survivor au 8x1
