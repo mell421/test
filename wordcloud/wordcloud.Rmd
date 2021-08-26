@@ -915,6 +915,9 @@ dataC <- data.frame(CopyS$nbCarConclu,CopyS$nbCarConcluBis,CopyS$jour_1,CopyS$da
   lines(CopyS$nbCarConcluBis,type = "l",col="red")
   lines(CopyS$nbCarConclu,type = "l",col="blue")
   
+  plot(CopyS$ncb,main="nb de saisons conclu",type = "l",col="red",xlab = "date",ylab = "nb ds conclu")
+  lines(CopyS$ncb,type = "l",col="red")
+  lines(CopyS$nc,type = "l",col="blue")
 ```
 
 ## max

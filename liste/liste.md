@@ -415,7 +415,7 @@
 |given 2021||6|||<!--  -->
 |friend or lover|friend or lover|5|serie|taiwan|              <!-- 34 -->
 |survivor 3||15|||<!--  -->
-||||||<!--  -->
+|koh-lanta 1||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 |josephine ange gardien 23||4|||<!-- 29/12/20  -->
@@ -566,7 +566,18 @@
 |glow up 2||10|||1|<!--  -->
 |josephine ange gardien 24||6|||1|<!--  -->
 |survivor au 5||25||||<!--  -->
-|survivor au 8||?||||<!--  -->
+|survivor au 8||25||||<!--  -->
+|survivor sa 8||14||||<!--  -->
+|Control z 2||6||||<!--  -->
+|drag race nl 2||?|||0|<!--  -->
+|the voice au 10||?||||<!--  -->
+|KL 27||?||||<!--  -->
+|post mortem 1||6||||<!--  -->
+|Survivor 4||15||||<!--  -->
+|AHS 10||10||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -576,9 +587,7 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |bad buddy 1||12|||0|<!--  -->
-|control z 2||?|||0|<!--  -->
 |don't say no 1||?|||0|<!--  -->
-|drag race nl 2||?|||0|<!--  -->
 |the titan games 3||?|||0|<!--  -->
 |ahs 10||?|||0|<!--  -->
 |q-force 1||?|||0|<!--  -->
