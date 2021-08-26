@@ -28,7 +28,7 @@ document.write(`
               <td>15</td>
               <td>16<br>gen y 106</td>
               <td>17<br><span class="debut">the stand 101</span></td>
-              <td>18<br>tharnType 207</td>
+              <td>18</td>
               <td>19</td>
               <td>20</td>
           </tr>
@@ -37,7 +37,7 @@ document.write(`
               <td>22</td>
               <td>23<br>gen y 107</td>
               <td>24</td>
-              <td>25<br>tharnType 208</td>
+              <td>25</td>
               <td>26</td>
               <td>27</td>
           </tr>

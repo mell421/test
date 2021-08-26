@@ -5,8 +5,126 @@
 
 # ajout reponse
 
-### date de maj
-03/04/21
+### sommaire
+- [ajout reponse](#ajout-reponse)
+    - [sommaire](#sommaire)
+  - [Aperçu semaine](#aperçu-semaine)
+    - [sem 06-01-2020](#sem-06-01-2020)
+    - [sem 13-01-2020](#sem-13-01-2020)
+    - [sem 20-01-2020](#sem-20-01-2020)
+    - [sem 27-01-2020](#sem-27-01-2020)
+    - [sem 03-02-2020](#sem-03-02-2020)
+    - [sem 10-02-2020](#sem-10-02-2020)
+    - [sem 17-02-2020](#sem-17-02-2020)
+    - [sem 24-02-2020](#sem-24-02-2020)
+    - [sem 02-03-2020](#sem-02-03-2020)
+    - [sem 09-03-2020](#sem-09-03-2020)
+    - [sem 16-03-2020](#sem-16-03-2020)
+    - [sem 23-03-2020](#sem-23-03-2020)
+    - [sem 30-03-2020](#sem-30-03-2020)
+    - [sem 06-04-2020](#sem-06-04-2020)
+    - [sem 13-04-2020](#sem-13-04-2020)
+    - [sem 20-04-2020](#sem-20-04-2020)
+    - [sem 27-04-2020](#sem-27-04-2020)
+    - [sem 04-05-2020](#sem-04-05-2020)
+    - [sem 11-05-2020](#sem-11-05-2020)
+    - [sem 18-05-2020](#sem-18-05-2020)
+    - [sem 25-05-2020](#sem-25-05-2020)
+    - [sem 01-06-2020](#sem-01-06-2020)
+    - [sem 08-06-2020](#sem-08-06-2020)
+    - [sem 15-06-2020](#sem-15-06-2020)
+    - [sem 22-06-2020](#sem-22-06-2020)
+    - [sem 29-06-2020](#sem-29-06-2020)
+    - [sem 06-07-2020](#sem-06-07-2020)
+    - [sem 13-07-2020](#sem-13-07-2020)
+    - [sem 20-07-2020](#sem-20-07-2020)
+    - [sem 27-07-2020](#sem-27-07-2020)
+    - [sem 03-08-2020](#sem-03-08-2020)
+    - [sem 10-08-2020](#sem-10-08-2020)
+    - [sem 17-08-2020](#sem-17-08-2020)
+    - [sem 24-08-2020](#sem-24-08-2020)
+    - [sem 31-08-2020](#sem-31-08-2020)
+    - [sem 07-09-2020](#sem-07-09-2020)
+    - [sem 14-09-2020](#sem-14-09-2020)
+    - [sem 21-09-2020](#sem-21-09-2020)
+    - [sem 28-09-2020](#sem-28-09-2020)
+    - [sem 05-10-2020](#sem-05-10-2020)
+    - [sem 12-10-2020](#sem-12-10-2020)
+    - [sem 19-10-2020](#sem-19-10-2020)
+    - [sem 26-10-2020](#sem-26-10-2020)
+    - [sem 02-11-2020](#sem-02-11-2020)
+    - [sem 09-11-2020](#sem-09-11-2020)
+    - [sem 16-11-2020](#sem-16-11-2020)
+    - [sem 23-11-2020](#sem-23-11-2020)
+    - [sem 30-10-2020](#sem-30-10-2020)
+    - [sem 07-12-2020](#sem-07-12-2020)
+    - [sem 14-12-2020](#sem-14-12-2020)
+    - [sem 21-12-2020](#sem-21-12-2020)
+    - [sem 28-12-2020](#sem-28-12-2020)
+    - [sem 04-01-2021](#sem-04-01-2021)
+    - [sem 11-01-2021](#sem-11-01-2021)
+    - [sem 18-01-2021](#sem-18-01-2021)
+    - [sem 25-01-2021](#sem-25-01-2021)
+    - [sem 01-02-2021](#sem-01-02-2021)
+    - [sem 08-02-2021](#sem-08-02-2021)
+    - [sem 15-02-2021](#sem-15-02-2021)
+    - [sem 22-02-2021](#sem-22-02-2021)
+    - [sem 01-03-2021](#sem-01-03-2021)
+    - [sem 08-03-2021](#sem-08-03-2021)
+    - [sem 15-03-2021](#sem-15-03-2021)
+    - [sem 22-03-2021](#sem-22-03-2021)
+    - [sem 29-03-2021](#sem-29-03-2021)
+    - [sem 05-04-2021](#sem-05-04-2021)
+    - [sem 12-04-2021](#sem-12-04-2021)
+    - [sem 19-04-2021](#sem-19-04-2021)
+    - [sem 26-04-2021](#sem-26-04-2021)
+    - [sem 03-05-2021](#sem-03-05-2021)
+    - [sem 10-05-2021](#sem-10-05-2021)
+    - [sem 17-05-2021](#sem-17-05-2021)
+    - [sem 24-05-2021](#sem-24-05-2021)
+    - [sem 31-05-2021](#sem-31-05-2021)
+    - [sem 07-06-2021](#sem-07-06-2021)
+    - [sem 14-06-2021](#sem-14-06-2021)
+    - [sem 21-06-2021](#sem-21-06-2021)
+    - [sem 28-06-2021](#sem-28-06-2021)
+    - [sem 05-07-2021](#sem-05-07-2021)
+    - [sem 12-07-2021](#sem-12-07-2021)
+    - [sem 19-07-2021](#sem-19-07-2021)
+    - [sem 26-07-2021](#sem-26-07-2021)
+    - [sem 02-08-2021](#sem-02-08-2021)
+    - [sem 09-08-2021](#sem-09-08-2021)
+    - [sem 16-08-2021](#sem-16-08-2021)
+    - [sem 23-08-2021](#sem-23-08-2021)
+    - [sem 30-08-2021](#sem-30-08-2021)
+    - [sem -09-2021](#sem--09-2021)
+    - [sem -09-2021](#sem--09-2021-1)
+    - [sem -09-2021](#sem--09-2021-2)
+  - [bientot](#bientot)
+  - [apercu mois](#apercu-mois)
+      - [mois 01-01-2020](#mois-01-01-2020)
+      - [mois 01-02-2020](#mois-01-02-2020)
+      - [mois 01-03-2020](#mois-01-03-2020)
+      - [mois 01-04-2020](#mois-01-04-2020)
+      - [mois 01-05-2020](#mois-01-05-2020)
+      - [mois 01-06-2020](#mois-01-06-2020)
+      - [mois 01-07-2020](#mois-01-07-2020)
+      - [mois 01-08-2020](#mois-01-08-2020)
+      - [mois 01-09-2020](#mois-01-09-2020)
+      - [mois 01-10-2020](#mois-01-10-2020)
+      - [mois 01-11-2020](#mois-01-11-2020)
+      - [mois 01-12-2020](#mois-01-12-2020)
+      - [mois 01-01-2021](#mois-01-01-2021)
+      - [mois 01-02-2021](#mois-01-02-2021)
+      - [mois 01-03-2021](#mois-01-03-2021)
+      - [mois 01-04-2021](#mois-01-04-2021)
+      - [mois 01-05-2021](#mois-01-05-2021)
+      - [mois 01-06-2021](#mois-01-06-2021)
+      - [mois 01-07-2021](#mois-01-07-2021)
+      - [mois 01-08-2021](#mois-01-08-2021)
+      - [mois 01-09-2021](#mois-01-09-2021)
+      - [mois 01-10-2021](#mois-01-10-2021)
+      - [mois 01-11-2021](#mois-01-11-2021)
+      - [mois 01-12-2021](#mois-01-12-2021)
 
 ## Aperçu semaine
 
@@ -49,8 +167,8 @@
 * The voice au _7
 * La casa de papel _2
 * Elite _3
-* The circle _1
-* Pékin express _13
+* The circle us _1
+* Pekin express _13
 * Nailed it holiday _1
 * La casa de papel _1
 ### sem 20-04-2020 
@@ -338,21 +456,215 @@
 * Sea him _1
 ### sem 29-03-2021 
 * Nailed it _5
+* Mako ventures _1
 * The voice nl _11
 * Survivor au _1
 ### sem 05-04-2021 
-* *insererici*
 * Meet my angel _1
 * Atots _1
 * Absolute bl _1
 * The masked singer de _4
 * Survivor au _2
 ### sem 12-04-2021 
-* *insererici*
+* Rpdru _13
+* We best love _2
 ### sem 19-04-2021 
+* Nailed it holiday _2
+* The circle france _1
+* Roommate _2
+* The voice be _9
+* Woodward cheer girls _1
+### sem 26-04-2021 
+* Rpdr _13
+* Drag race holland _1
+* Survivor au _3
+### sem 03-05-2021 
+* Clem _11
+* My superboss _1
+* Why are you like this _1
+* Bad roommate _1
+* The voice kids ger _9
+* Pekin express _14
+* Wabi vlog _1
+### sem 10-05-2021 
+* Nobleman ryus wedding _1
+* The circle br _1
+* The circle us _2
+### sem 17-05-2021 
+* History4 close to you _1
+* The voice _10
+* Young sheldon _4
+* Love death & robots _2
+* Lovely writer _1
+* The sweet blood _1
+### sem 24-05-2021 
+* *insererici*
+### sem 31-05-2021 
+* *insererici*
+* The voice vv _7
+* The most peaceful place _1
+* Kiss me again peteKao cut _1
+* Close friend _1
+* The masked singer _5
+* The voice us _20
+* Game of talents _1
+* Plan b _1
+* Given _1
+* /9-1-1 lone star _2
+* /9-1-1 _4
+### sem 07-06-2021 
+* My lascivious boss _1
+* The masked dancer uk _1
+* Skinship _2
+* The voice kids nl _10
+* Koh-lanta _26
+* Lls _1
+* The voice no _6
+### sem 14-06-2021 
+* Weekend to remember _1
+* History3 modc _1
+* Love victor _2
+* Top chef _12
+* History3 trapped _1
+### sem 21-06-2021 
+* Kaamelott _5
+* Hes coming to me _1
+* Rpdrdu _1
+* Elite _3.5
+* Special _2
+* Sfu _5
+### sem 28-06-2021 
+* Precise shot _1
+* Wtfock _5
+* Fish upon the sky _1
+* Life senjou no bokura _1
+### sem 05-07-2021 
+* Mortel _2
+* Tharntype _2
+### sem 12-07-2021 
+* God shave the queens _1
+* Nitiman _1
+* Skam france _8
+* Pearl next door _1
+* Glow up _1
+* Ydestiny _1
+### sem 19-07-2021 
+* La mas draga _1
+* Queen of drags _1
+* Mental _1
+* Domino challenge _1
+* Survivor au _4
+* Love in time _1
+### sem 26-07-2021 
+* Drag race esp _1
+* The best story _1
+* Crime scene kitchen _1
+* Rpdru _9
+* La mas draga _2
+### sem 02-08-2021 
+* Rpdr out of the closet _1
+* Stuck on you _1
+* Survivor _40
+* Kaamelott _6
+### sem 09-08-2021 
+* La mas draga _3
+* Dragula _1
+* Rpdr out of the closet _2
+### sem 16-08-2021 
+* Drag tots _1
+* Golden blood _1
+* Survivor _1
+### sem 23-08-2021 
+* *insererici*
+* Friend or lover _1
+* Given 2021 _1
+* Beat shazam _4
+* Dragula _3
+* Light on me _1
+* Ahss _1
+* Survivor _2
+* Dragula _2
+### sem 30-08-2021 
+* *insererici*
+* Koh-lanta _1
+* Rpdu _1
+* Survivor _3
+### sem -09-2021 
+* *insererici*
+### sem -09-2021 
+* *insererici*
+### sem -09-2021 
 * *insererici*
 
 
+---
+
+## bientot
+* Mr lipstick _1
+* 
+* $ nbPcTps $
+* Elite _4
+* Tokyo ghoul _3
+* Young royals _1
+* Mental _2
+* Glow up _2
+* 
+* Josephine ange gardien _23 (29/12/20)
+* 
+* $ a jour $
+* Rpdrasu _6
+* Post mortem _1
+* The cube _1
+* Drop _1
+* 46 days _1
+* Rpdras _6
+* Lego masters _2
+* Nailed it _6
+* Drag race nl _2
+* Ahs _10
+* Rpdruk _3
+* Peach of time _1
+* Control z _2
+* 
+* 
+* 
+* 
+* $ a venir $
+* Koh-lanta _27
+* Game of talents fr _1
+* Bite me _1
+* Q-force _1
+* /9-1-1 _5
+* Dwts _30
+* The voice us _21
+* Alter ego _1
+* Survivor _41
+* The masked singer _6
+* Young sheldon _5
+* Dragula _4
+* Dexter _9
+* Queen of the universe _1
+* 
+* $ other $
+* Agt _16
+* 
+* The voice au _10
+* Survivor au _8
+* Survivor au _5
+* Survivor sa _8
+* Dont say no _1
+* Unbag _1
+* 
+* 
+* Vincenzo _1
+* Dark blue kiss _1
+* Bt21 original story _1
+* 
+* 
+* $ plus tard $
+* /9-1-1 lone star _3
+* 
+* 
 
 
 ---
@@ -368,7 +680,7 @@
 #### mois 01-04-2020 
 *Vampires _1 Valemont _1 Stalk _1 Strictly come dancing _15 The voice kids be _1 /9-1-1 lone star _1 The greatest dancer _2 Skam france _5 The voice au _8*
 #### mois 01-05-2020 
-*Les simpson _2 The voice vv _5 Young sheldon _3 Arrow _6 The masked singer de _2 The voice kids de _8 Ares _1 October faction _1 Will and grace _11 Kaamelott _3 Carmilla _4 Skam espana _3 Monsieur flap _3 Lego masters _1 Descendants wicked world _2 Descendants wicked world _1 Visible out on television _1 The voice au _7 La casa de papel _2 Elite _3 The circle _1 Pékin express _13 Nailed it holiday _1 La casa de papel _1 Cheerleaders _1*
+*Les simpson _2 The voice vv _5 Young sheldon _3 Arrow _6 The masked singer de _2 The voice kids de _8 Ares _1 October faction _1 Will and grace _11 Kaamelott _3 Carmilla _4 Skam espana _3 Monsieur flap _3 Lego masters _1 Descendants wicked world _2 Descendants wicked world _1 Visible out on television _1 The voice au _7 La casa de papel _2 Elite _3 The circle _1 Pekin express _13 Nailed it holiday _1 La casa de papel _1 Cheerleaders _1*
 #### mois 01-06-2020 
 *TharnType _1 Rpdr _12 Cheerleaders champions league _1 Alyssas secret _2 Control z _1 Cheerleaders _3 The voice kids nl _1 The masked singer _3 The voice us _18 The outs _1 Cheerleaders _2 Cheerhab _1 The voice senior nl _2 Rpdru _12 Rpscdr _1 The voice senior nl _1 /9-1-1 _3 The voice uk _8 The voice nl _6 Tbbt _9 The voice senior vv _1 Amours solitaires _1*
 #### mois 01-07-2020 
@@ -390,23 +702,23 @@
 #### mois 01-03-2021 
 *Dancing on ice uk _12 You are ma boy _1 Manner of death _1 History2 crossing the line _1 Druck _6 Nations brother _1 The masked dancer 1 History2 right or wrong _1 The masked singer uk _2 Love stage _1 Fools _1 We best love _1 To my star _1*
 #### mois 01-04-2021 
-*insererici Absolute bl _1 The masked singer de _4 Survivor au _2 Nailed it _5 The voice nl _11 Survivor au _1 Our memory _1 The voice uk _10 Skam france _7 You make me dance _1 Rpdruk _2 Girl2k _1 Bt21 universe _3 Sea him _1 Survivor au _7 Dancing on ice uk _13 Happenstance _1 Bt21 universe _2 Evening cafe _1 Name that tune _1*
+*Absolute bl _1 The masked singer de _4 Survivor au _2 Nailed it _5 Mako ventures _1 The voice nl _11 Survivor au _1 Our memory _1 The voice uk _10 Skam france _7 You make me dance _1 Rpdruk _2 Girl2k _1 Bt21 universe _3 Sea him _1 Survivor au _7 Dancing on ice uk _13 Happenstance _1 Bt21 universe _2 Evening cafe _1 Name that tune _1*
 #### mois 01-05-2021 
-*insererici Meet my angel _1 Atots _1*
+*My superboss _1 Why are you like this _1 Bad roommate _1 The voice kids ger _9 Pekin express _14 Wabi vlog _1 Rpdr _13 Drag race holland _1 Survivor au _3 Nailed it holiday _2 The circle france _1 Roommate _2 The voice be _9 Woodward cheer girls _1 Rpdru _13 We best love _2 Meet my angel _1 Atots _1*
 #### mois 01-06-2021 
-*insererici*
+*The voice vv _7 The most peaceful place _1 Kiss me again peteKao cut _1 Close friend _1 The masked singer _5 The voice us _20 Game of talents _1 Plan b _1 Given _1 /9-1-1 lone star _2 /9-1-1 _4 History4 close to you _1 The voice _10 Young sheldon _4 Love death & robots _2 Lovely writer _1 The sweet blood _1 Nobleman ryus wedding _1 The circle br _1 The circle us _2 Clem _11*
 #### mois 01-07-2021 
-**
+*Precise shot _1 Wtfock _5 Fish upon the sky _1 Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
 #### mois 01-08-2021 
-**
+*Stuck on you _1 Survivor _40 Kaamelott _6 Drag race esp _1 The best story _1 Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
-**
+*insererici Koh-lanta _1 Rpdu _1 Survivor _3 Friend or lover _1 Given 2021 _1 Beat shazam _4 Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
 #### mois 01-10-2021 
-**
+*insererici*
 #### mois 01-11-2021 
-**
+*insererici*
 #### mois 01-12-2021 
-**
+*insererici*
 
 
 

@@ -15,7 +15,7 @@ document.write(`
         <td>5</td>
         <td>6<br>gen y 109</td>
         <td>7</td>
-        <td>8<br><span class="debut">ADOW 201</span><br>tharnType 209</td>
+        <td>8<br><span class="debut">ADOW 201</span></td>
         <td>9</td><td>10</td>
     </tr>
     <tr>
@@ -23,7 +23,7 @@ document.write(`
         <td>12<br>TGDO 406</td>
         <td>13<br>gen y 110</td>
         <td>14</td>
-        <td>15<br>tharnType 210<br>ADOW 202</td>
+        <td>15<br>ADOW 202</td>
         <td>16</td><td>17</td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ document.write(`
         <td>19<br>YNEA 105</td>
         <td>20<br>gen y 111</td>
         <td>21</td>
-        <td>22<br>tharnType 211<br>ADOW 203</td>
+        <td>22<br>ADOW 203</td>
         <td>23</td>
         <td>24</td>
     </tr>
@@ -40,7 +40,7 @@ document.write(`
         <td>26<br>YNEA 106</td>
         <td>27<br><span class="fin">gen y 112</span></td>
         <td>28</td>
-        <td>29<br><span class="fin">tharnType 212</span><br>ADOW 204</td>
+        <td>29<br>ADOW 204</td>
         <td>30</td>
         <td>31</td>
     </tr>

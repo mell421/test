@@ -12,7 +12,7 @@ document.write(`
   <tr>
       <td>2✔️</td><td>3✔️</td><td>4✔️</td>
       <td>5✔️<br>ITSAY 103<br>ben x jim 104</td>
-      <td>6✔️<br><span class="fin">DR NL 108</span></td>
+      <td>6✔️</td>
       <td>7✔️</td>
       <td>8✔️<br>boys lockdown 104</td>
   </tr>

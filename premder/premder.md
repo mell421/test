@@ -1,114 +1,112 @@
 [retour](./../index.html)
 
-### date de maj
-04/04/21
+# premder
+
+### sommaire
+- [premder](#premder)
+    - [sommaire](#sommaire)
+    - [a mettre](#a-mettre)
+    - [tisaep all](#tisaep-all)
+
+### a mettre
+* $
+$
+Bangkok love stories innocence 1x2
+An eye for an eye 1x2
+Young royals 1x2
+* --
+Ciwyw 1x1
+Ciwyw 1x3
+Papa and daddy 1x2
+Papa and daddy 1x1
 
 ### tisaep all
 * $
 $
-Drag race holland 1x4
-The voice us 20x8
-Lls 1x131
-Bad roommate 1x12
+From dusk till dawn 2x5
+Survivor au 8x17
+The voice au 10x8
+Dont say no 1x3
+Drop 1x6
+The cube 1x9
+Drag race nl 2x3
+Rpdrasu 6x10
+Rpdras 6x10
+Marble mania 1x2
+Lego masters 2x8
+Unbag 1x28
+Agt 16x12
+Survivor au 5x11
+Survivor sa 8x6
+* The voice au 10x1
+Good singers 1x4
+* Dont say no 1x1
+* Drag race nl 2x1
+Control z 2x2
+* Control z 2x1
+/46 days 1x7
+Glow up 2x2
+* Survivor sa 8x1
+Bt21 original story 1x10
+Camping paradis 12x3
+* Survivor au 8x1
+* Survivor au 5x1
+Josephine ange gardien 24x1
+* Glow up 2x1
+Zombie detective 1x2
+* /46 days 1x1
+* Young royals 1x1
+* Camping paradis 12x1
+* Drop 1x1
+* Marble mania 1x1
+* Rpdrasu 6x1
+* Rpdras 6x1
+* Siew sum noi 1x1
+Elite 4x3
+* The cube 1x1
+* Elite 4x1
+Dark blue kiss 1x2
+* Lego masters 2x1
+Vincenzo 1x2
+* Vincenzo 1x1
+* Agt 16x1
+* Dark blue kiss 1x1
+* An eye for an eye 1x1
+I can see your voice fr 1x2
+* I can see your voice fr 1x1
 Mr lipstick 1x2
 * Mr lipstick 1x1
-Bt21 original story 1x7
-Wabi vlog 1x12
-The voice kids ger 9x6
-History4 close to you 1x4
-The most peaceful place 1x2
-* The most peaceful place 1x1
-* My lascivious boss 1x1
-The voice 10x9
-Survivor au 3x5
-Rpdru 13x13
-Rpdr 13x13
-* The voice kids nl 10x1
-The voice vv 7x9
-Koh-lanta 26x4
-We best love 2x5
-Young sheldon 4x12
-Mental 1x5
-Top chef 12x8
-Unbag 1x18
-History3 trapped 1x4
-Lovely writer 1x6
-Game of talents 1x4
-The masked singer 5x4
-* Survivor au 3x1
-Pekin express 14x6
-* Ydestiny 1x1
-The voice be 9x14
-Precise shot 1x4
-* Precise shot 1x1
-Mako ventures 1x12
-The voice no 6x12
-* Friend or lover 1x1
 Bt21 vlog 1x3
 * Bt21 vlog 1x1
 * Bt21 original story 1x1
 Schools out lets date now 1x5
-* Bad roommate 1x1
-* History4 close to you 1x1
-* Koh-lanta 26x1
-* Game of talents 1x1
-* The masked singer 5x1
 You never eat alone 1x4
-911 lone star 2x8
-911 4x8
-* We best love 2x1
-* The voice us 20x1
-* The voice kids ger 9x1
-* Lovely writer 1x1
-* Pekin express 14x1
-* History3 trapped 1x1
-Given 1x2
-* Given 1x1
 Unlocked 1x2
-Pearl next door 1x3
 My vampire boyfriend 1x6
 Tokyo ghoul 3x16
-Love in time 1x5
 * Bangkok love stories innocence 1x1
-* Top chef 12x1
 The harvest season 1x4
 * The harvest season 1x1
 Wabi game 1x2
 * Wabi game 1x1
-* Wabi vlog 1x1
 * Tbbt 11x1
 The untamed 1x3
-* The voice 10x1
-* The voice vv 7x1
 * Schools out lets date now 1x1
 * You never eat alone 1x1
 * Slam dance 1x1
 Be love 1x3
-TharnType 2x5
 The shipper 1x4
 * Tien bromance 1x1
 Ben x jim 1x2
-* 911 lone star 2x1
-* 911 4x1
 Koishite akuma 1x3
 * Koishite akuma 1x1
-* The voice no 6x1
 * Warper series 1x1
-* Pearl next door 1x1
 * Romantic blue 1x1
 * Unlocked 1x1
 Friend zone 1x3
-Rpdru 9x7
 * Together with me 1x1
-* Rpdru 13x1
-* Rpdr 13x1
-* Mako ventures 1x1
 Ghost runner 1x4
-* The voice be 9x1
-Joséphine ange gardien 23x4
 Capture lover 1x2
-* Roommate 2x1
-From dusk till dawn 2x3
 * From dusk till dawn 2x1
 Lakan 1x4
 * A queen is born 1x1
@@ -117,8 +115,6 @@ Lakan 1x4
 * Be love 1x1
 Pogi lang hanap 1x4
 * My vampire boyfriend 1x1
-* TharnType 2x1
-* Young sheldon 4x1
 Blood 1x16
 * The good doctor 4x1
 Swap test 1x2
@@ -130,7 +126,6 @@ Boys lockdown 1x2
 * Swap test 1x1
 Quien es la mascara 2x2
 * Quien es la mascara 2x1
-* Joséphine ange gardien 23x1
 * Ben x jim 1x1
 * Boys lockdown 1x1
 We are not human 1x18
@@ -139,21 +134,14 @@ We are not human 1x18
 * Zombie detective 1x1
 * Friend forever 1x1
 * My day 1x1
-* Love in time 1x1
-* Drag race holland 1x1
 * Baby 3x1
-Hes coming to me 1x2
 * My dear loser edge of 17 1x1
 Aggretsuko 3x3
-Nailed it holiday 2x2
 * Unbag 1x1
 * Aggretsuko 3x1
 So much in love 1x2
 * Blacklist series 1x1
-Good singers 1x2
-* Hes coming to me 1x1
 * So much in love 1x1
-* Survivor 40x1
 The office 1x4
 You 1x2
 Long khong 1x4
@@ -174,8 +162,6 @@ Blank 1x4
 * Arrow 7x1
 * Top chef us 1x1
 * La casa de papel 4x1
-Kaamelott 5x12
-* Kaamelott 5x1
 Tf 4x13
 Heirs of the night 1x3
 * Heirs of the night 1x1
@@ -197,16 +183,12 @@ Magic for humans 2x2
 * Port charles 1x1
 Ninja warrior junior us 2x7
 All for one 2x3
-* The circle br 1x1
 Les ratz 1x4
 Les zinzins de lespace 1x4
 * Les zinzins de lespace 1x1
-The circle france 1x3
 * Mental samourai 1x1
 Hsmtmts 1x3
-* Nailed it holiday 2x1
 Only connect 15x24
-* The circle france 1x1
 * Bloodride 1x1
 Ahs 9x4
 Why women kill 1x3
@@ -243,14 +225,12 @@ Supergirl 1x9
 * Imortal 1x1
 * La guerre des mondes bbc 1x1
 Here and now 1x3
-Sfu 5x6
 * Magic for humans 2x1
 New amsterdam 1x7
 * Forever knight 1x1
 * Vwars 1x1
 Sam & cat 1x20
 * Hsmtmts 1x1
-* Mental 1x1
 Teotfw 2x3
 * Teotfw 2x1
 The l word 1x4
@@ -261,9 +241,7 @@ The politician 1x4
 Skam vsg 1x4
 * Community 1x1
 * Two pints of lager 3x1
-La mas draga 1x2
 * Dawson 1x1
-* La mas draga 1x1
 * Prodigal son 1x1
 * The politician 1x1
 * Criminal uk 1x1
@@ -284,7 +262,6 @@ Total drama 2x6
 * Chica vampiro 1x1
 Travelers 1x4
 * Dark 1x1
-Dragula 1x3
 Dna 1x5
 Riverdale 3x10
 Kunoichi 1x7
@@ -296,7 +273,6 @@ Scrubs 1x10
 * Euphoria 1x1
 Light as a feather 1x6
 * Will and grace 5x1
-* Dragula 1x1
 Nos4a2 1x3
 Doom patrol 1x4
 Rupaul show 1x5

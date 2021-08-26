@@ -5,454 +5,612 @@
 
 # a eff
 
-## date de maj
-03/04/21
+## sommaire
+- [a eff](#a-eff)
+  - [sommaire](#sommaire)
+  - [a eff](#a-eff-1)
+  - [(nb)](#nb)
 
 ## a eff
-#### 21/11/20 - 
-we are not human _1{89} 
-#### 22/11/20 - 
-we are not human _1{91} 
-#### 23/11/20 - 
-we are not human _1{93} 
-#### 24/11/20 - 
-we are not human _1{95} 
-#### 25/11/20 - 
-we are not human _1{97} unbag _1{15} 
-#### 26/11/20 - 
-we are not human _1{99} unbag _1{15} 
-#### 27/11/20 - 
-we are not human _1{101} unbag _1{15} 
-#### 28/11/20 - 
-we are not human _1{103} unbag _1{15} 
-#### 29/11/20 - 
-we are not human _1{105} unbag _1{15} 
-#### 30/11/20 - 
-we are not human _1{107} unbag _1{15}
-#### 01/12/20 - 
-we are not human _1{108} unbag _1{16} pogi lang hanap _1{10} 
-#### 02/12/20 - 
-we are not human _1{110} unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} 
-#### 03/12/20 - 
-we are not human _1{112} unbag _1{16} pogi lang hanap _1{10} 
-#### 04/12/20 - 
-we are not human _1{114} unbag _1{16} pogi lang hanap _1{10} 
-#### 05/12/20 - 
-unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 06/12/20 - 
-unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 07/12/20 - 
-unbag _1{18} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 08/12/20 - 
-unbag _1{19} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 09/12/20 - 
-unbag _1{20} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 10/12/20 - 
-unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 11/12/20 - 
-unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} 
-#### 12/12/20 - 
-unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 13/12/20 - 
-unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 14/12/20 - 
-unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 15/12/20 - 
-unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-#### 16/12/20 - 
-unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-#### 17/12/20 - 
-lls _1{189} unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} 
-#### 18/12/20 - 
-lls _1{191} unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-#### 19/12/20 - 
-lls _1{193} unbag _1{23} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-#### 20/12/20 - 
-lls _1{195} unbag _1{24} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-#### 21/12/20 - 
-lls _1{198} unbag _1{26} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-#### 22/12/20 - 
-lls _1{200} unbag _1{28} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-#### 23/12/20 - 
-lls _1{202} unbag _1{30} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} 
-#### 24/12/20 - 
-lls _1{204} unbag _1{32} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-#### 25/12/20 - 
-lls _1{206} unbag _1{33} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} lakan _1{5} 
-#### 26/12/20 - 
-lls _1{208} unbag _1{35} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-#### 27/12/20 - 
-lls _1{210} unbag _1{37} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{7} be love _1{7} blood _1{6} 
-#### 28/12/20 - 
-lls _1{213} unbag _1{39} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{8} from dusk till dawn _2{7} 
-#### 29/12/20 - 
-lls _1{215} unbag _1{41} pogi lang hanap _1{10} from dusk till dawn _2{9} my vampire boyfriend _1{9} young sheldon _4{8} 
-#### 30/12/20 - 
-lls _1{217} unbag _1{41} from dusk till dawn _2{11} pogi lang hanap _1{10} my vampire boyfriend _1{9} young sheldon _4{8} be love _1{7} 
-#### 31/12/20 - 
-lls _1{219} unbag _1{41} from dusk till dawn _2{13} pogi lang hanap _1{10} young sheldon _4{8} be love _1{7} lakan _1{6} 
-#### 01/01/21 - 
-lls _1{222} unbag _1{42} from dusk till dawn _2{15} pogi lang hanap _1{10} young sheldon _4{9} lakan _1{7} 
-#### 02/01/21 - 
-lls _1{224} unbag _1{44} from dusk till dawn _2{15} young sheldon _4{9} ghost runner _1{7} lakan _1{7} joséphine ange gardien _23{6} 
-#### 03/01/21 - 
-lls _1{226} unbag _1{46} from dusk till dawn _2{15} young sheldon _4{9} ghost runner _1{7} lakan _1{7} joséphine ange gardien _23{6} 
-#### 04/01/21 - 
-lls _1{228} unbag _1{49} from dusk till dawn _2{15} ghost runner _1{9} young sheldon _4{9} 
-#### 05/01/21 - 
-lls _1{230} unbag _1{51} from dusk till dawn _2{15} ghost runner _1{10} young sheldon _4{9} rpdru _9{8} 
-#### 06/01/21 - 
-lls _1{232} unbag _1{53} ghost runner _1{11} rpdru _9{10} 
-#### 07/01/21 - 
-lls _1{234} unbag _1{55} rpdru _9{12} ghost runner _1{11} 
-#### 08/01/21 - 
-lls _1{236} unbag _1{57} from dusk till dawn _2{15} rpdru _9{14} ghost runner _1{11} 
-#### 09/01/21 - 
-lls _1{238} unbag _1{57} rpdru _9{16} from dusk till dawn _2{15} ghost runner _1{11} 
-#### 10/01/21 - 
-lls _1{240} unbag _1{57} rpdru _9{18} ghost runner _1{11} young sheldon _4{9} 
-#### 11/01/21 - 
-lls _1{242} unbag _1{58} rpdru _9{20} ghost runner _1{11} 
-#### 12/01/21 - 
-lls _1{244} unbag _1{58} rpdru _9{20} from dusk till dawn _2{15} ghost runner _1{11} 
-#### 13/01/21 - 
-lls _1{246} unbag _1{59} rpdru _9{22} from dusk till dawn _2{15} 
-#### 14/01/21 - 
-lls _1{248} unbag _1{60} rpdru _9{22} tharntype _2{11} 
-#### 15/01/21 - 
-lls _1{250} unbag _1{61} rpdru _9{22} tharntype _2{11} 
-#### 16/01/21 - 
-lls _1{252} unbag _1{63} rpdru _9{22} tharntype _2{11} ghost runner _1{11} 
-#### 17/01/21 - 
-lls _1{254} unbag _1{65} rpdru _9{22} 
-#### 18/01/21 - 
-lls _1{256} unbag _1{68} rpdru _9{22} 
-#### 19/01/21 - 
-lls _1{258} unbag _1{70} rpdru _9{22} 
-#### 20/01/21 - 
-lls _1{260} unbag _1{72} rpdru _9{22} 
-#### 21/01/21 - 
-lls _1{262} unbag _1{74} rpdru _9{22} 
-#### 22/01/21 - 
-lls _1{264} unbag _1{76} rpdru _9{22} from dusk till dawn _2{15} 
-#### 23/01/21 - 
-lls _1{266} unbag _1{77} rpdru _9{22} koishite akuma _1{11} tharntype _2{11} 
-#### 24/01/21 - 
-lls _1{268} unbag _1{78} rpdru _9{22} from dusk till dawn _2{15} koishite akuma _1{13} 
-#### 25/01/21 - 
-lls _1{270} unbag _1{79} rpdru _9{22} koishite akuma _1{15} young sheldon _4{14} 
-#### 26/01/21 - 
-lls _1{272} unbag _1{80} rpdru _9{22} young sheldon _4{15} koishite akuma _1{15} 
-#### 27/01/21 - 
-lls _1{274} unbag _1{81} rpdru _9{22} young sheldon _4{16} mako ventures _1{15} koishite akuma _1{15} from dusk till dawn _2{15} 
-#### 28/01/21 - 
-lls _1{276} unbag _1{82} rpdru _9{22} mako ventures _1{17} young sheldon _4{17} koishite akuma _1{15} 
-#### 29/01/21 - 
-lls _1{278} unbag _1{83} rpdru _9{22} mako ventures _1{19} young sheldon _4{18} koishite akuma _1{15} from dusk till dawn _2{15} 
-#### 30/01/21 - 
-lls _1{280} unbag _1{85} rpdru _9{22} mako ventures _1{21} young sheldon _4{18} koishite akuma _1{15} from dusk till dawn _2{15} 
-#### 31/01/21 - 
-lls _1{282} unbag _1{87} mako ventures _1{23} rpdru _9{22} young sheldon _4{18} koishite akuma _1{15} from dusk till dawn _2{15} 
-#### 01/02/21 - 
-lls _1{286} unbag _1{91} mako ventures _1{27} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} the voice be _9{15} 
-#### 02/02/21 - 
-lls _1{288} unbag _1{93} mako ventures _1{29} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} 
-#### 03/02/21 - 
-lls _1{290} unbag _1{95} mako ventures _1{31} rpdru _9{23} young sheldon _4{19} koishite akuma _1{16} 
-#### 04/02/21 - 
-lls _1{292} unbag _1{97} mako ventures _1{33} rpdru _9{23} young sheldon _4{19} the voice be _9{16} 
-#### 05/02/21 - 
-lls _1{294} unbag _1{99} mako ventures _1{35} rpdru _9{23} young sheldon _4{19} the voice be _9{17} 
-#### 06/02/21 - 
-lls _1{296} unbag _1{100} mako ventures _1{37} rpdru _9{23} young sheldon _4{19} the voice be _9{17} koishite akuma _1{16} 
-#### 07/02/21 - 
-lls _1{298} unbag _1{101} mako ventures _1{39} rpdru _9{23} young sheldon _4{19} the voice be _9{17} koishite akuma _1{16} 
-#### 08/02/21 - 
-lls _1{300} unbag _1{102} mako ventures _1{42} rpdru _9{23} young sheldon _4{19} the voice be _9{18} koishite akuma _1{16} the voice no _6{15} 
-#### 09/02/21 - 
-lls _1{302} unbag _1{103} mako ventures _1{44} rpdru _9{23} young sheldon _4{19} the voice be _9{18} koishite akuma _1{16} the voice no _6{15} 
-#### 10/02/21 - 
-lls _1{304} unbag _1{104} mako ventures _1{46} young sheldon _4{19} the voice be _9{18} the voice no _6{16} koishite akuma _1{16} 
-#### 11/02/21 - 
-lls _1{306} unbag _1{105} mako ventures _1{48} the voice be _9{20} young sheldon _4{19} the voice no _6{17} koishite akuma _1{16} 
-#### 12/02/21 - 
-lls _1{308} unbag _1{106} mako ventures _1{50} the voice be _9{21} young sheldon _4{19} the voice no _6{17} 
-#### 13/02/21 - 
-lls _1{310} unbag _1{108} mako ventures _1{52} the voice be _9{21} young sheldon _4{19} the voice no _6{17} 
-#### 14/02/21 - 
-lls _1{312} unbag _1{110} mako ventures _1{54} the voice be _9{21} the voice no _6{19} young sheldon _4{19} koishite akuma _1{16} 
-#### 15/02/21 - 
-lls _1{314} unbag _1{113} mako ventures _1{54} the voice no _6{22} the voice be _9{22} young sheldon _4{20} rpdr _13{17} 
-#### 16/02/21 - 
-lls _1{316} unbag _1{115} mako ventures _1{54} the voice no _6{24} the voice be _9{22} young sheldon _4{21} rpdr _13{18} 
-#### 17/02/21 - 
-lls _1{318} unbag _1{117} mako ventures _1{54} the voice no _6{26} the voice be _9{22} young sheldon _4{22} rpdr _13{19} 
-#### 18/02/21 - 
-lls _1{320} unbag _1{119} mako ventures _1{54} the voice be _9{26} the voice no _6{26} young sheldon _4{22} rpdr _13{19} wabi vlog _1{18} 
-#### 19/02/21 - 
-lls _1{322} unbag _1{121} mako ventures _1{54} the voice be _9{26} the voice no _6{26} young sheldon _4{22} rpdr _13{19} wabi vlog _1{18} 
-#### 20/02/21 - 
-lls _1{324} unbag _1{122} mako ventures _1{54} the voice be _9{27} the voice no _6{26} young sheldon _4{22} wabi vlog _1{20} rpdr _13{19} 
-#### 21/02/21 - 
-lls _1{326} unbag _1{123} mako ventures _1{54} the voice no _6{28} the voice be _9{27} young sheldon _4{22} rpdr _13{21} wabi vlog _1{20} rpdru _13{17} 
-#### 22/02/21 - 
-lls _1{328} unbag _1{124} mako ventures _1{57} the voice no _6{30} the voice be _9{28} young sheldon _4{24} rpdr _13{23} wabi vlog _1{21} rpdru _13{20} my vampire boyfriend _1{19} 
-#### 23/02/21 - 
-lls _1{330} unbag _1{125} mako ventures _1{59} the voice no _6{31} the voice be _9{28} young sheldon _4{25} rpdr _13{23} wabi vlog _1{22} rpdru _13{22} my vampire boyfriend _1{21} 
-#### 24/02/21 - 
-lls _1{332} unbag _1{126} mako ventures _1{61} the voice no _6{31} the voice be _9{28} young sheldon _4{26} wabi vlog _1{24} rpdru _13{24} rpdr _13{23} my vampire boyfriend _1{22} /9-1-1 lone star _2{19} 
-#### 25/02/21 - 
-lls _1{334} unbag _1{127} mako ventures _1{63} the voice no _6{31} the voice be _9{30} young sheldon _4{27} wabi vlog _1{26} rpdru _13{24} my vampire boyfriend _1{24} rpdr _13{23} /9-1-1 lone star _2{21} 
-#### 26/02/21 - 
-lls _1{336} unbag _1{128} mako ventures _1{65} the voice be _9{32} the voice no _6{31} wabi vlog _1{28} young sheldon _4{28} rpdru _13{24} my vampire boyfriend _1{24} rpdr _13{23} /9-1-1 lone star _2{22} 
-#### 27/02/21 - 
-lls _1{338} unbag _1{130} mako ventures _1{67} the voice be _9{34} the voice no _6{31} wabi vlog _1{30} young sheldon _4{28} rpdru _13{24} my vampire boyfriend _1{24} rpdr _13{23} 
-#### 28/02/21 - 
-lls _1{340} unbag _1{132} mako ventures _1{68} the voice be _9{36} the voice no _6{32} wabi vlog _1{32} young sheldon _4{28} rpdru _13{24} my vampire boyfriend _1{24} rpdr _13{23} 
-#### 01/03/21 - 
-lls _1{342} unbag _1{136} mako ventures _1{70} the voice be _9{39} wabi vlog _1{36} the voice no _6{35} young sheldon _4{29} rpdru _13{25} my vampire boyfriend _1{25} /9-1-1 lone star _2{24} 
-#### 02/03/21 - 
-lls _1{344} unbag _1{138} mako ventures _1{71} the voice be _9{40} wabi vlog _1{38} the voice no _6{35} young sheldon _4{29} rpdru _13{25} my vampire boyfriend _1{25} /9-1-1 lone star _2{24} 
-#### 03/03/21 - 
-lls _1{346} unbag _1{140} mako ventures _1{71} the voice be _9{41} wabi vlog _1{40} the voice no _6{35} young sheldon _4{31} /9-1-1 lone star _2{26} rpdru _13{25} my vampire boyfriend _1{25} 
-#### 04/03/21 - 
-lls _1{348} unbag _1{142} mako ventures _1{71} the voice be _9{43} wabi vlog _1{40} the voice no _6{35} young sheldon _4{32} /9-1-1 lone star _2{28} rpdru _13{25} my vampire boyfriend _1{25} 
-#### 05/03/21 - 
-lls _1{350} unbag _1{144} mako ventures _1{71} the voice be _9{45} wabi vlog _1{40} the voice no _6{35} young sheldon _4{33} /9-1-1 lone star _2{29} rpdru _13{25} 
-#### 06/03/21 - 
-lls _1{352} unbag _1{146} mako ventures _1{71} the voice be _9{46} wabi vlog _1{40} the voice no _6{35} young sheldon _4{35} /9-1-1 lone star _2{29} rpdru _13{25} 
-#### 07/03/21 - 
-lls _1{354} unbag _1{147} mako ventures _1{71} the voice be _9{47} wabi vlog _1{42} young sheldon _4{37} the voice no _6{36} /9-1-1 lone star _2{29} rpdru _13{26} 
-#### 08/03/21 - 
-lls _1{357} unbag _1{148} mako ventures _1{74} the voice be _9{48} wabi vlog _1{45} young sheldon _4{39} the voice no _6{37} /9-1-1 lone star _2{30} rpdru _13{27} 
-#### 09/03/21 - 
-lls _1{359} unbag _1{149} mako ventures _1{76} the voice be _9{48} wabi vlog _1{47} young sheldon _4{41} the voice no _6{37} /9-1-1 lone star _2{30} rpdru _13{27} 
-#### 10/03/21 - 
-lls _1{361} unbag _1{150} mako ventures _1{78} wabi vlog _1{49} the voice be _9{48} young sheldon _4{42} the voice no _6{37} /9-1-1 lone star _2{31} rpdru _13{27} 
-#### 11/03/21 - 
-lls _1{363} unbag _1{151} mako ventures _1{79} wabi vlog _1{51} the voice be _9{50} young sheldon _4{42} the voice no _6{37} /9-1-1 lone star _2{31} rpdru _13{27} 
-#### 12/03/21 - 
-lls _1{365} unbag _1{152} mako ventures _1{80} wabi vlog _1{53} the voice be _9{52} young sheldon _4{42} the voice no _6{37} /9-1-1 lone star _2{31} rpdru _13{27} /9-1-1 _4{25} 
-#### 13/03/21 - 
-lls _1{367} unbag _1{154} mako ventures _1{81} wabi vlog _1{55} the voice be _9{53} young sheldon _4{42} the voice no _6{37} /9-1-1 lone star _2{31} rpdru _13{27} 
-#### 14/03/21 - 
-lls _1{369} unbag _1{156} mako ventures _1{81} wabi vlog _1{55} the voice be _9{53} young sheldon _4{43} the voice no _6{37} /9-1-1 lone star _2{31} rpdru _13{27} 
-#### 15/03/21 - 
-lls _1{372} unbag _1{159} mako ventures _1{82} wabi vlog _1{56} the voice be _9{54} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} rpdru _13{28} 
-#### 16/03/21 - 
-lls _1{374} unbag _1{161} mako ventures _1{83} wabi vlog _1{56} the voice be _9{54} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} rpdru _13{28} rpdr _13{26} 
-#### 17/03/21 - 
-lls _1{376} unbag _1{163} mako ventures _1{84} wabi vlog _1{56} the voice be _9{54} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} rpdru _13{28} rpdr _13{26} 
-#### 18/03/21 - 
-lls _1{378} unbag _1{165} mako ventures _1{84} wabi vlog _1{56} the voice be _9{55} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} rpdru _13{28} rpdr _13{26} 
-#### 19/03/21 - 
-lls _1{380} unbag _1{166} mako ventures _1{84} wabi vlog _1{56} the voice be _9{55} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} rpdru _13{28} rpdr _13{26} /9-1-1 _4{26} 
-#### 20/03/21 - 
-lls _1{382} unbag _1{168} mako ventures _1{85} the voice be _9{57} wabi vlog _1{56} young sheldon _4{44} the voice no _6{38} /9-1-1 lone star _2{32} rpdru _13{28} rpdr _13{26} /9-1-1 _4{26} my vampire boyfriend _1{26} the harvest season _1{16} 
-#### 21/03/21 - 
-lls _1{384} unbag _1{171} mako ventures _1{85} the voice be _9{60} wabi vlog _1{56} young sheldon _4{44} the voice no _6{39} /9-1-1 lone star _2{32} rpdru _13{29} rpdr _13{27} /9-1-1 _4{26} my vampire boyfriend _1{25} the harvest season _1{16} love in time _1{15} 
-#### 22/03/21 - 
-lls _1{387} unbag _1{173} mako ventures _1{85} the voice be _9{63} wabi vlog _1{56} young sheldon _4{44} the voice no _6{40} /9-1-1 lone star _2{32} rpdru _13{31} rpdr _13{29} /9-1-1 _4{26} my vampire boyfriend _1{25} the harvest season _1{16} the voice _10{15} 
-#### 23/03/21 - 
-lls _1{389} unbag _1{175} mako ventures _1{85} the voice be _9{65} wabi vlog _1{56} young sheldon _4{44} the voice no _6{40} rpdru _13{32} /9-1-1 lone star _2{32} rpdr _13{30} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice _10{16} the harvest season _1{16} 
-#### 24/03/21 - 
-lls _1{391} unbag _1{177} mako ventures _1{85} the voice be _9{67} wabi vlog _1{56} young sheldon _4{44} the voice no _6{40} rpdru _13{33} /9-1-1 lone star _2{32} rpdr _13{31} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{16} the voice _10{16} 
-#### 25/03/21 - 
-lls _1{393} unbag _1{179} mako ventures _1{85} the voice be _9{69} wabi vlog _1{57} young sheldon _4{44} the voice no _6{40} rpdru _13{34} rpdr _13{32} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{18} the voice _10{16} 
-#### 26/03/21 - 
-lls _1{395} unbag _1{181} mako ventures _1{85} the voice be _9{71} wabi vlog _1{59} young sheldon _4{44} the voice no _6{40} rpdru _13{35} rpdr _13{33} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{20} the voice _10{16} 
-#### 27/03/21 - 
-lls _1{397} unbag _1{183} mako ventures _1{85} the voice be _9{73} wabi vlog _1{61} young sheldon _4{44} the voice no _6{40} rpdru _13{36} rpdr _13{34} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{22} bt21 original story _1{17} the voice _10{16} 
-#### 28/03/21 - 
-lls _1{399} unbag _1{185} mako ventures _1{85} the voice be _9{75} wabi vlog _1{62} young sheldon _4{44} the voice no _6{41} rpdru _13{38} rpdr _13{35} /9-1-1 lone star _2{32} /9-1-1 _4{26} my vampire boyfriend _1{25} the voice us _20{24} bt21 original story _1{19} 
-#### 29/03/21 - 
-lls _1{402} unbag _1{187} mako ventures _1{88} the voice be _9{78} wabi vlog _1{65} young sheldon _4{44} the voice no _6{42} rpdru _13{40} rpdr _13{37} /9-1-1 lone star _2{32} the voice us _20{27} /9-1-1 _4{26} my vampire boyfriend _1{25} bt21 original story _1{21} the voice _10{18} 
-#### 30/03/21 - 
-lls _1{404} unbag _1{189} mako ventures _1{90} the voice be _9{80} wabi vlog _1{66} young sheldon _4{44} the voice no _6{42} rpdru _13{41} rpdr _13{38} /9-1-1 lone star _2{32} the voice us _20{29} /9-1-1 _4{26} my vampire boyfriend _1{25} bt21 original story _1{21} the voice _10{19} 
-#### 31/03/21 - 
-lls _1{406} unbag _1{191} mako ventures _1{92} the voice be _9{82} wabi vlog _1{66} young sheldon _4{44} rpdru _13{42} the voice no _6{42} rpdr _13{39} /9-1-1 lone star _2{32} the voice us _20{31} /9-1-1 _4{26} my vampire boyfriend _1{25} bt21 original story _1{21} the voice _10{19} 
-#### 01/04/21 - 
-lls _1{409} unbag _1{194} mako ventures _1{95} the voice be _9{85} wabi vlog _1{68} young sheldon _4{45} rpdru _13{44} the voice no _6{43} rpdr _13{41} the voice us _20{34} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
-#### 02/04/21 - 
-lls _1{411} unbag _1{196} mako ventures _1{97} the voice be _9{87} wabi vlog _1{69} young sheldon _4{45} rpdru _13{45} the voice no _6{43} rpdr _13{42} the voice us _20{36} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
-#### 03/04/21 - 
-lls _1{413} unbag _1{198} mako ventures _1{98} the voice be _9{89} wabi vlog _1{70} young sheldon _4{46} rpdru _13{45} the voice no _6{43} rpdr _13{42} the voice us _20{38} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
-#### 04/04/21 - 
-lls _1{415} unbag _1{200} mako ventures _1{98} the voice be _9{91} wabi vlog _1{70} rpdru _13{47} young sheldon _4{46} rpdr _13{44} the voice no _6{43} the voice us _20{38} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} bt21 original story _1{22} the voice _10{20} 
-#### 05/04/21 - 
-lls _1{417} unbag _1{203} mako ventures _1{98} the voice be _9{94} wabi vlog _1{71} rpdru _13{49} young sheldon _4{47} rpdr _13{46} the voice no _6{43} the voice us _20{39} /9-1-1 lone star _2{33} /9-1-1 _4{27} my vampire boyfriend _1{25} the voice _10{23} bt21 original story _1{22} 
-#### 06/04/21 - 
-lls _1{419} unbag _1{205} mako ventures _1{98} the voice be _9{96} wabi vlog _1{71} rpdru _13{51} young sheldon _4{48} rpdr _13{47} the voice no _6{43} the voice us _20{41} /9-1-1 lone star _2{33} /9-1-1 _4{27} the voice _10{25} my vampire boyfriend _1{25} bt21 original story _1{22} 
+- 21/11/20 - we are not human _1{89} 
+- 22/11/20 - we are not human _1{91} 
+- 23/11/20 - we are not human _1{93} 
+- 24/11/20 - we are not human _1{95} 
+- 25/11/20 - we are not human _1{97} unbag _1{15} 
+- 26/11/20 - we are not human _1{99} unbag _1{15} 
+- 27/11/20 - we are not human _1{101} unbag _1{15} 
+- 28/11/20 - we are not human _1{103} unbag _1{15} 
+- 29/11/20 - we are not human _1{105} unbag _1{15} 
+- 30/11/20 - we are not human _1{107} unbag _1{15}
+- 01/12/20 - we are not human _1{108} unbag _1{16} pogi lang hanap _1{10} 
+- 02/12/20 - we are not human _1{110} unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} 
+- 03/12/20 - we are not human _1{112} unbag _1{16} pogi lang hanap _1{10} 
+- 04/12/20 - we are not human _1{114} unbag _1{16} pogi lang hanap _1{10} 
+- 05/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 06/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 07/12/20 - unbag _1{18} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 08/12/20 - unbag _1{19} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 09/12/20 - unbag _1{20} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 10/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 11/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} 
+- 12/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 13/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 14/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 15/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 16/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 17/12/20 - unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 18/12/20 - unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 19/12/20 - unbag _1{23} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 20/12/20 - unbag _1{24} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 21/12/20 - unbag _1{26} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 22/12/20 - unbag _1{28} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 23/12/20 - unbag _1{30} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 24/12/20 - unbag _1{32} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 25/12/20 - unbag _1{33} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} lakan _1{5} 
+- 26/12/20 - unbag _1{35} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 27/12/20 - unbag _1{37} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 28/12/20 - unbag _1{39} pogi lang hanap _1{10} my vampire boyfriend _1{9} from dusk till dawn _2{7} 
+- 29/12/20 - unbag _1{41} pogi lang hanap _1{10} from dusk till dawn _2{9} my vampire boyfriend _1{9} 
+- 30/12/20 - unbag _1{41} from dusk till dawn _2{11} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 31/12/20 - unbag _1{41} from dusk till dawn _2{13} pogi lang hanap _1{10} be love _1{7} lakan _1{6} 
+- 01/01/21 - unbag _1{42} from dusk till dawn _2{15} pogi lang hanap _1{10} lakan _1{7} 
+- 02/01/21 - unbag _1{44} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
+- 03/01/21 - unbag _1{46} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
+- 04/01/21 - unbag _1{49} from dusk till dawn _2{15} ghost runner _1{9} 
+- 05/01/21 - unbag _1{51} from dusk till dawn _2{15} ghost runner _1{10} 
+- 06/01/21 - unbag _1{53} ghost runner _1{11} 
+- 07/01/21 - unbag _1{55} ghost runner _1{11} 
+- 08/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
+- 09/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
+- 10/01/21 - unbag _1{57} ghost runner _1{11} 
+- 11/01/21 - unbag _1{58} ghost runner _1{11} 
+- 12/01/21 - unbag _1{58} from dusk till dawn _2{15} ghost runner _1{11} 
+- 13/01/21 - unbag _1{59} from dusk till dawn _2{15} 
+- 14/01/21 - unbag _1{60} 
+- 15/01/21 - unbag _1{61} 
+- 16/01/21 - unbag _1{63} ghost runner _1{11} 
+- 17/01/21 - unbag _1{65} 
+- 18/01/21 - unbag _1{68} 
+- 19/01/21 - unbag _1{70} 
+- 20/01/21 - unbag _1{72} 
+- 21/01/21 - unbag _1{74} 
+- 22/01/21 - unbag _1{76} from dusk till dawn _2{15} 
+- 23/01/21 - unbag _1{77} koishite akuma _1{11} 
+- 24/01/21 - unbag _1{78} from dusk till dawn _2{15} koishite akuma _1{13} 
+- 25/01/21 - unbag _1{79} koishite akuma _1{15} 
+- 26/01/21 - unbag _1{80} koishite akuma _1{15} 
+- 27/01/21 - unbag _1{81} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 28/01/21 - unbag _1{82} koishite akuma _1{15} 
+- 29/01/21 - unbag _1{83} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 30/01/21 - unbag _1{85} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 31/01/21 - unbag _1{87} koishite akuma _1{15} from dusk till dawn _2{15} 
+- 01/02/21 - unbag _1{91} koishite akuma _1{16} 
+- 02/02/21 - unbag _1{93} koishite akuma _1{16} 
+- 03/02/21 - unbag _1{95} koishite akuma _1{16} 
+- 04/02/21 - unbag _1{97} 
+- 05/02/21 - unbag _1{99} 
+- 06/02/21 - unbag _1{100} koishite akuma _1{16} 
+- 07/02/21 - unbag _1{101} koishite akuma _1{16} 
+- 08/02/21 - unbag _1{102} koishite akuma _1{16} 
+- 09/02/21 - unbag _1{103} koishite akuma _1{16} 
+- 10/02/21 - unbag _1{104} koishite akuma _1{16} 
+- 11/02/21 - unbag _1{105} koishite akuma _1{16} 
+- 12/02/21 - unbag _1{106} 
+- 13/02/21 - unbag _1{108} 
+- 14/02/21 - unbag _1{110} koishite akuma _1{16} 
+- 15/02/21 - unbag _1{113} 
+- 16/02/21 - unbag _1{115} 
+- 17/02/21 - unbag _1{117} 
+- 18/02/21 - unbag _1{119} 
+- 19/02/21 - unbag _1{121} 
+- 20/02/21 - unbag _1{122} 
+- 21/02/21 - unbag _1{123} 
+- 22/02/21 - unbag _1{124} my vampire boyfriend _1{19} 
+- 23/02/21 - unbag _1{125} my vampire boyfriend _1{21} 
+- 24/02/21 - unbag _1{126} my vampire boyfriend _1{22} 
+- 25/02/21 - unbag _1{127} my vampire boyfriend _1{24} 
+- 26/02/21 - unbag _1{128} my vampire boyfriend _1{24} 
+- 27/02/21 - unbag _1{130} my vampire boyfriend _1{24} 
+- 28/02/21 - unbag _1{132} my vampire boyfriend _1{24} 
+- 01/03/21 - unbag _1{136} my vampire boyfriend _1{25} 
+- 02/03/21 - unbag _1{138} my vampire boyfriend _1{25} 
+- 03/03/21 - unbag _1{140} my vampire boyfriend _1{25} 
+- 04/03/21 - unbag _1{142} my vampire boyfriend _1{25} 
+- 05/03/21 - unbag _1{144} 
+- 06/03/21 - unbag _1{146} 
+- 07/03/21 - unbag _1{147} 
+- 08/03/21 - unbag _1{148} 
+- 09/03/21 - unbag _1{149} 
+- 10/03/21 - unbag _1{150} 
+- 11/03/21 - unbag _1{151} 
+- 12/03/21 - unbag _1{152} 
+- 13/03/21 - unbag _1{154} 
+- 14/03/21 - unbag _1{156} 
+- 15/03/21 - unbag _1{159} 
+- 16/03/21 - unbag _1{161} 
+- 17/03/21 - unbag _1{163} 
+- 18/03/21 - unbag _1{165} 
+- 19/03/21 - unbag _1{166} 
+- 20/03/21 - unbag _1{168} my vampire boyfriend _1{26} the harvest season _1{16} 
+- 21/03/21 - unbag _1{171} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 22/03/21 - unbag _1{173} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 23/03/21 - unbag _1{175} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 24/03/21 - unbag _1{177} my vampire boyfriend _1{25} 
+- 25/03/21 - unbag _1{179} my vampire boyfriend _1{25} 
+- 26/03/21 - unbag _1{181} my vampire boyfriend _1{25} 
+- 27/03/21 - unbag _1{183} my vampire boyfriend _1{25} bt21 original story _1{17} 
+- 28/03/21 - unbag _1{185} my vampire boyfriend _1{25} bt21 original story _1{19} 
+- 29/03/21 - unbag _1{187} my vampire boyfriend _1{25} bt21 original story _1{21} 
+- 30/03/21 - unbag _1{189} my vampire boyfriend _1{25} bt21 original story _1{21} 
+- 31/03/21 - unbag _1{191} my vampire boyfriend _1{25} bt21 original story _1{21} 
+- 01/04/21 - unbag _1{194} my vampire boyfriend _1{25} bt21 original story _1{22} 
+- 02/04/21 - unbag _1{196} my vampire boyfriend _1{25} bt21 original story _1{22} 
+- 03/04/21 - unbag _1{198} my vampire boyfriend _1{25} bt21 original story _1{22} 
+- 04/04/21 - unbag _1{200} my vampire boyfriend _1{25} bt21 original story _1{22} 
+- 05/04/21 - unbag _1{203} my vampire boyfriend _1{25} bt21 original story _1{22} 
+- 06/04/21 - unbag _1{205} my vampire boyfriend _1{25} bt21 original story _1{22} 
+- 07/04/21 - unbag _1{207} my vampire boyfriend _1{25} bt21 original story _1{24} 
+- 08/04/21 - unbag _1{209} bt21 original story _1{26} my vampire boyfriend _1{25} 
+- 09/04/21 (eff) - unbag _1{211} bt21 original story _1{28} my vampire boyfriend _1{25} 
+- 10/04/21 (eff) - unbag _1{213} bt21 original story _1{29} my vampire boyfriend _1{25} 
+- 11/04/21 (eff) - unbag _1{215} bt21 original story _1{30} my vampire boyfriend _1{25} 
+- 12/04/21 (eff) - unbag _1{217} bt21 original story _1{32} my vampire boyfriend _1{25} 
+- 13/04/21 (eff) - unbag _1{219} bt21 original story _1{33} my vampire boyfriend _1{25} 
+- 14/04/21 (eff) - unbag _1{221} bt21 original story _1{33} my vampire boyfriend _1{25} 
+- 15/04/21 (eff) - unbag _1{223} bt21 original story _1{33} my vampire boyfriend _1{25} 
+- 16/04/21 (eff) - unbag _1{225} bt21 original story _1{33} my vampire boyfriend _1{25} 
+- 17/04/21 (eff) - unbag _1{227} bt21 original story _1{33} 
+- 18/04/21 (eff) - unbag _1{229} bt21 original story _1{33} 
+- 19/04/21 (eff) - unbag _1{232} bt21 original story _1{33} 
+- 20/04/21 (eff) - unbag _1{234} bt21 original story _1{33} 
+- 21/04/21 (eff) - unbag _1{236} bt21 original story _1{33} 
+- 22/04/21 (eff) - unbag _1{238} bt21 original story _1{33} 
+- 23/04/21 (eff) - unbag _1{240} bt21 original story _1{33} 
+- 24/04/21 (eff) - unbag _1{242} bt21 original story _1{33} 
+- 25/04/21 (eff) - unbag _1{244} bt21 original story _1{33} 
+- 26/04/21 (eff) - unbag _1{246} bt21 original story _1{33} 
+- 27/04/21 (eff) - unbag _1{248} bt21 original story _1{33} 
+- 28/04/21 (eff) - unbag _1{250} bt21 original story _1{33} 
+- 29/04/21 (eff) - unbag _1{251} bt21 original story _1{33} 
+- 30/04/21 (eff) - unbag _1{253} bt21 original story _1{33} 
+- 01/05/21 (eff) - unbag _1{256} bt21 original story _1{34} 
+- 02/05/21 (eff) - unbag _1{258} bt21 original story _1{34} 
+- 03/05/21 (eff) - unbag _1{261} bt21 original story _1{34} 
+- 04/05/21 (eff) - unbag _1{263} bt21 original story _1{34} 
+- 05/05/21 (eff) - unbag _1{265} bt21 original story _1{34} 
+- 06/05/21 (eff) - unbag _1{267} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 07/05/21 (eff) - unbag _1{269} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 08/05/21 (eff) - unbag _1{271} bt21 original story _1{34} 
+- 09/05/21 (eff) - unbag _1{273} bt21 original story _1{34} 
+- 10/05/21 (eff) - unbag _1{275} bt21 original story _1{34} 
+- 11/05/21 (eff) - unbag _1{277} bt21 original story _1{34} 
+- 12/05/21 (eff) - unbag _1{279} bt21 original story _1{34} 
+- 13/05/21 (eff) - unbag _1{281} bt21 original story _1{34} 
+- 14/05/21 (eff) - unbag _1{283} bt21 original story _1{34} 
+- 15/05/21 (eff) - unbag _1{285} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 16/05/21 (eff) - unbag _1{287} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 17/05/21 (eff) - unbag _1{290} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 18/05/21 (eff) - unbag _1{292} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 19/05/21 (eff) - unbag _1{294} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 20/05/21 (eff) - unbag _1{296} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 21/05/21 (eff) - unbag _1{298} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 22/05/21 (eff) - unbag _1{300} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 23/05/21 (eff) - unbag _1{302} bt21 original story _1{34} my vampire boyfriend _1{25} 
+- 24/05/21 (eff) - unbag _1{304} bt21 original story _1{35} my vampire boyfriend _1{25} 
+- 25/05/21 (eff) - unbag _1{306} bt21 original story _1{35} my vampire boyfriend _1{25} 
+- 26/05/21 (eff) - unbag _1{308} bt21 original story _1{35} my vampire boyfriend _1{25} 
+- 27/05/21 (eff) - unbag _1{310} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 28/05/21 (eff) - unbag _1{312} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 29/05/21 (eff) - unbag _1{314} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 30/05/21 (eff) - unbag _1{316} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 31/05/21 (eff) - unbag _1{319} bt21 original story _1{35} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 01/06/21 (eff) - unbag _1{322} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 02/06/21 (eff) - unbag _1{324} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 03/06/21 (eff) - unbag _1{326} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 04/06/21 (eff) - unbag _1{328} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 05/06/21 (eff) - unbag _1{330} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 06/06/21 (eff) - unbag _1{332} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 07/06/21 (eff) - unbag _1{334} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 08/06/21 (eff) - unbag _1{336} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 09/06/21 (eff) - unbag _1{338} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 10/06/21 (eff) - unbag _1{340} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 11/06/21 (eff) - unbag _1{342} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 12/06/21 (eff) - unbag _1{344} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 13/06/21 (eff) - unbag _1{346} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 14/06/21 (eff) - unbag _1{349} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 15/06/21 (eff) - unbag _1{351} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 16/06/21 (eff) - unbag _1{353} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 17/06/21 (eff) - unbag _1{355} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} lego masters _2{15} vincenzo _1{15} 
+- 18/06/21 (eff) - unbag _1{357} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} lego masters _2{15} vincenzo _1{15} 
+- 19/06/21 (eff) - unbag _1{359} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
+- 20/06/21 (eff) - unbag _1{361} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} lego masters _2{15} 
+- 21/06/21 (eff) - unbag _1{363} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{16} the harvest season _1{16} vincenzo _1{15} 
+- 22/06/21 (eff) - unbag _1{365} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{16} the harvest season _1{16} vincenzo _1{15} 
+- 23/06/21 (eff) - unbag _1{367} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{16} the harvest season _1{16} 
+- 24/06/21 (eff) - unbag _1{369} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{18} the harvest season _1{16} 
+- 25/06/21 (eff) - unbag _1{371} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{19} 
+- 26/06/21 (eff) - unbag _1{373} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{20} the harvest season _1{16} vincenzo _1{15} 
+- 27/06/21 (eff) - unbag _1{375} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{20} the harvest season _1{16} vincenzo _1{15} 
+- 28/06/21 (eff) - unbag _1{378} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{21} the harvest season _1{16} vincenzo _1{15} 
+- 29/06/21 (eff) - unbag _1{380} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{21} the harvest season _1{16} vincenzo _1{15} 
+- 30/06/21 (eff) - unbag _1{382} bt21 original story _1{36} my vampire boyfriend _1{25} lego masters _2{21} the harvest season _1{16} vincenzo _1{15} 
+- 01/07/21 (eff) - unbag _1{385} bt21 original story _1{37} my vampire boyfriend _1{25} lego masters _2{22} vincenzo _1{16} the harvest season _1{16} 
+- 02/07/21 (eff) - unbag _1{387} bt21 original story _1{39} my vampire boyfriend _1{25} lego masters _2{22} vincenzo _1{16} the harvest season _1{16} agt _16{15} 
+- 03/07/21 (eff) - unbag _1{389} bt21 original story _1{40} my vampire boyfriend _1{25} lego masters _2{22} agt _16{17} vincenzo _1{16} the harvest season _1{16} 
+- 04/07/21 (eff) - unbag _1{391} bt21 original story _1{41} my vampire boyfriend _1{25} lego masters _2{22} agt _16{17} vincenzo _1{16} the harvest season _1{16} 
+- 05/07/21 (eff) - unbag _1{393} bt21 original story _1{43} my vampire boyfriend _1{25} lego masters _2{22} agt _16{18} rpdrasu _6{16} vincenzo _1{16} 
+- 06/07/21 (eff) - unbag _1{395} bt21 original story _1{44} my vampire boyfriend _1{25} lego masters _2{22} agt _16{18} the cube _1{16} rpdrasu _6{16} 
+- 07/07/21 (eff) - unbag _1{397} bt21 original story _1{45} my vampire boyfriend _1{25} lego masters _2{22} agt _16{18} the cube _1{17} rpdrasu _6{16} vincenzo _1{16} 
+- 08/07/21 (eff) - unbag _1{399} bt21 original story _1{46} my vampire boyfriend _1{25} lego masters _2{24} agt _16{20} the cube _1{17} rpdrasu _6{16} vincenzo _1{16} 
+- 09/07/21 (eff) - unbag _1{401} bt21 original story _1{47} lego masters _2{26} my vampire boyfriend _1{25} agt _16{22} the cube _1{17} rpdrasu _6{16} 
+- 10/07/21 (eff) - unbag _1{403} bt21 original story _1{48} lego masters _2{26} my vampire boyfriend _1{25} agt _16{24} rpdrasu _6{17} the cube _1{17} vincenzo _1{16} 
+- 11/07/21 (eff) - unbag _1{405} bt21 original story _1{50} lego masters _2{26} my vampire boyfriend _1{25} agt _16{24} rpdrasu _6{18} the cube _1{17} vincenzo _1{16} 
+- 12/07/21 (eff) - unbag _1{408} bt21 original story _1{52} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{17} 
+- 13/07/21 (eff) - unbag _1{410} bt21 original story _1{54} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{17} vincenzo _1{16} 
+- 14/07/21 (eff) - unbag _1{412} bt21 original story _1{56} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{17} vincenzo _1{16} 
+- 15/07/21 (eff) - unbag _1{414} bt21 original story _1{58} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{17} vincenzo _1{16} 
+- 16/07/21 (eff) - unbag _1{416} bt21 original story _1{60} lego masters _2{27} agt _16{26} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{19} vincenzo _1{16} the harvest season _1{16} 
+- 17/07/21 (eff) - unbag _1{418} bt21 original story _1{62} lego masters _2{27} agt _16{26} my vampire boyfriend _1{25} the cube _1{21} rpdrasu _6{21} rpdras _6{16} vincenzo _1{16} 
+- 18/07/21 (eff) - unbag _1{420} bt21 original story _1{63} agt _16{27} lego masters _2{27} my vampire boyfriend _1{25} the cube _1{23} rpdrasu _6{22} rpdras _6{17} vincenzo _1{16} 
+- 19/07/21 (eff) - unbag _1{422} bt21 original story _1{64} agt _16{29} lego masters _2{27} the cube _1{26} rpdrasu _6{25} my vampire boyfriend _1{25} rpdras _6{19} vincenzo _1{16} 
+- 20/07/21 (eff) - unbag _1{424} bt21 original story _1{65} agt _16{30} the cube _1{27} lego masters _2{27} rpdrasu _6{26} my vampire boyfriend _1{25} rpdras _6{19} 
+- 21/07/21 (eff) - unbag _1{426} bt21 original story _1{66} agt _16{31} the cube _1{28} lego masters _2{27} rpdrasu _6{27} my vampire boyfriend _1{25} rpdras _6{20} /46 days _1{18} 
+- 22/07/21 (eff) - unbag _1{428} bt21 original story _1{67} agt _16{33} the cube _1{28} rpdrasu _6{28} lego masters _2{27} my vampire boyfriend _1{25} rpdras _6{20} /46 days _1{19} vincenzo _1{16} 
+- 23/07/21 (eff) - unbag _1{430} bt21 original story _1{68} agt _16{35} rpdrasu _6{28} the cube _1{28} lego masters _2{27} my vampire boyfriend _1{25} /46 days _1{21} rpdras _6{20} vincenzo _1{16} 
+- 24/07/21 (eff) - unbag _1{432} bt21 original story _1{69} agt _16{36} rpdrasu _6{29} the cube _1{28} lego masters _2{27} my vampire boyfriend _1{25} /46 days _1{23} rpdras _6{21} vincenzo _1{16} 
+- 25/07/21 (eff) - unbag _1{434} bt21 original story _1{70} agt _16{37} rpdrasu _6{30} the cube _1{28} lego masters _2{27} /46 days _1{25} my vampire boyfriend _1{25} rpdras _6{22} vincenzo _1{16} 
+- 26/07/21 (eff) - unbag _1{437} bt21 original story _1{71} agt _16{39} rpdrasu _6{31} the cube _1{30} /46 days _1{28} lego masters _2{28} my vampire boyfriend _1{25} rpdras _6{23} survivor au _5{18} vincenzo _1{16} 
+- 27/07/21 (eff) - unbag _1{439} bt21 original story _1{72} agt _16{40} rpdrasu _6{31} the cube _1{30} /46 days _1{29} lego masters _2{28} my vampire boyfriend _1{25} rpdras _6{23} survivor au _5{20} vincenzo _1{16} 
+- 28/07/21 (eff) - unbag _1{441} bt21 original story _1{73} agt _16{40} rpdrasu _6{31} the cube _1{30} /46 days _1{30} lego masters _2{28} my vampire boyfriend _1{25} rpdras _6{23} survivor au _5{22} vincenzo _1{16} the harvest season _1{16} 
+- 29/07/21 (eff) - unbag _1{443} bt21 original story _1{74} agt _16{40} /46 days _1{31} rpdrasu _6{31} the cube _1{30} lego masters _2{28} my vampire boyfriend _1{25} survivor au _5{24} rpdras _6{23} survivor au _8{16} vincenzo _1{16} 
+- 30/07/21 (eff) - unbag _1{445} bt21 original story _1{75} agt _16{40} /46 days _1{32} rpdrasu _6{31} the cube _1{30} lego masters _2{28} survivor au _5{26} my vampire boyfriend _1{25} rpdras _6{23} survivor au _8{18} 
+- 31/07/21 (eff) - unbag _1{447} bt21 original story _1{76} agt _16{40} /46 days _1{33} rpdrasu _6{31} the cube _1{30} survivor au _5{28} lego masters _2{28} my vampire boyfriend _1{25} rpdras _6{24} survivor au _8{20} vincenzo _1{16} 
+- 01/08/21 (eff) - unbag _1{450} bt21 original story _1{79} agt _16{41} /46 days _1{35} rpdrasu _6{33} survivor au _5{31} the cube _1{31} lego masters _2{29} rpdras _6{25} my vampire boyfriend _1{25} survivor au _8{23} vincenzo _1{16} the harvest season _1{16} 
+- 02/08/21 (eff) - unbag _1{452} bt21 original story _1{82} agt _16{41} /46 days _1{36} rpdrasu _6{34} survivor au _5{34} the cube _1{31} lego masters _2{29} survivor au _8{26} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 03/08/21 (eff) - unbag _1{454} bt21 original story _1{84} agt _16{41} /46 days _1{37} survivor au _5{36} rpdrasu _6{34} the cube _1{31} lego masters _2{29} survivor au _8{28} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 04/08/21 (eff) - unbag _1{456} bt21 original story _1{86} agt _16{41} /46 days _1{38} survivor au _5{38} rpdrasu _6{34} the cube _1{31} survivor au _8{30} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 05/08/21 (eff) - unbag _1{458} bt21 original story _1{88} agt _16{41} survivor au _5{40} /46 days _1{39} rpdrasu _6{34} survivor au _8{32} the cube _1{31} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 06/08/21 (eff) - unbag _1{460} bt21 original story _1{90} survivor au _5{42} agt _16{41} /46 days _1{40} rpdrasu _6{34} survivor au _8{34} the cube _1{31} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 07/08/21 (eff) - unbag _1{462} bt21 original story _1{92} survivor au _5{44} /46 days _1{41} agt _16{41} survivor au _8{36} rpdrasu _6{34} the cube _1{31} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} elite _4{15} 
+- 08/08/21 (eff) - unbag _1{464} bt21 original story _1{94} survivor au _5{46} /46 days _1{41} agt _16{41} survivor au _8{38} rpdrasu _6{34} the cube _1{31} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 09/08/21 (eff) - unbag _1{467} bt21 original story _1{95} survivor au _5{48} /46 days _1{42} agt _16{41} survivor au _8{40} rpdrasu _6{35} the cube _1{31} lego masters _2{29} rpdras _6{27} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 10/08/21 (eff) - unbag _1{469} bt21 original story _1{96} survivor au _5{50} survivor au _8{42} /46 days _1{42} agt _16{41} rpdrasu _6{35} the cube _1{31} lego masters _2{29} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} vincenzo _1{16} 
+- 11/08/21 (eff) - unbag _1{471} bt21 original story _1{97} survivor au _5{52} survivor au _8{44} /46 days _1{43} agt _16{41} rpdrasu _6{35} the cube _1{31} lego masters _2{29} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} vincenzo _1{16} 
+- 12/08/21 (eff) - unbag _1{473} bt21 original story _1{98} survivor au _5{54} survivor au _8{46} /46 days _1{44} agt _16{41} rpdrasu _6{35} the cube _1{31} lego masters _2{30} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} 
+- 13/08/21 (eff) - unbag _1{475} bt21 original story _1{99} survivor au _5{56} survivor au _8{48} /46 days _1{45} agt _16{43} rpdrasu _6{35} the cube _1{31} lego masters _2{30} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} 
+- 14/08/21 (eff) - unbag _1{477} bt21 original story _1{100} survivor au _5{58} survivor au _8{50} /46 days _1{45} agt _16{44} rpdrasu _6{35} the cube _1{31} lego masters _2{30} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} 
+- 15/08/21 (eff) - unbag _1{479} bt21 original story _1{101} survivor au _5{60} survivor au _8{52} agt _16{45} /46 days _1{45} rpdrasu _6{35} the cube _1{31} lego masters _2{30} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} 
+- 16/08/21 (eff) - unbag _1{481} bt21 original story _1{101} survivor au _5{63} survivor au _8{55} agt _16{47} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{18} 
+- 17/08/21 (eff) - unbag _1{483} bt21 original story _1{101} survivor au _5{65} survivor au _8{57} agt _16{48} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{19} 
+- 18/08/21 (eff) - unbag _1{485} bt21 original story _1{101} survivor au _5{66} survivor au _8{59} agt _16{49} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{20} 
+- 19/08/21 (eff) - unbag _1{487} bt21 original story _1{101} survivor au _5{67} survivor au _8{61} agt _16{49} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{21} 
+- 20/08/21 (eff) - unbag _1{489} bt21 original story _1{101} survivor au _5{68} survivor au _8{63} agt _16{50} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{22} the voice au _10{19} vincenzo _1{16} 
+- 21/08/21 (eff) - unbag _1{491} bt21 original story _1{101} survivor au _5{69} survivor au _8{65} agt _16{52} /46 days _1{45} rpdrasu _6{37} the cube _1{32} lego masters _2{31} rpdras _6{29} my vampire boyfriend _1{25} survivor sa _8{24} the voice au _10{21} vincenzo _1{16} the harvest season _1{16} 
+- 22/08/21 (eff) - unbag _1{493} bt21 original story _1{101} survivor au _5{70} survivor au _8{67} agt _16{54} /46 days _1{45} rpdrasu _6{38} the cube _1{33} lego masters _2{31} rpdras _6{29} survivor sa _8{26} my vampire boyfriend _1{25} the voice au _10{23} vincenzo _1{16} the harvest season _1{16} 
+- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} survivor au _5{71} survivor au _8{70} agt _16{57} /46 days _1{45} rpdrasu _6{40} the cube _1{34} lego masters _2{32} rpdras _6{30} survivor sa _8{28} the voice au _10{26} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 24/08/21 (eff) - unbag _1{498} bt21 original story _1{101} survivor au _8{72} survivor au _5{72} agt _16{59} /46 days _1{45} rpdrasu _6{41} the cube _1{34} lego masters _2{32} rpdras _6{30} survivor sa _8{30} the voice au _10{28} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 25/08/21 (eff) - unbag _1{500} bt21 original story _1{101} survivor au _8{74} survivor au _5{73} agt _16{61} /46 days _1{45} rpdrasu _6{42} the cube _1{34} lego masters _2{32} survivor sa _8{32} the voice au _10{30} rpdras _6{30} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
+- 26/08/21 (eff) - unbag _1{502} bt21 original story _1{101} survivor au _8{76} survivor au _5{74} agt _16{63} /46 days _1{45} rpdrasu _6{43} lego masters _2{34} the cube _1{34} survivor sa _8{34} the voice au _10{32} rpdras _6{31} my vampire boyfriend _1{25} from dusk till dawn _2{18} drop _1{16} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## (nb)
-#### 
-22/10/20 - 151* quien es la mascara _2{1} joséphine ange gardien _23{2} 
-23/10/20 - 164* quien es la mascara _2{1} joséphine ange gardien _23{2} ben x jim _1{1} 
-24/10/20 - 135* swap test _1{0} 
-25/10/20 - 77* pogi lang hanap _1{0} 
-26/10/20 - 117* boys lockdown _1{2} 
-27/10/20 - 198* joséphine ange gardien _23{3} boys lockdown _1{2} 
-28/10/20 - 256* joséphine ange gardien _23{3}
-29/10/20 - 164* pogi lang hanap _1{1} lakan _1{0} friend forever _1{8} 
-30/10/20 - 73* the stranded _1{0} unbag _1{10} pogi lang hanap _1{3} lakan _1{0} friend forever _1{8} 
-31/10/20 - 158* swap test _1{1} the stranded _1{0} unbag _1{10} 
-01/11/20 - 257* 
-02/11/20 - 252* 
-03/11/20 - 253* 
-04/11/20 - 323* 
-05/11/20 - 307* the good doctor _4{0} 
-06/11/20 - 253* young sheldon _4{0} unbag _1{12} blood _1{4} the good doctor _4{0} 
-07/11/20 - 173* tharntype _2{0} young sheldon _4{1} unbag _1{12} blood _1{4} the good doctor _4{0} 
-08/11/20 - 222* lakan _1{2} pogi lang hanap _1{7} tharntype _2{1} 
-09/11/20 - 267* lakan _1{3} pogi lang hanap _1{8} tharntype _2{2} 
-10/11/20 - 271* lakan _1{3} pogi lang hanap _1{8} 
-11/11/20 - 272* 
-12/11/20 - 233* unbag _1{13} 
-13/11/20 - 245* young sheldon _4{2} unbag _1{13} 
-14/11/20 - 392* young sheldon _4{2} unbag _1{13} 
-15/11/20 - 411* young sheldon _4{2} unbag _1{13} 
-16/11/20 - 374* my vampire boyfriend _1{1} 
-17/11/20 - 362* my vampire boyfriend _1{3} 
-18/11/20 - 356* my vampire boyfriend _1{5} 
-19/11/20 - 372* pogi lang hanap _1{8} 
-20/11/20 - 308* young sheldon _4{3} unbag _1{14} pogi lang hanap _1{8} 
-21/11/20 - 205* tharntype _2{2} young sheldon _4{3} unbag _1{14} 
-22/11/20 - 178* tharntype _2{2} young sheldon _4{3} 
-23/11/20 - 274* tharntype _2{3} 
-24/11/20 - 346* tharntype _2{3} 
-25/11/20 - 421* tharntype _2{3} 
-26/11/20 - 422* be love _1{0} 
-27/11/20 - 438* be love _1{0} 
-28/11/20 - 396* be love _1{0} 
-29/11/20 - 463* be love _1{0} 
-30/11/20 - 461* 
-01/12/20 - 475* be love _1{2} 
-02/12/20 - 385* be love _1{4} 
-03/12/20 - 281* ghost runner _1{0} be love _1{6} 
-04/12/20 - 239* young sheldon _4{5} unbag _1{16} ghost runner _1{0} be love _1{6} 
-05/12/20 - 134* tharntype _2{4} young sheldon _4{6} unbag _1{16} ghost runner _1{0} 
-06/12/20 - 148* tharntype _2{4} young sheldon _4{6} unbag _1{16} 
-07/12/20 - 203* tharntype _2{5} young sheldon _4{7} 
-08/12/20 - 311* tale of the nine tailed _1{0} tharntype _2{5} young sheldon _4{7} 
-09/12/20 - 320* tale of the nine tailed _1{0} tharntype _2{5} 
-10/12/20 - 356* tale of the nine tailed _1{0} tharntype _2{5} 
-11/12/20 - 392* tale of the nine tailed _1{0} 
-12/12/20 - 300* tale of the nine tailed _1{0} 
-13/12/20 - 449* 
-14/12/20 - 469* a queen is born _1{1} 
-15/12/20 - 588* a queen is born _1{2} 
-16/12/20 - 504* a queen is born _1{3} 
-17/12/20 - 669* lls _1{189} a queen is born _1{4} 
-18/12/20 - 676* lls _1{191} unbag _1{22} a queen is born _1{4} 
-19/12/20 - 497* lls _1{193} unbag _1{23} a queen is born _1{4} 
-20/12/20 - 408* lls _1{195} unbag _1{24} a queen is born _1{4} 
-21/12/20 - 296* ghost runner _1{2} lls _1{198} unbag _1{26} a queen is born _1{4} 
-22/12/20 - 295* lakan _1{4} lls _1{200} ghost runner _1{3} unbag _1{28} 
-23/12/20 - 283* lakan _1{4} lls _1{202} ghost runner _1{4} 
-24/12/20 - 238* from dusk till dawn _2{0} lakan _1{5} lls _1{204} 
-25/12/20 - 38* young sheldon _4{7} from dusk till dawn _2{0} lakan _1{5} 
-26/12/20 - 46* young sheldon _4{7} from dusk till dawn _2{2} lakan _1{5} 
-27/12/20 - 455* lls _1{210} roommate _2{0} young sheldon _4{7} from dusk till dawn _2{4} 
-28/12/20 - 467* capture lover _1{4} lls _1{213} roommate _2{1} young sheldon _4{8} 
-29/12/20 - 471* joséphine ange gardien _23{5} capture lover _1{4} lls _1{215} roommate _2{1} 
-30/12/20 - 269* the voice be _9{0} joséphine ange gardien _23{5} capture lover _1{4} lls _1{217} 
-31/12/20 - 65* ghost runner _1{4} friend zone _1{4} the voice be _9{0} joséphine ange gardien _23{5} capture lover _1{4} 
-01/01/21 - 105* unbag _1{42} ghost runner _1{6} friend zone _1{5} the voice be _9{1} joséphine ange gardien _23{6} 
-02/01/21 - 75* rpdru _13{0} rpdr _13{0} the shipper _1{2} mako ventures _1{0} unbag _1{44} ghost runner _1{7} 
-03/01/21 - 22* together with me _1{0} rpdru _13{0} rpdr _13{0} the shipper _1{2} mako ventures _1{0} 
-04/01/21 - 72* rpdru _9{6} together with me _1{1} rpdru _13{1} rpdr _13{1} 
-05/01/21 - 81* rpdru _9{8} together with me _1{1} rpdru _13{1} rpdr _13{1} 
-06/01/21 - 78* friend zone _1{6} the voice be _9{2} rpdru _9{10} together with me _1{1} 
-07/01/21 - 100* friend zone _1{8} the voice be _9{2} rpdru _9{12} 
-08/01/21 - 60* unlocked _1{0} friend zone _1{8} the voice be _9{2} 
-09/01/21 - 87* rpdru _13{1} rpdr _13{1} tharntype _2{6} mako ventures _1{1} unlocked _1{0} 
-10/01/21 - 82* romantic blue _1{0} rpdru _13{2} rpdr _13{1} tharntype _2{7} 
-11/01/21 - 105* romantic blue _1{1} rpdru _13{3} rpdr _13{2} tharntype _2{8} 
-12/01/21 - 70* romantic blue _1{1} rpdru _13{3} rpdr _13{2} tharntype _2{9} mako ventures _1{2} 
-13/01/21 - 75* the voice be _9{3} pearl next door _1{0} romantic blue _1{1} rpdru _13{3} 
-14/01/21 - 94* the voice be _9{5} pearl next door _1{2} 
-15/01/21 - 164* unbag _1{61} the voice be _9{5} pearl next door _1{3} 
-16/01/21 - 151* rpdru _13{3} rpdr _13{2} warper series _1{0} unbag _1{63} 
-17/01/21 - 116* mako ventures _1{2} rpdru _13{3} rpdr _13{2} 
-18/01/21 - 128* koishite akuma _1{1} the voice no _6{1} mako ventures _1{3} 
-19/01/21 - 148* /9-1-1 lone star _2{0} /9-1-1 _4{0} koishite akuma _1{3} the voice no _6{2} 
-20/01/21 - 140* the voice be _9{6} /9-1-1 lone star _2{0} /9-1-1 _4{0} koishite akuma _1{5} the voice no _6{3} 
-21/01/21 - 131* mako ventures _1{3} the voice be _9{7} /9-1-1 lone star _2{0} /9-1-1 _4{0} koishite akuma _1{7} the voice no _6{4} 
-22/01/21 - 113* young sheldon _4{9} mako ventures _1{5} the voice be _9{7} /9-1-1 lone star _2{0} /9-1-1 _4{0} 
-23/01/21 - 73* rpdr _13{3} young sheldon _4{10} mako ventures _1{7} the voice be _9{7} 
-24/01/21 - 89* ben x jim _1{2} the voice no _6{6} mako ventures _1{9} rpdru _13{4} rpdr _13{5} 
-25/01/21 - 105* tien bromance _1{1} ben x jim _1{3} the voice no _6{9} mako ventures _1{11} rpdru _13{5} 
-26/01/21 - 425* /9-1-1 lone star _2{1} /9-1-1 _4{1} lls _1{272} the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
-27/01/21 - 407* the voice be _9{8} /9-1-1 lone star _2{3} /9-1-1 _4{2} lls _1{274} the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
-28/01/21 - 376* mako ventures _1{17} the voice be _9{10} /9-1-1 lone star _2{4} /9-1-1 _4{3} lls _1{276} the shipper _1{3} tien bromance _1{2} 
-29/01/21 - 468* unbag _1{83} mako ventures _1{19} the voice be _9{12} /9-1-1 lone star _2{4} /9-1-1 _4{3} lls _1{278} the shipper _1{3} 
-30/01/21 - 202* the voice no _6{9} rpdru _13{5} rpdr _13{6} unbag _1{85} 
-31/01/21 - 166* be love _1{7} tharntype _2{11} mako ventures _1{23} the voice no _6{11} rpdru _13{7} rpdr _13{6} 
-01/02/21 - 200* be love _1{10} tharntype _2{13} mako ventures _1{27} the voice no _6{13} rpdru _13{9} rpdr _13{8} 
-02/02/21 - 208* you never eat alone _1{0} slam dance _1{0} be love _1{11} tharntype _2{13} mako ventures _1{29} the voice no _6{13} 
-03/02/21 - 143* the voice be _9{15} /9-1-1 lone star _2{6} /9-1-1 _4{5} schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} be love _1{11} 
-04/02/21 - 145* the voice be _9{16} /9-1-1 lone star _2{7} /9-1-1 _4{5} schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} 
-05/02/21 - 128* the voice be _9{17} /9-1-1 lone star _2{7} /9-1-1 _4{5} schools out lets date now _1{0} you never eat alone _1{1} 
-06/02/21 - 184* rpdr _13{8} the voice vv _7{0} the voice no _6{13} 
-07/02/21 - 192* the voice _10{0} mako ventures _1{39} rpdr _13{10} the voice vv _7{2} the voice no _6{14} 
-08/02/21 - 175* tbbt _11{1} the untamed _1{5} schools out lets date now _1{1} the voice _10{3} mako ventures _1{42} rpdr _13{12} 
-09/02/21 - 219* /9-1-1 lone star _2{8} /9-1-1 _4{6} tbbt _11{1} the untamed _1{5} schools out lets date now _1{2} 
-10/02/21 - 220* the harvest season _1{0} the voice be _9{18} wabi show _1{0} wabi vlog _1{0} /9-1-1 lone star _2{10} /9-1-1 _4{8} tbbt _11{1} 
-11/02/21 - 140* top chef _12{0} the harvest season _1{2} the voice be _9{20} wabi show _1{2} wabi vlog _1{2} /9-1-1 lone star _2{10} /9-1-1 _4{8} 
-12/02/21 - 199* rpdru _13{9} unbag _1{106} top chef _12{0} the harvest season _1{4} the voice be _9{21} wabi show _1{3} wabi vlog _1{4} /9-1-1 lone star _2{10} 
-13/02/21 - 218* rpdr _13{12} the voice vv _7{3} the voice no _6{17} young sheldon _4{19} tokyo ghoul _3{0} rpdru _13{9} unbag _1{108} 
-14/02/21 - 209* the voice _10{3} rpdr _13{14} the voice vv _7{3} the voice no _6{19} young sheldon _4{19} tokyo ghoul _3{0} rpdru _13{9} unbag _1{110} 
-15/02/21 - 114* bangkok love stories innocence _1{1} schools out lets date now _1{3} the voice _10{4} rpdr _13{17} the voice vv _7{4} the voice no _6{22} young sheldon _4{20} 
-16/02/21 - 175* /9-1-1 lone star _2{11} /9-1-1 _4{9} tokyo ghoul _3{1} love in time _1{8} wabi vlog _1{13} my vampire boyfriend _1{9} bangkok love stories innocence _1{1} schools out lets date now _1{3} 
-17/02/21 - 199* the voice be _9{22} rpdru _13{10} you never eat alone _1{2} /9-1-1 lone star _2{13} /9-1-1 _4{11} tokyo ghoul _3{2} love in time _1{9} wabi vlog _1{15} my vampire boyfriend _1{9} 
-18/02/21 - 127* unlocked _1{2} pearl next door _1{9} top chef _12{1} my vampire boyfriend _1{10} the voice be _9{24} rpdru _13{12} you never eat alone _1{2} /9-1-1 lone star _2{15} /9-1-1 _4{13} 
-19/02/21 - 191* unlocked _1{2} pearl next door _1{9} top chef _12{1} my vampire boyfriend _1{12} the voice be _9{26} rpdru _13{14} you never eat alone _1{2} 
-20/02/21 - 164* rpdru _13{15} rpdr _13{19} given _1{0} the voice vv _7{4} the voice no _6{26} 
-21/02/21 - 191* the voice _10{4} young sheldon _4{22} mako ventures _1{54} rpdru _13{17} rpdr _13{21} given _1{1} the voice vv _7{4} the voice no _6{28} 
-22/02/21 - 207* history3 trapped _1{1} the voice _10{5} young sheldon _4{24} mako ventures _1{57} rpdru _13{20} rpdr _13{23} given _1{3} the voice vv _7{5} the voice no _6{30} 
-23/02/21 - 226* /9-1-1 lone star _2{17} /9-1-1 _4{14} wabi vlog _1{22} history3 trapped _1{1} the voice _10{5} young sheldon _4{25} mako ventures _1{59} rpdru _13{22} rpdr _13{23} given _1{5} the voice vv _7{5} 
-24/02/21 - 257* pekin express _14{0} the voice be _9{28} /9-1-1 lone star _2{19} /9-1-1 _4{16} wabi vlog _1{24} history3 trapped _1{1} the voice _10{5} young sheldon _4{26} mako ventures _1{61} rpdru _13{24} rpdr _13{23} 
-25/02/21 - 163* lovely writer _1{0} top chef _12{2} pekin express _14{1} the voice be _9{30} /9-1-1 lone star _2{21} /9-1-1 _4{17} wabi vlog _1{26} history3 trapped _1{1} the voice _10{5} 
-26/02/21 - 282* unbag _1{128} lovely writer _1{1} top chef _12{3} pekin express _14{1} the voice be _9{32} /9-1-1 lone star _2{22} /9-1-1 _4{18} wabi vlog _1{28} history3 trapped _1{1} 
-27/02/21 - 329* the voice vv _7{5} the voice no _6{31} unbag _1{130} lovely writer _1{1} top chef _12{3} 
-28/02/21 - 377* the voice _10{5} the voice vv _7{5} the voice no _6{32} unbag _1{132} 
-01/03/21 - 279* the voice kids ger _9{2} the voice _10{8} the voice vv _7{7} the voice no _6{35} 
-02/03/21 - 268* young sheldon _4{29} /9-1-1 lone star _2{24} /9-1-1 _4{20} schools out lets date now _1{4} the voice kids ger _9{3} the voice _10{9} the voice vv _7{7} 
-03/03/21 - 579* pekin express _14{3} the voice be _9{41} lls _1{346} you never eat alone _1{4} the voice us _20{0} young sheldon _4{31} /9-1-1 lone star _2{26} /9-1-1 _4{22} schools out lets date now _1{5} the voice kids ger _9{3} 
-04/03/21 - 610* top chef _12{5} lovely writer _1{3} lls _1{348} the voice us _20{0} pekin express _14{3} the voice be _9{43} you never eat alone _1{4} young sheldon _4{32} /9-1-1 lone star _2{28} /9-1-1 _4{23} 
-05/03/21 - 618* young sheldon _4{33} lls _1{350} top chef _12{5} lovely writer _1{3} the voice us _20{2} pekin express _14{3} the voice be _9{45} you never eat alone _1{4} /9-1-1 lone star _2{29} 
-06/03/21 - 587* rpdru _13{25} rpdr _13{24} the voice vv _7{7} the voice no _6{35} wabi vlog _1{40} we best love _2{0} young sheldon _4{35} lls _1{352} 
-07/03/21 - 648* lls _1{354} mako ventures _1{71} the voice _10{9} rpdru _13{26} rpdr _13{24} the voice vv _7{8} the voice no _6{36} wabi vlog _1{42} we best love _2{0} 
-08/03/21 - 687* lls _1{357} mako ventures _1{74} the voice _10{11} rpdru _13{27} rpdr _13{25} the voice vv _7{9} the voice no _6{37} wabi vlog _1{45} 
-09/03/21 - 760* /9-1-1 lone star _2{30} /9-1-1 _4{25} the voice kids ger _9{3} lls _1{359} mako ventures _1{76} the voice _10{12} rpdru _13{27} rpdr _13{25} 
-10/03/21 - 702* pekin express _14{4} the voice be _9{48} you never eat alone _1{5} the voice us _20{6} lls _1{361} /9-1-1 lone star _2{31} /9-1-1 _4{25} the voice kids ger _9{3} mako ventures _1{78} the voice _10{12} 
-11/03/21 - 552* lls _1{363} game of talents _1{0} the masked singer _5{0} wabi vlog _1{51} top chef _12{6} lovely writer _1{4} the voice us _20{8} pekin express _14{5} the voice be _9{50} 
-12/03/21 - 680* lls _1{365} unbag _1{152} game of talents _1{0} the masked singer _5{0} wabi vlog _1{53} top chef _12{7} lovely writer _1{4} the voice us _20{9} 
-13/03/21 - 852* young sheldon _4{42} koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} we best love _2{1} lls _1{367} 
-14/03/21 - 953* lls _1{369} the voice _10{12} rpdru _13{27} rpdr _13{25} mako ventures _1{81} young sheldon _4{43} koh-lanta _26{0} the voice vv _7{9} the voice no _6{37} 
-15/03/21 - 788* history4 close to you _1{1} lls _1{372} the voice _10{13} rpdru _13{28} rpdr _13{26} mako ventures _1{82} young sheldon _4{44} koh-lanta _26{1} the voice vv _7{10} 
-16/03/21 - 788* the voice kids ger _9{4} history4 close to you _1{1} lls _1{374} the voice _10{13} rpdru _13{28} rpdr _13{26} mako ventures _1{83} young sheldon _4{44} koh-lanta _26{1} 
-17/03/21 - 779* pekin express _14{6} the voice be _9{54} the voice us _20{11} the voice kids ger _9{6} history4 close to you _1{1} lls _1{376} the voice _10{13} rpdru _13{28} rpdr _13{26} mako ventures _1{84} 
-18/03/21 - 533* lls _1{378} game of talents _1{1} the masked singer _5{1} top chef _12{9} lovely writer _1{5} bad roommate _1{0} pekin express _14{6} the voice be _9{55} the voice us _20{13} the voice kids ger _9{6} 
-19/03/21 - 474* bt21 vlog _1{0} bt21 original story _1{0} schools out lets date now _1{6} lls _1{380} game of talents _1{1} the masked singer _5{1} top chef _12{9} lovely writer _1{5} bad roommate _1{1} pekin express _14{6} the voice be _9{55} 
-20/03/21 - 506* rpdru _13{28} rpdr _13{26} the voice vv _7{10} the voice no _6{38} koh-lanta _26{1} bt21 vlog _1{1} bt21 original story _1{2} schools out lets date now _1{6} lls _1{382} game of talents _1{1} the masked singer _5{1} top chef _12{10} 
-21/03/21 - 657* the voice _10{13} lls _1{384} we best love _2{2} rpdru _13{29} rpdr _13{27} the voice vv _7{11} the voice no _6{39} koh-lanta _26{1} bt21 vlog _1{2} bt21 original story _1{4} 
-22/03/21 - 672* history4 close to you _1{2} friend or lover _1{1} the voice _10{15} lls _1{387} we best love _2{3} rpdru _13{31} rpdr _13{29} the voice vv _7{12} the voice no _6{40} koh-lanta _26{2} 
-23/03/21 - 659* the voice us _20{14} the voice kids ger _9{7} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} lls _1{389} we best love _2{3} rpdru _13{32} rpdr _13{30} the voice vv _7{12} 
-24/03/21 - 582* wabi vlog _1{56} the voice be _9{67} pekin express _14{7} the voice us _20{16} the voice kids ger _9{7} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} lls _1{391} we best love _2{3} 
-25/03/21 - 195* game of talents _1{3} the masked singer _5{2} top chef _12{12} wabi vlog _1{57} the voice be _9{69} pekin express _14{7} the voice us _20{18} the voice kids ger _9{7} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} 
-26/03/21 - 204* game of talents _1{4} the masked singer _5{3} top chef _12{13} wabi vlog _1{59} the voice be _9{71} pekin express _14{7} the voice us _20{20} the voice kids ger _9{7} history4 close to you _1{3} friend or lover _1{1} the voice _10{16} 
-27/03/21 - 171* rpdru _13{36} rpdr _13{34} koh-lanta _26{2} the voice no _6{40} the voice vv _7{12} lovely writer _1{6} game of talents _1{6} the masked singer _5{4} top chef _12{14} 
-28/03/21 - 260* the voice _10{16} precise shot _1{0} we best love _2{3} mako ventures _1{85} rpdru _13{38} rpdr _13{35} koh-lanta _26{2} the voice no _6{41} the voice vv _7{13} lovely writer _1{6} 
-29/03/21 - 652* lls _1{402} history4 close to you _1{4} history3 trapped _1{3} the voice _10{18} precise shot _1{3} we best love _2{5} mako ventures _1{88} rpdru _13{40} rpdr _13{37} koh-lanta _26{3} the voice no _6{42} 
-30/03/21 - 578* the voice us _20{29} the voice be _9{80} the voice kids ger _9{8} lls _1{404} history4 close to you _1{5} history3 trapped _1{3} the voice _10{19} precise shot _1{5} we best love _2{5} 
-31/03/21 - 640* pekin express _14{8} wabi vlog _1{66} ydestiny _1{0} the voice us _20{31} the voice be _9{82} the voice kids ger _9{8} lls _1{406} history4 close to you _1{5} history3 trapped _1{3} the voice _10{19} 
-01/04/21 - 654* game of talents _1{8} the masked singer _5{6} survivor au _3{2} pekin express _14{10} wabi vlog _1{68} ydestiny _1{1} the voice us _20{34} the voice be _9{85} the voice kids ger _9{9} lls _1{409} history4 close to you _1{6} 
-02/04/21 - 375* young sheldon _4{45} mental _1{6} top chef _12{16} unbag _1{196} history3 trapped _1{4} lovely writer _1{8} game of talents _1{9} the masked singer _5{6} survivor au _3{3} pekin express _14{12} wabi vlog _1{69} ydestiny _1{1} 
-03/04/21 - 396* rpdru _13{45} rpdr _13{42} the voice kids nl _10{0} the voice vv _7{15} koh-lanta _26{4} we best love _2{6} young sheldon _4{46} mental _1{7} top chef _12{18} unbag _1{198} history3 trapped _1{6} lovely writer _1{9} 
-04/04/21 - 414* the voice _10{20} survivor au _3{5} rpdru _13{47} rpdr _13{44} the voice kids nl _10{0} the voice vv _7{16} koh-lanta _26{4} we best love _2{7} young sheldon _4{46} mental _1{7} top chef _12{18} unbag _1{200} 
-05/04/21 - 170* drag race holland _1{4} history4 close to you _1{7} the most peaceful place _1{1} my lascivious boss _1{1} the voice _10{23} survivor au _3{8} rpdru _13{49} rpdr _13{46} the voice kids nl _10{1} the voice vv _7{17} koh-lanta _26{5} we best love _2{8} 
-06/04/21 - 620* drag race holland _1{5} the voice us _20{41} lls _1{419} bad roommate _1{16} mr lipstick _1{0} bt21 original story _1{22} wabi vlog _1{71} the voice kids ger _9{9} history4 close to you _1{8} the most peaceful place _1{3} my lascivious boss _1{1} the voice _10{25} 
+- 22/10/20 - 151* quien es la mascara _2{1} 
+- 23/10/20 - 164* quien es la mascara _2{1} ben x jim _1{1} 
+- 24/10/20 - 135* swap test _1{0} 
+- 25/10/20 - 77* pogi lang hanap _1{0} 
+- 26/10/20 - 117* boys lockdown _1{2} 
+- 27/10/20 - 198* boys lockdown _1{2} 
+- 28/10/20 - 256* 
+- 29/10/20 - 164* pogi lang hanap _1{1} lakan _1{0} friend forever _1{8} 
+- 30/10/20 - 73* the stranded _1{0} unbag _1{10} pogi lang hanap _1{3} lakan _1{0} friend forever _1{8} 
+- 31/10/20 - 158* swap test _1{1} the stranded _1{0} unbag _1{10} 
+- 05/11/20 - 307* the good doctor _4{0} 
+- 06/11/20 - 253* unbag _1{12} blood _1{4} the good doctor _4{0} 
+- 07/11/20 - 173* unbag _1{12} blood _1{4} the good doctor _4{0} 
+- 08/11/20 - 222* lakan _1{2} pogi lang hanap _1{7} 
+- 09/11/20 - 267* lakan _1{3} pogi lang hanap _1{8} 
+- 10/11/20 - 271* lakan _1{3} pogi lang hanap _1{8} 
+- 12/11/20 - 233* unbag _1{13} 
+- 13/11/20 - 245* unbag _1{13} 
+- 14/11/20 - 392* unbag _1{13} 
+- 15/11/20 - 411* unbag _1{13} 
+- 16/11/20 - 374* my vampire boyfriend _1{1} 
+- 17/11/20 - 362* my vampire boyfriend _1{3} 
+- 18/11/20 - 356* my vampire boyfriend _1{5} 
+- 19/11/20 - 372* pogi lang hanap _1{8} 
+- 20/11/20 - 308* unbag _1{14} pogi lang hanap _1{8} 
+- 21/11/20 - 205* unbag _1{14} 
+- 22/11/20 - 178* 
+- 23/11/20 - 274* 
+- 24/11/20 - 346* 
+- 25/11/20 - 421* 
+- 26/11/20 - 422* be love _1{0} 
+- 27/11/20 - 438* be love _1{0} 
+- 28/11/20 - 396* be love _1{0} 
+- 29/11/20 - 463* be love _1{0} 
+- 01/12/20 - 475* be love _1{2} 
+- 02/12/20 - 385* be love _1{4} 
+- 03/12/20 - 281* ghost runner _1{0} be love _1{6} 
+- 04/12/20 - 239* unbag _1{16} ghost runner _1{0} be love _1{6} 
+- 05/12/20 - 134* unbag _1{16} ghost runner _1{0} 
+- 06/12/20 - 148* unbag _1{16} 
+- 07/12/20 - 203* 
+- 08/12/20 - 311* tale of the nine tailed _1{0} 
+- 09/12/20 - 320* tale of the nine tailed _1{0} 
+- 10/12/20 - 356* tale of the nine tailed _1{0} 
+- 11/12/20 - 392* tale of the nine tailed _1{0} 
+- 12/12/20 - 300* tale of the nine tailed _1{0} 
+- 14/12/20 - 469* a queen is born _1{1} 
+- 15/12/20 - 588* a queen is born _1{2} 
+- 16/12/20 - 504* a queen is born _1{3} 
+- 17/12/20 - 669* a queen is born _1{4} 
+- 18/12/20 - 676* unbag _1{22} a queen is born _1{4} 
+- 19/12/20 - 497* unbag _1{23} a queen is born _1{4} 
+- 20/12/20 - 408* unbag _1{24} a queen is born _1{4} 
+- 21/12/20 - 296* ghost runner _1{2} unbag _1{26} a queen is born _1{4} 
+- 22/12/20 - 295* lakan _1{4} ghost runner _1{3} unbag _1{28} 
+- 23/12/20 - 283* lakan _1{4} ghost runner _1{4} 
+- 24/12/20 - 238* from dusk till dawn _2{0} lakan _1{5} 
+- 25/12/20 - 38* from dusk till dawn _2{0} lakan _1{5} 
+- 26/12/20 - 46* from dusk till dawn _2{2} lakan _1{5} 
+- 27/12/20 - 455* from dusk till dawn _2{4} 
+- 28/12/20 - 467* capture lover _1{4} 
+- 29/12/20 - 471* capture lover _1{4} 
+- 30/12/20 - 269* capture lover _1{4} 
+- 31/12/20 - 65* ghost runner _1{4} friend zone _1{4} capture lover _1{4} 
+- 01/01/21 - 105* unbag _1{42} ghost runner _1{6} friend zone _1{5} 
+- 02/01/21 - 75* the shipper _1{2} unbag _1{44} ghost runner _1{7} 
+- 03/01/21 - 22* together with me _1{0} the shipper _1{2} 
+- 04/01/21 - 72* together with me _1{1} 
+- 05/01/21 - 81* together with me _1{1} 
+- 06/01/21 - 78* friend zone _1{6} together with me _1{1} 
+- 07/01/21 - 100* friend zone _1{8} 
+- 08/01/21 - 60* unlocked _1{0} friend zone _1{8} 
+- 09/01/21 - 87* unlocked _1{0} 
+- 10/01/21 - 82* romantic blue _1{0} 
+- 11/01/21 - 105* romantic blue _1{1} 
+- 12/01/21 - 70* romantic blue _1{1} 
+- 13/01/21 - 75* romantic blue _1{1} 
+- 14/01/21 - 94* 
+- 15/01/21 - 164* unbag _1{61} 
+- 16/01/21 - 151* warper series _1{0} unbag _1{63} 
+- 17/01/21 - 116* 
+- 18/01/21 - 128* koishite akuma _1{1} 
+- 19/01/21 - 148* koishite akuma _1{3} 
+- 20/01/21 - 140* koishite akuma _1{5} 
+- 21/01/21 - 131* koishite akuma _1{7} 
+- 22/01/21 - 113* 
+- 23/01/21 - 73* 
+- 24/01/21 - 89* ben x jim _1{2} 
+- 25/01/21 - 105* tien bromance _1{1} ben x jim _1{3} 
+- 26/01/21 - 425* the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
+- 27/01/21 - 407* the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
+- 28/01/21 - 376* the shipper _1{3} tien bromance _1{2} 
+- 29/01/21 - 468* unbag _1{83} the shipper _1{3} 
+- 30/01/21 - 202* unbag _1{85} 
+- 31/01/21 - 166* be love _1{7} 
+- 01/02/21 - 200* be love _1{10} 
+- 02/02/21 - 208* you never eat alone _1{0} slam dance _1{0} be love _1{11} 
+- 03/02/21 - 143* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} be love _1{11} 
+- 04/02/21 - 145* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} 
+- 05/02/21 - 128* schools out lets date now _1{0} you never eat alone _1{1} 
+- 06/02/21 - 184* 
+- 07/02/21 - 192* 
+- 08/02/21 - 175* tbbt _11{1} the untamed _1{5} schools out lets date now _1{1} 
+- 09/02/21 - 219* tbbt _11{1} the untamed _1{5} schools out lets date now _1{2} 
+- 10/02/21 - 220* the harvest season _1{0} wabi show _1{0} tbbt _11{1} 
+- 11/02/21 - 140* the harvest season _1{2} wabi show _1{2} 
+- 12/02/21 - 199* unbag _1{106} the harvest season _1{4} wabi show _1{3} 
+- 13/02/21 - 218* tokyo ghoul _3{0} unbag _1{108} 
+- 14/02/21 - 209* tokyo ghoul _3{0} unbag _1{110} 
+- 15/02/21 - 114* bangkok love stories innocence _1{1} schools out lets date now _1{3} 
+- 16/02/21 - 175* tokyo ghoul _3{1} my vampire boyfriend _1{9} bangkok love stories innocence _1{1} schools out lets date now _1{3} 
+- 17/02/21 - 199* you never eat alone _1{2} tokyo ghoul _3{2} my vampire boyfriend _1{9} 
+- 18/02/21 - 127* unlocked _1{2} my vampire boyfriend _1{10} you never eat alone _1{2} 
+- 19/02/21 - 191* unlocked _1{2} my vampire boyfriend _1{12} you never eat alone _1{2} 
+- 20/02/21 - 164* 
+- 21/02/21 - 191* 
+- 22/02/21 - 207* 
+- 23/02/21 - 226* 
+- 24/02/21 - 257* 
+- 25/02/21 - 163* 
+- 26/02/21 - 282* unbag _1{128} 
+- 27/02/21 - 329* unbag _1{130} 
+- 28/02/21 - 377* unbag _1{132} 
+- 01/03/21 - 279* 
+- 02/03/21 - 268* schools out lets date now _1{4} 
+- 03/03/21 - 579* you never eat alone _1{4} schools out lets date now _1{5} 
+- 04/03/21 - 610* you never eat alone _1{4} 
+- 05/03/21 - 618* you never eat alone _1{4} 
+- 06/03/21 - 587* 
+- 07/03/21 - 648* 
+- 08/03/21 - 687* 
+- 09/03/21 - 760* 
+- 10/03/21 - 702* you never eat alone _1{5} 
+- 11/03/21 - 552* 
+- 12/03/21 - 680* unbag _1{152} 
+- 13/03/21 - 852* 
+- 14/03/21 - 953* 
+- 15/03/21 - 788* 
+- 16/03/21 - 788* 
+- 17/03/21 - 779* 
+- 18/03/21 - 533* 
+- 19/03/21 - 474* bt21 vlog _1{0} bt21 original story _1{0} schools out lets date now _1{6} 
+- 20/03/21 - 506* bt21 vlog _1{1} bt21 original story _1{2} schools out lets date now _1{6} 
+- 21/03/21 - 657* bt21 vlog _1{2} bt21 original story _1{4} 
+- 22/03/21 - 672* 
+- 23/03/21 - 659* 
+- 24/03/21 - 582* 
+- 25/03/21 - 195* 
+- 26/03/21 - 204* 
+- 27/03/21 - 171* 
+- 28/03/21 - 260* 
+- 29/03/21 - 652* 
+- 30/03/21 - 578* 
+- 31/03/21 - 640* 
+- 01/04/21 - 654* 
+- 02/04/21 - 375* unbag _1{196} 
+- 03/04/21 - 396* unbag _1{198} 
+- 04/04/21 - 414* unbag _1{200} 
+- 05/04/21 - 170* 
+- 06/04/21 - 620* mr lipstick _1{0} bt21 original story _1{22} 
+- 07/04/21 - 714* mr lipstick _1{1} bt21 original story _1{24} 
+- 08/04/21 - 739* mr lipstick _1{2} bt21 original story _1{26} 
+- 09/04/21 - 681* 
+- 10/04/21 - 220* 
+- 11/04/21 - 225* 
+- 12/04/21 - 216* 
+- 13/04/21 - 253* 
+- 14/04/21 - 182* 
+- 15/04/21 - 154* 
+- 16/04/21 - 360* unbag _1{225} 
+- 17/04/21 - 457* unbag _1{227} 
+- 18/04/21 - 519* unbag _1{229} 
+- 19/04/21 - 276* 
+- 20/04/21 - 230* 
+- 21/04/21 - 290* 
+- 22/04/21 - 282* 
+- 23/04/21 - 116* i can see your voice fr _1{0} 
+- 24/04/21 - 140* i can see your voice fr _1{0} 
+- 25/04/21 - 224* 
+- 26/04/21 - 180* 
+- 27/04/21 - 639* 
+- 28/04/21 - 764* 
+- 29/04/21 - 763* 
+- 30/04/21 - 1045* unbag _1{253} 
+- 01/05/21 - 942* unbag _1{256} 
+- 02/05/21 - 449* unbag _1{258} 
+- 03/05/21 - 648* 
+- 04/05/21 - 757* 
+- 05/05/21 - 806* 
+- 06/05/21 - 846* 
+- 07/05/21 - 857* 
+- 08/05/21 - 190* 
+- 09/05/21 - 179* 
+- 10/05/21 - 709* 
+- 11/05/21 - 827* 
+- 12/05/21 - 852* 
+- 13/05/21 - 849* 
+- 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} 
+- 15/05/21 - 490* unbag _1{285} i can see your voice fr _1{2} 
+- 16/05/21 - 381* unbag _1{287} i can see your voice fr _1{2} 
+- 17/05/21 - 645* 
+- 18/05/21 - 790* 
+- 19/05/21 - 833* an eye for an eye _1{0} 
+- 20/05/21 - 909* bt21 original story _1{34} an eye for an eye _1{0} 
+- 21/05/21 - 771* bt21 original story _1{34} an eye for an eye _1{0} 
+- 22/05/21 - 761* 
+- 23/05/21 - 658* 
+- 24/05/21 - 659* 
+- 25/05/21 - 251* 
+- 26/05/21 - 329* 
+- 27/05/21 - 286* 
+- 28/05/21 - 1089* unbag _1{312} 
+- 29/05/21 - 989* dark blue kiss _1{0} unbag _1{314} 
+- 30/05/21 - 992* dark blue kiss _1{0} unbag _1{316} 
+- 31/05/21 - 951* dark blue kiss _1{1} unbag _1{319} 
+- 01/06/21 - 655* dark blue kiss _1{2} 
+- 02/06/21 - 682* 
+- 03/06/21 - 190* vincenzo _1{0} agt _16{0} 
+- 04/06/21 - 179* vincenzo _1{2} agt _16{2} 
+- 05/06/21 - 163* vincenzo _1{4} agt _16{4} 
+- 06/06/21 - 182* vincenzo _1{6} agt _16{4} 
+- 07/06/21 - 187* vincenzo _1{9} agt _16{5} 
+- 08/06/21 - 200* vincenzo _1{11} agt _16{5} 
+- 09/06/21 - 204* lego masters _2{0} vincenzo _1{13} agt _16{5} 
+- 10/06/21 - 144* agt _16{5} lego masters _2{2} vincenzo _1{15} 
+- 11/06/21 - 479* unbag _1{342} agt _16{6} lego masters _2{4} vincenzo _1{15} 
+- 12/06/21 - 490* unbag _1{344} agt _16{6} lego masters _2{6} 
+- 13/06/21 - 505* unbag _1{346} agt _16{6} lego masters _2{8} 
+- 14/06/21 - 509* unbag _1{349} agt _16{7} lego masters _2{11} 
+- 15/06/21 - 504* unbag _1{351} 
+- 16/06/21 - 211* lego masters _2{14} 
+- 17/06/21 - 233* agt _16{7} lego masters _2{15} 
+- 18/06/21 - 219* dark blue kiss _1{2} agt _16{8} lego masters _2{15} 
+- 19/06/21 - 265* the cube _1{0} elite _4{0} dark blue kiss _1{3} 
+- 20/06/21 - 276* elite _4{1} the cube _1{0} dark blue kiss _1{3} 
+- 21/06/21 - 195* elite _4{4} the cube _1{2} dark blue kiss _1{4} agt _16{9} 
+- 22/06/21 - 199* elite _4{6} the cube _1{4} dark blue kiss _1{4} 
+- 23/06/21 - 238* lego masters _2{16} siew sum noi _1{0} elite _4{8} the cube _1{6} 
+- 24/06/21 - 199* agt _16{9} lego masters _2{18} siew sum noi _1{0} elite _4{10} the cube _1{7} 
+- 25/06/21 - 505* unbag _1{371} rpdrasu _6{0} rpdras _6{0} agt _16{10} lego masters _2{19} siew sum noi _1{0} 
+- 26/06/21 - 510* the cube _1{8} marble mania _1{0} unbag _1{373} rpdrasu _6{1} rpdras _6{1} 
+- 27/06/21 - 503* drop _1{0} the cube _1{10} marble mania _1{0} unbag _1{375} rpdrasu _6{2} rpdras _6{2} 
+- 28/06/21 - 542* drop _1{2} the cube _1{11} marble mania _1{1} unbag _1{378} rpdrasu _6{5} 
+- 29/06/21 - 554* drop _1{2} the cube _1{11} marble mania _1{1} unbag _1{380} rpdrasu _6{7} 
+- 30/06/21 - 249* drop _1{3} the cube _1{11} marble mania _1{1} 
+- 01/07/21 - 287* bt21 original story _1{37} agt _16{13} drop _1{4} the cube _1{12} 
+- 02/07/21 - 255* rpdrasu _6{14} rpdras _6{12} bt21 original story _1{39} agt _16{15} 
+- 03/07/21 - 202* the cube _1{12} rpdrasu _6{15} rpdras _6{12} 
+- 04/07/21 - 216* the cube _1{13} rpdrasu _6{15} rpdras _6{12} 
+- 05/07/21 - 253* the cube _1{15} rpdrasu _6{16} rpdras _6{13} 
+- 06/07/21 - 237* young royals _1{0} camping paradis _12{0} the cube _1{16} 
+- 07/07/21 - 256* agt _16{18} lego masters _2{22} drop _1{4} young royals _1{2} camping paradis _12{1} the cube _1{17} 
+- 08/07/21 - 243* /46 days _1{0} agt _16{20} lego masters _2{24} drop _1{5} young royals _1{2} camping paradis _12{1} 
+- 09/07/21 - 545* unbag _1{401} rpdrasu _6{16} rpdras _6{13} /46 days _1{0} agt _16{22} 
+- 10/07/21 - 601* /46 days _1{0} zombie detective _1{3} unbag _1{403} rpdrasu _6{17} 
+- 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} unbag _1{405} rpdrasu _6{18} 
+- 12/07/21 - 655* glow up _2{2} /46 days _1{5} zombie detective _1{4} unbag _1{408} 
+- 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} unbag _1{410} 
+- 14/07/21 - 253* drop _1{6} josephine ange gardien _24{0} camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
+- 15/07/21 - 299* the cube _1{17} /46 days _1{11} agt _16{25} drop _1{7} josephine ange gardien _24{1} camping paradis _12{3} 
+- 16/07/21 - 215* the cube _1{19} rpdrasu _6{20} rpdras _6{15} /46 days _1{13} agt _16{26} 
+- 17/07/21 - 180* good singers _1{4} the cube _1{21} rpdrasu _6{21} rpdras _6{16} 
+- 18/07/21 - 188* survivor au _5{0} good singers _1{4} the cube _1{23} rpdrasu _6{22} rpdras _6{17} 
+- 19/07/21 - 183* /46 days _1{15} survivor au _8{1} survivor au _5{3} good singers _1{5} the cube _1{26} 
+- 20/07/21 - 184* camping paradis _12{4} survivor au _8{1} /46 days _1{17} survivor au _5{5} good singers _1{5} the cube _1{27} 
+- 21/07/21 - 242* survivor au _5{7} agt _16{31} drop _1{8} lego masters _2{27} survivor au _8{3} camping paradis _12{4} /46 days _1{18} 
+- 22/07/21 - 213* /46 days _1{19} survivor au _5{9} agt _16{33} drop _1{8} lego masters _2{27} survivor au _8{5} camping paradis _12{4} 
+- 23/07/21 - 655* /46 days _1{21} rpdrasu _6{28} unbag _1{430} rpdras _6{20} survivor au _5{11} agt _16{35} drop _1{8} 
+- 24/07/21 - 662* /46 days _1{23} rpdrasu _6{29} unbag _1{432} rpdras _6{21} survivor au _5{13} agt _16{36} 
+- 25/07/21 - 683* the cube _1{28} /46 days _1{25} rpdrasu _6{30} unbag _1{434} rpdras _6{22} 
+- 26/07/21 - 660* survivor au _8{11} the cube _1{30} /46 days _1{28} rpdrasu _6{31} unbag _1{437} 
+- 27/07/21 - 671* survivor au _8{13} the cube _1{30} /46 days _1{29} rpdrasu _6{31} unbag _1{439} 
+- 28/07/21 - 700* survivor au _8{14} the cube _1{30} /46 days _1{30} rpdrasu _6{31} unbag _1{441} 
+- 29/07/21 - 295* survivor au _5{24} survivor au _8{16} the cube _1{30} /46 days _1{31} rpdrasu _6{31} 
+- 30/07/21 - 297* rpdras _6{23} survivor au _5{26} survivor au _8{18} the cube _1{30} /46 days _1{32} 
+- 31/07/21 - 321* rpdrasu _6{31} bt21 original story _1{76} rpdras _6{24} survivor au _5{28} survivor au _8{20} the cube _1{30} 
+- 01/08/21 - 316* rpdrasu _6{33} bt21 original story _1{79} rpdras _6{25} survivor au _5{31} survivor au _8{23} the cube _1{31} 
+- 02/08/21 - 308* survivor sa _8{1} survivor au _8{26} rpdrasu _6{34} bt21 original story _1{82} rpdras _6{26} survivor au _5{34} 
+- 03/08/21 - 310* glow up _2{3} survivor au _8{28} survivor sa _8{2} rpdrasu _6{34} bt21 original story _1{84} rpdras _6{26} survivor au _5{36} 
+- 04/08/21 - 302* survivor au _8{30} /46 days _1{38} glow up _2{3} survivor sa _8{4} rpdrasu _6{34} bt21 original story _1{86} 
+- 05/08/21 - 206* survivor sa _8{5} control z _2{0} survivor au _8{32} /46 days _1{39} glow up _2{3} 
+- 06/08/21 - 716* rpdrasu _6{34} rpdras _6{26} unbag _1{460} survivor sa _8{7} control z _2{1} survivor au _8{34} /46 days _1{40} 
+- 07/08/21 - 650* dont say no _1{0} drag race nl _2{0} rpdrasu _6{34} rpdras _6{26} unbag _1{462} survivor sa _8{9} control z _2{1} 
+- 08/08/21 - 660* good singers _1{6} dont say no _1{0} drag race nl _2{0} rpdrasu _6{34} rpdras _6{26} unbag _1{464} survivor sa _8{11} 
+- 09/08/21 - 708* the voice au _10{1} survivor au _8{40} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{467} survivor sa _8{14} 
+- 10/08/21 - 708* drop _1{10} survivor au _8{42} the voice au _10{1} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{469} survivor sa _8{16} 
+- 11/08/21 - 716* lego masters _2{29} the voice au _10{3} drop _1{11} survivor au _8{44} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{471} 
+- 12/08/21 - 237* agt _16{41} survivor au _8{46} lego masters _2{30} the voice au _10{5} drop _1{11} good singers _1{7} dont say no _1{1} drag race nl _2{1} 
+- 13/08/21 - 329* the cube _1{31} rpdrasu _6{35} rpdras _6{27} agt _16{43} survivor au _8{48} lego masters _2{30} 
+- 14/08/21 - 274* dont say no _1{1} survivor sa _8{16} drag race nl _2{1} the cube _1{31} rpdrasu _6{35} rpdras _6{27} agt _16{44} 
+- 15/08/21 - 298* survivor au _5{60} survivor sa _8{16} dont say no _1{1} drag race nl _2{1} the cube _1{31} rpdrasu _6{35} rpdras _6{27} 
+- 16/08/21 - 311* the voice au _10{12} survivor au _5{63} survivor sa _8{18} dont say no _1{2} drag race nl _2{2} the cube _1{32} rpdrasu _6{36} rpdras _6{28} 
+- 17/08/21 - 352* the voice au _10{14} survivor au _8{57} survivor au _5{65} survivor sa _8{19} dont say no _1{2} drag race nl _2{2} the cube _1{32} rpdrasu _6{36} 
+- 18/08/21 - 354* survivor au _8{59} the voice au _10{16} survivor au _5{66} survivor sa _8{20} dont say no _1{2} drag race nl _2{2} the cube _1{32} rpdrasu _6{36} 
+- 19/08/21 - 401* the voice au _10{17} agt _16{49} survivor au _8{61} survivor au _5{67} survivor sa _8{21} dont say no _1{2} drag race nl _2{2} the cube _1{32} rpdrasu _6{36} 
+- 20/08/21 - 860* rpdrasu _6{36} rpdras _6{28} marble mania _1{2} lego masters _2{31} unbag _1{489} agt _16{50} the voice au _10{19} survivor au _8{63} survivor au _5{68} survivor sa _8{22} 
+- 21/08/21 - 833* the cube _1{32} drag race nl _2{2} rpdrasu _6{37} rpdras _6{29} marble mania _1{2} lego masters _2{31} unbag _1{491} agt _16{52} the voice au _10{21} survivor au _8{65} survivor au _5{69} 
+- 22/08/21 - 780* drop _1{12} survivor au _8{67} from dusk till dawn _2{15} the cube _1{33} drag race nl _2{2} rpdrasu _6{38} rpdras _6{29} marble mania _1{2} lego masters _2{31} unbag _1{493} agt _16{54} 
+- 23/08/21 - 278* the voice au _10{26} dont say no _1{3} survivor au _8{70} drop _1{14} from dusk till dawn _2{16} the cube _1{34} drag race nl _2{3} rpdrasu _6{40} rpdras _6{30} marble mania _1{3} lego masters _2{32} 
+- 24/08/21 - 284* drop _1{14} from dusk till dawn _2{16} survivor au _8{72} the voice au _10{28} dont say no _1{4} the cube _1{34} drag race nl _2{3} rpdrasu _6{41} rpdras _6{30} marble mania _1{3} lego masters _2{32} 
+- 25/08/21 - 284* lego masters _2{32} koh-lanta _27{0} the voice au _10{30} drop _1{15} from dusk till dawn _2{17} survivor au _8{74} dont say no _1{4} the cube _1{34} drag race nl _2{3} rpdrasu _6{42} rpdras _6{30} marble mania _1{3} 
+- 26/08/21 - 249* survivor _4{0} the good doctor _4{2} aggretsuko _3{4} post mortem _1{0} agt _16{63} lego masters _2{34} koh-lanta _27{0} the voice au _10{32} drop _1{16} from dusk till dawn _2{18} survivor au _8{76} dont say no _1{4} 
 
 
 
