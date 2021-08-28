@@ -416,6 +416,10 @@
 |friend or lover|friend or lover|5|serie|taiwan|              <!-- 34 -->
 |survivor 3||15|||<!--  -->
 |koh-lanta 1||13|||<!--  -->
+|koh-lanta 3||13|||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 |josephine ange gardien 23||4|||<!-- 29/12/20  -->
