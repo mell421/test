@@ -17,7 +17,7 @@ list=( "Unbag _1" "Bt21 original story _1" # >= 100
 "Zombie detective _1" "Dark blue kiss _1" "The shipper _1" # 5
 "Glow up _2" "Young royals _1" "I can see your voice fr _1" "Unlocked _1" # 4
 "Josephine ange gardien _24" "Slam dance _1" # 3
-"Dont say no _1" "Drag race nl _2" "Marble mania _1" "Siew sum noi _1" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" # 2
+"Dont say no _1" "Drag race nl _2" "Siew sum noi _1" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" # 2
 "" # 1
 "" # 0
 )  
@@ -34,7 +34,7 @@ list99=( "Unbag _1" "Bt21 original story _1" # >= 200
 "Dont say no _1" "Drag race nl _2" "Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Tokyo ghoul _3" "Glow up _2" "The shipper _1" "Zombie detective _1" # 14-10
 "Control z _2" "I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9
 "Unlocked _1" "The untamed _1" "" # 8
-"Young royals _1" "Marble mania _1" "Tien bromance _1" "" # 7
+"Young royals _1" "Tien bromance _1" "" # 7
 "Slam dance _1" "" # 6
 "Siew sum noi _1" "An eye for an eye _1" "Tbbt _11" "" # 5
 "Bangkok love stories innocence _1" "" # 4

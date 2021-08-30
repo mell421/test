@@ -107,7 +107,7 @@ Unbag _1x24(1) Agt _16x3(1) Lego masters _2x3(2)
 #### sem 21-06-2021 
 Elite _4x4(3) The cube _1x3(2) Dark blue kiss _1x3(1) Agt _16x4(1) Lego masters _2x4(1) 
 #### sem 28-06-2021 
-Drop _1x2(1) The cube _1x4(1) Marble mania _1x2(1) Unbag _1x25(1) Rpdrasu _6x3(2) Rpdras _6x3(2) Agt _16x5(1) Lego masters _2x5(1) Siew sum noi _1x2(1) 
+Drop _1x2(1) The cube _1x4(1) Unbag _1x25(1) Rpdrasu _6x3(2) Rpdras _6x3(2) Agt _16x5(1) Lego masters _2x5(1) Siew sum noi _1x2(1) 
 #### sem 05-07-2021 
 The cube _1x5(1) Rpdrasu _6x4(1) Rpdras _6x4(1) Bt21 original story _1x10(1) Agt _16x6(1) 
 #### sem 12-07-2021 
@@ -123,7 +123,7 @@ The voice au _10x2(1) Survivor au _8x11(3) Good singers _1x5(1) Dont say no _1x2
 #### sem 16-08-2021 
 The voice au _10x5(3) Survivor au _5x12(1) Survivor sa _8x7(2) Dont say no _1x3(1) Drag race nl _2x3(1) The cube _1x9(1) Rpdrasu _6x10(1) Rpdras _6x10(1) Agt _16x11(2) Survivor au _8x13(2) Lego masters _2x8(1) Drop _1x6(1) 
 #### sem 23-08-2021 
-The voice au _10x8(3) Dont say no _1x4(1) Survivor au _8x17(4) Drop _1x7(1) From dusk till dawn _2x5(1) The cube _1x10(1) Drag race nl _2x4(1) Rpdrasu _6x11(1) Rpdras _6x11(1) Marble mania _1x3(1) Lego masters _2x9(1) Unbag _1x29(1) Agt _16x13(2) 
+The voice au _10x8(3) Dont say no _1x4(1) Survivor au _8x17(4) Drop _1x7(1) From dusk till dawn _2x5(1) The cube _1x10(1) Drag race nl _2x4(1) Rpdrasu _6x11(1) Rpdras _6x11(1) Lego masters _2x9(1) Unbag _1x29(1) Agt _16x13(2) 
 
 
 
@@ -143,7 +143,7 @@ Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original
 #### mois 01-06-2021 
 Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story _1x9(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 #### mois 01-07-2021 
-Bt21 original story _1x10(1) Agt _16x6(5) Drop _1x2(1) The cube _1x4(3) Marble mania _1x2(1) Unbag _1x25(2) Rpdrasu _6x3(2) Rpdras _6x3(2) Lego masters _2x5(4) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
+Bt21 original story _1x10(1) Agt _16x6(5) Drop _1x2(1) The cube _1x4(3) Unbag _1x25(2) Rpdrasu _6x3(2) Rpdras _6x3(2) Lego masters _2x5(4) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 #### mois 01-08-2021 
 Rpdrasu _6x8(5) Bt21 original story _1x11(1) Rpdras _6x8(5) Survivor au _5x11(10) Survivor au _8x7(6) The cube _1x8(4) /46 days _1x7(6) Unbag _1x27(2) Agt _16x9(3) Drop _1x5(3) Lego masters _2x7(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 
