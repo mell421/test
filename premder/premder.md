@@ -128,7 +128,6 @@ Quien es la mascara 2x2
 * Quien es la mascara 2x1
 * Ben x jim 1x1
 * Boys lockdown 1x1
-We are not human 1x18
 * Friend zone 1x1
 * Capture lover 1x1
 * Zombie detective 1x1
@@ -236,7 +235,6 @@ Teotfw 2x3
 The l word 1x4
 Two pints of lager 3x2
 Malcolm 2x14
-* We are not human 1x1
 The politician 1x4
 Skam vsg 1x4
 * Community 1x1

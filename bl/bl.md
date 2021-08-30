@@ -237,6 +237,7 @@
 |light on me|light on me|16|serie|corée|                      <!-- 38 -->
 |given 2021|given 2021|6|serie|japon|                         <!-- 40 -->
 |friend or lover|friend or lover|5|serie|taiwan|              <!-- 122 -->
+|we are not human|we are not human|24|serie|chine|           <!-- 1 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -245,7 +246,6 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|we are not human|we are not human|24|serie|chine|18|           <!-- 1 -->
 |the untamed|the untamed|50|serie|chine|3|                      <!-- 2 -->
 |long khong|long khong|8|serie(*)|thailande|3|                  <!-- 3 -->
 |the shipper|the shipper|12|serie|thailande|4|                  <!-- 4 -->

@@ -12,20 +12,20 @@
   - [(nb)](#nb)
 
 ## a eff
-- 21/11/20 - we are not human _1{89} 
-- 22/11/20 - we are not human _1{91} 
-- 23/11/20 - we are not human _1{93} 
-- 24/11/20 - we are not human _1{95} 
-- 25/11/20 - we are not human _1{97} unbag _1{15} 
-- 26/11/20 - we are not human _1{99} unbag _1{15} 
-- 27/11/20 - we are not human _1{101} unbag _1{15} 
-- 28/11/20 - we are not human _1{103} unbag _1{15} 
-- 29/11/20 - we are not human _1{105} unbag _1{15} 
-- 30/11/20 - we are not human _1{107} unbag _1{15}
-- 01/12/20 - we are not human _1{108} unbag _1{16} pogi lang hanap _1{10} 
-- 02/12/20 - we are not human _1{110} unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} 
-- 03/12/20 - we are not human _1{112} unbag _1{16} pogi lang hanap _1{10} 
-- 04/12/20 - we are not human _1{114} unbag _1{16} pogi lang hanap _1{10} 
+- 21/11/20 - 
+- 22/11/20 - 
+- 23/11/20 - 
+- 24/11/20 - 
+- 25/11/20 - unbag _1{15} 
+- 26/11/20 - unbag _1{15} 
+- 27/11/20 - unbag _1{15} 
+- 28/11/20 - unbag _1{15} 
+- 29/11/20 - unbag _1{15} 
+- 30/11/20 - unbag _1{15}
+- 01/12/20 - unbag _1{16} pogi lang hanap _1{10} 
+- 02/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} 
+- 03/12/20 - unbag _1{16} pogi lang hanap _1{10} 
+- 04/12/20 - unbag _1{16} pogi lang hanap _1{10} 
 - 05/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 - 06/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 - 07/12/20 - unbag _1{18} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 

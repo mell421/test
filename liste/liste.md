@@ -419,6 +419,7 @@
 |koh-lanta 3||13|||<!--  -->
 |koh-lanta 4||13|||<!--  -->
 |Survivor 4||15|||<!--  -->
+|we are not human|we are not human|24|serie|chine|<!-- 1 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -442,7 +443,6 @@
 |two pints of lager 3|||||2|<!--  -->
 |community 1|||||2|<!--  -->
 |skam vsg 1|||||4|<!--  -->
-|we are not human|we are not human|24|serie|chine|18|<!-- 1 -->
 |malcolm 2|||||14|<!--  -->
 |the l word 1|||||4|<!--  -->
 |TEOTFW 2|||||3|<!--  -->

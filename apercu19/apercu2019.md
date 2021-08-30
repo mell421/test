@@ -109,7 +109,7 @@ Skam vsg _1x5(1) Prodigal son _1x3(1)
 ### sem 21-10-2019 
 The politician _1x5(1) 
 ### sem 28-10-2019 
-We are not human _1x9(8) 
+
 ### sem 04-11-2019 
 Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1) 
 ### sem 11-11-2019 
@@ -145,7 +145,7 @@ Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(3) Dirk gently _2x3(2) Dark
 ### mois 01-10-2019 
 The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(2) Criminal uk _1x2(1) Million dollar mile _1x3(2) Criminal germany _1x2(1) Chica vampiro _1x7(1) Lucifer _4x3(2) Ga _2x13(1) Carnival row _1x2(1) 
 ### mois 01-11-2019 
-Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) We are not human _1x9(8) The politician _1x5(2) Skam vsg _1x5(1) Prodigal son _1x3(1) Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) Dawson _1x2(1) 
+Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) The politician _1x5(2) Skam vsg _1x5(1) Prodigal son _1x3(1) Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) Dawson _1x2(1) 
 ### mois 01-12-2019 
 Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 
 

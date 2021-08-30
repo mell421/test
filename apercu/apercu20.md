@@ -157,9 +157,9 @@ Unbag _1x5(1)
 #### sem 05-10-2020 
 Friend forever _1x3(2) My day _1x2(1) x6(1)
 #### sem 12-10-2020 
-We are not human _1x12(3) Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### sem 19-10-2020 
-Ben x jim _1x2(1) Boys lockdown _1x2(1) We are not human _1x19(7) The voice germany _10x3(1)
+Ben x jim _1x2(1) Boys lockdown _1x2(1) The voice germany _10x3(1)
 #### sem 26-10-2020 
 Boys lockdown _1x3(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Quien es la mascara _2x3(2) 
 #### sem 02-11-2020 
@@ -205,7 +205,7 @@ Unbag _1x2(1) Aggretsuko _3x3(2) So much in love _1x3(2) Blacklist series _1x2(1
 #### mois 01-10-2020 
 Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Baby _3x2(1) My dear loser edge of 17 _1x2(1) Aggretsuko _3x4(1) 
 #### mois 01-11-2020 
-Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) We are not human _1x19(10) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
 Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
 
@@ -233,89 +233,89 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * conclu 07/10/20 > Friend forever _1 > 2; 
 * conclu 08/10/20 > 
 * conclu 09/10/20 > Friend zone _1 > 1; 
-* conclu 10/10/20 > We are not human _1 > 5; 
-* conclu 11/10/20 > We are not human _1 > 4; 
-* conclu 12/10/20 > We are not human _1 > 5; 
-* conclu 13/10/20 > We are not human _1 > 5; 
-* conclu 14/10/20 > We are not human _1 > 5; 
-* conclu 15/10/20 > We are not human _1 > 11; 
-* conclu 16/10/20 > We are not human _1 > 11; 
-* conclu 17/10/20 > We are not human _1 > 11; 
-* conclu 18/10/20 > We are not human _1 > 11; 
-* conclu 19/10/20 > We are not human _1 > 11; 
-* conclu 20/10/20 > We are not human _1 > 11; 
-* conclu 21/10/20 > We are not human _1 > 5; 
-* conclu 22/10/20 > We are not human _1 > 2; 
-* conclu 23/10/20 > We are not human _1 > 2; 
-* conclu 24/10/20 > We are not human _1 > 2; 
-* conclu 25/10/20 > We are not human _1 > 2; 
-* conclu 26/10/20 > We are not human _1 > 2; 
-* conclu 27/10/20 > We are not human _1 > 2; 
-* conclu 28/10/20 > We are not human _1 > 1; 
-* conclu 29/10/20 > Pogi lang hanap _1 > 2; We are not human _1 > 1; 
-* conclu 30/10/20 > Pogi lang hanap _1 > 1; We are not human _1 > 1; 
-* conclu 31/10/20 > We are not human _1 > 1; 
-* conclu 01/11/20 > We are not human _1 > 1; 
-* conclu 02/11/20 > We are not human _1 > 2; 
-* conclu 03/11/20 > We are not human _1 > 2; 
-* conclu 04/11/20 > We are not human _1 > 2; 
-* conclu 05/11/20 > We are not human _1 > 2; 
-* conclu 06/11/20 > We are not human _1 > 2; 
-* conclu 07/11/20 > We are not human _1 > 2; 
-* conclu 08/11/20 > We are not human _1 > 2; 
-* conclu 09/11/20 > We are not human _1 > 2; 
-* conclu 10/11/20 > We are not human _1 > 2; 
-* conclu 11/11/20 > We are not human _1 > 2; 
-* conclu 12/11/20 > We are not human _1 > 1; 
-* conclu 13/11/20 > We are not human _1 > 1; 
-* conclu 14/11/20 > We are not human _1 > 2; 
-* conclu 15/11/20 > We are not human _1 > 1; 
-* conclu 16/11/20 > My vampire boyfriend _1 > 2; We are not human _1 > 1; 
-* conclu 17/11/20 > My vampire boyfriend _1 > 1; We are not human _1 > 1; 
-* conclu 18/11/20 > We are not human _1 > 1; 
-* conclu 19/11/20 > We are not human _1 > 1; 
-* conclu 20/11/20 > We are not human _1 > 1; 
-* conclu 21/11/20 > We are not human _1 > 1; 
-* conclu 22/11/20 > We are not human _1 > 1; 
-* conclu 23/11/20 > We are not human _1 > 1; 
-* conclu 24/11/20 > We are not human _1 > 1; 
-* conclu 25/11/20 > We are not human _1 > 1; 
-* conclu 26/11/20 > We are not human _1 > 1; 
-* conclu 27/11/20 > We are not human _1 > 1; 
-* conclu 28/11/20 > We are not human _1 > 1; 
-* conclu 29/11/20 > We are not human _1 > 1; 
+* conclu 10/10/20 > 
+* conclu 11/10/20 > 
+* conclu 12/10/20 > 
+* conclu 13/10/20 > 
+* conclu 14/10/20 > 
+* conclu 15/10/20 > 
+* conclu 16/10/20 > 
+* conclu 17/10/20 > 
+* conclu 18/10/20 > 
+* conclu 19/10/20 > 
+* conclu 20/10/20 > 
+* conclu 21/10/20 > 
+* conclu 22/10/20 > 
+* conclu 23/10/20 > 
+* conclu 24/10/20 > 
+* conclu 25/10/20 > 
+* conclu 26/10/20 > 
+* conclu 27/10/20 > 
+* conclu 28/10/20 > 
+* conclu 29/10/20 > Pogi lang hanap _1 > 2; 
+* conclu 30/10/20 > Pogi lang hanap _1 > 1; 
+* conclu 31/10/20 > 
+* conclu 01/11/20 > 
+* conclu 02/11/20 > 
+* conclu 03/11/20 > 
+* conclu 04/11/20 > 
+* conclu 05/11/20 > 
+* conclu 06/11/20 > 
+* conclu 07/11/20 > 
+* conclu 08/11/20 > 
+* conclu 09/11/20 > 
+* conclu 10/11/20 > 
+* conclu 11/11/20 > 
+* conclu 12/11/20 > 
+* conclu 13/11/20 > 
+* conclu 14/11/20 > 
+* conclu 15/11/20 > 
+* conclu 16/11/20 > My vampire boyfriend _1 > 2; 
+* conclu 17/11/20 > My vampire boyfriend _1 > 1; 
+* conclu 18/11/20 > 
+* conclu 19/11/20 > 
+* conclu 20/11/20 > 
+* conclu 21/11/20 > 
+* conclu 22/11/20 > 
+* conclu 23/11/20 > 
+* conclu 24/11/20 > 
+* conclu 25/11/20 > 
+* conclu 26/11/20 > 
+* conclu 27/11/20 > 
+* conclu 28/11/20 > 
+* conclu 29/11/20 > 
 * conclu 30/11/20 > 
-* conclu 01/12/20 > Be love _1 > 2; We are not human _1 > 1; 
-* conclu 02/12/20 > Be love _1 > 2; We are not human _1 > 1; 
-* conclu 03/12/20 > We are not human _1 > 1; 
-* conclu 04/12/20 > We are not human _1 > 1; 
-* conclu 05/12/20 > We are not human _1 > 1; 
-* conclu 06/12/20 > We are not human _1 > 1; 
-* conclu 07/12/20 > We are not human _1 > 1; 
-* conclu 08/12/20 > We are not human _1 > 1; 
-* conclu 09/12/20 > We are not human _1 > 1; 
-* conclu 10/12/20 > We are not human _1 > 1; 
-* conclu 11/12/20 > We are not human _1 > 1; 
-* conclu 12/12/20 > We are not human _1 > 1; 
-* conclu 13/12/20 > We are not human _1 > 1; 
-* conclu 14/12/20 > We are not human _1 > 1; 
+* conclu 01/12/20 > Be love _1 > 2; 
+* conclu 02/12/20 > Be love _1 > 2; 
+* conclu 03/12/20 > 
+* conclu 04/12/20 > 
+* conclu 05/12/20 > 
+* conclu 06/12/20 > 
+* conclu 07/12/20 > 
+* conclu 08/12/20 > 
+* conclu 09/12/20 > 
+* conclu 10/12/20 > 
+* conclu 11/12/20 > 
+* conclu 12/12/20 > 
+* conclu 13/12/20 > 
+* conclu 14/12/20 > 
 * conclu 15/12/20 > 
 * conclu 16/12/20 > 
 * conclu 17/12/20 > 
 * conclu 18/12/20 > 
 * conclu 19/12/20 > 
 * conclu 20/12/20 > 
-* conclu 21/12/20 > Unbag _1 > 1; We are not human _1 > 1; 
-* conclu 22/12/20 > Unbag _1 > 1; We are not human _1 > 1; 
-* conclu 23/12/20 > Unbag _1 > 1; We are not human _1 > 1; 
-* conclu 24/12/20 > We are not human _1 > 1; 
-* conclu 25/12/20 > From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
-* conclu 26/12/20 > From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
-* conclu 27/12/20 > From dusk till dawn _2 > 2; Unbag _1 > 1; We are not human _1 > 1; 
-* conclu 28/12/20 > From dusk till dawn _2 > 1; Unbag _1 > 1; We are not human _1 > 1; 
-* conclu 29/12/20 > From dusk till dawn _2 > 1; We are not human _1 > 1; 
-* conclu 30/12/20 > From dusk till dawn _2 > 1; We are not human _1 > 1; 
-* conclu 31/12/20 > We are not human _1 > 1; 
+* conclu 21/12/20 > Unbag _1 > 1; 
+* conclu 22/12/20 > Unbag _1 > 1; 
+* conclu 23/12/20 > Unbag _1 > 1; 
+* conclu 24/12/20 > 
+* conclu 25/12/20 > From dusk till dawn _2 > 2; Unbag _1 > 1; 
+* conclu 26/12/20 > From dusk till dawn _2 > 2; Unbag _1 > 1; 
+* conclu 27/12/20 > From dusk till dawn _2 > 2; Unbag _1 > 1; 
+* conclu 28/12/20 > From dusk till dawn _2 > 1; Unbag _1 > 1; 
+* conclu 29/12/20 > From dusk till dawn _2 > 1; 
+* conclu 30/12/20 > From dusk till dawn _2 > 1; 
+* conclu 31/12/20 > 
 
 ---
 
@@ -338,89 +338,89 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * concluBis 07/10/20 > Friend forever _1 > 4; 
 * concluBis 08/10/20 > Capture lover _1 > 2; Zombie detective _1 > 1; 
 * concluBis 09/10/20 > Unbag _1 > 3; Friend zone _1 > 3; 
-* concluBis 10/10/20 > We are not human _1 > 9; 
-* concluBis 11/10/20 > We are not human _1 > 8; 
-* concluBis 12/10/20 > We are not human _1 > 9; 
-* concluBis 13/10/20 > We are not human _1 > 9; 
-* concluBis 14/10/20 > We are not human _1 > 9; 
-* concluBis 15/10/20 > We are not human _1 > 19; 
-* concluBis 16/10/20 > We are not human _1 > 19; 
-* concluBis 17/10/20 > We are not human _1 > 19; 
-* concluBis 18/10/20 > We are not human _1 > 19; 
-* concluBis 19/10/20 > We are not human _1 > 19; 
-* concluBis 20/10/20 > We are not human _1 > 19; 
-* concluBis 21/10/20 > We are not human _1 > 9; Quien es la mascara _2 > 1; 
-* concluBis 22/10/20 > We are not human _1 > 4; 
-* concluBis 23/10/20 > We are not human _1 > 4; 
-* concluBis 24/10/20 > We are not human _1 > 4; 
-* concluBis 25/10/20 > We are not human _1 > 4; Quien es la mascara _2 > 1; 
-* concluBis 26/10/20 > We are not human _1 > 4; Quien es la mascara _2 > 1; 
-* concluBis 27/10/20 > We are not human _1 > 4; 
-* concluBis 28/10/20 > We are not human _1 > 3; 
-* concluBis 29/10/20 > Pogi lang hanap _1 > 4; We are not human _1 > 3; 
-* concluBis 30/10/20 > Pogi lang hanap _1 > 3; We are not human _1 > 3; 
-* concluBis 31/10/20 > We are not human _1 > 3; 
-* concluBis 01/11/20 > We are not human _1 > 3; 
-* concluBis 02/11/20 > We are not human _1 > 4; 
-* concluBis 03/11/20 > We are not human _1 > 4; 
-* concluBis 04/11/20 > We are not human _1 > 4; 
-* concluBis 05/11/20 > We are not human _1 > 4; 
-* concluBis 06/11/20 > We are not human _1 > 4; 
-* concluBis 07/11/20 > We are not human _1 > 4; 
-* concluBis 08/11/20 > We are not human _1 > 4; 
-* concluBis 09/11/20 > We are not human _1 > 4; 
-* concluBis 10/11/20 > We are not human _1 > 4; 
-* concluBis 11/11/20 > We are not human _1 > 4; 
-* concluBis 12/11/20 > We are not human _1 > 3; 
-* concluBis 13/11/20 > We are not human _1 > 3; 
-* concluBis 14/11/20 > We are not human _1 > 4; 
-* concluBis 15/11/20 > We are not human _1 > 3; 
-* concluBis 16/11/20 > My vampire boyfriend _1 > 4; We are not human _1 > 3; 
-* concluBis 17/11/20 > My vampire boyfriend _1 > 3; We are not human _1 > 3; 
-* concluBis 18/11/20 > We are not human _1 > 3; My vampire boyfriend _1 > 1; 
-* concluBis 19/11/20 > We are not human _1 > 3; My vampire boyfriend _1 > 1; 
-* concluBis 20/11/20 > We are not human _1 > 3; 
-* concluBis 21/11/20 > We are not human _1 > 3; 
-* concluBis 22/11/20 > We are not human _1 > 3; My vampire boyfriend _1 > 1; 
-* concluBis 23/11/20 > We are not human _1 > 3; 
-* concluBis 24/11/20 > We are not human _1 > 3; 
-* concluBis 25/11/20 > We are not human _1 > 3; 
-* concluBis 26/11/20 > We are not human _1 > 3; 
-* concluBis 27/11/20 > We are not human _1 > 3; 
-* concluBis 28/11/20 > We are not human _1 > 3; 
-* concluBis 29/11/20 > We are not human _1 > 3; 
-* concluBis 30/11/20 > We are not human _1 > 2; 
-* concluBis 01/12/20 > Be love _1 > 4; We are not human _1 > 3; 
-* concluBis 02/12/20 > Be love _1 > 4; We are not human _1 > 3; 
-* concluBis 03/12/20 > We are not human _1 > 3; 
-* concluBis 04/12/20 > We are not human _1 > 3; 
-* concluBis 05/12/20 > We are not human _1 > 3; 
-* concluBis 06/12/20 > We are not human _1 > 3; Unbag _1 > 1; 
-* concluBis 07/12/20 > We are not human _1 > 3; Unbag _1 > 1; 
-* concluBis 08/12/20 > We are not human _1 > 3; Unbag _1 > 1; 
-* concluBis 09/12/20 > We are not human _1 > 3; Unbag _1 > 1; 
-* concluBis 10/12/20 > We are not human _1 > 3; 
-* concluBis 11/12/20 > We are not human _1 > 3; 
-* concluBis 12/12/20 > We are not human _1 > 3; 
-* concluBis 13/12/20 > We are not human _1 > 3; 
-* concluBis 14/12/20 > We are not human _1 > 3; A queen is born _1 > 2; 
-* concluBis 15/12/20 > We are not human _1 > 2; A queen is born _1 > 1; 
-* concluBis 16/12/20 > We are not human _1 > 2; Unbag _1 > 1; A queen is born _1 > 1; 
-* concluBis 17/12/20 > We are not human _1 > 2; 
-* concluBis 18/12/20 > Unbag _1 > 4; We are not human _1 > 2; 
-* concluBis 19/12/20 > We are not human _1 > 2; Unbag _1 > 1; 
-* concluBis 20/12/20 > Unbag _1 > 2; We are not human _1 > 2; 
-* concluBis 21/12/20 > Unbag _1 > 3; We are not human _1 > 3; Ghost runner _1 > 2; 
-* concluBis 22/12/20 > Unbag _1 > 3; Ghost runner _1 > 3; We are not human _1 > 3; 
-* concluBis 23/12/20 > Unbag _1 > 3; We are not human _1 > 3; Lakan _1 > 1; 
-* concluBis 24/12/20 > We are not human _1 > 3; Unbag _1 > 2; 
-* concluBis 25/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; 
-* concluBis 26/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; 
-* concluBis 27/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; We are not human _1 > 3; 
-* concluBis 28/12/20 > Unbag _1 > 3; From dusk till dawn _2 > 3; We are not human _1 > 3; 
-* concluBis 29/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; 
-* concluBis 30/12/20 > From dusk till dawn _2 > 3; We are not human _1 > 3; 
-* concluBis 31/12/20 > We are not human _1 > 3; Ghost runner _1 > 1; From dusk till dawn _2 > 1; 
+* concluBis 10/10/20 > 
+* concluBis 11/10/20 > 
+* concluBis 12/10/20 > 
+* concluBis 13/10/20 > 
+* concluBis 14/10/20 > 
+* concluBis 15/10/20 > 
+* concluBis 16/10/20 > 
+* concluBis 17/10/20 > 
+* concluBis 18/10/20 > 
+* concluBis 19/10/20 > 
+* concluBis 20/10/20 > 
+* concluBis 21/10/20 > Quien es la mascara _2 > 1; 
+* concluBis 22/10/20 > 
+* concluBis 23/10/20 > 
+* concluBis 24/10/20 > 
+* concluBis 25/10/20 > Quien es la mascara _2 > 1; 
+* concluBis 26/10/20 > Quien es la mascara _2 > 1; 
+* concluBis 27/10/20 > 
+* concluBis 28/10/20 > 
+* concluBis 29/10/20 > Pogi lang hanap _1 > 4; 
+* concluBis 30/10/20 > Pogi lang hanap _1 > 3; 
+* concluBis 31/10/20 > 
+* concluBis 01/11/20 > 
+* concluBis 02/11/20 > 
+* concluBis 03/11/20 > 
+* concluBis 04/11/20 > 
+* concluBis 05/11/20 > 
+* concluBis 06/11/20 > 
+* concluBis 07/11/20 > 
+* concluBis 08/11/20 > 
+* concluBis 09/11/20 > 
+* concluBis 10/11/20 > 
+* concluBis 11/11/20 > 
+* concluBis 12/11/20 > 
+* concluBis 13/11/20 > 
+* concluBis 14/11/20 > 
+* concluBis 15/11/20 > 
+* concluBis 16/11/20 > My vampire boyfriend _1 > 4; 
+* concluBis 17/11/20 > My vampire boyfriend _1 > 3; 
+* concluBis 18/11/20 > My vampire boyfriend _1 > 1; 
+* concluBis 19/11/20 > My vampire boyfriend _1 > 1; 
+* concluBis 20/11/20 > 
+* concluBis 21/11/20 > 
+* concluBis 22/11/20 > My vampire boyfriend _1 > 1; 
+* concluBis 23/11/20 > 
+* concluBis 24/11/20 > 
+* concluBis 25/11/20 > 
+* concluBis 26/11/20 > 
+* concluBis 27/11/20 > 
+* concluBis 28/11/20 > 
+* concluBis 29/11/20 > 
+* concluBis 30/11/20 > 
+* concluBis 01/12/20 > Be love _1 > 4; 
+* concluBis 02/12/20 > Be love _1 > 4; 
+* concluBis 03/12/20 > 
+* concluBis 04/12/20 > 
+* concluBis 05/12/20 > 
+* concluBis 06/12/20 > Unbag _1 > 1; 
+* concluBis 07/12/20 > Unbag _1 > 1; 
+* concluBis 08/12/20 > Unbag _1 > 1; 
+* concluBis 09/12/20 > Unbag _1 > 1; 
+* concluBis 10/12/20 > 
+* concluBis 11/12/20 > 
+* concluBis 12/12/20 > 
+* concluBis 13/12/20 > 
+* concluBis 14/12/20 > A queen is born _1 > 2; 
+* concluBis 15/12/20 > A queen is born _1 > 1; 
+* concluBis 16/12/20 > Unbag _1 > 1; A queen is born _1 > 1; 
+* concluBis 17/12/20 > 
+* concluBis 18/12/20 > Unbag _1 > 4; 
+* concluBis 19/12/20 > Unbag _1 > 1; 
+* concluBis 20/12/20 > Unbag _1 > 2; 
+* concluBis 21/12/20 > Unbag _1 > 3; Ghost runner _1 > 2; 
+* concluBis 22/12/20 > Unbag _1 > 3; Ghost runner _1 > 3; 
+* concluBis 23/12/20 > Unbag _1 > 3; Lakan _1 > 1; 
+* concluBis 24/12/20 > Unbag _1 > 2; 
+* concluBis 25/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; 
+* concluBis 26/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; 
+* concluBis 27/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; 
+* concluBis 28/12/20 > Unbag _1 > 3; From dusk till dawn _2 > 3; 
+* concluBis 29/12/20 > From dusk till dawn _2 > 3; 
+* concluBis 30/12/20 > From dusk till dawn _2 > 3; 
+* concluBis 31/12/20 > Ghost runner _1 > 1; From dusk till dawn _2 > 1; 
 
 
 [retour](./../index.html)
