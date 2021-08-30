@@ -393,7 +393,7 @@ Rpdrasu _6x8(5) Bt21 original story _1x11(1) Rpdras _6x8(5) Survivor au _5x11(10
 * conclu 23/08/21 = Survivor au _8 > 8; Unbag _1 > 6; The voice au _10 > 3; We are not human _1 > 2; Agt _16 > 1; Survivor sa _8 > 1; 
 * conclu 24/08/21 = Survivor au _8 > 9; Unbag _1 > 6; The voice au _10 > 3; We are not human _1 > 2; Agt _16 > 1; Survivor sa _8 > 1; 
 * conclu 25/08/21 = Survivor au _8 > 8; Unbag _1 > 6; The voice au _10 > 5; We are not human _1 > 2; Agt _16 > 1; Survivor sa _8 > 1; Lego masters _2 > 1; 
-* conclu 26/08/21 = Survivor au _8 > 8; Unbag _1 > 6; The voice au _10 > 5; We are not human _1 > 2; Agt _16 > 1; Survivor sa _8 > 1; Survivor _4 > 1; 
+* conclu 26/08/21 = Survivor au _8 > 8; Unbag _1 > 6; The voice au _10 > 5; We are not human _1 > 2; Agt _16 > 1; Survivor sa _8 > 1; 
 
 
 
@@ -642,7 +642,7 @@ The harvest season _1 > 4; We are not human _1 > 4; Wabi show _1 > 3; Unbag _1 >
 * concluBis 23/08/21 = Survivor au _8 > 16; Unbag _1 > 10; Agt _16 > 7; The voice au _10 > 7; We are not human _1 > 4; Survivor au _5 > 3; Survivor sa _8 > 3; Rpdrasu _6 > 2; Dont say no _1 > 1; 
 * concluBis 24/08/21 = Survivor au _8 > 17; Unbag _1 > 10; The voice au _10 > 7; Agt _16 > 5; We are not human _1 > 4; Survivor au _5 > 3; Survivor sa _8 > 3; Rpdrasu _6 > 2; Drop _1 > 2; From dusk till dawn _2 > 1; 
 * concluBis 25/08/21 = Survivor au _8 > 16; Unbag _1 > 10; The voice au _10 > 9; Agt _16 > 5; We are not human _1 > 4; Survivor au _5 > 3; Rpdrasu _6 > 3; Survivor sa _8 > 3; Lego masters _2 > 3; Drop _1 > 2; Rpdras _6 > 1; From dusk till dawn _2 > 1; 
-* concluBis 26/08/21 = Survivor au _8 > 16; Unbag _1 > 10; The voice au _10 > 9; Agt _16 > 7; We are not human _1 > 4; Survivor au _5 > 3; Survivor sa _8 > 3; Survivor _4 > 3; Rpdrasu _6 > 2; Aggretsuko _3 > 2; Post mortem _1 > 1; 
+* concluBis 26/08/21 = Survivor au _8 > 16; Unbag _1 > 10; The voice au _10 > 9; Agt _16 > 7; We are not human _1 > 4; Survivor au _5 > 3; Survivor sa _8 > 3; Rpdrasu _6 > 2; Aggretsuko _3 > 2; Post mortem _1 > 1; 
 
 
 
