@@ -9,7 +9,7 @@ list=( "Unbag _1" "Bt21 original story _1" # >= 100
 "Rpdrasu _6" "The cube _1" "Lego masters _2" "" # 39 - 30
 "Rpdras _6" "My vampire boyfriend _1" "Survivor sa _8" # 29 - 20
 "The voice au _10" "Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
-"Drop _1" "Bt21 vlog _1" "Wabi show _1" # 14 - 10
+"Bt21 vlog _1" "Wabi show _1" # 14 - 10
 "" # 9
 "Schools out lets date now _1" "Tokyo ghoul _3" # 8
 "Good singers _1" "You never eat alone _1" # 7
@@ -29,7 +29,7 @@ list99=( "Unbag _1" "Bt21 original story _1" # >= 200
 "46 days _1" "Rpdras _6" "Vincenzo _1" "The harvest season _1" # 99-50
 "Survivor sa _8" "" # 49-40
 "Koishite akuma _1" "Be love _1" # 39-30
-"The voice au _10" "Drop _1" "Elite _4" "" # 29-20
+"The voice au _10" "Elite _4" "" # 29-20
 "Schools out lets date now _1" "You never eat alone _1" "Good singers _1" "Camping paradis _12" # 19-15
 "Dont say no _1" "Drag race nl _2" "Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Tokyo ghoul _3" "Glow up _2" "The shipper _1" "Zombie detective _1" # 14-10
 "Control z _2" "I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9

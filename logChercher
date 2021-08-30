@@ -89,11 +89,6 @@ ligne :  3 Z/Thevoiceau_10
 mot   :  161 Z/Thevoiceau_10
 carac :  849 Z/Thevoiceau_10
 
-i = Drop _1
-ligne :  9 Z/Drop_1
-mot   :  266 Z/Drop_1
-carac :  1602 Z/Drop_1
-
 i = Elite _4
 ligne :  17 Z/Elite_4
 mot   :  455 Z/Elite_4

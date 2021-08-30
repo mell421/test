@@ -579,7 +579,6 @@
 * Golden blood _1
 * Survivor _1
 ### sem 23-08-2021 
-* *insererici*
 * Friend or lover _1
 * Given 2021 _1
 * Beat shazam _4
@@ -589,7 +588,6 @@
 * Survivor _2
 * Dragula _2
 ### sem 30-08-2021 
-* *insererici*
 * We are not human _1
 * Survivor _4
 * Koh-lanta _4
@@ -599,6 +597,7 @@
 * Survivor _3
 ### sem 06-09-2021 
 * *insererici*
+* Drop _1
 ### sem 13-09-2021 
 * *insererici*
 ### sem 20-09-2021 
@@ -617,7 +616,7 @@
 
 ## bientot
 * $ date de fin connue $
-* Drop _1
+* 
 * 46 days _1
 * Rpdras _6
 * Rpdrasu _6
@@ -735,7 +734,7 @@
 #### mois 01-08-2021 
 *Stuck on you _1 Survivor _40 Kaamelott _6 Drag race esp _1 The best story _1 Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
-*insererici We are not human _1 Survivor _4 Koh-lanta _4 Koh-lanta _3 Koh-lanta _1 Rpdu _1 Survivor _3 Friend or lover _1 Given 2021 _1 Beat shazam _4 Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
+*insererici Drop _1 We are not human _1 Survivor _4 Koh-lanta _4 Koh-lanta _3 Koh-lanta _1 Rpdu _1 Survivor _3 Friend or lover _1 Given 2021 _1 Beat shazam _4 Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
 #### mois 01-10-2021 
 *insererici*
 #### mois 01-11-2021 

@@ -27,7 +27,6 @@ From dusk till dawn 2x5
 Survivor au 8x17
 The voice au 10x8
 Dont say no 1x3
-Drop 1x6
 The cube 1x9
 Drag race nl 2x3
 Rpdrasu 6x10
@@ -56,7 +55,6 @@ Zombie detective 1x2
 * /46 days 1x1
 * Young royals 1x1
 * Camping paradis 12x1
-* Drop 1x1
 * Rpdrasu 6x1
 * Rpdras 6x1
 * Siew sum noi 1x1

@@ -290,7 +290,7 @@
 - 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} survivor au _5{71} survivor au _8{70} agt _16{57} /46 days _1{45} rpdrasu _6{40} the cube _1{34} lego masters _2{32} rpdras _6{30} survivor sa _8{28} the voice au _10{26} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
 - 24/08/21 (eff) - unbag _1{498} bt21 original story _1{101} survivor au _8{72} survivor au _5{72} agt _16{59} /46 days _1{45} rpdrasu _6{41} the cube _1{34} lego masters _2{32} rpdras _6{30} survivor sa _8{30} the voice au _10{28} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
 - 25/08/21 (eff) - unbag _1{500} bt21 original story _1{101} survivor au _8{74} survivor au _5{73} agt _16{61} /46 days _1{45} rpdrasu _6{42} the cube _1{34} lego masters _2{32} survivor sa _8{32} the voice au _10{30} rpdras _6{30} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
-- 26/08/21 (eff) - unbag _1{502} bt21 original story _1{101} survivor au _8{76} survivor au _5{74} agt _16{63} /46 days _1{45} rpdrasu _6{43} lego masters _2{34} the cube _1{34} survivor sa _8{34} the voice au _10{32} rpdras _6{31} my vampire boyfriend _1{25} from dusk till dawn _2{18} drop _1{16} 
+- 26/08/21 (eff) - unbag _1{502} bt21 original story _1{101} survivor au _8{76} survivor au _5{74} agt _16{63} /46 days _1{45} rpdrasu _6{43} lego masters _2{34} the cube _1{34} survivor sa _8{34} the voice au _10{32} rpdras _6{31} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
 
 
 
@@ -550,33 +550,33 @@
 - 24/06/21 - 199* agt _16{9} lego masters _2{18} siew sum noi _1{0} elite _4{10} the cube _1{7} 
 - 25/06/21 - 505* unbag _1{371} rpdrasu _6{0} rpdras _6{0} agt _16{10} lego masters _2{19} siew sum noi _1{0} 
 - 26/06/21 - 510* the cube _1{8} unbag _1{373} rpdrasu _6{1} rpdras _6{1} 
-- 27/06/21 - 503* drop _1{0} the cube _1{10} unbag _1{375} rpdrasu _6{2} rpdras _6{2} 
-- 28/06/21 - 542* drop _1{2} the cube _1{11} unbag _1{378} rpdrasu _6{5} 
-- 29/06/21 - 554* drop _1{2} the cube _1{11} unbag _1{380} rpdrasu _6{7} 
-- 30/06/21 - 249* drop _1{3} the cube _1{11} 
-- 01/07/21 - 287* bt21 original story _1{37} agt _16{13} drop _1{4} the cube _1{12} 
+- 27/06/21 - 503* the cube _1{10} unbag _1{375} rpdrasu _6{2} rpdras _6{2} 
+- 28/06/21 - 542* the cube _1{11} unbag _1{378} rpdrasu _6{5} 
+- 29/06/21 - 554* the cube _1{11} unbag _1{380} rpdrasu _6{7} 
+- 30/06/21 - 249* the cube _1{11} 
+- 01/07/21 - 287* bt21 original story _1{37} agt _16{13} the cube _1{12} 
 - 02/07/21 - 255* rpdrasu _6{14} rpdras _6{12} bt21 original story _1{39} agt _16{15} 
 - 03/07/21 - 202* the cube _1{12} rpdrasu _6{15} rpdras _6{12} 
 - 04/07/21 - 216* the cube _1{13} rpdrasu _6{15} rpdras _6{12} 
 - 05/07/21 - 253* the cube _1{15} rpdrasu _6{16} rpdras _6{13} 
 - 06/07/21 - 237* young royals _1{0} camping paradis _12{0} the cube _1{16} 
-- 07/07/21 - 256* agt _16{18} lego masters _2{22} drop _1{4} young royals _1{2} camping paradis _12{1} the cube _1{17} 
-- 08/07/21 - 243* /46 days _1{0} agt _16{20} lego masters _2{24} drop _1{5} young royals _1{2} camping paradis _12{1} 
+- 07/07/21 - 256* agt _16{18} lego masters _2{22} young royals _1{2} camping paradis _12{1} the cube _1{17} 
+- 08/07/21 - 243* /46 days _1{0} agt _16{20} lego masters _2{24} young royals _1{2} camping paradis _12{1} 
 - 09/07/21 - 545* unbag _1{401} rpdrasu _6{16} rpdras _6{13} /46 days _1{0} agt _16{22} 
 - 10/07/21 - 601* /46 days _1{0} zombie detective _1{3} unbag _1{403} rpdrasu _6{17} 
 - 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} unbag _1{405} rpdrasu _6{18} 
 - 12/07/21 - 655* glow up _2{2} /46 days _1{5} zombie detective _1{4} unbag _1{408} 
 - 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} unbag _1{410} 
-- 14/07/21 - 253* drop _1{6} josephine ange gardien _24{0} camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
-- 15/07/21 - 299* the cube _1{17} /46 days _1{11} agt _16{25} drop _1{7} josephine ange gardien _24{1} camping paradis _12{3} 
+- 14/07/21 - 253* josephine ange gardien _24{0} camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
+- 15/07/21 - 299* the cube _1{17} /46 days _1{11} agt _16{25} josephine ange gardien _24{1} camping paradis _12{3} 
 - 16/07/21 - 215* the cube _1{19} rpdrasu _6{20} rpdras _6{15} /46 days _1{13} agt _16{26} 
 - 17/07/21 - 180* good singers _1{4} the cube _1{21} rpdrasu _6{21} rpdras _6{16} 
 - 18/07/21 - 188* survivor au _5{0} good singers _1{4} the cube _1{23} rpdrasu _6{22} rpdras _6{17} 
 - 19/07/21 - 183* /46 days _1{15} survivor au _8{1} survivor au _5{3} good singers _1{5} the cube _1{26} 
 - 20/07/21 - 184* camping paradis _12{4} survivor au _8{1} /46 days _1{17} survivor au _5{5} good singers _1{5} the cube _1{27} 
-- 21/07/21 - 242* survivor au _5{7} agt _16{31} drop _1{8} lego masters _2{27} survivor au _8{3} camping paradis _12{4} /46 days _1{18} 
-- 22/07/21 - 213* /46 days _1{19} survivor au _5{9} agt _16{33} drop _1{8} lego masters _2{27} survivor au _8{5} camping paradis _12{4} 
-- 23/07/21 - 655* /46 days _1{21} rpdrasu _6{28} unbag _1{430} rpdras _6{20} survivor au _5{11} agt _16{35} drop _1{8} 
+- 21/07/21 - 242* survivor au _5{7} agt _16{31} lego masters _2{27} survivor au _8{3} camping paradis _12{4} /46 days _1{18} 
+- 22/07/21 - 213* /46 days _1{19} survivor au _5{9} agt _16{33} lego masters _2{27} survivor au _8{5} camping paradis _12{4} 
+- 23/07/21 - 655* /46 days _1{21} rpdrasu _6{28} unbag _1{430} rpdras _6{20} survivor au _5{11} agt _16{35} 
 - 24/07/21 - 662* /46 days _1{23} rpdrasu _6{29} unbag _1{432} rpdras _6{21} survivor au _5{13} agt _16{36} 
 - 25/07/21 - 683* the cube _1{28} /46 days _1{25} rpdrasu _6{30} unbag _1{434} rpdras _6{22} 
 - 26/07/21 - 660* survivor au _8{11} the cube _1{30} /46 days _1{28} rpdrasu _6{31} unbag _1{437} 
@@ -594,9 +594,9 @@
 - 07/08/21 - 650* dont say no _1{0} drag race nl _2{0} rpdrasu _6{34} rpdras _6{26} unbag _1{462} survivor sa _8{9} control z _2{1} 
 - 08/08/21 - 660* good singers _1{6} dont say no _1{0} drag race nl _2{0} rpdrasu _6{34} rpdras _6{26} unbag _1{464} survivor sa _8{11} 
 - 09/08/21 - 708* the voice au _10{1} survivor au _8{40} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{467} survivor sa _8{14} 
-- 10/08/21 - 708* drop _1{10} survivor au _8{42} the voice au _10{1} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{469} survivor sa _8{16} 
-- 11/08/21 - 716* lego masters _2{29} the voice au _10{3} drop _1{11} survivor au _8{44} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{471} 
-- 12/08/21 - 237* agt _16{41} survivor au _8{46} lego masters _2{30} the voice au _10{5} drop _1{11} good singers _1{7} dont say no _1{1} drag race nl _2{1} 
+- 10/08/21 - 708* survivor au _8{42} the voice au _10{1} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{469} survivor sa _8{16} 
+- 11/08/21 - 716* lego masters _2{29} the voice au _10{3} survivor au _8{44} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{471} 
+- 12/08/21 - 237* agt _16{41} survivor au _8{46} lego masters _2{30} the voice au _10{5} good singers _1{7} dont say no _1{1} drag race nl _2{1} 
 - 13/08/21 - 329* the cube _1{31} rpdrasu _6{35} rpdras _6{27} agt _16{43} survivor au _8{48} lego masters _2{30} 
 - 14/08/21 - 274* dont say no _1{1} survivor sa _8{16} drag race nl _2{1} the cube _1{31} rpdrasu _6{35} rpdras _6{27} agt _16{44} 
 - 15/08/21 - 298* survivor au _5{60} survivor sa _8{16} dont say no _1{1} drag race nl _2{1} the cube _1{31} rpdrasu _6{35} rpdras _6{27} 
@@ -606,11 +606,11 @@
 - 19/08/21 - 401* the voice au _10{17} agt _16{49} survivor au _8{61} survivor au _5{67} survivor sa _8{21} dont say no _1{2} drag race nl _2{2} the cube _1{32} rpdrasu _6{36} 
 - 20/08/21 - 860* rpdrasu _6{36} rpdras _6{28} lego masters _2{31} unbag _1{489} agt _16{50} the voice au _10{19} survivor au _8{63} survivor au _5{68} survivor sa _8{22} 
 - 21/08/21 - 833* the cube _1{32} drag race nl _2{2} rpdrasu _6{37} rpdras _6{29} lego masters _2{31} unbag _1{491} agt _16{52} the voice au _10{21} survivor au _8{65} survivor au _5{69} 
-- 22/08/21 - 780* drop _1{12} survivor au _8{67} from dusk till dawn _2{15} the cube _1{33} drag race nl _2{2} rpdrasu _6{38} rpdras _6{29} lego masters _2{31} unbag _1{493} agt _16{54} 
-- 23/08/21 - 278* the voice au _10{26} dont say no _1{3} survivor au _8{70} drop _1{14} from dusk till dawn _2{16} the cube _1{34} drag race nl _2{3} rpdrasu _6{40} rpdras _6{30} lego masters _2{32} 
-- 24/08/21 - 284* drop _1{14} from dusk till dawn _2{16} survivor au _8{72} the voice au _10{28} dont say no _1{4} the cube _1{34} drag race nl _2{3} rpdrasu _6{41} rpdras _6{30} lego masters _2{32} 
-- 25/08/21 - 284* lego masters _2{32} koh-lanta _27{0} the voice au _10{30} drop _1{15} from dusk till dawn _2{17} survivor au _8{74} dont say no _1{4} the cube _1{34} drag race nl _2{3} rpdrasu _6{42} rpdras _6{30} 
-- 26/08/21 - 249* the good doctor _4{2} aggretsuko _3{4} post mortem _1{0} agt _16{63} lego masters _2{34} koh-lanta _27{0} the voice au _10{32} drop _1{16} from dusk till dawn _2{18} survivor au _8{76} dont say no _1{4} 
+- 22/08/21 - 780* survivor au _8{67} from dusk till dawn _2{15} the cube _1{33} drag race nl _2{2} rpdrasu _6{38} rpdras _6{29} lego masters _2{31} unbag _1{493} agt _16{54} 
+- 23/08/21 - 278* the voice au _10{26} dont say no _1{3} survivor au _8{70} from dusk till dawn _2{16} the cube _1{34} drag race nl _2{3} rpdrasu _6{40} rpdras _6{30} lego masters _2{32} 
+- 24/08/21 - 284* from dusk till dawn _2{16} survivor au _8{72} the voice au _10{28} dont say no _1{4} the cube _1{34} drag race nl _2{3} rpdrasu _6{41} rpdras _6{30} lego masters _2{32} 
+- 25/08/21 - 284* lego masters _2{32} koh-lanta _27{0} the voice au _10{30} from dusk till dawn _2{17} survivor au _8{74} dont say no _1{4} the cube _1{34} drag race nl _2{3} rpdrasu _6{42} rpdras _6{30} 
+- 26/08/21 - 249* the good doctor _4{2} aggretsuko _3{4} post mortem _1{0} agt _16{63} lego masters _2{34} koh-lanta _27{0} the voice au _10{32} from dusk till dawn _2{18} survivor au _8{76} dont say no _1{4} 
 
 
 
