@@ -28,7 +28,7 @@
 |skam austin|usa|2|
 |skam nl|pays-bas|2|
 |drop|ukraine|1|
-  
+
 |titre|saison|nb ep vu|
 | --- | --- | :---: | 
 ||||
