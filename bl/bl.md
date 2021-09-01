@@ -247,40 +247,45 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|the untamed|the untamed|50|serie|chine|3|                      <!-- 2 -->
-|long khong|long khong|8|serie(*)|thailande|3|                  <!-- 3 -->
-|the shipper|the shipper|12|serie|thailande|4|                  <!-- 4 -->
-|so much in love|so much in love|12|serie|thailande|2|          <!-- 5 -->
-|blacklist|blacklist|13|serie(**)|thailande|1|                  <!-- 6 -->
-|unbag|unbag|?|show|thailande|26|                               <!-- 7 -->
-|my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1| <!-- 8 -->
-|my day|my day|12|serie|philippines|1|                          <!-- 9 -->
-|friend forever|friend forever|12|serie|thailande|3|            <!-- 10 -->
-|capture lover|capture lover|?|serie|chine|2|                   <!-- 11 -->
-|friend zone|friend zone|?|serie(*)|thailande|3|                <!-- 12 -->
-|boys lockdown|boys lockdown|6|serie|philippines|2|             <!-- 13 -->
-|ben x jim|ben x jim|7|serie|philippines|2|                     <!-- 14 -->
-|swap test|swap test|15|serie|philippines|2|                    <!-- 15 -->
-|pogi lang hanap|pogi lang hanap|?|serie|philippines|4|         <!-- 16 -->
-|lakan|lakan|8|serie|philippines|4|                             <!-- 17 -->
-|be love|be love|4|serie|japon|3|                               <!-- 19 -->
-|ghost runner|ghost runner|8|serie|thailande|4|                 <!-- 20 -->
-|together with me|together with me|?|serie|thailande|1|         <!-- 21 -->
-|unlocked|unlocked|9|serie|philippines|2|                       <!-- 22 -->
-|romantic blue|romantic blue|12|serie(**)|thailande|1|          <!-- 23 -->
-|warper series|warper series|?|show|thailande|1|                <!-- 24 -->
-|tien bromance|tien bromance|10|serie|vietnam|1|                <!-- 25 -->
-|slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 26 -->
-|you never eat alone|you never eat alone|12|serie(*)|thailande|4|   <!-- 27 -->
-|school's out let's date now|school's out let's date now|6|serie(gl)|vietnam|5|    <!-- 28 -->
-|wabi game|wabi game|?|show|thailande|2|                        <!-- 29 -->
-|the harvest season|the harvest season|?|show|thailande|5|      <!-- 30 -->
-|bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 31 -->
-|mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 32 -->
-|an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 33 -->
-|dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 34 -->
-|siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 36 -->
-|46 days|46 days|18|serie(**)|thailande|6|                      <!-- 39 -->
+|the untamed|the untamed|50|serie|chine|3|                      <!-- 1 -->
+|long khong|long khong|8|serie(*)|thailande|3|                  <!-- 2 -->
+|the shipper|the shipper|12|serie|thailande|4|                  <!-- 3 -->
+|so much in love|so much in love|12|serie|thailande|2|          <!-- 4 -->
+|blacklist|blacklist|13|serie(**)|thailande|1|                  <!-- 5 -->
+|unbag|unbag|?|show|thailande|26|                               <!-- 6 -->
+|my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1| <!-- 7 -->
+|my day|my day|12|serie|philippines|1|                          <!-- 8 -->
+|friend forever|friend forever|12|serie|thailande|3|            <!-- 9 -->
+|capture lover|capture lover|?|serie|chine|2|                   <!-- 10 -->
+|friend zone|friend zone|?|serie(*)|thailande|3|                <!-- 11 -->
+|boys lockdown|boys lockdown|6|serie|philippines|2|             <!-- 12 -->
+|ben x jim|ben x jim|7|serie|philippines|2|                     <!-- 13 -->
+|swap test|swap test|15|serie|philippines|2|                    <!-- 14 -->
+|pogi lang hanap|pogi lang hanap|?|serie|philippines|4|         <!-- 15 -->
+|lakan|lakan|8|serie|philippines|4|                             <!-- 16 -->
+|be love|be love|4|serie|japon|3|                               <!-- 17 -->
+|ghost runner|ghost runner|8|serie|thailande|4|                 <!-- 18 -->
+|together with me|together with me|?|serie|thailande|1|         <!-- 19 -->
+|unlocked|unlocked|9|serie|philippines|2|                       <!-- 20 -->
+|romantic blue|romantic blue|12|serie(**)|thailande|1|          <!-- 21 -->
+|warper series|warper series|?|show|thailande|1|                <!-- 22 -->
+|tien bromance|tien bromance|10|serie|vietnam|1|                <!-- 23 -->
+|slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 24 -->
+|you never eat alone|you never eat alone|12|serie(*)|thailande|4|   <!-- 25 -->
+|school's out let's date now|school's out let's date now|6|serie(gl)|vietnam|5|    <!-- 26 -->
+|wabi game|wabi game|?|show|thailande|2|                        <!-- 27 -->
+|the harvest season|the harvest season|?|show|thailande|5|      <!-- 28 -->
+|bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 29 -->
+|mr lipstick|mr lipstick|10|serie(**)|thailande|2|              <!-- 30 -->
+|an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 31 -->
+|dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 32 -->
+|siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 33 -->
+|don't say no|don't say no|13|serie|thailande|4|                <!-- 34 -->
+|46 days|46 days|18|serie(**)|thailande|6|                      <!-- 35 -->
+|the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
+|bite me|bite me|?|serie|thailande|1|                           <!-- 37 -->
+|peach of time|peach of time|10|serie|corée-thailande|3|        <!-- 38 -->
+|7 project|7project|7|serie|thailande|1|                        <!-- 39 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -294,7 +299,6 @@
 | --- | --- | :---: | --- | --- | --- |
 |bad buddy|bad buddy|12|serie|thailande|0|<!-- -->
 |gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
-|bite me|bite me|?|serie|thailande|0|<!--  -->
 |checkout|checkout|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -364,7 +368,6 @@
 |war of the flowers|war of the flowers|?|serie(**)|thailande|0|<!--  -->
 |||||||<!--  -->
 |SWS|--|--||||<!--  -->
-|7 projects|-|-||||<!--  -->
 |7p would you be my love|7p would you be my love|?|serie|thailande|0|<!--  -->
 |7p once upon a time|7p once upon a time|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
@@ -387,7 +390,6 @@
 |TAIWAN|---|---||||
 |||||||<!--  -->
 |COLLAB|---|---||||
-|peach of time|peach of time|?|serie|corée-thailande|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

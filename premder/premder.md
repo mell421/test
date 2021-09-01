@@ -23,19 +23,34 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
+Agt 16x15
+Lego masters 2x10
+* 7project 1x1
+Peach of time 1x3
+Koh-lanta 27x2
+Survivor au 8x20
+Camping paradis 12x4
+* Peach of time 1x1
+The voice au 10x11
+Aggretsuko 3x6
+* Bite me 1x1
+Survivor sa 8x7
+* Game of talents fr 1x1
+Dont say no 1x4
+* The yearbook 1x1
+Drag race nl 2x4
+The cube 1x10
+Rpdrasu 6x11
+Rpdras 6x11
+Ahs 10x2
+* Ahs 10x1
+The good doctor 4x2
+Post mortem 1x2
+* Post mortem 1x1
+* Koh-lanta 27x1
 From dusk till dawn 2x5
-Survivor au 8x17
-The voice au 10x8
-Dont say no 1x3
-The cube 1x9
-Drag race nl 2x3
-Rpdrasu 6x10
-Rpdras 6x10
-Lego masters 2x8
 Unbag 1x28
-Agt 16x12
 Survivor au 5x11
-Survivor sa 8x6
 * The voice au 10x1
 Good singers 1x4
 * Dont say no 1x1
@@ -46,7 +61,6 @@ Control z 2x2
 Glow up 2x2
 * Survivor sa 8x1
 Bt21 original story 1x10
-Camping paradis 12x3
 * Survivor au 8x1
 * Survivor au 5x1
 Josephine ange gardien 24x1
@@ -131,7 +145,6 @@ Quien es la mascara 2x2
 * My day 1x1
 * Baby 3x1
 * My dear loser edge of 17 1x1
-Aggretsuko 3x3
 * Unbag 1x1
 * Aggretsuko 3x1
 So much in love 1x2
