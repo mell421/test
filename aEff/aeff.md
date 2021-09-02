@@ -238,59 +238,59 @@
 - 02/07/21 (eff) - unbag _1{387} bt21 original story _1{39} my vampire boyfriend _1{25} lego masters _2{22} vincenzo _1{16} the harvest season _1{16} agt _16{15} 
 - 03/07/21 (eff) - unbag _1{389} bt21 original story _1{40} my vampire boyfriend _1{25} lego masters _2{22} agt _16{17} vincenzo _1{16} the harvest season _1{16} 
 - 04/07/21 (eff) - unbag _1{391} bt21 original story _1{41} my vampire boyfriend _1{25} lego masters _2{22} agt _16{17} vincenzo _1{16} the harvest season _1{16} 
-- 05/07/21 (eff) - unbag _1{393} bt21 original story _1{43} my vampire boyfriend _1{25} lego masters _2{22} agt _16{18} rpdrasu _6{16} vincenzo _1{16} 
-- 06/07/21 (eff) - unbag _1{395} bt21 original story _1{44} my vampire boyfriend _1{25} lego masters _2{22} agt _16{18} the cube _1{16} rpdrasu _6{16} 
-- 07/07/21 (eff) - unbag _1{397} bt21 original story _1{45} my vampire boyfriend _1{25} lego masters _2{22} agt _16{18} the cube _1{17} rpdrasu _6{16} vincenzo _1{16} 
-- 08/07/21 (eff) - unbag _1{399} bt21 original story _1{46} my vampire boyfriend _1{25} lego masters _2{24} agt _16{20} the cube _1{17} rpdrasu _6{16} vincenzo _1{16} 
-- 09/07/21 (eff) - unbag _1{401} bt21 original story _1{47} lego masters _2{26} my vampire boyfriend _1{25} agt _16{22} the cube _1{17} rpdrasu _6{16} 
-- 10/07/21 (eff) - unbag _1{403} bt21 original story _1{48} lego masters _2{26} my vampire boyfriend _1{25} agt _16{24} rpdrasu _6{17} the cube _1{17} vincenzo _1{16} 
-- 11/07/21 (eff) - unbag _1{405} bt21 original story _1{50} lego masters _2{26} my vampire boyfriend _1{25} agt _16{24} rpdrasu _6{18} the cube _1{17} vincenzo _1{16} 
-- 12/07/21 (eff) - unbag _1{408} bt21 original story _1{52} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{17} 
-- 13/07/21 (eff) - unbag _1{410} bt21 original story _1{54} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{17} vincenzo _1{16} 
-- 14/07/21 (eff) - unbag _1{412} bt21 original story _1{56} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{17} vincenzo _1{16} 
-- 15/07/21 (eff) - unbag _1{414} bt21 original story _1{58} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{17} vincenzo _1{16} 
-- 16/07/21 (eff) - unbag _1{416} bt21 original story _1{60} lego masters _2{27} agt _16{26} my vampire boyfriend _1{25} rpdrasu _6{20} the cube _1{19} vincenzo _1{16} the harvest season _1{16} 
-- 17/07/21 (eff) - unbag _1{418} bt21 original story _1{62} lego masters _2{27} agt _16{26} my vampire boyfriend _1{25} the cube _1{21} rpdrasu _6{21} rpdras _6{16} vincenzo _1{16} 
-- 18/07/21 (eff) - unbag _1{420} bt21 original story _1{63} agt _16{27} lego masters _2{27} my vampire boyfriend _1{25} the cube _1{23} rpdrasu _6{22} rpdras _6{17} vincenzo _1{16} 
-- 19/07/21 (eff) - unbag _1{422} bt21 original story _1{64} agt _16{29} lego masters _2{27} the cube _1{26} rpdrasu _6{25} my vampire boyfriend _1{25} rpdras _6{19} vincenzo _1{16} 
-- 20/07/21 (eff) - unbag _1{424} bt21 original story _1{65} agt _16{30} the cube _1{27} lego masters _2{27} rpdrasu _6{26} my vampire boyfriend _1{25} rpdras _6{19} 
-- 21/07/21 (eff) - unbag _1{426} bt21 original story _1{66} agt _16{31} the cube _1{28} lego masters _2{27} rpdrasu _6{27} my vampire boyfriend _1{25} rpdras _6{20} /46 days _1{18} 
-- 22/07/21 (eff) - unbag _1{428} bt21 original story _1{67} agt _16{33} the cube _1{28} rpdrasu _6{28} lego masters _2{27} my vampire boyfriend _1{25} rpdras _6{20} /46 days _1{19} vincenzo _1{16} 
-- 23/07/21 (eff) - unbag _1{430} bt21 original story _1{68} agt _16{35} rpdrasu _6{28} the cube _1{28} lego masters _2{27} my vampire boyfriend _1{25} /46 days _1{21} rpdras _6{20} vincenzo _1{16} 
-- 24/07/21 (eff) - unbag _1{432} bt21 original story _1{69} agt _16{36} rpdrasu _6{29} the cube _1{28} lego masters _2{27} my vampire boyfriend _1{25} /46 days _1{23} rpdras _6{21} vincenzo _1{16} 
-- 25/07/21 (eff) - unbag _1{434} bt21 original story _1{70} agt _16{37} rpdrasu _6{30} the cube _1{28} lego masters _2{27} /46 days _1{25} my vampire boyfriend _1{25} rpdras _6{22} vincenzo _1{16} 
-- 26/07/21 (eff) - unbag _1{437} bt21 original story _1{71} agt _16{39} rpdrasu _6{31} the cube _1{30} /46 days _1{28} lego masters _2{28} my vampire boyfriend _1{25} rpdras _6{23} survivor au _5{18} vincenzo _1{16} 
-- 27/07/21 (eff) - unbag _1{439} bt21 original story _1{72} agt _16{40} rpdrasu _6{31} the cube _1{30} /46 days _1{29} lego masters _2{28} my vampire boyfriend _1{25} rpdras _6{23} survivor au _5{20} vincenzo _1{16} 
-- 28/07/21 (eff) - unbag _1{441} bt21 original story _1{73} agt _16{40} rpdrasu _6{31} the cube _1{30} /46 days _1{30} lego masters _2{28} my vampire boyfriend _1{25} rpdras _6{23} survivor au _5{22} vincenzo _1{16} the harvest season _1{16} 
-- 29/07/21 (eff) - unbag _1{443} bt21 original story _1{74} agt _16{40} /46 days _1{31} rpdrasu _6{31} the cube _1{30} lego masters _2{28} my vampire boyfriend _1{25} survivor au _5{24} rpdras _6{23} survivor au _8{16} vincenzo _1{16} 
-- 30/07/21 (eff) - unbag _1{445} bt21 original story _1{75} agt _16{40} /46 days _1{32} rpdrasu _6{31} the cube _1{30} lego masters _2{28} survivor au _5{26} my vampire boyfriend _1{25} rpdras _6{23} survivor au _8{18} 
-- 31/07/21 (eff) - unbag _1{447} bt21 original story _1{76} agt _16{40} /46 days _1{33} rpdrasu _6{31} the cube _1{30} survivor au _5{28} lego masters _2{28} my vampire boyfriend _1{25} rpdras _6{24} survivor au _8{20} vincenzo _1{16} 
-- 01/08/21 (eff) - unbag _1{450} bt21 original story _1{79} agt _16{41} /46 days _1{35} rpdrasu _6{33} survivor au _5{31} the cube _1{31} lego masters _2{29} rpdras _6{25} my vampire boyfriend _1{25} survivor au _8{23} vincenzo _1{16} the harvest season _1{16} 
-- 02/08/21 (eff) - unbag _1{452} bt21 original story _1{82} agt _16{41} /46 days _1{36} rpdrasu _6{34} survivor au _5{34} the cube _1{31} lego masters _2{29} survivor au _8{26} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 03/08/21 (eff) - unbag _1{454} bt21 original story _1{84} agt _16{41} /46 days _1{37} survivor au _5{36} rpdrasu _6{34} the cube _1{31} lego masters _2{29} survivor au _8{28} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 04/08/21 (eff) - unbag _1{456} bt21 original story _1{86} agt _16{41} /46 days _1{38} survivor au _5{38} rpdrasu _6{34} the cube _1{31} survivor au _8{30} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 05/08/21 (eff) - unbag _1{458} bt21 original story _1{88} agt _16{41} survivor au _5{40} /46 days _1{39} rpdrasu _6{34} survivor au _8{32} the cube _1{31} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 06/08/21 (eff) - unbag _1{460} bt21 original story _1{90} survivor au _5{42} agt _16{41} /46 days _1{40} rpdrasu _6{34} survivor au _8{34} the cube _1{31} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 07/08/21 (eff) - unbag _1{462} bt21 original story _1{92} survivor au _5{44} /46 days _1{41} agt _16{41} survivor au _8{36} rpdrasu _6{34} the cube _1{31} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} elite _4{15} 
-- 08/08/21 (eff) - unbag _1{464} bt21 original story _1{94} survivor au _5{46} /46 days _1{41} agt _16{41} survivor au _8{38} rpdrasu _6{34} the cube _1{31} lego masters _2{29} rpdras _6{26} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 09/08/21 (eff) - unbag _1{467} bt21 original story _1{95} survivor au _5{48} /46 days _1{42} agt _16{41} survivor au _8{40} rpdrasu _6{35} the cube _1{31} lego masters _2{29} rpdras _6{27} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 10/08/21 (eff) - unbag _1{469} bt21 original story _1{96} survivor au _5{50} survivor au _8{42} /46 days _1{42} agt _16{41} rpdrasu _6{35} the cube _1{31} lego masters _2{29} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} vincenzo _1{16} 
-- 11/08/21 (eff) - unbag _1{471} bt21 original story _1{97} survivor au _5{52} survivor au _8{44} /46 days _1{43} agt _16{41} rpdrasu _6{35} the cube _1{31} lego masters _2{29} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} vincenzo _1{16} 
-- 12/08/21 (eff) - unbag _1{473} bt21 original story _1{98} survivor au _5{54} survivor au _8{46} /46 days _1{44} agt _16{41} rpdrasu _6{35} the cube _1{31} lego masters _2{30} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} 
-- 13/08/21 (eff) - unbag _1{475} bt21 original story _1{99} survivor au _5{56} survivor au _8{48} /46 days _1{45} agt _16{43} rpdrasu _6{35} the cube _1{31} lego masters _2{30} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} 
-- 14/08/21 (eff) - unbag _1{477} bt21 original story _1{100} survivor au _5{58} survivor au _8{50} /46 days _1{45} agt _16{44} rpdrasu _6{35} the cube _1{31} lego masters _2{30} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} 
-- 15/08/21 (eff) - unbag _1{479} bt21 original story _1{101} survivor au _5{60} survivor au _8{52} agt _16{45} /46 days _1{45} rpdrasu _6{35} the cube _1{31} lego masters _2{30} rpdras _6{27} my vampire boyfriend _1{25} survivor sa _8{16} 
-- 16/08/21 (eff) - unbag _1{481} bt21 original story _1{101} survivor au _5{63} survivor au _8{55} agt _16{47} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{18} 
-- 17/08/21 (eff) - unbag _1{483} bt21 original story _1{101} survivor au _5{65} survivor au _8{57} agt _16{48} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{19} 
-- 18/08/21 (eff) - unbag _1{485} bt21 original story _1{101} survivor au _5{66} survivor au _8{59} agt _16{49} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{20} 
-- 19/08/21 (eff) - unbag _1{487} bt21 original story _1{101} survivor au _5{67} survivor au _8{61} agt _16{49} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{21} 
-- 20/08/21 (eff) - unbag _1{489} bt21 original story _1{101} survivor au _5{68} survivor au _8{63} agt _16{50} /46 days _1{45} rpdrasu _6{36} the cube _1{32} lego masters _2{31} rpdras _6{28} my vampire boyfriend _1{25} survivor sa _8{22} the voice au _10{19} vincenzo _1{16} 
-- 21/08/21 (eff) - unbag _1{491} bt21 original story _1{101} survivor au _5{69} survivor au _8{65} agt _16{52} /46 days _1{45} rpdrasu _6{37} the cube _1{32} lego masters _2{31} rpdras _6{29} my vampire boyfriend _1{25} survivor sa _8{24} the voice au _10{21} vincenzo _1{16} the harvest season _1{16} 
-- 22/08/21 (eff) - unbag _1{493} bt21 original story _1{101} survivor au _5{70} survivor au _8{67} agt _16{54} /46 days _1{45} rpdrasu _6{38} the cube _1{33} lego masters _2{31} rpdras _6{29} survivor sa _8{26} my vampire boyfriend _1{25} the voice au _10{23} vincenzo _1{16} the harvest season _1{16} 
-- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} survivor au _5{71} survivor au _8{70} agt _16{57} /46 days _1{45} rpdrasu _6{40} the cube _1{34} lego masters _2{32} rpdras _6{30} survivor sa _8{28} the voice au _10{26} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
-- 24/08/21 (eff) - unbag _1{498} bt21 original story _1{101} survivor au _8{72} survivor au _5{72} agt _16{59} /46 days _1{45} rpdrasu _6{41} the cube _1{34} lego masters _2{32} rpdras _6{30} survivor sa _8{30} the voice au _10{28} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
-- 25/08/21 (eff) - unbag _1{500} bt21 original story _1{101} survivor au _8{74} survivor au _5{73} agt _16{61} /46 days _1{45} rpdrasu _6{42} the cube _1{34} lego masters _2{32} survivor sa _8{32} the voice au _10{30} rpdras _6{30} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
-- 26/08/21 (eff) - unbag _1{502} bt21 original story _1{101} survivor au _8{76} survivor au _5{74} agt _16{63} /46 days _1{45} rpdrasu _6{43} lego masters _2{34} the cube _1{34} survivor sa _8{34} the voice au _10{32} rpdras _6{31} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
+- 05/07/21 (eff) - unbag _1{393} bt21 original story _1{43} my vampire boyfriend _1{25} lego masters _2{22} agt _16{18} vincenzo _1{16} 
+- 06/07/21 (eff) - unbag _1{395} bt21 original story _1{44} my vampire boyfriend _1{25} lego masters _2{22} agt _16{18} the cube _1{16} 
+- 07/07/21 (eff) - unbag _1{397} bt21 original story _1{45} my vampire boyfriend _1{25} lego masters _2{22} agt _16{18} the cube _1{17} vincenzo _1{16} 
+- 08/07/21 (eff) - unbag _1{399} bt21 original story _1{46} my vampire boyfriend _1{25} lego masters _2{24} agt _16{20} the cube _1{17} vincenzo _1{16} 
+- 09/07/21 (eff) - unbag _1{401} bt21 original story _1{47} lego masters _2{26} my vampire boyfriend _1{25} agt _16{22} the cube _1{17} 
+- 10/07/21 (eff) - unbag _1{403} bt21 original story _1{48} lego masters _2{26} my vampire boyfriend _1{25} agt _16{24} the cube _1{17} vincenzo _1{16} 
+- 11/07/21 (eff) - unbag _1{405} bt21 original story _1{50} lego masters _2{26} my vampire boyfriend _1{25} agt _16{24} the cube _1{17} vincenzo _1{16} 
+- 12/07/21 (eff) - unbag _1{408} bt21 original story _1{52} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} the cube _1{17} 
+- 13/07/21 (eff) - unbag _1{410} bt21 original story _1{54} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} the cube _1{17} vincenzo _1{16} 
+- 14/07/21 (eff) - unbag _1{412} bt21 original story _1{56} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} the cube _1{17} vincenzo _1{16} 
+- 15/07/21 (eff) - unbag _1{414} bt21 original story _1{58} lego masters _2{27} agt _16{25} my vampire boyfriend _1{25} the cube _1{17} vincenzo _1{16} 
+- 16/07/21 (eff) - unbag _1{416} bt21 original story _1{60} lego masters _2{27} agt _16{26} my vampire boyfriend _1{25} the cube _1{19} vincenzo _1{16} the harvest season _1{16} 
+- 17/07/21 (eff) - unbag _1{418} bt21 original story _1{62} lego masters _2{27} agt _16{26} my vampire boyfriend _1{25} the cube _1{21} vincenzo _1{16} 
+- 18/07/21 (eff) - unbag _1{420} bt21 original story _1{63} agt _16{27} lego masters _2{27} my vampire boyfriend _1{25} the cube _1{23} vincenzo _1{16} 
+- 19/07/21 (eff) - unbag _1{422} bt21 original story _1{64} agt _16{29} lego masters _2{27} the cube _1{26} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 20/07/21 (eff) - unbag _1{424} bt21 original story _1{65} agt _16{30} the cube _1{27} lego masters _2{27} my vampire boyfriend _1{25} 
+- 21/07/21 (eff) - unbag _1{426} bt21 original story _1{66} agt _16{31} the cube _1{28} lego masters _2{27} my vampire boyfriend _1{25} /46 days _1{18} 
+- 22/07/21 (eff) - unbag _1{428} bt21 original story _1{67} agt _16{33} the cube _1{28} lego masters _2{27} my vampire boyfriend _1{25} /46 days _1{19} vincenzo _1{16} 
+- 23/07/21 (eff) - unbag _1{430} bt21 original story _1{68} agt _16{35} the cube _1{28} lego masters _2{27} my vampire boyfriend _1{25} /46 days _1{21} vincenzo _1{16} 
+- 24/07/21 (eff) - unbag _1{432} bt21 original story _1{69} agt _16{36} the cube _1{28} lego masters _2{27} my vampire boyfriend _1{25} /46 days _1{23} vincenzo _1{16} 
+- 25/07/21 (eff) - unbag _1{434} bt21 original story _1{70} agt _16{37} the cube _1{28} lego masters _2{27} /46 days _1{25} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 26/07/21 (eff) - unbag _1{437} bt21 original story _1{71} agt _16{39} the cube _1{30} /46 days _1{28} lego masters _2{28} my vampire boyfriend _1{25} survivor au _5{18} vincenzo _1{16} 
+- 27/07/21 (eff) - unbag _1{439} bt21 original story _1{72} agt _16{40} the cube _1{30} /46 days _1{29} lego masters _2{28} my vampire boyfriend _1{25} survivor au _5{20} vincenzo _1{16} 
+- 28/07/21 (eff) - unbag _1{441} bt21 original story _1{73} agt _16{40} the cube _1{30} /46 days _1{30} lego masters _2{28} my vampire boyfriend _1{25} survivor au _5{22} vincenzo _1{16} the harvest season _1{16} 
+- 29/07/21 (eff) - unbag _1{443} bt21 original story _1{74} agt _16{40} /46 days _1{31} the cube _1{30} lego masters _2{28} my vampire boyfriend _1{25} survivor au _5{24} survivor au _8{16} vincenzo _1{16} 
+- 30/07/21 (eff) - unbag _1{445} bt21 original story _1{75} agt _16{40} /46 days _1{32} the cube _1{30} lego masters _2{28} survivor au _5{26} my vampire boyfriend _1{25} survivor au _8{18} 
+- 31/07/21 (eff) - unbag _1{447} bt21 original story _1{76} agt _16{40} /46 days _1{33} the cube _1{30} survivor au _5{28} lego masters _2{28} my vampire boyfriend _1{25} survivor au _8{20} vincenzo _1{16} 
+- 01/08/21 (eff) - unbag _1{450} bt21 original story _1{79} agt _16{41} /46 days _1{35} survivor au _5{31} the cube _1{31} lego masters _2{29} my vampire boyfriend _1{25} survivor au _8{23} vincenzo _1{16} the harvest season _1{16} 
+- 02/08/21 (eff) - unbag _1{452} bt21 original story _1{82} agt _16{41} /46 days _1{36} survivor au _5{34} the cube _1{31} lego masters _2{29} survivor au _8{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 03/08/21 (eff) - unbag _1{454} bt21 original story _1{84} agt _16{41} /46 days _1{37} survivor au _5{36} the cube _1{31} lego masters _2{29} survivor au _8{28} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 04/08/21 (eff) - unbag _1{456} bt21 original story _1{86} agt _16{41} /46 days _1{38} survivor au _5{38} the cube _1{31} survivor au _8{30} lego masters _2{29} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 05/08/21 (eff) - unbag _1{458} bt21 original story _1{88} agt _16{41} survivor au _5{40} /46 days _1{39} survivor au _8{32} the cube _1{31} lego masters _2{29} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 06/08/21 (eff) - unbag _1{460} bt21 original story _1{90} survivor au _5{42} agt _16{41} /46 days _1{40} survivor au _8{34} the cube _1{31} lego masters _2{29} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 07/08/21 (eff) - unbag _1{462} bt21 original story _1{92} survivor au _5{44} /46 days _1{41} agt _16{41} survivor au _8{36} the cube _1{31} lego masters _2{29} my vampire boyfriend _1{25} vincenzo _1{16} elite _4{15} 
+- 08/08/21 (eff) - unbag _1{464} bt21 original story _1{94} survivor au _5{46} /46 days _1{41} agt _16{41} survivor au _8{38} the cube _1{31} lego masters _2{29} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 09/08/21 (eff) - unbag _1{467} bt21 original story _1{95} survivor au _5{48} /46 days _1{42} agt _16{41} survivor au _8{40} the cube _1{31} lego masters _2{29} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 10/08/21 (eff) - unbag _1{469} bt21 original story _1{96} survivor au _5{50} survivor au _8{42} /46 days _1{42} agt _16{41} the cube _1{31} lego masters _2{29} my vampire boyfriend _1{25} survivor sa _8{16} vincenzo _1{16} 
+- 11/08/21 (eff) - unbag _1{471} bt21 original story _1{97} survivor au _5{52} survivor au _8{44} /46 days _1{43} agt _16{41} the cube _1{31} lego masters _2{29} my vampire boyfriend _1{25} survivor sa _8{16} vincenzo _1{16} 
+- 12/08/21 (eff) - unbag _1{473} bt21 original story _1{98} survivor au _5{54} survivor au _8{46} /46 days _1{44} agt _16{41} the cube _1{31} lego masters _2{30} my vampire boyfriend _1{25} survivor sa _8{16} 
+- 13/08/21 (eff) - unbag _1{475} bt21 original story _1{99} survivor au _5{56} survivor au _8{48} /46 days _1{45} agt _16{43} the cube _1{31} lego masters _2{30} my vampire boyfriend _1{25} survivor sa _8{16} 
+- 14/08/21 (eff) - unbag _1{477} bt21 original story _1{100} survivor au _5{58} survivor au _8{50} /46 days _1{45} agt _16{44} the cube _1{31} lego masters _2{30} my vampire boyfriend _1{25} survivor sa _8{16} 
+- 15/08/21 (eff) - unbag _1{479} bt21 original story _1{101} survivor au _5{60} survivor au _8{52} agt _16{45} /46 days _1{45} the cube _1{31} lego masters _2{30} my vampire boyfriend _1{25} survivor sa _8{16} 
+- 16/08/21 (eff) - unbag _1{481} bt21 original story _1{101} survivor au _5{63} survivor au _8{55} agt _16{47} /46 days _1{45} the cube _1{32} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{18} 
+- 17/08/21 (eff) - unbag _1{483} bt21 original story _1{101} survivor au _5{65} survivor au _8{57} agt _16{48} /46 days _1{45} the cube _1{32} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{19} 
+- 18/08/21 (eff) - unbag _1{485} bt21 original story _1{101} survivor au _5{66} survivor au _8{59} agt _16{49} /46 days _1{45} the cube _1{32} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{20} 
+- 19/08/21 (eff) - unbag _1{487} bt21 original story _1{101} survivor au _5{67} survivor au _8{61} agt _16{49} /46 days _1{45} the cube _1{32} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{21} 
+- 20/08/21 (eff) - unbag _1{489} bt21 original story _1{101} survivor au _5{68} survivor au _8{63} agt _16{50} /46 days _1{45} the cube _1{32} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{22} the voice au _10{19} vincenzo _1{16} 
+- 21/08/21 (eff) - unbag _1{491} bt21 original story _1{101} survivor au _5{69} survivor au _8{65} agt _16{52} /46 days _1{45} the cube _1{32} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{24} the voice au _10{21} vincenzo _1{16} the harvest season _1{16} 
+- 22/08/21 (eff) - unbag _1{493} bt21 original story _1{101} survivor au _5{70} survivor au _8{67} agt _16{54} /46 days _1{45} the cube _1{33} lego masters _2{31} survivor sa _8{26} my vampire boyfriend _1{25} the voice au _10{23} vincenzo _1{16} the harvest season _1{16} 
+- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} survivor au _5{71} survivor au _8{70} agt _16{57} /46 days _1{45} the cube _1{34} lego masters _2{32} survivor sa _8{28} the voice au _10{26} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 24/08/21 (eff) - unbag _1{498} bt21 original story _1{101} survivor au _8{72} survivor au _5{72} agt _16{59} /46 days _1{45} the cube _1{34} lego masters _2{32} survivor sa _8{30} the voice au _10{28} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 25/08/21 (eff) - unbag _1{500} bt21 original story _1{101} survivor au _8{74} survivor au _5{73} agt _16{61} /46 days _1{45} the cube _1{34} lego masters _2{32} survivor sa _8{32} the voice au _10{30} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
+- 26/08/21 (eff) - unbag _1{502} bt21 original story _1{101} survivor au _8{76} survivor au _5{74} agt _16{63} /46 days _1{45} lego masters _2{34} the cube _1{34} survivor sa _8{34} the voice au _10{32} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
 
 
 
@@ -548,68 +548,68 @@
 - 22/06/21 - 199* elite _4{6} the cube _1{4} dark blue kiss _1{4} 
 - 23/06/21 - 238* lego masters _2{16} siew sum noi _1{0} elite _4{8} the cube _1{6} 
 - 24/06/21 - 199* agt _16{9} lego masters _2{18} siew sum noi _1{0} elite _4{10} the cube _1{7} 
-- 25/06/21 - 505* unbag _1{371} rpdrasu _6{0} rpdras _6{0} agt _16{10} lego masters _2{19} siew sum noi _1{0} 
-- 26/06/21 - 510* the cube _1{8} unbag _1{373} rpdrasu _6{1} rpdras _6{1} 
-- 27/06/21 - 503* the cube _1{10} unbag _1{375} rpdrasu _6{2} rpdras _6{2} 
-- 28/06/21 - 542* the cube _1{11} unbag _1{378} rpdrasu _6{5} 
-- 29/06/21 - 554* the cube _1{11} unbag _1{380} rpdrasu _6{7} 
+- 25/06/21 - 505* unbag _1{371} agt _16{10} lego masters _2{19} siew sum noi _1{0} 
+- 26/06/21 - 510* the cube _1{8} unbag _1{373} 
+- 27/06/21 - 503* the cube _1{10} unbag _1{375} 
+- 28/06/21 - 542* the cube _1{11} unbag _1{378} 
+- 29/06/21 - 554* the cube _1{11} unbag _1{380} 
 - 30/06/21 - 249* the cube _1{11} 
 - 01/07/21 - 287* bt21 original story _1{37} agt _16{13} the cube _1{12} 
-- 02/07/21 - 255* rpdrasu _6{14} rpdras _6{12} bt21 original story _1{39} agt _16{15} 
-- 03/07/21 - 202* the cube _1{12} rpdrasu _6{15} rpdras _6{12} 
-- 04/07/21 - 216* the cube _1{13} rpdrasu _6{15} rpdras _6{12} 
-- 05/07/21 - 253* the cube _1{15} rpdrasu _6{16} rpdras _6{13} 
+- 02/07/21 - 255* bt21 original story _1{39} agt _16{15} 
+- 03/07/21 - 202* the cube _1{12} 
+- 04/07/21 - 216* the cube _1{13} 
+- 05/07/21 - 253* the cube _1{15} 
 - 06/07/21 - 237* young royals _1{0} camping paradis _12{0} the cube _1{16} 
 - 07/07/21 - 256* agt _16{18} lego masters _2{22} young royals _1{2} camping paradis _12{1} the cube _1{17} 
 - 08/07/21 - 243* /46 days _1{0} agt _16{20} lego masters _2{24} young royals _1{2} camping paradis _12{1} 
-- 09/07/21 - 545* unbag _1{401} rpdrasu _6{16} rpdras _6{13} /46 days _1{0} agt _16{22} 
-- 10/07/21 - 601* /46 days _1{0} zombie detective _1{3} unbag _1{403} rpdrasu _6{17} 
-- 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} unbag _1{405} rpdrasu _6{18} 
+- 09/07/21 - 545* unbag _1{401} /46 days _1{0} agt _16{22} 
+- 10/07/21 - 601* /46 days _1{0} zombie detective _1{3} unbag _1{403} 
+- 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} unbag _1{405} 
 - 12/07/21 - 655* glow up _2{2} /46 days _1{5} zombie detective _1{4} unbag _1{408} 
 - 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} unbag _1{410} 
 - 14/07/21 - 253* josephine ange gardien _24{0} camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
 - 15/07/21 - 299* the cube _1{17} /46 days _1{11} agt _16{25} josephine ange gardien _24{1} camping paradis _12{3} 
-- 16/07/21 - 215* the cube _1{19} rpdrasu _6{20} rpdras _6{15} /46 days _1{13} agt _16{26} 
-- 17/07/21 - 180* good singers _1{4} the cube _1{21} rpdrasu _6{21} rpdras _6{16} 
-- 18/07/21 - 188* survivor au _5{0} good singers _1{4} the cube _1{23} rpdrasu _6{22} rpdras _6{17} 
+- 16/07/21 - 215* the cube _1{19} /46 days _1{13} agt _16{26} 
+- 17/07/21 - 180* good singers _1{4} the cube _1{21} 
+- 18/07/21 - 188* survivor au _5{0} good singers _1{4} the cube _1{23} 
 - 19/07/21 - 183* /46 days _1{15} survivor au _8{1} survivor au _5{3} good singers _1{5} the cube _1{26} 
 - 20/07/21 - 184* camping paradis _12{4} survivor au _8{1} /46 days _1{17} survivor au _5{5} good singers _1{5} the cube _1{27} 
 - 21/07/21 - 242* survivor au _5{7} agt _16{31} lego masters _2{27} survivor au _8{3} camping paradis _12{4} /46 days _1{18} 
 - 22/07/21 - 213* /46 days _1{19} survivor au _5{9} agt _16{33} lego masters _2{27} survivor au _8{5} camping paradis _12{4} 
-- 23/07/21 - 655* /46 days _1{21} rpdrasu _6{28} unbag _1{430} rpdras _6{20} survivor au _5{11} agt _16{35} 
-- 24/07/21 - 662* /46 days _1{23} rpdrasu _6{29} unbag _1{432} rpdras _6{21} survivor au _5{13} agt _16{36} 
-- 25/07/21 - 683* the cube _1{28} /46 days _1{25} rpdrasu _6{30} unbag _1{434} rpdras _6{22} 
-- 26/07/21 - 660* survivor au _8{11} the cube _1{30} /46 days _1{28} rpdrasu _6{31} unbag _1{437} 
-- 27/07/21 - 671* survivor au _8{13} the cube _1{30} /46 days _1{29} rpdrasu _6{31} unbag _1{439} 
-- 28/07/21 - 700* survivor au _8{14} the cube _1{30} /46 days _1{30} rpdrasu _6{31} unbag _1{441} 
-- 29/07/21 - 295* survivor au _5{24} survivor au _8{16} the cube _1{30} /46 days _1{31} rpdrasu _6{31} 
-- 30/07/21 - 297* rpdras _6{23} survivor au _5{26} survivor au _8{18} the cube _1{30} /46 days _1{32} 
-- 31/07/21 - 321* rpdrasu _6{31} bt21 original story _1{76} rpdras _6{24} survivor au _5{28} survivor au _8{20} the cube _1{30} 
-- 01/08/21 - 316* rpdrasu _6{33} bt21 original story _1{79} rpdras _6{25} survivor au _5{31} survivor au _8{23} the cube _1{31} 
-- 02/08/21 - 308* survivor sa _8{1} survivor au _8{26} rpdrasu _6{34} bt21 original story _1{82} rpdras _6{26} survivor au _5{34} 
-- 03/08/21 - 310* glow up _2{3} survivor au _8{28} survivor sa _8{2} rpdrasu _6{34} bt21 original story _1{84} rpdras _6{26} survivor au _5{36} 
-- 04/08/21 - 302* survivor au _8{30} /46 days _1{38} glow up _2{3} survivor sa _8{4} rpdrasu _6{34} bt21 original story _1{86} 
+- 23/07/21 - 655* /46 days _1{21} unbag _1{430} survivor au _5{11} agt _16{35} 
+- 24/07/21 - 662* /46 days _1{23} unbag _1{432} survivor au _5{13} agt _16{36} 
+- 25/07/21 - 683* the cube _1{28} /46 days _1{25} unbag _1{434} 
+- 26/07/21 - 660* survivor au _8{11} the cube _1{30} /46 days _1{28} unbag _1{437} 
+- 27/07/21 - 671* survivor au _8{13} the cube _1{30} /46 days _1{29} unbag _1{439} 
+- 28/07/21 - 700* survivor au _8{14} the cube _1{30} /46 days _1{30} unbag _1{441} 
+- 29/07/21 - 295* survivor au _5{24} survivor au _8{16} the cube _1{30} /46 days _1{31} 
+- 30/07/21 - 297* survivor au _5{26} survivor au _8{18} the cube _1{30} /46 days _1{32} 
+- 31/07/21 - 321* bt21 original story _1{76} survivor au _5{28} survivor au _8{20} the cube _1{30} 
+- 01/08/21 - 316* bt21 original story _1{79} survivor au _5{31} survivor au _8{23} the cube _1{31} 
+- 02/08/21 - 308* survivor sa _8{1} survivor au _8{26} bt21 original story _1{82} survivor au _5{34} 
+- 03/08/21 - 310* glow up _2{3} survivor au _8{28} survivor sa _8{2} bt21 original story _1{84} survivor au _5{36} 
+- 04/08/21 - 302* survivor au _8{30} /46 days _1{38} glow up _2{3} survivor sa _8{4} bt21 original story _1{86} 
 - 05/08/21 - 206* survivor sa _8{5} control z _2{0} survivor au _8{32} /46 days _1{39} glow up _2{3} 
-- 06/08/21 - 716* rpdrasu _6{34} rpdras _6{26} unbag _1{460} survivor sa _8{7} control z _2{1} survivor au _8{34} /46 days _1{40} 
-- 07/08/21 - 650* dont say no _1{0} drag race nl _2{0} rpdrasu _6{34} rpdras _6{26} unbag _1{462} survivor sa _8{9} control z _2{1} 
-- 08/08/21 - 660* good singers _1{6} dont say no _1{0} drag race nl _2{0} rpdrasu _6{34} rpdras _6{26} unbag _1{464} survivor sa _8{11} 
-- 09/08/21 - 708* the voice au _10{1} survivor au _8{40} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{467} survivor sa _8{14} 
-- 10/08/21 - 708* survivor au _8{42} the voice au _10{1} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{469} survivor sa _8{16} 
-- 11/08/21 - 716* lego masters _2{29} the voice au _10{3} survivor au _8{44} good singers _1{7} dont say no _1{1} drag race nl _2{1} rpdrasu _6{35} rpdras _6{27} unbag _1{471} 
+- 06/08/21 - 716* unbag _1{460} survivor sa _8{7} control z _2{1} survivor au _8{34} /46 days _1{40} 
+- 07/08/21 - 650* dont say no _1{0} drag race nl _2{0} unbag _1{462} survivor sa _8{9} control z _2{1} 
+- 08/08/21 - 660* good singers _1{6} dont say no _1{0} drag race nl _2{0} unbag _1{464} survivor sa _8{11} 
+- 09/08/21 - 708* the voice au _10{1} survivor au _8{40} good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{467} survivor sa _8{14} 
+- 10/08/21 - 708* survivor au _8{42} the voice au _10{1} good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{469} survivor sa _8{16} 
+- 11/08/21 - 716* lego masters _2{29} the voice au _10{3} survivor au _8{44} good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{471} 
 - 12/08/21 - 237* agt _16{41} survivor au _8{46} lego masters _2{30} the voice au _10{5} good singers _1{7} dont say no _1{1} drag race nl _2{1} 
-- 13/08/21 - 329* the cube _1{31} rpdrasu _6{35} rpdras _6{27} agt _16{43} survivor au _8{48} lego masters _2{30} 
-- 14/08/21 - 274* dont say no _1{1} survivor sa _8{16} drag race nl _2{1} the cube _1{31} rpdrasu _6{35} rpdras _6{27} agt _16{44} 
-- 15/08/21 - 298* survivor au _5{60} survivor sa _8{16} dont say no _1{1} drag race nl _2{1} the cube _1{31} rpdrasu _6{35} rpdras _6{27} 
-- 16/08/21 - 311* the voice au _10{12} survivor au _5{63} survivor sa _8{18} dont say no _1{2} drag race nl _2{2} the cube _1{32} rpdrasu _6{36} rpdras _6{28} 
-- 17/08/21 - 352* the voice au _10{14} survivor au _8{57} survivor au _5{65} survivor sa _8{19} dont say no _1{2} drag race nl _2{2} the cube _1{32} rpdrasu _6{36} 
-- 18/08/21 - 354* survivor au _8{59} the voice au _10{16} survivor au _5{66} survivor sa _8{20} dont say no _1{2} drag race nl _2{2} the cube _1{32} rpdrasu _6{36} 
-- 19/08/21 - 401* the voice au _10{17} agt _16{49} survivor au _8{61} survivor au _5{67} survivor sa _8{21} dont say no _1{2} drag race nl _2{2} the cube _1{32} rpdrasu _6{36} 
-- 20/08/21 - 860* rpdrasu _6{36} rpdras _6{28} lego masters _2{31} unbag _1{489} agt _16{50} the voice au _10{19} survivor au _8{63} survivor au _5{68} survivor sa _8{22} 
-- 21/08/21 - 833* the cube _1{32} drag race nl _2{2} rpdrasu _6{37} rpdras _6{29} lego masters _2{31} unbag _1{491} agt _16{52} the voice au _10{21} survivor au _8{65} survivor au _5{69} 
-- 22/08/21 - 780* survivor au _8{67} from dusk till dawn _2{15} the cube _1{33} drag race nl _2{2} rpdrasu _6{38} rpdras _6{29} lego masters _2{31} unbag _1{493} agt _16{54} 
-- 23/08/21 - 278* the voice au _10{26} dont say no _1{3} survivor au _8{70} from dusk till dawn _2{16} the cube _1{34} drag race nl _2{3} rpdrasu _6{40} rpdras _6{30} lego masters _2{32} 
-- 24/08/21 - 284* from dusk till dawn _2{16} survivor au _8{72} the voice au _10{28} dont say no _1{4} the cube _1{34} drag race nl _2{3} rpdrasu _6{41} rpdras _6{30} lego masters _2{32} 
-- 25/08/21 - 284* lego masters _2{32} koh-lanta _27{0} the voice au _10{30} from dusk till dawn _2{17} survivor au _8{74} dont say no _1{4} the cube _1{34} drag race nl _2{3} rpdrasu _6{42} rpdras _6{30} 
+- 13/08/21 - 329* the cube _1{31} agt _16{43} survivor au _8{48} lego masters _2{30} 
+- 14/08/21 - 274* dont say no _1{1} survivor sa _8{16} drag race nl _2{1} the cube _1{31} agt _16{44} 
+- 15/08/21 - 298* survivor au _5{60} survivor sa _8{16} dont say no _1{1} drag race nl _2{1} the cube _1{31} 
+- 16/08/21 - 311* the voice au _10{12} survivor au _5{63} survivor sa _8{18} dont say no _1{2} drag race nl _2{2} the cube _1{32} 
+- 17/08/21 - 352* the voice au _10{14} survivor au _8{57} survivor au _5{65} survivor sa _8{19} dont say no _1{2} drag race nl _2{2} the cube _1{32} 
+- 18/08/21 - 354* survivor au _8{59} the voice au _10{16} survivor au _5{66} survivor sa _8{20} dont say no _1{2} drag race nl _2{2} the cube _1{32} 
+- 19/08/21 - 401* the voice au _10{17} agt _16{49} survivor au _8{61} survivor au _5{67} survivor sa _8{21} dont say no _1{2} drag race nl _2{2} the cube _1{32} 
+- 20/08/21 - 860* lego masters _2{31} unbag _1{489} agt _16{50} the voice au _10{19} survivor au _8{63} survivor au _5{68} survivor sa _8{22} 
+- 21/08/21 - 833* the cube _1{32} drag race nl _2{2} lego masters _2{31} unbag _1{491} agt _16{52} the voice au _10{21} survivor au _8{65} survivor au _5{69} 
+- 22/08/21 - 780* survivor au _8{67} from dusk till dawn _2{15} the cube _1{33} drag race nl _2{2} lego masters _2{31} unbag _1{493} agt _16{54} 
+- 23/08/21 - 278* the voice au _10{26} dont say no _1{3} survivor au _8{70} from dusk till dawn _2{16} the cube _1{34} drag race nl _2{3} lego masters _2{32} 
+- 24/08/21 - 284* from dusk till dawn _2{16} survivor au _8{72} the voice au _10{28} dont say no _1{4} the cube _1{34} drag race nl _2{3} lego masters _2{32} 
+- 25/08/21 - 284* lego masters _2{32} koh-lanta _27{0} the voice au _10{30} from dusk till dawn _2{17} survivor au _8{74} dont say no _1{4} the cube _1{34} drag race nl _2{3} 
 - 26/08/21 - 249* the good doctor _4{2} aggretsuko _3{4} post mortem _1{0} agt _16{63} lego masters _2{34} koh-lanta _27{0} the voice au _10{32} from dusk till dawn _2{18} survivor au _8{76} dont say no _1{4} 
 
 
