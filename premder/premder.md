@@ -39,7 +39,6 @@ Survivor sa 8x7
 Dont say no 1x4
 * The yearbook 1x1
 Drag race nl 2x4
-The cube 1x10
 Ahs 10x2
 * Ahs 10x1
 The good doctor 4x2
@@ -69,7 +68,6 @@ Zombie detective 1x2
 * Camping paradis 12x1
 * Siew sum noi 1x1
 Elite 4x3
-* The cube 1x1
 * Elite 4x1
 Dark blue kiss 1x2
 * Lego masters 2x1
