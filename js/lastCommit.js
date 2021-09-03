@@ -1,3 +1,3 @@
 document.write(`<center>
-Date last modification : Thu Sep 2 21:55:23 2021 +0200
+Date last modification : Fri Sep 3 18:36:12 2021 +0200
   </center>`)

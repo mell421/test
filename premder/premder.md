@@ -35,7 +35,6 @@ The voice au 10x11
 Aggretsuko 3x6
 * Bite me 1x1
 Survivor sa 8x7
-* Game of talents fr 1x1
 Dont say no 1x4
 * The yearbook 1x1
 Drag race nl 2x4

@@ -9,7 +9,6 @@ output:
 suppressWarnings(source("./R/sources.R"))
 suppressWarnings(library(tidyverse))
 library(tidygraph)
-suppressWarnings(library(tidyverse))
 library(dplyr)
 require(devtools)
 library(car)
