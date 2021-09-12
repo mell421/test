@@ -31,7 +31,6 @@ Koh-lanta 27x2
 Survivor au 8x20
 Camping paradis 12x4
 * Peach of time 1x1
-The voice au 10x11
 Aggretsuko 3x6
 * Bite me 1x1
 Survivor sa 8x7
@@ -47,7 +46,6 @@ Post mortem 1x2
 From dusk till dawn 2x5
 Unbag 1x28
 Survivor au 5x11
-* The voice au 10x1
 Good singers 1x4
 * Dont say no 1x1
 * Drag race nl 2x1

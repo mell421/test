@@ -284,13 +284,13 @@
 - 17/08/21 (eff) - unbag _1{483} bt21 original story _1{101} survivor au _5{65} survivor au _8{57} agt _16{48} /46 days _1{45} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{19} 
 - 18/08/21 (eff) - unbag _1{485} bt21 original story _1{101} survivor au _5{66} survivor au _8{59} agt _16{49} /46 days _1{45} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{20} 
 - 19/08/21 (eff) - unbag _1{487} bt21 original story _1{101} survivor au _5{67} survivor au _8{61} agt _16{49} /46 days _1{45} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{21} 
-- 20/08/21 (eff) - unbag _1{489} bt21 original story _1{101} survivor au _5{68} survivor au _8{63} agt _16{50} /46 days _1{45} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{22} the voice au _10{19} vincenzo _1{16} 
-- 21/08/21 (eff) - unbag _1{491} bt21 original story _1{101} survivor au _5{69} survivor au _8{65} agt _16{52} /46 days _1{45} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{24} the voice au _10{21} vincenzo _1{16} the harvest season _1{16} 
-- 22/08/21 (eff) - unbag _1{493} bt21 original story _1{101} survivor au _5{70} survivor au _8{67} agt _16{54} /46 days _1{45} lego masters _2{31} survivor sa _8{26} my vampire boyfriend _1{25} the voice au _10{23} vincenzo _1{16} the harvest season _1{16} 
-- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} survivor au _5{71} survivor au _8{70} agt _16{57} /46 days _1{45} lego masters _2{32} survivor sa _8{28} the voice au _10{26} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
-- 24/08/21 (eff) - unbag _1{498} bt21 original story _1{101} survivor au _8{72} survivor au _5{72} agt _16{59} /46 days _1{45} lego masters _2{32} survivor sa _8{30} the voice au _10{28} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
-- 25/08/21 (eff) - unbag _1{500} bt21 original story _1{101} survivor au _8{74} survivor au _5{73} agt _16{61} /46 days _1{45} lego masters _2{32} survivor sa _8{32} the voice au _10{30} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
-- 26/08/21 (eff) - unbag _1{502} bt21 original story _1{101} survivor au _8{76} survivor au _5{74} agt _16{63} /46 days _1{45} lego masters _2{34} survivor sa _8{34} the voice au _10{32} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
+- 20/08/21 (eff) - unbag _1{489} bt21 original story _1{101} survivor au _5{68} survivor au _8{63} agt _16{50} /46 days _1{45} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{22} vincenzo _1{16} 
+- 21/08/21 (eff) - unbag _1{491} bt21 original story _1{101} survivor au _5{69} survivor au _8{65} agt _16{52} /46 days _1{45} lego masters _2{31} my vampire boyfriend _1{25} survivor sa _8{24} vincenzo _1{16} the harvest season _1{16} 
+- 22/08/21 (eff) - unbag _1{493} bt21 original story _1{101} survivor au _5{70} survivor au _8{67} agt _16{54} /46 days _1{45} lego masters _2{31} survivor sa _8{26} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} survivor au _5{71} survivor au _8{70} agt _16{57} /46 days _1{45} lego masters _2{32} survivor sa _8{28} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 24/08/21 (eff) - unbag _1{498} bt21 original story _1{101} survivor au _8{72} survivor au _5{72} agt _16{59} /46 days _1{45} lego masters _2{32} survivor sa _8{30} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 25/08/21 (eff) - unbag _1{500} bt21 original story _1{101} survivor au _8{74} survivor au _5{73} agt _16{61} /46 days _1{45} lego masters _2{32} survivor sa _8{32} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
+- 26/08/21 (eff) - unbag _1{502} bt21 original story _1{101} survivor au _8{76} survivor au _5{74} agt _16{63} /46 days _1{45} lego masters _2{34} survivor sa _8{34} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
 
 
 
@@ -593,24 +593,24 @@
 - 06/08/21 - 716* unbag _1{460} survivor sa _8{7} control z _2{1} survivor au _8{34} /46 days _1{40} 
 - 07/08/21 - 650* dont say no _1{0} drag race nl _2{0} unbag _1{462} survivor sa _8{9} control z _2{1} 
 - 08/08/21 - 660* good singers _1{6} dont say no _1{0} drag race nl _2{0} unbag _1{464} survivor sa _8{11} 
-- 09/08/21 - 708* the voice au _10{1} survivor au _8{40} good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{467} survivor sa _8{14} 
-- 10/08/21 - 708* survivor au _8{42} the voice au _10{1} good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{469} survivor sa _8{16} 
-- 11/08/21 - 716* lego masters _2{29} the voice au _10{3} survivor au _8{44} good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{471} 
-- 12/08/21 - 237* agt _16{41} survivor au _8{46} lego masters _2{30} the voice au _10{5} good singers _1{7} dont say no _1{1} drag race nl _2{1} 
+- 09/08/21 - 708* survivor au _8{40} good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{467} survivor sa _8{14} 
+- 10/08/21 - 708* survivor au _8{42} good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{469} survivor sa _8{16} 
+- 11/08/21 - 716* lego masters _2{29} survivor au _8{44} good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{471} 
+- 12/08/21 - 237* agt _16{41} survivor au _8{46} lego masters _2{30} good singers _1{7} dont say no _1{1} drag race nl _2{1} 
 - 13/08/21 - 329* agt _16{43} survivor au _8{48} lego masters _2{30} 
 - 14/08/21 - 274* dont say no _1{1} survivor sa _8{16} drag race nl _2{1} agt _16{44} 
 - 15/08/21 - 298* survivor au _5{60} survivor sa _8{16} dont say no _1{1} drag race nl _2{1} 
-- 16/08/21 - 311* the voice au _10{12} survivor au _5{63} survivor sa _8{18} dont say no _1{2} drag race nl _2{2} 
-- 17/08/21 - 352* the voice au _10{14} survivor au _8{57} survivor au _5{65} survivor sa _8{19} dont say no _1{2} drag race nl _2{2} 
-- 18/08/21 - 354* survivor au _8{59} the voice au _10{16} survivor au _5{66} survivor sa _8{20} dont say no _1{2} drag race nl _2{2} 
-- 19/08/21 - 401* the voice au _10{17} agt _16{49} survivor au _8{61} survivor au _5{67} survivor sa _8{21} dont say no _1{2} drag race nl _2{2} 
-- 20/08/21 - 860* lego masters _2{31} unbag _1{489} agt _16{50} the voice au _10{19} survivor au _8{63} survivor au _5{68} survivor sa _8{22} 
-- 21/08/21 - 833* drag race nl _2{2} lego masters _2{31} unbag _1{491} agt _16{52} the voice au _10{21} survivor au _8{65} survivor au _5{69} 
+- 16/08/21 - 311* survivor au _5{63} survivor sa _8{18} dont say no _1{2} drag race nl _2{2} 
+- 17/08/21 - 352* survivor au _8{57} survivor au _5{65} survivor sa _8{19} dont say no _1{2} drag race nl _2{2} 
+- 18/08/21 - 354* survivor au _8{59} survivor au _5{66} survivor sa _8{20} dont say no _1{2} drag race nl _2{2} 
+- 19/08/21 - 401* agt _16{49} survivor au _8{61} survivor au _5{67} survivor sa _8{21} dont say no _1{2} drag race nl _2{2} 
+- 20/08/21 - 860* lego masters _2{31} unbag _1{489} agt _16{50} survivor au _8{63} survivor au _5{68} survivor sa _8{22} 
+- 21/08/21 - 833* drag race nl _2{2} lego masters _2{31} unbag _1{491} agt _16{52} survivor au _8{65} survivor au _5{69} 
 - 22/08/21 - 780* survivor au _8{67} from dusk till dawn _2{15} drag race nl _2{2} lego masters _2{31} unbag _1{493} agt _16{54} 
-- 23/08/21 - 278* the voice au _10{26} dont say no _1{3} survivor au _8{70} from dusk till dawn _2{16} drag race nl _2{3} lego masters _2{32} 
-- 24/08/21 - 284* from dusk till dawn _2{16} survivor au _8{72} the voice au _10{28} dont say no _1{4} drag race nl _2{3} lego masters _2{32} 
-- 25/08/21 - 284* lego masters _2{32} koh-lanta _27{0} the voice au _10{30} from dusk till dawn _2{17} survivor au _8{74} dont say no _1{4} drag race nl _2{3} 
-- 26/08/21 - 249* the good doctor _4{2} aggretsuko _3{4} post mortem _1{0} agt _16{63} lego masters _2{34} koh-lanta _27{0} the voice au _10{32} from dusk till dawn _2{18} survivor au _8{76} dont say no _1{4} 
+- 23/08/21 - 278* dont say no _1{3} survivor au _8{70} from dusk till dawn _2{16} drag race nl _2{3} lego masters _2{32} 
+- 24/08/21 - 284* from dusk till dawn _2{16} survivor au _8{72} dont say no _1{4} drag race nl _2{3} lego masters _2{32} 
+- 25/08/21 - 284* lego masters _2{32} koh-lanta _27{0} from dusk till dawn _2{17} survivor au _8{74} dont say no _1{4} drag race nl _2{3} 
+- 26/08/21 - 249* the good doctor _4{2} aggretsuko _3{4} post mortem _1{0} agt _16{63} lego masters _2{34} koh-lanta _27{0} from dusk till dawn _2{18} survivor au _8{76} dont say no _1{4} 
 
 
 
