@@ -3,44 +3,44 @@
 ./0date.sh
 ./0supprZ.sh
 
-list=( "Unbag _1" "Bt21 original story _1" "Survivor au _5" # >= 100
-"Agt _16" "Survivor au _8" "" # 99 - 50
-"Survivor sa _8" "/46 days _1" # 49 - 40
-"Lego masters _2" "" # 39 - 30
-"My vampire boyfriend _1" "From dusk till dawn _2" # 29 - 20
-"Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
-"Dont say no _1" "Peach of time _1" "Aggretsuko _3" "Bt21 vlog _1" "Wabi show _1" # 14 - 10
-"" # 9
-"Ahs _10" "The good doctor _4" "Good singers _1" "Schools out lets date now _1" "Tokyo ghoul _3" # 8
-"Drag race nl _2" "Camping paradis _12" "Control z _2" "You never eat alone _1" # 7
+list=( "Unbag _1" "Bt21 original story _1" "Agt _16" # >= 100
+"Survivor au _5" "Survivor sa _8" "" # 99 - 50
+"/46 days _1" "Lego masters _2" # 49 - 40
+"" # 39 - 30
+"Peach of time _1" "My vampire boyfriend _1" "From dusk till dawn _2" # 29 - 20
+"Dont say no _1" "Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
+"The good doctor _4" "Survivor _8" "Aggretsuko _3" "Drag race nl _2" "Bt21 vlog _1" "Wabi show _1" # 14 - 10
+"Ahs _10" "" # 9
+"The circle us _3" "Vwars _1" "Camping paradis _12" "Good singers _1" "Schools out lets date now _1" "Tokyo ghoul _3" # 8
+"Control z _2" "You never eat alone _1" # 7
 "Mr lipstick _1" "The untamed _1" # 6
 "Glow up _2" "Zombie detective _1" "Dark blue kiss _1" "The shipper _1" # 5
-"Young royals _1" "I can see your voice fr _1" "Unlocked _1" # 4
-"Post mortem _1" "Josephine ange gardien _24" "Slam dance _1" # 3
-"Survivor _8" "Koh-lanta _27" "Bite me _1" "The yearbook _1" "Siew sum noi _1" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" # 2
-"7project _1" "" # 1
-"Qforce _1" "" # 0
+"Lucifer _4" "Young royals _1" "I can see your voice fr _1" "Unlocked _1" # 4
+"Koh-lanta _27" "Post mortem _1" "Josephine ange gardien _24" "Slam dance _1" # 3
+"Bite me _1" "7project _1" "The yearbook _1" "Siew sum noi _1" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" # 2
+"The voice finland _11" "Qforce _1" # 1
+"" # 0
 )  
 
 
 # nb bis
-list99=( "Unbag _1" "Bt21 original story _1" "My vampire boyfriend _1" # >= 200
-"Agt _16" "Survivor au _8" "Lego masters _2" "Survivor au _5" "46 days _1" # 199-100
-"Survivor sa _8" "Vincenzo _1" "The harvest season _1" "From dusk till dawn _2" # 99-50
+list99=( "Unbag _1" "Bt21 original story _1" "Agt _16" "My vampire boyfriend _1" # >= 200
+"Lego masters _2" "Survivor au _5" "46 days _1" "Survivor sa _8" # 199-100
+"Vincenzo _1" "The harvest season _1" "From dusk till dawn _2" "Dont say no _1" # 99-50
 "" # 49-40
-"Dont say no _1" "Koishite akuma _1" "Be love _1" "Drag race nl _2" # 39-30
-"Elite _4" "" # 29-20
-"Camping paradis _12" "Schools out lets date now _1" "Peach of time _1" "You never eat alone _1" "The good doctor _4" "Aggretsuko _3" "Good singers _1" "Ahs _10" # 19-15
-"Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Glow up _2" "Tokyo ghoul _3" "Control z _2" "The shipper _1" "Zombie detective _1" # 14-10
-"Koh-lanta _27" "I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9
-"Unlocked _1" "The untamed _1" "" # 8
+"Peach of time _1" "Drag race nl _2" "The good doctor _4" "Elite _4" "Koishite akuma _1" "Be love _1" # 39-30
+"Ahs _10" "Camping paradis _12" "" # 29-20
+"Survivor _8" "Schools out lets date now _1" "You never eat alone _1" "Aggretsuko _3" "Good singers _1" # 19-15
+"Dark blue kiss _1" "Vwars _1" "Bt21 vlog _1" "Wabi show _1" "Glow up _2" "Tokyo ghoul _3" "The circle us _3" "7project _1" "Koh-lanta _27" "Control z _2" "The shipper _1" "Zombie detective _1" # 14-10
+"I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9
+"Bite me _1" "Unlocked _1" "The untamed _1" "" # 8
 "Young royals _1" "Tien bromance _1" "" # 7
-"7project _1" "The yearbook _1" "Slam dance _1" "" # 6
-"Bite me _1" "Post mortem _1" "Josephine ange gardien _24" "Siew sum noi _1" "An eye for an eye _1" "Tbbt _11" "" # 5
-"Bangkok love stories innocence _1" "" # 4
-"Survivor _8" "" # 3
-"" # 2
-"Qforce _1" "" # 1
+"Lucifer _4" "Qforce _1" "The yearbook _1" "Slam dance _1" "" # 6
+"Post mortem _1" "Josephine ange gardien _24" "Siew sum noi _1" "An eye for an eye _1" "Tbbt _11" "" # 5
+"The voice finland _11" "The voice senior nl _4" "Bangkok love stories innocence _1" "" # 4
+"" # 3
+"Earthmix space _1" "" # 2
+"The voice _11" "" # 1
 "" # 0
 )
 

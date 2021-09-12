@@ -94,6 +94,7 @@
 |A DEPLACER|||||<!--  -->
 |young royals 1||6|||<!--  -->
 |DR NL 2||10|||<!--  -->
+|RPDRUK 3||?|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -224,21 +225,22 @@
 |wheel of love 1|weekend to remember|8|serie|philippines|       <!-- 112 -->
 |he's coming to me|he's coming to me|8|serie|thailande|         <!-- 113 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon|     <!-- 114 -->
-|fish upon the sky|fish upon the sky|12|serie|thailande|     <!-- 115 -->
+|fish upon the sky|fish upon the sky|12|serie|thailande|      <!-- 115 -->
 |precise shot|precise shot|20|serie|taiwan|                   <!-- 116 -->
 |tharnType 2|tharnType 7 years of love|13|serie|thailande|    <!-- 117 -->
 |sweet curse|sweet curse|1|short|corée|                       <!-- 118 -->
-|ydestiny|ydestiny|15|serie|thailande|                       <!-- 119 -->
+|ydestiny|ydestiny|15|serie|thailande|                        <!-- 119 -->
 |pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 120 -->
 |nitiman|nitiman|10|serie|thailande|                          <!-- 121 -->
-|love in time|love in time|9|serie(***)|hong kong|            <!-- 123 -->
-|the best story|the best story|3|serie|thailande|             <!-- 124 -->
-|stuck on you|stuck on you|8|serie|philippines|               <!-- 35 -->
-|golden blood|golden blood|8|serie|thailande|                 <!-- 37 -->
-|light on me|light on me|16|serie|corée|                      <!-- 38 -->
-|given 2021|given 2021|6|serie|japon|                         <!-- 40 -->
-|friend or lover|friend or lover|5|serie|taiwan|              <!-- 122 -->
-|we are not human|we are not human|24|serie|chine|           <!-- 1 -->
+|love in time|love in time|9|serie(***)|hong kong|            <!-- 122 -->
+|the best story|the best story|3|serie|thailande|             <!-- 123 -->
+|stuck on you|stuck on you|8|serie|philippines|               <!-- 124 -->
+|golden blood|golden blood|8|serie|thailande|                 <!-- 125 -->
+|light on me|light on me|16|serie|corée|                      <!-- 126 -->
+|given 2021|given 2021|6|serie|japon|                         <!-- 127 -->
+|friend or lover|friend or lover|5|serie|taiwan|              <!-- 128 -->
+|we are not human|we are not human(***)|24|serie|chine|            <!-- 129 -->
+||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -280,13 +282,13 @@
 |an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 31 -->
 |dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 32 -->
 |siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 33 -->
-|don't say no|don't say no|13|serie|thailande|4|                <!-- 34 -->
+|don't say no|don't say no|13|serie|thailande|6|                <!-- 34 -->
 |46 days|46 days|18|serie(**)|thailande|6|                      <!-- 35 -->
 |the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
-|bite me|bite me|?|serie|thailande|1|                           <!-- 37 -->
-|peach of time|peach of time|10|serie|corée-thailande|3|        <!-- 38 -->
-|7 project|7project|7|serie|thailande|1|                        <!-- 39 -->
-|||||||<!--  -->
+|bite me|bite me|?|serie|thailande|2|                           <!-- 37 -->
+|peach of time|peach of time|10|serie|corée-thailande|5|        <!-- 38 -->
+|7 project|7project|7|serie|thailande|2|                        <!-- 39 -->
+|EMS|earth mix space|?|show|thailande|1|                        <!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

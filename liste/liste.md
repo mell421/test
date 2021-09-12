@@ -430,6 +430,7 @@
 |Survivor 7||15|||<!--  -->
 |The masked singer nz 1||11|||<!--  -->
 |the voice au 10||13|||<!--  -->
+|survivor au 8||24|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -579,7 +580,6 @@
 |glow up 2||10|||1|<!--  -->
 |josephine ange gardien 24||6|||1|<!--  -->
 |survivor au 5||25||||<!--  -->
-|survivor au 8||25||||<!--  -->
 |survivor sa 8||14||||<!--  -->
 |Control z 2||6||||<!--  -->
 |drag race nl 2||?|||0|<!--  -->
@@ -592,6 +592,11 @@
 |7project||7||||<!--  -->
 |Qforce||10||||<!--  -->
 |survivor 8||17||||<!--  -->
+|the circle us 3||13||||<!--  -->
+|the voice senior nl 4||4||||<!--  -->
+|the voice finland 11||?||||<!--  -->
+|EMS earth mix space 1||?||||<!--  -->
+|the voice 11||7||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

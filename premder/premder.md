@@ -28,7 +28,6 @@ Lego masters 2x10
 * 7project 1x1
 Peach of time 1x3
 Koh-lanta 27x2
-Survivor au 8x20
 Camping paradis 12x4
 * Peach of time 1x1
 Aggretsuko 3x6
@@ -55,7 +54,6 @@ Control z 2x2
 Glow up 2x2
 * Survivor sa 8x1
 Bt21 original story 1x10
-* Survivor au 8x1
 * Survivor au 5x1
 Josephine ange gardien 24x1
 * Glow up 2x1
