@@ -24,7 +24,6 @@ Papa and daddy 1x1
 * $
 $
 Agt 16x15
-Lego masters 2x10
 * 7project 1x1
 Peach of time 1x3
 Koh-lanta 27x2
@@ -65,7 +64,6 @@ Zombie detective 1x2
 Elite 4x3
 * Elite 4x1
 Dark blue kiss 1x2
-* Lego masters 2x1
 Vincenzo 1x2
 * Vincenzo 1x1
 * Agt 16x1
