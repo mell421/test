@@ -117,11 +117,11 @@ Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young r
 #### sem 26-07-2021 
 /46 days _1x7(2) Unbag _1x27(1) Survivor au _5x10(5) Camping paradis _12x4(1) 
 #### sem 02-08-2021 
-Survivor sa _8x2(1) Bt21 original story _1x11(1) Survivor au _5x11(1) 
+Bt21 original story _1x11(1) Survivor au _5x11(1) 
 #### sem 09-08-2021 
-Good singers _1x5(1) Dont say no _1x2(1) Drag race nl _2x2(1) Unbag _1x28(1) Survivor sa _8x5(3) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+Good singers _1x5(1) Dont say no _1x2(1) Drag race nl _2x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 #### sem 16-08-2021 
-Survivor au _5x12(1) Survivor sa _8x7(2) Dont say no _1x3(1) Drag race nl _2x3(1) 
+Survivor au _5x12(1) Dont say no _1x3(1) Drag race nl _2x3(1) 
 #### sem 23-08-2021 
 Dont say no _1x4(1) From dusk till dawn _2x5(1) Drag race nl _2x4(1) Unbag _1x29(1) 
 
@@ -370,13 +370,13 @@ Bt21 original story _1x11(1) Survivor au _5x11(10) /46 days _1x7(6) Unbag _1x27(
 * conclu 31/07/21 = Unbag _1 > 6; Bt21 original story _1 > 3; Survivor au _5 > 3; 
 * conclu 01/08/21 = Unbag _1 > 6; Bt21 original story _1 > 3; Survivor au _5 > 3; 
 * conclu 02/08/21 = Unbag _1 > 6; Bt21 original story _1 > 3; Survivor au _5 > 3; 
-* conclu 03/08/21 = Unbag _1 > 6; Bt21 original story _1 > 3; Survivor au _5 > 3; Survivor sa _8 > 1; 
+* conclu 03/08/21 = Unbag _1 > 6; Bt21 original story _1 > 3; Survivor au _5 > 3; 
 * conclu 04/08/21 = Unbag _1 > 6; Survivor au _5 > 3; Bt21 original story _1 > 1; 
-* conclu 05/08/21 = Unbag _1 > 6; Survivor au _5 > 3; Survivor sa _8 > 2; Bt21 original story _1 > 1; 
-* conclu 06/08/21 = Unbag _1 > 6; Survivor au _5 > 3; Bt21 original story _1 > 1; Survivor sa _8 > 1; 
-* conclu 07/08/21 = Unbag _1 > 6; Survivor au _5 > 3; Bt21 original story _1 > 1; Survivor sa _8 > 1; 
-* conclu 08/08/21 = Unbag _1 > 6; Survivor au _5 > 2; Survivor sa _8 > 1; 
-* conclu 09/08/21 = Unbag _1 > 6; Survivor au _5 > 1; Survivor sa _8 > 1; 
+* conclu 05/08/21 = Unbag _1 > 6; Survivor au _5 > 3; Bt21 original story _1 > 1; 
+* conclu 06/08/21 = Unbag _1 > 6; Survivor au _5 > 3; Bt21 original story _1 > 1; 
+* conclu 07/08/21 = Unbag _1 > 6; Survivor au _5 > 3; Bt21 original story _1 > 1; 
+* conclu 08/08/21 = Unbag _1 > 6; Survivor au _5 > 2; 
+* conclu 09/08/21 = Unbag _1 > 6; Survivor au _5 > 1; 
 * conclu 10/08/21 = Unbag _1 > 6; Survivor au _5 > 2; 
 * conclu 11/08/21 = Unbag _1 > 6; Survivor au _5 > 2; Control z _2 > 1; 
 * conclu 12/08/21 = Unbag _1 > 6; Survivor au _5 > 2; 
@@ -387,13 +387,13 @@ Bt21 original story _1x11(1) Survivor au _5x11(10) /46 days _1x7(6) Unbag _1x27(
 * conclu 17/08/21 = Unbag _1 > 6; 
 * conclu 18/08/21 = Unbag _1 > 6; 
 * conclu 19/08/21 = Unbag _1 > 6; 
-* conclu 20/08/21 = Unbag _1 > 6; Survivor sa _8 > 1; 
-* conclu 21/08/21 = Unbag _1 > 6; Survivor sa _8 > 1; 
-* conclu 22/08/21 = Unbag _1 > 6; Survivor sa _8 > 1; 
-* conclu 23/08/21 = Unbag _1 > 6; Survivor sa _8 > 1; 
-* conclu 24/08/21 = Unbag _1 > 6; Survivor sa _8 > 1; 
-* conclu 25/08/21 = Unbag _1 > 6; Survivor sa _8 > 1; 
-* conclu 26/08/21 = Unbag _1 > 6; Survivor sa _8 > 1; 
+* conclu 20/08/21 = Unbag _1 > 6; 
+* conclu 21/08/21 = Unbag _1 > 6; 
+* conclu 22/08/21 = Unbag _1 > 6; 
+* conclu 23/08/21 = Unbag _1 > 6; 
+* conclu 24/08/21 = Unbag _1 > 6; 
+* conclu 25/08/21 = Unbag _1 > 6; 
+* conclu 26/08/21 = Unbag _1 > 6; 
 
 
 
@@ -618,31 +618,31 @@ The harvest season _1 > 4; Wabi show _1 > 3; Unbag _1 > 2;
 * concluBis 30/07/21 = Unbag _1 > 10; Survivor au _5 > 8; Forever knight _1 > 2; Bt21 original story _1 > 1; /46 days _1 > 1; Imortal _1 > 1; 
 * concluBis 31/07/21 = Unbag _1 > 10; Bt21 original story _1 > 8; Survivor au _5 > 7; /46 days _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 01/08/21 = Unbag _1 > 10; Bt21 original story _1 > 7; Survivor au _5 > 7; /46 days _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 02/08/21 = Unbag _1 > 10; Bt21 original story _1 > 7; Survivor au _5 > 7; Forever knight _1 > 2; /46 days _1 > 1; Survivor sa _8 > 1; Imortal _1 > 1; 
-* concluBis 03/08/21 = Unbag _1 > 10; Bt21 original story _1 > 7; Survivor au _5 > 7; Survivor sa _8 > 3; Forever knight _1 > 2; /46 days _1 > 1; Imortal _1 > 1; 
-* concluBis 04/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Bt21 original story _1 > 5; Survivor sa _8 > 2; /46 days _1 > 1; Forever knight _1 > 1; 
-* concluBis 05/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Bt21 original story _1 > 5; Survivor sa _8 > 4; /46 days _1 > 1; Control z _2 > 1; Forever knight _1 > 1; 
-* concluBis 06/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Bt21 original story _1 > 5; Survivor sa _8 > 3; /46 days _1 > 1; Forever knight _1 > 1; 
-* concluBis 07/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Bt21 original story _1 > 5; Survivor sa _8 > 3; Forever knight _1 > 1; 
-* concluBis 08/08/21 = Unbag _1 > 10; Survivor au _5 > 5; Bt21 original story _1 > 4; Survivor sa _8 > 3; Forever knight _1 > 1; 
-* concluBis 09/08/21 = Unbag _1 > 10; Bt21 original story _1 > 3; Survivor au _5 > 3; Survivor sa _8 > 3; Control z _2 > 1; Forever knight _1 > 1; 
+* concluBis 02/08/21 = Unbag _1 > 10; Bt21 original story _1 > 7; Survivor au _5 > 7; Forever knight _1 > 2; /46 days _1 > 1; Imortal _1 > 1; 
+* concluBis 03/08/21 = Unbag _1 > 10; Bt21 original story _1 > 7; Survivor au _5 > 7; Forever knight _1 > 2; /46 days _1 > 1; Imortal _1 > 1; 
+* concluBis 04/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Bt21 original story _1 > 5; /46 days _1 > 1; Forever knight _1 > 1; 
+* concluBis 05/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Bt21 original story _1 > 5; /46 days _1 > 1; Control z _2 > 1; Forever knight _1 > 1; 
+* concluBis 06/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Bt21 original story _1 > 5; /46 days _1 > 1; Forever knight _1 > 1; 
+* concluBis 07/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Bt21 original story _1 > 5; Forever knight _1 > 1; 
+* concluBis 08/08/21 = Unbag _1 > 10; Survivor au _5 > 5; Bt21 original story _1 > 4; Forever knight _1 > 1; 
+* concluBis 09/08/21 = Unbag _1 > 10; Bt21 original story _1 > 3; Survivor au _5 > 3; Control z _2 > 1; Forever knight _1 > 1; 
 * concluBis 10/08/21 = Unbag _1 > 10; Survivor au _5 > 5; Bt21 original story _1 > 3; Control z _2 > 2; /46 days _1 > 1; 
 * concluBis 11/08/21 = Unbag _1 > 10; Survivor au _5 > 5; Bt21 original story _1 > 3; Control z _2 > 3; /46 days _1 > 1; 
 * concluBis 12/08/21 = Unbag _1 > 10; Survivor au _5 > 4; Bt21 original story _1 > 1; /46 days _1 > 1; 
 * concluBis 13/08/21 = Unbag _1 > 10; Survivor au _5 > 4; Bt21 original story _1 > 1; 
 * concluBis 14/08/21 = Unbag _1 > 10; Survivor au _5 > 4; Bt21 original story _1 > 1; 
-* concluBis 15/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Survivor sa _8 > 2; 
-* concluBis 16/08/21 = Unbag _1 > 10; Survivor au _5 > 7; Survivor sa _8 > 3; 
-* concluBis 17/08/21 = Unbag _1 > 10; Survivor au _5 > 5; Survivor sa _8 > 2; 
-* concluBis 18/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Survivor sa _8 > 1; 
-* concluBis 19/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Survivor sa _8 > 1; 
-* concluBis 20/08/21 = Unbag _1 > 10; Survivor sa _8 > 4; Survivor au _5 > 3; 
-* concluBis 21/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Survivor sa _8 > 3; 
-* concluBis 22/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Survivor sa _8 > 3; 
-* concluBis 23/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Survivor sa _8 > 3; Dont say no _1 > 1; 
-* concluBis 24/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Survivor sa _8 > 3; From dusk till dawn _2 > 1; 
-* concluBis 25/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Survivor sa _8 > 3; From dusk till dawn _2 > 1; 
-* concluBis 26/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Survivor sa _8 > 3; Aggretsuko _3 > 2; Post mortem _1 > 1; 
+* concluBis 15/08/21 = Unbag _1 > 10; Survivor au _5 > 7; 
+* concluBis 16/08/21 = Unbag _1 > 10; Survivor au _5 > 7; 
+* concluBis 17/08/21 = Unbag _1 > 10; Survivor au _5 > 5; 
+* concluBis 18/08/21 = Unbag _1 > 10; Survivor au _5 > 3; 
+* concluBis 19/08/21 = Unbag _1 > 10; Survivor au _5 > 3; 
+* concluBis 20/08/21 = Unbag _1 > 10; Survivor au _5 > 3; 
+* concluBis 21/08/21 = Unbag _1 > 10; Survivor au _5 > 3; 
+* concluBis 22/08/21 = Unbag _1 > 10; Survivor au _5 > 3; 
+* concluBis 23/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Dont say no _1 > 1; 
+* concluBis 24/08/21 = Unbag _1 > 10; Survivor au _5 > 3; From dusk till dawn _2 > 1; 
+* concluBis 25/08/21 = Unbag _1 > 10; Survivor au _5 > 3; From dusk till dawn _2 > 1; 
+* concluBis 26/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Aggretsuko _3 > 2; Post mortem _1 > 1; 
 
 
 
