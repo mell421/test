@@ -23,7 +23,6 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
-Agt 16x15
 * 7project 1x1
 Peach of time 1x3
 Koh-lanta 27x2
@@ -66,7 +65,6 @@ Elite 4x3
 Dark blue kiss 1x2
 Vincenzo 1x2
 * Vincenzo 1x1
-* Agt 16x1
 * Dark blue kiss 1x1
 * An eye for an eye 1x1
 I can see your voice fr 1x2

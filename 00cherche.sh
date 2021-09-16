@@ -3,7 +3,7 @@
 ./0date.sh
 ./0supprZ.sh
 
-list=( "Unbag _1" "Bt21 original story _1" "Agt _16" # >= 100
+list=( "Unbag _1" "Bt21 original story _1" # >= 100
 "Survivor au _5" "Survivor sa _8" "" # 99 - 50
 "/46 days _1" # 49 - 40
 "" # 39 - 30
@@ -24,7 +24,7 @@ list=( "Unbag _1" "Bt21 original story _1" "Agt _16" # >= 100
 
 
 # nb bis
-list99=( "Unbag _1" "Bt21 original story _1" "Agt _16" "My vampire boyfriend _1" # >= 200
+list99=( "Unbag _1" "Bt21 original story _1" "My vampire boyfriend _1" # >= 200
 "Survivor au _5" "46 days _1" "Survivor sa _8" # 199-100
 "Vincenzo _1" "The harvest season _1" "From dusk till dawn _2" "Dont say no _1" # 99-50
 "" # 49-40
