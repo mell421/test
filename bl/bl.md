@@ -240,7 +240,7 @@
 |given 2021|given 2021|6|serie|japon|                         <!-- 127 -->
 |friend or lover|friend or lover|5|serie|taiwan|              <!-- 128 -->
 |we are not human|we are not human(***)|24|serie|chine|            <!-- 129 -->
-||||||<!--  -->
+|Squid game|squid game|9|serie(***)|corée|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
