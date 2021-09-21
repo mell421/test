@@ -436,6 +436,7 @@
 |AGT 16||20|||<!--  -->
 |survivor sa 8||16|||<!--  -->
 |Squid game 1||9|serie|corée|<!--  -->
+|aggretsuko 3||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -531,7 +532,6 @@
 |you 1|||||2|<!--  -->
 |so much in love|so much in love|12|serie|thailande|2|<!-- 6 -->
 |blacklist|blacklist|13|serie(**)|thailande|1|<!-- 8 -->
-|aggretsuko 3|||||3|<!--  -->
 |unbag|unbag|?|show|thailande|13|<!-- 9 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!-- 10 -->
 |baby 3|||||1|<!--  -->

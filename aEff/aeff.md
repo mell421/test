@@ -610,7 +610,7 @@
 - 23/08/21 - 278* dont say no _1{3} from dusk till dawn _2{16} drag race nl _2{3} 
 - 24/08/21 - 284* from dusk till dawn _2{16} dont say no _1{4} drag race nl _2{3} 
 - 25/08/21 - 284* koh-lanta _27{0} from dusk till dawn _2{17} dont say no _1{4} drag race nl _2{3} 
-- 26/08/21 - 249* the good doctor _4{2} aggretsuko _3{4} post mortem _1{0} koh-lanta _27{0} from dusk till dawn _2{18} dont say no _1{4} 
+- 26/08/21 - 249* the good doctor _4{2} post mortem _1{0} koh-lanta _27{0} from dusk till dawn _2{18} dont say no _1{4} 
 
 
 

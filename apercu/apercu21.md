@@ -642,7 +642,7 @@ The harvest season _1 > 4; Wabi show _1 > 3; Unbag _1 > 2;
 * concluBis 23/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Dont say no _1 > 1; 
 * concluBis 24/08/21 = Unbag _1 > 10; Survivor au _5 > 3; From dusk till dawn _2 > 1; 
 * concluBis 25/08/21 = Unbag _1 > 10; Survivor au _5 > 3; From dusk till dawn _2 > 1; 
-* concluBis 26/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Aggretsuko _3 > 2; Post mortem _1 > 1; 
+* concluBis 26/08/21 = Unbag _1 > 10; Survivor au _5 > 3; Post mortem _1 > 1; 
 
 
 

@@ -28,7 +28,6 @@ Peach of time 1x3
 Koh-lanta 27x2
 Camping paradis 12x4
 * Peach of time 1x1
-Aggretsuko 3x6
 * Bite me 1x1
 Dont say no 1x4
 * The yearbook 1x1
@@ -129,7 +128,6 @@ Quien es la mascara 2x2
 * Baby 3x1
 * My dear loser edge of 17 1x1
 * Unbag 1x1
-* Aggretsuko 3x1
 So much in love 1x2
 * Blacklist series 1x1
 * So much in love 1x1
