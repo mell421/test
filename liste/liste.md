@@ -437,6 +437,7 @@
 |survivor sa 8||16|||<!--  -->
 |Squid game 1||9|serie|corée|<!--  -->
 |aggretsuko 3||10|||<!--  -->
+|drag race nl 2||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -585,7 +586,6 @@
 |josephine ange gardien 24||6|||1|<!--  -->
 |survivor au 5||25||||<!--  -->
 |Control z 2||6||||<!--  -->
-|drag race nl 2||?|||0|<!--  -->
 |KL 27||?||||<!--  -->
 |post mortem 1||6||||<!--  -->
 |AHS 10||10||||<!--  -->

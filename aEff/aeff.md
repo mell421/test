@@ -591,25 +591,25 @@
 - 04/08/21 - 302* /46 days _1{38} glow up _2{3} bt21 original story _1{86} 
 - 05/08/21 - 206* control z _2{0} /46 days _1{39} glow up _2{3} 
 - 06/08/21 - 716* unbag _1{460} control z _2{1} /46 days _1{40} 
-- 07/08/21 - 650* dont say no _1{0} drag race nl _2{0} unbag _1{462} control z _2{1} 
-- 08/08/21 - 660* good singers _1{6} dont say no _1{0} drag race nl _2{0} unbag _1{464} 
-- 09/08/21 - 708* good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{467} 
-- 10/08/21 - 708* good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{469} 
-- 11/08/21 - 716* good singers _1{7} dont say no _1{1} drag race nl _2{1} unbag _1{471} 
-- 12/08/21 - 237* good singers _1{7} dont say no _1{1} drag race nl _2{1} 
+- 07/08/21 - 650* dont say no _1{0} unbag _1{462} control z _2{1} 
+- 08/08/21 - 660* good singers _1{6} dont say no _1{0} unbag _1{464} 
+- 09/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{467} 
+- 10/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{469} 
+- 11/08/21 - 716* good singers _1{7} dont say no _1{1} unbag _1{471} 
+- 12/08/21 - 237* good singers _1{7} dont say no _1{1} 
 - 13/08/21 - 329* 
-- 14/08/21 - 274* dont say no _1{1} drag race nl _2{1} 
-- 15/08/21 - 298* survivor au _5{60} dont say no _1{1} drag race nl _2{1} 
-- 16/08/21 - 311* survivor au _5{63} dont say no _1{2} drag race nl _2{2} 
-- 17/08/21 - 352* survivor au _5{65} dont say no _1{2} drag race nl _2{2} 
-- 18/08/21 - 354* survivor au _5{66} dont say no _1{2} drag race nl _2{2} 
-- 19/08/21 - 401* survivor au _5{67} dont say no _1{2} drag race nl _2{2} 
+- 14/08/21 - 274* dont say no _1{1} 
+- 15/08/21 - 298* survivor au _5{60} dont say no _1{1} 
+- 16/08/21 - 311* survivor au _5{63} dont say no _1{2} 
+- 17/08/21 - 352* survivor au _5{65} dont say no _1{2} 
+- 18/08/21 - 354* survivor au _5{66} dont say no _1{2} 
+- 19/08/21 - 401* survivor au _5{67} dont say no _1{2} 
 - 20/08/21 - 860* unbag _1{489} survivor au _5{68} 
-- 21/08/21 - 833* drag race nl _2{2} unbag _1{491} survivor au _5{69} 
-- 22/08/21 - 780* from dusk till dawn _2{15} drag race nl _2{2} unbag _1{493} 
-- 23/08/21 - 278* dont say no _1{3} from dusk till dawn _2{16} drag race nl _2{3} 
-- 24/08/21 - 284* from dusk till dawn _2{16} dont say no _1{4} drag race nl _2{3} 
-- 25/08/21 - 284* koh-lanta _27{0} from dusk till dawn _2{17} dont say no _1{4} drag race nl _2{3} 
+- 21/08/21 - 833* unbag _1{491} survivor au _5{69} 
+- 22/08/21 - 780* from dusk till dawn _2{15} unbag _1{493} 
+- 23/08/21 - 278* dont say no _1{3} from dusk till dawn _2{16} 
+- 24/08/21 - 284* from dusk till dawn _2{16} dont say no _1{4} 
+- 25/08/21 - 284* koh-lanta _27{0} from dusk till dawn _2{17} dont say no _1{4} 
 - 26/08/21 - 249* the good doctor _4{2} post mortem _1{0} koh-lanta _27{0} from dusk till dawn _2{18} dont say no _1{4} 
 
 

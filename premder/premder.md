@@ -31,7 +31,6 @@ Camping paradis 12x4
 * Bite me 1x1
 Dont say no 1x4
 * The yearbook 1x1
-Drag race nl 2x4
 Ahs 10x2
 * Ahs 10x1
 The good doctor 4x2
@@ -43,7 +42,6 @@ Unbag 1x28
 Survivor au 5x11
 Good singers 1x4
 * Dont say no 1x1
-* Drag race nl 2x1
 Control z 2x2
 * Control z 2x1
 /46 days 1x7

@@ -398,11 +398,11 @@ Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young r
 #### sem 02-08-2021 
 Bt21 original story _1x11(1) Survivor au _5x11(1) 
 #### sem 09-08-2021 
-Good singers _1x5(1) Dont say no _1x2(1) Drag race nl _2x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 #### sem 16-08-2021 
-Survivor au _5x12(1) Dont say no _1x3(1) Drag race nl _2x3(1) 
+Survivor au _5x12(1) Dont say no _1x3(1) 
 #### sem 23-08-2021 
-Dont say no _1x4(1) From dusk till dawn _2x5(1) Drag race nl _2x4(1) Unbag _1x29(1) 
+Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
 
 
 
