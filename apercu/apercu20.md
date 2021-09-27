@@ -90,9 +90,7 @@ Shameless _5x2(1) Only connect _15x17(2) Ex on the beach us _4x2(1) Sex educatio
 #### sem 03-02-2020 
 The masked singer nl _1x2(1) Ragnarok _1x2(1) Only connect _15x20(1) Orange marmelade _1x7(1) Gossip girl _1x8(1) 
 #### sem 10-02-2020 
-Next in fashion _1x2(1) 
 #### sem 17-02-2020 
-
 #### sem 24-02-2020 
 /3% _3x4(1) Imortal _1x11(4) Only connect _15x22(2) 
 #### sem 02-03-2020 
@@ -189,7 +187,7 @@ Zerosterone _1x5(4) Supergirl _1x10(2) Imortal _1x7(6) La guerre des mondes bbc 
 #### mois 01-02-2020 
 Ragnarok _1x2(1) Only connect _15x20(3) Orange marmelade _1x7(1) Gossip girl _1x8(1) Shameless _5x2(1) Ex on the beach us _4x2(1) Sex education _2x4(3) Dark _1x6(1) Forever knight _1x9(1) Blood _1x16(1) Aj and the queen _1x2(1) Soundtrack _1x2(1) 
 #### mois 01-03-2020 
-Ninja warrior junior us _2x2(1) Jeopardy _32x159(2) I am not okay with this _1x2(1) Ragnarok _1x3(2) /3% _3x4(1) Imortal _1x11(4) Only connect _15x22(2) Next in fashion _1x2(1) The masked singer nl _1x2(1) 
+Ninja warrior junior us _2x2(1) Jeopardy _32x159(2) I am not okay with this _1x2(1) Ragnarok _1x3(2) /3% _3x4(1) Imortal _1x11(4) Only connect _15x22(2) The masked singer nl _1x2(1) 
 #### mois 01-04-2020 
 Ninja warrior junior us _2x7(5) Why women kill _1x3(2) Les ratz _1x2(1) Dare me _1x2(1) Vwars _1x6(2) Prodigal son _1x5(2) Kingdom _2x2(1) Only connect _15x24(2) Breaking bad _4x8(1) I am not okay with this _1x4(2) Castlevania _3x2(1) 
 #### mois 01-05-2020 

@@ -438,6 +438,7 @@
 |Squid game 1||9|serie|corée|<!--  -->
 |aggretsuko 3||10|||<!--  -->
 |drag race nl 2||8|||<!--  -->
+|next in fashion 1||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -486,7 +487,6 @@
 |orange marmelade 1|||||6|<!--  -->
 |ragnarok 1|||||2|<!--  -->
 |TMS NL 1||||||<!--  -->
-|next in fashion 1||||||<!--  -->
 |3% 3|||||3|<!--  -->
 |IANOWT 1|||||3|<!--  -->
 |ninja warrior junior us 2|||||7|<!--  -->
@@ -600,6 +600,26 @@
 |the voice finland 11||?||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->
 |the voice 11||7||||<!--  -->
+|the masked singer au 3||?||||<!--  -->
+|dals 11||?||||<!--  -->
+|see you after quarantine 1||10||||<!--  -->
+|alice in borderland 1||8||||<!--  -->
+|the voice bulgarie 8||?||||<!--  -->
+|Strictly come dancing 19||?||||<!--  -->
+|the voice esp 8||?||||<!--  -->
+|/9-1-1 5||18||||<!--  -->
+|DWTS 30||?||||<!--  -->
+|the voice us 21||?||||<!--  -->
+|the big leap 1||10||||<!--  -->
+|la mas draga 4||10||||<!--  -->
+|the masked singer 6||?||||<!--  -->
+|survivor 41||12||||<!--  -->
+|alter ego 1||10||||<!--  -->
+|rpdruk 3||10||||<!--  -->
+|the tasty florida 1||8||||<!--  -->
+|goblin 1||16||||<!--  -->
+|the voice greece 8||?||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -613,17 +633,19 @@
 | --- | --- | :---: | --- | --- | --- |
 |bad buddy 1||12|||0|<!--  -->
 |q-force 1||?|||0|<!--  -->
-|dwts 30||?|||0|<!--  -->
-|the voice us 21||?|||0|<!--  -->
-|survivor 41||?|||0|<!--  -->
-|drag race uk 3||?|||0|<!--  -->
 |young sheldon 5||?|||0|<!--  -->
 |dexter 9||?|||0|<!--  -->
 |queen of the universe 1||6|||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
+|the voice ger 11|||||0|<!--  -->
+|stalk 2|||||0|<!--  -->
+|drag race ca 2|||||0|<!--  -->
+|the masked singer ger 5|||||0|<!--  -->
+|dragula 4||||||<!--  -->
+|my sweet dear 1||||||<!--  -->
+|druck 7||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |love is science 1||?|||0|<!-- 27/3 -->
 |CIWYW 1||?|||0|<!-- 9/4 -->

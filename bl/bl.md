@@ -111,6 +111,9 @@
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
 |bite fight|bite fight|1|film|chine|                    <!-- 1 -->
+|kingdom|kingdom|6|serie(***)|corée|                    <!-- 1 -->
+|tokyo vampire hotel|tokyo vampire hotel|10|serie(***)|japon|                    <!-- 1 -->
+|Blackpink diaries|blackpink diaries|16|show|corée|                <!-- 2 -->
 |tharnType|tharnType|13|serie|thailande|                <!-- 2 -->
 |why r u|why r u|13|serie|thailande|                    <!-- 3 -->
 |sotus|sotus|16|serie|thailande|                        <!-- 4 -->
@@ -133,11 +136,11 @@
 |where your eyes linger|where your eyes linger|8|serie|corée|   <!-- 21 -->
 |my engineer summer trip|my engineer summer trip|3|show|thailande|  <!-- 22 -->
 |until we meet again|until we meet again|16|serie|thailande|        <!-- 23 -->
-|history1.2|history1 obsessed|4|serie|taiwan|                       <!-- 24 -->
+|history1.3|history1 stay away from me|4|serie|taiwan|              <!-- 28 -->
 |mr heart|mr heart|8|serie|corée|                                   <!-- 25 -->
 |en of love|en of love tossara|4|serie|thailande|                   <!-- 26 -->
 |red wine in the dark night|red wine in the dark night|1|film|thailande|    <!-- 27 -->
-|history1.3|history1 stay away from me|4|serie|taiwan|              <!-- 28 -->
+|history1.2|history1 obsessed|4|serie|taiwan|                       <!-- 24 -->
 |discipline|discipline|6|serie(*)|corée|                            <!-- 29 -->
 |en of love 2|en of love love mechanics|4|serie|thailande|          <!-- 30 -->
 |yyy 1.5|yyy special|3|serie|thailande|                             <!-- 31 -->
@@ -186,6 +189,7 @@
 |follow my sunshine|sau vat nang|5|serie|vietnam|               <!-- 74 -->
 |color rush|color rush|8|serie|corée|                           <!-- 75 -->
 |thonhon chonlathee|thonhon chonlathee|10|serie|thailande|      <!-- 76 -->
+|sweet home|sweet home|10|serie(***)|corée|      <!-- 76 -->
 |friend.ship with krist-singto|friend.ship with krist-singto|6+3|show|thailande|    <!-- 77 -->
 |to my star|to my star|9|serie|corée|                           <!-- 78 -->
 |we best love|we best love no1 for you|6|serie|taiwan|          <!-- 79 -->
@@ -212,7 +216,7 @@
 |my superboss|my superboss|30|serie(***)|thailande|             <!-- 99 -->
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée|   <!-- 100 -->
 |the sweet blood|the sweet blood|15|serie(***)|corée|           <!-- 101 -->
-|lovely writer|lovely writer|12|serie|thailande|                <!-- 102 -->
+|lovely writer|lovely writer|13|serie|thailande|                <!-- 102 -->
 |history4.1|history4 close to you|10|serie|taiwan|              <!-- 103 -->
 |close friend|close friend|6|serie|thailande|                   <!-- 104 -->
 |Kiss me again peteKao cut|Kiss me again peteKao cut|3|serie|thailande|   <!-- 105 -->
@@ -287,8 +291,12 @@
 |the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
 |bite me|bite me|?|serie|thailande|2|                           <!-- 37 -->
 |peach of time|peach of time|10|serie|corée-thailande|5|        <!-- 38 -->
-|7 project|7project|7|serie|thailande|2|                        <!-- 39 -->
+|7 project|7project|7|serie(bl/gl/het)|thailande|2|                        <!-- 39 -->
 |EMS|earth mix space|?|show|thailande|1|                        <!--  -->
+|see you after quarantine|see you after quarantine|10|serie|taiwan/japon|5|<!--  -->
+|Alice in borderland|alice in borderland|8|serie(**)|japon|1|<!--  -->
+|the tastt florida|the tasty florida|8|serie|corée|2|<!--  -->
+|goblin|goblin|16|serie(***)|corée|1|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

@@ -195,7 +195,6 @@ Jeopardy 32x158
 Ragnarok 1x2
 /3% 3x3
 Imortal 1x10
-* Next in fashion 1x1
 * The masked singer nl 1x1
 * Ragnarok 1x1
 Orange marmelade 1x6
