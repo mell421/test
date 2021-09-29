@@ -439,6 +439,7 @@
 |aggretsuko 3||10|||<!--  -->
 |drag race nl 2||8|||<!--  -->
 |next in fashion 1||10|||<!--  -->
+|the circle us 3||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -595,7 +596,6 @@
 |7project||7||||<!--  -->
 |Qforce||10||||<!--  -->
 |survivor 8||17||||<!--  -->
-|the circle us 3||13||||<!--  -->
 |the voice senior nl 4||4||||<!--  -->
 |the voice finland 11||?||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->

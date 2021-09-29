@@ -100,9 +100,9 @@
     - [sem 13-09-2021](#sem-13-09-2021)
     - [sem 20-09-2021](#sem-20-09-2021)
     - [sem 27-09-2021](#sem-27-09-2021)
+    - [sem 04-10-2021](#sem-04-10-2021)
+    - [sem 11-10-2021](#sem-11-10-2021)
     - [sem -10-2021](#sem--10-2021)
-    - [sem -10-2021](#sem--10-2021-1)
-    - [sem -10-2021](#sem--10-2021-2)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -621,9 +621,10 @@
 * Next in fashion _1
 * Drag race nl _2
 * Aggretsuko _3
-### sem -10-2021 
+### sem 04-10-2021 
 * *insererici*
-### sem -10-2021 
+* The circle us _3
+### sem 11-10-2021 
 * *insererici*
 ### sem -10-2021 
 * *insererici*
@@ -635,7 +636,7 @@
 * $ date de fin connue $
 * Monsters inside bm _1
 * Peach of time _1
-* The circle us _3
+* 
 * The voice senior nl _4
 * The masked singer au _3
 * See you after quarantine _1
@@ -772,7 +773,7 @@
 #### mois 01-09-2021 
 *Survivor _5 Drop _1 We are not human _1 Survivor _4 Koh-lanta _4 Koh-lanta _3 Koh-lanta _1 Rpdu _1 Survivor _3 Friend or lover _1 Given 2021 _1 Beat shazam _4 Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
 #### mois 01-10-2021 
-*insererici Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*
+*insererici The circle us _3 Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*
 #### mois 01-11-2021 
 *insererici*
 #### mois 01-12-2021 

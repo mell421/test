@@ -23,22 +23,73 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
+La mas draga 4x2
+The voice us 21x4
+Koh-lanta 27x5
+The masked singer au 3x8
+The voice greece 8x4
+* The voice greece 8x1
+* Goblin 1x1
+The voice bulgarie 8x3
+See you after quarantine 1x5
+Strictly come dancing 19x2
+The voice senior nl 4x4
+The voice finland 11x4
+The voice esp 8x2
+The voice 11x3
+Dont say no 1x8
+Sytycd 15x6
+Dals 11x2
+Earthmix space 1x2
+The tasty florida 1x2
+* The tasty florida 1x1
+Alter ego 1x2
+The masked singer 6x2
+* Rpdruk 3x1
+* Alter ego 1x1
+* Survivor 41x1
+Ahs 10x6
+* The masked singer 6x1
+The good doctor 4x10
+* La mas draga 4x1
+7project 1x4
+* The big leap 1x1
+* The voice us 21x1
+* Dwts 30x1
+* /9-1-1 5x1
+* The voice esp 8x1
+Post mortem 1x3
+* Strictly come dancing 19x1
+All for one 2x13
+* The voice bulgarie 8x1
+* Alice in borderland 1x1
+* See you after quarantine 1x1
+* Dals 11x1
+Unbag 1x30
+Peach of time 1x6
+Josephine ange gardien 24x2
+* The masked singer au 3x1
+Buffy 1x7
+* The voice 11x1
+* Earthmix space 1x1
+Lucifer 4x4
+* The voice finland 11x1
+Bite me 1x2
+* The voice senior nl 4x1
+Vwars 1x7
+Survivor 8x3
+* Survivor 8x1
+* Qforce 1x1
+Bt21 original story 1x11
 * 7project 1x1
-Peach of time 1x3
-Koh-lanta 27x2
 Camping paradis 12x4
 * Peach of time 1x1
 * Bite me 1x1
-Dont say no 1x4
 * The yearbook 1x1
-Ahs 10x2
 * Ahs 10x1
-The good doctor 4x2
-Post mortem 1x2
 * Post mortem 1x1
 * Koh-lanta 27x1
 From dusk till dawn 2x5
-Unbag 1x28
 Survivor au 5x11
 Good singers 1x4
 * Dont say no 1x1
@@ -46,9 +97,8 @@ Control z 2x2
 * Control z 2x1
 /46 days 1x7
 Glow up 2x2
-Bt21 original story 1x10
 * Survivor au 5x1
-Josephine ange gardien 24x1
+* Josephine ange gardien 24x1
 * Glow up 2x1
 Zombie detective 1x2
 * /46 days 1x1
@@ -134,7 +184,6 @@ You 1x2
 Long khong 1x4
 * Love alarm 1x1
 Phineas & ferb 1x32
-Lucifer 4x3
 * Alta mar 1x1
 * Into the night 1x1
 * Nailed it ger 1x1
@@ -163,13 +212,11 @@ Hollywood 1x2
 Les simpson 3x4
 * Les simpson 3x1
 * Penny dreadful city of angels 1x1
-Vwars 1x6
 Dark 1x7
 Ga 2x15
 Magic for humans 2x2
 * Port charles 1x1
 Ninja warrior junior us 2x7
-All for one 2x3
 Les ratz 1x4
 Les zinzins de lespace 1x4
 * Les zinzins de lespace 1x1
