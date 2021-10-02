@@ -34,7 +34,6 @@ The voice bulgarie 8x3
 See you after quarantine 1x5
 Strictly come dancing 19x2
 The voice senior nl 4x4
-The voice finland 11x4
 The voice esp 8x2
 The voice 11x3
 Dont say no 1x8
@@ -73,7 +72,6 @@ Buffy 1x7
 * The voice 11x1
 * Earthmix space 1x1
 Lucifer 4x4
-* The voice finland 11x1
 Bite me 1x2
 * The voice senior nl 4x1
 Vwars 1x7

@@ -18,7 +18,7 @@ list=( "Unbag _1" "Bt21 original story _1" # >= 100
 "Lucifer _4" "Young royals _1" "I can see your voice fr _1" "Unlocked _1" # 4
 "Koh-lanta _27" "Post mortem _1" "Josephine ange gardien _24" "Slam dance _1" # 3
 "Bite me _1" "7project _1" "The yearbook _1" "Siew sum noi _1" "An eye for an eye _1" "Bangkok love stories innocence _1" "Tbbt _11" # 2
-"The voice finland _11" "Qforce _1" # 1
+"Qforce _1" # 1
 "" # 0
 )  
 
@@ -37,7 +37,7 @@ list99=( "Unbag _1" "Bt21 original story _1" "My vampire boyfriend _1" # >= 200
 "Young royals _1" "Tien bromance _1" "" # 7
 "Lucifer _4" "Qforce _1" "The yearbook _1" "Slam dance _1" "" # 6
 "Post mortem _1" "Josephine ange gardien _24" "Siew sum noi _1" "An eye for an eye _1" "Tbbt _11" "" # 5
-"The voice finland _11" "The voice senior nl _4" "Bangkok love stories innocence _1" "" # 4
+"The voice senior nl _4" "Bangkok love stories innocence _1" "" # 4
 "" # 3
 "Earthmix space _1" "" # 2
 "The voice _11" "" # 1
