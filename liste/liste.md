@@ -441,6 +441,7 @@
 |next in fashion 1||10|||<!--  -->
 |the circle us 3||13|||<!--  -->
 |the voice finland 11||5|||<!--  -->
+|the masked singer au 3||11|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -600,7 +601,6 @@
 |the voice senior nl 4||4||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->
 |the voice 11||7||||<!--  -->
-|the masked singer au 3||?||||<!--  -->
 |dals 11||?||||<!--  -->
 |see you after quarantine 1||10||||<!--  -->
 |alice in borderland 1||8||||<!--  -->

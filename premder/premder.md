@@ -26,7 +26,6 @@ $
 La mas draga 4x2
 The voice us 21x4
 Koh-lanta 27x5
-The masked singer au 3x8
 The voice greece 8x4
 * The voice greece 8x1
 * Goblin 1x1
@@ -67,7 +66,6 @@ All for one 2x13
 Unbag 1x30
 Peach of time 1x6
 Josephine ange gardien 24x2
-* The masked singer au 3x1
 Buffy 1x7
 * The voice 11x1
 * Earthmix space 1x1

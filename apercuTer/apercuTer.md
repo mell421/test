@@ -627,6 +627,7 @@
 * The circle us _3
 ### sem 11-10-2021 
 * *insererici*
+* The masked singer au _3
 ### sem -10-2021 
 * *insererici*
 
@@ -639,7 +640,7 @@
 * Peach of time _1
 * 
 * The voice senior nl _4
-* The masked singer au _3
+* 
 * See you after quarantine _1
 * Stalk _2
 * 7project _1
@@ -776,7 +777,7 @@
 #### mois 01-10-2021 
 *insererici The circle us _3 Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*
 #### mois 01-11-2021 
-*insererici The voice finland _11*
+*insererici The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
 *insererici*
 
