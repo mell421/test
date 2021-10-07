@@ -8,7 +8,10 @@ output:
 ```{r setup, include = FALSE}
 suppressWarnings(source("./R/sources.R"))
 suppressWarnings(library(tidyverse))
+library(webshot)
+library("htmlwidgets")
 # knitr::opts_chunk$set(cache = TRUE)
+#webshot::install_phantomjs(force = TRUE)
 library(ggraph)
 library(tidygraph)
 library(dplyr)
@@ -88,13 +91,15 @@ tm <- function(text){
   
   dev.print(device = png, file = "accueil_2.png", width = 600)
   
-    wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","accueil_3.png", delay =5, vwidth = 700, vheight=700)
     
-  
 }
-
+# ![](./accueil_3.png)
 suppressWarnings(tm(text))
 ```
+
 
 ## en cours
 ```{r encours, echo=FALSE}
@@ -158,7 +163,9 @@ tm <- function(text){
   
   dev.print(device = png, file = "encours_2.png", width = 600)
   
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","encours_3.png", delay =5, vwidth = 700, vheight=700)
 
   # 
 }
@@ -228,7 +235,9 @@ tm <- function(text){
   
   # dev.print(device = png, file = "recent_2.png", width = 600)
   
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","recent_3.png", delay =5, vwidth = 700, vheight=700)
 
   # 
 }
@@ -298,7 +307,9 @@ tm <- function(text){
   
   # dev.print(device = png, file = "termine_2.png", width = 600)
   
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","termine_3.png", delay =5, vwidth = 700, vheight=700)
 
   # 
 }
@@ -360,7 +371,9 @@ main <- function(){
   
   dev.print(device = png, file = "copy_2.png", width=600)
 
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","copy_3.png", delay =5, vwidth = 700, vheight=700)
 
 }
 
@@ -421,7 +434,9 @@ main <- function(){
   
   #dev.print(device = png, file = "copy_2.png", width=600)
 
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","pageappres_3.png", delay =5, vwidth = 700, vheight=700)
 
 }
 
@@ -482,7 +497,9 @@ main <- function(){
   
   #dev.print(device = png, file = "copy_2.png", width=600)
 
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","pageappressup_3.png", delay =5, vwidth = 700, vheight=700)
 
 }
 
@@ -544,7 +561,9 @@ main <- function(){
   
   dev.print(device = png, file = "conclu_2.png", width = 600)
   
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","conclu_3.png", delay =5, vwidth = 700, vheight=700)
 
   
 
@@ -607,7 +626,9 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   dev.print(device = png, file = "conclubis_2.png", width = 600)
   
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","conclubis_3.png", delay =5, vwidth = 700, vheight=700)
 
   
 
@@ -670,7 +691,9 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
 dev.print(device = png, file = "sem_2.png", width = 600)
 
-      # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+      my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","sem_3.png", delay =5, vwidth = 700, vheight=700)
 
   
 
@@ -733,7 +756,9 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   dev.print(device = png, file = "mois_2.png", width=600)
   
-    # wordcloud2(data = dtm_d, color = "random-light",shape="circle",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","mois_3.png", delay =5, vwidth = 700, vheight=700)
 
   # 
 
@@ -799,7 +824,10 @@ main <- function(){
   # set.seed(1234)
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   dev.print(device = png, file = "max_2.png", width = 600)
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+  
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","max_3.png", delay =5, vwidth = 700, vheight=700)
 
   
 
@@ -866,7 +894,9 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   dev.print(device = png, file = "eff_2.png", width = 600)
   
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","eff_3.png", delay =5, vwidth = 700, vheight=700)
 
   # 
 
@@ -929,7 +959,9 @@ main <- function(){
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   dev.print(device = png, file = "resume_2.png", width = 600)
   
-    # wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
+    saveWidget(my_graph,"tmp.html",selfcontained = F)
+    webshot("tmp.html","resume_3.png", delay =5, vwidth = 700, vheight=700)
 
   # 
 
