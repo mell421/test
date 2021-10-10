@@ -443,6 +443,7 @@
 |the voice finland 11||5|||<!--  -->
 |the masked singer au 3||11|||<!--  -->
 |Sytycd 15||14|||<!--  -->
+|stalk 2||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -638,7 +639,6 @@
 |dexter 9||?|||0|<!--  -->
 |queen of the universe 1||6|||0|<!--  -->
 |the voice ger 11|||||0|<!--  -->
-|stalk 2|||||0|<!--  -->
 |drag race ca 2|||||0|<!--  -->
 |the masked singer ger 5|||||0|<!--  -->
 |dragula 4||||||<!--  -->
