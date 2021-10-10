@@ -36,7 +36,6 @@ The voice senior nl 4x4
 The voice esp 8x2
 The voice 11x3
 Dont say no 1x8
-Sytycd 15x6
 Dals 11x2
 Earthmix space 1x2
 The tasty florida 1x2
@@ -304,7 +303,6 @@ Light as a feather 1x6
 Nos4a2 1x3
 Doom patrol 1x4
 Rupaul show 1x5
-* Sytycd 15x1
 * Steven universe 1x1
 Explained 1x6
 * The voice germany 1x1

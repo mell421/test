@@ -89,7 +89,7 @@ tm <- function(text){
   
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   
-  dev.print(device = png, file = "accueil_2.png", width = 600)
+  #dev.print(device = png, file = "accueil_2.png", width = 600)
   
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -161,7 +161,7 @@ tm <- function(text){
   
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   
-  dev.print(device = png, file = "encours_2.png", width = 600)
+  #dev.print(device = png, file = "encours_2.png", width = 600)
   
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -233,7 +233,7 @@ tm <- function(text){
   
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   
-  # dev.print(device = png, file = "recent_2.png", width = 600)
+  #dev.print(device = png, file = "recent_2.png", width = 600)
   
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -369,7 +369,7 @@ main <- function(){
   # set.seed(1234)
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   
-  dev.print(device = png, file = "copy_2.png", width=600)
+  #dev.print(device = png, file = "copy_2.png", width=600)
 
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -559,7 +559,7 @@ main <- function(){
   # set.seed(1234)
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   
-  dev.print(device = png, file = "conclu_2.png", width = 600)
+  #dev.print(device = png, file = "conclu_2.png", width = 600)
   
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -624,7 +624,7 @@ main <- function(){
   #generate word cloud
   # set.seed(1234)
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "conclubis_2.png", width = 600)
+  #dev.print(device = png, file = "conclubis_2.png", width = 600)
   
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -689,7 +689,7 @@ main <- function(){
   #generate word cloud
   # set.seed(1234)
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
-dev.print(device = png, file = "sem_2.png", width = 600)
+#dev.print(device = png, file = "sem_2.png", width = 600)
 
       my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -754,7 +754,7 @@ main <- function(){
   #generate word cloud
   # set.seed(1234)
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "mois_2.png", width=600)
+  #dev.print(device = png, file = "mois_2.png", width=600)
   
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -823,7 +823,7 @@ main <- function(){
   #generate word cloud
   # set.seed(1234)
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "max_2.png", width = 600)
+  #dev.print(device = png, file = "max_2.png", width = 600)
   
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -892,7 +892,7 @@ main <- function(){
   #generate word cloud
   # set.seed(1234)
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "eff_2.png", width = 600)
+  #dev.print(device = png, file = "eff_2.png", width = 600)
   
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -957,7 +957,7 @@ main <- function(){
   #generate word cloud
   # set.seed(1234)
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
-  dev.print(device = png, file = "resume_2.png", width = 600)
+  #dev.print(device = png, file = "resume_2.png", width = 600)
   
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black")
     saveWidget(my_graph,"tmp.html",selfcontained = F)
@@ -1032,6 +1032,17 @@ data %>% filter(titre != "")  %>% select(titre,nbDeLignes)
 data %>% filter(titre_1 != "")  %>% select(titre_1,nbPage) 
 ```
 ---
+
+## nb duree
+```{r nbDuree, echo = FALSE}
+CopyS <-data.frame(aListes())
+  plot(CopyS$nb.jour,main="nb d'ep par jour",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
+  #lines(CopyS$nb.jour,type = "l",col="red")
+  
+  plot(CopyS$nb.sem,main="nb d'ep par semaine",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
+  #lines(CopyS$nb.sem,type = "l",col="red")
+  
+```
 
 ## conclu
 ```{r concluG, echo = FALSE}
@@ -1512,7 +1523,7 @@ social_net <- ggraph(social_net_tbls, layout = "stress") +
 }
 
 netw(10) 
-dev.print(device = png, file = "network1_1.png", width = 600)
+#dev.print(device = png, file = "network1_1.png", width = 600)
 netw(10)
-dev.print(device = png, file = "network1_2.png", width = 600)
+#dev.print(device = png, file = "network1_2.png", width = 600)
 ```
