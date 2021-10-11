@@ -245,6 +245,7 @@
 |friend or lover|friend or lover|5|serie|taiwan|              <!-- 128 -->
 |we are not human|we are not human(***)|24|serie|chine|            <!-- 129 -->
 |Squid game|squid game|9|serie(***)|corée|<!--  -->
+|see you after quarantine|see you after quarantine|10|serie|taiwan/japon|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -293,7 +294,6 @@
 |peach of time|peach of time|10|serie|corée-thailande|5|        <!-- 38 -->
 |7 project|7project|7|serie(bl/gl/het)|thailande|2|                        <!-- 39 -->
 |EMS|earth mix space|?|show|thailande|1|                        <!--  -->
-|see you after quarantine|see you after quarantine|10|serie|taiwan/japon|5|<!--  -->
 |Alice in borderland|alice in borderland|8|serie(**)|japon|1|<!--  -->
 |the tastt florida|the tasty florida|8|serie|corée|2|<!--  -->
 |goblin|goblin|16|serie(***)|corée|1|<!--  -->

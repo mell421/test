@@ -30,7 +30,6 @@ The voice greece 8x4
 * The voice greece 8x1
 * Goblin 1x1
 The voice bulgarie 8x3
-See you after quarantine 1x5
 Strictly come dancing 19x2
 The voice senior nl 4x4
 The voice esp 8x2
@@ -60,7 +59,6 @@ Post mortem 1x3
 All for one 2x13
 * The voice bulgarie 8x1
 * Alice in borderland 1x1
-* See you after quarantine 1x1
 * Dals 11x1
 Unbag 1x30
 Peach of time 1x6

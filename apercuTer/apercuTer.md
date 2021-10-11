@@ -102,7 +102,11 @@
     - [sem 27-09-2021](#sem-27-09-2021)
     - [sem 04-10-2021](#sem-04-10-2021)
     - [sem 11-10-2021](#sem-11-10-2021)
-    - [sem -10-2021](#sem--10-2021)
+    - [sem 18-10-2021](#sem-18-10-2021)
+    - [sem 25-10-2021](#sem-25-10-2021)
+    - [sem -11-2021](#sem--11-2021)
+    - [sem -11-2021](#sem--11-2021-1)
+    - [sem -11-2021](#sem--11-2021-2)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -630,7 +634,16 @@
 * Stalk _2
 * Sytycd _15
 * The masked singer au _3
-### sem -10-2021 
+### sem 18-10-2021 
+* *insererici*
+* See you after quarantine _1
+### sem 25-10-2021 
+* *insererici*
+### sem -11-2021 
+* *insererici*
+### sem -11-2021 
+* *insererici*
+### sem -11-2021 
 * *insererici*
 
 
@@ -643,7 +656,7 @@
 * 
 * The voice senior nl _4
 * 
-* See you after quarantine _1
+* 
 * 
 * 7project _1
 * The tasty florida _1
@@ -779,7 +792,7 @@
 #### mois 01-10-2021 
 *insererici The circle us _3 Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*
 #### mois 01-11-2021 
-*insererici Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
+*insererici See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
 *insererici*
 
