@@ -266,7 +266,7 @@ Why women kill _1x4(2) The office _1x3(2) Community _1x3(1) Ninja warrior junior
 #### sem 13-04-2020 
 Hsmtmts _1x4(1) Only connect _15x25(1) Les ratz _1x3(1) Bloodride _1x2(1) Ahs _9x5(1) 
 #### sem 20-04-2020 
-All for one _2x4(1) Forever knight _1x10(1) Les ratz _1x5(2) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) 
+Forever knight _1x10(1) Les ratz _1x5(2) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) 
 #### sem 27-04-2020 
 Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) 
 #### sem 04-05-2020 
@@ -438,7 +438,7 @@ Ninja warrior junior us _2x2(1) Jeopardy _32x159(2) I am not okay with this _1x2
 #### mois 01-04-2020 
 Ninja warrior junior us _2x7(5) Why women kill _1x3(2) Les ratz _1x2(1) Dare me _1x2(1) Vwars _1x6(2) Prodigal son _1x5(2) Kingdom _2x2(1) Only connect _15x24(2) Breaking bad _4x8(1) I am not okay with this _1x4(2) Castlevania _3x2(1) 
 #### mois 01-05-2020 
-Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) All for one _2x4(1) Forever knight _1x10(1) Les ratz _1x5(3) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) Hsmtmts _1x4(1) Only connect _15x25(1) Bloodride _1x2(1) Ahs _9x5(1) Why women kill _1x4(1) The office _1x3(2) Community _1x3(1) 
+Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) Forever knight _1x10(1) Les ratz _1x5(3) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) Hsmtmts _1x4(1) Only connect _15x25(1) Bloodride _1x2(1) Ahs _9x5(1) Why women kill _1x4(1) The office _1x3(2) Community _1x3(1) 
 #### mois 01-06-2020 
 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) 
 #### mois 01-07-2020 

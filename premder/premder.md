@@ -56,7 +56,6 @@ The good doctor 4x10
 * The voice esp 8x1
 Post mortem 1x3
 * Strictly come dancing 19x1
-All for one 2x13
 * The voice bulgarie 8x1
 * Alice in borderland 1x1
 * Dals 11x1

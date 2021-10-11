@@ -445,6 +445,7 @@
 |Sytycd 15||14|||<!--  -->
 |stalk 2||10|||<!--  -->
 |see you after quarantine 1||10|||<!--  -->
+|all for one 2||30|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -506,7 +507,6 @@
 |bloodride 1||||||<!--  -->
 |mental samourai 1||||||<!--  -->
 |les zinzins de l'espace 1|||||4|<!--  -->
-|all for one 2|||||3|<!--  -->
 |port charles 1||||||<!--  -->
 |GA 2|||||15|<!--  -->
 |dark 1|||||7|<!--  -->
