@@ -4,7 +4,7 @@
 ./0supprZ.sh
 
 list=( "Unbag _1" "Bt21 original story _1" # >= 100
-"Survivor au _5" "" # 99 - 50
+"" # 99 - 50
 "/46 days _1" # 49 - 40
 "" # 39 - 30
 "Peach of time _1" "My vampire boyfriend _1" "From dusk till dawn _2" # 29 - 20
@@ -25,7 +25,7 @@ list=( "Unbag _1" "Bt21 original story _1" # >= 100
 
 # nb bis
 list99=( "Unbag _1" "Bt21 original story _1" "My vampire boyfriend _1" # >= 200
-"Survivor au _5" "46 days _1" # 199-100
+"46 days _1" # 199-100
 "Vincenzo _1" "The harvest season _1" "From dusk till dawn _2" "Dont say no _1" # 99-50
 "" # 49-40
 "Peach of time _1" "The good doctor _4" "Elite _4" "Koishite akuma _1" "Be love _1" # 39-30

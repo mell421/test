@@ -636,6 +636,7 @@
 * The masked singer au _3
 ### sem 18-10-2021 
 * *insererici*
+* Survivor au _5
 * The voice senior nl _4
 * All for one _2
 * See you after quarantine _1
@@ -720,10 +721,10 @@
 * Vwars _1
 * Survivor _8
 * Qforce _1
-* Survivor au _5
+* 
 * The yearbook _1
 * From dusk till dawn _2
-* Survivor au _5
+* 
 * 
 * $ pas comm $
 * Survivor _9
@@ -794,7 +795,7 @@
 #### mois 01-10-2021 
 *insererici The circle us _3 Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*
 #### mois 01-11-2021 
-*insererici The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
+*insererici Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
 *insererici*
 

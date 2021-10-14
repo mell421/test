@@ -80,14 +80,12 @@ Camping paradis 12x4
 * Post mortem 1x1
 * Koh-lanta 27x1
 From dusk till dawn 2x5
-Survivor au 5x11
 Good singers 1x4
 * Dont say no 1x1
 Control z 2x2
 * Control z 2x1
 /46 days 1x7
 Glow up 2x2
-* Survivor au 5x1
 * Josephine ange gardien 24x1
 * Glow up 2x1
 Zombie detective 1x2

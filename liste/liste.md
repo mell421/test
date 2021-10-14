@@ -447,6 +447,7 @@
 |see you after quarantine 1||10|||<!--  -->
 |all for one 2||30|||<!--  -->
 |the voice senior nl 4||7|||<!--  -->
+|survivor au 5||25|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -591,7 +592,6 @@
 |46 days 1||?|||0|<!--  -->
 |glow up 2||10|||1|<!--  -->
 |josephine ange gardien 24||6|||1|<!--  -->
-|survivor au 5||25||||<!--  -->
 |Control z 2||6||||<!--  -->
 |KL 27||?||||<!--  -->
 |post mortem 1||6||||<!--  -->

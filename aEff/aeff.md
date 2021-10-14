@@ -259,38 +259,38 @@
 - 23/07/21 (eff) - unbag _1{430} bt21 original story _1{68} my vampire boyfriend _1{25} /46 days _1{21} vincenzo _1{16} 
 - 24/07/21 (eff) - unbag _1{432} bt21 original story _1{69} my vampire boyfriend _1{25} /46 days _1{23} vincenzo _1{16} 
 - 25/07/21 (eff) - unbag _1{434} bt21 original story _1{70} /46 days _1{25} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 26/07/21 (eff) - unbag _1{437} bt21 original story _1{71} /46 days _1{28} my vampire boyfriend _1{25} survivor au _5{18} vincenzo _1{16} 
-- 27/07/21 (eff) - unbag _1{439} bt21 original story _1{72} /46 days _1{29} my vampire boyfriend _1{25} survivor au _5{20} vincenzo _1{16} 
-- 28/07/21 (eff) - unbag _1{441} bt21 original story _1{73} /46 days _1{30} my vampire boyfriend _1{25} survivor au _5{22} vincenzo _1{16} the harvest season _1{16} 
-- 29/07/21 (eff) - unbag _1{443} bt21 original story _1{74} /46 days _1{31} my vampire boyfriend _1{25} survivor au _5{24} vincenzo _1{16} 
-- 30/07/21 (eff) - unbag _1{445} bt21 original story _1{75} /46 days _1{32} survivor au _5{26} my vampire boyfriend _1{25} 
-- 31/07/21 (eff) - unbag _1{447} bt21 original story _1{76} /46 days _1{33} survivor au _5{28} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 01/08/21 (eff) - unbag _1{450} bt21 original story _1{79} /46 days _1{35} survivor au _5{31} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 02/08/21 (eff) - unbag _1{452} bt21 original story _1{82} /46 days _1{36} survivor au _5{34} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 03/08/21 (eff) - unbag _1{454} bt21 original story _1{84} /46 days _1{37} survivor au _5{36} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 04/08/21 (eff) - unbag _1{456} bt21 original story _1{86} /46 days _1{38} survivor au _5{38} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 05/08/21 (eff) - unbag _1{458} bt21 original story _1{88} survivor au _5{40} /46 days _1{39} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 06/08/21 (eff) - unbag _1{460} bt21 original story _1{90} survivor au _5{42} /46 days _1{40} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 07/08/21 (eff) - unbag _1{462} bt21 original story _1{92} survivor au _5{44} /46 days _1{41} my vampire boyfriend _1{25} vincenzo _1{16} elite _4{15} 
-- 08/08/21 (eff) - unbag _1{464} bt21 original story _1{94} survivor au _5{46} /46 days _1{41} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 09/08/21 (eff) - unbag _1{467} bt21 original story _1{95} survivor au _5{48} /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 10/08/21 (eff) - unbag _1{469} bt21 original story _1{96} survivor au _5{50} /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 11/08/21 (eff) - unbag _1{471} bt21 original story _1{97} survivor au _5{52} /46 days _1{43} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 12/08/21 (eff) - unbag _1{473} bt21 original story _1{98} survivor au _5{54} /46 days _1{44} my vampire boyfriend _1{25} 
-- 13/08/21 (eff) - unbag _1{475} bt21 original story _1{99} survivor au _5{56} /46 days _1{45} my vampire boyfriend _1{25} 
-- 14/08/21 (eff) - unbag _1{477} bt21 original story _1{100} survivor au _5{58} /46 days _1{45} my vampire boyfriend _1{25} 
-- 15/08/21 (eff) - unbag _1{479} bt21 original story _1{101} survivor au _5{60} /46 days _1{45} my vampire boyfriend _1{25} 
-- 16/08/21 (eff) - unbag _1{481} bt21 original story _1{101} survivor au _5{63} /46 days _1{45} my vampire boyfriend _1{25} 
-- 17/08/21 (eff) - unbag _1{483} bt21 original story _1{101} survivor au _5{65} /46 days _1{45} my vampire boyfriend _1{25} 
-- 18/08/21 (eff) - unbag _1{485} bt21 original story _1{101} survivor au _5{66} /46 days _1{45} my vampire boyfriend _1{25} 
-- 19/08/21 (eff) - unbag _1{487} bt21 original story _1{101} survivor au _5{67} /46 days _1{45} my vampire boyfriend _1{25} 
-- 20/08/21 (eff) - unbag _1{489} bt21 original story _1{101} survivor au _5{68} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 21/08/21 (eff) - unbag _1{491} bt21 original story _1{101} survivor au _5{69} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 22/08/21 (eff) - unbag _1{493} bt21 original story _1{101} survivor au _5{70} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} survivor au _5{71} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
-- 24/08/21 (eff) - unbag _1{498} bt21 original story _1{101} survivor au _5{72} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
-- 25/08/21 (eff) - unbag _1{500} bt21 original story _1{101} survivor au _5{73} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
-- 26/08/21 (eff) - unbag _1{502} bt21 original story _1{101} survivor au _5{74} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
+- 26/07/21 (eff) - unbag _1{437} bt21 original story _1{71} /46 days _1{28} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 27/07/21 (eff) - unbag _1{439} bt21 original story _1{72} /46 days _1{29} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 28/07/21 (eff) - unbag _1{441} bt21 original story _1{73} /46 days _1{30} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 29/07/21 (eff) - unbag _1{443} bt21 original story _1{74} /46 days _1{31} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 30/07/21 (eff) - unbag _1{445} bt21 original story _1{75} /46 days _1{32} my vampire boyfriend _1{25} 
+- 31/07/21 (eff) - unbag _1{447} bt21 original story _1{76} /46 days _1{33} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 01/08/21 (eff) - unbag _1{450} bt21 original story _1{79} /46 days _1{35} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 02/08/21 (eff) - unbag _1{452} bt21 original story _1{82} /46 days _1{36} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 03/08/21 (eff) - unbag _1{454} bt21 original story _1{84} /46 days _1{37} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 04/08/21 (eff) - unbag _1{456} bt21 original story _1{86} /46 days _1{38} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 05/08/21 (eff) - unbag _1{458} bt21 original story _1{88} /46 days _1{39} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 06/08/21 (eff) - unbag _1{460} bt21 original story _1{90} /46 days _1{40} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 07/08/21 (eff) - unbag _1{462} bt21 original story _1{92} /46 days _1{41} my vampire boyfriend _1{25} vincenzo _1{16} elite _4{15} 
+- 08/08/21 (eff) - unbag _1{464} bt21 original story _1{94} /46 days _1{41} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 09/08/21 (eff) - unbag _1{467} bt21 original story _1{95} /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 10/08/21 (eff) - unbag _1{469} bt21 original story _1{96} /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 11/08/21 (eff) - unbag _1{471} bt21 original story _1{97} /46 days _1{43} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 12/08/21 (eff) - unbag _1{473} bt21 original story _1{98} /46 days _1{44} my vampire boyfriend _1{25} 
+- 13/08/21 (eff) - unbag _1{475} bt21 original story _1{99} /46 days _1{45} my vampire boyfriend _1{25} 
+- 14/08/21 (eff) - unbag _1{477} bt21 original story _1{100} /46 days _1{45} my vampire boyfriend _1{25} 
+- 15/08/21 (eff) - unbag _1{479} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} 
+- 16/08/21 (eff) - unbag _1{481} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} 
+- 17/08/21 (eff) - unbag _1{483} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} 
+- 18/08/21 (eff) - unbag _1{485} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} 
+- 19/08/21 (eff) - unbag _1{487} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} 
+- 20/08/21 (eff) - unbag _1{489} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 21/08/21 (eff) - unbag _1{491} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 22/08/21 (eff) - unbag _1{493} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 24/08/21 (eff) - unbag _1{498} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 25/08/21 (eff) - unbag _1{500} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
+- 26/08/21 (eff) - unbag _1{502} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
 
 
 
@@ -571,23 +571,23 @@
 - 15/07/21 - 299* /46 days _1{11} josephine ange gardien _24{1} camping paradis _12{3} 
 - 16/07/21 - 215* /46 days _1{13} 
 - 17/07/21 - 180* good singers _1{4} 
-- 18/07/21 - 188* survivor au _5{0} good singers _1{4} 
-- 19/07/21 - 183* /46 days _1{15} survivor au _5{3} good singers _1{5} 
-- 20/07/21 - 184* camping paradis _12{4} /46 days _1{17} survivor au _5{5} good singers _1{5} 
-- 21/07/21 - 242* survivor au _5{7} camping paradis _12{4} /46 days _1{18} 
-- 22/07/21 - 213* /46 days _1{19} survivor au _5{9} camping paradis _12{4} 
-- 23/07/21 - 655* /46 days _1{21} unbag _1{430} survivor au _5{11} 
-- 24/07/21 - 662* /46 days _1{23} unbag _1{432} survivor au _5{13} 
+- 18/07/21 - 188* good singers _1{4} 
+- 19/07/21 - 183* /46 days _1{15} good singers _1{5} 
+- 20/07/21 - 184* camping paradis _12{4} /46 days _1{17} good singers _1{5} 
+- 21/07/21 - 242* camping paradis _12{4} /46 days _1{18} 
+- 22/07/21 - 213* /46 days _1{19} camping paradis _12{4} 
+- 23/07/21 - 655* /46 days _1{21} unbag _1{430} 
+- 24/07/21 - 662* /46 days _1{23} unbag _1{432} 
 - 25/07/21 - 683* /46 days _1{25} unbag _1{434} 
 - 26/07/21 - 660* /46 days _1{28} unbag _1{437} 
 - 27/07/21 - 671* /46 days _1{29} unbag _1{439} 
 - 28/07/21 - 700* /46 days _1{30} unbag _1{441} 
-- 29/07/21 - 295* survivor au _5{24} /46 days _1{31} 
-- 30/07/21 - 297* survivor au _5{26} /46 days _1{32} 
-- 31/07/21 - 321* bt21 original story _1{76} survivor au _5{28} 
-- 01/08/21 - 316* bt21 original story _1{79} survivor au _5{31} 
-- 02/08/21 - 308* bt21 original story _1{82} survivor au _5{34} 
-- 03/08/21 - 310* glow up _2{3} bt21 original story _1{84} survivor au _5{36} 
+- 29/07/21 - 295* /46 days _1{31} 
+- 30/07/21 - 297* /46 days _1{32} 
+- 31/07/21 - 321* bt21 original story _1{76} 
+- 01/08/21 - 316* bt21 original story _1{79} 
+- 02/08/21 - 308* bt21 original story _1{82} 
+- 03/08/21 - 310* glow up _2{3} bt21 original story _1{84} 
 - 04/08/21 - 302* /46 days _1{38} glow up _2{3} bt21 original story _1{86} 
 - 05/08/21 - 206* control z _2{0} /46 days _1{39} glow up _2{3} 
 - 06/08/21 - 716* unbag _1{460} control z _2{1} /46 days _1{40} 
@@ -599,13 +599,13 @@
 - 12/08/21 - 237* good singers _1{7} dont say no _1{1} 
 - 13/08/21 - 329* 
 - 14/08/21 - 274* dont say no _1{1} 
-- 15/08/21 - 298* survivor au _5{60} dont say no _1{1} 
-- 16/08/21 - 311* survivor au _5{63} dont say no _1{2} 
-- 17/08/21 - 352* survivor au _5{65} dont say no _1{2} 
-- 18/08/21 - 354* survivor au _5{66} dont say no _1{2} 
-- 19/08/21 - 401* survivor au _5{67} dont say no _1{2} 
-- 20/08/21 - 860* unbag _1{489} survivor au _5{68} 
-- 21/08/21 - 833* unbag _1{491} survivor au _5{69} 
+- 15/08/21 - 298* dont say no _1{1} 
+- 16/08/21 - 311* dont say no _1{2} 
+- 17/08/21 - 352* dont say no _1{2} 
+- 18/08/21 - 354* dont say no _1{2} 
+- 19/08/21 - 401* dont say no _1{2} 
+- 20/08/21 - 860* unbag _1{489} 
+- 21/08/21 - 833* unbag _1{491} 
 - 22/08/21 - 780* from dusk till dawn _2{15} unbag _1{493} 
 - 23/08/21 - 278* dont say no _1{3} from dusk till dawn _2{16} 
 - 24/08/21 - 284* from dusk till dawn _2{16} dont say no _1{4} 
