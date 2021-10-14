@@ -5,12 +5,12 @@
 # devtools::install("ajoutRep")
 
 loadMesSources <- function(){
-  source("~/GitHub/ajoutRep/ajoutRep/R/accueil.R")
-  source("~/GitHub/ajoutRep/ajoutRep/R/copy.R")
-  source("~/GitHub/ajoutRep/ajoutRep/R/nombre.R")
-  source("~/GitHub/ajoutRep/ajoutRep/R/max.resume.R")
-  source("~/GitHub/ajoutRep/ajoutRep/R/resume.R")
-  source("~/GitHub/ajoutRep/ajoutRep/R/page.R")
+  source("./R/accueil.R")
+  source("./R/copy.R")
+  source("./R/nombre.R")
+  source("./R/max.resume.R")
+  source("./R/resume.R")
+  source("./R/page.R")
 }
 installMesPackages <- function(){
   install.packages("gsheet")
@@ -22,20 +22,34 @@ installMesPackages <- function(){
   install.packages("ggplot2")
   install.packages(utf8)
   install.packages(dplyr)
+  webshot::install_phantomjs(force = TRUE)
+  install.packages("Hmisc")
+
 }
 
 
 
 loadMesPackages <- function(){
+  library(car)
+  library(dplyr)
+  library(DT)
   library("gsheet")
-  library("tm")
-  library("SnowballC")
-  library("wordcloud")
-  library("RColorBrewer")
-  library("syuzhet")
   library("ggplot2")
-  library(utf8)
-  # library(dplyr)
+  library(ggraph)
+  library("htmlwidgets")
+  library(Hmisc)
+  library("tm")
+  library(tidygraph)
+  library("RColorBrewer")
+  library("SnowballC")
+  library("syuzhet")
+  suppressWarnings(library(tidyverse))
+  library("utf8")
+  library("wordcloud")
+  library(wordcloud2)
+  library("webshot")
+
+  require(devtools)
 }
 
 loadMesPackages()

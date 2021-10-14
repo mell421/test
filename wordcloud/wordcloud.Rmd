@@ -6,24 +6,11 @@ output:
     toc: false
 ---
 ```{r setup, include = FALSE}
-# LIBRARY
-
 # INSTALL
 # knitr::opts_chunk$set(cache = TRUE)
-#webshot::install_phantomjs(force = TRUE)
 
 # LOAD
 suppressWarnings(source("./R/sources.R"))
-suppressWarnings(library(tidyverse))
-library(webshot)
-library("htmlwidgets")
-library(ggraph)
-library(tidygraph)
-library(dplyr)
-require(devtools)
-library(wordcloud2)
-library(car)
-library(DT)
 
 # variables globales
 
@@ -32,21 +19,9 @@ library(DT)
 delayW <- 5
 ## circle, cardioid, diamond, triangle-forward, triangle, pantagon
 forme <- "circle"
-myRemoveList <- c("conclu", "conclubis","conclucompi","conclucompibis" ,"eff","the","sem","mois","premderall","last48tri","last46","offset3","nbPageTri","nbPage","nbTpsPc","titre","na")
 
-myToSpaceList <- c("@","\\|","'<'","\\'","/")
+# FCTS
 
-toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
-removeAccentE <- content_transformer(function (x , pattern ) gsub(pattern, "e", x))
-removeAccentA <- content_transformer(function (x , pattern ) gsub(pattern, "a", x))
-removeC <- content_transformer(function (x , pattern ) gsub(pattern, "c", x))
-removeSpace <- content_transformer(function (x , pattern ) gsub(pattern, "", x))
-
-  # TextDoc <- tm_map(TextDoc, removeNumbers)
-  # TextDoc <- tm_map(TextDoc, removeWords, stopwords("english"))
-  # TextDoc <- gsub("[[:blank:]]", "", TextDoc)
-  # TextDoc <- tm_map(TextDoc, stemDocument)
-  
 ```
 
 
@@ -66,24 +41,7 @@ text <- data.frame(accueil())
 text <- text[2]
 
 tm <- function(text){
-  TextDoc <- Corpus(VectorSource(text))
-  
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, removeAccentE, c("é","è","ê"))
-  TextDoc <- tm_map(TextDoc, removeAccentA, c("à","â"))
-  TextDoc <- tm_map(TextDoc, removeC, c("ç"))
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-  
-
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -97,14 +55,12 @@ tm <- function(text){
   
   wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,max.words=1500, random.order=FALSE, rot.per=0.35,colors=brewer.pal(8, "Dark2"))
   
-  #dev.print(device = png, file = "accueil_2.png", width = 600)
-  
     my_graph <- wordcloud2(data = dtm_d, color = "random-light",backgroundColor ="black",shape=forme)
     saveWidget(my_graph,"tmp.html",selfcontained = F)
     webshot("tmp.html","accueil_3.png", delay =delayW, vwidth = 700, vheight=700)
     
 }
-# accueuil ![](./accueil_3.png)
+# accueil ![](./accueil_3.png)
 suppressWarnings(tm(text))
 ```
 
@@ -114,23 +70,7 @@ text <- data.frame(listDesc.ec())
 text <- text[2]
 
 tm <- function(text){
-  TextDoc <- Corpus(VectorSource(text))
-
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, removeAccentE, c("é","è","ê"))
-  TextDoc <- tm_map(TextDoc, removeAccentA, c("à","â"))
-  TextDoc <- tm_map(TextDoc, removeC, c("ç"))
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-  
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -162,23 +102,7 @@ recent <- data.frame(aAccueil())
 text <- recent$Titre_1
 
 tm <- function(text){
-  TextDoc <- Corpus(VectorSource(text))
-
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, removeAccentE, c("é","è","ê"))
-  TextDoc <- tm_map(TextDoc, removeAccentA, c("à","â"))
-  TextDoc <- tm_map(TextDoc, removeC, c("ç"))
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -210,23 +134,7 @@ text <- data.frame(listDesc.ter())
 text <- text[2]
 
 tm <- function(text){
-  TextDoc <- Corpus(VectorSource(text))
-
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  # TextDoc <- tm_map(TextDoc, removeAccentE, c("é","è","ê"))
-  # TextDoc <- tm_map(TextDoc, removeAccentA, c("à","â"))
-  # TextDoc <- tm_map(TextDoc, removeC, c("ç"))
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-  
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -254,23 +162,9 @@ suppressWarnings(tm(text))
 
 ### copy
 ```{r copy, echo=FALSE}
-
-main <- function(){
-  text <- data.frame(copy())
-  TextDoc <- Corpus(VectorSource(text))
-
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-  
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v) ,freq=dtm_v)
+text <- data.frame(copy())
+main <- function(text){
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -291,28 +185,15 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ### pageappres
 ```{r pageappres, echo=FALSE}
-
-main <- function(){
-  text <- data.frame(pageappres())
-  TextDoc <- Corpus(VectorSource(text))
-
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
+text <- data.frame(pageappres())
+main <- function(text){
   
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v) ,freq=dtm_v)
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -333,28 +214,14 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ### pageappressup
 ```{r pageappressup, echo=FALSE}
-
-main <- function(){
-  text <- data.frame(pageappressup())
-  TextDoc <- Corpus(VectorSource(text))
-
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v) ,freq=dtm_v)
+text <- data.frame(pageappressup())
+main <- function(text){
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -375,29 +242,16 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ### conclu
 ```{r conclu, echo=FALSE}
-
-main <- function(){
-  text2 <- data.frame(aTestConclu())
-  text2 <- text2[2]
-  TextDoc <- Corpus(VectorSource(text2))
-
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+text <- data.frame(aTestConclu())
+text <- text[2]
+main <- function(text){
+  
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -420,30 +274,16 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ### conclubis
 ```{r conclubis, echo=FALSE}
-
-main <- function(){
-  text2 <- data.frame(aTestConcluBis())
-  text2 <- text2[2]
-  TextDoc <- Corpus(VectorSource(text2))
-
-  TextDoc <- tm_map(TextDoc, toSpace, "/")
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
+text2 <- data.frame(aTestConcluBis())
+text <- text2[2]
+main <- function(text){
   
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -465,31 +305,15 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ### sem
 ```{r sem, echo=FALSE}
-
-main <- function(){
-  text2 <- data.frame(copy.sem())
-  text2 <- text2[2]
-  
-  TextDoc <- Corpus(VectorSource(text2))
-
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeNumbers)
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-  
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+text2 <- data.frame(copy.sem())
+text <- text2[2]
+main <- function(text){
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -511,31 +335,16 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ### mois
 ```{r mois, echo=FALSE}
-
-main <- function(){
-  text2 <- data.frame(copy.mois())
-  text2 <- text2[2]
-  TextDoc <- Corpus(VectorSource(text2))
-
-  TextDoc <- tm_map(TextDoc, toSpace, "/")
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeNumbers)
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
+text2 <- data.frame(copy.mois())
+  text <- text2[2]
+main <- function(text){
   
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -557,33 +366,15 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ### max
 ```{r max, echo=FALSE}
-
-main <- function(){
-  text2 <- copy.max()
-  text2 <- text2[2]
-  
-  TextDoc <- Corpus(VectorSource(text2))
-
-  
-  TextDoc <- tm_map(TextDoc, toSpace, "/")
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeNumbers)
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-  
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+text2 <- copy.max()
+text <- text2[2]
+main <- function(text){
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -609,32 +400,17 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ### eff
 ```{r eff, echo=FALSE}
-
-main <- function(){
-  text2 <- aEff()
-  text2 <- text2[2]
+text2 <- aEff()
+  text <- text2[2]
+main <- function(text){
   
-  TextDoc <- Corpus(VectorSource(text2))
-
   
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeNumbers)
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -660,31 +436,15 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ### resume
 ```{r resume, echo=FALSE}
-
-main <- function(){
-  text2 <- data.frame(aTestResume())
-  text2 <- text2[2]
-  
-  TextDoc <- Corpus(VectorSource(text2))
-
-  TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
-  TextDoc <- tm_map(TextDoc, content_transformer(tolower))
-  TextDoc <- tm_map(TextDoc, removeNumbers)
-  TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)
-  TextDoc <- tm_map(TextDoc, removePunctuation)
-  TextDoc <- tm_map(TextDoc, stripWhitespace)
-
-  # Build a term-document matrix
-  TextDoc_dtm <- TermDocumentMatrix(TextDoc)
-  dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
-  dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
-  dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
+text2 <- data.frame(aTestResume())
+text <- text2[2]
+main <- function(text){
+  dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
@@ -706,7 +466,7 @@ main <- function(){
 
 }
 
-suppressWarnings(main())
+suppressWarnings(main(text))
 ```
 
 ---
@@ -730,11 +490,11 @@ CopyS <-data.frame(copy.conclu())
 dataC <- data.frame(CopyS$nbCarConclu,CopyS$nbCarConcluBis,CopyS$jour_1,CopyS$date)
   
   plot(CopyS$nbCarConcluBis,main="nb de caracteres conclu",type = "l",col="red",xlab = "date",ylab = "nb car")
-  lines(CopyS$nbCarConcluBis,type = "l",col="red")
+  #lines(CopyS$nbCarConcluBis,type = "l",col="red")
   lines(CopyS$nbCarConclu,type = "l",col="blue")
   
   plot(CopyS$ncb,main="nb de saisons conclu",type = "l",col="red",xlab = "date",ylab = "nb ds conclu")
-  lines(CopyS$ncb,type = "l",col="red")
+  #lines(CopyS$ncb,type = "l",col="red")
   lines(CopyS$nc,type = "l",col="blue")
 ```
 
@@ -745,7 +505,7 @@ main <- function(){
 # CopyS <- data.frame()
   CopyS <- na.omit(CopyS)
   plot(CopyS$NBog,main="max",type = "l",col="red",xlab = "date",ylab = "nb")
-  lines(CopyS$NBog,type = "l",col="red")
+  #lines(CopyS$NBog,type = "l",col="red")
   lines(CopyS$NBactuel,type = "l",col="blue")
 }
 suppressWarnings(main())
@@ -753,21 +513,12 @@ suppressWarnings(main())
 
 ### regression max
 ```{r regress0, echo = FALSE}
-# install.packages("car")
 Prestige <- copy.max()
     Prestige <- as_tibble(Prestige)
-
-    # as.tibble(Prestige)
      layout(matrix(1:4,2,2))
     # 1
 scatterplot(NBog~NBactuel
 , data=Prestige)
-# 2
-# scatterplot(nc~ncb, data=Prestige)
-# 3
-# scatterplot(nbCarConclu~nc, data=Prestige)
-# 4
-# scatterplot(nbCarConcluBis~ncb, data=Prestige)
 
 prest.lm1 <- lm(NBog~NBactuel, data=Prestige)
 acf(residuals(prest.lm1), main="prest.lm1")
@@ -1210,4 +961,20 @@ netw(10)
 #dev.print(device = png, file = "network1_1.png", width = 600)
 netw(10)
 #dev.print(device = png, file = "network1_2.png", width = 600)
+```
+
+### stats
+```{r stats, echo=FALSE}
+# by(data, data$category, summary)
+# Hmisc::describe(data)
+
+print("accueil")
+accue <- data.frame(accueil())
+summary(accue)
+Hmisc::describe(accue)
+
+print("copy script")
+cs <- data.frame(aCopyScript())
+summary(cs)
+Hmisc::describe(cs)
 ```
