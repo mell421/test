@@ -36,8 +36,6 @@ The voice 11x3
 Dont say no 1x8
 Dals 11x2
 Earthmix space 1x2
-The tasty florida 1x2
-* The tasty florida 1x1
 Alter ego 1x2
 The masked singer 6x2
 * Rpdruk 3x1
