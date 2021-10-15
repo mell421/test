@@ -96,9 +96,17 @@
     - [sem 16-08-2021](#sem-16-08-2021)
     - [sem 23-08-2021](#sem-23-08-2021)
     - [sem 30-08-2021](#sem-30-08-2021)
-    - [sem -09-2021](#sem--09-2021)
-    - [sem -09-2021](#sem--09-2021-1)
-    - [sem -09-2021](#sem--09-2021-2)
+    - [sem 06-09-2021](#sem-06-09-2021)
+    - [sem 13-09-2021](#sem-13-09-2021)
+    - [sem 20-09-2021](#sem-20-09-2021)
+    - [sem 27-09-2021](#sem-27-09-2021)
+    - [sem 04-10-2021](#sem-04-10-2021)
+    - [sem 11-10-2021](#sem-11-10-2021)
+    - [sem 18-10-2021](#sem-18-10-2021)
+    - [sem 25-10-2021](#sem-25-10-2021)
+    - [sem -11-2021](#sem--11-2021)
+    - [sem -11-2021](#sem--11-2021-1)
+    - [sem -11-2021](#sem--11-2021-2)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -575,7 +583,6 @@
 * Golden blood _1
 * Survivor _1
 ### sem 23-08-2021 
-* *insererici*
 * Friend or lover _1
 * Given 2021 _1
 * Beat shazam _4
@@ -585,80 +592,152 @@
 * Survivor _2
 * Dragula _2
 ### sem 30-08-2021 
-* *insererici*
+* We are not human _1
+* Survivor _4
+* Koh-lanta _4
+* Koh-lanta _3
 * Koh-lanta _1
 * Rpdu _1
 * Survivor _3
-### sem -09-2021 
+### sem 06-09-2021 
+* Survivor _7
+* Game of talents fr _1
+* The cube _1
+* Rpdrasu _6
+* Rpdras _6
+* Survivor _6
+* Survivor _5
+* Drop _1
+### sem 13-09-2021 
 * *insererici*
-### sem -09-2021 
+* Survivor au _8
+* The voice au _10
+* The masked singer nz _1
+### sem 20-09-2021 
 * *insererici*
-### sem -09-2021 
+* Squid game _1
+* Survivor sa _8
+* Agt _16
+* Nailed it _6
+* Lego masters _2
+### sem 27-09-2021 
+* *insererici*
+* Next in fashion _1
+* Drag race nl _2
+* Aggretsuko _3
+### sem 04-10-2021 
+* *insererici*
+* The voice finland _11
+* The circle us _3
+### sem 11-10-2021 
+* *insererici*
+* Stalk _2
+* Sytycd _15
+* The masked singer au _3
+### sem 18-10-2021 
+* *insererici*
+* Survivor au _5
+* The voice senior nl _4
+* All for one _2
+* See you after quarantine _1
+### sem 25-10-2021 
+* *insererici*
+### sem -11-2021 
+* *insererici*
+### sem -11-2021 
+* *insererici*
+### sem -11-2021 
 * *insererici*
 
 
 ---
 
 ## bientot
-* Mr lipstick _1
+* $ date de fin connue $
+* Monsters inside bm _1
+* Peach of time _1
 * 
-* $ nbPcTps $
+* 
+* 
+* 
+* 
+* 7project _1
+* The tasty florida _1
+* The voice _11
+* Bite me _1
+* Ahs _10
+* Dont say no _1
+* Rpdruk _3
+* Drag race ca _2
+* Druck _7
+* Dragula _4
+* Queen of the universe _1
+* Dexter _9
+* 
+* $ deja terminée (visio) $
+* Mr lipstick _1
 * Elite _4
 * Tokyo ghoul _3
 * Young royals _1
 * Mental _2
 * Glow up _2
+* Post mortem _1
+* Control z _2
+* 46 days _1
 * 
+* $ nbPcTps $
 * Josephine ange gardien _23 (29/12/20)
+* Marble mania _1 (19/8/21)
 * 
 * $ a jour $
-* Rpdrasu _6
+* Earthmix space _1
+* Alter ego _1
+* The masked singer _6
+* Survivor _41
+* La mas draga _4
+* The voice us _21
+* Koh-lanta _27
+* The big leap _1
+* Dwts _30
+* /9-1-1 _5
+* The voice esp _8
+* 
+* The voice bulgarie _8
+* Strictly come dancing _19
+* Dals _11
+* Unbag _1
+* Josephine ange gardien _24
+* Bt21 original story _1
+* Camping paradis _12
+* 
+* 
+* $ en retard $
+* The good doctor _4
 * Post mortem _1
-* The cube _1
-* Drop _1
-* 46 days _1
-* Rpdras _6
-* Lego masters _2
-* Nailed it _6
-* Drag race nl _2
-* Ahs _10
-* Rpdruk _3
-* Peach of time _1
-* Control z _2
+* 
+* Alice in bordeland _1
+* Buffy _1
+* Lucifer _4
+* Vwars _1
+* Survivor _8
+* Qforce _1
+* 
+* The yearbook _1
+* From dusk till dawn _2
 * 
 * 
-* 
+* $ pas comm $
+* Survivor _9
 * 
 * $ a venir $
-* Koh-lanta _27
-* Game of talents fr _1
-* Bite me _1
-* Q-force _1
-* /9-1-1 _5
-* Dwts _30
-* The voice us _21
-* Alter ego _1
-* Survivor _41
-* The masked singer _6
 * Young sheldon _5
-* Dragula _4
-* Dexter _9
-* Queen of the universe _1
+* 
+* 
 * 
 * $ other $
-* Agt _16
-* 
-* The voice au _10
-* Survivor au _8
-* Survivor au _5
-* Survivor sa _8
-* Dont say no _1
-* Unbag _1
-* 
-* 
 * Vincenzo _1
 * Dark blue kiss _1
-* Bt21 original story _1
+* 
 * 
 * 
 * $ plus tard $
@@ -712,11 +791,11 @@
 #### mois 01-08-2021 
 *Stuck on you _1 Survivor _40 Kaamelott _6 Drag race esp _1 The best story _1 Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
-*insererici Koh-lanta _1 Rpdu _1 Survivor _3 Friend or lover _1 Given 2021 _1 Beat shazam _4 Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
+*Survivor _5 Drop _1 We are not human _1 Survivor _4 Koh-lanta _4 Koh-lanta _3 Koh-lanta _1 Rpdu _1 Survivor _3 Friend or lover _1 Given 2021 _1 Beat shazam _4 Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
 #### mois 01-10-2021 
-*insererici*
+*insererici The circle us _3 Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*
 #### mois 01-11-2021 
-*insererici*
+*insererici Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
 *insererici*
 

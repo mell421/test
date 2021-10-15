@@ -416,9 +416,46 @@
 |friend or lover|friend or lover|5|serie|taiwan|              <!-- 34 -->
 |survivor 3||15|||<!--  -->
 |koh-lanta 1||13|||<!--  -->
+|koh-lanta 3||13|||<!--  -->
+|koh-lanta 4||13|||<!--  -->
+|Survivor 4||15|||<!--  -->
+|we are not human|we are not human|24|serie|chine|<!-- 1 -->
+|drop 1||8|||<!--  -->
+|Survivor 5||15|||<!--  -->
+|Survivor 6||15|||<!--  -->
+|RPDRAS 6||12|||<!-- 22/5 -->
+|RPDRASU 6||12|||<!-- 22/5 -->
+|the cube 1||8|||<!--  -->
+|game of talents fr 1||2|||<!--  -->
+|Survivor 7||15|||<!--  -->
+|The masked singer nz 1||11|||<!--  -->
+|the voice au 10||13|||<!--  -->
+|survivor au 8||24|||<!--  -->
+|lego masters 2||12|||<!-- 2/6 -->
+|nailed it 6||6|||<!--  -->
+|AGT 16||20|||<!--  -->
+|survivor sa 8||16|||<!--  -->
+|Squid game 1||9|serie|corée|<!--  -->
+|aggretsuko 3||10|||<!--  -->
+|drag race nl 2||8|||<!--  -->
+|next in fashion 1||10|||<!--  -->
+|the circle us 3||13|||<!--  -->
+|the voice finland 11||5|||<!--  -->
+|the masked singer au 3||11|||<!--  -->
+|Sytycd 15||14|||<!--  -->
+|stalk 2||10|||<!--  -->
+|see you after quarantine 1||10|||<!--  -->
+|all for one 2||30|||<!--  -->
+|the voice senior nl 4||7|||<!--  -->
+|survivor au 5||25|||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 |josephine ange gardien 23||4|||<!-- 29/12/20  -->
+|marble mania 1||2|||<!-- 19/08/21 -->
 ||||||<!--  -->
 
 
@@ -436,7 +473,6 @@
 |two pints of lager 3|||||2|<!--  -->
 |community 1|||||2|<!--  -->
 |skam vsg 1|||||4|<!--  -->
-|we are not human|we are not human|24|serie|chine|18|<!-- 1 -->
 |malcolm 2|||||14|<!--  -->
 |the l word 1|||||4|<!--  -->
 |TEOTFW 2|||||3|<!--  -->
@@ -460,7 +496,6 @@
 |orange marmelade 1|||||6|<!--  -->
 |ragnarok 1|||||2|<!--  -->
 |TMS NL 1||||||<!--  -->
-|next in fashion 1||||||<!--  -->
 |3% 3|||||3|<!--  -->
 |IANOWT 1|||||3|<!--  -->
 |ninja warrior junior us 2|||||7|<!--  -->
@@ -474,7 +509,6 @@
 |bloodride 1||||||<!--  -->
 |mental samourai 1||||||<!--  -->
 |les zinzins de l'espace 1|||||4|<!--  -->
-|all for one 2|||||3|<!--  -->
 |port charles 1||||||<!--  -->
 |GA 2|||||15|<!--  -->
 |dark 1|||||7|<!--  -->
@@ -507,7 +541,6 @@
 |you 1|||||2|<!--  -->
 |so much in love|so much in love|12|serie|thailande|2|<!-- 6 -->
 |blacklist|blacklist|13|serie(**)|thailande|1|<!-- 8 -->
-|aggretsuko 3|||||3|<!--  -->
 |unbag|unbag|?|show|thailande|13|<!-- 9 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!-- 10 -->
 |baby 3|||||1|<!--  -->
@@ -550,31 +583,45 @@
 |ICSYV FR 1||?|||2|<!--  -->
 |an eye for an eye 1||?|||1|<!-- 17/05 -->
 |dark blue kiss||12|||1|<!--  -->
-|AGT 16||?|||2|<!--  -->
 |vincenzo||20|||2|<!--  -->
-|lego masters 2||12|||3|<!-- 2/6 -->
 |elite 4||8|||3|<!-- 18/6 -->
-|the cube 1||8|||0|<!--  -->
 |siew sum noi 1||12|||1|<!--  -->
-|RPDRAS 6||12|||3|<!-- 22/5 -->
-|RPDRASU 6||10|||3|<!-- 22/5 -->
-|marble mania 1||?|||1|<!--  -->
-|drop 1||8|||2|<!--  -->
+|don't say no 1||?|||4|<!--  -->
 |camping paradis 12||?|||1|<!--  -->
 |young royals 1||6|||1|<!--  -->
 |46 days 1||?|||0|<!--  -->
 |glow up 2||10|||1|<!--  -->
 |josephine ange gardien 24||6|||1|<!--  -->
-|survivor au 5||25||||<!--  -->
-|survivor au 8||25||||<!--  -->
-|survivor sa 8||14||||<!--  -->
 |Control z 2||6||||<!--  -->
-|drag race nl 2||?|||0|<!--  -->
-|the voice au 10||?||||<!--  -->
 |KL 27||?||||<!--  -->
 |post mortem 1||6||||<!--  -->
-|Survivor 4||15||||<!--  -->
 |AHS 10||10||||<!--  -->
+|the yearbook||8||||<!--  -->
+|bite me 1||?||||<!--  -->
+|peach of time 1||10||||<!--  -->
+|7project||7||||<!--  -->
+|Qforce||10||||<!--  -->
+|survivor 8||17||||<!--  -->
+|EMS earth mix space 1||?||||<!--  -->
+|the voice 11||7||||<!--  -->
+|dals 11||?||||<!--  -->
+|alice in borderland 1||8||||<!--  -->
+|the voice bulgarie 8||?||||<!--  -->
+|Strictly come dancing 19||?||||<!--  -->
+|the voice esp 8||?||||<!--  -->
+|/9-1-1 5||18||||<!--  -->
+|DWTS 30||?||||<!--  -->
+|the voice us 21||?||||<!--  -->
+|the big leap 1||10||||<!--  -->
+|la mas draga 4||10||||<!--  -->
+|the masked singer 6||?||||<!--  -->
+|survivor 41||12||||<!--  -->
+|alter ego 1||10||||<!--  -->
+|rpdruk 3||10||||<!--  -->
+|the tasty florida 1||8||||<!--  -->
+|goblin 1||16||||<!--  -->
+|the voice greece 8||?||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -587,21 +634,19 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |bad buddy 1||12|||0|<!--  -->
-|don't say no 1||?|||0|<!--  -->
-|the titan games 3||?|||0|<!--  -->
-|ahs 10||?|||0|<!--  -->
 |q-force 1||?|||0|<!--  -->
-|dwts 30||?|||0|<!--  -->
-|the voice us 21||?|||0|<!--  -->
-|survivor 41||?|||0|<!--  -->
-|drag race uk 3||?|||0|<!--  -->
 |young sheldon 5||?|||0|<!--  -->
 |dexter 9||?|||0|<!--  -->
 |queen of the universe 1||6|||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
+|the voice ger 11|||||0|<!--  -->
+|drag race ca 2|||||0|<!--  -->
+|the masked singer ger 5|||||0|<!--  -->
+|dragula 4||||||<!--  -->
+|my sweet dear 1||||||<!--  -->
+|druck 7||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |love is science 1||?|||0|<!-- 27/3 -->
 |CIWYW 1||?|||0|<!-- 9/4 -->

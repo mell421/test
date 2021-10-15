@@ -1,0 +1,202 @@
+---
+title: "allListe"
+output:
+  html_document:
+    df_print: paged
+    toc: false
+---
+```{r setup, include = FALSE}
+suppressWarnings(source("./R/sources.R"))
+suppressWarnings(library(tidyverse))
+library(tidygraph)
+library(dplyr)
+require(devtools)
+library(car)
+
+```
+
+
+[retour](./../index.html)  
+
+<!-- -->
+[MD](./allListe.Rmd)  
+[wordcloud](./wordcloud.html)  
+---
+
+## HISTORIQUE ET PREMDER
+
+### hist
+```{r hist, echo=FALSE}
+data <- data.frame(listDesc.desc())
+data %>% select(tisaep,Horodateur,status)
+```
+
+### premder ec
+```{r premDerEc, echo=FALSE}
+data <- data.frame(premder.ec())
+data %>% filter(tisaep.all_2 != "")  %>% select(tisaep.all_2
+,date.premder.all_2) 
+```
+
+### premder
+```{r premder, echo=FALSE}
+data <- data.frame(premder.premder())
+data %>% filter(tisaep.all_1 != "") %>% select(tisaep.all_1,date.premder.all_1,status.all_1) 
+```
+
+### prem der
+```{r premDer, echo=FALSE}
+data <- data.frame(premder.prem.der())
+data %>% filter(tisaep.all != "")  %>% select(tisaep.all
+,date.premder.all,status.all) 
+```
+
+---
+
+## CATEGORIES
+
+### debut
+```{r lettre, echo=FALSE}
+data <- data.frame(listDesc.desc())
+data %>% filter(episode == 1,status=="en cours") %>% select(tisaep,Horodateur,descr.img) 
+
+```
+
+### liste EC : alea
+```{r alea, echo=FALSE}
+
+data <- data.frame(listDesc.desc())
+max <- 100
+data %>% filter(status == "en cours") %>% sample_n(max) %>% group_by(tisa) %>% summarise(pc = n()) %>% arrange(desc(pc)) %>% filter(pc >= 3)
+```
+
+### liste EC : Titre
+```{r titre, echo=FALSE}
+df <- data.frame(listDesc.ec())
+data <- data.frame(listDesc.desc())
+data <- distinct(data)
+# titre = readline()
+titre = df[1,2]
+data %>% filter(Titre == titre) %>% select(tisaep,Horodateur) 
+if(data[2,2] == data[1,2]){
+  titre = df[3,2]
+} else {
+  titre = df[2,2]
+}
+data %>% filter(Titre == titre) %>% select(tisaep,Horodateur) 
+```
+
+### liste EC
+```{r ec, echo=FALSE}
+data <- data.frame(listDesc.desc())
+data %>% filter(status == "en cours") %>% select(tisaep,Horodateur) 
+```
+
+### liste TER
+```{r ter, echo=FALSE}
+data <- data.frame(listDesc.desc())
+data %>% filter(status == "terminée") %>% select(tisaep,Horodateur) 
+```
+
+### liste film
+```{r film, echo=FALSE}
+data <- data.frame(listDesc.desc())
+data %>% filter(status == "film") %>% select(tisaep,Horodateur) 
+```
+
+---
+## NB
+
+### nb
+```{r nb, echo=FALSE}
+data <- data.frame(aListes())
+
+# df <- data.frame(cbind(data$titre,data$nbDeLignes,data$titre_1,data$nbPage))
+# df[1:50,]
+
+data %>% filter(titre != "")  %>% select(titre,nbDeLignes) 
+data %>% filter(titre_1 != "")  %>% select(titre_1,nbPage) 
+```
+
+### nb (large)
+```{r nb2, echo=FALSE}
+data <- data.frame(aListes())
+        data %>% filter(titre_1 != "") %>% mutate(sum=nbDeLignes+nbPage) %>% rename("nb"=nbDeLignes,"nbBis"=nbPage) %>% select(titre,nb,titre_1,nbBis,sum)
+```
+
+---
+## COPIE BY SCRIPT
+
+### copy
+```{r copy, echo=FALSE}
+data <- data.frame(aCopyAll())
+        data <- data[2:2]
+        data %>% filter(tout != "")
+    
+```
+
+### conclu
+```{r conclu, echo=FALSE}
+   data <- data.frame(aTestConclu())
+        data <- data[2:4]
+        data %>% filter(conclucompi.... != "")
+    
+```
+
+### conclubis
+```{r conclubis, echo=FALSE}
+data <- data.frame(aTestConcluBis())
+        data <- data[2:4]
+        data %>% filter(conclucompibis.... != "")
+    
+```
+
+### sem
+```{r sem, echo=FALSE}
+data <- data.frame(copy.sem())
+        data <- data[2:5]
+        data %>% filter(resumesem.... != "")
+```
+
+### mois
+```{r mois, echo=FALSE}
+data <- data.frame(copy.mois())
+        data <- data[2:5]
+        data %>% filter(resumemois.... != "")
+    
+```
+
+### max
+```{r max, echo=FALSE}
+data <- data.frame(aTestMax())
+        data <- data[2:4]
+        data %>% filter(max.... != "")
+```
+
+### eff
+```{r eff, echo=FALSE}
+data <- data.frame(aEff())
+        data <- data[2:4]
+        data %>% filter(eff.... != "")
+```
+
+### pageappres
+```{r pageappres, echo=FALSE}
+data <- data.frame(pageappres())
+        data <- data[1:16]
+        data %>% filter(date != "") 
+```
+
+### pageappres suppr
+```{r pageappressup, echo=FALSE}
+data <- data.frame(pageappressup())
+        data <- data[1:16]
+        data %>% filter(date != "") 
+```
+
+---
+
+## 
+```{r , echo=FALSE}
+
+```

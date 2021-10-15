@@ -23,53 +23,81 @@ Papa and daddy 1x1
 ### tisaep all
 * $
 $
+La mas draga 4x2
+The voice us 21x4
+Koh-lanta 27x5
+The voice greece 8x4
+* The voice greece 8x1
+* Goblin 1x1
+The voice bulgarie 8x3
+Strictly come dancing 19x2
+The voice esp 8x2
+The voice 11x3
+Dont say no 1x8
+Dals 11x2
+Earthmix space 1x2
+The tasty florida 1x2
+* The tasty florida 1x1
+Alter ego 1x2
+The masked singer 6x2
+* Rpdruk 3x1
+* Alter ego 1x1
+* Survivor 41x1
+Ahs 10x6
+* The masked singer 6x1
+The good doctor 4x10
+* La mas draga 4x1
+7project 1x4
+* The big leap 1x1
+* The voice us 21x1
+* Dwts 30x1
+* /9-1-1 5x1
+* The voice esp 8x1
+Post mortem 1x3
+* Strictly come dancing 19x1
+* The voice bulgarie 8x1
+* Alice in borderland 1x1
+* Dals 11x1
+Unbag 1x30
+Peach of time 1x6
+Josephine ange gardien 24x2
+Buffy 1x7
+* The voice 11x1
+* Earthmix space 1x1
+Lucifer 4x4
+Bite me 1x2
+Vwars 1x7
+Survivor 8x3
+* Survivor 8x1
+* Qforce 1x1
+Bt21 original story 1x11
+* 7project 1x1
+Camping paradis 12x4
+* Peach of time 1x1
+* Bite me 1x1
+* The yearbook 1x1
+* Ahs 10x1
+* Post mortem 1x1
+* Koh-lanta 27x1
 From dusk till dawn 2x5
-Survivor au 8x17
-The voice au 10x8
-Dont say no 1x3
-Drop 1x6
-The cube 1x9
-Drag race nl 2x3
-Rpdrasu 6x10
-Rpdras 6x10
-Marble mania 1x2
-Lego masters 2x8
-Unbag 1x28
-Agt 16x12
-Survivor au 5x11
-Survivor sa 8x6
-* The voice au 10x1
 Good singers 1x4
 * Dont say no 1x1
-* Drag race nl 2x1
 Control z 2x2
 * Control z 2x1
 /46 days 1x7
 Glow up 2x2
-* Survivor sa 8x1
-Bt21 original story 1x10
-Camping paradis 12x3
-* Survivor au 8x1
-* Survivor au 5x1
-Josephine ange gardien 24x1
+* Josephine ange gardien 24x1
 * Glow up 2x1
 Zombie detective 1x2
 * /46 days 1x1
 * Young royals 1x1
 * Camping paradis 12x1
-* Drop 1x1
-* Marble mania 1x1
-* Rpdrasu 6x1
-* Rpdras 6x1
 * Siew sum noi 1x1
 Elite 4x3
-* The cube 1x1
 * Elite 4x1
 Dark blue kiss 1x2
-* Lego masters 2x1
 Vincenzo 1x2
 * Vincenzo 1x1
-* Agt 16x1
 * Dark blue kiss 1x1
 * An eye for an eye 1x1
 I can see your voice fr 1x2
@@ -128,7 +156,6 @@ Quien es la mascara 2x2
 * Quien es la mascara 2x1
 * Ben x jim 1x1
 * Boys lockdown 1x1
-We are not human 1x18
 * Friend zone 1x1
 * Capture lover 1x1
 * Zombie detective 1x1
@@ -136,9 +163,7 @@ We are not human 1x18
 * My day 1x1
 * Baby 3x1
 * My dear loser edge of 17 1x1
-Aggretsuko 3x3
 * Unbag 1x1
-* Aggretsuko 3x1
 So much in love 1x2
 * Blacklist series 1x1
 * So much in love 1x1
@@ -147,7 +172,6 @@ You 1x2
 Long khong 1x4
 * Love alarm 1x1
 Phineas & ferb 1x32
-Lucifer 4x3
 * Alta mar 1x1
 * Into the night 1x1
 * Nailed it ger 1x1
@@ -176,13 +200,11 @@ Hollywood 1x2
 Les simpson 3x4
 * Les simpson 3x1
 * Penny dreadful city of angels 1x1
-Vwars 1x6
 Dark 1x7
 Ga 2x15
 Magic for humans 2x2
 * Port charles 1x1
 Ninja warrior junior us 2x7
-All for one 2x3
 Les ratz 1x4
 Les zinzins de lespace 1x4
 * Les zinzins de lespace 1x1
@@ -208,7 +230,6 @@ Jeopardy 32x158
 Ragnarok 1x2
 /3% 3x3
 Imortal 1x10
-* Next in fashion 1x1
 * The masked singer nl 1x1
 * Ragnarok 1x1
 Orange marmelade 1x6
@@ -236,7 +257,6 @@ Teotfw 2x3
 The l word 1x4
 Two pints of lager 3x2
 Malcolm 2x14
-* We are not human 1x1
 The politician 1x4
 Skam vsg 1x4
 * Community 1x1
@@ -276,7 +296,6 @@ Light as a feather 1x6
 Nos4a2 1x3
 Doom patrol 1x4
 Rupaul show 1x5
-* Sytycd 15x1
 * Steven universe 1x1
 Explained 1x6
 * The voice germany 1x1
