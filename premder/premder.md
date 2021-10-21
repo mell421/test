@@ -41,7 +41,6 @@ The masked singer 6x2
 * Rpdruk 3x1
 * Alter ego 1x1
 * Survivor 41x1
-Ahs 10x6
 * The masked singer 6x1
 The good doctor 4x10
 * La mas draga 4x1
@@ -74,7 +73,6 @@ Camping paradis 12x4
 * Peach of time 1x1
 * Bite me 1x1
 * The yearbook 1x1
-* Ahs 10x1
 * Post mortem 1x1
 * Koh-lanta 27x1
 From dusk till dawn 2x5

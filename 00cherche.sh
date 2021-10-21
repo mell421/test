@@ -10,7 +10,7 @@ list=( "Unbag _1" "Bt21 original story _1" # >= 100
 "Peach of time _1" "My vampire boyfriend _1" "From dusk till dawn _2" # 29 - 20
 "Dont say no _1" "Vincenzo _1" "The harvest season _1" "Elite _4" # 19 - 15
 "The good doctor _4" "Survivor _8" "Bt21 vlog _1" "Wabi show _1" # 14 - 10
-"Ahs _10" "" # 9
+"" # 9
 "Vwars _1" "Camping paradis _12" "Good singers _1" "Schools out lets date now _1" "Tokyo ghoul _3" # 8
 "Control z _2" "You never eat alone _1" # 7
 "Mr lipstick _1" "The untamed _1" # 6
@@ -29,7 +29,7 @@ list99=( "Unbag _1" "Bt21 original story _1" "My vampire boyfriend _1" # >= 200
 "Vincenzo _1" "The harvest season _1" "From dusk till dawn _2" "Dont say no _1" # 99-50
 "" # 49-40
 "Peach of time _1" "The good doctor _4" "Elite _4" "Koishite akuma _1" "Be love _1" # 39-30
-"Ahs _10" "Camping paradis _12" "" # 29-20
+"Camping paradis _12" "" # 29-20
 "Survivor _8" "Schools out lets date now _1" "You never eat alone _1" "Good singers _1" # 19-15
 "Dark blue kiss _1" "Vwars _1" "Bt21 vlog _1" "Wabi show _1" "Glow up _2" "Tokyo ghoul _3" "7project _1" "Koh-lanta _27" "Control z _2" "The shipper _1" "Zombie detective _1" # 14-10
 "I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "" # 9

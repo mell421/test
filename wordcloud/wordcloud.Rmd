@@ -469,6 +469,13 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+### timing p1 
+```{r timing1 , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
+```
+
 ---
 
 ## GRAPHS
