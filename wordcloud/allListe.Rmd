@@ -7,6 +7,7 @@ output:
 ---
 
 ```{r setup, include = FALSE}
+begin_time <-Sys.time()
 suppressWarnings(source("./R/sources.R"))
 suppressWarnings(library(tidyverse))
 library(tidygraph)
@@ -197,7 +198,9 @@ data <- data.frame(pageappressup())
 
 ---
 
-## 
-```{r , echo=FALSE}
-
+### timing 
+```{r timing , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
 ```
