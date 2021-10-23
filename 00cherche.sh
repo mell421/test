@@ -40,7 +40,7 @@ list99=( "Unbag _1" "Bt21 original story _1" "My vampire boyfriend _1" # >= 200
 "Bangkok love stories innocence _1" "" # 4
 "" # 3
 "Earthmix space _1" "" # 2
-"The voice _11" "" # 1
+"" # 1
 "" # 0
 )
 

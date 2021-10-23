@@ -33,7 +33,7 @@ loadMesPackages <- function(){
   library(car)
   library(dplyr)
   library(DT)
-  library("gsheet")
+  require("gsheet")
   library("ggplot2")
   library(ggraph)
   library("htmlwidgets")
@@ -43,12 +43,12 @@ loadMesPackages <- function(){
   library("RColorBrewer")
   library("SnowballC")
   library("syuzhet")
-  suppressWarnings(library(tidyverse))
-  library("utf8")
-  library("wordcloud")
-  library(wordcloud2)
-  library("webshot")
-
+  suppressWarnings(require(tidyverse))
+  require("utf8")
+  require("wordcloud")
+  require(wordcloud2)
+  require("webshot")
+  require(vtable)
   require(devtools)
 }
 

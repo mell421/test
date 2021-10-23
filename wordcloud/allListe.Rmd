@@ -25,6 +25,28 @@ library(car)
 [wordcloud](./wordcloud.html)  
 ---
 
+## SUMMARY
+
+### stats
+```{r stats3, echo=FALSE}
+# by(data, data$category, summary)
+# Hmisc::describe(data)
+print("accueil")
+accue <- data.frame(accueil())
+#summary(accue)
+#Hmisc::describe(accue)
+a2 <- (st(accue))
+a2
+print("copy script")
+cs <- data.frame(aCopyScript())
+#summary(cs)
+#Hmisc::describe(cs)
+c2 <- (st(cs))
+c2
+```
+
+---
+
 ## HISTORIQUE ET PREMDER
 
 ### hist

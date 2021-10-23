@@ -450,6 +450,7 @@
 |survivor au 5||25|||<!--  -->
 |the tasty florida 1||8|||<!--  -->
 |AHS 10||10|||<!--  -->
+|the voice 11||7|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -604,7 +605,6 @@
 |Qforce||10||||<!--  -->
 |survivor 8||17||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->
-|the voice 11||7||||<!--  -->
 |dals 11||?||||<!--  -->
 |alice in borderland 1||8||||<!--  -->
 |the voice bulgarie 8||?||||<!--  -->

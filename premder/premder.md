@@ -32,7 +32,6 @@ The voice greece 8x4
 The voice bulgarie 8x3
 Strictly come dancing 19x2
 The voice esp 8x2
-The voice 11x3
 Dont say no 1x8
 Dals 11x2
 Earthmix space 1x2
@@ -59,7 +58,6 @@ Unbag 1x30
 Peach of time 1x6
 Josephine ange gardien 24x2
 Buffy 1x7
-* The voice 11x1
 * Earthmix space 1x1
 Lucifer 4x4
 Bite me 1x2

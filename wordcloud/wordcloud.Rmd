@@ -970,36 +970,6 @@ netw(10)
 #dev.print(device = png, file = "network1_2.png", width = 600)
 ```
 
-### stats
-```{r stats, echo=FALSE}
-# by(data, data$category, summary)
-# Hmisc::describe(data)
-
-print("accueil")
-accue <- data.frame(accueil())
-summary(accue)
-
-print("copy script")
-cs <- data.frame(aCopyScript())
-summary(cs)
-
-```
-
-### stats2
-```{r stats2, echo=FALSE}
-# by(data, data$category, summary)
-# Hmisc::describe(data)
-
-print("accueil")
-accue <- data.frame(accueil())
-Hmisc::describe(accue)
-
-print("copy script")
-cs <- data.frame(aCopyScript())
-Hmisc::describe(cs)
-
-```
-
 ### timing 
 ```{r timing , echo=FALSE}
 end_time<-Sys.time()
