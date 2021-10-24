@@ -589,14 +589,14 @@
 |vincenzo||20|||2|<!--  -->
 |elite 4||8|||3|<!-- 18/6 -->
 |siew sum noi 1||12|||1|<!--  -->
-|don't say no 1||?|||4|<!--  -->
+|dont say no 1||?|||4|<!--  -->
 |camping paradis 12||?|||1|<!--  -->
 |young royals 1||6|||1|<!--  -->
 |46 days 1||?|||0|<!--  -->
 |glow up 2||10|||1|<!--  -->
 |josephine ange gardien 24||6|||1|<!--  -->
 |Control z 2||6||||<!--  -->
-|KL 27||?||||<!--  -->
+|Koh-Lanta 27||?||||<!--  -->
 |post mortem 1||6||||<!--  -->
 |the yearbook||8||||<!--  -->
 |bite me 1||?||||<!--  -->

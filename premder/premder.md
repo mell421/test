@@ -19,29 +19,71 @@ Ciwyw 1x1
 Ciwyw 1x3
 Papa and daddy 1x2
 Papa and daddy 1x1
+The masked singer ger 5x2
+Midnight mass 1x2
+Bite sisters 1x2
+Insiders 1x2
+Incroyable talent 16x2
+Dragula 4x2
+Age of the living dead 1x2
+The voice portugal 9x2
+Drag race ca 2x2
+Kieta hatsukoi 1x2
+Young sheldon 5x2
+Goblin 1x2
+Rpdruk 3x2
+The big leap 1x2
 
 ### tisaep all
 * $
 $
-La mas draga 4x2
-The voice us 21x4
-Koh-lanta 27x5
-The voice greece 8x4
+* The masked singer ger 5x1
+* Midnight mass 1x1
+The voice ger 11x3
+The voice esp 8x6
+Dals 11x6
+Earthmix space 1x4
+Unbag 1x32
+* Bite sisters 1x1
+Munch 4x2
+* Munch 4x1
+* Insiders 1x1
+Alter ego 1x6
+The masked singer 6x6
+The voice us 21x10
+* Incroyable talent 16x1
+La mas draga 4x5
+* Dragula 4x1
+* Age of the living dead 1x1
+Koh-lanta 27x8
+Dwts 30x6
+Inhuman condition 1x7
+* Inhuman condition 1x1
+* The voice portugal 9x1
+The good doctor 4x18
+The voice greece 8x10
+Strictly come dancing 19x8
+The voice bulgarie 8x6
+Survivor au 6x3
+* Survivor au 6x1
+Survivor 41x4
+Aoki vuanpaia no nayami 1x2
+* Aoki vuanpaia no nayami 1x1
+* Drag race ca 2x1
+* Kieta hatsukoi 1x1
+/9-1-1 5x3
+Love area 1x2
+* Love area 1x1
+Dont say no 1x10
+* The voice ger 11x1
+* Young sheldon 5x1
+The shipper 1x5
 * The voice greece 8x1
 * Goblin 1x1
-The voice bulgarie 8x3
-Strictly come dancing 19x2
-The voice esp 8x2
-Dont say no 1x8
-Dals 11x2
-Earthmix space 1x2
-Alter ego 1x2
-The masked singer 6x2
 * Rpdruk 3x1
 * Alter ego 1x1
 * Survivor 41x1
 * The masked singer 6x1
-The good doctor 4x10
 * La mas draga 4x1
 7project 1x4
 * The big leap 1x1
@@ -54,7 +96,6 @@ Post mortem 1x3
 * The voice bulgarie 8x1
 * Alice in borderland 1x1
 * Dals 11x1
-Unbag 1x30
 Peach of time 1x6
 Josephine ange gardien 24x2
 Buffy 1x7
@@ -117,7 +158,6 @@ The untamed 1x3
 * You never eat alone 1x1
 * Slam dance 1x1
 Be love 1x3
-The shipper 1x4
 * Tien bromance 1x1
 Ben x jim 1x2
 Koishite akuma 1x3
