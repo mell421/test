@@ -145,7 +145,6 @@ Good singers _1x3(1) So much in love _1x2(1)
 #### sem 31-08-2020 
 Unbag _1x2(1) So much in love _1x3(1) Blacklist series _1x2(1) 
 #### sem 07-09-2020 
-
 #### sem 14-09-2020 
 Unbag _1x3(1) 
 #### sem 21-09-2020 

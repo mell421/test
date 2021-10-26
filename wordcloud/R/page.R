@@ -146,11 +146,25 @@ aBLlist <- function(){
   return(table)
 }
 
-
-
+# -----------------------------------------------------
+z00 <- function(ligne){
+  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=202069166')))[ligne,3]
+  #table <- table[ligne,3]
+  table <- data.frame(suppressWarnings(gsheet2tbl(table)))
+  na.omit(table)
+  return(table)
+}
+print(summary(z00(1)))
+z01 <- function(ligne){
+  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=202069166')))[ligne,2]
+  na.omit(table)
+  return(table)
+}
+print(z01(1))
 
 # a <- function(){
 #   table <- data.frame(suppressWarnings(gsheet2tbl('')))
 #   na.omit(table)
 #   return(table)
 # }
+

@@ -1,0 +1,50 @@
+---
+title: "allListe"
+output:
+  html_document:
+    df_print: paged
+    toc: false
+---
+
+```{r setup, include = FALSE}
+begin_time <-Sys.time()
+suppressWarnings(source("./R/sources.R"))
+suppressWarnings(library(tidyverse))
+library(tidygraph)
+library(dplyr)
+require(devtools)
+library(car)
+library(vtable)
+
+```
+
+
+[retour](./../index.html)  
+
+<!-- -->
+[MD](./allListe.Rmd)  
+[wordcloud](./wordcloud.html)  
+---
+
+## SUMMARY
+
+### stats
+```{r stats, echo=FALSE}
+for (i in 1:64) {
+  print(i)
+  print(z01(i))
+  print(summary(z00(i)))
+  print(" ")
+  print("--------------------------------")
+  print(" ")
+}
+
+
+```
+
+### timing 
+```{r timing , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
+```

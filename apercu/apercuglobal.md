@@ -8,400 +8,144 @@
 - [ajout reponse](#ajout-reponse)
   - [sommaire](#sommaire)
   - [Aperçu semaine](#aperçu-semaine)
-      - [sem 22-04-2019](#sem-22-04-2019)
-      - [sem 29-04-2019](#sem-29-04-2019)
-      - [sem 06-05-2019](#sem-06-05-2019)
-      - [sem 13-05-2019](#sem-13-05-2019)
-      - [sem 20-05-2019](#sem-20-05-2019)
-      - [sem 27-05-2019](#sem-27-05-2019)
-      - [sem 03-06-2019](#sem-03-06-2019)
-      - [sem 10-06-2019](#sem-10-06-2019)
-      - [sem 17-06-2019](#sem-17-06-2019)
-      - [sem 24-06-2019](#sem-24-06-2019)
-      - [sem 01-07-2019](#sem-01-07-2019)
-      - [sem 08-07-2019](#sem-08-07-2019)
-      - [sem 15-07-2019](#sem-15-07-2019)
-      - [sem 22-07-2019](#sem-22-07-2019)
-      - [sem 29-07-2019](#sem-29-07-2019)
-      - [sem 05-08-2019](#sem-05-08-2019)
-      - [sem 12-08-2019](#sem-12-08-2019)
-      - [sem 19-08-2019](#sem-19-08-2019)
-      - [sem 26-08-2019](#sem-26-08-2019)
-      - [sem 02-09-2019](#sem-02-09-2019)
-      - [sem 09-09-2019](#sem-09-09-2019)
-      - [sem 16-09-2019](#sem-16-09-2019)
-      - [sem 23-09-2019](#sem-23-09-2019)
-      - [sem 30-09-2019](#sem-30-09-2019)
-      - [sem 07-10-2019](#sem-07-10-2019)
-      - [sem 14-10-2019](#sem-14-10-2019)
-      - [sem 21-10-2019](#sem-21-10-2019)
-      - [sem 28-10-2019](#sem-28-10-2019)
-      - [sem 04-11-2019](#sem-04-11-2019)
-      - [sem 11-11-2019](#sem-11-11-2019)
-      - [sem 18-11-2019](#sem-18-11-2019)
-      - [sem 25-11-2019](#sem-25-11-2019)
-      - [sem 02-12-2019](#sem-02-12-2019)
-      - [sem 09-12-2019](#sem-09-12-2019)
-      - [sem 16-12-2019](#sem-16-12-2019)
-      - [sem 23-12-2019](#sem-23-12-2019)
-      - [sem 30-12-2019](#sem-30-12-2019)
-      - [sem 06-01-2020](#sem-06-01-2020)
-      - [sem 13-01-2020](#sem-13-01-2020)
-      - [sem 20-01-2020](#sem-20-01-2020)
-      - [sem 27-01-2020](#sem-27-01-2020)
-      - [sem 03-02-2020](#sem-03-02-2020)
-      - [sem 10-02-2020](#sem-10-02-2020)
-      - [sem 17-02-2020](#sem-17-02-2020)
-      - [sem 24-02-2020](#sem-24-02-2020)
-      - [sem 02-03-2020](#sem-02-03-2020)
-      - [sem 09-03-2020](#sem-09-03-2020)
-      - [sem 16-03-2020](#sem-16-03-2020)
-      - [sem 23-03-2020](#sem-23-03-2020)
-      - [sem 30-03-2020](#sem-30-03-2020)
-      - [sem 06-04-2020](#sem-06-04-2020)
-      - [sem 13-04-2020](#sem-13-04-2020)
-      - [sem 20-04-2020](#sem-20-04-2020)
-      - [sem 27-04-2020](#sem-27-04-2020)
-      - [sem 04-05-2020](#sem-04-05-2020)
-      - [sem 11-05-2020](#sem-11-05-2020)
-      - [sem 18-05-2020](#sem-18-05-2020)
-      - [sem 25-05-2020](#sem-25-05-2020)
-      - [sem 01-06-2020](#sem-01-06-2020)
-      - [sem 08-06-2020](#sem-08-06-2020)
-      - [sem 15-06-2020](#sem-15-06-2020)
-      - [sem 22-06-2020](#sem-22-06-2020)
-      - [sem 29-06-2020](#sem-29-06-2020)
-      - [sem 06-07-2020](#sem-06-07-2020)
-      - [sem 13-07-2020](#sem-13-07-2020)
-      - [sem 20-07-2020](#sem-20-07-2020)
-      - [sem 27-07-2020](#sem-27-07-2020)
-      - [sem 03-08-2020](#sem-03-08-2020)
-      - [sem 10-08-2020](#sem-10-08-2020)
-      - [sem 17-08-2020](#sem-17-08-2020)
-      - [sem 24-08-2020](#sem-24-08-2020)
-      - [sem 31-08-2020](#sem-31-08-2020)
-      - [sem 07-09-2020](#sem-07-09-2020)
-      - [sem 14-09-2020](#sem-14-09-2020)
-      - [sem 21-09-2020](#sem-21-09-2020)
-      - [sem 28-09-2020](#sem-28-09-2020)
-      - [sem 05-10-2020](#sem-05-10-2020)
-      - [sem 12-10-2020](#sem-12-10-2020)
-      - [sem 19-10-2020](#sem-19-10-2020)
-      - [sem 26-10-2020](#sem-26-10-2020)
-      - [sem 02-11-2020](#sem-02-11-2020)
-      - [sem 09-11-2020](#sem-09-11-2020)
-      - [sem 16-11-2020](#sem-16-11-2020)
-      - [sem 23-11-2020](#sem-23-11-2020)
-      - [sem 30-11-2020](#sem-30-11-2020)
-      - [sem 07-12-2020](#sem-07-12-2020)
-      - [sem 14-12-2020](#sem-14-12-2020)
-      - [sem 21-12-2020](#sem-21-12-2020)
-      - [sem 28-12-2020](#sem-28-12-2020)
-      - [sem 04-01-2021](#sem-04-01-2021)
-      - [sem 11-01-2021](#sem-11-01-2021)
-      - [sem 18-01-2021](#sem-18-01-2021)
-      - [sem 25-01-2021](#sem-25-01-2021)
-      - [sem 01-02-2021](#sem-01-02-2021)
-      - [sem 08-02-2021](#sem-08-02-2021)
-      - [sem 15-02-2021](#sem-15-02-2021)
-      - [sem 22-02-2021](#sem-22-02-2021)
-      - [sem 01-03-2021](#sem-01-03-2021)
-      - [sem 08-03-2021](#sem-08-03-2021)
-      - [sem 15-03-2021](#sem-15-03-2021)
-      - [sem 22-03-2021](#sem-22-03-2021)
-      - [sem 29-03-2021](#sem-29-03-2021)
-      - [sem 05-04-2021](#sem-05-04-2021)
-      - [sem 12-04-2021](#sem-12-04-2021)
-      - [sem 19-04-2021](#sem-19-04-2021)
-      - [sem 26-04-2021](#sem-26-04-2021)
-      - [sem 03-05-2021](#sem-03-05-2021)
-      - [sem 10-05-2021](#sem-10-05-2021)
-      - [sem 17-05-2021](#sem-17-05-2021)
-      - [sem 24-05-2021](#sem-24-05-2021)
-      - [sem 31-05-2021](#sem-31-05-2021)
-      - [sem 07-06-2021](#sem-07-06-2021)
-      - [sem 14-06-2021](#sem-14-06-2021)
-      - [sem 21-06-2021](#sem-21-06-2021)
-      - [sem 28-06-2021](#sem-28-06-2021)
-      - [sem 05-07-2021](#sem-05-07-2021)
-      - [sem 12-07-2021](#sem-12-07-2021)
-      - [sem 19-07-2021](#sem-19-07-2021)
-      - [sem 26-07-2021](#sem-26-07-2021)
-      - [sem 02-08-2021](#sem-02-08-2021)
-      - [sem 09-08-2021](#sem-09-08-2021)
-      - [sem 16-08-2021](#sem-16-08-2021)
-      - [sem 23-08-2021](#sem-23-08-2021)
   - [Aperçu mois](#aperçu-mois)
-      - [mois 01-05-2019](#mois-01-05-2019)
-      - [mois 01-06-2019](#mois-01-06-2019)
-      - [mois 01-07-2019](#mois-01-07-2019)
-      - [mois 01-08-2019](#mois-01-08-2019)
-      - [mois 01-09-2019](#mois-01-09-2019)
-      - [mois 01-10-2019](#mois-01-10-2019)
-      - [mois 01-11-2019](#mois-01-11-2019)
-      - [mois 01-12-2019](#mois-01-12-2019)
-      - [mois 01-01-2020](#mois-01-01-2020)
-      - [mois 01-02-2020](#mois-01-02-2020)
-      - [mois 01-03-2020](#mois-01-03-2020)
-      - [mois 01-04-2020](#mois-01-04-2020)
-      - [mois 01-05-2020](#mois-01-05-2020)
-      - [mois 01-06-2020](#mois-01-06-2020)
-      - [mois 01-07-2020](#mois-01-07-2020)
-      - [mois 01-08-2020](#mois-01-08-2020)
-      - [mois 01-09-2020](#mois-01-09-2020)
-      - [mois 01-10-2020](#mois-01-10-2020)
-      - [mois 01-11-2020](#mois-01-11-2020)
-      - [mois 01-12-2020](#mois-01-12-2020)
-      - [mois 01-01-2021](#mois-01-01-2021)
-      - [mois 01-02-2021](#mois-01-02-2021)
-      - [mois 01-03-2021](#mois-01-03-2021)
-      - [mois 01-04-2021](#mois-01-04-2021)
-      - [mois 01-05-2021](#mois-01-05-2021)
-      - [mois 01-06-2021](#mois-01-06-2021)
-      - [mois 01-07-2021](#mois-01-07-2021)
-      - [mois 01-08-2021](#mois-01-08-2021)
   - [conclu](#conclu)
   - [conclu bis](#conclu-bis)
 
 
 ## Aperçu semaine
-#### sem 22-04-2019 
-Girl meets world _1x7(2) You vs wild _1x3(1) Samokazem _1x3(1) 
-#### sem 29-04-2019 
-Girl meets world _1x8(1) 
-#### sem 06-05-2019 
-Skam vsg _1x4(1) 
-#### sem 13-05-2019 
-#### sem 20-05-2019 
-Sam & cat _1x19(3) Shadowhunters _3x14(2) 
-#### sem 27-05-2019 
+- sem 22-04-2019 Girl meets world _1x7(2) You vs wild _1x3(1) Samokazem _1x3(1) 
+- sem 29-04-2019 Girl meets world _1x8(1) 
+- sem 06-05-2019 Skam vsg _1x4(1) 
+- sem 13-05-2019 
+- sem 20-05-2019 Sam & cat _1x19(3) Shadowhunters _3x14(2) 
+- sem 27-05-2019 
+- sem 03-06-2019 Jeopardy _33x158(1) Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) 
+- sem 10-06-2019 Years and years _1x4(1) Nos4a2 _1x2(1) /3% _3x3(2) 
+- sem 17-06-2019 Explained _1x7(1) The voice germany _1x5(4) Rupaul show _1x2(1) Doom patrol _1x3(1) Nos4a2 _1x3(1) Les lapins cretins _1x48(6) What if _1x2(1) 
+- sem 24-06-2019 Doom patrol _1x4(1) Steven universe _1x2(1) Rupaul show _1x5(3) 
+- sem 01-07-2019 Tf _4x12(1) Rupaul show _1x6(1) 
+- sem 08-07-2019 Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
+- sem 15-07-2019 
+- sem 22-07-2019 Light as a feather _1x7(1) Will and grace _5x2(1) 
+- sem 29-07-2019 Kunoichi _1x6(1) Sasuke _1x2(1) Will and grace _5x4(2) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) 
+- sem 05-08-2019 Dark _1x2(1) Dna _1x6(1) Riverdale _3x11(1) Kunoichi _1x8(1) Sasuke _1x8(2) Girl meets world _1x9(1) Another life _1x2(1) 
+- sem 12-08-2019 Travelers _1x5(1) 
+- sem 19-08-2019 Total drama _2x5(3) Chica vampiro _1x6(5) 
+- sem 26-08-2019 Dirk gently _2x3(2) 1rw _3x3(2) Dark _1x5(3) The voice germany _1x6(1) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(2) 
+- sem 02-09-2019 Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(1) 
+- sem 09-09-2019 Lucifer _4x3(2) Ga _2x13(1) 
+- sem 16-09-2019 Million dollar mile _1x2(1) Chica vampiro _1x7(1) 
+- sem 23-09-2019 Ahs _9x2(1) 
+- sem 30-09-2019 The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(1) Criminal uk _1x2(1) Million dollar mile _1x3(1) Criminal germany _1x2(1) 
+- sem 07-10-2019 Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) The politician _1x4(1) Two pints of lager _3x2(1) Dawson _1x2(1) 
+- sem 14-10-2019 Skam vsg _1x5(1) Prodigal son _1x3(1) 
+- sem 21-10-2019 The politician _1x5(1) 
+- sem 28-10-2019 
+- sem 04-11-2019 Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1) 
+- sem 11-11-2019 Teotfw _2x4(3) The l word _1x5(1) 
+- sem 18-11-2019 Hsmtmts _1x2(1) 
+- sem 25-11-2019 Hsmtmts _1x3(1) 
+- sem 02-12-2019 Ga _2x15(1) New amsterdam _1x4(1) 
+- sem 09-12-2019 Vwars _1x4(3) Forever knight _1x5(4) New amsterdam _1x7(3) Sam & cat _1x21(1) 
+- sem 16-12-2019 Forever knight _1x7(2) 
+- sem 23-12-2019 Magic for humans _2x2(1) New amsterdam _1x8(1) Forever knight _1x8(1) 
+- sem 30-12-2019 Supergirl _1x9(1) Here and now _1x4(1) 
+- sem 06-01-2020 Soundtrack _1x2(1) Zerosterone _1x5(4) Supergirl _1x10(1) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) 
+- sem 13-01-2020 Blood _1x16(1) Aj and the queen _1x2(1) 
+- sem 20-01-2020 Sex education _2x3(2) Dark _1x6(1) Forever knight _1x9(1) 
+- sem 27-01-2020 Shameless _5x2(1) Only connect _15x17(2) Ex on the beach us _4x2(1) Sex education _2x4(1) 
+- sem 03-02-2020 The masked singer nl _1x2(1) Ragnarok _1x2(1) Only connect _15x20(1) Orange marmelade _1x7(1) Gossip girl _1x8(1) 
+- sem 10-02-2020 
+- sem 17-02-2020 
+- sem 24-02-2020 /3% _3x4(1) Imortal _1x11(4) Only connect _15x22(2) 
+- sem 02-03-2020 I am not okay with this _1x3(2) Ninja warrior junior us _2x2(1) Jeopardy _32x159(2) Ragnarok _1x3(1) 
+- sem 09-03-2020 Breaking bad _4x8(1) I am not okay with this _1x4(1) Castlevania _3x2(1) Prodigal son _1x4(1) Only connect _15x23(1) Ninja warrior junior us _2x3(1) 
+- sem 16-03-2020Kingdom _2x2(1) Only connect _15x24(1) 
+- sem 23-03-2020 Dare me _1x2(1) Vwars _1x6(2) Ninja warrior junior us _2x5(2) Prodigal son _1x5(1) 
+- sem 30-03-2020 Les ratz _1x2(1) Why women kill _1x2(1) 
+- sem 06-04-2020 Why women kill _1x4(2) The office _1x3(2) Community _1x3(1) Ninja warrior junior us _2x7(2) 
+- sem 13-04-2020 Hsmtmts _1x4(1) Only connect _15x25(1) Les ratz _1x3(1) Bloodride _1x2(1) Ahs _9x5(1) 
+- sem 20-04-2020 Forever knight _1x10(1) Les ratz _1x5(2) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) 
+- sem 27-04-2020 Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) 
+- sem 04-05-2020 Les simpson _3x5(4) 
+- sem 11-05-2020 Hollywood _1x3(2) 
+- sem 18-05-2020 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) 
+- sem 25-05-2020 
+- sem 01-06-2020 
+- sem 08-06-2020 Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
+- sem 15-06-2020 Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) 
+- sem 22-06-2020 Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
+- sem 29-06-2020 Young dracula _1x7(2) The untamed _1x2(1) 
+- sem 06-07-2020 The untamed _1x3(1) 
+- sem 13-07-2020 
+- sem 20-07-2020 Long khong _1x2(1) Himym _6x2(1) Good singers _1x2(1) 
+- sem 27-07-2020 Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) 
+- sem 03-08-2020 Lucifer _4x4(1) Long khong _1x4(1) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) 
+- sem 10-08-2020 Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) 
+- sem 17-08-2020 The office _1x5(2) You _1x3(1) 
+- sem 24-08-2020 Good singers _1x3(1) So much in love _1x2(1) 
+- sem 31-08-2020 Unbag _1x2(1) So much in love _1x3(1) Blacklist series _1x2(1) 
+- sem 07-09-2020 
+- sem 14-09-2020 Unbag _1x3(1) 
+- sem 21-09-2020 Unbag _1x4(1) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
+- sem 28-09-2020 Unbag _1x5(1) 
+- sem 05-10-2020 Friend forever _1x3(2) My day _1x2(1) 
+- sem 12-10-2020 Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+- sem 19-10-2020 Ben x jim _1x2(1) Boys lockdown _1x2(1) The voice germany _10x3(1)
+- sem 26-10-2020 Boys lockdown _1x3(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Quien es la mascara _2x3(2) 
+- sem 02-11-2020 Swap test _1x3(1) The stranded _1x2(1) Unbag _1x7(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) 
+- sem 09-11-2020 Lakan _1x3(1) Pogi lang hanap _1x4(1) Unbag _1x8(1) Blood _1x17(1) The good doctor _4x2(1) 
+- sem 16-11-2020 My vampire boyfriend _1x3(2) Unbag _1x9(1) 
+- sem 23-11-2020 Unbag _1x10(1) Pogi lang hanap _1x5(1) 
+- sem 30-11-2020 Be love _1x2(1) 
+- sem 07-12-2020 Unbag _1x11(1) Ghost runner _1x2(1) Be love _1x3(1) 
+- sem 14-12-2020 A queen is born _1x2(1) Tale of the nine tailed _1x2(1)
+- sem 21-12-2020 Ghost runner _1x4(2) Unbag _1x12(1) 
+- sem 28-12-2020 Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
+- sem 04-01-2021 Together with me _1x2(1) The shipper _1x4(1) Unbag _1x13(1) Ghost runner _1x5(1) Friend zone _1x3(1) 
+- sem 11-01-2021 Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) 
+- sem 18-01-2021 Koishite akuma _1x4(3) Warper series _1x2(1) Unbag _1x14(1) 
+- sem 25-01-2021 Tien bromance _1x2(1) Ben x jim _1x3(1) 
+- sem 01-02-2021 Be love _1x4(1) Unbag _1x15(1) The shipper _1x5(1) 
+- sem 08-02-2021 Tbbt _11x2(1) The untamed _1x4(1) Schools out lets date now _1x3(2) You never eat alone _1x2(1) Slam dance _1x2(1) 
+- sem 15-02-2021 Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) Unbag _1x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
+- sem 22-02-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) 
+- sem 01-03-2021 Unbag _1x17(1) 
+- sem 08-03-2021 You never eat alone _1x4(1) Schools out lets date now _1x5(1) 
+- sem 15-03-2021 Unbag _1x18(1) You never eat alone _1x5(1) 
+- sem 22-03-2021 Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(1) 
+- sem 29-03-2021 
+- sem 05-04-2021 Unbag _1x19(1) 
+- sem 12-04-2021 Mr lipstick _1x3(2) Bt21 original story _1x8(1) 
+- sem 19-04-2021 Unbag _1x20(1) 
+- sem 26-04-2021 I can see your voice fr _1x2(1) 
+- sem 03-05-2021 Unbag _1x21(1) 
+- sem 10-05-2021 
+- sem 17-05-2021 Unbag _1x22(1) I can see your voice fr _1x3(1) 
+- sem 24-05-2021 Bt21 original story _1x9(1) An eye for an eye _1x2(1) 
+- sem 31-05-2021 Dark blue kiss _1x2(1) Unbag _1x23(1) 
+- sem 07-06-2021 Vincenzo _1x3(2) 
+- sem 14-06-2021 Unbag _1x24(1) 
+- sem 21-06-2021 Elite _4x4(3) Dark blue kiss _1x3(1) 
+- sem 28-06-2021 Unbag _1x25(1) Siew sum noi _1x2(1) 
+- sem 05-07-2021 Bt21 original story _1x10(1) 
+- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
+- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
+- sem 26-07-2021 /46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) 
+- sem 02-08-2021 Bt21 original story _1x11(1) 
+- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+- sem 16-08-2021 Dont say no _1x3(1) 
+- sem 23-08-2021 Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
+- sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) The good doctor _4x3(1) Post mortem _1x3(2) Koh-lanta _27x2(1) From dusk till dawn _2x6(1) 
+- sem 06-09-2021 Vwars _1x8(1) Survivor _8x4(3) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) The good doctor _4x5(2) Bt21 original story _1x12(1) 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(1) Camping paradis _12x5(1) 
+- sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) The good doctor _4x7(2) Peach of time _1x6(2) 7project _1x3(1) 
+- sem 20-09-2021 Post mortem _1x4(1) The voice bulgarie _8x3(2) Strictly come dancing _19x2(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Dals _11x2(1) Unbag _1x31(1) The good doctor _4x9(2) Koh-lanta _27x4(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
+- sem 27-09-2021 The voice greece _8x2(1) Goblin _1x2(1) The voice bulgarie _8x4(1) Strictly come dancing _19x3(1) The voice esp _8x3(2) Dont say no _1x9(1) Dals _11x3(1) Earthmix space _1x3(1) Alter ego _1x3(2) The masked singer _6x3(2) Rpdruk _3x2(1) Survivor _41x2(1) The good doctor _4x11(2) La mas draga _4x2(1) The voice us _21x3(2) Koh-lanta _27x5(1) 7project _1x5(1) The big leap _1x2(1) Dwts _30x2(1) /9-1-1 _5x2(1) 
+- sem 04-10-2021 Strictly come dancing _19x5(2) The voice greece _8x7(5) The voice bulgarie _8x5(1) The shipper _1x6(1) The voice esp _8x4(1) Dals _11x4(1) Survivor _41x3(1) /9-1-1 _5x3(1) The masked singer _6x4(1) Alter ego _1x4(1) The good doctor _4x13(2) Dwts _30x3(1) La mas draga _4x3(1) The voice us _21x5(2) Koh-lanta _27x6(1) 
+- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) The voice bulgarie _8x6(1) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) Dals _11x5(1) La mas draga _4x4(1) Alter ego _1x5(1) The masked singer _6x5(1) The voice us _21x7(2) The good doctor _4x15(2) Koh-lanta _27x7(1) Dwts _30x4(1) 
+- sem 18-10-2021 The voice portugal _9x2(1) The good doctor _4x19(4) The voice greece _8x11(2) Strictly come dancing _19x9(2) The voice bulgarie _8x7(1) Survivor au _6x4(3) Survivor _41x5(1) Aoki vuanpaia no nayami _1x3(2) Drag race ca _2x2(1) Dwts _30x6(2) The voice esp _8x6(1) Dals _11x6(1) The voice ger _11x3(1) The masked singer _6x6(1) Alter ego _1x6(1) La mas draga _4x5(1) The voice us _21x9(2) Koh-lanta _27x8(1) Kieta hatsukoi _1x2(1) 
 
-#### sem 03-06-2019 
-Jeopardy _33x158(1) Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) 
-#### sem 10-06-2019 
-Years and years _1x4(1) Nos4a2 _1x2(1) /3% _3x3(2) 
-#### sem 17-06-2019 
-Explained _1x7(1) The voice germany _1x5(4) Rupaul show _1x2(1) Doom patrol _1x3(1) Nos4a2 _1x3(1) Les lapins cretins _1x48(6) What if _1x2(1) 
-#### sem 24-06-2019 
-Doom patrol _1x4(1) Steven universe _1x2(1) Rupaul show _1x5(3) 
-#### sem 01-07-2019 
-Tf _4x12(1) Rupaul show _1x6(1) 
-#### sem 08-07-2019 
-Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
-#### sem 15-07-2019 
-#### sem 22-07-2019 
-Light as a feather _1x7(1) Will and grace _5x2(1) 
-#### sem 29-07-2019 
-Kunoichi _1x6(1) Sasuke _1x2(1) Will and grace _5x4(2) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) 
-#### sem 05-08-2019 
-Dark _1x2(1) Dna _1x6(1) Riverdale _3x11(1) Kunoichi _1x8(1) Sasuke _1x8(2) Girl meets world _1x9(1) Another life _1x2(1) 
-#### sem 12-08-2019 
-Travelers _1x5(1) 
-#### sem 19-08-2019 
-Total drama _2x5(3) Chica vampiro _1x6(5) 
-#### sem 26-08-2019 
-Dirk gently _2x3(2) 1rw _3x3(2) Dark _1x5(3) The voice germany _1x6(1) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(2) 
-#### sem 02-09-2019 
-Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(1) 
-#### sem 09-09-2019 
-Lucifer _4x3(2) Ga _2x13(1) 
-#### sem 16-09-2019 
-Million dollar mile _1x2(1) Chica vampiro _1x7(1) 
-#### sem 23-09-2019 
-Ahs _9x2(1) 
-#### sem 30-09-2019 
-The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(1) Criminal uk _1x2(1) Million dollar mile _1x3(1) Criminal germany _1x2(1) 
-#### sem 07-10-2019 
-Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) The politician _1x4(1) Two pints of lager _3x2(1) Dawson _1x2(1) 
-#### sem 14-10-2019 
-Skam vsg _1x5(1) Prodigal son _1x3(1) 
-#### sem 21-10-2019 
-The politician _1x5(1) 
-#### sem 28-10-2019 
-
-#### sem 04-11-2019 
-Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1) 
-#### sem 11-11-2019 
-Teotfw _2x4(3) The l word _1x5(1) 
-#### sem 18-11-2019 
-Hsmtmts _1x2(1) 
-#### sem 25-11-2019 
-Hsmtmts _1x3(1) 
-#### sem 02-12-2019 
-Ga _2x15(1) New amsterdam _1x4(1) 
-#### sem 09-12-2019 
-Vwars _1x4(3) Forever knight _1x5(4) New amsterdam _1x7(3) Sam & cat _1x21(1) 
-#### sem 16-12-2019 
-Forever knight _1x7(2) 
-#### sem 23-12-2019 
-Magic for humans _2x2(1) New amsterdam _1x8(1) Forever knight _1x8(1) 
-#### sem 30-12-2019 
-Supergirl _1x9(1) Here and now _1x4(1) 
-#### sem 06-01-2020 
-Soundtrack _1x2(1) Zerosterone _1x5(4) Supergirl _1x10(1) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) 
-#### sem 13-01-2020 
-Blood _1x16(1) Aj and the queen _1x2(1) 
-#### sem 20-01-2020 
-Sex education _2x3(2) Dark _1x6(1) Forever knight _1x9(1) 
-#### sem 27-01-2020 
-Shameless _5x2(1) Only connect _15x17(2) Ex on the beach us _4x2(1) Sex education _2x4(1) 
-#### sem 03-02-2020 
-The masked singer nl _1x2(1) Ragnarok _1x2(1) Only connect _15x20(1) Orange marmelade _1x7(1) Gossip girl _1x8(1) 
-#### sem 10-02-2020 
-#### sem 17-02-2020 
-#### sem 24-02-2020 
-/3% _3x4(1) Imortal _1x11(4) Only connect _15x22(2) 
-#### sem 02-03-2020 
-I am not okay with this _1x3(2) Ninja warrior junior us _2x2(1) Jeopardy _32x159(2) Ragnarok _1x3(1) 
-#### sem 09-03-2020 
-Breaking bad _4x8(1) I am not okay with this _1x4(1) Castlevania _3x2(1) Prodigal son _1x4(1) Only connect _15x23(1) Ninja warrior junior us _2x3(1) 
-#### sem 16-03-2020
-Kingdom _2x2(1) Only connect _15x24(1) 
-#### sem 23-03-2020 
-Dare me _1x2(1) Vwars _1x6(2) Ninja warrior junior us _2x5(2) Prodigal son _1x5(1) 
-#### sem 30-03-2020 
-Les ratz _1x2(1) Why women kill _1x2(1) 
-#### sem 06-04-2020 
-Why women kill _1x4(2) The office _1x3(2) Community _1x3(1) Ninja warrior junior us _2x7(2) 
-#### sem 13-04-2020 
-Hsmtmts _1x4(1) Only connect _15x25(1) Les ratz _1x3(1) Bloodride _1x2(1) Ahs _9x5(1) 
-#### sem 20-04-2020 
-Forever knight _1x10(1) Les ratz _1x5(2) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) 
-#### sem 27-04-2020 
-Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) 
-#### sem 04-05-2020 
-Les simpson _3x5(4) 
-#### sem 11-05-2020 
-Hollywood _1x3(2) 
-#### sem 18-05-2020 
-Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) 
-#### sem 25-05-2020 
-#### sem 01-06-2020 
-#### sem 08-06-2020 
-Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
-#### sem 15-06-2020 
-Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) 
-#### sem 22-06-2020 
-Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
-#### sem 29-06-2020 
-Young dracula _1x7(2) The untamed _1x2(1) 
-#### sem 06-07-2020 
-The untamed _1x3(1) 
-#### sem 13-07-2020 
-#### sem 20-07-2020 
-Long khong _1x2(1) Himym _6x2(1) Good singers _1x2(1) 
-#### sem 27-07-2020 
-Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) 
-#### sem 03-08-2020 
-Lucifer _4x4(1) Long khong _1x4(1) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) 
-#### sem 10-08-2020 
-Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) 
-#### sem 17-08-2020 
-The office _1x5(2) You _1x3(1) 
-#### sem 24-08-2020 
-Good singers _1x3(1) So much in love _1x2(1) 
-#### sem 31-08-2020 
-Unbag _1x2(1) So much in love _1x3(1) Blacklist series _1x2(1) 
-#### sem 07-09-2020 
-
-#### sem 14-09-2020 
-Unbag _1x3(1) 
-#### sem 21-09-2020 
-Unbag _1x4(1) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
-#### sem 28-09-2020 
-Unbag _1x5(1) 
-#### sem 05-10-2020 
-Friend forever _1x3(2) My day _1x2(1) 
-#### sem 12-10-2020 
-Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
-#### sem 19-10-2020 
-Ben x jim _1x2(1) Boys lockdown _1x2(1) The voice germany _10x3(1)
-#### sem 26-10-2020 
-Boys lockdown _1x3(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Quien es la mascara _2x3(2) 
-#### sem 02-11-2020 
-Swap test _1x3(1) The stranded _1x2(1) Unbag _1x7(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) 
-#### sem 09-11-2020 
-Lakan _1x3(1) Pogi lang hanap _1x4(1) Unbag _1x8(1) Blood _1x17(1) The good doctor _4x2(1) 
-#### sem 16-11-2020 
-My vampire boyfriend _1x3(2) Unbag _1x9(1) 
-#### sem 23-11-2020 
-Unbag _1x10(1) Pogi lang hanap _1x5(1) 
-#### sem 30-11-2020 
-Be love _1x2(1) 
-#### sem 07-12-2020 
-Unbag _1x11(1) Ghost runner _1x2(1) Be love _1x3(1) 
-#### sem 14-12-2020 
-A queen is born _1x2(1) Tale of the nine tailed _1x2(1)
-#### sem 21-12-2020 
-Ghost runner _1x4(2) Unbag _1x12(1) 
-#### sem 28-12-2020 
-Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
-#### sem 04-01-2021 
-Together with me _1x2(1) The shipper _1x4(1) Unbag _1x13(1) Ghost runner _1x5(1) Friend zone _1x3(1) 
-#### sem 11-01-2021 
-Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) 
-#### sem 18-01-2021  
-Koishite akuma _1x4(3) Warper series _1x2(1) Unbag _1x14(1) 
-#### sem 25-01-2021 
-Tien bromance _1x2(1) Ben x jim _1x3(1) 
-#### sem 01-02-2021 
-Be love _1x4(1) Unbag _1x15(1) The shipper _1x5(1) 
-#### sem 08-02-2021 
-Tbbt _11x2(1) The untamed _1x4(1) Schools out lets date now _1x3(2) You never eat alone _1x2(1) Slam dance _1x2(1) 
-#### sem 15-02-2021 
-Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) Unbag _1x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
-#### sem 22-02-2021 
-Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) 
-#### sem 01-03-2021 
-Unbag _1x17(1) 
-#### sem 08-03-2021 
-You never eat alone _1x4(1) Schools out lets date now _1x5(1) 
-#### sem 15-03-2021 
-Unbag _1x18(1) You never eat alone _1x5(1) 
-#### sem 22-03-2021 
-Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(1) 
-#### sem 29-03-2021 
-#### sem 05-04-2021 
-Unbag _1x19(1) 
-#### sem 12-04-2021 
-Mr lipstick _1x3(2) Bt21 original story _1x8(1) 
-#### sem 19-04-2021 
-Unbag _1x20(1) 
-#### sem 26-04-2021 
-I can see your voice fr _1x2(1) 
-#### sem 03-05-2021 
-Unbag _1x21(1) 
-#### sem 10-05-2021 
-#### sem 17-05-2021 
-Unbag _1x22(1) I can see your voice fr _1x3(1) 
-#### sem 24-05-2021 
-Bt21 original story _1x9(1) An eye for an eye _1x2(1) 
-#### sem 31-05-2021 
-Dark blue kiss _1x2(1) Unbag _1x23(1) 
-#### sem 07-06-2021 
-Vincenzo _1x3(2) 
-#### sem 14-06-2021 
-Unbag _1x24(1) 
-#### sem 21-06-2021 
-Elite _4x4(3) Dark blue kiss _1x3(1) 
-#### sem 28-06-2021 
-Unbag _1x25(1) Siew sum noi _1x2(1) 
-#### sem 05-07-2021 
-Bt21 original story _1x10(1) 
-#### sem 12-07-2021 
-Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-#### sem 19-07-2021 
-/46 days _1x5(2) Good singers _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
-#### sem 26-07-2021 
-/46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) 
-#### sem 02-08-2021 
-Bt21 original story _1x11(1) 
-#### sem 09-08-2021 
-Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-#### sem 16-08-2021 
-Dont say no _1x3(1) 
-#### sem 23-08-2021 
-Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
 
 
 
@@ -413,62 +157,36 @@ Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1)
 ---
 
 ## Aperçu mois
-#### mois 01-05-2019 
-Girl meets world _1x8(3) You vs wild _1x3(1) Samokazem _1x3(1) 
-#### mois 01-06-2019 
-Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) Sam & cat _1x19(3) Shadowhunters _3x14(2) Skam vsg _1x4(1) 
-#### mois 01-07-2019 
-Tf _4x12(1) Rupaul show _1x6(5) Doom patrol _1x4(2) Steven universe _1x2(1) Explained _1x7(1) The voice germany _1x5(4) Nos4a2 _1x3(2) Les lapins cretins _1x48(6) What if _1x2(1) Years and years _1x4(2) /3% _3x3(2) Jeopardy _33x158(1) How to sell drugs online (fast) _1x2(1) 
-#### mois 01-08-2019 
-Riverdale _3x11(1) Kunoichi _1x8(2) Sasuke _1x8(3) Girl meets world _1x9(1) Another life _1x2(1) Will and grace _5x4(3) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) Light as a feather _1x7(1) Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
-#### mois 01-09-2019 
-Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(3) Dirk gently _2x3(2) Dark _1x5(4) The voice germany _1x6(1) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(5) Chica vampiro _1x6(5) Travelers _1x5(1) Dna _1x6(1) 
-#### mois 01-10-2019 
-The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(2) Criminal uk _1x2(1) Million dollar mile _1x3(2) Criminal germany _1x2(1) Chica vampiro _1x7(1) Lucifer _4x3(2) Ga _2x13(1) Carnival row _1x2(1) 
-#### mois 01-11-2019 
-Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) The politician _1x5(2) Skam vsg _1x5(1) Prodigal son _1x3(1) Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) Dawson _1x2(1) 
-#### mois 01-12-2019 
-Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 
-#### mois 01-01-2020 
-Zerosterone _1x5(4) Supergirl _1x10(2) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) Here and now _1x4(1) Magic for humans _2x2(1) New amsterdam _1x8(4) Forever knight _1x8(7) Vwars _1x4(3) Sam & cat _1x21(1) 
-#### mois 01-02-2020 
-Ragnarok _1x2(1) Only connect _15x20(3) Orange marmelade _1x7(1) Gossip girl _1x8(1) Shameless _5x2(1) Ex on the beach us _4x2(1) Sex education _2x4(3) Dark _1x6(1) Forever knight _1x9(1) Blood _1x16(1) Aj and the queen _1x2(1) Soundtrack _1x2(1) 
-#### mois 01-03-2020 
-Ninja warrior junior us _2x2(1) Jeopardy _32x159(2) I am not okay with this _1x2(1) Ragnarok _1x3(2) /3% _3x4(1) Imortal _1x11(4) Only connect _15x22(2) The masked singer nl _1x2(1) 
-#### mois 01-04-2020 
-Ninja warrior junior us _2x7(5) Why women kill _1x3(2) Les ratz _1x2(1) Dare me _1x2(1) Vwars _1x6(2) Prodigal son _1x5(2) Kingdom _2x2(1) Only connect _15x24(2) Breaking bad _4x8(1) I am not okay with this _1x4(2) Castlevania _3x2(1) 
-#### mois 01-05-2020 
-Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) Forever knight _1x10(1) Les ratz _1x5(3) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) Hsmtmts _1x4(1) Only connect _15x25(1) Bloodride _1x2(1) Ahs _9x5(1) Why women kill _1x4(1) The office _1x3(2) Community _1x3(1) 
-#### mois 01-06-2020 
-Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) 
-#### mois 01-07-2020 
-Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
-#### mois 01-08-2020 
-Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
-#### mois 01-09-2020 
-Unbag _1x2(1) So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
-#### mois 01-10-2020 
-Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
-#### mois 01-11-2020 
-Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
-#### mois 01-12-2020 
-Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
-#### mois 01-01-2021 
-Unbag _1x13(3) Ghost runner _1x5(4) Friend zone _1x3(1) Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) 
-#### mois 01-02-2021 
-Be love _1x4(1) Unbag _1x15(2) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
-#### mois 01-03-2021 
-Unbag _1x17(2) Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
-#### mois 01-04-2021 
-Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
-#### mois 01-05-2021 
-Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) 
-#### mois 01-06-2021 
-Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story _1x9(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
-#### mois 01-07-2021 
-Bt21 original story _1x10(1) Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
-#### mois 01-08-2021 
-Bt21 original story _1x11(1) /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+- mois 01-05-2019 Girl meets world _1x8(3) You vs wild _1x3(1) Samokazem _1x3(1) 
+- mois 01-06-2019 Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) Sam & cat _1x19(3) Shadowhunters _3x14(2) Skam vsg _1x4(1) 
+- mois 01-07-2019 Tf _4x12(1) Rupaul show _1x6(5) Doom patrol _1x4(2) Steven universe _1x2(1) Explained _1x7(1) The voice germany _1x5(4) Nos4a2 _1x3(2) Les lapins cretins _1x48(6) What if _1x2(1) Years and years _1x4(2) /3% _3x3(2) Jeopardy _33x158(1) How to sell drugs online (fast) _1x2(1) 
+- mois 01-08-2019 Riverdale _3x11(1) Kunoichi _1x8(2) Sasuke _1x8(3) Girl meets world _1x9(1) Another life _1x2(1) Will and grace _5x4(3) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) Light as a feather _1x7(1) Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
+- mois 01-09-2019 Carnival row _1x2(1) Will and grace _5x5(1) 1rw _3x4(3) Dirk gently _2x3(2) Dark _1x5(4) The voice germany _1x6(1) Tf _4x13(1) No good nick _1x2(1) Total drama _2x7(5) Chica vampiro _1x6(5) Travelers _1x5(1) Dna _1x6(1) 
+- mois 01-10-2019 The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(2) Criminal uk _1x2(1) Million dollar mile _1x3(2) Criminal germany _1x2(1) Chica vampiro _1x7(1) Lucifer _4x3(2) Ga _2x13(1) Carnival row _1x2(1) 
+- mois 01-11-2019 Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) The politician _1x5(2) Skam vsg _1x5(1) Prodigal son _1x3(1) Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) Dawson _1x2(1) 
+- mois 01-12-2019 Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 
+- mois 01-01-2020 Zerosterone _1x5(4) Supergirl _1x10(2) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) Here and now _1x4(1) Magic for humans _2x2(1) New amsterdam _1x8(4) Forever knight _1x8(7) Vwars _1x4(3) Sam & cat _1x21(1) 
+- mois 01-02-2020 Ragnarok _1x2(1) Only connect _15x20(3) Orange marmelade _1x7(1) Gossip girl _1x8(1) Shameless _5x2(1) Ex on the beach us _4x2(1) Sex education _2x4(3) Dark _1x6(1) Forever knight _1x9(1) Blood _1x16(1) Aj and the queen _1x2(1) Soundtrack _1x2(1) 
+- mois 01-03-2020 Ninja warrior junior us _2x2(1) Jeopardy _32x159(2) I am not okay with this _1x2(1) Ragnarok _1x3(2) /3% _3x4(1) Imortal _1x11(4) Only connect _15x22(2) The masked singer nl _1x2(1) 
+- mois 01-04-2020 Ninja warrior junior us _2x7(5) Why women kill _1x3(2) Les ratz _1x2(1) Dare me _1x2(1) Vwars _1x6(2) Prodigal son _1x5(2) Kingdom _2x2(1) Only connect _15x24(2) Breaking bad _4x8(1) I am not okay with this _1x4(2) Castlevania _3x2(1) 
+- mois 01-05-2020 Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) Forever knight _1x10(1) Les ratz _1x5(3) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) Hsmtmts _1x4(1) Only connect _15x25(1) Bloodride _1x2(1) Ahs _9x5(1) Why women kill _1x4(1) The office _1x3(2) Community _1x3(1) 
+- mois 01-06-2020 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) 
+- mois 01-07-2020 Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
+- mois 01-08-2020 Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
+- mois 01-09-2020 Unbag _1x2(1) So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
+- mois 01-10-2020 Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
+- mois 01-11-2020 Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+- mois 01-12-2020 Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
+- mois 01-01-2021 Unbag _1x13(3) Ghost runner _1x5(4) Friend zone _1x3(1) Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) 
+- mois 01-02-2021 Be love _1x4(1) Unbag _1x15(2) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
+- mois 01-03-2021 Unbag _1x17(2) Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
+- mois 01-04-2021 Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
+- mois 01-05-2021 Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) 
+- mois 01-06-2021 Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 original story _1x9(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
+- mois 01-07-2021 Bt21 original story _1x10(1) Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
+- mois 01-08-2021 Bt21 original story _1x11(1) /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) The good doctor _4x3(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) The good doctor _4x13(10) Dwts _30x3(2) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Dals _11x3(2) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Survivor _8x4(3) Qforce _1x2(1) Bt21 original story _1x12(1) 
 
 
 
@@ -821,6 +539,64 @@ Bt21 original story _1x11(1) /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12
 * conclu 24/08/21 = Unbag _1 > 6; 
 * conclu 25/08/21 = Unbag _1 > 6; 
 * conclu 26/08/21 = Unbag _1 > 6; 
+* conclu 27/08/21 = Unbag _1 > 6; 
+* conclu 28/08/21 = Unbag _1 > 6; 
+* conclu 29/08/21 = Unbag _1 > 6; Dont say no _1 > 1; 
+* conclu 30/08/21 = Unbag _1 > 6; 
+* conclu 31/08/21 = Unbag _1 > 6; 
+* conclu 01/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
+* conclu 02/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
+* conclu 03/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
+* conclu 04/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
+* conclu 05/09/21 = Unbag _1 > 6; Survivor _8 > 3; Peach of time _1 > 2; 
+* conclu 06/09/21 = Unbag _1 > 6; Survivor _8 > 3; Peach of time _1 > 2; 
+* conclu 07/09/21 = Unbag _1 > 6; Survivor _8 > 3; Peach of time _1 > 2; 
+* conclu 08/09/21 = Unbag _1 > 6; Survivor _8 > 3; Peach of time _1 > 2; 
+* conclu 09/09/21 = Unbag _1 > 6; Survivor _8 > 1; 
+* conclu 10/09/21 = Unbag _1 > 6; Survivor _8 > 1; 
+* conclu 11/09/21 = Unbag _1 > 6; 
+* conclu 12/09/21 = Unbag _1 > 6; 
+* conclu 13/09/21 = Unbag _1 > 6; The good doctor _4 > 1; Buffy _1 > 1; 
+* conclu 14/09/21 = Unbag _1 > 6; 
+* conclu 15/09/21 = Unbag _1 > 6; 
+* conclu 16/09/21 = Unbag _1 > 6; The good doctor _4 > 2; 
+* conclu 17/09/21 = Unbag _1 > 6; Bt21 original story _1 > 4; The good doctor _4 > 3; 
+* conclu 18/09/21 = Unbag _1 > 6; Dont say no _1 > 2; The good doctor _4 > 2; Bt21 original story _1 > 2; 
+* conclu 19/09/21 = Unbag _1 > 6; Dont say no _1 > 1; The good doctor _4 > 1; Bt21 original story _1 > 1; 
+* conclu 20/09/21 = Unbag _1 > 6; The good doctor _4 > 1; Bt21 original story _1 > 1; 
+* conclu 21/09/21 = Unbag _1 > 6; Dont say no _1 > 1; The good doctor _4 > 1; Bt21 original story _1 > 1; 
+* conclu 22/09/21 = Unbag _1 > 6; Dont say no _1 > 1; The good doctor _4 > 1; Bt21 original story _1 > 1; 
+* conclu 23/09/21 = Unbag _1 > 6; The good doctor _4 > 1; 
+* conclu 24/09/21 = Unbag _1 > 3; The good doctor _4 > 2; 
+* conclu 25/09/21 = Unbag _1 > 3; The good doctor _4 > 2; 
+* conclu 26/09/21 = The good doctor _4 > 4; Unbag _1 > 3; Dont say no _1 > 2; 
+* conclu 27/09/21 = The good doctor _4 > 4; Unbag _1 > 3; Dont say no _1 > 1; 
+* conclu 28/09/21 = The good doctor _4 > 4; Unbag _1 > 3; The voice greece _8 > 2; Dont say no _1 > 1; 
+* conclu 29/09/21 = The good doctor _4 > 3; Unbag _1 > 3; The voice greece _8 > 2; Dont say no _1 > 1; 
+* conclu 30/09/21 = The good doctor _4 > 8; Unbag _1 > 3; Dont say no _1 > 2; The voice greece _8 > 2; 
+* conclu 01/10/21 = The good doctor _4 > 6; Survivor _41 > 3; Dont say no _1 > 2; The voice greece _8 > 2; /9-1-1 _5 > 2; 
+* conclu 02/10/21 = The good doctor _4 > 8; The voice greece _8 > 3; Unbag _1 > 3; Dont say no _1 > 2; The voice esp _8 > 1; 
+* conclu 03/10/21 = The good doctor _4 > 8; The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 2; 
+* conclu 04/10/21 = The good doctor _4 > 7; The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 1; Strictly come dancing _19 > 1; 
+* conclu 05/10/21 = The good doctor _4 > 4; Unbag _1 > 3; 
+* conclu 06/10/21 = The good doctor _4 > 3; Unbag _1 > 3; The voice us _21 > 1; 
+* conclu 07/10/21 = The good doctor _4 > 3; Unbag _1 > 3; 
+* conclu 08/10/21 = The good doctor _4 > 3; Unbag _1 > 3; 
+* conclu 09/10/21 = Unbag _1 > 3; The good doctor _4 > 1; 
+* conclu 10/10/21 = Unbag _1 > 6; The good doctor _4 > 1; 
+* conclu 11/10/21 = Unbag _1 > 6; The voice greece _8 > 1; 
+* conclu 12/10/21 = Unbag _1 > 6; The good doctor _4 > 4; The voice greece _8 > 4; Strictly come dancing _19 > 2; 
+* conclu 13/10/21 = Unbag _1 > 6; The good doctor _4 > 4; The voice greece _8 > 3; The voice us _21 > 3; Strictly come dancing _19 > 1; 
+* conclu 14/10/21 = The good doctor _4 > 8; Unbag _1 > 6; The voice us _21 > 3; La mas draga _4 > 2; The voice greece _8 > 1; 
+* conclu 15/10/21 = The good doctor _4 > 10; Unbag _1 > 6; The voice us _21 > 4; Dont say no _1 > 2; The voice greece _8 > 1; Strictly come dancing _19 > 1; 
+* conclu 16/10/21 = The good doctor _4 > 8; Unbag _1 > 6; Dwts _30 > 3; Dont say no _1 > 2; The voice us _21 > 2; The voice ger _11 > 2; The voice greece _8 > 1; 
+* conclu 17/10/21 = Unbag _1 > 6; The good doctor _4 > 6; The voice greece _8 > 5; Strictly come dancing _19 > 3; Dont say no _1 > 2; The voice us _21 > 1; Aoki vuanpaia no nayami _1 > 1; 
+* conclu 18/10/21 = The good doctor _4 > 11; The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Strictly come dancing _19 > 1; 
+* conclu 19/10/21 = The good doctor _4 > 11; The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Strictly come dancing _19 > 1; 
+* conclu 20/10/21 = The good doctor _4 > 10; The voice greece _8 > 4; Inhuman condition _1 > 3; Unbag _1 > 3; The voice us _21 > 2; Survivor au _6 > 1; Dont say no _1 > 1; 
+* conclu 21/10/21 = The good doctor _4 > 7; The voice us _21 > 6; Inhuman condition _1 > 3; Unbag _1 > 3; The voice greece _8 > 2; Survivor au _6 > 2; Dont say no _1 > 1; 
+* conclu 22/10/21 = The good doctor _4 > 7; Unbag _1 > 6; Inhuman condition _1 > 3; The voice us _21 > 2; The voice greece _8 > 2; Survivor au _6 > 2; Munch _4 > 1; Dont say no _1 > 1; 
+* conclu 23/10/21 = Unbag _1 > 6; The good doctor _4 > 5; The voice us _21 > 3; The voice greece _8 > 3; Inhuman condition _1 > 3; Survivor au _6 > 2; Munch _4 > 1; Dont say no _1 > 1; 
 
 
 
@@ -1171,6 +947,64 @@ Bt21 original story _1x11(1) /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12
 * concluBis 24/08/21 = Unbag _1 > 10; From dusk till dawn _2 > 1; 
 * concluBis 25/08/21 = Unbag _1 > 10; From dusk till dawn _2 > 1; 
 * concluBis 26/08/21 = Unbag _1 > 10; Post mortem _1 > 1; 
+* concluBis 27/08/21 = Unbag _1 > 10; 
+* concluBis 28/08/21 = Unbag _1 > 10; Dont say no _1 > 2; 
+* concluBis 29/08/21 = Unbag _1 > 10; Dont say no _1 > 3; 
+* concluBis 30/08/21 = Unbag _1 > 10; Dont say no _1 > 1; 
+* concluBis 31/08/21 = Unbag _1 > 10; Peach of time _1 > 2; Dont say no _1 > 1; 
+* concluBis 01/09/21 = Unbag _1 > 10; Peach of time _1 > 4; 
+* concluBis 02/09/21 = Unbag _1 > 10; Bt21 original story _1 > 4; Peach of time _1 > 4; The good doctor _4 > 2; 
+* concluBis 03/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Bt21 original story _1 > 2; The good doctor _4 > 1; 
+* concluBis 04/09/21 = Unbag _1 > 10; Bt21 original story _1 > 4; Peach of time _1 > 4; The good doctor _4 > 2; 
+* concluBis 05/09/21 = Unbag _1 > 10; Survivor _8 > 5; Bt21 original story _1 > 4; Peach of time _1 > 4; The good doctor _4 > 2; Dont say no _1 > 1; 
+* concluBis 06/09/21 = Unbag _1 > 10; Survivor _8 > 5; Peach of time _1 > 4; Bt21 original story _1 > 2; Dont say no _1 > 1; The good doctor _4 > 1; 
+* concluBis 07/09/21 = Unbag _1 > 10; Peach of time _1 > 6; Survivor _8 > 5; Bt21 original story _1 > 2; The good doctor _4 > 2; Vwars _1 > 1; 
+* concluBis 08/09/21 = Unbag _1 > 10; Peach of time _1 > 5; Survivor _8 > 5; The good doctor _4 > 2; 
+* concluBis 09/09/21 = Unbag _1 > 10; The good doctor _4 > 3; Survivor _8 > 3; 
+* concluBis 10/09/21 = Unbag _1 > 10; The good doctor _4 > 3; Survivor _8 > 3; Peach of time _1 > 1; 
+* concluBis 11/09/21 = Unbag _1 > 10; Survivor _8 > 2; Dont say no _1 > 1; 
+* concluBis 12/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
+* concluBis 13/09/21 = Unbag _1 > 10; The good doctor _4 > 3; Buffy _1 > 3; Bt21 original story _1 > 2; Peach of time _1 > 2; Dont say no _1 > 1; 
+* concluBis 14/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Bt21 original story _1 > 2; The good doctor _4 > 1; 7project _1 > 1; 
+* concluBis 15/09/21 = Unbag _1 > 10; Bt21 original story _1 > 4; Peach of time _1 > 2; The good doctor _4 > 1; 
+* concluBis 16/09/21 = Unbag _1 > 10; The good doctor _4 > 7; Bt21 original story _1 > 4; Peach of time _1 > 1; 
+* concluBis 17/09/21 = Unbag _1 > 10; The good doctor _4 > 9; Bt21 original story _1 > 8; Peach of time _1 > 2; Forever knight _1 > 2; Buffy _1 > 1; Imortal _1 > 1; 
+* concluBis 18/09/21 = Unbag _1 > 10; The good doctor _4 > 8; Dont say no _1 > 5; Bt21 original story _1 > 4; Peach of time _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 19/09/21 = Unbag _1 > 10; The good doctor _4 > 5; Dont say no _1 > 4; Bt21 original story _1 > 3; Peach of time _1 > 2; Forever knight _1 > 1; 
+* concluBis 20/09/21 = Unbag _1 > 10; The good doctor _4 > 3; Bt21 original story _1 > 3; Dont say no _1 > 2; Peach of time _1 > 2; The voice bulgarie _8 > 2; Forever knight _1 > 1; 
+* concluBis 21/09/21 = Unbag _1 > 10; Dont say no _1 > 4; The good doctor _4 > 4; Bt21 original story _1 > 3; Peach of time _1 > 2; The voice bulgarie _8 > 2; Forever knight _1 > 1; 
+* concluBis 22/09/21 = Unbag _1 > 10; The good doctor _4 > 4; Dont say no _1 > 3; Bt21 original story _1 > 3; Peach of time _1 > 2; The voice bulgarie _8 > 1; Forever knight _1 > 1; 
+* concluBis 23/09/21 = Unbag _1 > 10; The good doctor _4 > 6; Bt21 original story _1 > 2; Dont say no _1 > 1; 
+* concluBis 24/09/21 = The good doctor _4 > 6; Unbag _1 > 5; Dont say no _1 > 2; Bt21 original story _1 > 2; 
+* concluBis 25/09/21 = The good doctor _4 > 6; Unbag _1 > 5; Bt21 original story _1 > 2; 
+* concluBis 26/09/21 = The good doctor _4 > 8; Dont say no _1 > 6; Unbag _1 > 5; Strictly come dancing _19 > 2; Bt21 original story _1 > 2; 
+* concluBis 27/09/21 = The good doctor _4 > 8; Unbag _1 > 5; Dont say no _1 > 3; Bt21 original story _1 > 2; The voice esp _8 > 1; 
+* concluBis 28/09/21 = The good doctor _4 > 8; Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; 
+* concluBis 29/09/21 = The good doctor _4 > 7; Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; The voice us _21 > 1; 
+* concluBis 30/09/21 = The good doctor _4 > 16; Unbag _1 > 5; Dont say no _1 > 4; The voice greece _8 > 4; The voice us _21 > 2; Bt21 original story _1 > 2; 
+* concluBis 01/10/21 = The good doctor _4 > 10; Survivor _41 > 5; Dont say no _1 > 4; The voice greece _8 > 4; The masked singer _6 > 4; /9-1-1 _5 > 4; Alter ego _1 > 2; 
+* concluBis 02/10/21 = The good doctor _4 > 15; The voice greece _8 > 5; Unbag _1 > 5; Dont say no _1 > 4; The voice esp _8 > 3; Bt21 original story _1 > 2; 
+* concluBis 03/10/21 = The good doctor _4 > 16; The voice greece _8 > 8; Unbag _1 > 5; Dont say no _1 > 4; Bt21 original story _1 > 2; The voice us _21 > 1; 
+* concluBis 04/10/21 = The good doctor _4 > 14; The voice greece _8 > 9; Unbag _1 > 5; Dont say no _1 > 3; Strictly come dancing _19 > 3; Bt21 original story _1 > 2; 
+* concluBis 05/10/21 = The good doctor _4 > 10; Unbag _1 > 5; Dont say no _1 > 2; The voice greece _8 > 2; Strictly come dancing _19 > 2; Bt21 original story _1 > 2; 
+* concluBis 06/10/21 = The good doctor _4 > 9; Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 2; The voice greece _8 > 2; Dwts _30 > 2; Bt21 original story _1 > 1; 
+* concluBis 07/10/21 = The good doctor _4 > 10; Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 1; Bt21 original story _1 > 1; 
+* concluBis 08/10/21 = The good doctor _4 > 10; Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 1; Bt21 original story _1 > 1; 
+* concluBis 09/10/21 = The good doctor _4 > 7; Unbag _1 > 5; Bt21 original story _1 > 1; 
+* concluBis 10/10/21 = Unbag _1 > 10; The good doctor _4 > 7; Dont say no _1 > 2; The voice greece _8 > 2; Strictly come dancing _19 > 1; 
+* concluBis 11/10/21 = Unbag _1 > 10; The good doctor _4 > 6; The voice greece _8 > 4; Dont say no _1 > 2; Strictly come dancing _19 > 2; 
+* concluBis 12/10/21 = Unbag _1 > 10; The good doctor _4 > 10; The voice greece _8 > 9; Strictly come dancing _19 > 6; Dont say no _1 > 4; Love area _1 > 1; Bt21 original story _1 > 1; 
+* concluBis 13/10/21 = Unbag _1 > 10; The good doctor _4 > 10; The voice greece _8 > 8; The voice us _21 > 7; Dont say no _1 > 4; Strictly come dancing _19 > 4; Bt21 original story _1 > 1; 
+* concluBis 14/10/21 = The good doctor _4 > 16; Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 4; The voice greece _8 > 4; La mas draga _4 > 4; Strictly come dancing _19 > 3; Bt21 original story _1 > 1; 
+* concluBis 15/10/21 = The good doctor _4 > 18; Unbag _1 > 10; The voice us _21 > 10; Dont say no _1 > 6; The voice greece _8 > 6; Strictly come dancing _19 > 5; Bt21 original story _1 > 2; Forever knight _1 > 1; 
+* concluBis 16/10/21 = The good doctor _4 > 16; Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 6; Dwts _30 > 6; The voice greece _8 > 4; The voice ger _11 > 4; Strictly come dancing _19 > 3; Bt21 original story _1 > 2; Forever knight _1 > 1; 
+* concluBis 17/10/21 = The good doctor _4 > 13; Unbag _1 > 10; The voice greece _8 > 10; Strictly come dancing _19 > 7; Dont say no _1 > 6; The voice us _21 > 3; Aoki vuanpaia no nayami _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Forever knight _1 > 1; 
+* concluBis 18/10/21 = The good doctor _4 > 19; The voice greece _8 > 11; Dont say no _1 > 7; Strictly come dancing _19 > 6; Unbag _1 > 5; Survivor au _6 > 4; The voice us _21 > 2; Bt21 original story _1 > 2; The voice bulgarie _8 > 1; Aoki vuanpaia no nayami _1 > 1; 
+* concluBis 19/10/21 = The good doctor _4 > 19; The voice greece _8 > 11; Dont say no _1 > 7; Strictly come dancing _19 > 6; Unbag _1 > 5; Survivor au _6 > 4; The voice us _21 > 2; Bt21 original story _1 > 2; The voice bulgarie _8 > 1; Aoki vuanpaia no nayami _1 > 1; 
+* concluBis 20/10/21 = The good doctor _4 > 18; The voice greece _8 > 9; The voice us _21 > 7; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+* concluBis 21/10/21 = The good doctor _4 > 14; The voice us _21 > 13; Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+* concluBis 22/10/21 = The good doctor _4 > 13; Unbag _1 > 10; The voice us _21 > 9; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Munch _4 > 3; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; Dwts _30 > 1; 
+* concluBis 23/10/21 = The good doctor _4 > 12; Unbag _1 > 10; The voice us _21 > 10; The voice greece _8 > 7; Inhuman condition _1 > 7; Survivor au _6 > 4; Munch _4 > 3; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
 
 
 
