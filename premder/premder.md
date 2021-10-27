@@ -60,7 +60,6 @@ Dwts 30x6
 Inhuman condition 1x7
 * Inhuman condition 1x1
 * The voice portugal 9x1
-The good doctor 4x18
 The voice greece 8x10
 Strictly come dancing 19x8
 The voice bulgarie 8x6
@@ -178,7 +177,6 @@ Lakan 1x4
 Pogi lang hanap 1x4
 * My vampire boyfriend 1x1
 Blood 1x16
-* The good doctor 4x1
 Swap test 1x2
 * The stranded 1x1
 * Lakan 1x1

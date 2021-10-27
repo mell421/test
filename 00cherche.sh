@@ -3,7 +3,7 @@
 ./0date.sh
 ./0supprZ.sh
 
-list=( "Unbag _1" "The good doctor _4" "Bt21 original story _1" # >= 100
+list=( "Unbag _1" "Bt21 original story _1" # >= 100
 "Dont say no _1" "" # 99 - 50
 "The voice greece _8" "/46 days _1" # 49 - 40
 "Peach of time _1" "The voice us _21" "Strictly come dancing _19" "" # 39 - 30
@@ -25,7 +25,7 @@ list=( "Unbag _1" "The good doctor _4" "Bt21 original story _1" # >= 100
 
 # nb bis
 list99=( "Unbag _1" "Bt21 original story _1" # >= 200
-"The good doctor _4" "Dont say no _1" # 199-100
+"Dont say no _1" # 199-100
 "Peach of time _1" "The voice greece _8" "Strictly come dancing _19" "The voice us _21" "Survivor _8" "Koh-lanta _27"  # 99-50
 "Vwars _1" "The voice bulgarie _8" # 49-40
 "Dwts _30" # 39-30

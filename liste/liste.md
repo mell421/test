@@ -451,6 +451,7 @@
 |the tasty florida 1||8|||<!--  -->
 |AHS 10||10|||<!--  -->
 |the voice 11||7|||<!--  -->
+|the good doctor 4||20|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -559,7 +560,6 @@
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 19 -->
 |lakan|lakan|8|serie|philippines|4|<!-- 20 -->
 |the stranded 1|||||1|<!--  -->
-|the good doctor 4||18|||1|<!--  -->
 |blood 1||20|||16|<!--  -->
 |my vampire boyfriend 1||12|||6|<!--  -->
 |be love|be love|4|serie|japon|3|<!-- 25 -->

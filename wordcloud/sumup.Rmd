@@ -1,21 +1,23 @@
 ---
-title: "allListe"
+title: "summary"
 output:
   html_document:
     df_print: paged
-    toc: false
+    toc: true
 ---
 
 ```{r setup, include = FALSE}
 begin_time <-Sys.time()
 suppressWarnings(source("./R/sources.R"))
-suppressWarnings(library(tidyverse))
-library(tidygraph)
-library(dplyr)
-require(devtools)
-library(car)
 library(vtable)
-
+sumup <- function(i){
+  print(i)
+  print(z01(i))
+  print(summary(z00(i)))
+  print("--------------------------------")
+  print("--------------------------------")
+  print("--------------------------------")
+}
 ```
 
 
@@ -24,16 +26,54 @@ library(vtable)
 <!-- -->
 [MD](./allListe.Rmd)  
 [wordcloud](./wordcloud.html)  
+[allListe](./allListe.html)  
 ---
 
 ## SUMMARY
 
-### stats
-```{r stats, echo=FALSE}
+### 1
+```{r stats1, echo=FALSE}
+for (i in 1:16) {
+  sumup(i)
+}
+
+
+```
+
+### 2
+```{r stats2, echo=FALSE}
+for (i in 17:32) {
+  sumup(i)
+}
+
+
+```
+
+### 3
+```{r stats3, echo=FALSE}
+for (i in 33:48) {
+  sumup(i)
+}
+
+
+```
+
+### 4
+```{r stats4, echo=FALSE}
+for (i in 49:64) {
+  sumup(i)
+}
+
+
+```
+
+
+
+```{r statsx, eval=FALSE, include=FALSE}
 for (i in 1:64) {
   print(i)
   print(z01(i))
-  print(summary(z00(i)))
+  st(z00(i))
   print(" ")
   print("--------------------------------")
   print(" ")
@@ -42,7 +82,7 @@ for (i in 1:64) {
 
 ```
 
-### timing 
+## timing 
 ```{r timing , echo=FALSE}
 end_time<-Sys.time()
 total_time <- end_time - begin_time

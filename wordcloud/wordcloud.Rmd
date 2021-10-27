@@ -29,7 +29,8 @@ forme <- "circle"
 
 <!-- -->
 [MD](./wordcloud.Rmd)  
-[allListe](./allListe.html) 
+[allListe](./allListe.html)  
+[sumup](./sumup.html)  
 
 ---
 
