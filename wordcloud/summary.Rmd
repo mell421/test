@@ -100,23 +100,12 @@ summar(49)
 summar(50)
 summar(51)
 summar(56)
-summar(57)
-summar(58)
 summar(59)
-summar(60)
-summar(61)
-summar(62)
-summar(63)
-summar(64)
 ```
 
 ### 6
 ```{r stats6, echo=FALSE}
 summar(60)
-summar(61)
-summar(62)
-summar(63)
-summar(64)
 ```
 
 ## timing 
