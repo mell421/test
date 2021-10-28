@@ -27,6 +27,7 @@ sumup <- function(i){
 [MD](./allListe.Rmd)  
 [wordcloud](./wordcloud.html)  
 [allListe](./allListe.html)  
+[summary](./summary.html)  
 ---
 
 ## SUMMARY

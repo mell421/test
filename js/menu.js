@@ -8,8 +8,10 @@ document.write(`
       <li><a href="sheets.html">app sheets</a></li>
       <li><a href="wordcloud/wordcloud.html">wordcloud</a></li>
       <li><a href="wordcloud/allListe.html">allListe</a></li>
-      <li><a href="wordcloud/sumup.html">summary</a></li>
-    </ul>
+      <li><a href="wordcloud/sumup.html">sumup</a></li>
+      <li><a href="wordcloud/summary.html">summary</a></li>
+
+      </ul>
   </li>
   <li><a href="#">tableaux</a>
     <ul>

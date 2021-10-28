@@ -1,0 +1,122 @@
+---
+title: "summary(tab)"
+output:
+  html_document:
+    df_print: paged
+    toc: false
+---
+
+```{r setup, include = FALSE}
+begin_time <-Sys.time()
+suppressWarnings(source("./R/sources.R"))
+library(vtable)
+summar <- function(i){
+  print(i)
+  print(z01(i))
+  tab <- st(z00(i), col.breaks = 30 )
+  tab
+}
+```
+
+
+[retour](./../index.html)  
+
+<!-- -->
+[MD](./allListe.Rmd)  
+[wordcloud](./wordcloud.html)  
+[allListe](./allListe.html)  
+[sumup](./sumup.html)  
+---
+
+## SUMMARY
+
+### 1
+```{r stats1, echo=FALSE}
+summar(1)
+summar(2)
+summar(5)
+summar(6)
+summar(7)
+summar(8)
+summar(9)
+summar(10)
+summar(11)
+summar(12)
+summar(13)
+summar(14)
+summar(15)
+summar(16)
+
+```
+
+### 2
+```{r stats2, echo=FALSE}
+summar(17)
+summar(18)
+summar(19)
+summar(20)
+summar(21)
+summar(22)
+summar(23)
+summar(24)
+summar(25)
+summar(26)
+summar(27)
+summar(28)
+summar(29)
+summar(30)
+summar(31)
+summar(32)
+
+
+
+```
+
+### 3
+```{r stats3, echo=FALSE}
+summar(33)
+summar(35)
+summar(37)
+summar(38)
+summar(39)
+summar(40)
+summar(41)
+summar(42)
+summar(43)
+summar(44)
+summar(45)
+summar(46)
+summar(47)
+summar(48)
+
+
+```
+
+### 4
+```{r stats4, echo=FALSE}
+summar(49)
+summar(50)
+summar(51)
+summar(52)
+summar(53)
+summar(54)
+summar(55)
+summar(56)
+summar(57)
+summar(58)
+summar(59)
+summar(60)
+summar(61)
+summar(62)
+summar(63)
+summar(64)
+
+
+```
+
+## timing 
+```{r timing , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
+```

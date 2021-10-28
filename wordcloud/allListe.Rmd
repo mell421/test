@@ -19,6 +19,7 @@ suppressWarnings(source("./R/sources.R"))
 [MD](./allListe.Rmd)  
 [wordcloud](./wordcloud.html)  
 [sumup](./sumup.html)  
+[summary](./summary.html)  
 ---
 
 ## SUMMARY
