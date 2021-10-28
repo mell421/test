@@ -13,7 +13,7 @@ library(vtable)
 summar <- function(i){
   print(i)
   print(z01(i))
-  tab <- st(z00(i), col.breaks = 30 )
+  tab <- st(z00(i))
   tab
 }
 ```
