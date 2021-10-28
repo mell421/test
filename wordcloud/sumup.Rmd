@@ -32,56 +32,56 @@ sumup <- function(i){
 
 ## SUMMARY
 
-### 1
-```{r stats1, echo=FALSE}
-for (i in 1:16) {
+### 0
+```{r stats0, echo=FALSE}
+for (i in 1:9) {
   sumup(i)
 }
+```
 
-
+### 1
+```{r stats1, echo=FALSE}
+for (i in 10:19) {
+  sumup(i)
+}
 ```
 
 ### 2
 ```{r stats2, echo=FALSE}
-for (i in 17:32) {
+for (i in 20:29) {
   sumup(i)
 }
-
-
 ```
 
 ### 3
 ```{r stats3, echo=FALSE}
-for (i in 33:48) {
+for (i in 30:39) {
   sumup(i)
 }
-
-
 ```
 
 ### 4
 ```{r stats4, echo=FALSE}
-for (i in 49:64) {
+for (i in 40:49) {
   sumup(i)
 }
-
-
 ```
 
-
-
-```{r statsx, eval=FALSE, include=FALSE}
-for (i in 1:64) {
-  print(i)
-  print(z01(i))
-  st(z00(i))
-  print(" ")
-  print("--------------------------------")
-  print(" ")
+### 5
+```{r stats5, echo=FALSE}
+for (i in 50:59) {
+  sumup(i)
 }
-
-
 ```
+
+### 6
+```{r stats6, echo=FALSE}
+for (i in 60:64) {
+  sumup(i)
+}
+```
+
+
 
 ## timing 
 ```{r timing , echo=FALSE}

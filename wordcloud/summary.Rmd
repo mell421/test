@@ -30,8 +30,8 @@ summar <- function(i){
 
 ## SUMMARY
 
-### 1
-```{r stats1, echo=FALSE}
+### 0
+```{r stats0, echo=FALSE}
 summar(1)
 summar(2)
 summar(5)
@@ -39,6 +39,10 @@ summar(6)
 summar(7)
 summar(8)
 summar(9)
+```
+
+### 1
+```{r stats1, echo=FALSE}
 summar(10)
 summar(11)
 summar(12)
@@ -46,14 +50,13 @@ summar(13)
 summar(14)
 summar(15)
 summar(16)
-
+summar(17)
+summar(18)
+summar(19)
 ```
 
 ### 2
 ```{r stats2, echo=FALSE}
-summar(17)
-summar(18)
-summar(19)
 summar(20)
 summar(21)
 summar(22)
@@ -64,21 +67,22 @@ summar(26)
 summar(27)
 summar(28)
 summar(29)
-summar(30)
-summar(31)
-summar(32)
-
-
-
 ```
 
 ### 3
 ```{r stats3, echo=FALSE}
+summar(30)
+summar(31)
+summar(32)
 summar(33)
 summar(35)
 summar(37)
 summar(38)
 summar(39)
+```
+
+### 4
+```{r stats4, echo=FALSE}
 summar(40)
 summar(41)
 summar(42)
@@ -88,13 +92,11 @@ summar(45)
 summar(46)
 summar(47)
 summar(48)
-
-
+summar(49)
 ```
 
-### 4
-```{r stats4, echo=FALSE}
-summar(49)
+### 5
+```{r stats5, echo=FALSE}
 summar(50)
 summar(51)
 summar(56)
@@ -106,8 +108,15 @@ summar(61)
 summar(62)
 summar(63)
 summar(64)
+```
 
-
+### 6
+```{r stats6, echo=FALSE}
+summar(60)
+summar(61)
+summar(62)
+summar(63)
+summar(64)
 ```
 
 ## timing 
