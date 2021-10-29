@@ -209,6 +209,13 @@ data <- data.frame(pageappressup())
         data %>% filter(date != "") 
 ```
 
+
+```{r maxall, eval=FALSE,echo=FALSE}
+### max all
+data <- data.frame(z00(6))
+data %>% filter(X. != "") 
+```
+
 ---
 
 ## timing 

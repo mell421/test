@@ -4,14 +4,14 @@ table {
 	border-collapse: collapse;
 	border-width: 5px;
 	border-style: solid;
-	border-color: #000;
+	border-color: #ffffff;
 	border-width: 5px;
 }
 
 tr {
 	border-width: 1px;
 	border-style: solid;
-	border-color: #000;
+	border-color: #ffffff;
 
 }
 
@@ -19,22 +19,19 @@ td {
 	vertical-align: top;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #000;
+	border-color: #ffffff;
   /* text-align: justify; */
 }
 
 /* page agenda */
-.debut {background-color: yellow;}
-.fin {background-color: rgb(111, 214, 111);}
+.debut {background-color:blue;}
+.fin {background-color:#bf2b2f;}
 	
 /* page suivis */
-.date { background-color:  rgb(237, 237, 250); }
-.conclu { background-color:  rgb(227, 227, 252); }
-.conclubis { background-color:  rgb(227, 227, 252); }
-.resumesem { background-color:  rgb(227, 227, 252); }
-.resumemois { background-color: rgb(227, 227, 252); }
+.date,.conclu,.conclubis,.resumesem,.resumemois { background-color:  gray); }
 
-.titre { font-weight: bold; background-color: aquamarine;}
+
+.titre { font-weight: bold; background-color: purple;}
 
 
 
@@ -88,3 +85,17 @@ BODY { background-color: whitesmoke }
 }
 
 #footer, #menu {background-color: rgb(218, 189, 186);}
+
+html,body {
+	background-color: #000;
+	color: #ffefd5;
+}
+
+body a:hover{
+	color:aqua;
+	background-color:#bf2b2f;
+}
+
+body a{
+	color:aqua;
+}

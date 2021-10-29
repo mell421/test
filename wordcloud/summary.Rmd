@@ -33,7 +33,7 @@ summar <- function(i){
 ### 0
 ```{r stats0, echo=FALSE}
 summar(1)
-summar(2)
+#summar(2)
 summar(5)
 summar(6)
 summar(7)
@@ -58,7 +58,7 @@ summar(19)
 ### 2
 ```{r stats2, echo=FALSE}
 summar(20)
-summar(21)
+# summar(21)
 summar(22)
 summar(23)
 summar(24)
@@ -78,7 +78,7 @@ summar(33)
 summar(35)
 summar(37)
 summar(38)
-summar(39)
+#summar(39)
 ```
 
 ### 4
@@ -86,13 +86,13 @@ summar(39)
 summar(40)
 summar(41)
 summar(42)
-summar(43)
+#summar(43)
 summar(44)
 summar(45)
 summar(46)
 summar(47)
 summar(48)
-summar(49)
+#summar(49)
 ```
 
 ### 5
