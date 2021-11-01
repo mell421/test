@@ -4,7 +4,7 @@ document.write(`
 <ul>
   <li><a href="#">accueil</a>
     <ul>
-      <li><a href="index.html">debut et sorties</a></li>
+      <li><a href="index.html">graphiques</a></li>
       <li><a href="sheets.html">app sheets</a></li>
       <li><a href="wordcloud/wordcloud.html">wordcloud</a></li>
       <li><a href="wordcloud/allListe.html">allListe</a></li>
@@ -27,7 +27,7 @@ document.write(`
       <li><a href="apercu/apercu21.html">séries ec 2021</a></li>
       <li><a href="apercu/apercuglobal.html">séries ec global</a></li>
       <li><a href="apercuTer/apercuTer.html">séries terminées</a></li>
-      <li><a href="aEff/aeff.html">à eff</a></li>
+      <li><a href="aEff/aeff.html">a eff</a></li>
     </ul>
   </li>
   <li><a href="#">BLs</a>
