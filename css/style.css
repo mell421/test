@@ -84,7 +84,14 @@ BODY { background-color: whitesmoke }
 	position:absolute;
 }
 
-#footer, #menu {background-color: rgb(218, 189, 186);}
+#menu {background-color: rgb(218, 189, 186);}
+
+#footer {
+	background-color: rgb(218, 189, 186);
+	/*position: fixed;*/
+	bottom: 0;
+	width: 100%;
+}
 
 html,body {
 	background-color: #000;
