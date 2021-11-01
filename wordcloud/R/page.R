@@ -152,17 +152,35 @@ aURL <- function(){
   na.omit(table)
   return(table)
 }
-z00 <- function(ligne){
+z0u <- function(ligne){
   table <- data.frame(aURL())[ligne,3]
   table <- data.frame(suppressWarnings(gsheet2tbl(table)))
   na.omit(table)
   return(table)
 }
-z01 <- function(ligne){
+z0n <- function(ligne){
   table <- data.frame(aURL())[ligne,2]
   na.omit(table)
   return(table)
 }
+#------------------------
+#aURL13 <- function(){
+#  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/17121dse3CJ8rWPCGJyBO35cLFgYdUiPu60k_Cu6nKLE/edit#gid=331112137')))
+#  na.omit(table)
+#  return(table)
+#}
+#z13u <- function(ligne){
+#  table <- data.frame(aURL13())[ligne,3]
+#  table <- data.frame(suppressWarnings(gsheet2tbl(table)))
+#  na.omit(table)
+#  return(table)
+#}
+#z13n <- function(ligne){
+#  table <- data.frame(aURL13())[ligne,1]
+#  na.omit(table)
+#  return(table)
+#}
+
 
 # a <- function(){
 #   table <- data.frame(suppressWarnings(gsheet2tbl('')))

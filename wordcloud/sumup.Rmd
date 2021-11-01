@@ -12,8 +12,8 @@ suppressWarnings(source("./R/sources.R"))
 library(vtable)
 sumup <- function(i){
   print(i)
-  print(z01(i))
-  print(summary(z00(i)))
+  print(z0n(i))
+  print(summary(z0u(i)))
   print("--------------------------------")
   print("--------------------------------")
   print("--------------------------------")
@@ -69,7 +69,10 @@ for (i in 40:49) {
 
 ### 5
 ```{r stats5, echo=FALSE}
-for (i in 50:59) {
+for (i in 50:53) {
+  sumup(i)
+}
+for (i in 55:59) {
   sumup(i)
 }
 ```

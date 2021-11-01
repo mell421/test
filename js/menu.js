@@ -10,7 +10,7 @@ document.write(`
       <li><a href="wordcloud/allListe.html">allListe</a></li>
       <li><a href="wordcloud/sumup.html">sumup</a></li>
       <li><a href="wordcloud/summary.html">summary</a></li>
-
+      <li><a href="form.html">...</a></li>
       </ul>
   </li>
   <li><a href="#">tableaux</a>
