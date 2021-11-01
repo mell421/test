@@ -5,7 +5,6 @@ document.write(`
   <li><a href="#">accueil</a>
     <ul>
       <li><a href="index.html">graphiques</a></li>
-      <li><a href="sheets.html">app sheets</a></li>
       <li><a href="wordcloud/wordcloud.html">wordcloud</a></li>
       <li><a href="wordcloud/allListe.html">allListe</a></li>
       <li><a href="wordcloud/sumup.html">sumup</a></li>
