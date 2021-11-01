@@ -46,7 +46,12 @@ document.write(`
       <li><a href="mdp.html">générateur de mot de passe</a></li>
     </ul>
   </li>
-  <li><a href="# ">#</a></li>
+  <li><a href="#">#</a>
+  <ul>
+      <li><a href="#">#</a></li>
+      <li><a href="#">#</a></li>
+    </ul>
+  </li>
 </ul>
 
 <br><br><br><br>
