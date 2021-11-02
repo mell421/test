@@ -1,0 +1,46 @@
+/* page generale */
+
+/* obligatoire */
+html,body{
+	height: 100%;
+	background-color: #000;
+	color: #ffefd5;
+}
+/* obligatoire */
+body { 
+	display: flex; 
+	flex-direction: column;
+}  
+/* obligatoire */
+#menu {
+	background-color: rgb(218, 189, 186);
+	top: 0;
+	width: 100%;
+}
+/* obligatoire */
+#content {
+	flex: 1 0 auto;
+}
+/* obligatoire */
+#footer {
+	background-color: rgb(218, 189, 186);
+	/*position: fixed;*/
+	bottom: 0;
+	width: 100%;
+	flex-shrink: 0;
+	color: #000;
+}
+
+
+#footer a {
+	color: black;
+}
+
+body a:hover{
+	color:aqua;
+	background-color:#bf2b2f;
+}
+
+body a{
+	color:aqua;
+}

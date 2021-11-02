@@ -1,5 +1,6 @@
 
 document.write(`
+</div>
 <div id="footer">
     <hr>
     <a href="#">haut de page</a>

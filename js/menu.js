@@ -9,6 +9,7 @@ document.write(`
       <li><a href="wordcloud/allListe.html">allListe</a></li>
       <li><a href="wordcloud/sumup.html">sumup</a></li>
       <li><a href="wordcloud/summary.html">summary</a></li>
+      <li><a href="repertory.html"></a></li>
       <li><a href="form.html"></a></li>
       </ul>
   </li>
@@ -56,4 +57,5 @@ document.write(`
 
 <br><br><br><br>
 </div>
+<div id="content">
 `)

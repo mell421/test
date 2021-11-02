@@ -1,6 +1,5 @@
 /* tables */
-table {
-	
+table {	
 	border-collapse: collapse;
 	border-width: 5px;
 	border-style: solid;
@@ -12,7 +11,6 @@ tr {
 	border-width: 1px;
 	border-style: solid;
 	border-color: #ffffff;
-
 }
 
 td {
@@ -37,26 +35,14 @@ td {
 .titre { font-weight: bold; background-color: purple;}
 
 
-
 /* tri de tables */
 #trier { background-color:white; color:black; border-collapse:collapse; BORDER:white 1px solid; FONT:12 Arial; TEXT-ALIGN:center }
 #trier TR		{ background-color:#ffefd5 }
 #trier .title	{ background-color:#bf2b2f; FONT:14 Arial; color:#ffffff; font-weight:bold }
 SPAN { FONT:bold 12 Arial; CURSOR:pointer }
+#trier TD{ BORDER:white 1px solid; }
 
-html,body{
-	height: 100%;
-}
-body { 
-	display: flex; 
-	flex-direction: column;
-}  
-#trier TD		{ 
-	BORDER:white 1px solid; 
-}
-
-/* footer */
-
+/* ----------------------------------------------- */
 /* menu */
 #menu ul {
 	margin:0;
@@ -94,40 +80,4 @@ body {
 
 #menu li ul {
 	position:absolute;
-}
-
-#menu {
-	background-color: rgb(218, 189, 186);
-	top: 0;
-	width: 100%;
-}
-
-#content {
-	flex: 1 0 auto;
-}
-#footer {
-	background-color: rgb(218, 189, 186);
-	/*position: fixed;*/
-	bottom: 0;
-	width: 100%;
-	flex-shrink: 0;
-	color: #000;
-}
-
-#footer a {
-	color: black;
-}
-
-html,body {
-	background-color: #000;
-	color: #ffefd5;
-}
-
-body a:hover{
-	color:aqua;
-	background-color:#bf2b2f;
-}
-
-body a{
-	color:aqua;
 }
