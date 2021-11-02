@@ -3,8 +3,6 @@ document.write(`
 <div id="footer">
     <hr>
     <a href="#">haut de page</a>
-    <p> </p>
-    <p>me contacter</p>
     <hr>
 
 
