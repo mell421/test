@@ -1,5 +1,5 @@
 #!/bin/bash 
 
-rm Z/*
+#rm Z/*
 rm ZZ/*
 # rm ZZZ/*
