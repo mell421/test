@@ -46,7 +46,6 @@ SPAN { FONT:bold 12 Arial; CURSOR:pointer }
 
 html,body{
 	height: 100%;
-	flex: 1 0 auto;
 }
 body { 
 	display: flex; 
@@ -112,6 +111,7 @@ body {
 	bottom: 0;
 	width: 100%;
 	flex-shrink: 0;
+	color: #000;
 }
 
 #footer a {
