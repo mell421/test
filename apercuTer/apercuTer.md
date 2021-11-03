@@ -105,6 +105,7 @@
     - [sem 18-10-2021](#sem-18-10-2021)
     - [sem 25-10-2021](#sem-25-10-2021)
     - [sem 01-11-2021](#sem-01-11-2021)
+    - [sem 08-11-2021](#sem-08-11-2021)
     - [sem -11-2021](#sem--11-2021)
     - [sem -11-2021](#sem--11-2021-1)
   - [bientot](#bientot)
@@ -133,6 +134,7 @@
       - [mois 01-10-2021](#mois-01-10-2021)
       - [mois 01-11-2021](#mois-01-11-2021)
       - [mois 01-12-2021](#mois-01-12-2021)
+      - [mois 01-01-2022](#mois-01-01-2022)
 
 ## Aperçu semaine
 
@@ -648,6 +650,9 @@
 ### sem 01-11-2021 
 * *insererici*
 * The good doctor _4
+### sem 08-11-2021 
+* *insererici*
+* Survivor _8
 ### sem -11-2021 
 * *insererici*
 ### sem -11-2021 
@@ -715,7 +720,7 @@
 * Lucifer _4
 * Bite me _1
 * Vwars _1
-* Survivor _8
+* 
 * Qforce _1
 * Bt21 original story _1
 * Camping paradis _12
@@ -801,8 +806,9 @@
 #### mois 01-11-2021 
 *insererici The good doctor _4 The voice _11 Ahs _10 The tasty florida _1 Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
+*insererici Survivor _8*
+#### mois 01-01-2022 
 *insererici*
-
 
 
 

@@ -69,17 +69,14 @@ for (i in 40:49) {
 
 ### 5
 ```{r stats5, echo=FALSE}
-for (i in 50:53) {
-  sumup(i)
-}
-for (i in 55:59) {
+for (i in 50:59) {
   sumup(i)
 }
 ```
 
 ### 6
 ```{r stats6, echo=FALSE}
-for (i in 60:64) {
+for (i in 60:63) {
   sumup(i)
 }
 ```

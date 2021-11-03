@@ -7,7 +7,7 @@
 # nb bis
 list99=( "Unbag _1" "Bt21 original story _1" # >= 200
 "Dont say no _1" # 199-100
-"Peach of time _1" "The voice greece _8" "Strictly come dancing _19" "The voice us _21" "Survivor _8" "Koh-lanta _27"  # 99-50
+"Peach of time _1" "The voice greece _8" "Strictly come dancing _19" "The voice us _21" "Koh-lanta _27"  # 99-50
 "Vwars _1" "The voice bulgarie _8" # 49-40
 "Dwts _30" # 39-30
 "The voice esp _8" "Survivor _41" "La mas draga _4" "7project _1" "" # 29-20

@@ -138,7 +138,7 @@
 - sem 16-08-2021 Dont say no _1x3(1) 
 - sem 23-08-2021 Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
 - sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) Koh-lanta _27x2(1) From dusk till dawn _2x6(1) 
-- sem 06-09-2021 Vwars _1x8(1) Survivor _8x4(3) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) Bt21 original story _1x12(1) 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(1) Camping paradis _12x5(1) 
+- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) Bt21 original story _1x12(1) 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(1) Camping paradis _12x5(1) 
 - sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
 - sem 20-09-2021 Post mortem _1x4(1) The voice bulgarie _8x3(2) Strictly come dancing _19x2(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Dals _11x2(1) Unbag _1x31(1) Koh-lanta _27x4(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
 - sem 27-09-2021 The voice greece _8x2(1) Goblin _1x2(1) The voice bulgarie _8x4(1) Strictly come dancing _19x3(1) The voice esp _8x3(2) Dont say no _1x9(1) Dals _11x3(1) Earthmix space _1x3(1) Alter ego _1x3(2) The masked singer _6x3(2) Rpdruk _3x2(1) Survivor _41x2(1) La mas draga _4x2(1) The voice us _21x3(2) Koh-lanta _27x5(1) 7project _1x5(1) The big leap _1x2(1) Dwts _30x2(1) /9-1-1 _5x2(1) 
@@ -186,7 +186,7 @@
 - mois 01-07-2021 Bt21 original story _1x10(1) Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 - mois 01-08-2021 Bt21 original story _1x11(1) /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 - mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) Dwts _30x3(2) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Dals _11x3(2) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Survivor _8x4(3) Qforce _1x2(1) Bt21 original story _1x12(1) 
+- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) Dwts _30x3(2) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Dals _11x3(2) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) Bt21 original story _1x12(1) 
 
 
 
@@ -548,12 +548,12 @@
 * conclu 02/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
 * conclu 03/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
 * conclu 04/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
-* conclu 05/09/21 = Unbag _1 > 6; Survivor _8 > 3; Peach of time _1 > 2; 
-* conclu 06/09/21 = Unbag _1 > 6; Survivor _8 > 3; Peach of time _1 > 2; 
-* conclu 07/09/21 = Unbag _1 > 6; Survivor _8 > 3; Peach of time _1 > 2; 
-* conclu 08/09/21 = Unbag _1 > 6; Survivor _8 > 3; Peach of time _1 > 2; 
-* conclu 09/09/21 = Unbag _1 > 6; Survivor _8 > 1; 
-* conclu 10/09/21 = Unbag _1 > 6; Survivor _8 > 1; 
+* conclu 05/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
+* conclu 06/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
+* conclu 07/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
+* conclu 08/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
+* conclu 09/09/21 = Unbag _1 > 6; 
+* conclu 10/09/21 = Unbag _1 > 6; 
 * conclu 11/09/21 = Unbag _1 > 6; 
 * conclu 12/09/21 = Unbag _1 > 6; 
 * conclu 13/09/21 = Unbag _1 > 6; Buffy _1 > 1; 
@@ -956,13 +956,13 @@
 * concluBis 02/09/21 = Unbag _1 > 10; Bt21 original story _1 > 4; Peach of time _1 > 4; 
 * concluBis 03/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Bt21 original story _1 > 2; 
 * concluBis 04/09/21 = Unbag _1 > 10; Bt21 original story _1 > 4; Peach of time _1 > 4; 
-* concluBis 05/09/21 = Unbag _1 > 10; Survivor _8 > 5; Bt21 original story _1 > 4; Peach of time _1 > 4; Dont say no _1 > 1; 
-* concluBis 06/09/21 = Unbag _1 > 10; Survivor _8 > 5; Peach of time _1 > 4; Bt21 original story _1 > 2; Dont say no _1 > 1; 
-* concluBis 07/09/21 = Unbag _1 > 10; Peach of time _1 > 6; Survivor _8 > 5; Bt21 original story _1 > 2; Vwars _1 > 1; 
-* concluBis 08/09/21 = Unbag _1 > 10; Peach of time _1 > 5; Survivor _8 > 5; 
-* concluBis 09/09/21 = Unbag _1 > 10; Survivor _8 > 3; 
-* concluBis 10/09/21 = Unbag _1 > 10; Survivor _8 > 3; Peach of time _1 > 1; 
-* concluBis 11/09/21 = Unbag _1 > 10; Survivor _8 > 2; Dont say no _1 > 1; 
+* concluBis 05/09/21 = Unbag _1 > 10; Bt21 original story _1 > 4; Peach of time _1 > 4; Dont say no _1 > 1; 
+* concluBis 06/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Bt21 original story _1 > 2; Dont say no _1 > 1; 
+* concluBis 07/09/21 = Unbag _1 > 10; Peach of time _1 > 6; Bt21 original story _1 > 2; Vwars _1 > 1; 
+* concluBis 08/09/21 = Unbag _1 > 10; Peach of time _1 > 5; 
+* concluBis 09/09/21 = Unbag _1 > 10; 
+* concluBis 10/09/21 = Unbag _1 > 10; Peach of time _1 > 1; 
+* concluBis 11/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
 * concluBis 12/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
 * concluBis 13/09/21 = Unbag _1 > 10; Buffy _1 > 3; Bt21 original story _1 > 2; Peach of time _1 > 2; Dont say no _1 > 1; 
 * concluBis 14/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Bt21 original story _1 > 2; 7project _1 > 1; 

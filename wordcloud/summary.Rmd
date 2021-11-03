@@ -99,13 +99,14 @@ summar(48)
 ```{r stats5, echo=FALSE}
 summar(50)
 summar(51)
-summar(56)
+summar(55)
+summar(58)
 summar(59)
 ```
 
-### 6
+
 ```{r stats6, echo=FALSE}
-summar(60)
+### 6
 ```
 
 ## timing 

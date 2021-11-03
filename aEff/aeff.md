@@ -308,45 +308,45 @@
 10/09/21 (eff) - unbag _1{534} bt21 original story _1{108} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
 11/09/21 (eff) - unbag _1{536} bt21 original story _1{108} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} dont say no _1{14} 
 12/09/21 (eff) - unbag _1{538} bt21 original story _1{108} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} dont say no _1{15} elite _4{15} 
-13/09/21 (eff) - unbag _1{540} bt21 original story _1{108} /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} dont say no _1{17} vincenzo _1{16} elite _4{15} survivor _8{14} 
-14/09/21 (eff) - unbag _1{542} bt21 original story _1{109} /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} survivor _8{14} 
-15/09/21 (eff) - unbag _1{544} bt21 original story _1{110} /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} survivor _8{14} 
-16/09/21 (eff) - unbag _1{546} bt21 original story _1{111} /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} survivor _8{14} 
-17/09/21 (eff) - unbag _1{548} bt21 original story _1{112} /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} survivor _8{14} 
-18/09/21 (eff) - unbag _1{550} bt21 original story _1{114} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} survivor _8{14} 
-19/09/21 (eff) - unbag _1{552} bt21 original story _1{116} /46 days _1{46} peach of time _1{27} dont say no _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} survivor _8{14} 
-20/09/21 (eff) - unbag _1{555} bt21 original story _1{118} /46 days _1{46} peach of time _1{29} dont say no _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} survivor _8{14} 
-21/09/21 (eff) - unbag _1{557} bt21 original story _1{120} /46 days _1{46} peach of time _1{30} dont say no _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} survivor _8{14} 
-22/09/21 (eff) - unbag _1{559} bt21 original story _1{122} /46 days _1{46} peach of time _1{31} dont say no _1{26} from dusk till dawn _2{20} survivor _8{14} vwars _1{8} 
-23/09/21 (eff) - unbag _1{561} bt21 original story _1{124} /46 days _1{46} peach of time _1{32} dont say no _1{28} from dusk till dawn _2{20} survivor _8{14} vwars _1{8} 
-24/09/21 (eff) - unbag _1{563} bt21 original story _1{125} peach of time _1{32} dont say no _1{29} from dusk till dawn _2{20} survivor _8{14} vwars _1{8} camping paradis _12{8} 
-25/09/21 (eff) - unbag _1{565} bt21 original story _1{126} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} survivor _8{14} vwars _1{8} camping paradis _12{8} 
-26/09/21 (eff) - unbag _1{567} bt21 original story _1{127} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} survivor _8{14} vwars _1{8} camping paradis _12{8} 
-27/09/21 (eff) - unbag _1{569} bt21 original story _1{128} dont say no _1{33} peach of time _1{32} from dusk till dawn _2{20} survivor _8{14} vwars _1{8} camping paradis _12{8} 
-28/09/21 (eff) - unbag _1{571} bt21 original story _1{129} dont say no _1{35} peach of time _1{32} from dusk till dawn _2{20} survivor _8{14} vwars _1{8} camping paradis _12{8} 
-29/09/21 (eff) - unbag _1{573} bt21 original story _1{130} dont say no _1{37} peach of time _1{32} from dusk till dawn _2{20} survivor _8{14} vwars _1{8} camping paradis _12{8} 
-30/09/21 (eff) - unbag _1{575} bt21 original story _1{131} dont say no _1{39} peach of time _1{32} from dusk till dawn _2{20} survivor _8{14} vwars _1{8} camping paradis _12{8} 
-01/10/21 (eff) - unbag _1{578} bt21 original story _1{133} dont say no _1{42} peach of time _1{33} from dusk till dawn _2{20} survivor _8{15} vwars _1{9} the voice greece _8{8} 
-02/10/21 (eff) - unbag _1{578} bt21 original story _1{133} dont say no _1{44} peach of time _1{33} from dusk till dawn _2{20} survivor _8{15} the voice greece _8{10} vwars _1{9} 
-03/10/21 (eff) - unbag _1{580} bt21 original story _1{134} dont say no _1{46} peach of time _1{33} from dusk till dawn _2{20} survivor _8{15} the voice greece _8{12} vwars _1{9} 
-04/10/21 (eff) - unbag _1{582} bt21 original story _1{135} dont say no _1{48} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{15} survivor _8{15} vwars _1{9} 
-05/10/21 (eff) - unbag _1{584} bt21 original story _1{136} dont say no _1{50} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{17} survivor _8{15} vwars _1{9} 
-06/10/21 (eff) - unbag _1{586} bt21 original story _1{137} dont say no _1{51} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{18} survivor _8{15} vwars _1{9} strictly come dancing _19{8} 
-07/10/21 (eff) - unbag _1{588} bt21 original story _1{138} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} survivor _8{15} vwars _1{9} the voice us _21{8} 
-08/10/21 (eff) - unbag _1{590} bt21 original story _1{139} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} survivor _8{15} the voice us _21{9} vwars _1{9} 
-09/10/21 (eff) - unbag _1{592} bt21 original story _1{140} dont say no _1{54} peach of time _1{33} the voice greece _8{19} survivor _8{15} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} 
-10/10/21 (eff) - unbag _1{594} bt21 original story _1{141} dont say no _1{54} peach of time _1{33} the voice greece _8{19} survivor _8{15} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} camping paradis _12{8} 
-11/10/21 (eff) - unbag _1{597} bt21 original story _1{141} dont say no _1{56} peach of time _1{33} the voice greece _8{21} survivor _8{15} the voice us _21{11} strictly come dancing _19{10} vwars _1{9} the voice bulgarie _8{8} 
-12/10/21 (eff) - unbag _1{599} bt21 original story _1{141} dont say no _1{57} peach of time _1{33} the voice greece _8{23} from dusk till dawn _2{20} survivor _8{15} strictly come dancing _19{11} the voice us _21{11} vwars _1{9} the voice bulgarie _8{8} 
-13/10/21 (eff) - unbag _1{601} bt21 original story _1{142} dont say no _1{58} peach of time _1{33} the voice greece _8{25} from dusk till dawn _2{20} survivor _8{15} strictly come dancing _19{13} the voice us _21{11} vwars _1{9} koh-lanta _27{8} 
-14/10/21 (eff) - unbag _1{603} bt21 original story _1{143} dont say no _1{59} peach of time _1{33} the voice greece _8{27} from dusk till dawn _2{20} strictly come dancing _19{15} survivor _8{15} the voice us _21{13} vwars _1{9} koh-lanta _27{8} 
-15/10/21 (eff) - unbag _1{605} bt21 original story _1{144} dont say no _1{60} peach of time _1{33} the voice greece _8{29} from dusk till dawn _2{20} strictly come dancing _19{16} the voice us _21{15} survivor _8{15} vwars _1{9} koh-lanta _27{8} the voice bulgarie _8{8} 
-16/10/21 (eff) - unbag _1{607} bt21 original story _1{145} dont say no _1{62} /46 days _1{46} peach of time _1{33} the voice greece _8{31} from dusk till dawn _2{20} strictly come dancing _19{18} the voice us _21{17} survivor _8{15} vwars _1{9} koh-lanta _27{8} the voice bulgarie _8{8} 
-17/10/21 (eff) - unbag _1{609} bt21 original story _1{146} dont say no _1{64} the voice greece _8{33} peach of time _1{33} from dusk till dawn _2{20} strictly come dancing _19{19} the voice us _21{19} survivor _8{15} vwars _1{9} koh-lanta _27{8} the voice bulgarie _8{8} camping paradis _12{8} 
-18/10/21 (eff) - unbag _1{611} bt21 original story _1{147} dont say no _1{66} the voice greece _8{36} peach of time _1{33} strictly come dancing _19{22} the voice us _21{22} survivor _8{15} the voice bulgarie _8{9} dwts _30{9} koh-lanta _27{9} vwars _1{9} 
-19/10/21 (eff) - unbag _1{613} bt21 original story _1{148} dont say no _1{68} the voice greece _8{38} peach of time _1{33} strictly come dancing _19{24} the voice us _21{23} survivor _8{15} the voice bulgarie _8{10} dwts _30{9} koh-lanta _27{9} vwars _1{9} 
-20/10/21 (eff) - unbag _1{615} bt21 original story _1{149} dont say no _1{70} the voice greece _8{40} peach of time _1{33} strictly come dancing _19{26} the voice us _21{24} survivor _8{15} the voice bulgarie _8{11} koh-lanta _27{9} dwts _30{9} vwars _1{9} 
-21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} strictly come dancing _19{27} the voice us _21{26} survivor _8{15} the voice bulgarie _8{11} koh-lanta _27{10} dwts _30{10} vwars _1{9} the voice esp _8{8} 
+13/09/21 (eff) - unbag _1{540} bt21 original story _1{108} /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} dont say no _1{17} vincenzo _1{16} elite _4{15} 
+14/09/21 (eff) - unbag _1{542} bt21 original story _1{109} /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
+15/09/21 (eff) - unbag _1{544} bt21 original story _1{110} /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
+16/09/21 (eff) - unbag _1{546} bt21 original story _1{111} /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
+17/09/21 (eff) - unbag _1{548} bt21 original story _1{112} /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
+18/09/21 (eff) - unbag _1{550} bt21 original story _1{114} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
+19/09/21 (eff) - unbag _1{552} bt21 original story _1{116} /46 days _1{46} peach of time _1{27} dont say no _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+20/09/21 (eff) - unbag _1{555} bt21 original story _1{118} /46 days _1{46} peach of time _1{29} dont say no _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+21/09/21 (eff) - unbag _1{557} bt21 original story _1{120} /46 days _1{46} peach of time _1{30} dont say no _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+22/09/21 (eff) - unbag _1{559} bt21 original story _1{122} /46 days _1{46} peach of time _1{31} dont say no _1{26} from dusk till dawn _2{20} vwars _1{8} 
+23/09/21 (eff) - unbag _1{561} bt21 original story _1{124} /46 days _1{46} peach of time _1{32} dont say no _1{28} from dusk till dawn _2{20} vwars _1{8} 
+24/09/21 (eff) - unbag _1{563} bt21 original story _1{125} peach of time _1{32} dont say no _1{29} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+25/09/21 (eff) - unbag _1{565} bt21 original story _1{126} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+26/09/21 (eff) - unbag _1{567} bt21 original story _1{127} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+27/09/21 (eff) - unbag _1{569} bt21 original story _1{128} dont say no _1{33} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+28/09/21 (eff) - unbag _1{571} bt21 original story _1{129} dont say no _1{35} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+29/09/21 (eff) - unbag _1{573} bt21 original story _1{130} dont say no _1{37} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+30/09/21 (eff) - unbag _1{575} bt21 original story _1{131} dont say no _1{39} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+01/10/21 (eff) - unbag _1{578} bt21 original story _1{133} dont say no _1{42} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} the voice greece _8{8} 
+02/10/21 (eff) - unbag _1{578} bt21 original story _1{133} dont say no _1{44} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{10} vwars _1{9} 
+03/10/21 (eff) - unbag _1{580} bt21 original story _1{134} dont say no _1{46} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{12} vwars _1{9} 
+04/10/21 (eff) - unbag _1{582} bt21 original story _1{135} dont say no _1{48} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{15} vwars _1{9} 
+05/10/21 (eff) - unbag _1{584} bt21 original story _1{136} dont say no _1{50} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{17} vwars _1{9} 
+06/10/21 (eff) - unbag _1{586} bt21 original story _1{137} dont say no _1{51} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{18} vwars _1{9} strictly come dancing _19{8} 
+07/10/21 (eff) - unbag _1{588} bt21 original story _1{138} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} vwars _1{9} the voice us _21{8} 
+08/10/21 (eff) - unbag _1{590} bt21 original story _1{139} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} the voice us _21{9} vwars _1{9} 
+09/10/21 (eff) - unbag _1{592} bt21 original story _1{140} dont say no _1{54} peach of time _1{33} the voice greece _8{19} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} 
+10/10/21 (eff) - unbag _1{594} bt21 original story _1{141} dont say no _1{54} peach of time _1{33} the voice greece _8{19} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} camping paradis _12{8} 
+11/10/21 (eff) - unbag _1{597} bt21 original story _1{141} dont say no _1{56} peach of time _1{33} the voice greece _8{21} the voice us _21{11} strictly come dancing _19{10} vwars _1{9} the voice bulgarie _8{8} 
+12/10/21 (eff) - unbag _1{599} bt21 original story _1{141} dont say no _1{57} peach of time _1{33} the voice greece _8{23} from dusk till dawn _2{20} strictly come dancing _19{11} the voice us _21{11} vwars _1{9} the voice bulgarie _8{8} 
+13/10/21 (eff) - unbag _1{601} bt21 original story _1{142} dont say no _1{58} peach of time _1{33} the voice greece _8{25} from dusk till dawn _2{20} strictly come dancing _19{13} the voice us _21{11} vwars _1{9} koh-lanta _27{8} 
+14/10/21 (eff) - unbag _1{603} bt21 original story _1{143} dont say no _1{59} peach of time _1{33} the voice greece _8{27} from dusk till dawn _2{20} strictly come dancing _19{15} the voice us _21{13} vwars _1{9} koh-lanta _27{8} 
+15/10/21 (eff) - unbag _1{605} bt21 original story _1{144} dont say no _1{60} peach of time _1{33} the voice greece _8{29} from dusk till dawn _2{20} strictly come dancing _19{16} the voice us _21{15} vwars _1{9} koh-lanta _27{8} the voice bulgarie _8{8} 
+16/10/21 (eff) - unbag _1{607} bt21 original story _1{145} dont say no _1{62} /46 days _1{46} peach of time _1{33} the voice greece _8{31} from dusk till dawn _2{20} strictly come dancing _19{18} the voice us _21{17} vwars _1{9} koh-lanta _27{8} the voice bulgarie _8{8} 
+17/10/21 (eff) - unbag _1{609} bt21 original story _1{146} dont say no _1{64} the voice greece _8{33} peach of time _1{33} from dusk till dawn _2{20} strictly come dancing _19{19} the voice us _21{19} vwars _1{9} koh-lanta _27{8} the voice bulgarie _8{8} camping paradis _12{8} 
+18/10/21 (eff) - unbag _1{611} bt21 original story _1{147} dont say no _1{66} the voice greece _8{36} peach of time _1{33} strictly come dancing _19{22} the voice us _21{22} the voice bulgarie _8{9} dwts _30{9} koh-lanta _27{9} vwars _1{9} 
+19/10/21 (eff) - unbag _1{613} bt21 original story _1{148} dont say no _1{68} the voice greece _8{38} peach of time _1{33} strictly come dancing _19{24} the voice us _21{23} the voice bulgarie _8{10} dwts _30{9} koh-lanta _27{9} vwars _1{9} 
+20/10/21 (eff) - unbag _1{615} bt21 original story _1{149} dont say no _1{70} the voice greece _8{40} peach of time _1{33} strictly come dancing _19{26} the voice us _21{24} the voice bulgarie _8{11} koh-lanta _27{9} dwts _30{9} vwars _1{9} 
+21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} strictly come dancing _19{27} the voice us _21{26} the voice bulgarie _8{11} koh-lanta _27{10} dwts _30{10} vwars _1{9} the voice esp _8{8} 
 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} the voice us _21{28} strictly come dancing _19{28} koh-lanta _27{11} dwts _30{11} the voice bulgarie _8{11} survivor au _6{9} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} the voice us _21{30} strictly come dancing _19{29} koh-lanta _27{12} dwts _30{12} the voice bulgarie _8{11} survivor au _6{11} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
 
@@ -678,11 +678,11 @@
 02/09/21 - 385* bt21 original story _1{101} 7project _1{1} peach of time _1{4} koh-lanta _27{2} camping paradis _12{7} 
 03/09/21 - 895* unbag _1{519} bt21 original story _1{102} 7project _1{1} peach of time _1{6} koh-lanta _27{2} 
 04/09/21 - 789* dont say no _1{11} unbag _1{521} bt21 original story _1{103} 7project _1{1} peach of time _1{8} koh-lanta _27{2} 
-05/09/21 - 792* survivor _8{0} qforce _1{0} dont say no _1{11} unbag _1{523} bt21 original story _1{104} 7project _1{1} peach of time _1{10} 
-06/09/21 - 865* vwars _1{7} survivor _8{3} qforce _1{1} dont say no _1{13} unbag _1{526} bt21 original story _1{106} 
-07/09/21 - 854* peach of time _1{15} vwars _1{7} survivor _8{5} qforce _1{1} dont say no _1{14} unbag _1{528} bt21 original story _1{107} 
-08/09/21 - 789* peach of time _1{17} 7project _1{2} vwars _1{8} survivor _8{7} qforce _1{1} dont say no _1{14} unbag _1{530} 
-09/09/21 - 247* peach of time _1{19} 7project _1{2} vwars _1{8} survivor _8{9} qforce _1{1} 
+05/09/21 - 792* qforce _1{0} dont say no _1{11} unbag _1{523} bt21 original story _1{104} 7project _1{1} peach of time _1{10} 
+06/09/21 - 865* vwars _1{7} qforce _1{1} dont say no _1{13} unbag _1{526} bt21 original story _1{106} 
+07/09/21 - 854* peach of time _1{15} vwars _1{7} qforce _1{1} dont say no _1{14} unbag _1{528} bt21 original story _1{107} 
+08/09/21 - 789* peach of time _1{17} 7project _1{2} vwars _1{8} qforce _1{1} dont say no _1{14} unbag _1{530} 
+09/09/21 - 247* peach of time _1{19} 7project _1{2} vwars _1{8} qforce _1{1} 
 10/09/21 - 300* bite me _1{2} peach of time _1{19} 7project _1{2} vwars _1{8} 
 11/09/21 - 303* dont say no _1{14} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
 12/09/21 - 306* dont say no _1{15} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
