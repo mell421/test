@@ -14,7 +14,7 @@
 
 ### toy_indexer
 ```bash
-python .\toy_indexer\main.py .\aEff\aeff.txt ./apercu/apercu20.txt .\apercu\apercu21.txt .\apercu19\apercu19.txt > ti
+python ./toy_indexer/main.py ./aEff/aeff.txt ./apercu/apercu20.txt ./apercu/apercu21.txt ./apercu19/apercu19.txt > ti
 ```
 
 ## git
