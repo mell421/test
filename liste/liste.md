@@ -448,6 +448,12 @@
 |all for one 2||30|||<!--  -->
 |the voice senior nl 4||7|||<!--  -->
 |survivor au 5||25|||<!--  -->
+|the tasty florida 1||8|||<!--  -->
+|AHS 10||10|||<!--  -->
+|the voice 11||7|||<!--  -->
+|the good doctor 4||20|||<!--  -->
+|survivor 8||17|||<!--  -->
+|survivor 9||15|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -556,7 +562,6 @@
 |pogi lang hanap|pogi lang hanap|?|serie|philippines|4|<!-- 19 -->
 |lakan|lakan|8|serie|philippines|4|<!-- 20 -->
 |the stranded 1|||||1|<!--  -->
-|the good doctor 4||18|||1|<!--  -->
 |blood 1||20|||16|<!--  -->
 |my vampire boyfriend 1||12|||6|<!--  -->
 |be love|be love|4|serie|japon|3|<!-- 25 -->
@@ -586,39 +591,35 @@
 |vincenzo||20|||2|<!--  -->
 |elite 4||8|||3|<!-- 18/6 -->
 |siew sum noi 1||12|||1|<!--  -->
-|don't say no 1||?|||4|<!--  -->
+|dont say no 1||?|||4|<!--  -->
 |camping paradis 12||?|||1|<!--  -->
 |young royals 1||6|||1|<!--  -->
 |46 days 1||?|||0|<!--  -->
 |glow up 2||10|||1|<!--  -->
 |josephine ange gardien 24||6|||1|<!--  -->
 |Control z 2||6||||<!--  -->
-|KL 27||?||||<!--  -->
+|Koh-Lanta 27||?||||<!--  -->
 |post mortem 1||6||||<!--  -->
-|AHS 10||10||||<!--  -->
 |the yearbook||8||||<!--  -->
 |bite me 1||?||||<!--  -->
 |peach of time 1||10||||<!--  -->
 |7project||7||||<!--  -->
 |Qforce||10||||<!--  -->
-|survivor 8||17||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->
-|the voice 11||7||||<!--  -->
-|dals 11||?||||<!--  -->
+|dals 11||11||||<!--  -->
 |alice in borderland 1||8||||<!--  -->
 |the voice bulgarie 8||?||||<!--  -->
 |Strictly come dancing 19||?||||<!--  -->
 |the voice esp 8||?||||<!--  -->
 |/9-1-1 5||18||||<!--  -->
-|DWTS 30||?||||<!--  -->
-|the voice us 21||?||||<!--  -->
+|DWTS 30||11||||<!--  -->
+|the voice us 21||20||||<!--  -->
 |the big leap 1||10||||<!--  -->
 |la mas draga 4||10||||<!--  -->
 |the masked singer 6||?||||<!--  -->
 |survivor 41||12||||<!--  -->
 |alter ego 1||10||||<!--  -->
 |rpdruk 3||10||||<!--  -->
-|the tasty florida 1||8||||<!--  -->
 |goblin 1||16||||<!--  -->
 |the voice greece 8||?||||<!--  -->
 |||||||<!--  -->

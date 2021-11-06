@@ -5,13 +5,10 @@ output:
     df_print: paged
     toc: false
 ---
+
 ```{r setup, include = FALSE}
+begin_time <-Sys.time()
 suppressWarnings(source("./R/sources.R"))
-suppressWarnings(library(tidyverse))
-library(tidygraph)
-library(dplyr)
-require(devtools)
-library(car)
 
 ```
 
@@ -21,6 +18,24 @@ library(car)
 <!-- -->
 [MD](./allListe.Rmd)  
 [wordcloud](./wordcloud.html)  
+[sumup](./sumup.html)  
+[summary](./summary.html)  
+---
+
+## SUMMARY
+
+### stats
+```{r stats3, echo=FALSE}
+# by(data, data$category, summary)
+# Hmisc::describe(data)
+print("accueil")
+accue <- data.frame(accueil())
+#summary(accue)
+#Hmisc::describe(accue)
+a2 <- (st(accue))
+a2
+```
+
 ---
 
 ## HISTORIQUE ET PREMDER
@@ -194,9 +209,18 @@ data <- data.frame(pageappressup())
         data %>% filter(date != "") 
 ```
 
+
+```{r maxall, eval=FALSE,echo=FALSE}
+### max all
+data <- data.frame(z00(6))
+data %>% filter(X. != "") 
+```
+
 ---
 
-## 
-```{r , echo=FALSE}
-
+## timing 
+```{r timing , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
 ```

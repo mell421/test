@@ -1,0 +1,66 @@
+---
+title: "summary13(tab)"
+output:
+  html_document:
+    df_print: paged
+    toc: false
+---
+
+```{r setup, include = FALSE}
+begin_time <-Sys.time()
+suppressWarnings(source("./R/sources.R"))
+library(vtable)
+summar <- function(i){
+  print(i)
+  #print(z13n(i))
+  tab <- st(z13u(i))
+  tab
+}
+```
+
+
+[retour](./../index.html)  
+
+<!-- -->
+[MD](./allListe.Rmd)  
+[wordcloud](./wordcloud.html)  
+[allListe](./allListe.html)  
+[sumup](./sumup.html)  
+---
+
+## SUMMARY
+
+### 0
+```{r stats0, echo=FALSE}
+summar(1)
+summar(2)
+summar(3)
+summar(4)
+summar(5)
+summar(6)
+summar(7)
+summar(8)
+summar(9)
+```
+
+### 1
+```{r stats1, echo=FALSE}
+summar(10)
+summar(11)
+summar(12)
+summar(13)
+summar(14)
+summar(15)
+summar(16)
+summar(17)
+summar(18)
+summar(19)
+```
+
+
+## timing 
+```{r timing , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
+```

@@ -1,0 +1,140 @@
+Exo 1 :
+
+
+1. WITH STOP WORDS AND WITHOUT STEMMING
+
+
+[0.000s] Starting...
+[0.000s] Reading Text_Only_Ascii_Coll_NoSem...
+[18.149s] Reading completed
+[18.149s] Completed...
+
+Indexing time:   18.149315513s
+Doc count:       9804 doc(s)
+Word count:      11699504 word(s)
+Vocabulary size: 277357 word(s)
+List avoided because doc count > 10
+
+
+2. WITH STOP WORDS AND STEMMING
+
+[0.000s] Starting...
+[0.000s] Reading Text_Only_Ascii_Coll_NoSem...
+[16.341s] Reading completed
+[16.341s] Applying stemmer...
+[21.688s] Completed...
+
+Indexing time:   21.687910002s
+Doc count:       9804 doc(s)
+Word count:      11699504 word(s)
+Vocabulary size: 238736 word(s)
+List avoided because doc count > 10
+
+
+
+EXO 2 
+
+1. WITHOUT STOP WORDS NEITHER STEMMING
+
+
+[0.000s] Starting...
+[0.000s] Reading Text_Only_Ascii_Coll_NoSem...
+[17.010s] Reading completed
+[17.010s] Removing stopwords...
+[17.018s] Completed...
+
+Indexing time:   17.017652836s
+Doc count:       9804 doc(s)
+Word count:      11699504 word(s)
+Vocabulary size: 277206 word(s)
+List avoided because doc count > 10
+
+
+EXO 3 
+
+1. WITHOUT STOP WORDS AND WITH STEMMING
+
+[0.000s] Starting...
+[0.000s] Reading Text_Only_Ascii_Coll_NoSem...
+[17.510s] Reading completed
+[17.510s] Removing stopwords...
+[17.518s] Applying stemmer...
+[22.821s] Completed...
+
+Indexing time:   22.821525013s
+Doc count:       9804 doc(s)
+Word count:      11699504 word(s)
+Vocabulary size: 238667 word(s)
+List avoided because doc count > 10
+
+Exo 5 : LTN
+
+
+[0.000s] Starting...
+[0.000s] Reading Text_Only_Ascii_Coll_NoSem...
+[18.622s] Reading completed
+[18.623s] Completed...
+
+Indexing time:   18.62254533s
+Doc count:       9804 doc(s)
+Word count:      11699504 word(s)
+Vocabulary size: 277357 word(s)
+List avoided because doc count > 10
+>  web ranking scoring algorithm 
+
+> Choose you indexation mode : 
+ Boolean (1) 
+ SMART LTN (2) 
+ SMART LTC (3) 
+ BM25 (4) 
+
+ >your answer : 2
+10 element(s) in 5.8630689520000026s
+ 1) DOC : 23724 | rsv : 7.1313272291347545 
+ 2) DOC : 448834 | rsv : 6.1210037661072185 
+ 3) DOC : 207747 | rsv : 5.778708169158351 
+ 4) DOC : 18336216 | rsv : 5.704868200715063 
+ 5) DOC : 2292623 | rsv : 5.327011664210744 
+ 6) DOC : 2606518 | rsv : 5.248188732020951 
+ 7) DOC : 6861556 | rsv : 5.225724549344589 
+ 8) DOC : 18963457 | rsv : 5.205531443986972 
+ 9) DOC : 363695 | rsv : 5.196984869130263 
+ 10) DOC : 719095 | rsv : 5.152116958466727 
+> 
+
+Exo 6 et 7  LTC
+
+[0.000s] Starting...
+[0.000s] Reading Text_Only_Ascii_Coll_NoSem...
+[19.373s] Reading completed
+[19.373s] Completed...
+
+Indexing time:   19.373123595s
+Doc count:       9804 doc(s)
+Word count:      11699504 word(s)
+Vocabulary size: 277357 word(s)
+List avoided because doc count > 10
+>  web ranking scoring algorithm 
+
+> Choose you indexation mode : 
+ Boolean (1) 
+ SMART LTN (2) 
+ SMART LTC (3) 
+ BM25 (4) 
+
+ >your answer : 3
+10 element(s) in 11.141374818000003s
+
+ List of returned documents with SMART_LTC mode : 
+ 
+ 1) DOC : 9981737 | rsv : 0.30751531553651323 
+ 2) DOC : 10416781 | rsv : 0.2858668207839292 
+ 3) DOC : 13771790 | rsv : 0.2742018741196172 
+ 4) DOC : 8080270 | rsv : 0.26908048048554073 
+ 5) DOC : 17303714 | rsv : 0.24956510941133409 
+ 6) DOC : 2363262 | rsv : 0.23808174501975118 
+ 7) DOC : 4839372 | rsv : 0.2282032663313796 
+ 8) DOC : 6843345 | rsv : 0.22485841469108092 
+ 9) DOC : 2565404 | rsv : 0.22480611745787377 
+ 10) DOC : 5822019 | rsv : 0.22413355635718835 
+

@@ -13,11 +13,11 @@ output:
 suppressWarnings(source("./R/sources.R"))
 
 # variables globales
-
+begin_time<-Sys.time()
 # wordcloud
 ## delay webshot
 delayW <- 5
-## circle, cardioid, diamond, triangle-forward, triangle, pantagon
+## circle, cardioid, diamond, triangle-forward, triangle, pentagon
 forme <- "circle"
 
 # FCTS
@@ -29,7 +29,9 @@ forme <- "circle"
 
 <!-- -->
 [MD](./wordcloud.Rmd)  
-[allListe](./allListe.html) 
+[allListe](./allListe.html)  
+[sumup](./sumup.html)  
+[summary](./summary.html)  
 
 ---
 
@@ -467,6 +469,13 @@ main <- function(text){
 }
 
 suppressWarnings(main(text))
+```
+
+### timing p1 
+```{r timing1 , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
 ```
 
 ---
@@ -963,18 +972,9 @@ netw(10)
 #dev.print(device = png, file = "network1_2.png", width = 600)
 ```
 
-### stats
-```{r stats, echo=FALSE}
-# by(data, data$category, summary)
-# Hmisc::describe(data)
-
-print("accueil")
-accue <- data.frame(accueil())
-summary(accue)
-Hmisc::describe(accue)
-
-print("copy script")
-cs <- data.frame(aCopyScript())
-summary(cs)
-Hmisc::describe(cs)
+### timing 
+```{r timing , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
 ```

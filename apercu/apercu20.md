@@ -145,7 +145,6 @@ Good singers _1x3(1) So much in love _1x2(1)
 #### sem 31-08-2020 
 Unbag _1x2(1) So much in love _1x3(1) Blacklist series _1x2(1) 
 #### sem 07-09-2020 
-
 #### sem 14-09-2020 
 Unbag _1x3(1) 
 #### sem 21-09-2020 
@@ -163,7 +162,7 @@ Boys lockdown _1x3(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Quien es la masc
 #### sem 02-11-2020 
 Swap test _1x3(1) The stranded _1x2(1) Unbag _1x7(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) 
 #### sem 09-11-2020 
-Lakan _1x3(1) Pogi lang hanap _1x4(1) Unbag _1x8(1) Blood _1x17(1) The good doctor _4x2(1) 
+Lakan _1x3(1) Pogi lang hanap _1x4(1) Unbag _1x8(1) Blood _1x17(1) 
 #### sem 16-11-2020 
 My vampire boyfriend _1x3(2) Unbag _1x9(1) 
 #### sem 23-11-2020 
@@ -205,7 +204,7 @@ Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Baby _3x2(1) My dear loser e
 #### mois 01-11-2020 
 Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
-Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) The good doctor _4x2(1) 
+Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
 
 ---
 
