@@ -17,7 +17,7 @@ begin_time<-Sys.time()
 # wordcloud
 ## delay webshot
 delayW <- 5
-## circle, cardioid, diamond, triangle-forward, triangle, pantagon
+## circle, cardioid, diamond, triangle-forward, triangle, pentagon
 forme <- "circle"
 
 # FCTS

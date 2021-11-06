@@ -106,8 +106,8 @@
     - [sem 25-10-2021](#sem-25-10-2021)
     - [sem 01-11-2021](#sem-01-11-2021)
     - [sem 08-11-2021](#sem-08-11-2021)
+    - [sem 15-11-2021](#sem-15-11-2021)
     - [sem -11-2021](#sem--11-2021)
-    - [sem -11-2021](#sem--11-2021-1)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -652,8 +652,9 @@
 * The good doctor _4
 ### sem 08-11-2021 
 * *insererici*
+* Survivor _9
 * Survivor _8
-### sem -11-2021 
+### sem 15-11-2021 
 * *insererici*
 ### sem -11-2021 
 * *insererici*
@@ -668,7 +669,7 @@
 * Dexter _9
 * Monsters inside bm _1
 * Mental _2
-* Survivor _9
+* 
 * /9-1-1 lone star _3
 * 
 * 
@@ -806,7 +807,7 @@
 #### mois 01-11-2021 
 *insererici The good doctor _4 The voice _11 Ahs _10 The tasty florida _1 Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
-*insererici Survivor _8*
+*insererici Survivor _9 Survivor _8*
 #### mois 01-01-2022 
 *insererici*
 

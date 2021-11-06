@@ -453,6 +453,7 @@
 |the voice 11||7|||<!--  -->
 |the good doctor 4||20|||<!--  -->
 |survivor 8||17|||<!--  -->
+|survivor 9||15|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -605,14 +606,14 @@
 |7project||7||||<!--  -->
 |Qforce||10||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->
-|dals 11||?||||<!--  -->
+|dals 11||11||||<!--  -->
 |alice in borderland 1||8||||<!--  -->
 |the voice bulgarie 8||?||||<!--  -->
 |Strictly come dancing 19||?||||<!--  -->
 |the voice esp 8||?||||<!--  -->
 |/9-1-1 5||18||||<!--  -->
-|DWTS 30||?||||<!--  -->
-|the voice us 21||?||||<!--  -->
+|DWTS 30||11||||<!--  -->
+|the voice us 21||20||||<!--  -->
 |the big leap 1||10||||<!--  -->
 |la mas draga 4||10||||<!--  -->
 |the masked singer 6||?||||<!--  -->
