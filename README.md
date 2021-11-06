@@ -11,6 +11,11 @@
 ```html
 <doc><docno>0</docno>text</doc>
 ```
+ou
+```html
+</doc>
+<doc><docno>0</docno>text
+```
 
 ### toy_indexer
 ```bash
