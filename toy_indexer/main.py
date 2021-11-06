@@ -1,12 +1,36 @@
 from os import stat
 import re
 from timing import logger, QuickTime
-from index import IndexStore
+from index import IndexObject, IndexStore
 from reading import supply_docs
-from optparse import OptionParser
+from optparse import OptionParser, Values
 from graph_cache import StatCache
-from query_parser import parse
+from  query_parser import parse
 import itertools
+from IndexMode import IndexMode
+
+algorithms = ["all", "bool", "bm25", "ltc", "ltn"]
+
+
+def compute_algo(algo: str, index: IndexObject, options: Values):
+    if algo == "all" or algo == "bool":
+        return
+
+    logger.write("Computing algorithm " + algo)
+
+    if algo == "ltn":
+        index.compute_smart_ltn()
+    elif algo == "ltc":
+        index.compute_smart_ltc()
+    elif algo == "bm25":
+        index.compute_bm25(options.bm25k1, options.bm25b)
+
+    logger.write(
+        "test ranked retrieval... '" + options.algo_sentence + "'")
+    answer = index.compute_ranked_retrieval_as_list(options.algo_sentence)
+    # Print the answers
+    for a in itertools.islice(answer, 10):
+        print("-", a.doc, "(" + str(a.wtdsum) + ")")
 
 
 def main():
@@ -25,11 +49,21 @@ def main():
                       help="data output dir", default="output_dir")
     parser.add_option("-S", "--step", dest="step", type="int",
                       help="step for stats", default=1000)
+
+    parser.add_option("-a", "--algorithm", dest="algo",
+                      help="algorithm to use to enter query mode, values: " + " ".join(algorithms), default=algorithms[0])
+    parser.add_option("-A", "--algorithm_sentence", dest="algo_sentence",
+                      help="algorithm try value", default="web ranking scoring algorithm")
+
+    parser.add_option("-B", "--bm25b", dest="bm25b", type="float",
+                      help="value of b if --algorithm=bm25", default=0.75)
+    parser.add_option("-K", "--bm25k1", dest="bm25k1", type="float",
+                      help="value of k1 if --algorithm=bm25", default=1.2)
     parser.set_usage(parser.get_prog_name() + " (filename+)")
 
     options, args = parser.parse_args()
 
-    if len(args) < 1:
+    if len(args) < 1 or options.algo not in algorithms:
         parser.print_usage()
         return
 
@@ -48,8 +82,9 @@ def main():
     doc_count = 0
     # Number of word for this session
     word_count = 0
-
+    _docIdList=[]
     for docno, doctext in supply_docs(args):
+        _docIdList.append(docno)
         doc_count += 1
         # Fetch all the words
         words = re.findall('\w+', doctext)
@@ -59,8 +94,7 @@ def main():
             word_count += 1
 
             # Fetch an index object and add a find
-            wl = index.fetch_or_create_object(word)
-            wl.add_find(docno)
+            index.add_word(docno, word)
 
         # Ask to compute the stats to produce images
         stats.compute_stat()
@@ -73,7 +107,15 @@ def main():
     if options.stemmer:
         index.apply_stemmer()
 
+    # Practice 3 - wdf
+    if options.algo == "all":
+        for algo in algorithms:
+            compute_algo(algo, index, options)
+    elif options.algo != "bool":
+        compute_algo(options.algo, index, options)
+
     logger.write("Completed...")
+
     logger.end()
 
     # Produce the stats and the images
@@ -99,16 +141,40 @@ def main():
         timer = QuickTime()
         while True:
             query = input("> ")
-            timer.start()
-            answer = parse(index, query)
-            timer.end()
-            print(len(answer), " element(s) in ",
-                  timer.last_time(), "s", sep="")
+            
+            #Quit the search engine 
+            if query.strip().lower() == "clear":
+                break
+                
+            _indexMode = input(
+                "\n> Choose you indexation mode : \n Boolean (1) \n SMART LTN (2) \n SMART LTC (3) \n BM25 (4) \n\n >your answer : ")
+            try:
 
-            # Print the answers
-            for a in itertools.islice(answer, 10):
-                print("-", a)
+                _indexMode = int(_indexMode.strip())
+                timer.start()
+                for word in sorted(index.objects):
+                    _wordProperties = index.objects[word]
+                    # SMART LTN case
+                    if _indexMode == 2 or _indexMode == 3:
+                        index.indexMode = IndexMode.SMART_LTN if _indexMode == 2 else IndexMode.SMART_LTC 
+                        #Fill in SMART LTN Values
+                        _wordProperties.smartLTN_values(doc_count,index, True if _indexMode == 3 else False ) 
+                        if _indexMode == 3:
+                            #Fill in SMART LTC Values
+                            _wordProperties.smartLTC_values(index)
+                
+                    
+                answer = parse(index, query.lower(),_docIdList )
+                timer.end()
+                print(len(answer), " element(s) in ",
+                      timer.last_time(), "s", sep="")
+                print("\n List of returned documents with {} mode : \n ".format(index.indexMode.name))
+                # Print the answers
+                for _id,_result in enumerate(answer):
+                    print(" {}) DOC : {} | rsv : {} ".format(_id+1,_result,answer[_result]))
 
+            except:
+                raise("Verify your indexation mode")
 
 if __name__ == "__main__":
     main()

@@ -1,8 +1,8 @@
 
 i = Unbag _1
 ligne :  1794 ZZ/Unbag_1.txt
-mot   :  26135 ZZ/Unbag_1.txt
-carac :  167583 ZZ/Unbag_1.txt
+mot   :  26139 ZZ/Unbag_1.txt
+carac :  167606 ZZ/Unbag_1.txt
 
 i = Bt21 original story _1
 ligne :  556 ZZ/Bt21originalstory_1.txt
@@ -316,8 +316,8 @@ carac :  15770 ZZ/Vincenzo_1.txt
 
 i = The harvest season _1
 ligne :  101 ZZ/Theharvestseason_1.txt
-mot   :  1897 ZZ/Theharvestseason_1.txt
-carac :  12742 ZZ/Theharvestseason_1.txt
+mot   :  1901 ZZ/Theharvestseason_1.txt
+carac :  12765 ZZ/Theharvestseason_1.txt
 
 i = From dusk till dawn _2
 ligne :  132 ZZ/Fromdusktilldawn_2.txt
@@ -371,8 +371,8 @@ carac :  3303 ZZ/Bt21vlog_1.txt
 
 i = Wabi show _1
 ligne :  31 ZZ/Wabishow_1.txt
-mot   :  605 ZZ/Wabishow_1.txt
-carac :  3731 ZZ/Wabishow_1.txt
+mot   :  609 ZZ/Wabishow_1.txt
+carac :  3754 ZZ/Wabishow_1.txt
 
 i = Glow up _2
 ligne :  19 ZZ/Glowup_2.txt

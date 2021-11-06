@@ -1,8 +1,11 @@
 
 from typing import Generator, List, Set
 from index import IndexStore
+import re
+import operator
+import itertools
 
-
+from IndexMode import IndexMode
 def locate_end_parenthesis(exp: List[str], start: int) -> int:
     """
     locate the next parenthesis index, raise an exception if no next parenthesis is found
@@ -91,8 +94,36 @@ def parse_expr(store: IndexStore, exp: List[str]) -> Set[str]:
     return and_result
 
 
-def parse(store: IndexStore, exp: str) -> Set[str]:
+def parse(store: IndexStore, exp: str, docs) :
     """
     parse an expression and return the set of the matched documents
     """
-    return parse_expr(store, exp.lower().split())
+
+    #return parse_expr(store, exp.lower().split())
+
+    _indexTerms=list(store.objects.keys())
+
+    # index query words
+    _queryWords=re.findall('\w+', exp.strip())
+    for _queryword in _queryWords:
+        if _queryword in  _indexTerms  :
+            store.setQueryTermFrequency(_queryword)       
+    # Compute RSV (d,q) 
+    
+
+    for _docNum  in docs:
+        _rsv=0
+        for _qterm in store.queryTermManager:
+            _qwordProp=store.objects[_qterm]
+            if store.indexMode== IndexMode.SMART_LTN and _docNum in list(_qwordProp.smart_ltn.keys()):
+                _rsv= _rsv + ( _qwordProp.smart_ltn[_docNum] * store.queryTermManager[_qterm] )
+            if store.indexMode== IndexMode.SMART_LTC and _docNum in list(_qwordProp.smart_ltc.keys()):
+                _rsv= _rsv + ( _qwordProp.smart_ltc[_docNum] * store.queryTermManager[_qterm] )
+        store.RSV.update({_docNum: _rsv}) 
+            
+
+    # return 10 
+    _dicOrdered=dict( sorted(store.RSV.items(), key=operator.itemgetter(1),reverse=True))
+    return dict(itertools.islice(_dicOrdered.items(), 10))
+
+

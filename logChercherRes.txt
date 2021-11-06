@@ -3,7 +3,7 @@ cat sep nb fichier
 carac : 
 carac :  10002 ZZ/Thevoiceesp_8.txt
 carac :  12265 ZZ/Vwars_1.txt
-carac :  12742 ZZ/Theharvestseason_1.txt
+carac :  12765 ZZ/Theharvestseason_1.txt
 carac :  13058 ZZ/Dwts_30.txt
 carac :  1345 ZZ/Theyearbook_1.txt
 carac :  13833 ZZ/Thevoicebulgarie_8.txt
@@ -13,7 +13,7 @@ carac :  1556 ZZ/Youngroyals_1.txt
 carac :  15770 ZZ/Vincenzo_1.txt
 carac :  1584 ZZ/Bangkoklovestoriesinnocence_1.txt
 carac :  16258 ZZ/Koh-lanta_27.txt
-carac :  167583 ZZ/Unbag_1.txt
+carac :  167606 ZZ/Unbag_1.txt
 carac :  18214 ZZ/Fromdusktilldawn_2.txt
 carac :  1823 ZZ/Slamdance_1.txt
 carac :  1943 ZZ/Thevoiceportugal_9.txt
@@ -48,7 +48,7 @@ carac :  3593 ZZ/Aokivuanpaianonayami_1.txt
 carac :  3654 ZZ/Postmortem_1.txt
 carac :  3692 ZZ/Lucifer_4.txt
 carac :  3700 ZZ/Tokyoghoul_3.txt
-carac :  3731 ZZ/Wabishow_1.txt
+carac :  3754 ZZ/Wabishow_1.txt
 carac :  3835 ZZ/Josephineangegardien_24.txt
 carac :  4026 ZZ/Goodsingers_1.txt
 carac :  4053 ZZ/Younevereatalone_1.txt
@@ -253,7 +253,7 @@ mot   :  153 ZZ/Dragula_4.txt
 mot   :  1571 ZZ/Survivorau_6.txt
 mot   :  1571 ZZ/Thevoiceesp_8.txt
 mot   :  1818 ZZ/Vwars_1.txt
-mot   :  1897 ZZ/Theharvestseason_1.txt
+mot   :  1901 ZZ/Theharvestseason_1.txt
 mot   :  195 ZZ/Theyearbook_1.txt
 mot   :  209 ZZ/Tienbromance_1.txt
 mot   :  2162 ZZ/Dwts_30.txt
@@ -263,7 +263,7 @@ mot   :  220 ZZ/Tbbt_11.txt
 mot   :  223 ZZ/Youngroyals_1.txt
 mot   :  2275 ZZ/Vincenzo_1.txt
 mot   :  2535 ZZ/Koh-lanta_27.txt
-mot   :  26135 ZZ/Unbag_1.txt
+mot   :  26139 ZZ/Unbag_1.txt
 mot   :  277 ZZ/Slamdance_1.txt
 mot   :  2818 ZZ/Fromdusktilldawn_2.txt
 mot   :  287 ZZ/Thevoiceportugal_9.txt
@@ -302,7 +302,7 @@ mot   :  545 ZZ/Goodsingers_1.txt
 mot   :  551 ZZ/Tokyoghoul_3.txt
 mot   :  563 ZZ/Theshipper_1.txt
 mot   :  582 ZZ/Younevereatalone_1.txt
-mot   :  605 ZZ/Wabishow_1.txt
+mot   :  609 ZZ/Wabishow_1.txt
 mot   :  654 ZZ/Aokivuanpaianonayami_1.txt
 mot   :  7204 ZZ/Dontsayno_1.txt
 mot   :  758 ZZ/Koishiteakuma_1.txt
