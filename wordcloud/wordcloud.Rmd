@@ -476,6 +476,7 @@ suppressWarnings(main(text))
 end_time<-Sys.time()
 total_time <- end_time - begin_time
 print(total_time)
+begin_time2 <-Sys.time()
 ```
 
 ---
@@ -974,7 +975,8 @@ netw(10)
 
 ### timing 
 ```{r timing , echo=FALSE}
-end_time<-Sys.time()
-total_time <- end_time - begin_time
-print(total_time)
+end_time2<-Sys.time()
+total_time2 <- end_time2 - begin_time2
+print(total_time2)
+print(total_time+total_time2)
 ```

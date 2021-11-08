@@ -11,62 +11,71 @@
 ### a mettre
 * $
 $
-Bangkok love stories innocence 1x2
-An eye for an eye 1x2
-Young royals 1x2
-* --
 Ciwyw 1x1
 Ciwyw 1x3
 Papa and daddy 1x2
 Papa and daddy 1x1
-The masked singer ger 5x2
-Midnight mass 1x2
-Bite sisters 1x2
+* --
+Bangkok love stories innocence 1x2
+An eye for an eye 1x2
+Young royals 1x2
 Insiders 1x2
-Incroyable talent 16x2
 Dragula 4x2
 Age of the living dead 1x2
-The voice portugal 9x2
 Drag race ca 2x2
-Kieta hatsukoi 1x2
-Young sheldon 5x2
 Goblin 1x2
 Rpdruk 3x2
 The big leap 1x2
+Druck 7x2
 
 ### tisaep all
 * $
 $
+Survivor 41x6
+Survivor 10x3
+* Survivor 10x1
+Banana fish 1x2
+* Banana fish 1x1
+Dals 11x8
+Bite sisters 1x5
+Bad buddy 1x2
+Earthmix space 1x5
+The voice ger 11x9
+Unbag 1x34
+Munch 4x6
+Alter ego 1x7
+The masked singer 6x8
+Incroyable talent 16x3
+La mas draga 4x7
+The voice us 21x14
+Koh-lanta 27x10
+Dwts 30x8
+The voice portugal 9x3
+Strictly come dancing 19x12
+The voice greece 8x14
+The voice bulgarie 8x8
+Kieta hatsukoi 1x2
+The masked singer ger 5x2
+* Druck 7x1
+The voice esp 8x7
+* Bad buddy 1x1
+Tbbt 11x3
+Aoki vuanpaia no nayami 1x3
+Young sheldon 5x3
+My sweet dear 1x2
+* My sweet dear 1x1
 * The masked singer ger 5x1
-* Midnight mass 1x1
-The voice ger 11x3
-The voice esp 8x6
-Dals 11x6
-Earthmix space 1x4
-Unbag 1x32
 * Bite sisters 1x1
-Munch 4x2
 * Munch 4x1
 * Insiders 1x1
-Alter ego 1x6
-The masked singer 6x6
-The voice us 21x10
 * Incroyable talent 16x1
-La mas draga 4x5
 * Dragula 4x1
 * Age of the living dead 1x1
-Koh-lanta 27x8
-Dwts 30x6
 Inhuman condition 1x7
 * Inhuman condition 1x1
 * The voice portugal 9x1
-The voice greece 8x10
-Strictly come dancing 19x8
-The voice bulgarie 8x6
 Survivor au 6x3
 * Survivor au 6x1
-Survivor 41x4
-Aoki vuanpaia no nayami 1x2
 * Aoki vuanpaia no nayami 1x1
 * Drag race ca 2x1
 * Kieta hatsukoi 1x1
@@ -102,8 +111,6 @@ Buffy 1x7
 Lucifer 4x4
 Bite me 1x2
 Vwars 1x7
-Survivor 8x3
-* Survivor 8x1
 * Qforce 1x1
 Bt21 original story 1x11
 * 7project 1x1

@@ -67,6 +67,7 @@ summar(26)
 summar(27)
 summar(28)
 summar(29)
+summar(62)
 ```
 
 ### 3

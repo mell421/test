@@ -585,7 +585,6 @@
 * Golden blood _1
 * Survivor _1
 ### sem 23-08-2021 
-* Friend or lover _1
 * Given 2021 _1
 * Beat shazam _4
 * Dragula _3
@@ -652,10 +651,12 @@
 * The good doctor _4
 ### sem 08-11-2021 
 * *insererici*
+* Friend or lover _1
 * Survivor _9
 * Survivor _8
 ### sem 15-11-2021 
 * *insererici*
+* Midnight mass _1
 ### sem -11-2021 
 * *insererici*
 
@@ -664,50 +665,61 @@
 
 ## bientot
 * $ a commencer / venir $
-* Druck _7
+* /9-1-1 lone star _3
 * Queen of the universe _1
 * Dexter _9
 * Monsters inside bm _1
 * Mental _2
-* 
-* /9-1-1 lone star _3
-* 
+* The good doctor _5
+* Nilundon _1
+* Drag race it _1
+* Les engagés _3
+* F4 thailand _1
+* Paint with love _1
+* Aggretsuko _4
+* The masked singer fr _3
 * 
 * 
 * $ order $
-* The masked singer ger _5
-* Midnight mass _1
-* The voice ger _11
-* The voice esp _8
+* Survivor _41
+* Survivor _10
+* Banana fish _1
 * Dals _11
-* Earthmix space _1
-* Unbag _1
 * Bite sisters _1
+* Bad buddy _1
+* Earthmix space _1
+* The voice ger _11
+* Unbag _1
 * Munch _4
-* Insiders _1
 * Alter ego _1
 * The masked singer _6
-* The voice us _21
 * Incroyable talent _16
 * La mas draga _4
-* Dragula _4
-* Age of the living dead _1
+* The voice us _21
 * Koh-lanta _27
 * Dwts _30
-* Inhuman condition _1
 * The voice portugal _9
-* 
 * Strictly come dancing _19
+* The voice greece _8
 * The voice bulgarie _8
-* Survivor au _6
-* Survivor _41
-* Aoki vuanpaia no nayami _1
-* Drag race ca _2
 * Kieta hatsukoi _1
+* 
+* The masked singer ger _5
+* Druck _7
+* The voice esp _8
+* Tbbt _11
+* Aoki vuanpaia no nayami _1
+* Young sheldon _5
+* My sweet dear _1
+* Insiders _1
+* Dragula _4
+* Age of the living dead _1
+* Inhuman condition _1
+* Survivor au _6
+* Drag race ca _2
 * /9-1-1 _5
 * Love area _1
 * Dont say no _1
-* Young sheldon _5
 * The shipper _1
 * Goblin _1
 * Rpdruk _3
@@ -721,7 +733,6 @@
 * Lucifer _4
 * Bite me _1
 * Vwars _1
-* 
 * Qforce _1
 * Bt21 original story _1
 * Camping paradis _12
@@ -742,17 +753,15 @@
 * Mr lipstick _1
 * Bt21 vlog _1
 * Schools out lets date now _1
-* 
+* You never eat alone _1
+* Unlocked _1
+* My vampire boyfriend _1
+* Tokyo ghoul _3
 * 
 * 
 * $ nbPcTps $
 * Josephine ange gardien _23 (29/12/20)
 * Marble mania _1 (19/8/21)
-* 
-* $ other $
-* Tokyo ghoul _3
-* 
-* 
 * 
 
 
@@ -801,13 +810,13 @@
 #### mois 01-08-2021 
 *Stuck on you _1 Survivor _40 Kaamelott _6 Drag race esp _1 The best story _1 Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
-*Survivor _5 Drop _1 We are not human _1 Survivor _4 Koh-lanta _4 Koh-lanta _3 Koh-lanta _1 Rpdu _1 Survivor _3 Friend or lover _1 Given 2021 _1 Beat shazam _4 Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
+*Survivor _5 Drop _1 We are not human _1 Survivor _4 Koh-lanta _4 Koh-lanta _3 Koh-lanta _1 Rpdu _1 Survivor _3 Given 2021 _1 Beat shazam _4 Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
 #### mois 01-10-2021 
 *insererici The circle us _3 Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*
 #### mois 01-11-2021 
 *insererici The good doctor _4 The voice _11 Ahs _10 The tasty florida _1 Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
-*insererici Survivor _9 Survivor _8*
+*insererici Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
 *insererici*
 

@@ -71,7 +71,9 @@
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
-|LGBT US + EUROPE|||||<!--  -->
+||||||<!--  -->
+|LGBT US + EUROPE + ANIME|||||<!--  -->
+|yuri on ice 1||12|||<!--  -->
 |visible out on tv||1|||<!--  -->
 |carmilla 4||36|||<!--  -->
 |the outs 1||7|||<!--  -->
@@ -242,11 +244,11 @@
 |golden blood|golden blood|8|serie|thailande|                 <!-- 125 -->
 |light on me|light on me|16|serie|corée|                      <!-- 126 -->
 |given 2021|given 2021|6|serie|japon|                         <!-- 127 -->
-|friend or lover|friend or lover|5|serie|taiwan|              <!-- 128 -->
 |we are not human|we are not human(***)|24|serie|chine|            <!-- 129 -->
 |Squid game|squid game|9|serie(***)|corée|<!--  -->
 |see you after quarantine|see you after quarantine|10|serie|taiwan/japon|<!--  -->
 |the tasty florida|the tasty florida|8|serie|corée|<!--  -->
+|friend or lover|friend or lover|5|serie|taiwan|              <!-- 128 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

@@ -413,7 +413,6 @@
 |dragula 3||10|||<!--  -->
 |beat shazam 4||10|||<!--  -->
 |given 2021||6|||<!--  -->
-|friend or lover|friend or lover|5|serie|taiwan|              <!-- 34 -->
 |survivor 3||15|||<!--  -->
 |koh-lanta 1||13|||<!--  -->
 |koh-lanta 3||13|||<!--  -->
@@ -454,6 +453,8 @@
 |the good doctor 4||20|||<!--  -->
 |survivor 8||17|||<!--  -->
 |survivor 9||15|||<!--  -->
+|friend or lover|friend or lover|6|serie|taiwan|              <!-- 34 -->
+|midnight mass 1||7|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -617,39 +618,59 @@
 |the big leap 1||10||||<!--  -->
 |la mas draga 4||10||||<!--  -->
 |the masked singer 6||?||||<!--  -->
-|survivor 41||12||||<!--  -->
+|survivor 41||14||||<!--  -->
 |alter ego 1||10||||<!--  -->
 |rpdruk 3||10||||<!--  -->
-|goblin 1||16||||<!--  -->
+|goblin 1||16|||1|<!--  -->
 |the voice greece 8||?||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
+|young sheldon 5||?|||3|<!--  -->
+|the voice ger 11|||||0|<!--  -->
+|love area 1|||||2|<!--  -->
+|kieta hatsukoi 1|||||2|<!--  -->
+|drag race ca 2|||||1|<!--  -->
+|aoki vuanpaia no nayami 1|||||2|<!--  -->
+|survivor au 6||25|||3|<!--  -->
+|the voice portugal 9|||||3|<!--  -->
+|inhuman condition 1|||||0|<!--  -->
+|age of the living dead 1|||||1|<!--  -->
+|dragula 4|||||1|<!--  -->
+|incroyable talent 16||?|||2|<!--  -->
+|insiders 1||7|||1|<!--  -->
+|munch 4||8|||6|<!--  -->
+|bite sisters 1||10|||5|<!--  -->
+|the masked singer ger 5|||||2|<!--  -->
+|my sweet dear 1||8|||2|<!--  -->
+|bad buddy 1||12|||2|<!--  -->
+|druck 7||10|||1|<!--  -->
+|banana fish 1|||||2|<!--  -->
+|survivor 10||15|||3|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
 
 ## a venir
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|bad buddy 1||12|||0|<!--  -->
-|q-force 1||?|||0|<!--  -->
-|young sheldon 5||?|||0|<!--  -->
 |dexter 9||?|||0|<!--  -->
 |queen of the universe 1||6|||0|<!--  -->
-|the voice ger 11|||||0|<!--  -->
-|drag race ca 2|||||0|<!--  -->
-|the masked singer ger 5|||||0|<!--  -->
-|dragula 4||||||<!--  -->
-|my sweet dear 1||||||<!--  -->
-|druck 7||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|love is science 1||?|||0|<!-- 27/3 -->
+|nilundon 1|||||0|<!--  -->
+|drag race it 1|||||0|<!--  -->
+|les engagés 3|||||0|<!--  -->
+|F4 thailand|||||0|<!--  -->
+|paint with love 1|||||0|<!--  -->
+|aggretsuko 4|||||0|<!--  -->
+|/9-1-1 lone star 3|||||0|<!--  -->
+|The masked singer fr 3|||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
 |papa and daddy||?|||0|<!-- 23/4 -->
 |top secret together||?|||0|<!-- 14/5 -->
@@ -672,7 +693,6 @@
 |never too late 1|||||0|<!--  -->
 |baker boys 1|||||0|<!--  -->
 |drag I love you 1|||||0|<!--  -->
-|F4 thailand|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |my extraordinary 2|||||0|<!--  -->
 |the player 1|||||0|<!--  -->

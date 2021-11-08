@@ -51,6 +51,7 @@ for (i in 10:19) {
 for (i in 20:29) {
   sumup(i)
 }
+sumup(62)
 ```
 
 ### 3
@@ -88,4 +89,5 @@ for (i in 60:61) {
 end_time<-Sys.time()
 total_time <- end_time - begin_time
 print(total_time)
+# begin_time <-Sys.time()
 ```
