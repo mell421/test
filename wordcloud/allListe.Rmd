@@ -16,24 +16,27 @@ suppressWarnings(source("./R/sources.R"))
 [retour](./../index.html)  
 
 <!-- -->
-[MD](./allListe.Rmd)  
-[wordcloud](./wordcloud.html)  
-[sumup](./sumup.html)  
-[summary](./summary.html)  
+|||
+|[MD](./allListe.Rmd)|[wordcloud](./wordcloud.html)|
+|[sumup](./sumup.html)|[summary](./summary.html)|
+
 ---
 
 ## SUMMARY
 
 ### stats
 ```{r stats3, echo=FALSE}
+
+
 # by(data, data$category, summary)
 # Hmisc::describe(data)
-print("accueil")
+#a2 <- (st(data))
+#a2
 accue <- data.frame(accueil())
-#summary(accue)
-#Hmisc::describe(accue)
-a2 <- (st(accue))
-a2
+moy <- avg(accue[3])
+print(moy)
+
+#
 ```
 
 ---

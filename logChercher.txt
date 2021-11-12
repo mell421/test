@@ -1,18 +1,18 @@
 
 i = Unbag _1
 ligne :  1794 ZZ/Unbag_1.txt
-mot   :  26209 ZZ/Unbag_1.txt
-carac :  167746 ZZ/Unbag_1.txt
+mot   :  26173 ZZ/Unbag_1.txt
+carac :  167610 ZZ/Unbag_1.txt
 
 i = Bt21 original story _1
 ligne :  556 ZZ/Bt21originalstory_1.txt
-mot   :  12289 ZZ/Bt21originalstory_1.txt
-carac :  73747 ZZ/Bt21originalstory_1.txt
+mot   :  12273 ZZ/Bt21originalstory_1.txt
+carac :  73691 ZZ/Bt21originalstory_1.txt
 
 i = Dont say no _1
 ligne :  245 ZZ/Dontsayno_1.txt
-mot   :  7276 ZZ/Dontsayno_1.txt
-carac :  40948 ZZ/Dontsayno_1.txt
+mot   :  7244 ZZ/Dontsayno_1.txt
+carac :  40836 ZZ/Dontsayno_1.txt
 
 i = Peach of time _1
 ligne :  130 ZZ/Peachoftime_1.txt
@@ -21,23 +21,23 @@ carac :  21769 ZZ/Peachoftime_1.txt
 
 i = The voice greece _8
 ligne :  141 ZZ/Thevoicegreece_8.txt
-mot   :  5232 ZZ/Thevoicegreece_8.txt
-carac :  29099 ZZ/Thevoicegreece_8.txt
+mot   :  5200 ZZ/Thevoicegreece_8.txt
+carac :  28987 ZZ/Thevoicegreece_8.txt
 
 i = Strictly come dancing _19
 ligne :  101 ZZ/Strictlycomedancing_19.txt
-mot   :  4106 ZZ/Strictlycomedancing_19.txt
-carac :  23718 ZZ/Strictlycomedancing_19.txt
+mot   :  4090 ZZ/Strictlycomedancing_19.txt
+carac :  23662 ZZ/Strictlycomedancing_19.txt
 
 i = The voice us _21
 ligne :  100 ZZ/Thevoiceus_21.txt
-mot   :  4093 ZZ/Thevoiceus_21.txt
-carac :  22949 ZZ/Thevoiceus_21.txt
+mot   :  4057 ZZ/Thevoiceus_21.txt
+carac :  22813 ZZ/Thevoiceus_21.txt
 
 i = Koh-lanta _27
 ligne :  65 ZZ/Koh-lanta_27.txt
-mot   :  2571 ZZ/Koh-lanta_27.txt
-carac :  16330 ZZ/Koh-lanta_27.txt
+mot   :  2553 ZZ/Koh-lanta_27.txt
+carac :  16262 ZZ/Koh-lanta_27.txt
 
 i = Vwars _1
 ligne :  59 ZZ/Vwars_1.txt
@@ -51,13 +51,13 @@ carac :  13893 ZZ/Thevoicebulgarie_8.txt
 
 i = Dwts _30
 ligne :  48 ZZ/Dwts_30.txt
-mot   :  2185 ZZ/Dwts_30.txt
-carac :  13104 ZZ/Dwts_30.txt
+mot   :  2177 ZZ/Dwts_30.txt
+carac :  13076 ZZ/Dwts_30.txt
 
 i = The voice esp _8
 ligne :  38 ZZ/Thevoiceesp_8.txt
-mot   :  1590 ZZ/Thevoiceesp_8.txt
-carac :  10040 ZZ/Thevoiceesp_8.txt
+mot   :  1588 ZZ/Thevoiceesp_8.txt
+carac :  10028 ZZ/Thevoiceesp_8.txt
 
 i = Survivor _41
 ligne :  30 ZZ/Survivor_41.txt
@@ -66,8 +66,8 @@ carac :  8365 ZZ/Survivor_41.txt
 
 i = La mas draga _4
 ligne :  31 ZZ/Lamasdraga_4.txt
-mot   :  1421 ZZ/Lamasdraga_4.txt
-carac :  8999 ZZ/Lamasdraga_4.txt
+mot   :  1419 ZZ/Lamasdraga_4.txt
+carac :  8987 ZZ/Lamasdraga_4.txt
 
 i = 7project _1
 ligne :  29 ZZ/7project_1.txt
@@ -81,8 +81,8 @@ carac :
 
 i = Dals _11
 ligne :  26 ZZ/Dals_11.txt
-mot   :  1117 ZZ/Dals_11.txt
-carac :  7552 ZZ/Dals_11.txt
+mot   :  1115 ZZ/Dals_11.txt
+carac :  7540 ZZ/Dals_11.txt
 
 i = /9-1-1 _5
 ligne :  28 ZZ//9-1-1_5.txt
@@ -91,23 +91,23 @@ carac :  7506 ZZ//9-1-1_5.txt
 
 i = Alter ego _1
 ligne :  25 ZZ/Alterego_1.txt
-mot   :  1102 ZZ/Alterego_1.txt
-carac :  7246 ZZ/Alterego_1.txt
+mot   :  1098 ZZ/Alterego_1.txt
+carac :  7222 ZZ/Alterego_1.txt
 
 i = The masked singer _6
 ligne :  29 ZZ/Themaskedsinger_6.txt
-mot   :  1381 ZZ/Themaskedsinger_6.txt
-carac :  8770 ZZ/Themaskedsinger_6.txt
+mot   :  1377 ZZ/Themaskedsinger_6.txt
+carac :  8746 ZZ/Themaskedsinger_6.txt
 
 i = Survivor au _6
 ligne :  34 ZZ/Survivorau_6.txt
-mot   :  1576 ZZ/Survivorau_6.txt
-carac :  8169 ZZ/Survivorau_6.txt
+mot   :  1544 ZZ/Survivorau_6.txt
+carac :  8057 ZZ/Survivorau_6.txt
 
 i = Earthmix space _1
 ligne :  21 ZZ/Earthmixspace_1.txt
-mot   :  820 ZZ/Earthmixspace_1.txt
-carac :  5545 ZZ/Earthmixspace_1.txt
+mot   :  818 ZZ/Earthmixspace_1.txt
+carac :  5533 ZZ/Earthmixspace_1.txt
 
 i = The shipper _1
 ligne :  28 ZZ/Theshipper_1.txt
@@ -126,13 +126,13 @@ carac :  3366 ZZ/Biteme_1.txt
 
 i = The voice ger _11
 ligne :  28 ZZ/Thevoiceger_11.txt
-mot   :  1426 ZZ/Thevoiceger_11.txt
-carac :  8813 ZZ/Thevoiceger_11.txt
+mot   :  1424 ZZ/Thevoiceger_11.txt
+carac :  8801 ZZ/Thevoiceger_11.txt
 
 i = Inhuman condition _1
 ligne :  19 ZZ/Inhumancondition_1.txt
-mot   :  848 ZZ/Inhumancondition_1.txt
-carac :  4169 ZZ/Inhumancondition_1.txt
+mot   :  816 ZZ/Inhumancondition_1.txt
+carac :  4057 ZZ/Inhumancondition_1.txt
 
 i = Post mortem _1
 ligne :  16 ZZ/Postmortem_1.txt
@@ -173,11 +173,6 @@ i =
 ligne : 
 mot   : 
 carac : 
-
-i = Munch _4
-ligne :  11 ZZ/Munch_4.txt
-mot   :  476 ZZ/Munch_4.txt
-carac :  2377 ZZ/Munch_4.txt
 
 i = Kieta hatsukoi _1
 ligne :  8 ZZ/Kietahatsukoi_1.txt
@@ -236,8 +231,8 @@ carac :
 
 i = Incroyable talent _16
 ligne :  4 ZZ/Incroyabletalent_16.txt
-mot   :  127 ZZ/Incroyabletalent_16.txt
-carac :  835 ZZ/Incroyabletalent_16.txt
+mot   :  123 ZZ/Incroyabletalent_16.txt
+carac :  811 ZZ/Incroyabletalent_16.txt
 
 i = Age of the living dead _1
 ligne : 
@@ -256,18 +251,18 @@ carac :
 
 i = Bite sisters _1
 ligne :  3 ZZ/Bitesisters_1.txt
-mot   :  85 ZZ/Bitesisters_1.txt
-carac :  554 ZZ/Bitesisters_1.txt
+mot   :  81 ZZ/Bitesisters_1.txt
+carac :  530 ZZ/Bitesisters_1.txt
 
 i = Insiders _1
 ligne :  3 ZZ/Insiders_1.txt
-mot   :  84 ZZ/Insiders_1.txt
-carac :  550 ZZ/Insiders_1.txt
+mot   :  80 ZZ/Insiders_1.txt
+carac :  526 ZZ/Insiders_1.txt
 
 i = Dragula _4
 ligne :  4 ZZ/Dragula_4.txt
-mot   :  151 ZZ/Dragula_4.txt
-carac :  914 ZZ/Dragula_4.txt
+mot   :  149 ZZ/Dragula_4.txt
+carac :  902 ZZ/Dragula_4.txt
 
 i =
 ligne : 

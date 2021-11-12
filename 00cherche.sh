@@ -16,7 +16,7 @@ list99=( "Unbag _1" "Bt21 original story _1" # >= 200
 "" # 9
 "Aoki vuanpaia no nayami _1" "" # 8
 "Qforce _1" "" # 7
-"Munch _4" "Kieta hatsukoi _1" "Love area _1" "Goblin _1" "" # 6
+"Kieta hatsukoi _1" "Love area _1" "Goblin _1" "" # 6
 "The voice portugal _9" "" # 5
 "Drag race ca _2" "Rpdruk _3" "The big leap _1" "Alice in borderland _1" "" # 4
 "Incroyable talent _16" "Age of the living dead _1" "Young sheldon _5" "" # 3

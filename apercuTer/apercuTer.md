@@ -656,6 +656,7 @@
 * Survivor _8
 ### sem 15-11-2021 
 * *insererici*
+* Munch _4
 * Midnight mass _1
 ### sem -11-2021 
 * *insererici*
@@ -690,7 +691,7 @@
 * Earthmix space _1
 * The voice ger _11
 * Unbag _1
-* Munch _4
+* 
 * Alter ego _1
 * The masked singer _6
 * Incroyable talent _16
@@ -816,7 +817,7 @@
 #### mois 01-11-2021 
 *insererici The good doctor _4 The voice _11 Ahs _10 The tasty florida _1 Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
-*insererici Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
+*insererici Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
 *insererici*
 

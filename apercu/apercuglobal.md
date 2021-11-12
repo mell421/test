@@ -595,8 +595,8 @@
 * conclu 19/10/21 = The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Strictly come dancing _19 > 1; 
 * conclu 20/10/21 = The voice greece _8 > 4; Inhuman condition _1 > 3; Unbag _1 > 3; The voice us _21 > 2; Survivor au _6 > 1; Dont say no _1 > 1; 
 * conclu 21/10/21 = The voice us _21 > 6; Inhuman condition _1 > 3; Unbag _1 > 3; The voice greece _8 > 2; Survivor au _6 > 2; Dont say no _1 > 1; 
-* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; The voice us _21 > 2; The voice greece _8 > 2; Survivor au _6 > 2; Munch _4 > 1; Dont say no _1 > 1; 
-* conclu 23/10/21 = Unbag _1 > 6; The voice us _21 > 3; The voice greece _8 > 3; Inhuman condition _1 > 3; Survivor au _6 > 2; Munch _4 > 1; Dont say no _1 > 1; 
+* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; The voice us _21 > 2; The voice greece _8 > 2; Survivor au _6 > 2; Dont say no _1 > 1; 
+* conclu 23/10/21 = Unbag _1 > 6; The voice us _21 > 3; The voice greece _8 > 3; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
 
 
 
@@ -1003,8 +1003,8 @@
 * concluBis 19/10/21 = The voice greece _8 > 11; Dont say no _1 > 7; Strictly come dancing _19 > 6; Unbag _1 > 5; Survivor au _6 > 4; The voice us _21 > 2; Bt21 original story _1 > 2; The voice bulgarie _8 > 1; Aoki vuanpaia no nayami _1 > 1; 
 * concluBis 20/10/21 = The voice greece _8 > 9; The voice us _21 > 7; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
 * concluBis 21/10/21 = The voice us _21 > 13; Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
-* concluBis 22/10/21 = Unbag _1 > 10; The voice us _21 > 9; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Munch _4 > 3; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; Dwts _30 > 1; 
-* concluBis 23/10/21 = Unbag _1 > 10; The voice us _21 > 10; The voice greece _8 > 7; Inhuman condition _1 > 7; Survivor au _6 > 4; Munch _4 > 3; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+* concluBis 22/10/21 = Unbag _1 > 10; The voice us _21 > 9; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; Dwts _30 > 1; 
+* concluBis 23/10/21 = Unbag _1 > 10; The voice us _21 > 10; The voice greece _8 > 7; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
 
 
 

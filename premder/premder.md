@@ -42,7 +42,6 @@ Bad buddy 1x2
 Earthmix space 1x5
 The voice ger 11x9
 Unbag 1x34
-Munch 4x6
 Alter ego 1x7
 The masked singer 6x8
 Incroyable talent 16x3
@@ -66,7 +65,6 @@ My sweet dear 1x2
 * My sweet dear 1x1
 * The masked singer ger 5x1
 * Bite sisters 1x1
-* Munch 4x1
 * Insiders 1x1
 * Incroyable talent 16x1
 * Dragula 4x1

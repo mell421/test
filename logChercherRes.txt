@@ -1,10 +1,10 @@
 cat sep nb fichier
 
 carac : 
-carac :  10040 ZZ/Thevoiceesp_8.txt
+carac :  10028 ZZ/Thevoiceesp_8.txt
 carac :  12335 ZZ/Vwars_1.txt
 carac :  12769 ZZ/Theharvestseason_1.txt
-carac :  13104 ZZ/Dwts_30.txt
+carac :  13076 ZZ/Dwts_30.txt
 carac :  1353 ZZ/Theyearbook_1.txt
 carac :  13893 ZZ/Thevoicebulgarie_8.txt
 carac :  1484 ZZ/Tienbromance_1.txt
@@ -12,8 +12,8 @@ carac :  1556 ZZ/Youngroyals_1.txt
 carac :  1579 ZZ/Tbbt_11.txt
 carac :  15814 ZZ/Vincenzo_1.txt
 carac :  1584 ZZ/Bangkoklovestoriesinnocence_1.txt
-carac :  16330 ZZ/Koh-lanta_27.txt
-carac :  167746 ZZ/Unbag_1.txt
+carac :  16262 ZZ/Koh-lanta_27.txt
+carac :  167610 ZZ/Unbag_1.txt
 carac :  1823 ZZ/Slamdance_1.txt
 carac :  18312 ZZ/Fromdusktilldawn_2.txt
 carac :  1951 ZZ/Thevoiceportugal_9.txt
@@ -24,10 +24,9 @@ carac :  2155 ZZ/Lovearea_1.txt
 carac :  2164 ZZ/Youngsheldon_5.txt
 carac :  2170 ZZ/Darkbluekiss_1.txt
 carac :  21769 ZZ/Peachoftime_1.txt
+carac :  22813 ZZ/Thevoiceus_21.txt
 carac :  2294 ZZ/Benxjim_1.txt
-carac :  22949 ZZ/Thevoiceus_21.txt
-carac :  23718 ZZ/Strictlycomedancing_19.txt
-carac :  2377 ZZ/Munch_4.txt
+carac :  23662 ZZ/Strictlycomedancing_19.txt
 carac :  2381 ZZ/Qforce_1.txt
 carac :  2518 ZZ/Unlocked_1.txt
 carac :  25226 ZZ/46days_1.txt
@@ -36,7 +35,7 @@ carac :  2553 ZZ/Dragraceca_2.txt
 carac :  2745 ZZ/Zombiedetective_1.txt
 carac :  2791 ZZ/Controlz_2.txt
 carac :  2865 ZZ/Goblin_1.txt
-carac :  29099 ZZ/Thevoicegreece_8.txt
+carac :  28987 ZZ/Thevoicegreece_8.txt
 carac :  29883 ZZ/Myvampireboyfriend_1.txt
 carac :  3038 ZZ/Theuntamed_1.txt
 carac :  3097 ZZ/Rpdruk_3.txt
@@ -51,31 +50,31 @@ carac :  3700 ZZ/Tokyoghoul_3.txt
 carac :  3754 ZZ/Wabishow_1.txt
 carac :  3843 ZZ/Josephineangegardien_24.txt
 carac :  4026 ZZ/Goodsingers_1.txt
-carac :  40948 ZZ/Dontsayno_1.txt
+carac :  4057 ZZ/Inhumancondition_1.txt
+carac :  40836 ZZ/Dontsayno_1.txt
 carac :  4102 ZZ/Younevereatalone_1.txt
 carac :  4127 ZZ/Theshipper_1.txt
-carac :  4169 ZZ/Inhumancondition_1.txt
+carac :  526 ZZ/Insiders_1.txt
+carac :  530 ZZ/Bitesisters_1.txt
 carac :  5361 ZZ/Koishiteakuma_1.txt
-carac :  550 ZZ/Insiders_1.txt
-carac :  554 ZZ/Bitesisters_1.txt
-carac :  5545 ZZ/Earthmixspace_1.txt
+carac :  5533 ZZ/Earthmixspace_1.txt
 carac :  6020 ZZ/Campingparadis_12.txt
 carac :  6330 ZZ/7project_1.txt
 carac :  7046 ZZ/Belove_1.txt
+carac :  7222 ZZ/Alterego_1.txt
 carac :  7245 ZZ/Themaskedsingerger_5.txt
-carac :  7246 ZZ/Alterego_1.txt
-carac :  73747 ZZ/Bt21originalstory_1.txt
+carac :  73691 ZZ/Bt21originalstory_1.txt
 carac :  7506 ZZ//9-1-1_5.txt
-carac :  7552 ZZ/Dals_11.txt
+carac :  7540 ZZ/Dals_11.txt
 carac :  7864 ZZ/Elite_4.txt
 carac :  791 ZZ/Siewsumnoi_1.txt
-carac :  8169 ZZ/Survivorau_6.txt
-carac :  835 ZZ/Incroyabletalent_16.txt
+carac :  8057 ZZ/Survivorau_6.txt
+carac :  811 ZZ/Incroyabletalent_16.txt
 carac :  8365 ZZ/Survivor_41.txt
-carac :  8770 ZZ/Themaskedsinger_6.txt
-carac :  8813 ZZ/Thevoiceger_11.txt
-carac :  8999 ZZ/Lamasdraga_4.txt
-carac :  914 ZZ/Dragula_4.txt
+carac :  8746 ZZ/Themaskedsinger_6.txt
+carac :  8801 ZZ/Thevoiceger_11.txt
+carac :  8987 ZZ/Lamasdraga_4.txt
+carac :  902 ZZ/Dragula_4.txt
 i =
 i = /9-1-1 _5
 i = 46 days _1
@@ -119,7 +118,6 @@ i = La mas draga _4
 i = Love area _1
 i = Lucifer _4
 i = Mr lipstick _1
-i = Munch _4
 i = My vampire boyfriend _1
 i = Peach of time _1
 i = Post mortem _1
@@ -162,7 +160,6 @@ ligne :  10 ZZ/Tbbt_11.txt
 ligne :  100 ZZ/Thevoiceus_21.txt
 ligne :  101 ZZ/Strictlycomedancing_19.txt
 ligne :  101 ZZ/Theharvestseason_1.txt
-ligne :  11 ZZ/Munch_4.txt
 ligne :  12 ZZ/Slamdance_1.txt
 ligne :  12 ZZ/Youngroyals_1.txt
 ligne :  127 ZZ/Vincenzo_1.txt
@@ -235,32 +232,32 @@ ligne :  9 ZZ/Theyearbook_1.txt
 mot   : 
 mot   :  104 ZZ/Siewsumnoi_1.txt
 mot   :  1057 ZZ/Belove_1.txt
-mot   :  1102 ZZ/Alterego_1.txt
-mot   :  1117 ZZ/Dals_11.txt
+mot   :  1098 ZZ/Alterego_1.txt
+mot   :  1115 ZZ/Dals_11.txt
 mot   :  1169 ZZ/Themaskedsingerger_5.txt
 mot   :  1175 ZZ//9-1-1_5.txt
-mot   :  12289 ZZ/Bt21originalstory_1.txt
+mot   :  12273 ZZ/Bt21originalstory_1.txt
+mot   :  123 ZZ/Incroyabletalent_16.txt
 mot   :  1235 ZZ/Elite_4.txt
-mot   :  127 ZZ/Incroyabletalent_16.txt
 mot   :  1283 ZZ/Survivor_41.txt
-mot   :  1381 ZZ/Themaskedsinger_6.txt
-mot   :  1421 ZZ/Lamasdraga_4.txt
-mot   :  1426 ZZ/Thevoiceger_11.txt
-mot   :  151 ZZ/Dragula_4.txt
-mot   :  1576 ZZ/Survivorau_6.txt
-mot   :  1590 ZZ/Thevoiceesp_8.txt
+mot   :  1377 ZZ/Themaskedsinger_6.txt
+mot   :  1419 ZZ/Lamasdraga_4.txt
+mot   :  1424 ZZ/Thevoiceger_11.txt
+mot   :  149 ZZ/Dragula_4.txt
+mot   :  1544 ZZ/Survivorau_6.txt
+mot   :  1588 ZZ/Thevoiceesp_8.txt
 mot   :  1853 ZZ/Vwars_1.txt
 mot   :  1903 ZZ/Theharvestseason_1.txt
 mot   :  199 ZZ/Theyearbook_1.txt
 mot   :  209 ZZ/Tienbromance_1.txt
+mot   :  2177 ZZ/Dwts_30.txt
 mot   :  218 ZZ/Bangkoklovestoriesinnocence_1.txt
-mot   :  2185 ZZ/Dwts_30.txt
 mot   :  2211 ZZ/Thevoicebulgarie_8.txt
 mot   :  223 ZZ/Tbbt_11.txt
 mot   :  223 ZZ/Youngroyals_1.txt
 mot   :  2297 ZZ/Vincenzo_1.txt
-mot   :  2571 ZZ/Koh-lanta_27.txt
-mot   :  26209 ZZ/Unbag_1.txt
+mot   :  2553 ZZ/Koh-lanta_27.txt
+mot   :  26173 ZZ/Unbag_1.txt
 mot   :  277 ZZ/Slamdance_1.txt
 mot   :  2867 ZZ/Fromdusktilldawn_2.txt
 mot   :  291 ZZ/Thevoiceportugal_9.txt
@@ -276,8 +273,8 @@ mot   :  355 ZZ/Youngsheldon_5.txt
 mot   :  3582 ZZ/Peachoftime_1.txt
 mot   :  368 ZZ/Zombiedetective_1.txt
 mot   :  372 ZZ/Thebigleap_1.txt
-mot   :  4093 ZZ/Thevoiceus_21.txt
-mot   :  4106 ZZ/Strictlycomedancing_19.txt
+mot   :  4057 ZZ/Thevoiceus_21.txt
+mot   :  4090 ZZ/Strictlycomedancing_19.txt
 mot   :  413 ZZ/Theuntamed_1.txt
 mot   :  4170 ZZ/46days_1.txt
 mot   :  421 ZZ/Goblin_1.txt
@@ -285,12 +282,11 @@ mot   :  4215 ZZ/Myvampireboyfriend_1.txt
 mot   :  423 ZZ/Dragraceca_2.txt
 mot   :  473 ZZ/Rpdruk_3.txt
 mot   :  474 ZZ/Controlz_2.txt
-mot   :  476 ZZ/Munch_4.txt
 mot   :  481 ZZ/Glowup_2.txt
 mot   :  488 ZZ/Buffy_1.txt
 mot   :  492 ZZ/Biteme_1.txt
 mot   :  513 ZZ/Lucifer_4.txt
-mot   :  5232 ZZ/Thevoicegreece_8.txt
+mot   :  5200 ZZ/Thevoicegreece_8.txt
 mot   :  528 ZZ/Postmortem_1.txt
 mot   :  542 ZZ/Bt21vlog_1.txt
 mot   :  545 ZZ/Goodsingers_1.txt
@@ -300,11 +296,11 @@ mot   :  567 ZZ/Theshipper_1.txt
 mot   :  588 ZZ/Younevereatalone_1.txt
 mot   :  609 ZZ/Wabishow_1.txt
 mot   :  657 ZZ/Aokivuanpaianonayami_1.txt
-mot   :  7276 ZZ/Dontsayno_1.txt
+mot   :  7244 ZZ/Dontsayno_1.txt
 mot   :  758 ZZ/Koishiteakuma_1.txt
-mot   :  820 ZZ/Earthmixspace_1.txt
-mot   :  84 ZZ/Insiders_1.txt
-mot   :  848 ZZ/Inhumancondition_1.txt
-mot   :  85 ZZ/Bitesisters_1.txt
+mot   :  80 ZZ/Insiders_1.txt
+mot   :  81 ZZ/Bitesisters_1.txt
+mot   :  816 ZZ/Inhumancondition_1.txt
+mot   :  818 ZZ/Earthmixspace_1.txt
 mot   :  885 ZZ/Campingparadis_12.txt
 mot   :  921 ZZ/7project_1.txt
