@@ -15,11 +15,7 @@ aMaxBis <- function(){
   na.omit(table)
   return(table)
 }
-aMaxTer <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1816655701')))
-  na.omit(table)
-  return(table)
-}
+
 aMaxResume <- function(){
   table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=119775705')))
   na.omit(table)

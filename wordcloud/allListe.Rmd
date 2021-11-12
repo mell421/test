@@ -16,30 +16,31 @@ suppressWarnings(source("./R/sources.R"))
 [retour](./../index.html)  
 
 <!-- -->
-|||
-|[MD](./allListe.Rmd)|[wordcloud](./wordcloud.html)|
+|||  
+|---|---|  
+|[MD](./allListe.Rmd)|[wordcloud](./wordcloud.html)|  
 |[sumup](./sumup.html)|[summary](./summary.html)|
 
 ---
 
-## SUMMARY
 
-### stats
-```{r stats3, echo=FALSE}
+```{r stats3, eval=FALSE, include=FALSE}
+# SUMMARY
 
+# stats
 
-# by(data, data$category, summary)
-# Hmisc::describe(data)
+#by(data, data$category, summary)
+#Hmisc::describe(data)
 #a2 <- (st(data))
 #a2
 accue <- data.frame(accueil())
-moy <- avg(accue[3])
+moy <- mean(accue[3])
 print(moy)
-
-#
+moy <- mean(accue[4])
+print(moy)
+#---
 ```
 
----
 
 ## HISTORIQUE ET PREMDER
 
