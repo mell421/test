@@ -444,3 +444,8 @@ ligne :  10 ZZ/Tbbt_11.txt
 mot   :  223 ZZ/Tbbt_11.txt
 carac :  1579 ZZ/Tbbt_11.txt
 
+i = Bangkok love stories innocence _1
+ligne :  8 ZZ/Bangkoklovestoriesinnocence_1.txt
+mot   :  218 ZZ/Bangkoklovestoriesinnocence_1.txt
+carac :  1584 ZZ/Bangkoklovestoriesinnocence_1.txt
+
