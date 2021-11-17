@@ -652,6 +652,7 @@
 * Midnight mass _1
 ### sem 22-11-2021 
 * *insererici*
+* Survivor _10
 ### sem -11-2021 
 * *insererici*
 
@@ -677,7 +678,7 @@
 * 
 * $ order $
 * Survivor _41
-* Survivor _10
+* 
 * Banana fish _1
 * Dals _11
 * Bite sisters _1
@@ -811,7 +812,7 @@
 #### mois 01-11-2021 
 *The good doctor _4 The voice _11 Ahs _10 The tasty florida _1 Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
-*insererici The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
+*insererici Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
 *insererici*
 

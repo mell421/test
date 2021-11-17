@@ -22,10 +22,11 @@ summar <- function(i){
 [retour](./../index.html)  
 
 <!-- -->
-[MD](./allListe.Rmd)  
-[wordcloud](./wordcloud.html)  
-[allListe](./allListe.html)  
-[sumup](./sumup.html)  
+|||  
+|---|---|  
+|[MD](./allListe.Rmd)|[wordcloud](./wordcloud.html)|  
+|[sumup](./sumup.html)|[allListe](./allListe.html)|
+
 ---
 
 ## SUMMARY

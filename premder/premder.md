@@ -32,8 +32,6 @@ Druck 7x2
 * $
 $
 Survivor 41x6
-Survivor 10x3
-* Survivor 10x1
 Banana fish 1x2
 * Banana fish 1x1
 Dals 11x8
