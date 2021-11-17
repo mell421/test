@@ -3,7 +3,7 @@ title: "summary"
 output:
   html_document:
     df_print: paged
-    toc: true
+    toc: false
 ---
 
 ```{r setup, include = FALSE}
@@ -39,7 +39,12 @@ for (i in 1:9) {
 
 ### 1
 ```{r stats1, echo=FALSE}
-for (i in 10:19) {
+for (i in 10:15) {
+  sumup(i)
+}
+sumup(63)
+sumup(64)
+for (i in 16:18) {
   sumup(i)
 }
 ```

@@ -49,10 +49,12 @@ summar(12)
 summar(13)
 summar(14)
 summar(15)
+summar(63)
+summar(64)
 summar(16)
 summar(17)
 summar(18)
-summar(19)
+#summar(19)
 ```
 
 ### 2
