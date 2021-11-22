@@ -459,6 +459,7 @@
 |The voice senior th 2||7|||<!--  -->
 |Survivor 10||15|||<!--  -->
 |The voice senior th 1||4|||<!--  -->
+|bite sisters 1||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -638,7 +639,6 @@
 |dragula 4|||||1|<!--  -->
 |incroyable talent 16||?|||2|<!--  -->
 |insiders 1||7|||1|<!--  -->
-|bite sisters 1||10|||5|<!--  -->
 |the masked singer ger 5|||||2|<!--  -->
 |my sweet dear 1||8|||2|<!--  -->
 |bad buddy 1||12|||2|<!--  -->

@@ -249,6 +249,8 @@
 |see you after quarantine|see you after quarantine|10|serie|taiwan/japon|<!--  -->
 |the tasty florida|the tasty florida|8|serie|corée|<!--  -->
 |friend or lover|friend or lover|5|serie|taiwan|              <!-- 128 -->
+|bite sisters|bite sisters|10|series(***)|corée|<!--  -->
+||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

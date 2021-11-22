@@ -492,6 +492,7 @@ CopyS <-data.frame(aListes())
   plot(CopyS$nb.sem,main="nb d'ep par semaine",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
   #lines(CopyS$nb.sem,type = "l",col="red")
   
+  plot(CopyS$nb.mois,main="nb d'ep par mois",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
 ```
 
 ### conclu

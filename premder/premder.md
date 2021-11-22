@@ -35,7 +35,6 @@ Survivor 41x6
 Banana fish 1x2
 * Banana fish 1x1
 Dals 11x8
-Bite sisters 1x5
 Bad buddy 1x2
 Earthmix space 1x5
 The voice ger 11x9
@@ -62,7 +61,6 @@ Young sheldon 5x3
 My sweet dear 1x2
 * My sweet dear 1x1
 * The masked singer ger 5x1
-* Bite sisters 1x1
 * Insiders 1x1
 * Incroyable talent 16x1
 * Dragula 4x1

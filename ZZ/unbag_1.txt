@@ -301,7 +301,7 @@ aEff/aeff.md:- 22/07/21 (eff) - unbag _1{428} bt21 original story _1{67} my vamp
 aEff/aeff.md:- 22/08/21 - 780* from dusk till dawn _2{15} unbag _1{493} 
 aEff/aeff.md:- 22/08/21 (eff) - unbag _1{493} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
 aEff/aeff.md:- 22/09/21 (eff) - unbag _1{559} bt21 original story _1{122} /46 days _1{46} peach of time _1{31} dont say no _1{26} from dusk till dawn _2{20} vwars _1{8} 
-aEff/aeff.md:- 22/10/21 - 677* unbag _1{619} bite sisters _1{0} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{28} incroyable talent _16{0} la mas draga _4{7} dragula _4{0} age of the living dead _1{0} koh-lanta _27{11} 
+aEff/aeff.md:- 22/10/21 - 677* unbag _1{619} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{28} incroyable talent _16{0} la mas draga _4{7} dragula _4{0} age of the living dead _1{0} koh-lanta _27{11} 
 aEff/aeff.md:- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} the voice us _21{28} strictly come dancing _19{28} koh-lanta _27{11} dwts _30{11} the voice bulgarie _8{11} survivor au _6{9} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
 aEff/aeff.md:- 22/12/20 - 295* lakan _1{4} ghost runner _1{3} unbag _1{28} 
 aEff/aeff.md:- 22/12/20 - unbag _1{28} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
@@ -315,7 +315,7 @@ aEff/aeff.md:- 23/07/21 - 655* /46 days _1{21} unbag _1{430}
 aEff/aeff.md:- 23/07/21 (eff) - unbag _1{430} bt21 original story _1{68} my vampire boyfriend _1{25} /46 days _1{21} vincenzo _1{16} 
 aEff/aeff.md:- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
 aEff/aeff.md:- 23/09/21 (eff) - unbag _1{561} bt21 original story _1{124} /46 days _1{46} peach of time _1{32} dont say no _1{28} from dusk till dawn _2{20} vwars _1{8} 
-aEff/aeff.md:- 23/10/21 - 687* the voice ger _11{4} the voice esp _8{8} dals _11{6} earthmix space _1{4} unbag _1{621} bite sisters _1{0} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{30} incroyable talent _16{0} 
+aEff/aeff.md:- 23/10/21 - 687* the voice ger _11{4} the voice esp _8{8} dals _11{6} earthmix space _1{4} unbag _1{621} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{30} incroyable talent _16{0} 
 aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} the voice us _21{30} strictly come dancing _19{29} koh-lanta _27{12} dwts _30{12} the voice bulgarie _8{11} survivor au _6{11} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
 aEff/aeff.md:- 23/12/20 - unbag _1{30} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 24/01/21 - unbag _1{78} from dusk till dawn _2{15} koishite akuma _1{13} 

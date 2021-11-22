@@ -20,7 +20,7 @@ list99=( "Unbag _1" "Bt21 original story _1" # >= 200
 "The voice portugal _9" "" # 5
 "Drag race ca _2" "Rpdruk _3" "The big leap _1" "Alice in borderland _1" "" # 4
 "Incroyable talent _16" "Age of the living dead _1" "Young sheldon _5" "" # 3
-"Bite sisters _1" "Insiders _1" "Dragula _4" "" # 2
+"Insiders _1" "Dragula _4" "" # 2
 "" # 1
 "The masked singer ger _5" "" # 0
 "" #other

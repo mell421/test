@@ -1,8 +1,8 @@
 
 i = Unbag _1
 ligne :  1794 ZZ/Unbag_1.txt
-mot   :  26173 ZZ/Unbag_1.txt
-carac :  167610 ZZ/Unbag_1.txt
+mot   :  26167 ZZ/Unbag_1.txt
+carac :  167572 ZZ/Unbag_1.txt
 
 i = Bt21 original story _1
 ligne :  556 ZZ/Bt21originalstory_1.txt
@@ -31,13 +31,13 @@ carac :  23662 ZZ/Strictlycomedancing_19.txt
 
 i = The voice us _21
 ligne :  100 ZZ/Thevoiceus_21.txt
-mot   :  4057 ZZ/Thevoiceus_21.txt
-carac :  22813 ZZ/Thevoiceus_21.txt
+mot   :  4051 ZZ/Thevoiceus_21.txt
+carac :  22775 ZZ/Thevoiceus_21.txt
 
 i = Koh-lanta _27
 ligne :  65 ZZ/Koh-lanta_27.txt
-mot   :  2553 ZZ/Koh-lanta_27.txt
-carac :  16262 ZZ/Koh-lanta_27.txt
+mot   :  2550 ZZ/Koh-lanta_27.txt
+carac :  16243 ZZ/Koh-lanta_27.txt
 
 i = Vwars _1
 ligne :  59 ZZ/Vwars_1.txt
@@ -56,8 +56,8 @@ carac :  13076 ZZ/Dwts_30.txt
 
 i = The voice esp _8
 ligne :  38 ZZ/Thevoiceesp_8.txt
-mot   :  1588 ZZ/Thevoiceesp_8.txt
-carac :  10028 ZZ/Thevoiceesp_8.txt
+mot   :  1585 ZZ/Thevoiceesp_8.txt
+carac :  10009 ZZ/Thevoiceesp_8.txt
 
 i = Survivor _41
 ligne :  30 ZZ/Survivor_41.txt
@@ -66,8 +66,8 @@ carac :  8365 ZZ/Survivor_41.txt
 
 i = La mas draga _4
 ligne :  31 ZZ/Lamasdraga_4.txt
-mot   :  1419 ZZ/Lamasdraga_4.txt
-carac :  8987 ZZ/Lamasdraga_4.txt
+mot   :  1416 ZZ/Lamasdraga_4.txt
+carac :  8968 ZZ/Lamasdraga_4.txt
 
 i = 7project _1
 ligne :  29 ZZ/7project_1.txt
@@ -81,8 +81,8 @@ carac :
 
 i = Dals _11
 ligne :  26 ZZ/Dals_11.txt
-mot   :  1115 ZZ/Dals_11.txt
-carac :  7540 ZZ/Dals_11.txt
+mot   :  1112 ZZ/Dals_11.txt
+carac :  7521 ZZ/Dals_11.txt
 
 i = /9-1-1 _5
 ligne :  28 ZZ//9-1-1_5.txt
@@ -91,13 +91,13 @@ carac :  7506 ZZ//9-1-1_5.txt
 
 i = Alter ego _1
 ligne :  25 ZZ/Alterego_1.txt
-mot   :  1098 ZZ/Alterego_1.txt
-carac :  7222 ZZ/Alterego_1.txt
+mot   :  1092 ZZ/Alterego_1.txt
+carac :  7184 ZZ/Alterego_1.txt
 
 i = The masked singer _6
 ligne :  29 ZZ/Themaskedsinger_6.txt
-mot   :  1376 ZZ/Themaskedsinger_6.txt
-carac :  8735 ZZ/Themaskedsinger_6.txt
+mot   :  1370 ZZ/Themaskedsinger_6.txt
+carac :  8697 ZZ/Themaskedsinger_6.txt
 
 i = Survivor au _6
 ligne :  34 ZZ/Survivorau_6.txt
@@ -106,8 +106,8 @@ carac :  8046 ZZ/Survivorau_6.txt
 
 i = Earthmix space _1
 ligne :  21 ZZ/Earthmixspace_1.txt
-mot   :  818 ZZ/Earthmixspace_1.txt
-carac :  5533 ZZ/Earthmixspace_1.txt
+mot   :  815 ZZ/Earthmixspace_1.txt
+carac :  5514 ZZ/Earthmixspace_1.txt
 
 i = The shipper _1
 ligne :  28 ZZ/Theshipper_1.txt
@@ -126,8 +126,8 @@ carac :  3366 ZZ/Biteme_1.txt
 
 i = The voice ger _11
 ligne :  28 ZZ/Thevoiceger_11.txt
-mot   :  1423 ZZ/Thevoiceger_11.txt
-carac :  8790 ZZ/Thevoiceger_11.txt
+mot   :  1420 ZZ/Thevoiceger_11.txt
+carac :  8771 ZZ/Thevoiceger_11.txt
 
 i = Inhuman condition _1
 ligne :  19 ZZ/Inhumancondition_1.txt
@@ -231,8 +231,8 @@ carac :
 
 i = Incroyable talent _16
 ligne :  4 ZZ/Incroyabletalent_16.txt
-mot   :  123 ZZ/Incroyabletalent_16.txt
-carac :  811 ZZ/Incroyabletalent_16.txt
+mot   :  117 ZZ/Incroyabletalent_16.txt
+carac :  773 ZZ/Incroyabletalent_16.txt
 
 i = Age of the living dead _1
 ligne : 
@@ -249,20 +249,15 @@ ligne :
 mot   : 
 carac : 
 
-i = Bite sisters _1
-ligne :  3 ZZ/Bitesisters_1.txt
-mot   :  81 ZZ/Bitesisters_1.txt
-carac :  530 ZZ/Bitesisters_1.txt
-
 i = Insiders _1
 ligne :  3 ZZ/Insiders_1.txt
-mot   :  80 ZZ/Insiders_1.txt
-carac :  526 ZZ/Insiders_1.txt
+mot   :  74 ZZ/Insiders_1.txt
+carac :  488 ZZ/Insiders_1.txt
 
 i = Dragula _4
 ligne :  4 ZZ/Dragula_4.txt
-mot   :  149 ZZ/Dragula_4.txt
-carac :  902 ZZ/Dragula_4.txt
+mot   :  146 ZZ/Dragula_4.txt
+carac :  883 ZZ/Dragula_4.txt
 
 i =
 ligne : 
