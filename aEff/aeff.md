@@ -343,12 +343,12 @@
 - 15/10/21 (eff) - unbag _1{605} bt21 original story _1{144} dont say no _1{60} peach of time _1{33} the voice greece _8{29} from dusk till dawn _2{20} strictly come dancing _19{16} the voice us _21{15} vwars _1{9} koh-lanta _27{8} the voice bulgarie _8{8} 
 - 16/10/21 (eff) - unbag _1{607} bt21 original story _1{145} dont say no _1{62} /46 days _1{46} peach of time _1{33} the voice greece _8{31} from dusk till dawn _2{20} strictly come dancing _19{18} the voice us _21{17} vwars _1{9} koh-lanta _27{8} the voice bulgarie _8{8} 
 - 17/10/21 (eff) - unbag _1{609} bt21 original story _1{146} dont say no _1{64} the voice greece _8{33} peach of time _1{33} from dusk till dawn _2{20} strictly come dancing _19{19} the voice us _21{19} vwars _1{9} koh-lanta _27{8} the voice bulgarie _8{8} camping paradis _12{8} 
-- 18/10/21 (eff) - unbag _1{611} bt21 original story _1{147} dont say no _1{66} the voice greece _8{36} peach of time _1{33} strictly come dancing _19{22} the voice us _21{22} the voice bulgarie _8{9} dwts _30{9} koh-lanta _27{9} vwars _1{9} 
-- 19/10/21 (eff) - unbag _1{613} bt21 original story _1{148} dont say no _1{68} the voice greece _8{38} peach of time _1{33} strictly come dancing _19{24} the voice us _21{23} the voice bulgarie _8{10} dwts _30{9} koh-lanta _27{9} vwars _1{9} 
-- 20/10/21 (eff) - unbag _1{615} bt21 original story _1{149} dont say no _1{70} the voice greece _8{40} peach of time _1{33} strictly come dancing _19{26} the voice us _21{24} the voice bulgarie _8{11} koh-lanta _27{9} dwts _30{9} vwars _1{9} 
-- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} strictly come dancing _19{27} the voice us _21{26} the voice bulgarie _8{11} koh-lanta _27{10} dwts _30{10} vwars _1{9} the voice esp _8{8} 
-- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} the voice us _21{28} strictly come dancing _19{28} koh-lanta _27{11} dwts _30{11} the voice bulgarie _8{11} survivor au _6{9} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
-- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} the voice us _21{30} strictly come dancing _19{29} koh-lanta _27{12} dwts _30{12} the voice bulgarie _8{11} survivor au _6{11} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
+- 18/10/21 (eff) - unbag _1{611} bt21 original story _1{147} dont say no _1{66} the voice greece _8{36} peach of time _1{33} strictly come dancing _19{22} the voice us _21{22} the voice bulgarie _8{9} koh-lanta _27{9} vwars _1{9} 
+- 19/10/21 (eff) - unbag _1{613} bt21 original story _1{148} dont say no _1{68} the voice greece _8{38} peach of time _1{33} strictly come dancing _19{24} the voice us _21{23} the voice bulgarie _8{10} koh-lanta _27{9} vwars _1{9} 
+- 20/10/21 (eff) - unbag _1{615} bt21 original story _1{149} dont say no _1{70} the voice greece _8{40} peach of time _1{33} strictly come dancing _19{26} the voice us _21{24} the voice bulgarie _8{11} koh-lanta _27{9} vwars _1{9} 
+- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} strictly come dancing _19{27} the voice us _21{26} the voice bulgarie _8{11} koh-lanta _27{10} vwars _1{9} the voice esp _8{8} 
+- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} the voice us _21{28} strictly come dancing _19{28} koh-lanta _27{11} the voice bulgarie _8{11} survivor au _6{9} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
+- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} the voice us _21{30} strictly come dancing _19{29} koh-lanta _27{12} the voice bulgarie _8{11} survivor au _6{11} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
 
 
 
@@ -695,36 +695,36 @@
 - 19/09/21 - 627* the voice bulgarie _8{0} alice in borderland _1{0} dont say no _1{20} dals _11{0} unbag _1{552} 
 - 20/09/21 - 63* post mortem _1{4} the voice bulgarie _8{1} strictly come dancing _19{1} alice in borderland _1{1} 
 - 21/09/21 - 54* /9-1-1 _5{0} the voice esp _8{0} post mortem _1{4} the voice bulgarie _8{2} strictly come dancing _19{1} 
-- 22/09/21 - 32* koh-lanta _27{4} 7project _1{5} the big leap _1{0} the voice us _21{0} dwts _30{0} /9-1-1 _5{0} the voice esp _8{0} post mortem _1{4} the voice bulgarie _8{3} 
-- 23/09/21 - 87* la mas draga _4{0} the voice us _21{0} koh-lanta _27{4} 7project _1{5} the big leap _1{0} dwts _30{0} /9-1-1 _5{0} the voice esp _8{0} 
+- 22/09/21 - 32* koh-lanta _27{4} 7project _1{5} the big leap _1{0} the voice us _21{0} /9-1-1 _5{0} the voice esp _8{0} post mortem _1{4} the voice bulgarie _8{3} 
+- 23/09/21 - 87* la mas draga _4{0} the voice us _21{0} koh-lanta _27{4} 7project _1{5} the big leap _1{0} /9-1-1 _5{0} the voice esp _8{0} 
 - 24/09/21 - 98* rpdruk _3{0} alter ego _1{0} survivor _41{0} the masked singer _6{0} la mas draga _4{0} the voice us _21{0} koh-lanta _27{4} 
 - 25/09/21 - 96* dals _11{1} earthmix space _1{1} alter ego _1{0} the masked singer _6{0} rpdruk _3{0} survivor _41{0} 
 - 26/09/21 - 56* strictly come dancing _19{1} the voice esp _8{0} dont say no _1{30} dals _11{1} earthmix space _1{1} alter ego _1{0} 
 - 27/09/21 - 94* the voice greece _8{1} goblin _1{1} the voice bulgarie _8{5} strictly come dancing _19{3} the voice esp _8{1} dont say no _1{33} 
 - 28/09/21 - 102* the voice greece _8{1} goblin _1{1} the voice bulgarie _8{5} strictly come dancing _19{3} the voice esp _8{2} dont say no _1{35} 
 - 29/09/21 - 69* koh-lanta _27{5} the voice us _21{1} the voice greece _8{3} goblin _1{1} the voice bulgarie _8{5} strictly come dancing _19{3} the voice esp _8{2} 
-- 30/09/21 - 115* dwts _30{1} la mas draga _4{1} the voice us _21{2} koh-lanta _27{5} the voice greece _8{5} goblin _1{1} the voice bulgarie _8{5} strictly come dancing _19{3} 
-- 01/10/21 - 129* survivor _41{2} /9-1-1 _5{2} the masked singer _6{2} alter ego _1{2} dwts _30{2} la mas draga _4{2} the voice us _21{4} koh-lanta _27{6} the voice greece _8{8} 
-- 02/10/21 - 105* the voice esp _8{3} dals _11{3} survivor _41{4} /9-1-1 _5{4} the masked singer _6{3} alter ego _1{3} dwts _30{2} la mas draga _4{2} the voice us _21{4} 
+- 30/09/21 - 115* la mas draga _4{1} the voice us _21{2} koh-lanta _27{5} the voice greece _8{5} goblin _1{1} the voice bulgarie _8{5} strictly come dancing _19{3} 
+- 01/10/21 - 129* survivor _41{2} /9-1-1 _5{2} the masked singer _6{2} alter ego _1{2} la mas draga _4{2} the voice us _21{4} koh-lanta _27{6} the voice greece _8{8} 
+- 02/10/21 - 105* the voice esp _8{3} dals _11{3} survivor _41{4} /9-1-1 _5{4} the masked singer _6{3} alter ego _1{3} la mas draga _4{2} the voice us _21{4} 
 - 03/10/21 - 73* strictly come dancing _19{4} the voice greece _8{12} the shipper _1{5} the voice esp _8{5} dals _11{3} survivor _41{4} /9-1-1 _5{4} the masked singer _6{3} alter ego _1{3} 
 - 04/10/21 - 124* strictly come dancing _19{5} the voice greece _8{15} the voice bulgarie _8{7} the shipper _1{6} the voice esp _8{6} dals _11{4} survivor _41{5} /9-1-1 _5{5} 
 - 05/10/21 - 166* strictly come dancing _19{7} the voice greece _8{17} the voice bulgarie _8{7} the shipper _1{6} the voice esp _8{6} dals _11{4} survivor _41{5} 
-- 06/10/21 - 232* koh-lanta _27{7} the voice us _21{6} dwts _30{3} strictly come dancing _19{8} the voice greece _8{18} the voice bulgarie _8{7} the shipper _1{6} 
-- 07/10/21 - 302* the voice us _21{8} koh-lanta _27{7} dwts _30{4} strictly come dancing _19{8} the voice greece _8{19} the voice bulgarie _8{7} 
-- 08/10/21 - 309* la mas draga _4{3} alter ego _1{4} the masked singer _6{4} the voice us _21{9} koh-lanta _27{7} dwts _30{4} 
+- 06/10/21 - 232* koh-lanta _27{7} the voice us _21{6} strictly come dancing _19{8} the voice greece _8{18} the voice bulgarie _8{7} the shipper _1{6} 
+- 07/10/21 - 302* the voice us _21{8} koh-lanta _27{7} strictly come dancing _19{8} the voice greece _8{19} the voice bulgarie _8{7} 
+- 08/10/21 - 309* la mas draga _4{3} alter ego _1{4} the masked singer _6{4} the voice us _21{9} koh-lanta _27{7} 
 - 09/10/21 - 183* young sheldon _5{0} survivor _41{5} the voice esp _8{6} dals _11{4} la mas draga _4{3} alter ego _1{4} the masked singer _6{4} 
 - 10/10/21 - 701* love area _1{0} strictly come dancing _19{8} the voice greece _8{19} dont say no _1{54} the voice ger _11{0} young sheldon _5{0} unbag _1{594} survivor _41{5} the voice esp _8{6} dals _11{4} 
 - 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{10} the voice greece _8{21} the voice bulgarie _8{8} love area _1{1} dont say no _1{56} the voice ger _11{1} 
 - 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{11} the voice greece _8{23} the voice bulgarie _8{8} love area _1{1} dont say no _1{57} the voice ger _11{1} 
-- 13/10/21 - 204* koh-lanta _27{8} the voice us _21{11} dwts _30{5} kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{13} the voice greece _8{25} the voice bulgarie _8{8} love area _1{2} 
-- 14/10/21 - 284* la mas draga _4{4} the voice us _21{13} koh-lanta _27{8} dwts _30{5} kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{15} the voice greece _8{27} the voice bulgarie _8{8} 
-- 15/10/21 - 180* the masked singer _6{5} alter ego _1{5} la mas draga _4{6} the voice us _21{15} koh-lanta _27{8} dwts _30{5} kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{16} the voice greece _8{29} 
-- 16/10/21 - 148* dwts _30{5} the voice esp _8{7} dals _11{5} the voice ger _11{1} the masked singer _6{5} alter ego _1{5} la mas draga _4{6} the voice us _21{17} koh-lanta _27{8} kieta hatsukoi _1{0} /9-1-1 _5{6} 
-- 17/10/21 - 118* survivor _41{6} strictly come dancing _19{19} the voice greece _8{33} aoki vuanpaia no nayami _1{0} drag race ca _2{0} dwts _30{7} the voice esp _8{7} dals _11{5} the voice ger _11{3} the masked singer _6{5} 
-- 18/10/21 - 214* the voice portugal _9{1} the voice greece _8{36} strictly come dancing _19{22} the voice bulgarie _8{9} survivor au _6{1} survivor _41{7} aoki vuanpaia no nayami _1{3} drag race ca _2{1} dwts _30{9} 
-- 19/10/21 - 225* the voice portugal _9{1} the voice greece _8{38} strictly come dancing _19{24} the voice bulgarie _8{10} survivor au _6{3} survivor _41{7} aoki vuanpaia no nayami _1{4} drag race ca _2{1} dwts _30{9} 
-- 20/10/21 - 224* age of the living dead _1{0} koh-lanta _27{9} dwts _30{9} inhuman condition _1{0} the voice us _21{24} the voice portugal _9{1} the voice greece _8{40} strictly come dancing _19{26} the voice bulgarie _8{11} survivor au _6{5} survivor _41{7} 
-- 21/10/21 - 219* the voice us _21{26} incroyable talent _16{0} la mas draga _4{7} dragula _4{0} age of the living dead _1{0} koh-lanta _27{10} dwts _30{10} inhuman condition _1{2} the voice portugal _9{1} the voice greece _8{42} strictly come dancing _19{27} 
+- 13/10/21 - 204* koh-lanta _27{8} the voice us _21{11} kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{13} the voice greece _8{25} the voice bulgarie _8{8} love area _1{2} 
+- 14/10/21 - 284* la mas draga _4{4} the voice us _21{13} koh-lanta _27{8} kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{15} the voice greece _8{27} the voice bulgarie _8{8} 
+- 15/10/21 - 180* the masked singer _6{5} alter ego _1{5} la mas draga _4{6} the voice us _21{15} koh-lanta _27{8} kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{16} the voice greece _8{29} 
+- 16/10/21 - 148* the voice esp _8{7} dals _11{5} the voice ger _11{1} the masked singer _6{5} alter ego _1{5} la mas draga _4{6} the voice us _21{17} koh-lanta _27{8} kieta hatsukoi _1{0} /9-1-1 _5{6} 
+- 17/10/21 - 118* survivor _41{6} strictly come dancing _19{19} the voice greece _8{33} aoki vuanpaia no nayami _1{0} drag race ca _2{0} the voice esp _8{7} dals _11{5} the voice ger _11{3} the masked singer _6{5} 
+- 18/10/21 - 214* the voice portugal _9{1} the voice greece _8{36} strictly come dancing _19{22} the voice bulgarie _8{9} survivor au _6{1} survivor _41{7} aoki vuanpaia no nayami _1{3} drag race ca _2{1} 
+- 19/10/21 - 225* the voice portugal _9{1} the voice greece _8{38} strictly come dancing _19{24} the voice bulgarie _8{10} survivor au _6{3} survivor _41{7} aoki vuanpaia no nayami _1{4} drag race ca _2{1} 
+- 20/10/21 - 224* age of the living dead _1{0} koh-lanta _27{9} inhuman condition _1{0} the voice us _21{24} the voice portugal _9{1} the voice greece _8{40} strictly come dancing _19{26} the voice bulgarie _8{11} survivor au _6{5} survivor _41{7} 
+- 21/10/21 - 219* the voice us _21{26} incroyable talent _16{0} la mas draga _4{7} dragula _4{0} age of the living dead _1{0} koh-lanta _27{10} inhuman condition _1{2} the voice portugal _9{1} the voice greece _8{42} strictly come dancing _19{27} 
 - 22/10/21 - 677* unbag _1{619} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{28} incroyable talent _16{0} la mas draga _4{7} dragula _4{0} age of the living dead _1{0} koh-lanta _27{11} 
 - 23/10/21 - 687* the voice ger _11{4} the voice esp _8{8} dals _11{6} earthmix space _1{4} unbag _1{621} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{30} incroyable talent _16{0} 
 

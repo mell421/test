@@ -45,7 +45,6 @@ Incroyable talent 16x3
 La mas draga 4x7
 The voice us 21x14
 Koh-lanta 27x10
-Dwts 30x8
 The voice portugal 9x3
 Strictly come dancing 19x12
 The voice greece 8x14
@@ -90,7 +89,6 @@ The shipper 1x5
 7project 1x4
 * The big leap 1x1
 * The voice us 21x1
-* Dwts 30x1
 * /9-1-1 5x1
 * The voice esp 8x1
 Post mortem 1x3

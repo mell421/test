@@ -656,6 +656,7 @@
 * Survivor _10
 ### sem 29-11-2021 
 * *insererici*
+* Dwts _30
 * Bite sisters _1
 ### sem -11-2021 
 * *insererici*
@@ -693,7 +694,7 @@
 * La mas draga _4
 * The voice us _21
 * Koh-lanta _27
-* Dwts _30
+* 
 * The voice portugal _9
 * Strictly come dancing _19
 * The voice greece _8
@@ -811,7 +812,7 @@
 #### mois 01-11-2021 
 *The good doctor _4 The voice _11 Ahs _10 The tasty florida _1 Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
-*insererici Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
+*insererici Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
 *insererici*
 

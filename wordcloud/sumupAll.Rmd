@@ -1,0 +1,96 @@
+---
+title: "sumUpAll"
+output:
+  html_document:
+    df_print: paged
+    toc: false
+---
+
+```{r setup, include = FALSE}
+begin_time <-Sys.time()
+suppressWarnings(source("./R/sources.R"))
+library(vtable)
+sumup <- function(i){
+  print(i)
+  print(z13n(i))
+  data_num <- select_if(z13u(i), is.numeric) 
+  print(summary(data_num))
+  print("------")
+}
+```
+
+
+[retour](./../index.html)  
+
+<!-- -->
+||||  
+|---|---|---|  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)||  
+|[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
+---
+
+## SUMMARY
+
+### 0
+```{r stats0, echo=FALSE}
+for (i in 1:9) {
+  sumup(i)
+}
+```
+
+### 1
+```{r stats1, echo=FALSE}
+for (i in 10:19) {
+  sumup(i)
+}
+```
+
+### 2
+```{r stats2, echo=FALSE}
+for (i in 20:29) {
+  sumup(i)
+}
+```
+
+### 3
+```{r stats3, echo=FALSE}
+for (i in 30:39) {
+  sumup(i)
+}
+```
+
+### 4
+```{r stats4, echo=FALSE}
+for (i in 40:49) {
+  sumup(i)
+}
+```
+
+### 5
+```{r stats5, echo=FALSE}
+for (i in 50:59) {
+  sumup(i)
+}
+```
+
+### 6
+```{r stats6, echo=FALSE}
+for (i in 60:69) {
+  sumup(i)
+}
+```
+
+### 7
+```{r stats7, echo=FALSE}
+for (i in 70:77) {
+  sumup(i)
+}
+```
+
+## timing 
+```{r timing , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
+# begin_time <-Sys.time()
+```

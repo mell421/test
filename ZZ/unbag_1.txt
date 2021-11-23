@@ -247,7 +247,7 @@ aEff/aeff.md:- 18/07/21 (eff) - unbag _1{420} bt21 original story _1{63} my vamp
 aEff/aeff.md:- 18/08/21 (eff) - unbag _1{485} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} 
 aEff/aeff.md:- 18/09/21 - 661* dont say no _1{18} dals _11{0} unbag _1{550} koh-lanta _27{3} peach of time _1{26} 
 aEff/aeff.md:- 18/09/21 (eff) - unbag _1{550} bt21 original story _1{114} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 18/10/21 (eff) - unbag _1{611} bt21 original story _1{147} dont say no _1{66} the voice greece _8{36} peach of time _1{33} strictly come dancing _19{22} the voice us _21{22} the voice bulgarie _8{9} dwts _30{9} koh-lanta _27{9} vwars _1{9} 
+aEff/aeff.md:- 18/10/21 (eff) - unbag _1{611} bt21 original story _1{147} dont say no _1{66} the voice greece _8{36} peach of time _1{33} strictly come dancing _19{22} the voice us _21{22} the voice bulgarie _8{9} koh-lanta _27{9} vwars _1{9} 
 aEff/aeff.md:- 18/12/20 - 676* unbag _1{22} a queen is born _1{4} 
 aEff/aeff.md:- 18/12/20 - unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 19/01/21 - unbag _1{70} 
@@ -260,7 +260,7 @@ aEff/aeff.md:- 19/07/21 (eff) - unbag _1{422} bt21 original story _1{64} my vamp
 aEff/aeff.md:- 19/08/21 (eff) - unbag _1{487} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} 
 aEff/aeff.md:- 19/09/21 - 627* the voice bulgarie _8{0} alice in borderland _1{0} dont say no _1{20} dals _11{0} unbag _1{552} 
 aEff/aeff.md:- 19/09/21 (eff) - unbag _1{552} bt21 original story _1{116} /46 days _1{46} peach of time _1{27} dont say no _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 19/10/21 (eff) - unbag _1{613} bt21 original story _1{148} dont say no _1{68} the voice greece _8{38} peach of time _1{33} strictly come dancing _19{24} the voice us _21{23} the voice bulgarie _8{10} dwts _30{9} koh-lanta _27{9} vwars _1{9} 
+aEff/aeff.md:- 19/10/21 (eff) - unbag _1{613} bt21 original story _1{148} dont say no _1{68} the voice greece _8{38} peach of time _1{33} strictly come dancing _19{24} the voice us _21{23} the voice bulgarie _8{10} koh-lanta _27{9} vwars _1{9} 
 aEff/aeff.md:- 19/12/20 - 497* unbag _1{23} a queen is born _1{4} 
 aEff/aeff.md:- 19/12/20 - unbag _1{23} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 20/01/21 - unbag _1{72} 
@@ -273,7 +273,7 @@ aEff/aeff.md:- 20/07/21 (eff) - unbag _1{424} bt21 original story _1{65} my vamp
 aEff/aeff.md:- 20/08/21 - 860* unbag _1{489} 
 aEff/aeff.md:- 20/08/21 (eff) - unbag _1{489} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 20/09/21 (eff) - unbag _1{555} bt21 original story _1{118} /46 days _1{46} peach of time _1{29} dont say no _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 20/10/21 (eff) - unbag _1{615} bt21 original story _1{149} dont say no _1{70} the voice greece _8{40} peach of time _1{33} strictly come dancing _19{26} the voice us _21{24} the voice bulgarie _8{11} koh-lanta _27{9} dwts _30{9} vwars _1{9} 
+aEff/aeff.md:- 20/10/21 (eff) - unbag _1{615} bt21 original story _1{149} dont say no _1{70} the voice greece _8{40} peach of time _1{33} strictly come dancing _19{26} the voice us _21{24} the voice bulgarie _8{11} koh-lanta _27{9} vwars _1{9} 
 aEff/aeff.md:- 20/11/20 - 308* unbag _1{14} pogi lang hanap _1{8} 
 aEff/aeff.md:- 20/12/20 - 408* unbag _1{24} a queen is born _1{4} 
 aEff/aeff.md:- 20/12/20 - unbag _1{24} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
@@ -287,7 +287,7 @@ aEff/aeff.md:- 21/07/21 (eff) - unbag _1{426} bt21 original story _1{66} my vamp
 aEff/aeff.md:- 21/08/21 - 833* unbag _1{491} 
 aEff/aeff.md:- 21/08/21 (eff) - unbag _1{491} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
 aEff/aeff.md:- 21/09/21 (eff) - unbag _1{557} bt21 original story _1{120} /46 days _1{46} peach of time _1{30} dont say no _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} strictly come dancing _19{27} the voice us _21{26} the voice bulgarie _8{11} koh-lanta _27{10} dwts _30{10} vwars _1{9} the voice esp _8{8} 
+aEff/aeff.md:- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} strictly come dancing _19{27} the voice us _21{26} the voice bulgarie _8{11} koh-lanta _27{10} vwars _1{9} the voice esp _8{8} 
 aEff/aeff.md:- 21/11/20 - 205* unbag _1{14} 
 aEff/aeff.md:- 21/12/20 - 296* ghost runner _1{2} unbag _1{26} a queen is born _1{4} 
 aEff/aeff.md:- 21/12/20 - unbag _1{26} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
@@ -302,7 +302,7 @@ aEff/aeff.md:- 22/08/21 - 780* from dusk till dawn _2{15} unbag _1{493}
 aEff/aeff.md:- 22/08/21 (eff) - unbag _1{493} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
 aEff/aeff.md:- 22/09/21 (eff) - unbag _1{559} bt21 original story _1{122} /46 days _1{46} peach of time _1{31} dont say no _1{26} from dusk till dawn _2{20} vwars _1{8} 
 aEff/aeff.md:- 22/10/21 - 677* unbag _1{619} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{28} incroyable talent _16{0} la mas draga _4{7} dragula _4{0} age of the living dead _1{0} koh-lanta _27{11} 
-aEff/aeff.md:- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} the voice us _21{28} strictly come dancing _19{28} koh-lanta _27{11} dwts _30{11} the voice bulgarie _8{11} survivor au _6{9} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
+aEff/aeff.md:- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} the voice us _21{28} strictly come dancing _19{28} koh-lanta _27{11} the voice bulgarie _8{11} survivor au _6{9} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
 aEff/aeff.md:- 22/12/20 - 295* lakan _1{4} ghost runner _1{3} unbag _1{28} 
 aEff/aeff.md:- 22/12/20 - unbag _1{28} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
 aEff/aeff.md:- 23/01/21 - unbag _1{77} koishite akuma _1{11} 
@@ -316,7 +316,7 @@ aEff/aeff.md:- 23/07/21 (eff) - unbag _1{430} bt21 original story _1{68} my vamp
 aEff/aeff.md:- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
 aEff/aeff.md:- 23/09/21 (eff) - unbag _1{561} bt21 original story _1{124} /46 days _1{46} peach of time _1{32} dont say no _1{28} from dusk till dawn _2{20} vwars _1{8} 
 aEff/aeff.md:- 23/10/21 - 687* the voice ger _11{4} the voice esp _8{8} dals _11{6} earthmix space _1{4} unbag _1{621} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{30} incroyable talent _16{0} 
-aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} the voice us _21{30} strictly come dancing _19{29} koh-lanta _27{12} dwts _30{12} the voice bulgarie _8{11} survivor au _6{11} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
+aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} the voice us _21{30} strictly come dancing _19{29} koh-lanta _27{12} the voice bulgarie _8{11} survivor au _6{11} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
 aEff/aeff.md:- 23/12/20 - unbag _1{30} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 24/01/21 - unbag _1{78} from dusk till dawn _2{15} koishite akuma _1{13} 
 aEff/aeff.md:- 24/02/21 - unbag _1{126} my vampire boyfriend _1{22} 
@@ -470,7 +470,7 @@ apercu/apercu21.md:- mois 01-06-2021 Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 
 apercu/apercu21.md:- mois 01-07-2021 Bt21 original story _1x10(1) Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 apercu/apercu21.md:- mois 01-08-2021 Bt21 original story _1x11(1) /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercu21.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) Dwts _30x3(2) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Dals _11x3(2) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) Bt21 original story _1x12(1) 
+apercu/apercu21.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Dals _11x3(2) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) Bt21 original story _1x12(1) 
 apercu/apercu21.md:- sem 01-02-2021 Be love _1x4(1) Unbag _1x15(1) The shipper _1x5(1) 
 apercu/apercu21.md:- sem 01-03-2021 Unbag _1x17(1) 
 apercu/apercu21.md:- sem 03-05-2021 Unbag _1x21(1) 
@@ -478,7 +478,7 @@ apercu/apercu21.md:- sem 04-01-2021 Together with me _1x2(1) The shipper _1x4(1)
 apercu/apercu21.md:- sem 05-04-2021 Unbag _1x19(1) 
 apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) Bt21 original story _1x12(1) 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(1) Camping paradis _12x5(1) 
 apercu/apercu21.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercu21.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) The voice bulgarie _8x6(1) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) Dals _11x5(1) La mas draga _4x4(1) Alter ego _1x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) Dwts _30x4(1) 
+apercu/apercu21.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) The voice bulgarie _8x6(1) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) Dals _11x5(1) La mas draga _4x4(1) Alter ego _1x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) 
 apercu/apercu21.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
 apercu/apercu21.md:- sem 14-06-2021 Unbag _1x24(1) 
 apercu/apercu21.md:- sem 15-02-2021 Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) Unbag _1x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
@@ -629,7 +629,7 @@ apercu/apercu21.md:* conclu 16/06/21 = Unbag _1 > 6;
 apercu/apercu21.md:* conclu 16/07/21 = Unbag _1 > 6; Bt21 original story _1 > 2; Forever knight _1 > 1; 
 apercu/apercu21.md:* conclu 16/08/21 = Unbag _1 > 6; 
 apercu/apercu21.md:* conclu 16/09/21 = Unbag _1 > 6; 
-apercu/apercu21.md:* conclu 16/10/21 = Unbag _1 > 6; Dwts _30 > 3; Dont say no _1 > 2; The voice us _21 > 2; The voice ger _11 > 2; The voice greece _8 > 1; 
+apercu/apercu21.md:* conclu 16/10/21 = Unbag _1 > 6; Dont say no _1 > 2; The voice us _21 > 2; The voice ger _11 > 2; The voice greece _8 > 1; 
 apercu/apercu21.md:* conclu 17/01/21 > Unbag _1 > 3; 
 apercu/apercu21.md:* conclu 17/02/21 > Unbag _1 > 3; Tokyo ghoul _3 > 1; 
 apercu/apercu21.md:* conclu 17/03/21 > Unbag _1 > 3; 
@@ -809,7 +809,7 @@ apercu/apercu21.md:* concluBis 06/06/21 = Unbag _1 > 10; Vincenzo _1 > 5;
 apercu/apercu21.md:* concluBis 06/07/21 = Unbag _1 > 10; Young royals _1 > 3; Camping paradis _12 > 2; Bt21 original story _1 > 1; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 06/08/21 = Unbag _1 > 10; Bt21 original story _1 > 5; /46 days _1 > 1; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 06/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Bt21 original story _1 > 2; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 06/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 2; The voice greece _8 > 2; Dwts _30 > 2; Bt21 original story _1 > 1; 
+apercu/apercu21.md:* concluBis 06/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 2; The voice greece _8 > 2; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 07/01/21 > Unbag _1 > 5; 
 apercu/apercu21.md:* concluBis 07/02/21 > Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 07/03/21 > Unbag _1 > 2; 
@@ -906,7 +906,7 @@ apercu/apercu21.md:* concluBis 16/06/21 = Unbag _1 > 10;
 apercu/apercu21.md:* concluBis 16/07/21 = Unbag _1 > 10; Bt21 original story _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; 
 apercu/apercu21.md:* concluBis 16/08/21 = Unbag _1 > 10; 
 apercu/apercu21.md:* concluBis 16/09/21 = Unbag _1 > 10; Bt21 original story _1 > 4; Peach of time _1 > 1; 
-apercu/apercu21.md:* concluBis 16/10/21 = Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 6; Dwts _30 > 6; The voice greece _8 > 4; The voice ger _11 > 4; Strictly come dancing _19 > 3; Bt21 original story _1 > 2; Forever knight _1 > 1; 
+apercu/apercu21.md:* concluBis 16/10/21 = Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 6; The voice greece _8 > 4; The voice ger _11 > 4; Strictly come dancing _19 > 3; Bt21 original story _1 > 2; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 17/01/21 > Unbag _1 > 7; 
 apercu/apercu21.md:* concluBis 17/02/21 > Unbag _1 > 7; Tokyo ghoul _3 > 3; My vampire boyfriend _1 > 1; 
 apercu/apercu21.md:* concluBis 17/03/21 > Unbag _1 > 7; 
@@ -916,7 +916,7 @@ apercu/apercu21.md:* concluBis 17/06/21 = Unbag _1 > 10;
 apercu/apercu21.md:* concluBis 17/07/21 = Unbag _1 > 10; Forever knight _1 > 3; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 17/08/21 = Unbag _1 > 10; 
 apercu/apercu21.md:* concluBis 17/09/21 = Unbag _1 > 10; Bt21 original story _1 > 8; Peach of time _1 > 2; Forever knight _1 > 2; Buffy _1 > 1; Imortal _1 > 1; 
-apercu/apercu21.md:* concluBis 17/10/21 = Unbag _1 > 10; The voice greece _8 > 10; Strictly come dancing _19 > 7; Dont say no _1 > 6; The voice us _21 > 3; Aoki vuanpaia no nayami _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Forever knight _1 > 1; 
+apercu/apercu21.md:* concluBis 17/10/21 = Unbag _1 > 10; The voice greece _8 > 10; Strictly come dancing _19 > 7; Dont say no _1 > 6; The voice us _21 > 3; Aoki vuanpaia no nayami _1 > 3; Bt21 original story _1 > 2; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 18/01/21 > Unbag _1 > 7; Koishite akuma _1 > 3; 
 apercu/apercu21.md:* concluBis 18/02/21 > My vampire boyfriend _1 > 8; Unbag _1 > 7; Tokyo ghoul _3 > 2; 
 apercu/apercu21.md:* concluBis 18/03/21 > Unbag _1 > 7; 
@@ -946,7 +946,7 @@ apercu/apercu21.md:* concluBis 20/06/21 = Unbag _1 > 8; Elite _4 > 3;
 apercu/apercu21.md:* concluBis 20/07/21 = Unbag _1 > 5; Forever knight _1 > 3; /46 days _1 > 2; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 20/08/21 = Unbag _1 > 10; 
 apercu/apercu21.md:* concluBis 20/09/21 = Unbag _1 > 10; Bt21 original story _1 > 3; Dont say no _1 > 2; Peach of time _1 > 2; The voice bulgarie _8 > 2; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 20/10/21 = The voice greece _8 > 9; The voice us _21 > 7; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercu21.md:* concluBis 20/10/21 = The voice greece _8 > 9; The voice us _21 > 7; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
 apercu/apercu21.md:* concluBis 21/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; 
 apercu/apercu21.md:* concluBis 21/02/21 > My vampire boyfriend _1 > 5; Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 21/03/21 > Bt21 original story _1 > 7; Unbag _1 > 3; Bt21 vlog _1 > 2; 
@@ -956,7 +956,7 @@ apercu/apercu21.md:* concluBis 21/06/21 = Unbag _1 > 10; Elite _4 > 5;
 apercu/apercu21.md:* concluBis 21/07/21 = Unbag _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 21/08/21 = Unbag _1 > 10; 
 apercu/apercu21.md:* concluBis 21/09/21 = Unbag _1 > 10; Dont say no _1 > 4; Bt21 original story _1 > 3; Peach of time _1 > 2; The voice bulgarie _8 > 2; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 21/10/21 = The voice us _21 > 13; Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercu21.md:* concluBis 21/10/21 = The voice us _21 > 13; Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
 apercu/apercu21.md:* concluBis 22/01/21 > Koishite akuma _1 > 4; Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 22/02/21 > My vampire boyfriend _1 > 5; Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 22/03/21 > Bt21 original story _1 > 7; Unbag _1 > 3; Bt21 vlog _1 > 2; 
@@ -966,7 +966,7 @@ apercu/apercu21.md:* concluBis 22/06/21 = Unbag _1 > 10; Elite _4 > 4;
 apercu/apercu21.md:* concluBis 22/07/21 = Unbag _1 > 10; /46 days _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 22/08/21 = Unbag _1 > 10; 
 apercu/apercu21.md:* concluBis 22/09/21 = Unbag _1 > 10; Dont say no _1 > 3; Bt21 original story _1 > 3; Peach of time _1 > 2; The voice bulgarie _8 > 1; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 22/10/21 = Unbag _1 > 10; The voice us _21 > 9; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; Dwts _30 > 1; 
+apercu/apercu21.md:* concluBis 22/10/21 = Unbag _1 > 10; The voice us _21 > 9; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
 apercu/apercu21.md:* concluBis 23/01/21 > Koishite akuma _1 > 4; Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 23/02/21 > My vampire boyfriend _1 > 2; Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 23/03/21 > Bt21 original story _1 > 6; Unbag _1 > 3; Bt21 vlog _1 > 2; 
@@ -1054,7 +1054,7 @@ apercu/apercuglobal.md:- mois 01-08-2021 Bt21 original story _1x11(1) /46 days _
 apercu/apercuglobal.md:- mois 01-09-2020 Unbag _1x2(1) So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercuglobal.md:- mois 01-10-2020 Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
-apercu/apercuglobal.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) Dwts _30x3(2) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Dals _11x3(2) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) Bt21 original story _1x12(1) 
+apercu/apercuglobal.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Dals _11x3(2) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) Bt21 original story _1x12(1) 
 apercu/apercuglobal.md:- mois 01-11-2020 Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 apercu/apercuglobal.md:- mois 01-12-2020 Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
 apercu/apercuglobal.md:- sem 01-02-2021 Be love _1x4(1) Unbag _1x15(1) The shipper _1x5(1) 
@@ -1067,7 +1067,7 @@ apercu/apercuglobal.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no
 apercu/apercuglobal.md:- sem 07-12-2020 Unbag _1x11(1) Ghost runner _1x2(1) Be love _1x3(1) 
 apercu/apercuglobal.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercuglobal.md:- sem 09-11-2020 Lakan _1x3(1) Pogi lang hanap _1x4(1) Unbag _1x8(1) Blood _1x17(1) 
-apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) The voice bulgarie _8x6(1) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) Dals _11x5(1) La mas draga _4x4(1) Alter ego _1x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) Dwts _30x4(1) 
+apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) The voice bulgarie _8x6(1) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) Dals _11x5(1) La mas draga _4x4(1) Alter ego _1x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) 
 apercu/apercuglobal.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
 apercu/apercuglobal.md:- sem 12-10-2020 Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 apercu/apercuglobal.md:- sem 14-06-2021 Unbag _1x24(1) 
@@ -1226,7 +1226,7 @@ apercu/apercuglobal.md:* conclu 16/06/21 = Unbag _1 > 6;
 apercu/apercuglobal.md:* conclu 16/07/21 = Unbag _1 > 6; Bt21 original story _1 > 2; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* conclu 16/08/21 = Unbag _1 > 6; 
 apercu/apercuglobal.md:* conclu 16/09/21 = Unbag _1 > 6; 
-apercu/apercuglobal.md:* conclu 16/10/21 = Unbag _1 > 6; Dwts _30 > 3; Dont say no _1 > 2; The voice us _21 > 2; The voice ger _11 > 2; The voice greece _8 > 1; 
+apercu/apercuglobal.md:* conclu 16/10/21 = Unbag _1 > 6; Dont say no _1 > 2; The voice us _21 > 2; The voice ger _11 > 2; The voice greece _8 > 1; 
 apercu/apercuglobal.md:* conclu 17/01/21 > Unbag _1 > 3; 
 apercu/apercuglobal.md:* conclu 17/02/21 > Unbag _1 > 3; Tokyo ghoul _3 > 1; 
 apercu/apercuglobal.md:* conclu 17/03/21 > Unbag _1 > 3; 
@@ -1414,7 +1414,7 @@ apercu/apercuglobal.md:* concluBis 06/06/21 = Unbag _1 > 10; Vincenzo _1 > 5;
 apercu/apercuglobal.md:* concluBis 06/07/21 = Unbag _1 > 10; Young royals _1 > 3; Camping paradis _12 > 2; Bt21 original story _1 > 1; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 06/08/21 = Unbag _1 > 10; Bt21 original story _1 > 5; /46 days _1 > 1; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 06/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Bt21 original story _1 > 2; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 06/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 2; The voice greece _8 > 2; Dwts _30 > 2; Bt21 original story _1 > 1; 
+apercu/apercuglobal.md:* concluBis 06/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 2; The voice greece _8 > 2; Bt21 original story _1 > 1; 
 apercu/apercuglobal.md:* concluBis 06/12/20 > Unbag _1 > 1; 
 apercu/apercuglobal.md:* concluBis 07/01/21 > Unbag _1 > 5; 
 apercu/apercuglobal.md:* concluBis 07/02/21 > Unbag _1 > 2; 
@@ -1516,7 +1516,7 @@ apercu/apercuglobal.md:* concluBis 16/06/21 = Unbag _1 > 10;
 apercu/apercuglobal.md:* concluBis 16/07/21 = Unbag _1 > 10; Bt21 original story _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; 
 apercu/apercuglobal.md:* concluBis 16/08/21 = Unbag _1 > 10; 
 apercu/apercuglobal.md:* concluBis 16/09/21 = Unbag _1 > 10; Bt21 original story _1 > 4; Peach of time _1 > 1; 
-apercu/apercuglobal.md:* concluBis 16/10/21 = Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 6; Dwts _30 > 6; The voice greece _8 > 4; The voice ger _11 > 4; Strictly come dancing _19 > 3; Bt21 original story _1 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:* concluBis 16/10/21 = Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 6; The voice greece _8 > 4; The voice ger _11 > 4; Strictly come dancing _19 > 3; Bt21 original story _1 > 2; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 16/12/20 > Unbag _1 > 1; A queen is born _1 > 1; 
 apercu/apercuglobal.md:* concluBis 17/01/21 > Unbag _1 > 7; 
 apercu/apercuglobal.md:* concluBis 17/02/21 > Unbag _1 > 7; Tokyo ghoul _3 > 3; My vampire boyfriend _1 > 1; 
@@ -1527,7 +1527,7 @@ apercu/apercuglobal.md:* concluBis 17/06/21 = Unbag _1 > 10;
 apercu/apercuglobal.md:* concluBis 17/07/21 = Unbag _1 > 10; Forever knight _1 > 3; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercuglobal.md:* concluBis 17/08/21 = Unbag _1 > 10; 
 apercu/apercuglobal.md:* concluBis 17/09/21 = Unbag _1 > 10; Bt21 original story _1 > 8; Peach of time _1 > 2; Forever knight _1 > 2; Buffy _1 > 1; Imortal _1 > 1; 
-apercu/apercuglobal.md:* concluBis 17/10/21 = Unbag _1 > 10; The voice greece _8 > 10; Strictly come dancing _19 > 7; Dont say no _1 > 6; The voice us _21 > 3; Aoki vuanpaia no nayami _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:* concluBis 17/10/21 = Unbag _1 > 10; The voice greece _8 > 10; Strictly come dancing _19 > 7; Dont say no _1 > 6; The voice us _21 > 3; Aoki vuanpaia no nayami _1 > 3; Bt21 original story _1 > 2; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 18/01/21 > Unbag _1 > 7; Koishite akuma _1 > 3; 
 apercu/apercuglobal.md:* concluBis 18/02/21 > My vampire boyfriend _1 > 8; Unbag _1 > 7; Tokyo ghoul _3 > 2; 
 apercu/apercuglobal.md:* concluBis 18/03/21 > Unbag _1 > 7; 
@@ -1559,7 +1559,7 @@ apercu/apercuglobal.md:* concluBis 20/06/21 = Unbag _1 > 8; Elite _4 > 3;
 apercu/apercuglobal.md:* concluBis 20/07/21 = Unbag _1 > 5; Forever knight _1 > 3; /46 days _1 > 2; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercuglobal.md:* concluBis 20/08/21 = Unbag _1 > 10; 
 apercu/apercuglobal.md:* concluBis 20/09/21 = Unbag _1 > 10; Bt21 original story _1 > 3; Dont say no _1 > 2; Peach of time _1 > 2; The voice bulgarie _8 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 20/10/21 = The voice greece _8 > 9; The voice us _21 > 7; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercuglobal.md:* concluBis 20/10/21 = The voice greece _8 > 9; The voice us _21 > 7; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
 apercu/apercuglobal.md:* concluBis 20/12/20 > Unbag _1 > 2; 
 apercu/apercuglobal.md:* concluBis 21/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; 
 apercu/apercuglobal.md:* concluBis 21/02/21 > My vampire boyfriend _1 > 5; Unbag _1 > 2; 
@@ -1570,7 +1570,7 @@ apercu/apercuglobal.md:* concluBis 21/06/21 = Unbag _1 > 10; Elite _4 > 5;
 apercu/apercuglobal.md:* concluBis 21/07/21 = Unbag _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; Bt21 original story _1 > 1; 
 apercu/apercuglobal.md:* concluBis 21/08/21 = Unbag _1 > 10; 
 apercu/apercuglobal.md:* concluBis 21/09/21 = Unbag _1 > 10; Dont say no _1 > 4; Bt21 original story _1 > 3; Peach of time _1 > 2; The voice bulgarie _8 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 21/10/21 = The voice us _21 > 13; Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; Dwts _30 > 2; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercuglobal.md:* concluBis 21/10/21 = The voice us _21 > 13; Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
 apercu/apercuglobal.md:* concluBis 21/12/20 > Unbag _1 > 3; Ghost runner _1 > 2; 
 apercu/apercuglobal.md:* concluBis 22/01/21 > Koishite akuma _1 > 4; Unbag _1 > 2; 
 apercu/apercuglobal.md:* concluBis 22/02/21 > My vampire boyfriend _1 > 5; Unbag _1 > 2; 
@@ -1581,7 +1581,7 @@ apercu/apercuglobal.md:* concluBis 22/06/21 = Unbag _1 > 10; Elite _4 > 4;
 apercu/apercuglobal.md:* concluBis 22/07/21 = Unbag _1 > 10; /46 days _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercuglobal.md:* concluBis 22/08/21 = Unbag _1 > 10; 
 apercu/apercuglobal.md:* concluBis 22/09/21 = Unbag _1 > 10; Dont say no _1 > 3; Bt21 original story _1 > 3; Peach of time _1 > 2; The voice bulgarie _8 > 1; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 22/10/21 = Unbag _1 > 10; The voice us _21 > 9; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; Dwts _30 > 1; 
+apercu/apercuglobal.md:* concluBis 22/10/21 = Unbag _1 > 10; The voice us _21 > 9; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
 apercu/apercuglobal.md:* concluBis 22/12/20 > Unbag _1 > 3; Ghost runner _1 > 3; 
 apercu/apercuglobal.md:* concluBis 23/01/21 > Koishite akuma _1 > 4; Unbag _1 > 2; 
 apercu/apercuglobal.md:* concluBis 23/02/21 > My vampire boyfriend _1 > 2; Unbag _1 > 2; 

@@ -13,8 +13,17 @@ library(vtable)
 summar <- function(i){
   print(i)
   print(z0n(i))
+  # all data
   tab <- st(z0u(i))
   tab
+}
+summar2 <- function(i){
+  print(i)
+  print(z0n(i))
+  # numeric data
+  data_num <- select_if(z0u(i), is.numeric) 
+  tab2 <- st(data_num)
+  tab2
 }
 ```
 
@@ -22,10 +31,10 @@ summar <- function(i){
 [retour](./../index.html)  
 
 <!-- -->
-|||  
-|---|---|  
-|[MD](./allListe.Rmd)|[wordcloud](./wordcloud.html)|  
-|[sumup](./sumup.html)|[allListe](./allListe.html)|
+||||  
+|---|---|---|  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)||  
+|[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
 
 ---
 

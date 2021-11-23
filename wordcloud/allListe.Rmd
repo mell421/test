@@ -16,10 +16,10 @@ suppressWarnings(source("./R/sources.R"))
 [retour](./../index.html)  
 
 <!-- -->
-|||  
-|---|---|  
-|[MD](./allListe.Rmd)|[wordcloud](./wordcloud.html)|  
-|[sumup](./sumup.html)|[summary](./summary.html)|
+||||  
+|---|---|---|  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)||  
+|[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
 
 ---
 
