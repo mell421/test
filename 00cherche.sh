@@ -22,7 +22,7 @@ list99=( "Unbag _1" "Bt21 original story _1" # >= 200
 "Incroyable talent _16" "Age of the living dead _1" "Young sheldon _5" "" # 3
 "Insiders _1" "Dragula _4" "" # 2
 "" # 1
-"The masked singer ger _5" "" # 0
+"" # 0
 "" #other
 "My vampire boyfriend _1" "46 days _1" "Vincenzo _1" "The harvest season _1" "From dusk till dawn _2" "Elite _4" 
 "Koishite akuma _1" "Be love _1" "Camping paradis _12" "Schools out lets date now _1" "You never eat alone _1" "Good singers _1" 

@@ -115,14 +115,14 @@ mot   :  536 ZZ/Josephineangegardien_24.txt
 carac :  3759 ZZ/Josephineangegardien_24.txt
 
 i = Bite me _1
-ligne :  16 ZZ/Biteme_1.txt
-mot   :  484 ZZ/Biteme_1.txt
-carac :  3310 ZZ/Biteme_1.txt
+ligne :  17 ZZ/Biteme_1.txt
+mot   :  531 ZZ/Biteme_1.txt
+carac :  3575 ZZ/Biteme_1.txt
 
 i = The voice ger _11
-ligne :  19 ZZ/Thevoiceger_11.txt
-mot   :  885 ZZ/Thevoiceger_11.txt
-carac :  5182 ZZ/Thevoiceger_11.txt
+ligne :  20 ZZ/Thevoiceger_11.txt
+mot   :  932 ZZ/Thevoiceger_11.txt
+carac :  5447 ZZ/Thevoiceger_11.txt
 
 i = Inhuman condition _1
 ligne :  19 ZZ/Inhumancondition_1.txt
@@ -263,11 +263,6 @@ i =
 ligne : 
 mot   : 
 carac : 
-
-i = The masked singer ger _5
-ligne :  23 ZZ/Themaskedsingerger_5.txt
-mot   :  1120 ZZ/Themaskedsingerger_5.txt
-carac :  6914 ZZ/Themaskedsingerger_5.txt
 
 i =
 ligne : 

@@ -40,9 +40,9 @@ carac :  3038 ZZ/Theuntamed_1.txt
 carac :  3060 ZZ/Buffy_1.txt
 carac :  3149 ZZ/Glowup_2.txt
 carac :  3303 ZZ/Bt21vlog_1.txt
-carac :  3310 ZZ/Biteme_1.txt
 carac :  3467 ZZ/Aokivuanpaianonayami_1.txt
 carac :  3566 ZZ/Postmortem_1.txt
+carac :  3575 ZZ/Biteme_1.txt
 carac :  3644 ZZ/Lucifer_4.txt
 carac :  3700 ZZ/Tokyoghoul_3.txt
 carac :  3754 ZZ/Wabishow_1.txt
@@ -53,13 +53,12 @@ carac :  4026 ZZ/Goodsingers_1.txt
 carac :  40321 ZZ/Dontsayno_1.txt
 carac :  4102 ZZ/Younevereatalone_1.txt
 carac :  476 ZZ/Insiders_1.txt
-carac :  5182 ZZ/Thevoiceger_11.txt
 carac :  5274 ZZ/Earthmixspace_1.txt
 carac :  5361 ZZ/Koishiteakuma_1.txt
+carac :  5447 ZZ/Thevoiceger_11.txt
 carac :  6020 ZZ/Campingparadis_12.txt
 carac :  6166 ZZ/7project_1.txt
 carac :  6760 ZZ/Alterego_1.txt
-carac :  6914 ZZ/Themaskedsingerger_5.txt
 carac :  7046 ZZ/Belove_1.txt
 carac :  7138 ZZ//9-1-1_5.txt
 carac :  73431 ZZ/Bt21originalstory_1.txt
@@ -127,7 +126,6 @@ i = Tbbt _11
 i = The big leap _1
 i = The harvest season _1
 i = The masked singer _6
-i = The masked singer ger _5
 i = The shipper _1
 i = The untamed _1
 i = The voice bulgarie _8
@@ -162,10 +160,10 @@ ligne :  130 ZZ/Peachoftime_1.txt
 ligne :  132 ZZ/Fromdusktilldawn_2.txt
 ligne :  14 ZZ/Aokivuanpaianonayami_1.txt
 ligne :  141 ZZ/Thevoicegreece_8.txt
-ligne :  16 ZZ/Biteme_1.txt
 ligne :  16 ZZ/Buffy_1.txt
 ligne :  16 ZZ/Postmortem_1.txt
 ligne :  17 ZZ/Benxjim_1.txt
+ligne :  17 ZZ/Biteme_1.txt
 ligne :  17 ZZ/Josephineangegardien_24.txt
 ligne :  17 ZZ/Unlocked_1.txt
 ligne :  1797 ZZ/Unbag_1.txt
@@ -174,12 +172,11 @@ ligne :  19 ZZ/Controlz_2.txt
 ligne :  19 ZZ/Glowup_2.txt
 ligne :  19 ZZ/Inhumancondition_1.txt
 ligne :  19 ZZ/Lucifer_4.txt
-ligne :  19 ZZ/Thevoiceger_11.txt
 ligne :  19 ZZ/Zombiedetective_1.txt
 ligne :  20 ZZ/Mrlipstick_1.txt
 ligne :  20 ZZ/Theuntamed_1.txt
+ligne :  20 ZZ/Thevoiceger_11.txt
 ligne :  21 ZZ/Earthmixspace_1.txt
-ligne :  23 ZZ/Themaskedsingerger_5.txt
 ligne :  24 ZZ/Darkbluekiss_1.txt
 ligne :  245 ZZ/Dontsayno_1.txt
 ligne :  25 ZZ/Alterego_1.txt
@@ -225,7 +222,6 @@ mot   :  1028 ZZ/Alterego_1.txt
 mot   :  104 ZZ/Siewsumnoi_1.txt
 mot   :  1057 ZZ/Belove_1.txt
 mot   :  1119 ZZ//9-1-1_5.txt
-mot   :  1120 ZZ/Themaskedsingerger_5.txt
 mot   :  113 ZZ/Incroyabletalent_16.txt
 mot   :  1211 ZZ/Survivor_41.txt
 mot   :  12211 ZZ/Bt21originalstory_1.txt
@@ -272,10 +268,10 @@ mot   :  455 ZZ/Rpdruk_3.txt
 mot   :  474 ZZ/Controlz_2.txt
 mot   :  480 ZZ/Buffy_1.txt
 mot   :  481 ZZ/Glowup_2.txt
-mot   :  484 ZZ/Biteme_1.txt
 mot   :  505 ZZ/Lucifer_4.txt
 mot   :  5058 ZZ/Thevoicegreece_8.txt
 mot   :  514 ZZ/Postmortem_1.txt
+mot   :  531 ZZ/Biteme_1.txt
 mot   :  536 ZZ/Josephineangegardien_24.txt
 mot   :  542 ZZ/Bt21vlog_1.txt
 mot   :  545 ZZ/Goodsingers_1.txt
@@ -290,5 +286,5 @@ mot   :  758 ZZ/Koishiteakuma_1.txt
 mot   :  779 ZZ/Earthmixspace_1.txt
 mot   :  788 ZZ/Inhumancondition_1.txt
 mot   :  885 ZZ/Campingparadis_12.txt
-mot   :  885 ZZ/Thevoiceger_11.txt
 mot   :  897 ZZ/7project_1.txt
+mot   :  932 ZZ/Thevoiceger_11.txt

@@ -463,6 +463,8 @@
 |DWTS 30||11|||<!--  -->
 |dals 11||11|||<!--  -->
 |The love that dare not speak its name||6|||<!--  -->
+|the masked singer ger 5|||||<!--  -->
+||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -640,7 +642,6 @@
 |dragula 4|||||1|<!--  -->
 |incroyable talent 16||?|||2|<!--  -->
 |insiders 1||7|||1|<!--  -->
-|the masked singer ger 5|||||2|<!--  -->
 |my sweet dear 1||8|||2|<!--  -->
 |bad buddy 1||12|||2|<!--  -->
 |druck 7||10|||1|<!--  -->

@@ -61,7 +61,6 @@ The case study of vanitas 1x2
 * The case study of vanitas 1x1
 Druck 7x3
 Kieta hatsukoi 1x6
-The masked singer ger 5x5
 Drag race ca 2x3
 * Dexter 9x1
 Survivor 41x6
@@ -76,7 +75,6 @@ Aoki vuanpaia no nayami 1x3
 Young sheldon 5x3
 My sweet dear 1x2
 * My sweet dear 1x1
-* The masked singer ger 5x1
 * Insiders 1x1
 * Incroyable talent 16x1
 * Dragula 4x1
