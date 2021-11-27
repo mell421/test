@@ -22,37 +22,54 @@ Young royals 1x2
 Insiders 1x2
 Dragula 4x2
 Age of the living dead 1x2
-Drag race ca 2x2
 Goblin 1x2
-Rpdruk 3x2
+Les engages 3x2
 The big leap 1x2
-Druck 7x2
+Painted with raven 1x2
 
 ### tisaep all
 * $
 $
+The voice ger 11x15
+Bad buddy 1x5
+Drag race it 1x2
+* Painted with raven 1x1
+Do seu lado 1x4
+* Do seu lado 1x1
+Baker boys 1x2
+Incroyable talent 16x6
+La mas draga 4x10
+* Baker boys 1x1
+Survivor 11x5
+Rpdruk 3x4
+The voice us 21x20
+Alter ego 1x9
+Koh-lanta 27x12
+* Survivor 11x1
+The voice th 7x2
+* The voice th 7x1
+The voice portugal 9x6
+The voice bulgarie 8x11
+The voice greece 8x20
+Strictly come dancing 19x18
+Dexter 9x3
+The voice esp 8x10
+* Les engages 3x1
+* Drag race it 1x1
+The masked singer 6x10
+The case study of vanitas 1x2
+* The case study of vanitas 1x1
+Druck 7x3
+Kieta hatsukoi 1x6
+The masked singer ger 5x5
+Drag race ca 2x3
+* Dexter 9x1
 Survivor 41x6
 Banana fish 1x2
 * Banana fish 1x1
-Dals 11x8
-Bad buddy 1x2
 Earthmix space 1x5
-The voice ger 11x9
 Unbag 1x34
-Alter ego 1x7
-The masked singer 6x8
-Incroyable talent 16x3
-La mas draga 4x7
-The voice us 21x14
-Koh-lanta 27x10
-The voice portugal 9x3
-Strictly come dancing 19x12
-The voice greece 8x14
-The voice bulgarie 8x8
-Kieta hatsukoi 1x2
-The masked singer ger 5x2
 * Druck 7x1
-The voice esp 8x7
 * Bad buddy 1x1
 Tbbt 11x3
 Aoki vuanpaia no nayami 1x3
@@ -95,7 +112,6 @@ Post mortem 1x3
 * Strictly come dancing 19x1
 * The voice bulgarie 8x1
 * Alice in borderland 1x1
-* Dals 11x1
 Peach of time 1x6
 Josephine ange gardien 24x2
 Buffy 1x7

@@ -20,6 +20,7 @@ document.write(`
       <li><a href="apercu19/apercu2019.html">séries ec 2019</a></li>
       <li><a href="apercu/apercu20.html">séries ec 2020</a></li>
       <li><a href="apercu/apercu21.html">séries ec 2021</a></li>
+      <li><a href="apercu/apercu22.html">séries ec 2022</a></li>
       <li><a href="apercu/apercuglobal.html">séries ec global</a></li>
       <li><a href="apercuTer/apercuTer.html">séries terminées</a></li>
       <li><a href="aEff/aeff.html">a eff</a></li>

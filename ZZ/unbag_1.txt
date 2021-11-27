@@ -131,7 +131,7 @@ aEff/aeff.md:- 10/07/21 (eff) - unbag _1{403} bt21 original story _1{48} my vamp
 aEff/aeff.md:- 10/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{469} 
 aEff/aeff.md:- 10/08/21 (eff) - unbag _1{469} bt21 original story _1{96} /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 10/09/21 (eff) - unbag _1{534} bt21 original story _1{108} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-aEff/aeff.md:- 10/10/21 - 701* love area _1{0} strictly come dancing _19{8} the voice greece _8{19} dont say no _1{54} the voice ger _11{0} young sheldon _5{0} unbag _1{594} survivor _41{5} the voice esp _8{6} dals _11{4} 
+aEff/aeff.md:- 10/10/21 - 701* love area _1{0} strictly come dancing _19{8} the voice greece _8{19} dont say no _1{54} the voice ger _11{0} young sheldon _5{0} unbag _1{594} survivor _41{5} the voice esp _8{6} 
 aEff/aeff.md:- 10/10/21 (eff) - unbag _1{594} bt21 original story _1{141} dont say no _1{54} peach of time _1{33} the voice greece _8{19} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} camping paradis _12{8} 
 aEff/aeff.md:- 10/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 11/01/21 - unbag _1{58} ghost runner _1{11} 
@@ -245,7 +245,7 @@ aEff/aeff.md:- 18/05/21 (eff) - unbag _1{292} bt21 original story _1{34} my vamp
 aEff/aeff.md:- 18/06/21 (eff) - unbag _1{357} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
 aEff/aeff.md:- 18/07/21 (eff) - unbag _1{420} bt21 original story _1{63} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 18/08/21 (eff) - unbag _1{485} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} 
-aEff/aeff.md:- 18/09/21 - 661* dont say no _1{18} dals _11{0} unbag _1{550} koh-lanta _27{3} peach of time _1{26} 
+aEff/aeff.md:- 18/09/21 - 661* dont say no _1{18} unbag _1{550} koh-lanta _27{3} peach of time _1{26} 
 aEff/aeff.md:- 18/09/21 (eff) - unbag _1{550} bt21 original story _1{114} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 18/10/21 (eff) - unbag _1{611} bt21 original story _1{147} dont say no _1{66} the voice greece _8{36} peach of time _1{33} strictly come dancing _19{22} the voice us _21{22} the voice bulgarie _8{9} koh-lanta _27{9} vwars _1{9} 
 aEff/aeff.md:- 18/12/20 - 676* unbag _1{22} a queen is born _1{4} 
@@ -258,7 +258,7 @@ aEff/aeff.md:- 19/05/21 (eff) - unbag _1{294} bt21 original story _1{34} my vamp
 aEff/aeff.md:- 19/06/21 (eff) - unbag _1{359} bt21 original story _1{36} my vampire boyfriend _1{25} the harvest season _1{16} 
 aEff/aeff.md:- 19/07/21 (eff) - unbag _1{422} bt21 original story _1{64} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 19/08/21 (eff) - unbag _1{487} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} 
-aEff/aeff.md:- 19/09/21 - 627* the voice bulgarie _8{0} alice in borderland _1{0} dont say no _1{20} dals _11{0} unbag _1{552} 
+aEff/aeff.md:- 19/09/21 - 627* the voice bulgarie _8{0} alice in borderland _1{0} dont say no _1{20} unbag _1{552} 
 aEff/aeff.md:- 19/09/21 (eff) - unbag _1{552} bt21 original story _1{116} /46 days _1{46} peach of time _1{27} dont say no _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 19/10/21 (eff) - unbag _1{613} bt21 original story _1{148} dont say no _1{68} the voice greece _8{38} peach of time _1{33} strictly come dancing _19{24} the voice us _21{23} the voice bulgarie _8{10} koh-lanta _27{9} vwars _1{9} 
 aEff/aeff.md:- 19/12/20 - 497* unbag _1{23} a queen is born _1{4} 
@@ -315,7 +315,7 @@ aEff/aeff.md:- 23/07/21 - 655* /46 days _1{21} unbag _1{430}
 aEff/aeff.md:- 23/07/21 (eff) - unbag _1{430} bt21 original story _1{68} my vampire boyfriend _1{25} /46 days _1{21} vincenzo _1{16} 
 aEff/aeff.md:- 23/08/21 (eff) - unbag _1{496} bt21 original story _1{101} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
 aEff/aeff.md:- 23/09/21 (eff) - unbag _1{561} bt21 original story _1{124} /46 days _1{46} peach of time _1{32} dont say no _1{28} from dusk till dawn _2{20} vwars _1{8} 
-aEff/aeff.md:- 23/10/21 - 687* the voice ger _11{4} the voice esp _8{8} dals _11{6} earthmix space _1{4} unbag _1{621} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{30} incroyable talent _16{0} 
+aEff/aeff.md:- 23/10/21 - 687* the voice ger _11{4} the voice esp _8{8} earthmix space _1{4} unbag _1{621} insiders _1{0} alter ego _1{6} the masked singer _6{6} the voice us _21{30} incroyable talent _16{0} 
 aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} the voice us _21{30} strictly come dancing _19{29} koh-lanta _27{12} the voice bulgarie _8{11} survivor au _6{11} the voice esp _8{8} la mas draga _4{7} survivor _41{7} 
 aEff/aeff.md:- 23/12/20 - unbag _1{30} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 24/01/21 - unbag _1{78} from dusk till dawn _2{15} koishite akuma _1{13} 
@@ -470,7 +470,7 @@ apercu/apercu21.md:- mois 01-06-2021 Dark blue kiss _1x2(1) Unbag _1x23(2) Bt21 
 apercu/apercu21.md:- mois 01-07-2021 Bt21 original story _1x10(1) Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 apercu/apercu21.md:- mois 01-08-2021 Bt21 original story _1x11(1) /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercu21.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Dals _11x3(2) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) Bt21 original story _1x12(1) 
+apercu/apercu21.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) Bt21 original story _1x12(1) 
 apercu/apercu21.md:- sem 01-02-2021 Be love _1x4(1) Unbag _1x15(1) The shipper _1x5(1) 
 apercu/apercu21.md:- sem 01-03-2021 Unbag _1x17(1) 
 apercu/apercu21.md:- sem 03-05-2021 Unbag _1x21(1) 
@@ -478,7 +478,7 @@ apercu/apercu21.md:- sem 04-01-2021 Together with me _1x2(1) The shipper _1x4(1)
 apercu/apercu21.md:- sem 05-04-2021 Unbag _1x19(1) 
 apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) Bt21 original story _1x12(1) 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(1) Camping paradis _12x5(1) 
 apercu/apercu21.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercu21.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) The voice bulgarie _8x6(1) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) Dals _11x5(1) La mas draga _4x4(1) Alter ego _1x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) 
+apercu/apercu21.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) The voice bulgarie _8x6(1) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) La mas draga _4x4(1) Alter ego _1x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) 
 apercu/apercu21.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
 apercu/apercu21.md:- sem 14-06-2021 Unbag _1x24(1) 
 apercu/apercu21.md:- sem 15-02-2021 Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) Unbag _1x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
@@ -486,7 +486,7 @@ apercu/apercu21.md:- sem 15-03-2021 Unbag _1x18(1) You never eat alone _1x5(1)
 apercu/apercu21.md:- sem 17-05-2021 Unbag _1x22(1) I can see your voice fr _1x3(1) 
 apercu/apercu21.md:- sem 18-01-2021 Koishite akuma _1x4(3) Warper series _1x2(1) Unbag _1x14(1) 
 apercu/apercu21.md:- sem 19-04-2021 Unbag _1x20(1) 
-apercu/apercu21.md:- sem 20-09-2021 Post mortem _1x4(1) The voice bulgarie _8x3(2) Strictly come dancing _19x2(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Dals _11x2(1) Unbag _1x31(1) Koh-lanta _27x4(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
+apercu/apercu21.md:- sem 20-09-2021 Post mortem _1x4(1) The voice bulgarie _8x3(2) Strictly come dancing _19x2(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Koh-lanta _27x4(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
 apercu/apercu21.md:- sem 23-08-2021 Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
 apercu/apercu21.md:- sem 26-07-2021 /46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) 
 apercu/apercu21.md:- sem 28-06-2021 Unbag _1x25(1) Siew sum noi _1x2(1) 
@@ -1043,6 +1043,9 @@ apercu/apercu21.md:* concluBis 31/03/21 = Unbag _1 > 3;
 apercu/apercu21.md:* concluBis 31/05/21 = Unbag _1 > 8; 
 apercu/apercu21.md:* concluBis 31/07/21 = Unbag _1 > 10; Bt21 original story _1 > 8; /46 days _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercu21.md:* concluBis 31/08/21 = Unbag _1 > 10; Peach of time _1 > 2; Dont say no _1 > 1; 
+apercu/apercu22.md:- mois 01-01-2021 Unbag _1x13(3) 
+apercu/apercu22.md:* conclu 18/04/21 = Unbag _1 > 5; 
+apercu/apercu22.md:* concluBis 01/01/21 = Unbag _1 > 3; 
 apercu/apercuglobal.md:- mois 01-01-2021 Unbag _1x13(3) Ghost runner _1x5(4) Friend zone _1x3(1) Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) 
 apercu/apercuglobal.md:- mois 01-02-2021 Be love _1x4(1) Unbag _1x15(2) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
 apercu/apercuglobal.md:- mois 01-03-2021 Unbag _1x17(2) Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
@@ -1054,7 +1057,7 @@ apercu/apercuglobal.md:- mois 01-08-2021 Bt21 original story _1x11(1) /46 days _
 apercu/apercuglobal.md:- mois 01-09-2020 Unbag _1x2(1) So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercuglobal.md:- mois 01-10-2020 Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
-apercu/apercuglobal.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Dals _11x3(2) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) Bt21 original story _1x12(1) 
+apercu/apercuglobal.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) Alter ego _1x4(3) La mas draga _4x3(2) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) The voice bulgarie _8x4(3) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) Bt21 original story _1x12(1) 
 apercu/apercuglobal.md:- mois 01-11-2020 Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 apercu/apercuglobal.md:- mois 01-12-2020 Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
 apercu/apercuglobal.md:- sem 01-02-2021 Be love _1x4(1) Unbag _1x15(1) The shipper _1x5(1) 
@@ -1067,7 +1070,7 @@ apercu/apercuglobal.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no
 apercu/apercuglobal.md:- sem 07-12-2020 Unbag _1x11(1) Ghost runner _1x2(1) Be love _1x3(1) 
 apercu/apercuglobal.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercuglobal.md:- sem 09-11-2020 Lakan _1x3(1) Pogi lang hanap _1x4(1) Unbag _1x8(1) Blood _1x17(1) 
-apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) The voice bulgarie _8x6(1) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) Dals _11x5(1) La mas draga _4x4(1) Alter ego _1x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) 
+apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) The voice bulgarie _8x6(1) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) La mas draga _4x4(1) Alter ego _1x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) 
 apercu/apercuglobal.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
 apercu/apercuglobal.md:- sem 12-10-2020 Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 apercu/apercuglobal.md:- sem 14-06-2021 Unbag _1x24(1) 
@@ -1078,7 +1081,7 @@ apercu/apercuglobal.md:- sem 16-11-2020 My vampire boyfriend _1x3(2) Unbag _1x9(
 apercu/apercuglobal.md:- sem 17-05-2021 Unbag _1x22(1) I can see your voice fr _1x3(1) 
 apercu/apercuglobal.md:- sem 18-01-2021 Koishite akuma _1x4(3) Warper series _1x2(1) Unbag _1x14(1) 
 apercu/apercuglobal.md:- sem 19-04-2021 Unbag _1x20(1) 
-apercu/apercuglobal.md:- sem 20-09-2021 Post mortem _1x4(1) The voice bulgarie _8x3(2) Strictly come dancing _19x2(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Dals _11x2(1) Unbag _1x31(1) Koh-lanta _27x4(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
+apercu/apercuglobal.md:- sem 20-09-2021 Post mortem _1x4(1) The voice bulgarie _8x3(2) Strictly come dancing _19x2(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Koh-lanta _27x4(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
 apercu/apercuglobal.md:- sem 21-09-2020 Unbag _1x4(1) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
 apercu/apercuglobal.md:- sem 21-12-2020 Ghost runner _1x4(2) Unbag _1x12(1) 
 apercu/apercuglobal.md:- sem 23-08-2021 Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 

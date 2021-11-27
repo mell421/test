@@ -461,6 +461,7 @@
 |The voice senior th 1||4|||<!--  -->
 |bite sisters 1||10|||<!--  -->
 |DWTS 30||11|||<!--  -->
+|dals 11||11|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -611,7 +612,6 @@
 |7project||7||||<!--  -->
 |Qforce||10||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->
-|dals 11||11||||<!--  -->
 |alice in borderland 1||8||||<!--  -->
 |the voice bulgarie 8||?||||<!--  -->
 |Strictly come dancing 19||?||||<!--  -->
@@ -644,8 +644,13 @@
 |bad buddy 1||12|||2|<!--  -->
 |druck 7||10|||1|<!--  -->
 |banana fish 1|||||2|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
+|dexter 9||10|||3|<!--  -->
+|vanitas no carte 1||24|||2|<!--  -->
+|drag race it 1||6|||1|<!--  -->
+|les engagés 3||3|||1|<!--  -->
+|The voice th 7||15|||2|<!--  -->
+|survivor 11||15|||5|<!--  -->
+|baker boys 1|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -657,11 +662,8 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|dexter 9||?|||0|<!--  -->
 |queen of the universe 1||6|||0|<!--  -->
 |nilundon 1|||||0|<!--  -->
-|drag race it 1|||||0|<!--  -->
-|les engagés 3|||||0|<!--  -->
 |F4 thailand|||||0|<!--  -->
 |paint with love 1|||||0|<!--  -->
 |aggretsuko 4|||||0|<!--  -->
@@ -691,7 +693,6 @@
 |yyy 2||?|||0|<!--  -->
 |sea him 2||?|||0|<!--  -->
 |never too late 1|||||0|<!--  -->
-|baker boys 1|||||0|<!--  -->
 |drag I love you 1|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |my extraordinary 2|||||0|<!--  -->

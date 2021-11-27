@@ -97,7 +97,7 @@
 |young royals 1||6|||<!--  -->
 |DR NL 2||10|||<!--  -->
 |RPDRUK 3||?|||<!--  -->
-||||||<!--  -->
+|les engagés 3||3|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -250,6 +250,13 @@
 |the tasty florida|the tasty florida|8|serie|corée|<!--  -->
 |friend or lover|friend or lover|5|serie|taiwan|              <!-- 128 -->
 |bite sisters|bite sisters|10|series(***)|corée|<!--  -->
+|boy meets boy 2008|boy meets boy 2008|1|cm|corée|<!--  -->
+|Sisak 2017|sisak 2017|1|cm|inde|<!--  -->
+|The right man because I love you|The right man because I love you|1|cm|thailande|<!--  -->
+|my personnal trainer|my personnal trainer|1|cm|corée|<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -297,10 +304,16 @@
 |the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
 |bite me|bite me|?|serie|thailande|2|                           <!-- 37 -->
 |peach of time|peach of time|10|serie|corée-thailande|5|        <!-- 38 -->
-|7 project|7project|7|serie(bl/gl/het)|thailande|2|                        <!-- 39 -->
-|EMS|earth mix space|?|show|thailande|1|                        <!--  -->
-|Alice in borderland|alice in borderland|8|serie(**)|japon|1|<!--  -->
-|goblin|goblin|16|serie(***)|corée|1|<!--  -->
+|7 project|7project|7|serie(bl/gl/het)|thailande|2|             <!-- 39 -->
+|EMS|earth mix space|?|show|thailande|1|                        <!-- 40 -->
+|Alice in borderland|alice in borderland|8|serie(**)|japon|1|   <!-- 41 -->
+|goblin|goblin|16|serie(***)|corée|1|                           <!-- 42 -->
+|love area|love area|8|serie|thailande|2|                       <!-- 43 -->
+|kieta hatsukoi|kieta hatsukoi|10|serie|japon|6|                <!-- 44 -->
+|aoki vuanpaia no nayami|aoki vuanpaia no nayami|8|serie(**)|japon|2| <!-- 45 -->
+|my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
+|bad buddy|bad buddy|12|serie|thailande|4|                      <!-- 47-->
+|baker boys|baker boys|12?|serie(*)|thailande|1|                <!-- 48 -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -311,10 +324,10 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|bad buddy|bad buddy|12|serie|thailande|0|<!-- -->
 |gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
 |checkout|checkout|?|serie|thailande|0|<!--  -->
-|||||||<!--  -->
+|quaranthings 2|quaranthings 2|8|serie|philippines|0|<!-- -->
+|mr cinderella||?|serie|vietnam|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |deja sorti|---|---||||<!--  -->
@@ -333,12 +346,6 @@
 |JUILLET|---|---||||<!--  -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
 |||||||<!--  -->
-|AOUT|---|---||||<!--  -->
-|||||||<!--  -->
-|SEPT|---|---||||<!--  -->
-|||||||<!--  -->
-|OCTOBRE|---|---||||<!--  -->
-|||||||<!--  -->
 |NOVEMBRE|---|---||||<!--  -->
 |||||||<!--  -->
 |DECEMBRE|---|---||||<!--  -->
@@ -353,7 +360,6 @@
 |yyy 2|yyy 2|?|serie|thailande|0|<!-- -->
 |my engineer 2|my engineer 2|?|serie|thailande|0|<!-- -->
 |cheat 2|cheat 2|?|serie|philippines|0|<!-- -->
-|quaranthings 2||?|serie|philippines|0|<!-- -->
 |meet my angel 2||?|serie|philippines|0|<!-- -->
 |my extraordinary 2|a kiss 2 remember|12|serie|philippines|0|<!-- -->
 |color rush 2|color rush 2|?|serie|corée|0|<!--  -->
@@ -375,22 +381,19 @@
 |GMMTV|--|--||||<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|0|<!-- -->
 |drag I love you|drag I love you|?|serie(**)|thailande|0|<!-- -->
-|baker boys|baker boys|?|serie|thailande|0|<!-- -->
 |enchante|enchante|?|serie|thailande|0|<!-- -->
 |the player|the player|?|serie(**)|thailande|0|<!-- -->
-|NOTME|NOTME|?|serie|thailande|0|<!-- -->
+|NOTME|NOTME|16|serie|thailande|0|<!-- -->
 |war of the flowers|war of the flowers|?|serie(**)|thailande|0|<!--  -->
 |||||||<!--  -->
 |SWS|--|--||||<!--  -->
-|7p would you be my love|7p would you be my love|?|serie|thailande|0|<!--  -->
-|7p once upon a time|7p once upon a time|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
 |COPYABANGKOK|--|--|||| <!--  -->
 |||||||<!--  -->
 |OTHER THAI|--|--||||<!--  -->
 |cutie pie|cutie pie|?|serie|thailande|0|<!--  -->
 |bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
-|kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeffplay-->
+|kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeff-->
 |middle love|middle love|?|serie|thailande|0|<!-- MII2 -->
 |love stage|love stage|?|serie|thailande|0|<!-- kaowbo -->
 |mr tuxedo|mr tuxedo|?|serie|thailande|0|<!--  -->

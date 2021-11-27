@@ -11,7 +11,7 @@ list99=( "Unbag _1" "Bt21 original story _1" # >= 200
 "Vwars _1" "The voice bulgarie _8" # 49-40
 "" # 39-30
 "The voice esp _8" "Survivor _41" "La mas draga _4" "7project _1" "" # 29-20
-"Dals _11" "/9-1-1 _5" "Alter ego _1" "The masked singer _6" "Survivor au _6" "Earthmix space _1" "The shipper _1" # 19-15
+"/9-1-1 _5" "Alter ego _1" "The masked singer _6" "Survivor au _6" "Earthmix space _1" "The shipper _1" # 19-15
 "Josephine ange gardien _24" "Bite me _1" "The voice ger _11" "Inhuman condition _1" "Post mortem _1" "Buffy _1" "Lucifer _4" # 14-10
 "" # 9
 "Aoki vuanpaia no nayami _1" "" # 8
