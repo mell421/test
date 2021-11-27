@@ -660,6 +660,7 @@
 * Survivor _10
 ### sem 29-11-2021 
 * *insererici*
+* The love that dare not speak its name _1
 * Dals _11
 * Dwts _30
 * Bite sisters _1
@@ -681,13 +682,10 @@
 * $ a commencer / venir $
 * /9-1-1 lone star _3
 * Queen of the universe _1
-* Dexter _9
 * Monsters inside bm _1
 * Mental _2
 * The good doctor _5
 * Nilundon _1
-* Drag race it _1
-* Les engagés _3
 * F4 thailand _1
 * Paint with love _1
 * Aggretsuko _4
@@ -695,28 +693,37 @@
 * 
 * 
 * $ order $
-* Survivor _41
-* Banana fish _1
-* 
-* Bad buddy _1
-* Earthmix space _1
 * The voice ger _11
-* Unbag _1
-* Alter ego _1
-* The masked singer _6
+* Bad buddy _1
+* Drag race it _1
+* Painted with raven _1
+* Do seu lado _1
+* Baker boys _1
 * Incroyable talent _16
 * La mas draga _4
+* Survivor _11
+* Rpdruk _3
 * The voice us _21
+* Alter ego _1
 * Koh-lanta _27
-* 
+* The voice th _7
 * The voice portugal _9
-* Strictly come dancing _19
-* The voice greece _8
 * The voice bulgarie _8
+* The voice greece _8
+* Strictly come dancing _19
+* Dexter _9
+* The voice esp _8
+* Les engagés _3
+* The masked singer _6
+* The case study of vanitas _1
+* Druck _7
 * Kieta hatsukoi _1
 * The masked singer ger _5
-* Druck _7
-* The voice esp _8
+* Drag race ca _2
+* Survivor _41
+* Banana fish _1
+* Earthmix space _1
+* Unbag _1
 * Tbbt _11
 * Aoki vuanpaia no nayami _1
 * Young sheldon _5
@@ -726,13 +733,11 @@
 * Age of the living dead _1
 * Inhuman condition _1
 * Survivor au _6
-* Drag race ca _2
 * /9-1-1 _5
 * Love area _1
 * Dont say no _1
 * The shipper _1
 * Goblin _1
-* Rpdruk _3
 * 7project _1
 * The big leap _1
 * Post mortem _1
@@ -826,7 +831,7 @@
 #### mois 01-11-2021 
 *The good doctor _4 The voice _11 Ahs _10 The tasty florida _1 Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
-*insererici Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
+*insererici The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
 *insererici*
 
