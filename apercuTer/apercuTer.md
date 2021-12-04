@@ -671,6 +671,7 @@
 * Bite sisters _1
 ### sem 06-12-2021 
 * *insererici*
+* The voice th _7
 ### sem 13-12-2021 
 * *insererici*
 ### sem 20-12-2021 
@@ -713,7 +714,7 @@
 * The voice us _21
 * Alter ego _1
 * Koh-lanta _27
-* The voice th _7
+* 
 * The voice portugal _9
 * The voice bulgarie _8
 * The voice greece _8
@@ -842,7 +843,7 @@
 #### mois 01-12-2021 
 *insererici The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici*
+*insererici The voice th _7*
 
 
 

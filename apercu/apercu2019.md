@@ -70,7 +70,6 @@ Skam vsg _1x4(1)
 ### sem 20-05-2019 
 Sam & cat _1x19(3) Shadowhunters _3x14(2) 
 ### sem 27-05-2019 
-
 ### sem 03-06-2019 
 Jeopardy _33x158(1) Years and years _1x3(2) How to sell drugs online (fast) _1x2(1) Phineas & ferb _1x27(2) Jessie _1x2(1) 
 ### sem 10-06-2019 
@@ -113,7 +112,6 @@ Skam vsg _1x5(1) Prodigal son _1x3(1)
 ### sem 21-10-2019 
 The politician _1x5(1) 
 ### sem 28-10-2019 
-
 ### sem 04-11-2019 
 Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1) 
 ### sem 11-11-2019 

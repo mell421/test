@@ -49,8 +49,6 @@ The voice us 21x20
 Alter ego 1x9
 Koh-lanta 27x12
 * Survivor 11x1
-The voice th 7x2
-* The voice th 7x1
 The voice portugal 9x6
 The voice bulgarie 8x11
 The voice greece 8x20

@@ -468,6 +468,7 @@
 |dals 11||11|||<!--  -->
 |The love that dare not speak its name||6|||<!--  -->
 |the masked singer ger 5|||||<!--  -->
+|The voice th 7||15|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -658,7 +659,6 @@
 |vanitas no carte 1||24|||2|<!--  -->
 |drag race it 1||6|||2|<!--  -->
 |les engagés 3||3|||1|<!--  -->
-|The voice th 7||15|||8|<!--  -->
 |survivor 11||15|||5|<!--  -->
 |baker boys 1||12|||3|<!--  -->
 |do seu lado 1||?|||4|<!--  -->
