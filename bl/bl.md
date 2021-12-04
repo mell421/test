@@ -15,6 +15,10 @@
   - [en cours, a jour](#en-cours-a-jour)
   - [non commencée, a venir](#non-commencée-a-venir)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## SKAM REMAKES
  
 |titre|pays|nb saisons terminées|
@@ -98,11 +102,18 @@
 |DR NL 2||10|||<!--  -->
 |RPDRUK 3||?|||<!--  -->
 |les engagés 3||3|||<!--  -->
+|DR CA 2||10|||<!--  -->
+|dragula 4|||||<!--  -->
+|DR IT 1|||||<!--  -->
+|painted with raven 1|||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## asie
 \* bl (side couple) <!-- -->  
@@ -312,13 +323,22 @@
 |kieta hatsukoi|kieta hatsukoi|10|serie|japon|6|                <!-- 44 -->
 |aoki vuanpaia no nayami|aoki vuanpaia no nayami|8|serie(**)|japon|2| <!-- 45 -->
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
-|bad buddy|bad buddy|12|serie|thailande|4|                      <!-- 47-->
-|baker boys|baker boys|12?|serie(*)|thailande|1|                <!-- 48 -->
+|bad buddy|bad buddy|12|serie|thailande|5|                      <!-- 47-->
+|baker boys|baker boys|12|serie(*)|thailande|2|                <!-- 48 -->
+|do seu lado|do seu lado|?|serie|bresil|4|<!--  -->
+|paint with love|paint with love|8|serie|thailande|1|<!--  -->
+|mr cinderella|_|?|serie|vietnam|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
  ## non commencée, a venir
  
@@ -327,7 +347,6 @@
 |gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
 |checkout|checkout|?|serie|thailande|0|<!--  -->
 |quaranthings 2|quaranthings 2|8|serie|philippines|0|<!-- -->
-|mr cinderella||?|serie|vietnam|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |deja sorti|---|---||||<!--  -->
@@ -343,10 +362,8 @@
 |c'mon be mafia|c'mon be mafia|?|show|thailande|0|<!-- 16/01 -->
 |||||||<!-- -->
 |2021|---|---||||<!-- -->
-|JUILLET|---|---||||<!--  -->
 |gameboys 2|gameboys 2|?|serie|philippines|0|<!-- 22/05 -->
 |||||||<!--  -->
-|NOVEMBRE|---|---||||<!--  -->
 |||||||<!--  -->
 |DECEMBRE|---|---||||<!--  -->
 |||||||<!--  -->
@@ -385,6 +402,21 @@
 |the player|the player|?|serie(**)|thailande|0|<!-- -->
 |NOTME|NOTME|16|serie|thailande|0|<!-- -->
 |war of the flowers|war of the flowers|?|serie(**)|thailande|0|<!--  -->
+|UMG|UMG|?|serie(**)|thailande|0|<!--  -->
+|home school|home school|?|serie(**)|thailande|0|<!--  -->
+|midnight motel|midnight motel|?|serie(**)|thailande|0|<!--  -->
+|dirty laundry|dirty laundry|?|serie(**)|thailande|0|<!--  -->
+|my precious|my precious|1|film(**)|thailande|0|<!--  -->
+|star & sky|star & sky|?|serie|thailande|0|<!--  -->
+|cupids last wish|cupids last wish|?|serie|thailande|0|<!--  -->
+|the eclipse|the eclipse|?|serie|thailande|0|<!--  -->
+|never let me go|never let me go|?|serie|thailande|0|<!--  -->
+|moonlight chicken|moonlight chicken|?|serie|thailande|0|<!--  -->
+|vice versa|vice versa|?|serie|thailande|0|<!--  -->
+|my school president|my school president|?|serie|thailande|0|<!--  -->
+|you are my favorite|you are my favorite|?|serie|thailande|0|<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |SWS|--|--||||<!--  -->
 |||||||<!--  -->

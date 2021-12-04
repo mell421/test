@@ -142,6 +142,10 @@
       - [mois 01-12-2021](#mois-01-12-2021)
       - [mois 01-01-2022](#mois-01-01-2022)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## Aperçu semaine
 
 ### sem 06-01-2020 
@@ -677,7 +681,9 @@
 * *insererici*
 
 
----
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## bientot
 * $ a commencer / venir $
@@ -781,7 +787,9 @@
 * 
 
 
----
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## apercu mois
 

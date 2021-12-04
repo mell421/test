@@ -51,6 +51,10 @@ summar(8)
 summar(9)
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### 1
 ```{r stats1, echo=FALSE}
 summar(10)
@@ -67,6 +71,10 @@ summar(18)
 #summar(19)
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### 2
 ```{r stats2, echo=FALSE}
 summar(20)
@@ -82,6 +90,10 @@ summar(29)
 summar(62)
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### 3
 ```{r stats3, echo=FALSE}
 summar(30)
@@ -94,6 +106,10 @@ summar(37)
 #summar(38)
 summar(39)
 ```
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### 4
 ```{r stats4, echo=FALSE}
@@ -108,6 +124,10 @@ summar(47)
 #summar(48)
 summar(49)
 ```
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### 5
 ```{r stats5, echo=FALSE}

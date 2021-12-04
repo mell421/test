@@ -1,213 +1,228 @@
 
 i = Unbag _1
-ligne :  1797 ZZ/Unbag_1.txt
-mot   :  26092 ZZ/Unbag_1.txt
-carac :  167280 ZZ/Unbag_1.txt
-
-i = Bt21 original story _1
-ligne :  556 ZZ/Bt21originalstory_1.txt
-mot   :  12211 ZZ/Bt21originalstory_1.txt
-carac :  73431 ZZ/Bt21originalstory_1.txt
-
-i = Dont say no _1
-ligne :  245 ZZ/Dontsayno_1.txt
-mot   :  7140 ZZ/Dontsayno_1.txt
-carac :  40321 ZZ/Dontsayno_1.txt
-
-i = Peach of time _1
-ligne :  130 ZZ/Peachoftime_1.txt
-mot   :  3556 ZZ/Peachoftime_1.txt
-carac :  21598 ZZ/Peachoftime_1.txt
+ligne :  1937 ZZ/Unbag_1.txt
+mot   :  32541 ZZ/Unbag_1.txt
+carac :  203102 ZZ/Unbag_1.txt
 
 i = The voice greece _8
-ligne :  141 ZZ/Thevoicegreece_8.txt
-mot   :  5058 ZZ/Thevoicegreece_8.txt
-carac :  28231 ZZ/Thevoicegreece_8.txt
+ligne :  304 ZZ/Thevoicegreece_8.txt
+mot   :  12493 ZZ/Thevoicegreece_8.txt
+carac :  70428 ZZ/Thevoicegreece_8.txt
+
+i = Dont say no _1
+ligne :  302 ZZ/Dontsayno_1.txt
+mot   :  10046 ZZ/Dontsayno_1.txt
+carac :  57771 ZZ/Dontsayno_1.txt
 
 i = Strictly come dancing _19
-ligne :  101 ZZ/Strictlycomedancing_19.txt
-mot   :  3960 ZZ/Strictlycomedancing_19.txt
-carac :  22934 ZZ/Strictlycomedancing_19.txt
+ligne :  254 ZZ/Strictlycomedancing_19.txt
+mot   :  11000 ZZ/Strictlycomedancing_19.txt
+carac :  63084 ZZ/Strictlycomedancing_19.txt
 
 i = The voice us _21
-ligne :  100 ZZ/Thevoiceus_21.txt
-mot   :  3909 ZZ/Thevoiceus_21.txt
-carac :  22019 ZZ/Thevoiceus_21.txt
+ligne :  253 ZZ/Thevoiceus_21.txt
+mot   :  10986 ZZ/Thevoiceus_21.txt
+carac :  62033 ZZ/Thevoiceus_21.txt
 
 i = Koh-lanta _27
-ligne :  65 ZZ/Koh-lanta_27.txt
-mot   :  2440 ZZ/Koh-lanta_27.txt
-carac :  15595 ZZ/Koh-lanta_27.txt
+ligne :  156 ZZ/Koh-lanta_27.txt
+mot   :  7051 ZZ/Koh-lanta_27.txt
+carac :  43446 ZZ/Koh-lanta_27.txt
 
-i = Vwars _1
-ligne :  59 ZZ/Vwars_1.txt
-mot   :  1837 ZZ/Vwars_1.txt
-carac :  12230 ZZ/Vwars_1.txt
+i = The voice ger _11
+ligne :  176 ZZ/Thevoiceger_11.txt
+mot   :  7998 ZZ/Thevoiceger_11.txt
+carac :  45882 ZZ/Thevoiceger_11.txt
 
 i = The voice bulgarie _8
-ligne :  53 ZZ/Thevoicebulgarie_8.txt
-mot   :  2131 ZZ/Thevoicebulgarie_8.txt
-carac :  13366 ZZ/Thevoicebulgarie_8.txt
+ligne :  132 ZZ/Thevoicebulgarie_8.txt
+mot   :  6118 ZZ/Thevoicebulgarie_8.txt
+carac :  38725 ZZ/Thevoicebulgarie_8.txt
 
-i =
-ligne : 
-mot   : 
-carac : 
+i = Peach of time _1
+ligne :  137 ZZ/Peachoftime_1.txt
+mot   :  3904 ZZ/Peachoftime_1.txt
+carac :  23807 ZZ/Peachoftime_1.txt
 
 i = The voice esp _8
-ligne :  38 ZZ/Thevoiceesp_8.txt
-mot   :  1509 ZZ/Thevoiceesp_8.txt
-carac :  9510 ZZ/Thevoiceesp_8.txt
+ligne :  102 ZZ/Thevoiceesp_8.txt
+mot   :  4762 ZZ/Thevoiceesp_8.txt
+carac :  30474 ZZ/Thevoiceesp_8.txt
 
-i = Survivor _41
-ligne :  30 ZZ/Survivor_41.txt
-mot   :  1211 ZZ/Survivor_41.txt
-carac :  7891 ZZ/Survivor_41.txt
+i = The masked singer _6
+ligne :  96 ZZ/Themaskedsinger_6.txt
+mot   :  4677 ZZ/Themaskedsinger_6.txt
+carac :  29714 ZZ/Themaskedsinger_6.txt
 
 i = La mas draga _4
-ligne :  31 ZZ/Lamasdraga_4.txt
-mot   :  1348 ZZ/Lamasdraga_4.txt
-carac :  8517 ZZ/Lamasdraga_4.txt
+ligne :  90 ZZ/Lamasdraga_4.txt
+mot   :  4409 ZZ/Lamasdraga_4.txt
+carac :  28165 ZZ/Lamasdraga_4.txt
+
+i = Survivor au _6
+ligne :  79 ZZ/Survivorau_6.txt
+mot   :  3837 ZZ/Survivorau_6.txt
+carac :  22818 ZZ/Survivorau_6.txt
+
+i = Inhuman condition _1
+ligne :  69 ZZ/Inhumancondition_1.txt
+mot   :  3392 ZZ/Inhumancondition_1.txt
+carac :  20378 ZZ/Inhumancondition_1.txt
+
+i = Kieta hatsukoi _1
+ligne :  65 ZZ/Kietahatsukoi_1.txt
+mot   :  3106 ZZ/Kietahatsukoi_1.txt
+carac :  19463 ZZ/Kietahatsukoi_1.txt
+
+i = Survivor _41
+ligne :  68 ZZ/Survivor_41.txt
+mot   :  3224 ZZ/Survivor_41.txt
+carac :  19819 ZZ/Survivor_41.txt
+
+i = Tbbt _11
+ligne :  41 ZZ/Tbbt_11.txt
+mot   :  1779 ZZ/Tbbt_11.txt
+carac :  10984 ZZ/Tbbt_11.txt
+
+i = The voice portugal _9
+ligne :  40 ZZ/Thevoiceportugal_9.txt
+mot   :  1909 ZZ/Thevoiceportugal_9.txt
+carac :  12400 ZZ/Thevoiceportugal_9.txt
+
+i = Alter ego _1
+ligne :  43 ZZ/Alterego_1.txt
+mot   :  2021 ZZ/Alterego_1.txt
+carac :  13264 ZZ/Alterego_1.txt
+
+i = Incroyable talent _16
+ligne :  31 ZZ/Incroyabletalent_16.txt
+mot   :  1519 ZZ/Incroyabletalent_16.txt
+carac :  9747 ZZ/Incroyabletalent_16.txt
+
+i = Earthmix space _1
+ligne :  31 ZZ/Earthmixspace_1.txt
+mot   :  1438 ZZ/Earthmixspace_1.txt
+carac :  9716 ZZ/Earthmixspace_1.txt
 
 i = 7project _1
 ligne :  29 ZZ/7project_1.txt
 mot   :  897 ZZ/7project_1.txt
 carac :  6166 ZZ/7project_1.txt
 
-i =
+i = /9-1-1 _5
+ligne :  29 ZZ//9-1-1_5.txt
+mot   :  1228 ZZ//9-1-1_5.txt
+carac :  7878 ZZ//9-1-1_5.txt
+
+i = Bad buddy _1
+ligne :  24 ZZ/Badbuddy_1.txt
+mot   :  1171 ZZ/Badbuddy_1.txt
+carac :  7513 ZZ/Badbuddy_1.txt
+
+i = The shipper _1
+ligne :  29 ZZ/Theshipper_1.txt
+mot   :  660 ZZ/Theshipper_1.txt
+carac :  4763 ZZ/Theshipper_1.txt
+
+i = Rpdruk _3
+ligne :  26 ZZ/Rpdruk_3.txt
+mot   :  1408 ZZ/Rpdruk_3.txt
+carac :  8106 ZZ/Rpdruk_3.txt
+
+i = Druck _7
+ligne :  17 ZZ/Druck_7.txt
+mot   :  813 ZZ/Druck_7.txt
+carac :  5404 ZZ/Druck_7.txt
+
+i = Drag race ca _2
+ligne :  37 ZZ/Dragraceca_2.txt
+mot   :  1868 ZZ/Dragraceca_2.txt
+carac :  10722 ZZ/Dragraceca_2.txt
+
+i = Aoki vuanpaia no nayami _1
+ligne :  20 ZZ/Aokivuanpaianonayami_1.txt
+mot   :  982 ZZ/Aokivuanpaianonayami_1.txt
+carac :  5797 ZZ/Aokivuanpaianonayami_1.txt
+
+i = Survivor _11
+ligne :  85 ZZ/Survivor_11.txt
+mot   :  4350 ZZ/Survivor_11.txt
+carac :  26241 ZZ/Survivor_11.txt
+
+i = Young sheldon _5
+ligne :  17 ZZ/Youngsheldon_5.txt
+mot   :  906 ZZ/Youngsheldon_5.txt
+carac :  5404 ZZ/Youngsheldon_5.txt
+
+i = Dexter _9
+ligne :  17 ZZ/Dexter_9.txt
+mot   :  845 ZZ/Dexter_9.txt
+carac :  5604 ZZ/Dexter_9.txt
+
+i = The voice th _7
+ligne :  43 ZZ/Thevoiceth_7.txt
+mot   :  2075 ZZ/Thevoiceth_7.txt
+carac :  11816 ZZ/Thevoiceth_7.txt
+
+i = The case study of vanitas _1
 ligne : 
 mot   : 
 carac : 
-
-i = /9-1-1 _5
-ligne :  28 ZZ//9-1-1_5.txt
-mot   :  1119 ZZ//9-1-1_5.txt
-carac :  7138 ZZ//9-1-1_5.txt
-
-i = Alter ego _1
-ligne :  25 ZZ/Alterego_1.txt
-mot   :  1028 ZZ/Alterego_1.txt
-carac :  6760 ZZ/Alterego_1.txt
-
-i = The masked singer _6
-ligne :  29 ZZ/Themaskedsinger_6.txt
-mot   :  1304 ZZ/Themaskedsinger_6.txt
-carac :  8261 ZZ/Themaskedsinger_6.txt
-
-i = Survivor au _6
-ligne :  34 ZZ/Survivorau_6.txt
-mot   :  1501 ZZ/Survivorau_6.txt
-carac :  7844 ZZ/Survivorau_6.txt
-
-i = Earthmix space _1
-ligne :  21 ZZ/Earthmixspace_1.txt
-mot   :  779 ZZ/Earthmixspace_1.txt
-carac :  5274 ZZ/Earthmixspace_1.txt
-
-i = The shipper _1
-ligne :  28 ZZ/Theshipper_1.txt
-mot   :  551 ZZ/Theshipper_1.txt
-carac :  4023 ZZ/Theshipper_1.txt
-
-i = Josephine ange gardien _24
-ligne :  17 ZZ/Josephineangegardien_24.txt
-mot   :  536 ZZ/Josephineangegardien_24.txt
-carac :  3759 ZZ/Josephineangegardien_24.txt
-
-i = Bite me _1
-ligne :  17 ZZ/Biteme_1.txt
-mot   :  531 ZZ/Biteme_1.txt
-carac :  3575 ZZ/Biteme_1.txt
-
-i = The voice ger _11
-ligne :  20 ZZ/Thevoiceger_11.txt
-mot   :  932 ZZ/Thevoiceger_11.txt
-carac :  5447 ZZ/Thevoiceger_11.txt
-
-i = Inhuman condition _1
-ligne :  19 ZZ/Inhumancondition_1.txt
-mot   :  788 ZZ/Inhumancondition_1.txt
-carac :  3948 ZZ/Inhumancondition_1.txt
 
 i = Post mortem _1
 ligne :  16 ZZ/Postmortem_1.txt
 mot   :  514 ZZ/Postmortem_1.txt
 carac :  3566 ZZ/Postmortem_1.txt
 
-i = Buffy _1
-ligne :  16 ZZ/Buffy_1.txt
-mot   :  480 ZZ/Buffy_1.txt
-carac :  3060 ZZ/Buffy_1.txt
-
-i = Lucifer _4
-ligne :  19 ZZ/Lucifer_4.txt
-mot   :  505 ZZ/Lucifer_4.txt
-carac :  3644 ZZ/Lucifer_4.txt
-
-i =
-ligne : 
-mot   : 
-carac : 
-
-i = Aoki vuanpaia no nayami _1
-ligne :  14 ZZ/Aokivuanpaianonayami_1.txt
-mot   :  633 ZZ/Aokivuanpaianonayami_1.txt
-carac :  3467 ZZ/Aokivuanpaianonayami_1.txt
-
-i =
-ligne : 
-mot   : 
-carac : 
-
-i = Qforce _1
-ligne :  10 ZZ/Qforce_1.txt
-mot   :  333 ZZ/Qforce_1.txt
-carac :  2325 ZZ/Qforce_1.txt
-
-i =
-ligne : 
-mot   : 
-carac : 
-
-i = Kieta hatsukoi _1
-ligne :  8 ZZ/Kietahatsukoi_1.txt
-mot   :  299 ZZ/Kietahatsukoi_1.txt
-carac :  1988 ZZ/Kietahatsukoi_1.txt
+i = My sweet dear _1
+ligne :  8 ZZ/Mysweetdear_1.txt
+mot   :  423 ZZ/Mysweetdear_1.txt
+carac :  2589 ZZ/Mysweetdear_1.txt
 
 i = Love area _1
-ligne :  9 ZZ/Lovearea_1.txt
-mot   :  330 ZZ/Lovearea_1.txt
-carac :  2075 ZZ/Lovearea_1.txt
+ligne :  10 ZZ/Lovearea_1.txt
+mot   :  439 ZZ/Lovearea_1.txt
+carac :  2815 ZZ/Lovearea_1.txt
+
+i = Drag race it _1
+ligne :  19 ZZ/Dragraceit_1.txt
+mot   :  1108 ZZ/Dragraceit_1.txt
+carac :  6819 ZZ/Dragraceit_1.txt
+
+i = Do seu lado _1
+ligne :  18 ZZ/Doseulado_1.txt
+mot   :  964 ZZ/Doseulado_1.txt
+carac :  5084 ZZ/Doseulado_1.txt
 
 i = Goblin _1
 ligne :  9 ZZ/Goblin_1.txt
 mot   :  403 ZZ/Goblin_1.txt
 carac :  2741 ZZ/Goblin_1.txt
 
-i =
+i = Baker boys _1
+ligne :  11 ZZ/Bakerboys_1.txt
+mot   :  602 ZZ/Bakerboys_1.txt
+carac :  3641 ZZ/Bakerboys_1.txt
+
+i = Les engages _3
+ligne :  6 ZZ/Lesengages_3.txt
+mot   :  344 ZZ/Lesengages_3.txt
+carac :  2223 ZZ/Lesengages_3.txt
+
+i = Age of the living dead _1
 ligne : 
 mot   : 
 carac : 
 
-i = The voice portugal _9
-ligne :  7 ZZ/Thevoiceportugal_9.txt
-mot   :  275 ZZ/Thevoiceportugal_9.txt
-carac :  1846 ZZ/Thevoiceportugal_9.txt
+i = Insiders _1
+ligne :  5 ZZ/Insiders_1.txt
+mot   :  257 ZZ/Insiders_1.txt
+carac :  1743 ZZ/Insiders_1.txt
 
-i =
-ligne : 
-mot   : 
-carac : 
-
-i = Drag race ca _2
-ligne :  8 ZZ/Dragraceca_2.txt
-mot   :  407 ZZ/Dragraceca_2.txt
-carac :  2449 ZZ/Dragraceca_2.txt
-
-i = Rpdruk _3
-ligne :  9 ZZ/Rpdruk_3.txt
-mot   :  455 ZZ/Rpdruk_3.txt
-carac :  2973 ZZ/Rpdruk_3.txt
+i = Dragula _4
+ligne :  14 ZZ/Dragula_4.txt
+mot   :  768 ZZ/Dragula_4.txt
+carac :  4763 ZZ/Dragula_4.txt
 
 i = The big leap _1
 ligne :  7 ZZ/Thebigleap_1.txt
@@ -219,60 +234,55 @@ ligne :  6 ZZ/Aliceinborderland_1.txt
 mot   :  287 ZZ/Aliceinborderland_1.txt
 carac :  2023 ZZ/Aliceinborderland_1.txt
 
-i =
-ligne : 
-mot   : 
-carac : 
+i = Painted with raven _1
+ligne :  7 ZZ/Paintedwithraven_1.txt
+mot   :  395 ZZ/Paintedwithraven_1.txt
+carac :  2556 ZZ/Paintedwithraven_1.txt
 
-i = Incroyable talent _16
-ligne :  4 ZZ/Incroyabletalent_16.txt
-mot   :  113 ZZ/Incroyabletalent_16.txt
-carac :  748 ZZ/Incroyabletalent_16.txt
+i = Banana fish _1
+ligne :  4 ZZ/Bananafish_1.txt
+mot   :  219 ZZ/Bananafish_1.txt
+carac :  1507 ZZ/Bananafish_1.txt
 
-i = Age of the living dead _1
-ligne : 
-mot   : 
-carac : 
+i = The voice senior it _2
+ligne :  7 ZZ/Thevoiceseniorit_2.txt
+mot   :  508 ZZ/Thevoiceseniorit_2.txt
+carac :  3094 ZZ/Thevoiceseniorit_2.txt
 
-i = Young sheldon _5
-ligne :  7 ZZ/Youngsheldon_5.txt
-mot   :  343 ZZ/Youngsheldon_5.txt
-carac :  2084 ZZ/Youngsheldon_5.txt
+i = Bt21 original story _1
+ligne :  562 ZZ/Bt21originalstory_1.txt
+mot   :  12564 ZZ/Bt21originalstory_1.txt
+carac :  75077 ZZ/Bt21originalstory_1.txt
 
-i =
-ligne : 
-mot   : 
-carac : 
+i = Vwars _1
+ligne :  59 ZZ/Vwars_1.txt
+mot   :  1837 ZZ/Vwars_1.txt
+carac :  12230 ZZ/Vwars_1.txt
 
-i = Insiders _1
-ligne :  3 ZZ/Insiders_1.txt
-mot   :  72 ZZ/Insiders_1.txt
-carac :  476 ZZ/Insiders_1.txt
+i = Josephine ange gardien _24
+ligne :  17 ZZ/Josephineangegardien_24.txt
+mot   :  536 ZZ/Josephineangegardien_24.txt
+carac :  3759 ZZ/Josephineangegardien_24.txt
 
-i = Dragula _4
-ligne :  4 ZZ/Dragula_4.txt
-mot   :  144 ZZ/Dragula_4.txt
-carac :  870 ZZ/Dragula_4.txt
+i = Bite me _1
+ligne :  18 ZZ/Biteme_1.txt
+mot   :  568 ZZ/Biteme_1.txt
+carac :  3751 ZZ/Biteme_1.txt
 
-i =
-ligne : 
-mot   : 
-carac : 
+i = Buffy _1
+ligne :  16 ZZ/Buffy_1.txt
+mot   :  480 ZZ/Buffy_1.txt
+carac :  3060 ZZ/Buffy_1.txt
 
-i =
-ligne : 
-mot   : 
-carac : 
+i = Lucifer _4
+ligne :  19 ZZ/Lucifer_4.txt
+mot   :  505 ZZ/Lucifer_4.txt
+carac :  3644 ZZ/Lucifer_4.txt
 
-i =
-ligne : 
-mot   : 
-carac : 
-
-i =
-ligne : 
-mot   : 
-carac : 
+i = Qforce _1
+ligne :  10 ZZ/Qforce_1.txt
+mot   :  333 ZZ/Qforce_1.txt
+carac :  2325 ZZ/Qforce_1.txt
 
 i = My vampire boyfriend _1
 ligne :  259 ZZ/Myvampireboyfriend_1.txt
@@ -423,11 +433,6 @@ i = An eye for an eye _1
 ligne : 
 mot   : 
 carac : 
-
-i = Tbbt _11
-ligne :  10 ZZ/Tbbt_11.txt
-mot   :  223 ZZ/Tbbt_11.txt
-carac :  1579 ZZ/Tbbt_11.txt
 
 i = Bangkok love stories innocence _1
 ligne :  8 ZZ/Bangkoklovestoriesinnocence_1.txt

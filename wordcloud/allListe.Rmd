@@ -41,6 +41,9 @@ print(moy)
 #---
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## HISTORIQUE ET PREMDER
 
@@ -71,6 +74,10 @@ data %>% filter(tisaep.all != "")  %>% select(tisaep.all
 ```
 
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## CATEGORIES
 
@@ -124,6 +131,11 @@ data %>% filter(status == "film") %>% select(tisaep,Horodateur)
 ```
 
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## NB
 
 ### nb
@@ -144,6 +156,11 @@ data <- data.frame(aListes())
 ```
 
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## COPIE BY SCRIPT
 
 ### copy

@@ -12,6 +12,10 @@
   - [en cours, a jour](#en-cours-a-jour)
   - [a venir](#a-venir)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## terminé
  
 |titre|titre officiel|nb ep|categorie|pays|
@@ -173,7 +177,7 @@
 |alyssa's secret 6||10|||
 |KUWTK 3||12|||
 |2gether 1|2gether|13|serie|thailande|                    <!-- 10 -->
-|the gifted 1|the gifted|13|serie(**)|thailande|           <!-- 11 -->
+|the gifted 1|the gifted|13||thailande|           <!-- 11 -->
 |adventure time 3||26|||
 |roommate 1|roommate|5|serie|thailande|                   <!-- 12 -->
 |TVK UK 4||8|||
@@ -214,7 +218,7 @@
 |the boy next door|the boy next door|15|serie|corée| 
 |the good doctor 3||20|||
 |skam espana 4||8|||
-|i'm tee me too|i'm tee me too|8|serie(**)|thailande|
+|i'm tee me too|i'm tee me too|8||thailande|
 |wtfock 4||10|||
 |TMS VV 1||8|||
 |grandsons the reality project|grandsons the reality project|4|show|thailande|
@@ -239,7 +243,7 @@
 |long time no see|long time no see|5|serie|corée|
 |druck 5||10|||
 |TMS FR 2||6||france|
-|the gifted 2|the gifted graduation|13|serie(**)|thailande|
+|the gifted 2|the gifted graduation|13||thailande|
 |cheerleaders new jersey 1||30|||
 |safe haven|safe haven|15|serie|philippines|
 |better days|better days|6|serie|philippines|
@@ -303,7 +307,7 @@
 |survivor au 7||25|||<!--  -->
 |sea him|uoc hen lang chai|10|serie|vietnam|<!-- 19 -->
 |Bt21 universe 3||9|||
-|girl2k|girl2k|10|serie(**)|thailande|<!-- 41 -->
+|girl2k|girl2k|10||thailande|<!-- 41 -->
 |RPDRUK 2||10|||<!--  -->
 |you make me dance|you make me dance|8|serie|corée|<!-- 45 -->
 |skam france 7||10|||<!--  -->
@@ -474,6 +478,10 @@
 ||||||<!--  -->
 
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## en cours, a jour
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
@@ -555,7 +563,7 @@
 |love alarm 1|||||1|<!--  -->
 |you 1|||||2|<!--  -->
 |so much in love|so much in love|12|serie|thailande|2|<!-- 6 -->
-|blacklist|blacklist|13|serie(**)|thailande|1|<!-- 8 -->
+|blacklist|blacklist|13||thailande|1|<!-- 8 -->
 |unbag|unbag|?|show|thailande|13|<!-- 9 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1|<!-- 10 -->
 |baby 3|||||1|<!--  -->
@@ -580,7 +588,7 @@
 |FDTD 2|||||3|<!--  -->
 |together with me 1|together with me|?|serie|thailande|1|<!--35  -->
 |unlocked 1|unlocked|9|serie|philippines|2|<!--  -->
-|romantic blue 1|romantic blue|12|serie(**)|thailande|1|<!--  -->
+|romantic blue 1|romantic blue|12||thailande|1|<!--  -->
 |warper series 1|warper series|?|show|thailande|1|<!--  -->
 |koishite akuma 1||?|||3|<!--  -->
 |tien bromance 1||10|||1|<!--  -->
@@ -646,13 +654,20 @@
 |bad buddy 1||12|||2|<!--  -->
 |druck 7||10|||1|<!--  -->
 |banana fish 1|||||2|<!--  -->
-|dexter 9||10|||3|<!--  -->
+|dexter 9||10|||4|<!--  -->
 |vanitas no carte 1||24|||2|<!--  -->
-|drag race it 1||6|||1|<!--  -->
+|drag race it 1||6|||2|<!--  -->
 |les engagés 3||3|||1|<!--  -->
-|The voice th 7||15|||2|<!--  -->
+|The voice th 7||15|||8|<!--  -->
 |survivor 11||15|||5|<!--  -->
-|baker boys 1|||||0|<!--  -->
+|baker boys 1||12|||3|<!--  -->
+|do seu lado 1||?|||4|<!--  -->
+|painted with raven 1||8|||1|<!--  -->
+|the voice senior it 2||?|||1|<!--  -->
+|paint with love 1||8|||1|<!--  -->
+|mr cinderella 1||?|||1|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -660,14 +675,20 @@
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## a venir
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|queen of the universe 1||6|||0|<!--  -->
+|queen of the universe 1||6|||0|<!-- 2/12 -->
+|never too late 1||12|||0|<!--  -->
+|quaranthings 2||8|||0|<!--  -->
+|not me 1||?|||0|<!--  -->
 |nilundon 1|||||0|<!--  -->
 |F4 thailand|||||0|<!--  -->
-|paint with love 1|||||0|<!--  -->
 |aggretsuko 4|||||0|<!--  -->
 |/9-1-1 lone star 3|||||0|<!--  -->
 |The masked singer fr 3|||||0|<!--  -->
@@ -689,19 +710,29 @@
 |kinnporsche 1||?|||0|<!--  -->
 |wars of the flowers 1||?|||0|<!--  -->
 |hemp rope 1||?|||0|<!--  -->
-|not me 1||?|||0|<!--  -->
 |enchante 1||?|||0|<!--  -->
 |my engineer 2||?|||0|<!--  -->
 |yyy 2||?|||0|<!--  -->
 |sea him 2||?|||0|<!--  -->
-|never too late 1|||||0|<!--  -->
 |drag I love you 1|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |my extraordinary 2|||||0|<!--  -->
 |the player 1|||||0|<!--  -->
-|quaranthings 2|||||0|<!--  -->
 |meet my angel 2|||||0|<!--  -->
 |mr tuxedo||?|||0|<!--  -->
+|UMG||?||thailande|0|<!--  -->
+|home school||?||thailande|0|<!--  -->
+|midnight motel||?||thailande|0|<!--  -->
+|dirty laundry||?||thailande|0|<!--  -->
+|my precious||1||thailande|0|<!--  -->
+|star & sky||?|serie|thailande|0|<!--  -->
+|cupids last wish||?|serie|thailande|0|<!--  -->
+|the eclipse||?|serie|thailande|0|<!--  -->
+|never let me go||?|serie|thailande|0|<!--  -->
+|moonlight chicken||?|serie|thailande|0|<!--  -->
+|vice versa||?|serie|thailande|0|<!--  -->
+|my school president||?|serie|thailande|0|<!--  -->
+|you are my favorite||?|serie|thailande|0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

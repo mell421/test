@@ -363,22 +363,28 @@ apercu/apercu21.md:* concluBis 23/10/21 = Unbag _1 > 10; The voice us _21 > 10; 
 apercu/apercu21.md:* concluBis 24/03/21 > Bt21 original story _1 > 6; Unbag _1 > 3; Bt21 vlog _1 > 2; 
 apercu/apercu21.md:* concluBis 24/07/21 = Unbag _1 > 10; /46 days _1 > 7; Forever knight _1 > 3; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 24/09/21 = Unbag _1 > 5; Dont say no _1 > 2; Bt21 original story _1 > 2; 
+apercu/apercu21.md:* concluBis 24/10/21 = The voice greece _8 > 11; Unbag _1 > 10; Strictly come dancing _19 > 6; Inhuman condition _1 > 6; The voice us _21 > 5; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; Dont say no _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 25/03/21 = Bt21 original story _1 > 8; Bt21 vlog _1 > 4; Unbag _1 > 3; 
 apercu/apercu21.md:* concluBis 25/07/21 = Unbag _1 > 10; /46 days _1 > 6; Forever knight _1 > 3; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 25/09/21 = Unbag _1 > 5; Bt21 original story _1 > 2; 
+apercu/apercu21.md:* concluBis 25/10/21 = The voice greece _8 > 16; Unbag _1 > 10; Strictly come dancing _19 > 10; Inhuman condition _1 > 7; The voice us _21 > 5; Young sheldon _5 > 2; Dont say no _1 > 2; Koh-lanta _27 > 1; The voice bulgarie _8 > 1; My sweet dear _1 > 1; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 26/03/21 = Bt21 original story _1 > 3; Unbag _1 > 3; 
 apercu/apercu21.md:* concluBis 26/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 26/09/21 = Dont say no _1 > 6; Unbag _1 > 5; Strictly come dancing _19 > 2; Bt21 original story _1 > 2; 
+apercu/apercu21.md:* concluBis 26/10/21 = The voice greece _8 > 15; Unbag _1 > 10; Strictly come dancing _19 > 9; Inhuman condition _1 > 7; The voice us _21 > 5; Tbbt _11 > 4; Dont say no _1 > 2; Koh-lanta _27 > 1; The voice bulgarie _8 > 1; Young sheldon _5 > 1; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 27/03/21 = Bt21 original story _1 > 3; Unbag _1 > 3; 
 apercu/apercu21.md:* concluBis 27/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 27/09/21 = Unbag _1 > 5; Dont say no _1 > 3; Bt21 original story _1 > 2; The voice esp _8 > 1; 
 apercu/apercu21.md:* concluBis 28/03/21 = Bt21 original story _1 > 3; Unbag _1 > 3; 
 apercu/apercu21.md:* concluBis 28/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 3; Bt21 original story _1 > 2; Imortal _1 > 2; 
 apercu/apercu21.md:* concluBis 28/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; 
+apercu/apercu21.md:* concluBis 28/10/21 = The voice us _21 > 18; The voice greece _8 > 12; Unbag _1 > 10; Strictly come dancing _19 > 6; The masked singer _6 > 4; Tbbt _11 > 3; Dont say no _1 > 2; Koh-lanta _27 > 1; La mas draga _4 > 1; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 29/07/21 = Unbag _1 > 10; Forever knight _1 > 2; Bt21 original story _1 > 1; /46 days _1 > 1; Imortal _1 > 1; 
 apercu/apercu21.md:* concluBis 29/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; Bt21 original story _1 > 2; The voice us _21 > 1; 
+apercu/apercu21.md:* concluBis 29/10/21 = The voice us _21 > 17; The voice greece _8 > 12; Unbag _1 > 10; Strictly come dancing _19 > 6; Tbbt _11 > 3; Dont say no _1 > 2; Koh-lanta _27 > 1; La mas draga _4 > 1; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 30/07/21 = Unbag _1 > 10; Forever knight _1 > 2; Bt21 original story _1 > 1; /46 days _1 > 1; Imortal _1 > 1; 
 apercu/apercu21.md:* concluBis 30/09/21 = Unbag _1 > 5; Dont say no _1 > 4; The voice greece _8 > 4; The voice us _21 > 2; Bt21 original story _1 > 2; 
+apercu/apercu21.md:* concluBis 30/10/21 = The voice us _21 > 15; Unbag _1 > 10; The voice greece _8 > 10; The voice ger _11 > 7; Strictly come dancing _19 > 5; Dont say no _1 > 2; Koh-lanta _27 > 1; The voice esp _8 > 1; Tbbt _11 > 1; Bt21 original story _1 > 1; 
 apercu/apercu21.md:* concluBis 31/07/21 = Unbag _1 > 10; Bt21 original story _1 > 8; /46 days _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercuglobal.md:- mois 01-04-2021 Bt21 vlog _1x4(3) Bt21 original story _1x7(6) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
 apercu/apercuglobal.md:- mois 01-05-2021 Unbag _1x21(3) I can see your voice fr _1x2(1) Mr lipstick _1x3(2) Bt21 original story _1x8(1) 

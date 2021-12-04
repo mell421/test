@@ -357,6 +357,10 @@ begin_time2 <-Sys.time()
 
 ---
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## GRAPHS
 
 ### nb duree
@@ -513,6 +517,10 @@ plot(prest.lm1, 3)
 plot(prest.lm1,1)
 ```
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## GRAPHS 
 
@@ -789,6 +797,10 @@ barplot(table(df$ncb),
 box()
 ```
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## NETWORKS
 
