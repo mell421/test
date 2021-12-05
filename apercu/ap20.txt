@@ -1,5 +1,5 @@
-<doc><docno>2</docno>
 ## Aperçu semaine
+<doc><docno>2</docno>
 #### sem 06-01-2020 
 Soundtrack _1x2(1) Zerosterone _1x5(4) Supergirl _1x10(1) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) 
 #### sem 13-01-2020 
@@ -98,11 +98,10 @@ A queen is born _1x2(1) Tale of the nine tailed _1x2(1)
 Ghost runner _1x4(2) Unbag _1x12(1) 
 #### sem 28-12-2020 
 Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
-
----
 </doc>
-<doc><docno>3</docno>
+
 ## apercu mois
+<doc><docno>3</docno>
 #### mois 01-01-2020 
 Zerosterone _1x5(4) Supergirl _1x10(2) Imortal _1x7(6) La guerre des mondes bbc _1x2(1) Here and now _1x4(1) Magic for humans _2x2(1) New amsterdam _1x8(4) Forever knight _1x8(7) Vwars _1x4(3) Sam & cat _1x21(1) 
 #### mois 01-02-2020 
@@ -127,11 +126,10 @@ Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Baby _3x2(1) My dear loser e
 Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
 Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
-
----
 </doc>
-<doc><docno>4</docno>
+
 ## conclu
+<doc><docno>4</docno>
 * conclu 19/09/20 > 
 * conclu 20/09/20 > 
 * conclu 21/09/20 > 
@@ -236,12 +234,10 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * conclu 29/12/20 > From dusk till dawn _2 > 1; 
 * conclu 30/12/20 > From dusk till dawn _2 > 1; 
 * conclu 31/12/20 > 
-
----
 </doc>
-<doc><docno>5</docno>
-## conclu bis
 
+## conclu bis
+<doc><docno>5</docno>
 * concluBis 23/09/20 > 
 * concluBis 24/09/20 > 
 * concluBis 25/09/20 > Unbag _1 > 3; 
@@ -342,5 +338,4 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * concluBis 29/12/20 > From dusk till dawn _2 > 3; 
 * concluBis 30/12/20 > From dusk till dawn _2 > 3; 
 * concluBis 31/12/20 > Ghost runner _1 > 1; From dusk till dawn _2 > 1; 
-
 </doc>

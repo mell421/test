@@ -1,5 +1,5 @@
+Aperçu semaine
 <doc><docno>10</docno>
-## Aperçu semaine
 ### sem 22-04-2019 
 Girl meets world _1x7(2) You vs wild _1x3(1) Samokazem _1x3(1) 
 ### sem 29-04-2019 
@@ -70,11 +70,10 @@ Forever knight _1x7(2)
 Magic for humans _2x2(1) New amsterdam _1x8(1) Forever knight _1x8(1) 
 ### sem 30-12-2019 
 Supergirl _1x9(1) Here and now _1x4(1) 
-
----
 </doc>
+
+Aperçu mois
 <doc><docno>11</docno>
-## Aperçu mois
 ### mois 01-05-2019 
 Girl meets world _1x8(3) You vs wild _1x3(1) Samokazem _1x3(1) 
 ### mois 01-06-2019 
@@ -91,7 +90,4 @@ The politician _1x3(2) Prodigal son _1x2(1) Ahs _9x3(2) Criminal uk _1x2(1) Mill
 Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) The politician _1x5(2) Skam vsg _1x5(1) Prodigal son _1x3(1) Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) Dawson _1x2(1) 
 ### mois 01-12-2019 
 Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 
-
-
-
 </doc>

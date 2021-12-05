@@ -1,23 +1,16 @@
-<doc><docno>6</docno>
 ## Aperçu semaine
-
-
-
----
-</doc>
 <doc><docno>12</docno>
+
+
+
+
+---
+</doc>
+
 ## apercu mois
-
-
-
-
-
-
-
----
-</doc>
 <doc><docno>13</docno>
-## conclu
+
+
 
 
 
@@ -26,8 +19,22 @@
 
 ---
 </doc>
+
+## conclu
 <doc><docno>14</docno>
+
+
+
+
+
+
+
+---
+</doc>
+
 ## conclu bis
+<doc><docno>15</docno>
+
 
 
 
