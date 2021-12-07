@@ -59,5 +59,6 @@ if (VERSION > 3) {
   <input type="button" value="test" onClick="execAppli('date.sh')">
   </script> 
   <script src="js/lastCommit.js"></script>
+  author : @TlgocgzwRk
 </div>
 `)
