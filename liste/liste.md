@@ -469,6 +469,7 @@
 |The love that dare not speak its name||6|||<!--  -->
 |the masked singer ger 5|||||<!--  -->
 |The voice th 7||15|||<!--  -->
+|BT21 original story 1||12?|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -600,7 +601,6 @@
 |wabi game 1||?|||1|<!--  -->
 |the harvest season 1||?|||1|<!--  -->
 |bangkok love stories innocence 1||?|||1|<!--  -->
-|BT21 original story 1||?|||6|<!--  -->
 |BT21 vlog||?|||3|<!--  -->
 |mr lipstick 1||?|||2|<!--  -->
 |ICSYV FR 1||?|||2|<!--  -->

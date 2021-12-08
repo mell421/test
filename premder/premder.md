@@ -127,7 +127,6 @@ Lucifer 4x4
 Bite me 1x2
 Vwars 1x7
 * Qforce 1x1
-Bt21 original story 1x11
 * 7project 1x1
 Camping paradis 12x4
 * Peach of time 1x1
@@ -162,7 +161,6 @@ Mr lipstick 1x2
 * Mr lipstick 1x1
 Bt21 vlog 1x3
 * Bt21 vlog 1x1
-* Bt21 original story 1x1
 Schools out lets date now 1x5
 You never eat alone 1x4
 Unlocked 1x2

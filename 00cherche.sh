@@ -19,7 +19,7 @@ list99=( "Unbag _1" "The voice greece _8" "Dont say no _1" # >= 200
 "Painted with raven _1" "Banana fish _1" # 3-2
 "The voice senior it _2" # 0-1
 #other
-"Bt21 original story _1" "Vwars _1" "Josephine ange gardien _24" "Bite me _1" "Buffy _1" "Lucifer _4" "Qforce _1" 
+"Vwars _1" "Josephine ange gardien _24" "Bite me _1" "Buffy _1" "Lucifer _4" "Qforce _1" 
 "My vampire boyfriend _1" "46 days _1" "Vincenzo _1" "The harvest season _1" "From dusk till dawn _2" "Elite _4" 
 "Koishite akuma _1" "Be love _1" "Camping paradis _12" "Schools out lets date now _1" "You never eat alone _1" "Good singers _1" 
 "Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Glow up _2" "Tokyo ghoul _3" "Control z _2" "Zombie detective _1" 

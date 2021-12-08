@@ -41,10 +41,6 @@ print(moy)
 #---
 ```
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
 ## HISTORIQUE ET PREMDER
 
 ### hist
