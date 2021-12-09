@@ -45,7 +45,6 @@ Baker boys 1x3
 The masked singer 6x11
 Survivor 41x11
 The voice us 21x22
-La mas draga 4x11
 Koh-lanta 27x13
 The voice ger 11x16
 The voice portugal 9x7
@@ -105,7 +104,6 @@ The shipper 1x5
 * Rpdruk 3x1
 * Survivor 41x1
 * The masked singer 6x1
-* La mas draga 4x1
 7project 1x4
 * The big leap 1x1
 * The voice us 21x1
