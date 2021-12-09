@@ -162,7 +162,7 @@ main <- function(text){
 
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"pageappres_3.png",delayW)
+  suppressWarnings(wcDouble(dtm_d,forme,"pageappres_3.png",delayW))
 
 }
 suppressWarnings(main(text))
@@ -182,7 +182,7 @@ main <- function(text){
 
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"pageappressup_3.png",delayW)
+  suppressWarnings(wcDouble(dtm_d,forme,"pageappressup_3.png",delayW))
 
 }
 

@@ -470,6 +470,7 @@
 |the masked singer ger 5|||||<!--  -->
 |The voice th 7||15|||<!--  -->
 |BT21 original story 1||12?|||<!--  -->
+|survivor 11||15|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -659,7 +660,6 @@
 |vanitas no carte 1||24|||2|<!--  -->
 |drag race it 1||6|||2|<!--  -->
 |les engagés 3||3|||1|<!--  -->
-|survivor 11||15|||5|<!--  -->
 |baker boys 1||12|||3|<!--  -->
 |do seu lado 1||?|||4|<!--  -->
 |painted with raven 1||8|||1|<!--  -->

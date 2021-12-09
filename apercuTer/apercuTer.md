@@ -674,6 +674,7 @@
 * The voice th _7
 ### sem 13-12-2021 
 * *insererici*
+* Survivor _11
 * Bt21 original story _1
 ### sem 20-12-2021 
 * *insererici*
@@ -730,7 +731,7 @@
 * Unbag _1
 * Do seu lado _1
 * Incroyable talent _16
-* Survivor _11
+* 
 * Rpdruk _3
 * Les engagés _3
 * The case study of vanitas _1
@@ -846,7 +847,7 @@
 #### mois 01-12-2021 
 *insererici The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici Bt21 original story _1 The voice th _7*
+*insererici Survivor _11 Bt21 original story _1 The voice th _7*
 
 
 

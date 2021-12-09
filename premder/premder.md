@@ -66,9 +66,7 @@ Do seu lado 1x4
 * Do seu lado 1x1
 Incroyable talent 16x6
 * Baker boys 1x1
-Survivor 11x5
 Rpdruk 3x4
-* Survivor 11x1
 * Les engages 3x1
 * Drag race it 1x1
 The case study of vanitas 1x2
