@@ -674,6 +674,7 @@
 * The voice th _7
 ### sem 13-12-2021 
 * *insererici*
+* Alter ego _1
 * Survivor _11
 * Bt21 original story _1
 ### sem 20-12-2021 
@@ -711,7 +712,7 @@
 * Drag race it _1
 * Queen of the universe _1
 * Baker boys _1
-* Alter ego _1
+* 
 * The masked singer _6
 * Survivor _41
 * The voice us _21
@@ -847,7 +848,7 @@
 #### mois 01-12-2021 
 *insererici The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici Survivor _11 Bt21 original story _1 The voice th _7*
+*insererici Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 
 
 

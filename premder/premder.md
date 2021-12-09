@@ -42,7 +42,6 @@ Bad buddy 1x6
 Drag race it 1x3
 * Queen of the universe 1x1
 Baker boys 1x3
-Alter ego 1x10
 The masked singer 6x11
 Survivor 41x11
 The voice us 21x22
@@ -104,7 +103,6 @@ The shipper 1x5
 * The voice greece 8x1
 * Goblin 1x1
 * Rpdruk 3x1
-* Alter ego 1x1
 * Survivor 41x1
 * The masked singer 6x1
 * La mas draga 4x1
