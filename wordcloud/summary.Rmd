@@ -13,8 +13,17 @@ library(vtable)
 summar <- function(i){
   print(i)
   print(z0n(i))
+  # all data
   tab <- st(z0u(i))
   tab
+}
+summar2 <- function(i){
+  print(i)
+  print(z0n(i))
+  # numeric data
+  data_num <- select_if(z0u(i), is.numeric) 
+  tab2 <- st(data_num)
+  tab2
 }
 ```
 
@@ -22,10 +31,11 @@ summar <- function(i){
 [retour](./../index.html)  
 
 <!-- -->
-[MD](./allListe.Rmd)  
-[wordcloud](./wordcloud.html)  
-[allListe](./allListe.html)  
-[sumup](./sumup.html)  
+||||  
+|---|---|---|  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)||  
+|[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
+
 ---
 
 ## SUMMARY
@@ -41,6 +51,10 @@ summar(8)
 summar(9)
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### 1
 ```{r stats1, echo=FALSE}
 summar(10)
@@ -49,11 +63,17 @@ summar(12)
 summar(13)
 summar(14)
 summar(15)
+summar(63)
+summar(64)
 summar(16)
 summar(17)
 summar(18)
-summar(19)
+#summar(19)
 ```
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### 2
 ```{r stats2, echo=FALSE}
@@ -67,7 +87,12 @@ summar(26)
 summar(27)
 summar(28)
 summar(29)
+summar(62)
 ```
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### 3
 ```{r stats3, echo=FALSE}
@@ -82,6 +107,10 @@ summar(37)
 summar(39)
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### 4
 ```{r stats4, echo=FALSE}
 summar(40)
@@ -95,6 +124,10 @@ summar(47)
 #summar(48)
 summar(49)
 ```
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### 5
 ```{r stats5, echo=FALSE}

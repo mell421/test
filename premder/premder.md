@@ -8,65 +8,86 @@
     - [a mettre](#a-mettre)
     - [tisaep all](#tisaep-all)
 
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### a mettre
-* $
-$
+* ici 
 Bangkok love stories innocence 1x2
 An eye for an eye 1x2
 Young royals 1x2
-* --
-Ciwyw 1x1
-Ciwyw 1x3
-Papa and daddy 1x2
-Papa and daddy 1x1
-The masked singer ger 5x2
-Midnight mass 1x2
-Bite sisters 1x2
 Insiders 1x2
-Incroyable talent 16x2
-Dragula 4x2
 Age of the living dead 1x2
-The voice portugal 9x2
-Drag race ca 2x2
-Kieta hatsukoi 1x2
-Young sheldon 5x2
 Goblin 1x2
-Rpdruk 3x2
+Les engages 3x2
 The big leap 1x2
+Queen of the universe 1x2
+Mr cinderella 1x2
+Paint with love 1x2
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### tisaep all
-* $
-$
-* The masked singer ger 5x1
-* Midnight mass 1x1
-The voice ger 11x3
-The voice esp 8x6
-Dals 11x6
-Earthmix space 1x4
-Unbag 1x32
-* Bite sisters 1x1
-Munch 4x2
-* Munch 4x1
+* ici
+_
+The voice senior it _2x2
+Dragula 4x6
+Drag race ca 2x8
+Painted with raven 1x2
+Bad buddy 1x6
+Drag race it 1x3
+* Queen of the universe 1x1
+Baker boys 1x3
+The masked singer 6x11
+Survivor 41x11
+The voice us 21x22
+Koh-lanta 27x13
+The voice ger 11x16
+The voice portugal 9x7
+The voice greece 8x22
+Strictly come dancing 19x20
+Kieta hatsukoi 1x7
+Earthmix space 1x6
+Dexter 9x4
+* Mr cinderella 1x1
+* Paint with love 1x1
+The voice esp 8x11
+Unbag 1x35
+* The voice senior it _2x1
+* Painted with raven 1x1
+Do seu lado 1x4
+* Do seu lado 1x1
+Incroyable talent 16x6
+* Baker boys 1x1
+Rpdruk 3x4
+* Les engages 3x1
+* Drag race it 1x1
+The case study of vanitas 1x2
+* The case study of vanitas 1x1
+Druck 7x3
+* Dexter 9x1
+Banana fish 1x2
+* Banana fish 1x1
+* Druck 7x1
+* Bad buddy 1x1
+Tbbt 11x3
+Aoki vuanpaia no nayami 1x3
+Young sheldon 5x3
+My sweet dear 1x2
+* My sweet dear 1x1
 * Insiders 1x1
-Alter ego 1x6
-The masked singer 6x6
-The voice us 21x10
 * Incroyable talent 16x1
-La mas draga 4x5
 * Dragula 4x1
 * Age of the living dead 1x1
-Koh-lanta 27x8
-Dwts 30x6
 Inhuman condition 1x7
 * Inhuman condition 1x1
 * The voice portugal 9x1
-The voice greece 8x10
-Strictly come dancing 19x8
-The voice bulgarie 8x6
 Survivor au 6x3
 * Survivor au 6x1
-Survivor 41x4
-Aoki vuanpaia no nayami 1x2
 * Aoki vuanpaia no nayami 1x1
 * Drag race ca 2x1
 * Kieta hatsukoi 1x1
@@ -80,21 +101,16 @@ The shipper 1x5
 * The voice greece 8x1
 * Goblin 1x1
 * Rpdruk 3x1
-* Alter ego 1x1
 * Survivor 41x1
 * The masked singer 6x1
-* La mas draga 4x1
 7project 1x4
 * The big leap 1x1
 * The voice us 21x1
-* Dwts 30x1
 * /9-1-1 5x1
 * The voice esp 8x1
 Post mortem 1x3
 * Strictly come dancing 19x1
-* The voice bulgarie 8x1
 * Alice in borderland 1x1
-* Dals 11x1
 Peach of time 1x6
 Josephine ange gardien 24x2
 Buffy 1x7
@@ -102,10 +118,7 @@ Buffy 1x7
 Lucifer 4x4
 Bite me 1x2
 Vwars 1x7
-Survivor 8x3
-* Survivor 8x1
 * Qforce 1x1
-Bt21 original story 1x11
 * 7project 1x1
 Camping paradis 12x4
 * Peach of time 1x1
@@ -140,7 +153,6 @@ Mr lipstick 1x2
 * Mr lipstick 1x1
 Bt21 vlog 1x3
 * Bt21 vlog 1x1
-* Bt21 original story 1x1
 Schools out lets date now 1x5
 You never eat alone 1x4
 Unlocked 1x2

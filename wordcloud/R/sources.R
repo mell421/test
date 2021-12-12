@@ -11,6 +11,7 @@ loadMesSources <- function(){
   source("./R/max.resume.R")
   source("./R/resume.R")
   source("./R/page.R")
+  source("./R/word.R")
 }
 installMesPackages <- function(){
   install.packages("gsheet")

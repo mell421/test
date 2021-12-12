@@ -76,7 +76,9 @@
   - [conclu](#conclu)
   - [conclu bis](#conclu-bis)
 
-
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Aperçu semaine
 #### sem 06-01-2020 
@@ -178,7 +180,9 @@ Ghost runner _1x4(2) Unbag _1x12(1)
 #### sem 28-12-2020 
 Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
 
----
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## apercu mois
 #### mois 01-01-2020 
@@ -206,7 +210,9 @@ Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lak
 #### mois 01-12-2020 
 Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
 
----
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## conclu
 * conclu 19/09/20 > 
@@ -314,7 +320,9 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * conclu 30/12/20 > From dusk till dawn _2 > 1; 
 * conclu 31/12/20 > 
 
----
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## conclu bis
 

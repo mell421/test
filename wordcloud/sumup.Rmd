@@ -3,7 +3,7 @@ title: "summary"
 output:
   html_document:
     df_print: paged
-    toc: true
+    toc: false
 ---
 
 ```{r setup, include = FALSE}
@@ -13,10 +13,17 @@ library(vtable)
 sumup <- function(i){
   print(i)
   print(z0n(i))
+  # all data
   print(summary(z0u(i)))
-  print("--------------------------------")
-  print("--------------------------------")
-  print("--------------------------------")
+  print("------------------------------------")
+}
+sumup2 <- function(i){
+  print(i)
+  print(z0n(i))
+  # numeric data
+  data_num <- select_if(z0u(i), is.numeric) 
+  print(summary(data_num))
+  print("------------------------------------")
 }
 ```
 
@@ -24,10 +31,10 @@ sumup <- function(i){
 [retour](./../index.html)  
 
 <!-- -->
-[MD](./allListe.Rmd)  
-[wordcloud](./wordcloud.html)  
-[allListe](./allListe.html)  
-[summary](./summary.html)  
+||||  
+|---|---|---|  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)||  
+|[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
 ---
 
 ## SUMMARY
@@ -35,49 +42,55 @@ sumup <- function(i){
 ### 0
 ```{r stats0, echo=FALSE}
 for (i in 1:9) {
-  sumup(i)
+  sumup2(i)
 }
 ```
 
 ### 1
 ```{r stats1, echo=FALSE}
-for (i in 10:19) {
-  sumup(i)
+for (i in 10:15) {
+  sumup2(i)
+}
+sumup2(63)
+sumup2(64)
+for (i in 16:18) {
+  sumup2(i)
 }
 ```
 
 ### 2
 ```{r stats2, echo=FALSE}
 for (i in 20:29) {
-  sumup(i)
+  sumup2(i)
 }
+sumup2(62)
 ```
 
 ### 3
 ```{r stats3, echo=FALSE}
 for (i in 30:39) {
-  sumup(i)
+  sumup2(i)
 }
 ```
 
 ### 4
 ```{r stats4, echo=FALSE}
 for (i in 40:49) {
-  sumup(i)
+  sumup2(i)
 }
 ```
 
 ### 5
 ```{r stats5, echo=FALSE}
 for (i in 50:59) {
-  sumup(i)
+  sumup2(i)
 }
 ```
 
 ### 6
 ```{r stats6, echo=FALSE}
 for (i in 60:61) {
-  sumup(i)
+  sumup2(i)
 }
 ```
 
@@ -88,4 +101,5 @@ for (i in 60:61) {
 end_time<-Sys.time()
 total_time <- end_time - begin_time
 print(total_time)
+# begin_time <-Sys.time()
 ```

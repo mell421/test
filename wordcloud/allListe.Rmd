@@ -16,27 +16,30 @@ suppressWarnings(source("./R/sources.R"))
 [retour](./../index.html)  
 
 <!-- -->
-[MD](./allListe.Rmd)  
-[wordcloud](./wordcloud.html)  
-[sumup](./sumup.html)  
-[summary](./summary.html)  
+||||  
+|---|---|---|  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)||  
+|[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
+
 ---
 
-## SUMMARY
 
-### stats
-```{r stats3, echo=FALSE}
-# by(data, data$category, summary)
-# Hmisc::describe(data)
-print("accueil")
+```{r stats3, eval=FALSE, include=FALSE}
+# SUMMARY
+
+# stats
+
+#by(data, data$category, summary)
+#Hmisc::describe(data)
+#a2 <- (st(data))
+#a2
 accue <- data.frame(accueil())
-#summary(accue)
-#Hmisc::describe(accue)
-a2 <- (st(accue))
-a2
+moy <- mean(accue[3])
+print(moy)
+moy <- mean(accue[4])
+print(moy)
+#---
 ```
-
----
 
 ## HISTORIQUE ET PREMDER
 
@@ -67,6 +70,10 @@ data %>% filter(tisaep.all != "")  %>% select(tisaep.all
 ```
 
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## CATEGORIES
 
@@ -120,6 +127,11 @@ data %>% filter(status == "film") %>% select(tisaep,Horodateur)
 ```
 
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## NB
 
 ### nb
@@ -140,6 +152,11 @@ data <- data.frame(aListes())
 ```
 
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## COPIE BY SCRIPT
 
 ### copy
