@@ -675,6 +675,7 @@
 * The voice th _7
 ### sem 13-12-2021 
 * *insererici*
+* The voice bulgarie _8
 * The voice th _6
 * La mas draga _4
 * Alter ego _1
@@ -724,7 +725,7 @@
 * The voice ger _11
 * The voice portugal _9
 * The voice greece _8
-* The voice bulgarie _8
+* 
 * Strictly come dancing _19
 * Kieta hatsukoi _1
 * Earthmix space _1
@@ -851,7 +852,7 @@
 #### mois 01-12-2021 
 *The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
+*insererici The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 #### mois 01-02-2022 
 *insererici*
 

@@ -474,6 +474,7 @@
 |alter ego 1||11|||<!--  -->
 |la mas draga 4||12|||<!--  -->
 |The voice th 6||15|||<!--  -->
+|the voice bulgarie 8||14|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -629,7 +630,6 @@
 |Qforce||10||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->
 |alice in borderland 1||8||||<!--  -->
-|the voice bulgarie 8||?||||<!--  -->
 |Strictly come dancing 19||?||||<!--  -->
 |the voice esp 8||?||||<!--  -->
 |/9-1-1 5||18||||<!--  -->

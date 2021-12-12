@@ -49,7 +49,6 @@ Koh-lanta 27x13
 The voice ger 11x16
 The voice portugal 9x7
 The voice greece 8x22
-The voice bulgarie 8x12
 Strictly come dancing 19x20
 Kieta hatsukoi 1x7
 Earthmix space 1x6
@@ -111,7 +110,6 @@ The shipper 1x5
 * The voice esp 8x1
 Post mortem 1x3
 * Strictly come dancing 19x1
-* The voice bulgarie 8x1
 * Alice in borderland 1x1
 Peach of time 1x6
 Josephine ange gardien 24x2
