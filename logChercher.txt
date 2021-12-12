@@ -31,8 +31,8 @@ carac :  40345 ZZ/Koh-lanta_27.txt
 
 i = The voice ger _11
 ligne :  176 ZZ/Thevoiceger_11.txt
-mot   :  7498 ZZ/Thevoiceger_11.txt
-carac :  43443 ZZ/Thevoiceger_11.txt
+mot   :  7497 ZZ/Thevoiceger_11.txt
+carac :  43432 ZZ/Thevoiceger_11.txt
 
 i = The voice bulgarie _8
 ligne :  132 ZZ/Thevoicebulgarie_8.txt
@@ -226,8 +226,8 @@ carac :  1388 ZZ/Bananafish_1.txt
 
 i = The voice senior it _2
 ligne :  10 ZZ/Thevoiceseniorit_2.txt
-mot   :  497 ZZ/Thevoiceseniorit_2.txt
-carac :  3060 ZZ/Thevoiceseniorit_2.txt
+mot   :  496 ZZ/Thevoiceseniorit_2.txt
+carac :  3049 ZZ/Thevoiceseniorit_2.txt
 
 i = Vwars _1
 ligne :  59 ZZ/Vwars_1.txt
@@ -241,8 +241,8 @@ carac :  3799 ZZ/Josephineangegardien_24.txt
 
 i = Bite me _1
 ligne :  18 ZZ/Biteme_1.txt
-mot   :  546 ZZ/Biteme_1.txt
-carac :  3615 ZZ/Biteme_1.txt
+mot   :  545 ZZ/Biteme_1.txt
+carac :  3604 ZZ/Biteme_1.txt
 
 i = Buffy _1
 ligne :  16 ZZ/Buffy_1.txt

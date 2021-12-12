@@ -41,12 +41,12 @@ carac :  2812 ZZ/Buffy_1.txt
 carac :  2852 ZZ/Zombiedetective_1.txt
 carac :  28639 ZZ/Thevoiceesp_8.txt
 carac :  3038 ZZ/Theuntamed_1.txt
-carac :  3060 ZZ/Thevoiceseniorit_2.txt
+carac :  3049 ZZ/Thevoiceseniorit_2.txt
 carac :  3211 ZZ/Bakerboys_1.txt
 carac :  3279 ZZ/Glowup_2.txt
 carac :  3430 ZZ/Postmortem_1.txt
 carac :  3504 ZZ/Lucifer_4.txt
-carac :  3615 ZZ/Biteme_1.txt
+carac :  3604 ZZ/Biteme_1.txt
 carac :  36275 ZZ/Thevoicebulgarie_8.txt
 carac :  3700 ZZ/Tokyoghoul_3.txt
 carac :  3754 ZZ/Wabishow_1.txt
@@ -55,7 +55,7 @@ carac :  4018 ZZ/Younevereatalone_1.txt
 carac :  40345 ZZ/Koh-lanta_27.txt
 carac :  4109 ZZ/Goodsingers_1.txt
 carac :  4339 ZZ/Dragula_4.txt
-carac :  43443 ZZ/Thevoiceger_11.txt
+carac :  43432 ZZ/Thevoiceger_11.txt
 carac :  4630 ZZ/Theshipper_1.txt
 carac :  4652 ZZ/Doseulado_1.txt
 carac :  5129 ZZ/Youngsheldon_5.txt
@@ -297,11 +297,11 @@ mot   :  434 ZZ/Buffy_1.txt
 mot   :  4415 ZZ/Thevoiceesp_8.txt
 mot   :  483 ZZ/Lucifer_4.txt
 mot   :  492 ZZ/Postmortem_1.txt
-mot   :  497 ZZ/Thevoiceseniorit_2.txt
+mot   :  496 ZZ/Thevoiceseniorit_2.txt
 mot   :  499 ZZ/Glowup_2.txt
 mot   :  526 ZZ/Bakerboys_1.txt
 mot   :  537 ZZ/Josephineangegardien_24.txt
-mot   :  546 ZZ/Biteme_1.txt
+mot   :  545 ZZ/Biteme_1.txt
 mot   :  551 ZZ/Tokyoghoul_3.txt
 mot   :  553 ZZ/Goodsingers_1.txt
 mot   :  5652 ZZ/Thevoicebulgarie_8.txt
@@ -310,7 +310,7 @@ mot   :  609 ZZ/Wabishow_1.txt
 mot   :  636 ZZ/Theshipper_1.txt
 mot   :  6463 ZZ/Koh-lanta_27.txt
 mot   :  685 ZZ/Dragula_4.txt
-mot   :  7498 ZZ/Thevoiceger_11.txt
+mot   :  7497 ZZ/Thevoiceger_11.txt
 mot   :  758 ZZ/Koishiteakuma_1.txt
 mot   :  766 ZZ/Druck_7.txt
 mot   :  778 ZZ/Dexter_9.txt

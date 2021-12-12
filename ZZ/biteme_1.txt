@@ -15,4 +15,4 @@ apercu/apercuglobal.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The ma
 apercu/apercuglobal.md:- sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
 apercu/apercuglobal.md:- sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) Koh-lanta _27x2(1) From dusk till dawn _2x6(1) 
 apercuTer/apercuTer.md:* Bite me _1
-apercuTer/apercuTer.md:*insererici The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
+apercuTer/apercuTer.md:*The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
