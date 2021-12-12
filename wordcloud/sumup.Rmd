@@ -37,6 +37,7 @@ sumup2 <- function(i){
 |[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
 ---
 
+
 ## SUMMARY
 
 ### 0

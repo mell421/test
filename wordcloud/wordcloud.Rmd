@@ -189,6 +189,28 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+### PARS2
+```{r pars2, echo=FALSE}
+text <- data.frame(pars2())
+main <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 pars2")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"pars2_3.png",delayW)
+
+}
+
+suppressWarnings(main(text))
+```
+
+
 ### conclu
 ```{r conclu, echo=FALSE}
 text <- data.frame(aTestConclu())
@@ -325,6 +347,28 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+### PA
+```{r pa, echo=FALSE}
+text <- data.frame(PA())
+main <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 PA")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"pa_3.png",delayW)
+
+}
+
+suppressWarnings(main(text))
+```
+
+
 ### resume
 ```{r resume, echo=FALSE}
 text2 <- data.frame(aTestResume())
@@ -346,6 +390,28 @@ main <- function(text){
 
 suppressWarnings(main(text))
 ```
+
+### affodd
+```{r affodd, echo=FALSE}
+text <- data.frame(affodd())
+main <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 affODD")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"affodd_3.png",delayW)
+
+}
+
+suppressWarnings(main(text))
+```
+
 
 ### timing p1 
 ```{r timing1 , echo=FALSE}
@@ -867,5 +933,4 @@ netw(10)
 end_time2<-Sys.time()
 total_time2 <- end_time2 - begin_time2
 print(total_time2)
-print(total_time+total_time2)
 ```

@@ -173,5 +173,28 @@ pageappres <- function(){
   return(table)
 }
 
+pars2 <- function(){
+  table <- suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=357008918'))
+  table <- table[1:4]
+  table <- data.frame(table)
+  na.omit(table)
+  return(table)
+}
+
+affodd <- function(){
+  table <- suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=958222584'))
+  table <- table[1:41]
+  table <- data.frame(table)
+  na.omit(table)
+  return(table)
+}
+
+PA <- function(){
+  table <- suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=2002465198'))
+  table <- table[1:3]
+  table <- data.frame(table)
+  na.omit(table)
+  return(table)
+}
 
 
