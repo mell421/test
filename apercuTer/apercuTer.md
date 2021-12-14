@@ -664,17 +664,14 @@
 * The voice senior th _1
 * Survivor _10
 ### sem 29-11-2021 
-* *insererici*
 * The masked singer ger _5
 * The love that dare not speak its name _1
 * Dals _11
 * Dwts _30
 * Bite sisters _1
 ### sem 06-12-2021 
-* *insererici*
 * The voice th _7
 ### sem 13-12-2021 
-* *insererici*
 * The voice bulgarie _8
 * The voice th _6
 * La mas draga _4
@@ -683,6 +680,8 @@
 * Bt21 original story _1
 ### sem 20-12-2021 
 * *insererici*
+* Koh-lanta _27
+* Between us special _1
 ### sem 27-12-2021 
 * *insererici*
 ### sem 03-01-2022 
@@ -706,7 +705,6 @@
 * Never too late _1
 * Not me _1
 * 
-* 
 * $ order $
 * The voice senior it _2
 * Dragula _4
@@ -716,16 +714,12 @@
 * Drag race it _1
 * Queen of the universe _1
 * Baker boys _1
-* 
 * The masked singer _6
 * Survivor _41
 * The voice us _21
-* 
-* Koh-lanta _27
 * The voice ger _11
 * The voice portugal _9
 * The voice greece _8
-* 
 * Strictly come dancing _19
 * Kieta hatsukoi _1
 * Earthmix space _1
@@ -736,7 +730,6 @@
 * Unbag _1
 * Do seu lado _1
 * Incroyable talent _16
-* 
 * Rpdruk _3
 * Les engagés _3
 * The case study of vanitas _1
@@ -766,7 +759,6 @@
 * Bite me _1
 * Vwars _1
 * Qforce _1
-* 
 * Camping paradis _12
 * The yearbook _1
 * From dusk till dawn _2
@@ -852,7 +844,7 @@
 #### mois 01-12-2021 
 *The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
+*insererici Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 #### mois 01-02-2022 
 *insererici*
 

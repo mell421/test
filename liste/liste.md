@@ -475,6 +475,8 @@
 |la mas draga 4||12|||<!--  -->
 |The voice th 6||15|||<!--  -->
 |the voice bulgarie 8||14|||<!--  -->
+|Between us special 1|Between us special|6|series|thailande|<!--  -->
+|Koh-Lanta 27||15|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -621,7 +623,6 @@
 |glow up 2||10|||1|<!--  -->
 |josephine ange gardien 24||6|||1|<!--  -->
 |Control z 2||6||||<!--  -->
-|Koh-Lanta 27||?||||<!--  -->
 |post mortem 1||6||||<!--  -->
 |the yearbook||8||||<!--  -->
 |bite me 1||?||||<!--  -->

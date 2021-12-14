@@ -45,7 +45,6 @@ Baker boys 1x3
 The masked singer 6x11
 Survivor 41x11
 The voice us 21x22
-Koh-lanta 27x13
 The voice ger 11x16
 The voice portugal 9x7
 The voice greece 8x22
@@ -125,7 +124,6 @@ Camping paradis 12x4
 * Bite me 1x1
 * The yearbook 1x1
 * Post mortem 1x1
-* Koh-lanta 27x1
 From dusk till dawn 2x5
 Good singers 1x4
 * Dont say no 1x1

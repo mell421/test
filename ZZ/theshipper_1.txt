@@ -3,7 +3,7 @@ aEff/aeff.md:- 03/01/21 - 22* together with me _1{0} the shipper _1{2}
 aEff/aeff.md:- 03/10/21 - 73* strictly come dancing _19{4} the voice greece _8{12} the shipper _1{5} the voice esp _8{5} survivor _41{4} /9-1-1 _5{4} the masked singer _6{3} 
 aEff/aeff.md:- 04/10/21 - 124* strictly come dancing _19{5} the voice greece _8{15} the shipper _1{6} the voice esp _8{6} survivor _41{5} /9-1-1 _5{5} 
 aEff/aeff.md:- 05/10/21 - 166* strictly come dancing _19{7} the voice greece _8{17} the shipper _1{6} the voice esp _8{6} survivor _41{5} 
-aEff/aeff.md:- 06/10/21 - 232* koh-lanta _27{7} the voice us _21{6} strictly come dancing _19{8} the voice greece _8{18} the shipper _1{6} 
+aEff/aeff.md:- 06/10/21 - 232* the voice us _21{6} strictly come dancing _19{8} the voice greece _8{18} the shipper _1{6} 
 aEff/aeff.md:- 26/01/21 - 425* the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
 aEff/aeff.md:- 27/01/21 - 407* the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
 aEff/aeff.md:- 28/01/21 - 376* the shipper _1{3} tien bromance _1{2} 
@@ -11,15 +11,15 @@ aEff/aeff.md:- 29/01/21 - 468* unbag _1{83} the shipper _1{3}
 apercu/apercu20.md:Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) 
 apercu/apercu20.md:Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
 apercu/apercu21.md:- mois 01-02-2021 Be love _1x4(1) Unbag _1x15(2) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Strictly come dancing _19x12(9) The voice greece _8x14(9) Druck _7x2(1) The voice ger _11x6(5) The voice esp _8x8(5) Bad buddy _1x2(1) Unbag _1x34(3) Incroyable talent _16x3(2) The voice us _21x13(8) Koh-lanta _27x10(4) The masked singer _6x8(4) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Survivor _41x6(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Dragula _4x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) Drag race ca _2x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Strictly come dancing _19x12(9) The voice greece _8x14(9) Druck _7x2(1) The voice ger _11x6(5) The voice esp _8x8(5) Bad buddy _1x2(1) Unbag _1x34(3) Incroyable talent _16x3(2) The voice us _21x13(8) The masked singer _6x8(4) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Survivor _41x6(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Dragula _4x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) Drag race ca _2x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- sem 01-02-2021 Be love _1x4(1) Unbag _1x15(1) The shipper _1x5(1) 
 apercu/apercu21.md:- sem 04-01-2021 Together with me _1x2(1) The shipper _1x4(1) Unbag _1x13(1) Ghost runner _1x5(1) Friend zone _1x3(1) 
-apercu/apercu21.md:- sem 04-10-2021 Strictly come dancing _19x5(2) The voice greece _8x7(5) The shipper _1x6(1) The voice esp _8x4(1) Survivor _41x3(1) /9-1-1 _5x3(1) The masked singer _6x4(1) The voice us _21x5(2) Koh-lanta _27x6(1) 
+apercu/apercu21.md:- sem 04-10-2021 Strictly come dancing _19x5(2) The voice greece _8x7(5) The shipper _1x6(1) The voice esp _8x4(1) Survivor _41x3(1) /9-1-1 _5x3(1) The masked singer _6x4(1) The voice us _21x5(2) 
 apercu/apercuglobal.md:- mois 01-02-2021 Be love _1x4(1) Unbag _1x15(2) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
 apercu/apercuglobal.md:- mois 01-08-2020 Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
 apercu/apercuglobal.md:- sem 01-02-2021 Be love _1x4(1) Unbag _1x15(1) The shipper _1x5(1) 
 apercu/apercuglobal.md:- sem 04-01-2021 Together with me _1x2(1) The shipper _1x4(1) Unbag _1x13(1) Ghost runner _1x5(1) Friend zone _1x3(1) 
-apercu/apercuglobal.md:- sem 04-10-2021 Strictly come dancing _19x5(2) The voice greece _8x7(5) The shipper _1x6(1) The voice esp _8x4(1) Survivor _41x3(1) /9-1-1 _5x3(1) The masked singer _6x4(1) The voice us _21x5(2) Koh-lanta _27x6(1) 
+apercu/apercuglobal.md:- sem 04-10-2021 Strictly come dancing _19x5(2) The voice greece _8x7(5) The shipper _1x6(1) The voice esp _8x4(1) Survivor _41x3(1) /9-1-1 _5x3(1) The masked singer _6x4(1) The voice us _21x5(2) 
 apercu/apercuglobal.md:- sem 27-07-2020 Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) 
 apercuTer/apercuTer.md:* The shipper _1
 tab2020.html:      The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) </td>
