@@ -4,6 +4,7 @@ output:
   html_document:
     df_print: paged
     toc: false
+  pdf_document: default
 ---
 ```{r setup, include = FALSE}
 # INSTALL
@@ -70,6 +71,30 @@ main <- function(){
   lines(CopyS$NBactuel,type = "l",col="blue")
 }
 suppressWarnings(main())
+```
+
+### pars0
+```{r pars0, echo = FALSE}
+CopyS <-data.frame(aPARS0())
+dataC <- CopyS[28:42] 
+  
+  plot(CopyS$nbPageTri,main="nb de tisaep",type = "l",col="purple",xlab = "date",ylab = "nb",ylim=c(0,max(50*1.1)))
+  lines(CopyS$conclubis,type = "l",col="red")
+  lines(CopyS$conclu,type = "l",col="black")
+  lines(CopyS$sem,type = "l",col="blue")
+  lines(CopyS$mois,type = "l",col="navy blue")
+  lines(CopyS$eff,type = "l",col="beige")
+  lines(CopyS$eff7,type = "l",col="turquoise")
+  lines(CopyS$eff6r,type = "l",col="magenta")
+  lines(CopyS$premderall,type = "l",col="yellow")
+  lines(CopyS$last48tri,type = "l",col="violet")
+  lines(CopyS$last46,type = "l",col="orange")
+  lines(CopyS$offset3,type = "l",col="grey")
+  lines(CopyS$max,type = "l",col="green")
+  lines(CopyS$nbPage,type = "l",col="pink")
+  lines(CopyS$nbTpsPc,type = "l",col="purple")
+  box()
+  
 ```
 
 ### regression max

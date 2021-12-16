@@ -38,6 +38,7 @@ forme <- "circle"
 
 ## WORDCLOUD
 
+<!-- accueil -->
 ### accueil
 ```{r accueil, echo=FALSE}
 text <- data.frame(accueil())
@@ -59,6 +60,7 @@ tm <- function(text){
 suppressWarnings(tm(text))
 ```
 
+<!-- listDesc -->
 ### en cours
 ```{r encours, echo=FALSE}
 text <- data.frame(listDesc.ec())
@@ -83,6 +85,7 @@ tm <- function(text){
 suppressWarnings(tm(text))
 ```
 
+<!-- accueil -->
 ### recent
 ```{r recent0, echo=FALSE}
 recent <- data.frame(aAccueil())
@@ -105,6 +108,7 @@ tm <- function(text){
 suppressWarnings(tm(text))
 ```
 
+<!-- listDesc -->
 ### termine
 ```{r termine, echo=FALSE}
 text <- data.frame(listDesc.ter())
@@ -128,6 +132,7 @@ tm <- function(text){
 suppressWarnings(tm(text))
 ```
 
+<!-- copy -->
 ### copy
 ```{r copy, echo=FALSE}
 text <- data.frame(copy())
@@ -148,6 +153,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- page app res -->
 ### pageappres
 ```{r pageappres, echo=FALSE}
 text <- data.frame(pageappres())
@@ -168,6 +174,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- page app res sup -->
 ### pageappressup
 ```{r pageappressup, echo=FALSE}
 text <- data.frame(pageappressup())
@@ -189,6 +196,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- page app res sup 2 -->
 ### PARS2
 ```{r pars2, echo=FALSE}
 text <- data.frame(pars2())
@@ -210,6 +218,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- test conclu -->
 ### conclu
 ```{r conclu, echo=FALSE}
 text <- data.frame(aTestConclu())
@@ -233,6 +242,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- test conclu bis -->
 ### conclubis
 ```{r conclubis, echo=FALSE}
 text2 <- data.frame(aTestConcluBis())
@@ -255,6 +265,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- copy -->
 ### sem
 ```{r sem, echo=FALSE}
 text2 <- data.frame(copy.sem())
@@ -277,6 +288,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- copy -->
 ### mois
 ```{r mois, echo=FALSE}
 text2 <- data.frame(copy.mois())
@@ -300,6 +312,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- copy -->
 ### max
 ```{r max, echo=FALSE}
 text2 <- copy.max()
@@ -321,6 +334,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- eff -->
 ### eff
 ```{r eff, echo=FALSE}
 text2 <- aEff()
