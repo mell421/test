@@ -7,7 +7,7 @@
 # nb bis
 list99=( "Unbag _1" "The voice greece _8" "Dont say no _1" # >= 200
 "Strictly come dancing _19" "The voice ger _11" "Peach of time _1" # 199-100
-"The voice esp _8" "The masked singer _6" "Survivor au _6" "Inhuman condition _1" "Kieta hatsukoi _1" # 99-50
+"The voice esp _8" "Survivor au _6" "Inhuman condition _1" "Kieta hatsukoi _1" # 99-50
 # 49-40
 "Tbbt _11" "The voice portugal _9" # 39-30
 "Incroyable talent _16" "Earthmix space _1" "7project _1" "/9-1-1 _5" # 29-20

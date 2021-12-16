@@ -42,7 +42,6 @@ Bad buddy 1x6
 Drag race it 1x3
 * Queen of the universe 1x1
 Baker boys 1x3
-The masked singer 6x11
 The voice ger 11x16
 The voice portugal 9x7
 The voice greece 8x22
@@ -98,7 +97,6 @@ The shipper 1x5
 * The voice greece 8x1
 * Goblin 1x1
 * Rpdruk 3x1
-* The masked singer 6x1
 7project 1x4
 * The big leap 1x1
 * /9-1-1 5x1
