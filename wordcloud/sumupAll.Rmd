@@ -25,8 +25,9 @@ sumup <- function(i){
 <!-- -->
 ||||  
 |---|---|---|  
-|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)||  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)|[graph](./mygraph.html)|  
 |[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
+
 ---
 
 ## SUMMARY
@@ -38,12 +39,20 @@ for (i in 1:9) {
 }
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### 1
 ```{r stats1, echo=FALSE}
 for (i in 10:19) {
   sumup(i)
 }
 ```
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### 2
 ```{r stats2, echo=FALSE}
@@ -52,12 +61,20 @@ for (i in 20:29) {
 }
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### 3
 ```{r stats3, echo=FALSE}
 for (i in 30:39) {
   sumup(i)
 }
 ```
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### 4
 ```{r stats4, echo=FALSE}
@@ -66,6 +83,10 @@ for (i in 40:49) {
 }
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### 5
 ```{r stats5, echo=FALSE}
 for (i in 50:59) {
@@ -73,12 +94,20 @@ for (i in 50:59) {
 }
 ```
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### 6
 ```{r stats6, echo=FALSE}
 for (i in 60:69) {
   sumup(i)
 }
 ```
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### 7
 ```{r stats7, echo=FALSE}

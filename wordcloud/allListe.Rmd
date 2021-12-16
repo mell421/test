@@ -18,8 +18,9 @@ suppressWarnings(source("./R/sources.R"))
 <!-- -->
 ||||  
 |---|---|---|  
-|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)||  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)|[graph](./mygraph.html)|  
 |[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
+
 
 ---
 
