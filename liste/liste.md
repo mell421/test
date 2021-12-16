@@ -477,6 +477,7 @@
 |the voice bulgarie 8||14|||<!--  -->
 |Between us special 1|Between us special|6|series|thailande|<!--  -->
 |Koh-Lanta 27||15|||<!--  -->
+|the voice us 21||26|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -634,7 +635,6 @@
 |Strictly come dancing 19||?||||<!--  -->
 |the voice esp 8||?||||<!--  -->
 |/9-1-1 5||18||||<!--  -->
-|the voice us 21||20||||<!--  -->
 |the big leap 1||10||||<!--  -->
 |the masked singer 6||?||||<!--  -->
 |survivor 41||14||||<!--  -->

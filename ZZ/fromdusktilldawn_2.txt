@@ -16,28 +16,28 @@ aEff/aeff.md:- 05/10/21 (eff) - unbag _1{584} dont say no _1{50} peach of time _
 aEff/aeff.md:- 06/09/21 (eff) - unbag _1{526} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} dont say no _1{13} peach of time _1{13} 
 aEff/aeff.md:- 06/10/21 (eff) - unbag _1{586} dont say no _1{51} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{18} vwars _1{9} strictly come dancing _19{8} 
 aEff/aeff.md:- 07/09/21 (eff) - unbag _1{528} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} peach of time _1{15} elite _4{15} dont say no _1{14} 
-aEff/aeff.md:- 07/10/21 (eff) - unbag _1{588} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} vwars _1{9} the voice us _21{8} 
+aEff/aeff.md:- 07/10/21 (eff) - unbag _1{588} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} vwars _1{9} 
 aEff/aeff.md:- 08/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
 aEff/aeff.md:- 08/09/21 (eff) - unbag _1{530} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} peach of time _1{17} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-aEff/aeff.md:- 08/10/21 (eff) - unbag _1{590} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} the voice us _21{9} vwars _1{9} 
+aEff/aeff.md:- 08/10/21 (eff) - unbag _1{590} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} vwars _1{9} 
 aEff/aeff.md:- 09/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
 aEff/aeff.md:- 09/09/21 (eff) - unbag _1{532} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
 aEff/aeff.md:- 10/09/21 (eff) - unbag _1{534} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
 aEff/aeff.md:- 11/09/21 (eff) - unbag _1{536} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} dont say no _1{14} 
 aEff/aeff.md:- 12/01/21 - unbag _1{58} from dusk till dawn _2{15} ghost runner _1{11} 
 aEff/aeff.md:- 12/09/21 (eff) - unbag _1{538} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} dont say no _1{15} elite _4{15} 
-aEff/aeff.md:- 12/10/21 (eff) - unbag _1{599} dont say no _1{57} peach of time _1{33} the voice greece _8{23} from dusk till dawn _2{20} strictly come dancing _19{11} the voice us _21{11} vwars _1{9} 
+aEff/aeff.md:- 12/10/21 (eff) - unbag _1{599} dont say no _1{57} peach of time _1{33} the voice greece _8{23} from dusk till dawn _2{20} strictly come dancing _19{11} vwars _1{9} 
 aEff/aeff.md:- 13/01/21 - unbag _1{59} from dusk till dawn _2{15} 
 aEff/aeff.md:- 13/09/21 (eff) - unbag _1{540} /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} dont say no _1{17} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 13/10/21 (eff) - unbag _1{601} dont say no _1{58} peach of time _1{33} the voice greece _8{25} from dusk till dawn _2{20} strictly come dancing _19{13} the voice us _21{11} vwars _1{9} 
+aEff/aeff.md:- 13/10/21 (eff) - unbag _1{601} dont say no _1{58} peach of time _1{33} the voice greece _8{25} from dusk till dawn _2{20} strictly come dancing _19{13} vwars _1{9} 
 aEff/aeff.md:- 14/09/21 (eff) - unbag _1{542} /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 14/10/21 (eff) - unbag _1{603} dont say no _1{59} peach of time _1{33} the voice greece _8{27} from dusk till dawn _2{20} strictly come dancing _19{15} the voice us _21{13} vwars _1{9} 
+aEff/aeff.md:- 14/10/21 (eff) - unbag _1{603} dont say no _1{59} peach of time _1{33} the voice greece _8{27} from dusk till dawn _2{20} strictly come dancing _19{15} vwars _1{9} 
 aEff/aeff.md:- 15/09/21 (eff) - unbag _1{544} /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 15/10/21 (eff) - unbag _1{605} dont say no _1{60} peach of time _1{33} the voice greece _8{29} from dusk till dawn _2{20} strictly come dancing _19{16} the voice us _21{15} vwars _1{9} 
+aEff/aeff.md:- 15/10/21 (eff) - unbag _1{605} dont say no _1{60} peach of time _1{33} the voice greece _8{29} from dusk till dawn _2{20} strictly come dancing _19{16} vwars _1{9} 
 aEff/aeff.md:- 16/09/21 (eff) - unbag _1{546} /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} the voice greece _8{31} from dusk till dawn _2{20} strictly come dancing _19{18} the voice us _21{17} vwars _1{9} 
+aEff/aeff.md:- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} the voice greece _8{31} from dusk till dawn _2{20} strictly come dancing _19{18} vwars _1{9} 
 aEff/aeff.md:- 17/09/21 (eff) - unbag _1{548} /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} the voice greece _8{33} peach of time _1{33} from dusk till dawn _2{20} strictly come dancing _19{19} the voice us _21{19} vwars _1{9} camping paradis _12{8} 
+aEff/aeff.md:- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} the voice greece _8{33} peach of time _1{33} from dusk till dawn _2{20} strictly come dancing _19{19} vwars _1{9} camping paradis _12{8} 
 aEff/aeff.md:- 18/09/21 (eff) - unbag _1{550} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 19/09/21 (eff) - unbag _1{552} /46 days _1{46} peach of time _1{27} dont say no _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 20/09/21 (eff) - unbag _1{555} /46 days _1{46} peach of time _1{29} dont say no _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
