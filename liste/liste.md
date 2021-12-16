@@ -478,6 +478,7 @@
 |Between us special 1|Between us special|6|series|thailande|<!--  -->
 |Koh-Lanta 27||15|||<!--  -->
 |the voice us 21||26|||<!--  -->
+|survivor 41||14|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -637,7 +638,6 @@
 |/9-1-1 5||18||||<!--  -->
 |the big leap 1||10||||<!--  -->
 |the masked singer 6||?||||<!--  -->
-|survivor 41||14||||<!--  -->
 |rpdruk 3||10||||<!--  -->
 |goblin 1||16|||1|<!--  -->
 |the voice greece 8||?||||<!--  -->
