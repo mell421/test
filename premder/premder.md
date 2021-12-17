@@ -36,7 +36,6 @@ Paint with love 1x2
 _
 The voice senior it _2x2
 Dragula 4x6
-Drag race ca 2x8
 Painted with raven 1x2
 Bad buddy 1x6
 Drag race it 1x3
@@ -85,7 +84,6 @@ Inhuman condition 1x7
 Survivor au 6x3
 * Survivor au 6x1
 * Aoki vuanpaia no nayami 1x1
-* Drag race ca 2x1
 * Kieta hatsukoi 1x1
 /9-1-1 5x3
 Love area 1x2

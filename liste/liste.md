@@ -481,6 +481,7 @@
 |survivor 41||14|||<!--  -->
 |the masked singer 6||13|||<!--  -->
 |deadwater fell 1||4|||<!--  -->
+|drag race ca 2||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -646,7 +647,6 @@
 |the voice ger 11|||||0|<!--  -->
 |love area 1|||||2|<!--  -->
 |kieta hatsukoi 1|||||2|<!--  -->
-|drag race ca 2|||||1|<!--  -->
 |aoki vuanpaia no nayami 1|||||2|<!--  -->
 |survivor au 6||25|||3|<!--  -->
 |the voice portugal 9|||||3|<!--  -->

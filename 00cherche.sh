@@ -12,7 +12,7 @@ list99=( "Unbag _1" "The voice greece _8" "Dont say no _1" # >= 200
 "Tbbt _11" "The voice portugal _9" # 39-30
 "Incroyable talent _16" "Earthmix space _1" "7project _1" "/9-1-1 _5" # 29-20
 "Bad buddy _1" "The shipper _1" "Rpdruk _3" "Druck _7" # 19-15
-"Drag race ca _2" "Aoki vuanpaia no nayami _1" "Young sheldon _5" "Dexter _9" "The case study of vanitas _1" "Post mortem _1" # 14-10
+"Aoki vuanpaia no nayami _1" "Young sheldon _5" "Dexter _9" "The case study of vanitas _1" "Post mortem _1" # 14-10
 # 9-8
 "My sweet dear _1" "Love area _1" "Drag race it _1" "Do seu lado _1" "Goblin _1" # 7-6
 "Baker boys _1" "Les engages _3" "Age of the living dead _1" "Insiders _1" "Dragula _4" "The big leap _1" "Alice in borderland _1" # 5-4
