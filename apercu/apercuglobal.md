@@ -143,11 +143,11 @@
 - sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
 - sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 - sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
-- sem 20-09-2021 Post mortem _1x4(1) Strictly come dancing _19x2(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
-- sem 27-09-2021 The voice greece _8x2(1) Goblin _1x2(1) Strictly come dancing _19x3(1) The voice esp _8x3(2) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
-- sem 04-10-2021 Strictly come dancing _19x5(2) The voice greece _8x7(5) The shipper _1x6(1) The voice esp _8x4(1) /9-1-1 _5x3(1) 
-- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) The voice esp _8x5(1) 
-- sem 18-10-2021 The voice portugal _9x2(1) The voice greece _8x11(2) Strictly come dancing _19x9(2) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) The voice esp _8x6(1) The voice ger _11x3(1) Kieta hatsukoi _1x2(1) 
+- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
+- sem 27-09-2021 The voice greece _8x2(1) Goblin _1x2(1) The voice esp _8x3(2) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
+- sem 04-10-2021 The voice greece _8x7(5) The shipper _1x6(1) The voice esp _8x4(1) /9-1-1 _5x3(1) 
+- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) The voice greece _8x9(2) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) The voice esp _8x5(1) 
+- sem 18-10-2021 The voice portugal _9x2(1) The voice greece _8x11(2) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) The voice esp _8x6(1) The voice ger _11x3(1) Kieta hatsukoi _1x2(1) 
 
 
 
@@ -191,7 +191,7 @@
 - mois 01-07-2021 Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 - mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 - mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-- mois 01-10-2021 /9-1-1 _5x3(2) The voice greece _8x5(4) Goblin _1x2(1) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+- mois 01-10-2021 /9-1-1 _5x3(2) The voice greece _8x5(4) Goblin _1x2(1) The voice esp _8x3(2) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 
 
 
@@ -584,7 +584,7 @@
 * conclu 01/10/21 = Dont say no _1 > 2; The voice greece _8 > 2; /9-1-1 _5 > 2; 
 * conclu 02/10/21 = The voice greece _8 > 3; Unbag _1 > 3; Dont say no _1 > 2; The voice esp _8 > 1; 
 * conclu 03/10/21 = The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 2; 
-* conclu 04/10/21 = The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 1; Strictly come dancing _19 > 1; 
+* conclu 04/10/21 = The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 1; 
 * conclu 05/10/21 = Unbag _1 > 3; 
 * conclu 06/10/21 = Unbag _1 > 3; 
 * conclu 07/10/21 = Unbag _1 > 3; 
@@ -592,14 +592,14 @@
 * conclu 09/10/21 = Unbag _1 > 3; 
 * conclu 10/10/21 = Unbag _1 > 6; 
 * conclu 11/10/21 = Unbag _1 > 6; The voice greece _8 > 1; 
-* conclu 12/10/21 = Unbag _1 > 6; The voice greece _8 > 4; Strictly come dancing _19 > 2; 
-* conclu 13/10/21 = Unbag _1 > 6; The voice greece _8 > 3; Strictly come dancing _19 > 1; 
+* conclu 12/10/21 = Unbag _1 > 6; The voice greece _8 > 4; 
+* conclu 13/10/21 = Unbag _1 > 6; The voice greece _8 > 3; 
 * conclu 14/10/21 = Unbag _1 > 6; The voice greece _8 > 1; 
-* conclu 15/10/21 = Unbag _1 > 6; Dont say no _1 > 2; The voice greece _8 > 1; Strictly come dancing _19 > 1; 
+* conclu 15/10/21 = Unbag _1 > 6; Dont say no _1 > 2; The voice greece _8 > 1; 
 * conclu 16/10/21 = Unbag _1 > 6; Dont say no _1 > 2; The voice ger _11 > 2; The voice greece _8 > 1; 
-* conclu 17/10/21 = Unbag _1 > 6; The voice greece _8 > 5; Strictly come dancing _19 > 3; Dont say no _1 > 2; Aoki vuanpaia no nayami _1 > 1; 
-* conclu 18/10/21 = The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Strictly come dancing _19 > 1; 
-* conclu 19/10/21 = The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Strictly come dancing _19 > 1; 
+* conclu 17/10/21 = Unbag _1 > 6; The voice greece _8 > 5; Dont say no _1 > 2; Aoki vuanpaia no nayami _1 > 1; 
+* conclu 18/10/21 = The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
+* conclu 19/10/21 = The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
 * conclu 20/10/21 = The voice greece _8 > 4; Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; Dont say no _1 > 1; 
 * conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; The voice greece _8 > 2; Survivor au _6 > 2; Dont say no _1 > 1; 
 * conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; The voice greece _8 > 2; Survivor au _6 > 2; Dont say no _1 > 1; 
@@ -986,7 +986,7 @@
 * concluBis 23/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
 * concluBis 24/09/21 = Unbag _1 > 5; Dont say no _1 > 2; 
 * concluBis 25/09/21 = Unbag _1 > 5; 
-* concluBis 26/09/21 = Dont say no _1 > 6; Unbag _1 > 5; Strictly come dancing _19 > 2; 
+* concluBis 26/09/21 = Dont say no _1 > 6; Unbag _1 > 5; 
 * concluBis 27/09/21 = Unbag _1 > 5; Dont say no _1 > 3; The voice esp _8 > 1; 
 * concluBis 28/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; 
 * concluBis 29/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; 
@@ -994,26 +994,26 @@
 * concluBis 01/10/21 = Dont say no _1 > 4; The voice greece _8 > 4; /9-1-1 _5 > 4; 
 * concluBis 02/10/21 = The voice greece _8 > 5; Unbag _1 > 5; Dont say no _1 > 4; The voice esp _8 > 3; 
 * concluBis 03/10/21 = The voice greece _8 > 8; Unbag _1 > 5; Dont say no _1 > 4; 
-* concluBis 04/10/21 = The voice greece _8 > 9; Unbag _1 > 5; Dont say no _1 > 3; Strictly come dancing _19 > 3; 
-* concluBis 05/10/21 = Unbag _1 > 5; Dont say no _1 > 2; The voice greece _8 > 2; Strictly come dancing _19 > 2; 
+* concluBis 04/10/21 = The voice greece _8 > 9; Unbag _1 > 5; Dont say no _1 > 3; 
+* concluBis 05/10/21 = Unbag _1 > 5; Dont say no _1 > 2; The voice greece _8 > 2; 
 * concluBis 06/10/21 = Unbag _1 > 5; Dont say no _1 > 2; The voice greece _8 > 2; 
 * concluBis 07/10/21 = Unbag _1 > 5; Dont say no _1 > 1; 
 * concluBis 08/10/21 = Unbag _1 > 5; Dont say no _1 > 1; 
 * concluBis 09/10/21 = Unbag _1 > 5; 
-* concluBis 10/10/21 = Unbag _1 > 10; Dont say no _1 > 2; The voice greece _8 > 2; Strictly come dancing _19 > 1; 
-* concluBis 11/10/21 = Unbag _1 > 10; The voice greece _8 > 4; Dont say no _1 > 2; Strictly come dancing _19 > 2; 
-* concluBis 12/10/21 = Unbag _1 > 10; The voice greece _8 > 9; Strictly come dancing _19 > 6; Dont say no _1 > 4; Love area _1 > 1; 
-* concluBis 13/10/21 = Unbag _1 > 10; The voice greece _8 > 8; Dont say no _1 > 4; Strictly come dancing _19 > 4; 
-* concluBis 14/10/21 = Unbag _1 > 10; Dont say no _1 > 4; The voice greece _8 > 4; Strictly come dancing _19 > 3; 
-* concluBis 15/10/21 = Unbag _1 > 10; Dont say no _1 > 6; The voice greece _8 > 6; Strictly come dancing _19 > 5; Forever knight _1 > 1; 
-* concluBis 16/10/21 = Unbag _1 > 10; Dont say no _1 > 6; The voice greece _8 > 4; The voice ger _11 > 4; Strictly come dancing _19 > 3; Forever knight _1 > 1; 
-* concluBis 17/10/21 = Unbag _1 > 10; The voice greece _8 > 10; Strictly come dancing _19 > 7; Dont say no _1 > 6; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
-* concluBis 18/10/21 = The voice greece _8 > 11; Dont say no _1 > 7; Strictly come dancing _19 > 6; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-* concluBis 19/10/21 = The voice greece _8 > 11; Dont say no _1 > 7; Strictly come dancing _19 > 6; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-* concluBis 20/10/21 = The voice greece _8 > 9; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; Strictly come dancing _19 > 1; 
-* concluBis 21/10/21 = Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; Strictly come dancing _19 > 1; 
-* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Dont say no _1 > 3; Strictly come dancing _19 > 1; 
-* concluBis 23/10/21 = Unbag _1 > 10; The voice greece _8 > 7; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; Strictly come dancing _19 > 1; 
+* concluBis 10/10/21 = Unbag _1 > 10; Dont say no _1 > 2; The voice greece _8 > 2; 
+* concluBis 11/10/21 = Unbag _1 > 10; The voice greece _8 > 4; Dont say no _1 > 2; 
+* concluBis 12/10/21 = Unbag _1 > 10; The voice greece _8 > 9; Dont say no _1 > 4; Love area _1 > 1; 
+* concluBis 13/10/21 = Unbag _1 > 10; The voice greece _8 > 8; Dont say no _1 > 4; 
+* concluBis 14/10/21 = Unbag _1 > 10; Dont say no _1 > 4; The voice greece _8 > 4; 
+* concluBis 15/10/21 = Unbag _1 > 10; Dont say no _1 > 6; The voice greece _8 > 6; Forever knight _1 > 1; 
+* concluBis 16/10/21 = Unbag _1 > 10; Dont say no _1 > 6; The voice greece _8 > 4; The voice ger _11 > 4; Forever knight _1 > 1; 
+* concluBis 17/10/21 = Unbag _1 > 10; The voice greece _8 > 10; Dont say no _1 > 6; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
+* concluBis 18/10/21 = The voice greece _8 > 11; Dont say no _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
+* concluBis 19/10/21 = The voice greece _8 > 11; Dont say no _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
+* concluBis 20/10/21 = The voice greece _8 > 9; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; 
+* concluBis 21/10/21 = Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; 
+* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Dont say no _1 > 3; 
+* concluBis 23/10/21 = Unbag _1 > 10; The voice greece _8 > 7; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; 
 
 
 

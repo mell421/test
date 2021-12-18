@@ -44,7 +44,6 @@ Dragula 4x9
 The voice greece 8x26
 The voice ger 11x18
 The voice portugal 9x9
-Strictly come dancing 19x24
 Dexter 9x6
 5515 never too late 1x3
 * Not me 1x1
@@ -107,7 +106,6 @@ The shipper 1x5
 * /9-1-1 5x1
 * The voice esp 8x1
 Post mortem 1x3
-* Strictly come dancing 19x1
 * Alice in borderland 1x1
 Peach of time 1x6
 Josephine ange gardien 24x2

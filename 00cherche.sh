@@ -5,7 +5,7 @@
 
 
 # nb bis
-list99=( "Unbag _1" "The voice greece _8" "Strictly come dancing _19" "Dont say no _1" # >= 200
+list99=( "Unbag _1" "The voice greece _8" "Dont say no _1" # >= 200
 "The voice ger _11" "The voice esp _8" "Peach of time _1" # 199-100
 "Kieta hatsukoi _1" "Inhuman condition _1" "Survivor au _6" "Dragula _4" "The voice portugal _9" # 99-50
 "Incroyable talent _16" # 49-40
@@ -33,7 +33,7 @@ listAsc=(
 # 2
 "Bad buddy _1" "Painted with raven _1" "Aggretsuko _4" "Queen of the universe _1" "Incroyable talent _16" 
 # 3
-"Dragula _4" "The voice greece _8" "The voice ger _11" "The voice portugal _9" "Strictly come dancing _19" 
+"Dragula _4" "The voice greece _8" "The voice ger _11" "The voice portugal _9" 
 # 4
 "Dexter _9" "5515 never too late _1" "Not me _1" "Mr cinderella _1" "The voice esp _8" 
 # 5
@@ -66,6 +66,17 @@ listAsc=(
 "Warper series _1" "Romantic blue _1" "Friend zone _1" "Together with me _1" "Ghost runner _1" 
 )
 
+listAV=( 
+# dec
+"The player _1" "The voice kids uk _5" "Lego masters fr _2" "The voice be _10" 
+# jan
+"The masked singer uk _3" "/9-1-1 lone star _3" "I can see your voice _2" "Ninja warrior _6" "The voice nl _12" "The voice no _7" "Rpdr _14" "Rpdru _14" "Rainbow prince _1" 
+# fev
+"Asc _1" 
+# mar
+"Survivor _42" 
+# avr
+"" "" "" "" "" )
 
 listOld=( "Capture lover _1" "Lakan _1" "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" 
 "Blood _1" "Swap test _1" "The stranded _1" "Friend forever _1" "Boys lockdown _1" )
