@@ -5,33 +5,70 @@
 
 
 # nb bis
-list99=( "Unbag _1" "The voice greece _8" "Dont say no _1" # >= 200
-"Strictly come dancing _19" "The voice ger _11" "Peach of time _1" # 199-100
-"The voice esp _8" "Survivor au _6" "Inhuman condition _1" "Kieta hatsukoi _1" # 99-50
-# 49-40
-"Tbbt _11" "The voice portugal _9" # 39-30
-"Incroyable talent _16" "Earthmix space _1" "7project _1" "/9-1-1 _5" # 29-20
-"Bad buddy _1" "The shipper _1" "Rpdruk _3" "Druck _7" # 19-15
-"Aoki vuanpaia no nayami _1" "Young sheldon _5" "Dexter _9" "The case study of vanitas _1" "Post mortem _1" # 14-10
-# 9-8
-"My sweet dear _1" "Love area _1" "Drag race it _1" "Do seu lado _1" "Goblin _1" # 7-6
-"Baker boys _1" "Les engages _3" "Age of the living dead _1" "Insiders _1" "Dragula _4" "The big leap _1" "Alice in borderland _1" # 5-4
-"Painted with raven _1" "Banana fish _1" # 3-2
-"The voice senior it _2" # 0-1
+list99=( "Unbag _1" "The voice greece _8" "Strictly come dancing _19" "Dont say no _1" # >= 200
+"The voice ger _11" "The voice esp _8" "Peach of time _1" # 199-100
+"Kieta hatsukoi _1" "Inhuman condition _1" "Survivor au _6" "Dragula _4" "The voice portugal _9" # 99-50
+"Incroyable talent _16" # 49-40
+"Tbbt _11" "Rpdruk _3" "Earthmix space _1" "Camping paradis _12" "Bad buddy _1" # 39-30
+"Dexter _9" "Do seu lado _1" "5515 never too late _1" "7project _1" "/9-1-1 _5" # 29-20
+"Painted with raven _1" "The shipper _1" "Druck _7" "Paint with love _1" # 19-15
+"The voice senior it _2" "Aoki vuanpaia no nayami _1" "Queen of the universe _1" "Drag race it _1" "Young sheldon _5" "Mr cinderella _1" "The case study of vanitas _1" "Baker boys _1" "Post mortem _1" # 14-10
+"Unlocked _1" # 9-8
+"My sweet dear _1" "Love area _1" "Not me _1" "Les engages _3" "Goblin _1" # 7-6
+"Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" # 5-4
+"Aggretsuko _4" "District z _2" "Banana fish _1" # 3-2
+"F4 thailand _1" # 0-1
 #other
-"Vwars _1" "Josephine ange gardien _24" "Bite me _1" "Buffy _1" "Lucifer _4" "Qforce _1" 
-"My vampire boyfriend _1" "46 days _1" "Vincenzo _1" "The harvest season _1" "From dusk till dawn _2" "Elite _4" 
-"Koishite akuma _1" "Be love _1" "Camping paradis _12" "Schools out lets date now _1" "You never eat alone _1" "Good singers _1" 
-"Dark blue kiss _1" "Bt21 vlog _1" "Wabi show _1" "Glow up _2" "Tokyo ghoul _3" "Control z _2" "Zombie detective _1" 
-"I can see your voice fr _1" "Mr lipstick _1" "Ben x jim _1" "Unlocked _1" "The untamed _1" "Young royals _1" "Tien bromance _1" 
-"The yearbook _1" "Slam dance _1" "Siew sum noi _1" "An eye for an eye _1" "Bangkok love stories innocence _1" )
+"Josephine ange gardien _24" "Buffy _1" "Lucifer _4" "Bite me _1" "Vwars _1" 
+"Qforce _1" "The yearbook _1" "From dusk till dawn _2" "Good singers _1" "Control z _2" 
+"46 days _1" "Glow up _2" "Zombie detective _1" "Young royals _1" "Siew sum noi _1" 
+"Elite _4" "Dark blue kiss _1" "Vincenzo _1" "An eye for an eye _1" "I can see your voice fr _1" 
+"Mr lipstick _1" "Bt21 vlog _1" "Schools out lets date now _1" "You never eat alone _1" "My vampire boyfriend _1" 
+"Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" "Wabi show _1" "The untamed _1" 
+"Slam dance _1" "Be love _1" "Tien bromance _1" "Ben x jim _1" "Koishite akuma _1" )
 
-listOld1=( "" )
+listAsc=( 
+# 1
+"F4 thailand _1" "The voice senior it _2" "Unlocked _1" "Paint with love _1" "Earthmix space _1" 
+# 2
+"Bad buddy _1" "Painted with raven _1" "Aggretsuko _4" "Queen of the universe _1" "Incroyable talent _16" 
+# 3
+"Dragula _4" "The voice greece _8" "The voice ger _11" "The voice portugal _9" "Strictly come dancing _19" 
+# 4
+"Dexter _9" "5515 never too late _1" "Not me _1" "Mr cinderella _1" "The voice esp _8" 
+# 5
+"Unbag _1" "Do seu lado _1" "Camping paradis _12" "Rpdruk _3" "District z _2" 
+# 6
+"Drag race it _1" "Baker boys _1" "Kieta hatsukoi _1" "Les engages _3" "The case study of vanitas _1" 
+# 7
+"Druck _7" "Banana fish _1" "Tbbt _11" "Aoki vuanpaia no nayami _1" "Young sheldon _5" 
+# 8
+"My sweet dear _1" "Insiders _1" "Age of the living dead _1" "Inhuman condition _1" "Survivor au _6" 
+# 9
+"/9-1-1 _5" "Love area _1" "Dont say no _1" "The shipper _1" "Goblin _1" 
+# 10
+"7project _1" "The big leap _1" "Post mortem _1" "Alice in borderland _1" "Peach of time _1" 
+# 11
+"Josephine ange gardien _24" "Buffy _1" "Lucifer _4" "Bite me _1" "Vwars _1" 
+# 12
+"Qforce _1" "The yearbook _1" "From dusk till dawn _2" "Good singers _1" "Control z _2" 
+# 13
+"46 days _1" "Glow up _2" "Zombie detective _1" "Young royals _1" "Siew sum noi _1" 
+# 14
+"Elite _4" "Dark blue kiss _1" "Vincenzo _1" "An eye for an eye _1" "I can see your voice fr _1" 
+# 15
+"Mr lipstick _1" "Bt21 vlog _1" "Schools out lets date now _1" "You never eat alone _1" "My vampire boyfriend _1" 
+# 16
+"Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" "Wabi show _1" "The untamed _1" 
+# 17
+"Slam dance _1" "Be love _1" "Tien bromance _1" "Ben x jim _1" "Koishite akuma _1" 
+# 18
+"Warper series _1" "Romantic blue _1" "Friend zone _1" "Together with me _1" "Ghost runner _1" 
+)
 
 
-listOld=( "Warper series _1" "Romantic blue _1" "Friend zone _1" "Together with me _1" "Ghost runner _1" "Capture lover _1" 
-"Lakan _1" "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" "Blood _1" "Swap test _1" "The stranded _1" 
-"Friend forever _1" "Boys lockdown _1" )
+listOld=( "Capture lover _1" "Lakan _1" "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" 
+"Blood _1" "Swap test _1" "The stranded _1" "Friend forever _1" "Boys lockdown _1" )
 
 echo "" > logChercher.txt
 for i in "${list99[@]}"

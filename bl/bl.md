@@ -260,6 +260,7 @@
 |Squid game|squid game|9|serie(***)|corée|<!--  -->
 |see you after quarantine|see you after quarantine|10|serie|taiwan/japon|<!--  -->
 |the tasty florida|the tasty florida|8|serie|corée|<!--  -->
+|Love is science bl cut|Love is science bl cut|20|series|taiwan|<!--  -->
 |friend or lover|friend or lover|5|serie|taiwan|              <!-- 128 -->
 |bite sisters|bite sisters|10|series(***)|corée|<!--  -->
 |boy meets boy 2008|boy meets boy 2008|1|cm|corée|<!--  -->
@@ -268,7 +269,6 @@
 |my personnal trainer|my personnal trainer|1|cm|corée|<!--  -->
 |The love that dare not speak its name|The love that dare not speak its name|6|serie|hong kong|<!--  -->
 |Between us special|Between us special|6|series|thailande|<!--  -->
-||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
