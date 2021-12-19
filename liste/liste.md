@@ -487,6 +487,8 @@
 |drag race ca 2||10|||<!--  -->
 |Strictly come dancing 19||25|||<!--  -->
 |the voice esp 8||13|||<!--  -->
+|the voice greece 8||28|||<!--  -->
+|the voice ger 11||19|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -643,9 +645,7 @@
 |the big leap 1||10||||<!--  -->
 |rpdruk 3||10||||<!--  -->
 |goblin 1||16|||1|<!--  -->
-|the voice greece 8||?||||<!--  -->
 |young sheldon 5||?|||3|<!--  -->
-|the voice ger 11|||||0|<!--  -->
 |love area 1|||||2|<!--  -->
 |kieta hatsukoi 1|||||2|<!--  -->
 |aoki vuanpaia no nayami 1|||||2|<!--  -->

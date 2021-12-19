@@ -41,8 +41,6 @@ Painted with raven 1x4
 Queen of the universe 1x4
 Incroyable talent 16x8
 Dragula 4x9
-The voice greece 8x26
-The voice ger 11x18
 The voice portugal 9x9
 Dexter 9x6
 5515 never too late 1x3
@@ -94,10 +92,8 @@ Survivor au 6x3
 Love area 1x2
 * Love area 1x1
 Dont say no 1x10
-* The voice ger 11x1
 * Young sheldon 5x1
 The shipper 1x5
-* The voice greece 8x1
 * Goblin 1x1
 * Rpdruk 3x1
 7project 1x4

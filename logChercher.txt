@@ -1,93 +1,83 @@
 
 i = Unbag _1
 ligne :  1959 ZZ/Unbag_1.txt
-mot   :  26383 ZZ/Unbag_1.txt
-carac :  170513 ZZ/Unbag_1.txt
-
-i = The voice greece _8
-ligne :  304 ZZ/Thevoicegreece_8.txt
-mot   :  7425 ZZ/Thevoicegreece_8.txt
-carac :  42801 ZZ/Thevoicegreece_8.txt
+mot   :  24431 ZZ/Unbag_1.txt
+carac :  161573 ZZ/Unbag_1.txt
 
 i = Dont say no _1
 ligne :  302 ZZ/Dontsayno_1.txt
-mot   :  6802 ZZ/Dontsayno_1.txt
-carac :  39726 ZZ/Dontsayno_1.txt
-
-i = The voice ger _11
-ligne :  166 ZZ/Thevoiceger_11.txt
-mot   :  4541 ZZ/Thevoiceger_11.txt
-carac :  26663 ZZ/Thevoiceger_11.txt
+mot   :  5706 ZZ/Dontsayno_1.txt
+carac :  34398 ZZ/Dontsayno_1.txt
 
 i = Peach of time _1
 ligne :  137 ZZ/Peachoftime_1.txt
-mot   :  2956 ZZ/Peachoftime_1.txt
-carac :  17934 ZZ/Peachoftime_1.txt
+mot   :  2828 ZZ/Peachoftime_1.txt
+carac :  17165 ZZ/Peachoftime_1.txt
 
 i = Kieta hatsukoi _1
 ligne :  65 ZZ/Kietahatsukoi_1.txt
-mot   :  1810 ZZ/Kietahatsukoi_1.txt
-carac :  11551 ZZ/Kietahatsukoi_1.txt
+mot   :  1274 ZZ/Kietahatsukoi_1.txt
+carac :  8701 ZZ/Kietahatsukoi_1.txt
 
 i = Inhuman condition _1
 ligne :  69 ZZ/Inhumancondition_1.txt
-mot   :  1928 ZZ/Inhumancondition_1.txt
-carac :  11749 ZZ/Inhumancondition_1.txt
+mot   :  1472 ZZ/Inhumancondition_1.txt
+carac :  9298 ZZ/Inhumancondition_1.txt
 
 i = Survivor au _6
 ligne :  79 ZZ/Survivorau_6.txt
-mot   :  2232 ZZ/Survivorau_6.txt
-carac :  13357 ZZ/Survivorau_6.txt
+mot   :  1732 ZZ/Survivorau_6.txt
+carac :  10683 ZZ/Survivorau_6.txt
 
 i = Dragula _4
 ligne :  14 ZZ/Dragula_4.txt
-mot   :  478 ZZ/Dragula_4.txt
-carac :  3058 ZZ/Dragula_4.txt
+mot   :  402 ZZ/Dragula_4.txt
+carac :  2648 ZZ/Dragula_4.txt
 
 i = The voice portugal _9
 ligne :  40 ZZ/Thevoiceportugal_9.txt
-mot   :  1100 ZZ/Thevoiceportugal_9.txt
-carac :  7334 ZZ/Thevoiceportugal_9.txt
+mot   :  816 ZZ/Thevoiceportugal_9.txt
+carac :  5694 ZZ/Thevoiceportugal_9.txt
 
 i = Incroyable talent _16
 ligne :  31 ZZ/Incroyabletalent_16.txt
-mot   :  885 ZZ/Incroyabletalent_16.txt
-carac :  5914 ZZ/Incroyabletalent_16.txt
+mot   :  705 ZZ/Incroyabletalent_16.txt
+carac :  4896 ZZ/Incroyabletalent_16.txt
 
 i = Tbbt _11
 ligne :  41 ZZ/Tbbt_11.txt
-mot   :  1060 ZZ/Tbbt_11.txt
-carac :  6809 ZZ/Tbbt_11.txt
+mot   :  852 ZZ/Tbbt_11.txt
+carac :  5687 ZZ/Tbbt_11.txt
 
 i = Rpdruk _3
 ligne :  26 ZZ/Rpdruk_3.txt
-mot   :  879 ZZ/Rpdruk_3.txt
-carac :  5151 ZZ/Rpdruk_3.txt
+mot   :  695 ZZ/Rpdruk_3.txt
+carac :  4299 ZZ/Rpdruk_3.txt
 
 i = Earthmix space _1
 ligne :  31 ZZ/Earthmixspace_1.txt
-mot   :  908 ZZ/Earthmixspace_1.txt
-carac :  6271 ZZ/Earthmixspace_1.txt
+mot   :  768 ZZ/Earthmixspace_1.txt
+carac :  5435 ZZ/Earthmixspace_1.txt
 
 i = Camping paradis _12
 ligne :  43 ZZ/Campingparadis_12.txt
-mot   :  866 ZZ/Campingparadis_12.txt
-carac :  5940 ZZ/Campingparadis_12.txt
+mot   :  858 ZZ/Campingparadis_12.txt
+carac :  5892 ZZ/Campingparadis_12.txt
 
 i = Bad buddy _1
 ligne :  24 ZZ/Badbuddy_1.txt
-mot   :  728 ZZ/Badbuddy_1.txt
-carac :  4773 ZZ/Badbuddy_1.txt
+mot   :  572 ZZ/Badbuddy_1.txt
+carac :  3870 ZZ/Badbuddy_1.txt
 
 i = Dexter _9
 ligne :  17 ZZ/Dexter_9.txt
-mot   :  518 ZZ/Dexter_9.txt
-carac :  3490 ZZ/Dexter_9.txt
+mot   :  390 ZZ/Dexter_9.txt
+carac :  2728 ZZ/Dexter_9.txt
 
 i = Do seu lado _1
 ligne :  18 ZZ/Doseulado_1.txt
-mot   :  609 ZZ/Doseulado_1.txt
-carac :  3299 ZZ/Doseulado_1.txt
+mot   :  433 ZZ/Doseulado_1.txt
+carac :  2524 ZZ/Doseulado_1.txt
 
 i = 5515 never too late _1
 ligne :  0 ZZ/5515nevertoolate_1.txt
@@ -96,43 +86,43 @@ carac :  0 ZZ/5515nevertoolate_1.txt
 
 i = 7project _1
 ligne :  29 ZZ/7project_1.txt
-mot   :  659 ZZ/7project_1.txt
-carac :  4559 ZZ/7project_1.txt
+mot   :  643 ZZ/7project_1.txt
+carac :  4459 ZZ/7project_1.txt
 
 i = /9-1-1 _5
 ligne :  29 ZZ//9-1-1_5.txt
-mot   :  698 ZZ//9-1-1_5.txt
-carac :  4587 ZZ//9-1-1_5.txt
+mot   :  582 ZZ//9-1-1_5.txt
+carac :  3938 ZZ//9-1-1_5.txt
 
 i = Painted with raven _1
 ligne :  7 ZZ/Paintedwithraven_1.txt
-mot   :  269 ZZ/Paintedwithraven_1.txt
-carac :  1738 ZZ/Paintedwithraven_1.txt
+mot   :  237 ZZ/Paintedwithraven_1.txt
+carac :  1546 ZZ/Paintedwithraven_1.txt
 
 i = The shipper _1
 ligne :  29 ZZ/Theshipper_1.txt
-mot   :  504 ZZ/Theshipper_1.txt
-carac :  3751 ZZ/Theshipper_1.txt
+mot   :  472 ZZ/Theshipper_1.txt
+carac :  3556 ZZ/Theshipper_1.txt
 
 i = Druck _7
 ligne :  17 ZZ/Druck_7.txt
-mot   :  512 ZZ/Druck_7.txt
-carac :  3460 ZZ/Druck_7.txt
+mot   :  400 ZZ/Druck_7.txt
+carac :  2797 ZZ/Druck_7.txt
 
 i = Paint with love _1
 ligne :  5 ZZ/Paintwithlove_1.txt
-mot   :  209 ZZ/Paintwithlove_1.txt
-carac :  1416 ZZ/Paintwithlove_1.txt
+mot   :  177 ZZ/Paintwithlove_1.txt
+carac :  1221 ZZ/Paintwithlove_1.txt
 
 i = The voice senior it _2
 ligne :  9 ZZ/Thevoiceseniorit_2.txt
-mot   :  433 ZZ/Thevoiceseniorit_2.txt
-carac :  2602 ZZ/Thevoiceseniorit_2.txt
+mot   :  405 ZZ/Thevoiceseniorit_2.txt
+carac :  2432 ZZ/Thevoiceseniorit_2.txt
 
 i = Aoki vuanpaia no nayami _1
 ligne :  20 ZZ/Aokivuanpaianonayami_1.txt
-mot   :  578 ZZ/Aokivuanpaianonayami_1.txt
-carac :  3486 ZZ/Aokivuanpaianonayami_1.txt
+mot   :  458 ZZ/Aokivuanpaianonayami_1.txt
+carac :  2853 ZZ/Aokivuanpaianonayami_1.txt
 
 i = Queen of the universe _1
 ligne :  3 ZZ/Queenoftheuniverse_1.txt
@@ -141,18 +131,18 @@ carac :  314 ZZ/Queenoftheuniverse_1.txt
 
 i = Drag race it _1
 ligne :  16 ZZ/Dragraceit_1.txt
-mot   :  678 ZZ/Dragraceit_1.txt
-carac :  4046 ZZ/Dragraceit_1.txt
+mot   :  626 ZZ/Dragraceit_1.txt
+carac :  3735 ZZ/Dragraceit_1.txt
 
 i = Young sheldon _5
 ligne :  17 ZZ/Youngsheldon_5.txt
-mot   :  613 ZZ/Youngsheldon_5.txt
-carac :  3664 ZZ/Youngsheldon_5.txt
+mot   :  521 ZZ/Youngsheldon_5.txt
+carac :  3163 ZZ/Youngsheldon_5.txt
 
 i = Mr cinderella _1
 ligne :  5 ZZ/Mrcinderella_1.txt
-mot   :  208 ZZ/Mrcinderella_1.txt
-carac :  1414 ZZ/Mrcinderella_1.txt
+mot   :  176 ZZ/Mrcinderella_1.txt
+carac :  1219 ZZ/Mrcinderella_1.txt
 
 i = The case study of vanitas _1
 ligne : 
@@ -161,13 +151,13 @@ carac :
 
 i = Baker boys _1
 ligne :  11 ZZ/Bakerboys_1.txt
-mot   :  386 ZZ/Bakerboys_1.txt
-carac :  2344 ZZ/Bakerboys_1.txt
+mot   :  326 ZZ/Bakerboys_1.txt
+carac :  2031 ZZ/Bakerboys_1.txt
 
 i = Post mortem _1
 ligne :  16 ZZ/Postmortem_1.txt
-mot   :  378 ZZ/Postmortem_1.txt
-carac :  2626 ZZ/Postmortem_1.txt
+mot   :  370 ZZ/Postmortem_1.txt
+carac :  2576 ZZ/Postmortem_1.txt
 
 i = Unlocked _1
 ligne :  17 ZZ/Unlocked_1.txt
@@ -176,13 +166,13 @@ carac :  2518 ZZ/Unlocked_1.txt
 
 i = My sweet dear _1
 ligne :  8 ZZ/Mysweetdear_1.txt
-mot   :  279 ZZ/Mysweetdear_1.txt
-carac :  1732 ZZ/Mysweetdear_1.txt
+mot   :  227 ZZ/Mysweetdear_1.txt
+carac :  1447 ZZ/Mysweetdear_1.txt
 
 i = Love area _1
 ligne :  10 ZZ/Lovearea_1.txt
-mot   :  278 ZZ/Lovearea_1.txt
-carac :  1793 ZZ/Lovearea_1.txt
+mot   :  214 ZZ/Lovearea_1.txt
+carac :  1439 ZZ/Lovearea_1.txt
 
 i = Not me _1
 ligne :  13 ZZ/Notme_1.txt
@@ -191,13 +181,13 @@ carac :  2579 ZZ/Notme_1.txt
 
 i = Les engages _3
 ligne :  6 ZZ/Lesengages_3.txt
-mot   :  213 ZZ/Lesengages_3.txt
-carac :  1405 ZZ/Lesengages_3.txt
+mot   :  169 ZZ/Lesengages_3.txt
+carac :  1141 ZZ/Lesengages_3.txt
 
 i = Goblin _1
 ligne :  9 ZZ/Goblin_1.txt
-mot   :  211 ZZ/Goblin_1.txt
-carac :  1498 ZZ/Goblin_1.txt
+mot   :  179 ZZ/Goblin_1.txt
+carac :  1306 ZZ/Goblin_1.txt
 
 i = Age of the living dead _1
 ligne : 
@@ -206,18 +196,18 @@ carac :
 
 i = Insiders _1
 ligne :  5 ZZ/Insiders_1.txt
-mot   :  159 ZZ/Insiders_1.txt
-carac :  1130 ZZ/Insiders_1.txt
+mot   :  139 ZZ/Insiders_1.txt
+carac :  1011 ZZ/Insiders_1.txt
 
 i = The big leap _1
 ligne :  7 ZZ/Thebigleap_1.txt
-mot   :  192 ZZ/Thebigleap_1.txt
-carac :  1368 ZZ/Thebigleap_1.txt
+mot   :  176 ZZ/Thebigleap_1.txt
+carac :  1268 ZZ/Thebigleap_1.txt
 
 i = Alice in borderland _1
 ligne :  6 ZZ/Aliceinborderland_1.txt
-mot   :  185 ZZ/Aliceinborderland_1.txt
-carac :  1324 ZZ/Aliceinborderland_1.txt
+mot   :  177 ZZ/Aliceinborderland_1.txt
+carac :  1274 ZZ/Aliceinborderland_1.txt
 
 i = Aggretsuko _4
 ligne :  1 ZZ/Aggretsuko_4.txt
@@ -231,8 +221,8 @@ carac :  355 ZZ/Districtz_2.txt
 
 i = Banana fish _1
 ligne :  4 ZZ/Bananafish_1.txt
-mot   :  137 ZZ/Bananafish_1.txt
-carac :  959 ZZ/Bananafish_1.txt
+mot   :  117 ZZ/Bananafish_1.txt
+carac :  834 ZZ/Bananafish_1.txt
 
 i = F4 thailand _1
 ligne :  1 ZZ/F4thailand_1.txt
@@ -241,33 +231,33 @@ carac :  41 ZZ/F4thailand_1.txt
 
 i = Josephine ange gardien _24
 ligne :  19 ZZ/Josephineangegardien_24.txt
-mot   :  463 ZZ/Josephineangegardien_24.txt
-carac :  3264 ZZ/Josephineangegardien_24.txt
+mot   :  455 ZZ/Josephineangegardien_24.txt
+carac :  3214 ZZ/Josephineangegardien_24.txt
 
 i = Buffy _1
 ligne :  16 ZZ/Buffy_1.txt
-mot   :  380 ZZ/Buffy_1.txt
-carac :  2431 ZZ/Buffy_1.txt
+mot   :  372 ZZ/Buffy_1.txt
+carac :  2381 ZZ/Buffy_1.txt
 
 i = Lucifer _4
 ligne :  19 ZZ/Lucifer_4.txt
-mot   :  435 ZZ/Lucifer_4.txt
-carac :  3174 ZZ/Lucifer_4.txt
+mot   :  427 ZZ/Lucifer_4.txt
+carac :  3124 ZZ/Lucifer_4.txt
 
 i = Bite me _1
 ligne :  17 ZZ/Biteme_1.txt
-mot   :  450 ZZ/Biteme_1.txt
-carac :  3005 ZZ/Biteme_1.txt
+mot   :  442 ZZ/Biteme_1.txt
+carac :  2955 ZZ/Biteme_1.txt
 
 i = Vwars _1
 ligne :  59 ZZ/Vwars_1.txt
-mot   :  1445 ZZ/Vwars_1.txt
-carac :  9610 ZZ/Vwars_1.txt
+mot   :  1353 ZZ/Vwars_1.txt
+carac :  9057 ZZ/Vwars_1.txt
 
 i = Qforce _1
 ligne :  10 ZZ/Qforce_1.txt
-mot   :  239 ZZ/Qforce_1.txt
-carac :  1679 ZZ/Qforce_1.txt
+mot   :  231 ZZ/Qforce_1.txt
+carac :  1629 ZZ/Qforce_1.txt
 
 i = The yearbook _1
 ligne :  9 ZZ/Theyearbook_1.txt
@@ -276,8 +266,8 @@ carac :  1277 ZZ/Theyearbook_1.txt
 
 i = From dusk till dawn _2
 ligne :  132 ZZ/Fromdusktilldawn_2.txt
-mot   :  2561 ZZ/Fromdusktilldawn_2.txt
-carac :  16185 ZZ/Fromdusktilldawn_2.txt
+mot   :  2505 ZZ/Fromdusktilldawn_2.txt
+carac :  15850 ZZ/Fromdusktilldawn_2.txt
 
 i = Good singers _1
 ligne :  31 ZZ/Goodsingers_1.txt
@@ -291,8 +281,8 @@ carac :  2529 ZZ/Controlz_2.txt
 
 i = 46 days _1
 ligne :  208 ZZ/46days_1.txt
-mot   :  3938 ZZ/46days_1.txt
-carac :  24069 ZZ/46days_1.txt
+mot   :  3934 ZZ/46days_1.txt
+carac :  24045 ZZ/46days_1.txt
 
 i = Glow up _2
 ligne :  21 ZZ/Glowup_2.txt
@@ -406,8 +396,8 @@ carac :  1484 ZZ/Tienbromance_1.txt
 
 i = Ben x jim _1
 ligne :  17 ZZ/Benxjim_1.txt
-mot   :  319 ZZ/Benxjim_1.txt
-carac :  2294 ZZ/Benxjim_1.txt
+mot   :  311 ZZ/Benxjim_1.txt
+carac :  2242 ZZ/Benxjim_1.txt
 
 i = Koishite akuma _1
 ligne :  65 ZZ/Koishiteakuma_1.txt

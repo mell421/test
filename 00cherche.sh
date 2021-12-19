@@ -5,8 +5,8 @@
 
 
 # nb bis
-list99=( "Unbag _1" "The voice greece _8" "Dont say no _1" # >= 200
-"The voice ger _11" "Peach of time _1" # 199-100
+list99=( "Unbag _1" "Dont say no _1" # >= 200
+"Peach of time _1" # 199-100
 "Kieta hatsukoi _1" "Inhuman condition _1" "Survivor au _6" "Dragula _4" "The voice portugal _9" # 99-50
 "Incroyable talent _16" # 49-40
 "Tbbt _11" "Rpdruk _3" "Earthmix space _1" "Camping paradis _12" "Bad buddy _1" # 39-30
@@ -33,7 +33,7 @@ listAsc=(
 # 2
 "Bad buddy _1" "Painted with raven _1" "Aggretsuko _4" "Queen of the universe _1" "Incroyable talent _16" 
 # 3
-"Dragula _4" "The voice greece _8" "The voice ger _11" "The voice portugal _9" "Dexter _9" 
+"Dragula _4" "The voice portugal _9" "Dexter _9" 
 # 4
 "5515 never too late _1" "Not me _1" "Mr cinderella _1" "Unbag _1" "Do seu lado _1" 
 # 5
