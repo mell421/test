@@ -48,28 +48,28 @@ aEff/aeff.md:- 19/10/21 (eff) - unbag _1{613} dont say no _1{68} the voice greec
 aEff/aeff.md:- 20/09/21 (eff) - unbag _1{555} /46 days _1{46} peach of time _1{29} dont say no _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 20/10/21 (eff) - unbag _1{615} dont say no _1{70} the voice greece _8{40} peach of time _1{33} vwars _1{9} 
 aEff/aeff.md:- 21/09/21 (eff) - unbag _1{557} /46 days _1{46} peach of time _1{30} dont say no _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} vwars _1{9} the voice esp _8{8} 
+aEff/aeff.md:- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} vwars _1{9} 
 aEff/aeff.md:- 22/09/21 (eff) - unbag _1{559} /46 days _1{46} peach of time _1{31} dont say no _1{26} from dusk till dawn _2{20} vwars _1{8} 
-aEff/aeff.md:- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} survivor au _6{9} the voice esp _8{8} 
+aEff/aeff.md:- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} survivor au _6{9} 
 aEff/aeff.md:- 23/09/21 (eff) - unbag _1{561} /46 days _1{46} peach of time _1{32} dont say no _1{28} from dusk till dawn _2{20} vwars _1{8} 
-aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} survivor au _6{11} the voice esp _8{8} 
+aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} survivor au _6{11} 
 aEff/aeff.md:- 24/09/21 (eff) - unbag _1{563} peach of time _1{32} dont say no _1{29} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 24/10/21 (eff) - unbag _1{623} dont say no _1{78} the voice greece _8{48} peach of time _1{33} survivor au _6{13} the voice esp _8{8} inhuman condition _1{8} 
+aEff/aeff.md:- 24/10/21 (eff) - unbag _1{623} dont say no _1{78} the voice greece _8{48} peach of time _1{33} survivor au _6{13} inhuman condition _1{8} 
 aEff/aeff.md:- 25/09/21 (eff) - unbag _1{565} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 25/10/21 (eff) - unbag _1{626} dont say no _1{79} the voice greece _8{51} peach of time _1{33} survivor au _6{15} inhuman condition _1{11} the voice esp _8{9} 
+aEff/aeff.md:- 25/10/21 (eff) - unbag _1{626} dont say no _1{79} the voice greece _8{51} peach of time _1{33} survivor au _6{15} inhuman condition _1{11} 
 aEff/aeff.md:- 26/09/21 (eff) - unbag _1{567} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 26/10/21 (eff) - unbag _1{628} dont say no _1{80} the voice greece _8{53} peach of time _1{33} survivor au _6{15} inhuman condition _1{13} the voice esp _8{9} 
+aEff/aeff.md:- 26/10/21 (eff) - unbag _1{628} dont say no _1{80} the voice greece _8{53} peach of time _1{33} survivor au _6{15} inhuman condition _1{13} 
 aEff/aeff.md:- 27/09/21 (eff) - unbag _1{569} dont say no _1{33} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 27/10/21 (eff) - unbag _1{630} dont say no _1{81} the voice greece _8{55} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} the voice esp _8{9} 
+aEff/aeff.md:- 27/10/21 (eff) - unbag _1{630} dont say no _1{81} the voice greece _8{55} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
 aEff/aeff.md:- 28/09/21 (eff) - unbag _1{571} dont say no _1{35} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 28/10/21 (eff) - unbag _1{632} dont say no _1{82} the voice greece _8{57} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} the voice esp _8{9} 
+aEff/aeff.md:- 28/10/21 (eff) - unbag _1{632} dont say no _1{82} the voice greece _8{57} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
 aEff/aeff.md:- 29/09/21 (eff) - unbag _1{573} dont say no _1{37} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 29/10/21 (eff) - unbag _1{634} dont say no _1{83} the voice greece _8{59} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} the voice esp _8{9} tbbt _11{8} 
+aEff/aeff.md:- 29/10/21 (eff) - unbag _1{634} dont say no _1{83} the voice greece _8{59} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{8} 
 aEff/aeff.md:- 30/09/21 (eff) - unbag _1{575} dont say no _1{39} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 30/10/21 (eff) - unbag _1{636} dont say no _1{84} the voice greece _8{61} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} the voice esp _8{9} 
+aEff/aeff.md:- 30/10/21 (eff) - unbag _1{636} dont say no _1{84} the voice greece _8{61} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} 
 aEff/aeff.md:- 31/08/21 - 239* camping paradis _12{6} peach of time _1{0} bite me _1{1} dont say no _1{9} the yearbook _1{1} 
 apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) The voice greece _8x5(4) Goblin _1x2(1) The voice esp _8x3(2) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) The voice greece _8x5(4) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 apercu/apercu21.md:- sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
 apercu/apercu21.md:- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
@@ -102,7 +102,7 @@ apercu/apercu21.md:* concluBis 21/09/21 = Unbag _1 > 10; Dont say no _1 > 4; Pea
 apercu/apercu21.md:* concluBis 22/09/21 = Unbag _1 > 10; Dont say no _1 > 3; Peach of time _1 > 2; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 31/08/21 = Unbag _1 > 10; Peach of time _1 > 2; Dont say no _1 > 1; 
 apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercuglobal.md:- mois 01-10-2021 /9-1-1 _5x3(2) The voice greece _8x5(4) Goblin _1x2(1) The voice esp _8x3(2) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+apercu/apercuglobal.md:- mois 01-10-2021 /9-1-1 _5x3(2) The voice greece _8x5(4) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 apercu/apercuglobal.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 apercu/apercuglobal.md:- sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
 apercu/apercuglobal.md:- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 

@@ -486,6 +486,7 @@
 |deadwater fell 1||4|||<!--  -->
 |drag race ca 2||10|||<!--  -->
 |Strictly come dancing 19||25|||<!--  -->
+|the voice esp 8||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -638,7 +639,6 @@
 |Qforce||10||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->
 |alice in borderland 1||8||||<!--  -->
-|the voice esp 8||?||||<!--  -->
 |/9-1-1 5||18||||<!--  -->
 |the big leap 1||10||||<!--  -->
 |rpdruk 3||10||||<!--  -->

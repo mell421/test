@@ -683,6 +683,7 @@
 * Bt21 original story _1
 ### sem 20-12-2021 
 * *insererici*
+* The voice esp _8
 * Strictly come dancing _19
 * Drag race ca _2
 * Deadwater fell _1
@@ -730,7 +731,7 @@
 * Never too late _1
 * Not me _1
 * Mr cinderella _1
-* The voice esp _8
+* 
 * Unbag _1
 * Do seu lado _1
 * Camping paradis _12
@@ -849,7 +850,7 @@
 #### mois 01-12-2021 
 *The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
+*insererici The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 #### mois 01-02-2022 
 *insererici*
 

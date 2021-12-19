@@ -56,16 +56,16 @@
 - sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 - sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
 - sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
-- sem 27-09-2021 The voice greece _8x2(1) Goblin _1x2(1) The voice esp _8x3(2) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
-- sem 04-10-2021 The voice greece _8x7(5) The shipper _1x6(1) The voice esp _8x4(1) /9-1-1 _5x3(1) 
-- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) The voice greece _8x9(2) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) The voice esp _8x5(1) 
-- sem 18-10-2021 The voice portugal _9x2(1) The voice greece _8x11(2) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) The voice esp _8x6(1) The voice ger _11x3(1) Kieta hatsukoi _1x2(1) 
-- sem 25-10-2021 -> The voice greece _8x13(2) Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) The voice ger _11x4(1) The voice esp _8x7(1) Earthmix space _1x5(1) Unbag _1x33(1) Insiders _1x2(1) Incroyable talent _16x2(1) Dragula _4x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) 
-- sem 01-11-2021 -> Kieta hatsukoi _1x3(1) The voice greece _8x14(1) Druck _7x2(1) The voice ger _11x6(2) The voice esp _8x8(1) Bad buddy _1x2(1) Unbag _1x34(1) Incroyable talent _16x3(1) The voice portugal _9x3(1) Tbbt _11x4(2) 
-- sem 08-11-2021 -> The voice portugal _9x5(2) The voice greece _8x17(3) The voice ger _11x11(5) Dexter _9x2(1) Kieta hatsukoi _1x6(3) Druck _7x3(1) The voice esp _8x9(1) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) Unbag _1x35(1) Incroyable talent _16x4(1) 
-- sem 15-11-2021 -> The voice portugal _9x6(1) The voice greece _8x19(2) Dexter _9x3(1) The voice esp _8x10(1) The voice ger _11x12(1) Bad buddy _1x4(1) Incroyable talent _16x5(1) 
-- sem 22-11-2021 -> The voice portugal _9x7(1) The voice greece _8x21(2) Dexter _9x4(1) The voice esp _8x11(1) Bad buddy _1x5(1) Les engages _3x2(1) The voice ger _11x14(2) Drag race it _1x2(1) Incroyable talent _16x6(1) The case study of vanitas _1x3(2) Druck _7x4(1) Kieta hatsukoi _1x(1) 
-- sem 29-11-2021 -> The voice ger _11x17(3) The voice portugal _9x8(1) The voice greece _8x23(2) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Dexter _9x5(1) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice esp _8x12(1) Unbag _1x36(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Drag race it _1x3(1) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Incroyable talent _16x7(1) Rpdruk _3x5(3) 
+- sem 27-09-2021 The voice greece _8x2(1) Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
+- sem 04-10-2021 The voice greece _8x7(5) The shipper _1x6(1) /9-1-1 _5x3(1) 
+- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) The voice greece _8x9(2) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) 
+- sem 18-10-2021 The voice portugal _9x2(1) The voice greece _8x11(2) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) The voice ger _11x3(1) Kieta hatsukoi _1x2(1) 
+- sem 25-10-2021 -> The voice greece _8x13(2) Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) The voice ger _11x4(1) Earthmix space _1x5(1) Unbag _1x33(1) Insiders _1x2(1) Incroyable talent _16x2(1) Dragula _4x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) 
+- sem 01-11-2021 -> Kieta hatsukoi _1x3(1) The voice greece _8x14(1) Druck _7x2(1) The voice ger _11x6(2) Bad buddy _1x2(1) Unbag _1x34(1) Incroyable talent _16x3(1) The voice portugal _9x3(1) Tbbt _11x4(2) 
+- sem 08-11-2021 -> The voice portugal _9x5(2) The voice greece _8x17(3) The voice ger _11x11(5) Dexter _9x2(1) Kieta hatsukoi _1x6(3) Druck _7x3(1) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) Unbag _1x35(1) Incroyable talent _16x4(1) 
+- sem 15-11-2021 -> The voice portugal _9x6(1) The voice greece _8x19(2) Dexter _9x3(1) The voice ger _11x12(1) Bad buddy _1x4(1) Incroyable talent _16x5(1) 
+- sem 22-11-2021 -> The voice portugal _9x7(1) The voice greece _8x21(2) Dexter _9x4(1) Bad buddy _1x5(1) Les engages _3x2(1) The voice ger _11x14(2) Drag race it _1x2(1) Incroyable talent _16x6(1) The case study of vanitas _1x3(2) Druck _7x4(1) Kieta hatsukoi _1x(1) 
+- sem 29-11-2021 -> The voice ger _11x17(3) The voice portugal _9x8(1) The voice greece _8x23(2) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Dexter _9x5(1) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Drag race it _1x3(1) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Incroyable talent _16x7(1) Rpdruk _3x5(3) 
 
 
 
@@ -83,9 +83,9 @@
 - mois 01-07-2021 Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 - mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 - mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-- mois 01-10-2021 /9-1-1 _5x3(2) The voice greece _8x5(4) Goblin _1x2(1) The voice esp _8x3(2) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) The voice greece _8x14(9) Druck _7x2(1) The voice ger _11x6(5) The voice esp _8x8(5) Bad buddy _1x2(1) Unbag _1x34(3) Incroyable talent _16x3(2) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Dragula _4x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-- mois 01-12-2021 -> Dragula _4x3(1) The voice ger _11x17(11) The voice portugal _9x8(5) The voice greece _8x23(9) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Dexter _9x5(4) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice esp _8x12(4) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Drag race it _1x3(2) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Incroyable talent _16x7(4) Rpdruk _3x5(3) Les engages _3x2(1) The case study of vanitas _1x3(2) Druck _7x4(2) Banana fish _1x3(2) 
+- mois 01-10-2021 /9-1-1 _5x3(2) The voice greece _8x5(4) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) The voice greece _8x14(9) Druck _7x2(1) The voice ger _11x6(5) Bad buddy _1x2(1) Unbag _1x34(3) Incroyable talent _16x3(2) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Dragula _4x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+- mois 01-12-2021 -> Dragula _4x3(1) The voice ger _11x17(11) The voice portugal _9x8(5) The voice greece _8x23(9) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Dexter _9x5(4) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Drag race it _1x3(2) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Incroyable talent _16x7(4) Rpdruk _3x5(3) Les engages _3x2(1) The case study of vanitas _1x3(2) Druck _7x4(2) Banana fish _1x3(2) 
 
 
 
@@ -372,7 +372,7 @@
 * conclu 29/09/21 = Unbag _1 > 3; The voice greece _8 > 2; Dont say no _1 > 1; 
 * conclu 30/09/21 = Unbag _1 > 3; Dont say no _1 > 2; The voice greece _8 > 2; 
 * conclu 01/10/21 = Dont say no _1 > 2; The voice greece _8 > 2; /9-1-1 _5 > 2; 
-* conclu 02/10/21 = The voice greece _8 > 3; Unbag _1 > 3; Dont say no _1 > 2; The voice esp _8 > 1; 
+* conclu 02/10/21 = The voice greece _8 > 3; Unbag _1 > 3; Dont say no _1 > 2; 
 * conclu 03/10/21 = The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 2; 
 * conclu 04/10/21 = The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 1; 
 * conclu 05/10/21 = Unbag _1 > 3; 
@@ -717,12 +717,12 @@
 * concluBis 24/09/21 = Unbag _1 > 5; Dont say no _1 > 2; 
 * concluBis 25/09/21 = Unbag _1 > 5; 
 * concluBis 26/09/21 = Dont say no _1 > 6; Unbag _1 > 5; 
-* concluBis 27/09/21 = Unbag _1 > 5; Dont say no _1 > 3; The voice esp _8 > 1; 
+* concluBis 27/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
 * concluBis 28/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; 
 * concluBis 29/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; 
 * concluBis 30/09/21 = Unbag _1 > 5; Dont say no _1 > 4; The voice greece _8 > 4; 
 * concluBis 01/10/21 = Dont say no _1 > 4; The voice greece _8 > 4; /9-1-1 _5 > 4; 
-* concluBis 02/10/21 = The voice greece _8 > 5; Unbag _1 > 5; Dont say no _1 > 4; The voice esp _8 > 3; 
+* concluBis 02/10/21 = The voice greece _8 > 5; Unbag _1 > 5; Dont say no _1 > 4; 
 * concluBis 03/10/21 = The voice greece _8 > 8; Unbag _1 > 5; Dont say no _1 > 4; 
 * concluBis 04/10/21 = The voice greece _8 > 9; Unbag _1 > 5; Dont say no _1 > 3; 
 * concluBis 05/10/21 = Unbag _1 > 5; Dont say no _1 > 2; The voice greece _8 > 2; 
@@ -750,7 +750,7 @@
 * concluBis 27/10/21 = The voice greece _8 > 14; Unbag _1 > 10; Tbbt _11 > 3; Dont say no _1 > 1; 
 * concluBis 28/10/21 = The voice greece _8 > 12; Unbag _1 > 10; Tbbt _11 > 3; Dont say no _1 > 2; 
 * concluBis 29/10/21 = The voice greece _8 > 12; Unbag _1 > 10; Tbbt _11 > 3; Dont say no _1 > 2; 
-* concluBis 30/10/21 = Unbag _1 > 10; The voice greece _8 > 10; The voice ger _11 > 7; Dont say no _1 > 2; The voice esp _8 > 1; Tbbt _11 > 1; 
+* concluBis 30/10/21 = Unbag _1 > 10; The voice greece _8 > 10; The voice ger _11 > 7; Dont say no _1 > 2; Tbbt _11 > 1; 
 * concluBis 31/10/21 = The voice greece _8 > 15; Unbag _1 > 10; The voice ger _11 > 3; Dont say no _1 > 1; 
 * concluBis 01/11/21 = The voice greece _8 > 12; Unbag _1 > 10; The voice ger _11 > 3; Dont say no _1 > 1; 
 * concluBis 02/11/21 = The voice greece _8 > 13; Unbag _1 > 10; The voice ger _11 > 5; Dont say no _1 > 1; 
@@ -779,7 +779,7 @@
 * concluBis 25/11/21 = The voice greece _8 > 10; The voice ger _11 > 10; Unbag _1 > 5; Rpdruk _3 > 4; Incroyable talent _16 > 1; 
 * concluBis 26/11/21 = The voice greece _8 > 10; The voice ger _11 > 8; Unbag _1 > 5; Do seu lado _1 > 4; Rpdruk _3 > 3; Baker boys _1 > 2; Incroyable talent _16 > 1; 
 * concluBis 27/11/21 = The voice greece _8 > 10; The voice ger _11 > 10; Unbag _1 > 5; Do seu lado _1 > 4; Rpdruk _3 > 3; Bad buddy _1 > 1; Baker boys _1 > 1; 
-* concluBis 28/11/21 = The voice greece _8 > 11; Unbag _1 > 10; The voice ger _11 > 7; Do seu lado _1 > 3; Rpdruk _3 > 2; The voice esp _8 > 1; 
+* concluBis 28/11/21 = The voice greece _8 > 11; Unbag _1 > 10; The voice ger _11 > 7; Do seu lado _1 > 3; Rpdruk _3 > 2; 
 * concluBis 29/11/21 = The voice greece _8 > 12; Unbag _1 > 10; The voice ger _11 > 9; Do seu lado _1 > 3; Kieta hatsukoi _1 > 1; Rpdruk _3 > 1; 
 * concluBis 30/11/21 = The voice greece _8 > 12; Unbag _1 > 10; The voice ger _11 > 7; Do seu lado _1 > 3; Rpdruk _3 > 1; 
 * concluBis 01/12/21 = The voice greece _8 > 11; Unbag _1 > 10; The voice ger _11 > 7; Do seu lado _1 > 2; 

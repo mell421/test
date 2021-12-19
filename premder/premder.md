@@ -48,7 +48,6 @@ Dexter 9x6
 5515 never too late 1x3
 * Not me 1x1
 Mr cinderella 1x3
-The voice esp 8x13
 Unbag 1x36
 Do seu lado 1x5
 * 5515 never too late 1x1
@@ -104,7 +103,6 @@ The shipper 1x5
 7project 1x4
 * The big leap 1x1
 * /9-1-1 5x1
-* The voice esp 8x1
 Post mortem 1x3
 * Alice in borderland 1x1
 Peach of time 1x6
