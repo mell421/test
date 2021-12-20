@@ -153,7 +153,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- page app res -->
+<!-- page app res 37 -->
 ### pageappres
 ```{r pageappres, echo=FALSE}
 text <- data.frame(pageappres())
@@ -174,7 +174,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- page app res sup -->
+<!-- page app res sup 42 -->
 ### pageappressup
 ```{r pageappressup, echo=FALSE}
 text <- data.frame(pageappressup())
@@ -196,7 +196,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- page app res sup 2 -->
+<!-- page app res sup 2 47 -->
 ### PARS2
 ```{r pars2, echo=FALSE}
 text <- data.frame(pars2())
@@ -218,7 +218,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- test conclu -->
+<!-- test conclu 53 -->
 ### conclu
 ```{r conclu, echo=FALSE}
 text <- data.frame(aTestConclu())
@@ -242,7 +242,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- test conclu bis -->
+<!-- test conclu bis 58 -->
 ### conclubis
 ```{r conclubis, echo=FALSE}
 text2 <- data.frame(aTestConcluBis())
@@ -265,7 +265,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- copy -->
+<!-- copy 63 -->
 ### sem
 ```{r sem, echo=FALSE}
 text2 <- data.frame(copy.sem())
@@ -288,7 +288,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- copy -->
+<!-- copy 68 -->
 ### mois
 ```{r mois, echo=FALSE}
 text2 <- data.frame(copy.mois())
@@ -312,7 +312,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- copy -->
+<!-- copy 74 -->
 ### max
 ```{r max, echo=FALSE}
 text2 <- copy.max()
@@ -334,7 +334,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- eff -->
+<!-- eff 79 -->
 ### eff
 ```{r eff, echo=FALSE}
 text2 <- aEff()
@@ -424,7 +424,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-### timing p1 
+### timing
 ```{r timing1 , echo=FALSE}
 end_time<-Sys.time()
 total_time <- end_time - begin_time

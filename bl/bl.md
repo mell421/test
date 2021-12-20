@@ -315,20 +315,20 @@
 |46 days|46 days|18|serie(**)|thailande|6|                      <!-- 35 -->
 |the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
 |bite me|bite me|?|serie|thailande|2|                           <!-- 37 -->
-|peach of time|peach of time|10|serie|corée-thailande|5|        <!-- 38 -->
-|7 project|7project|7|serie(bl/gl/het)|thailande|2|             <!-- 39 -->
-|EMS|earth mix space|?|show|thailande|1|                        <!-- 40 -->
+|peach of time|peach of time|10|serie|corée-thailande|6|        <!-- 38 -->
+|7 project|7project|7|serie(bl/gl/het)|thailande|4|             <!-- 39 -->
+|EMS|earth mix space|?|show|thailande|8|                        <!-- 40 -->
 |Alice in borderland|alice in borderland|8|serie(**)|japon|1|   <!-- 41 -->
 |goblin|goblin|16|serie(***)|corée|1|                           <!-- 42 -->
 |love area|love area|8|serie|thailande|2|                       <!-- 43 -->
 |kieta hatsukoi|kieta hatsukoi|10|serie|japon|6|                <!-- 44 -->
 |aoki vuanpaia no nayami|aoki vuanpaia no nayami|8|serie(**)|japon|2| <!-- 45 -->
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
-|bad buddy|bad buddy|12|serie|thailande|5|                      <!-- 47-->
-|baker boys|baker boys|12|serie(*)|thailande|2|                <!-- 48 -->
-|do seu lado|do seu lado|?|serie|bresil|4|<!--  -->
-|paint with love|paint with love|8|serie|thailande|1|<!--  -->
-|mr cinderella|_|?|serie|vietnam|0|<!--  -->
+|bad buddy|bad buddy|12|serie|thailande|7|                      <!-- 47-->
+|baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
+|do seu lado|do seu lado|?|serie|bresil|5|<!--  -->
+|paint with love|paint with love|8|serie|thailande|4|<!--  -->
+|mr cinderella|_|8|serie|vietnam|4|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
