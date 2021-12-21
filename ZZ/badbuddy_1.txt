@@ -1,5 +1,5 @@
 aEff/aeff.md:- 01/11/21 - 195* kieta hatsukoi _1{3} druck _7{2} bad buddy _1{2} 
-aEff/aeff.md:- 04/12/21 - 222* dragula _4{3} painted with raven _1{2} bad buddy _1{8} drag race it _1{3} queen of the universe _1{0} baker boys _1{4} 
+aEff/aeff.md:- 04/12/21 - 222* painted with raven _1{2} bad buddy _1{8} drag race it _1{3} queen of the universe _1{0} baker boys _1{4} 
 aEff/aeff.md:- 06/11/21 - 748* bad buddy _1{2} earthmix space _1{6} unbag _1{652} incroyable talent _16{3} 
 aEff/aeff.md:- 07/11/21 - 186* kieta hatsukoi _1{3} druck _7{2} banana fish _1{0} bad buddy _1{2} 
 aEff/aeff.md:- 13/11/21 - 206* bad buddy _1{3} incroyable talent _16{4} 
@@ -13,8 +13,8 @@ aEff/aeff.md:- 27/11/21 - 213* the voice senior it _2{0} bad buddy _1{5} drag ra
 aEff/aeff.md:- 28/11/21 - 1026* unbag _1{697} the voice senior it _2{0} bad buddy _1{6} drag race it _1{1} painted with raven _1{0} do seu lado _1{4} baker boys _1{2} 
 aEff/aeff.md:- 30/10/21 - 756* bad buddy _1{0} unbag _1{636} incroyable talent _16{1} 
 aEff/aeff.md:- 31/10/21 - 798* druck _7{0} bad buddy _1{0} unbag _1{638} 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Druck _7x2(1) Bad buddy _1x2(1) Unbag _1x34(3) Incroyable talent _16x3(2) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Dragula _4x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-apercu/apercu21.md:- mois 01-12-2021 -> Dragula _4x3(1) The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Dexter _9x5(4) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Drag race it _1x3(2) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Incroyable talent _16x7(4) Rpdruk _3x5(3) Les engages _3x2(1) The case study of vanitas _1x3(2) Druck _7x4(2) Banana fish _1x3(2) 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Druck _7x2(1) Bad buddy _1x2(1) Unbag _1x34(3) Incroyable talent _16x3(2) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercu21.md:- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Dexter _9x5(4) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Drag race it _1x3(2) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Incroyable talent _16x7(4) Rpdruk _3x5(3) Les engages _3x2(1) The case study of vanitas _1x3(2) Druck _7x4(2) Banana fish _1x3(2) 
 apercu/apercu21.md:- sem 01-11-2021 -> Kieta hatsukoi _1x3(1) Druck _7x2(1) Bad buddy _1x2(1) Unbag _1x34(1) Incroyable talent _16x3(1) The voice portugal _9x3(1) Tbbt _11x4(2) 
 apercu/apercu21.md:- sem 08-11-2021 -> The voice portugal _9x5(2) Dexter _9x2(1) Kieta hatsukoi _1x6(3) Druck _7x3(1) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) Unbag _1x35(1) Incroyable talent _16x4(1) 
 apercu/apercu21.md:- sem 15-11-2021 -> The voice portugal _9x6(1) Dexter _9x3(1) Bad buddy _1x4(1) Incroyable talent _16x5(1) 

@@ -489,6 +489,7 @@
 |the voice esp 8||13|||<!--  -->
 |the voice greece 8||28|||<!--  -->
 |the voice ger 11||19|||<!--  -->
+|dragula 4||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -653,7 +654,6 @@
 |the voice portugal 9|||||3|<!--  -->
 |inhuman condition 1|||||0|<!--  -->
 |age of the living dead 1|||||1|<!--  -->
-|dragula 4|||||1|<!--  -->
 |incroyable talent 16||?|||2|<!--  -->
 |insiders 1||7|||1|<!--  -->
 |my sweet dear 1||8|||2|<!--  -->

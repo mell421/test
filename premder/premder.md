@@ -40,7 +40,6 @@ Painted with raven 1x4
 * Aggretsuko 4x1
 Queen of the universe 1x4
 Incroyable talent 16x8
-Dragula 4x9
 The voice portugal 9x9
 Dexter 9x6
 5515 never too late 1x3
@@ -79,7 +78,6 @@ My sweet dear 1x2
 * My sweet dear 1x1
 * Insiders 1x1
 * Incroyable talent 16x1
-* Dragula 4x1
 * Age of the living dead 1x1
 Inhuman condition 1x7
 * Inhuman condition 1x1
