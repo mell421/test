@@ -4,7 +4,6 @@ output:
   html_document:
     df_print: paged
     toc: false
-  pdf_document: default
 ---
 ```{r setup, include = FALSE}
 # INSTALL
@@ -740,6 +739,13 @@ netw(10)
 netw(10)
 #dev.print(device = png, file = "network1_2.png", width = 600)
 ```
+
+
+```{r corr , echo=FALSE}
+### corr
+
+```
+
 
 ### timing
 ```{r timing , echo=FALSE}

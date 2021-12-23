@@ -269,7 +269,6 @@
 |cherry magic|cherry magic|12+2|serie|japon|<!--  -->
 |wish you|wish you|8+1|serie|corée|<!--  -->
 |josephine ange gardien 23||4|||<!-- 29/12/20  -->
-|offgun fun night 2|offgun fun night 2|12+2|show|thailande|<!--  -->
 |meet me outside|meet me outside|6|serie|philippines|<!-- 68 -->
 |BT21 universe 1||13|||
 |district z 1||5||france|
@@ -472,7 +471,6 @@
 |The love that dare not speak its name||6|||<!--  -->
 |the masked singer ger 5|||||<!--  -->
 |The voice th 7||15|||<!--  -->
-|BT21 original story 1||12?|||<!--  -->
 |survivor 11||15|||<!--  -->
 |alter ego 1||11|||<!--  -->
 |la mas draga 4||12|||<!--  -->
@@ -487,9 +485,12 @@
 |drag race ca 2||10|||<!--  -->
 |Strictly come dancing 19||25|||<!--  -->
 |the voice esp 8||13|||<!--  -->
+|offgun fun night 2|offgun fun night 2|12+4|show|thailande|<!--  -->
 |the voice greece 8||28|||<!--  -->
 |the voice ger 11||19|||<!--  -->
 |dragula 4||10|||<!--  -->
+|BT21 original story 1||13?|||<!--  -->
+|incroyable talent 16||9|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -654,7 +655,6 @@
 |the voice portugal 9|||||3|<!--  -->
 |inhuman condition 1|||||0|<!--  -->
 |age of the living dead 1|||||1|<!--  -->
-|incroyable talent 16||?|||2|<!--  -->
 |insiders 1||7|||1|<!--  -->
 |my sweet dear 1||8|||2|<!--  -->
 |bad buddy 1||12|||2|<!--  -->
@@ -669,7 +669,15 @@
 |painted with raven 1||8|||1|<!--  -->
 |the voice senior it 2||?|||1|<!--  -->
 |paint with love 1||8|||1|<!--  -->
-|mr cinderella 1||?|||1|<!--  -->
+|mr cinderella 1||?|||4|<!--  -->
+|queen of the universe 1||6|||4|<!-- 2/12 -->
+|district z 2||4|||2|<!--  -->
+|5515 never too late 1||12|||3|<!--  -->
+|not me 1||14|||2|<!--  -->
+|aggretsuko 4||10|||1|<!--  -->
+|F4 thailand||16|||1|<!--  -->
+|the voice ru 10||13|||6|<!--  -->
+|the voice greece 7||22|||13|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -687,14 +695,25 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|queen of the universe 1||6|||0|<!-- 2/12 -->
-|never too late 1||12|||0|<!--  -->
-|quaranthings 2||8|||0|<!--  -->
-|not me 1||?|||0|<!--  -->
-|nilundon 1|||||0|<!--  -->
-|F4 thailand|||||0|<!--  -->
-|aggretsuko 4|||||0|<!--  -->
+|the player 1||14|||0|<!--  -->
+|the voice kids uk 5||3|||0|<!--  -->
+|lego masters fr 2||4|||0|<!--  -->
+|the voice be 10||16|||0|<!--  -->
+|the masked singer uk 3|||||0|<!--  -->
 |/9-1-1 lone star 3|||||0|<!--  -->
+|i can see your voice 2|||||0|<!--  -->
+|ninja warrior 6|||||0|<!--  -->
+|The voice nl 12|||||0|<!--  -->
+|the voice no 7|||||0|<!--  -->
+|rpdr 14|||||0|<!--  -->
+|rpdru 14|||||0|<!--  -->
+|rainbow prince 1|||||0|<!--  -->
+|ASC 1|||||0|<!--  -->
+|Survivor 42|||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+|quaranthings 2||8|||0|<!--  -->
+|nilundon 1|||||0|<!--  -->
 |The masked singer fr 3|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -721,7 +740,6 @@
 |drag I love you 1|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |my extraordinary 2|||||0|<!--  -->
-|the player 1|||||0|<!--  -->
 |meet my angel 2|||||0|<!--  -->
 |mr tuxedo||?|||0|<!--  -->
 |UMG||?||thailande|0|<!--  -->

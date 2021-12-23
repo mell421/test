@@ -114,6 +114,10 @@
     - [sem 20-12-2021](#sem-20-12-2021)
     - [sem 27-12-2021](#sem-27-12-2021)
     - [sem 03-01-2022](#sem-03-01-2022)
+    - [sem 10-01-2022](#sem-10-01-2022)
+    - [sem 17-01-2022](#sem-17-01-2022)
+    - [sem 24-01-2022](#sem-24-01-2022)
+    - [sem 31-01-2022](#sem-31-01-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -695,8 +699,17 @@
 * Between us special _1
 ### sem 27-12-2021 
 * *insererici*
+* Incroyable talent _16
 * Dragula _4
 ### sem 03-01-2022 
+* *insererici*
+### sem 10-01-2022 
+* *insererici*
+### sem 17-01-2022 
+* *insererici*
+### sem 24-01-2022 
+* *insererici*
+### sem 31-01-2022 
 * *insererici*
 
 
@@ -714,6 +727,14 @@
 * The masked singer fr _3
 * 
 * $ order $
+* The voice greece _7
+* Josephine ange gardien _24
+* The voice ru _10
+* The voice portugal _9
+* Dexter _9
+* Not me _1
+* Mr cinderella _1
+* District z _2
 * F4 thailand _1
 * The voice senior it _2
 * Unlocked _1
@@ -723,22 +744,12 @@
 * Painted with raven _1
 * Aggretsuko _4
 * Queen of the universe _1
-* Incroyable talent _16
 * 
-* 
-* 
-* The voice portugal _9
-* 
-* Dexter _9
 * Never too late _1
-* Not me _1
-* Mr cinderella _1
-* 
 * Unbag _1
 * Do seu lado _1
 * Camping paradis _12
 * Rpdruk _3
-* District z _2
 * Drag race it _1
 * Baker boys _1
 * Kieta hatsukoi _1
@@ -764,7 +775,6 @@
 * Post mortem _1
 * Alice in bordeland _1
 * Peach of time _1
-* Josephine ange gardien _24
 * Buffy _1
 * Lucifer _4
 * Bite me _1
@@ -852,7 +862,7 @@
 #### mois 01-12-2021 
 *The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
+*insererici Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 #### mois 01-02-2022 
 *insererici*
 

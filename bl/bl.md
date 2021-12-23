@@ -193,7 +193,6 @@
 |wish you|wish you|8+1|serie|corée|                                 <!-- 64 -->
 |your name engraved herein|your name engraved herein|1|film|taiwan| <!-- 65 -->
 |floss|floss|1|cm|taiwan|                                           <!-- 66 -->
-|offgun fun night 2|offgun fun night 2|12+2|show|thailande|     <!-- 67 -->
 |meet me outside|meet me outside|6|serie|philippines|           <!-- 68 -->
 |ingredients|ingredients|21+1|serie|thailande|                  <!-- 69 -->
 |gameboys|gameboys|13+1|serie|philippines|                      <!-- 70 -->
@@ -269,6 +268,7 @@
 |my personnal trainer|my personnal trainer|1|cm|corée|<!--  -->
 |The love that dare not speak its name|The love that dare not speak its name|6|serie|hong kong|<!--  -->
 |Between us special|Between us special|6|series|thailande|<!--  -->
+|offgun fun night 2|offgun fun night 2|12+4|show|thailande|     <!-- 67 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -329,6 +329,9 @@
 |do seu lado|do seu lado|?|serie|bresil|5|<!--  -->
 |paint with love|paint with love|8|serie|thailande|4|<!--  -->
 |mr cinderella|_|8|serie|vietnam|4|<!--  -->
+|5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
+|NOTME|NOTME|14|serie|thailande|2|<!-- -->
+|F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -345,6 +348,7 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
+|the player|the player|16|serie(*)|thailande|0|<!-- -->
 |gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
 |checkout|checkout|?|serie|thailande|0|<!--  -->
 |quaranthings 2|quaranthings 2|8|serie|philippines|0|<!-- -->
@@ -397,11 +401,8 @@
 |||||||<!--  -->
 |THAILANDE|---|---||||<!--  -->
 |GMMTV|--|--||||<!-- -->
-|F4 thailand|F4 thailand|?|serie(**)|thailande|0|<!-- -->
 |drag I love you|drag I love you|?|serie(**)|thailande|0|<!-- -->
 |enchante|enchante|?|serie|thailande|0|<!-- -->
-|the player|the player|?|serie(**)|thailande|0|<!-- -->
-|NOTME|NOTME|16|serie|thailande|0|<!-- -->
 |war of the flowers|war of the flowers|?|serie(**)|thailande|0|<!--  -->
 |UMG|UMG|?|serie(**)|thailande|0|<!--  -->
 |home school|home school|?|serie(**)|thailande|0|<!--  -->

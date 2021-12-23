@@ -23,7 +23,7 @@ aEff/aeff.md:- 18/11/21 (eff) - unbag _1{677} dont say no _1{95} kieta hatsukoi 
 aEff/aeff.md:- 19/11/21 (eff) - unbag _1{679} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 20/10/21 - 224* age of the living dead _1{0} inhuman condition _1{0} the voice portugal _9{1} survivor au _6{5} 
 aEff/aeff.md:- 20/11/21 (eff) - unbag _1{681} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-aEff/aeff.md:- 21/10/21 - 219* incroyable talent _16{0} age of the living dead _1{0} inhuman condition _1{2} the voice portugal _9{1} 
+aEff/aeff.md:- 21/10/21 - 219* age of the living dead _1{0} inhuman condition _1{2} the voice portugal _9{1} 
 aEff/aeff.md:- 21/11/21 (eff) - unbag _1{683} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 22/11/21 (eff) - unbag _1{685} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 23/11/21 (eff) - unbag _1{687} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} 
@@ -42,8 +42,8 @@ aEff/aeff.md:- 29/11/21 (eff) - unbag _1{699} dont say no _1{95} kieta hatsukoi 
 aEff/aeff.md:- 30/10/21 (eff) - unbag _1{636} dont say no _1{84} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} 
 aEff/aeff.md:- 30/11/21 (eff) - unbag _1{702} dont say no _1{95} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 31/10/21 (eff) - unbag _1{638} dont say no _1{85} inhuman condition _1{15} survivor au _6{15} tbbt _11{11} 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Druck _7x2(1) Bad buddy _1x2(1) Unbag _1x34(3) Incroyable talent _16x3(2) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-apercu/apercu21.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Unbag _1x33(1) Insiders _1x2(1) Incroyable talent _16x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Druck _7x2(1) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercu21.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Unbag _1x33(1) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) 
 apercu/apercu21.md:* conclu 20/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; Dont say no _1 > 1; 
 apercu/apercu21.md:* conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
 apercu/apercu21.md:* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
