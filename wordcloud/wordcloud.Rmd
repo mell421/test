@@ -38,7 +38,7 @@ forme <- "circle"
 
 ## WORDCLOUD
 
-<!-- accueil -->
+<!-- accueil 10 -->
 ### accueil
 ```{r accueil, echo=FALSE}
 text <- data.frame(accueil())
@@ -60,7 +60,7 @@ tm <- function(text){
 suppressWarnings(tm(text))
 ```
 
-<!-- listDesc -->
+<!-- listDesc 15 -->
 ### en cours
 ```{r encours, echo=FALSE}
 text <- data.frame(listDesc.ec())
@@ -196,8 +196,8 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-<!-- page app res sup 2 47 -->
-### PARS2
+
+### pageappressup2
 ```{r pars2, echo=FALSE}
 text <- data.frame(pars2())
 main <- function(text){
@@ -312,6 +312,31 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+<!-- copy 68 -->
+### mois-sem
+```{r moissem, echo=FALSE}
+text2 <- data.frame(aTestMS())
+text <- text2[2]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 mois-sem")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"moissem_3.png",delayW)
+
+}
+
+suppressWarnings(main(text))
+```
+
+
 <!-- copy 74 -->
 ### max
 ```{r max, echo=FALSE}
@@ -360,7 +385,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-### PA
+### Page app
 ```{r pa, echo=FALSE}
 text <- data.frame(PA())
 main <- function(text){
@@ -403,7 +428,7 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-### affodd
+### aff odd
 ```{r affodd, echo=FALSE}
 text <- data.frame(affodd())
 main <- function(text){
