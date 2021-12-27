@@ -20,34 +20,38 @@
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
+|KL 20||15||france|
+|KL 21||15||france|
+|KL 22||15||france|
+|KL 23||15||france|
 |KL 24||15||france|
-|KL 25||15|||
-|survivor au 7||25|||<!--  -->
-|survivor au 1||13|||<!--  -->
-|survivor au 2||12|||<!--  -->
-|survivor au 3||26|||<!--  -->
-|KL 26||13|||<!--  -->
-|surv au 4||27|||<!--  -->
-|survivor 40||14|||<!--  -->
-|survivor 1||14|||<!--  -->
-|survivor 2||17|||<!--  -->
-|survivor 3||15|||<!--  -->
-|koh-lanta 1||13|||<!--  -->
-|koh-lanta 3||13|||<!--  -->
-|koh-lanta 4||13|||<!--  -->
-|Survivor 4||15|||<!--  -->
-|Survivor 5||15|||<!--  -->
-|Survivor 6||15|||<!--  -->
-|Survivor 7||15|||<!--  -->
-|survivor au 8||24|||<!--  -->
-|survivor sa 8||16|||<!--  -->
-|survivor au 5||25|||<!--  -->
-|survivor 8||17|||<!--  -->
-|survivor 9||15|||<!--  -->
-|Survivor 10||15|||<!--  -->
-|survivor 11||15|||<!--  -->
-|Koh-Lanta 27||15|||<!--  -->
-|survivor 41||14|||<!--  -->
+|KL 25||15||france|
+|survivor au 7||25||aus|<!--  -->
+|survivor au 1||13||aus|<!--  -->
+|survivor au 2||12||aus|<!--  -->
+|survivor au 3||26||aus|<!--  -->
+|KL 26||13||france|<!--  -->
+|survivor au 4||27||aus|<!--  -->
+|survivor 40||14||us|<!--  -->
+|survivor 1||14||us|<!--  -->
+|survivor 2||17||us|<!--  -->
+|survivor 3||15||us|<!--  -->
+|koh-lanta 1||13||france|<!--  -->
+|koh-lanta 3||13||france|<!--  -->
+|koh-lanta 4||13||france|<!--  -->
+|Survivor 4||15||us|<!--  -->
+|Survivor 5||15||us|<!--  -->
+|Survivor 6||15||us|<!--  -->
+|Survivor 7||15||us|<!--  -->
+|survivor au 8||24||aus|<!--  -->
+|survivor sa 8||16||south africa|<!--  -->
+|survivor au 5||25||aus|<!--  -->
+|survivor 8||17||us|<!--  -->
+|survivor 9||15||us|<!--  -->
+|Survivor 10||15||us|<!--  -->
+|survivor 11||15||us|<!--  -->
+|Koh-Lanta 27||15||france|<!--  -->
+|survivor 41||14||us|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -64,7 +68,7 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|survivor au 6||25|||3|<!--  -->
+|survivor au 6||25||aus|3|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -73,10 +77,6 @@
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 ## a venir
  

@@ -20,6 +20,13 @@
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
+|TV US 16||23||us|
+|TV NL 4||17||nl|
+|TV 8||18||france|
+|TV VV 4||16||vv|
+|TV NL 5||17||nl|
+|TV GER 7||17||allemagne|
+|TV indonesia 3||22||indonésie|
 |TVK 6||9||france|
 |TV GER 9||17||allemagne|
 |TV indonesia 4||22||indonésie|
@@ -33,7 +40,7 @@
 |TVS VV 1||4||vv|
 |TV NL 6||17||nl|
 |TV UK 8||14||uk|
-|TVS NL 1||4||nnl|
+|TVS NL 1||4||nl|
 |TVS NL 2||4||nl|
 |TV US 18||17||us|
 |TVK NL 1||9||nl|
@@ -55,7 +62,7 @@
 |TV UK 10||12|||<!--  -->
 |TV NL 11||17|||<!--  -->
 |TV BE 9||16|||<!--  -->
-|tvk ger 9||10|||<!--  -->
+|TVK ger 9||10|||<!--  -->
 |TV FR 10||15|||<!--  -->
 |TV US 20||18|||<!--  -->
 |TV VV 7||17|||<!--  -->
@@ -91,9 +98,9 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|TV portugal 9|||||3|<!--  -->
+|TV portugal 9||15|||3|<!--  -->
 |TVS it 2||?|||1|<!--  -->
-|TV ru 10||13|||6|<!--  -->
+|TV ru 10||13|||11|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

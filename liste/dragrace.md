@@ -20,7 +20,18 @@
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
-|RPDU 1||8||chili|
+|RPDR 1||9||us|
+|RPDR 2||12||us|
+|RPDR 3||16||us|
+|RPDR 4||14||us|
+|RPDR 5||14||us|
+|RPDR 6||14||us|
+|RPDR 7||14||us|
+|RPDR 8||10||us|
+|RPDR 9||14||us|
+|RPDR 10||14||us|
+|RPDR 11||14||us|
+|RPDU 1||8||us|
 |the switch DR 1||24||chili|
 |the switch DR 2||33||chili|
 |--|--|--|--|--|
@@ -55,7 +66,7 @@
 |dragula 4||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
-|god shaves the queens 1|||||<!--  -->
+|god shaves the queens 1||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
