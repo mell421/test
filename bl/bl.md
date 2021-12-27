@@ -9,7 +9,7 @@
 - [liste de bl](#liste-de-bl)
   - [sommaire](#sommaire)
   - [SKAM REMAKES](#skam-remakes)
-  - [usa and drag race](#usa-and-drag-race)
+  - [usa](#usa)
   - [asie](#asie)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
@@ -33,49 +33,10 @@
 |skam nl|pays-bas|2|
 |drop|ukraine|1|
 
-|titre|saison|nb ep vu|
-| --- | --- | :---: | 
-||||
-
-## usa and drag race
+## usa
 
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
-|DRAG RACE|||||<!--  -->
-|RPDRUK 1||8|||<!--  -->
-|RPSCDR 1||4|||<!--  -->
-|RPDRU 12||12|||<!--  -->
-|RPDR 12||14|||<!--  -->
-|RPDRAS 5||8|||<!--  -->
-|RPDRASU 5||8|||<!--  -->
-|DRCA 1||10|||<!--  -->
-|RPDR VR 1||6|||<!--  -->
-|DRTH 2||13|||<!--  -->
-|RPDRUK 2||10|||<!--  -->
-|RPDRU 13||14|||<!--  -->
-|DRNL 1||8|||<!--  -->
-|RPDR 13||16|||<!--  -->
-|RPDRDU 1||8|||<!--  -->
-|god shave the queens 1||8|||<!--  -->
-|queen of drags 1||6|||<!--  -->
-|la mas draga 1||7|||<!--  -->
-|la mas draga 2||9|||<!--  -->
-|RPDRU 9||12|||<!--  -->
-|DRESP 1||9|||<!--  -->
-|Rpdr out of the closet 1||6|||<!--  -->
-|Rpdr out of the closet 2||6|||<!--  -->
-|dragula 1||7|||<!--  -->
-|la mas draga 3||11|||<!--  -->
-|drag tots 1||8|||<!--  -->
-|dragula 2||10|||<!--  -->
-|dragula 3||10|||<!--  -->
-|RPDRAS 6||12|||<!--  -->
-|RPDRASU 6||10|||<!--  -->
-||||||<!--  -->
-||||||<!--  -->
-||||||<!--  -->
-||||||<!--  -->
-||||||<!--  -->
 |LGBT US + EUROPE + ANIME|||||<!--  -->
 |yuri on ice 1||12|||<!--  -->
 |visible out on tv||1|||<!--  -->
@@ -99,14 +60,7 @@
 ||||||<!--  -->
 |A DEPLACER|||||<!--  -->
 |young royals 1||6|||<!--  -->
-|DR NL 2||10|||<!--  -->
-|RPDRUK 3||?|||<!--  -->
 |les engagés 3||3|||<!--  -->
-|DR CA 2||10|||<!--  -->
-|dragula 4||10|||<!--  -->
-|DR IT 1|||||<!--  -->
-|painted with raven 1|||||<!--  -->
-|la mas draga 4||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
