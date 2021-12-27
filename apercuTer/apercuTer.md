@@ -699,6 +699,7 @@
 * Between us special _1
 ### sem 27-12-2021 
 * *insererici*
+* The voice greece _7
 * Incroyable talent _16
 * Dragula _4
 ### sem 03-01-2022 
@@ -727,7 +728,7 @@
 * The masked singer fr _3
 * 
 * $ order $
-* The voice greece _7
+* 
 * Josephine ange gardien _24
 * The voice ru _10
 * The voice portugal _9
@@ -862,7 +863,7 @@
 #### mois 01-12-2021 
 *The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
+*insererici The voice greece _7 Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 #### mois 01-02-2022 
 *insererici*
 

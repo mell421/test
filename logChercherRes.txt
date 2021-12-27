@@ -62,7 +62,6 @@ carac :  404 ZZ/Thevoiceru_10.txt
 carac :  4071 ZZ/Goodsingers_1.txt
 carac :  41 ZZ/F4thailand_1.txt
 carac :  4100 ZZ/Rpdruk_3.txt
-carac :  437 ZZ/Thevoicegreece_7.txt
 carac :  4459 ZZ/7project_1.txt
 carac :  5174 ZZ/Earthmixspace_1.txt
 carac :  5217 ZZ/Thevoiceportugal_9.txt
@@ -142,7 +141,6 @@ i = The case study of vanitas _1
 i = The harvest season _1
 i = The shipper _1
 i = The untamed _1
-i = The voice greece _7
 i = The voice portugal _9
 i = The voice ru _10
 i = The voice senior it _2
@@ -189,7 +187,6 @@ ligne :  19 ZZ/Josephineangegardien_24.txt
 ligne :  19 ZZ/Lucifer_4.txt
 ligne :  1959 ZZ/Unbag_1.txt
 ligne :  2 ZZ/Districtz_2.txt
-ligne :  2 ZZ/Thevoicegreece_7.txt
 ligne :  2 ZZ/Thevoiceru_10.txt
 ligne :  20 ZZ/Aokivuanpaianonayami_1.txt
 ligne :  20 ZZ/Mrlipstick_1.txt
@@ -307,7 +304,6 @@ mot   :  643 ZZ/7project_1.txt
 mot   :  668 ZZ/Rpdruk_3.txt
 mot   :  737 ZZ/Earthmixspace_1.txt
 mot   :  74 ZZ/Thevoiceru_10.txt
-mot   :  75 ZZ/Thevoicegreece_7.txt
 mot   :  758 ZZ/Koishiteakuma_1.txt
 mot   :  759 ZZ/Thevoiceportugal_9.txt
 mot   :  838 ZZ/Tbbt_11.txt

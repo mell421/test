@@ -66,7 +66,7 @@
 |skam france 5||10||france|
 |the greatest dancer 2||10||uk|
 |911 lone star 1||10||us|
-|TVK BE 1||8||blegique|
+|TVK BE 1||8||belgique|
 |SCD 15||25||uk|
 |stalk 1||10||france|
 |valemont 1||5||us|
@@ -433,7 +433,7 @@
 |game of talents fr 1||2|||<!--  -->
 |Survivor 7||15|||<!--  -->
 |The masked singer nz 1||11|||<!--  -->
-|the voice au 10||13|||<!--  -->
+|TV au 10||13|||<!--  -->
 |survivor au 8||24|||<!--  -->
 |lego masters 2||12|||<!-- 2/6 -->
 |nailed it 6||6|||<!--  -->
@@ -444,17 +444,17 @@
 |drag race nl 2||8|||<!--  -->
 |next in fashion 1||10|||<!--  -->
 |the circle us 3||13|||<!--  -->
-|the voice finland 11||5|||<!--  -->
+|TV finland 11||5|||<!--  -->
 |the masked singer au 3||11|||<!--  -->
 |Sytycd 15||14|||<!--  -->
 |stalk 2||10|||<!--  -->
 |see you after quarantine 1||10|||<!--  -->
 |all for one 2||30|||<!--  -->
-|the voice senior nl 4||7|||<!--  -->
+|TVS nl 4||7|||<!--  -->
 |survivor au 5||25|||<!--  -->
 |the tasty florida 1||8|||<!--  -->
 |AHS 10||10|||<!--  -->
-|the voice 11||7|||<!--  -->
+|TV 11||7|||<!--  -->
 |the good doctor 4||20|||<!--  -->
 |Love is science bl cut|Love is science bl cut|20|series|taiwan|<!--  -->
 |survivor 8||17|||<!--  -->
@@ -462,35 +462,36 @@
 |friend or lover|friend or lover|6|serie|taiwan|              <!-- 34 -->
 |midnight mass 1||7|||<!--  -->
 |munch 4||8|||<!--  -->
-|The voice senior th 2||7|||<!--  -->
+|TVS th 2||7|||<!--  -->
 |Survivor 10||15|||<!--  -->
-|The voice senior th 1||4|||<!--  -->
+|TVS th 1||4|||<!--  -->
 |bite sisters 1||10|||<!--  -->
 |DWTS 30||11|||<!--  -->
 |dals 11||11|||<!--  -->
 |The love that dare not speak its name||6|||<!--  -->
 |the masked singer ger 5|||||<!--  -->
-|The voice th 7||15|||<!--  -->
+|TV th 7||15|||<!--  -->
 |survivor 11||15|||<!--  -->
 |alter ego 1||11|||<!--  -->
 |la mas draga 4||12|||<!--  -->
-|The voice th 6||15|||<!--  -->
-|the voice bulgarie 8||14|||<!--  -->
+|TV th 6||15|||<!--  -->
+|TV bulgarie 8||14|||<!--  -->
 |Between us special 1|Between us special|6|series|thailande|<!--  -->
 |Koh-Lanta 27||15|||<!--  -->
-|the voice us 21||26|||<!--  -->
+|TV us 21||26|||<!--  -->
 |survivor 41||14|||<!--  -->
 |the masked singer 6||13|||<!--  -->
 |deadwater fell 1||4|||<!--  -->
 |drag race ca 2||10|||<!--  -->
 |Strictly come dancing 19||25|||<!--  -->
-|the voice esp 8||13|||<!--  -->
+|TV esp 8||13|||<!--  -->
 |offgun fun night 2|offgun fun night 2|12+4|show|thailande|<!--  -->
-|the voice greece 8||28|||<!--  -->
-|the voice ger 11||19|||<!--  -->
+|TV greece 8||28|||<!--  -->
+|TV ger 11||19|||<!--  -->
 |dragula 4||10|||<!--  -->
 |BT21 original story 1||13?|||<!--  -->
 |incroyable talent 16||9|||<!--  -->
+|TV greece 7||22|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -677,7 +678,6 @@
 |aggretsuko 4||10|||1|<!--  -->
 |F4 thailand||16|||1|<!--  -->
 |the voice ru 10||13|||6|<!--  -->
-|the voice greece 7||22|||13|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -696,7 +696,7 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the player 1||14|||0|<!--  -->
-|the voice kids uk 5||3|||0|<!--  -->
+|TVK uk 5||3|||0|<!--  -->
 |lego masters fr 2||4|||0|<!--  -->
 |the voice be 10||16|||0|<!--  -->
 |the masked singer uk 3|||||0|<!--  -->
@@ -710,7 +710,7 @@
 |rainbow prince 1|||||0|<!--  -->
 |ASC 1|||||0|<!--  -->
 |Survivor 42|||||0|<!--  -->
-||||||0|<!--  -->
+|survivor au 9|||||0|<!--  -->
 ||||||0|<!--  -->
 |quaranthings 2||8|||0|<!--  -->
 |nilundon 1|||||0|<!--  -->

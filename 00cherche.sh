@@ -25,7 +25,7 @@ list99=(
 # 9-8
 "District z _2" 
 # 7-6
-"The voice greece _7" "The voice ru _10" "My sweet dear _1" "Love area _1" "Les engages _3" "Goblin _1" 
+"The voice ru _10" "My sweet dear _1" "Love area _1" "Les engages _3" "Goblin _1" 
 # 5-4
 "F4 thailand _1" "Aggretsuko _4" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
@@ -42,7 +42,7 @@ list99=(
 
 listAsc=( 
 # 1
-"The voice greece _7" "Josephine ange gardien _24" "The voice ru _10" "The voice portugal _9" "Dexter _9" 
+"Josephine ange gardien _24" "The voice ru _10" "The voice portugal _9" "Dexter _9" 
 # 2
 "Not me _1" "Mr cinderella _1" "District z _2" "F4 thailand _1" "The voice senior it _2" 
 # 3

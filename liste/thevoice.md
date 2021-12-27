@@ -1,0 +1,130 @@
+[retour](./../index.html)
+<!--  -->
+[PDF](./thevoice.pdf) [MD](./thevoice.md) 
+
+
+# liste de séries + emissions
+
+## sommaire
+- [liste de séries + emissions](#liste-de-séries--emissions)
+  - [sommaire](#sommaire)
+  - [terminé](#terminé)
+  - [en cours, a jour](#en-cours-a-jour)
+  - [a venir](#a-venir)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+## terminé
+ 
+|titre|titre officiel|nb ep|categorie|pays|
+| --- | --- | :---: | --- | --- |
+|TVK 6||9||france|
+|TV GER 9||17||allemagne|
+|TV indonesia 4||22||indonésie|
+|TV US 17||26||us|
+|TV NL 10||17||nl|
+|TV AU 8||20||australie|
+|TVK BE 1||8||belgique|
+|TV AU 7||20||australie|
+|TVK DE 8||10||allemagne|
+|TV VV 5||16||vv|
+|TVS VV 1||4||vv|
+|TV NL 6||17||nl|
+|TV UK 8||14||uk|
+|TVS NL 1||4||nnl|
+|TVS NL 2||4||nl|
+|TV US 18||17||us|
+|TVK NL 1||9||nl|
+|TVK NL 9||13||nl|
+|TV 9||17||france|
+|TV AU 9||21||australie|
+|TVK UK 4||8|||
+|TV TH 8||15|||
+|TVK TH 7||8|||
+|TVK VV 5||10|||
+|TVS NL 3||4|||
+|TVK 7||8||france|
+|TV UK 9||14|||
+|TVS VV 2||4|||
+|TV US 19||18|||
+|TV GER 10||19|||
+|TVS IT 1||5|||
+|TV VV 6||16|||
+|TV UK 10||12|||<!--  -->
+|TV NL 11||17|||<!--  -->
+|TV BE 9||16|||<!--  -->
+|tvk ger 9||10|||<!--  -->
+|TV FR 10||15|||<!--  -->
+|TV US 20||18|||<!--  -->
+|TV VV 7||17|||<!--  -->
+|TV NO 6||21|||<!--  -->
+|TVK NL 10||10|||<!--  -->
+|TV au 10||13|||<!--  -->
+|TV finland 11||5|||<!--  -->
+|TVS nl 4||7|||<!--  -->
+|TV 11||7|||<!--  -->
+|TVS th 2||7|||<!--  -->
+|TVS th 1||4|||<!--  -->
+|TV th 7||15|||<!--  -->
+|TV th 6||15|||<!--  -->
+|TV bulgarie 8||14|||<!--  -->
+|TV us 21||26|||<!--  -->
+|TV esp 8||13|||<!--  -->
+|TV greece 8||28|||<!--  -->
+|TV ger 11||19|||<!--  -->
+|TV greece 7||22|||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+## en cours, a jour
+ 
+|titre|titre officiel|nb ep|categorie|pays|nb vu|
+| --- | --- | :---: | --- | --- | --- |
+|TV portugal 9|||||3|<!--  -->
+|TVS it 2||?|||1|<!--  -->
+|TV ru 10||13|||6|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+
+
+## a venir
+ 
+|titre|titre officiel|nb ep|categorie|pays|nb vu|
+| --- | --- | :---: | --- | --- | --- |
+|TVK uk 5||3|||0|<!--  -->
+|TV be 10||16|||0|<!--  -->
+|TV nl 12|||||0|<!--  -->
+|TV no 7|||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+
+[retour](./../index.html)

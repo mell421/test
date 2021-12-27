@@ -179,11 +179,6 @@ ligne :  2 ZZ/Districtz_2.txt
 mot   :  56 ZZ/Districtz_2.txt
 carac :  355 ZZ/Districtz_2.txt
 
-i = The voice greece _7
-ligne :  2 ZZ/Thevoicegreece_7.txt
-mot   :  75 ZZ/Thevoicegreece_7.txt
-carac :  437 ZZ/Thevoicegreece_7.txt
-
 i = The voice ru _10
 ligne :  2 ZZ/Thevoiceru_10.txt
 mot   :  74 ZZ/Thevoiceru_10.txt
