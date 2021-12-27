@@ -19,7 +19,7 @@
 ## terminé
  
 |titre|titre officiel|nb ep|categorie|pays|
-| --- | --- | :---: | --
+| --- | --- | :---: | --- | --- |
 |KL 24||15||france|
 |KL 25||15|||
 |survivor au 7||25|||<!--  -->

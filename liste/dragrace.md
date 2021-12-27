@@ -20,6 +20,10 @@
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
+|RPDU 1||8||chili|
+|the switch DR 1||24||chili|
+|the switch DR 2||33||chili|
+|--|--|--|--|--|
 |RPDRUK 1||9||uk|
 |RPSCDR 1||4||us|
 |RPDRU 12||12||us|
@@ -51,7 +55,7 @@
 |dragula 4||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
-||||||<!--  -->
+|god shaves the queens 1|||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -89,6 +93,12 @@
 |drag race fr 1|||||0|<!--  -->
 |rpdr uk vs world 1|||||0|<!--  -->
 |drag latina 1|||||0|<!--  -->
+|drag race ph 1||||||<!--  -->
+|drag den ph 1||||||<!--  -->
+|call me mother 1||||||<!--  -->
+|house of drags 1||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
