@@ -672,8 +672,8 @@
 - 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} unbag _1{405} 
 - 12/07/21 - 655* glow up _2{2} /46 days _1{5} zombie detective _1{4} unbag _1{408} 
 - 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} unbag _1{410} 
-- 14/07/21 - 253* josephine ange gardien _24{0} camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
-- 15/07/21 - 299* /46 days _1{11} josephine ange gardien _24{1} camping paradis _12{3} 
+- 14/07/21 - 253* camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
+- 15/07/21 - 299* /46 days _1{11} camping paradis _12{3} 
 - 16/07/21 - 215* /46 days _1{13} 
 - 17/07/21 - 180* good singers _1{4} 
 - 18/07/21 - 188* good singers _1{4} 
@@ -734,10 +734,10 @@
 - 11/09/21 - 303* dont say no _1{14} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
 - 12/09/21 - 306* dont say no _1{15} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
 - 13/09/21 - 211* buffy _1{1} dont say no _1{17} earthmix space _1{1} lucifer _4{5} bite me _1{3} 
-- 14/09/21 - 115* peach of time _1{22} josephine ange gardien _24{3} 7project _1{3} buffy _1{3} dont say no _1{18} earthmix space _1{1} lucifer _4{5} 
-- 15/09/21 - 225* peach of time _1{23} josephine ange gardien _24{3} 7project _1{4} buffy _1{3} dont say no _1{18} 
-- 16/09/21 - 191* peach of time _1{24} josephine ange gardien _24{3} 7project _1{4} buffy _1{3} 
-- 17/09/21 - 643* unbag _1{548} peach of time _1{25} josephine ange gardien _24{3} 7project _1{4} buffy _1{3} 
+- 14/09/21 - 115* peach of time _1{22} 7project _1{3} buffy _1{3} dont say no _1{18} earthmix space _1{1} lucifer _4{5} 
+- 15/09/21 - 225* peach of time _1{23} 7project _1{4} buffy _1{3} dont say no _1{18} 
+- 16/09/21 - 191* peach of time _1{24} 7project _1{4} buffy _1{3} 
+- 17/09/21 - 643* unbag _1{548} peach of time _1{25} 7project _1{4} buffy _1{3} 
 - 18/09/21 - 661* dont say no _1{18} unbag _1{550} peach of time _1{26} 
 - 19/09/21 - 627* alice in borderland _1{0} dont say no _1{20} unbag _1{552} 
 - 20/09/21 - 63* post mortem _1{4} alice in borderland _1{1} 

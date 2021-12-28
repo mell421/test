@@ -98,7 +98,6 @@ The shipper 1x5
 Post mortem 1x3
 * Alice in borderland 1x1
 Peach of time 1x6
-Josephine ange gardien 24x2
 Buffy 1x7
 * Earthmix space 1x1
 Lucifer 4x4
@@ -117,7 +116,6 @@ Control z 2x2
 * Control z 2x1
 /46 days 1x7
 Glow up 2x2
-* Josephine ange gardien 24x1
 * Glow up 2x1
 Zombie detective 1x2
 * /46 days 1x1

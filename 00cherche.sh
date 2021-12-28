@@ -21,7 +21,7 @@ list99=(
 # 19-15
 "The voice senior it _2" "Paint with love _1" "The shipper _1" "Druck _7" "Mr cinderella _1" "Queen of the universe _1" 
 # 14-10
-"Josephine ange gardien _24" "Aoki vuanpaia no nayami _1" "Unlocked _1" "Drag race it _1" "Young sheldon _5" "The case study of vanitas _1" "Baker boys _1" "Not me _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"Aoki vuanpaia no nayami _1" "Unlocked _1" "Drag race it _1" "Young sheldon _5" "The case study of vanitas _1" "Baker boys _1" "Not me _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
 "District z _2" 
 # 7-6
@@ -42,7 +42,7 @@ list99=(
 
 listAsc=( 
 # 1
-"Josephine ange gardien _24" "The voice ru _10" "The voice portugal _9" "Dexter _9" 
+"The voice ru _10" "The voice portugal _9" "Dexter _9" 
 # 2
 "Not me _1" "Mr cinderella _1" "District z _2" "F4 thailand _1" "The voice senior it _2" 
 # 3
