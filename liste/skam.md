@@ -1,12 +1,12 @@
-[retour](./../index.html)
-<!--  -->
-[PDF](./liste.pdf) [MD](./liste.md) 
 
+|[retour](./../index.html)|[PDF](./skam.pdf)|[MD](./skam.md)|||
+| --- | --- | :---: | --- | --- |
+|[drag race](./dragrace.html)|[skam](./skam.html)|[survivor](./survivor.html)|[the voice](./thevoice.html)|[bl](./../bl/bl.html)|
 
-# liste de séries + emissions
+# skam
 
 ## sommaire
-- [liste de séries + emissions](#liste-de-séries--emissions)
+- [skam](#skam)
   - [sommaire](#sommaire)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
@@ -86,10 +86,5 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|date future||||||<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
 
 [retour](./../index.html)

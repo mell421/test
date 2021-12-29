@@ -1,12 +1,12 @@
-[retour](./../index.html)
-<!--  -->
-[PDF](./dragrace.pdf) [MD](./dragrace.md) 
 
+|[retour](./../index.html)|[PDF](./dragrace.pdf)|[MD](./dragrace.md)|||
+| --- | --- | :---: | --- | --- |
+|[drag race](./dragrace.html)|[skam](./skam.html)|[survivor](./survivor.html)|[the voice](./thevoice.html)|[bl](./../bl/bl.html)|
 
-# liste de séries + emissions
+# drag race
 
 ## sommaire
-- [liste de séries + emissions](#liste-de-séries--emissions)
+- [drag race](#drag-race)
   - [sommaire](#sommaire)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
@@ -30,11 +30,12 @@
 |RPDR 8||10||us|
 |RPDR 9||14||us|
 |RPDR 10||14||us|
-|RPDR 11||14||us|
 |RPDU 1||8||us|
 |the switch DR 1||24||chili|
-|the switch DR 2||33||chili|
 |--|--|--|--|--|
+|the switch DR 2||33||chili|
+|RPDRU 11||12||us|
+|RPDR 11||14||us|
 |RPDRUK 1||9||uk|
 |RPSCDR 1||4||us|
 |RPDRU 12||12||us|
@@ -120,10 +121,5 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|date future||||||<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
 
 [retour](./../index.html)

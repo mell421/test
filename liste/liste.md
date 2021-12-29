@@ -1,7 +1,7 @@
-[retour](./../index.html)
-<!--  -->
-[PDF](./liste.pdf) [MD](./liste.md) 
 
+|[retour](./../index.html)|[PDF](./liste.pdf)|[MD](./liste.md)|||
+| --- | --- | :---: | --- | --- |
+|[drag race](./dragrace.html)|[skam](./skam.html)|[survivor](./survivor.html)|[the voice](./thevoice.html)|[bl](./../bl/bl.html)|
 
 # liste de séries + emissions
 
@@ -678,7 +678,12 @@
 |aggretsuko 4||10|||1|<!--  -->
 |F4 thailand||16|||1|<!--  -->
 |the voice ru 10||13|||6|<!--  -->
-||||||0|<!--  -->
+|the player|the player|16|serie(*)|thailande|0|<!-- -->
+|you are my sunshine||6|serie|vietnam|2|<!--  -->
+|tinted with you|tinted with you|8|serie|corée|2|<!--  -->
+|survivor 12||16|||0|<!--  -->
+|the voice be 10||16|||0|<!--  -->
+|lego masters fr 2||4|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -695,10 +700,7 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|the player 1||14|||0|<!--  -->
 |TVK uk 5||3|||0|<!--  -->
-|lego masters fr 2||4|||0|<!--  -->
-|the voice be 10||16|||0|<!--  -->
 |the masked singer uk 3|||||0|<!--  -->
 |/9-1-1 lone star 3|||||0|<!--  -->
 |i can see your voice 2|||||0|<!--  -->

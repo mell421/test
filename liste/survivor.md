@@ -1,12 +1,12 @@
-[retour](./../index.html)
-<!--  -->
-[PDF](./survivor.pdf) [MD](./survivor.md) 
 
+|[retour](./../index.html)|[PDF](./survivor.pdf)|[MD](./survivor.md)|||
+| --- | --- | :---: | --- | --- |
+|[drag race](./dragrace.html)|[skam](./skam.html)|[survivor](./survivor.html)|[the voice](./thevoice.html)|[bl](./../bl/bl.html)|
 
-# liste de séries + emissions
+# survivor
 
 ## sommaire
-- [liste de séries + emissions](#liste-de-séries--emissions)
+- [survivor](#survivor)
   - [sommaire](#sommaire)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
@@ -69,7 +69,7 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |survivor au 6||25||aus|3|<!--  -->
-||||||0|<!--  -->
+|survivor 12||16|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -93,10 +93,5 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|date future||||||<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
 
 [retour](./../index.html)

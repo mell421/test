@@ -1,12 +1,12 @@
-[retour](./../index.html)
-<!--  -->
-[PDF](./thevoice.pdf) [MD](./thevoice.md) 
 
+|[retour](./../index.html)|[PDF](./thevoice.pdf)|[MD](./thevoice.md)|||
+| --- | --- | :---: | --- | --- |
+|[drag race](./dragrace.html)|[skam](./skam.html)|[survivor](./survivor.html)|[the voice](./thevoice.html)|[bl](./../bl/bl.html)|
 
-# liste de séries + emissions
+# the voice
 
 ## sommaire
-- [liste de séries + emissions](#liste-de-séries--emissions)
+- [the voice](#the-voice)
   - [sommaire](#sommaire)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
@@ -98,9 +98,9 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|TV portugal 9||15|||3|<!--  -->
-|TVS it 2||?|||1|<!--  -->
-|TV ru 10||13|||11|<!--  -->
+|the voice portugal 9||15|||3|<!--  -->
+|the voice Senior it 2||?|||1|<!--  -->
+|the voice ru 10||13|||11|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -115,20 +115,11 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|TVK uk 5||3|||0|<!--  -->
-|TV be 10||16|||0|<!--  -->
-|TV nl 12|||||0|<!--  -->
-|TV no 7|||||0|<!--  -->
+|the voice kids uk 5||3|||0|<!--  -->
+|the voice be 10||16|||0|<!--  -->
+|the voice nl 12|||||0|<!--  -->
+|the voice no 7|||||0|<!--  -->
 ||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

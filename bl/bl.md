@@ -286,8 +286,9 @@
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
 |NOTME|NOTME|14|serie|thailande|2|<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
-|||||||<!--  -->
-|||||||<!--  -->
+|the player|the player|16|serie(*)|thailande|0|<!-- -->
+|you are my sunshine||6|serie|vietnam|2|<!--  -->
+|tinted with you|tinted with you|8|serie|corée|2|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -302,7 +303,6 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|the player|the player|16|serie(*)|thailande|0|<!-- -->
 |gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
 |checkout|checkout|?|serie|thailande|0|<!--  -->
 |quaranthings 2|quaranthings 2|8|serie|philippines|0|<!-- -->
