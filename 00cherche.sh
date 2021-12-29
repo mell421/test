@@ -81,7 +81,7 @@ listAsc=(
 
 listAV=( 
 # dec
-"The player _1" "The voice kids uk _5" "Lego masters fr _2" "The voice be _10" 
+"The player _1" "Lego masters fr _2" "The voice be _10" 
 # jan
 "The masked singer uk _3" "/9-1-1 lone star _3" "I can see your voice _2" "Ninja warrior _6" "The voice nl _12" "The voice no _7" "Rpdr _14" "Rpdru _14" "Rainbow prince _1" 
 # fev

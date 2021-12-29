@@ -82,6 +82,7 @@
 |TV greece 8||28|||<!--  -->
 |TV ger 11||19|||<!--  -->
 |TV greece 7||22|||<!--  -->
+|TVK uk 5||3|||0|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -115,7 +116,6 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|the voice kids uk 5||3|||0|<!--  -->
 |the voice be 10||16|||0|<!--  -->
 |the voice nl 12|||||0|<!--  -->
 |the voice no 7|||||0|<!--  -->
