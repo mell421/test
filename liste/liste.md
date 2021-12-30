@@ -493,7 +493,8 @@
 |incroyable talent 16||9|||<!--  -->
 |TV greece 7||22|||<!--  -->
 |josephine ange gardien 24||4|||<!--  -->
-|TVK uk 5||3|||0|<!--  -->
+|TVK uk 5||3|||<!--  -->
+|survivor 12||16|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -682,7 +683,6 @@
 |the player|the player|16|serie(*)|thailande|0|<!-- -->
 |you are my sunshine||6|serie|vietnam|2|<!--  -->
 |tinted with you|tinted with you|8|serie|corée|2|<!--  -->
-|survivor 12||16|||0|<!--  -->
 |the voice be 10||16|||0|<!--  -->
 |lego masters fr 2||4|||0|<!--  -->
 ||||||0|<!--  -->
@@ -701,6 +701,7 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
+|survivor 13||16|||<!--  -->
 |the masked singer uk 3|||||0|<!--  -->
 |/9-1-1 lone star 3|||||0|<!--  -->
 |i can see your voice 2|||||0|<!--  -->
