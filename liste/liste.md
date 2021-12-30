@@ -495,6 +495,7 @@
 |josephine ange gardien 24||4|||<!--  -->
 |TVK uk 5||3|||<!--  -->
 |survivor 12||16|||<!--  -->
+|queen of the universe 1||6|||<!-- 2/12 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -673,7 +674,6 @@
 |the voice senior it 2||?|||1|<!--  -->
 |paint with love 1||8|||1|<!--  -->
 |mr cinderella 1||?|||4|<!--  -->
-|queen of the universe 1||6|||4|<!-- 2/12 -->
 |district z 2||4|||2|<!--  -->
 |5515 never too late 1||12|||3|<!--  -->
 |not me 1||14|||2|<!--  -->

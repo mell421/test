@@ -38,7 +38,6 @@ Earthmix space 1x8
 Bad buddy 1x8
 Painted with raven 1x4
 * Aggretsuko 4x1
-Queen of the universe 1x4
 The voice portugal 9x9
 Dexter 9x6
 5515 never too late 1x3
@@ -51,7 +50,6 @@ Camping paradis 12x5
 Rpdruk 3x5
 * District z 2x1
 Drag race it 1x3
-* Queen of the universe 1x1
 Baker boys 1x3
 Kieta hatsukoi 1x7
 * Mr cinderella 1x1

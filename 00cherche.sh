@@ -19,7 +19,7 @@ list99=(
 # 29-20
 "Do seu lado _1" "5515 never too late _1" "7project _1" "Painted with raven _1" "/9-1-1 _5" 
 # 19-15
-"The voice senior it _2" "Paint with love _1" "The shipper _1" "Druck _7" "Mr cinderella _1" "Queen of the universe _1" 
+"The voice senior it _2" "Paint with love _1" "The shipper _1" "Druck _7" "Mr cinderella _1" 
 # 14-10
 "Aoki vuanpaia no nayami _1" "Unlocked _1" "Drag race it _1" "Young sheldon _5" "The case study of vanitas _1" "Baker boys _1" "Not me _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
@@ -48,7 +48,7 @@ listAsc=(
 # 3
 "Unlocked _1" "Paint with love _1" "Earthmix space _1" "Bad buddy _1" "Painted with raven _1" 
 # 4
-"Aggretsuko _4" "Queen of the universe _1" "5515 never too late _1" "Unbag _1" 
+"Aggretsuko _4" "5515 never too late _1" "Unbag _1" 
 # 5
 "Do seu lado _1" "Camping paradis _12" "Rpdruk _3" "Drag race it _1" "Baker boys _1" 
 # 6

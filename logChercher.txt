@@ -51,8 +51,8 @@ carac :  4036 ZZ/Rpdruk_3.txt
 
 i = Bad buddy _1
 ligne :  24 ZZ/Badbuddy_1.txt
-mot   :  524 ZZ/Badbuddy_1.txt
-carac :  3460 ZZ/Badbuddy_1.txt
+mot   :  519 ZZ/Badbuddy_1.txt
+carac :  3432 ZZ/Badbuddy_1.txt
 
 i = Camping paradis _12
 ligne :  43 ZZ/Campingparadis_12.txt
@@ -81,8 +81,8 @@ carac :  4211 ZZ/7project_1.txt
 
 i = Painted with raven _1
 ligne :  7 ZZ/Paintedwithraven_1.txt
-mot   :  221 ZZ/Paintedwithraven_1.txt
-carac :  1412 ZZ/Paintedwithraven_1.txt
+mot   :  216 ZZ/Paintedwithraven_1.txt
+carac :  1384 ZZ/Paintedwithraven_1.txt
 
 i = /9-1-1 _5
 ligne :  29 ZZ//9-1-1_5.txt
@@ -114,11 +114,6 @@ ligne :  5 ZZ/Mrcinderella_1.txt
 mot   :  166 ZZ/Mrcinderella_1.txt
 carac :  1135 ZZ/Mrcinderella_1.txt
 
-i = Queen of the universe _1
-ligne :  3 ZZ/Queenoftheuniverse_1.txt
-mot   :  45 ZZ/Queenoftheuniverse_1.txt
-carac :  286 ZZ/Queenoftheuniverse_1.txt
-
 i = Aoki vuanpaia no nayami _1
 ligne :  20 ZZ/Aokivuanpaianonayami_1.txt
 mot   :  445 ZZ/Aokivuanpaianonayami_1.txt
@@ -131,8 +126,8 @@ carac :  2518 ZZ/Unlocked_1.txt
 
 i = Drag race it _1
 ligne :  16 ZZ/Dragraceit_1.txt
-mot   :  596 ZZ/Dragraceit_1.txt
-carac :  3485 ZZ/Dragraceit_1.txt
+mot   :  586 ZZ/Dragraceit_1.txt
+carac :  3429 ZZ/Dragraceit_1.txt
 
 i = Young sheldon _5
 ligne :  17 ZZ/Youngsheldon_5.txt
@@ -146,8 +141,8 @@ carac :
 
 i = Baker boys _1
 ligne :  11 ZZ/Bakerboys_1.txt
-mot   :  300 ZZ/Bakerboys_1.txt
-carac :  1831 ZZ/Bakerboys_1.txt
+mot   :  290 ZZ/Bakerboys_1.txt
+carac :  1775 ZZ/Bakerboys_1.txt
 
 i = Not me _1
 ligne :  13 ZZ/Notme_1.txt

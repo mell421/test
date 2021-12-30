@@ -797,7 +797,7 @@
 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} dexter _9{4} mr cinderella _1{1} paint with love _1{1} 
 01/12/21 - 546* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} 
 02/12/21 - 470* the voice portugal _9{10} 
-03/12/21 - 267* drag race it _1{3} queen of the universe _1{0} baker boys _1{4} 
-04/12/21 - 222* painted with raven _1{2} bad buddy _1{8} drag race it _1{3} queen of the universe _1{0} baker boys _1{4} 
+03/12/21 - 267* drag race it _1{3} baker boys _1{4} 
+04/12/21 - 222* painted with raven _1{2} bad buddy _1{8} drag race it _1{3} baker boys _1{4} 
 
 </doc>
