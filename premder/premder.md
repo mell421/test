@@ -24,7 +24,7 @@ Goblin 1x2
 Les engages 3x2
 The big leap 1x2
 Aggretsuko 4x2
-Not me 1x2
+Not me 1x3
 District z 2x2
 
 
