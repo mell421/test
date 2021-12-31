@@ -781,26 +781,26 @@
 - 28/10/21 - 213* the voice portugal _9{1} tbbt _11{6} aoki vuanpaia no nayami _1{6} 
 - 29/10/21 - 831* unbag _1{634} the voice portugal _9{1} tbbt _11{8} 
 - 30/10/21 - 756* bad buddy _1{0} unbag _1{636} 
-- 31/10/21 - 798* druck _7{0} bad buddy _1{0} unbag _1{638} 
-- 01/11/21 - 195* kieta hatsukoi _1{3} druck _7{2} bad buddy _1{2} 
-- 02/11/21 - 207* the voice portugal _9{3} kieta hatsukoi _1{3} druck _7{2} 
+- 31/10/21 - 798* bad buddy _1{0} unbag _1{638} 
+- 01/11/21 - 195* kieta hatsukoi _1{3} bad buddy _1{2} 
+- 02/11/21 - 207* the voice portugal _9{3} kieta hatsukoi _1{3} 
 - 03/11/21 - 289* the voice portugal _9{3} kieta hatsukoi _1{3} 
 - 04/11/21 - 279* the voice portugal _9{3} 
 - 05/11/21 - 822* unbag _1{650} the voice portugal _9{3} 
 - 06/11/21 - 748* bad buddy _1{2} earthmix space _1{6} unbag _1{652} 
-- 07/11/21 - 186* kieta hatsukoi _1{3} druck _7{2} banana fish _1{0} bad buddy _1{2} 
-- 08/11/21 - 229* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{6} druck _7{3} 
-- 09/11/21 - 237* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{7} druck _7{3} 
-- 10/11/21 - 327* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{9} druck _7{3} 
+- 07/11/21 - 186* kieta hatsukoi _1{3} banana fish _1{0} bad buddy _1{2} 
+- 08/11/21 - 229* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{6} 
+- 09/11/21 - 237* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{7} 
+- 10/11/21 - 327* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{9} 
 - 11/11/21 - 346* the voice portugal _9{4} dexter _9{1} 
 - 12/11/21 - 308* the voice portugal _9{4} 
 - 13/11/21 - 206* bad buddy _1{3} 
 - 14/11/21 - 212* bad buddy _1{3} 
 - 15/11/21 - 273* the voice portugal _9{4} dexter _9{1} bad buddy _1{3} 
-- 16/11/21 - 292* the case study of vanitas _1{0} druck _7{3} kieta hatsukoi _1{17} the voice portugal _9{5} dexter _9{2} 
-- 17/11/21 - 386* the case study of vanitas _1{2} druck _7{3} kieta hatsukoi _1{17} the voice portugal _9{5} 
-- 18/11/21 - 244* the case study of vanitas _1{3} druck _7{3} kieta hatsukoi _1{17} 
-- 19/11/21 - 209* drag race it _1{0} the case study of vanitas _1{4} druck _7{3} kieta hatsukoi _1{17} 
+- 16/11/21 - 292* the case study of vanitas _1{0} kieta hatsukoi _1{17} the voice portugal _9{5} dexter _9{2} 
+- 17/11/21 - 386* the case study of vanitas _1{2} kieta hatsukoi _1{17} the voice portugal _9{5} 
+- 18/11/21 - 244* the case study of vanitas _1{3} kieta hatsukoi _1{17} 
+- 19/11/21 - 209* drag race it _1{0} the case study of vanitas _1{4} kieta hatsukoi _1{17} 
 - 20/11/21 - 236* bad buddy _1{4} les engages _3{0} drag race it _1{0} 
 - 21/11/21 - 331* bad buddy _1{4} les engages _3{0} drag race it _1{0} 
 - 22/11/21 - 328* the voice portugal _9{5} dexter _9{2} bad buddy _1{4} les engages _3{0} 

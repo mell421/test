@@ -17,7 +17,7 @@ list99=(
 # 39-30
 "The voice senior it _2" "5515 never too late _1" "Camping paradis _12" 
 # 29-20
-"Painted with raven _1" "Druck _7" "Paint with love _1" "Mr cinderella _1" "7project _1" "/9-1-1 _5" 
+"Painted with raven _1" "Paint with love _1" "Mr cinderella _1" "7project _1" "/9-1-1 _5" 
 # 19-15
 "Not me _1" "The shipper _1" 
 # 14-10
@@ -45,7 +45,7 @@ listAsc=(
 # 1
 "Painted with raven _1" "Tinted with you _1" "Survivor _13" "Lego masters fr _2" "Behind cut _1" 
 # 2
-"Inhuman condition _1" "The voice be _10" "5515 never too late _1" "Druck _7" "The voice portugal _9" 
+"Inhuman condition _1" "The voice be _10" "5515 never too late _1" "The voice portugal _9" 
 # 3
 "Dexter _9" "Not me _1" "The player _1" "You are my sunshine _1" "Mr cinderella _1" 
 # 4

@@ -12,7 +12,7 @@ aEff/aeff.md:- 21/09/21 - 54* /9-1-1 _5{0} post mortem _1{4}
 aEff/aeff.md:- 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
 aEff/aeff.md:- 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
 apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Druck _7x2(1) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 apercu/apercu21.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) Unbag _1x32(1) 
 apercu/apercu21.md:- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 

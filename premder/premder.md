@@ -62,11 +62,9 @@ Kieta hatsukoi 1x7
 * Drag race it 1x1
 The case study of vanitas 1x2
 * The case study of vanitas 1x1
-Druck 7x3
 * Dexter 9x1
 Banana fish 1x2
 * Banana fish 1x1
-* Druck 7x1
 * Bad buddy 1x1
 Tbbt 11x3
 Aoki vuanpaia no nayami 1x3
