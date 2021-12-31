@@ -58,7 +58,6 @@ carac :  3911 ZZ/Goodsingers_1.txt
 carac :  40 ZZ/Aggretsuko_4.txt
 carac :  4018 ZZ/Younevereatalone_1.txt
 carac :  4036 ZZ/Rpdruk_3.txt
-carac :  404 ZZ/Thevoiceru_10.txt
 carac :  41 ZZ/F4thailand_1.txt
 carac :  4211 ZZ/7project_1.txt
 carac :  5080 ZZ/Earthmixspace_1.txt
@@ -138,7 +137,6 @@ i = The harvest season _1
 i = The shipper _1
 i = The untamed _1
 i = The voice portugal _9
-i = The voice ru _10
 i = The voice senior it _2
 i = The yearbook _1
 i = Tien bromance _1
@@ -182,7 +180,6 @@ ligne :  19 ZZ/Controlz_2.txt
 ligne :  19 ZZ/Lucifer_4.txt
 ligne :  1958 ZZ/Unbag_1.txt
 ligne :  2 ZZ/Districtz_2.txt
-ligne :  2 ZZ/Thevoiceru_10.txt
 ligne :  20 ZZ/Aokivuanpaianonayami_1.txt
 ligne :  20 ZZ/Mrlipstick_1.txt
 ligne :  20 ZZ/Theuntamed_1.txt
@@ -295,7 +292,6 @@ mot   :  609 ZZ/Wabishow_1.txt
 mot   :  611 ZZ/7project_1.txt
 mot   :  660 ZZ/Rpdruk_3.txt
 mot   :  725 ZZ/Earthmixspace_1.txt
-mot   :  74 ZZ/Thevoiceru_10.txt
 mot   :  758 ZZ/Koishiteakuma_1.txt
 mot   :  759 ZZ/Thevoiceportugal_9.txt
 mot   :  830 ZZ/Campingparadis_12.txt

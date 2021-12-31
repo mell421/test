@@ -169,11 +169,6 @@ ligne :  2 ZZ/Districtz_2.txt
 mot   :  56 ZZ/Districtz_2.txt
 carac :  355 ZZ/Districtz_2.txt
 
-i = The voice ru _10
-ligne :  2 ZZ/Thevoiceru_10.txt
-mot   :  74 ZZ/Thevoiceru_10.txt
-carac :  404 ZZ/Thevoiceru_10.txt
-
 i = My sweet dear _1
 ligne :  8 ZZ/Mysweetdear_1.txt
 mot   :  217 ZZ/Mysweetdear_1.txt

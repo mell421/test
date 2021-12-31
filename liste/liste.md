@@ -496,6 +496,7 @@
 |TVK uk 5||3|||<!--  -->
 |survivor 12||16|||<!--  -->
 |queen of the universe 1||6|||<!-- 2/12 -->
+|the voice ru 10||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -679,7 +680,6 @@
 |not me 1||14|||2|<!--  -->
 |aggretsuko 4||10|||1|<!--  -->
 |F4 thailand||16|||1|<!--  -->
-|the voice ru 10||13|||6|<!--  -->
 |the player|the player|16|serie(*)|thailande|0|<!-- -->
 |you are my sunshine||6|serie|vietnam|2|<!--  -->
 |tinted with you|tinted with you|8|serie|corée|2|<!--  -->
