@@ -2,6 +2,10 @@ cat sep nb fichier
 
 carac : 
 carac :  0 ZZ/5515nevertoolate_1.txt
+carac :  0 ZZ/Behindcut_1.txt
+carac :  0 ZZ/Theplayer_1.txt
+carac :  0 ZZ/Tintedwithyou_1.txt
+carac :  0 ZZ/Youaremysunshine_1.txt
 carac :  1021 ZZ/Lesengages_3.txt
 carac :  10640 ZZ/Survivorau_6.txt
 carac :  1135 ZZ/Mrcinderella_1.txt
@@ -65,6 +69,9 @@ carac :  5217 ZZ/Thevoiceportugal_9.txt
 carac :  5361 ZZ/Koishiteakuma_1.txt
 carac :  5567 ZZ/Tbbt_11.txt
 carac :  5672 ZZ/Campingparadis_12.txt
+carac :  608 ZZ/Legomastersfr_2.txt
+carac :  668 ZZ/Thevoicebe_10.txt
+carac :  688 ZZ/Survivor_13.txt
 carac :  7073 ZZ/Belove_1.txt
 carac :  7384 ZZ/Elite_4.txt
 carac :  764 ZZ/Bananafish_1.txt
@@ -87,6 +94,7 @@ i = Baker boys _1
 i = Banana fish _1
 i = Bangkok love stories innocence _1
 i = Be love _1
+i = Behind cut _1
 i = Ben x jim _1
 i = Bite me _1
 i = Bt21 vlog _1
@@ -112,6 +120,7 @@ i = Inhuman condition _1
 i = Insiders _1
 i = Kieta hatsukoi _1
 i = Koishite akuma _1
+i = Lego masters fr _2
 i = Les engages _3
 i = Love area _1
 i = Lucifer _4
@@ -129,29 +138,38 @@ i = Rpdruk _3
 i = Schools out lets date now _1
 i = Siew sum noi _1
 i = Slam dance _1
+i = Survivor _13
 i = Survivor au _6
 i = Tbbt _11
 i = The big leap _1
 i = The case study of vanitas _1
 i = The harvest season _1
+i = The player _1
 i = The shipper _1
 i = The untamed _1
+i = The voice be _10
 i = The voice portugal _9
 i = The voice senior it _2
 i = The yearbook _1
 i = Tien bromance _1
+i = Tinted with you _1
 i = Tokyo ghoul _3
 i = Unbag _1
 i = Unlocked _1
 i = Vincenzo _1
 i = Vwars _1
 i = Wabi show _1
+i = You are my sunshine _1
 i = You never eat alone _1
 i = Young royals _1
 i = Young sheldon _5
 i = Zombie detective _1
 ligne : 
 ligne :  0 ZZ/5515nevertoolate_1.txt
+ligne :  0 ZZ/Behindcut_1.txt
+ligne :  0 ZZ/Theplayer_1.txt
+ligne :  0 ZZ/Tintedwithyou_1.txt
+ligne :  0 ZZ/Youaremysunshine_1.txt
 ligne :  1 ZZ/Aggretsuko_4.txt
 ligne :  1 ZZ/F4thailand_1.txt
 ligne :  10 ZZ/Lovearea_1.txt
@@ -180,6 +198,9 @@ ligne :  19 ZZ/Controlz_2.txt
 ligne :  19 ZZ/Lucifer_4.txt
 ligne :  1958 ZZ/Unbag_1.txt
 ligne :  2 ZZ/Districtz_2.txt
+ligne :  2 ZZ/Legomastersfr_2.txt
+ligne :  2 ZZ/Survivor_13.txt
+ligne :  2 ZZ/Thevoicebe_10.txt
 ligne :  20 ZZ/Aokivuanpaianonayami_1.txt
 ligne :  20 ZZ/Mrlipstick_1.txt
 ligne :  20 ZZ/Theuntamed_1.txt
@@ -225,12 +246,19 @@ ligne :  9 ZZ/Thevoiceseniorit_2.txt
 ligne :  9 ZZ/Theyearbook_1.txt
 mot   : 
 mot   :  0 ZZ/5515nevertoolate_1.txt
+mot   :  0 ZZ/Behindcut_1.txt
+mot   :  0 ZZ/Theplayer_1.txt
+mot   :  0 ZZ/Tintedwithyou_1.txt
+mot   :  0 ZZ/Youaremysunshine_1.txt
 mot   :  1061 ZZ/Belove_1.txt
+mot   :  108 ZZ/Legomastersfr_2.txt
 mot   :  109 ZZ/Bananafish_1.txt
 mot   :  113 ZZ/Siewsumnoi_1.txt
 mot   :  1164 ZZ/Elite_4.txt
 mot   :  121 ZZ/Insiders_1.txt
 mot   :  1242 ZZ/Kietahatsukoi_1.txt
+mot   :  126 ZZ/Thevoicebe_10.txt
+mot   :  131 ZZ/Survivor_13.txt
 mot   :  1345 ZZ/Vwars_1.txt
 mot   :  1457 ZZ/Inhumancondition_1.txt
 mot   :  155 ZZ/Lesengages_3.txt

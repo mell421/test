@@ -391,3 +391,31 @@ carac :  3754 ZZ/Wabishow_1.txt
 
 i = The untamed _1
 ligne :  20 ZZ/Theuntamed_1.txt
+mot   :  413 ZZ/Theuntamed_1.txt
+carac :  3038 ZZ/Theuntamed_1.txt
+
+i = Slam dance _1
+ligne :  12 ZZ/Slamdance_1.txt
+mot   :  277 ZZ/Slamdance_1.txt
+carac :  1823 ZZ/Slamdance_1.txt
+
+i = Be love _1
+ligne :  62 ZZ/Belove_1.txt
+mot   :  1061 ZZ/Belove_1.txt
+carac :  7073 ZZ/Belove_1.txt
+
+i = Tien bromance _1
+ligne :  13 ZZ/Tienbromance_1.txt
+mot   :  209 ZZ/Tienbromance_1.txt
+carac :  1484 ZZ/Tienbromance_1.txt
+
+i = Ben x jim _1
+ligne :  17 ZZ/Benxjim_1.txt
+mot   :  311 ZZ/Benxjim_1.txt
+carac :  2242 ZZ/Benxjim_1.txt
+
+i = Koishite akuma _1
+ligne :  65 ZZ/Koishiteakuma_1.txt
+mot   :  758 ZZ/Koishiteakuma_1.txt
+carac :  5361 ZZ/Koishiteakuma_1.txt
+
