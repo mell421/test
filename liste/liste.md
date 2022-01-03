@@ -459,7 +459,6 @@
 |Love is science bl cut|Love is science bl cut|20|series|taiwan|<!--  -->
 |survivor 8||17|||<!--  -->
 |survivor 9||15|||<!--  -->
-|friend or lover|friend or lover|6|serie|taiwan|              <!-- 34 -->
 |midnight mass 1||7|||<!--  -->
 |munch 4||8|||<!--  -->
 |TVS th 2||7|||<!--  -->
@@ -499,6 +498,7 @@
 |the voice ru 10||13|||<!--  -->
 |the voice nl 9||17|||<!--  -->
 |druck 7||10|||<!--  -->
+|friend or lover|friend or lover|7|serie|taiwan|              <!-- 34 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
