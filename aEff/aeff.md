@@ -330,71 +330,71 @@
 - 28/09/21 (eff) - unbag _1{571} dont say no _1{35} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
 - 29/09/21 (eff) - unbag _1{573} dont say no _1{37} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
 - 30/09/21 (eff) - unbag _1{575} dont say no _1{39} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 01/10/21 (eff) - unbag _1{578} dont say no _1{42} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} the voice greece _8{8} 
-- 02/10/21 (eff) - unbag _1{578} dont say no _1{44} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{10} vwars _1{9} 
-- 03/10/21 (eff) - unbag _1{580} dont say no _1{46} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{12} vwars _1{9} 
-- 04/10/21 (eff) - unbag _1{582} dont say no _1{48} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{15} vwars _1{9} 
-- 05/10/21 (eff) - unbag _1{584} dont say no _1{50} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{17} vwars _1{9} 
-- 06/10/21 (eff) - unbag _1{586} dont say no _1{51} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{18} vwars _1{9} strictly come dancing _19{8} 
-- 07/10/21 (eff) - unbag _1{588} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} vwars _1{9} the voice us _21{8} 
-- 08/10/21 (eff) - unbag _1{590} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} the voice us _21{9} vwars _1{9} 
-- 09/10/21 (eff) - unbag _1{592} dont say no _1{54} peach of time _1{33} the voice greece _8{19} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} 
-- 10/10/21 (eff) - unbag _1{594} dont say no _1{54} peach of time _1{33} the voice greece _8{19} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} camping paradis _12{8} 
-- 11/10/21 (eff) - unbag _1{597} dont say no _1{56} peach of time _1{33} the voice greece _8{21} the voice us _21{11} strictly come dancing _19{10} vwars _1{9} 
-- 12/10/21 (eff) - unbag _1{599} dont say no _1{57} peach of time _1{33} the voice greece _8{23} from dusk till dawn _2{20} strictly come dancing _19{11} the voice us _21{11} vwars _1{9} 
-- 13/10/21 (eff) - unbag _1{601} dont say no _1{58} peach of time _1{33} the voice greece _8{25} from dusk till dawn _2{20} strictly come dancing _19{13} the voice us _21{11} vwars _1{9} koh-lanta _27{8} 
-- 14/10/21 (eff) - unbag _1{603} dont say no _1{59} peach of time _1{33} the voice greece _8{27} from dusk till dawn _2{20} strictly come dancing _19{15} the voice us _21{13} vwars _1{9} koh-lanta _27{8} 
-- 15/10/21 (eff) - unbag _1{605} dont say no _1{60} peach of time _1{33} the voice greece _8{29} from dusk till dawn _2{20} strictly come dancing _19{16} the voice us _21{15} vwars _1{9} koh-lanta _27{8} 
-- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} the voice greece _8{31} from dusk till dawn _2{20} strictly come dancing _19{18} the voice us _21{17} vwars _1{9} koh-lanta _27{8} 
-- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} the voice greece _8{33} peach of time _1{33} from dusk till dawn _2{20} strictly come dancing _19{19} the voice us _21{19} vwars _1{9} koh-lanta _27{8} camping paradis _12{8} 
-- 18/10/21 (eff) - unbag _1{611} dont say no _1{66} the voice greece _8{36} peach of time _1{33} strictly come dancing _19{22} the voice us _21{22} koh-lanta _27{9} vwars _1{9} 
-- 19/10/21 (eff) - unbag _1{613} dont say no _1{68} the voice greece _8{38} peach of time _1{33} strictly come dancing _19{24} the voice us _21{23} koh-lanta _27{9} vwars _1{9} 
-- 20/10/21 (eff) - unbag _1{615} dont say no _1{70} the voice greece _8{40} peach of time _1{33} strictly come dancing _19{26} the voice us _21{24} koh-lanta _27{9} vwars _1{9} 
-- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} strictly come dancing _19{27} the voice us _21{26} koh-lanta _27{10} vwars _1{9} the voice esp _8{8} 
-- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} the voice us _21{28} strictly come dancing _19{28} koh-lanta _27{11} survivor au _6{9} the voice esp _8{8} survivor _41{7} 
-- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} the voice us _21{30} strictly come dancing _19{29} koh-lanta _27{12} survivor au _6{11} the voice esp _8{8} survivor _41{7} 
-- 24/10/21 (eff) - unbag _1{623} dont say no _1{78} the voice greece _8{48} peach of time _1{33} the voice us _21{32} strictly come dancing _19{30} koh-lanta _27{13} survivor au _6{13} the voice esp _8{8} inhuman condition _1{8} survivor _41{7} 
-- 25/10/21 (eff) - unbag _1{626} dont say no _1{79} the voice greece _8{51} the voice us _21{35} strictly come dancing _19{33} peach of time _1{33} survivor au _6{15} koh-lanta _27{14} inhuman condition _1{11} the voice esp _8{9} survivor _41{8} 
-- 26/10/21 (eff) - unbag _1{628} dont say no _1{80} the voice greece _8{53} the voice us _21{37} strictly come dancing _19{35} peach of time _1{33} koh-lanta _27{15} survivor au _6{15} inhuman condition _1{13} the voice esp _8{9} survivor _41{8} 
-- 27/10/21 (eff) - unbag _1{630} dont say no _1{81} the voice greece _8{55} the voice us _21{39} strictly come dancing _19{37} peach of time _1{33} koh-lanta _27{16} inhuman condition _1{15} survivor au _6{15} the voice esp _8{9} survivor _41{8} 
-- 28/10/21 (eff) - unbag _1{632} dont say no _1{82} the voice greece _8{57} the voice us _21{41} strictly come dancing _19{39} peach of time _1{33} koh-lanta _27{17} inhuman condition _1{15} survivor au _6{15} the masked singer _6{9} the voice esp _8{9} survivor _41{8} 
-- 29/10/21 (eff) - unbag _1{634} dont say no _1{83} the voice greece _8{59} the voice us _21{43} strictly come dancing _19{41} peach of time _1{33} koh-lanta _27{18} inhuman condition _1{15} survivor au _6{15} the masked singer _6{11} the voice esp _8{9} tbbt _11{8} 
-- 30/10/21 (eff) - unbag _1{636} dont say no _1{84} the voice greece _8{61} the voice us _21{45} strictly come dancing _19{43} peach of time _1{33} koh-lanta _27{19} inhuman condition _1{15} survivor au _6{15} the masked singer _6{11} tbbt _11{10} the voice esp _8{9} 
-- 31/10/21 (eff) - unbag _1{638} dont say no _1{85} the voice greece _8{63} the voice us _21{47} strictly come dancing _19{45} koh-lanta _27{20} inhuman condition _1{15} survivor au _6{15} the masked singer _6{11} tbbt _11{11} the voice esp _8{10} 
-- 01/11/21 (eff) - unbag _1{642} dont say no _1{87} the voice greece _8{67} the voice us _21{51} strictly come dancing _19{49} koh-lanta _27{22} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} the voice esp _8{12} 
-- 02/11/21 (eff) - unbag _1{644} dont say no _1{88} the voice greece _8{69} the voice us _21{53} strictly come dancing _19{51} koh-lanta _27{22} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} the voice ger _11{12} the voice esp _8{12} 
-- 03/11/21 (eff) - unbag _1{646} dont say no _1{89} the voice greece _8{71} the voice us _21{55} strictly come dancing _19{53} koh-lanta _27{22} inhuman condition _1{16} survivor au _6{16} the voice ger _11{14} the masked singer _6{13} tbbt _11{13} the voice esp _8{12} 
-- 04/11/21 (eff) - unbag _1{648} dont say no _1{89} the voice greece _8{72} the voice us _21{57} strictly come dancing _19{55} koh-lanta _27{22} inhuman condition _1{16} survivor au _6{16} the voice ger _11{15} the masked singer _6{13} tbbt _11{13} the voice esp _8{12} 
-- 05/11/21 (eff) - unbag _1{650} dont say no _1{90} the voice greece _8{74} the voice us _21{59} strictly come dancing _19{57} koh-lanta _27{23} the voice ger _11{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} 
-- 06/11/21 (eff) - unbag _1{652} dont say no _1{91} the voice greece _8{76} the voice us _21{61} strictly come dancing _19{59} koh-lanta _27{24} the voice ger _11{19} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} 
-- 07/11/21 (eff) - unbag _1{654} dont say no _1{92} the voice greece _8{78} the voice us _21{63} strictly come dancing _19{60} koh-lanta _27{25} the voice ger _11{21} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} 
-- 08/11/21 (eff) - unbag _1{657} dont say no _1{93} the voice greece _8{81} the voice us _21{66} strictly come dancing _19{63} koh-lanta _27{27} the voice ger _11{24} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
-- 09/11/21 (eff) - unbag _1{659} dont say no _1{94} the voice greece _8{83} the voice us _21{67} strictly come dancing _19{65} koh-lanta _27{27} the voice ger _11{26} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
-- 10/11/21 (eff) - unbag _1{661} dont say no _1{95} the voice greece _8{85} the voice us _21{68} strictly come dancing _19{67} the voice ger _11{28} koh-lanta _27{27} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
-- 11/11/21 (eff) - unbag _1{663} dont say no _1{95} the voice greece _8{87} the voice us _21{70} strictly come dancing _19{68} the voice ger _11{30} koh-lanta _27{28} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
-- 12/11/21 (eff) - unbag _1{665} dont say no _1{95} the voice greece _8{89} the voice us _21{72} strictly come dancing _19{69} the voice ger _11{32} koh-lanta _27{29} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} kieta hatsukoi _1{13} the voice esp _8{13} 
-- 13/11/21 (eff) - unbag _1{667} dont say no _1{95} the voice greece _8{91} the voice us _21{74} strictly come dancing _19{71} the voice ger _11{34} koh-lanta _27{30} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} the masked singer _6{14} the voice esp _8{13} 
-- 14/11/21 (eff) - unbag _1{669} dont say no _1{95} the voice greece _8{93} the voice us _21{76} strictly come dancing _19{73} the voice ger _11{36} koh-lanta _27{31} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
-- 15/11/21 (eff) - unbag _1{671} the voice greece _8{95} dont say no _1{95} the voice us _21{78} strictly come dancing _19{75} the voice ger _11{38} koh-lanta _27{32} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
-- 16/11/21 (eff) - unbag _1{673} the voice greece _8{98} dont say no _1{95} the voice us _21{81} strictly come dancing _19{78} the voice ger _11{40} koh-lanta _27{34} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{15} the voice esp _8{14} 
-- 17/11/21 (eff) - unbag _1{675} the voice greece _8{100} dont say no _1{95} the voice us _21{83} strictly come dancing _19{80} the voice ger _11{42} koh-lanta _27{35} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{15} the voice esp _8{14} 
-- 18/11/21 (eff) - unbag _1{677} the voice greece _8{102} dont say no _1{95} the voice us _21{85} strictly come dancing _19{82} the voice ger _11{44} koh-lanta _27{36} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{15} 
-- 19/11/21 (eff) - unbag _1{679} the voice greece _8{104} dont say no _1{95} the voice us _21{87} strictly come dancing _19{84} the voice ger _11{46} koh-lanta _27{37} the masked singer _6{17} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 20/11/21 (eff) - unbag _1{681} the voice greece _8{106} dont say no _1{95} the voice us _21{89} strictly come dancing _19{86} the voice ger _11{48} koh-lanta _27{38} the masked singer _6{17} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 21/11/21 (eff) - unbag _1{683} the voice greece _8{108} dont say no _1{95} the voice us _21{91} strictly come dancing _19{88} the voice ger _11{50} koh-lanta _27{39} the masked singer _6{17} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the voice esp _8{14} 
-- 22/11/21 (eff) - unbag _1{685} the voice greece _8{110} dont say no _1{95} the voice us _21{93} strictly come dancing _19{90} the voice ger _11{52} koh-lanta _27{40} the masked singer _6{17} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the voice esp _8{14} 
-- 23/11/21 (eff) - unbag _1{687} the voice greece _8{113} the voice us _21{96} dont say no _1{95} strictly come dancing _19{93} the voice ger _11{55} koh-lanta _27{40} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} 
-- 24/11/21 (eff) - unbag _1{689} the voice greece _8{115} the voice us _21{98} strictly come dancing _19{95} dont say no _1{95} the voice ger _11{57} koh-lanta _27{40} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
-- 25/11/21 (eff) - unbag _1{691} the voice greece _8{117} the voice us _21{100} strictly come dancing _19{97} dont say no _1{95} the voice ger _11{59} koh-lanta _27{41} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
-- 26/11/21 (eff) - unbag _1{693} the voice greece _8{119} the voice us _21{102} strictly come dancing _19{99} dont say no _1{95} the voice ger _11{61} koh-lanta _27{42} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
-- 27/11/21 (eff) - unbag _1{695} the voice greece _8{121} the voice us _21{104} strictly come dancing _19{101} dont say no _1{95} the voice ger _11{63} koh-lanta _27{43} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
-- 28/11/21 (eff) - unbag _1{697} the voice greece _8{123} the voice us _21{106} strictly come dancing _19{103} dont say no _1{95} the voice ger _11{65} koh-lanta _27{44} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
-- 29/11/21 (eff) - unbag _1{699} the voice greece _8{125} the voice us _21{108} strictly come dancing _19{105} dont say no _1{95} the voice ger _11{67} koh-lanta _27{44} kieta hatsukoi _1{18} the masked singer _6{18} the voice esp _8{16} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 30/11/21 (eff) - unbag _1{702} the voice greece _8{128} the voice us _21{110} strictly come dancing _19{108} dont say no _1{95} the voice ger _11{70} koh-lanta _27{45} kieta hatsukoi _1{20} the masked singer _6{18} the voice esp _8{17} inhuman condition _1{16} survivor au _6{16} survivor _41{15} 
-- 01/12/21 (eff) - unbag _1{704} the voice greece _8{130} the voice us _21{111} strictly come dancing _19{110} dont say no _1{95} the voice ger _11{72} koh-lanta _27{45} kieta hatsukoi _1{20} the masked singer _6{18} the voice esp _8{17} survivor _41{17} inhuman condition _1{16} survivor au _6{16} 
-- 02/12/21 (eff) - unbag _1{707} the voice greece _8{133} the voice us _21{114} strictly come dancing _19{112} dont say no _1{95} the voice ger _11{75} koh-lanta _27{46} kieta hatsukoi _1{21} survivor _41{20} the masked singer _6{19} the voice esp _8{18} inhuman condition _1{16} survivor au _6{16} 
-- 03/12/21 (eff) - unbag _1{709} the voice greece _8{135} the voice us _21{116} strictly come dancing _19{113} the voice ger _11{77} koh-lanta _27{46} survivor _41{22} kieta hatsukoi _1{21} the masked singer _6{19} the voice esp _8{18} inhuman condition _1{16} survivor au _6{16} 
-- 04/12/21 (eff) - unbag _1{711} the voice greece _8{137} the voice us _21{118} strictly come dancing _19{114} the voice ger _11{79} koh-lanta _27{46} survivor _41{24} kieta hatsukoi _1{21} the masked singer _6{19} the voice esp _8{18} inhuman condition _1{16} survivor au _6{16} drag race ca _2{15} 
+- 01/10/21 (eff) - unbag _1{578} dont say no _1{42} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 02/10/21 (eff) - unbag _1{578} dont say no _1{44} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 03/10/21 (eff) - unbag _1{580} dont say no _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 04/10/21 (eff) - unbag _1{582} dont say no _1{48} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 05/10/21 (eff) - unbag _1{584} dont say no _1{50} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 06/10/21 (eff) - unbag _1{586} dont say no _1{51} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 07/10/21 (eff) - unbag _1{588} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 08/10/21 (eff) - unbag _1{590} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 09/10/21 (eff) - unbag _1{592} dont say no _1{54} peach of time _1{33} vwars _1{9} 
+- 10/10/21 (eff) - unbag _1{594} dont say no _1{54} peach of time _1{33} vwars _1{9} camping paradis _12{8} 
+- 11/10/21 (eff) - unbag _1{597} dont say no _1{56} peach of time _1{33} vwars _1{9} 
+- 12/10/21 (eff) - unbag _1{599} dont say no _1{57} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 13/10/21 (eff) - unbag _1{601} dont say no _1{58} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 14/10/21 (eff) - unbag _1{603} dont say no _1{59} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 15/10/21 (eff) - unbag _1{605} dont say no _1{60} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
+- 18/10/21 (eff) - unbag _1{611} dont say no _1{66} peach of time _1{33} vwars _1{9} 
+- 19/10/21 (eff) - unbag _1{613} dont say no _1{68} peach of time _1{33} vwars _1{9} 
+- 20/10/21 (eff) - unbag _1{615} dont say no _1{70} peach of time _1{33} vwars _1{9} 
+- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} peach of time _1{33} vwars _1{9} 
+- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} peach of time _1{33} survivor au _6{9} 
+- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} peach of time _1{33} survivor au _6{11} 
+- 24/10/21 (eff) - unbag _1{623} dont say no _1{78} peach of time _1{33} survivor au _6{13} inhuman condition _1{8} 
+- 25/10/21 (eff) - unbag _1{626} dont say no _1{79} peach of time _1{33} survivor au _6{15} inhuman condition _1{11} 
+- 26/10/21 (eff) - unbag _1{628} dont say no _1{80} peach of time _1{33} survivor au _6{15} inhuman condition _1{13} 
+- 27/10/21 (eff) - unbag _1{630} dont say no _1{81} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
+- 28/10/21 (eff) - unbag _1{632} dont say no _1{82} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
+- 29/10/21 (eff) - unbag _1{634} dont say no _1{83} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{8} 
+- 30/10/21 (eff) - unbag _1{636} dont say no _1{84} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} 
+- 31/10/21 (eff) - unbag _1{638} dont say no _1{85} inhuman condition _1{15} survivor au _6{15} tbbt _11{11} 
+- 01/11/21 (eff) - unbag _1{642} dont say no _1{87} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 02/11/21 (eff) - unbag _1{644} dont say no _1{88} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 03/11/21 (eff) - unbag _1{646} dont say no _1{89} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 04/11/21 (eff) - unbag _1{648} dont say no _1{89} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 05/11/21 (eff) - unbag _1{650} dont say no _1{90} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 06/11/21 (eff) - unbag _1{652} dont say no _1{91} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 07/11/21 (eff) - unbag _1{654} dont say no _1{92} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 08/11/21 (eff) - unbag _1{657} dont say no _1{93} inhuman condition _1{16} survivor au _6{16} 
+- 09/11/21 (eff) - unbag _1{659} dont say no _1{94} inhuman condition _1{16} survivor au _6{16} 
+- 10/11/21 (eff) - unbag _1{661} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} 
+- 11/11/21 (eff) - unbag _1{663} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} 
+- 12/11/21 (eff) - unbag _1{665} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{13} 
+- 13/11/21 (eff) - unbag _1{667} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} 
+- 14/11/21 (eff) - unbag _1{669} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 15/11/21 (eff) - unbag _1{671} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 16/11/21 (eff) - unbag _1{673} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 17/11/21 (eff) - unbag _1{675} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 18/11/21 (eff) - unbag _1{677} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 19/11/21 (eff) - unbag _1{679} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 20/11/21 (eff) - unbag _1{681} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 21/11/21 (eff) - unbag _1{683} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 22/11/21 (eff) - unbag _1{685} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 23/11/21 (eff) - unbag _1{687} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} 
+- 24/11/21 (eff) - unbag _1{689} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 25/11/21 (eff) - unbag _1{691} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 26/11/21 (eff) - unbag _1{693} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 27/11/21 (eff) - unbag _1{695} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 28/11/21 (eff) - unbag _1{697} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 29/11/21 (eff) - unbag _1{699} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 30/11/21 (eff) - unbag _1{702} dont say no _1{95} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
+- 01/12/21 (eff) - unbag _1{704} dont say no _1{95} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
+- 02/12/21 (eff) - unbag _1{707} dont say no _1{95} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+- 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+- 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
 
 
 
@@ -672,8 +672,8 @@
 - 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} unbag _1{405} 
 - 12/07/21 - 655* glow up _2{2} /46 days _1{5} zombie detective _1{4} unbag _1{408} 
 - 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} unbag _1{410} 
-- 14/07/21 - 253* josephine ange gardien _24{0} camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
-- 15/07/21 - 299* /46 days _1{11} josephine ange gardien _24{1} camping paradis _12{3} 
+- 14/07/21 - 253* camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
+- 15/07/21 - 299* /46 days _1{11} camping paradis _12{3} 
 - 16/07/21 - 215* /46 days _1{13} 
 - 17/07/21 - 180* good singers _1{4} 
 - 18/07/21 - 188* good singers _1{4} 
@@ -714,17 +714,17 @@
 - 22/08/21 - 780* from dusk till dawn _2{15} unbag _1{493} 
 - 23/08/21 - 278* dont say no _1{3} from dusk till dawn _2{16} 
 - 24/08/21 - 284* from dusk till dawn _2{16} dont say no _1{4} 
-- 25/08/21 - 284* koh-lanta _27{0} from dusk till dawn _2{17} dont say no _1{4} 
-- 26/08/21 - 249* post mortem _1{0} koh-lanta _27{0} from dusk till dawn _2{18} dont say no _1{4} 
-- 27/08/21 - 252* post mortem _1{1} koh-lanta _27{0} 
+- 25/08/21 - 284* from dusk till dawn _2{17} dont say no _1{4} 
+- 26/08/21 - 249* post mortem _1{0} from dusk till dawn _2{18} dont say no _1{4} 
+- 27/08/21 - 252* post mortem _1{1} 
 - 28/08/21 - 270* dont say no _1{4} the yearbook _1{0} 
 - 29/08/21 - 316* dont say no _1{5} the yearbook _1{0} 
 - 30/08/21 - 306* bite me _1{1} dont say no _1{8} the yearbook _1{1} 
 - 31/08/21 - 239* camping paradis _12{6} peach of time _1{0} bite me _1{1} dont say no _1{9} the yearbook _1{1} 
-- 01/09/21 - 245* 7project _1{1} peach of time _1{2} koh-lanta _27{2} camping paradis _12{7} bite me _1{2} 
-- 02/09/21 - 385* 7project _1{1} peach of time _1{4} koh-lanta _27{2} camping paradis _12{7} 
-- 03/09/21 - 895* unbag _1{519} 7project _1{1} peach of time _1{6} koh-lanta _27{2} 
-- 04/09/21 - 789* dont say no _1{11} unbag _1{521} 7project _1{1} peach of time _1{8} koh-lanta _27{2} 
+- 01/09/21 - 245* 7project _1{1} peach of time _1{2} camping paradis _12{7} bite me _1{2} 
+- 02/09/21 - 385* 7project _1{1} peach of time _1{4} camping paradis _12{7} 
+- 03/09/21 - 895* unbag _1{519} 7project _1{1} peach of time _1{6} 
+- 04/09/21 - 789* dont say no _1{11} unbag _1{521} 7project _1{1} peach of time _1{8} 
 - 05/09/21 - 792* qforce _1{0} dont say no _1{11} unbag _1{523} 7project _1{1} peach of time _1{10} 
 - 06/09/21 - 865* vwars _1{7} qforce _1{1} dont say no _1{13} unbag _1{526} 
 - 07/09/21 - 854* peach of time _1{15} vwars _1{7} qforce _1{1} dont say no _1{14} unbag _1{528} 
@@ -734,87 +734,87 @@
 - 11/09/21 - 303* dont say no _1{14} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
 - 12/09/21 - 306* dont say no _1{15} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
 - 13/09/21 - 211* buffy _1{1} dont say no _1{17} earthmix space _1{1} lucifer _4{5} bite me _1{3} 
-- 14/09/21 - 115* peach of time _1{22} josephine ange gardien _24{3} 7project _1{3} buffy _1{3} dont say no _1{18} earthmix space _1{1} lucifer _4{5} 
-- 15/09/21 - 225* koh-lanta _27{3} peach of time _1{23} josephine ange gardien _24{3} 7project _1{4} buffy _1{3} dont say no _1{18} 
-- 16/09/21 - 191* koh-lanta _27{3} peach of time _1{24} josephine ange gardien _24{3} 7project _1{4} buffy _1{3} 
-- 17/09/21 - 643* unbag _1{548} koh-lanta _27{3} peach of time _1{25} josephine ange gardien _24{3} 7project _1{4} buffy _1{3} 
-- 18/09/21 - 661* dont say no _1{18} unbag _1{550} koh-lanta _27{3} peach of time _1{26} 
+- 14/09/21 - 115* peach of time _1{22} 7project _1{3} buffy _1{3} dont say no _1{18} earthmix space _1{1} lucifer _4{5} 
+- 15/09/21 - 225* peach of time _1{23} 7project _1{4} buffy _1{3} dont say no _1{18} 
+- 16/09/21 - 191* peach of time _1{24} 7project _1{4} buffy _1{3} 
+- 17/09/21 - 643* unbag _1{548} peach of time _1{25} 7project _1{4} buffy _1{3} 
+- 18/09/21 - 661* dont say no _1{18} unbag _1{550} peach of time _1{26} 
 - 19/09/21 - 627* alice in borderland _1{0} dont say no _1{20} unbag _1{552} 
-- 20/09/21 - 63* post mortem _1{4} strictly come dancing _19{1} alice in borderland _1{1} 
-- 21/09/21 - 54* /9-1-1 _5{0} the voice esp _8{0} post mortem _1{4} strictly come dancing _19{1} 
-- 22/09/21 - 32* koh-lanta _27{4} 7project _1{5} the big leap _1{0} the voice us _21{0} /9-1-1 _5{0} the voice esp _8{0} post mortem _1{4} 
-- 23/09/21 - 87* the voice us _21{0} koh-lanta _27{4} 7project _1{5} the big leap _1{0} /9-1-1 _5{0} the voice esp _8{0} 
-- 24/09/21 - 98* rpdruk _3{0} survivor _41{0} the masked singer _6{0} the voice us _21{0} koh-lanta _27{4} 
-- 25/09/21 - 96* earthmix space _1{1} the masked singer _6{0} rpdruk _3{0} survivor _41{0} 
-- 26/09/21 - 56* strictly come dancing _19{1} the voice esp _8{0} dont say no _1{30} earthmix space _1{1} 
-- 27/09/21 - 94* the voice greece _8{1} goblin _1{1} strictly come dancing _19{3} the voice esp _8{1} dont say no _1{33} 
-- 28/09/21 - 102* the voice greece _8{1} goblin _1{1} strictly come dancing _19{3} the voice esp _8{2} dont say no _1{35} 
-- 29/09/21 - 69* koh-lanta _27{5} the voice us _21{1} the voice greece _8{3} goblin _1{1} strictly come dancing _19{3} the voice esp _8{2} 
-- 30/09/21 - 115* the voice us _21{2} koh-lanta _27{5} the voice greece _8{5} goblin _1{1} strictly come dancing _19{3} 
-- 01/10/21 - 129* survivor _41{2} /9-1-1 _5{2} the masked singer _6{2} the voice us _21{4} koh-lanta _27{6} the voice greece _8{8} 
-- 02/10/21 - 105* the voice esp _8{3} survivor _41{4} /9-1-1 _5{4} the masked singer _6{3} the voice us _21{4} 
-- 03/10/21 - 73* strictly come dancing _19{4} the voice greece _8{12} the shipper _1{5} the voice esp _8{5} survivor _41{4} /9-1-1 _5{4} the masked singer _6{3} 
-- 04/10/21 - 124* strictly come dancing _19{5} the voice greece _8{15} the shipper _1{6} the voice esp _8{6} survivor _41{5} /9-1-1 _5{5} 
-- 05/10/21 - 166* strictly come dancing _19{7} the voice greece _8{17} the shipper _1{6} the voice esp _8{6} survivor _41{5} 
-- 06/10/21 - 232* koh-lanta _27{7} the voice us _21{6} strictly come dancing _19{8} the voice greece _8{18} the shipper _1{6} 
-- 07/10/21 - 302* the voice us _21{8} koh-lanta _27{7} strictly come dancing _19{8} the voice greece _8{19} 
-- 08/10/21 - 309* the masked singer _6{4} the voice us _21{9} koh-lanta _27{7} 
-- 09/10/21 - 183* young sheldon _5{0} survivor _41{5} the voice esp _8{6} the masked singer _6{4} 
-- 10/10/21 - 701* love area _1{0} strictly come dancing _19{8} the voice greece _8{19} dont say no _1{54} the voice ger _11{0} young sheldon _5{0} unbag _1{594} survivor _41{5} the voice esp _8{6} 
-- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{10} the voice greece _8{21} love area _1{1} dont say no _1{56} the voice ger _11{1} 
-- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{11} the voice greece _8{23} love area _1{1} dont say no _1{57} the voice ger _11{1} 
-- 13/10/21 - 204* koh-lanta _27{8} the voice us _21{11} kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{13} the voice greece _8{25} love area _1{2} 
-- 14/10/21 - 284* the voice us _21{13} koh-lanta _27{8} kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{15} the voice greece _8{27} 
-- 15/10/21 - 180* the masked singer _6{5} the voice us _21{15} koh-lanta _27{8} kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{16} the voice greece _8{29} 
-- 16/10/21 - 148* the voice esp _8{7} the voice ger _11{1} the masked singer _6{5} the voice us _21{17} koh-lanta _27{8} kieta hatsukoi _1{0} /9-1-1 _5{6} 
-- 17/10/21 - 118* survivor _41{6} strictly come dancing _19{19} the voice greece _8{33} aoki vuanpaia no nayami _1{0} drag race ca _2{0} the voice esp _8{7} the voice ger _11{3} the masked singer _6{5} 
-- 18/10/21 - 214* the voice portugal _9{1} the voice greece _8{36} strictly come dancing _19{22} survivor au _6{1} survivor _41{7} aoki vuanpaia no nayami _1{3} drag race ca _2{1} 
-- 19/10/21 - 225* the voice portugal _9{1} the voice greece _8{38} strictly come dancing _19{24} survivor au _6{3} survivor _41{7} aoki vuanpaia no nayami _1{4} drag race ca _2{1} 
-- 20/10/21 - 224* age of the living dead _1{0} koh-lanta _27{9} inhuman condition _1{0} the voice us _21{24} the voice portugal _9{1} the voice greece _8{40} strictly come dancing _19{26} survivor au _6{5} survivor _41{7} 
-- 21/10/21 - 219* the voice us _21{26} incroyable talent _16{0} dragula _4{0} age of the living dead _1{0} koh-lanta _27{10} inhuman condition _1{2} the voice portugal _9{1} the voice greece _8{42} strictly come dancing _19{27} 
-- 22/10/21 - 677* unbag _1{619} insiders _1{0} the masked singer _6{6} the voice us _21{28} incroyable talent _16{0} dragula _4{0} age of the living dead _1{0} koh-lanta _27{11} 
-- 23/10/21 - 687* the voice ger _11{4} the voice esp _8{8} earthmix space _1{4} unbag _1{621} insiders _1{0} the masked singer _6{6} the voice us _21{30} incroyable talent _16{0} 
-- 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} strictly come dancing _19{30} the voice greece _8{48} the voice ger _11{4} the voice esp _8{8} earthmix space _1{4} unbag _1{623} 
-- 25/10/21 - 139* the voice greece _8{51} aoki vuanpaia no nayami _1{6} strictly come dancing _19{33} survivor _41{8} young sheldon _5{4} my sweet dear _1{2} the voice ger _11{5} the voice esp _8{9} 
-- 26/10/21 - 133* the voice portugal _9{1} tbbt _11{2} the voice greece _8{53} aoki vuanpaia no nayami _1{6} strictly come dancing _19{35} survivor _41{8} young sheldon _5{5} my sweet dear _1{3} the voice ger _11{5} 
-- 27/10/21 - 206* koh-lanta _27{16} the voice us _21{39} the masked singer _6{7} the voice portugal _9{1} tbbt _11{4} the voice greece _8{55} aoki vuanpaia no nayami _1{6} strictly come dancing _19{37} survivor _41{8} young sheldon _5{6} 
-- 28/10/21 - 213* incroyable talent _16{1} the voice us _21{41} koh-lanta _27{17} the masked singer _6{9} the voice portugal _9{1} tbbt _11{6} the voice greece _8{57} aoki vuanpaia no nayami _1{6} strictly come dancing _19{39} 
-- 29/10/21 - 831* unbag _1{634} incroyable talent _16{1} the voice us _21{43} koh-lanta _27{18} the masked singer _6{11} the voice portugal _9{1} tbbt _11{8} the voice greece _8{59} 
-- 30/10/21 - 756* the voice ger _11{5} the voice esp _8{9} bad buddy _1{0} unbag _1{636} incroyable talent _16{1} the voice us _21{45} koh-lanta _27{19} 
-- 31/10/21 - 798* strictly come dancing _19{45} the voice greece _8{63} druck _7{0} the voice ger _11{7} the voice esp _8{10} bad buddy _1{0} unbag _1{638} 
-- 01/11/21 - 195* kieta hatsukoi _1{3} strictly come dancing _19{49} the voice greece _8{67} druck _7{2} the voice ger _11{10} the voice esp _8{12} bad buddy _1{2} 
-- 02/11/21 - 207* the voice portugal _9{3} the voice ger _11{12} strictly come dancing _19{51} the voice greece _8{69} kieta hatsukoi _1{3} druck _7{2} the voice esp _8{12} 
-- 03/11/21 - 289* the voice us _21{55} koh-lanta _27{22} the voice portugal _9{3} the voice ger _11{14} strictly come dancing _19{53} the voice greece _8{71} kieta hatsukoi _1{3} 
-- 04/11/21 - 279* the masked singer _6{13} incroyable talent _16{3} the voice us _21{57} koh-lanta _27{22} the voice portugal _9{3} the voice ger _11{15} strictly come dancing _19{55} the voice greece _8{72} 
-- 05/11/21 - 822* the voice ger _11{17} unbag _1{650} the masked singer _6{13} incroyable talent _16{3} the voice us _21{59} koh-lanta _27{23} the voice portugal _9{3} 
-- 06/11/21 - 748* bad buddy _1{2} earthmix space _1{6} the voice ger _11{19} unbag _1{652} the masked singer _6{13} incroyable talent _16{3} 
-- 07/11/21 - 186* kieta hatsukoi _1{3} druck _7{2} strictly come dancing _19{60} the voice esp _8{12} the voice greece _8{78} survivor _41{9} banana fish _1{0} bad buddy _1{2} 
-- 08/11/21 - 229* the voice portugal _9{4} the voice greece _8{81} the voice ger _11{24} strictly come dancing _19{63} dexter _9{1} kieta hatsukoi _1{6} druck _7{3} the voice esp _8{13} survivor _41{10} 
-- 09/11/21 - 237* the voice portugal _9{4} the voice greece _8{83} the voice ger _11{26} strictly come dancing _19{65} dexter _9{1} kieta hatsukoi _1{7} druck _7{3} the voice esp _8{13} survivor _41{10} 
-- 10/11/21 - 327* koh-lanta _27{27} the voice us _21{68} the voice portugal _9{4} the voice greece _8{85} the voice ger _11{28} strictly come dancing _19{67} dexter _9{1} kieta hatsukoi _1{9} druck _7{3} the voice esp _8{13} 
-- 11/11/21 - 346* drag race ca _2{2} incroyable talent _16{4} the voice us _21{70} koh-lanta _27{28} the voice portugal _9{4} the voice greece _8{87} the voice ger _11{30} strictly come dancing _19{68} dexter _9{1} 
-- 12/11/21 - 308* the masked singer _6{14} drag race ca _2{2} incroyable talent _16{4} the voice us _21{72} koh-lanta _27{29} the voice portugal _9{4} the voice greece _8{89} the voice ger _11{32} 
-- 13/11/21 - 206* the voice ger _11{34} drag race ca _2{2} bad buddy _1{3} the masked singer _6{14} incroyable talent _16{4} the voice us _21{74} 
-- 14/11/21 - 212* the voice esp _8{13} the voice greece _8{93} the voice ger _11{36} drag race ca _2{3} bad buddy _1{3} the masked singer _6{14} incroyable talent _16{4} 
-- 15/11/21 - 273* the voice portugal _9{4} the voice greece _8{95} strictly come dancing _19{75} dexter _9{1} the voice esp _8{13} the voice ger _11{38} drag race ca _2{4} bad buddy _1{3} 
-- 16/11/21 - 292* the case study of vanitas _1{0} druck _7{3} kieta hatsukoi _1{17} the voice ger _11{40} the voice portugal _9{5} the voice greece _8{98} strictly come dancing _19{78} dexter _9{2} the voice esp _8{14} 
-- 17/11/21 - 386* the voice us _21{83} the case study of vanitas _1{2} druck _7{3} kieta hatsukoi _1{17} the voice ger _11{42} the voice portugal _9{5} the voice greece _8{100} strictly come dancing _19{80} 
-- 18/11/21 - 244* the masked singer _6{15} incroyable talent _16{5} the voice us _21{85} the case study of vanitas _1{3} druck _7{3} kieta hatsukoi _1{17} the voice ger _11{44} 
-- 19/11/21 - 209* drag race it _1{0} the masked singer _6{17} incroyable talent _16{5} the voice us _21{87} the case study of vanitas _1{4} druck _7{3} kieta hatsukoi _1{17} 
-- 20/11/21 - 236* bad buddy _1{4} les engages _3{0} the voice ger _11{48} drag race it _1{0} the masked singer _6{17} incroyable talent _16{5} the voice us _21{89} 
-- 21/11/21 - 331* the voice esp _8{14} the voice greece _8{108} strictly come dancing _19{88} bad buddy _1{4} les engages _3{0} the voice ger _11{50} drag race it _1{0} the masked singer _6{17} incroyable talent _16{5} 
-- 22/11/21 - 328* the voice portugal _9{5} the voice greece _8{110} strictly come dancing _19{90} dexter _9{2} the voice esp _8{14} bad buddy _1{4} les engages _3{0} the voice ger _11{52} 
-- 23/11/21 - 327* the voice ger _11{55} the voice portugal _9{6} the voice greece _8{113} strictly come dancing _19{93} dexter _9{3} the voice esp _8{15} bad buddy _1{5} les engages _3{1} 
-- 24/11/21 - 455* rpdruk _3{2} koh-lanta _27{40} the voice us _21{98} the voice ger _11{57} the voice portugal _9{7} the voice greece _8{115} strictly come dancing _19{95} dexter _9{3} 
-- 25/11/21 - 274* incroyable talent _16{6} baker boys _1{0} rpdruk _3{4} the voice us _21{100} koh-lanta _27{41} the voice ger _11{59} the voice portugal _9{8} 
-- 26/11/21 - 248* drag race it _1{1} painted with raven _1{0} do seu lado _1{0} baker boys _1{0} incroyable talent _16{7} rpdruk _3{6} the voice us _21{102} koh-lanta _27{42} the voice ger _11{61} 
-- 27/11/21 - 213* the voice senior it _2{0} the voice ger _11{63} bad buddy _1{5} drag race it _1{1} painted with raven _1{0} do seu lado _1{2} baker boys _1{1} incroyable talent _16{8} rpdruk _3{8} the voice us _21{104} 
-- 28/11/21 - 1026* strictly come dancing _19{103} the voice greece _8{123} the voice esp _8{15} unbag _1{697} survivor _41{10} the voice senior it _2{0} the voice ger _11{65} bad buddy _1{6} drag race it _1{1} painted with raven _1{0} do seu lado _1{4} baker boys _1{2} 
-- 29/11/21 - 1071* the voice ger _11{67} the voice portugal _9{8} the voice greece _8{125} strictly come dancing _19{105} kieta hatsukoi _1{18} earthmix space _1{7} dexter _9{3} mr cinderella _1{0} paint with love _1{0} the voice esp _8{16} unbag _1{699} 
-- 30/11/21 - 381* dragula _4{2} drag race ca _2{6} the voice ger _11{70} the voice portugal _9{9} the voice greece _8{128} strictly come dancing _19{108} kieta hatsukoi _1{20} earthmix space _1{8} dexter _9{4} mr cinderella _1{1} paint with love _1{1} 
-- 01/12/21 - 546* koh-lanta _27{45} the voice us _21{111} dragula _4{2} drag race ca _2{8} the voice ger _11{72} the voice portugal _9{9} the voice greece _8{130} strictly come dancing _19{110} kieta hatsukoi _1{20} earthmix space _1{8} 
-- 02/12/21 - 470* the masked singer _6{19} survivor _41{20} the voice us _21{114} koh-lanta _27{46} dragula _4{3} drag race ca _2{11} the voice ger _11{75} the voice portugal _9{10} the voice greece _8{133} 
-- 03/12/21 - 267* drag race it _1{3} queen of the universe _1{0} baker boys _1{4} the masked singer _6{19} survivor _41{22} the voice us _21{116} koh-lanta _27{46} dragula _4{3} drag race ca _2{13} 
-- 04/12/21 - 222* dragula _4{3} drag race ca _2{15} painted with raven _1{2} bad buddy _1{8} drag race it _1{3} queen of the universe _1{0} baker boys _1{4} the masked singer _6{19} survivor _41{24} the voice us _21{118} 
+- 20/09/21 - 63* post mortem _1{4} alice in borderland _1{1} 
+- 21/09/21 - 54* /9-1-1 _5{0} post mortem _1{4} 
+- 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
+- 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
+- 24/09/21 - 98* rpdruk _3{0} 
+- 25/09/21 - 96* earthmix space _1{1} rpdruk _3{0} 
+- 26/09/21 - 56* dont say no _1{30} earthmix space _1{1} 
+- 27/09/21 - 94* goblin _1{1} dont say no _1{33} 
+- 28/09/21 - 102* goblin _1{1} dont say no _1{35} 
+- 29/09/21 - 69* goblin _1{1} 
+- 30/09/21 - 115* goblin _1{1} 
+- 01/10/21 - 129* /9-1-1 _5{2} 
+- 02/10/21 - 105* /9-1-1 _5{4} 
+- 03/10/21 - 73* the shipper _1{5} /9-1-1 _5{4} 
+- 04/10/21 - 124* the shipper _1{6} /9-1-1 _5{5} 
+- 05/10/21 - 166* the shipper _1{6} 
+- 06/10/21 - 232* the shipper _1{6} 
+- 07/10/21 - 302* 
+- 08/10/21 - 309* 
+- 09/10/21 - 183* young sheldon _5{0} 
+- 10/10/21 - 701* love area _1{0} dont say no _1{54} young sheldon _5{0} unbag _1{594} 
+- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} dont say no _1{56} 
+- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{1} dont say no _1{57} 
+- 13/10/21 - 204* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
+- 14/10/21 - 284* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
+- 15/10/21 - 180* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
+- 16/10/21 - 148* kieta hatsukoi _1{0} /9-1-1 _5{6} 
+- 17/10/21 - 118* aoki vuanpaia no nayami _1{0} 
+- 18/10/21 - 214* the voice portugal _9{1} survivor au _6{1} aoki vuanpaia no nayami _1{3} 
+- 19/10/21 - 225* the voice portugal _9{1} survivor au _6{3} aoki vuanpaia no nayami _1{4} 
+- 20/10/21 - 224* age of the living dead _1{0} inhuman condition _1{0} the voice portugal _9{1} survivor au _6{5} 
+- 21/10/21 - 219* age of the living dead _1{0} inhuman condition _1{2} the voice portugal _9{1} 
+- 22/10/21 - 677* unbag _1{619} insiders _1{0} age of the living dead _1{0} 
+- 23/10/21 - 687* earthmix space _1{4} unbag _1{621} insiders _1{0} 
+- 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} earthmix space _1{4} unbag _1{623} 
+- 25/10/21 - 139* aoki vuanpaia no nayami _1{6} young sheldon _5{4} my sweet dear _1{2} 
+- 26/10/21 - 133* the voice portugal _9{1} tbbt _11{2} aoki vuanpaia no nayami _1{6} young sheldon _5{5} my sweet dear _1{3} 
+- 27/10/21 - 206* the voice portugal _9{1} tbbt _11{4} aoki vuanpaia no nayami _1{6} young sheldon _5{6} 
+- 28/10/21 - 213* the voice portugal _9{1} tbbt _11{6} aoki vuanpaia no nayami _1{6} 
+- 29/10/21 - 831* unbag _1{634} the voice portugal _9{1} tbbt _11{8} 
+- 30/10/21 - 756* bad buddy _1{0} unbag _1{636} 
+- 31/10/21 - 798* bad buddy _1{0} unbag _1{638} 
+- 01/11/21 - 195* kieta hatsukoi _1{3} bad buddy _1{2} 
+- 02/11/21 - 207* the voice portugal _9{3} kieta hatsukoi _1{3} 
+- 03/11/21 - 289* the voice portugal _9{3} kieta hatsukoi _1{3} 
+- 04/11/21 - 279* the voice portugal _9{3} 
+- 05/11/21 - 822* unbag _1{650} the voice portugal _9{3} 
+- 06/11/21 - 748* bad buddy _1{2} earthmix space _1{6} unbag _1{652} 
+- 07/11/21 - 186* kieta hatsukoi _1{3} banana fish _1{0} bad buddy _1{2} 
+- 08/11/21 - 229* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{6} 
+- 09/11/21 - 237* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{7} 
+- 10/11/21 - 327* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{9} 
+- 11/11/21 - 346* the voice portugal _9{4} dexter _9{1} 
+- 12/11/21 - 308* the voice portugal _9{4} 
+- 13/11/21 - 206* bad buddy _1{3} 
+- 14/11/21 - 212* bad buddy _1{3} 
+- 15/11/21 - 273* the voice portugal _9{4} dexter _9{1} bad buddy _1{3} 
+- 16/11/21 - 292* the case study of vanitas _1{0} kieta hatsukoi _1{17} the voice portugal _9{5} dexter _9{2} 
+- 17/11/21 - 386* the case study of vanitas _1{2} kieta hatsukoi _1{17} the voice portugal _9{5} 
+- 18/11/21 - 244* the case study of vanitas _1{3} kieta hatsukoi _1{17} 
+- 19/11/21 - 209* drag race it _1{0} the case study of vanitas _1{4} kieta hatsukoi _1{17} 
+- 20/11/21 - 236* bad buddy _1{4} les engages _3{0} drag race it _1{0} 
+- 21/11/21 - 331* bad buddy _1{4} les engages _3{0} drag race it _1{0} 
+- 22/11/21 - 328* the voice portugal _9{5} dexter _9{2} bad buddy _1{4} les engages _3{0} 
+- 23/11/21 - 327* the voice portugal _9{6} dexter _9{3} bad buddy _1{5} les engages _3{1} 
+- 24/11/21 - 455* rpdruk _3{2} the voice portugal _9{7} dexter _9{3} 
+- 25/11/21 - 274* baker boys _1{0} rpdruk _3{4} the voice portugal _9{8} 
+- 26/11/21 - 248* drag race it _1{1} painted with raven _1{0} do seu lado _1{0} baker boys _1{0} rpdruk _3{6} 
+- 27/11/21 - 213* the voice senior it _2{0} bad buddy _1{5} drag race it _1{1} painted with raven _1{0} do seu lado _1{2} baker boys _1{1} rpdruk _3{8} 
+- 28/11/21 - 1026* unbag _1{697} the voice senior it _2{0} bad buddy _1{6} drag race it _1{1} painted with raven _1{0} do seu lado _1{4} baker boys _1{2} 
+- 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} dexter _9{3} mr cinderella _1{0} paint with love _1{0} unbag _1{699} 
+- 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} dexter _9{4} mr cinderella _1{1} paint with love _1{1} 
+- 01/12/21 - 546* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} 
+- 02/12/21 - 470* the voice portugal _9{10} 
+- 03/12/21 - 267* drag race it _1{3} baker boys _1{4} 
+- 04/12/21 - 222* painted with raven _1{2} bad buddy _1{8} drag race it _1{3} baker boys _1{4} 
 
 

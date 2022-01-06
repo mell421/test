@@ -1,13 +1,13 @@
-aEff/aeff.md:- 01/09/21 - 245* 7project _1{1} peach of time _1{2} koh-lanta _27{2} camping paradis _12{7} bite me _1{2} 
-aEff/aeff.md:- 02/09/21 - 385* 7project _1{1} peach of time _1{4} koh-lanta _27{2} camping paradis _12{7} 
+aEff/aeff.md:- 01/09/21 - 245* 7project _1{1} peach of time _1{2} camping paradis _12{7} bite me _1{2} 
+aEff/aeff.md:- 02/09/21 - 385* 7project _1{1} peach of time _1{4} camping paradis _12{7} 
 aEff/aeff.md:- 06/07/21 - 237* young royals _1{0} camping paradis _12{0} 
 aEff/aeff.md:- 07/07/21 - 256* young royals _1{2} camping paradis _12{1} 
 aEff/aeff.md:- 08/07/21 - 243* /46 days _1{0} young royals _1{2} camping paradis _12{1} 
-aEff/aeff.md:- 10/10/21 (eff) - unbag _1{594} dont say no _1{54} peach of time _1{33} the voice greece _8{19} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} camping paradis _12{8} 
+aEff/aeff.md:- 10/10/21 (eff) - unbag _1{594} dont say no _1{54} peach of time _1{33} vwars _1{9} camping paradis _12{8} 
 aEff/aeff.md:- 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} unbag _1{410} 
-aEff/aeff.md:- 14/07/21 - 253* josephine ange gardien _24{0} camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
-aEff/aeff.md:- 15/07/21 - 299* /46 days _1{11} josephine ange gardien _24{1} camping paradis _12{3} 
-aEff/aeff.md:- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} the voice greece _8{33} peach of time _1{33} from dusk till dawn _2{20} strictly come dancing _19{19} the voice us _21{19} vwars _1{9} koh-lanta _27{8} camping paradis _12{8} 
+aEff/aeff.md:- 14/07/21 - 253* camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
+aEff/aeff.md:- 15/07/21 - 299* /46 days _1{11} camping paradis _12{3} 
+aEff/aeff.md:- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
 aEff/aeff.md:- 20/07/21 - 184* camping paradis _12{4} /46 days _1{17} good singers _1{5} 
 aEff/aeff.md:- 21/07/21 - 242* camping paradis _12{4} /46 days _1{18} 
 aEff/aeff.md:- 22/07/21 - 213* /46 days _1{19} camping paradis _12{4} 
@@ -19,25 +19,25 @@ aEff/aeff.md:- 28/09/21 (eff) - unbag _1{571} dont say no _1{35} peach of time _
 aEff/aeff.md:- 29/09/21 (eff) - unbag _1{573} dont say no _1{37} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
 aEff/aeff.md:- 30/09/21 (eff) - unbag _1{575} dont say no _1{39} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
 aEff/aeff.md:- 31/08/21 - 239* camping paradis _12{6} peach of time _1{0} bite me _1{1} dont say no _1{9} the yearbook _1{1} 
-apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(1) Camping paradis _12x5(1) 
+apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 apercu/apercu21.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-apercu/apercu21.md:- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
+apercu/apercu21.md:- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Camping paradis _12x3(1) 
 apercu/apercu21.md:- sem 26-07-2021 /46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) 
 apercu/apercu21.md:* concluBis 06/07/21 = Unbag _1 > 10; Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 13/07/21 = Unbag _1 > 10; /46 days _1 > 4; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-apercu/apercuglobal.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercuglobal.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(1) Camping paradis _12x5(1) 
+apercu/apercuglobal.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+apercu/apercuglobal.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 apercu/apercuglobal.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-apercu/apercuglobal.md:- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
+apercu/apercuglobal.md:- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Camping paradis _12x3(1) 
 apercu/apercuglobal.md:- sem 26-07-2021 /46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) 
 apercu/apercuglobal.md:* concluBis 06/07/21 = Unbag _1 > 10; Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 13/07/21 = Unbag _1 > 10; /46 days _1 > 4; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 apercuTer/apercuTer.md:* Camping paradis _12
 tab2021.html:    <td class="conclubis">Unbag _1 > 10; /46 days _1 > 4; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Unbag _1 > 10; Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; </td>
-tab2021.html:    <td class="resumesem">/46 days _1x5(2) Good singers _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) </td>
+tab2021.html:    <td class="resumesem">/46 days _1x5(2) Good singers _1x4(1) Camping paradis _12x3(1) </td>
 tab2021.html:    <td class="resumesem">/46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) </td>
 tab2021.html:    <td class="resumesem">Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) </td>

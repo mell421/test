@@ -30,6 +30,9 @@ document.write(`
   <ul>
       <li><a href="bl/bl.html">BL</a></li>
       <li><a href="liste/liste.html">tous</a></li>
+      <li><a href="liste/thevoice.html">the voice</a></li>
+      <li><a href="liste/survivor.html">survivor</a></li>
+      <li><a href="liste/dragrace.html">drag race</a></li>
       <li><a href="cal/cal.html">ep en retard</a></li>
       <li><a href="premder/premder.html">premder</a></li>
     </ul>

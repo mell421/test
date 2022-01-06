@@ -33,16 +33,16 @@ aEff/aeff.md:- 12/09/21 (eff) - unbag _1{538} /46 days _1{46} peach of time _1{2
 aEff/aeff.md:- 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} unbag _1{410} 
 aEff/aeff.md:- 13/08/21 (eff) - unbag _1{475} /46 days _1{45} my vampire boyfriend _1{25} 
 aEff/aeff.md:- 13/09/21 (eff) - unbag _1{540} /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} dont say no _1{17} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 14/07/21 - 253* josephine ange gardien _24{0} camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
+aEff/aeff.md:- 14/07/21 - 253* camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
 aEff/aeff.md:- 14/08/21 (eff) - unbag _1{477} /46 days _1{45} my vampire boyfriend _1{25} 
 aEff/aeff.md:- 14/09/21 (eff) - unbag _1{542} /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 15/07/21 - 299* /46 days _1{11} josephine ange gardien _24{1} camping paradis _12{3} 
+aEff/aeff.md:- 15/07/21 - 299* /46 days _1{11} camping paradis _12{3} 
 aEff/aeff.md:- 15/08/21 (eff) - unbag _1{479} /46 days _1{45} my vampire boyfriend _1{25} 
 aEff/aeff.md:- 15/09/21 (eff) - unbag _1{544} /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 16/07/21 - 215* /46 days _1{13} 
 aEff/aeff.md:- 16/08/21 (eff) - unbag _1{481} /46 days _1{45} my vampire boyfriend _1{25} 
 aEff/aeff.md:- 16/09/21 (eff) - unbag _1{546} /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} the voice greece _8{31} from dusk till dawn _2{20} strictly come dancing _19{18} the voice us _21{17} vwars _1{9} koh-lanta _27{8} 
+aEff/aeff.md:- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
 aEff/aeff.md:- 17/08/21 (eff) - unbag _1{483} /46 days _1{45} my vampire boyfriend _1{25} 
 aEff/aeff.md:- 17/09/21 (eff) - unbag _1{548} /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 18/08/21 (eff) - unbag _1{485} /46 days _1{45} my vampire boyfriend _1{25} 
@@ -88,11 +88,11 @@ aEff/aeff.md:- 30/07/21 (eff) - unbag _1{445} /46 days _1{32} my vampire boyfrie
 aEff/aeff.md:- 30/08/21 (eff) - unbag _1{510} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{19} 
 aEff/aeff.md:- 31/07/21 (eff) - unbag _1{447} /46 days _1{33} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 31/08/21 (eff) - unbag _1{512} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{19} vincenzo _1{16} 
-apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercu21.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercu21.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-apercu/apercu21.md:- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
+apercu/apercu21.md:- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Camping paradis _12x3(1) 
 apercu/apercu21.md:- sem 26-07-2021 /46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) 
 apercu/apercu21.md:* conclu 10/07/21 = Unbag _1 > 6; /46 days _1 > 1; 
 apercu/apercu21.md:* conclu 11/07/21 = Unbag _1 > 6; /46 days _1 > 1; 
@@ -118,7 +118,7 @@ apercu/apercu21.md:* concluBis 11/08/21 = Unbag _1 > 10; Control z _2 > 3; /46 d
 apercu/apercu21.md:* concluBis 12/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercu21.md:* concluBis 12/08/21 = Unbag _1 > 10; /46 days _1 > 1; 
 apercu/apercu21.md:* concluBis 13/07/21 = Unbag _1 > 10; /46 days _1 > 4; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-apercu/apercu21.md:* concluBis 14/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 2; Josephine ange gardien _24 > 1; Imortal _1 > 1; 
+apercu/apercu21.md:* concluBis 14/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercu21.md:* concluBis 15/07/21 = Unbag _1 > 8; /46 days _1 > 4; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercu21.md:* concluBis 16/07/21 = Unbag _1 > 10; Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; 
 apercu/apercu21.md:* concluBis 19/07/21 = Unbag _1 > 5; /46 days _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; 
@@ -134,11 +134,11 @@ apercu/apercu21.md:* concluBis 28/07/21 = Unbag _1 > 10; /46 days _1 > 3; Foreve
 apercu/apercu21.md:* concluBis 29/07/21 = Unbag _1 > 10; Forever knight _1 > 2; /46 days _1 > 1; Imortal _1 > 1; 
 apercu/apercu21.md:* concluBis 30/07/21 = Unbag _1 > 10; Forever knight _1 > 2; /46 days _1 > 1; Imortal _1 > 1; 
 apercu/apercu21.md:* concluBis 31/07/21 = Unbag _1 > 10; /46 days _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-apercu/apercuglobal.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Josephine ange gardien _24x2(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+apercu/apercuglobal.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercuglobal.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercuglobal.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-apercu/apercuglobal.md:- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) 
+apercu/apercuglobal.md:- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Camping paradis _12x3(1) 
 apercu/apercuglobal.md:- sem 26-07-2021 /46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) 
 apercu/apercuglobal.md:* conclu 10/07/21 = Unbag _1 > 6; /46 days _1 > 1; 
 apercu/apercuglobal.md:* conclu 11/07/21 = Unbag _1 > 6; /46 days _1 > 1; 
@@ -164,7 +164,7 @@ apercu/apercuglobal.md:* concluBis 11/08/21 = Unbag _1 > 10; Control z _2 > 3; /
 apercu/apercuglobal.md:* concluBis 12/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercuglobal.md:* concluBis 12/08/21 = Unbag _1 > 10; /46 days _1 > 1; 
 apercu/apercuglobal.md:* concluBis 13/07/21 = Unbag _1 > 10; /46 days _1 > 4; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-apercu/apercuglobal.md:* concluBis 14/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 2; Josephine ange gardien _24 > 1; Imortal _1 > 1; 
+apercu/apercuglobal.md:* concluBis 14/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercuglobal.md:* concluBis 15/07/21 = Unbag _1 > 8; /46 days _1 > 4; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercuglobal.md:* concluBis 16/07/21 = Unbag _1 > 10; Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; 
 apercu/apercuglobal.md:* concluBis 19/07/21 = Unbag _1 > 5; /46 days _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; 
@@ -191,7 +191,6 @@ tab2021.html:    <td class="conclu">Unbag _1 > 6; /46 days _1 > 3; Forever knigh
 tab2021.html:    <td class="conclubis">Unbag _1 > 10; /46 days _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 2; Glow up _2 > 1; Imortal _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; </td>
-tab2021.html:    <td class="conclubis">Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 2; Josephine ange gardien _24 > 1; Imortal _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; </td>
 tab2021.html:    <td class="conclubis">Unbag _1 > 10; /46 days _1 > 4; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Unbag _1 > 10; /46 days _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; </td>
@@ -203,6 +202,6 @@ tab2021.html:    <td class="conclubis">Unbag _1 > 5; /46 days _1 > 4; Forever kn
 tab2021.html:    <td class="conclubis">Unbag _1 > 5; Forever knight _1 > 3; /46 days _1 > 2; Imortal _1 > 2; </td>
 tab2021.html:    <td class="conclubis">Unbag _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Unbag _1 > 8; /46 days _1 > 4; Forever knight _1 > 2; Imortal _1 > 1; </td>
-tab2021.html:    <td class="resumesem">/46 days _1x5(2) Good singers _1x4(1) Josephine ange gardien _24x2(1) Camping paradis _12x3(1) </td>
+tab2021.html:    <td class="resumesem">/46 days _1x5(2) Good singers _1x4(1) Camping paradis _12x3(1) </td>
 tab2021.html:    <td class="resumesem">/46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) </td>
 tab2021.html:    <td class="resumesem">Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) </td>

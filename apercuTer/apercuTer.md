@@ -114,6 +114,10 @@
     - [sem 20-12-2021](#sem-20-12-2021)
     - [sem 27-12-2021](#sem-27-12-2021)
     - [sem 03-01-2022](#sem-03-01-2022)
+    - [sem 10-01-2022](#sem-10-01-2022)
+    - [sem 17-01-2022](#sem-17-01-2022)
+    - [sem 24-01-2022](#sem-24-01-2022)
+    - [sem 31-01-2022](#sem-31-01-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -142,6 +146,7 @@
       - [mois 01-12-2021](#mois-01-12-2021)
       - [mois 01-01-2022](#mois-01-01-2022)
       - [mois 01-02-2022](#mois-01-02-2022)
+      - [mois 01-03-2022](#mois-01-03-2022)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -420,6 +425,7 @@
 * The voice senior it _1
 ### sem 04-01-2021 
 * Meet me outside _1
+* Josephine ange gardien _23
 * Offgun fun night _2
 ### sem 11-01-2021 
 * Ingredients _1
@@ -599,6 +605,7 @@
 * Given 2021 _1
 * Beat shazam _4
 * Dragula _3
+* Marble mania _1
 * Light on me _1
 * Ahss _1
 * Survivor _2
@@ -651,9 +658,9 @@
 * The voice _11
 * Ahs _10
 ### sem 01-11-2021 
+* Love is science bl cut _1
 * The good doctor _4
 ### sem 08-11-2021 
-* Friend or lover _1
 * Survivor _9
 * Survivor _8
 ### sem 15-11-2021 
@@ -664,17 +671,14 @@
 * The voice senior th _1
 * Survivor _10
 ### sem 29-11-2021 
-* *insererici*
 * The masked singer ger _5
 * The love that dare not speak its name _1
 * Dals _11
 * Dwts _30
 * Bite sisters _1
 ### sem 06-12-2021 
-* *insererici*
 * The voice th _7
 ### sem 13-12-2021 
-* *insererici*
 * The voice bulgarie _8
 * The voice th _6
 * La mas draga _4
@@ -682,10 +686,39 @@
 * Survivor _11
 * Bt21 original story _1
 ### sem 20-12-2021 
-* *insererici*
+* The voice ger _11
+* The voice greece _8
+* The voice esp _8
+* Strictly come dancing _19
+* Drag race ca _2
+* Deadwater fell _1
+* The masked singer _6
+* Survivor _41
+* The voice us _21
+* Koh-lanta _27
+* Between us special _1
 ### sem 27-12-2021 
-* *insererici*
+* The voice greece _7
+* Incroyable talent _16
+* Dragula _4
 ### sem 03-01-2022 
+* *insererici*
+* Druck _7
+* The voice nl _9
+* The voice ru _10
+* Queen of the universe _1
+* Survivor 12
+* The voice kids uk _5
+* Josephine ange gardien _24
+### sem 10-01-2022 
+* *insererici*
+* The voice alb _6
+* Friend or lover _1
+### sem 17-01-2022 
+* *insererici*
+### sem 24-01-2022 
+* *insererici*
+### sem 31-01-2022 
 * *insererici*
 
 
@@ -700,47 +733,40 @@
 * Mental _2
 * The good doctor _5
 * Nilundon _1
-* F4 thailand _1
-* Aggretsuko _4
 * The masked singer fr _3
-* Never too late _1
-* Not me _1
 * 
+* Survivor 13
 * 
 * $ order $
-* The voice senior it _2
-* Dragula _4
-* Drag race ca _2
-* Painted with raven _1
-* Bad buddy _1
-* Drag race it _1
-* Queen of the universe _1
-* Baker boys _1
 * 
-* The masked singer _6
-* Survivor _41
-* The voice us _21
 * 
-* Koh-lanta _27
-* The voice ger _11
+* 
 * The voice portugal _9
-* The voice greece _8
-* 
-* Strictly come dancing _19
-* Kieta hatsukoi _1
-* Earthmix space _1
 * Dexter _9
+* Not me _1
 * Mr cinderella _1
+* District z _2
+* F4 thailand _1
+* The voice senior it _2
+* Unlocked _1
 * Paint with love _1
-* The voice esp _8
+* Earthmix space _1
+* Bad buddy _1
+* Painted with raven _1
+* Aggretsuko _4
+* 
+* 
+* Never too late _1
 * Unbag _1
 * Do seu lado _1
-* Incroyable talent _16
-* 
+* Camping paradis _12
 * Rpdruk _3
+* Drag race it _1
+* Baker boys _1
+* Kieta hatsukoi _1
 * Les engagés _3
 * The case study of vanitas _1
-* Druck _7
+* 
 * Banana fish _1
 * Tbbt _11
 * Aoki vuanpaia no nayami _1
@@ -760,14 +786,11 @@
 * Post mortem _1
 * Alice in bordeland _1
 * Peach of time _1
-* Josephine ange gardien _24
 * Buffy _1
 * Lucifer _4
 * Bite me _1
 * Vwars _1
 * Qforce _1
-* 
-* Camping paradis _12
 * The yearbook _1
 * From dusk till dawn _2
 * Good singers _1
@@ -786,13 +809,11 @@
 * Bt21 vlog _1
 * Schools out lets date now _1
 * You never eat alone _1
-* Unlocked _1
 * My vampire boyfriend _1
 * Tokyo ghoul _3
 * 
 * 
 * $ nbPcTps $
-* Josephine ange gardien _23 (29/12/20)
 * Marble mania _1 (19/8/21)
 * 
 
@@ -828,7 +849,7 @@
 #### mois 01-12-2020 
 *Quaranthings _1 Gaya sa pelikula _1 Love by chance _2 Skinship _1 The voice uk _9 Craving you _1 Bt21 animation _3 Bt21 special film _1 Bt21 animation _2 Bt21 animation _1 Bt21 store _1 Bt21 stickers _1 Bt21 game _1 Bt21 vr _1 Grandsons the reality project _1 The masked singer vv _1 Wtfock _4 Im tee me too _1 Skam espana _4 The good doctor _3*
 #### mois 01-01-2021 
-*Offgun fun night _2 Wish you _1 Cherry magic _1 From dusk till dawn _1 The voice senior it _1 The voice germany _10 Strictly come dancing _18 Why r u _2 Fais pas ci fais pas ça _9 Discipline _2 The masked singer _4 Oh mando _1 The voice us _19 Incroyable talent _15 I can see your voice _1 Calculating love _1 The voice senior vv _2 Drag race thailand _2 Taking the stands _1 Oxygen _1 Boyband love _1 Koh-lanta _25 Better days _1 Safe haven _1*
+*Josephine ange gardien _23 Offgun fun night _2 Wish you _1 Cherry magic _1 From dusk till dawn _1 The voice senior it _1 The voice germany _10 Strictly come dancing _18 Why r u _2 Fais pas ci fais pas ça _9 Discipline _2 The masked singer _4 Oh mando _1 The voice us _19 Incroyable talent _15 I can see your voice _1 Calculating love _1 The voice senior vv _2 Drag race thailand _2 Taking the stands _1 Oxygen _1 Boyband love _1 Koh-lanta _25 Better days _1 Safe haven _1*
 #### mois 01-02-2021 
 *Ninja warrior _5 Friend.ship with kristsingto _1 Bonding _2 Sweet home _1 Tonhon chonlathee _1 Color rush _1 Follow my sunshine _1 Cheat _1 Interested in _1 My extraordinary _1 Lego masters fr _1 Gameboys _1 The voice vv _6 Ingredients _1 District z _1 Bt21 universe _1 Meet me outside _1*
 #### mois 01-03-2021 
@@ -844,17 +865,20 @@
 #### mois 01-08-2021 
 *Stuck on you _1 Survivor _40 Kaamelott _6 Drag race esp _1 The best story _1 Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 #### mois 01-09-2021 
-*Survivor _5 Drop _1 We are not human _1 Survivor _4 Koh-lanta _4 Koh-lanta _3 Koh-lanta _1 Rpdu _1 Survivor _3 Given 2021 _1 Beat shazam _4 Dragula _3 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
+*Survivor _5 Drop _1 We are not human _1 Survivor _4 Koh-lanta _4 Koh-lanta _3 Koh-lanta _1 Rpdu _1 Survivor _3 Given 2021 _1 Beat shazam _4 Dragula _3 Marble mania _1 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
 #### mois 01-10-2021 
 *The circle us _3 Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*
 #### mois 01-11-2021 
-*The good doctor _4 The voice _11 Ahs _10 The tasty florida _1 Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
+*Love is science bl cut _1 The good doctor _4 The voice _11 Ahs _10 The tasty florida _1 Survivor au _5 The voice senior nl _4 All for one _2 See you after quarantine _1 Stalk _2 Sytycd _15 The masked singer au _3 The voice finland _11*
 #### mois 01-12-2021 
-*The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Friend or lover _1 Survivor _9 Survivor _8*
+*The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
+*insererici Druck _7 The voice nl _9 The voice ru _10 Queen of the universe _1 Survivor 12 The voice kids uk _5 Josephine ange gardien _24 The voice greece _7 Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 #### mois 01-02-2022 
+*insererici The voice alb _6 Friend or lover _1*
+#### mois 01-03-2022 
 *insererici*
+
 
 
 [retour](./../index.html)

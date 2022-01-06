@@ -2,9 +2,9 @@
 
 # premder
 
-### sommaire
+## sommaire
 - [premder](#premder)
-    - [sommaire](#sommaire)
+  - [sommaire](#sommaire)
     - [a mettre](#a-mettre)
     - [tisaep all](#tisaep-all)
 
@@ -23,56 +23,48 @@ Age of the living dead 1x2
 Goblin 1x2
 Les engages 3x2
 The big leap 1x2
-Queen of the universe 1x2
-Mr cinderella 1x2
-Paint with love 1x2
+Aggretsuko 4x2
+Not me 1x3
+District z 2x2
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 ### tisaep all
 * ici
 _
-The voice senior it _2x2
-Dragula 4x6
-Drag race ca 2x8
-Painted with raven 1x2
-Bad buddy 1x6
+The voice senior it 2x4
+Unlocked 1x3
+Paint with love 1x4
+Earthmix space 1x8
+Bad buddy 1x8
+Painted with raven 1x4
+* Aggretsuko 4x1
+The voice portugal 9x9
+Dexter 9x6
+5515 never too late 1x3
+* Not me 1x1
+Mr cinderella 1x3
+Unbag 1x36
+Do seu lado 1x5
+* 5515 never too late 1x1
+Camping paradis 12x5
+Rpdruk 3x5
+* District z 2x1
 Drag race it 1x3
-* Queen of the universe 1x1
 Baker boys 1x3
-The masked singer 6x11
-Survivor 41x11
-The voice us 21x22
-Koh-lanta 27x13
-The voice ger 11x16
-The voice portugal 9x7
-The voice greece 8x22
-Strictly come dancing 19x20
 Kieta hatsukoi 1x7
-Earthmix space 1x6
-Dexter 9x4
 * Mr cinderella 1x1
 * Paint with love 1x1
-The voice esp 8x11
-Unbag 1x35
 * The voice senior it _2x1
 * Painted with raven 1x1
-Do seu lado 1x4
 * Do seu lado 1x1
-Incroyable talent 16x6
 * Baker boys 1x1
-Rpdruk 3x4
 * Les engages 3x1
 * Drag race it 1x1
 The case study of vanitas 1x2
 * The case study of vanitas 1x1
-Druck 7x3
 * Dexter 9x1
 Banana fish 1x2
 * Banana fish 1x1
-* Druck 7x1
 * Bad buddy 1x1
 Tbbt 11x3
 Aoki vuanpaia no nayami 1x3
@@ -80,8 +72,6 @@ Young sheldon 5x3
 My sweet dear 1x2
 * My sweet dear 1x1
 * Insiders 1x1
-* Incroyable talent 16x1
-* Dragula 4x1
 * Age of the living dead 1x1
 Inhuman condition 1x7
 * Inhuman condition 1x1
@@ -89,30 +79,21 @@ Inhuman condition 1x7
 Survivor au 6x3
 * Survivor au 6x1
 * Aoki vuanpaia no nayami 1x1
-* Drag race ca 2x1
 * Kieta hatsukoi 1x1
 /9-1-1 5x3
 Love area 1x2
 * Love area 1x1
 Dont say no 1x10
-* The voice ger 11x1
 * Young sheldon 5x1
 The shipper 1x5
-* The voice greece 8x1
 * Goblin 1x1
 * Rpdruk 3x1
-* Survivor 41x1
-* The masked singer 6x1
 7project 1x4
 * The big leap 1x1
-* The voice us 21x1
 * /9-1-1 5x1
-* The voice esp 8x1
 Post mortem 1x3
-* Strictly come dancing 19x1
 * Alice in borderland 1x1
 Peach of time 1x6
-Josephine ange gardien 24x2
 Buffy 1x7
 * Earthmix space 1x1
 Lucifer 4x4
@@ -120,12 +101,10 @@ Bite me 1x2
 Vwars 1x7
 * Qforce 1x1
 * 7project 1x1
-Camping paradis 12x4
 * Peach of time 1x1
 * Bite me 1x1
 * The yearbook 1x1
 * Post mortem 1x1
-* Koh-lanta 27x1
 From dusk till dawn 2x5
 Good singers 1x4
 * Dont say no 1x1
@@ -133,7 +112,6 @@ Control z 2x2
 * Control z 2x1
 /46 days 1x7
 Glow up 2x2
-* Josephine ange gardien 24x1
 * Glow up 2x1
 Zombie detective 1x2
 * /46 days 1x1
@@ -155,7 +133,6 @@ Bt21 vlog 1x3
 * Bt21 vlog 1x1
 Schools out lets date now 1x5
 You never eat alone 1x4
-Unlocked 1x2
 My vampire boyfriend 1x6
 Tokyo ghoul 3x16
 * Bangkok love stories innocence 1x1

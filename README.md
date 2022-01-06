@@ -20,6 +20,8 @@ ou
 ### toy_indexer
 ```bash
 python ./toy_indexer/main.py ./aEff/aeff.txt ./apercu/ap20.txt ./apercu/ap21.txt > ti
+
+python ./toy_indexer/main.py ./aEff/aeff.txt ./apercu/ap20.txt ./apercu/ap21.txt ./apercu/ap22.txt > ti
 ```
 
 ## git

@@ -9,7 +9,7 @@ output:
 ```{r setup, include = FALSE}
 begin_time <-Sys.time()
 suppressWarnings(source("./R/sources.R"))
-
+library(vtable)
 ```
 
 
@@ -18,8 +18,9 @@ suppressWarnings(source("./R/sources.R"))
 <!-- -->
 ||||  
 |---|---|---|  
-|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)||  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)|[graph](./mygraph.html)|  
 |[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
+
 
 ---
 
@@ -70,6 +71,49 @@ data %>% filter(tisaep.all != "")  %>% select(tisaep.all
 ```
 
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+## PAGE TESTS
+
+### max
+```{r testMax , echo=FALSE}
+tab <- st(aTestMax())
+tab
+
+data <- data.frame(aTestMax())
+data %>% filter(nb != "") %>% select(-
+X.,-nb,-total,-graph,-vide,-titre)
+```
+
+
+```{r testConcl, eval=FALSE, include=FALSE}
+### concl
+#tab <- st(aConcl())
+#tab
+
+data <- data.frame(aConcl())
+data %>% filter(nc >= 1) %>% select(-date,-nc,-nbTotal,-graph,-vide,-titre)
+```
+
+
+### MS
+```{r testMS , echo=FALSE}
+tab <- st(aTestMS())
+tab
+
+data <- data.frame(aTestMS())
+data %>% filter(nbTotal != "") %>% select(-date,-nrm,-nbTotal,-graph,-vide,-titre)
+```
+
+### page app
+```{r testPA , echo=FALSE}
+
+data <- data.frame(aPA())
+data %>% filter(nb != "") %>% select(-nb,-X3,-titre,-tx,-sum,-graph)
+```
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -169,7 +213,7 @@ data <- data.frame(aCopyAll())
 
 ### conclu
 ```{r conclu, echo=FALSE}
-   data <- data.frame(aTestConclu())
+   data <- data.frame(aConcl())
         data <- data[2:4]
         data %>% filter(conclucompi.... != "")
     
@@ -177,7 +221,7 @@ data <- data.frame(aCopyAll())
 
 ### conclubis
 ```{r conclubis, echo=FALSE}
-data <- data.frame(aTestConcluBis())
+data <- data.frame(aConclBis())
         data <- data[2:4]
         data %>% filter(conclucompibis.... != "")
     
@@ -234,6 +278,11 @@ data %>% filter(X. != "")
 ```
 
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 
 ## timing 
 ```{r timing , echo=FALSE}

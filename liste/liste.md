@@ -1,7 +1,7 @@
-[retour](./../index.html)
-<!--  -->
-[PDF](./liste.pdf) [MD](./liste.md) 
 
+|[retour](./../index.html)|[PDF](./liste.pdf)|[MD](./liste.md)|||
+| --- | --- | :---: | --- | --- |
+|[drag race](./dragrace.html)|[skam](./skam.html)|[survivor](./survivor.html)|[the voice](./thevoice.html)|[bl](./../bl/bl.html)|
 
 # liste de séries + emissions
 
@@ -66,7 +66,7 @@
 |skam france 5||10||france|
 |the greatest dancer 2||10||uk|
 |911 lone star 1||10||us|
-|TVK BE 1||8||blegique|
+|TVK BE 1||8||belgique|
 |SCD 15||25||uk|
 |stalk 1||10||france|
 |valemont 1||5||us|
@@ -268,7 +268,7 @@
 |FDTD 1||10|||
 |cherry magic|cherry magic|12+2|serie|japon|<!--  -->
 |wish you|wish you|8+1|serie|corée|<!--  -->
-|offgun fun night 2|offgun fun night 2|12+2|show|thailande|<!--  -->
+|josephine ange gardien 23||4|||<!-- 29/12/20  -->
 |meet me outside|meet me outside|6|serie|philippines|<!-- 68 -->
 |BT21 universe 1||13|||
 |district z 1||5||france|
@@ -414,6 +414,7 @@
 |survivor 2||17|||<!--  -->
 |AHSS 1||7|||<!--  -->
 |light on me 1||16|||<!--  -->
+|marble mania 1||2|||<!-- 19/08/21 -->
 |dragula 3||10|||<!--  -->
 |beat shazam 4||10|||<!--  -->
 |given 2021||6|||<!--  -->
@@ -432,7 +433,7 @@
 |game of talents fr 1||2|||<!--  -->
 |Survivor 7||15|||<!--  -->
 |The masked singer nz 1||11|||<!--  -->
-|the voice au 10||13|||<!--  -->
+|TV au 10||13|||<!--  -->
 |survivor au 8||24|||<!--  -->
 |lego masters 2||12|||<!-- 2/6 -->
 |nailed it 6||6|||<!--  -->
@@ -443,45 +444,66 @@
 |drag race nl 2||8|||<!--  -->
 |next in fashion 1||10|||<!--  -->
 |the circle us 3||13|||<!--  -->
-|the voice finland 11||5|||<!--  -->
+|TV finland 11||5|||<!--  -->
 |the masked singer au 3||11|||<!--  -->
 |Sytycd 15||14|||<!--  -->
 |stalk 2||10|||<!--  -->
 |see you after quarantine 1||10|||<!--  -->
 |all for one 2||30|||<!--  -->
-|the voice senior nl 4||7|||<!--  -->
+|TVS nl 4||7|||<!--  -->
 |survivor au 5||25|||<!--  -->
 |the tasty florida 1||8|||<!--  -->
 |AHS 10||10|||<!--  -->
-|the voice 11||7|||<!--  -->
+|TV 11||7|||<!--  -->
 |the good doctor 4||20|||<!--  -->
+|Love is science bl cut|Love is science bl cut|20|series|taiwan|<!--  -->
 |survivor 8||17|||<!--  -->
 |survivor 9||15|||<!--  -->
-|friend or lover|friend or lover|6|serie|taiwan|              <!-- 34 -->
 |midnight mass 1||7|||<!--  -->
 |munch 4||8|||<!--  -->
-|The voice senior th 2||7|||<!--  -->
+|TVS th 2||7|||<!--  -->
 |Survivor 10||15|||<!--  -->
-|The voice senior th 1||4|||<!--  -->
+|TVS th 1||4|||<!--  -->
 |bite sisters 1||10|||<!--  -->
 |DWTS 30||11|||<!--  -->
 |dals 11||11|||<!--  -->
 |The love that dare not speak its name||6|||<!--  -->
 |the masked singer ger 5|||||<!--  -->
-|The voice th 7||15|||<!--  -->
-|BT21 original story 1||12?|||<!--  -->
+|TV th 7||15|||<!--  -->
 |survivor 11||15|||<!--  -->
 |alter ego 1||11|||<!--  -->
 |la mas draga 4||12|||<!--  -->
-|The voice th 6||15|||<!--  -->
-|the voice bulgarie 8||14|||<!--  -->
+|TV th 6||15|||<!--  -->
+|TV bulgarie 8||14|||<!--  -->
+|Between us special 1|Between us special|6|series|thailande|<!--  -->
+|Koh-Lanta 27||15|||<!--  -->
+|TV us 21||26|||<!--  -->
+|survivor 41||14|||<!--  -->
+|the masked singer 6||13|||<!--  -->
+|deadwater fell 1||4|||<!--  -->
+|drag race ca 2||10|||<!--  -->
+|Strictly come dancing 19||25|||<!--  -->
+|TV esp 8||13|||<!--  -->
+|offgun fun night 2|offgun fun night 2|12+4|show|thailande|<!--  -->
+|TV greece 8||28|||<!--  -->
+|TV ger 11||19|||<!--  -->
+|dragula 4||10|||<!--  -->
+|BT21 original story 1||13?|||<!--  -->
+|incroyable talent 16||9|||<!--  -->
+|TV greece 7||22|||<!--  -->
+|josephine ange gardien 24||4|||<!--  -->
+|TVK uk 5||3|||<!--  -->
+|survivor 12||16|||<!--  -->
+|queen of the universe 1||6|||<!-- 2/12 -->
+|the voice ru 10||13|||<!--  -->
+|the voice nl 9||17|||<!--  -->
+|druck 7||10|||<!--  -->
+|friend or lover|friend or lover|7|serie|taiwan|              <!-- 34 -->
+|The voice alb 6||17|||0|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
-||||||<!--  -->
-|josephine ange gardien 23||4|||<!-- 29/12/20  -->
-|marble mania 1||2|||<!-- 19/08/21 -->
 ||||||<!--  -->
 
 
@@ -619,9 +641,7 @@
 |young royals 1||6|||1|<!--  -->
 |46 days 1||?|||0|<!--  -->
 |glow up 2||10|||1|<!--  -->
-|josephine ange gardien 24||6|||1|<!--  -->
 |Control z 2||6||||<!--  -->
-|Koh-Lanta 27||?||||<!--  -->
 |post mortem 1||6||||<!--  -->
 |the yearbook||8||||<!--  -->
 |bite me 1||?||||<!--  -->
@@ -630,32 +650,21 @@
 |Qforce||10||||<!--  -->
 |EMS earth mix space 1||?||||<!--  -->
 |alice in borderland 1||8||||<!--  -->
-|Strictly come dancing 19||?||||<!--  -->
-|the voice esp 8||?||||<!--  -->
 |/9-1-1 5||18||||<!--  -->
-|the voice us 21||20||||<!--  -->
 |the big leap 1||10||||<!--  -->
-|the masked singer 6||?||||<!--  -->
-|survivor 41||14||||<!--  -->
 |rpdruk 3||10||||<!--  -->
 |goblin 1||16|||1|<!--  -->
-|the voice greece 8||?||||<!--  -->
 |young sheldon 5||?|||3|<!--  -->
-|the voice ger 11|||||0|<!--  -->
 |love area 1|||||2|<!--  -->
 |kieta hatsukoi 1|||||2|<!--  -->
-|drag race ca 2|||||1|<!--  -->
 |aoki vuanpaia no nayami 1|||||2|<!--  -->
 |survivor au 6||25|||3|<!--  -->
 |the voice portugal 9|||||3|<!--  -->
 |inhuman condition 1|||||0|<!--  -->
 |age of the living dead 1|||||1|<!--  -->
-|dragula 4|||||1|<!--  -->
-|incroyable talent 16||?|||2|<!--  -->
 |insiders 1||7|||1|<!--  -->
 |my sweet dear 1||8|||2|<!--  -->
 |bad buddy 1||12|||2|<!--  -->
-|druck 7||10|||1|<!--  -->
 |banana fish 1|||||2|<!--  -->
 |dexter 9||10|||4|<!--  -->
 |vanitas no carte 1||24|||2|<!--  -->
@@ -666,8 +675,17 @@
 |painted with raven 1||8|||1|<!--  -->
 |the voice senior it 2||?|||1|<!--  -->
 |paint with love 1||8|||1|<!--  -->
-|mr cinderella 1||?|||1|<!--  -->
-||||||0|<!--  -->
+|mr cinderella 1||?|||4|<!--  -->
+|district z 2||4|||2|<!--  -->
+|5515 never too late 1||12|||3|<!--  -->
+|not me 1||14|||2|<!--  -->
+|aggretsuko 4||10|||1|<!--  -->
+|F4 thailand||16|||1|<!--  -->
+|the player|the player|16|serie(*)|thailande|0|<!-- -->
+|you are my sunshine||6|serie|vietnam|2|<!--  -->
+|tinted with you|tinted with you|8|serie|corée|2|<!--  -->
+|the voice be 10||16|||0|<!--  -->
+|lego masters fr 2||4|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -684,14 +702,22 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|queen of the universe 1||6|||0|<!-- 2/12 -->
-|never too late 1||12|||0|<!--  -->
-|quaranthings 2||8|||0|<!--  -->
-|not me 1||?|||0|<!--  -->
-|nilundon 1|||||0|<!--  -->
-|F4 thailand|||||0|<!--  -->
-|aggretsuko 4|||||0|<!--  -->
+|survivor 13||16|||<!--  -->
+|the masked singer uk 3|||||0|<!--  -->
 |/9-1-1 lone star 3|||||0|<!--  -->
+|i can see your voice 2|||||0|<!--  -->
+|ninja warrior 6|||||0|<!--  -->
+|The voice nl 12|||||0|<!--  -->
+|the voice no 7|||||0|<!--  -->
+|rpdr 14|||||0|<!--  -->
+|rpdru 14|||||0|<!--  -->
+|rainbow prince 1|||||0|<!--  -->
+|ASC 1|||||0|<!--  -->
+|Survivor 42|||||0|<!--  -->
+|survivor au 9|||||0|<!--  -->
+||||||0|<!--  -->
+|quaranthings 2||8|||0|<!--  -->
+|nilundon 1|||||0|<!--  -->
 |The masked singer fr 3|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -718,7 +744,6 @@
 |drag I love you 1|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |my extraordinary 2|||||0|<!--  -->
-|the player 1|||||0|<!--  -->
 |meet my angel 2|||||0|<!--  -->
 |mr tuxedo||?|||0|<!--  -->
 |UMG||?||thailande|0|<!--  -->

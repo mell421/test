@@ -1,0 +1,5442 @@
+# ---------------------------------------------------------------------------------------------------------
+# Installation des packages
+# ---------------------------------------------------------------------------------------------------------
+installP <- function(){
+  install.packages('ada')
+  install.packages('ade4')
+  install.packages('arules')
+  install.packages('arulesViz')
+  install.packages('boot')
+  install.packages('C50')
+  install.packages('car')
+  install.packages('caret')
+  install.packages('CHAID')
+  install.packages('combinat')
+  install.packages('corrplot')
+  install.packages('doSNOW')
+  install.packages('e1071')
+  install.packages('extraTrees')
+  install.packages('FactoMineR')
+  install.packages('foreach')
+  install.packages('foreign')
+  install.packages('gbm')
+  install.packages('ggplot2')
+  install.packages('glmnet')
+  install.packages('gmodels')
+  install.packages('grplasso')
+  install.packages('ipred')
+  install.packages('kernlab')
+  install.packages('lattice')
+  install.packages('leaps')
+  install.packages('LiblineaR')
+  install.packages('MASS')
+  install.packages('missForest')
+  install.packages('nnet')
+  install.packages('plsRglm')
+  install.packages('prim')
+  install.packages('pROC')
+  install.packages('questionr')
+  install.packages('randomForest')
+  install.packages('randtoolbox')
+  install.packages('rgl')
+  install.packages('rgrs')
+  install.packages('ROCR')
+  install.packages('rpart')
+  install.packages('rpart.plot')
+  install.packages('sas7bdat')
+  install.packages('snow')
+  install.packages('speedglm')
+  install.packages('tree')
+}
+
+
+#installP()
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 2
+# Lecture du fichier texte
+# ---------------------------------------------------------------------------------------------------------
+
+# noms des variables
+myVariableNames<-c("Comptes","Duree_credit","Historique_credit","Objet_credit",
+                   "Montant_credit","Epargne","Anciennete_emploi","Taux_effort",
+                   "Situation_familiale","Garanties","Anciennete_domicile","Biens","Age",
+                   "Autres_credits","Statut_domicile","Nb_credits","Type_emploi",
+                   "Nb_pers_charge","Telephone","Etranger","Cible")
+
+# nom des variables en anglais
+myVariableNamesE<-c("checking_status","duration","credit_history",
+                    "purpose","credit_amount","savings","employment","installment_rate",
+                    "personal_status","other_parties","residence_since","property_magnitude",
+                    "age","other_payment_plans","housing","existing_credits","job",
+                    "num_dependents","telephone","foreign_worker","class")
+
+# lecture du fichier texte sur Internet
+credit = read.table("http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data",h=FALSE,col.names=myVariableNames)
+
+# ajout d'un identifiant (le no de ligne)
+credit$Cle <- seq(1,nrow(credit))
+
+# recodage de certaines variables
+credit$Comptes <- as.factor(substr(credit$Comptes,3,3))
+credit$Anciennete_emploi <- substr(credit$Anciennete_emploi,3,3)
+credit$Epargne <- substr(credit$Epargne,3,3)
+credit$Epargne[credit$Epargne == "5" ] <- "0"
+credit$Etranger <- NULL
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Passage de SAS à R avec le package sas7bdat qui sait lire une table SAS non compressée
+# ---------------------------------------------------------------------------------------------------------
+
+install.packages("sas7bdat")
+library(sas7bdat)
+credit = read.sas7bdat("C:\\Users\\TUFFERY\\Documents\\...\\Etude de cas\\credit.sas7bdat")
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Passage de SPSS à R avec le package foreign
+# ---------------------------------------------------------------------------------------------------------
+
+install.packages("foreign")
+library(foreign)
+credit = read.spss("C:\\Users\\TUFFERY\\Documents\\...\\Etude de cas\\credit.sav",use.value.labels=TRUE, max.value.labels=Inf, to.data.frame=TRUE)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Préparation des données
+# ---------------------------------------------------------------------------------------------------------
+
+credit$Cible[credit$Cible == 1] <- 0 # crédits OK
+credit$Cible[credit$Cible == 2] <- 1 # crédits KO
+#credit$Cible <- credit$Cible - 1
+credit$Cible <- factor(credit$Cible)
+
+# transformation de l'ensemble des variables qualitatives en facteurs
+varquali <- c("Comptes", "Epargne", "Historique_credit", "Objet_credit",
+              "Situation_familiale", "Garanties", "Biens", "Autres_credits",
+              "Statut_domicile", "Type_emploi", "Anciennete_emploi", "Telephone", "Nb_pers_charge")
+indices <- names(credit) %in% varquali
+for (i in (1:ncol(credit))) { if (indices[i] == 1) { credit[,i] <- factor(credit[,i]) } }
+
+# liste des variables quantitatives
+varquanti <- c("Duree_credit", "Montant_credit", "Taux_effort",
+               "Anciennete_domicile", "Age", "Nb_credits")
+
+# exclusion de la clé de la liste des variables analysées
+names(credit)
+vars <- -grep('Cle', names(credit))
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Constitution d'un échantillon de test
+# ---------------------------------------------------------------------------------------------------------
+
+# récupération des clés de l'échantillon de test
+cles = read.table("http://blogperso.univ-rennes1.fr/stephane.tuffery/public/cles.txt",h=FALSE,col.names="Cle")
+id <- cles$Cle
+
+# variante : tirage comme RANUNI de SAS avec graine = 123
+library(randtoolbox)
+a <- 397204094
+b <- 0
+m <- 2^(31)-1
+set.generator(name="congruRand", mod=m, mult=a, incr=b, seed=123)
+id <- (1:1000)[which(runif(1000) < 0.66)]
+head(id,20)
+all.equal(id,cles$Cle)
+set.generator("default")
+
+# échantillon de validation
+test  <- credit[-id,]
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 3
+# Premières analyses descriptives
+# ---------------------------------------------------------------------------------------------------------
+
+# statistiques de base
+summary(credit)
+
+# histogrammes de toutes les variables
+library(Hmisc)
+hist.data.frame(credit[,1:16])
+
+# histogramme
+library(lattice)
+histogram(~Duree_credit | Cible , data = credit, type="percent", col="grey", breaks=10)
+histogram(~Montant_credit | Cible , data = credit, type="percent", col="grey", breaks=10)
+histogram(~Age | Cible , data = credit, type="percent", col="grey", breaks=10)
+
+# statistiques descriptives par groupes
+aggregate(credit[,c("Age","Duree_credit")],by=list(Cible=credit$Cible),mean)
+aggregate(credit[,c("Age","Duree_credit")],by=list(Cible=credit$Cible),summary)
+by(credit[,c("Age","Duree_credit","Montant_credit")],list(Cible=credit$Cible),summary)
+by(credit[,1:20],list(Cible=credit$Cible),summary)
+tapply(credit$Age,credit$Cible,summary)
+#chi² de Kruskal-Wallis
+kruskal.test(credit$Age~credit$Cible)$statistic
+kruskal.test(credit$Duree_credit~credit$Cible)$statistic
+kruskal.test(credit$Montant_credit~credit$Cible)$statistic
+#chi² de Kruskal-Wallis normalisé
+sqrt(kruskal.test(credit$Age~credit$Cible)$statistic/sum(!is.na(credit$Age)))
+sqrt(kruskal.test(credit$Duree_credit~credit$Cible)$statistic/sum(!is.na(credit$Duree_credit)))
+sqrt(kruskal.test(credit$Montant_credit~credit$Cible)$statistic/sum(!is.na(credit$Montant_credit)))
+
+# superposition des fonctions de densité des bons et mauvais dossiers
+plot(density(credit$Age[credit$Cible==0]),main="Fonction de densité",col="blue",
+     xlim = c(18,80), ylim = c(0,0.1),lwd=2)
+par(new = TRUE)
+plot(density(credit$Age[credit$Cible==1]),col="red",lty=3,lwd=2,
+     xlim = c(18,80), ylim = c(0,0.1),xlab = '', ylab = '',main=' ')
+legend("topright",c("Cible=0","Cible=1"),lty=c(1,3),col=c("blue","red"),lwd=2)
+
+# taux d'impayés par décile de l'âge
+q <- quantile(credit$Age, seq(0, 1, by=0.1))
+q[1] <- q[1]-1 # comme les intervalles sont en (a,b] et que q[1]=19
+# et que la base contient deux clients de 19 ans
+# il faut que la 1ère borne vaille 18 pour ne pas exclure ces deux clients
+qage <- cut(credit$Age,q)
+tab <- table(qage,credit$Cible)
+prop.table(tab,1) # affichage % en ligne
+barplot(prop.table(tab,1)[,2],las=3,main="Age",ylab="Taux impayés",density=0)
+abline(h=.3,lty=2)
+
+# fonction d'affichage du taux d'impayés par quantile
+ti = function(x,pas=0.1)
+{
+  q <- unique(quantile(x, seq(0, 1, by=pas)))
+  unique(q)
+  q[1] <- q[1]-1 # comme les intervalles sont en (a,b]
+  qx <- cut(x,q)
+  tab <- table(qx,credit$Cible)
+  print(prop.table(tab,1)) # affichage % en ligne
+  barplot(prop.table(tab,1)[,2],las=3,main=deparse(substitute(x)),ylab="Taux impayés",density=0,horiz=F)
+  abline(h=prop.table(table(credit$Cible))[2],lty=2)
+}
+
+ti = function(x,pas=0.1)
+{
+  q <- unique(quantile(x, seq(0, 1, by=pas)))
+  unique(q)
+  q[1] <- q[1]-1 # comme les intervalles sont en (a,b]
+  qx <- cut(x,q)
+  tab <- table(qx,credit$Cible)
+  print(prop.table(tab,1)) # affichage % en ligne
+  par(mar = c(4, 7, 4, 2))
+  barplot(prop.table(tab,1)[,2],las=1,main=deparse(substitute(x)),ylab="Taux impayés \n\n",density=0,horiz=T)
+  abline(v=prop.table(table(credit$Cible))[2],lty=2)
+}
+
+ti(credit$Age)
+ti(credit$Duree_credit,pas=0.05)
+ti(credit$Montant_credit,pas=0.05)
+
+# discrétisation des variables continues
+Age <- cut(credit$Age,c(0,25,Inf))
+tab <- table(Age,credit$Cible)
+prop.table(tab,1) # affichage % en ligne
+Duree_credit <- cut(credit$Duree_credit,c(0,15,36,Inf))
+tab <- table(Duree_credit,credit$Cible)
+prop.table(tab,1) # affichage % en ligne
+Montant_credit <- cut(credit$Montant_credit,c(0,4000,Inf))
+tab <- table(Montant_credit,credit$Cible)
+prop.table(tab,1) # affichage % en ligne
+
+# tableaux croisés - version 1
+ct <- function(x)
+{ print(names(credit)[x])
+  prop.table(table(credit[,x],credit$Cible),1) }
+#for (i in (1:ncol(credit))) print(ct(i))
+for (i in (1:ncol(credit)))
+{ if ((names(credit[i])) %in% c("Cle","Cible","Duree_credit","Montant_credit","Age"))
+{} else { print(ct(i)) }
+}
+
+# tableaux croisés - version 2 un peu plus jolie
+ct <- function(x)
+{ cat("\n",names(credit)[x])
+  prop.table(table(credit[,x],credit$Cible),1) }
+for (i in (1:ncol(credit)))
+{ if (!(names(credit[i])) %in% c("Cle","Cible","Duree_credit","Montant_credit","Age"))
+{ print(ct(i)) }
+}
+
+# tableaux croisés - version 3 avec effectifs
+ct <- function(x)
+{ cat("\n",names(credit)[x],"\n")
+  cbind(prop.table(table(credit[,x],credit$Cible),1),
+        addmargins(table(credit[,x]))[-(nlevels(credit[,x])+1)]) }
+for (i in (1:ncol(credit)))
+{ if (!(names(credit[i])) %in% c("Cle","Cible","Duree_credit","Montant_credit","Age"))
+{ print(ct(i)) }
+}
+
+# tableaux croisés comme SAS et SPSS
+install.packages('gmodels')
+library(gmodels)
+CrossTable(credit$Comptes,credit$Cible,prop.chisq=F,chisq = T,format="SAS")
+
+# chi² et V de Cramer des variables explicatives
+# les 3 variables continues étant sous leur forme discrétisées
+npred <- -grep('(Cle|Cible|Duree_credit|Montant_credit|Age)', names(credit))
+credit2 <- credit[,npred]
+credit2$Age <- Age
+credit2$Duree_credit <- Duree_credit
+credit2$Montant_credit <- Montant_credit
+
+# 1e solution pour le V de Cramer :
+# utilisation du package rgrs ou questionr
+library(rgrs)
+#install.packages("questionr")
+library(questionr)
+cramer  <- matrix(NA,ncol(credit2),3)
+for (i in (1:ncol(credit2)))
+{     cramer[i,1] <- names(credit2[i])
+cramer[i,2] <- cramer.v(table(credit2[,i],credit$Cible))
+cramer[i,3] <- chisq.test(table(credit2[,i],credit$Cible))$p.value
+}
+colnames(cramer) <- c("variable","V de Cramer","p-value chi2")
+
+# 2e solution pour le V de Cramer :
+# utilisation de la formule : ici, racine carrée de (chi2 / effectif)
+cramer  <- matrix(NA,ncol(credit2),3)
+for (i in (1:ncol(credit2)))
+{     cramer[i,1] <- names(credit2[i])
+cramer[i,2] <- sqrt(chisq.test(table(credit2[,i],credit$Cible))$statistic/
+                      (length(credit2[,i])))
+cramer[i,3] <- chisq.test(table(credit2[,i],credit$Cible))$p.value
+}
+colnames(cramer) <- c("variable","V de Cramer","p-value chi2")
+
+# affichage des variables par V de Cramer décroissants
+vcramer <- cramer [order(cramer[,2], decreasing=T),]
+vcramer
+# graphique
+par(mar = c(8, 4, 4, 0))
+barplot(as.numeric(vcramer[,2]),col=gray(0:nrow(vcramer)/nrow(vcramer)),
+        names.arg=vcramer[,1], ylab='V de Cramer', ylim=c(0,0.35),cex.names = 0.8, las=3)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Liaisons entre variables explicatives
+# ---------------------------------------------------------------------------------------------------------
+
+# V de Cramer des paires de variables explicatives
+install.packages('questionr')
+library(questionr)
+cramer  <- matrix(NA,ncol(credit2),ncol(credit2))
+# variante 1
+for (i in (1:ncol(credit2)))
+{     for (j in (1:ncol(credit2)))
+{
+  cramer[i,j] <- cramer.v(table(credit2[,i],credit2[,j]))
+}
+}
+# variante 2
+vcram <- function(i,j) { cramer.v(table(credit2[,i],credit2[,j])) }
+i <- (1:ncol(credit2))
+j <- (1:ncol(credit2))
+cramer <- outer(i,j,Vectorize(vcram))
+# fin variantes
+colnames(cramer) <- colnames(credit2)
+rownames(cramer) <- colnames(credit2)
+cramer
+#install.packages("corrplot")
+library(corrplot)
+corrplot(cramer)
+corrplot(cramer, method="shade", shade.col=NA, tl.col="black", tl.srt=45)
+par(omi=c(0.4,0.4,0.4,0.4))
+corrplot(cramer,type="upper",tl.srt=45,tl.col="black",tl.cex=1,diag=F,addCoef.col="black",addCoefasPercent=T)
+
+# croisement des variables explicatives les plus fortement liées
+
+tab <- table(credit$Biens,credit$Statut_domicile)
+prop.table(tab,1) # affichage % en ligne
+
+tab <- table(Duree_credit,Montant_credit)
+prop.table(tab,1) # affichage % en ligne
+tab <- table(Duree_credit,credit$Cible)
+cbind(prop.table(tab,1),addmargins(tab,2)) # affichage % en ligne
+tab <- table(Montant_credit,credit$Cible)
+cbind(prop.table(tab,1),addmargins(tab,2)) # affichage % en ligne
+
+tab <- table(credit$Type_emploi,credit$Telephone)
+prop.table(tab,1) # affichage % en ligne
+
+tab <- table(credit$Biens,credit$Statut_domicile)
+prop.table(tab,1) # affichage % en ligne
+
+tab <- table(credit$Nb_credits,credit$Historique_credit)
+prop.table(tab,1) # affichage % en ligne
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 4
+# Discrétisation automatique des variables continues
+# ---------------------------------------------------------------------------------------------------------
+
+# package pour calcul AUC
+library(pROC)
+
+decoup = function(base,x,y,h=0,k=0,pAUC=0,nbmod=3,calcul=1,algo="Nelder-Mead",graphe=0)
+{
+
+  # renommage des variables
+  attach(base)
+  Xt <- x
+  Yt <- y
+  detach(base)
+
+  # traitement spécifique des valeurs manquantes
+  X  <- Xt[is.na(Xt)==0]
+  Y  <- Yt[is.na(Xt)==0]
+
+  seuils <- as.vector(quantile(X, seq(0, 1, length=(nbmod+1))))[2:nbmod]
+
+  fitauc = function(s)
+  {
+    s2 <- c(-Inf,unique(s),Inf)
+    qX <- cut(X,s2)
+    tab <- table(qX,Y)
+    logit <- glm(Y~qX, family=binomial(link = "logit"))
+    qXn <- predict(logit, newdata=base[is.na(Xt)==0,], type="response")
+    resultat <- auc(Y,qXn, partial.auc=c(1,pAUC), partial.auc.correct=FALSE) *
+      (1-sum((table(qX)/length(X))^2))/(1-(1-h)*(sum((table(qX)/length(X))^2))) *
+      ((1-(1-k)*(sum((prop.table(tab,1)[,2])^2)))/(1-sum((prop.table(tab,1)[,2])^2)))
+    return(-resultat)
+  }
+
+  # application du découpage
+  Applical = function() {
+    sf <- unique(c(-Inf,est$par,Inf))
+    qX <- cut(Xt,sf)
+    tab <- table(addNA(qX),Yt)
+    cat("\n","Résultat du découpage :","\n")
+    cat("\n","Seuils     % Négat. % Posit. # +  #     % #","\n")
+    print(cbind(prop.table(tab,1)*100,tab[,2],table(addNA(qX)),table(addNA(qX))*100/length(Xt)))
+    cat("\n","Indicateur de convergence (0 = convergence optimisation)","\n")
+    cat(est$convergence) # vérifier qu'on obtient 0
+    cat("\n","AUC (partielle) maximisée :","\n")
+    cat(-est$value)
+    cat("\n","Homogénéité des classes (0 <- faible ... forte -> 1) :","\n")
+    cat(1-sum((prop.table(table(addNA(qX),Yt),1)[,2])^2))
+    return(qX)
+  }
+
+  # calcul aire sous la courbe ROC
+  Gini = function(t) {
+    cat("\n","AUC avant découpage :","\n")
+    logit <- glm(Y~X, family=binomial(link = "logit"))
+    g1 <- auc(Y,predict(logit, newdata=base[is.na(Xt)==0,], type="response"))
+    cat(g1)
+    cat("\n","AUC après découpage :","\n")
+    logit <- glm(Yt~t,family=binomial(link = "logit"))
+    g2 <- auc(Yt,predict(logit, newdata=base, type="response"))
+    cat(g2)
+    cat("\n","% Evolution AUC avant/après découpage :","\n")
+    cat(100*(g2-g1)/g1)
+    cat("\n")
+  }
+
+  # recherche des seuils optimaux à partir des valeurs initiales précédentes (calcul = 1)
+  # ou utilisation de bornes prescrites (calcul = 0)
+  if (calcul == 1) { est = optim(seuils,fitauc,method=algo) }
+  else { est <- list() ; est$par <- bornes ; est$convergence <- 0 ; est$value <- 0}
+
+  cat("\n","---------------------------------------------------------------------------","\n")
+  cat("\n","Discrétisation de", substitute(x), "en", nbmod, "classes ( algorithme ",algo,") \n")
+  cat("\n","---------------------------------------------------------------------------","\n")
+
+  qX1 <- Applical()
+  Gini(qX1)
+
+  # courbe de densité
+  if (graphe == 1) {
+    x11()
+    layout(matrix(c(1, 2), 2, 1, byrow = TRUE),heights=c(3, 1))
+    par(mar = c(2, 4, 2, 1))
+    base0 <- X[Y==0]
+    base1 <- X[Y==1]
+    xlim1 <- range(c(base0,base1))
+    ylim1 <- c(0,max(max(density(base0)$y),max(density(base1)$y)))
+    plot(density(base0),main=" ",col="blue",ylab=paste("Densité de ",deparse(substitute(x))),
+         xlim = xlim1, ylim = ylim1 ,lwd=2)
+    par(new = TRUE)
+    plot(density(base1),col="red",lty=3,lwd=2,
+         xlim = xlim1, ylim = ylim1,xlab = '', ylab = '',main=' ')
+    legend("topright",c(paste(deparse(substitute(y))," = 0"),paste(deparse(substitute(y))," = 1")),
+           lty=c(1,3),col=c("blue","red"),lwd=2)
+    abline(v=est$par,lty=2)
+    texte <- c("Chi² de Kruskal-Wallis = \n\n",round(kruskal.test(X~Y)$statistic,digits=3))
+    text(xlim1[2]*0.8, ylim1[2]*0.5, texte,cex=0.75)
+    plot(X~Y,horizontal = TRUE,xlab= deparse(substitute(y)),col=c("blue","red"))
+  }
+
+  # fin de la fonction de discrétisation automatique
+}
+
+# suppression des objets existants de l'environnement global (GlobalEnv) pour éviter un conflit dans la fonction "attach"
+# quand on lui passe en paramètre l'un de ces objets
+rm(Age)
+rm(Duree_credit)
+rm(Montant_credit)
+for (i in (2:5)) decoup(credit,Age,Cible,nbmod=i,h=0,k=0,pAUC=0.8,graphe=1)
+for (i in (2:5)) decoup(credit,Duree_credit,Cible,nbmod=i,h=0,k=0,pAUC=0.8,graphe=1)
+for (i in (2:5)) decoup(credit,Montant_credit,Cible,nbmod=i,h=0,k=0,pAUC=0.8,graphe=1)
+
+# seuils fixés
+bornes <- c(26,47)
+decoup(credit,age,cible,nbmod=3,calcul=0,h=0,k=0,pAUC=0.8,graphe=1)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Discrétisation des variables
+# ---------------------------------------------------------------------------------------------------------
+
+# création d'un data frame avec variables continues discrétisées
+# au vu des taux d'impayés et effectifs de chaque modalité
+
+# discrétisation des variables continues
+npred <- -grep('(Cle|Duree_credit|Montant_credit|Age)', names(credit))
+credit2 <- credit[,npred]
+credit2$Age <- cut(credit$Age,c(0,25,Inf),right=TRUE)
+credit2$Duree_credit <- cut(credit$Duree_credit,c(0,15,36,Inf),right=TRUE)
+credit2$Montant_credit <- cut(credit$Montant_credit,c(0,4000,Inf),right=TRUE)
+
+# recodage et fusion des modalités
+library(car)
+
+# attention aux simples et doubles quotes dans le "recode"
+credit2$Comptes <- recode(credit2$Comptes,"4='Pas de compte';1='CC < 0 euros';2='CC [0-200 euros[';3='CC > 200 euros' ")
+table(credit2$Comptes)
+
+credit2$Historique_credit <- recode(credit2$Historique_credit,"'A30'='Impayés passés';
+'A31'='Impayé en cours dans autre banque';
+c('A32','A33')='Pas de crédits ou en cours sans retard';'A34'='Crédits passés sans retard'")
+table(credit2$Historique_credit)
+
+credit2$Objet_credit <- recode(credit2$Objet_credit,"'A40'='Voiture neuve';
+'A41'='Voiture occasion';c('A42','A44','A45')='Intérieur';
+'A43'='Vidéo - HIFI';c('A46','A48')='Etudes';
+'A47'='Vacances';'A49'='Business';else='Autres'")
+table(credit2$Objet_credit)
+
+credit2$Epargne <- recode(credit2$Epargne,
+                          "0='Sans épargne';1:2='< 500 euros';3:4='> 500 euros'")
+table(credit2$Epargne)
+
+credit2$Anciennete_emploi <- recode(credit2$Anciennete_emploi,
+                                    "1:2='Sans emploi ou < 1 an';3='entre 1 et 4 ans';4:5='depuis au moins 4 ans'")
+table(credit2$Anciennete_emploi)
+
+credit2$Situation_familiale<- recode(credit2$Situation_familiale,
+                                     "'A91'='Homme divorcé/séparé';'A92'='Femme divorcée/séparée/mariée';
+c('A93','A94')='Homme célibataire/marié/veuf';'A95'='Femme célibataire'")
+table(credit2$Situation_familiale)
+
+credit2$Garanties <- recode(credit2$Garanties,"'A103'='Avec garant';else='Sans garant'")
+table(credit2$Garanties)
+
+credit2$Biens <- recode(credit2$Biens,"'A121'='Immobilier';'A124'='Aucun bien';
+else='Non immobilier'")
+table(credit2$Biens)
+
+credit2$Autres_credits <- recode(credit2$Autres_credits,"'A143'='Aucun crédit extérieur';else='Crédits extérieurs'")
+table(credit2$Autres_credits)
+
+credit2$Statut_domicile <- recode(credit2$Statut_domicile,"'A152'='Propriétaire';else='Non Propriétaire'")
+table(credit2$Statut_domicile)
+
+# structure du fichier de crédit après transformations
+summary(credit2)
+
+# échantillons d'apprentissage et de validation
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 5
+# Régression logistique avec sélection pas à pas
+# ---------------------------------------------------------------------------------------------------------
+
+# formule avec l'ensemble des prédicteurs
+predicteurs <- -grep('(Cle|Cible)', names(credit2))
+# formule sans interaction
+formule <- as.formula(paste("y ~ ",paste(names(credit2[,predicteurs]),collapse="+")))
+# formule avec interactions
+formule <- as.formula(paste("y ~ ( ",paste(names(credit2[,predicteurs]),collapse="+"),")^2"))
+formule
+
+# sélection de modèle ascendante
+logit <- glm(Cible~1,data=train,family=binomial(link = "logit"))
+summary(logit)
+# recherche maximale
+selection <- step(logit,direction="forward",trace=TRUE,k = log(nrow(train)),
+                  scope=list(upper=formule))
+selection
+summary(selection)
+# recherche limitée aux principaux prédicteurs
+selection <- step(logit,direction="forward",trace=TRUE,k = 2,
+                  scope=list(upper=~Comptes + Duree_credit + Historique_credit + Epargne + Garanties + Age + Autres_credits
+                             + Taux_effort + Montant_credit + Statut_domicile + Anciennete_emploi))
+
+# application du modèle à un jeu de données
+train.ascbic <- predict(selection, newdata=train, type="response")
+valid.ascbic <- predict(selection, newdata=valid, type="response")
+
+# aire sous la courbe ROC
+library(ROCR)
+pred <- prediction(train.ascbic,train$Cible,label.ordering=c(0,1))
+pred <- prediction(valid.ascbic,valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# sélection sur l'AIC sans l'objet de crédit - avec interactions
+selection <- step(logit,direction="forward",trace=TRUE,k = 2,
+                  scope=list(upper=~(Comptes + Duree_credit + Historique_credit +
+                                       Epargne + Garanties + Age + Autres_credits + Taux_effort +
+                                       Montant_credit + Statut_domicile + Anciennete_emploi)^2))
+
+# sélection de modèle descendante
+logit <- glm(Cible~.,data=train,family=binomial(link = "logit"))
+selection <- step(logit,direction="backward",trace=TRUE,k = log(nrow(train)))
+selection <- step(logit,direction="backward",trace=TRUE,
+                  scope=list(lower=~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits))
+selection
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Régression logistique avec sélection globale
+# ---------------------------------------------------------------------------------------------------------
+
+# sélection globale
+library(leaps)
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+
+# méthode de Lawless et Singhal
+logit <- glm(Cible~.,data=train,family=binomial(link = "logit"))
+summary(logit)
+pi <- predict(logit, newdata=train, type="response")
+poids <- pi * (1 - pi)
+y <- as.numeric(train[,"Cible"])
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+train$Cible_lin = log (pi/(1 - pi)) + ( (y - pi) / (pi*(1 - pi)) )
+reg <- lm(Cible_lin~.,data=train[,-17],weights=poids)
+summary(reg)
+fw <- regsubsets(Cible_lin~.,wt=poids,data=train[,-17],nbest=1,nvmax=40,really.big=T)
+fw <- regsubsets(Cible_lin~.,wt=poids,data=train[,-17],nbest=1000,nvmax=16,really.big=T)
+
+
+# fonction leaps
+
+# variables explicatives mises sous forme matricielle
+x <- data.frame(model.matrix( ~ .,data=train[,-which(names(train)=="Cible")]))
+y <- as.numeric(train[,"Cible"])
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+
+selec <- leaps(x,y,method="Cp",nbest=1) # impossible si plus de 31 variables
+selec <- leaps(x,y,method="Cp",nbest=1,strictly.compatible=F)
+plot(selec$size-1,selec$Cp,xlab="# predicteurs",ylab="Cp") # on soustrait 1 à size à cause de l'intercept
+selec$size
+selec$Cp
+selec$which
+# modèle correspondant au Cp minimum
+best.model <- selec$which[which((selec$Cp == min(selec$Cp))),]
+print(best.model)
+colnames(x)[best.model] # variables du meilleur modèle
+
+# avec R² ou R² ajusté
+#selec <- leaps(x,train[,"Cible"],method="r2",nbest=1,strictly.compatible=F)
+selec <- leaps(x,train[,"Cible"],method="adjr2",nbest=1,strictly.compatible=F)
+plot(selec$size-1,selec$adjr2,xlab="# predicteurs",ylab="R2 ajusté")
+which((selec$adjr2 == max(selec$adjr2)))
+
+# ajustement du modèle sélectionné
+formule <- as.formula(paste("y ~ ",paste(colnames(x)[best.model],collapse="+")))
+z <- cbind(x,y)
+logit <- glm(formule,data=z,family=binomial(link = "logit"))
+summary(logit)
+
+# application du modèle à un autre jeu de données
+xt <- data.frame(model.matrix( ~ .,data=valid[,-which(names(valid)=="Cible")]))
+prob <- predict(logit, newdata=xt, type="response")
+
+# aire sous la courbe ROC
+library(ROCR)
+pred <- prediction(prob,valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# recherche de l'aire sous la courbe ROC maximale
+selec <- leaps(x,y,method="Cp",nbest=10,strictly.compatible=F)
+nmodel <- nrow(selec$which)
+aucfw <- matrix(NA,nmodel,3)
+models <- matrix(NA,nmodel,ncol(selec$which)+1)
+for (i in 1:nmodel)
+{
+  best.model <- selec$which[i,]
+  formule <- as.formula(paste("y ~ ",paste(colnames(x)[best.model],collapse="+")))
+  logit <- glm(formule,data=z,family=binomial(link = "logit"))
+  prob <- predict(logit, newdata=xt, type="response")
+  pred <- prediction(prob,valid$Cible,label.ordering=c(0,1))
+  performance(pred,"auc")@y.values[[1]]
+  aucfw[i,1] <- selec$size[i]-1
+  aucfw[i,2] <- performance(pred,"auc")@y.values[[1]]
+  models[i,1:ncol(selec$which)] <- selec$which[i,1:ncol(selec$which)]
+  models[i,ncol(selec$which)+1] <- performance(pred,"auc")@y.values[[1]]
+  aucfw[i,3] <- selec$Cp[i]
+}
+colnames(aucfw) <- c("taille","AUC","Cp")
+selglob <- aucfw [order(aucfw[,2], decreasing=T),]
+selglob
+
+# recherche des meilleures variables par CART appliqué à l'ensemble des modèles précédents
+# avec leur AUC comme variable à expliquer
+library(rpart)
+colnames(models) <- c(names(x),"AUC")
+ensmodels <- as.data.frame(models)
+cart <- rpart(AUC ~ . ,data = ensmodels,method="anova",parms=list(split="gini"),control=list(maxdepth=3))
+cart
+plot(cart,branch=.2, uniform=T, compress=T, margin=.1)
+text(cart, fancy=T, use.n=T, pretty=0, all=T, cex=1.6, fwidth = 2)
+
+# recherche des meilleures variables par RF appliquées à l'ensemble des modèles précédents
+# avec leur AUC comme variable à expliquer
+# et en utilisant la fonction "importance"
+library(randomForest)
+set.seed(235)
+rf <- randomForest(AUC ~ . ,data = ensmodels, importance=TRUE, ntree=500, mtry=6, replace=T, keep.forest=T,nodesize=5)
+varImpPlot(rf,cex=1.4)
+importance(rf,type=2,scale=F)[order(importance(rf,type=2,scale=F), decreasing=TRUE),]
+
+# fonction regsubsets
+
+#fw <- regsubsets(model.matrix( ~ 0+Comptes+Duree_credit+Historique_credit+Objet_credit+Epargne+Anciennete_emploi+Situation_familiale+Garanties+Biens+Age,data=train),train$Cible)
+fw <- regsubsets(Cible~.,data=train,nbest=1,nvmax=36)
+fw <- regsubsets(Cible~.,data=train,nbest=1,nvmax=16,really.big=T)
+
+# augmentation de la marge du bas pour éviter la légende tronquée pour les montants de crédit
+(newOmi <- par()$omi)
+newOmi[1] <- 3
+par(omi=newOmi)
+plot(fw,scale="bic")
+plot(fw,scale="r2")
+
+selec <- summary(fw)
+apply(selec$which,1,sum) # nb de prédicteurs du modèle (y compris la constante)
+plot(apply(selec$which,1,sum)-1, selec$bic, ,xlab="# predicteurs",ylab="BIC")
+
+# meilleur modèle selon critère BIC
+best.model <- selec$which[which((selec$bic == min(selec$bic))),]
+min(selec$bic)
+print(best.model)
+x <- data.frame(model.matrix( ~ .,data=train[,-which(names(train)=="Cible")]))
+colnames(x)[best.model] # variables du meilleur modèle
+
+# recherche de l'aire sous la courbe ROC maximale
+#library(ROCR)
+fw <- regsubsets(Cible~.,data=train,nbest=1000,nvmax=16,really.big=T)
+selec <- summary(fw)
+x <- data.frame(model.matrix( ~ .,data=train[,-17]))
+y <- as.numeric(train[,"Cible"])
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+z <- cbind(x,y)
+xt <- data.frame(model.matrix( ~ .,data=valid[,-17]))
+nmodel <- nrow(selec$which)
+aucfw <- matrix(NA,nmodel,3)
+models <- matrix(NA,nmodel,ncol(selec$which)+1)
+for (i in 1:nmodel)
+{ if (apply(selec$which,1,sum)[i] > 0)
+{
+  best.model <- selec$which[i,]
+  formule <- as.formula(paste("y ~ ",paste(colnames(x)[best.model],collapse="+")))
+  logit <- glm(formule,data=z,family=binomial(link = "logit"))
+  prob <- predict(logit, newdata=xt, type="response")
+  pred <- prediction(prob,valid$Cible,label.ordering=c(0,1))
+  performance(pred,"auc")@y.values[[1]]
+  aucfw[i,1] <- apply(selec$which,1,sum)[i]-1
+  aucfw[i,2] <- performance(pred,"auc")@y.values[[1]]
+  models[i,1:ncol(selec$which)] <- selec$which[i,1:ncol(selec$which)]
+  models[i,ncol(selec$which)+1] <- performance(pred,"auc")@y.values[[1]]
+  aucfw[i,3] <- selec$bic[i]
+}
+}
+colnames(aucfw) <- c("taille","AUC","BIC")
+selglob <- aucfw [order(aucfw[,2], na.last = NA, decreasing=T),]
+head(selglob,20)
+hist(selglob[,2],breaks=100,xlim=c(0.6,0.8))
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Régression logistique avec combinaisons de variables
+# ---------------------------------------------------------------------------------------------------------
+
+library(combinat)
+library(ROCR)
+
+# version for-loop
+# -------------------------------------------------------
+
+CombiReg = function(apprent, validat, varY, varX, p)
+{
+  y <- apprent[,varY] # variable à expliquer
+  cible <- validat[,varY] # variable à prédire
+  size <- length(varX) # nb total de variables
+  combi <- combn(size, p) # combinaison de variables
+  perf  <- matrix(0,dim(combi)[2],1) # dim(combi)[2] = nb de combinaisons
+  predi <- matrix(" ",dim(combi)[2],p)
+
+  for(i in (1:dim(combi)[2]))
+  {
+
+    # sélection des prédicteurs
+    s <- combi[,i] # ie combinaison de variables
+    predicteurs <- varX[s]
+
+    # écriture de la formule avec les prédicteurs sélectionnés
+    if (p > 1) {
+      formule <- as.formula(paste("y ~ ",paste(names(apprent[,predicteurs]),collapse="+")))
+    } else {
+      formule <- as.formula(paste("y ~ ",predicteurs))
+    }
+    # ajustment du modèle logit
+    logit <- glm(formule, data=apprent, family=binomial(link = "logit"))
+    # application du modèle logit à l'échantillon de validation
+    scores <- predict(logit, newdata=validat, type="response")
+    pred <- prediction(scores,cible,label.ordering=c(0,1))
+    #perf[i] <- (performance(pred,"auc")@y.values[[1]]-0.5)*2
+    perf[i] <- performance(pred,"auc")@y.values[[1]]
+    predi[i,] <- predicteurs
+
+  } # fin de la boucle
+
+  cr <- list(perf,predi)
+
+} # fin de la fonction
+
+varx <- c(varquali, varquanti)
+cr <- CombiReg(apprent=train, validat=valid, varY="Cible", varX=varx, p=7)
+# affichage des combinaisons par AUC décroissantes
+resultat <- cbind(cr[[1]],cr[[2]])[order(-cr[[1]]),]
+# affichage des 100 meilleures combinaisons
+resultat[1:min(100,dim(resultat)[1]),]
+
+
+# version vectorisée
+# -------------------------------------------------------
+
+CombiRegR = function(apprent, validat, varY, varX, p)
+{
+  y <- apprent[,varY] # variable à expliquer
+  cible <- validat[,varY] # variable à prédire
+  size <- length(varX) # nb total de variables
+  combi <- combn(size, p) # combinaison de variables
+  predi <- matrix(" ",dim(combi)[2],p)
+
+  f = function(i)
+  {
+    # sélection des prédicteurs
+    s <- combi[,i] # ie combinaison de variables
+    predicteurs <- varX[s]
+
+    # écriture de la formule avec les prédicteurs sélectionnés
+    if (p > 1) {
+      formule <- as.formula(paste("y ~ ",paste(names(apprent[,predicteurs]),collapse="+")))
+    } else {
+      formule <- as.formula(paste("y ~ ",predicteurs))
+    }
+    # ajustment du modèle logit
+    logit <- glm(formule, data=apprent, family=binomial(link = "logit"))
+    # application du modèle logit à l'échantillon de validation
+    scores <- predict(logit, newdata=validat, type="response")
+    pred <- prediction(scores,cible,label.ordering=c(0,1))
+    return(list(auc = performance(pred,"auc")@y.values[[1]],predi = predicteurs))
+
+  } # fin de la fonction à vectoriser
+
+  cr <- matrix(unlist(Vectorize(f)(seq(1,dim(combi)[2]))),ncol=dim(combi)[2],byrow=F)
+
+} # fin de la fonction
+
+cr <- CombiRegR(apprent=train, validat=valid, varY="Cible", varX=varx, p=7)
+# affichage des combinaisons par AUC décroissantes
+resultat <- data.frame(t(cr))
+colnames(resultat) <- c('AUC',paste("V",1:(ncol(resultat)-1),sep=""))
+resultat$AUC <- as.numeric(as.character(resultat$AUC))
+resultat <- resultat[order(-resultat$AUC),]
+head(resultat,100)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Régression logistique avec les modalités définitives
+# ---------------------------------------------------------------------------------------------------------
+
+# création d'un data frame avec variables continues discrétisées
+# pour régression logistique
+
+# discrétisation des variables continues
+npred <- -grep('(Cle|Duree_credit|Montant_credit|Age)', names(credit))
+credit2 <- credit[,npred]
+credit2$Age <- cut(credit$Age,c(0,25,Inf),right=TRUE)
+credit2$Duree_credit <- cut(credit$Duree_credit,c(0,15,36,Inf),right=TRUE)
+credit2$Montant_credit <- cut(credit$Montant_credit,c(0,4000,Inf),right=TRUE)
+
+# choix de la modalité de référence pour l'âge
+credit2$Age <- relevel(credit2$Age,ref="(25,Inf]")
+
+# recodage et fusion des modalités
+library(car)
+
+# attention aux simples et doubles quotes dans le "recode"
+credit2$Comptes <- recode(credit2$Comptes,"4='Pas de compte';1='CC < 0 euros';2='CC [0-200 euros[';3='CC > 200 euros' ")
+#credit2$Comptes  <- factor(credit2$Comptes,levels=c('4','1','2','3'),labels=c("Pas de compte","CC < 0 euros","CC [0-200 euros[","CC  >= 200 euros"))
+table(credit2$Comptes)
+
+credit2$Historique_credit <- recode(credit2$Historique_credit,"c('A30','A31')='Crédits en impayé';
+c('A32','A33')='Pas de crédits ou en cours sans retard';'A34'='Crédits passés sans retard'")
+table(credit2$Historique_credit)
+
+credit2$Objet_credit <- recode(credit$Objet_credit,"'A40'='Voiture neuve';
+'A41'='Voiture occasion';c('A42','A43','A44','A45')='Intérieur';c('A46','A48','A49','A410')='Etudes-business-Autres';
+'A47'='Vacances'")
+table(credit2$Objet_credit)
+
+credit2$Epargne <- recode(credit2$Epargne,
+                          "c(0,3,4)='Pas épargne ou > 500 euros';1:2='< 500 euros'")
+table(credit2$Epargne)
+
+credit2$Anciennete_emploi<- recode(credit2$Anciennete_emploi,
+                                   "1:2='Sans emploi ou < 1 an';3='E [1-4[ ans';4:5='E GE 4 ans'")
+table(credit2$Anciennete_emploi)
+
+credit2$Situation_familiale<- recode(credit2$Situation_familiale,
+                                     "'A91'='Homme divorcé/séparé';'A92'='Femme divorcée/séparée/mariée';
+c('A93','A94')='Homme célibataire/marié/veuf';'A95'='Femme célibataire'")
+table(credit2$Situation_familiale)
+
+credit2$Garanties <- recode(credit2$Garanties,"'A103'='Avec garant';else='Sans garant'")
+table(credit2$Garanties)
+
+credit2$Biens <- recode(credit2$Biens,"'A121'='Immobilier';'A124'='Aucun bien';
+else='Non immobilier'")
+table(credit2$Biens)
+
+credit2$Autres_credits <- recode(credit2$Autres_credits,"'A143'='Aucun crédit extérieur';else='Crédits extérieurs'")
+table(credit2$Autres_credits)
+
+credit2$Statut_domicile <- recode(credit2$Statut_domicile,"'A152'='Propriétaire';else='Non Propriétaire'")
+table(credit2$Statut_domicile)
+
+# structure du fichier de crédit après transformations
+summary(credit2)
+
+# échantillons d'apprentissage et de validation
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+
+# régression logistique
+logit <- glm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,data=train,family=binomial(link = "logit"))
+summary(logit)
+
+# grille de score
+VARIABLE=c("",gsub("[0-9]", "", names(unlist(logit$xlevels))))
+MODALITE=c("",as.character(unlist(logit$xlevels)))
+MODALITE=c("",unlist(logit$xlevels))
+names=data.frame(VARIABLE,MODALITE,NOMVAR=c("(Intercept)",paste(VARIABLE,MODALITE,sep="")[-1]))
+regression=data.frame(NOMVAR=names(coefficients(logit)),COEF=as.numeric(coefficients(logit)))
+param = merge(names,regression,all.x=TRUE)[-1]
+param$COEF[is.na(param$COEF)] <- 0
+param
+# calcul du poids total pour normalisation
+mini=aggregate(data.frame(min = param$COEF), by = list(VARIABLE = param$VARIABLE), min)
+maxi=aggregate(data.frame(max = param$COEF), by = list(VARIABLE = param$VARIABLE), max)
+total=merge(mini,maxi)
+total$diff = total$max - total$min
+poids_total = sum(total$diff)
+# calcul des poids par modalité
+grille = merge(param,mini,all.x=TRUE)
+grille$delta = grille$COEF - grille$min
+grille$POIDS = round((100*grille$delta) / poids_total)
+grille[which(VARIABLE!=""),c("VARIABLE","MODALITE","POIDS")]
+grille[order(grille$VARIABLE,grille$MODALITE)[which(VARIABLE!="")],c("VARIABLE","MODALITE","POIDS")]
+
+# application du modèle à un jeu de données
+valid$logit <- predict(logit, newdata=valid, type="response")
+
+# aire sous la courbe ROC
+library(ROCR)
+pred <- prediction(valid$logit,valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # AUC = 0,76202
+#auc(valid$Cible,valid$logit) # avec package pROC
+
+# courbe ROC
+perf <- performance(pred,"tpr","fpr")
+plot(perf,main='Courbe ROC')
+segments(0,0,1,1,lty=3) # ajout diagonale en pointillés
+# courbe de lift
+lift <- performance(pred,"lift","rpp")
+plot(lift,main='Courbe de lift')
+# courbe de lift usuelle
+lift <- performance(pred,"tpr","rpp")
+plot(lift,main='Courbe de lift')
+segments(0,0,prop.table(table(credit$Cible))[2],1,lty=3) # ajout diagonale en pointillés gris
+segments(prop.table(table(credit$Cible))[2],1,1,1,lty=3) # ajout diagonale en pointillés gris
+
+# courbe ROC avec intervalles de confiance
+library(pROC)
+roc <- plot.roc(valid$Cible,valid$logit,main="", percent=TRUE, ci=TRUE)
+# calcul des intervalles de confiance par simulation de Monte-Carlo
+roc.se <- ci.se(roc,specificities=seq(0, 100, 5))
+plot(roc.se, type="shape", col="grey")
+
+# superposition des fonctions de répartition des bons et mauvais dossiers
+plot.ecdf((valid$logit[valid$Cible==0]),main="Fonction de répartition du score",col="blue",pch=16)
+plot.ecdf((valid$logit[valid$Cible==1]),col="red",pch=17,add=T)
+legend("bottomright",c("Score=0","Score=1"),pch=c(16,17),col=c("blue","red"),lwd=1)
+
+# Kolmogorov-Smirnov
+perf <- performance(pred,"tpr", "fpr")
+max(perf@y.values[[1]]-perf@x.values[[1]])
+ks <- perf@y.values[[1]]-perf@x.values[[1]]
+(seuil <- pred@cutoffs[[1]][which.max(ks)])
+segments(seuil,1-perf@y.values[[1]][which.max(ks)],seuil,1-perf@x.values[[1]][which.max(ks)],col='black',lty=3)
+
+# superposition des fonctions de densité des bons et mauvais dossiers
+plot(density(valid$logit[valid$Cible==0]),main="Fonction de densité du score",col="blue",
+     xlim = c(-0.2,1.1), ylim = c(0,3),lwd=2)
+par(new = TRUE)
+plot(density(valid$logit[valid$Cible==1]),col="red",lty=3,lwd=2,
+     xlim = c(-0.2,1.1), ylim = c(0,3),xlab = '', ylab = '',main=' ')
+legend("topright",c("Score=0","Score=1"),
+       lty=c(1,3),col=c("blue","red"),lwd=2)
+abline(v=seuil,col="grey")
+
+# box-plot
+plot(logit~Cible,data=valid,horizontal = TRUE)
+
+# application du modèle à l'ensemble des données
+credit2$logit <- predict(logit, newdata=credit2, type="response")
+pred <- prediction(credit2$logit,credit2$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # AUC = 0,7899667
+
+# taux d'impayés par décile du score
+q <- quantile(credit2$logit, seq(0, 1, by=0.05))
+qscore <- cut(credit2$logit,q)
+tab <- table(qscore,credit2$Cible)
+ti <- prop.table(tab,1)[,2] # affichage % en ligne
+par(mar = c(7, 4, 2, 0))
+barplot(as.numeric(ti),col=gray(0:length(ti)/length(ti)),
+        names.arg=names(ti), ylab='Taux impayés', ylim=c(0,1),cex.names = 0.8, las=3)
+abline(v=c(7.3,18.1),col="red")
+
+library(car)
+zscore <- recode(credit2$logit,as.factor.result=T,"lo:0.117='Faible';
+0.117:0.486='Moyen';
+0.486:hi='Fort'")
+table(zscore)
+tab <- table(zscore,credit2$Cible)
+prop.table(tab,1) # affichage % en ligne
+
+# discrétisation automatique du score
+for (i in (3:4)) decoup(credit2,logit,Cible,nbmod=i,h=1,k=0,pAUC=0.8)
+decoup(credit2,logit,Cible,nbmod=3,h=1,k=0,pAUC=0.8)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Régression logistique probit
+# ---------------------------------------------------------------------------------------------------------
+
+# probit
+probit <- glm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,data=train,family=binomial(link = "probit"))
+summary(probit)
+
+logit$coefficients/probit$coefficients
+pi/sqrt(3)
+
+valid$probit <- predict(probit, newdata=valid, type="response")
+pred <- prediction(valid$probit,valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # AUC = 0.7576286
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Régression logistique log-log
+# ---------------------------------------------------------------------------------------------------------
+
+# log-log
+cloglog <- glm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,data=train,family=binomial(link = "cloglog"))
+summary(cloglog)
+# modèle sur cible inversée
+ccloglog <- glm(ifelse(train$Cible==0,1,0)~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,data=train,family=binomial(link = "cloglog"))
+summary(ccloglog)
+
+valid$cloglog <- predict(cloglog, newdata=valid, type="response")
+pred <- prediction(valid$cloglog,valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+cor(valid$logit,valid$probit,valid$cloglog)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 6
+# Régression logistique pénalisée ridge
+# ---------------------------------------------------------------------------------------------------------
+
+# régression elasticnet (méthode de descente des coordonnées)
+library(glmnet)
+
+# le vecteur de prédicteurs x de glmnet doit être numérique => toutes
+# les variables qui sont des facteurs sont remplacées par les indicatrices
+# de leurs modalités (sauf la modalité de référence)
+x <- model.matrix( ~ . -1 ,data=train[,-which(names(train)=="Cible")])
+y <- train[,"Cible"]
+
+# validation croisée
+set.seed(235)
+cvfit = cv.glmnet(x,y,alpha=0.001, family = "binomial",type="auc",nlambda=100)
+cvfit$lambda # valeurs de pénalisation
+cvfit$lambda[1] # plus petit lambda annulant tous les coefficients
+# à noter que ce lambda devrait être infini pour alpha = 0 (ridge)
+# et que pour avoir un lambda fini, on remplace alpha = 0 par alpha = 0.001
+cvfit$lambda[100] # lambda précédent divisé par 10000
+cvfit$lambda.min # lambda donnant le plus petit taux derreur (cross-validé)
+which(cvfit$lambda==cvfit$lambda.min) # valeur de lambda donnant l'AUC maximale
+# représentation graphique de l'erreur (= AUC) en fonction de la pénalisation
+plot(cvfit)
+abline(h=cvfit$cvm[which(cvfit$lambda==cvfit$lambda.min)],col='blue',lty=2)
+abline(v=log(cvfit$lambda.min),col='blue',lty=2)
+
+# calcul de la régression pour une plage de valeurs de lambda
+fit = glmnet(x,y,alpha=0,family = "binomial",lambda=seq(cvfit$lambda[1],
+                                                        cvfit$lambda[100],length=10000),standardize = T)
+
+# affichage des coefficients
+plot(fit)
+plot(fit,xvar="lambda",label="T")
+
+# prédiction sur une plage de lambda
+# sans précision de "s", toute la séquence de lambda utilisée en apprentissage est reprise
+ypred <- predict(fit,newx=x,type="response")
+length(fit$lambda)
+library(ROCR)
+roc <- function(x) { performance(prediction(ypred[,x],y),"auc")@y.values[[1]] }
+vauc <- Vectorize(roc)(1:length(fit$lambda))
+which.max(vauc) # rang de la pénalisation donnant la plus forte AUC
+fit$lambda[which.max(vauc)] # pénalisation donnant la plus forte AUC
+vauc[which.max(vauc)] # plus forte AUC
+
+# prédiction sur une plage de lambda sur la base de test
+xt <- model.matrix( ~ . -1,data=valid[,-which(names(valid)=="Cible")])
+yt <- as.numeric(valid[,"Cible"])
+ytpred <- predict(ridge,newx=xt,type="response")
+vauc <- Vectorize(roc)(1:length(ridge$lambda))
+# affichage de l'AUC
+plot(vauc~log(ridge$lambda),col='blue',lty=2,cex=0.5,pch=16)
+#abline(v=log(ridge$lambda[which.max(vauc)]),col='black',lty=2)
+abline(h=vauc[which.max(vauc)],col='black',lty=2)
+vauc[which.max(vauc)] # 0.7806553
+which.max(vauc)
+ridge$lambda[which.max(vauc)] # pénalisation donnant la plus forte AUC
+log(ridge$lambda[which.max(vauc)]) # log-pénalisation donnant la plus forte AUC
+tail(ridge$lambda[which(vauc >= 0.780655)])
+vauc[which(ridge$lambda==1.5)] # 0.7806553
+
+# affichage des coefficients
+plot(fit,xvar="lambda",label="T")
+abline(v=log(1.5),col='black',lty=2)
+
+# coefficients donnant l'AUC maximale en test
+coef(ridge,s=ridge$lambda[which.max(vauc)])
+coef(ridge,s=1.5)
+
+# équivalent au logit$xlevels précédent
+niveaux <- Vectorize(levels)(train[,1:ncol(train)])
+
+# traitement des variables quantitatives
+# auxquelles on ajoute une modalité unique fictive
+niveaux$Taux_effort <- ""
+niveaux$Anciennete_domicile <- ""
+niveaux$Nb_credits <- ""
+niveaux
+
+# grille de score
+VARIABLE=c("",gsub("[0-9]", "", names(unlist(niveaux))))
+MODALITE=c("",as.character(unlist(niveaux)))
+names=data.frame(VARIABLE,MODALITE,NOMVAR=c("(Intercept)",paste(VARIABLE,MODALITE,sep="")[-1]))
+#coef <- ridge$beta[,which.max(vauc)]
+coef <- ridge$beta[,which(ridge$lambda==1.5)]
+regression=data.frame(NOMVAR=names(coef),COEF=as.numeric(coef))
+param = merge(names,regression,all.x=TRUE)[-1]
+param$COEF[is.na(param$COEF)] <- 0
+param
+# calcul du poids total pour normalisation
+mini=aggregate(data.frame(min = param$COEF), by = list(VARIABLE = param$VARIABLE), min)
+maxi=aggregate(data.frame(max = param$COEF), by = list(VARIABLE = param$VARIABLE), max)
+total=merge(mini,maxi)
+total$min[total$min==total$max] <- 0
+total$diff = abs(total$max - total$min)
+poids_total = sum(total$diff)
+# calcul des poids par modalité
+grille = merge(param,mini,all.x=TRUE)
+grille$delta = grille$COEF - grille$min
+grille$delta[grille$VARIABLE=="Anciennete_domicile"] <-
+  abs(max(train$Anciennete_domicile)*grille$COEF[grille$VARIABLE=="Anciennete_domicile"])
+grille$delta[grille$VARIABLE=="Nb_credits"] <-
+  abs(max(train$Nb_credits)*grille$COEF[grille$VARIABLE=="Nb_credits"])
+grille$delta[grille$VARIABLE=="Taux_effort"] <-
+  abs(max(train$Taux_effort)*grille$COEF[grille$VARIABLE=="Taux_effort"])
+grille$POIDS = round((100*grille$delta) / poids_total)
+grille[which(grille$VARIABLE!=""&grille$VARIABLE!="Cible"),c("VARIABLE","MODALITE","POIDS")]
+
+
+# calcul d'un modèle pénalisé après suppression des variables les moins discriminantes
+# !!!! on applique auparavant les regroupements définitifs de modalités !!!!
+# ceux du meilleur modèle logistique simple
+credit2$Anciennete_domicile <- NULL
+credit2$Nb_pers_charge <- NULL
+credit2$Type_emploi <- NULL
+credit2$Telephone <- NULL
+credit2$Nb_credits <- NULL
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+
+x <- model.matrix( ~ . -1 ,data=train[,-which(names(train)=="Cible")])
+y <- train[,"Cible"]
+
+set.seed(235)
+cvfit = cv.glmnet(x,y,alpha=0, family = "binomial",type="auc",nlambda=100)
+fit = glmnet(x,y,alpha=0,family = "binomial",lambda=seq(cvfit$lambda[1],
+                                                        cvfit$lambda[100],length=10000),standardize = T)
+fit = glmnet(x,y,alpha=0,family = "binomial",lambda=seq(cvfit$lambda[1],
+                                                        cvfit$lambda[100],length=10000),standardize = T)
+# prédiction sur une plage de lambda sur la base de test
+xt <- model.matrix( ~ . -1,data=valid[,-which(names(valid)=="Cible")])
+yt <- valid[,"Cible"]
+ytpred <- predict(fit,newx=xt,type="response")
+roc <- function(x) { performance(prediction(ytpred[,x],yt),"auc")@y.values[[1]] }
+vauc <- Vectorize(roc)(1:length(fit$lambda))
+vauc[which.max(vauc)]
+fit$lambda[which.max(vauc)] # pénalisation donnant la plus forte AUC
+log(fit$lambda[which.max(vauc)])
+plot(vauc~log(fit$lambda),col='blue',lty=2,cex=0.5,pch=16)
+abline(v=log(fit$lambda[which.max(vauc)]),col='black',lty=2)
+abline(h=vauc[which.max(vauc)],col='black',lty=3)
+coef(fit,s=fit$lambda[which.max(vauc)])
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 7
+# Régression logistique pénalisée lasso
+# ---------------------------------------------------------------------------------------------------------
+
+# régression elasticnet (méthode de descente des coordonnées)
+library(glmnet)
+
+# N.B.
+# les résultats présentés dans le livre ont été obtenus
+# sans regrouper la modalité A410 "Autres" avec "Etudes-Business" (variable Objet)
+credit2$Anciennete_domicile <- NULL
+credit2$Nb_pers_charge <- NULL
+credit2$Type_emploi <- NULL
+credit2$Telephone <- NULL
+credit2$Nb_credits <- NULL
+# les deux variables Biens et Situation_familiale ne sont supprimées
+# que dans le cadre du "relaxed lasso"
+#credit2$Biens <- NULL
+#credit2$Situation_familiale <- NULL
+# mais cela ne fait pas monter l'AUC
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+
+x <- model.matrix( ~ . -1 ,data=train[,-which(names(train)=="Cible")])
+y <- as.numeric(train[,"Cible"])
+
+# validation croisée
+set.seed(235)
+cvfit = cv.glmnet(x,y,alpha=1, family = "binomial",type="auc",nlambda=100)
+cvfit$lambda[1] # plus petit lambda annulant tous les coefficients
+coef(cvfit,s=0.1571349)
+coef(cvfit,s=0.158)
+cvfit$lambda[100] # lambda précédent divisé par 10000
+cvfit$lambda.min # lambda donnant le plus petit taux derreur (cross-validé)
+which(cvfit$lambda==cvfit$lambda.min) # 83 c'est la 83e valeur de lambda
+# sur 100 qui donne l'AUC maximale
+# c'est une valeur de lambda plus proche de son minimum
+# (et donc de la régression logistique) que de son maximum (annulant tous les coefficients)
+# sachant qu'il n'y a que 84 valeurs de lambda
+cvfit$cvm[which(cvfit$lambda==cvfit$lambda.min)]
+# plus faible erreur (i.e. plus forte AUC) = 0.8054402
+# représentation graphique de l'erreur (= AUC) en fonction de la pénalisation
+plot(cvfit)
+abline(h=cvfit$cvm[which(cvfit$lambda==cvfit$lambda.min)],col='blue',lty=2)
+abline(v=log(cvfit$lambda.min),col='blue',lty=2)
+
+# calcul de la régression pour une plage de valeurs de lambda
+fit = glmnet(x,y,alpha=1,family = "binomial",lambda=seq(cvfit$lambda[1],
+                                                        cvfit$lambda[length(cvfit$lambda)],length=10000),standardize = T)
+coef(fit,s=log(cvfit$lambda[length(cvfit$lambda)]))
+CrossTable(credit2$Objet_credit,credit2$Cible,prop.chisq=F,chisq = T,format="SAS")
+
+# affichage des coefficients
+plot(fit,xvar="lambda",label="T")
+
+# prédiction sur une plage de lambda sur la base de test
+xt <- model.matrix( ~ . -1,data=valid[,-which(names(valid)=="Cible")])
+yt <- valid[,"Cible"]
+ytpred <- predict(fit,newx=xt,type="response")
+library(ROCR)
+roc <- function(x) { performance(prediction(ytpred[,x],yt),"auc")@y.values[[1]] }
+vauc <- Vectorize(roc)(1:length(fit$lambda))
+
+plot(vauc~log(fit$lambda),col='blue',lty=2,cex=0.5,pch=16)
+abline(v=log(fit$lambda[which.max(vauc)]),col='black',lty=2)
+abline(h=vauc[which.max(vauc)],col='black',lty=3)
+
+# pénalisation optimale
+which.max(vauc) # rang de la pénalisation donnant la plus forte AUC
+fit$lambda[which.max(vauc)] # pénalisation donnant la plus forte AUC
+log(fit$lambda[which.max(vauc)])
+
+# Kolmogorov-Smirnov
+performance(prediction(ytpred[,which.max(vauc)],yt),"auc")@y.values[[1]]
+pred <- prediction(ytpred[,which.max(vauc)],yt,label.ordering=c(0,1))
+perf <- performance(pred,"tpr", "fpr")
+max(attr(perf,'y.values')[[1]]-attr(perf,'x.values')[[1]])
+
+# affichage des coefficients
+plot(fit,xvar="lambda",label="T")
+abline(v=log(fit$lambda[which.max(vauc)]),col='black',lty=2)
+
+# coefficients donnant l'AUC maximale en test
+(coef <- coef(fit,s=fit$lambda[which.max(vauc)]))
+sum(coef[,1]==0) # 2
+sum(coef[,1]!=0) # 24
+
+# grille de score lasso
+# équivalent au logit$xlevels précédent
+niveaux <- Vectorize(levels)(train[,1:ncol(train)])
+niveaux$Taux_effort <- ""
+niveaux
+
+# grille de score
+VARIABLE=c("",gsub("[0-9]", "", names(unlist(niveaux))))
+MODALITE=c("",as.character(unlist(niveaux)))
+names=data.frame(VARIABLE,MODALITE,NOMVAR=c("(Intercept)",paste(VARIABLE,MODALITE,sep="")[-1]))
+(coef <- fit$beta[,which.max(vauc)])
+regression=data.frame(NOMVAR=names(coef),COEF=as.numeric(coef))
+regression
+param = merge(names,regression,all.x=TRUE)[-1]
+param$COEF[is.na(param$COEF)] <- 0
+param
+# calcul du poids total pour normalisation
+mini=aggregate(data.frame(min = param$COEF), by = list(VARIABLE = param$VARIABLE), min)
+maxi=aggregate(data.frame(max = param$COEF), by = list(VARIABLE = param$VARIABLE), max)
+total=merge(mini,maxi)
+total$min[total$min==total$max] <- 0
+total
+total$diff = abs(total$max - total$min)
+poids_total = sum(total$diff)
+poids_total
+# calcul des poids par modalité
+grille = merge(param,mini,all.x=TRUE)
+grille
+grille$delta = grille$COEF - grille$min
+grille$delta[grille$VARIABLE=="Taux_effort"] <-
+  abs(max(train$Taux_effort)*grille$COEF[grille$VARIABLE=="Taux_effort"])
+grille$POIDS = round((100*grille$delta) / poids_total)
+grille[which(grille$VARIABLE!=""&grille$VARIABLE!="Cible"),c("VARIABLE","MODALITE","POIDS")]
+
+# coefficients des 10000 modèles générés pour les différentes pénalisations
+coef <- as.matrix(coef(fit))
+#coefnul = function(x){sum(coef[,x]==0)}
+coefnnul = function(x){sum(coef[,x]!=0)-1} # on soustrait "1" pour l'intercept
+coefn0 <- Vectorize(coefnnul)(1:length(fit$lambda))
+lasso <- cbind(coefn0,vauc)
+head(lasso)
+tail(lasso)
+
+# AUC max pour chaque nb de coef nuls
+aggregate(lasso[,"vauc"],by=list(lasso[,"coefn0"]),max)
+auccoef0 <- aggregate(lasso[,"vauc"],by=list(lasso[,"coefn0"]),max)
+barplot(auccoef0$x,names.arg=auccoef0$Group.1,las=3,ylim=c(0,0.8))
+
+# application sur l'ensemble de la base
+xt <- model.matrix( ~ . -1,data=credit2[,-which(names(valid)=="Cible")])
+yt <- credit2[,"Cible"]
+ytpred <- predict(fit,newx=xt,type="response",s=fit$lambda[which.max(vauc)])
+performance(prediction(ytpred,yt),"auc")@y.values[[1]] # 0.8160429
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Adaptive lasso
+# ---------------------------------------------------------------------------------------------------------
+
+# régression elasticnet (méthode de descente des coordonnées)
+library(glmnet)
+
+# calcul d'un modèle pénalisé après suppression des variables les moins discriminantes
+# !!!! on applique auparavant les regroupements définitifs de modalités !!!!
+# ceux du meilleur modèle logistique simple
+credit2$Anciennete_domicile <- NULL
+credit2$Nb_pers_charge <- NULL
+credit2$Type_emploi <- NULL
+credit2$Telephone <- NULL
+credit2$Nb_credits <- NULL
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+
+# échantillon d'apprentissage
+x <- model.matrix( ~ . ,data=train[,-which(names(train)=="Cible")])
+y <- train[,"Cible"]
+# échantillon de validation
+xt <- model.matrix( ~ . ,data=valid[,-which(names(valid)=="Cible")])
+yt <- valid[,"Cible"]
+
+# coefficients des moindres carrés ordinaires
+beta.ols <- lm(y~x,data=train)$coefficients[-1]
+beta.ols
+penal <- pmax(1,abs(beta.ols)^(-1),na.rm = TRUE)
+penal
+
+# validation croisée
+set.seed(235)
+cvfit = cv.glmnet(x,y,alpha=1,family = "binomial",type="auc",nlambda=100)
+# calcul de la régression pour une plage de valeurs de lambda
+fit = glmnet(x,y,alpha=1,family = "binomial",lambda=seq(cvfit$lambda[1],
+                                                        cvfit$lambda[length(cvfit$lambda)],length=10000),standardize = T,
+             penalty.factor=penal)
+# prédiction sur une plage de lambda sur la base de test
+ytpred <- predict(fit,newx=xt,type="response")
+roc <- function(x) { performance(prediction(ytpred[,x],yt),"auc")@y.values[[1]] }
+vauc <- Vectorize(roc)(1:length(fit$lambda))
+vauc[which.max(vauc)]
+coef(fit,s=fit$lambda[which.max(vauc)])
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Group lasso
+# ---------------------------------------------------------------------------------------------------------
+
+# régression elasticnet (méthode de descente des coordonnées)
+library(grplasso)
+
+# group lasso avec détection automatique des groupes formées par les modalités des facteurs
+summary(credit2)
+length(id) # 644
+0.1571349 * 644
+lambda <- 0.003673408*length(id)
+# pénalisation donnant précédemment (avec toutes les discrétisation) la plus forte AUC en test
+lambda #  2.365675
+lambda <- 0.003651067*length(id)
+# pénalisation donnant précédemment la plus forte AUC en test
+lambda #  2.351287
+0.1571349*length(id) # plus petit lambda annulant précédemment tous les coefficients
+lambda <- seq(100,1,length=1000)
+# mise au format numérique de la variable à expliquer
+# et transformation du codage 1/2 en 0/1
+credit3 <- credit2
+credit3$Cible <- as.numeric(credit2$Cible)-1
+# group lasso sur une plage de valeur, en commençant par la plus forte pénalisation
+gplasso <- grplasso(Cible ~ . ,data = credit3[id,vars], lambda = lambda, model = LogReg(), center=TRUE, standardize=TRUE)
+coe <- coefficients(gplasso)
+
+# affichage des variables dans l'ordre de leur sélection
+lambda[1]
+coe[,370]
+modannul = function(i){sort(rownames(coe)[(coe[,i]!=0)])}
+modannul(1)
+for (j in (length(lambda)-1):1)
+{
+  if (length(modannul(j)) < length(modannul(j+1)))
+  {cat("\n",j,modannul(j+1)[-match(modannul(j),modannul(j+1))])}
+}
+
+
+## coefficients en fonction de la pénalisation
+plot(gplasso)
+#plot(gplasso, log = "x")
+abline(v=lambda[370],lty=3)
+plot(gplasso, log = "x")
+
+
+# autre essai de group lasso
+
+# 1ère variable (intercept) not penalized => valeur NA
+group <- c(NA, 2, 2, 2, 3, 3, 4, 4, 4, 4, 5, 6, 6, 7,
+           8, 8, 9, 10, 10, 11, 12, 13, 14, 14, 15)
+group <- c(NA, 2, 2, 2, 3, 3, 4, 4, 4, 4, 5, 6, 6, 7,
+           8, 8, 9, 10, 10, 11, 12, 13, 14, 14, 15, 16, 17, 17, 18,
+           19, 20, 20, 21, 21, 22, 23, 23, 24)
+# sans intercept
+group <- c(2, 2, 2, 2, 3, 3, 4, 4, 4, 4, 5, 6, 6, 7,
+           8, 8, 9, 10, 10, 11, 12, 13, 14, 14, 15, 16, 17, 17, 18,
+           19, 20, 20, 21, 21, 22, 23, 23, 24)
+
+gplasso <- grplasso(x, y , index = group, lambda = lambda, model = LogReg(), center=FALSE, standardize = TRUE)
+coefficients(gplasso)
+# avec le lambda optimal du lasso ordinaire
+gplasso <- grplasso(x, y , index = group, lambda = 0.003651067*length(y), model = LogReg(), center=TRUE, standardize=TRUE)
+coefficients(gplasso)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Régression logistique pénalisée elastic net
+# ---------------------------------------------------------------------------------------------------------
+
+# régression elasticnet (méthode de descente des coordonnées)
+library(glmnet)
+
+# calcul d'un modèle pénalisé après suppression des variables les moins discriminantes
+# !!!! on applique auparavant les regroupements définitifs de modalités !!!!
+# ceux du meilleur modèle logistique simple
+credit2$Anciennete_domicile <- NULL
+credit2$Nb_pers_charge <- NULL
+credit2$Type_emploi <- NULL
+credit2$Telephone <- NULL
+credit2$Nb_credits <- NULL
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+
+# échantillon d'apprentissage
+x <- model.matrix( ~ . -1 ,data=train[,-which(names(train)=="Cible")])
+y <- train[,"Cible"]
+# échantillon de validation
+xt <- model.matrix( ~ . -1,data=valid[,-which(names(valid)=="Cible")])
+yt <- valid[,"Cible"]
+
+# calcul de l'AUC maximale en test, pour chaque valeur de alpha
+elastic <- function(a)
+{
+  set.seed(235)
+  cvfit = cv.glmnet(x,y,alpha=a, family = "binomial",type="auc",nlambda=100)
+  # calcul de la régression pour une plage de valeurs de lambda
+  fit = glmnet(x,y,alpha=a,family = "binomial",lambda=seq(cvfit$lambda[1],
+                                                          cvfit$lambda[length(cvfit$lambda)],length=10000),standardize = T)
+  # prédiction sur une plage de lambda sur la base de test
+  ytpred <- predict(fit,newx=xt,type="response")
+  roc <- function(x) { performance(prediction(ytpred[,x],yt),"auc")@y.values[[1]] }
+  vauc <- Vectorize(roc)(1:length(fit$lambda))
+  return(vauc[which.max(vauc)])
+}
+elastic(0)
+elastic(0.001)
+elastic(0.1)
+elastic(1)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 8
+# Régression logistique PLS
+# ---------------------------------------------------------------------------------------------------------
+
+install.packages('plsRglm')
+install.packages('fields')
+library(fields)
+library(plsRglm)
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+summary(train)
+
+# échantillon d'apprentissage
+x <- model.matrix( ~ . -1 ,data=train[,-which(names(train)=="Cible")])
+y <- as.numeric(train[,"Cible"])
+# recodage en 0/1
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+# échantillon de validation
+xt <- model.matrix( ~ . -1,data=valid[,-which(names(valid)=="Cible")])
+yt <- as.numeric(valid[,"Cible"])
+# recodage en 0/1
+yt[yt == 1] <- 0 # crédits OK
+yt[yt == 2] <- 1 # crédits KO
+
+#pls1 <- plsRglm(y,x,nt=1,modele="pls-glm-logistic")
+pls1 <- plsRglm(y,x,nt=1,dataPredictY=xt,modele="pls-glm-logistic")
+pls2 <- plsRglm(y,x,nt=2,dataPredictY=xt,modele="pls-glm-logistic")
+pls3 <- plsRglm(y,x,nt=3,dataPredictY=xt,modele="pls-glm-logistic")
+pls4 <- plsRglm(y,x,nt=4,dataPredictY=xt,modele="pls-glm-logistic")
+plsm <- plsRglm(y,x,nt=36,dataPredictY=xt,modele="pls-glm-logistic",pvals.expli=T,sparseStop=T)
+
+# quelques sorties
+plsm$computed_nt
+pls1$InfCrit
+barplot(pls1$InfCrit[,2])
+print(pls1)
+pls1$Std.Coeffs
+pls1$Coeffs
+print(plsm)
+str(pls1)
+pls1$family
+
+# test sur variables centrées-réduites
+summary(scale(x))
+pls1b <- plsRglm(y,scale(x),nt=1,modele="pls-glm-logistic")
+pls1b$Std.Coeffs
+pls1b$Coeffs
+
+# comparaison des signes des coefficients
+cor(x,y)
+cor(train$Taux_effort,as.numeric(train$Cible))
+cor(x,y)*pls1$Coeffs[-1]
+cor(x,y)*pls2$Coeffs[-1]
+pls1$Coeffs
+pls2$Coeffs
+pls1$Coeffs*pls2$Coeffs
+# variables avec des signes différents pour les coefficients de PLS1 et PLS2
+rownames(pls1$Coeffs)[which(pls1$Coeffs*pls2$Coeffs<0)]
+# variables avec des signes différents pour les coefficients de PLS2
+# et la corrélation de la variable avec la variable Y à expliquer
+# à noter que "+1" qui précède le "which" à cause de l'intercept manquant
+# dans cor(x,y) et dans pls2$Coeffs[-1]
+rownames(pls2$Coeffs)[1+which(cor(x,y)*pls2$Coeffs[-1]<0)]
+rownames(pls1$Coeffs)[1+which(cor(x,y)*pls1$Coeffs[-1]<0)]
+# coefficients opposés pour 1 et 2 composantes
+pls1$Coeffs[which(pls1$Coeffs*pls2$Coeffs<0)]
+pls2$Coeffs[which(pls1$Coeffs*pls2$Coeffs<0)]
+cbind(rownames(pls1$Coeffs),pls1$Coeffs[1],pls2$Coeffs[1])[which(pls1$Coeffs*pls2$Coeffs<0)]
+# la modalité Intérieur de Objet_credit est plus risquée que la moyenne
+prop.table(table(train$Objet_credit,train$Cible),1)
+
+# application du modèle
+valid$pls1 <- pls1$ValsPredictY
+valid$pls2 <- pls2$ValsPredictY
+valid$pls3 <- pls3$ValsPredictY
+valid$pls4 <- pls4$ValsPredictY
+
+# calcul AUC
+library(ROCR)
+pred <- prediction(pls1$ValsPredictY,valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# enregistrement des coefficients
+write.table(pls1$Coeffs, file = "plslogit.csv", quote = FALSE, sep = ";", na = " ", row.names = TRUE, col.names = NA)
+
+# bootstrap pour avoir des intervalles de confiance des coefficients
+# c'est un bootstrap dont les coefficients sont estimés par moindres carrés
+bootpls1 <- bootplsglm(plsRglm(y,x,nt=1,modele="pls-glm-logistic"), sim="ordinary", stype="i")
+bootpls1 <- bootplsglm(pls1, typeboot="fmodel_np", R=1000, statistic=coefs.plsRglmnp, sim="ordinary", stype="i")
+
+# bootstrap pour avoir des intervalles de confiance des coefficients :
+# c'est un bootstrap dont les coefficients sont estimés par la loi désignée lors la régression PLS
+# et qui dans le cas du logit va donc effectuer les estimations par maximisation de la vraisemblance
+ptm <- proc.time()
+set.seed(123)
+bootpls10000 <- bootplsglm(pls1, typeboot = "plsmodel", R = 10000, sim = "ordinary", stype = "i")
+proc.time() - ptm
+bootpls1
+
+library(boot)
+bootpls1 <- boot(data=cbind(y,x), statistic=coefs.plsRglm, sim="ordinary", stype="i", R=250, nt=3, modele="pls-glm-logistic")
+bootpls1 <- bootplsglm(plsm,sim="ordinary", stype="i", R=1000)
+bootpls1
+bootpls2 <- bootplsglm(pls2,sim="ordinary", stype="i", R=1000)
+warnings()
+bootpls2
+summary(coefs.plsRglmnp)
+
+# intervalles de confiance
+library(boot)
+boot.ci(bootpls1, conf = c(0.90,0.95,0.99), type = c("norm","basic","perc","bca"), index=1)
+boot.ci(bootpls1, conf = c(0.90,0.95,0.99), type = "all", index=37)
+# Bootstrap confidence intervals à 95 % (normal, basic, percentile, et en option Bca)
+# les résultats sont les mêmes que par la fonction boot.ci, mais sont fournis pour l'ensemble des prédicteurs
+(ic.pls <- confints.bootpls(bootpls10000,typeBCa=TRUE))
+# calculs des IC
+str(bootpls1)
+qnorm(0.95)
+mean(bootpls1$t[,37]) # moyenne des coefficients bootstrapés d'un prédicteur
+sd(bootpls1$t[,37]) # écart-type des coefficients bootstrapés d'un prédicteur
+range(quantile(bootpls1$t[,22]))
+?quantile
+quantile(bootpls1$t[,22],c(0.90,0.95,0.975,0.99)) # quantiles des coefficients bootstrapés
+# IC bootstrap normal
+# à noter que l'IC normal n'est calculé ni à partir de la moyenne des coefs bootstrappés
+# ni à partir du coefficient exact
+bootpls1$t0[37] - (qnorm(0.975)*sd(bootpls1$t[,37]))
+bootpls1$t0[37] + (qnorm(0.975)*sd(bootpls1$t[,37]))
+mean(bootpls1$t[,37]) - (2*sd(bootpls1$t[,37]))
+mean(bootpls1$t[,37]) + (2*sd(bootpls1$t[,37]))
+# mais l'IC normal est calculé à partir du coefficient exact - le biais
+# le biais étant la différence entre la moyenne des coefs bootstrappés et le coefficient exact
+# l'IC normal est donc donné par :
+(2*bootpls1$t0[37]) - mean(bootpls1$t[,37]) - (qnorm(0.975)*sd(bootpls1$t[,37]))
+(2*bootpls1$t0[37]) - mean(bootpls1$t[,37]) + (qnorm(0.975)*sd(bootpls1$t[,37]))
+# à noter qu'une variante calculée en remplaçant l'écart-type des coefs bootstrappés
+# par la racine carrée de l'estimation bootstrap de la variance
+# donne un résultat très légèrement différent
+(bootvar <- mean(sapply(1:10000, function(i) (bootpls1$t[i,37] - mean(bootpls1$t[,37]))^2)))
+(2*bootpls1$t0[37]) - mean(bootpls1$t[,37]) - (qnorm(0.975)*sqrt(bootvar))
+(2*bootpls1$t0[37]) - mean(bootpls1$t[,37]) + (qnorm(0.975)*sqrt(bootvar))
+
+# IC bootstrap basique (bootstrap pivotal confidence interval)
+# N.B. C'est le type 6 de calcul de quantiles qui permet de retrouver
+# exactement le calcul du la fonction boot.ci pour les méthodes basique et percentile
+(2*bootpls1$t0[37]) - quantile(bootpls1$t[,37],0.975,type=6)
+(2*bootpls1$t0[37]) - quantile(bootpls1$t[,37],0.025,type=6)
+# IC bootstrap percentile
+quantile(bootpls1$t[,37],c(0.025,0.975),type=6)
+# Boxplot plots for bootstrap distributions
+boxplots.bootpls(bootpls1,prednames=FALSE,articlestyle=FALSE)
+boxplots.bootpls(bootpls1,prednames=FALSE)
+warnings()
+help(boxplots.bootpls)
+# Plot bootstrap confidence intervals
+# Le choix typeBCa=T allonge fortement le temps de calcul
+plots.confints.bootpls(confints.bootpls(bootpls1,typeBCa=T),legendpos = "bottomright")
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 9
+# Arbres de décision
+# ---------------------------------------------------------------------------------------------------------
+
+library(tree)
+arbre <- tree(Cible ~ Age+Duree_credit,data=credit)
+arbre
+
+# arbre de décision CART
+install.packages("rpart.plot")
+library(rpart)
+library(rpart.plot)
+
+# paramètres de rpart
+# methode = class ou anova pour arbre de régression
+# minsplit = 20 par défaut
+# minbucket = 1/3*minsplit par défaut
+
+set.seed(235)
+cart <- rpart(Cible ~ . ,data = credit[id,vars],method="class",parms=list(split="gini"),cp=0)
+#cart <- rpart(Cible ~ . ,data = credit[id,vars],method="class",parms=list(split="information"),cp=0)
+cart <- rpart(Cible ~ . ,data = credit[id,vars],method="class",parms=list(split="gini"),cp=0.05)
+cart <- rpart(Cible ~ . ,data = credit[id,vars],method="class",parms=list(split="gini"),control=list(minbucket=30,minsplit=30*2,maxdepth=2))
+
+# scissions au milieu des intervalles des variables continues
+cart <- rpart(Cible ~ Montant_credit ,data = credit[id,vars],method="class",parms=list(split="gini"),cp=0.01)
+table(credit$Montant_credit)
+
+cart # commande équivalente à "print(cart)"
+summary(cart,digits=3) # plus d'informations sur les scissions
+
+# affichage graphique de l'arbre
+plot(cart,branch=.2, uniform=T, compress=T, margin=.1)
+text(cart, fancy=T,use.n=T,pretty=0,all=T, cex=1)
+
+# affichage graphique un peu amélioré de l'arbre
+plot(cart,branch=.2, uniform=T, compress=T, margin=.1) # tracé de l'arbre
+text(cart, fancy=T,use.n=T,pretty=0,all=T, cex=.6) # ajout des légendes des noeuds
+# cex est un facteur multiplicateur de la taille des caractères
+# création d'un fichier graphique au format postscript
+post(cart, file = "C:/Users/.../Etude de cas/CART.ps",
+     title = "CART pour credit scoring")
+# affichage amélioré avec package rpart.plot
+prp(cart,type=2,extra=1,split.box.col="lightgray")
+
+install.packages("rpart.utils")
+library(rpart.utils)
+rpart.rules.table(cart)
+
+# calcul erreur par resusbstitution
+sum(predict(cart,type="class") != credit[id,"Cible"])/nrow(credit[id,])
+0.4766839 * 193/644
+0.9637306 * 193/644
+# calcul écart-type de l'erreur xerror
+x <- 0.9637306*0.29969
+sqrt((x*(1-x))/644)/0.29969
+
+# on peut afficher l'erreur xerror calculée par validation croisée
+# et le nb nsplit de scissions
+# en fonction du coefficient de complexité
+set.seed(235)
+printcp(cart)
+print(cart$cptable)
+(28*0.002590674)+0.4766839
+(26*0.002590674)+0.4818653
+(0.059585492*2)+0.8808290 # = 1
+
+# ajout de l'AUC à côté de l'erreur xerror
+library(ROCR)
+set.seed(235)
+auc <- matrix(NA,nrow(cart$cptable)-1,4)
+for(i in 2:nrow(cart$cptable))
+{
+  cartp <- prune(cart,cp=cart$cptable[i,"CP"])
+  predc <- predict(cartp,type="prob",test)[,2]
+  pred <- prediction(predc,test$Cible,label.ordering=c(0,1))
+  auc[i-1,1] <- cart$cptable[i,"CP"]
+  auc[i-1,2] <- cart$cptable[i,"nsplit"]+1
+  auc[i-1,3] <- cart$cptable[i,"xerror"]
+  auc[i-1,4] <- performance(pred,"auc")@y.values[[1]]
+} # fin de la boucle
+colnames(auc) <- c("CP","nfeuilles","erreur","AUC")
+auc
+
+# on peut aussi afficher cela dans un graphique
+# montrant la décroissance erreur relative en fonction du coefficient de complexité
+plotcp(cart) # calcul par validation croisée
+summary(cart,digits=3)
+
+# élaguage
+prunedcart = prune(cart,cp=0.0129534)
+prunedcart4f = prune(cart,cp=0.0328152)
+prunedcart7f = prune(cart,cp=0.0310881)
+prunedcart9f = prune(cart,cp=0.0155441)
+prunedcart15f = prune(cart,cp=0.0103627)
+# choix valeur coefficient de pénalisation de la complexité pour élagage
+plot(prunedcart4f,branch=.2, uniform=T, compress=T, margin=.1)
+text(prunedcart4f, fancy=T,use.n=T,pretty=0,all=T,cex=.5)
+# affichage avec package rpart.plot
+prp(prunedcart4f,type=2,extra=1,split.box.col="lightgray")
+
+# élaguage automatique au minimum d'erreur + 1 écart-type
+xerr <- cart$cptable[,"xerror"]
+xerr
+minxerr <- which.min(xerr)
+seuilerr <- cart$cptable[minxerr, "xerror"]+cart$cptable[minxerr, "xstd"]
+xerr [xerr < seuilerr][1]
+mincp <- cart$cptable[names(xerr [xerr < seuilerr][1]), "CP"]
+prunedcart <- prune(cart,cp=mincp)
+names(xerr [xerr < seuilerr][1])
+
+# élaguage automatique au minimum d'erreur
+xerr <- cart$cptable[,"xerror"]
+minxerr <- which.min(xerr)
+mincp <- cart$cptable[minxerr, "CP"]
+prunedcart <- prune(cart,cp=mincp)
+# code plus compact :
+prunedcart <- prune(cart, cp=cart$cptable[which.min(cart$cptable[,"xerror"]),"CP"])
+# affichage de l'arbre élagué
+plot(prunedcart,branch=.2, uniform=T, compress=T, margin=.1)
+text(prunedcart, fancy=T,use.n=T,pretty=0,all=T,cex=.5)
+
+# élagage au nombre minimum de feuilles
+mincart <- prune(cart,cp=cart$cptable[min(2,nrow(cart$cptable)), "CP"])
+plot(mincart,branch=.2, uniform=T, compress=T, margin=.1)
+text(mincart, fancy=T,use.n=T,pretty=0,all=T,cex=.5)
+prp(mincart,type=2,extra=1,split.box.col="lightgray")
+
+# for stumps : rpart.control(maxdepth=1,cp=-1,minsplit=0)
+cart <- rpart(Cible ~ . ,data = credit[id,vars],method="class",parms=list(split="gini"),control=list(maxdepth=1,cp=-1,minsplit=0))
+plot(cart)
+
+# mesure des performances sur l'échantillon de test
+test$CART <- predict(cart,type="prob",test)
+test$CART <- predict(prunedcart,type="prob",test)
+test$CART4f <- predict(prunedcart4f,type="prob",test)
+test$CART7f <- predict(prunedcart7f,type="prob",test)
+test$CART9f <- predict(prunedcart9f,type="prob",test)
+test$mincart <- predict(mincart,type="prob",test)
+head(test["CART4f"],5)
+
+# aire sous la courbe ROC
+library(ROCR)
+pred <- prediction(test$CART9f[,2],test$Cible,label.ordering=c(0,1))
+auc <- performance(pred,"auc")
+performance(pred,"auc")@y.values[[1]]
+auc
+# équivalent : attr(performance(pred,"auc"),'y.values')[[1]]
+# récupère l'attribut "y.values" de l'objet "performance"
+perf <- performance(pred,"tpr","fpr")
+plot(perf,main='Courbe ROC')
+segments(0,0,1,1,col='grey',lty=3) # ajout diagonale en pointillés gris
+# courbe de lift
+perf <- performance(pred,"lift","rpp")
+plot(perf,main='Courbe de lift')
+# courbe de lift usuelle
+pred <- prediction(ytpred,yt,label.ordering=c(0,1))
+lift <- performance(pred,"tpr","rpp")
+plot(lift,main='Courbe de lift')
+
+# comparaison de courbes ROC
+pred7f <- prediction(test$CART7f[,2],test$Cible,label.ordering=c(0,1))
+pred9f <- prediction(test$CART9f[,2],test$Cible,label.ordering=c(0,1))
+plot(performance(pred9f,"tpr","fpr"),col='red',lty=2,main='AUC de modèles CART')
+plot(performance(pred7f,"tpr","fpr"), col='black',add=TRUE,lty=1)
+segments(0,0,1,1,lty=3)
+#legend(0.6,0.6,c('7 feuilles','9 feuilles'),col=c('red','black'),lwd=3)
+legend("bottomright",c('9 feuilles','7 feuilles'),col=c('red','black'),
+       lty=c(2,1),lwd=3)
+
+# comparaison de courbes ROC avec intervalles de confiance
+library(pROC)
+roc <- plot.roc(test$Cible,test$CART7f[,2],col='black',lty=1,ci=TRUE)
+plot.roc(test$Cible,test$CART9f[,2],add=TRUE,col='red',lty=2,ci=TRUE)
+# calcul des intervalles de confiance par simulation de Monte-Carlo
+roc.se <- ci.se(roc,specificities=seq(0,1,.01),boot.n=10000)
+plot(roc.se, type="shape", col="#0000ff22")
+#plot(roc.se, type="shape", col=c(rgb(1, 1, 0, 0.2), rgb(0,1, 1, 0.2), rgb(1, 0, 1, 0.2)))
+legend("bottomright",c('9 feuilles','7 feuilles'),col=c('red','black'),lty=c(2,1),lwd=3)
+
+# gestion des valeurs manquantes
+cart <- rpart(Cible ~ . ,data = credit[id,vars],method="class",parms=list(split="gini"),cp=0.05,control=list(usesurrogate=0,maxcompete=0))
+summary(cart)
+test2 <- test
+ms <- sample(dim(test)[1],100)
+test2$Objet_credit[ms] <- test2$Duree_credit[ms] <- test2$Comptes[ms] <- NA
+summary(test2)
+testNA <- predict(cart,type="prob",test2,na.action = na.omit)
+summary(testNA)
+head(test2$Comptes,100)
+head(testNA,100)
+
+# erreur
+test$cart <- predict(prunedcart9f,type="class",test)
+err_cart <- sum(test$cart != test$Cible) / nrow(test)
+err_cart # 0.247 pour CART à 9 feuilles
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Arbre de décision CHAID
+# ---------------------------------------------------------------------------------------------------------
+
+# install.packages("partykit")
+install.packages("CHAID", repos="http://R-Forge.R-project.org")
+
+library("CHAID")
+
+credit2$Anciennete_domicile <- NULL
+credit2$Taux_effort <- NULL
+credit2$Nb_credits <- NULL
+
+str(credit2)
+# paramètres par défaut
+chaid <- chaid(Cible ~ . ,data = credit2[id,vars])
+
+# avec des paramètres de contrôle
+chaid_control(alpha2 = 0.05, alpha3 = -1, alpha4 = 0.05,
+              minsplit = 20, minbucket = 7, minprob = 0.01,
+              stump = F, maxheight = -1)
+
+ch.arbre <- chaid_control(alpha2 = 0.05, alpha3 = -1, alpha4 = 0.05,
+                          minsplit = 30, minbucket = 10, stump = F, maxheight = 3)
+
+chaid <- chaid(Cible ~ . ,data = credit2[id,vars], control=ch.arbre)
+chaid
+
+# stump
+ch.arbre <- chaid_control(alpha4 = 1, stump = TRUE)
+chaid <- chaid(Cible ~ . ,data = credit2[id,vars], control=ch.arbre)
+chaid
+
+# affichage
+plot(chaid)
+
+# AUC
+library(ROCR)
+predc <- predict(chaid,type="prob",test)[,2]
+pred <- prediction(predc,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Arbre C5.0
+# ---------------------------------------------------------------------------------------------------------
+
+# arbre de décision C5.0
+install.packages("C50")
+library(C50)
+
+c50 <- C5.0(Cible ~ . ,data = credit[id,vars],rules=T)
+C5imp(c50)
+summary(c50)
+
+C50 <- predict(c50,type="prob",credit[-id,vars])
+head(C50[,2])
+pred <- prediction(C50[,2],credit[-id,"Cible"],label.ordering=c(0,1))
+(auc <- performance(pred,"auc")@y.values[[1]]) # 0.6469617
+
+c50 <- C5.0(Cible ~ . ,data = credit[id,vars],rules=T,
+            control = C5.0Control(minCases=50))
+# mincases = 30 ou 50 => AUC = 0.6480689
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 10
+# Algorithme PRIM
+# ---------------------------------------------------------------------------------------------------------
+
+library(prim)
+
+# sur 2 variables
+# ------------------------------------------
+
+x <- credit[,c("Duree_credit","Age")]
+y <- as.numeric(credit[,"Cible"])
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+
+prim <- prim.box(x, y, peel.alpha=0.05, paste.alpha=0.01,mass.min=0.05, pasting=T, verbose=T,threshold.type=1,threshold=0.3)
+summary(prim,print.box=T)
+
+#plot(prim,col = "transparent",xlim=range(credit$Duree_credit),ylim=range(credit$Age))
+plot(prim,col = "transparent")
+points(x[y == 1, ],col="red")
+points(x[y == 0, ],col="green")
+points(x)
+
+
+# sur toutes les variables quantis
+# ------------------------------------------
+
+x <- credit[,varquanti]
+y <- as.numeric(credit[,"Cible"])
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+
+prim <- prim.box(x, y, peel.alpha=0.05, paste.alpha=0.01,mass.min=0.05, pasting=T, verbose=T,threshold.type=1,threshold=0.3)
+summary(prim,print.box=T)
+prim$box
+
+
+# sur toutes les variables quantis et indicatrices des variables qualis
+# ------------------------------------------
+
+formule <- as.formula(paste("y = ~ 0 +",paste(names(credit2[,varquali]),collapse="+")))
+
+x <- cbind(credit[,varquanti],data.frame(model.matrix( formule,data=credit2)))
+y <- as.numeric(credit[,"Cible"])
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+
+prim <- prim.box(x, y, peel.alpha=0.5, paste.alpha=0.01,mass.min=0.05, pasting=T, verbose=T,threshold.type=1,threshold=0.3)
+summary(prim)
+summary(prim,print.box=T)
+prim$box
+
+# intersection des boîtes et des données de test
+b <- data.frame(row.names(prim$x[[1]]))
+b$Cle <- b1$row.names.prim.x..1...
+b$row.names.prim.x..1... <- NULL
+boxtest = merge(b,test)[,c("Cle","Cible")]
+boxtest
+table(box1test$Cible)
+
+# intersection des boîtes et des données de test : fonction
+maprim=function(i=1)
+{b <- data.frame(row.names(prim$x[[i]]));
+b$Cle <- b$row.names.prim.x..i...;
+b$row.names.prim.x..i... <- NULL;
+boxtest = merge(b,test)[,c("Cle","Cible")];
+tab <- table(boxtest$Cible);
+return(tab)}
+#maprim(7)
+
+# aire sous la courbe ROC
+library(ROCR)
+a <- NULL
+b <- NULL
+for (i in 1:prim$num.class) {
+  a <- c(a,c(rep(0,maprim(i)[1]),rep(1,maprim(i)[2])))
+  b <- c(b,c(rep(i,maprim(i)[1]+maprim(i)[2])))
+}
+pred <- prediction(b,a,label.ordering=c(1,0))
+performance(pred,"auc")@y.values[[1]]
+
+# recherche de l'aire sous la courbe ROC maximale
+library(ROCR)
+aucprim <- matrix(NA,10,3)
+j <- 1
+for (n in seq(0.05,0.5,by=0.05)) {
+  prim <- prim.box(x, y, peel.alpha=n, paste.alpha=0.01,mass.min=0.05,
+                   pasting=T, verbose=T,threshold.type=1,threshold=0.3)
+  aucprim[j,1] <- n
+  aucprim[j,2] <- prim$num.class
+  a <- NULL
+  b <- NULL
+  for (i in 1:prim$num.class) {
+    a <- c(a,c(rep(0,maprim(i)[1]),rep(1,maprim(i)[2])))
+    b <- c(b,c(rep(i,maprim(i)[1]+maprim(i)[2])))
+  }
+  pred <- prediction(b,a,label.ordering=c(1,0))
+  aucprim[j,3] <- performance(pred,"auc")@y.values[[1]]
+  j <- j+1
+}
+colnames(aucprim) <- c("alpha","nb boites","AUC")
+aucprim
+
+
+# mesure de l'AUC en test
+
+formule <- as.formula(paste("y = ~ 0 +",paste(names(credit2[,varquali]),collapse="+")))
+
+# échantillon d'apprentissage
+x <- cbind(credit[id,varquanti],data.frame(model.matrix(formule,data=credit2[id,])))
+y <- as.numeric(credit[id,"Cible"])
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+
+# échantillon de test
+xt <- cbind(credit[-id,varquanti],data.frame(model.matrix(formule,data=credit2[-id,])))
+yt <- as.numeric(credit[-id,"Cible"])
+# recodage en 0/1
+yt[yt == 1] <- 0 # crédits OK
+yt[yt == 2] <- 1 # crédits KO
+
+# modèle PRIM
+prim <- prim.box(x, y, peel.alpha=0.5, paste.alpha=0.01,mass.min=0.05, pasting=T, verbose=T,threshold.type=1,threshold=0.3)
+
+# utilisation de la fonction prim.which.box pour mesurer l'AUC
+# cette fonction retourne le no de la boîte de x
+head(prim.which.box(x,prim))
+tab <- table(prim.which.box(x,prim),y)
+prop.table(tab,1)
+library(pROC)
+auc(y,prim.which.box(x,prim))
+auc(yt,prim.which.box(xt,prim))
+
+# recherche de l'aire sous la courbe ROC maximale
+aucprim <- matrix(NA,10,4)
+j <- 1
+for (n in seq(0.05,0.5,by=0.05)) {
+  prim <- prim.box(x, y, peel.alpha=n, paste.alpha=0.04,mass.min=0.05,
+                   pasting=T, verbose=F,threshold.type=1,threshold=0.3)
+  aucprim[j,1] <- n
+  aucprim[j,2] <- prim$num.class
+  aucprim[j,3] <- auc(y,prim.which.box(x,prim))
+  aucprim[j,4] <- auc(yt,prim.which.box(xt,prim))
+  j <- j+1
+}
+colnames(aucprim) <- c("alpha","nb boites","AUC train","AUC test")
+aucprim
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Analyse factorielle comme préalable à PRIM
+# ---------------------------------------------------------------------------------------------------------
+
+# chargement du package
+library(FactoMineR)
+library(prim)
+
+# credit2 = jeu de données avec age, durée et montant de crédit discrétisés
+summary(credit2)
+
+# conserver age, durée et montant de crédit sous forme continue
+credit3 <- credit2
+credit3$Age <- credit$Age
+credit3$Duree_credit <- credit$Duree_credit
+credit3$Montant_credit <- credit$Montant_credit
+summary(credit3)
+
+# conserver age, durée et montant de crédit sous forme continue
+credit4 <- credit2
+credit4$Taux_effort <- NULL
+credit4$Anciennete_domicile <- NULL
+credit4$Nb_credits <- NULL
+summary(credit4)
+
+# AFDM avec la variable à expliquer en supplémentaire
+AFDM <- FAMD (credit2, ncp = 34, graph = TRUE, sup.var = 17)
+ACM <- MCA (credit4, ncp = 32, axes = c(1,2), graph = TRUE, quali.sup = 14)
+summary(ACM)
+library(lattice)
+trellis.device(device="pdf", theme=standard.theme("postscript"), file="Ellipse.pdf", color=F)
+trellis.device(device="pdf", file="Ellipse.pdf", color=F)
+plotellipses(ACM,means=T,level = 0.95,keepvar="Cible",label='quali')
+dev.off()
+dimdesc(ACM)
+
+# valeurs propres
+AFDM$eig
+ACM$eig
+barplot(AFDM$eig[,2],names=paste("Dim",1:nrow(AFDM$eig)))
+barplot(ACM$eig[,2],names=paste("Dim",1:nrow(ACM$eig)))
+
+# individus, coloriés selon "Cible"
+plot(AFDM,choix="ind",invisible="quali",habillage=17)
+plot(ACM,choix="ind",invisible="var",habillage=14)
+
+# individus coloriés selon leurs modalités sur les 2 premiers axes
+plotellipses(ACM,keepvar=1:4)
+
+# variables
+plot(AFDM,choix="var")
+plot(ACM,choix="var")
+plot(ACM,choix="ind",invisible="ind",xlim=c(-1,2),autoLab="yes",cex=0.7)
+
+# résultats pour les individus
+AFDM$ind
+AFDM$ind$coord[,1:4]
+ACM$ind$coord[1:10,1:6]
+ACM$var$coord[,1:3]
+
+# ACM avec autres packages
+
+library(MASS)
+names(credit4)
+ACM2 <- mca(credit4[,-14],nf=32)
+ACM2$d
+ACM2$d^2 # eigenvalues
+ACM2$cs[,1:3]
+ACM2$rs[1:10,1:6]
+# plan factoriel
+plot(ACM2,rows=F)
+# ajout au plan factoriel des modalités d'un facteur supplémentaire
+predict(ACM2,credit4[14],type="factor") # facteur supplémentaire
+points(predict(ACM2,credit4[14],type="factor")[,1:2],cex=10)
+
+# coord(FactoMineR) / (coord(MASS) * sqrt(eigenvalue)) = constante
+# la même constante pour tous les axes et toutes les modalités
+# coord_var(MASS) = coord_var(FactoMineR) / (p * sqrt(n) * sqrt(eigenvalue))
+0.15717369/(7.698547e-04*0.4035070)/sqrt(1000)
+0.15717369/(16*sqrt(1000)*0.4035070)
+0.425655358/(2.453369e-03*0.3429062)
+# coord_ind(MASS) = coord_ind(FactoMineR) / (p * sqrt(n))
+-0.1384053/(16*sqrt(1000))
+
+# number of categories per variable
+cats = apply(credit4, 2, function(x) nlevels(as.factor(x)))
+
+#install.packages('ade4')
+library(ade4)
+ACM4 <- dudi.acm(credit4[,-14], scannf = F, nf = 32)
+ACM4$eig
+ACM4$co[,1:3]
+
+
+# PRIM sur les coordonnées factorielles
+
+# échantillon d'apprentissage
+x <- ACM$ind$coord[id,1:8]
+y <- as.numeric(credit[id,"Cible"])
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+
+# échantillon de test
+xt <- ACM$ind$coord[-id,1:8]
+yt <- as.numeric(credit[-id,"Cible"])
+# recodage en 0/1
+yt[yt == 1] <- 0 # crédits OK
+yt[yt == 2] <- 1 # crédits KO
+
+library(prim)
+prim <- prim.box(x, y, peel.alpha=0.05, paste.alpha=0.04,mass.min=0.05, pasting=T, verbose=T,threshold.type=1,threshold=0.3)
+summary(prim,print.box=T)
+
+# recherche de l'aire sous la courbe ROC maximale
+library(pROC)
+aucprim <- matrix(NA,10,4)
+j <- 1
+for (n in seq(0.05,0.5,by=0.05)) {
+  prim <- prim.box(x, y, peel.alpha=n, paste.alpha=0.06,mass.min=0.05,
+                   pasting=T, verbose=F,threshold.type=1,threshold=0.3)
+  aucprim[j,1] <- n
+  aucprim[j,2] <- prim$num.class
+  #aucprim[j,3] <- auc(y,prim.which.box(x,prim))
+  #aucprim[j,4] <- auc(yt,prim.which.box(xt,prim))
+  aucprim[j,3] <- auc(y,prim$y.fun [prim.which.box(x,prim)])
+  aucprim[j,4] <- auc(yt,prim$y.fun [prim.which.box(xt,prim)])
+  j <- j+1
+}
+colnames(aucprim) <- c("alpha","nb boites","AUC train","AUC test")
+aucprim
+
+
+# calcul de l'AUC en test pour chaque combinaison (alpha,beta)
+library(pROC)
+f <- function(i,j)
+{
+  prim <- prim.box(x, y, peel.alpha=i, paste.alpha=j,mass.min=0.05,
+                   pasting=T, verbose=F,threshold.type=1,threshold=0.3)
+  auc(yt,prim.which.box(xt,prim))
+}
+f(0.5,0.03)
+
+# utilisation de la fonction f précédente pour trouver
+# le nb d'axes factoriels, et les valeurs de alpha et beta
+# maximisant l'AUC en test
+for (n in seq(2,12,by=1))
+{
+  i <- seq(0.05,0.5,by=0.05)
+  j <- seq(0.01,0.1,by=0.01)
+  x <- ACM$ind$coord[id,1:n]
+  xt <- ACM$ind$coord[-id,1:n]
+  k <- outer(i,j,Vectorize(f))
+  cat("\n","nb facteurs = ",n," AUC max = ",max(k)," ")
+}
+
+for (n in seq(2,12,by=1))
+{
+  i <- seq(0.05,0.5,by=0.05)
+  j <- seq(0.01,0.1,by=0.01)
+  x <- ACM$ind$coord[id,1:n]
+  xt <- ACM$ind$coord[-id,1:n]
+  k <- outer(i,j,Vectorize(f))
+  alpha1 <- i[which(k==max(k),arr.ind=TRUE)[1,1]]
+  alpha2 <- j[which(k==max(k),arr.ind=TRUE)[1,2]]
+  cat("\n","nb facteurs = ",n," AUC test max = ",max(k)," alpha peel = ",
+      alpha1," alpha paste = ",alpha2)
+}
+
+for (n in seq(2,12,by=1))
+{
+  i <- seq(0.05,0.5,by=0.05)
+  j <- seq(0.01,0.1,by=0.01)
+  x <- AFDM$ind$coord[id,1:n]
+  xt <- AFDM$ind$coord[-id,1:n]
+  k <- outer(i,j,Vectorize(f))
+  alpha1 <- i[which(k==max(k),arr.ind=TRUE)[1,1]]
+  alpha2 <- j[which(k==max(k),arr.ind=TRUE)[1,2]]
+  cat("\n","nb facteurs = ",n," AUC test max = ",max(k)," alpha peel = ",
+      alpha1," alpha paste = ",alpha2)
+}
+
+
+# fonction implémentant les forêts aléatoires sur un modèle PRIM
+
+RForestPRIM = function(y, x, yt, xt, nb_var, alpha, beta, nsimul)
+{
+
+  nobs <- length(y)
+  nvar <- ncol(x)
+  predic   <- matrix(NA,length(yt),nsimul)
+  auc      <- matrix(0,nsimul,1)
+
+  for(i in (1:nsimul))
+  {
+
+    # tirage aléatoire simple des variables
+    sv <- sort(sample(nvar, nb_var, replace=F))
+    # tirage aléatoire avec remise de l'échantillon d'apprentissage
+    si <- sort(sample(nobs,nobs,replace=T))
+    alpha1 <- runif(1,0.3,0.5)
+    beta1 <- runif(1,0.03,0.07)
+
+    # formule avec l'ensemble des prédicteurs
+    prim <- prim.box(x[si,sv], y[si], peel.alpha=alpha1, paste.alpha=beta1,mass.min=0.05,
+                     pasting=T, verbose=F,threshold.type=1,threshold=0.3)
+
+    # application du modèle logit à l'échantillon de validation
+    predic[,i] <- prim$y.fun [pmax(1,prim.which.box(xt[,sv],prim))]
+    if (i == 1) {moypred <- predic[,i]} else {moypred <- apply(predic[,1:i],1,mean)}
+    auc[i] <- auc(yt,moypred)
+
+  } # fin de la boucle
+
+  # résultats en retour
+  rf <- list(auc)
+
+} # fin de la fonction
+
+niter <- 1000
+
+# échantillon d'apprentissage
+x <- ACM$ind$coord[id,1:18]
+y <- as.numeric(credit[id,"Cible"])
+y[y == 1] <- 0 # crédits OK
+y[y == 2] <- 1 # crédits KO
+
+# échantillon de test
+xt <- ACM$ind$coord[-id,1:18]
+yt <- as.numeric(credit[-id,"Cible"])
+# recodage en 0/1
+yt[yt == 1] <- 0 # crédits OK
+yt[yt == 2] <- 1 # crédits KO
+
+# appel de la fonction
+rf <- RForestPRIM(y, x, yt, xt, nb_var=4, alpha=0.5, beta=0.06, nsimul=niter)
+plot(rf[[1]])
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 11
+# Forêts aléatoires
+# ---------------------------------------------------------------------------------------------------------
+
+library(randomForest)
+#credit$Cible <- factor(credit$Cible)
+
+# remarque : la variable à expliquer doit avoir le type "factor" pour un classement
+# ntree = 500 arbres agrégés
+# mtry = 4 variables sélectionnées pour la scission de chaque noeud
+# importance = TRUE calcule l'importance des variables
+# replace = TRUE (valeur par défaut) pour tirage avec remise des individus
+# keep.forest = TRUE pour conserver la forêt dans l'objet en sortie et pouvoir
+#                    l'appliquer à un autre échantillon
+# nodesize = effectif minimum de chaque feuille (par défaut : 1 en classement
+#                    et 5 en régression)
+
+set.seed(235)
+rf <- randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+                   proximity=TRUE,
+                   ntree=500, mtry=3, replace=T, keep.forest=T,nodesize=5,ytest=test[,"Cible"],xtest=test[,1:19])
+rf
+
+set.seed(235)
+ptm <- proc.time()
+rf <- randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+                   proximity=TRUE,
+                   ntree=500, mtry=3, replace=T, keep.forest=T,nodesize=5,ytest=test[,"Cible"],xtest=test[,1:19],cutoff=c(0.5,0.5))
+proc.time() - ptm
+rf
+
+stump <- randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+                      ntree=500, mtry=1, replace=T, keep.forest=T,maxnodes=2,ytest=test[,"Cible"],xtest=test[,1:19])
+
+# erreur
+head(rf$votes) # votes pour chaque individu OOB des arbres de l'échantillon d'apprentissage
+head(predict(rf,type='prob')) # commande identique à la précédente
+mean(rf$oob.times) # nb de fois où chaque individu est out of bag
+head(rf$oob.times)
+n <- 100000000000000
+rf$ntree*(1-(1/n))^n
+head(rf$err.rate)
+head(rf$test$err.rate)
+tail(rf$err.rate)
+tail(rf$test$err.rate)
+
+# taux d'erreur en test
+testrf <- predict(rf,test,type='response')
+head(testrf)
+head(test$Cible)
+table(test$Cible,testrf)
+sum(testrf != test$Cible) / nrow(test) # 0.2275281
+# taux d'erreur en apprentissage
+trainrf <- predict(rf,credit[id,],type='response')
+table(credit[id,"Cible"],trainrf)
+err_train <- sum(trainrf != credit[id,"Cible"]) / nrow(credit[id,])
+# taux d'erreur en apprentissage OOB
+#rfOOB <- ifelse(rf$votes[,2]>=0.5,1,0)
+table(credit[id,"Cible"],rfOOB)
+err_OOB <- sum(rf$pred != credit[id,"Cible"]) / nrow(credit[id,])
+# estimateur .632
+0.368*err_train + 0.632*err_OOB # 0.1654286
+0.368*0.02018634 + 0.632*0.25 # 0.1654286
+# estimateur .632+
+p <- table(credit[id,"Cible"])[2]/nrow(credit[id,])
+p
+q <- table(trainrf)[2] / nrow(credit[id,])
+q
+gamma <- p*(1-q) + (1-p)*q
+gamma
+txoverfit <- (err_OOB-err_train)/(gamma-err_train)
+txoverfit
+w <- 0.632/(1-0.368*txoverfit)
+w
+(1-w)*err_train + w*err_OOB # 0.2054516
+
+# évolution du taux d'erreur (calculé sur individus OOB de l'échantillon d'apprentissage)
+plot(rf$err.rate[1:rf$ntree,1],type='l',ylim=c(.2,.4),
+     xlab="nombre d'itérations",ylab='erreur')
+lines(rf$test$err.rate[1:rf$ntree,1],type='l',lwd=2,col='red')
+#abline(h=err_cart,col='green')
+plot(rf$err.rate[,1],type='l',ylim=c(.2,.4),xlab="nombre d'itérations",ylab='erreur')
+lines(rf$test$err.rate[,1],type='l',lwd=2,col='red')
+
+# taux d'erreur minimum en apprentissage
+(min.err <- min(rf$err.rate[,"OOB"]))
+# nb d'itérations atteignant l'erreur minimale en apprentissage
+(min.err.idx <- which(rf$err.rate[,"OOB"]== min.err))
+
+# taux d'erreur minimum en test
+(min.err <- min(rf$test$err.rate[,"Test"]))
+# nb d'itérations atteignant l'erreur minimale en validation
+(min.err.idx <- which(rf$test$err.rate[,"Test"]== min.err))
+
+# prédiction
+library(ROCR)
+pred.rf <- predict(rf,test,type='prob')[,2]
+pred <- prediction(pred.rf,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# graphique de proximité
+MDSplot(rf, credit[id,vars]$Cible)
+MDSplot(rf, credit[id,vars]$Cible,pch=as.numeric(credit[id,vars]$Cible))
+
+# graphique de l'importance des variables
+importance(rf,type=1,scale=T)
+importance(rf,type=1)
+importance(rf,type=2)
+varImpPlot(rf)
+sd(as.vector(importance(rf,type=1,scale=T)))
+sd(as.vector(importance(rf,type=2,scale=T)))
+rf.imp <- importance(rf,type=1)[order(importance(rf,type=1), decreasing=TRUE),]
+# la ligne précédente équivaut aux deux suivantes
+#imp.tmp <- importance(rf, type = 1)
+#rf.imp <- imp.tmp[order(imp.tmp, decreasing=TRUE),]
+rf.imp # variables par ordre décroissant d'importance
+
+par(mar = c(8, 4, 4, 0))
+barplot(rf.imp, col = gray(0:nrow(rf$importance)/nrow(rf$importance)),
+        ylab='Importance', ylim=c(0,30),cex.names = 0.8, las=3)
+title(main = list("Importance des variables", font = 1, cex = 1.2))
+
+# importance moyenne des variables
+nvar <- ncol(credit[,vars])-1
+vimp <- rep(0,nvar)
+nsimul <- 30
+for(i in 1:nsimul){
+  rf <- randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+                     ntree=500, mtry=3, replace=T, keep.forest=T,nodesize=5)
+  vip <- importance(rf,type=1)
+  vimp <- vimp + vip[order(rownames(vip))] / nsimul
+  rm(rf)
+}
+#vimp
+#vip
+a1 <- sort(rownames(vip))
+a2 <- order(vimp, decreasing = TRUE)
+dotchart(vimp[a2][nvar:1], a1[a2][nvar:1], main="randomForest : Importance moyenne des variables")
+
+# autre graphique de l'importance moyenne des variables
+par(mar = c(8, 4, 4, 0))
+barplot(vimp[a2], col = gray(0:nvar/nvar),names.arg = a1[a2],
+        ylab='Importance', ylim=c(0,30), cex.names = 0.8, las=3)
+title(main = list("randomForest : Importance moyenne des variables", font = 1, cex = 1.2))
+
+# détermination du nb optimal de variables sélectionnées
+set.seed(235)
+mtry <- tuneRF(credit[id,-c(20,21)], credit[id,"Cible"], mtryStart = 1,
+               ntreeTry=500,stepFactor=2, improve = 0.001)
+mtry
+mtry[,2] # taux d'erreur OOB pour chaque valeur testée de mtry
+best.m <- mtry[mtry[, 2] == min(mtry[, 2]), 1]
+best.m <- mtry[which.min(mtry[,2]),1]
+best.m
+# LIMITES :
+# - cette détermination n'est faite qu'au vu de l'erreur OOB et non en test
+# - deux calculs ne donnent pas la même valeur de mtry !
+
+# simulations sur 30 random forests et calcul erreur moyenne
+nsimul <- 30
+rft  <- matrix(NA,3,nsimul+1)
+for(i in 1:nsimul)
+{
+  rf <- randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+                     ntree=500, mtry=5, replace=T, keep.forest=T,nodesize=5,ytest=test[,"Cible"],
+                     xtest=test[,2:20])
+  rft[1,i] <- min(data.frame(rf$err.rate)["OOB"])
+  rft[2,i] <- min(data.frame(rf$test$err.rate)["Test"])
+  rft[3,i] <- rf$test$err.rate[500,"Test"]
+} # fin de la boucle
+rft[,nsimul+1] <- apply(rft[,1:nsimul],1,mean) # moyenne des erreurs
+rft
+
+# simulations sur 100 random forests et calcul AUC moyenne
+library(ROCR)
+set.seed(235)
+nsimul <- 100
+nvarmin <- 1
+nvarmax <- 6
+auc  <- matrix(NA,nvarmax-nvarmin+1,2)
+for(nvar in nvarmin:nvarmax)
+{
+  auc[nvar-nvarmin+1,1] <- nvar
+  rft  <- matrix(NA,nrow(test),nsimul+1)
+  for(i in 1:nsimul)
+  {
+    rf <- randomForest(Cible ~ ., data=credit[id,vars], importance=F,
+                       ntree=500, mtry=nvar, replace=T, keep.forest=T, nodesize=5)
+    # nodesize=5
+    # maxnodes=2
+    rft[,i] <- predict(rf,test,type='prob')[,2]
+  } # fin de la boucle intérieure
+  rft[,nsimul+1] <- apply(rft[,1:nsimul],1,mean) # moyenne des prédictions
+  pred <- prediction(rft[,nsimul+1],test$Cible,label.ordering=c(0,1))
+  auc[nvar-nvarmin+1,2] <- performance(pred,"auc")@y.values[[1]]
+} # fin de la boucle extérieure
+colnames(auc) <- c("nb variables","AUC test")
+auc
+
+
+# RF sans bootstrap (juste la randomisation des variables)
+set.seed(235)
+rf <- randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+                   ntree=500, mtry=2, replace=F, sampsize=length(id), keep.forest=T,nodesize=5,ytest=test[,"Cible"],
+                   xtest=test[,1:19])
+test$rf <- predict(rf,test,type='prob')[,2]
+pred <- prediction(test$rf,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+# RF en sélectionnant toutes les variables (= bagging : juste le bootstrap)
+set.seed(235)
+rf <- randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+                   ntree=500, mtry=dim(credit)[2]-2, replace=T, keep.forest=T,nodesize=5,ytest=test[,"Cible"],
+                   xtest=test[,1:19])
+test$rf <- predict(rf,test,type='prob')[,2]
+pred <- prediction(test$rf,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+# imputation de valeurs manquantes
+summary(train)
+logit <- glm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,data=train,family=binomial(link = "logit"))
+summary(logit)
+library(missForest)
+train.mis <- prodNA(train, noNA = 0.1)
+summary(train.mis)
+logit.mis <- glm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,data=train.mis,family=binomial(link = "logit"))
+summary(logit.mis)
+train.imp <- missForest(train.mis)
+train.imp$OOBerror
+train.imp$error
+logit.imp <- glm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,data=train.imp$ximp,family=binomial(link = "logit"))
+summary(logit.imp)
+# parallélisation
+library(doSNOW)
+cl <- makeCluster(4)
+registerDoSNOW(cl)
+ptm <- proc.time()
+#train.imp <- missForest(train.mis,xtrue=train,parallelize='no')
+train.imp <- missForest(train.mis,xtrue=train,parallelize='forests')
+#train.imp <- missForest(train.mis,xtrue=train,parallelize='variables')
+proc.time() - ptm
+# fin parallélisation
+stopCluster(cl)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Extra-trees
+# ---------------------------------------------------------------------------------------------------------
+
+install.packages('extraTrees')
+library(extraTrees)
+summary(credit)
+
+# le vecteur de prédicteurs x de extraTrees doit être numérique => toutes
+# les variables qui sont des facteurs sont remplacées par les indicatrices
+# de leurs modalités (sauf la modalité de référence)
+x <- model.matrix( ~ . -1 ,data=credit[id,!names(credit)%in%c("Cible","Cle")])
+y <- credit[id,"Cible"]
+xt <- model.matrix( ~ . -1 ,data=credit[-id,!names(credit)%in%c("Cible","Cle")])
+
+set.seed(235)
+ptm <- proc.time()
+et <- extraTrees(x, y, ntree=1000, mtry=5, numRandomCuts=1, nodesize=5, numThreads=1)
+proc.time() - ptm
+et
+
+# prédiction
+#library(ROCR)
+pred.et <- predict(et,xt,probability=T)[,2]
+pred <- prediction(pred.et,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# parallélisation
+install.packages('microbenchmark')
+library(microbenchmark)
+microbenchmark(extraTrees(x, y, ntree=500, mtry=5, numRandomCuts=1, nodesize=5, numThreads=1), times = 30)
+microbenchmark(extraTrees(x, y, ntree=500, mtry=5, numRandomCuts=1, nodesize=5, numThreads=4), times = 10)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Forêts aléatoires parallélisées
+# ---------------------------------------------------------------------------------------------------------
+
+library(randomForest)
+summary(credit)
+names(credit)
+
+# version sans foreach
+ptm <- proc.time()
+rf <- randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+                   ntree=10000, mtry=3, replace=T, keep.forest=T,nodesize=5,ytest=test[,"Cible"],
+                   xtest=test[,1:19])
+proc.time() - ptm
+rf
+
+
+# appel foreach sans parallélisation
+library(foreach)
+#rf <- foreach(ntree=rep(250, 4), .combine=combine) %do% randomForest(x, y, ntree=ntree)
+
+ptm <- proc.time()
+rf <- foreach(ntree=rep(2500, 4), .combine=combine) %do%
+  randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+               ntree=ntree, mtry=3, replace=T, keep.forest=T,nodesize=5,ytest=test[,"Cible"],
+               xtest=test[,1:19])
+proc.time() - ptm
+
+
+# appel foreach avec parallélisation
+library(parallel)
+detectCores()
+detectCores(logical=FALSE)
+library(doSNOW)
+cl <- makeCluster(2) #change the 2 to your number of physical CPU cores
+registerDoSNOW(cl)
+
+#rf <- foreach(ntree=rep(250, 4), .combine=combine, .packages='randomForest') %dopar% randomForest(x, y, ntree=ntree)
+ptm <- proc.time()
+rf <- foreach(ntree=rep(2500, 4), .combine=combine, .packages='randomForest') %dopar%
+  randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+               ntree=ntree, mtry=3, replace=T, keep.forest=T,nodesize=5,ytest=test[,"Cible"],
+               xtest=test[,1:19])
+proc.time() - ptm
+
+# fin parallélisation
+stopCluster(cl)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 12
+# Bagging
+# ---------------------------------------------------------------------------------------------------------
+
+#install.packages("ipred")
+library(ipred)
+library(rpart)
+library(ROCR)
+#library(adabag)
+
+# bagging avec arbres de profondeur maximale
+set.seed(235)
+bag <- bagging(Cible ~ ., data=credit[id,vars],nbagg=200,coob=TRUE,
+               control= rpart.control(cp=0))
+bag
+
+# prédiction
+test$bag <- predict(bag,type="prob",test)
+pred <- prediction(test$bag[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# mêmes analyses avec taille minimale des feuilles
+set.seed(235)
+bag1 <- bagging(Cible ~ ., data=credit[id,vars],nbagg=200,coob=TRUE,
+                control= rpart.control(minbucket=5))
+bag1
+
+# agrégation par moyenne des probabilités
+test$bag1 <- predict(bag1, test, type="prob", aggregation="average")
+head(test$bag1)
+pred <- prediction(test$bag1[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# agrégation par vote à la majorité
+test$bag1 <- predict(bag1, test, type="prob", aggregation="majority")
+head(test$bag1)
+pred <- prediction(test$bag1[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# bagging de stumps
+set.seed(235)
+stump <- bagging(Cible ~ ., data=credit[id,vars],nbagg=100,coob=TRUE,
+                 control= rpart.control(maxdepth=1,cp=-1,minsplit=0))
+bag1 <- stump
+
+# rappel : AUC de stumps
+cart <- rpart(Cible ~ . ,data = credit[id,vars],method="class",parms=list(split="gini"),
+              control=list(maxdepth=1,cp=-1,minsplit=0))
+test$stump <- predict(cart, test, type="prob")
+pred <- prediction(test$stump[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# bagging d'arbres peu discriminants
+library(rpart)
+cart <- rpart(Cible ~ Anciennete_domicile+Telephone+Nb_pers_charge ,data = credit[id,vars],method="class",parms=list(split="gini"),cp=-1,maxdepth=1)
+cart
+
+plot(cart,branch=.2, uniform=T, compress=T, margin=.1)
+text(cart, fancy=T,use.n=T,pretty=0,all=T,cex=.5)
+predc <- predict(cart,type="prob",test)[,2]
+pred <- prediction(predc,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+set.seed(235)
+bag1 <- bagging(Cible ~ Anciennete_domicile+Telephone+Nb_pers_charge, data=credit[id,vars],nbagg=200,coob=TRUE,
+                control= rpart.control(maxdepth=1,cp=-1))
+test$bag1 <- predict(bag1, test, type="prob", aggregation="average")
+pred <- prediction(test$bag1[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.4924933
+test$bag1 <- predict(bag1, test, type="prob", aggregation="majority")
+pred <- prediction(test$bag1[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.5
+
+# utilisation du package randomForest
+library(randomForest)
+set.seed(235)
+bag2 <- randomForest(Cible ~ ., data=credit[id,vars], importance=TRUE,
+                     ntree=500, mtry=length(credit[id,vars])-1, replace=T, keep.forest=T,nodesize=5)
+test$bag2 <- predict(bag2,test,type='prob')[,2]
+pred <- prediction(test$bag2,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 13
+# Forêts aléatoires logistiques
+# ---------------------------------------------------------------------------------------------------------
+
+library(ROCR)
+
+# Attention : regrouper la modalité "Autres" de "Objet_credit" qui n'a que 12 observations
+# La rareté de cette modalité fait qu'elle peut se trouver absente d'un échantillon
+# d'apprentissage alors qu'elle sera présente dans l'échantillon de test
+
+table(credit$Objet_credit)
+credit$Objet_credit[credit$Objet_credit == "A410"] <- "A48"
+table(credit$Objet_credit)
+train  <- credit[id,]
+valid  <- credit[-id,]
+summary(train)
+
+library(car)
+credit2$Objet_credit <- recode(credit$Objet_credit,"'A40'='Voiture neuve';
+'A41'='Voiture occasion';c('A42','A44','A45')='Intérieur';
+'A43'='Vidéo - HIFI';c('A46','A48','A410')='Etudes';
+'A47'='Vacances';'A49'='Business';else='Autres'")
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+summary(train)
+
+
+# fonction implémentant les forêts aléatoires sur un modèle logit
+
+RForestLog = function(apprent, validat, varY, varX, nb_var, crit="bic", nsimul)
+{
+
+  nobs <- nrow(apprent)
+  y <- apprent[,varY]
+  formule <- as.formula(paste("y ~ ",paste(names(apprent[,varX]),collapse="+")))
+  sature   <- glm(formule,data=apprent[,c(varX,varY)], family=binomial(link = "logit"))
+  #cible <- apprent[,varY]
+  #sature   <- glm(Cible~.,data=apprent[,c(varX,varY)], family=binomial(link = "logit"))
+  coef     <- matrix(0,length(coef(sature)),nsimul+2)
+  rownames(coef) <- names(coef(sature))
+  predic   <- matrix(NA,nrow(validat),nsimul)
+  auc      <- matrix(0,nsimul,1)
+
+  for(i in (1:nsimul))
+  {
+
+    # tirage aléatoire simple des variables
+    size <- length(varX)
+    s <- sort(sample(size, nb_var, replace=F))
+    predicteurs <- varX[s]
+
+    # tirage aléatoire équiprobable avec remise des individus
+    s <- sample(nobs,nobs,replace=T)
+
+    # formule avec l'ensemble des prédicteurs sélectionnés aléatoirement
+    if (nb_var > 1) {
+      formule <- as.formula(paste("y ~ ",paste(names(apprent[,predicteurs]),collapse="+")))
+    } else {
+      formule <- as.formula(paste("y ~ ",predicteurs))
+    }
+    cible <- apprent[s,varY]
+    # modèle minimum
+    logit <- glm(cible ~ 1,data=apprent[s,], family=binomial(link = "logit"))
+
+    # sélection pas à pas sur la base du critère BIC ou AIC
+    if (crit == "bic") {
+      selection <- step(logit,direction="forward",trace=F,k=log(nobs),scope=list(upper=formule))
+    } else {
+      selection <- step(logit,direction="forward",trace=F,k=2,scope=list(upper=formule))
+    }
+
+    # application du modèle logit à l'échantillon de validation
+    predic[,i] <- predict(selection, newdata=validat, type="response")
+    # moyenne des prédictions des i premiers modèles agrégés
+    #if (i == 1) {moypred <- predic[,i]} else {moypred <- apply(predic[,1:i],1,mean)}
+    if (i == 1) {moypred <- predic[,i]} else {moypred <- rowMeans(predic[,1:i])}
+    # calcul de lAUC des i premiers modèles agrégés
+    cible <- validat[,varY]
+    pred <- prediction(moypred,cible,label.ordering=c(0,1))
+    auc[i] <- performance(pred,"auc")@y.values[[1]]
+    # stockage des coefficients
+    index <- match(names(coef(selection)),names(coef(sature)))
+    coef[index,i] <- coef(selection)
+
+  } # fin de la boucle
+
+  coef[,nsimul+1] <- rowMeans(coef[,1:nsimul]) # moyenne des coefficients
+  coef[,nsimul+2] <- rowSums(coef[,1:nsimul]!=0) # nb de coefficients non nuls par modalité
+
+  # résultats en retour
+  rf <- list(auc,coef)
+
+} # fin de la fonction
+
+niter <- 300
+varx <- c(varquali, varquanti)
+#npred <- -grep('(Type_emploi|Telephone|Nb_pers_charge|Anciennete_domicile|Taux_effort|Nb_credits)', varx)
+#varx <- varx[npred]
+varx
+ptm <- proc.time()
+rf <- RForestLog(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=3, crit="aic", nsimul=niter)
+proc.time() - ptm
+
+# AUC
+rf[[1]]
+plot(rf[[1]])
+rf[[2]]
+# coefficients moyens
+rf[[2]][,niter+1]
+# nb de sélections de chaque variable
+rf[[2]][,niter+2]
+rf[[2]]
+
+# fonction lissant les AUC et les coefficients de forêts aléatoires
+# en effectuant plusieurs simulations
+
+Ensemble = function(apprent, validat, varY, varX, nb_var, crit="bic", nsimul, nb)
+{
+
+  y <- apprent[,varY]
+  formule <- as.formula(paste("y ~ ",paste(names(apprent[,varX]),collapse="+")))
+  sature   <- glm(formule,data=apprent[,c(varX,varY)], family=binomial(link = "logit"))
+  coe <- matrix(0,length(coef(sature)),nb+1)
+  rownames(coe) <- names(coef(sature))
+  occ <- matrix(0,length(coef(sature)),nb+1)
+  rownames(occ) <- names(coef(sature))
+  auc <- matrix(0,nsimul,nb+1)
+
+  for(i in (1:nb))
+  {
+    rf <- RForestLog(apprent, validat, varY, varX, nb_var, crit, nsimul)
+    auc[,i] <- rf[[1]]
+    coe[,i] <- rf[[2]][,nsimul+1]
+    occ[,i] <- rf[[2]][,nsimul+2]
+  }
+
+  auc[,nb+1] <- apply(auc[,1:nb],1,mean) # moyenne des AUC
+  coe[,nb+1] <- apply(coe[,1:nb],1,mean) # moyenne des coefficients
+  occ[,nb+1] <- apply(occ[,1:nb],1,mean) # moyenne des nb d'occurrences
+
+  # résultats en retour
+  ens <- list(auc,coe,occ)
+
+} # fin de la fonction
+
+
+niter <- 300
+n     <- 30
+varx <- c(varquali, varquanti)
+varx
+
+ptm <- proc.time()
+ens <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=2, crit="aic", nsimul=niter, nb=n)
+proc.time() - ptm
+
+ens[[1]][niter,n+1]
+plot(ens[[1]][,n+1])
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Random Forest sur Logit : version parallélisée
+# ---------------------------------------------------------------------------------------------------------
+
+library(foreach)
+library(iterators)
+
+# fonction implémentant les forêts aléatoires sur un modèle logit
+
+pRForestLog = function(apprent, validat, varY, varX, nb_var, crit="bic", nsimul)
+{
+
+  nobs <- nrow(apprent)
+  y <- apprent[,varY]
+  formule <- as.formula(paste("y ~ ",paste(names(apprent[,varX]),collapse="+")))
+  sature   <- glm(formule,data=apprent[,c(varX,varY)], family=binomial(link = "logit"))
+  coef     <- matrix(0,length(coef(sature)),nsimul+2)
+  rownames(coef) <- names(coef(sature))
+  predic   <- matrix(0,nrow(validat),1)
+  auc      <- matrix(0,nsimul,1)
+
+  rf <- foreach(icount(nsimul), .combine='cbind') %dopar% {
+
+    # tirage aléatoire simple des variables
+    size <- length(varX)
+    s <- sort(sample(size, nb_var, replace=F))
+    predicteurs <- varX[s]
+
+    # tirage aléatoire équiprobable avec remise des individus
+    s <- sample(nobs,nobs,replace=T)
+
+    # formule avec l'ensemble des prédicteurs sélectionnés aléatoirement
+    if (nb_var > 1) {
+      formule <- as.formula(paste("y ~ ",paste(names(apprent[,predicteurs]),collapse="+")))
+    } else {
+      formule <- as.formula(paste("y ~ ",predicteurs))
+    }
+    cible <- apprent[s,varY]
+    # modèle minimum
+    logit <- glm(cible ~ 1,data=apprent[s,], family=binomial(link = "logit"))
+
+    # sélection pas à pas sur la base du critère BIC ou AIC
+    if (crit == "bic") {
+      selection <- step(logit,direction="forward",trace=F,k=log(nobs),scope=list(upper=formule))
+    } else {
+      selection <- step(logit,direction="forward",trace=F,k=2,scope=list(upper=formule))
+    }
+
+    # application du modèle logit à l'échantillon de validation
+    pred <- predict(selection, newdata=validat, type="response")
+    return(pred)
+
+  } # fin du foreach
+
+  forest <- t(apply(rf, 1, cumsum))
+  aires <- as.vector(apply(forest,2,function(x) auc(valid$Cible,x)))
+  return(aires)
+
+} # fin de la fonction
+
+
+niter <- 300
+varx <- c(varquali, varquanti)
+varx
+ptm <- proc.time()
+rfo <- pRForestLog(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=3, crit="aic", nsimul=niter)
+proc.time() - ptm
+
+plot(rfo)
+plot(names(rfo[,niter]),rfo[,niter])
+
+
+# parallélisation sur plusieurs coeurs
+
+library(parallel)
+detectCores()
+detectCores(logical=FALSE)
+
+#install.packages('doSNOW')
+library(doSNOW)
+library(foreach)
+
+cl <- makeCluster(4) #change the 2 to your number of physical CPU cores
+registerDoSNOW(cl)
+
+ptm <- proc.time()
+rfo <- pRForestLog(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=3, crit="aic", nsimul=niter)
+proc.time() - ptm
+
+stopCluster(cl)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Random Forest sur Logit : autre version parallélisée
+# ---------------------------------------------------------------------------------------------------------
+
+library(parallel)
+detectCores()
+detectCores(logical=FALSE)
+
+#install.packages('doSNOW')
+library(doSNOW)
+library(foreach)
+
+cl <- makeCluster(4)
+registerDoSNOW(cl)
+getDoParWorkers()
+
+pEnsemble = function(apprent, validat, varY, varX, nb_var, crit="bic", nsimul, nb)
+{
+
+  y <- apprent[,varY]
+  formule <- as.formula(paste("y ~ ",paste(names(apprent[,varX]),collapse="+")))
+  sature   <- glm(formule,data=apprent[,c(varX,varY)], family=binomial(link = "logit"))
+  coe <- matrix(0,length(coef(sature)),nb+1)
+  rownames(coe) <- names(coef(sature))
+  occ <- matrix(0,length(coef(sature)),nb+1)
+  rownames(occ) <- names(coef(sature))
+  auc <- matrix(0,nsimul,nb+1)
+
+  rf <- foreach(i=1:nb,.export=c("RForestLog"),.packages='ROCR') %dopar%
+    { RForestLog(apprent, validat, varY, varX, nb_var, crit, nsimul) }
+
+  roc <- function(x) {rf[[x]][[1]]}
+  auc <- Vectorize(roc)(1:nb)
+  aucm <- apply(auc[,1:nb],1,mean)
+
+  cf <- function(x) {rf[[x]][[2]][,nsimul+1]}
+  coe <- Vectorize(cf)(1:nb)
+  coem <- apply(coe[,1:nb],1,mean)
+
+  oc <- function(x) {rf[[x]][[2]][,nsimul+2]}
+  occ <- Vectorize(oc)(1:nb)
+  occm <- apply(occ[,1:nb],1,mean)
+
+  # résultats en retour
+  ens <- list(aucm,coem,occm)
+
+} # fin de la fonction
+
+niter <- 300
+n     <- 30
+varx <- c(varquali, varquanti)
+
+ptm <- proc.time()
+p.ens <- pEnsemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=2, crit="aic", nsimul=niter, nb=n)
+proc.time() - ptm
+
+p.ens[[1]][niter]
+plot(p.ens[[1]])
+p.ens[[2]]
+p.ens[[3]]
+
+# fin parallélisation
+stopCluster(cl)
+
+# grille de score
+score <- rf[[2]]
+sature   <- glm(Cible~.,data=train[,c(varx,"Cible")], family=binomial(link = "logit"))
+sature$xlevels
+names(unlist(sature$xlevels))
+VARIABLE=c("",gsub("[0-9]", "", names(unlist(sature$xlevels))))
+#VARIABLE = c(varquali, varquanti)
+VARIABLE
+MODALITE=c("",as.character(unlist(sature$xlevels)))
+MODALITE
+names=data.frame(VARIABLE,MODALITE,NOMVAR=c("(Intercept)",paste(VARIABLE,MODALITE,sep="")[-1]))
+#regression=data.frame(NOMVAR=names(rf[[2]][,niter+1]),COEF=as.numeric(rf[[2]][,niter+1]))
+#regression=data.frame(NOMVAR=names(ens[[2]][,nb+1]),COEF=as.numeric(ens[[2]][,nb+1]))
+regression=data.frame(NOMVAR=names(score),COEF=as.numeric(score))
+regression
+param = merge(names,regression,all.x=TRUE)[-1]
+param$COEF[is.na(param$COEF)] <- 0
+mini=aggregate(data.frame(min = param$COEF), by = list(VARIABLE = param$VARIABLE), min)
+maxi=aggregate(data.frame(max = param$COEF), by = list(VARIABLE = param$VARIABLE), max)
+total=merge(mini,maxi)
+total$diff = total$max - total$min
+poids_total = sum(total$diff)
+grille = merge(param,mini,all.x=TRUE)
+grille$delta = grille$COEF - grille$min
+grille$POIDS = round((100*grille$delta) / poids_total)
+grille[which(VARIABLE!=""),c("VARIABLE","MODALITE","POIDS")]
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Random Forest sur Logit : tests divers
+# ---------------------------------------------------------------------------------------------------------
+
+niter <- 300
+n     <- 30
+varx
+library(ROCR)
+bic1 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=1, crit="bic", nsimul=niter, nb=n)
+aic1 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=1, crit="aic", nsimul=niter, nb=n)
+bic2 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=2, crit="bic", nsimul=niter, nb=n)
+aic2 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=2, crit="aic", nsimul=niter, nb=n)
+bic3 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=3, crit="bic", nsimul=niter, nb=n)
+aic3 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=3, crit="aic", nsimul=niter, nb=n)
+bic4 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=4, crit="bic", nsimul=niter, nb=n)
+aic4 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=4, crit="aic", nsimul=niter, nb=n)
+bic5 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=5, crit="bic", nsimul=niter, nb=n)
+aic5 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=5, crit="aic", nsimul=niter, nb=n)
+bic8 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=8, crit="bic", nsimul=niter, nb=n)
+aic8 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=8, crit="aic", nsimul=niter, nb=n)
+bic13 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=13, crit="bic", nsimul=niter, nb=n)
+bic19 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=19, crit="bic", nsimul=niter, nb=n)
+aic19 <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=19, crit="aic", nsimul=niter, nb=n)
+
+library(ggplot2)
+trait <- 1.25
+ggplot() +
+  geom_line(aes(seq(1,300), aic3[[1]][,n+1]), colour='black', size=trait, linetype=1, data.frame(seq(1,300),aic3[[1]][,n+1])) +
+  geom_line(aes(seq(1,300), aic4[[1]][,n+1]), colour='black', size=trait, linetype=3, data.frame(seq(1,300),aic4[[1]][,n+1])) +
+  geom_line(aes(seq(1,300), bic3[[1]][,n+1]), colour='grey60', size=trait, linetype=1, data.frame(seq(1,300),bic3[[1]][,n+1])) +
+  geom_line(aes(seq(1,300), bic4[[1]][,n+1]), colour='grey60', size=trait, linetype=5, data.frame(seq(1,300),bic4[[1]][,n+1])) +
+  geom_line(aes(seq(1,300), bic8[[1]][,n+1]), colour='grey60', size=trait, linetype=4, data.frame(seq(1,300),bic8[[1]][,n+1])) +
+  geom_line(aes(seq(1,300), bic19[[1]][,n+1]), colour='grey50', size=trait, linetype=3, data.frame(seq(1,300),bic19[[1]][,n+1])) +
+  xlab("# agrégations") + ylab("AUC") +
+  theme_bw() +
+  annotate("segment", x=230, xend=250, y=.65, yend=.65, colour='black', size=trait, linetype=1) +
+  annotate("text", x=260, y=.65, label="AIC 3 var", colour="black", size=4) +
+  annotate("segment", x=230, xend=250, y=.64, yend=.64, colour='black', size=trait, linetype=3) +
+  annotate("text", x=260, y=.64, label="AIC 4 var", colour="black", size=4) +
+  annotate("segment", x=230, xend=250, y=.63, yend=.63, colour='grey60', size=trait, linetype=1) +
+  annotate("text", x=260, y=.63, label="BIC 3 var", colour="black", size=4) +
+  annotate("segment", x=230, xend=250, y=.62, yend=.62, colour='grey60', size=trait, linetype=5) +
+  annotate("text", x=260, y=.62, label="BIC 4 var", colour="black", size=4) +
+  annotate("segment", x=230, xend=250, y=.61, yend=.61, colour='grey60', size=trait, linetype=4) +
+  annotate("text", x=260, y=.61, label="BIC 8 var", colour="black", size=4) +
+  annotate("segment", x=230, xend=250, y=.6, yend=.6, colour='grey50', size=trait, linetype=3) +
+  annotate("text", x=262, y=.6, label=" BIC bagging", colour="black", size=4)
+
+# grille de score
+score <- aic3[[2]][,n+1]
+sature   <- glm(Cible~.,data=train[,c(varx,"Cible")], family=binomial(link = "logit"))
+sature$xlevels
+names(unlist(sature$xlevels))
+VARIABLE=c("",gsub("[0-9]", "", names(unlist(sature$xlevels))))
+MODALITE=c("",as.character(unlist(sature$xlevels)))
+names=data.frame(VARIABLE,MODALITE,NOMVAR=c("(Intercept)",paste(VARIABLE,MODALITE,sep="")[-1]))
+regression=data.frame(NOMVAR=names(score),COEF=as.numeric(score))
+param = merge(names,regression,all.x=TRUE)[-1]
+param$COEF[is.na(param$COEF)] <- 0
+mini=aggregate(data.frame(min = param$COEF), by = list(VARIABLE = param$VARIABLE), min)
+maxi=aggregate(data.frame(max = param$COEF), by = list(VARIABLE = param$VARIABLE), max)
+total=merge(mini,maxi)
+total$diff = total$max - total$min
+poids_total = sum(total$diff)
+grille = merge(param,mini,all.x=TRUE)
+grille$delta = grille$COEF - grille$min
+grille$POIDS = round((100*grille$delta) / poids_total)
+grille[which(VARIABLE!=""),c("VARIABLE","MODALITE","POIDS")]
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Boosting de modèles logistiques
+# ---------------------------------------------------------------------------------------------------------
+
+library(ROCR)
+
+# Attention : regrouper la modalité "Autres" de "Objet_credit" qui n'a que 12 observations
+# La rareté de cette modalité fait qu'elle peut se trouver absente d'un échantillon
+# d'apprentissage alors qu'elle sera présente dans l'échantillon de test
+
+table(credit$Objet_credit)
+credit$Objet_credit[credit$Objet_credit == "A410"] <- "A48"
+table(credit$Objet_credit)
+train  <- credit[id,]
+valid  <- credit[-id,]
+summary(credit)
+
+library(car)
+credit2$Objet_credit <- recode(credit$Objet_credit,"'A40'='Voiture neuve';
+'A41'='Voiture occasion';c('A42','A44','A45')='Intérieur';
+'A43'='Vidéo - HIFI';c('A46','A48','A410')='Etudes';
+'A47'='Vacances';'A49'='Business';else='Autres'")
+train  <- credit2[id,]
+valid  <- credit2[-id,]
+
+# fonction implémentant le boosting sur un modèle logit
+
+BoostLog = function(apprent, validat, varY, varX, crit="bic", shrink=1, nsimul)
+{
+
+  nobs <- nrow(apprent)
+  w <- rep(1/nobs, nobs)
+  rep <- 0
+  y <- apprent[,varY]
+  formule <- as.formula(paste("y ~ ",paste(names(apprent[,varX]),collapse="+")))
+  sature   <- glm(formule,data=apprent[,c(varX,varY)], family=binomial(link = "logit"))
+  coef     <- matrix(0,length(coef(sature)),nsimul+2)
+  rownames(coef) <- names(coef(sature))
+  predic   <- matrix(NA,nrow(validat),nsimul)
+  auc      <- matrix(0,nsimul,1)
+
+  for(i in (1:nsimul))
+  {
+
+    # initialisation des poids
+    w <- w/sum(w,na.rm=TRUE) # gérer le cas où un poids w est si petit qu'il vaut NaN
+
+    nb_var <- length(varX)
+    predicteurs <- varX
+
+    # tirage aléatoire pondéré avec remise de l'échantillon d'apprentissage
+    s <- sort(sample(nobs,nobs,replace=T,prob=w))
+
+    # formule avec l'ensemble des prédicteurs
+    if (nb_var > 1) {
+      formule <- as.formula(paste("y ~ ",paste(names(apprent[,predicteurs]),collapse="+")))
+    } else {
+      formule <- as.formula(paste("y ~ ",predicteurs))
+    }
+    cible <- apprent[s,varY]
+    logit <- glm(cible ~ 1,data=apprent[s,], family=binomial(link = "logit"))
+    if (crit == "bic") {
+      selection <- step(logit,direction="forward",trace=F,k=log(nobs),scope=list(upper=formule))
+    } else {
+      selection <- step(logit,direction="forward",trace=F,k=2,scope=list(upper=formule))
+    }
+
+    # application du modèle logit à l'échantillon d'apprentissage et mise à jour des poids
+    #pred <- pmin(predict(selection, newdata=apprent, type="response"),0.999999)
+    pred <- predict(selection, newdata=apprent, type="response")
+    alpha <- log(pred/(1-pred))/2
+    signe = ifelse(apprent[,varY] == 1,1,-1)
+    w <- w * exp(-shrink*signe*alpha)
+
+    # application du modèle logit à l'échantillon de validation
+    #predic[,i] <- min(predict(selection, newdata=validat, type="response"),0.999999)
+    predic[,i] <- predict(selection, newdata=validat, type="response")
+    rep <- rep + predic[,i]
+    cible <- validat[,varY]
+    pred <- prediction(rep,cible,label.ordering=c(0,1))
+    auc[i] <- performance(pred,"auc")@y.values[[1]]
+
+    # stockage des coefficients
+    index <- match(names(coef(selection)),names(coef(sature)))
+    coef[index,i] <- coef(selection)
+
+  } # fin de la boucle
+
+  #coef <- apply(coef, 2, as.numeric)
+  coef[,nsimul+1] <- apply(coef[,1:nsimul],1,mean) # moyenne des coefficients
+  coef[,nsimul+2] <- apply((coef[,1:nsimul]!=0),1,sum) # nb de coefficients non nuls par modalité
+
+  # résultats en retour
+  rep <- rep/nsimul
+  rf <- list(auc,coef,rep)
+
+} # fin de la fonction
+
+seed <- 235
+niter <- 1000
+varx <- c(varquali, varquanti)
+
+ptm <- proc.time()
+bst <- BoostLog(apprent=train, validat=valid, varY="Cible", varX=varx, crit="bic", shrink=0.001, nsimul=niter)
+proc.time() - ptm
+
+# AUC
+bst[[1]]
+max(bst[[1]])
+which.max(bst[[1]])
+plot(bst[[1]])
+# coefficients moyens
+bst[[2]][,niter+1]
+# nb de sélections de chaque variable
+bst[[2]][,niter+2]
+# prédictions du modèle boosté
+length(bst[[3]])
+library(pROC)
+auc(valid$Cible,bst[[3]])
+library(ROCR)
+pred <- prediction(bst[[3]],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Version parallélisée
+# ---------------------------------------------------------------------------------------------------------
+
+library(parallel)
+detectCores()
+detectCores(logical=FALSE)
+
+install.packages('doSNOW')
+library(doSNOW)
+library(foreach)
+
+cl <- makeCluster(4)
+registerDoSNOW(cl)
+getDoParWorkers()
+
+foreach(i=1:10) %dopar% {
+
+  #loop contents here
+
+}
+
+m <- matrix(rnorm(16), 4, 4)
+f <- foreach(i=1:ncol(m),.combine=c) %dopar% {
+  mean(m[,i])
+}
+f
+
+stopCluster(cl)
+
+
+# fonction implémentant le boosting (version //) sur un modèle logit
+
+ParallelBoostLog = function(apprent, validat, varY, varX, crit="bic", shrink=1, nsimul)
+{
+
+  nobs <- nrow(apprent)
+  w <- rep(1/nobs, nobs)
+  rep <- 0
+  y <- apprent[,varY]
+  formule <- as.formula(paste("y ~ ",paste(names(apprent[,varX]),collapse="+")))
+  sature   <- glm(formule,data=apprent[,c(varX,varY)], family=binomial(link = "logit"))
+  coef     <- matrix(0,length(coef(sature)),nsimul+2)
+  rownames(coef) <- names(coef(sature))
+  predic   <- matrix(NA,nrow(validat),nsimul)
+  auc      <- matrix(0,nsimul,1)
+
+  #for(i in (1:nsimul))
+  #boucle <- foreach(i=1:nsimul,.combine=rbind) %dopar%
+  boucle <- foreach(i=1:nsimul,.packages='ROCR') %dopar%
+    {
+
+      # initialisation des poids
+      w <- w/sum(w,na.rm=TRUE) # gérer le cas où un poids w est si petit qu'il vaut NaN
+      nb_var <- length(varX)
+      predicteurs <- varX
+
+      # tirage aléatoire pondéré avec remise de l'échantillon d'apprentissage
+      s <- sort(sample(nobs,nobs,replace=T,prob=w))
+
+      # formule avec l'ensemble des prédicteurs
+      if (nb_var > 1) {
+        formule <- as.formula(paste("y ~ ",paste(names(apprent[,predicteurs]),collapse="+")))
+      } else {
+        formule <- as.formula(paste("y ~ ",predicteurs))
+      }
+      cible <- apprent[s,varY]
+      logit <- glm(cible ~ 1,data=apprent[s,], family=binomial(link = "logit"))
+      if (crit == "bic") {
+        selection <- step(logit,direction="forward",trace=F,k=log(nobs),scope=list(upper=formule))
+      } else {
+        selection <- step(logit,direction="forward",trace=F,k=2,scope=list(upper=formule))
+      }
+
+      # application du modèle logit à l'échantillon d'apprentissage et mise à jour des poids
+      #pred <- pmin(predict(selection, newdata=apprent, type="response"),0.999999)
+      pred <- predict(selection, newdata=apprent, type="response")
+      alpha <- log(pred/(1-pred))/2
+      signe = ifelse(apprent[,varY] == 1,1,-1)
+      w <- w * exp(-shrink*signe*alpha)
+
+      # stockage des coefficients
+      index <- match(names(coef(selection)),names(coef(sature)))
+      coef[index,i] <- coef(selection)
+
+      # application du modèle logit à l'échantillon de validation
+      #predic[,i] <- min(predict(selection, newdata=validat, type="response"),0.999999)
+      predic[,i] <- predict(selection, newdata=validat, type="response")
+      rep <- rep + predic[,i]
+      cible <- validat[,varY]
+      pred <- prediction(rep,cible,label.ordering=c(0,1))
+      auc[i] <- performance(pred,"auc")@y.values[[1]]
+
+      return(list(auc,coef,rep))
+
+    } # fin de la boucle
+
+  print(boucle)
+
+  auc <- sapply(boucle[[1]],mean)
+  coef <- boucle[[2]]
+  rep <- boucle[[3]]
+
+  print(auc)
+  print(coef)
+  print(rep)
+
+  #coef <- apply(coef, 2, as.numeric)
+  coef[,nsimul+1] <- apply(coef[,1:nsimul],1,mean) # moyenne des coefficients
+  coef[,nsimul+2] <- apply((coef[,1:nsimul]!=0),1,sum) # nb de coefficients non nuls par modalité
+
+  # résultats en retour
+  rep <- rep/nsimul
+  rf <- list(auc,coef,rep)
+
+} # fin de la fonction
+
+seed <- 235
+niter <- 8
+varx <- c(varquali, varquanti)
+varx
+
+ptm <- proc.time()
+p.bst <- ParallelBoostLog(apprent=train, validat=valid, varY="Cible", varX=varx, crit="bic", shrink=0.001, nsimul=niter)
+proc.time() - ptm
+
+# AUC
+p.bst[[1]]
+class(p.bst[[1]])
+max(p.bst[[1]])
+which.max(p.bst[[1]])
+plot(p.bst[[1]])
+# coefficients moyens
+p.bst[[2]][,niter+1]
+# nb de sélections de chaque variable
+p.bst[[2]][,niter+2]
+
+
+# fin parallélisation
+stopCluster(cl)
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Fonction lissant les AUC et les coefficients de forêts aléatoires
+# en effectuant plusieurs simulations
+# ---------------------------------------------------------------------------------------------------------
+
+Ensemble = function(apprent, validat, varY, varX, nb_var, crit="bic", nsimul, nb)
+{
+
+  y <- apprent[,varY]
+  formule <- as.formula(paste("y ~ ",paste(names(apprent[,varX]),collapse="+")))
+  sature   <- glm(formule,data=apprent[,c(varX,varY)], family=binomial(link = "logit"))
+  coe <- matrix(0,length(coef(sature)),nb+1)
+  rownames(coe) <- names(coef(sature))
+  occ <- matrix(0,length(coef(sature)),nb+1)
+  rownames(occ) <- names(coef(sature))
+  auc <- matrix(0,nsimul,nb+1)
+
+  for(i in (1:nb))
+  {
+    rf <- RForestLog(apprent, validat, varY, varX, nb_var, crit, nsimul)
+    auc[,i] <- rf[[1]]
+    coe[,i] <- rf[[2]][,nsimul+1]
+    occ[,i] <- rf[[2]][,nsimul+2]
+  }
+
+  auc[,nb+1] <- apply(auc[,1:nb],1,mean) # moyenne des AUC
+  coe[,nb+1] <- apply(coe[,1:nb],1,mean) # moyenne des coefficients
+  occ[,nb+1] <- apply(occ[,1:nb],1,mean) # moyenne des nb d'occurrences
+
+  # résultats en retour
+  ens <- list(auc,coe,occ)
+
+} # fin de la fonction
+
+
+niter <- 300
+n     <- 30
+varx <- c(varquali, varquanti)
+#npred <- -grep('(Type_emploi|Telephone|Nb_pers_charge|Anciennete_domicile|Taux_effort|Nb_credits)', varx)
+#varx <- varx[npred]
+varx
+
+ens <- Ensemble(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=1, crit="aic", nsimul=niter, nb=n)
+
+# évolution de l'AUC
+ens[[1]][,nb+1]
+plot(ens[[1]][,nb+1])
+# coefficients agrégés
+ens[[2]][,nb+1]
+bic3[[3]][,n+1]
+
+
+# grille de score
+score <- aic3[[2]][,n+1]
+sature   <- glm(Cible~.,data=train[,c(varx,"Cible")], family=binomial(link = "logit"))
+sature$xlevels
+names(unlist(sature$xlevels))
+VARIABLE=c("",gsub("[0-9]", "", names(unlist(sature$xlevels))))
+#VARIABLE = c(varquali, varquanti)
+VARIABLE
+MODALITE=c("",as.character(unlist(sature$xlevels)))
+MODALITE
+names=data.frame(VARIABLE,MODALITE,NOMVAR=c("(Intercept)",paste(VARIABLE,MODALITE,sep="")[-1]))
+names
+#regression=data.frame(NOMVAR=names(rf[[2]][,niter+1]),COEF=as.numeric(rf[[2]][,niter+1]))
+#regression=data.frame(NOMVAR=names(ens[[2]][,nb+1]),COEF=as.numeric(ens[[2]][,nb+1]))
+regression=data.frame(NOMVAR=names(score),COEF=as.numeric(score))
+regression
+param = merge(names,regression,all.x=TRUE)[-1]
+param$COEF[is.na(param$COEF)] <- 0
+param
+mini=aggregate(data.frame(min = param$COEF), by = list(VARIABLE = param$VARIABLE), min)
+maxi=aggregate(data.frame(max = param$COEF), by = list(VARIABLE = param$VARIABLE), max)
+total=merge(mini,maxi)
+total$diff = total$max - total$min
+poids_total = sum(total$diff)
+grille = merge(param,mini,all.x=TRUE)
+grille$delta = grille$COEF - grille$min
+grille$POIDS = round((100*grille$delta) / poids_total)
+grille[which(VARIABLE!=""),c("VARIABLE","MODALITE","POIDS")]
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 14
+# Boosting
+# ---------------------------------------------------------------------------------------------------------
+
+library(ada)
+
+# discrete adaboost
+names(test)
+set.seed(235)
+ada.boost <- ada(Cible ~ ., data=credit[id,vars], type="discrete",
+                 loss="exponential", control = rpart.control(cp=0), iter = 5000, nu = 0.01,
+                 test.y=test[,"Cible"], test.x=test[,1:19])
+# iter = nb d'arbres agrégés
+
+# real adaboost
+set.seed(235)
+real.boost.1 <- ada(Cible ~ ., data=credit[id,vars],type="real",
+                    loss="exponential",iter = 5000, nu = 1,
+                    #control = rpart.control(maxdepth = 10, minbucket = 5),
+                    #control = rpart.control(maxdepth=1,cp=-1,minsplit=0),
+                    control = rpart.control(cp=0),
+                    test.y=test[,"Cible"],test.x=test[,1:19])
+
+# pour les stumps : rpart.control(maxdepth=1,cp=-1,minsplit=0)
+set.seed(235)
+boost <- ada(Cible ~ ., data=credit[id,vars], type="discrete",
+             loss="exponential", control = rpart.control(maxdepth=1,cp=-1,minsplit=0), iter = 5000, nu = 1,
+             test.y=test[,"Cible"], test.x=test[,1:19])
+boost <- ada(Cible ~ ., data=credit[id,vars], type="real",
+             loss="exponential", control = rpart.control(maxdepth=1,cp=-1,minsplit=0), iter = 5000, nu = 0.1,
+             test.y=test[,"Cible"], test.x=test[,1:19])
+
+boost
+summary(boost)
+
+# affichage du taux d'erreur
+plot(boost, kappa = F, test=T, tflag=F)
+title(main = "Real Adaboost - Exponential Loss")
+
+# comparaison des taux d'erreur boosting - random forests
+head(boost$model$errs,30)
+plot(rf$err.rate[,1],type='l',ylim=c(.22,.38),col='gray60',xlab="# itérations",ylab='erreur')
+lines(rf$test$err.rate[,1],type='l',lwd=1,lty=1,col='red')
+lines(boost$model$errs[,3],type='l',lwd=2,lty=1,pch=1,col='blue')
+lines(ada.boost$model$errs[,3],type='l',lwd=2,lty=1,col='green')
+#lines(real.boost.1$model$errs[,3],type='l',lwd=2,lty=1,col='blue')
+#lines(real.boost$model$errs[,3],type='l',lwd=2,lty=1,col='green')
+legend("topright",c("RF OOB","RF test","AdaBoost test (pénal = 1)","AdaBoost test (pénal = 0.01)"),col=c("gray60","red","blue","green"),lwd=2)
+
+# prédiction
+library(ROCR)
+test$boost <- predict(boost,test,type='prob')[,2]
+pred <- prediction(test$boost,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+test$boost2000 <- predict(boost,test,type='prob',n.iter=2000)[,2]
+pred <- prediction(test$boost2000,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# simulations sur 30 boostings et calcul AUC moyenne
+names(test)
+set.seed(235)
+nsimul <- 30
+auc  <- matrix(NA,nsimul+1,1)
+bst  <- matrix(NA,nrow(test),nsimul+1)
+for(i in 1:nsimul)
+{
+  rm(boost)
+  boost <- ada(Cible ~ ., data=credit[id,vars],type="real",
+               loss="logistic",
+               control = rpart.control(maxdepth = 10, minbucket = 5),iter = 2000, nu=0.01,
+               test.y=test[,"Cible"],test.x=test[,1:19])
+  bst[,i] <- predict(boost,test,type='prob')[,2]
+  pred <- prediction(bst[,i],test$Cible,label.ordering=c(0,1))
+  auc[i,1] <- performance(pred,"auc")@y.values[[1]]
+} # fin de la boucle
+bst[,nsimul+1] <- apply(bst[,1:nsimul],1,mean) # moyenne des prédictions
+pred <- prediction(bst[,nsimul+1],test$Cible,label.ordering=c(0,1))
+auc[nsimul+1,1] <- performance(pred,"auc")@y.values[[1]]
+auc
+mean(auc[1:30])
+
+# importance des variables
+varplot(boost,type="scores")
+vip <- varplot(boost,type="scores")
+vip
+par(mar = c(8, 4, 4, 0))
+barplot(vip, col = gray(0:length(vip)/length(vip)),
+        ylab='Importance', ylim=c(0,0.03),cex.names = 0.8, las=3)
+title(main = list("Ada : Importance des variables", font = 1, cex = 1.2))
+
+# importance moyenne des variables
+nvar <- ncol(credit[,vars])-1
+vimp <- rep(0,nvar)
+nsimul <- 10
+t1 <- proc.time()
+for(i in 1:nsimul){
+  boost <- ada(Cible ~ ., data=credit[id,vars],type="real",
+               control = rpart.control(maxdepth=1,cp=-1,minsplit=0),iter = 1000, nu = 0.01)
+  vip <- varplot(boost,type="scores")
+  vimp <- vimp + as.numeric(vip[order(names(vip))]) / nsimul
+  cat("i=", i, " time=", (proc.time()-t1)/60, "\n")
+  rm(boost)
+}
+a1 <- sort(names(vip))
+a2 <- order(vimp, decreasing = TRUE)
+dotchart(vimp[a2][nvar:1], a1[a2][nvar:1], main="Ada : Importance moyenne des variables")
+
+# correctif de Mark Culp
+# pondère l'importance des variables par le poids x$model$alpha des arbres
+# dans l'agrégation finale
+varplot2<-function (x, plot.it = TRUE, type = c("none", "scores"), max.var.show = 30,
+                    ...)
+{
+  if (class(x) != "ada") {
+    stop("Object must be of type 'ada'")
+  }
+  if (missing(type)) {
+    type = "none"
+  }
+  iter <- x$iter
+  nm <- x$names
+  vec <- rep(0, length(nm))
+  p = x$dim[2]
+  g1 <- function(i, obj,alp) {
+    if (dim(obj[[i]]$frame)[1] < 2) {
+      return(rep(0, p))
+    }
+    imp <- alp*obj[[i]]$splits[, 3]^2
+    vals <- match(row.names(obj[[i]]$splits), nm)
+    vec = rep(0, p)
+    vec[vals] <- imp
+    vec
+  }
+  alp=x$model$alpha
+  vec <- 1/iter * sqrt(apply(sapply(1:iter, function(i) g1(i,
+                                                           x$model$trees,alp[i])), 1, sum))
+  vars <- order(vec, decreasing = TRUE)
+  n <- length(vec)
+  max.v = max.var.show
+  if (p < max.v)
+    max.v = p
+  if (plot.it == TRUE) {
+    dotchart(vec[vars[max.v:1]], labels = nm[vars[max.v:1]],
+             xlab = "Score", main = "Variable Importance Plot")
+  }
+  if (type == "scores") {
+    vars = vars[1:max.v]
+    t1 <- vec[vars]
+    attr(t1, "names") <- nm[vars]
+    return(t1)
+  }
+}
+varplot2(boost,plot.it=T,type="scores")
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# Boosting avec package gbm
+# ---------------------------------------------------------------------------------------------------------
+
+library(gbm)
+library(ada)
+
+# rappel : real adaboost avec "ada"
+ptm <- proc.time()
+mada <- ada(Cible ~ ., data=credit[id,vars],type="real",
+            loss="exponential",iter = 3000, nu = 0.01,
+            #control = rpart.control(maxdepth = 10, minbucket = 5),
+            #control = rpart.control(maxdepth=1,cp=-1,minsplit=0),
+            control = rpart.control(cp=0),
+            test.y=test[,"Cible"],test.x=test[,1:19])
+proc.time() - ptm
+plot(mada$model$alpha)
+
+# affichage de la courbe du taux d'erreur
+plot(mada, kappa = F, test=T, tflag=F)
+title(main = "Real Adaboost avec package ada - Exponential Loss")
+
+# prédiction avec ada
+library(ROCR)
+ada2000 <- predict(mada,test,type='prob',n.iter=2000)[,2]
+pred <- prediction(ada2000,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# utilisation gbm
+ptm <- proc.time()
+mgbm <- gbm(Cible ~ ., data=credit[id,vars],distribution="adaboost", n.trees = 3000, shrinkage = 0.01,
+            n.minobsinnode = 5,cv.folds = 5,verbose=T)
+proc.time() - ptm
+summary(mgbm,n.trees=2000,method=relative.influence) # plot variable influence
+gbm.perf(mgbm,oobag.curve = T,overlay = TRUE)
+# importance des variables
+plot(mgbm,i.var=1:2)
+
+pretty.gbm.tree(mgbm, i.tree = 100)
+
+# check performance using an out-of-bag estimator
+# OOB underestimates the optimal number of iterations
+(best.iter <- gbm.perf(mgbm,method="OOB"))
+# check performance using 5-fold cross-validation
+(best.iter <- gbm.perf(mgbm,method="cv"))
+
+# prédiction
+gbm2000 <- predict(mgbm,test,n.trees=400)
+# The adaboost method gives the predictions on logit scale. You can convert it to the 0-1 output:
+gbm2000 <- plogis(gbm2000)
+table(gbm2000)
+pred <- prediction(gbm2000,test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# affichage taux d'erreur
+B <- 3000
+boucle <- seq(1,B,by=50)
+errapp <- rep(0,length(boucle))
+errtest <- errapp
+k <- 0
+for (i in boucle){
+  k <- k+1
+  prev_app <- predict(mgbm,newdata=credit[id,vars],n.trees=i)
+  errapp[k] <- sum(as.numeric(prev_app>0)!=credit[id,"Cible"])/nrow(credit[id,])
+  prev_test<- predict(mgbm,newdata=test,n.trees=i)
+  errtest[k] <- sum(as.numeric(prev_test>0)!=test$Cible)/nrow(test)
+}
+
+plot(boucle,errapp,type="l",col="blue",ylim=c(0,0.8),xlab="nombre iterations",ylab="erreur")
+lines(boucle,errtest,col="red")
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# CHAPITRE 15
+# SVM (package e1071)
+# ---------------------------------------------------------------------------------------------------------
+
+library(e1071)
+
+# SVM linéaire
+# -----------------------------------------------
+
+ptm <- proc.time()
+svmlin = svm(Cible ~ ., data=credit[id,vars],kernel="linear",probability=TRUE,cost=1)
+proc.time() - ptm
+print(svmlin)
+summary(svmlin)
+svmlin$coefs
+svmlin$index # indices des vecteurs supports
+svmlin$rho
+svmlin$SV
+table(svmlin$fitted,credit[id,"Cible"])
+
+# détermination des coefficients des prédicteurs - avec e1071
+names(credit)
+x <- model.matrix( ~ . -1 ,data=credit[id,1:19])
+y <- credit[id,20]
+svmlin = svm(x, y,kernel="linear",probability=TRUE,cost=1,scale=T)
+# w <- t(svmlin$coefs) %*% x[svmlin$index,]
+# w <- t(svmlin$coefs) %*% scale(x[svmlin$index,])
+# la ligne précédente ne convient pas car la standardisation ne s'effectue
+# qu'en prenant en compte l'ensembles des points supports et pas l'ensemble des points
+w <- t(svmlin$coefs) %*% svmlin$SV
+# la ligne précédente s'appuie sur les vecteurs supports convenablement centrés-réduits
+w <- t(svmlin$coefs) %*% scale(x[svmlin$index,],apply(x,2,mean),apply(x,2,sd))
+# sinon on peut centrer-réduire avec la moyenne et l'écart-type calculés sur tous les points de x
+# et pas seulement les points supports
+# calcul du score pour données non centrées-réduites
+p2 <- x %*% t(w) - svmlin$rho
+# calcul du score pour données centrées-réduites
+xscaled <- scale(x,apply(x,2,mean),apply(x,2,sd))
+#xscaled <- scale(x,svmlin$x.scale[[1]],svmlin$x.scale[[2]])
+p2 <- xscaled %*% t(w) - svmlin$rho
+p2 <- x %*% t(w/apply(x,2,sd)) - svmlin$rho
+svmlin$rho
+# coefficients du score SVM sur prédicteurs initiaux (avant standardisation)
+w/svmlin$x.scale[[2]]
+w/apply(x,2,sd)
+head(p2)
+# score calculé par e1071
+p1 <- predict(svmlin, newdata=x, decision.values=T)
+p1 <- attr(p1, "decision.values")
+head(p1)
+# comparaison des scores
+cor(p1,p2,method="spearman")
+max(abs(p1-p2))
+plot(p1,p2)
+
+# détermination des coefficients des prédicteurs - avec LiblineaR - noyau linéaire
+#install.packages('LiblineaR')
+library('LiblineaR')
+s <- scale(x)
+(co <- heuristicC(s))
+m <- LiblineaR(data=s,labels=y,type=3,cost=1,bias=TRUE,verbose=T)
+m <- LiblineaR(data=s,labels=y,type=3,cost=1,bias=TRUE,verbose=T,epsilon=0.001)
+m$W # coefficients du modèle SVM à noyau linéaire
+(rho <- m$W[length(m$W)]) # constante (intercept)
+# application du score SVM sur données centrées-réduites
+#st <- scale(xt,apply(x,2,mean),apply(x,2,sd))
+#st <- scale(xt,attr(s,"scaled:center"),attr(s,"scaled:scale"))
+#p1 <- s %*% as.matrix(m$W[1:length(m$W)-1]) + rho
+p1 <- cbind(s,1) %*% t(m$W)
+head(p1)
+cor(p1,p2,method="pearson")
+cor(p1,p2,method="spearman")
+plot(p1,p2)
+# coefficients du score SVM sur prédicteurs initiaux (avant standardisation)
+m$W/apply(x,2,sd)
+
+# détermination des coefficients des prédicteurs - avec kernlab - noyau linéaire
+library(kernlab)
+ksvmlin <- ksvm(x,y,kernel="vanilladot",type = "C-svc",scaled=T,C=1,prob.model = TRUE)
+ksvmlin
+w <- t(unlist(ksvmlin@coef)) %*% xmatrix(ksvmlin)[[1]]
+# xmatrix contient la matrice des vecteurs-supports utilisée pour les calculs
+# (après standardisation éventuelle)
+# variante :
+w <- t(unlist(ksvmlin@coef)) %*% scale(x[unlist(ksvmlin@alphaindex),],apply(x,2,mean),apply(x,2,sd))
+xscaled <- scale(x,apply(x,2,mean),apply(x,2,sd))
+p2 <- xscaled %*% t(w) - ksvmlin@b
+head(p2)
+# comparaison des prédictions
+predksvm = predict(ksvmlin,type="prob",x)
+head(predksvm)
+cor(predksvm[,2],p2,method="spearman")
+plot(predksvm[,2],p2)
+# passage des coefficients sur prédicteurs centrés-réduits
+# à des coefficients sur prédicteurs initiaux
+w/apply(x,2,sd)
+
+# calcul du taux d'erreur
+# par resubstitution 1
+svmlin$fitted
+table(svmlin$fitted,credit[id,"Cible"])
+mean(svmlin$fitted != credit[id,"Cible"]) # 0.2003106
+# par validation croisée
+set.seed(235)
+svmlin = svm(Cible ~ ., data=credit[id,vars],kernel="linear",probability=TRUE,cost=1,cross=10)
+summary(svmlin)
+# AUC sur classe prédite
+library(ROCR)
+pred=prediction(as.numeric(svmlin$fitted),credit[id,"Cible"],label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7324943
+# AUC sur probabilités des classes (= score)
+predsvmlin = predict(svmlin,type="prob",credit[id,vars],probability=TRUE)
+pred=prediction(attr(predsvmlin,"probabilities")[,1],credit[id,"Cible"],label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.8466505
+# taux d'erreur par resubstitution (2e calcul)
+mean(predsvmlin != credit[id,"Cible"]) # 0.2034161
+# écart entre valeurs "predict" et "fitted"
+mean(predsvmlin != svmlin$fitted) # 0.05279503
+table(predsvmlin,svmlin$fitted)
+
+# Generates a scatter plot of the input data of a svm fit for classification models
+# by highlighting the classes and support vectors. Optionally, draws a filled contour plot of the class regions.
+plot(svmlin,credit,Duree_credit ~ Age, svSymbol="x",dataSymbol="o",grid=200)
+
+# application sur échantillon test
+library(ROCR)
+testsvmlin = predict(svmlin,type="prob",test,probability=TRUE)
+pred=prediction(attr(testsvmlin,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7338138
+# taux d'erreur en test
+mean(testsvmlin != test$Cible) # 0.252809
+
+# recherche meilleur paramètre de coût par validation croisée
+set.seed(235)
+svmlin = tune.svm(Cible ~ ., data=credit[id,vars],kernel="linear",cost=10^(-3:1))
+summary(svmlin)
+plot(svmlin)
+svmlin$best.parameters
+svmlin$best.performance
+svmlin$train.ind
+
+# recherche meilleur paramètre de coût sur données de test
+names(test)
+svmlin = tune.svm(Cible ~ ., data=credit[id,vars],kernel="linear",cost=10^(-3:1),
+                  validation.x = test [,-20], validation.y = test [,20],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmlin)
+
+plot(svmlin)
+plot(svmlin, transform.x = log2, transform.y = log2)
+plot(svmlin, type = "perspective", theta = 120, phi = 45)
+
+# AUC en fonction du coût
+svmlin = svm(Cible ~ ., data=credit[id,vars],kernel="linear",probability=TRUE,cost=0.1)
+# apprentissage
+pred=prediction(ifelse(svmlin$fitted=="1",1,0),credit[id,"Cible"],label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+# test
+test$svmlin = predict(svmlin,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmlin,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+# SVM linéaire sur données discrétisées
+# -----------------------------------------------
+
+# AUC en fonction du coût (data frame credit avec Anciennete_emploi en factor)
+svmlin = svm(Cible ~ ., data=credit[id,vars],kernel="linear",probability=TRUE,cost=0.1)
+test$svmlin = predict(svmlin,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmlin,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# AUC en fonction du coût (data frame credit2 après discrétisation)
+svmlin = svm(Cible ~ ., data=train,kernel="linear",probability=TRUE,cost=0.1)
+valid$svmlin = predict(svmlin,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmlin,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# recherche meilleur paramètre de coût sur données de test
+svmlin = tune.svm(Cible ~ ., data=train,kernel="linear",cost=10^(-3:1),
+                  validation.x = valid [,-c(17,21)], validation.y = valid [,17],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmlin)
+svmlin$terms
+
+
+# SVM avec noyau radial
+# -----------------------------------------------
+
+# ajustement des paramètres gamma et C dune SVM  par validation croisée 10-fold,
+# en faisant varier le paramètre dans (0.001, 0.01, 0.1, 1) et la constante de régularisation C de 1 à 10.
+svmrad=tune.svm(Cible ~ ., data=credit[id,vars],kernel="radial",cost=seq(0.1,10,by=0.1),gamma=c(0.001,0.01,0.1,1),
+                validation.x = test [,-20], validation.y = test [,20],
+                tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmrad)
+
+svmrad=tune.svm(Cible ~ ., data=credit[id,vars],kernel="radial",cost=seq(0.1,5,by=0.1),gamma=seq(0.01,0.5,by=0.01),
+                validation.x = test [,-20], validation.y = test [,20],
+                tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmrad)
+plot(svmrad)
+
+# recherche paramètres optimaux par validation croisée
+set.seed(235)
+svmrad=tune.svm(Cible ~ ., data=credit[id,vars],kernel="radial",cost=1:10,gamma=c(0.001,0.01,0.1,1))
+summary(svmrad)
+
+# recherche paramètres optimaux par validation croisée
+set.seed(235)
+svmrad=tune.svm(Cible ~ ., data=credit[id,vars],kernel="radial",cost=seq(0.01,5,by=0.01),gamma=c(0.01,0.1,1))
+summary(svmrad)
+
+# on retient les paramètres gamma = 0.08 et cost = 1.5
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="radial",gamma=0.08,cost=1.5,probability=TRUE)
+test$svmrad = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmrad,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7689449
+
+# on retient les paramètres gamma = 0.1 et cost = 1
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="radial",gamma=0.1,cost=1,probability=TRUE)
+svmrad = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(svmrad,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7691326
+
+# on retient les paramètres par défaut : gamma = 0.02083333 et cost = 1
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="radial",probability=TRUE)
+summary(svm)
+test$svmrad = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmrad,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7643471
+
+# on retient les paramètres gamma = 0.1 et cost = 2
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="radial",gamma=0.1,cost=2,probability=TRUE)
+test$svmrad = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmrad,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7591863
+
+# on retient les paramètres gamma = 0.1 et cost = 1.52
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="radial",gamma=0.1,cost=1.52,probability=TRUE)
+test$svmrad = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmrad,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7642157
+
+# on retient les paramètres gamma = 0.0643 et cost = 1.2
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="radial",gamma=0.0643,cost=1.2,probability=TRUE)
+test$svmrad = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmrad,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7720227
+
+
+# SVM avec noyau radial sur données discrétisées
+# -----------------------------------------------
+
+# ajustement des paramètres gamma et C dune SVM  par validation sur données de test,
+# en faisant varier le paramètre dans (0.001, 0.01, 0.1, 1) et la constante de régularisation C de 1 à 10.
+svmrad=tune.svm(Cible ~ ., data=train,kernel="radial",cost=seq(0.1,10,by=0.1),gamma=c(0.001,0.01,0.1,1),
+                validation.x = valid [,-c(17,21)], validation.y = valid [,17],
+                tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmrad)
+
+svmrad=tune.svm(Cible ~ ., data=train,kernel="radial",cost=seq(0.1,5,by=0.1),gamma=seq(0.01,0.5,by=0.01),
+                validation.x = valid [,-c(17,21)], validation.y = valid [,17],
+                tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmrad)
+plot(svmrad)
+
+# on retient les paramètres gamma = 0.01 et cost = 2.8
+svm <- svm(Cible ~ ., data=train,kernel="radial",gamma=0.01,cost=2.8,probability=TRUE)
+valid$svmrad = predict(svm,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmrad,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7548699
+
+# on retient les paramètres gamma = 0.04 et cost = 1.3
+svm <- svm(Cible ~ ., data=train,kernel="radial",gamma=0.04,cost=1.3,probability=TRUE)
+valid$svmrad = predict(svm,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmrad,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7520549
+
+
+# SVM sigmoïde
+# -----------------------------------------------
+
+svmsig = svm(Cible ~ ., data=credit[id,vars],kernel="sigmoid",probability=TRUE)
+summary(svmsig)
+
+test$svmsig = predict(svmsig,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmsig,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7440604
+
+# ajustement des paramètres sur l'échantillon de test
+svmsig = tune.svm(Cible ~ ., data=credit[id,vars],kernel="sigmoid",cost=seq(1,100,by=0.5),gamma=seq(0.001,0.05,by=0.001),
+                  validation.x = test [,-20], validation.y = test [,20],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmsig)
+svmsig$best.model
+
+# ajustement des paramètres par validation croisée
+set.seed(235)
+tune.svm(Cible ~ ., data=credit[id,vars],kernel="sigmoid",cost=1:100,gamma=c(0.001,0.01,0.1,1))
+
+# on retient les paramètres gamma = 0.01 et cost = 6.5
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="sigmoid",gamma=0.01,cost=6.5,probability=TRUE)
+test$svmsig = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmsig,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.743929
+
+# on retient les paramètres gamma = 0.05 et cost = 1.5
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="sigmoid",gamma=0.05,cost=1.5,probability=TRUE)
+test$svmsig = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmsig,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7319183
+
+# on retient les paramètres gamma = 0.01 et cost = 19
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="sigmoid",gamma=0.01,cost=19,probability=TRUE)
+test$svmsig = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmsig,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7370792
+
+
+# SVM avec noyau sigmoïde sur données discrétisées
+# -----------------------------------------------
+
+names(valid)
+valid$svmsig <- NULL
+
+# ajustement des paramètres gamma et C dune SVM  par validation sur données de test,
+svmsig=tune.svm(Cible ~ ., data=train,kernel="sigmoid",cost=seq(0.5,100,by=0.5),gamma=c(0.0001,0.001,0.01,0.1,1),
+                validation.x = valid [,-17], validation.y = valid [,17],
+                tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmsig)
+svmsig$best.model
+
+# ajustement des paramètres gamma et C dune SVM  par validation sur données de test,
+svmsig=tune.svm(Cible ~ ., data=train,kernel="sigmoid",cost=seq(0.5,100,by=0.5),gamma=seq(0.001,0.01,by=0.001),
+                validation.x = valid [,-17], validation.y = valid [,17],
+                tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmsig)
+svmsig$best.model
+
+# on retient les paramètres gamma = 0.001 et cost = 50
+svm <- svm(Cible ~ ., data=train,kernel="sigmoid",gamma=0.001,cost=50,probability=TRUE)
+valid$svmsig = predict(svm,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmsig,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7585482
+
+# on retient les paramètres gamma = 0.005 et cost = 10
+svm <- svm(Cible ~ ., data=train,kernel="sigmoid",gamma=0.005,cost=10,probability=TRUE)
+valid$svmsig = predict(svm,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmsig,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7584356
+
+
+# SVM avec noyau polynomial de degré 2
+# -----------------------------------------------
+
+svmpol2=svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=2,cross=10)
+summary(svmpol2)
+svmpol2$coefs
+plot(svmpol2,credit,Duree_credit ~ Age,svSymbol=16,dataSymbol=1,grid=200)
+
+svmpol = tune.svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=2,gamma=seq(0.01,1,by=0.01),cost=seq(0.1,10,by=0.1),
+                  validation.x = test [,-20], validation.y = test [,20],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+svmpol$best.model
+
+# affinage de la recherche en incluant la recherche du coefficient coef0
+svmpol = tune.svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=2,gamma=seq(0.01,0.1,by=0.01),cost=seq(0.1,10,by=0.1),coef0=seq(0,5,by=0.1),
+                  validation.x = test [,-20], validation.y = test [,20],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+#summary(svmpol)
+svmpol$best.model
+
+# on retient les paramètres gamma = 0.03 et cost = 2.9
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=2,gamma=0.03,cost=2.9,probability=TRUE)
+test$svmpol2 = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmpol2,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# on retient les paramètres gamma = 0.03 et cost = 1.2 et coef0 = 1
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=2,gamma=0.03,cost=1.2,coef0=1,probability=TRUE)
+test$svmpol2 = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmpol2,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# on retient les paramètres gamma = 0.01 et cost = 0.6 et coef0 = 4.8
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=2,gamma=0.01,cost=0.6,coef0=4.8,probability=TRUE)
+test$svmpol2 = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmpol2,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# on retient les paramètres gamma = 0.02 et cost = 2.9 et coef0 = -0.005
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=2,gamma=0.02,cost=2.9,coef0=-0.005,probability=TRUE)
+test$svmpol2 = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmpol2,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+# SVM avec noyau polynomial de degré 2 sur données discrétisées
+# -----------------------------------------------
+
+svmpol = tune.svm(Cible ~ ., data=train,kernel="polynomial",degree=2,gamma=seq(0.01,1,by=0.01),cost=seq(0.1,10,by=0.1),
+                  validation.x = valid [,-c(17,21,22)], validation.y = valid [,17],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+summary(svmpol)
+svmpol$best.model
+
+# on retient les paramètres gamma = 0.11 et cost = 0.9
+svm <- svm(Cible ~ ., data=train,kernel="polynomial",degree=2,gamma=0.11,cost=0.9,probability=TRUE)
+valid$svmpol2 = predict(svm,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmpol2,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# affinage de la recherche en incluant la recherche du coefficient coef0
+svmpol = tune.svm(Cible ~ ., data=train,kernel="polynomial",degree=2,gamma=seq(0.05,0.2,by=0.01),cost=seq(0.1,2,by=0.1),coef0=seq(0,1,by=0.1),
+                  validation.x = valid [,-17], validation.y = valid [,17],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+svmpol$best.model
+
+# on retient les paramètres gamma = 0.09 et cost = 0.3 et coef0=1
+svm <- svm(Cible ~ ., data=train,kernel="polynomial",degree=2,gamma=0.09,cost=0.3,coef0=1,probability=TRUE)
+valid$svmpol2 = predict(svm,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmpol2,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]] # 0.7565965
+
+
+# SVM avec noyau polynomial de degré 3
+# -----------------------------------------------
+
+svmpol = tune.svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=3,gamma=seq(0.01,1,by=0.01),cost=seq(0.1,10,by=0.1),
+                  validation.x = test [,-20], validation.y = test [,20],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+svmpol$best.model
+
+# on retient les paramètres gamma = 0.07 et cost = 1.9
+# à noter que ces paramètres sont proches de ceux du noyau de degré 2
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=3,gamma=0.07,cost=1.9,probability=TRUE)
+test$svmpol3 = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmpol3,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# on retient les paramètres gamma = 0.07 et cost = 1.4
+# à noter que ces paramètres sont proches de ceux du noyau de degré 2
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=3,gamma=0.07,cost=1.4,probability=TRUE)
+test$svmpol3 = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmpol3,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# affinage de la recherche en incluant la recherche du coefficient coef0
+svmpol = tune.svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=3,gamma=seq(0.01,0.1,by=0.01),cost=seq(0.1,10,by=0.1),coef0=seq(0,1,by=0.1),
+                  validation.x = test [,-20], validation.y = test [,20],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+svmpol$best.model
+
+# on retient les paramètres gamma = 0.03 et cost = 0.6 et coef0 = 0.9
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=3,gamma=0.03,cost=0.6,coef0=0.9,probability=TRUE)
+test$svmpol3 = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmpol3,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# on retient les paramètres gamma = 0.049 et cost = 0.99 et coef0 = 0.076
+svm <- svm(Cible ~ ., data=credit[id,vars],kernel="polynomial",degree=3,gamma=0.049,cost=0.99,coef0=0.076,probability=TRUE)
+test$svmpol3 = predict(svm,type="prob",test,probability=TRUE)
+pred=prediction(attr(test$svmpol3,"probabilities")[,1],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# risque estimé
+mean(test$Cible!=test$svmpol3)
+
+
+# SVM avec noyau polynomial de degré 3 sur données discrétisées
+# -----------------------------------------------
+
+svmpol = tune.svm(Cible ~ ., data=train,kernel="polynomial",degree=3,gamma=seq(0.01,1,by=0.01),cost=seq(0.1,10,by=0.1),
+                  validation.x = valid [,-c(17,21,22,23)], validation.y = valid [,17],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+#summary(svmpol)
+svmpol$best.model
+
+# on retient les paramètres gamma = 0.2 et cost = 0.1
+svm <- svm(Cible ~ ., data=train,kernel="polynomial",degree=3,gamma=0.2,cost=0.1,probability=TRUE)
+valid$svmpol3 = predict(svm,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmpol3,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# affinage de la recherche en incluant la recherche du coefficient coef0
+svmpol = tune.svm(Cible ~ ., data=train,kernel="polynomial",degree=3,gamma=seq(0.01,0.5,by=0.01),cost=seq(0.05,1,by=0.05),coef0=seq(0,1,by=0.1),
+                  validation.x = valid[, -c(17, 21,22)], validation.y = valid[,17],
+                  tunecontrol = tune.control(sampling = "fix", fix=1))
+svmpol$best.model
+
+# on retient les paramètres gamma = 0.05 et cost = 0.3 et coef0 = 1
+svm <- svm(Cible ~ ., data=train,kernel="polynomial",degree=3,gamma=0.05,cost=0.3,coef0 =1, probability=TRUE)
+valid$svmpol3 = predict(svm,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmpol3,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# on retient les paramètres gamma = 0.04 et cost = 0.4 et coef0 = 1
+svm <- svm(Cible ~ ., data=train,kernel="polynomial",degree=3,gamma=0.04,cost=0.4,coef0 =1, probability=TRUE)
+valid$svmpol3 = predict(svm,type="prob",valid,probability=TRUE)
+pred=prediction(attr(valid$svmpol3,"probabilities")[,1],valid$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# SVM (package kernlab)
+# ---------------------------------------------------------------------------------------------------------
+
+library(kernlab)
+
+# kernlab - noyau linéaire
+# -----------------------------------------------
+
+ptm <- proc.time()
+ksvmlin <- ksvm(Cible ~ ., data=credit[id,vars],kernel="vanilladot",
+                type = "C-svc",probability=TRUE,C=1,prob.model = TRUE)
+proc.time() - ptm
+ksvmlin
+kernelf(ksvmlin)
+ksvmlin@alpha
+ksvmlin@coef
+ksvmlin@prob.model
+# prédiction
+predksvm = predict(ksvmlin,type="prob",test)
+head(predksvm)
+library(ROCR)
+pred=prediction(predksvm[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+# corrélation entre prédiction par kernlab et e1071
+cor(predksvm[,2],attr(testsvmlin,"probabilities")[,1])
+
+
+# kernlab - noyau personnalisé
+# -----------------------------------------------
+
+k <- function(x, y) {
+  (sum(x * y) + 1) * exp(0.001 * sum((x - y)^2))
+}
+class(k) <- "kernel"
+ptm <- proc.time()
+ksvmuser = ksvm(Cible ~ .,data=credit[id,vars],kernel=k,
+                type = "C-svc",probability=TRUE,C=1,prob.model = TRUE)
+proc.time() - ptm
+ksvmuser
+predkuk <- outer(i,j,Vectorize(f))
+alpha1 <- i[which(k==max(k),arr.ind=TRUE)[1,1]]
+alpha2 <- j[which(k==max(k),arr.ind=TRUE)[1,2]]
+cat("\n","nb facteurs = ",n," AUC test max = ",max(k)," alpha peel = ",
+    alpha1," alpha paste = ",alpha2)ser = predict(ksvmuser,type="prob",test)
+pred=prediction(predkuser[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+# kernlab - noyau radial gaussien
+# -----------------------------------------------
+
+library(kernlab)
+ptm <- proc.time()
+ksvmrbf = ksvm(Cible ~ ., data=credit[id,vars],kernel="rbfdot",
+               type = "C-svc",probability=TRUE,C=1,prob.model = TRUE,kpar=list(sigma=0.1))
+ksvmrbf = ksvm(Cible ~ ., data=credit[id,vars],kernel="rbfdot",
+               type = "C-svc",probability=TRUE,C=1.2,prob.model = TRUE,kpar=list(sigma=0.0643))
+proc.time() - ptm
+ksvmrbf
+predkrbf = predict(ksvmrbf,type="prob",test)
+head(predkrbf)
+library(ROCR)
+pred=prediction(predkrbf[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+# corrélation entre prédiction par kernlab et e1071
+cor(predkrbf[,2],attr(svmrad,"probabilities")[,1])
+
+# maximisation AUC en test
+maxauc = function(x)
+{
+  ksvmlap = ksvm(Cible ~ ., data=credit[id,vars],kernel="rbfdot",
+                 type = "C-svc",C=x[1],prob.model = TRUE,kpar=list(sigma=x[2]))
+  predklap = predict(ksvmlap,type="prob",test)
+  pred=prediction(predklap[,2],test$Cible,label.ordering=c(0,1))
+  -performance(pred,"auc")@y.values[[1]]
+}
+
+algo <- "Nelder-Mead"
+est = optim(c(1,0.05),maxauc,method=algo)
+est$convergence
+est$par
+est$value
+
+
+# kernlab - noyau radial laplacien
+# -----------------------------------------------
+
+library(kernlab)
+ptm <- proc.time()
+ksvmlap = ksvm(Cible ~ ., data=credit[id,vars],kernel="laplacedot",
+               type = "C-svc",prob.model = TRUE)
+ksvmlap = ksvm(Cible ~ ., data=credit[id,vars],kernel="laplacedot",
+               type = "C-svc",C=1.79,prob.model = TRUE,kpar=list(sigma=0.314))
+proc.time() - ptm
+ksvmlap
+predklap = predict(ksvmlap,type="prob",test)
+head(predklap)
+library(ROCR)
+pred=prediction(predklap[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+# corrélation entre prédiction par kernlab et e1071
+cor(predklap[,2],attr(svmrad,"probabilities")[,1])
+
+# maximisation AUC en test
+maxauc = function(x)
+{
+  ksvmlap = ksvm(Cible ~ ., data=credit[id,vars],kernel="laplacedot",
+                 type = "C-svc",C=x[1],prob.model = TRUE,kpar=list(sigma=x[2]))
+  predklap = predict(ksvmlap,type="prob",test)
+  pred=prediction(predklap[,2],test$Cible,label.ordering=c(0,1))
+  -performance(pred,"auc")@y.values[[1]]
+}
+
+algo <- "Nelder-Mead"
+algo <- "BFGS"
+algo <- "L-BFGS-B"
+algo <- "CG"
+est = optim(c(1,0.05),maxauc,method=algo)
+est$convergence
+est$par
+est$value
+
+
+# kernlab - noyau polynomial
+# -----------------------------------------------
+
+library(kernlab)
+ptm <- proc.time()
+ksvmpol = ksvm(Cible ~ ., data=credit[id,vars],kernel="polydot",
+               type = "C-svc",probability=TRUE,C=2.9,prob.model = TRUE,
+               kpar=list(degree=2,scale=0.03,offset=0))
+proc.time() - ptm
+ksvmpol
+predkpol = predict(ksvmpol,type="prob",test)
+pred=prediction(predkpol[,2],test$Cible,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# maximisation AUC
+maxauc = function(x)
+{
+  ksvmpol = ksvm(Cible ~ ., data=credit[id,vars],kernel="polydot",
+                 type = "C-svc",C=x[1],prob.model = TRUE,
+                 kpar=list(degree=3,scale=x[2],offset=x[3]))
+  predkpol = predict(ksvmpol,type="prob",test)
+  pred=prediction(predkpol[,2],test$Cible,label.ordering=c(0,1))
+  -performance(pred,"auc")@y.values[[1]]
+}
+
+algo <- "Nelder-Mead"
+algo <- "BFGS"
+algo <- "L-BFGS-B"
+algo <- "CG"
+est = optim(c(2.9,0.03,0),maxauc,method=algo)
+est = optim(c(1,0.05,0),maxauc,method=algo)
+est = optim(c(0.6,0.03,0.9),maxauc,method=algo)
+est$convergence
+est$par
+est$value
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+# SVM sur coordonnées factorielles
+# ---------------------------------------------------------------------------------------------------------
+
+library(e1071)
+library(kernlab)
+library(ROCR)
+library(FactoMineR)
+
+summary(credit2)
+credit4 <- credit2
+credit4$Taux_effort <- NULL
+credit4$Anciennete_domicile <- NULL
+credit4$Nb_credits <- NULL
+credit4$Nb_pers_charge <- as.factor(ifelse(credit4$Nb_pers_charge==1,"NbP1","NbP2"))
+str(credit4)
+head(credit4)
+names(credit4)
+
+
+# ACM
+# -----------------------------------------------
+
+ACM <- MCA(credit4, ncp = 32, axes = c(1,2), graph = TRUE, quali.sup = 14)
+ACM$eig
+ACM$var$coord
+
+# nombre de modalités
+modal = apply(credit4[,-14], 2, function(x) nlevels(as.factor(x)))
+# nb de valeurs propres non triviales
+# = nb modalités - nb variables
+sum(modal)-ncol(credit4[,-14])
+# inertie totale = (# modalités / # variables) - 1
+(sum(modal)/ncol(credit4[,-14]))-1
+# inertie totale = 2 = somme des valeurs propres sur ACM sur
+# le tableau disjonctif complet
+sum(ACM$eig[,1])
+
+
+# Test d'une solution (avec kernlab)
+# -----------------------------------------------
+
+naxes <- 2
+x <- ACM$ind$coord[id,1:naxes]
+y <- credit[id,"Cible"]
+xt <- ACM$ind$coord[-id,1:naxes]
+yt <- credit[-id,"Cible"]
+s <- scale(x)
+
+#ksvmlin <- ksvm(y~x,data=cbind(x,y),type="C-svc",kernel="vanilladot",C=1,scaled=c())
+ksvmlin <- ksvm(s,y,type="C-bsvc",kernel="vanilladot",C=1,scaled=F,prob.model = TRUE)
+#ksvmlin <- ksvm(cbind(x[,1],x[,2]),y,type="C-svc",kernel="vanilladot",probability=TRUE,C=1,prob.model = TRUE)
+ksvmlin
+
+# affichage pour 2 axes factoriels
+plot(ksvmlin,data=cbind(x,y))
+plot(ksvmlin,data=x)
+
+# On extrait w and b du modèle
+(w <- colSums(coef(ksvmlin)[[1]] * x[SVindex(ksvmlin),]))
+#(w <- colSums(coef(ksvmlin)[[1]] * x[unlist(alphaindex(ksvmlin)),]))
+(b <- b(ksvmlin))
+
+# autre représentation graphique
+(ys <-ymatrix(ksvmlin))
+(xs <-as.vector(xmatrix(ksvmlin)))
+head(xs)
+as.numeric(y)
+all.equal(ymatrix(ksvmlin),as.numeric(y))
+# affichage des points supports en caractères plus petits
+# les positifs (dossiers risqués) sont des cercles rouges
+# les négatifs (dossiers non risqués) sont des + bleus
+# à noter que les positifs sont tous des points supports
+# cad mal classés ou dans la marge
+
+# représentation avec Axe 2 en abscisse
+plot(x[-SVindex(ksvmlin),2], x[-SVindex(ksvmlin),1],
+     col = ifelse(as.numeric(y)[-SVindex(ksvmlin)]>1,"red","blue"),
+     pch = ifelse(as.numeric(y)[-SVindex(ksvmlin)]>1, 1, 3),lwd=3,
+     xlim=c(min(x[,2]), max(x[,2])), ylim=c(min(x[,1]),
+                                            max(x[,1])),xlab=colnames(x)[2],ylab=colnames(x)[1])
+points(x[SVindex(ksvmlin),2], x[SVindex(ksvmlin),1],
+       col = ifelse(as.numeric(y)[SVindex(ksvmlin)]>1,"red","blue"),
+       pch = ifelse(as.numeric(y)[SVindex(ksvmlin)]>1, 1, 3))
+# tracé des frontières
+-b/w[1]
+-w[2]/w[1]
+-w[1]/w[2]
+abline(b/w[1],w[2]/w[1])
+abline((b+1)/w[1],w[2]/w[1],lty=2)
+abline((b-1)/w[1],w[2]/w[1],lty=2)
+
+# représentation avec Axe 1 en abscisse
+plot(x[-SVindex(ksvmlin),1], x[-SVindex(ksvmlin),2],
+     col = ifelse(as.numeric(y)[-SVindex(ksvmlin)]>1,"red","blue"),
+     pch = ifelse(as.numeric(y)[-SVindex(ksvmlin)]>1, 1, 3),lwd=3,
+     xlim=c(min(x[,1]), max(x[,1])), ylim=c(min(x[,2]),
+                                            max(x[,2])),xlab=colnames(x)[1],ylab=colnames(x)[2])
+points(x[SVindex(ksvmlin),1], x[SVindex(ksvmlin),2],
+       col = ifelse(as.numeric(y)[SVindex(ksvmlin)]>1,"red","blue"),
+       pch = ifelse(as.numeric(y)[SVindex(ksvmlin)]>1, 1, 3))
+# tracé des frontières
+abline(b/w[2],w[1]/w[2])
+abline(-(b+1)/w[2],w[1]/w[2],lty=2)
+abline(-(b-1)/w[2],w[1]/w[2],lty=2)
+
+# v2
+plot(s[-SVindex(ksvmlin),1], s[-SVindex(ksvmlin),2],
+     col = ifelse(as.numeric(y)[-SVindex(ksvmlin)]>1,"red","blue"),
+     pch = ifelse(as.numeric(y)[-SVindex(ksvmlin)]>1, 1, 3),lwd=3,
+     xlim=c(min(s[,1]), max(s[,1])), ylim=c(min(s[,2]),
+                                            max(s[,2])),xlab=colnames(x)[1],ylab=colnames(x)[2])
+points(s[SVindex(ksvmlin),1], s[SVindex(ksvmlin),2],
+       col = ifelse(as.numeric(y)[SVindex(ksvmlin)]>1,"red","blue"),
+       pch = ifelse(as.numeric(y)[SVindex(ksvmlin)]>1, 1, 3))
+# coefficients du modèle
+(w <- colSums(coef(ksvmlin)[[1]] * s[SVindex(ksvmlin),]))
+(b <- b(ksvmlin))
+(norme <- sqrt(w[1]^2+w[2]^2))
+(norme2 <- sqrt(w[1]^2+w[2]^2+b^2))
+# tracé des frontières
+abline(b/norme2,norme/norme2)
+abline((b+norme2)/norme2,norme/norme2,lty=2)
+abline((b-norme2)/norme2,norme/norme2,lty=2)
+
+# prédiction
+library(ROCR)
+#predksvm = predict(ksvmlin,type="prob",cbind(xt[,1],xt[,2]))
+predksvm = predict(ksvmlin,type="prob",xt)
+pred=prediction(predksvm[,2],yt,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+# Coefficients de la solution (avec e1071)
+# -----------------------------------------------
+
+# détermination des coefficients des prédicteurs
+svmlin = svm(x, y,kernel="linear",probability=TRUE,cost=1,scale=F)
+# score calculé par e1071
+p1 <- predict(svmlin, newdata=xt, decision.values=T)
+p1 <- attr(p1, "decision.values")
+head(p1)
+pred=prediction(p1,yt,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+svmlin$index
+SVindex(ksvmlin)
+
+plot(x)
+plot(x[-svmlin$index,1], x[-svmlin$index,2],
+     col = ifelse(as.numeric(y[-svmlin$index])>1,"red","blue"),
+     pch = ifelse(as.numeric(y[-svmlin$index])>1, 1, 3),lwd=3,
+     xlim=c(min(x[,1]), max(x[,1])), ylim=c(min(x[,2]),
+                                            max(x[,2])),xlab=colnames(x)[1],ylab=colnames(x)[2])
+points(x[svmlin$index,1], x[svmlin$index,2],
+       col = ifelse(as.numeric(y[svmlin$index])>1,"red","blue"),
+       pch = ifelse(as.numeric(y[svmlin$index])>1, 1, 3))
+
+w <- t(svmlin$coefs) %*% x[svmlin$index,]
+w <- t(svmlin$coefs) %*% scale(x[svmlin$index,],apply(x,2,mean),apply(x,2,sd))
+# calcul du score pour données non centrées-réduites
+p2 <- xt %*% t(w) - svmlin$rho
+# calcul du score pour données centrées-réduites
+xscaled <- scale(xt,svmlin$x.scale[[1]],svmlin$x.scale[[2]])
+p2 <- xscaled %*% t(w) - svmlin$rho
+svmlin$rho
+# coefficients du score SVM sur prédicteurs initiaux (avant standardisation)
+# à la constante près
+w/svmlin$x.scale[[2]]
+head(p2)
+# comparaison des scores
+cor(p1,p2,method="spearman")
+max(abs(p1-p2))
+
+# passage des coefficients sur coordonnées factorielles
+# aux coefficients sur prédicteurs initiaux
+ACM$var$coord[,1:naxes]
+t(ACM$var$coord[,1:naxes])
+# coefficient de CC [0-200 euros[
+(0.4962056*0.15717369)+(1.658412*0.42565536)+(0.4342413*0.08898376)+(0.5120888*0.55367832)-(0.2799403*0.05418345)-(0.6950526*0.71052167)
+coef <- w %*% t(ACM$var$coord[,1:naxes])
+coef
+
+# utilisation de la fonction "model.matrix" avec une option de contraste
+# pour avoir tous les niveaux (y compris celui de référence)
+X <- model.matrix( ~ .-1,data=credit4[,-which(names(credit4)=="Cible")],
+                   contrasts.arg = lapply(credit4[,-which(names(credit4)=="Cible")], contrasts, contrasts=FALSE))
+head(X,1)
+# utilisation d'un autre package pour générer les indicatrices avec les noms
+# des modalités sans les noms de leurs variables, comme FactoMineR
+# (afin de permettre le rapprochement)
+library(caret)
+X <- dummyVars( ~ ., data=credit4[-id,-which(names(credit4)=="Cible")],levelsOnly = T)
+X <- predict(X,newdata=credit4[-id,-which(names(credit4)=="Cible")])
+p3 <- X %*% t(coef)
+head(p3)
+# comparaison des scores
+cor(p1,p3,method="pearson")
+cor(p1,p3,method="spearman")
+plot(p1,p3)
+pred=prediction(p3,yt,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+
+# variante : ACM avec package MASS
+# -----------------------------------------------
+
+library(MASS)
+str(credit4)
+ACM2 <- mca(credit4[,-14],nf=32)
+ACM2$d # valeurs singulières
+ACM2$d^2 # valeurs propres
+
+# inertie totale = 2 = somme des valeurs propres sur ACM sur
+# le tableau disjonctif complet
+sum(ACM2$d^2)
+
+ACM2$cs[,1:3]
+ACM2$rs[1:5,1:5]
+
+naxes <- 6
+# on multiplie les coordonnes factorielles des individus par p*sqrt(n)
+# pour se ramener aux coordonnées factorielles usuelles
+x <- ACM2$rs[id,1:naxes]*(ncol(credit4)-1)*sqrt(nrow(credit4))
+x <- ACM2$rs[id,1:naxes]
+y <- credit[id,"Cible"]
+xt <- ACM2$rs[-id,1:naxes]*(ncol(credit4)-1)*sqrt(nrow(credit4))
+xt <- ACM2$rs[-id,1:naxes]
+yt <- credit[-id,"Cible"]
+# on multiplie les coordonnes factorielles des variables par p*sqrt(n)*sqrt(eigenvalue)
+# pour se ramener aux coordonnées factorielles usuelles
+ACM2$cs <- ACM2$cs*(ncol(credit4)-1)*sqrt(nrow(credit4))*ACM2$d
+# en effet : coord_var(MASS) = coord_var(FactoMineR) / (p * sqrt(n) * sqrt(eigenvalue))
+
+# détermination des coefficients des prédicteurs
+svmlin = svm(x, y,kernel="linear",probability=TRUE,cost=1,scale=F)
+# score calculé par e1071
+p1 <- predict(svmlin, newdata=xt, decision.values=T)
+p1 <- attr(p1, "decision.values")
+head(p1)
+pred=prediction(p1,yt,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+# coefficients si prédicteurs non centrés-réduits
+w <- t(svmlin$coefs) %*% x[svmlin$index,]
+# coefficients si prédicteurs centrés-réduits
+w <- t(svmlin$coefs) %*% scale(x[svmlin$index,],apply(x,2,mean),apply(x,2,sd))
+# calcul du score pour données non centrées-réduites
+p2 <- xt %*% t(w) - svmlin$rho
+head(p2)
+# calcul du score pour données centrées-réduites
+xscaled <- scale(xt,apply(x,2,mean),apply(x,2,sd))
+p2 <- xscaled %*% t(w) - svmlin$rho
+# coefficients du score SVM sur prédicteurs initiaux (avant standardisation)
+# à la constante près
+w/apply(x,2,sd)
+
+# comparaison des scores
+cor(p1,p2,method="spearman")
+plot(p1,p2)
+
+# passage des coefficients sur coordonnées factorielles
+# aux coefficients sur prédicteurs initiaux
+coef <- (w/apply(x,2,sd)) %*% t(ACM2$cs[,1:naxes])
+coef <- w %*% t(scale(ACM2$cs[,1:naxes],apply(x,2,mean),apply(x,2,sd)))
+# facteurs non centrés-réduits
+coef <- w %*% t(ACM2$cs[,1:naxes])
+# utilisation d'un autre package pour générer les indicatrices avec les noms
+# des modalités sans les noms de leurs variables, comme FactoMineR
+# (afin de permettre le rapprochement)
+library(caret)
+X <- dummyVars( ~ ., data=credit4[-id,-which(names(credit4)=="Cible")],levelsOnly = F)
+X <- predict(X,newdata=credit4[-id,-which(names(credit4)=="Cible")])
+p3 <- X %*% t(coef)
+head(p3)
+# comparaison des scores
+cor(p1,p3,method="pearson")
+cor(p1,p3,method="spearman")
+plot(p1,p3)
+pred=prediction(p3,yt,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+
+# construction de la grille de score
+var <- as.vector(unlist(strsplit(colnames(coef),".",fixed=T)))
+param <- data.frame(VARIABLE=var[seq(1,2*length(coef),by=2)],MODALITE=var [seq(2,2*length(coef),by=2)],COEF=as.numeric(coef))
+param
+
+# calcul du poids total pour normalisation
+mini=aggregate(data.frame(min = param$COEF), by = list(VARIABLE = param$VARIABLE), min)
+maxi=aggregate(data.frame(max = param$COEF), by = list(VARIABLE = param$VARIABLE), max)
+total=merge(mini,maxi)
+total$diff = total$max - total$min
+poids_total = sum(total$diff)
+# calcul des poids par modalité
+grille = merge(param,mini,all.x=TRUE)
+grille$delta = grille$COEF - grille$min
+grille$POIDS = round((100*grille$delta) / poids_total)
+#grille[which(grille$VARIABLE!=""),c("VARIABLE","MODALITE","COEF","POIDS")]
+grille[order(grille$VARIABLE,grille$MODALITE),c("VARIABLE","MODALITE","POIDS")]
+
+
+# Recherche d'une solution optimale en termes d'AUC
+# -----------------------------------------------
+
+# noyau linéaire avec package kernlab
+f <- function(i)
+{
+  ksvmlin <- ksvm(x,y,type="C-svc",kernel="vanilladot",C=i,prob.model = TRUE,verbose=F)
+  predksvm = predict(ksvmlin,type="prob",xt)
+  pred=prediction(predksvm[,2],yt,label.ordering=c(0,1))
+  performance(pred,"auc")@y.values[[1]]
+}
+f(1)
+
+# noyau linéaire avec package e1071
+library(e1071)
+f <- function(i)
+{
+  ksvm <- svm(x,y,kernel="linear",cost=i,probability=TRUE)
+  predksvm = predict(ksvm,type="prob",xt,probability=TRUE)
+  pred=prediction(attr(predksvm,"probabilities")[,1],yt,label.ordering=c(0,1))
+  performance(pred,"auc")@y.values[[1]]
+}
+f(0.33)
+
+# noyau radial avec package e1071
+library(e1071)
+f <- function(i,j)
+{
+  ksvm <- svm(x,y,kernel="radial",cost=i,gamma=j,probability=TRUE)
+  predksvm = predict(ksvm,xt,probability=TRUE)
+  pred=prediction(attr(predksvm,"probabilities")[,1],yt,label.ordering=c(0,1))
+  performance(pred,"auc")@y.values[[1]]
+}
+f(0.05,0.01)
+
+# noyau polynomial avec package e1071
+library(e1071)
+f <- function(i,j)
+{
+  ksvm <- svm(x,y,kernel="polynomial",degree=2,cost=i,gamma=j,probability=TRUE)
+  predksvm = predict(ksvm,type="prob",xt,probability=TRUE)
+  pred=prediction(attr(predksvm,"probabilities")[,1],yt,label.ordering=c(0,1))
+  performance(pred,"auc")@y.values[[1]]
+}
+f(3,0.03)
+
+
+# utilisation de la fonction f précédente pour trouver
+# le nb d'axes factoriels et le coût maximisant l'AUC en test
+# noyau linéaire
+for (n in seq(2,12,by=1))
+{
+  i <- seq(0.01,2,by=0.01)
+  x <- ACM$ind$coord[id,1:n]
+  xt <- ACM$ind$coord[-id,1:n]
+  k <- Vectorize(f)(i)
+  cout <- i[which(k==max(k),arr.ind=TRUE)[1]]
+  cat("\n","nb facteurs = ",n," AUC test max = ",max(k)," coût = ",
+      cout)
+}
+
+# utilisation de la fonction f précédente pour trouver
+# le nb d'axes factoriels et le coût maximisant l'AUC en test
+# noyau radial ou polynomial
+for (n in seq(2,12,by=1))
+{
+  i <- seq(0.1,5,by=0.1)
+  j <- seq(0.01,0.5,by=0.01)
+  x <- ACM$ind$coord[id,1:n]
+  xt <- ACM$ind$coord[-id,1:n]
+  k <- outer(i,j,Vectorize(f))
+  cout <- i[which(k==max(k),arr.ind=TRUE)[1,1]]
+  gamma <- j[which(k==max(k),arr.ind=TRUE)[1,2]]
+  cat("\n","nb facteurs = ",n," AUC test max = ",max(k)," coût = ",
+      cout," gamma = ",gamma)
+}
+
+
+# modèle logit sur coordonnées factorielles (pour comparaison avec SVM)
+# -----------------------------------------------
+
+naxes <- 6
+x <- ACM$ind$coord[id,1:naxes]
+y <- credit[id,"Cible"]
+xt <- ACM$ind$coord[-id,1:naxes]
+yt <- credit[-id,"Cible"]
+library(ROCR)
+
+# modèle logit sur coordonnées factorielles (pour comparaison avec SVM)
+acm <- as.data.frame(cbind(x,y))
+acm$y <- acm$y - 1
+#head(acm)
+logit <- glm(y~., data=acm,family=binomial(link = "logit"))
+summary(logit)
+predlogit <- predict(logit, newdata=as.data.frame(xt), type="response")
+pred=prediction(predlogit,yt,label.ordering=c(0,1))
+performance(pred,"auc")@y.values[[1]]
+# le modèle logit sur 6 axes factoriels est légèrement plus discriminant
+# que le modèle SVM à noyau linéaire
+
+# régression logistique avec sélection pas à pas
+# il faut renommer les variables à cause des " " dans leurs noms
+names(acm)
+colnames(acm) <- c(paste("Dim",1:naxes,sep=""),'y')
+(predicteurs <- -grep('y', names(acm)))
+(formule <- as.formula(paste("y ~ ",paste(names(acm[,predicteurs]),collapse="+"))))
+
+# sélection ascendante sur les axes factoriels
+modcst <- glm(y~1,data=acm,family=binomial(link = "logit"))
+summary(modcst)
+(formule <- as.formula(paste("y ~ ",paste("Dim",1:6,sep="",collapse="+"))))
+selection <- glm(formule, data=acm,family=binomial(link = "logit"))
+selection <- step(modcst,direction="forward",trace=TRUE,k = log(nrow(acm)),
+                  selection <- step(modcst,direction="forward",trace=TRUE,k = 2,
+                                    scope=list(upper=formule))
+                  summary(selection)
+                  xtest <- as.data.frame(xt)
+                  names(xtest)
+                  colnames(xtest) <- paste("Dim",1:naxes,sep="")
+                  predlogit <- predict(selection, newdata=xtest, type="response")
+                  pred=prediction(predlogit,yt,label.ordering=c(0,1))
+                  performance(pred,"auc")@y.values[[1]]
+
+                  # passage des coefficients sur coordonnées factorielles
+                  # aux coefficients sur prédicteurs initiaux
+                  naxes <- 6
+                  t(ACM$var$coord[,1:naxes])
+                  logit$coefficients[1:naxes+1]
+                  (coef <- logit$coefficients[1:naxes+1] %*% t(ACM$var$coord[,1:naxes]))
+
+                  # utilisation d'un autre package pour générer les indicatrices avec les noms
+                  # des modalités sans les noms de leurs variables, comme FactoMineR
+                  # (afin de permettre le rapprochement)
+                  summary(logit)
+                  library(caret)
+                  X <- dummyVars( ~ ., data=credit4[-id,-which(names(credit4)=="Cible")],levelsOnly = T)
+                  X <- predict(X,newdata=credit4[-id,-which(names(credit4)=="Cible")])
+                  p3 <- X %*% t(coef)
+                  head(p3)
+                  p1 <- predict(logit, newdata=as.data.frame(xt), type="response")
+                  # comparaison des scores
+                  cor(p1,p3,method="pearson")
+                  cor(p1,p3,method="spearman")
+                  plot(p1,p3)
+                  pred=prediction(p3,yt,label.ordering=c(0,1))
+                  performance(pred,"auc")@y.values[[1]]
+
+
+
+                  # ---------------------------------------------------------------------------------------------------------
+                  # CHAPITRE 16
+                  # Réseaux de neurones
+                  # ---------------------------------------------------------------------------------------------------------
+
+                  # On charge le package nnet pour les réseaux de neurones (perceptron à une couche cachée)
+                  library(nnet)
+                  # paramètres importants :
+                  # size : nb noeuds dans couche cachée
+                  # decay : paramètre de régularisation analogue à celui utilisé en régression ridge
+                  # decay pénalise la norme du vecteurs des paramètres et contraint ainsi la flexibilité du modèle
+
+                  library(pROC)
+                  library(ROCR)
+
+                  # valeurs possibles de size :
+                  (ncol(train)-1)*2
+                  2*sqrt((ncol(train)-1)*2)
+
+                  # données brutes
+                  train  <- credit[id,]
+                  train$Cle <- NULL
+                  valid  <- credit[-id,]
+                  valid$Cle <- NULL
+                  # données travaillées
+                  train  <- credit2[id,]
+                  valid  <- credit2[-id,]
+                  summary(train)
+
+                  # réseau avec sortie sigmoïde
+                  seed <- 235
+                  set.seed(seed)
+                  rn <- nnet(Cible~., data=train, size=10, decay=2.2, maxit=200, softmax=F)
+                  #summary(rn)
+                  # application du réseau
+                  valid$rn <- predict(rn, newdata = valid, type = "raw")
+                  head(valid$rn)
+                  auc(valid$Cible,valid$rn)
+
+                  # réseau avec sortie softmax
+                  seed <- 235
+                  set.seed(seed)
+                  rn <- nnet(class.ind(Cible)~., data=train, size=10, decay=2.2, maxit=200, softmax=T)
+                  #summary(rn)
+                  # application du réseau
+                  valid$rn <- predict(rn, newdata = valid, type = "raw")[,2]
+                  head(valid$rn)
+                  auc(valid$Cible,valid$rn)
+                  # l'AUC est parfois plus basse avec softmax
+
+
+                  # optimisation des paramètres size et decay
+                  library(e1071)
+                  # optimisation sur échantillon de test
+                  names(valid)
+                  valid$rn <- NULL
+                  optirn <- tune.nnet(Cible ~ ., data=train,size=1:20,decay=seq(0.1,5,by=0.1),
+                                      validation.x = valid [,-17], validation.y = valid [,17],
+                                      tunecontrol = tune.control(sampling = "fix", fix=1))
+                  # optimisation par validation croisée
+                  optirn <- tune.nnet(Cible~., data=train,size=1:10,decay=0:10)
+                  # paramètres optimaux
+                  optirn
+                  plot(optirn)
+
+
+                  # calcul de l'AUC en test pour chaque combinaison (size,decay)
+                  f <- function(i,j)
+                  {
+                    set.seed(seed)
+                    #cat("\n","size = ",i," decay = ",j," ")
+                    rn <- nnet(Cible~., data=train, size=i, decay=j, maxit=100, trace=FALSE)
+                    auc(valid$Cible,predict(rn, newdata = valid, type = "raw"))
+                    #pred <- prediction(predict(rn, newdata = valid, type = "raw"),valid$Cible,label.ordering=c(0,1))
+                    #performance(pred,"auc")@y.values[[1]]
+                  }
+                  f(2,1)
+                  f(1,1.5)
+
+                  # calcul de l'AUC en test pour chaque combinaison (size,decay) - variante softmax
+                  f <- function(i,j)
+                  {
+                    set.seed(seed)
+                    rn <- nnet(class.ind(Cible)~., data=train, size=i, decay=j, maxit=200, softmax=T, trace=FALSE)
+                    auc(valid$Cible,predict(rn, newdata = valid, type = "raw")[,2])
+                    #pred <- prediction(predict(rn, newdata = valid, type = "raw"),valid$Cible,label.ordering=c(0,1))
+                    #performance(pred,"auc")@y.values[[1]]
+                  }
+                  f(2,0.1)
+
+                  # utilisation de la fonction f précédente
+                  i <- seq(1,20,by=1)
+                  j <- seq(0.1,5,by=0.1)
+                  ptm <- proc.time()
+                  k <- outer(i,j,Vectorize(f))
+                  proc.time() - ptm
+                  max(k)
+                  which.max(k)
+                  which(k==max(k),arr.ind=TRUE)
+                  (size <- i[which(k==max(k),arr.ind=TRUE)[1]])
+                  (decay <- j[which(k==max(k),arr.ind=TRUE)[2]])
+                  which(k==min(k),arr.ind=TRUE)
+
+                  persp(i,j,k)
+                  library(rgl)
+                  persp3d(i,j,k)
+                  contour(i,j,k)
+                  # heatmap
+                  image(i,j,k, col=gray((0:32)/32))
+                  image(i,j,k, col=gray((64:18)/64))
+                  box() # pour entourer le graphique
+
+
+
+                  # ---------------------------------------------------------------------------------------------------------
+                  # Boosting de réseaux de neurones
+                  # ---------------------------------------------------------------------------------------------------------
+
+                  library(nnet)
+                  library(ROCR)
+
+                  # discrete adaboost - avec correctif pour erreurs > 0,5
+                  nnet.adaboost = function(apprent, validat, M, seed, formule, noeuds=2, penal=1)
+                  {
+                    n <- nrow(apprent)
+                    w <- rep(1/n, n)
+                    rep <- 0
+                    auc <- matrix(0,M,1)
+
+                    for(i in 1:M)
+                    {
+                      w <- w/sum(w)
+                      set.seed(seed)
+                      s <- sort(sample(n,n,replace=T,prob=w))
+                      rn <- nnet(formule, data = apprent[s,], size=noeuds, decay=penal, softmax = TRUE, maxit=100, trace=F)
+                      pred <- predict(rn, apprent, type = "class")
+                      badPred <- 1 - as.numeric(pred == apprent$Cible)
+                      tauxErr <- sum(badPred * w) / sum(w)
+                      if(tauxErr < 0.5 & tauxErr != 0)
+                      {
+                        alpha <- log((1-tauxErr) / tauxErr)
+                        w <- w * exp(alpha*badPred)
+                      }
+                      if(tauxErr >= 0.5)
+                      {
+                        alpha <- 0
+                        w <- rep(1/n, n)
+                      }
+                      rep <- rep + (alpha * predict(rn, newdata = validat, type = "raw")[,2])
+                      #rep <- rep + (alpha * predict(rn, newdata = validat, type = "raw"))
+                      pred <- prediction(rep,validat$Cible,label.ordering=c(0,1))
+                      auc[i] <- performance(pred,"auc")@y.values[[1]]
+                    }
+
+                    return(list(auc,rep))
+                  }
+
+                  # discrete adaboost
+                  discrete.adaboost = function(apprent, validat, M, seed, formule, noeuds=2, penal=1)
+                  {
+                    n <- nrow(apprent)
+                    w <- rep(1/n, n)
+                    rep <- 0
+                    auc <- matrix(0,M,1)
+
+                    for(i in 1:M)
+                    {
+                      w <- w/sum(w)
+                      set.seed(seed)
+                      s <- sort(sample(n,n,replace=T,prob=w))
+                      rn <- nnet(formule, data = apprent[s,], size=noeuds, decay=penal, softmax = TRUE, maxit=100, trace=F)
+                      pred <- predict(rn, apprent, type = "class")
+                      badPred <- 1 - as.numeric(pred == apprent$Cible)
+                      tauxErr <- sum(badPred * w) / sum(w)
+                      if(tauxErr != 0)
+                      {
+                        alpha <- log((1-tauxErr) / tauxErr)
+                        w <- w * exp(alpha*badPred)
+                      }
+                      rep <- rep + (alpha * predict(rn, newdata = validat, type = "raw")[,2])
+                      #rep <- rep + (alpha * predict(rn, newdata = validat, type = "raw"))
+                      pred <- prediction(rep,validat$Cible,label.ordering=c(0,1))
+                      auc[i] <- performance(pred,"auc")@y.values[[1]]
+                    }
+
+                    rep <- rep/M
+                    return(list(auc,rep))
+                  }
+
+                  # real adaboost
+                  real.adaboost = function(apprent, validat, M, seed, formule, noeuds=2, penal=1)
+                  {
+                    n <- nrow(apprent)
+                    w <- rep(1/n, n)
+                    rep <- 0
+                    auc <- matrix(0,M,1)
+
+                    for(i in 1:M)
+                    {
+                      w <- w/sum(w,na.rm=TRUE) # gérer le cas où un poids w est si petit qu'il vaut NaN
+                      set.seed(seed)
+                      s <- sort(sample(n,n,replace=T,prob=w))
+                      rn <- nnet(formule, data = apprent[s,], size=noeuds, decay=penal, softmax = TRUE, maxit=100, trace=F)
+                      pred <- min(predict(rn, apprent, type = "raw")[,2],0.999999)
+                      alpha <- log(pred/(1-pred))/2
+                      signe = ifelse(apprent$Cible == 1,1,-1)
+                      w <- w * exp(-signe*alpha)
+                      rep <- rep + predict(rn, newdata = validat, type = "raw")[,2]
+                      auc[i] <- performance(prediction(rep,validat$Cible,label.ordering=c(0,1)),"auc")@y.values[[1]]
+                    }
+
+                    rep <- rep/M
+                    return(list(auc,rep))
+                  }
+
+                  valid$Cle <- NULL
+
+                  f <- function(i,j)
+                  {
+                    seed <- 235
+                    formule = class.ind(Cible)~.
+                    adaboost <- real.adaboost(apprent=train, validat=valid, M=3000, seed=seed, formule = formule,
+                                              noeuds=i, penal=j)
+                    # résultats en retour
+                    return(list(max(adaboost[[1]]),which.max(adaboost[[1]])))
+                  }
+                  f(15,0.01)
+
+                  # utilisation de la fonction f précédente
+                  i <- c(2,5,10,15,20)
+                  j <- c(1,0.1,0.01,0.001)
+                  k <- outer(i,j,Vectorize(f))
+
+                  seed <- 235
+                  formule = class.ind(Cible)~.
+                  adaboost <- discrete.adaboost(apprent=train, validat=valid, M=5000, seed=seed, formule = formule,
+                                                noeuds=2, penal=1)
+                  summary(adaboost[[2]])
+                  max(adaboost[[1]])
+                  which.max(adaboost[[1]])
+
+
+
+                  # ---------------------------------------------------------------------------------------------------------
+                  # Forêts aléatoires de réseaux de neurones
+                  # ---------------------------------------------------------------------------------------------------------
+
+                  #install.packages('gplots')
+                  library(nnet)
+                  library(ROCR)
+
+                  table(credit$Objet_credit)
+                  credit$Objet_credit[credit$Objet_credit == "A410"] <- "A48"
+                  table(credit$Objet_credit)
+                  train  <- credit[id,]
+                  valid  <- credit[-id,]
+                  summary(valid)
+                  str(train)
+
+                  library(car)
+                  credit2$Objet_credit <- recode(credit$Objet_credit,"'A40'='Voiture neuve';
+'A41'='Voiture occasion';c('A42','A44','A45')='Intérieur';
+'A43'='Vidéo - HIFI';c('A46','A48','A410')='Etudes';
+'A47'='Vacances';'A49'='Business';else='Autres'")
+                  train  <- credit2[id,]
+                  valid  <- credit2[-id,]
+
+                  varX <- c(varquali, varquanti)
+                  varY <- "Cible"
+                  nsimul <- 10
+                  nb_var <- 2
+                  nobs <- nrow(train)
+                  y <- train[,varY]
+                  predic   <- matrix(NA,nrow(valid),nsimul)
+                  auc      <- matrix(0,nsimul,1)
+                  varsel   <- matrix(0,nsimul,nb_var)
+                  sv <- sample(length(varX), nb_var, replace=F)
+                  si <- sample(nobs,nobs,replace=T)
+                  i <- 1
+                  (varsel[i,] <- sv)
+                  #sv <- c(1,2,17)
+                  cible <- train[si,varY]
+                  varex <- train[si,varX[sv]]
+                  head(train[si,varx[sv]])
+                  head(train[,varX[sv]])
+                  train1 <- as.data.frame(train[si,varX[sv]])
+                  colnames(train1)=varX[sv]
+                  names(train1)
+                  head(train1)
+                  rn <- nnet(cible~., data = train1, size=2, decay=1, softmax = F, maxit=100, trace=F)
+                  rn <- nnet(cible~., data = train[,c(varY,varX[sv])], size=2, decay=1, softmax = F, maxit=100, trace=F)
+
+                  rn <- nnet(cible~varex, data = train[si,c(varY,varX[sv])], size=2, decay=1, softmax = F, maxit=100, trace=F)
+                  rn <- nnet(class.ind(cible)~., data = train[si,varx[sv]], size=2, decay=1, softmax = T, maxit=100, trace=F)
+                  summary(rn)
+                  predict(rn, newdata = valid, type = "raw")
+                  predic[,i] <- predict(rn, newdata = valid, type = "raw")
+                  #predic[,i] <- predict(rn, newdata = valid, type = "raw")[,2] # softmax
+                  head(predic[,1])
+                  if (i == 1) {moypred <- predic[,i]} else {moypred <- apply(predic[,1:i],1,mean)}
+                  moypred
+                  # calcul de lAUC des i premiers modèles agrégés
+                  cible <- valid[,varY]
+                  pred <- prediction(moypred,cible,label.ordering=c(0,1))
+                  (auc[i] <- performance(pred,"auc")@y.values[[1]])
+
+
+                  nnet.forest = function(apprent, validat, varY, varX, nb_var, nsimul, seed, noeuds=2, penal=1)
+                  {
+
+                    nobs <- nrow(apprent)
+                    y <- apprent[,varY]
+                    predic   <- matrix(NA,nrow(validat),nsimul)
+                    auc      <- matrix(0,nsimul,1)
+                    varsel   <- matrix(0,nsimul,nb_var)
+
+                    for(i in (1:nsimul))
+                    {
+
+                      # tirage aléatoire simple des variables
+                      sv <- sort(sample(length(varX), nb_var, replace=F))
+                      varsel[i,] <- sv
+
+                      # tirage aléatoire avec remise de l'échantillon d'apprentissage
+                      si <- sort(sample(nobs,nobs,replace=T))
+
+                      # réseau de neurones
+                      cible <- apprent[si,varY]
+                      explvar <- as.data.frame(apprent[si,varX[sv]])
+                      colnames(explvar) <- varX[sv]
+                      #rn <- nnet(cible~., data = apprent[si,varX[sv]], size=noeuds, decay=penal, softmax = F, maxit=200, trace=F)
+                      # variante : tirage aléatoire des paramètres
+                      #noeuds <- sample(seq(1,20,1),1)
+                      #penal  <- sample(c(1,0.1,0.01,0.001),1)
+                      #rn <- nnet(cible~., data = explvar, size=noeuds, decay=penal, softmax = F, maxit=100, trace=F)
+                      # variante : randomisation de la largeur de la plage des poids initiaux
+                      #plage <- runif(1,min=0.1,max=0.9)
+                      plage <- 1
+                      #plage <- rnorm(1,0.5,0.17)
+                      rn <- nnet(cible~., data = explvar, size=noeuds, decay=penal, softmax = F, maxit=100, trace=F, rang=plage)
+
+                      # application du modèle à l'échantillon de test
+                      predic[,i] <- predict(rn, newdata = validat, type = "raw")
+                      # calcul de lAUC des i premiers modèles agrégés
+                      if (i == 1) {moypred <- predic[,i]} else {moypred <- rowMeans(predic[,1:i])}
+                      cible <- validat[,varY]
+                      pred <- prediction(moypred,cible,label.ordering=c(0,1))
+                      auc[i] <- performance(pred,"auc")@y.values[[1]]
+
+                    } # fin de la boucle
+
+                    # résultats en retour
+                    rf <- list(auc,predic,varsel)
+
+                  } # fin de la fonction
+
+                  niter <- 500
+                  # appel de la fonction
+                  #(varx <- c(varquali, varquanti))
+                  ptm <- proc.time()
+                  rf <- nnet.forest(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=3, nsimul=niter, seed=seed, noeuds=2, penal=0)
+                  proc.time() - ptm
+
+                  # AUC
+                  which.max(rf[[1]])
+                  max(rf[[1]])
+                  tail(rf[[1]])
+                  plot(rf[[1]],xlab = '# agrégations', ylab = 'AUC')
+                  # prédiction moyenne
+                  rowMeans(rf[[2]][,1:100])
+                  # AUC
+                  pred <- prediction(rowMeans(rf[[2]][,1:100]),valid$Cible,label.ordering=c(0,1))
+                  pred <- prediction(rf[[2]][,19],valid$Cible,label.ordering=c(0,1))
+                  performance(pred,"auc")@y.values[[1]]
+                  # AUC de chacun des modèles neuronaux agrégés
+                  roc <- function(i) {
+                    pred <- prediction(rf[[2]][,i],valid$Cible,label.ordering=c(0,1))
+                    performance(pred,"auc")@y.values[[1]] }
+                  auctest <- Vectorize(roc)(1:niter)
+                  length(which(auctest>0.7))
+                  length(which(auctest>0.75))
+                  barplot(Vectorize(roc)(1:niter),names.arg=seq(1,niter),cex.names = 0.8,las=3,ylim=c(0,0.8),ylab='AUC en test')
+                  abline(h=c(0.7,0.75),lty=2)
+                  # liste des variables pour chacun des modèles agrégés
+                  rf[[3]]
+                  # liste des variables donnant un modèle avec AUC > 0.7
+                  rf[[3]][which(auctest>0.6),]
+                  table(rf[[3]][which(auctest>0.6),])
+
+                  # balayage des valeurs du nb d'unités cachées et du weight decay
+                  f <- function(i,j)
+                  {
+                    rf <- nnet.forest(apprent=train, validat=valid, varY="Cible", varX=varx, nb_var=nbpred, nsimul=niter, noeuds=i, penal=j)
+                    # résultats en retour
+                    #return(list(max(rf[[1]]),which.max(rf[[1]]),rf[[1]]))
+                    return(max(rf[[1]]))
+                  }
+                  rfnn <- f(1,0)
+                  rfnn[[1]]
+
+                  # utilisation de la fonction f précédente
+                  niter <- 500
+                  i <- c(2,5,10,15,20)
+                  j <- c(1,0.1,0.01,0.001,0)
+                  i <- c(5,10,15)
+                  j <- c(0.1,0.01)
+                  nbpred <- 1
+                  k <- outer(i,j,Vectorize(f))
+                  k
+                  nbpred <- 2
+                  k <- outer(i,j,Vectorize(f))
+                  k
+
+                  persp(i,-j,k)
+                  library(rgl)
+                  persp3d(i,-j,k)
+
+
+
+                  # ---------------------------------------------------------------------------------------------------------
+                  # ANNEXE 1
+                  # Détection des règles d'association
+                  # ---------------------------------------------------------------------------------------------------------
+
+                  library(arules)
+
+                  # transformation de l'ensemble des variables qualitatives en facteurs
+                  vardiscr <- c("Cible","Comptes", "Epargne", "Historique_credit", "Objet_credit",
+                                "Situation_familiale", "Garanties", "Biens", "Autres_credits",
+                                "Statut_domicile", "Type_emploi", "Anciennete_emploi", "Telephone",
+                                "Nb_pers_charge","Taux_effort","Anciennete_domicile","Nb_credits")
+                  indices <- names(credit) %in% vardiscr
+                  for (i in (1:ncol(credit))) { if (indices[i] == 1) { credit[,i] <- factor(credit[,i]) } }
+
+                  # discrétisation des variables continues
+                  Age <- cut(credit$Age,c(0,25,Inf),right=TRUE) #intervalle semi-fermé à droite
+                  Duree_credit <- cut(credit$Duree_credit,c(0,15,36,Inf),right=TRUE)
+                  Montant_credit <- cut(credit$Montant_credit,c(0,4000,Inf),right=TRUE)
+
+                  npred <- -grep('(Cle|Duree_credit|Montant_credit|Age)', names(credit))
+                  credit2 <- credit[,npred]
+                  credit2$Age <- Age
+                  credit2$Duree_credit <- Duree_credit
+                  credit2$Montant_credit <- Montant_credit
+
+                  rules <- apriori(credit2,parameter = list(supp = 0.1, conf = 0.8,maxlen = 9, target = "rules"))
+                  rules
+                  rules <- apriori(credit2,parameter = list(supp = 0.06, conf = 0.6,maxlen = 5,
+                                                            target = "rules"),appearance = list(rhs = "Cible=2",default="lhs"))
+
+                  rules <- apriori(credit2,parameter = list(supp = 0.06, conf = 0.6,maxlen = 5,
+                                                            target = "rules"),appearance = list(rhs = c("Cible=1","Cible=2"),default="lhs"))
+
+                  summary(rules)
+                  inspect(rules[1:10])
+                  inspect(sort(rules, by = "confidence", decreasing = TRUE)[1:30])
+                  inspect(sort(sort(rules, by = "support", decreasing = TRUE), by = "confidence", decreasing = TRUE)[1:5])
+                  inspect(sort(sort(rules, by = "confidence", decreasing = TRUE), by = "lift", decreasing = TRUE)[1:30])
+                  inspect(sort(sort(rules, by = "lift", decreasing = TRUE), by = "confidence", decreasing = TRUE)[1:30])
+
+                  # graphe
+                  #install.packages("arulesViz")
+                  library(arulesViz)
+                  plot(rules)
+                  inspect(sort(rules, by = "lift", decreasing = TRUE)[1:10])
+                  plot(rules,interactive=TRUE)
+                  plot(rules, method="grouped", shading="confidence",interactive=F)
+                  plot(rules, method="grouped",interactive=T)
+                  plot(rules, shading="order", control=list(main = "Two-key plot"))
+                  plot(rules, method="matrix3D", measure=c("lift", "confidence"))
+                  plot(rules, method="graph") # calcul très long => il ne faut garder que qq dizaines de règles à afficher
+                  plot(rules[quality(rules)$confidence > 0.999], method = "graph")
+
+
+
+                  # ---------------------------------------------------------------------------------------------------------
+                  # ANNEXE 2
+                  # Régression logistique avec les packages speedglm, biglm et ff
+                  # ---------------------------------------------------------------------------------------------------------
+
+                  logit <- glm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,
+                               data=train,family=binomial('logit'))
+                  summary(logit)
+                  predglm <- predict(logit, newdata=valid, type="response")
+                  head(predglm)
+
+                  # modèle logit avec speedglm
+                  #install.packages("speedglm")
+                  library(speedglm)
+                  logits <- speedglm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,
+                                     data=train,family=binomial('logit'))
+                  summary(logits)
+                  w <- as.matrix(coef(logits))
+                  library(caret)
+                  xt <- dummyVars(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,
+                                  data=valid,levelsOnly = F,sep = NULL,fullRank = T)
+                  xt <- predict(xt,newdata=valid)
+                  p2 <- (xt %*% w[-1]) + w[1]
+                  predspeed <- 1/(1+exp(-p2))
+                  cor(predglm,predspeed)
+                  all.equal(predglm,as.numeric(predspeed),check.attributes = F)
+                  identical(predglm,predspeed)
+
+                  # modèle logit avec biglm
+                  library(biglm)
+                  logitb <- bigglm(as.numeric(Cible)-1~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,
+                                   data=train,family=binomial('logit'),chunksize=10000)
+                  summary(logitb)
+                  predbig <- predict(logitb, newdata=valid, type="response")
+                  all.equal(predbig,predspeed)
+
+                  # comparaison des temps de calcul
+                  install.packages('microbenchmark')
+                  library(microbenchmark)
+                  microbenchmark(glm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,
+                                     data=train,family=binomial('logit')), times = 100)
+                  microbenchmark(speedglm(Cible~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,
+                                          data=train,family=binomial('logit')), times = 100)
+                  microbenchmark(bigglm(as.numeric(Cible)-1~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,
+                                        data=train,family=binomial('logit'),chunksize=10000), times = 100)
+
+                  # régression logistique avec le package ff
+                  library(ff)
+                  library(ffbase)
+                  library(biglm)
+                  trainff <- as.ffdf(train)
+                  validff <- as.ffdf(valid)
+                  logitf <- bigglm(as.numeric(Cible)-1~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,data=trainff)
+                  summary(logitf)
+                  object.size(logitf)
+                  predff <- predict(logitf, newdata=validff, type="response")
+                  predff <- 1/(1+exp(-predff))
+                  all.equal(predbig,predff)
+                  cor(predbig,predff)
+                  microbenchmark(bigglm(as.numeric(Cible)-1~Comptes+Historique_credit+Duree_credit+Age+Epargne+Garanties+Autres_credits,
+                                        data=trainff,family=binomial('logit'),chunksize=1000000), times = 100)
+

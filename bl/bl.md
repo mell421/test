@@ -9,7 +9,7 @@
 - [liste de bl](#liste-de-bl)
   - [sommaire](#sommaire)
   - [SKAM REMAKES](#skam-remakes)
-  - [usa and drag race](#usa-and-drag-race)
+  - [usa](#usa)
   - [asie](#asie)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
@@ -24,7 +24,7 @@
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
 |skam france|france|8|
-|druck|allemagne|6|
+|druck|allemagne|7|
 |skam|norvège|4|
 |skam espana|espagne|4|
 |wtfock|belgique|5|
@@ -33,49 +33,10 @@
 |skam nl|pays-bas|2|
 |drop|ukraine|1|
 
-|titre|saison|nb ep vu|
-| --- | --- | :---: | 
-||||
-
-## usa and drag race
+## usa
 
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
-|DRAG RACE|||||<!--  -->
-|RPDRUK 1||8|||<!--  -->
-|RPSCDR 1||4|||<!--  -->
-|RPDRU 12||12|||<!--  -->
-|RPDR 12||14|||<!--  -->
-|RPDRAS 5||8|||<!--  -->
-|RPDRASU 5||8|||<!--  -->
-|DRCA 1||10|||<!--  -->
-|RPDR VR 1||6|||<!--  -->
-|DRTH 2||13|||<!--  -->
-|RPDRUK 2||10|||<!--  -->
-|RPDRU 13||14|||<!--  -->
-|DRNL 1||8|||<!--  -->
-|RPDR 13||16|||<!--  -->
-|RPDRDU 1||8|||<!--  -->
-|god shave the queens 1||8|||<!--  -->
-|queen of drags 1||6|||<!--  -->
-|la mas draga 1||7|||<!--  -->
-|la mas draga 2||9|||<!--  -->
-|RPDRU 9||12|||<!--  -->
-|DRESP 1||9|||<!--  -->
-|Rpdr out of the closet 1||6|||<!--  -->
-|Rpdr out of the closet 2||6|||<!--  -->
-|dragula 1||7|||<!--  -->
-|la mas draga 3||11|||<!--  -->
-|drag tots 1||8|||<!--  -->
-|dragula 2||10|||<!--  -->
-|dragula 3||10|||<!--  -->
-|RPDRAS 6||12|||<!--  -->
-|RPDRASU 6||10|||<!--  -->
-||||||<!--  -->
-||||||<!--  -->
-||||||<!--  -->
-||||||<!--  -->
-||||||<!--  -->
 |LGBT US + EUROPE + ANIME|||||<!--  -->
 |yuri on ice 1||12|||<!--  -->
 |visible out on tv||1|||<!--  -->
@@ -99,14 +60,7 @@
 ||||||<!--  -->
 |A DEPLACER|||||<!--  -->
 |young royals 1||6|||<!--  -->
-|DR NL 2||10|||<!--  -->
-|RPDRUK 3||?|||<!--  -->
 |les engagés 3||3|||<!--  -->
-|DR CA 2||10|||<!--  -->
-|dragula 4|||||<!--  -->
-|DR IT 1|||||<!--  -->
-|painted with raven 1|||||<!--  -->
-|la mas draga 4||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -193,7 +147,6 @@
 |wish you|wish you|8+1|serie|corée|                                 <!-- 64 -->
 |your name engraved herein|your name engraved herein|1|film|taiwan| <!-- 65 -->
 |floss|floss|1|cm|taiwan|                                           <!-- 66 -->
-|offgun fun night 2|offgun fun night 2|12+2|show|thailande|     <!-- 67 -->
 |meet me outside|meet me outside|6|serie|philippines|           <!-- 68 -->
 |ingredients|ingredients|21+1|serie|thailande|                  <!-- 69 -->
 |gameboys|gameboys|13+1|serie|philippines|                      <!-- 70 -->
@@ -260,15 +213,16 @@
 |Squid game|squid game|9|serie(***)|corée|<!--  -->
 |see you after quarantine|see you after quarantine|10|serie|taiwan/japon|<!--  -->
 |the tasty florida|the tasty florida|8|serie|corée|<!--  -->
-|friend or lover|friend or lover|5|serie|taiwan|              <!-- 128 -->
+|Love is science bl cut|Love is science bl cut|20|series|taiwan|<!--  -->
 |bite sisters|bite sisters|10|series(***)|corée|<!--  -->
 |boy meets boy 2008|boy meets boy 2008|1|cm|corée|<!--  -->
 |Sisak 2017|sisak 2017|1|cm|inde|<!--  -->
 |The right man because I love you|The right man because I love you|1|cm|thailande|<!--  -->
 |my personnal trainer|my personnal trainer|1|cm|corée|<!--  -->
 |The love that dare not speak its name|The love that dare not speak its name|6|serie|hong kong|<!--  -->
-||||||<!--  -->
-||||||<!--  -->
+|Between us special|Between us special|6|series|thailande|<!--  -->
+|offgun fun night 2|offgun fun night 2|12+4|show|thailande|     <!-- 67 -->
+|friend or lover|friend or lover|7|serie|taiwan|              <!-- 128 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -315,22 +269,26 @@
 |46 days|46 days|18|serie(**)|thailande|6|                      <!-- 35 -->
 |the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
 |bite me|bite me|?|serie|thailande|2|                           <!-- 37 -->
-|peach of time|peach of time|10|serie|corée-thailande|5|        <!-- 38 -->
-|7 project|7project|7|serie(bl/gl/het)|thailande|2|             <!-- 39 -->
-|EMS|earth mix space|?|show|thailande|1|                        <!-- 40 -->
+|peach of time|peach of time|10|serie|corée-thailande|6|        <!-- 38 -->
+|7 project|7project|7|serie(bl/gl/het)|thailande|4|             <!-- 39 -->
+|EMS|earth mix space|?|show|thailande|8|                        <!-- 40 -->
 |Alice in borderland|alice in borderland|8|serie(**)|japon|1|   <!-- 41 -->
 |goblin|goblin|16|serie(***)|corée|1|                           <!-- 42 -->
 |love area|love area|8|serie|thailande|2|                       <!-- 43 -->
 |kieta hatsukoi|kieta hatsukoi|10|serie|japon|6|                <!-- 44 -->
 |aoki vuanpaia no nayami|aoki vuanpaia no nayami|8|serie(**)|japon|2| <!-- 45 -->
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
-|bad buddy|bad buddy|12|serie|thailande|5|                      <!-- 47-->
-|baker boys|baker boys|12|serie(*)|thailande|2|                <!-- 48 -->
-|do seu lado|do seu lado|?|serie|bresil|4|<!--  -->
-|paint with love|paint with love|8|serie|thailande|1|<!--  -->
-|mr cinderella|_|?|serie|vietnam|0|<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
+|bad buddy|bad buddy|12|serie|thailande|7|                      <!-- 47-->
+|baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
+|do seu lado|do seu lado|?|serie|bresil|5|<!--  -->
+|paint with love|paint with love|8|serie|thailande|4|<!--  -->
+|mr cinderella|_|8|serie|vietnam|4|<!--  -->
+|5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
+|NOTME|NOTME|14|serie|thailande|2|<!-- -->
+|F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
+|the player|the player|16|serie(*)|thailande|0|<!-- -->
+|you are my sunshine||6|serie|vietnam|2|<!--  -->
+|tinted with you|tinted with you|8|serie|corée|2|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -397,11 +355,8 @@
 |||||||<!--  -->
 |THAILANDE|---|---||||<!--  -->
 |GMMTV|--|--||||<!-- -->
-|F4 thailand|F4 thailand|?|serie(**)|thailande|0|<!-- -->
 |drag I love you|drag I love you|?|serie(**)|thailande|0|<!-- -->
 |enchante|enchante|?|serie|thailande|0|<!-- -->
-|the player|the player|?|serie(**)|thailande|0|<!-- -->
-|NOTME|NOTME|16|serie|thailande|0|<!-- -->
 |war of the flowers|war of the flowers|?|serie(**)|thailande|0|<!--  -->
 |UMG|UMG|?|serie(**)|thailande|0|<!--  -->
 |home school|home school|?|serie(**)|thailande|0|<!--  -->

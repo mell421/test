@@ -1,302 +1,302 @@
-aEff/aeff.md:- 01/10/21 (eff) - unbag _1{578} dont say no _1{42} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} the voice greece _8{8} 
-aEff/aeff.md:- 01/11/21 (eff) - unbag _1{642} dont say no _1{87} the voice greece _8{67} the voice us _21{51} strictly come dancing _19{49} koh-lanta _27{22} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} the voice esp _8{12} 
-aEff/aeff.md:- 01/12/21 (eff) - unbag _1{704} the voice greece _8{130} the voice us _21{111} strictly come dancing _19{110} dont say no _1{95} the voice ger _11{72} koh-lanta _27{45} kieta hatsukoi _1{20} the masked singer _6{18} the voice esp _8{17} survivor _41{17} inhuman condition _1{16} survivor au _6{16} 
-aEff/aeff.md:- 02/10/21 (eff) - unbag _1{578} dont say no _1{44} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{10} vwars _1{9} 
-aEff/aeff.md:- 02/11/21 (eff) - unbag _1{644} dont say no _1{88} the voice greece _8{69} the voice us _21{53} strictly come dancing _19{51} koh-lanta _27{22} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} the voice ger _11{12} the voice esp _8{12} 
-aEff/aeff.md:- 02/12/21 (eff) - unbag _1{707} the voice greece _8{133} the voice us _21{114} strictly come dancing _19{112} dont say no _1{95} the voice ger _11{75} koh-lanta _27{46} kieta hatsukoi _1{21} survivor _41{20} the masked singer _6{19} the voice esp _8{18} inhuman condition _1{16} survivor au _6{16} 
-aEff/aeff.md:- 03/10/21 (eff) - unbag _1{580} dont say no _1{46} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{12} vwars _1{9} 
-aEff/aeff.md:- 03/11/21 (eff) - unbag _1{646} dont say no _1{89} the voice greece _8{71} the voice us _21{55} strictly come dancing _19{53} koh-lanta _27{22} inhuman condition _1{16} survivor au _6{16} the voice ger _11{14} the masked singer _6{13} tbbt _11{13} the voice esp _8{12} 
-aEff/aeff.md:- 04/09/21 - 789* dont say no _1{11} unbag _1{521} 7project _1{1} peach of time _1{8} koh-lanta _27{2} 
+aEff/aeff.md:- 01/10/21 (eff) - unbag _1{578} dont say no _1{42} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 01/11/21 (eff) - unbag _1{642} dont say no _1{87} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 01/12/21 (eff) - unbag _1{704} dont say no _1{95} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 02/10/21 (eff) - unbag _1{578} dont say no _1{44} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 02/11/21 (eff) - unbag _1{644} dont say no _1{88} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 02/12/21 (eff) - unbag _1{707} dont say no _1{95} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 03/10/21 (eff) - unbag _1{580} dont say no _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 03/11/21 (eff) - unbag _1{646} dont say no _1{89} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 04/09/21 - 789* dont say no _1{11} unbag _1{521} 7project _1{1} peach of time _1{8} 
 aEff/aeff.md:- 04/09/21 (eff) - unbag _1{521} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} dont say no _1{11} 
-aEff/aeff.md:- 04/10/21 (eff) - unbag _1{582} dont say no _1{48} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{15} vwars _1{9} 
-aEff/aeff.md:- 04/11/21 (eff) - unbag _1{648} dont say no _1{89} the voice greece _8{72} the voice us _21{57} strictly come dancing _19{55} koh-lanta _27{22} inhuman condition _1{16} survivor au _6{16} the voice ger _11{15} the masked singer _6{13} tbbt _11{13} the voice esp _8{12} 
+aEff/aeff.md:- 04/10/21 (eff) - unbag _1{582} dont say no _1{48} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 04/11/21 (eff) - unbag _1{648} dont say no _1{89} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 05/09/21 - 792* qforce _1{0} dont say no _1{11} unbag _1{523} 7project _1{1} peach of time _1{10} 
 aEff/aeff.md:- 05/09/21 (eff) - unbag _1{523} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} dont say no _1{11} 
-aEff/aeff.md:- 05/10/21 (eff) - unbag _1{584} dont say no _1{50} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{17} vwars _1{9} 
-aEff/aeff.md:- 05/11/21 (eff) - unbag _1{650} dont say no _1{90} the voice greece _8{74} the voice us _21{59} strictly come dancing _19{57} koh-lanta _27{23} the voice ger _11{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} 
+aEff/aeff.md:- 05/10/21 (eff) - unbag _1{584} dont say no _1{50} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 05/11/21 (eff) - unbag _1{650} dont say no _1{90} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 06/09/21 - 865* vwars _1{7} qforce _1{1} dont say no _1{13} unbag _1{526} 
 aEff/aeff.md:- 06/09/21 (eff) - unbag _1{526} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} dont say no _1{13} peach of time _1{13} 
-aEff/aeff.md:- 06/10/21 (eff) - unbag _1{586} dont say no _1{51} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{18} vwars _1{9} strictly come dancing _19{8} 
-aEff/aeff.md:- 06/11/21 (eff) - unbag _1{652} dont say no _1{91} the voice greece _8{76} the voice us _21{61} strictly come dancing _19{59} koh-lanta _27{24} the voice ger _11{19} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} 
+aEff/aeff.md:- 06/10/21 (eff) - unbag _1{586} dont say no _1{51} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 06/11/21 (eff) - unbag _1{652} dont say no _1{91} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 07/08/21 - 650* dont say no _1{0} unbag _1{462} control z _2{1} 
 aEff/aeff.md:- 07/09/21 - 854* peach of time _1{15} vwars _1{7} qforce _1{1} dont say no _1{14} unbag _1{528} 
 aEff/aeff.md:- 07/09/21 (eff) - unbag _1{528} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} peach of time _1{15} elite _4{15} dont say no _1{14} 
-aEff/aeff.md:- 07/10/21 (eff) - unbag _1{588} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} vwars _1{9} the voice us _21{8} 
-aEff/aeff.md:- 07/11/21 (eff) - unbag _1{654} dont say no _1{92} the voice greece _8{78} the voice us _21{63} strictly come dancing _19{60} koh-lanta _27{25} the voice ger _11{21} inhuman condition _1{16} survivor au _6{16} the masked singer _6{13} tbbt _11{13} 
+aEff/aeff.md:- 07/10/21 (eff) - unbag _1{588} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 07/11/21 (eff) - unbag _1{654} dont say no _1{92} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 08/08/21 - 660* good singers _1{6} dont say no _1{0} unbag _1{464} 
 aEff/aeff.md:- 08/09/21 - 789* peach of time _1{17} 7project _1{2} vwars _1{8} qforce _1{1} dont say no _1{14} unbag _1{530} 
 aEff/aeff.md:- 08/09/21 (eff) - unbag _1{530} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} peach of time _1{17} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-aEff/aeff.md:- 08/10/21 (eff) - unbag _1{590} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} the voice greece _8{19} the voice us _21{9} vwars _1{9} 
-aEff/aeff.md:- 08/11/21 (eff) - unbag _1{657} dont say no _1{93} the voice greece _8{81} the voice us _21{66} strictly come dancing _19{63} koh-lanta _27{27} the voice ger _11{24} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
+aEff/aeff.md:- 08/10/21 (eff) - unbag _1{590} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 08/11/21 (eff) - unbag _1{657} dont say no _1{93} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 09/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{467} 
 aEff/aeff.md:- 09/09/21 (eff) - unbag _1{532} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-aEff/aeff.md:- 09/10/21 (eff) - unbag _1{592} dont say no _1{54} peach of time _1{33} the voice greece _8{19} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} 
-aEff/aeff.md:- 09/11/21 (eff) - unbag _1{659} dont say no _1{94} the voice greece _8{83} the voice us _21{67} strictly come dancing _19{65} koh-lanta _27{27} the voice ger _11{26} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
+aEff/aeff.md:- 09/10/21 (eff) - unbag _1{592} dont say no _1{54} peach of time _1{33} vwars _1{9} 
+aEff/aeff.md:- 09/11/21 (eff) - unbag _1{659} dont say no _1{94} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 10/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{469} 
 aEff/aeff.md:- 10/09/21 (eff) - unbag _1{534} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-aEff/aeff.md:- 10/10/21 - 701* love area _1{0} strictly come dancing _19{8} the voice greece _8{19} dont say no _1{54} the voice ger _11{0} young sheldon _5{0} unbag _1{594} survivor _41{5} the voice esp _8{6} 
-aEff/aeff.md:- 10/10/21 (eff) - unbag _1{594} dont say no _1{54} peach of time _1{33} the voice greece _8{19} the voice us _21{10} vwars _1{9} strictly come dancing _19{8} camping paradis _12{8} 
-aEff/aeff.md:- 10/11/21 (eff) - unbag _1{661} dont say no _1{95} the voice greece _8{85} the voice us _21{68} strictly come dancing _19{67} the voice ger _11{28} koh-lanta _27{27} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
+aEff/aeff.md:- 10/10/21 - 701* love area _1{0} dont say no _1{54} young sheldon _5{0} unbag _1{594} 
+aEff/aeff.md:- 10/10/21 (eff) - unbag _1{594} dont say no _1{54} peach of time _1{33} vwars _1{9} camping paradis _12{8} 
+aEff/aeff.md:- 10/11/21 (eff) - unbag _1{661} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 11/08/21 - 716* good singers _1{7} dont say no _1{1} unbag _1{471} 
 aEff/aeff.md:- 11/09/21 - 303* dont say no _1{14} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
 aEff/aeff.md:- 11/09/21 (eff) - unbag _1{536} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-aEff/aeff.md:- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{10} the voice greece _8{21} love area _1{1} dont say no _1{56} the voice ger _11{1} 
-aEff/aeff.md:- 11/10/21 (eff) - unbag _1{597} dont say no _1{56} peach of time _1{33} the voice greece _8{21} the voice us _21{11} strictly come dancing _19{10} vwars _1{9} 
-aEff/aeff.md:- 11/11/21 (eff) - unbag _1{663} dont say no _1{95} the voice greece _8{87} the voice us _21{70} strictly come dancing _19{68} the voice ger _11{30} koh-lanta _27{28} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
+aEff/aeff.md:- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} dont say no _1{56} 
+aEff/aeff.md:- 11/10/21 (eff) - unbag _1{597} dont say no _1{56} peach of time _1{33} vwars _1{9} 
+aEff/aeff.md:- 11/11/21 (eff) - unbag _1{663} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 12/08/21 - 237* good singers _1{7} dont say no _1{1} 
 aEff/aeff.md:- 12/09/21 - 306* dont say no _1{15} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
 aEff/aeff.md:- 12/09/21 (eff) - unbag _1{538} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} dont say no _1{15} elite _4{15} 
-aEff/aeff.md:- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} strictly come dancing _19{11} the voice greece _8{23} love area _1{1} dont say no _1{57} the voice ger _11{1} 
-aEff/aeff.md:- 12/10/21 (eff) - unbag _1{599} dont say no _1{57} peach of time _1{33} the voice greece _8{23} from dusk till dawn _2{20} strictly come dancing _19{11} the voice us _21{11} vwars _1{9} 
-aEff/aeff.md:- 12/11/21 (eff) - unbag _1{665} dont say no _1{95} the voice greece _8{89} the voice us _21{72} strictly come dancing _19{69} the voice ger _11{32} koh-lanta _27{29} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} kieta hatsukoi _1{13} the voice esp _8{13} 
+aEff/aeff.md:- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{1} dont say no _1{57} 
+aEff/aeff.md:- 12/10/21 (eff) - unbag _1{599} dont say no _1{57} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 12/11/21 (eff) - unbag _1{665} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{13} 
 aEff/aeff.md:- 13/09/21 - 211* buffy _1{1} dont say no _1{17} earthmix space _1{1} lucifer _4{5} bite me _1{3} 
 aEff/aeff.md:- 13/09/21 (eff) - unbag _1{540} /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} dont say no _1{17} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 13/10/21 (eff) - unbag _1{601} dont say no _1{58} peach of time _1{33} the voice greece _8{25} from dusk till dawn _2{20} strictly come dancing _19{13} the voice us _21{11} vwars _1{9} koh-lanta _27{8} 
-aEff/aeff.md:- 13/11/21 (eff) - unbag _1{667} dont say no _1{95} the voice greece _8{91} the voice us _21{74} strictly come dancing _19{71} the voice ger _11{34} koh-lanta _27{30} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} the masked singer _6{14} the voice esp _8{13} 
+aEff/aeff.md:- 13/10/21 (eff) - unbag _1{601} dont say no _1{58} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 13/11/21 (eff) - unbag _1{667} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} 
 aEff/aeff.md:- 14/08/21 - 274* dont say no _1{1} 
-aEff/aeff.md:- 14/09/21 - 115* peach of time _1{22} josephine ange gardien _24{3} 7project _1{3} buffy _1{3} dont say no _1{18} earthmix space _1{1} lucifer _4{5} 
+aEff/aeff.md:- 14/09/21 - 115* peach of time _1{22} 7project _1{3} buffy _1{3} dont say no _1{18} earthmix space _1{1} lucifer _4{5} 
 aEff/aeff.md:- 14/09/21 (eff) - unbag _1{542} /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 14/10/21 (eff) - unbag _1{603} dont say no _1{59} peach of time _1{33} the voice greece _8{27} from dusk till dawn _2{20} strictly come dancing _19{15} the voice us _21{13} vwars _1{9} koh-lanta _27{8} 
-aEff/aeff.md:- 14/11/21 (eff) - unbag _1{669} dont say no _1{95} the voice greece _8{93} the voice us _21{76} strictly come dancing _19{73} the voice ger _11{36} koh-lanta _27{31} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
+aEff/aeff.md:- 14/10/21 (eff) - unbag _1{603} dont say no _1{59} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 14/11/21 (eff) - unbag _1{669} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 15/08/21 - 298* dont say no _1{1} 
-aEff/aeff.md:- 15/09/21 - 225* koh-lanta _27{3} peach of time _1{23} josephine ange gardien _24{3} 7project _1{4} buffy _1{3} dont say no _1{18} 
+aEff/aeff.md:- 15/09/21 - 225* peach of time _1{23} 7project _1{4} buffy _1{3} dont say no _1{18} 
 aEff/aeff.md:- 15/09/21 (eff) - unbag _1{544} /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 15/10/21 (eff) - unbag _1{605} dont say no _1{60} peach of time _1{33} the voice greece _8{29} from dusk till dawn _2{20} strictly come dancing _19{16} the voice us _21{15} vwars _1{9} koh-lanta _27{8} 
-aEff/aeff.md:- 15/11/21 (eff) - unbag _1{671} the voice greece _8{95} dont say no _1{95} the voice us _21{78} strictly come dancing _19{75} the voice ger _11{38} koh-lanta _27{32} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{14} the voice esp _8{13} 
+aEff/aeff.md:- 15/10/21 (eff) - unbag _1{605} dont say no _1{60} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 15/11/21 (eff) - unbag _1{671} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 16/08/21 - 311* dont say no _1{2} 
 aEff/aeff.md:- 16/09/21 (eff) - unbag _1{546} /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} the voice greece _8{31} from dusk till dawn _2{20} strictly come dancing _19{18} the voice us _21{17} vwars _1{9} koh-lanta _27{8} 
-aEff/aeff.md:- 16/11/21 (eff) - unbag _1{673} the voice greece _8{98} dont say no _1{95} the voice us _21{81} strictly come dancing _19{78} the voice ger _11{40} koh-lanta _27{34} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{15} the voice esp _8{14} 
+aEff/aeff.md:- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+aEff/aeff.md:- 16/11/21 (eff) - unbag _1{673} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 17/08/21 - 352* dont say no _1{2} 
 aEff/aeff.md:- 17/09/21 (eff) - unbag _1{548} /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} the voice greece _8{33} peach of time _1{33} from dusk till dawn _2{20} strictly come dancing _19{19} the voice us _21{19} vwars _1{9} koh-lanta _27{8} camping paradis _12{8} 
-aEff/aeff.md:- 17/11/21 (eff) - unbag _1{675} the voice greece _8{100} dont say no _1{95} the voice us _21{83} strictly come dancing _19{80} the voice ger _11{42} koh-lanta _27{35} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{15} the voice esp _8{14} 
+aEff/aeff.md:- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
+aEff/aeff.md:- 17/11/21 (eff) - unbag _1{675} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 18/08/21 - 354* dont say no _1{2} 
-aEff/aeff.md:- 18/09/21 - 661* dont say no _1{18} unbag _1{550} koh-lanta _27{3} peach of time _1{26} 
+aEff/aeff.md:- 18/09/21 - 661* dont say no _1{18} unbag _1{550} peach of time _1{26} 
 aEff/aeff.md:- 18/09/21 (eff) - unbag _1{550} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 18/10/21 (eff) - unbag _1{611} dont say no _1{66} the voice greece _8{36} peach of time _1{33} strictly come dancing _19{22} the voice us _21{22} koh-lanta _27{9} vwars _1{9} 
-aEff/aeff.md:- 18/11/21 (eff) - unbag _1{677} the voice greece _8{102} dont say no _1{95} the voice us _21{85} strictly come dancing _19{82} the voice ger _11{44} koh-lanta _27{36} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the masked singer _6{15} 
+aEff/aeff.md:- 18/10/21 (eff) - unbag _1{611} dont say no _1{66} peach of time _1{33} vwars _1{9} 
+aEff/aeff.md:- 18/11/21 (eff) - unbag _1{677} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 19/08/21 - 401* dont say no _1{2} 
 aEff/aeff.md:- 19/09/21 - 627* alice in borderland _1{0} dont say no _1{20} unbag _1{552} 
 aEff/aeff.md:- 19/09/21 (eff) - unbag _1{552} /46 days _1{46} peach of time _1{27} dont say no _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 19/10/21 (eff) - unbag _1{613} dont say no _1{68} the voice greece _8{38} peach of time _1{33} strictly come dancing _19{24} the voice us _21{23} koh-lanta _27{9} vwars _1{9} 
-aEff/aeff.md:- 19/11/21 (eff) - unbag _1{679} the voice greece _8{104} dont say no _1{95} the voice us _21{87} strictly come dancing _19{84} the voice ger _11{46} koh-lanta _27{37} the masked singer _6{17} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 19/10/21 (eff) - unbag _1{613} dont say no _1{68} peach of time _1{33} vwars _1{9} 
+aEff/aeff.md:- 19/11/21 (eff) - unbag _1{679} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 20/09/21 (eff) - unbag _1{555} /46 days _1{46} peach of time _1{29} dont say no _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 20/10/21 (eff) - unbag _1{615} dont say no _1{70} the voice greece _8{40} peach of time _1{33} strictly come dancing _19{26} the voice us _21{24} koh-lanta _27{9} vwars _1{9} 
-aEff/aeff.md:- 20/11/21 (eff) - unbag _1{681} the voice greece _8{106} dont say no _1{95} the voice us _21{89} strictly come dancing _19{86} the voice ger _11{48} koh-lanta _27{38} the masked singer _6{17} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 20/10/21 (eff) - unbag _1{615} dont say no _1{70} peach of time _1{33} vwars _1{9} 
+aEff/aeff.md:- 20/11/21 (eff) - unbag _1{681} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 21/09/21 (eff) - unbag _1{557} /46 days _1{46} peach of time _1{30} dont say no _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-aEff/aeff.md:- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} the voice greece _8{42} peach of time _1{33} strictly come dancing _19{27} the voice us _21{26} koh-lanta _27{10} vwars _1{9} the voice esp _8{8} 
-aEff/aeff.md:- 21/11/21 (eff) - unbag _1{683} the voice greece _8{108} dont say no _1{95} the voice us _21{91} strictly come dancing _19{88} the voice ger _11{50} koh-lanta _27{39} the masked singer _6{17} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the voice esp _8{14} 
+aEff/aeff.md:- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} peach of time _1{33} vwars _1{9} 
+aEff/aeff.md:- 21/11/21 (eff) - unbag _1{683} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 22/09/21 (eff) - unbag _1{559} /46 days _1{46} peach of time _1{31} dont say no _1{26} from dusk till dawn _2{20} vwars _1{8} 
-aEff/aeff.md:- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} the voice greece _8{44} peach of time _1{33} the voice us _21{28} strictly come dancing _19{28} koh-lanta _27{11} survivor au _6{9} the voice esp _8{8} survivor _41{7} 
-aEff/aeff.md:- 22/11/21 (eff) - unbag _1{685} the voice greece _8{110} dont say no _1{95} the voice us _21{93} strictly come dancing _19{90} the voice ger _11{52} koh-lanta _27{40} the masked singer _6{17} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} the voice esp _8{14} 
+aEff/aeff.md:- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} peach of time _1{33} survivor au _6{9} 
+aEff/aeff.md:- 22/11/21 (eff) - unbag _1{685} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 23/08/21 - 278* dont say no _1{3} from dusk till dawn _2{16} 
 aEff/aeff.md:- 23/09/21 (eff) - unbag _1{561} /46 days _1{46} peach of time _1{32} dont say no _1{28} from dusk till dawn _2{20} vwars _1{8} 
-aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} the voice greece _8{46} peach of time _1{33} the voice us _21{30} strictly come dancing _19{29} koh-lanta _27{12} survivor au _6{11} the voice esp _8{8} survivor _41{7} 
-aEff/aeff.md:- 23/11/21 (eff) - unbag _1{687} the voice greece _8{113} the voice us _21{96} dont say no _1{95} strictly come dancing _19{93} the voice ger _11{55} koh-lanta _27{40} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} 
+aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} peach of time _1{33} survivor au _6{11} 
+aEff/aeff.md:- 23/11/21 (eff) - unbag _1{687} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 24/08/21 - 284* from dusk till dawn _2{16} dont say no _1{4} 
 aEff/aeff.md:- 24/09/21 (eff) - unbag _1{563} peach of time _1{32} dont say no _1{29} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 24/10/21 (eff) - unbag _1{623} dont say no _1{78} the voice greece _8{48} peach of time _1{33} the voice us _21{32} strictly come dancing _19{30} koh-lanta _27{13} survivor au _6{13} the voice esp _8{8} inhuman condition _1{8} survivor _41{7} 
-aEff/aeff.md:- 24/11/21 (eff) - unbag _1{689} the voice greece _8{115} the voice us _21{98} strictly come dancing _19{95} dont say no _1{95} the voice ger _11{57} koh-lanta _27{40} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
-aEff/aeff.md:- 25/08/21 - 284* koh-lanta _27{0} from dusk till dawn _2{17} dont say no _1{4} 
+aEff/aeff.md:- 24/10/21 (eff) - unbag _1{623} dont say no _1{78} peach of time _1{33} survivor au _6{13} inhuman condition _1{8} 
+aEff/aeff.md:- 24/11/21 (eff) - unbag _1{689} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 25/08/21 - 284* from dusk till dawn _2{17} dont say no _1{4} 
 aEff/aeff.md:- 25/09/21 (eff) - unbag _1{565} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 25/10/21 (eff) - unbag _1{626} dont say no _1{79} the voice greece _8{51} the voice us _21{35} strictly come dancing _19{33} peach of time _1{33} survivor au _6{15} koh-lanta _27{14} inhuman condition _1{11} the voice esp _8{9} survivor _41{8} 
-aEff/aeff.md:- 25/11/21 (eff) - unbag _1{691} the voice greece _8{117} the voice us _21{100} strictly come dancing _19{97} dont say no _1{95} the voice ger _11{59} koh-lanta _27{41} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
-aEff/aeff.md:- 26/08/21 - 249* post mortem _1{0} koh-lanta _27{0} from dusk till dawn _2{18} dont say no _1{4} 
-aEff/aeff.md:- 26/09/21 - 56* strictly come dancing _19{1} the voice esp _8{0} dont say no _1{30} earthmix space _1{1} 
+aEff/aeff.md:- 25/10/21 (eff) - unbag _1{626} dont say no _1{79} peach of time _1{33} survivor au _6{15} inhuman condition _1{11} 
+aEff/aeff.md:- 25/11/21 (eff) - unbag _1{691} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 26/08/21 - 249* post mortem _1{0} from dusk till dawn _2{18} dont say no _1{4} 
+aEff/aeff.md:- 26/09/21 - 56* dont say no _1{30} earthmix space _1{1} 
 aEff/aeff.md:- 26/09/21 (eff) - unbag _1{567} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 26/10/21 (eff) - unbag _1{628} dont say no _1{80} the voice greece _8{53} the voice us _21{37} strictly come dancing _19{35} peach of time _1{33} koh-lanta _27{15} survivor au _6{15} inhuman condition _1{13} the voice esp _8{9} survivor _41{8} 
-aEff/aeff.md:- 26/11/21 (eff) - unbag _1{693} the voice greece _8{119} the voice us _21{102} strictly come dancing _19{99} dont say no _1{95} the voice ger _11{61} koh-lanta _27{42} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
-aEff/aeff.md:- 27/09/21 - 94* the voice greece _8{1} goblin _1{1} strictly come dancing _19{3} the voice esp _8{1} dont say no _1{33} 
+aEff/aeff.md:- 26/10/21 (eff) - unbag _1{628} dont say no _1{80} peach of time _1{33} survivor au _6{15} inhuman condition _1{13} 
+aEff/aeff.md:- 26/11/21 (eff) - unbag _1{693} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 27/09/21 - 94* goblin _1{1} dont say no _1{33} 
 aEff/aeff.md:- 27/09/21 (eff) - unbag _1{569} dont say no _1{33} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 27/10/21 (eff) - unbag _1{630} dont say no _1{81} the voice greece _8{55} the voice us _21{39} strictly come dancing _19{37} peach of time _1{33} koh-lanta _27{16} inhuman condition _1{15} survivor au _6{15} the voice esp _8{9} survivor _41{8} 
-aEff/aeff.md:- 27/11/21 (eff) - unbag _1{695} the voice greece _8{121} the voice us _21{104} strictly come dancing _19{101} dont say no _1{95} the voice ger _11{63} koh-lanta _27{43} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
+aEff/aeff.md:- 27/10/21 (eff) - unbag _1{630} dont say no _1{81} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
+aEff/aeff.md:- 27/11/21 (eff) - unbag _1{695} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 28/08/21 - 270* dont say no _1{4} the yearbook _1{0} 
-aEff/aeff.md:- 28/09/21 - 102* the voice greece _8{1} goblin _1{1} strictly come dancing _19{3} the voice esp _8{2} dont say no _1{35} 
+aEff/aeff.md:- 28/09/21 - 102* goblin _1{1} dont say no _1{35} 
 aEff/aeff.md:- 28/09/21 (eff) - unbag _1{571} dont say no _1{35} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 28/10/21 (eff) - unbag _1{632} dont say no _1{82} the voice greece _8{57} the voice us _21{41} strictly come dancing _19{39} peach of time _1{33} koh-lanta _27{17} inhuman condition _1{15} survivor au _6{15} the masked singer _6{9} the voice esp _8{9} survivor _41{8} 
-aEff/aeff.md:- 28/11/21 (eff) - unbag _1{697} the voice greece _8{123} the voice us _21{106} strictly come dancing _19{103} dont say no _1{95} the voice ger _11{65} koh-lanta _27{44} the masked singer _6{18} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} the voice esp _8{15} tbbt _11{13} 
+aEff/aeff.md:- 28/10/21 (eff) - unbag _1{632} dont say no _1{82} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
+aEff/aeff.md:- 28/11/21 (eff) - unbag _1{697} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 29/08/21 - 316* dont say no _1{5} the yearbook _1{0} 
 aEff/aeff.md:- 29/09/21 (eff) - unbag _1{573} dont say no _1{37} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 29/10/21 (eff) - unbag _1{634} dont say no _1{83} the voice greece _8{59} the voice us _21{43} strictly come dancing _19{41} peach of time _1{33} koh-lanta _27{18} inhuman condition _1{15} survivor au _6{15} the masked singer _6{11} the voice esp _8{9} tbbt _11{8} 
-aEff/aeff.md:- 29/11/21 (eff) - unbag _1{699} the voice greece _8{125} the voice us _21{108} strictly come dancing _19{105} dont say no _1{95} the voice ger _11{67} koh-lanta _27{44} kieta hatsukoi _1{18} the masked singer _6{18} the voice esp _8{16} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 29/10/21 (eff) - unbag _1{634} dont say no _1{83} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{8} 
+aEff/aeff.md:- 29/11/21 (eff) - unbag _1{699} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 30/08/21 - 306* bite me _1{1} dont say no _1{8} the yearbook _1{1} 
 aEff/aeff.md:- 30/09/21 (eff) - unbag _1{575} dont say no _1{39} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 30/10/21 (eff) - unbag _1{636} dont say no _1{84} the voice greece _8{61} the voice us _21{45} strictly come dancing _19{43} peach of time _1{33} koh-lanta _27{19} inhuman condition _1{15} survivor au _6{15} the masked singer _6{11} tbbt _11{10} the voice esp _8{9} 
-aEff/aeff.md:- 30/11/21 (eff) - unbag _1{702} the voice greece _8{128} the voice us _21{110} strictly come dancing _19{108} dont say no _1{95} the voice ger _11{70} koh-lanta _27{45} kieta hatsukoi _1{20} the masked singer _6{18} the voice esp _8{17} inhuman condition _1{16} survivor au _6{16} survivor _41{15} 
+aEff/aeff.md:- 30/10/21 (eff) - unbag _1{636} dont say no _1{84} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} 
+aEff/aeff.md:- 30/11/21 (eff) - unbag _1{702} dont say no _1{95} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
 aEff/aeff.md:- 31/08/21 - 239* camping paradis _12{6} peach of time _1{0} bite me _1{1} dont say no _1{9} the yearbook _1{1} 
-aEff/aeff.md:- 31/10/21 (eff) - unbag _1{638} dont say no _1{85} the voice greece _8{63} the voice us _21{47} strictly come dancing _19{45} koh-lanta _27{20} inhuman condition _1{15} survivor au _6{15} the masked singer _6{11} tbbt _11{11} the voice esp _8{10} 
-apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercu21.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Strictly come dancing _19x12(9) The voice greece _8x14(9) Druck _7x2(1) The voice ger _11x6(5) The voice esp _8x8(5) Bad buddy _1x2(1) Unbag _1x34(3) Incroyable talent _16x3(2) The voice us _21x13(8) Koh-lanta _27x10(4) The masked singer _6x8(4) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Survivor _41x6(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Dragula _4x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) Drag race ca _2x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(1) Camping paradis _12x5(1) 
+aEff/aeff.md:- 31/10/21 (eff) - unbag _1{638} dont say no _1{85} inhuman condition _1{15} survivor au _6{15} tbbt _11{11} 
+apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 apercu/apercu21.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercu21.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) 
+apercu/apercu21.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) Unbag _1x32(1) 
 apercu/apercu21.md:- sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
 apercu/apercu21.md:- sem 16-08-2021 Dont say no _1x3(1) 
-apercu/apercu21.md:- sem 20-09-2021 Post mortem _1x4(1) Strictly come dancing _19x2(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Koh-lanta _27x4(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
+apercu/apercu21.md:- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) 7project _1x4(1) 
 apercu/apercu21.md:- sem 23-08-2021 Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
-apercu/apercu21.md:- sem 27-09-2021 The voice greece _8x2(1) Goblin _1x2(1) Strictly come dancing _19x3(1) The voice esp _8x3(2) Dont say no _1x9(1) Earthmix space _1x3(1) The masked singer _6x3(2) Rpdruk _3x2(1) Survivor _41x2(1) The voice us _21x3(2) Koh-lanta _27x5(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
-apercu/apercu21.md:- sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) Koh-lanta _27x2(1) From dusk till dawn _2x6(1) 
-apercu/apercu21.md:* conclu 01/10/21 = Survivor _41 > 3; Dont say no _1 > 2; The voice greece _8 > 2; /9-1-1 _5 > 2; 
-apercu/apercu21.md:* conclu 02/10/21 = The voice greece _8 > 3; Unbag _1 > 3; Dont say no _1 > 2; The voice esp _8 > 1; 
-apercu/apercu21.md:* conclu 03/10/21 = The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 2; 
-apercu/apercu21.md:* conclu 04/10/21 = The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 1; Strictly come dancing _19 > 1; 
-apercu/apercu21.md:* conclu 15/10/21 = Unbag _1 > 6; The voice us _21 > 4; Dont say no _1 > 2; The voice greece _8 > 1; Strictly come dancing _19 > 1; 
-apercu/apercu21.md:* conclu 16/10/21 = Unbag _1 > 6; Dont say no _1 > 2; The voice us _21 > 2; The voice ger _11 > 2; The voice greece _8 > 1; 
-apercu/apercu21.md:* conclu 17/10/21 = Unbag _1 > 6; The voice greece _8 > 5; Strictly come dancing _19 > 3; Dont say no _1 > 2; The voice us _21 > 1; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercu21.md:- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
+apercu/apercu21.md:- sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
+apercu/apercu21.md:* conclu 01/10/21 = Dont say no _1 > 2; /9-1-1 _5 > 2; 
+apercu/apercu21.md:* conclu 02/10/21 = Unbag _1 > 3; Dont say no _1 > 2; 
+apercu/apercu21.md:* conclu 03/10/21 = Unbag _1 > 3; Dont say no _1 > 2; 
+apercu/apercu21.md:* conclu 04/10/21 = Unbag _1 > 3; Dont say no _1 > 1; 
+apercu/apercu21.md:* conclu 15/10/21 = Unbag _1 > 6; Dont say no _1 > 2; 
+apercu/apercu21.md:* conclu 16/10/21 = Unbag _1 > 6; Dont say no _1 > 2; 
+apercu/apercu21.md:* conclu 17/10/21 = Unbag _1 > 6; Dont say no _1 > 2; Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercu21.md:* conclu 18/09/21 = Unbag _1 > 6; Dont say no _1 > 2; 
-apercu/apercu21.md:* conclu 18/10/21 = The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Strictly come dancing _19 > 1; 
+apercu/apercu21.md:* conclu 18/10/21 = Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
 apercu/apercu21.md:* conclu 19/09/21 = Unbag _1 > 6; Dont say no _1 > 1; 
-apercu/apercu21.md:* conclu 19/10/21 = The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Strictly come dancing _19 > 1; 
-apercu/apercu21.md:* conclu 20/10/21 = The voice greece _8 > 4; Inhuman condition _1 > 3; Unbag _1 > 3; The voice us _21 > 2; Survivor au _6 > 1; Dont say no _1 > 1; 
+apercu/apercu21.md:* conclu 19/10/21 = Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
+apercu/apercu21.md:* conclu 20/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; Dont say no _1 > 1; 
 apercu/apercu21.md:* conclu 21/09/21 = Unbag _1 > 6; Dont say no _1 > 1; 
-apercu/apercu21.md:* conclu 21/10/21 = The voice us _21 > 6; Inhuman condition _1 > 3; Unbag _1 > 3; The voice greece _8 > 2; Survivor au _6 > 2; Dont say no _1 > 1; 
+apercu/apercu21.md:* conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
 apercu/apercu21.md:* conclu 22/09/21 = Unbag _1 > 6; Dont say no _1 > 1; 
-apercu/apercu21.md:* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; The voice us _21 > 2; The voice greece _8 > 2; Survivor au _6 > 2; Dont say no _1 > 1; 
-apercu/apercu21.md:* conclu 23/10/21 = Unbag _1 > 6; The voice us _21 > 3; The voice greece _8 > 3; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
+apercu/apercu21.md:* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
+apercu/apercu21.md:* conclu 23/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
 apercu/apercu21.md:* conclu 26/09/21 = Unbag _1 > 3; Dont say no _1 > 2; 
 apercu/apercu21.md:* conclu 27/09/21 = Unbag _1 > 3; Dont say no _1 > 1; 
-apercu/apercu21.md:* conclu 28/09/21 = Unbag _1 > 3; The voice greece _8 > 2; Dont say no _1 > 1; 
+apercu/apercu21.md:* conclu 28/09/21 = Unbag _1 > 3; Dont say no _1 > 1; 
 apercu/apercu21.md:* conclu 29/08/21 = Unbag _1 > 6; Dont say no _1 > 1; 
-apercu/apercu21.md:* conclu 29/09/21 = Unbag _1 > 3; The voice greece _8 > 2; Dont say no _1 > 1; 
-apercu/apercu21.md:* conclu 30/09/21 = Unbag _1 > 3; Dont say no _1 > 2; The voice greece _8 > 2; 
-apercu/apercu21.md:* concluBis 01/10/21 = Survivor _41 > 5; Dont say no _1 > 4; The voice greece _8 > 4; The masked singer _6 > 4; /9-1-1 _5 > 4; 
-apercu/apercu21.md:* concluBis 01/11/21 = The voice greece _8 > 12; Unbag _1 > 10; The voice us _21 > 9; Strictly come dancing _19 > 9; The voice ger _11 > 3; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 02/10/21 = The voice greece _8 > 5; Unbag _1 > 5; Dont say no _1 > 4; The voice esp _8 > 3; 
-apercu/apercu21.md:* concluBis 02/11/21 = The voice greece _8 > 13; Strictly come dancing _19 > 13; Unbag _1 > 10; The voice us _21 > 7; The voice ger _11 > 5; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 03/10/21 = The voice greece _8 > 8; Unbag _1 > 5; Dont say no _1 > 4; The voice us _21 > 1; 
-apercu/apercu21.md:* concluBis 04/10/21 = The voice greece _8 > 9; Unbag _1 > 5; Dont say no _1 > 3; Strictly come dancing _19 > 3; 
-apercu/apercu21.md:* concluBis 04/11/21 = The voice us _21 > 15; Unbag _1 > 10; The voice greece _8 > 9; Strictly come dancing _19 > 9; The voice ger _11 > 4; Koh-lanta _27 > 1; Dont say no _1 > 1; 
+apercu/apercu21.md:* conclu 29/09/21 = Unbag _1 > 3; Dont say no _1 > 1; 
+apercu/apercu21.md:* conclu 30/09/21 = Unbag _1 > 3; Dont say no _1 > 2; 
+apercu/apercu21.md:* concluBis 01/10/21 = Dont say no _1 > 4; /9-1-1 _5 > 4; 
+apercu/apercu21.md:* concluBis 01/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 02/10/21 = Unbag _1 > 5; Dont say no _1 > 4; 
+apercu/apercu21.md:* concluBis 02/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 03/10/21 = Unbag _1 > 5; Dont say no _1 > 4; 
+apercu/apercu21.md:* concluBis 04/10/21 = Unbag _1 > 5; Dont say no _1 > 3; 
+apercu/apercu21.md:* concluBis 04/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
 apercu/apercu21.md:* concluBis 05/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 05/10/21 = Unbag _1 > 5; Dont say no _1 > 2; The voice greece _8 > 2; Strictly come dancing _19 > 2; 
-apercu/apercu21.md:* concluBis 05/11/21 = The voice us _21 > 14; Unbag _1 > 10; The voice ger _11 > 9; The voice greece _8 > 8; Strictly come dancing _19 > 7; Koh-lanta _27 > 1; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 05/10/21 = Unbag _1 > 5; Dont say no _1 > 2; 
+apercu/apercu21.md:* concluBis 05/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
 apercu/apercu21.md:* concluBis 06/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 06/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 2; The voice greece _8 > 2; 
-apercu/apercu21.md:* concluBis 06/11/21 = The voice us _21 > 11; Unbag _1 > 10; The voice ger _11 > 8; The voice greece _8 > 7; Strictly come dancing _19 > 6; Koh-lanta _27 > 1; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 07/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 07/11/21 = The voice greece _8 > 12; Unbag _1 > 10; Strictly come dancing _19 > 10; The voice us _21 > 8; The voice ger _11 > 8; Kieta hatsukoi _1 > 3; Koh-lanta _27 > 1; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 08/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 08/11/21 = The voice greece _8 > 17; Strictly come dancing _19 > 12; Unbag _1 > 10; The voice ger _11 > 10; The voice us _21 > 6; Kieta hatsukoi _1 > 2; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 09/11/21 = The voice greece _8 > 15; Unbag _1 > 10; Strictly come dancing _19 > 10; The voice ger _11 > 10; The voice us _21 > 6; Kieta hatsukoi _1 > 4; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 10/10/21 = Unbag _1 > 10; Dont say no _1 > 2; The voice greece _8 > 2; Strictly come dancing _19 > 1; 
+apercu/apercu21.md:* concluBis 06/10/21 = Unbag _1 > 5; Dont say no _1 > 2; 
+apercu/apercu21.md:* concluBis 06/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 07/10/21 = Unbag _1 > 5; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 07/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 3; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 08/10/21 = Unbag _1 > 5; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 08/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 2; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 09/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 4; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 10/10/21 = Unbag _1 > 10; Dont say no _1 > 2; 
 apercu/apercu21.md:* concluBis 11/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 11/10/21 = Unbag _1 > 10; The voice greece _8 > 4; Dont say no _1 > 2; Strictly come dancing _19 > 2; 
+apercu/apercu21.md:* concluBis 11/10/21 = Unbag _1 > 10; Dont say no _1 > 2; 
 apercu/apercu21.md:* concluBis 12/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 12/10/21 = Unbag _1 > 10; The voice greece _8 > 9; Strictly come dancing _19 > 6; Dont say no _1 > 4; Love area _1 > 1; 
+apercu/apercu21.md:* concluBis 12/10/21 = Unbag _1 > 10; Dont say no _1 > 4; Love area _1 > 1; 
 apercu/apercu21.md:* concluBis 13/09/21 = Unbag _1 > 10; Buffy _1 > 3; Peach of time _1 > 2; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 13/10/21 = Unbag _1 > 10; The voice greece _8 > 8; The voice us _21 > 7; Dont say no _1 > 4; Strictly come dancing _19 > 4; 
-apercu/apercu21.md:* concluBis 14/10/21 = Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 4; The voice greece _8 > 4; Strictly come dancing _19 > 3; 
-apercu/apercu21.md:* concluBis 15/10/21 = Unbag _1 > 10; The voice us _21 > 10; Dont say no _1 > 6; The voice greece _8 > 6; Strictly come dancing _19 > 5; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 16/10/21 = Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 6; The voice greece _8 > 4; The voice ger _11 > 4; Strictly come dancing _19 > 3; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 17/10/21 = Unbag _1 > 10; The voice greece _8 > 10; Strictly come dancing _19 > 7; Dont say no _1 > 6; The voice us _21 > 3; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
+apercu/apercu21.md:* concluBis 13/10/21 = Unbag _1 > 10; Dont say no _1 > 4; 
+apercu/apercu21.md:* concluBis 14/10/21 = Unbag _1 > 10; Dont say no _1 > 4; 
+apercu/apercu21.md:* concluBis 15/10/21 = Unbag _1 > 10; Dont say no _1 > 6; Forever knight _1 > 1; 
+apercu/apercu21.md:* concluBis 16/10/21 = Unbag _1 > 10; Dont say no _1 > 6; Forever knight _1 > 1; 
+apercu/apercu21.md:* concluBis 17/10/21 = Unbag _1 > 10; Dont say no _1 > 6; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 18/09/21 = Unbag _1 > 10; Dont say no _1 > 5; Peach of time _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-apercu/apercu21.md:* concluBis 18/10/21 = The voice greece _8 > 11; Dont say no _1 > 7; Strictly come dancing _19 > 6; Unbag _1 > 5; Survivor au _6 > 4; The voice us _21 > 2; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercu21.md:* concluBis 18/10/21 = Dont say no _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercu21.md:* concluBis 19/09/21 = Unbag _1 > 10; Dont say no _1 > 4; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 19/10/21 = The voice greece _8 > 11; Dont say no _1 > 7; Strictly come dancing _19 > 6; Unbag _1 > 5; Survivor au _6 > 4; The voice us _21 > 2; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercu21.md:* concluBis 19/10/21 = Dont say no _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercu21.md:* concluBis 20/09/21 = Unbag _1 > 10; Dont say no _1 > 2; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 20/10/21 = The voice greece _8 > 9; The voice us _21 > 7; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercu21.md:* concluBis 20/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; 
 apercu/apercu21.md:* concluBis 21/09/21 = Unbag _1 > 10; Dont say no _1 > 4; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 21/10/21 = The voice us _21 > 13; Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercu21.md:* concluBis 21/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; 
 apercu/apercu21.md:* concluBis 22/09/21 = Unbag _1 > 10; Dont say no _1 > 3; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 22/10/21 = Unbag _1 > 10; The voice us _21 > 9; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Dont say no _1 > 3; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercu21.md:* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; 
 apercu/apercu21.md:* concluBis 23/08/21 = Unbag _1 > 10; Dont say no _1 > 1; 
 apercu/apercu21.md:* concluBis 23/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 23/10/21 = Unbag _1 > 10; The voice us _21 > 10; The voice greece _8 > 7; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercu21.md:* concluBis 23/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; 
 apercu/apercu21.md:* concluBis 24/09/21 = Unbag _1 > 5; Dont say no _1 > 2; 
-apercu/apercu21.md:* concluBis 24/10/21 = The voice greece _8 > 11; Unbag _1 > 10; Strictly come dancing _19 > 6; Inhuman condition _1 > 6; The voice us _21 > 5; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; Dont say no _1 > 2; 
-apercu/apercu21.md:* concluBis 25/10/21 = The voice greece _8 > 16; Unbag _1 > 10; Strictly come dancing _19 > 10; Inhuman condition _1 > 7; The voice us _21 > 5; Young sheldon _5 > 2; Dont say no _1 > 2; Koh-lanta _27 > 1; My sweet dear _1 > 1; 
-apercu/apercu21.md:* concluBis 26/09/21 = Dont say no _1 > 6; Unbag _1 > 5; Strictly come dancing _19 > 2; 
-apercu/apercu21.md:* concluBis 26/10/21 = The voice greece _8 > 15; Unbag _1 > 10; Strictly come dancing _19 > 9; Inhuman condition _1 > 7; The voice us _21 > 5; Tbbt _11 > 4; Dont say no _1 > 2; Koh-lanta _27 > 1; Young sheldon _5 > 1; 
-apercu/apercu21.md:* concluBis 27/09/21 = Unbag _1 > 5; Dont say no _1 > 3; The voice esp _8 > 1; 
-apercu/apercu21.md:* concluBis 27/10/21 = The voice greece _8 > 14; The voice us _21 > 14; Unbag _1 > 10; Strictly come dancing _19 > 6; The masked singer _6 > 4; Tbbt _11 > 3; Koh-lanta _27 > 2; Dont say no _1 > 1; 
+apercu/apercu21.md:* concluBis 24/10/21 = Unbag _1 > 10; Inhuman condition _1 > 6; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; Dont say no _1 > 2; 
+apercu/apercu21.md:* concluBis 25/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Young sheldon _5 > 2; Dont say no _1 > 2; My sweet dear _1 > 1; 
+apercu/apercu21.md:* concluBis 26/09/21 = Dont say no _1 > 6; Unbag _1 > 5; 
+apercu/apercu21.md:* concluBis 26/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Tbbt _11 > 4; Dont say no _1 > 2; Young sheldon _5 > 1; 
+apercu/apercu21.md:* concluBis 27/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
+apercu/apercu21.md:* concluBis 27/10/21 = Unbag _1 > 10; Tbbt _11 > 3; Dont say no _1 > 1; 
 apercu/apercu21.md:* concluBis 28/08/21 = Unbag _1 > 10; Dont say no _1 > 2; 
-apercu/apercu21.md:* concluBis 28/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; 
-apercu/apercu21.md:* concluBis 28/10/21 = The voice us _21 > 18; The voice greece _8 > 12; Unbag _1 > 10; Strictly come dancing _19 > 6; The masked singer _6 > 4; Tbbt _11 > 3; Dont say no _1 > 2; Koh-lanta _27 > 1; 
+apercu/apercu21.md:* concluBis 28/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
+apercu/apercu21.md:* concluBis 28/10/21 = Unbag _1 > 10; Tbbt _11 > 3; Dont say no _1 > 2; 
 apercu/apercu21.md:* concluBis 29/08/21 = Unbag _1 > 10; Dont say no _1 > 3; 
-apercu/apercu21.md:* concluBis 29/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; The voice us _21 > 1; 
-apercu/apercu21.md:* concluBis 29/10/21 = The voice us _21 > 17; The voice greece _8 > 12; Unbag _1 > 10; Strictly come dancing _19 > 6; Tbbt _11 > 3; Dont say no _1 > 2; Koh-lanta _27 > 1; 
+apercu/apercu21.md:* concluBis 29/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
+apercu/apercu21.md:* concluBis 29/10/21 = Unbag _1 > 10; Tbbt _11 > 3; Dont say no _1 > 2; 
 apercu/apercu21.md:* concluBis 30/08/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 30/09/21 = Unbag _1 > 5; Dont say no _1 > 4; The voice greece _8 > 4; The voice us _21 > 2; 
-apercu/apercu21.md:* concluBis 30/10/21 = The voice us _21 > 15; Unbag _1 > 10; The voice greece _8 > 10; The voice ger _11 > 7; Strictly come dancing _19 > 5; Dont say no _1 > 2; Koh-lanta _27 > 1; The voice esp _8 > 1; Tbbt _11 > 1; 
+apercu/apercu21.md:* concluBis 30/09/21 = Unbag _1 > 5; Dont say no _1 > 4; 
+apercu/apercu21.md:* concluBis 30/10/21 = Unbag _1 > 10; Dont say no _1 > 2; Tbbt _11 > 1; 
 apercu/apercu21.md:* concluBis 31/08/21 = Unbag _1 > 10; Peach of time _1 > 2; Dont say no _1 > 1; 
-apercu/apercu21.md:* concluBis 31/10/21 = The voice greece _8 > 15; Strictly come dancing _19 > 13; Unbag _1 > 10; The voice us _21 > 9; The voice ger _11 > 3; Dont say no _1 > 1; 
-apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(2) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercuglobal.md:- mois 01-10-2021 Survivor _41x3(2) /9-1-1 _5x3(2) The masked singer _6x4(3) The voice us _21x5(4) Koh-lanta _27x6(3) The voice greece _8x5(4) Goblin _1x2(1) Strictly come dancing _19x3(2) The voice esp _8x3(2) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Josephine ange gardien _24x3(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-apercu/apercuglobal.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Koh-lanta _27x3(1) Camping paradis _12x5(1) 
+apercu/apercu21.md:* concluBis 31/10/21 = Unbag _1 > 10; Dont say no _1 > 1; 
+apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+apercu/apercuglobal.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+apercu/apercuglobal.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 apercu/apercuglobal.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Strictly come dancing _19x7(2) The voice greece _8x9(2) Love area _1x3(2) Dont say no _1x11(2) The voice ger _11x2(1) Young sheldon _5x2(1) Unbag _1x32(1) Survivor _41x4(1) The voice esp _8x5(1) The masked singer _6x5(1) The voice us _21x7(2) Koh-lanta _27x7(1) 
+apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) Unbag _1x32(1) 
 apercu/apercuglobal.md:- sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
 apercu/apercuglobal.md:- sem 16-08-2021 Dont say no _1x3(1) 
-apercu/apercuglobal.md:- sem 20-09-2021 Post mortem _1x4(1) Strictly come dancing _19x2(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Koh-lanta _27x4(1) Peach of time _1x7(1) Josephine ange gardien _24x3(1) 7project _1x4(1) 
+apercu/apercuglobal.md:- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) 7project _1x4(1) 
 apercu/apercuglobal.md:- sem 23-08-2021 Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
-apercu/apercuglobal.md:- sem 27-09-2021 The voice greece _8x2(1) Goblin _1x2(1) Strictly come dancing _19x3(1) The voice esp _8x3(2) Dont say no _1x9(1) Earthmix space _1x3(1) The masked singer _6x3(2) Rpdruk _3x2(1) Survivor _41x2(1) The voice us _21x3(2) Koh-lanta _27x5(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
-apercu/apercuglobal.md:- sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) Koh-lanta _27x2(1) From dusk till dawn _2x6(1) 
-apercu/apercuglobal.md:* conclu 01/10/21 = Survivor _41 > 3; Dont say no _1 > 2; The voice greece _8 > 2; /9-1-1 _5 > 2; 
-apercu/apercuglobal.md:* conclu 02/10/21 = The voice greece _8 > 3; Unbag _1 > 3; Dont say no _1 > 2; The voice esp _8 > 1; 
-apercu/apercuglobal.md:* conclu 03/10/21 = The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 2; 
-apercu/apercuglobal.md:* conclu 04/10/21 = The voice greece _8 > 4; Unbag _1 > 3; Dont say no _1 > 1; Strictly come dancing _19 > 1; 
-apercu/apercuglobal.md:* conclu 15/10/21 = Unbag _1 > 6; The voice us _21 > 4; Dont say no _1 > 2; The voice greece _8 > 1; Strictly come dancing _19 > 1; 
-apercu/apercuglobal.md:* conclu 16/10/21 = Unbag _1 > 6; Dont say no _1 > 2; The voice us _21 > 2; The voice ger _11 > 2; The voice greece _8 > 1; 
-apercu/apercuglobal.md:* conclu 17/10/21 = Unbag _1 > 6; The voice greece _8 > 5; Strictly come dancing _19 > 3; Dont say no _1 > 2; The voice us _21 > 1; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercuglobal.md:- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
+apercu/apercuglobal.md:- sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
+apercu/apercuglobal.md:* conclu 01/10/21 = Dont say no _1 > 2; /9-1-1 _5 > 2; 
+apercu/apercuglobal.md:* conclu 02/10/21 = Unbag _1 > 3; Dont say no _1 > 2; 
+apercu/apercuglobal.md:* conclu 03/10/21 = Unbag _1 > 3; Dont say no _1 > 2; 
+apercu/apercuglobal.md:* conclu 04/10/21 = Unbag _1 > 3; Dont say no _1 > 1; 
+apercu/apercuglobal.md:* conclu 15/10/21 = Unbag _1 > 6; Dont say no _1 > 2; 
+apercu/apercuglobal.md:* conclu 16/10/21 = Unbag _1 > 6; Dont say no _1 > 2; 
+apercu/apercuglobal.md:* conclu 17/10/21 = Unbag _1 > 6; Dont say no _1 > 2; Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercuglobal.md:* conclu 18/09/21 = Unbag _1 > 6; Dont say no _1 > 2; 
-apercu/apercuglobal.md:* conclu 18/10/21 = The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Strictly come dancing _19 > 1; 
+apercu/apercuglobal.md:* conclu 18/10/21 = Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
 apercu/apercuglobal.md:* conclu 19/09/21 = Unbag _1 > 6; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* conclu 19/10/21 = The voice greece _8 > 4; Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Strictly come dancing _19 > 1; 
-apercu/apercuglobal.md:* conclu 20/10/21 = The voice greece _8 > 4; Inhuman condition _1 > 3; Unbag _1 > 3; The voice us _21 > 2; Survivor au _6 > 1; Dont say no _1 > 1; 
+apercu/apercuglobal.md:* conclu 19/10/21 = Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
+apercu/apercuglobal.md:* conclu 20/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; Dont say no _1 > 1; 
 apercu/apercuglobal.md:* conclu 21/09/21 = Unbag _1 > 6; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* conclu 21/10/21 = The voice us _21 > 6; Inhuman condition _1 > 3; Unbag _1 > 3; The voice greece _8 > 2; Survivor au _6 > 2; Dont say no _1 > 1; 
+apercu/apercuglobal.md:* conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
 apercu/apercuglobal.md:* conclu 22/09/21 = Unbag _1 > 6; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; The voice us _21 > 2; The voice greece _8 > 2; Survivor au _6 > 2; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* conclu 23/10/21 = Unbag _1 > 6; The voice us _21 > 3; The voice greece _8 > 3; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
+apercu/apercuglobal.md:* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
+apercu/apercuglobal.md:* conclu 23/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
 apercu/apercuglobal.md:* conclu 26/09/21 = Unbag _1 > 3; Dont say no _1 > 2; 
 apercu/apercuglobal.md:* conclu 27/09/21 = Unbag _1 > 3; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* conclu 28/09/21 = Unbag _1 > 3; The voice greece _8 > 2; Dont say no _1 > 1; 
+apercu/apercuglobal.md:* conclu 28/09/21 = Unbag _1 > 3; Dont say no _1 > 1; 
 apercu/apercuglobal.md:* conclu 29/08/21 = Unbag _1 > 6; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* conclu 29/09/21 = Unbag _1 > 3; The voice greece _8 > 2; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* conclu 30/09/21 = Unbag _1 > 3; Dont say no _1 > 2; The voice greece _8 > 2; 
-apercu/apercuglobal.md:* concluBis 01/10/21 = Survivor _41 > 5; Dont say no _1 > 4; The voice greece _8 > 4; The masked singer _6 > 4; /9-1-1 _5 > 4; 
-apercu/apercuglobal.md:* concluBis 02/10/21 = The voice greece _8 > 5; Unbag _1 > 5; Dont say no _1 > 4; The voice esp _8 > 3; 
-apercu/apercuglobal.md:* concluBis 03/10/21 = The voice greece _8 > 8; Unbag _1 > 5; Dont say no _1 > 4; The voice us _21 > 1; 
-apercu/apercuglobal.md:* concluBis 04/10/21 = The voice greece _8 > 9; Unbag _1 > 5; Dont say no _1 > 3; Strictly come dancing _19 > 3; 
+apercu/apercuglobal.md:* conclu 29/09/21 = Unbag _1 > 3; Dont say no _1 > 1; 
+apercu/apercuglobal.md:* conclu 30/09/21 = Unbag _1 > 3; Dont say no _1 > 2; 
+apercu/apercuglobal.md:* concluBis 01/10/21 = Dont say no _1 > 4; /9-1-1 _5 > 4; 
+apercu/apercuglobal.md:* concluBis 02/10/21 = Unbag _1 > 5; Dont say no _1 > 4; 
+apercu/apercuglobal.md:* concluBis 03/10/21 = Unbag _1 > 5; Dont say no _1 > 4; 
+apercu/apercuglobal.md:* concluBis 04/10/21 = Unbag _1 > 5; Dont say no _1 > 3; 
 apercu/apercuglobal.md:* concluBis 05/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 05/10/21 = Unbag _1 > 5; Dont say no _1 > 2; The voice greece _8 > 2; Strictly come dancing _19 > 2; 
+apercu/apercuglobal.md:* concluBis 05/10/21 = Unbag _1 > 5; Dont say no _1 > 2; 
 apercu/apercuglobal.md:* concluBis 06/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 06/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 2; The voice greece _8 > 2; 
-apercu/apercuglobal.md:* concluBis 07/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 08/10/21 = Unbag _1 > 5; The voice us _21 > 3; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 10/10/21 = Unbag _1 > 10; Dont say no _1 > 2; The voice greece _8 > 2; Strictly come dancing _19 > 1; 
+apercu/apercuglobal.md:* concluBis 06/10/21 = Unbag _1 > 5; Dont say no _1 > 2; 
+apercu/apercuglobal.md:* concluBis 07/10/21 = Unbag _1 > 5; Dont say no _1 > 1; 
+apercu/apercuglobal.md:* concluBis 08/10/21 = Unbag _1 > 5; Dont say no _1 > 1; 
+apercu/apercuglobal.md:* concluBis 10/10/21 = Unbag _1 > 10; Dont say no _1 > 2; 
 apercu/apercuglobal.md:* concluBis 11/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 11/10/21 = Unbag _1 > 10; The voice greece _8 > 4; Dont say no _1 > 2; Strictly come dancing _19 > 2; 
+apercu/apercuglobal.md:* concluBis 11/10/21 = Unbag _1 > 10; Dont say no _1 > 2; 
 apercu/apercuglobal.md:* concluBis 12/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 12/10/21 = Unbag _1 > 10; The voice greece _8 > 9; Strictly come dancing _19 > 6; Dont say no _1 > 4; Love area _1 > 1; 
+apercu/apercuglobal.md:* concluBis 12/10/21 = Unbag _1 > 10; Dont say no _1 > 4; Love area _1 > 1; 
 apercu/apercuglobal.md:* concluBis 13/09/21 = Unbag _1 > 10; Buffy _1 > 3; Peach of time _1 > 2; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 13/10/21 = Unbag _1 > 10; The voice greece _8 > 8; The voice us _21 > 7; Dont say no _1 > 4; Strictly come dancing _19 > 4; 
-apercu/apercuglobal.md:* concluBis 14/10/21 = Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 4; The voice greece _8 > 4; Strictly come dancing _19 > 3; 
-apercu/apercuglobal.md:* concluBis 15/10/21 = Unbag _1 > 10; The voice us _21 > 10; Dont say no _1 > 6; The voice greece _8 > 6; Strictly come dancing _19 > 5; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 16/10/21 = Unbag _1 > 10; The voice us _21 > 8; Dont say no _1 > 6; The voice greece _8 > 4; The voice ger _11 > 4; Strictly come dancing _19 > 3; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 17/10/21 = Unbag _1 > 10; The voice greece _8 > 10; Strictly come dancing _19 > 7; Dont say no _1 > 6; The voice us _21 > 3; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
+apercu/apercuglobal.md:* concluBis 13/10/21 = Unbag _1 > 10; Dont say no _1 > 4; 
+apercu/apercuglobal.md:* concluBis 14/10/21 = Unbag _1 > 10; Dont say no _1 > 4; 
+apercu/apercuglobal.md:* concluBis 15/10/21 = Unbag _1 > 10; Dont say no _1 > 6; Forever knight _1 > 1; 
+apercu/apercuglobal.md:* concluBis 16/10/21 = Unbag _1 > 10; Dont say no _1 > 6; Forever knight _1 > 1; 
+apercu/apercuglobal.md:* concluBis 17/10/21 = Unbag _1 > 10; Dont say no _1 > 6; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 18/09/21 = Unbag _1 > 10; Dont say no _1 > 5; Peach of time _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-apercu/apercuglobal.md:* concluBis 18/10/21 = The voice greece _8 > 11; Dont say no _1 > 7; Strictly come dancing _19 > 6; Unbag _1 > 5; Survivor au _6 > 4; The voice us _21 > 2; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercuglobal.md:* concluBis 18/10/21 = Dont say no _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercuglobal.md:* concluBis 19/09/21 = Unbag _1 > 10; Dont say no _1 > 4; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 19/10/21 = The voice greece _8 > 11; Dont say no _1 > 7; Strictly come dancing _19 > 6; Unbag _1 > 5; Survivor au _6 > 4; The voice us _21 > 2; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercuglobal.md:* concluBis 19/10/21 = Dont say no _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercuglobal.md:* concluBis 20/09/21 = Unbag _1 > 10; Dont say no _1 > 2; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 20/10/21 = The voice greece _8 > 9; The voice us _21 > 7; Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercuglobal.md:* concluBis 20/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; 
 apercu/apercuglobal.md:* concluBis 21/09/21 = Unbag _1 > 10; Dont say no _1 > 4; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 21/10/21 = The voice us _21 > 13; Inhuman condition _1 > 7; The voice greece _8 > 6; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercuglobal.md:* concluBis 21/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; 
 apercu/apercuglobal.md:* concluBis 22/09/21 = Unbag _1 > 10; Dont say no _1 > 3; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 22/10/21 = Unbag _1 > 10; The voice us _21 > 9; Inhuman condition _1 > 7; The voice greece _8 > 6; Survivor au _6 > 4; Dont say no _1 > 3; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercuglobal.md:* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; 
 apercu/apercuglobal.md:* concluBis 23/08/21 = Unbag _1 > 10; Dont say no _1 > 1; 
 apercu/apercuglobal.md:* concluBis 23/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 23/10/21 = Unbag _1 > 10; The voice us _21 > 10; The voice greece _8 > 7; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; Koh-lanta _27 > 1; Strictly come dancing _19 > 1; 
+apercu/apercuglobal.md:* concluBis 23/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; 
 apercu/apercuglobal.md:* concluBis 24/09/21 = Unbag _1 > 5; Dont say no _1 > 2; 
-apercu/apercuglobal.md:* concluBis 26/09/21 = Dont say no _1 > 6; Unbag _1 > 5; Strictly come dancing _19 > 2; 
-apercu/apercuglobal.md:* concluBis 27/09/21 = Unbag _1 > 5; Dont say no _1 > 3; The voice esp _8 > 1; 
+apercu/apercuglobal.md:* concluBis 26/09/21 = Dont say no _1 > 6; Unbag _1 > 5; 
+apercu/apercuglobal.md:* concluBis 27/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
 apercu/apercuglobal.md:* concluBis 28/08/21 = Unbag _1 > 10; Dont say no _1 > 2; 
-apercu/apercuglobal.md:* concluBis 28/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; 
+apercu/apercuglobal.md:* concluBis 28/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
 apercu/apercuglobal.md:* concluBis 29/08/21 = Unbag _1 > 10; Dont say no _1 > 3; 
-apercu/apercuglobal.md:* concluBis 29/09/21 = Unbag _1 > 5; The voice greece _8 > 4; Dont say no _1 > 3; The voice us _21 > 1; 
+apercu/apercuglobal.md:* concluBis 29/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
 apercu/apercuglobal.md:* concluBis 30/08/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-apercu/apercuglobal.md:* concluBis 30/09/21 = Unbag _1 > 5; Dont say no _1 > 4; The voice greece _8 > 4; The voice us _21 > 2; 
+apercu/apercuglobal.md:* concluBis 30/09/21 = Unbag _1 > 5; Dont say no _1 > 4; 
 apercu/apercuglobal.md:* concluBis 31/08/21 = Unbag _1 > 10; Peach of time _1 > 2; Dont say no _1 > 1; 
 apercuTer/apercuTer.md:* Dont say no _1
