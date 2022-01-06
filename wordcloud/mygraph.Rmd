@@ -282,8 +282,9 @@ box()
 # max(table(df$sem1))*1.1
 ```
 
+
+```{r regress0, eval=FALSE, include=FALSE}
 ### regression max
-```{r regress0, echo = FALSE}
 Prestige <- copy.max()
     Prestige <- as_tibble(Prestige)
      layout(matrix(1:4,2,2))
@@ -302,8 +303,9 @@ plot(prest.lm1,1)
 # influenceIndexPlot(prest.lm1)
 ```
 
+
+```{r regress1, echo = FALSE, include=FALSE}
 ### regression1 nbCarConclu~nbCarConcluBis
-```{r regress1, echo = FALSE}
 # install.packages("car")
 Prestige <- copy.conclu()
     Prestige <- as_tibble(Prestige)
@@ -331,8 +333,9 @@ plot(prest.lm1,1)
 # influenceIndexPlot(prest.lm1)
 ```
 
+
+```{r regress2, echo = FALSE, include=FALSE}
 ### regression2 nc~ncb
-```{r regress2, echo = FALSE}
 # install.packages("car")
 Prestige <- copy.conclu()
     Prestige <- as_tibble(Prestige)
@@ -353,8 +356,9 @@ plot(prest.lm1, 3)
 plot(prest.lm1,1)
 ```
 
+
+```{r regress3, echo = FALSE, include=FALSE}
 ### regression3 nbCarConclu~nc
-```{r regress3, echo = FALSE}
 # install.packages("car")
 Prestige <- copy.conclu()
     Prestige <- as_tibble(Prestige)
@@ -375,8 +379,9 @@ plot(prest.lm1, 3)
 plot(prest.lm1,1)
 ```
 
+
+```{r regress4, echo = FALSE, include=FALSE}
 ### regression4 nbCarConcluBis~ncb
-```{r regress4, echo = FALSE}
 # install.packages("car")
 Prestige <- copy.conclu()
     Prestige <- as_tibble(Prestige)

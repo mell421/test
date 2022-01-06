@@ -88,23 +88,16 @@ data %>% filter(nb != "") %>% select(-
 X.,-nb,-total,-graph,-vide,-titre)
 ```
 
+
+```{r testConcl, eval=FALSE, include=FALSE}
 ### concl
-```{r testConcl , echo=FALSE}
-tab <- st(aTestConclu())
-tab
+#tab <- st(aConcl())
+#tab
 
-data <- data.frame(aTestConclu())
-data %>% filter(nbTotal != "") %>% select(-date,-nc,-nbTotal,-graph,-vide,-titre)
+data <- data.frame(aConcl())
+data %>% filter(nc >= 1) %>% select(-date,-nc,-nbTotal,-graph,-vide,-titre)
 ```
 
-### conclBis
-```{r testConclBis , echo=FALSE}
-tab <- st(aTestConcluBis())
-tab
-
-data <- data.frame(aTestConcluBis())
-data %>% filter(nbTotal != "") %>% select(-date,-ncb,-nbTotal,-graph,-vide,-titre)
-```
 
 ### MS
 ```{r testMS , echo=FALSE}
@@ -115,31 +108,11 @@ data <- data.frame(aTestMS())
 data %>% filter(nbTotal != "") %>% select(-date,-nrm,-nbTotal,-graph,-vide,-titre)
 ```
 
-### eff
-```{r testEff , echo=FALSE}
-tab <- st(aTestEff())
-tab
-
-data <- data.frame(aTestEff())
-data %>% filter(sum != "") %>% select(-X.,-X._1,-sum,-graph,-vide,-titre)
-```
-
-### resume
-```{r testResume , echo=FALSE}
-tab <- st(aTestResume())
-tab
-
-data <- data.frame(aTestResume())
-data %>% filter(total != "") %>% select(-date,-somme,-total,-sum,-graph,-vide,-titre)
-```
-
 ### page app
 ```{r testPA , echo=FALSE}
-tab <- st(aTestPA())
-tab
 
-data <- data.frame(aTestPA())
-data %>% filter(nb != "") %>% select(-nb,-X3,-titre,-tx,-sum,-graph,-vide)
+data <- data.frame(aPA())
+data %>% filter(nb != "") %>% select(-nb,-X3,-titre,-tx,-sum,-graph)
 ```
 
 <div style="page-break-after: always; visibility: hidden"> 
@@ -240,7 +213,7 @@ data <- data.frame(aCopyAll())
 
 ### conclu
 ```{r conclu, echo=FALSE}
-   data <- data.frame(aTestConclu())
+   data <- data.frame(aConcl())
         data <- data[2:4]
         data %>% filter(conclucompi.... != "")
     
@@ -248,7 +221,7 @@ data <- data.frame(aCopyAll())
 
 ### conclubis
 ```{r conclubis, echo=FALSE}
-data <- data.frame(aTestConcluBis())
+data <- data.frame(aConclBis())
         data <- data[2:4]
         data %>% filter(conclucompibis.... != "")
     

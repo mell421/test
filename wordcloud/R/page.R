@@ -217,8 +217,8 @@ aTestMS <- function(){
 }
 
 #34
-aTestEff <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=984518513')))
+aTestConcluAllEff <- function(){
+  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=456534638')))
   na.omit(table)
   return(table)
 }
