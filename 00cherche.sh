@@ -11,7 +11,7 @@ list99=(
 # 199-100
 "Peach of time _1" 
 # 99-50
-"The voice portugal _9" "Kieta hatsukoi _1" "Inhuman condition _1" "Survivor au _6" "Earthmix space _1" "Bad buddy _1" "Dexter _9" "Tbbt _11" 
+"The voice portugal _9" "Kieta hatsukoi _1" "Inhuman condition _1" "Survivor au _6" "Earthmix space _1" "Bad buddy _1" "Tbbt _11" 
 # 49-40
 "Rpdruk _3" "Do seu lado _1" 
 # 39-30
@@ -47,7 +47,7 @@ listAsc=(
 # 2
 "Inhuman condition _1" "The voice be _10" "5515 never too late _1" "The voice portugal _9" 
 # 3
-"Dexter _9" "Not me _1" "The player _1" "You are my sunshine _1" "Mr cinderella _1" 
+"Not me _1" "The player _1" "You are my sunshine _1" "Mr cinderella _1" 
 # 4
 "F4 thailand _1" "Earthmix space _1" "Bad buddy _1" "Paint with love _1" "The voice senior it _2" 
 # 5

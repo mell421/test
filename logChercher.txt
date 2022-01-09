@@ -1,8 +1,8 @@
 
 i = Unbag _1
 ligne :  1958 ZZ/Unbag_1.txt
-mot   :  24292 ZZ/Unbag_1.txt
-carac :  160610 ZZ/Unbag_1.txt
+mot   :  24284 ZZ/Unbag_1.txt
+carac :  160552 ZZ/Unbag_1.txt
 
 i = Dont say no _1
 ligne :  302 ZZ/Dontsayno_1.txt
@@ -16,13 +16,13 @@ carac :  16917 ZZ/Peachoftime_1.txt
 
 i = The voice portugal _9
 ligne :  40 ZZ/Thevoiceportugal_9.txt
-mot   :  737 ZZ/Thevoiceportugal_9.txt
-carac :  5075 ZZ/Thevoiceportugal_9.txt
+mot   :  705 ZZ/Thevoiceportugal_9.txt
+carac :  4857 ZZ/Thevoiceportugal_9.txt
 
 i = Kieta hatsukoi _1
 ligne :  65 ZZ/Kietahatsukoi_1.txt
-mot   :  1212 ZZ/Kietahatsukoi_1.txt
-carac :  8239 ZZ/Kietahatsukoi_1.txt
+mot   :  1192 ZZ/Kietahatsukoi_1.txt
+carac :  8101 ZZ/Kietahatsukoi_1.txt
 
 i = Inhuman condition _1
 ligne :  69 ZZ/Inhumancondition_1.txt
@@ -36,18 +36,13 @@ carac :  10626 ZZ/Survivorau_6.txt
 
 i = Earthmix space _1
 ligne :  31 ZZ/Earthmixspace_1.txt
-mot   :  719 ZZ/Earthmixspace_1.txt
-carac :  5038 ZZ/Earthmixspace_1.txt
+mot   :  709 ZZ/Earthmixspace_1.txt
+carac :  4967 ZZ/Earthmixspace_1.txt
 
 i = Bad buddy _1
 ligne :  24 ZZ/Badbuddy_1.txt
-mot   :  503 ZZ/Badbuddy_1.txt
-carac :  3326 ZZ/Badbuddy_1.txt
-
-i = Dexter _9
-ligne :  17 ZZ/Dexter_9.txt
-mot   :  354 ZZ/Dexter_9.txt
-carac :  2448 ZZ/Dexter_9.txt
+mot   :  487 ZZ/Badbuddy_1.txt
+carac :  3212 ZZ/Badbuddy_1.txt
 
 i = Tbbt _11
 ligne :  41 ZZ/Tbbt_11.txt
@@ -56,18 +51,18 @@ carac :  5539 ZZ/Tbbt_11.txt
 
 i = Rpdruk _3
 ligne :  26 ZZ/Rpdruk_3.txt
-mot   :  658 ZZ/Rpdruk_3.txt
-carac :  4022 ZZ/Rpdruk_3.txt
+mot   :  652 ZZ/Rpdruk_3.txt
+carac :  3979 ZZ/Rpdruk_3.txt
 
 i = Do seu lado _1
 ligne :  18 ZZ/Doseulado_1.txt
-mot   :  412 ZZ/Doseulado_1.txt
-carac :  2363 ZZ/Doseulado_1.txt
+mot   :  408 ZZ/Doseulado_1.txt
+carac :  2333 ZZ/Doseulado_1.txt
 
 i = The voice senior it _2
 ligne :  9 ZZ/Thevoiceseniorit_2.txt
-mot   :  388 ZZ/Thevoiceseniorit_2.txt
-carac :  2304 ZZ/Thevoiceseniorit_2.txt
+mot   :  384 ZZ/Thevoiceseniorit_2.txt
+carac :  2274 ZZ/Thevoiceseniorit_2.txt
 
 i = 5515 never too late _1
 ligne :  0 ZZ/5515nevertoolate_1.txt
@@ -81,18 +76,18 @@ carac :  5672 ZZ/Campingparadis_12.txt
 
 i = Painted with raven _1
 ligne :  7 ZZ/Paintedwithraven_1.txt
-mot   :  214 ZZ/Paintedwithraven_1.txt
-carac :  1370 ZZ/Paintedwithraven_1.txt
+mot   :  210 ZZ/Paintedwithraven_1.txt
+carac :  1340 ZZ/Paintedwithraven_1.txt
 
 i = Paint with love _1
 ligne :  5 ZZ/Paintwithlove_1.txt
-mot   :  165 ZZ/Paintwithlove_1.txt
-carac :  1123 ZZ/Paintwithlove_1.txt
+mot   :  157 ZZ/Paintwithlove_1.txt
+carac :  1067 ZZ/Paintwithlove_1.txt
 
 i = Mr cinderella _1
 ligne :  5 ZZ/Mrcinderella_1.txt
-mot   :  164 ZZ/Mrcinderella_1.txt
-carac :  1121 ZZ/Mrcinderella_1.txt
+mot   :  156 ZZ/Mrcinderella_1.txt
+carac :  1065 ZZ/Mrcinderella_1.txt
 
 i = 7project _1
 ligne :  29 ZZ/7project_1.txt
@@ -131,8 +126,8 @@ carac :  2728 ZZ/Aokivuanpaianonayami_1.txt
 
 i = Drag race it _1
 ligne :  16 ZZ/Dragraceit_1.txt
-mot   :  580 ZZ/Dragraceit_1.txt
-carac :  3389 ZZ/Dragraceit_1.txt
+mot   :  574 ZZ/Dragraceit_1.txt
+carac :  3344 ZZ/Dragraceit_1.txt
 
 i = Young sheldon _5
 ligne :  17 ZZ/Youngsheldon_5.txt
@@ -161,8 +156,8 @@ carac :  355 ZZ/Districtz_2.txt
 
 i = Baker boys _1
 ligne :  11 ZZ/Bakerboys_1.txt
-mot   :  288 ZZ/Bakerboys_1.txt
-carac :  1761 ZZ/Bakerboys_1.txt
+mot   :  284 ZZ/Bakerboys_1.txt
+carac :  1731 ZZ/Bakerboys_1.txt
 
 i = Tinted with you _1
 ligne :  0 ZZ/Tintedwithyou_1.txt
@@ -196,8 +191,8 @@ carac :  1382 ZZ/Lovearea_1.txt
 
 i = Les engages _3
 ligne :  6 ZZ/Lesengages_3.txt
-mot   :  151 ZZ/Lesengages_3.txt
-carac :  993 ZZ/Lesengages_3.txt
+mot   :  143 ZZ/Lesengages_3.txt
+carac :  937 ZZ/Lesengages_3.txt
 
 i = Goblin _1
 ligne :  9 ZZ/Goblin_1.txt
@@ -241,8 +236,8 @@ carac :  608 ZZ/Legomastersfr_2.txt
 
 i = Banana fish _1
 ligne :  4 ZZ/Bananafish_1.txt
-mot   :  103 ZZ/Bananafish_1.txt
-carac :  724 ZZ/Bananafish_1.txt
+mot   :  99 ZZ/Bananafish_1.txt
+carac :  694 ZZ/Bananafish_1.txt
 
 i = The voice be _10
 ligne :  2 ZZ/Thevoicebe_10.txt

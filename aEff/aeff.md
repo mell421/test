@@ -9,7 +9,7 @@
 - [a eff](#a-eff)
   - [sommaire](#sommaire)
   - [a eff](#a-eff-1)
-  - [(nb)](#nb)
+  - [nb](#nb)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -413,18 +413,16 @@
 \pagebreak 
 </div>
 
-## (nb)
+## nb
 - 22/10/20 - 151* quien es la mascara _2{1} 
 - 23/10/20 - 164* quien es la mascara _2{1} ben x jim _1{1} 
 - 24/10/20 - 135* swap test _1{0} 
 - 25/10/20 - 77* pogi lang hanap _1{0} 
 - 26/10/20 - 117* boys lockdown _1{2} 
 - 27/10/20 - 198* boys lockdown _1{2} 
-- 28/10/20 - 256* 
 - 29/10/20 - 164* pogi lang hanap _1{1} lakan _1{0} friend forever _1{8} 
 - 30/10/20 - 73* the stranded _1{0} unbag _1{10} pogi lang hanap _1{3} lakan _1{0} friend forever _1{8} 
 - 31/10/20 - 158* swap test _1{1} the stranded _1{0} unbag _1{10} 
-- 05/11/20 - 307* 
 - 06/11/20 - 253* unbag _1{12} blood _1{4} 
 - 07/11/20 - 173* unbag _1{12} blood _1{4} 
 - 08/11/20 - 222* lakan _1{2} pogi lang hanap _1{7} 
@@ -440,10 +438,6 @@
 - 19/11/20 - 372* pogi lang hanap _1{8} 
 - 20/11/20 - 308* unbag _1{14} pogi lang hanap _1{8} 
 - 21/11/20 - 205* unbag _1{14} 
-- 22/11/20 - 178* 
-- 23/11/20 - 274* 
-- 24/11/20 - 346* 
-- 25/11/20 - 421* 
 - 26/11/20 - 422* be love _1{0} 
 - 27/11/20 - 438* be love _1{0} 
 - 28/11/20 - 396* be love _1{0} 
@@ -454,7 +448,6 @@
 - 04/12/20 - 239* unbag _1{16} ghost runner _1{0} be love _1{6} 
 - 05/12/20 - 134* unbag _1{16} ghost runner _1{0} 
 - 06/12/20 - 148* unbag _1{16} 
-- 07/12/20 - 203* 
 - 08/12/20 - 311* tale of the nine tailed _1{0} 
 - 09/12/20 - 320* tale of the nine tailed _1{0} 
 - 10/12/20 - 356* tale of the nine tailed _1{0} 
@@ -491,16 +484,12 @@
 - 11/01/21 - 105* romantic blue _1{1} 
 - 12/01/21 - 70* romantic blue _1{1} 
 - 13/01/21 - 75* romantic blue _1{1} 
-- 14/01/21 - 94* 
 - 15/01/21 - 164* unbag _1{61} 
 - 16/01/21 - 151* warper series _1{0} unbag _1{63} 
-- 17/01/21 - 116* 
 - 18/01/21 - 128* koishite akuma _1{1} 
 - 19/01/21 - 148* koishite akuma _1{3} 
 - 20/01/21 - 140* koishite akuma _1{5} 
 - 21/01/21 - 131* koishite akuma _1{7} 
-- 22/01/21 - 113* 
-- 23/01/21 - 73* 
 - 24/01/21 - 89* ben x jim _1{2} 
 - 25/01/21 - 105* tien bromance _1{1} ben x jim _1{3} 
 - 26/01/21 - 425* the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
@@ -514,8 +503,6 @@
 - 03/02/21 - 143* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} be love _1{11} 
 - 04/02/21 - 145* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} 
 - 05/02/21 - 128* schools out lets date now _1{0} you never eat alone _1{1} 
-- 06/02/21 - 184* 
-- 07/02/21 - 192* 
 - 08/02/21 - 175* tbbt _11{1} the untamed _1{5} schools out lets date now _1{1} 
 - 09/02/21 - 219* tbbt _11{1} the untamed _1{5} schools out lets date now _1{2} 
 - 10/02/21 - 220* the harvest season _1{0} wabi show _1{0} tbbt _11{1} 
@@ -528,109 +515,43 @@
 - 17/02/21 - 199* you never eat alone _1{2} tokyo ghoul _3{2} my vampire boyfriend _1{9} 
 - 18/02/21 - 127* unlocked _1{2} my vampire boyfriend _1{10} you never eat alone _1{2} 
 - 19/02/21 - 191* unlocked _1{2} my vampire boyfriend _1{12} you never eat alone _1{2} 
-- 20/02/21 - 164* 
-- 21/02/21 - 191* 
-- 22/02/21 - 207* 
-- 23/02/21 - 226* 
-- 24/02/21 - 257* 
-- 25/02/21 - 163* 
 - 26/02/21 - 282* unbag _1{128} 
 - 27/02/21 - 329* unbag _1{130} 
 - 28/02/21 - 377* unbag _1{132} 
-- 01/03/21 - 279* 
 - 02/03/21 - 268* schools out lets date now _1{4} 
 - 03/03/21 - 579* you never eat alone _1{4} schools out lets date now _1{5} 
 - 04/03/21 - 610* you never eat alone _1{4} 
 - 05/03/21 - 618* you never eat alone _1{4} 
-- 06/03/21 - 587* 
-- 07/03/21 - 648* 
-- 08/03/21 - 687* 
-- 09/03/21 - 760* 
 - 10/03/21 - 702* you never eat alone _1{5} 
-- 11/03/21 - 552* 
 - 12/03/21 - 680* unbag _1{152} 
-- 13/03/21 - 852* 
-- 14/03/21 - 953* 
-- 15/03/21 - 788* 
-- 16/03/21 - 788* 
-- 17/03/21 - 779* 
-- 18/03/21 - 533* 
 - 19/03/21 - 474* bt21 vlog _1{0} schools out lets date now _1{6} 
 - 20/03/21 - 506* bt21 vlog _1{1} schools out lets date now _1{6} 
 - 21/03/21 - 657* bt21 vlog _1{2} 
-- 22/03/21 - 672* 
-- 23/03/21 - 659* 
-- 24/03/21 - 582* 
-- 25/03/21 - 195* 
-- 26/03/21 - 204* 
-- 27/03/21 - 171* 
-- 28/03/21 - 260* 
-- 29/03/21 - 652* 
-- 30/03/21 - 578* 
-- 31/03/21 - 640* 
-- 01/04/21 - 654* 
 - 02/04/21 - 375* unbag _1{196} 
 - 03/04/21 - 396* unbag _1{198} 
 - 04/04/21 - 414* unbag _1{200} 
-- 05/04/21 - 170* 
 - 06/04/21 - 620* mr lipstick _1{0} 
 - 07/04/21 - 714* mr lipstick _1{1} 
 - 08/04/21 - 739* mr lipstick _1{2} 
-- 09/04/21 - 681* 
-- 10/04/21 - 220* 
-- 11/04/21 - 225* 
-- 12/04/21 - 216* 
-- 13/04/21 - 253* 
-- 14/04/21 - 182* 
-- 15/04/21 - 154* 
 - 16/04/21 - 360* unbag _1{225} 
 - 17/04/21 - 457* unbag _1{227} 
 - 18/04/21 - 519* unbag _1{229} 
-- 19/04/21 - 276* 
-- 20/04/21 - 230* 
-- 21/04/21 - 290* 
-- 22/04/21 - 282* 
 - 23/04/21 - 116* i can see your voice fr _1{0} 
 - 24/04/21 - 140* i can see your voice fr _1{0} 
-- 25/04/21 - 224* 
-- 26/04/21 - 180* 
-- 27/04/21 - 639* 
-- 28/04/21 - 764* 
-- 29/04/21 - 763* 
 - 30/04/21 - 1045* unbag _1{253} 
 - 01/05/21 - 942* unbag _1{256} 
 - 02/05/21 - 449* unbag _1{258} 
-- 03/05/21 - 648* 
-- 04/05/21 - 757* 
-- 05/05/21 - 806* 
-- 06/05/21 - 846* 
-- 07/05/21 - 857* 
-- 08/05/21 - 190* 
-- 09/05/21 - 179* 
-- 10/05/21 - 709* 
-- 11/05/21 - 827* 
-- 12/05/21 - 852* 
-- 13/05/21 - 849* 
 - 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} 
 - 15/05/21 - 490* unbag _1{285} i can see your voice fr _1{2} 
 - 16/05/21 - 381* unbag _1{287} i can see your voice fr _1{2} 
-- 17/05/21 - 645* 
-- 18/05/21 - 790* 
 - 19/05/21 - 833* an eye for an eye _1{0} 
 - 20/05/21 - 909* an eye for an eye _1{0} 
 - 21/05/21 - 771* an eye for an eye _1{0} 
-- 22/05/21 - 761* 
-- 23/05/21 - 658* 
-- 24/05/21 - 659* 
-- 25/05/21 - 251* 
-- 26/05/21 - 329* 
-- 27/05/21 - 286* 
 - 28/05/21 - 1089* unbag _1{312} 
 - 29/05/21 - 989* dark blue kiss _1{0} unbag _1{314} 
 - 30/05/21 - 992* dark blue kiss _1{0} unbag _1{316} 
 - 31/05/21 - 951* dark blue kiss _1{1} unbag _1{319} 
 - 01/06/21 - 655* dark blue kiss _1{2} 
-- 02/06/21 - 682* 
 - 03/06/21 - 190* vincenzo _1{0} 
 - 04/06/21 - 179* vincenzo _1{2} 
 - 05/06/21 - 163* vincenzo _1{4} 
@@ -644,8 +565,6 @@
 - 13/06/21 - 505* unbag _1{346} 
 - 14/06/21 - 509* unbag _1{349} 
 - 15/06/21 - 504* unbag _1{351} 
-- 16/06/21 - 211* 
-- 17/06/21 - 233* 
 - 18/06/21 - 219* dark blue kiss _1{2} 
 - 19/06/21 - 265* elite _4{0} dark blue kiss _1{3} 
 - 20/06/21 - 276* elite _4{1} dark blue kiss _1{3} 
@@ -658,12 +577,6 @@
 - 27/06/21 - 503* unbag _1{375} 
 - 28/06/21 - 542* unbag _1{378} 
 - 29/06/21 - 554* unbag _1{380} 
-- 30/06/21 - 249* 
-- 01/07/21 - 287* 
-- 02/07/21 - 255* 
-- 03/07/21 - 202* 
-- 04/07/21 - 216* 
-- 05/07/21 - 253* 
 - 06/07/21 - 237* young royals _1{0} camping paradis _12{0} 
 - 07/07/21 - 256* young royals _1{2} camping paradis _12{1} 
 - 08/07/21 - 243* /46 days _1{0} young royals _1{2} camping paradis _12{1} 
@@ -689,9 +602,6 @@
 - 28/07/21 - 700* /46 days _1{30} unbag _1{441} 
 - 29/07/21 - 295* /46 days _1{31} 
 - 30/07/21 - 297* /46 days _1{32} 
-- 31/07/21 - 321* 
-- 01/08/21 - 316* 
-- 02/08/21 - 308* 
 - 03/08/21 - 310* glow up _2{3} 
 - 04/08/21 - 302* /46 days _1{38} glow up _2{3} 
 - 05/08/21 - 206* control z _2{0} /46 days _1{39} glow up _2{3} 
@@ -702,7 +612,6 @@
 - 10/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{469} 
 - 11/08/21 - 716* good singers _1{7} dont say no _1{1} unbag _1{471} 
 - 12/08/21 - 237* good singers _1{7} dont say no _1{1} 
-- 13/08/21 - 329* 
 - 14/08/21 - 274* dont say no _1{1} 
 - 15/08/21 - 298* dont say no _1{1} 
 - 16/08/21 - 311* dont say no _1{2} 
@@ -757,8 +666,6 @@
 - 04/10/21 - 124* the shipper _1{6} /9-1-1 _5{5} 
 - 05/10/21 - 166* the shipper _1{6} 
 - 06/10/21 - 232* the shipper _1{6} 
-- 07/10/21 - 302* 
-- 08/10/21 - 309* 
 - 09/10/21 - 183* young sheldon _5{0} 
 - 10/10/21 - 701* love area _1{0} dont say no _1{54} young sheldon _5{0} unbag _1{594} 
 - 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} dont say no _1{56} 
@@ -789,29 +696,29 @@
 - 05/11/21 - 822* unbag _1{650} the voice portugal _9{3} 
 - 06/11/21 - 748* bad buddy _1{2} earthmix space _1{6} unbag _1{652} 
 - 07/11/21 - 186* kieta hatsukoi _1{3} banana fish _1{0} bad buddy _1{2} 
-- 08/11/21 - 229* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{6} 
-- 09/11/21 - 237* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{7} 
-- 10/11/21 - 327* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{9} 
-- 11/11/21 - 346* the voice portugal _9{4} dexter _9{1} 
+- 08/11/21 - 229* the voice portugal _9{4} kieta hatsukoi _1{6} 
+- 09/11/21 - 237* the voice portugal _9{4} kieta hatsukoi _1{7} 
+- 10/11/21 - 327* the voice portugal _9{4} kieta hatsukoi _1{9} 
+- 11/11/21 - 346* the voice portugal _9{4} 
 - 12/11/21 - 308* the voice portugal _9{4} 
 - 13/11/21 - 206* bad buddy _1{3} 
 - 14/11/21 - 212* bad buddy _1{3} 
-- 15/11/21 - 273* the voice portugal _9{4} dexter _9{1} bad buddy _1{3} 
-- 16/11/21 - 292* the case study of vanitas _1{0} kieta hatsukoi _1{17} the voice portugal _9{5} dexter _9{2} 
+- 15/11/21 - 273* the voice portugal _9{4} bad buddy _1{3} 
+- 16/11/21 - 292* the case study of vanitas _1{0} kieta hatsukoi _1{17} the voice portugal _9{5} 
 - 17/11/21 - 386* the case study of vanitas _1{2} kieta hatsukoi _1{17} the voice portugal _9{5} 
 - 18/11/21 - 244* the case study of vanitas _1{3} kieta hatsukoi _1{17} 
 - 19/11/21 - 209* drag race it _1{0} the case study of vanitas _1{4} kieta hatsukoi _1{17} 
 - 20/11/21 - 236* bad buddy _1{4} les engages _3{0} drag race it _1{0} 
 - 21/11/21 - 331* bad buddy _1{4} les engages _3{0} drag race it _1{0} 
-- 22/11/21 - 328* the voice portugal _9{5} dexter _9{2} bad buddy _1{4} les engages _3{0} 
-- 23/11/21 - 327* the voice portugal _9{6} dexter _9{3} bad buddy _1{5} les engages _3{1} 
-- 24/11/21 - 455* rpdruk _3{2} the voice portugal _9{7} dexter _9{3} 
+- 22/11/21 - 328* the voice portugal _9{5} bad buddy _1{4} les engages _3{0} 
+- 23/11/21 - 327* the voice portugal _9{6} bad buddy _1{5} les engages _3{1} 
+- 24/11/21 - 455* rpdruk _3{2} the voice portugal _9{7} 
 - 25/11/21 - 274* baker boys _1{0} rpdruk _3{4} the voice portugal _9{8} 
 - 26/11/21 - 248* drag race it _1{1} painted with raven _1{0} do seu lado _1{0} baker boys _1{0} rpdruk _3{6} 
 - 27/11/21 - 213* the voice senior it _2{0} bad buddy _1{5} drag race it _1{1} painted with raven _1{0} do seu lado _1{2} baker boys _1{1} rpdruk _3{8} 
 - 28/11/21 - 1026* unbag _1{697} the voice senior it _2{0} bad buddy _1{6} drag race it _1{1} painted with raven _1{0} do seu lado _1{4} baker boys _1{2} 
-- 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} dexter _9{3} mr cinderella _1{0} paint with love _1{0} unbag _1{699} 
-- 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} dexter _9{4} mr cinderella _1{1} paint with love _1{1} 
+- 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} mr cinderella _1{0} paint with love _1{0} unbag _1{699} 
+- 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} mr cinderella _1{1} paint with love _1{1} 
 - 01/12/21 - 546* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} 
 - 02/12/21 - 470* the voice portugal _9{10} 
 - 03/12/21 - 267* drag race it _1{3} baker boys _1{4} 

@@ -39,7 +39,6 @@ Bad buddy 1x8
 Painted with raven 1x4
 * Aggretsuko 4x1
 The voice portugal 9x9
-Dexter 9x6
 5515 never too late 1x3
 * Not me 1x1
 Mr cinderella 1x3
@@ -62,7 +61,6 @@ Kieta hatsukoi 1x7
 * Drag race it 1x1
 The case study of vanitas 1x2
 * The case study of vanitas 1x1
-* Dexter 9x1
 Banana fish 1x2
 * Banana fish 1x1
 * Bad buddy 1x1
