@@ -71,6 +71,7 @@
 |dragula 4||10|||<!--  -->
 |Queen of the universe 1||6|||<!--  -->
 |rpdruk 3||10|||<!--  -->
+|drag race it 1||6|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -86,7 +87,6 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|drag race it 1||6|||2|<!--  -->
 |painted with raven 1|||||<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

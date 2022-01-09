@@ -47,7 +47,6 @@ Do seu lado 1x5
 * 5515 never too late 1x1
 Camping paradis 12x5
 * District z 2x1
-Drag race it 1x3
 Baker boys 1x3
 Kieta hatsukoi 1x7
 * Mr cinderella 1x1
@@ -57,7 +56,6 @@ Kieta hatsukoi 1x7
 * Do seu lado 1x1
 * Baker boys 1x1
 * Les engages 3x1
-* Drag race it 1x1
 The case study of vanitas 1x2
 * The case study of vanitas 1x1
 Banana fish 1x2
