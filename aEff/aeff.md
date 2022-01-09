@@ -653,8 +653,8 @@
 - 21/09/21 - 54* /9-1-1 _5{0} post mortem _1{4} 
 - 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
 - 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
-- 24/09/21 - 98* rpdruk _3{0} 
-- 25/09/21 - 96* earthmix space _1{1} rpdruk _3{0} 
+- 24/09/21 - 98* 
+- 25/09/21 - 96* earthmix space _1{1} 
 - 26/09/21 - 56* dont say no _1{30} earthmix space _1{1} 
 - 27/09/21 - 94* goblin _1{1} dont say no _1{33} 
 - 28/09/21 - 102* goblin _1{1} dont say no _1{35} 
@@ -712,10 +712,10 @@
 - 21/11/21 - 331* bad buddy _1{4} les engages _3{0} drag race it _1{0} 
 - 22/11/21 - 328* the voice portugal _9{5} bad buddy _1{4} les engages _3{0} 
 - 23/11/21 - 327* the voice portugal _9{6} bad buddy _1{5} les engages _3{1} 
-- 24/11/21 - 455* rpdruk _3{2} the voice portugal _9{7} 
-- 25/11/21 - 274* baker boys _1{0} rpdruk _3{4} the voice portugal _9{8} 
-- 26/11/21 - 248* drag race it _1{1} painted with raven _1{0} do seu lado _1{0} baker boys _1{0} rpdruk _3{6} 
-- 27/11/21 - 213* the voice senior it _2{0} bad buddy _1{5} drag race it _1{1} painted with raven _1{0} do seu lado _1{2} baker boys _1{1} rpdruk _3{8} 
+- 24/11/21 - 455* the voice portugal _9{7} 
+- 25/11/21 - 274* baker boys _1{0} the voice portugal _9{8} 
+- 26/11/21 - 248* drag race it _1{1} painted with raven _1{0} do seu lado _1{0} baker boys _1{0} 
+- 27/11/21 - 213* the voice senior it _2{0} bad buddy _1{5} drag race it _1{1} painted with raven _1{0} do seu lado _1{2} baker boys _1{1} 
 - 28/11/21 - 1026* unbag _1{697} the voice senior it _2{0} bad buddy _1{6} drag race it _1{1} painted with raven _1{0} do seu lado _1{4} baker boys _1{2} 
 - 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} mr cinderella _1{0} paint with love _1{0} unbag _1{699} 
 - 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} mr cinderella _1{1} paint with love _1{1} 

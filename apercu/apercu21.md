@@ -56,7 +56,7 @@
 - sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 - sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
 - sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) 7project _1x4(1) 
-- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
+- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 - sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) Unbag _1x32(1) 
 - sem 18-10-2021 The voice portugal _9x2(1) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
@@ -65,7 +65,7 @@
 - sem 08-11-2021 -> The voice portugal _9x5(2) Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) Unbag _1x35(1) 
 - sem 15-11-2021 -> The voice portugal _9x6(1) Bad buddy _1x4(1) 
 - sem 22-11-2021 -> The voice portugal _9x7(1) Bad buddy _1x5(1) Les engages _3x2(1) Drag race it _1x2(1) The case study of vanitas _1x3(2) Kieta hatsukoi _1x(1) 
-- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Drag race it _1x3(1) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Rpdruk _3x5(3) 
+- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Drag race it _1x3(1) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) 
 
 
 
@@ -83,9 +83,9 @@
 - mois 01-07-2021 Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 - mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 - mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 - mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Drag race it _1x3(2) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Rpdruk _3x5(3) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
+- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Drag race it _1x3(2) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
 
 
@@ -425,10 +425,10 @@
 * conclu 21/11/21 = Unbag _1 > 3; Bite sisters _1 > 1;
 * conclu 22/11/21 = Unbag _1 > 3; 
 * conclu 23/11/21 = Unbag _1 > 3; 
-* conclu 24/11/21 = Unbag _1 > 3; Rpdruk _3 > 2; 
-* conclu 25/11/21 = Unbag _1 > 3; Rpdruk _3 > 2; 
-* conclu 26/11/21 = Unbag _1 > 3; Do seu lado _1 > 2; Rpdruk _3 > 1; 
-* conclu 27/11/21 = Unbag _1 > 3; Do seu lado _1 > 2; Rpdruk _3 > 1; 
+* conclu 24/11/21 = Unbag _1 > 3; 
+* conclu 25/11/21 = Unbag _1 > 3; 
+* conclu 26/11/21 = Unbag _1 > 3; Do seu lado _1 > 2; 
+* conclu 27/11/21 = Unbag _1 > 3; Do seu lado _1 > 2; 
 * conclu 28/11/21 = Unbag _1 > 6; Do seu lado _1 > 1; 
 * conclu 29/11/21 = Unbag _1 > 6; Do seu lado _1 > 1; 
 * conclu 30/11/21 = Unbag _1 > 6; Do seu lado _1 > 1; 
@@ -775,13 +775,13 @@
 * concluBis 21/11/21 = Unbag _1 > 5; 
 * concluBis 22/11/21 = Unbag _1 > 5; 
 * concluBis 23/11/21 = Unbag _1 > 5; The voice portugal _9 > 1; 
-* concluBis 24/11/21 = Unbag _1 > 5; Rpdruk _3 > 4; The voice portugal _9 > 1; 
-* concluBis 25/11/21 = Unbag _1 > 5; Rpdruk _3 > 4; 
-* concluBis 26/11/21 = Unbag _1 > 5; Do seu lado _1 > 4; Rpdruk _3 > 3; Baker boys _1 > 2; 
-* concluBis 27/11/21 = Unbag _1 > 5; Do seu lado _1 > 4; Rpdruk _3 > 3; Bad buddy _1 > 1; Baker boys _1 > 1; 
-* concluBis 28/11/21 = Unbag _1 > 10; Do seu lado _1 > 3; Rpdruk _3 > 2; 
-* concluBis 29/11/21 = Unbag _1 > 10; Do seu lado _1 > 3; Kieta hatsukoi _1 > 1; Rpdruk _3 > 1; 
-* concluBis 30/11/21 = Unbag _1 > 10; Do seu lado _1 > 3; Rpdruk _3 > 1; 
+* concluBis 24/11/21 = Unbag _1 > 5; The voice portugal _9 > 1; 
+* concluBis 25/11/21 = Unbag _1 > 5; 
+* concluBis 26/11/21 = Unbag _1 > 5; Do seu lado _1 > 4; Baker boys _1 > 2; 
+* concluBis 27/11/21 = Unbag _1 > 5; Do seu lado _1 > 4; Bad buddy _1 > 1; Baker boys _1 > 1; 
+* concluBis 28/11/21 = Unbag _1 > 10; Do seu lado _1 > 3; 
+* concluBis 29/11/21 = Unbag _1 > 10; Do seu lado _1 > 3; Kieta hatsukoi _1 > 1; 
+* concluBis 30/11/21 = Unbag _1 > 10; Do seu lado _1 > 3; 
 * concluBis 01/12/21 = Unbag _1 > 10; Do seu lado _1 > 2; 
 * concluBis 02/12/21 = Unbag _1 > 10; Do seu lado _1 > 2; 
 * concluBis 03/12/21 = Unbag _1 > 10; 

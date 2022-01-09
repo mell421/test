@@ -46,7 +46,6 @@ Unbag 1x36
 Do seu lado 1x5
 * 5515 never too late 1x1
 Camping paradis 12x5
-Rpdruk 3x5
 * District z 2x1
 Drag race it 1x3
 Baker boys 1x3
@@ -85,7 +84,6 @@ Dont say no 1x10
 * Young sheldon 5x1
 The shipper 1x5
 * Goblin 1x1
-* Rpdruk 3x1
 7project 1x4
 * The big leap 1x1
 * /9-1-1 5x1

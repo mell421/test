@@ -127,7 +127,7 @@ aEff/aeff.md:- 30/11/21 (eff) - unbag _1{702} dont say no _1{95} kieta hatsukoi 
 aEff/aeff.md:- 31/08/21 - 239* camping paradis _12{6} peach of time _1{0} bite me _1{1} dont say no _1{9} the yearbook _1{1} 
 aEff/aeff.md:- 31/10/21 (eff) - unbag _1{638} dont say no _1{85} inhuman condition _1{15} survivor au _6{15} tbbt _11{11} 
 apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 apercu/apercu21.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
@@ -136,7 +136,7 @@ apercu/apercu21.md:- sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix s
 apercu/apercu21.md:- sem 16-08-2021 Dont say no _1x3(1) 
 apercu/apercu21.md:- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) 7project _1x4(1) 
 apercu/apercu21.md:- sem 23-08-2021 Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
-apercu/apercu21.md:- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
+apercu/apercu21.md:- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 apercu/apercu21.md:- sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
 apercu/apercu21.md:* conclu 01/10/21 = Dont say no _1 > 2; /9-1-1 _5 > 2; 
 apercu/apercu21.md:* conclu 02/10/21 = Unbag _1 > 3; Dont say no _1 > 2; 
@@ -222,7 +222,7 @@ apercu/apercu21.md:* concluBis 30/10/21 = Unbag _1 > 10; Dont say no _1 > 2; Tbb
 apercu/apercu21.md:* concluBis 31/08/21 = Unbag _1 > 10; Peach of time _1 > 2; Dont say no _1 > 1; 
 apercu/apercu21.md:* concluBis 31/10/21 = Unbag _1 > 10; Dont say no _1 > 1; 
 apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-apercu/apercuglobal.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) Rpdruk _3x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+apercu/apercuglobal.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 apercu/apercuglobal.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 apercu/apercuglobal.md:- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) Unbag _1x32(1) 
@@ -230,7 +230,7 @@ apercu/apercuglobal.md:- sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthm
 apercu/apercuglobal.md:- sem 16-08-2021 Dont say no _1x3(1) 
 apercu/apercuglobal.md:- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) 7project _1x4(1) 
 apercu/apercuglobal.md:- sem 23-08-2021 Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
-apercu/apercuglobal.md:- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) Rpdruk _3x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
+apercu/apercuglobal.md:- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 apercu/apercuglobal.md:- sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
 apercu/apercuglobal.md:* conclu 01/10/21 = Dont say no _1 > 2; /9-1-1 _5 > 2; 
 apercu/apercuglobal.md:* conclu 02/10/21 = Unbag _1 > 3; Dont say no _1 > 2; 
