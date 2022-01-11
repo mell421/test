@@ -62,7 +62,6 @@ carac :  4822 ZZ/Earthmixspace_1.txt
 carac :  5361 ZZ/Koishiteakuma_1.txt
 carac :  5539 ZZ/Tbbt_11.txt
 carac :  5672 ZZ/Campingparadis_12.txt
-carac :  608 ZZ/Legomastersfr_2.txt
 carac :  658 ZZ/Bananafish_1.txt
 carac :  668 ZZ/Thevoicebe_10.txt
 carac :  688 ZZ/Survivor_13.txt
@@ -113,7 +112,6 @@ i = Inhuman condition _1
 i = Insiders _1
 i = Kieta hatsukoi _1
 i = Koishite akuma _1
-i = Lego masters fr _2
 i = Les engages _3
 i = Love area _1
 i = Lucifer _4
@@ -187,7 +185,6 @@ ligne :  19 ZZ/Controlz_2.txt
 ligne :  19 ZZ/Lucifer_4.txt
 ligne :  1958 ZZ/Unbag_1.txt
 ligne :  2 ZZ/Districtz_2.txt
-ligne :  2 ZZ/Legomastersfr_2.txt
 ligne :  2 ZZ/Survivor_13.txt
 ligne :  2 ZZ/Thevoicebe_10.txt
 ligne :  20 ZZ/Aokivuanpaianonayami_1.txt
@@ -239,7 +236,6 @@ mot   :  0 ZZ/Theplayer_1.txt
 mot   :  0 ZZ/Tintedwithyou_1.txt
 mot   :  0 ZZ/Youaremysunshine_1.txt
 mot   :  1061 ZZ/Belove_1.txt
-mot   :  108 ZZ/Legomastersfr_2.txt
 mot   :  113 ZZ/Siewsumnoi_1.txt
 mot   :  1164 ZZ/Elite_4.txt
 mot   :  1168 ZZ/Kietahatsukoi_1.txt

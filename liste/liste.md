@@ -503,6 +503,7 @@
 |dexter 9||10|||<!--  -->
 |rpdruk 3||10|||<!--  -->
 |drag race it 1||6|||<!--  -->
+|lego masters fr 2||4|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -685,7 +686,6 @@
 |you are my sunshine||6|serie|vietnam|2|<!--  -->
 |tinted with you|tinted with you|8|serie|corée|2|<!--  -->
 |the voice be 10||16|||0|<!--  -->
-|lego masters fr 2||4|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

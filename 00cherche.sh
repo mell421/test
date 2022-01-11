@@ -28,7 +28,7 @@ list99=(
 # 5-4
 "Aggretsuko _4" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
-"Survivor _13" "Lego masters fr _2" "Banana fish _1" "The voice be _10"
+"Survivor _13" "Banana fish _1" "The voice be _10"
 # 0-1
 "Behind cut _1" 
 # other
@@ -48,7 +48,7 @@ listAsc=(
 # 3
 "The voice senior it _2" "Ninja warrior _6" "Painted with raven _1" "The voice no _7" "Icsyv _2" 
 # 4
-"Bad buddy _1" "Paint with love _1" "Next level chef _1" "Behind cut _1" "Lego masters fr _2" 
+"Bad buddy _1" "Paint with love _1" "Next level chef _1" "Behind cut _1" 
 # 5
 "The voice be _10" "/9-1-1 lone star _3" "Inhuman condition _1" "The voice portugal _9" "Young sheldon _5" 
 # 6

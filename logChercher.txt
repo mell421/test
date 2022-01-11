@@ -219,11 +219,6 @@ ligne :  2 ZZ/Survivor_13.txt
 mot   :  131 ZZ/Survivor_13.txt
 carac :  688 ZZ/Survivor_13.txt
 
-i = Lego masters fr _2
-ligne :  2 ZZ/Legomastersfr_2.txt
-mot   :  108 ZZ/Legomastersfr_2.txt
-carac :  608 ZZ/Legomastersfr_2.txt
-
 i = Banana fish _1
 ligne :  4 ZZ/Bananafish_1.txt
 mot   :  93 ZZ/Bananafish_1.txt

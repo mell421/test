@@ -719,6 +719,7 @@
 * Friend or lover _1
 ### sem 17-01-2022 
 * *insererici*
+* Lego masters fr _2
 ### sem 24-01-2022 
 * *insererici*
 ### sem 31-01-2022 
@@ -878,7 +879,7 @@
 #### mois 01-01-2022 
 *insererici Druck _7 The voice nl _9 The voice ru _10 Queen of the universe _1 Survivor 12 The voice kids uk _5 Josephine ange gardien _24 The voice greece _7 Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 #### mois 01-02-2022 
-*insererici Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
+*insererici Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
 #### mois 01-03-2022 
 *insererici*
 
