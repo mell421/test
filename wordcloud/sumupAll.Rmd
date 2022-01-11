@@ -111,7 +111,7 @@ for (i in 60:69) {
 
 ### 7
 ```{r stats7, echo=FALSE}
-for (i in 70:77) {
+for (i in 70:73) {
   sumup(i)
 }
 ```
