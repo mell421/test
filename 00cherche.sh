@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 200
-"Unbag _1" "Dont say no _1" 
+"Unbag _1" 
 # 199-100
 "Peach of time _1" 
 # 99-50
@@ -42,7 +42,7 @@ list99=(
 
 listAsc=( 
 # 1
-"Dont say no _1" "Not me _1" "Mr cinderella _1" "The voice senior esp _3" "The masked singer uk _3" 
+"Not me _1" "Mr cinderella _1" "The voice senior esp _3" "The masked singer uk _3" 
 # 2
 "F4 thailand _1" "Survivor sa _7" "Rpdru _14" "Rpdr _14" "The voice nl _12" 
 # 3

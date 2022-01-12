@@ -1,5 +1,5 @@
 aEff/aeff.md:- 09/10/21 - 183* young sheldon _5{0} 
-aEff/aeff.md:- 10/10/21 - 701* love area _1{0} dont say no _1{54} young sheldon _5{0} unbag _1{594} 
+aEff/aeff.md:- 10/10/21 - 701* love area _1{0} young sheldon _5{0} unbag _1{594} 
 aEff/aeff.md:- 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} earthmix space _1{4} unbag _1{623} 
 aEff/aeff.md:- 25/10/21 - 139* aoki vuanpaia no nayami _1{6} young sheldon _5{4} my sweet dear _1{2} 
 aEff/aeff.md:- 26/10/21 - 133* the voice portugal _9{1} tbbt _11{2} aoki vuanpaia no nayami _1{6} young sheldon _5{5} my sweet dear _1{3} 
@@ -8,10 +8,10 @@ apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1)
 apercu/apercu21.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) Unbag _1x32(1) 
 apercu/apercu21.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Unbag _1x33(1) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) 
 apercu/apercu21.md:* conclu 24/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Young sheldon _5 > 1; 
-apercu/apercu21.md:* concluBis 24/10/21 = Unbag _1 > 10; Inhuman condition _1 > 6; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; Dont say no _1 > 2; 
-apercu/apercu21.md:* concluBis 25/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Young sheldon _5 > 2; Dont say no _1 > 2; My sweet dear _1 > 1; 
-apercu/apercu21.md:* concluBis 26/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Tbbt _11 > 4; Dont say no _1 > 2; Young sheldon _5 > 1; 
-apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) Unbag _1x32(1) 
+apercu/apercu21.md:* concluBis 24/10/21 = Unbag _1 > 10; Inhuman condition _1 > 6; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; 
+apercu/apercu21.md:* concluBis 25/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Young sheldon _5 > 2; My sweet dear _1 > 1; 
+apercu/apercu21.md:* concluBis 26/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Tbbt _11 > 4; Young sheldon _5 > 1; 
+apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Young sheldon _5x2(1) Unbag _1x32(1) 
 apercuTer/apercuTer.md:* Young sheldon _5
 apercuTer/apercuTer.md:*Les simpson _2 The voice vv _5 Young sheldon _3 Arrow _6 The masked singer de _2 The voice kids de _8 Ares _1 October faction _1 Will and grace _11 Kaamelott _3 Carmilla _4 Skam espana _3 Monsieur flap _3 Lego masters _1 Descendants wicked world _2 Descendants wicked world _1 Visible out on television _1 The voice au _7 La casa de papel _2 Elite _3 The circle _1 Pekin express _13 Nailed it holiday _1 La casa de papel _1 Cheerleaders _1*
 apercuTer/apercuTer.md:*The voice vv _7 The most peaceful place _1 Kiss me again peteKao cut _1 Close friend _1 The masked singer _5 The voice us _20 Game of talents _1 Plan b _1 Given _1 /9-1-1 lone star _2 /9-1-1 _4 History4 close to you _1 The voice _10 Young sheldon _4 Love death & robots _2 Lovely writer _1 The sweet blood _1 Nobleman ryus wedding _1 The circle br _1 The circle us _2 Clem _11*

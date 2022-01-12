@@ -49,14 +49,14 @@
 - sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Camping paradis _12x3(1) 
 - sem 26-07-2021 /46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) 
 - sem 02-08-2021 
-- sem 09-08-2021 Good singers _1x5(1) Dont say no _1x2(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-- sem 16-08-2021 Dont say no _1x3(1) 
-- sem 23-08-2021 Dont say no _1x4(1) From dusk till dawn _2x5(1) Unbag _1x29(1) 
-- sem 30-08-2021 Bite me _1x2(1) Dont say no _1x5(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
-- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Dont say no _1x6(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
-- sem 13-09-2021 Buffy _1x8(2) Dont say no _1x7(1) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
-- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Dont say no _1x8(1) Unbag _1x31(1) Peach of time _1x7(1) 7project _1x4(1) 
-- sem 27-09-2021 Goblin _1x2(1) Dont say no _1x9(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
+- sem 09-08-2021 Good singers _1x5(1) Unbag _1x28(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+- sem 16-08-2021 
+- sem 23-08-2021 From dusk till dawn _2x5(1) Unbag _1x29(1) 
+- sem 30-08-2021 Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
+- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) Unbag _1x30(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
+- sem 13-09-2021 Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
+- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(1) Peach of time _1x7(1) 7project _1x4(1) 
+- sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 - sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) Unbag _1x32(1) 
 - sem 18-10-2021 The voice portugal _9x2(1) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
@@ -82,8 +82,8 @@
 - mois 01-06-2021 Dark blue kiss _1x2(1) Unbag _1x23(2) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 - mois 01-07-2021 Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 - mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) Dont say no _1x5(4) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Dont say no _1x9(4) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 - mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 - mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
@@ -338,7 +338,7 @@
 * conclu 26/08/21 = Unbag _1 > 6; 
 * conclu 27/08/21 = Unbag _1 > 6; 
 * conclu 28/08/21 = Unbag _1 > 6; 
-* conclu 29/08/21 = Unbag _1 > 6; Dont say no _1 > 1; 
+* conclu 29/08/21 = Unbag _1 > 6; 
 * conclu 30/08/21 = Unbag _1 > 6; 
 * conclu 31/08/21 = Unbag _1 > 6; 
 * conclu 01/09/21 = Unbag _1 > 6; Peach of time _1 > 2; 
@@ -358,23 +358,23 @@
 * conclu 15/09/21 = Unbag _1 > 6; 
 * conclu 16/09/21 = Unbag _1 > 6; 
 * conclu 17/09/21 = Unbag _1 > 6; 
-* conclu 18/09/21 = Unbag _1 > 6; Dont say no _1 > 2; 
-* conclu 19/09/21 = Unbag _1 > 6; Dont say no _1 > 1; 
+* conclu 18/09/21 = Unbag _1 > 6; 
+* conclu 19/09/21 = Unbag _1 > 6; 
 * conclu 20/09/21 = Unbag _1 > 6; 
-* conclu 21/09/21 = Unbag _1 > 6; Dont say no _1 > 1; 
-* conclu 22/09/21 = Unbag _1 > 6; Dont say no _1 > 1; 
+* conclu 21/09/21 = Unbag _1 > 6; 
+* conclu 22/09/21 = Unbag _1 > 6; 
 * conclu 23/09/21 = Unbag _1 > 6; 
 * conclu 24/09/21 = Unbag _1 > 3; 
 * conclu 25/09/21 = Unbag _1 > 3; 
-* conclu 26/09/21 = Unbag _1 > 3; Dont say no _1 > 2; 
-* conclu 27/09/21 = Unbag _1 > 3; Dont say no _1 > 1; 
-* conclu 28/09/21 = Unbag _1 > 3; Dont say no _1 > 1; 
-* conclu 29/09/21 = Unbag _1 > 3; Dont say no _1 > 1; 
-* conclu 30/09/21 = Unbag _1 > 3; Dont say no _1 > 2; 
-* conclu 01/10/21 = Dont say no _1 > 2; /9-1-1 _5 > 2; 
-* conclu 02/10/21 = Unbag _1 > 3; Dont say no _1 > 2; 
-* conclu 03/10/21 = Unbag _1 > 3; Dont say no _1 > 2; 
-* conclu 04/10/21 = Unbag _1 > 3; Dont say no _1 > 1; 
+* conclu 26/09/21 = Unbag _1 > 3; 
+* conclu 27/09/21 = Unbag _1 > 3; 
+* conclu 28/09/21 = Unbag _1 > 3; 
+* conclu 29/09/21 = Unbag _1 > 3; 
+* conclu 30/09/21 = Unbag _1 > 3; 
+* conclu 01/10/21 = /9-1-1 _5 > 2; 
+* conclu 02/10/21 = Unbag _1 > 3; 
+* conclu 03/10/21 = Unbag _1 > 3; 
+* conclu 04/10/21 = Unbag _1 > 3; 
 * conclu 05/10/21 = Unbag _1 > 3; 
 * conclu 06/10/21 = Unbag _1 > 3; 
 * conclu 07/10/21 = Unbag _1 > 3; 
@@ -385,15 +385,15 @@
 * conclu 12/10/21 = Unbag _1 > 6; 
 * conclu 13/10/21 = Unbag _1 > 6; 
 * conclu 14/10/21 = Unbag _1 > 6; 
-* conclu 15/10/21 = Unbag _1 > 6; Dont say no _1 > 2; 
-* conclu 16/10/21 = Unbag _1 > 6; Dont say no _1 > 2; 
-* conclu 17/10/21 = Unbag _1 > 6; Dont say no _1 > 2; Aoki vuanpaia no nayami _1 > 1; 
-* conclu 18/10/21 = Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
-* conclu 19/10/21 = Dont say no _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
-* conclu 20/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; Dont say no _1 > 1; 
-* conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
-* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
-* conclu 23/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Dont say no _1 > 1; 
+* conclu 15/10/21 = Unbag _1 > 6; 
+* conclu 16/10/21 = Unbag _1 > 6; 
+* conclu 17/10/21 = Unbag _1 > 6; Aoki vuanpaia no nayami _1 > 1; 
+* conclu 18/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
+* conclu 19/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
+* conclu 20/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; 
+* conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
+* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
+* conclu 23/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
 * conclu 24/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Young sheldon _5 > 1; 
 * conclu 25/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; 
 * conclu 26/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Tbbt _11 > 2; 
@@ -682,85 +682,85 @@
 * concluBis 20/08/21 = Unbag _1 > 10; 
 * concluBis 21/08/21 = Unbag _1 > 10; 
 * concluBis 22/08/21 = Unbag _1 > 10; 
-* concluBis 23/08/21 = Unbag _1 > 10; Dont say no _1 > 1; 
+* concluBis 23/08/21 = Unbag _1 > 10; 
 * concluBis 24/08/21 = Unbag _1 > 10; From dusk till dawn _2 > 1; 
 * concluBis 25/08/21 = Unbag _1 > 10; From dusk till dawn _2 > 1; 
 * concluBis 26/08/21 = Unbag _1 > 10; Post mortem _1 > 1; 
 * concluBis 27/08/21 = Unbag _1 > 10; 
-* concluBis 28/08/21 = Unbag _1 > 10; Dont say no _1 > 2; 
-* concluBis 29/08/21 = Unbag _1 > 10; Dont say no _1 > 3; 
-* concluBis 30/08/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-* concluBis 31/08/21 = Unbag _1 > 10; Peach of time _1 > 2; Dont say no _1 > 1; 
+* concluBis 28/08/21 = Unbag _1 > 10; 
+* concluBis 29/08/21 = Unbag _1 > 10; 
+* concluBis 30/08/21 = Unbag _1 > 10; 
+* concluBis 31/08/21 = Unbag _1 > 10; Peach of time _1 > 2; 
 * concluBis 01/09/21 = Unbag _1 > 10; Peach of time _1 > 4; 
 * concluBis 02/09/21 = Unbag _1 > 10; Peach of time _1 > 4; 
 * concluBis 03/09/21 = Unbag _1 > 10; Peach of time _1 > 4; 
 * concluBis 04/09/21 = Unbag _1 > 10; Peach of time _1 > 4; 
-* concluBis 05/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Dont say no _1 > 1; 
-* concluBis 06/09/21 = Unbag _1 > 10; Peach of time _1 > 4; Dont say no _1 > 1; 
+* concluBis 05/09/21 = Unbag _1 > 10; Peach of time _1 > 4; 
+* concluBis 06/09/21 = Unbag _1 > 10; Peach of time _1 > 4; 
 * concluBis 07/09/21 = Unbag _1 > 10; Peach of time _1 > 6; Vwars _1 > 1; 
 * concluBis 08/09/21 = Unbag _1 > 10; Peach of time _1 > 5; 
 * concluBis 09/09/21 = Unbag _1 > 10; 
 * concluBis 10/09/21 = Unbag _1 > 10; Peach of time _1 > 1; 
-* concluBis 11/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-* concluBis 12/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-* concluBis 13/09/21 = Unbag _1 > 10; Buffy _1 > 3; Peach of time _1 > 2; Dont say no _1 > 1; 
+* concluBis 11/09/21 = Unbag _1 > 10; 
+* concluBis 12/09/21 = Unbag _1 > 10; 
+* concluBis 13/09/21 = Unbag _1 > 10; Buffy _1 > 3; Peach of time _1 > 2; 
 * concluBis 14/09/21 = Unbag _1 > 10; Peach of time _1 > 4; 7project _1 > 1; 
 * concluBis 15/09/21 = Unbag _1 > 10; Peach of time _1 > 2; 
 * concluBis 16/09/21 = Unbag _1 > 10; Peach of time _1 > 1; 
 * concluBis 17/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 2; Buffy _1 > 1; Imortal _1 > 1; 
-* concluBis 18/09/21 = Unbag _1 > 10; Dont say no _1 > 5; Peach of time _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 19/09/21 = Unbag _1 > 10; Dont say no _1 > 4; Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 20/09/21 = Unbag _1 > 10; Dont say no _1 > 2; Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 21/09/21 = Unbag _1 > 10; Dont say no _1 > 4; Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 22/09/21 = Unbag _1 > 10; Dont say no _1 > 3; Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 23/09/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-* concluBis 24/09/21 = Unbag _1 > 5; Dont say no _1 > 2; 
+* concluBis 18/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 19/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
+* concluBis 20/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
+* concluBis 21/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
+* concluBis 22/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
+* concluBis 23/09/21 = Unbag _1 > 10; 
+* concluBis 24/09/21 = Unbag _1 > 5; 
 * concluBis 25/09/21 = Unbag _1 > 5; 
-* concluBis 26/09/21 = Dont say no _1 > 6; Unbag _1 > 5; 
-* concluBis 27/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
-* concluBis 28/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
-* concluBis 29/09/21 = Unbag _1 > 5; Dont say no _1 > 3; 
-* concluBis 30/09/21 = Unbag _1 > 5; Dont say no _1 > 4; 
-* concluBis 01/10/21 = Dont say no _1 > 4; /9-1-1 _5 > 4; 
-* concluBis 02/10/21 = Unbag _1 > 5; Dont say no _1 > 4; 
-* concluBis 03/10/21 = Unbag _1 > 5; Dont say no _1 > 4; 
-* concluBis 04/10/21 = Unbag _1 > 5; Dont say no _1 > 3; 
-* concluBis 05/10/21 = Unbag _1 > 5; Dont say no _1 > 2; 
-* concluBis 06/10/21 = Unbag _1 > 5; Dont say no _1 > 2; 
-* concluBis 07/10/21 = Unbag _1 > 5; Dont say no _1 > 1; 
-* concluBis 08/10/21 = Unbag _1 > 5; Dont say no _1 > 1; 
+* concluBis 26/09/21 = Unbag _1 > 5; 
+* concluBis 27/09/21 = Unbag _1 > 5; 
+* concluBis 28/09/21 = Unbag _1 > 5; 
+* concluBis 29/09/21 = Unbag _1 > 5; 
+* concluBis 30/09/21 = Unbag _1 > 5; 
+* concluBis 01/10/21 = /9-1-1 _5 > 4; 
+* concluBis 02/10/21 = Unbag _1 > 5; 
+* concluBis 03/10/21 = Unbag _1 > 5; 
+* concluBis 04/10/21 = Unbag _1 > 5; 
+* concluBis 05/10/21 = Unbag _1 > 5; 
+* concluBis 06/10/21 = Unbag _1 > 5; 
+* concluBis 07/10/21 = Unbag _1 > 5; 
+* concluBis 08/10/21 = Unbag _1 > 5; 
 * concluBis 09/10/21 = Unbag _1 > 5; 
-* concluBis 10/10/21 = Unbag _1 > 10; Dont say no _1 > 2; 
-* concluBis 11/10/21 = Unbag _1 > 10; Dont say no _1 > 2; 
-* concluBis 12/10/21 = Unbag _1 > 10; Dont say no _1 > 4; Love area _1 > 1; 
-* concluBis 13/10/21 = Unbag _1 > 10; Dont say no _1 > 4; 
-* concluBis 14/10/21 = Unbag _1 > 10; Dont say no _1 > 4; 
-* concluBis 15/10/21 = Unbag _1 > 10; Dont say no _1 > 6; Forever knight _1 > 1; 
-* concluBis 16/10/21 = Unbag _1 > 10; Dont say no _1 > 6; Forever knight _1 > 1; 
-* concluBis 17/10/21 = Unbag _1 > 10; Dont say no _1 > 6; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
-* concluBis 18/10/21 = Dont say no _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-* concluBis 19/10/21 = Dont say no _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-* concluBis 20/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; Dont say no _1 > 3; 
-* concluBis 21/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; Dont say no _1 > 3; 
-* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; 
-* concluBis 23/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; Dont say no _1 > 3; 
-* concluBis 24/10/21 = Unbag _1 > 10; Inhuman condition _1 > 6; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; Dont say no _1 > 2; 
-* concluBis 25/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Young sheldon _5 > 2; Dont say no _1 > 2; My sweet dear _1 > 1; 
-* concluBis 26/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Tbbt _11 > 4; Dont say no _1 > 2; Young sheldon _5 > 1; 
-* concluBis 27/10/21 = Unbag _1 > 10; Tbbt _11 > 3; Dont say no _1 > 1; 
-* concluBis 28/10/21 = Unbag _1 > 10; Tbbt _11 > 3; Dont say no _1 > 2; 
-* concluBis 29/10/21 = Unbag _1 > 10; Tbbt _11 > 3; Dont say no _1 > 2; 
-* concluBis 30/10/21 = Unbag _1 > 10; Dont say no _1 > 2; Tbbt _11 > 1; 
-* concluBis 31/10/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-* concluBis 01/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-* concluBis 02/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
+* concluBis 10/10/21 = Unbag _1 > 10; 
+* concluBis 11/10/21 = Unbag _1 > 10; 
+* concluBis 12/10/21 = Unbag _1 > 10; Love area _1 > 1; 
+* concluBis 13/10/21 = Unbag _1 > 10; 
+* concluBis 14/10/21 = Unbag _1 > 10; 
+* concluBis 15/10/21 = Unbag _1 > 10; Forever knight _1 > 1; 
+* concluBis 16/10/21 = Unbag _1 > 10; Forever knight _1 > 1; 
+* concluBis 17/10/21 = Unbag _1 > 10; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
+* concluBis 18/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
+* concluBis 19/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
+* concluBis 20/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; 
+* concluBis 21/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; 
+* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
+* concluBis 23/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
+* concluBis 24/10/21 = Unbag _1 > 10; Inhuman condition _1 > 6; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; 
+* concluBis 25/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Young sheldon _5 > 2; My sweet dear _1 > 1; 
+* concluBis 26/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Tbbt _11 > 4; Young sheldon _5 > 1; 
+* concluBis 27/10/21 = Unbag _1 > 10; Tbbt _11 > 3; 
+* concluBis 28/10/21 = Unbag _1 > 10; Tbbt _11 > 3; 
+* concluBis 29/10/21 = Unbag _1 > 10; Tbbt _11 > 3; 
+* concluBis 30/10/21 = Unbag _1 > 10; Tbbt _11 > 1; 
+* concluBis 31/10/21 = Unbag _1 > 10; 
+* concluBis 01/11/21 = Unbag _1 > 10; 
+* concluBis 02/11/21 = Unbag _1 > 10; 
 * concluBis 03/11/21 = Unbag _1 > 10; 
-* concluBis 04/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-* concluBis 05/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-* concluBis 06/11/21 = Unbag _1 > 10; Dont say no _1 > 1; 
-* concluBis 07/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 3; Dont say no _1 > 1; 
-* concluBis 08/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 2; Dont say no _1 > 1; 
-* concluBis 09/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 4; Dont say no _1 > 1; 
+* concluBis 04/11/21 = Unbag _1 > 10; 
+* concluBis 05/11/21 = Unbag _1 > 10; 
+* concluBis 06/11/21 = Unbag _1 > 10; 
+* concluBis 07/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 3; 
+* concluBis 08/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 2; 
+* concluBis 09/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 4; 
 * concluBis 10/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 4; 
 * concluBis 11/11/21 = Unbag _1 > 10; Kieta hatsukoi _1 > 4; 
 * concluBis 12/11/21 = Kieta hatsukoi _1 > 5; Unbag _1 > 5; 

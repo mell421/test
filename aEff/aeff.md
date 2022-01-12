@@ -303,96 +303,96 @@
 - 01/09/21 (eff) - unbag _1{515} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} 
 - 02/09/21 (eff) - unbag _1{517} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} 
 - 03/09/21 (eff) - unbag _1{519} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-- 04/09/21 (eff) - unbag _1{521} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} dont say no _1{11} 
-- 05/09/21 (eff) - unbag _1{523} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} dont say no _1{11} 
-- 06/09/21 (eff) - unbag _1{526} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} dont say no _1{13} peach of time _1{13} 
-- 07/09/21 (eff) - unbag _1{528} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} peach of time _1{15} elite _4{15} dont say no _1{14} 
-- 08/09/21 (eff) - unbag _1{530} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} peach of time _1{17} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-- 09/09/21 (eff) - unbag _1{532} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-- 10/09/21 (eff) - unbag _1{534} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-- 11/09/21 (eff) - unbag _1{536} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-- 12/09/21 (eff) - unbag _1{538} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} dont say no _1{15} elite _4{15} 
-- 13/09/21 (eff) - unbag _1{540} /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} dont say no _1{17} vincenzo _1{16} elite _4{15} 
-- 14/09/21 (eff) - unbag _1{542} /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 15/09/21 (eff) - unbag _1{544} /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 16/09/21 (eff) - unbag _1{546} /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 17/09/21 (eff) - unbag _1{548} /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 18/09/21 (eff) - unbag _1{550} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 19/09/21 (eff) - unbag _1{552} /46 days _1{46} peach of time _1{27} dont say no _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-- 20/09/21 (eff) - unbag _1{555} /46 days _1{46} peach of time _1{29} dont say no _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-- 21/09/21 (eff) - unbag _1{557} /46 days _1{46} peach of time _1{30} dont say no _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-- 22/09/21 (eff) - unbag _1{559} /46 days _1{46} peach of time _1{31} dont say no _1{26} from dusk till dawn _2{20} vwars _1{8} 
-- 23/09/21 (eff) - unbag _1{561} /46 days _1{46} peach of time _1{32} dont say no _1{28} from dusk till dawn _2{20} vwars _1{8} 
-- 24/09/21 (eff) - unbag _1{563} peach of time _1{32} dont say no _1{29} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 25/09/21 (eff) - unbag _1{565} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 26/09/21 (eff) - unbag _1{567} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 27/09/21 (eff) - unbag _1{569} dont say no _1{33} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 28/09/21 (eff) - unbag _1{571} dont say no _1{35} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 29/09/21 (eff) - unbag _1{573} dont say no _1{37} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 30/09/21 (eff) - unbag _1{575} dont say no _1{39} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 01/10/21 (eff) - unbag _1{578} dont say no _1{42} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 02/10/21 (eff) - unbag _1{578} dont say no _1{44} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 03/10/21 (eff) - unbag _1{580} dont say no _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 04/10/21 (eff) - unbag _1{582} dont say no _1{48} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 05/10/21 (eff) - unbag _1{584} dont say no _1{50} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 06/10/21 (eff) - unbag _1{586} dont say no _1{51} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 07/10/21 (eff) - unbag _1{588} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 08/10/21 (eff) - unbag _1{590} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 09/10/21 (eff) - unbag _1{592} dont say no _1{54} peach of time _1{33} vwars _1{9} 
-- 10/10/21 (eff) - unbag _1{594} dont say no _1{54} peach of time _1{33} vwars _1{9} camping paradis _12{8} 
-- 11/10/21 (eff) - unbag _1{597} dont say no _1{56} peach of time _1{33} vwars _1{9} 
-- 12/10/21 (eff) - unbag _1{599} dont say no _1{57} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 13/10/21 (eff) - unbag _1{601} dont say no _1{58} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 14/10/21 (eff) - unbag _1{603} dont say no _1{59} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 15/10/21 (eff) - unbag _1{605} dont say no _1{60} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
-- 18/10/21 (eff) - unbag _1{611} dont say no _1{66} peach of time _1{33} vwars _1{9} 
-- 19/10/21 (eff) - unbag _1{613} dont say no _1{68} peach of time _1{33} vwars _1{9} 
-- 20/10/21 (eff) - unbag _1{615} dont say no _1{70} peach of time _1{33} vwars _1{9} 
-- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} peach of time _1{33} vwars _1{9} 
-- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} peach of time _1{33} survivor au _6{9} 
-- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} peach of time _1{33} survivor au _6{11} 
-- 24/10/21 (eff) - unbag _1{623} dont say no _1{78} peach of time _1{33} survivor au _6{13} inhuman condition _1{8} 
-- 25/10/21 (eff) - unbag _1{626} dont say no _1{79} peach of time _1{33} survivor au _6{15} inhuman condition _1{11} 
-- 26/10/21 (eff) - unbag _1{628} dont say no _1{80} peach of time _1{33} survivor au _6{15} inhuman condition _1{13} 
-- 27/10/21 (eff) - unbag _1{630} dont say no _1{81} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
-- 28/10/21 (eff) - unbag _1{632} dont say no _1{82} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
-- 29/10/21 (eff) - unbag _1{634} dont say no _1{83} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{8} 
-- 30/10/21 (eff) - unbag _1{636} dont say no _1{84} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} 
-- 31/10/21 (eff) - unbag _1{638} dont say no _1{85} inhuman condition _1{15} survivor au _6{15} tbbt _11{11} 
-- 01/11/21 (eff) - unbag _1{642} dont say no _1{87} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 02/11/21 (eff) - unbag _1{644} dont say no _1{88} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 03/11/21 (eff) - unbag _1{646} dont say no _1{89} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 04/11/21 (eff) - unbag _1{648} dont say no _1{89} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 05/11/21 (eff) - unbag _1{650} dont say no _1{90} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 06/11/21 (eff) - unbag _1{652} dont say no _1{91} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 07/11/21 (eff) - unbag _1{654} dont say no _1{92} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 08/11/21 (eff) - unbag _1{657} dont say no _1{93} inhuman condition _1{16} survivor au _6{16} 
-- 09/11/21 (eff) - unbag _1{659} dont say no _1{94} inhuman condition _1{16} survivor au _6{16} 
-- 10/11/21 (eff) - unbag _1{661} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} 
-- 11/11/21 (eff) - unbag _1{663} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} 
-- 12/11/21 (eff) - unbag _1{665} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{13} 
-- 13/11/21 (eff) - unbag _1{667} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} 
-- 14/11/21 (eff) - unbag _1{669} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 15/11/21 (eff) - unbag _1{671} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 16/11/21 (eff) - unbag _1{673} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 17/11/21 (eff) - unbag _1{675} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 18/11/21 (eff) - unbag _1{677} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 19/11/21 (eff) - unbag _1{679} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 20/11/21 (eff) - unbag _1{681} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 21/11/21 (eff) - unbag _1{683} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 22/11/21 (eff) - unbag _1{685} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 23/11/21 (eff) - unbag _1{687} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} 
-- 24/11/21 (eff) - unbag _1{689} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 25/11/21 (eff) - unbag _1{691} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 26/11/21 (eff) - unbag _1{693} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 27/11/21 (eff) - unbag _1{695} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 28/11/21 (eff) - unbag _1{697} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 29/11/21 (eff) - unbag _1{699} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 30/11/21 (eff) - unbag _1{702} dont say no _1{95} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
-- 01/12/21 (eff) - unbag _1{704} dont say no _1{95} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
-- 02/12/21 (eff) - unbag _1{707} dont say no _1{95} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+- 04/09/21 (eff) - unbag _1{521} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} 
+- 05/09/21 (eff) - unbag _1{523} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} 
+- 06/09/21 (eff) - unbag _1{526} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} peach of time _1{13} 
+- 07/09/21 (eff) - unbag _1{528} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} peach of time _1{15} elite _4{15} 
+- 08/09/21 (eff) - unbag _1{530} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} peach of time _1{17} vincenzo _1{16} elite _4{15} 
+- 09/09/21 (eff) - unbag _1{532} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} 
+- 10/09/21 (eff) - unbag _1{534} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} 
+- 11/09/21 (eff) - unbag _1{536} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 12/09/21 (eff) - unbag _1{538} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 13/09/21 (eff) - unbag _1{540} /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 14/09/21 (eff) - unbag _1{542} /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 15/09/21 (eff) - unbag _1{544} /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 16/09/21 (eff) - unbag _1{546} /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 17/09/21 (eff) - unbag _1{548} /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 18/09/21 (eff) - unbag _1{550} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 19/09/21 (eff) - unbag _1{552} /46 days _1{46} peach of time _1{27} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 20/09/21 (eff) - unbag _1{555} /46 days _1{46} peach of time _1{29} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 21/09/21 (eff) - unbag _1{557} /46 days _1{46} peach of time _1{30} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 22/09/21 (eff) - unbag _1{559} /46 days _1{46} peach of time _1{31} from dusk till dawn _2{20} vwars _1{8} 
+- 23/09/21 (eff) - unbag _1{561} /46 days _1{46} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} 
+- 24/09/21 (eff) - unbag _1{563} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 25/09/21 (eff) - unbag _1{565} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 26/09/21 (eff) - unbag _1{567} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 27/09/21 (eff) - unbag _1{569} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 28/09/21 (eff) - unbag _1{571} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 29/09/21 (eff) - unbag _1{573} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 30/09/21 (eff) - unbag _1{575} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 01/10/21 (eff) - unbag _1{578} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 02/10/21 (eff) - unbag _1{578} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 03/10/21 (eff) - unbag _1{580} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 04/10/21 (eff) - unbag _1{582} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 05/10/21 (eff) - unbag _1{584} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 06/10/21 (eff) - unbag _1{586} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 07/10/21 (eff) - unbag _1{588} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 08/10/21 (eff) - unbag _1{590} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 09/10/21 (eff) - unbag _1{592} peach of time _1{33} vwars _1{9} 
+- 10/10/21 (eff) - unbag _1{594} peach of time _1{33} vwars _1{9} camping paradis _12{8} 
+- 11/10/21 (eff) - unbag _1{597} peach of time _1{33} vwars _1{9} 
+- 12/10/21 (eff) - unbag _1{599} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 13/10/21 (eff) - unbag _1{601} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 14/10/21 (eff) - unbag _1{603} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 15/10/21 (eff) - unbag _1{605} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 16/10/21 (eff) - unbag _1{607} /46 days _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 17/10/21 (eff) - unbag _1{609} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
+- 18/10/21 (eff) - unbag _1{611} peach of time _1{33} vwars _1{9} 
+- 19/10/21 (eff) - unbag _1{613} peach of time _1{33} vwars _1{9} 
+- 20/10/21 (eff) - unbag _1{615} peach of time _1{33} vwars _1{9} 
+- 21/10/21 (eff) - unbag _1{617} peach of time _1{33} vwars _1{9} 
+- 22/10/21 (eff) - unbag _1{619} peach of time _1{33} survivor au _6{9} 
+- 23/10/21 (eff) - unbag _1{621} peach of time _1{33} survivor au _6{11} 
+- 24/10/21 (eff) - unbag _1{623} peach of time _1{33} survivor au _6{13} inhuman condition _1{8} 
+- 25/10/21 (eff) - unbag _1{626} peach of time _1{33} survivor au _6{15} inhuman condition _1{11} 
+- 26/10/21 (eff) - unbag _1{628} peach of time _1{33} survivor au _6{15} inhuman condition _1{13} 
+- 27/10/21 (eff) - unbag _1{630} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
+- 28/10/21 (eff) - unbag _1{632} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
+- 29/10/21 (eff) - unbag _1{634} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{8} 
+- 30/10/21 (eff) - unbag _1{636} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} 
+- 31/10/21 (eff) - unbag _1{638} inhuman condition _1{15} survivor au _6{15} tbbt _11{11} 
+- 01/11/21 (eff) - unbag _1{642} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 02/11/21 (eff) - unbag _1{644} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 03/11/21 (eff) - unbag _1{646} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 04/11/21 (eff) - unbag _1{648} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 05/11/21 (eff) - unbag _1{650} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 06/11/21 (eff) - unbag _1{652} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 07/11/21 (eff) - unbag _1{654} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 08/11/21 (eff) - unbag _1{657} inhuman condition _1{16} survivor au _6{16} 
+- 09/11/21 (eff) - unbag _1{659} inhuman condition _1{16} survivor au _6{16} 
+- 10/11/21 (eff) - unbag _1{661} inhuman condition _1{16} survivor au _6{16} 
+- 11/11/21 (eff) - unbag _1{663} inhuman condition _1{16} survivor au _6{16} 
+- 12/11/21 (eff) - unbag _1{665} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{13} 
+- 13/11/21 (eff) - unbag _1{667} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} 
+- 14/11/21 (eff) - unbag _1{669} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 15/11/21 (eff) - unbag _1{671} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 16/11/21 (eff) - unbag _1{673} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 17/11/21 (eff) - unbag _1{675} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 18/11/21 (eff) - unbag _1{677} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 19/11/21 (eff) - unbag _1{679} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 20/11/21 (eff) - unbag _1{681} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 21/11/21 (eff) - unbag _1{683} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 22/11/21 (eff) - unbag _1{685} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+- 23/11/21 (eff) - unbag _1{687} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} 
+- 24/11/21 (eff) - unbag _1{689} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 25/11/21 (eff) - unbag _1{691} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 26/11/21 (eff) - unbag _1{693} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 27/11/21 (eff) - unbag _1{695} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 28/11/21 (eff) - unbag _1{697} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 29/11/21 (eff) - unbag _1{699} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+- 30/11/21 (eff) - unbag _1{702} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
+- 01/12/21 (eff) - unbag _1{704} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
+- 02/12/21 (eff) - unbag _1{707} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
 - 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
 - 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
 
@@ -606,58 +606,58 @@
 - 04/08/21 - 302* /46 days _1{38} glow up _2{3} 
 - 05/08/21 - 206* control z _2{0} /46 days _1{39} glow up _2{3} 
 - 06/08/21 - 716* unbag _1{460} control z _2{1} /46 days _1{40} 
-- 07/08/21 - 650* dont say no _1{0} unbag _1{462} control z _2{1} 
-- 08/08/21 - 660* good singers _1{6} dont say no _1{0} unbag _1{464} 
-- 09/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{467} 
-- 10/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{469} 
-- 11/08/21 - 716* good singers _1{7} dont say no _1{1} unbag _1{471} 
-- 12/08/21 - 237* good singers _1{7} dont say no _1{1} 
-- 14/08/21 - 274* dont say no _1{1} 
-- 15/08/21 - 298* dont say no _1{1} 
-- 16/08/21 - 311* dont say no _1{2} 
-- 17/08/21 - 352* dont say no _1{2} 
-- 18/08/21 - 354* dont say no _1{2} 
-- 19/08/21 - 401* dont say no _1{2} 
+- 07/08/21 - 650* unbag _1{462} control z _2{1} 
+- 08/08/21 - 660* good singers _1{6} unbag _1{464} 
+- 09/08/21 - 708* good singers _1{7} unbag _1{467} 
+- 10/08/21 - 708* good singers _1{7} unbag _1{469} 
+- 11/08/21 - 716* good singers _1{7} unbag _1{471} 
+- 12/08/21 - 237* good singers _1{7} 
+- 14/08/21 - 274* 
+- 15/08/21 - 298* 
+- 16/08/21 - 311* 
+- 17/08/21 - 352* 
+- 18/08/21 - 354* 
+- 19/08/21 - 401* 
 - 20/08/21 - 860* unbag _1{489} 
 - 21/08/21 - 833* unbag _1{491} 
 - 22/08/21 - 780* from dusk till dawn _2{15} unbag _1{493} 
-- 23/08/21 - 278* dont say no _1{3} from dusk till dawn _2{16} 
-- 24/08/21 - 284* from dusk till dawn _2{16} dont say no _1{4} 
-- 25/08/21 - 284* from dusk till dawn _2{17} dont say no _1{4} 
-- 26/08/21 - 249* post mortem _1{0} from dusk till dawn _2{18} dont say no _1{4} 
+- 23/08/21 - 278* from dusk till dawn _2{16} 
+- 24/08/21 - 284* from dusk till dawn _2{16} 
+- 25/08/21 - 284* from dusk till dawn _2{17} 
+- 26/08/21 - 249* post mortem _1{0} from dusk till dawn _2{18} 
 - 27/08/21 - 252* post mortem _1{1} 
-- 28/08/21 - 270* dont say no _1{4} the yearbook _1{0} 
-- 29/08/21 - 316* dont say no _1{5} the yearbook _1{0} 
-- 30/08/21 - 306* bite me _1{1} dont say no _1{8} the yearbook _1{1} 
-- 31/08/21 - 239* camping paradis _12{6} peach of time _1{0} bite me _1{1} dont say no _1{9} the yearbook _1{1} 
+- 28/08/21 - 270* the yearbook _1{0} 
+- 29/08/21 - 316* the yearbook _1{0} 
+- 30/08/21 - 306* bite me _1{1} the yearbook _1{1} 
+- 31/08/21 - 239* camping paradis _12{6} peach of time _1{0} bite me _1{1} the yearbook _1{1} 
 - 01/09/21 - 245* 7project _1{1} peach of time _1{2} camping paradis _12{7} bite me _1{2} 
 - 02/09/21 - 385* 7project _1{1} peach of time _1{4} camping paradis _12{7} 
 - 03/09/21 - 895* unbag _1{519} 7project _1{1} peach of time _1{6} 
-- 04/09/21 - 789* dont say no _1{11} unbag _1{521} 7project _1{1} peach of time _1{8} 
-- 05/09/21 - 792* qforce _1{0} dont say no _1{11} unbag _1{523} 7project _1{1} peach of time _1{10} 
-- 06/09/21 - 865* vwars _1{7} qforce _1{1} dont say no _1{13} unbag _1{526} 
-- 07/09/21 - 854* peach of time _1{15} vwars _1{7} qforce _1{1} dont say no _1{14} unbag _1{528} 
-- 08/09/21 - 789* peach of time _1{17} 7project _1{2} vwars _1{8} qforce _1{1} dont say no _1{14} unbag _1{530} 
+- 04/09/21 - 789* unbag _1{521} 7project _1{1} peach of time _1{8} 
+- 05/09/21 - 792* qforce _1{0} unbag _1{523} 7project _1{1} peach of time _1{10} 
+- 06/09/21 - 865* vwars _1{7} qforce _1{1} unbag _1{526} 
+- 07/09/21 - 854* peach of time _1{15} vwars _1{7} qforce _1{1} unbag _1{528} 
+- 08/09/21 - 789* peach of time _1{17} 7project _1{2} vwars _1{8} qforce _1{1} unbag _1{530} 
 - 09/09/21 - 247* peach of time _1{19} 7project _1{2} vwars _1{8} qforce _1{1} 
 - 10/09/21 - 300* bite me _1{2} peach of time _1{19} 7project _1{2} vwars _1{8} 
-- 11/09/21 - 303* dont say no _1{14} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
-- 12/09/21 - 306* dont say no _1{15} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
-- 13/09/21 - 211* buffy _1{1} dont say no _1{17} earthmix space _1{1} lucifer _4{5} bite me _1{3} 
-- 14/09/21 - 115* peach of time _1{22} 7project _1{3} buffy _1{3} dont say no _1{18} earthmix space _1{1} lucifer _4{5} 
-- 15/09/21 - 225* peach of time _1{23} 7project _1{4} buffy _1{3} dont say no _1{18} 
+- 11/09/21 - 303* earthmix space _1{0} lucifer _4{4} bite me _1{2} 
+- 12/09/21 - 306* earthmix space _1{0} lucifer _4{4} bite me _1{2} 
+- 13/09/21 - 211* buffy _1{1} earthmix space _1{1} lucifer _4{5} bite me _1{3} 
+- 14/09/21 - 115* peach of time _1{22} 7project _1{3} buffy _1{3} earthmix space _1{1} lucifer _4{5} 
+- 15/09/21 - 225* peach of time _1{23} 7project _1{4} buffy _1{3} 
 - 16/09/21 - 191* peach of time _1{24} 7project _1{4} buffy _1{3} 
 - 17/09/21 - 643* unbag _1{548} peach of time _1{25} 7project _1{4} buffy _1{3} 
-- 18/09/21 - 661* dont say no _1{18} unbag _1{550} peach of time _1{26} 
-- 19/09/21 - 627* alice in borderland _1{0} dont say no _1{20} unbag _1{552} 
+- 18/09/21 - 661* unbag _1{550} peach of time _1{26} 
+- 19/09/21 - 627* alice in borderland _1{0} unbag _1{552} 
 - 20/09/21 - 63* post mortem _1{4} alice in borderland _1{1} 
 - 21/09/21 - 54* /9-1-1 _5{0} post mortem _1{4} 
 - 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
 - 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
 - 24/09/21 - 98* 
 - 25/09/21 - 96* earthmix space _1{1} 
-- 26/09/21 - 56* dont say no _1{30} earthmix space _1{1} 
-- 27/09/21 - 94* goblin _1{1} dont say no _1{33} 
-- 28/09/21 - 102* goblin _1{1} dont say no _1{35} 
+- 26/09/21 - 56* earthmix space _1{1} 
+- 27/09/21 - 94* goblin _1{1} 
+- 28/09/21 - 102* goblin _1{1} 
 - 29/09/21 - 69* goblin _1{1} 
 - 30/09/21 - 115* goblin _1{1} 
 - 01/10/21 - 129* /9-1-1 _5{2} 
@@ -667,9 +667,9 @@
 - 05/10/21 - 166* the shipper _1{6} 
 - 06/10/21 - 232* the shipper _1{6} 
 - 09/10/21 - 183* young sheldon _5{0} 
-- 10/10/21 - 701* love area _1{0} dont say no _1{54} young sheldon _5{0} unbag _1{594} 
-- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} dont say no _1{56} 
-- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{1} dont say no _1{57} 
+- 10/10/21 - 701* love area _1{0} young sheldon _5{0} unbag _1{594} 
+- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
+- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
 - 13/10/21 - 204* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
 - 14/10/21 - 284* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
 - 15/10/21 - 180* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 

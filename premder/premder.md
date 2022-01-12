@@ -78,7 +78,6 @@ Survivor au 6x3
 /9-1-1 5x3
 Love area 1x2
 * Love area 1x1
-Dont say no 1x10
 * Young sheldon 5x1
 The shipper 1x5
 * Goblin 1x1
@@ -101,7 +100,6 @@ Vwars 1x7
 * Post mortem 1x1
 From dusk till dawn 2x5
 Good singers 1x4
-* Dont say no 1x1
 Control z 2x2
 * Control z 2x1
 /46 days 1x7
