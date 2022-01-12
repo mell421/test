@@ -1,46 +1,46 @@
 aEff/aeff.md:- 01/11/21 - 195* kieta hatsukoi _1{3} bad buddy _1{2} 
 aEff/aeff.md:- 01/12/21 - 546* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} 
-aEff/aeff.md:- 01/12/21 (eff) - unbag _1{704} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 01/12/21 (eff) - unbag _1{704} kieta hatsukoi _1{20} survivor au _6{16} 
 aEff/aeff.md:- 02/11/21 - 207* the voice portugal _9{3} kieta hatsukoi _1{3} 
-aEff/aeff.md:- 02/12/21 (eff) - unbag _1{707} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 02/12/21 (eff) - unbag _1{707} kieta hatsukoi _1{21} survivor au _6{16} 
 aEff/aeff.md:- 03/11/21 - 289* the voice portugal _9{3} kieta hatsukoi _1{3} 
-aEff/aeff.md:- 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
-aEff/aeff.md:- 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} survivor au _6{16} 
+aEff/aeff.md:- 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} survivor au _6{16} 
 aEff/aeff.md:- 07/11/21 - 186* kieta hatsukoi _1{3} banana fish _1{0} bad buddy _1{2} 
 aEff/aeff.md:- 08/11/21 - 229* the voice portugal _9{4} kieta hatsukoi _1{6} 
 aEff/aeff.md:- 09/11/21 - 237* the voice portugal _9{4} kieta hatsukoi _1{7} 
 aEff/aeff.md:- 10/11/21 - 327* the voice portugal _9{4} kieta hatsukoi _1{9} 
 aEff/aeff.md:- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
-aEff/aeff.md:- 12/11/21 (eff) - unbag _1{665} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{13} 
+aEff/aeff.md:- 12/11/21 (eff) - unbag _1{665} survivor au _6{16} kieta hatsukoi _1{13} 
 aEff/aeff.md:- 13/10/21 - 204* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
-aEff/aeff.md:- 13/11/21 (eff) - unbag _1{667} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} 
+aEff/aeff.md:- 13/11/21 (eff) - unbag _1{667} survivor au _6{16} kieta hatsukoi _1{15} 
 aEff/aeff.md:- 14/10/21 - 284* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
-aEff/aeff.md:- 14/11/21 (eff) - unbag _1{669} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 14/11/21 (eff) - unbag _1{669} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 15/10/21 - 180* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
-aEff/aeff.md:- 15/11/21 (eff) - unbag _1{671} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 15/11/21 (eff) - unbag _1{671} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 16/10/21 - 148* kieta hatsukoi _1{0} /9-1-1 _5{6} 
 aEff/aeff.md:- 16/11/21 - 292* the case study of vanitas _1{0} kieta hatsukoi _1{17} the voice portugal _9{5} 
-aEff/aeff.md:- 16/11/21 (eff) - unbag _1{673} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 16/11/21 (eff) - unbag _1{673} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 17/11/21 - 386* the case study of vanitas _1{2} kieta hatsukoi _1{17} the voice portugal _9{5} 
-aEff/aeff.md:- 17/11/21 (eff) - unbag _1{675} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 17/11/21 (eff) - unbag _1{675} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 18/11/21 - 244* the case study of vanitas _1{3} kieta hatsukoi _1{17} 
-aEff/aeff.md:- 18/11/21 (eff) - unbag _1{677} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 18/11/21 (eff) - unbag _1{677} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 19/11/21 - 209* the case study of vanitas _1{4} kieta hatsukoi _1{17} 
-aEff/aeff.md:- 19/11/21 (eff) - unbag _1{679} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-aEff/aeff.md:- 20/11/21 (eff) - unbag _1{681} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-aEff/aeff.md:- 21/11/21 (eff) - unbag _1{683} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-aEff/aeff.md:- 22/11/21 (eff) - unbag _1{685} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-aEff/aeff.md:- 23/11/21 (eff) - unbag _1{687} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} 
-aEff/aeff.md:- 24/11/21 (eff) - unbag _1{689} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 25/11/21 (eff) - unbag _1{691} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 26/11/21 (eff) - unbag _1{693} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 27/11/21 (eff) - unbag _1{695} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 28/11/21 (eff) - unbag _1{697} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 19/11/21 (eff) - unbag _1{679} kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 20/11/21 (eff) - unbag _1{681} kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 21/11/21 (eff) - unbag _1{683} kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 22/11/21 (eff) - unbag _1{685} kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 23/11/21 (eff) - unbag _1{687} kieta hatsukoi _1{18} survivor au _6{16} 
+aEff/aeff.md:- 24/11/21 (eff) - unbag _1{689} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 25/11/21 (eff) - unbag _1{691} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 26/11/21 (eff) - unbag _1{693} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 27/11/21 (eff) - unbag _1{695} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 28/11/21 (eff) - unbag _1{697} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} mr cinderella _1{0} paint with love _1{0} unbag _1{699} 
-aEff/aeff.md:- 29/11/21 (eff) - unbag _1{699} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 29/11/21 (eff) - unbag _1{699} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} mr cinderella _1{1} paint with love _1{1} 
-aEff/aeff.md:- 30/11/21 (eff) - unbag _1{702} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+aEff/aeff.md:- 30/11/21 (eff) - unbag _1{702} kieta hatsukoi _1{20} survivor au _6{16} 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 apercu/apercu21.md:- sem 01-11-2021 -> Kieta hatsukoi _1x3(1) Bad buddy _1x2(1) Unbag _1x34(1) The voice portugal _9x3(1) Tbbt _11x4(2) 
 apercu/apercu21.md:- sem 08-11-2021 -> The voice portugal _9x5(2) Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) Unbag _1x35(1) 

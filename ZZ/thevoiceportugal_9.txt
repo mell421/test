@@ -14,8 +14,8 @@ aEff/aeff.md:- 16/11/21 - 292* the case study of vanitas _1{0} kieta hatsukoi _1
 aEff/aeff.md:- 17/11/21 - 386* the case study of vanitas _1{2} kieta hatsukoi _1{17} the voice portugal _9{5} 
 aEff/aeff.md:- 18/10/21 - 214* the voice portugal _9{1} survivor au _6{1} aoki vuanpaia no nayami _1{3} 
 aEff/aeff.md:- 19/10/21 - 225* the voice portugal _9{1} survivor au _6{3} aoki vuanpaia no nayami _1{4} 
-aEff/aeff.md:- 20/10/21 - 224* age of the living dead _1{0} inhuman condition _1{0} the voice portugal _9{1} survivor au _6{5} 
-aEff/aeff.md:- 21/10/21 - 219* age of the living dead _1{0} inhuman condition _1{2} the voice portugal _9{1} 
+aEff/aeff.md:- 20/10/21 - 224* age of the living dead _1{0} the voice portugal _9{1} survivor au _6{5} 
+aEff/aeff.md:- 21/10/21 - 219* age of the living dead _1{0} the voice portugal _9{1} 
 aEff/aeff.md:- 22/11/21 - 328* the voice portugal _9{5} bad buddy _1{4} les engages _3{0} 
 aEff/aeff.md:- 23/11/21 - 327* the voice portugal _9{6} bad buddy _1{5} les engages _3{1} 
 aEff/aeff.md:- 24/11/21 - 455* the voice portugal _9{7} 
@@ -26,7 +26,7 @@ aEff/aeff.md:- 28/10/21 - 213* the voice portugal _9{1} tbbt _11{6} aoki vuanpai
 aEff/aeff.md:- 29/10/21 - 831* unbag _1{634} the voice portugal _9{1} tbbt _11{8} 
 aEff/aeff.md:- 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} mr cinderella _1{0} paint with love _1{0} unbag _1{699} 
 aEff/aeff.md:- 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} mr cinderella _1{1} paint with love _1{1} 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 apercu/apercu21.md:- sem 01-11-2021 -> Kieta hatsukoi _1x3(1) Bad buddy _1x2(1) Unbag _1x34(1) The voice portugal _9x3(1) Tbbt _11x4(2) 
 apercu/apercu21.md:- sem 08-11-2021 -> The voice portugal _9x5(2) Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) Unbag _1x35(1) 

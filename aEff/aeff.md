@@ -353,48 +353,48 @@
 - 21/10/21 (eff) - unbag _1{617} peach of time _1{33} vwars _1{9} 
 - 22/10/21 (eff) - unbag _1{619} peach of time _1{33} survivor au _6{9} 
 - 23/10/21 (eff) - unbag _1{621} peach of time _1{33} survivor au _6{11} 
-- 24/10/21 (eff) - unbag _1{623} peach of time _1{33} survivor au _6{13} inhuman condition _1{8} 
-- 25/10/21 (eff) - unbag _1{626} peach of time _1{33} survivor au _6{15} inhuman condition _1{11} 
-- 26/10/21 (eff) - unbag _1{628} peach of time _1{33} survivor au _6{15} inhuman condition _1{13} 
-- 27/10/21 (eff) - unbag _1{630} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
-- 28/10/21 (eff) - unbag _1{632} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
-- 29/10/21 (eff) - unbag _1{634} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{8} 
-- 30/10/21 (eff) - unbag _1{636} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} 
-- 31/10/21 (eff) - unbag _1{638} inhuman condition _1{15} survivor au _6{15} tbbt _11{11} 
-- 01/11/21 (eff) - unbag _1{642} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 02/11/21 (eff) - unbag _1{644} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 03/11/21 (eff) - unbag _1{646} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 04/11/21 (eff) - unbag _1{648} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 05/11/21 (eff) - unbag _1{650} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 06/11/21 (eff) - unbag _1{652} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 07/11/21 (eff) - unbag _1{654} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 08/11/21 (eff) - unbag _1{657} inhuman condition _1{16} survivor au _6{16} 
-- 09/11/21 (eff) - unbag _1{659} inhuman condition _1{16} survivor au _6{16} 
-- 10/11/21 (eff) - unbag _1{661} inhuman condition _1{16} survivor au _6{16} 
-- 11/11/21 (eff) - unbag _1{663} inhuman condition _1{16} survivor au _6{16} 
-- 12/11/21 (eff) - unbag _1{665} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{13} 
-- 13/11/21 (eff) - unbag _1{667} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} 
-- 14/11/21 (eff) - unbag _1{669} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 15/11/21 (eff) - unbag _1{671} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 16/11/21 (eff) - unbag _1{673} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 17/11/21 (eff) - unbag _1{675} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 18/11/21 (eff) - unbag _1{677} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 19/11/21 (eff) - unbag _1{679} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 20/11/21 (eff) - unbag _1{681} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 21/11/21 (eff) - unbag _1{683} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 22/11/21 (eff) - unbag _1{685} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 23/11/21 (eff) - unbag _1{687} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} 
-- 24/11/21 (eff) - unbag _1{689} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 25/11/21 (eff) - unbag _1{691} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 26/11/21 (eff) - unbag _1{693} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 27/11/21 (eff) - unbag _1{695} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 28/11/21 (eff) - unbag _1{697} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 29/11/21 (eff) - unbag _1{699} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 30/11/21 (eff) - unbag _1{702} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
-- 01/12/21 (eff) - unbag _1{704} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
-- 02/12/21 (eff) - unbag _1{707} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
-- 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
-- 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+- 24/10/21 (eff) - unbag _1{623} peach of time _1{33} survivor au _6{13} 
+- 25/10/21 (eff) - unbag _1{626} peach of time _1{33} survivor au _6{15} 
+- 26/10/21 (eff) - unbag _1{628} peach of time _1{33} survivor au _6{15} 
+- 27/10/21 (eff) - unbag _1{630} peach of time _1{33} survivor au _6{15} 
+- 28/10/21 (eff) - unbag _1{632} peach of time _1{33} survivor au _6{15} 
+- 29/10/21 (eff) - unbag _1{634} peach of time _1{33} survivor au _6{15} tbbt _11{8} 
+- 30/10/21 (eff) - unbag _1{636} peach of time _1{33} survivor au _6{15} tbbt _11{10} 
+- 31/10/21 (eff) - unbag _1{638} survivor au _6{15} tbbt _11{11} 
+- 01/11/21 (eff) - unbag _1{642} survivor au _6{16} tbbt _11{13} 
+- 02/11/21 (eff) - unbag _1{644} survivor au _6{16} tbbt _11{13} 
+- 03/11/21 (eff) - unbag _1{646} survivor au _6{16} tbbt _11{13} 
+- 04/11/21 (eff) - unbag _1{648} survivor au _6{16} tbbt _11{13} 
+- 05/11/21 (eff) - unbag _1{650} survivor au _6{16} tbbt _11{13} 
+- 06/11/21 (eff) - unbag _1{652} survivor au _6{16} tbbt _11{13} 
+- 07/11/21 (eff) - unbag _1{654} survivor au _6{16} tbbt _11{13} 
+- 08/11/21 (eff) - unbag _1{657} survivor au _6{16} 
+- 09/11/21 (eff) - unbag _1{659} survivor au _6{16} 
+- 10/11/21 (eff) - unbag _1{661} survivor au _6{16} 
+- 11/11/21 (eff) - unbag _1{663} survivor au _6{16} 
+- 12/11/21 (eff) - unbag _1{665} survivor au _6{16} kieta hatsukoi _1{13} 
+- 13/11/21 (eff) - unbag _1{667} survivor au _6{16} kieta hatsukoi _1{15} 
+- 14/11/21 (eff) - unbag _1{669} kieta hatsukoi _1{17} survivor au _6{16} 
+- 15/11/21 (eff) - unbag _1{671} kieta hatsukoi _1{17} survivor au _6{16} 
+- 16/11/21 (eff) - unbag _1{673} kieta hatsukoi _1{17} survivor au _6{16} 
+- 17/11/21 (eff) - unbag _1{675} kieta hatsukoi _1{17} survivor au _6{16} 
+- 18/11/21 (eff) - unbag _1{677} kieta hatsukoi _1{17} survivor au _6{16} 
+- 19/11/21 (eff) - unbag _1{679} kieta hatsukoi _1{17} survivor au _6{16} 
+- 20/11/21 (eff) - unbag _1{681} kieta hatsukoi _1{17} survivor au _6{16} 
+- 21/11/21 (eff) - unbag _1{683} kieta hatsukoi _1{17} survivor au _6{16} 
+- 22/11/21 (eff) - unbag _1{685} kieta hatsukoi _1{17} survivor au _6{16} 
+- 23/11/21 (eff) - unbag _1{687} kieta hatsukoi _1{18} survivor au _6{16} 
+- 24/11/21 (eff) - unbag _1{689} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+- 25/11/21 (eff) - unbag _1{691} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+- 26/11/21 (eff) - unbag _1{693} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+- 27/11/21 (eff) - unbag _1{695} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+- 28/11/21 (eff) - unbag _1{697} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+- 29/11/21 (eff) - unbag _1{699} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+- 30/11/21 (eff) - unbag _1{702} kieta hatsukoi _1{20} survivor au _6{16} 
+- 01/12/21 (eff) - unbag _1{704} kieta hatsukoi _1{20} survivor au _6{16} 
+- 02/12/21 (eff) - unbag _1{707} kieta hatsukoi _1{21} survivor au _6{16} 
+- 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} survivor au _6{16} 
+- 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} survivor au _6{16} 
 
 
 
@@ -677,8 +677,8 @@
 - 17/10/21 - 118* aoki vuanpaia no nayami _1{0} 
 - 18/10/21 - 214* the voice portugal _9{1} survivor au _6{1} aoki vuanpaia no nayami _1{3} 
 - 19/10/21 - 225* the voice portugal _9{1} survivor au _6{3} aoki vuanpaia no nayami _1{4} 
-- 20/10/21 - 224* age of the living dead _1{0} inhuman condition _1{0} the voice portugal _9{1} survivor au _6{5} 
-- 21/10/21 - 219* age of the living dead _1{0} inhuman condition _1{2} the voice portugal _9{1} 
+- 20/10/21 - 224* age of the living dead _1{0} the voice portugal _9{1} survivor au _6{5} 
+- 21/10/21 - 219* age of the living dead _1{0} the voice portugal _9{1} 
 - 22/10/21 - 677* unbag _1{619} insiders _1{0} age of the living dead _1{0} 
 - 23/10/21 - 687* earthmix space _1{4} unbag _1{621} insiders _1{0} 
 - 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} earthmix space _1{4} unbag _1{623} 

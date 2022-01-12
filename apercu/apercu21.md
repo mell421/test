@@ -60,7 +60,7 @@
 - sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) Unbag _1x32(1) 
 - sem 18-10-2021 The voice portugal _9x2(1) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
-- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Unbag _1x33(1) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) 
+- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Unbag _1x33(1) Insiders _1x2(1) Age of the living dead _1x2(1) 
 - sem 01-11-2021 -> Kieta hatsukoi _1x3(1) Bad buddy _1x2(1) Unbag _1x34(1) The voice portugal _9x3(1) Tbbt _11x4(2) 
 - sem 08-11-2021 -> The voice portugal _9x5(2) Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) Unbag _1x35(1) 
 - sem 15-11-2021 -> The voice portugal _9x6(1) Bad buddy _1x4(1) 
@@ -84,7 +84,7 @@
 - mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 - mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 - mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
 
@@ -390,13 +390,13 @@
 * conclu 17/10/21 = Unbag _1 > 6; Aoki vuanpaia no nayami _1 > 1; 
 * conclu 18/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
 * conclu 19/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
-* conclu 20/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; 
-* conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
-* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
-* conclu 23/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
-* conclu 24/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Young sheldon _5 > 1; 
-* conclu 25/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; 
-* conclu 26/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Tbbt _11 > 2; 
+* conclu 20/10/21 = Unbag _1 > 3; Survivor au _6 > 1; 
+* conclu 21/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
+* conclu 22/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
+* conclu 23/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
+* conclu 24/10/21 = Unbag _1 > 6; Survivor au _6 > 2; Young sheldon _5 > 1; 
+* conclu 25/10/21 = Unbag _1 > 6; 
+* conclu 26/10/21 = Unbag _1 > 6; Tbbt _11 > 2; 
 * conclu 27/10/21 = Unbag _1 > 6; Tbbt _11 > 1; 
 * conclu 28/10/21 = Unbag _1 > 6; Tbbt _11 > 1; 
 * conclu 29/10/21 = Unbag _1 > 6; Tbbt _11 > 1; 
@@ -740,13 +740,13 @@
 * concluBis 17/10/21 = Unbag _1 > 10; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
 * concluBis 18/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
 * concluBis 19/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-* concluBis 20/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; 
-* concluBis 21/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; 
-* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
-* concluBis 23/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
-* concluBis 24/10/21 = Unbag _1 > 10; Inhuman condition _1 > 6; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; 
-* concluBis 25/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Young sheldon _5 > 2; My sweet dear _1 > 1; 
-* concluBis 26/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Tbbt _11 > 4; Young sheldon _5 > 1; 
+* concluBis 20/10/21 = Unbag _1 > 5; Survivor au _6 > 3; 
+* concluBis 21/10/21 = Unbag _1 > 5; Survivor au _6 > 4; 
+* concluBis 22/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
+* concluBis 23/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
+* concluBis 24/10/21 = Unbag _1 > 10; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; 
+* concluBis 25/10/21 = Unbag _1 > 10; Young sheldon _5 > 2; My sweet dear _1 > 1; 
+* concluBis 26/10/21 = Unbag _1 > 10; Tbbt _11 > 4; Young sheldon _5 > 1; 
 * concluBis 27/10/21 = Unbag _1 > 10; Tbbt _11 > 3; 
 * concluBis 28/10/21 = Unbag _1 > 10; Tbbt _11 > 3; 
 * concluBis 29/10/21 = Unbag _1 > 10; Tbbt _11 > 3; 

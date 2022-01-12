@@ -1,48 +1,43 @@
 
 i = Unbag _1
 ligne :  1958 ZZ/Unbag_1.txt
-mot   :  22880 ZZ/Unbag_1.txt
-carac :  155133 ZZ/Unbag_1.txt
+mot   :  22638 ZZ/Unbag_1.txt
+carac :  153460 ZZ/Unbag_1.txt
 
 i = Peach of time _1
 ligne :  137 ZZ/Peachoftime_1.txt
-mot   :  2392 ZZ/Peachoftime_1.txt
-carac :  15131 ZZ/Peachoftime_1.txt
+mot   :  2371 ZZ/Peachoftime_1.txt
+carac :  14957 ZZ/Peachoftime_1.txt
 
 i = The voice portugal _9
 ligne :  40 ZZ/Thevoiceportugal_9.txt
-mot   :  681 ZZ/Thevoiceportugal_9.txt
-carac :  4723 ZZ/Thevoiceportugal_9.txt
+mot   :  672 ZZ/Thevoiceportugal_9.txt
+carac :  4649 ZZ/Thevoiceportugal_9.txt
 
 i = Kieta hatsukoi _1
 ligne :  65 ZZ/Kietahatsukoi_1.txt
-mot   :  1062 ZZ/Kietahatsukoi_1.txt
-carac :  7496 ZZ/Kietahatsukoi_1.txt
-
-i = Inhuman condition _1
-ligne :  69 ZZ/Inhumancondition_1.txt
-mot   :  1181 ZZ/Inhumancondition_1.txt
-carac :  8019 ZZ/Inhumancondition_1.txt
+mot   :  990 ZZ/Kietahatsukoi_1.txt
+carac :  6895 ZZ/Kietahatsukoi_1.txt
 
 i = Survivor au _6
 ligne :  79 ZZ/Survivorau_6.txt
-mot   :  1407 ZZ/Survivorau_6.txt
-carac :  9328 ZZ/Survivorau_6.txt
+mot   :  1185 ZZ/Survivorau_6.txt
+carac :  7761 ZZ/Survivorau_6.txt
 
 i = Earthmix space _1
 ligne :  31 ZZ/Earthmixspace_1.txt
-mot   :  631 ZZ/Earthmixspace_1.txt
-carac :  4548 ZZ/Earthmixspace_1.txt
+mot   :  625 ZZ/Earthmixspace_1.txt
+carac :  4496 ZZ/Earthmixspace_1.txt
 
 i = Bad buddy _1
 ligne :  24 ZZ/Badbuddy_1.txt
-mot   :  445 ZZ/Badbuddy_1.txt
-carac :  2996 ZZ/Badbuddy_1.txt
+mot   :  442 ZZ/Badbuddy_1.txt
+carac :  2970 ZZ/Badbuddy_1.txt
 
 i = Tbbt _11
 ligne :  41 ZZ/Tbbt_11.txt
-mot   :  740 ZZ/Tbbt_11.txt
-carac :  5135 ZZ/Tbbt_11.txt
+mot   :  679 ZZ/Tbbt_11.txt
+carac :  4657 ZZ/Tbbt_11.txt
 
 i = Do seu lado _1
 ligne :  18 ZZ/Doseulado_1.txt
@@ -86,8 +81,8 @@ carac :  3816 ZZ/7project_1.txt
 
 i = /9-1-1 _5
 ligne :  29 ZZ//9-1-1_5.txt
-mot   :  507 ZZ//9-1-1_5.txt
-carac :  3538 ZZ//9-1-1_5.txt
+mot   :  504 ZZ//9-1-1_5.txt
+carac :  3512 ZZ//9-1-1_5.txt
 
 i = Not me _1
 ligne :  13 ZZ/Notme_1.txt
@@ -96,8 +91,8 @@ carac :  2560 ZZ/Notme_1.txt
 
 i = The shipper _1
 ligne :  29 ZZ/Theshipper_1.txt
-mot   :  465 ZZ/Theshipper_1.txt
-carac :  3499 ZZ/Theshipper_1.txt
+mot   :  462 ZZ/Theshipper_1.txt
+carac :  3473 ZZ/Theshipper_1.txt
 
 i = The player _1
 ligne :  0 ZZ/Theplayer_1.txt
@@ -111,13 +106,13 @@ carac :  2518 ZZ/Unlocked_1.txt
 
 i = Aoki vuanpaia no nayami _1
 ligne :  20 ZZ/Aokivuanpaianonayami_1.txt
-mot   :  395 ZZ/Aokivuanpaianonayami_1.txt
-carac :  2568 ZZ/Aokivuanpaianonayami_1.txt
+mot   :  389 ZZ/Aokivuanpaianonayami_1.txt
+carac :  2516 ZZ/Aokivuanpaianonayami_1.txt
 
 i = Young sheldon _5
 ligne :  17 ZZ/Youngsheldon_5.txt
-mot   :  483 ZZ/Youngsheldon_5.txt
-carac :  2963 ZZ/Youngsheldon_5.txt
+mot   :  457 ZZ/Youngsheldon_5.txt
+carac :  2807 ZZ/Youngsheldon_5.txt
 
 i = You are my sunshine _1
 ligne :  0 ZZ/Youaremysunshine_1.txt
@@ -166,13 +161,13 @@ carac :  2844 ZZ/Lucifer_4.txt
 
 i = My sweet dear _1
 ligne :  8 ZZ/Mysweetdear_1.txt
-mot   :  203 ZZ/Mysweetdear_1.txt
-carac :  1307 ZZ/Mysweetdear_1.txt
+mot   :  187 ZZ/Mysweetdear_1.txt
+carac :  1203 ZZ/Mysweetdear_1.txt
 
 i = Love area _1
 ligne :  10 ZZ/Lovearea_1.txt
-mot   :  179 ZZ/Lovearea_1.txt
-carac :  1264 ZZ/Lovearea_1.txt
+mot   :  176 ZZ/Lovearea_1.txt
+carac :  1238 ZZ/Lovearea_1.txt
 
 i = Les engages _3
 ligne :  6 ZZ/Lesengages_3.txt
@@ -196,8 +191,8 @@ carac :
 
 i = Insiders _1
 ligne :  5 ZZ/Insiders_1.txt
-mot   :  119 ZZ/Insiders_1.txt
-carac :  847 ZZ/Insiders_1.txt
+mot   :  113 ZZ/Insiders_1.txt
+carac :  795 ZZ/Insiders_1.txt
 
 i = The big leap _1
 ligne :  7 ZZ/Thebigleap_1.txt

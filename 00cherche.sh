@@ -11,7 +11,7 @@ list99=(
 # 199-100
 "Peach of time _1" 
 # 99-50
-"The voice portugal _9" "Kieta hatsukoi _1" "Inhuman condition _1" "Survivor au _6" "Earthmix space _1" "Bad buddy _1" "Tbbt _11" 
+"The voice portugal _9" "Kieta hatsukoi _1" "Survivor au _6" "Earthmix space _1" "Bad buddy _1" "Tbbt _11" 
 # 49-40
 "Do seu lado _1" 
 # 39-30
@@ -50,7 +50,7 @@ listAsc=(
 # 4
 "Bad buddy _1" "Paint with love _1" "Next level chef _1" "Behind cut _1" 
 # 5
-"The voice be _10" "/9-1-1 lone star _3" "Inhuman condition _1" "The voice portugal _9" "Young sheldon _5" 
+"The voice be _10" "/9-1-1 lone star _3" "The voice portugal _9" "Young sheldon _5" 
 # 6
 "Tinted with you _1" "Survivor _13" "5515 never too late _1" "The player _1" "You are my sunshine _1" 
 # 7

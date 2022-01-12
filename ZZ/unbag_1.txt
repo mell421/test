@@ -10,9 +10,9 @@ aEff/aeff.md:- 01/07/21 (eff) - unbag _1{385} my vampire boyfriend _1{25} vincen
 aEff/aeff.md:- 01/08/21 (eff) - unbag _1{450} /46 days _1{35} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
 aEff/aeff.md:- 01/09/21 (eff) - unbag _1{515} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} 
 aEff/aeff.md:- 01/10/21 (eff) - unbag _1{578} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-aEff/aeff.md:- 01/11/21 (eff) - unbag _1{642} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 01/11/21 (eff) - unbag _1{642} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 01/12/20 - unbag _1{16} pogi lang hanap _1{10} 
-aEff/aeff.md:- 01/12/21 (eff) - unbag _1{704} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 01/12/21 (eff) - unbag _1{704} kieta hatsukoi _1{20} survivor au _6{16} 
 aEff/aeff.md:- 02/01/21 - 75* the shipper _1{2} unbag _1{44} ghost runner _1{7} 
 aEff/aeff.md:- 02/01/21 - unbag _1{44} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
 aEff/aeff.md:- 02/02/21 - unbag _1{93} koishite akuma _1{16} 
@@ -26,9 +26,9 @@ aEff/aeff.md:- 02/07/21 (eff) - unbag _1{387} my vampire boyfriend _1{25} vincen
 aEff/aeff.md:- 02/08/21 (eff) - unbag _1{452} /46 days _1{36} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
 aEff/aeff.md:- 02/09/21 (eff) - unbag _1{517} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} 
 aEff/aeff.md:- 02/10/21 (eff) - unbag _1{578} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-aEff/aeff.md:- 02/11/21 (eff) - unbag _1{644} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 02/11/21 (eff) - unbag _1{644} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 02/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} 
-aEff/aeff.md:- 02/12/21 (eff) - unbag _1{707} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 02/12/21 (eff) - unbag _1{707} kieta hatsukoi _1{21} survivor au _6{16} 
 aEff/aeff.md:- 03/01/21 - unbag _1{46} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
 aEff/aeff.md:- 03/02/21 - unbag _1{95} koishite akuma _1{16} 
 aEff/aeff.md:- 03/03/21 - unbag _1{140} my vampire boyfriend _1{25} 
@@ -41,9 +41,9 @@ aEff/aeff.md:- 03/08/21 (eff) - unbag _1{454} /46 days _1{37} my vampire boyfrie
 aEff/aeff.md:- 03/09/21 - 895* unbag _1{519} 7project _1{1} peach of time _1{6} 
 aEff/aeff.md:- 03/09/21 (eff) - unbag _1{519} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 03/10/21 (eff) - unbag _1{580} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-aEff/aeff.md:- 03/11/21 (eff) - unbag _1{646} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 03/11/21 (eff) - unbag _1{646} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 03/12/20 - unbag _1{16} pogi lang hanap _1{10} 
-aEff/aeff.md:- 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} survivor au _6{16} 
 aEff/aeff.md:- 04/01/21 - unbag _1{49} from dusk till dawn _2{15} ghost runner _1{9} 
 aEff/aeff.md:- 04/02/21 - unbag _1{97} 
 aEff/aeff.md:- 04/03/21 - unbag _1{142} my vampire boyfriend _1{25} 
@@ -56,10 +56,10 @@ aEff/aeff.md:- 04/08/21 (eff) - unbag _1{456} /46 days _1{38} my vampire boyfrie
 aEff/aeff.md:- 04/09/21 - 789* unbag _1{521} 7project _1{1} peach of time _1{8} 
 aEff/aeff.md:- 04/09/21 (eff) - unbag _1{521} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} 
 aEff/aeff.md:- 04/10/21 (eff) - unbag _1{582} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-aEff/aeff.md:- 04/11/21 (eff) - unbag _1{648} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 04/11/21 (eff) - unbag _1{648} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 04/12/20 - 239* unbag _1{16} ghost runner _1{0} be love _1{6} 
 aEff/aeff.md:- 04/12/20 - unbag _1{16} pogi lang hanap _1{10} 
-aEff/aeff.md:- 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} survivor au _6{16} 
 aEff/aeff.md:- 05/01/21 - unbag _1{51} from dusk till dawn _2{15} ghost runner _1{10} 
 aEff/aeff.md:- 05/02/21 - unbag _1{99} 
 aEff/aeff.md:- 05/03/21 - unbag _1{144} 
@@ -72,7 +72,7 @@ aEff/aeff.md:- 05/09/21 - 792* qforce _1{0} unbag _1{523} 7project _1{1} peach o
 aEff/aeff.md:- 05/09/21 (eff) - unbag _1{523} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} 
 aEff/aeff.md:- 05/10/21 (eff) - unbag _1{584} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
 aEff/aeff.md:- 05/11/21 - 822* unbag _1{650} the voice portugal _9{3} 
-aEff/aeff.md:- 05/11/21 (eff) - unbag _1{650} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 05/11/21 (eff) - unbag _1{650} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 05/12/20 - 134* unbag _1{16} ghost runner _1{0} 
 aEff/aeff.md:- 05/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 06/01/21 - unbag _1{53} ghost runner _1{11} 
@@ -89,7 +89,7 @@ aEff/aeff.md:- 06/09/21 (eff) - unbag _1{526} /46 days _1{46} my vampire boyfrie
 aEff/aeff.md:- 06/10/21 (eff) - unbag _1{586} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
 aEff/aeff.md:- 06/11/20 - 253* unbag _1{12} blood _1{4} 
 aEff/aeff.md:- 06/11/21 - 748* bad buddy _1{2} earthmix space _1{6} unbag _1{652} 
-aEff/aeff.md:- 06/11/21 (eff) - unbag _1{652} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 06/11/21 (eff) - unbag _1{652} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 06/12/20 - 148* unbag _1{16} 
 aEff/aeff.md:- 06/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 07/01/21 - unbag _1{55} ghost runner _1{11} 
@@ -105,7 +105,7 @@ aEff/aeff.md:- 07/09/21 - 854* peach of time _1{15} vwars _1{7} qforce _1{1} unb
 aEff/aeff.md:- 07/09/21 (eff) - unbag _1{528} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} peach of time _1{15} elite _4{15} 
 aEff/aeff.md:- 07/10/21 (eff) - unbag _1{588} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
 aEff/aeff.md:- 07/11/20 - 173* unbag _1{12} blood _1{4} 
-aEff/aeff.md:- 07/11/21 (eff) - unbag _1{654} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 07/11/21 (eff) - unbag _1{654} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 07/12/20 - unbag _1{18} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 08/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
 aEff/aeff.md:- 08/02/21 - unbag _1{102} koishite akuma _1{16} 
@@ -119,7 +119,7 @@ aEff/aeff.md:- 08/08/21 (eff) - unbag _1{464} /46 days _1{41} my vampire boyfrie
 aEff/aeff.md:- 08/09/21 - 789* peach of time _1{17} 7project _1{2} vwars _1{8} qforce _1{1} unbag _1{530} 
 aEff/aeff.md:- 08/09/21 (eff) - unbag _1{530} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} peach of time _1{17} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 08/10/21 (eff) - unbag _1{590} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-aEff/aeff.md:- 08/11/21 (eff) - unbag _1{657} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 08/11/21 (eff) - unbag _1{657} survivor au _6{16} 
 aEff/aeff.md:- 08/12/20 - unbag _1{19} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 09/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
 aEff/aeff.md:- 09/02/21 - unbag _1{103} koishite akuma _1{16} 
@@ -133,7 +133,7 @@ aEff/aeff.md:- 09/08/21 - 708* good singers _1{7} unbag _1{467}
 aEff/aeff.md:- 09/08/21 (eff) - unbag _1{467} /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 09/09/21 (eff) - unbag _1{532} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 09/10/21 (eff) - unbag _1{592} peach of time _1{33} vwars _1{9} 
-aEff/aeff.md:- 09/11/21 (eff) - unbag _1{659} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 09/11/21 (eff) - unbag _1{659} survivor au _6{16} 
 aEff/aeff.md:- 09/12/20 - unbag _1{20} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 10/01/21 - unbag _1{57} ghost runner _1{11} 
 aEff/aeff.md:- 10/02/21 - unbag _1{104} koishite akuma _1{16} 
@@ -148,7 +148,7 @@ aEff/aeff.md:- 10/08/21 (eff) - unbag _1{469} /46 days _1{42} my vampire boyfrie
 aEff/aeff.md:- 10/09/21 (eff) - unbag _1{534} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 10/10/21 - 701* love area _1{0} young sheldon _5{0} unbag _1{594} 
 aEff/aeff.md:- 10/10/21 (eff) - unbag _1{594} peach of time _1{33} vwars _1{9} camping paradis _12{8} 
-aEff/aeff.md:- 10/11/21 (eff) - unbag _1{661} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 10/11/21 (eff) - unbag _1{661} survivor au _6{16} 
 aEff/aeff.md:- 10/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 11/01/21 - unbag _1{58} ghost runner _1{11} 
 aEff/aeff.md:- 11/02/21 - unbag _1{105} koishite akuma _1{16} 
@@ -163,7 +163,7 @@ aEff/aeff.md:- 11/08/21 - 716* good singers _1{7} unbag _1{471}
 aEff/aeff.md:- 11/08/21 (eff) - unbag _1{471} /46 days _1{43} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 11/09/21 (eff) - unbag _1{536} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 11/10/21 (eff) - unbag _1{597} peach of time _1{33} vwars _1{9} 
-aEff/aeff.md:- 11/11/21 (eff) - unbag _1{663} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 11/11/21 (eff) - unbag _1{663} survivor au _6{16} 
 aEff/aeff.md:- 11/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} 
 aEff/aeff.md:- 12/01/21 - unbag _1{58} from dusk till dawn _2{15} ghost runner _1{11} 
 aEff/aeff.md:- 12/02/21 - 199* unbag _1{106} the harvest season _1{4} wabi show _1{3} 
@@ -180,7 +180,7 @@ aEff/aeff.md:- 12/08/21 (eff) - unbag _1{473} /46 days _1{44} my vampire boyfrie
 aEff/aeff.md:- 12/09/21 (eff) - unbag _1{538} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 12/10/21 (eff) - unbag _1{599} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
 aEff/aeff.md:- 12/11/20 - 233* unbag _1{13} 
-aEff/aeff.md:- 12/11/21 (eff) - unbag _1{665} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{13} 
+aEff/aeff.md:- 12/11/21 (eff) - unbag _1{665} survivor au _6{16} kieta hatsukoi _1{13} 
 aEff/aeff.md:- 12/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 13/01/21 - unbag _1{59} from dusk till dawn _2{15} 
 aEff/aeff.md:- 13/02/21 - 218* tokyo ghoul _3{0} unbag _1{108} 
@@ -196,7 +196,7 @@ aEff/aeff.md:- 13/08/21 (eff) - unbag _1{475} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 13/09/21 (eff) - unbag _1{540} /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 13/10/21 (eff) - unbag _1{601} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
 aEff/aeff.md:- 13/11/20 - 245* unbag _1{13} 
-aEff/aeff.md:- 13/11/21 (eff) - unbag _1{667} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} 
+aEff/aeff.md:- 13/11/21 (eff) - unbag _1{667} survivor au _6{16} kieta hatsukoi _1{15} 
 aEff/aeff.md:- 13/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 14/01/21 - unbag _1{60} 
 aEff/aeff.md:- 14/02/21 - 209* tokyo ghoul _3{0} unbag _1{110} 
@@ -212,7 +212,7 @@ aEff/aeff.md:- 14/08/21 (eff) - unbag _1{477} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 14/09/21 (eff) - unbag _1{542} /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 14/10/21 (eff) - unbag _1{603} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
 aEff/aeff.md:- 14/11/20 - 392* unbag _1{13} 
-aEff/aeff.md:- 14/11/21 (eff) - unbag _1{669} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 14/11/21 (eff) - unbag _1{669} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 14/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 15/01/21 - 164* unbag _1{61} 
 aEff/aeff.md:- 15/01/21 - unbag _1{61} 
@@ -228,7 +228,7 @@ aEff/aeff.md:- 15/08/21 (eff) - unbag _1{479} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 15/09/21 (eff) - unbag _1{544} /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 15/10/21 (eff) - unbag _1{605} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
 aEff/aeff.md:- 15/11/20 - 411* unbag _1{13} 
-aEff/aeff.md:- 15/11/21 (eff) - unbag _1{671} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 15/11/21 (eff) - unbag _1{671} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 15/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 16/01/21 - 151* warper series _1{0} unbag _1{63} 
 aEff/aeff.md:- 16/01/21 - unbag _1{63} ghost runner _1{11} 
@@ -243,7 +243,7 @@ aEff/aeff.md:- 16/07/21 (eff) - unbag _1{416} my vampire boyfriend _1{25} vincen
 aEff/aeff.md:- 16/08/21 (eff) - unbag _1{481} /46 days _1{45} my vampire boyfriend _1{25} 
 aEff/aeff.md:- 16/09/21 (eff) - unbag _1{546} /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 16/10/21 (eff) - unbag _1{607} /46 days _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-aEff/aeff.md:- 16/11/21 (eff) - unbag _1{673} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 16/11/21 (eff) - unbag _1{673} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 16/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 17/01/21 - unbag _1{65} 
 aEff/aeff.md:- 17/02/21 - unbag _1{117} 
@@ -257,7 +257,7 @@ aEff/aeff.md:- 17/08/21 (eff) - unbag _1{483} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 17/09/21 - 643* unbag _1{548} peach of time _1{25} 7project _1{4} buffy _1{3} 
 aEff/aeff.md:- 17/09/21 (eff) - unbag _1{548} /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 17/10/21 (eff) - unbag _1{609} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
-aEff/aeff.md:- 17/11/21 (eff) - unbag _1{675} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 17/11/21 (eff) - unbag _1{675} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 17/12/20 - unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 18/01/21 - unbag _1{68} 
 aEff/aeff.md:- 18/02/21 - unbag _1{119} 
@@ -271,7 +271,7 @@ aEff/aeff.md:- 18/08/21 (eff) - unbag _1{485} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 18/09/21 - 661* unbag _1{550} peach of time _1{26} 
 aEff/aeff.md:- 18/09/21 (eff) - unbag _1{550} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 18/10/21 (eff) - unbag _1{611} peach of time _1{33} vwars _1{9} 
-aEff/aeff.md:- 18/11/21 (eff) - unbag _1{677} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 18/11/21 (eff) - unbag _1{677} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 18/12/20 - 676* unbag _1{22} a queen is born _1{4} 
 aEff/aeff.md:- 18/12/20 - unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 19/01/21 - unbag _1{70} 
@@ -285,7 +285,7 @@ aEff/aeff.md:- 19/08/21 (eff) - unbag _1{487} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 19/09/21 - 627* alice in borderland _1{0} unbag _1{552} 
 aEff/aeff.md:- 19/09/21 (eff) - unbag _1{552} /46 days _1{46} peach of time _1{27} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 19/10/21 (eff) - unbag _1{613} peach of time _1{33} vwars _1{9} 
-aEff/aeff.md:- 19/11/21 (eff) - unbag _1{679} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 19/11/21 (eff) - unbag _1{679} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 19/12/20 - 497* unbag _1{23} a queen is born _1{4} 
 aEff/aeff.md:- 19/12/20 - unbag _1{23} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 20/01/21 - unbag _1{72} 
@@ -300,7 +300,7 @@ aEff/aeff.md:- 20/08/21 (eff) - unbag _1{489} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 20/09/21 (eff) - unbag _1{555} /46 days _1{46} peach of time _1{29} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 20/10/21 (eff) - unbag _1{615} peach of time _1{33} vwars _1{9} 
 aEff/aeff.md:- 20/11/20 - 308* unbag _1{14} pogi lang hanap _1{8} 
-aEff/aeff.md:- 20/11/21 (eff) - unbag _1{681} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 20/11/21 (eff) - unbag _1{681} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 20/12/20 - 408* unbag _1{24} a queen is born _1{4} 
 aEff/aeff.md:- 20/12/20 - unbag _1{24} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 21/01/21 - unbag _1{74} 
@@ -315,7 +315,7 @@ aEff/aeff.md:- 21/08/21 (eff) - unbag _1{491} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 21/09/21 (eff) - unbag _1{557} /46 days _1{46} peach of time _1{30} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 aEff/aeff.md:- 21/10/21 (eff) - unbag _1{617} peach of time _1{33} vwars _1{9} 
 aEff/aeff.md:- 21/11/20 - 205* unbag _1{14} 
-aEff/aeff.md:- 21/11/21 (eff) - unbag _1{683} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 21/11/21 (eff) - unbag _1{683} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 21/12/20 - 296* ghost runner _1{2} unbag _1{26} a queen is born _1{4} 
 aEff/aeff.md:- 21/12/20 - unbag _1{26} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
 aEff/aeff.md:- 22/01/21 - unbag _1{76} from dusk till dawn _2{15} 
@@ -330,7 +330,7 @@ aEff/aeff.md:- 22/08/21 (eff) - unbag _1{493} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 22/09/21 (eff) - unbag _1{559} /46 days _1{46} peach of time _1{31} from dusk till dawn _2{20} vwars _1{8} 
 aEff/aeff.md:- 22/10/21 - 677* unbag _1{619} insiders _1{0} age of the living dead _1{0} 
 aEff/aeff.md:- 22/10/21 (eff) - unbag _1{619} peach of time _1{33} survivor au _6{9} 
-aEff/aeff.md:- 22/11/21 (eff) - unbag _1{685} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 22/11/21 (eff) - unbag _1{685} kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 22/12/20 - 295* lakan _1{4} ghost runner _1{3} unbag _1{28} 
 aEff/aeff.md:- 22/12/20 - unbag _1{28} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
 aEff/aeff.md:- 23/01/21 - unbag _1{77} koishite akuma _1{11} 
@@ -345,7 +345,7 @@ aEff/aeff.md:- 23/08/21 (eff) - unbag _1{496} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 23/09/21 (eff) - unbag _1{561} /46 days _1{46} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} 
 aEff/aeff.md:- 23/10/21 - 687* earthmix space _1{4} unbag _1{621} insiders _1{0} 
 aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} peach of time _1{33} survivor au _6{11} 
-aEff/aeff.md:- 23/11/21 (eff) - unbag _1{687} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 23/11/21 (eff) - unbag _1{687} kieta hatsukoi _1{18} survivor au _6{16} 
 aEff/aeff.md:- 23/12/20 - unbag _1{30} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 24/01/21 - unbag _1{78} from dusk till dawn _2{15} koishite akuma _1{13} 
 aEff/aeff.md:- 24/02/21 - unbag _1{126} my vampire boyfriend _1{22} 
@@ -358,8 +358,8 @@ aEff/aeff.md:- 24/07/21 (eff) - unbag _1{432} my vampire boyfriend _1{25} /46 da
 aEff/aeff.md:- 24/08/21 (eff) - unbag _1{498} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
 aEff/aeff.md:- 24/09/21 (eff) - unbag _1{563} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
 aEff/aeff.md:- 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} earthmix space _1{4} unbag _1{623} 
-aEff/aeff.md:- 24/10/21 (eff) - unbag _1{623} peach of time _1{33} survivor au _6{13} inhuman condition _1{8} 
-aEff/aeff.md:- 24/11/21 (eff) - unbag _1{689} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 24/10/21 (eff) - unbag _1{623} peach of time _1{33} survivor au _6{13} 
+aEff/aeff.md:- 24/11/21 (eff) - unbag _1{689} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 24/12/20 - unbag _1{32} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
 aEff/aeff.md:- 25/01/21 - unbag _1{79} koishite akuma _1{15} 
 aEff/aeff.md:- 25/02/21 - unbag _1{127} my vampire boyfriend _1{24} 
@@ -372,9 +372,9 @@ aEff/aeff.md:- 25/07/21 - 683* /46 days _1{25} unbag _1{434}
 aEff/aeff.md:- 25/07/21 (eff) - unbag _1{434} /46 days _1{25} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 25/08/21 (eff) - unbag _1{500} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
 aEff/aeff.md:- 25/09/21 (eff) - unbag _1{565} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 25/10/21 (eff) - unbag _1{626} peach of time _1{33} survivor au _6{15} inhuman condition _1{11} 
+aEff/aeff.md:- 25/10/21 (eff) - unbag _1{626} peach of time _1{33} survivor au _6{15} 
 aEff/aeff.md:- 25/11/20 - unbag _1{15} 
-aEff/aeff.md:- 25/11/21 (eff) - unbag _1{691} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 25/11/21 (eff) - unbag _1{691} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 25/12/20 - unbag _1{33} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} lakan _1{5} 
 aEff/aeff.md:- 26/01/21 - unbag _1{80} koishite akuma _1{15} 
 aEff/aeff.md:- 26/02/21 - 282* unbag _1{128} 
@@ -388,9 +388,9 @@ aEff/aeff.md:- 26/07/21 - 660* /46 days _1{28} unbag _1{437}
 aEff/aeff.md:- 26/07/21 (eff) - unbag _1{437} /46 days _1{28} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 26/08/21 (eff) - unbag _1{502} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
 aEff/aeff.md:- 26/09/21 (eff) - unbag _1{567} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 26/10/21 (eff) - unbag _1{628} peach of time _1{33} survivor au _6{15} inhuman condition _1{13} 
+aEff/aeff.md:- 26/10/21 (eff) - unbag _1{628} peach of time _1{33} survivor au _6{15} 
 aEff/aeff.md:- 26/11/20 - unbag _1{15} 
-aEff/aeff.md:- 26/11/21 (eff) - unbag _1{693} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 26/11/21 (eff) - unbag _1{693} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 26/12/20 - unbag _1{35} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
 aEff/aeff.md:- 27/01/21 - unbag _1{81} koishite akuma _1{15} from dusk till dawn _2{15} 
 aEff/aeff.md:- 27/02/21 - 329* unbag _1{130} 
@@ -404,9 +404,9 @@ aEff/aeff.md:- 27/07/21 - 671* /46 days _1{29} unbag _1{439}
 aEff/aeff.md:- 27/07/21 (eff) - unbag _1{439} /46 days _1{29} my vampire boyfriend _1{25} vincenzo _1{16} 
 aEff/aeff.md:- 27/08/21 (eff) - unbag _1{504} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
 aEff/aeff.md:- 27/09/21 (eff) - unbag _1{569} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 27/10/21 (eff) - unbag _1{630} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
+aEff/aeff.md:- 27/10/21 (eff) - unbag _1{630} peach of time _1{33} survivor au _6{15} 
 aEff/aeff.md:- 27/11/20 - unbag _1{15} 
-aEff/aeff.md:- 27/11/21 (eff) - unbag _1{695} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 27/11/21 (eff) - unbag _1{695} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 27/12/20 - unbag _1{37} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
 aEff/aeff.md:- 28/01/21 - unbag _1{82} koishite akuma _1{15} 
 aEff/aeff.md:- 28/02/21 - 377* unbag _1{132} 
@@ -421,10 +421,10 @@ aEff/aeff.md:- 28/07/21 - 700* /46 days _1{30} unbag _1{441}
 aEff/aeff.md:- 28/07/21 (eff) - unbag _1{441} /46 days _1{30} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
 aEff/aeff.md:- 28/08/21 (eff) - unbag _1{506} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
 aEff/aeff.md:- 28/09/21 (eff) - unbag _1{571} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-aEff/aeff.md:- 28/10/21 (eff) - unbag _1{632} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
+aEff/aeff.md:- 28/10/21 (eff) - unbag _1{632} peach of time _1{33} survivor au _6{15} 
 aEff/aeff.md:- 28/11/20 - unbag _1{15} 
 aEff/aeff.md:- 28/11/21 - 1026* unbag _1{697} the voice senior it _2{0} bad buddy _1{6} painted with raven _1{0} do seu lado _1{4} baker boys _1{2} 
-aEff/aeff.md:- 28/11/21 (eff) - unbag _1{697} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 28/11/21 (eff) - unbag _1{697} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 28/12/20 - unbag _1{39} pogi lang hanap _1{10} my vampire boyfriend _1{9} from dusk till dawn _2{7} 
 aEff/aeff.md:- 29/01/21 - 468* unbag _1{83} the shipper _1{3} 
 aEff/aeff.md:- 29/01/21 - unbag _1{83} koishite akuma _1{15} from dusk till dawn _2{15} 
@@ -438,10 +438,10 @@ aEff/aeff.md:- 29/07/21 (eff) - unbag _1{443} /46 days _1{31} my vampire boyfrie
 aEff/aeff.md:- 29/08/21 (eff) - unbag _1{508} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
 aEff/aeff.md:- 29/09/21 (eff) - unbag _1{573} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
 aEff/aeff.md:- 29/10/21 - 831* unbag _1{634} the voice portugal _9{1} tbbt _11{8} 
-aEff/aeff.md:- 29/10/21 (eff) - unbag _1{634} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{8} 
+aEff/aeff.md:- 29/10/21 (eff) - unbag _1{634} peach of time _1{33} survivor au _6{15} tbbt _11{8} 
 aEff/aeff.md:- 29/11/20 - unbag _1{15} 
 aEff/aeff.md:- 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} mr cinderella _1{0} paint with love _1{0} unbag _1{699} 
-aEff/aeff.md:- 29/11/21 (eff) - unbag _1{699} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 29/11/21 (eff) - unbag _1{699} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
 aEff/aeff.md:- 29/12/20 - unbag _1{41} pogi lang hanap _1{10} from dusk till dawn _2{9} my vampire boyfriend _1{9} 
 aEff/aeff.md:- 30/01/21 - 202* unbag _1{85} 
 aEff/aeff.md:- 30/01/21 - unbag _1{85} koishite akuma _1{15} from dusk till dawn _2{15} 
@@ -456,9 +456,9 @@ aEff/aeff.md:- 30/08/21 (eff) - unbag _1{510} /46 days _1{45} my vampire boyfrie
 aEff/aeff.md:- 30/09/21 (eff) - unbag _1{575} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
 aEff/aeff.md:- 30/10/20 - 73* the stranded _1{0} unbag _1{10} pogi lang hanap _1{3} lakan _1{0} friend forever _1{8} 
 aEff/aeff.md:- 30/10/21 - 756* bad buddy _1{0} unbag _1{636} 
-aEff/aeff.md:- 30/10/21 (eff) - unbag _1{636} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} 
+aEff/aeff.md:- 30/10/21 (eff) - unbag _1{636} peach of time _1{33} survivor au _6{15} tbbt _11{10} 
 aEff/aeff.md:- 30/11/20 - unbag _1{15}
-aEff/aeff.md:- 30/11/21 (eff) - unbag _1{702} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
+aEff/aeff.md:- 30/11/21 (eff) - unbag _1{702} kieta hatsukoi _1{20} survivor au _6{16} 
 aEff/aeff.md:- 30/12/20 - unbag _1{41} from dusk till dawn _2{11} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 31/01/21 - unbag _1{87} koishite akuma _1{15} from dusk till dawn _2{15} 
 aEff/aeff.md:- 31/03/21 - unbag _1{191} my vampire boyfriend _1{25} 
@@ -468,7 +468,7 @@ aEff/aeff.md:- 31/07/21 (eff) - unbag _1{447} /46 days _1{33} my vampire boyfrie
 aEff/aeff.md:- 31/08/21 (eff) - unbag _1{512} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{19} vincenzo _1{16} 
 aEff/aeff.md:- 31/10/20 - 158* swap test _1{1} the stranded _1{0} unbag _1{10} 
 aEff/aeff.md:- 31/10/21 - 798* bad buddy _1{0} unbag _1{638} 
-aEff/aeff.md:- 31/10/21 (eff) - unbag _1{638} inhuman condition _1{15} survivor au _6{15} tbbt _11{11} 
+aEff/aeff.md:- 31/10/21 (eff) - unbag _1{638} survivor au _6{15} tbbt _11{11} 
 aEff/aeff.md:- 31/12/20 - unbag _1{41} from dusk till dawn _2{13} pogi lang hanap _1{10} be love _1{7} lakan _1{6} 
 apercu/apercu20.md:* conclu 21/12/20 > Unbag _1 > 1; 
 apercu/apercu20.md:* conclu 22/12/20 > Unbag _1 > 1; 
@@ -521,7 +521,7 @@ apercu/apercu21.md:- mois 01-07-2021 Unbag _1x25(2) Siew sum noi _1x2(1) Elite _
 apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Unbag _1x29(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(2) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(2) The voice senior it _2x2(1) Bad buddy _1x6(4) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 apercu/apercu21.md:- sem 01-02-2021 Be love _1x4(1) Unbag _1x15(1) The shipper _1x5(1) 
 apercu/apercu21.md:- sem 01-03-2021 Unbag _1x17(1) 
@@ -542,7 +542,7 @@ apercu/apercu21.md:- sem 18-01-2021 Koishite akuma _1x4(3) Warper series _1x2(1)
 apercu/apercu21.md:- sem 19-04-2021 Unbag _1x20(1) 
 apercu/apercu21.md:- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Unbag _1x31(1) Peach of time _1x7(1) 7project _1x4(1) 
 apercu/apercu21.md:- sem 23-08-2021 From dusk till dawn _2x5(1) Unbag _1x29(1) 
-apercu/apercu21.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Unbag _1x33(1) Insiders _1x2(1) Age of the living dead _1x2(1) Inhuman condition _1x8(7) 
+apercu/apercu21.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Unbag _1x33(1) Insiders _1x2(1) Age of the living dead _1x2(1) 
 apercu/apercu21.md:- sem 26-07-2021 /46 days _1x7(2) Unbag _1x27(1) Camping paradis _12x4(1) 
 apercu/apercu21.md:- sem 28-06-2021 Unbag _1x25(1) Siew sum noi _1x2(1) 
 apercu/apercu21.md:- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Mr cinderella _1x2(1) Paint with love _1x2(1) Unbag _1x36(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Painted with raven _1x2(1) Do seu lado _1x5(4) Baker boys _1x3(2) 
@@ -746,7 +746,7 @@ apercu/apercu21.md:* conclu 20/06/21 = Unbag _1 > 4; Elite _4 > 1;
 apercu/apercu21.md:* conclu 20/07/21 = Unbag _1 > 3; Forever knight _1 > 1; 
 apercu/apercu21.md:* conclu 20/08/21 = Unbag _1 > 6; 
 apercu/apercu21.md:* conclu 20/09/21 = Unbag _1 > 6; 
-apercu/apercu21.md:* conclu 20/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; 
+apercu/apercu21.md:* conclu 20/10/21 = Unbag _1 > 3; Survivor au _6 > 1; 
 apercu/apercu21.md:* conclu 20/11/21 = Unbag _1 > 3; 
 apercu/apercu21.md:* conclu 21/01/21 > Unbag _1 > 3; Koishite akuma _1 > 2; 
 apercu/apercu21.md:* conclu 21/03/21 > Unbag _1 > 1; 
@@ -756,7 +756,7 @@ apercu/apercu21.md:* conclu 21/06/21 = Unbag _1 > 6; Elite _4 > 3;
 apercu/apercu21.md:* conclu 21/07/21 = Unbag _1 > 3; Forever knight _1 > 1; 
 apercu/apercu21.md:* conclu 21/08/21 = Unbag _1 > 6; 
 apercu/apercu21.md:* conclu 21/09/21 = Unbag _1 > 6; 
-apercu/apercu21.md:* conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
+apercu/apercu21.md:* conclu 21/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
 apercu/apercu21.md:* conclu 21/11/21 = Unbag _1 > 3; Bite sisters _1 > 1;
 apercu/apercu21.md:* conclu 22/03/21 > Unbag _1 > 1; 
 apercu/apercu21.md:* conclu 22/04/21 = Unbag _1 > 5; 
@@ -765,7 +765,7 @@ apercu/apercu21.md:* conclu 22/06/21 = Unbag _1 > 6; Elite _4 > 2;
 apercu/apercu21.md:* conclu 22/07/21 = Unbag _1 > 6; /46 days _1 > 1; Forever knight _1 > 1; 
 apercu/apercu21.md:* conclu 22/08/21 = Unbag _1 > 6; 
 apercu/apercu21.md:* conclu 22/09/21 = Unbag _1 > 6; 
-apercu/apercu21.md:* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
+apercu/apercu21.md:* conclu 22/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
 apercu/apercu21.md:* conclu 22/11/21 = Unbag _1 > 3; 
 apercu/apercu21.md:* conclu 23/03/21 > Unbag _1 > 1; 
 apercu/apercu21.md:* conclu 23/04/21 = Unbag _1 > 1; 
@@ -774,7 +774,7 @@ apercu/apercu21.md:* conclu 23/06/21 = Unbag _1 > 6; Elite _4 > 1;
 apercu/apercu21.md:* conclu 23/07/21 = Unbag _1 > 6; /46 days _1 > 3; Forever knight _1 > 1; 
 apercu/apercu21.md:* conclu 23/08/21 = Unbag _1 > 6; 
 apercu/apercu21.md:* conclu 23/09/21 = Unbag _1 > 6; 
-apercu/apercu21.md:* conclu 23/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
+apercu/apercu21.md:* conclu 23/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
 apercu/apercu21.md:* conclu 23/11/21 = Unbag _1 > 3; 
 apercu/apercu21.md:* conclu 24/03/21 > Unbag _1 > 1; 
 apercu/apercu21.md:* conclu 24/04/21 = Unbag _1 > 1; 
@@ -783,7 +783,7 @@ apercu/apercu21.md:* conclu 24/06/21 = Unbag _1 > 6; Elite _4 > 1;
 apercu/apercu21.md:* conclu 24/07/21 = Unbag _1 > 6; /46 days _1 > 3; Forever knight _1 > 1; 
 apercu/apercu21.md:* conclu 24/08/21 = Unbag _1 > 6; 
 apercu/apercu21.md:* conclu 24/09/21 = Unbag _1 > 3; 
-apercu/apercu21.md:* conclu 24/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; Young sheldon _5 > 1; 
+apercu/apercu21.md:* conclu 24/10/21 = Unbag _1 > 6; Survivor au _6 > 2; Young sheldon _5 > 1; 
 apercu/apercu21.md:* conclu 24/11/21 = Unbag _1 > 3; 
 apercu/apercu21.md:* conclu 25/03/21 > Bt21 vlog _1 > 2; Unbag _1 > 1; 
 apercu/apercu21.md:* conclu 25/04/21 = Unbag _1 > 1; 
@@ -792,7 +792,7 @@ apercu/apercu21.md:* conclu 25/06/21 = Unbag _1 > 6; Elite _4 > 1;
 apercu/apercu21.md:* conclu 25/07/21 = Unbag _1 > 6; /46 days _1 > 2; Forever knight _1 > 1; 
 apercu/apercu21.md:* conclu 25/08/21 = Unbag _1 > 6; 
 apercu/apercu21.md:* conclu 25/09/21 = Unbag _1 > 3; 
-apercu/apercu21.md:* conclu 25/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; 
+apercu/apercu21.md:* conclu 25/10/21 = Unbag _1 > 6; 
 apercu/apercu21.md:* conclu 25/11/21 = Unbag _1 > 3; 
 apercu/apercu21.md:* conclu 26/02/21 > Unbag _1 > 3; 
 apercu/apercu21.md:* conclu 26/03/21 > Unbag _1 > 1; 
@@ -802,7 +802,7 @@ apercu/apercu21.md:* conclu 26/06/21 = Unbag _1 > 6;
 apercu/apercu21.md:* conclu 26/07/21 = Unbag _1 > 6; Forever knight _1 > 1; 
 apercu/apercu21.md:* conclu 26/08/21 = Unbag _1 > 6; 
 apercu/apercu21.md:* conclu 26/09/21 = Unbag _1 > 3; 
-apercu/apercu21.md:* conclu 26/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Tbbt _11 > 2; 
+apercu/apercu21.md:* conclu 26/10/21 = Unbag _1 > 6; Tbbt _11 > 2; 
 apercu/apercu21.md:* conclu 26/11/21 = Unbag _1 > 3; Do seu lado _1 > 2; 
 apercu/apercu21.md:* conclu 27/02/21 > Unbag _1 > 3; 
 apercu/apercu21.md:* conclu 27/03/21 > Unbag _1 > 1; 
@@ -1067,7 +1067,7 @@ apercu/apercu21.md:* concluBis 20/06/21 = Unbag _1 > 8; Elite _4 > 3;
 apercu/apercu21.md:* concluBis 20/07/21 = Unbag _1 > 5; Forever knight _1 > 3; /46 days _1 > 2; Imortal _1 > 2; 
 apercu/apercu21.md:* concluBis 20/08/21 = Unbag _1 > 10; 
 apercu/apercu21.md:* concluBis 20/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 20/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; 
+apercu/apercu21.md:* concluBis 20/10/21 = Unbag _1 > 5; Survivor au _6 > 3; 
 apercu/apercu21.md:* concluBis 20/11/21 = Unbag _1 > 5; The case study of vanitas _1 > 1; 
 apercu/apercu21.md:* concluBis 21/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; 
 apercu/apercu21.md:* concluBis 21/02/21 > My vampire boyfriend _1 > 5; Unbag _1 > 2; 
@@ -1078,7 +1078,7 @@ apercu/apercu21.md:* concluBis 21/06/21 = Unbag _1 > 10; Elite _4 > 5;
 apercu/apercu21.md:* concluBis 21/07/21 = Unbag _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; 
 apercu/apercu21.md:* concluBis 21/08/21 = Unbag _1 > 10; 
 apercu/apercu21.md:* concluBis 21/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 21/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; 
+apercu/apercu21.md:* concluBis 21/10/21 = Unbag _1 > 5; Survivor au _6 > 4; 
 apercu/apercu21.md:* concluBis 21/11/21 = Unbag _1 > 5; 
 apercu/apercu21.md:* concluBis 22/01/21 > Koishite akuma _1 > 4; Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 22/02/21 > My vampire boyfriend _1 > 5; Unbag _1 > 2; 
@@ -1089,7 +1089,7 @@ apercu/apercu21.md:* concluBis 22/06/21 = Unbag _1 > 10; Elite _4 > 4;
 apercu/apercu21.md:* concluBis 22/07/21 = Unbag _1 > 10; /46 days _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercu21.md:* concluBis 22/08/21 = Unbag _1 > 10; 
 apercu/apercu21.md:* concluBis 22/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercu21.md:* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
+apercu/apercu21.md:* concluBis 22/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
 apercu/apercu21.md:* concluBis 22/11/21 = Unbag _1 > 5; 
 apercu/apercu21.md:* concluBis 23/01/21 > Koishite akuma _1 > 4; Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 23/02/21 > My vampire boyfriend _1 > 2; Unbag _1 > 2; 
@@ -1100,7 +1100,7 @@ apercu/apercu21.md:* concluBis 23/06/21 = Unbag _1 > 10; Elite _4 > 3;
 apercu/apercu21.md:* concluBis 23/07/21 = Unbag _1 > 10; /46 days _1 > 7; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercu21.md:* concluBis 23/08/21 = Unbag _1 > 10; 
 apercu/apercu21.md:* concluBis 23/09/21 = Unbag _1 > 10; 
-apercu/apercu21.md:* concluBis 23/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
+apercu/apercu21.md:* concluBis 23/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
 apercu/apercu21.md:* concluBis 23/11/21 = Unbag _1 > 5; The voice portugal _9 > 1; 
 apercu/apercu21.md:* concluBis 24/01/21 > Koishite akuma _1 > 3; Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 24/02/21 > My vampire boyfriend _1 > 3; Unbag _1 > 2; 
@@ -1111,7 +1111,7 @@ apercu/apercu21.md:* concluBis 24/06/21 = Unbag _1 > 10; Elite _4 > 3;
 apercu/apercu21.md:* concluBis 24/07/21 = Unbag _1 > 10; /46 days _1 > 7; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercu21.md:* concluBis 24/08/21 = Unbag _1 > 10; From dusk till dawn _2 > 1; 
 apercu/apercu21.md:* concluBis 24/09/21 = Unbag _1 > 5; 
-apercu/apercu21.md:* concluBis 24/10/21 = Unbag _1 > 10; Inhuman condition _1 > 6; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; 
+apercu/apercu21.md:* concluBis 24/10/21 = Unbag _1 > 10; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; 
 apercu/apercu21.md:* concluBis 24/11/21 = Unbag _1 > 5; The voice portugal _9 > 1; 
 apercu/apercu21.md:* concluBis 25/01/21 > Tien bromance _1 > 2; Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 25/02/21 > Unbag _1 > 2; 
@@ -1122,7 +1122,7 @@ apercu/apercu21.md:* concluBis 25/06/21 = Unbag _1 > 10; Elite _4 > 3;
 apercu/apercu21.md:* concluBis 25/07/21 = Unbag _1 > 10; /46 days _1 > 6; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercu21.md:* concluBis 25/08/21 = Unbag _1 > 10; From dusk till dawn _2 > 1; 
 apercu/apercu21.md:* concluBis 25/09/21 = Unbag _1 > 5; 
-apercu/apercu21.md:* concluBis 25/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Young sheldon _5 > 2; My sweet dear _1 > 1; 
+apercu/apercu21.md:* concluBis 25/10/21 = Unbag _1 > 10; Young sheldon _5 > 2; My sweet dear _1 > 1; 
 apercu/apercu21.md:* concluBis 25/11/21 = Unbag _1 > 5; 
 apercu/apercu21.md:* concluBis 26/01/21 > Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 26/02/21 > Unbag _1 > 8; 
@@ -1133,7 +1133,7 @@ apercu/apercu21.md:* concluBis 26/06/21 = Unbag _1 > 10;
 apercu/apercu21.md:* concluBis 26/07/21 = Unbag _1 > 10; /46 days _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercu21.md:* concluBis 26/08/21 = Unbag _1 > 10; Post mortem _1 > 1; 
 apercu/apercu21.md:* concluBis 26/09/21 = Unbag _1 > 5; 
-apercu/apercu21.md:* concluBis 26/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Tbbt _11 > 4; Young sheldon _5 > 1; 
+apercu/apercu21.md:* concluBis 26/10/21 = Unbag _1 > 10; Tbbt _11 > 4; Young sheldon _5 > 1; 
 apercu/apercu21.md:* concluBis 26/11/21 = Unbag _1 > 5; Do seu lado _1 > 4; Baker boys _1 > 2; 
 apercu/apercu21.md:* concluBis 27/01/21 > Unbag _1 > 2; 
 apercu/apercu21.md:* concluBis 27/02/21 > Unbag _1 > 7; 
@@ -1407,7 +1407,7 @@ apercu/apercuglobal.md:* conclu 20/06/21 = Unbag _1 > 4; Elite _4 > 1;
 apercu/apercuglobal.md:* conclu 20/07/21 = Unbag _1 > 3; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* conclu 20/08/21 = Unbag _1 > 6; 
 apercu/apercuglobal.md:* conclu 20/09/21 = Unbag _1 > 6; 
-apercu/apercuglobal.md:* conclu 20/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; 
+apercu/apercuglobal.md:* conclu 20/10/21 = Unbag _1 > 3; Survivor au _6 > 1; 
 apercu/apercuglobal.md:* conclu 21/01/21 > Unbag _1 > 3; Koishite akuma _1 > 2; 
 apercu/apercuglobal.md:* conclu 21/03/21 > Unbag _1 > 1; 
 apercu/apercuglobal.md:* conclu 21/04/21 = Unbag _1 > 5; 
@@ -1416,7 +1416,7 @@ apercu/apercuglobal.md:* conclu 21/06/21 = Unbag _1 > 6; Elite _4 > 3;
 apercu/apercuglobal.md:* conclu 21/07/21 = Unbag _1 > 3; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* conclu 21/08/21 = Unbag _1 > 6; 
 apercu/apercuglobal.md:* conclu 21/09/21 = Unbag _1 > 6; 
-apercu/apercuglobal.md:* conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
+apercu/apercuglobal.md:* conclu 21/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
 apercu/apercuglobal.md:* conclu 21/12/20 > Unbag _1 > 1; 
 apercu/apercuglobal.md:* conclu 22/03/21 > Unbag _1 > 1; 
 apercu/apercuglobal.md:* conclu 22/04/21 = Unbag _1 > 5; 
@@ -1425,7 +1425,7 @@ apercu/apercuglobal.md:* conclu 22/06/21 = Unbag _1 > 6; Elite _4 > 2;
 apercu/apercuglobal.md:* conclu 22/07/21 = Unbag _1 > 6; /46 days _1 > 1; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* conclu 22/08/21 = Unbag _1 > 6; 
 apercu/apercuglobal.md:* conclu 22/09/21 = Unbag _1 > 6; 
-apercu/apercuglobal.md:* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
+apercu/apercuglobal.md:* conclu 22/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
 apercu/apercuglobal.md:* conclu 22/12/20 > Unbag _1 > 1; 
 apercu/apercuglobal.md:* conclu 23/03/21 > Unbag _1 > 1; 
 apercu/apercuglobal.md:* conclu 23/04/21 = Unbag _1 > 1; 
@@ -1434,7 +1434,7 @@ apercu/apercuglobal.md:* conclu 23/06/21 = Unbag _1 > 6; Elite _4 > 1;
 apercu/apercuglobal.md:* conclu 23/07/21 = Unbag _1 > 6; /46 days _1 > 3; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* conclu 23/08/21 = Unbag _1 > 6; 
 apercu/apercuglobal.md:* conclu 23/09/21 = Unbag _1 > 6; 
-apercu/apercuglobal.md:* conclu 23/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
+apercu/apercuglobal.md:* conclu 23/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
 apercu/apercuglobal.md:* conclu 23/12/20 > Unbag _1 > 1; 
 apercu/apercuglobal.md:* conclu 24/03/21 > Unbag _1 > 1; 
 apercu/apercuglobal.md:* conclu 24/04/21 = Unbag _1 > 1; 
@@ -1702,7 +1702,7 @@ apercu/apercuglobal.md:* concluBis 20/06/21 = Unbag _1 > 8; Elite _4 > 3;
 apercu/apercuglobal.md:* concluBis 20/07/21 = Unbag _1 > 5; Forever knight _1 > 3; /46 days _1 > 2; Imortal _1 > 2; 
 apercu/apercuglobal.md:* concluBis 20/08/21 = Unbag _1 > 10; 
 apercu/apercuglobal.md:* concluBis 20/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 20/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; 
+apercu/apercuglobal.md:* concluBis 20/10/21 = Unbag _1 > 5; Survivor au _6 > 3; 
 apercu/apercuglobal.md:* concluBis 20/12/20 > Unbag _1 > 2; 
 apercu/apercuglobal.md:* concluBis 21/01/21 > Unbag _1 > 7; Koishite akuma _1 > 4; 
 apercu/apercuglobal.md:* concluBis 21/02/21 > My vampire boyfriend _1 > 5; Unbag _1 > 2; 
@@ -1713,7 +1713,7 @@ apercu/apercuglobal.md:* concluBis 21/06/21 = Unbag _1 > 10; Elite _4 > 5;
 apercu/apercuglobal.md:* concluBis 21/07/21 = Unbag _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; 
 apercu/apercuglobal.md:* concluBis 21/08/21 = Unbag _1 > 10; 
 apercu/apercuglobal.md:* concluBis 21/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 21/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; 
+apercu/apercuglobal.md:* concluBis 21/10/21 = Unbag _1 > 5; Survivor au _6 > 4; 
 apercu/apercuglobal.md:* concluBis 21/12/20 > Unbag _1 > 3; Ghost runner _1 > 2; 
 apercu/apercuglobal.md:* concluBis 22/01/21 > Koishite akuma _1 > 4; Unbag _1 > 2; 
 apercu/apercuglobal.md:* concluBis 22/02/21 > My vampire boyfriend _1 > 5; Unbag _1 > 2; 
@@ -1724,7 +1724,7 @@ apercu/apercuglobal.md:* concluBis 22/06/21 = Unbag _1 > 10; Elite _4 > 4;
 apercu/apercuglobal.md:* concluBis 22/07/21 = Unbag _1 > 10; /46 days _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercuglobal.md:* concluBis 22/08/21 = Unbag _1 > 10; 
 apercu/apercuglobal.md:* concluBis 22/09/21 = Unbag _1 > 10; Peach of time _1 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
+apercu/apercuglobal.md:* concluBis 22/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
 apercu/apercuglobal.md:* concluBis 22/12/20 > Unbag _1 > 3; Ghost runner _1 > 3; 
 apercu/apercuglobal.md:* concluBis 23/01/21 > Koishite akuma _1 > 4; Unbag _1 > 2; 
 apercu/apercuglobal.md:* concluBis 23/02/21 > My vampire boyfriend _1 > 2; Unbag _1 > 2; 
@@ -1735,7 +1735,7 @@ apercu/apercuglobal.md:* concluBis 23/06/21 = Unbag _1 > 10; Elite _4 > 3;
 apercu/apercuglobal.md:* concluBis 23/07/21 = Unbag _1 > 10; /46 days _1 > 7; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercuglobal.md:* concluBis 23/08/21 = Unbag _1 > 10; 
 apercu/apercuglobal.md:* concluBis 23/09/21 = Unbag _1 > 10; 
-apercu/apercuglobal.md:* concluBis 23/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
+apercu/apercuglobal.md:* concluBis 23/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
 apercu/apercuglobal.md:* concluBis 23/12/20 > Unbag _1 > 3; Lakan _1 > 1; 
 apercu/apercuglobal.md:* concluBis 24/01/21 > Koishite akuma _1 > 3; Unbag _1 > 2; 
 apercu/apercuglobal.md:* concluBis 24/02/21 > My vampire boyfriend _1 > 3; Unbag _1 > 2; 

@@ -68,8 +68,6 @@ My sweet dear 1x2
 * My sweet dear 1x1
 * Insiders 1x1
 * Age of the living dead 1x1
-Inhuman condition 1x7
-* Inhuman condition 1x1
 * The voice portugal 9x1
 Survivor au 6x3
 * Survivor au 6x1

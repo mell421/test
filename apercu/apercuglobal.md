@@ -600,10 +600,10 @@
 * conclu 17/10/21 = Unbag _1 > 6; Aoki vuanpaia no nayami _1 > 1; 
 * conclu 18/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
 * conclu 19/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
-* conclu 20/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 1; 
-* conclu 21/10/21 = Inhuman condition _1 > 3; Unbag _1 > 3; Survivor au _6 > 2; 
-* conclu 22/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
-* conclu 23/10/21 = Unbag _1 > 6; Inhuman condition _1 > 3; Survivor au _6 > 2; 
+* conclu 20/10/21 = Unbag _1 > 3; Survivor au _6 > 1; 
+* conclu 21/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
+* conclu 22/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
+* conclu 23/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
 
 
 
@@ -1010,10 +1010,10 @@
 * concluBis 17/10/21 = Unbag _1 > 10; Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
 * concluBis 18/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
 * concluBis 19/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-* concluBis 20/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 3; 
-* concluBis 21/10/21 = Inhuman condition _1 > 7; Unbag _1 > 5; Survivor au _6 > 4; 
-* concluBis 22/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
-* concluBis 23/10/21 = Unbag _1 > 10; Inhuman condition _1 > 7; Survivor au _6 > 4; 
+* concluBis 20/10/21 = Unbag _1 > 5; Survivor au _6 > 3; 
+* concluBis 21/10/21 = Unbag _1 > 5; Survivor au _6 > 4; 
+* concluBis 22/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
+* concluBis 23/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
 
 
 
