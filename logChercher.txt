@@ -6,13 +6,13 @@ carac :  13145 ZZ/Peachoftime_1.txt
 
 i = The voice portugal _9
 ligne :  40 ZZ/Thevoiceportugal_9.txt
-mot   :  648 ZZ/Thevoiceportugal_9.txt
-carac :  4504 ZZ/Thevoiceportugal_9.txt
+mot   :  640 ZZ/Thevoiceportugal_9.txt
+carac :  4450 ZZ/Thevoiceportugal_9.txt
 
 i = Kieta hatsukoi _1
 ligne :  65 ZZ/Kietahatsukoi_1.txt
-mot   :  876 ZZ/Kietahatsukoi_1.txt
-carac :  6282 ZZ/Kietahatsukoi_1.txt
+mot   :  868 ZZ/Kietahatsukoi_1.txt
+carac :  6228 ZZ/Kietahatsukoi_1.txt
 
 i = Survivor au _6
 ligne :  79 ZZ/Survivorau_6.txt
@@ -21,13 +21,13 @@ carac :  6761 ZZ/Survivorau_6.txt
 
 i = Earthmix space _1
 ligne :  31 ZZ/Earthmixspace_1.txt
-mot   :  599 ZZ/Earthmixspace_1.txt
-carac :  4305 ZZ/Earthmixspace_1.txt
+mot   :  591 ZZ/Earthmixspace_1.txt
+carac :  4251 ZZ/Earthmixspace_1.txt
 
 i = Bad buddy _1
 ligne :  24 ZZ/Badbuddy_1.txt
-mot   :  420 ZZ/Badbuddy_1.txt
-carac :  2825 ZZ/Badbuddy_1.txt
+mot   :  400 ZZ/Badbuddy_1.txt
+carac :  2696 ZZ/Badbuddy_1.txt
 
 i = Tbbt _11
 ligne :  41 ZZ/Tbbt_11.txt
@@ -36,13 +36,13 @@ carac :  4228 ZZ/Tbbt_11.txt
 
 i = Do seu lado _1
 ligne :  18 ZZ/Doseulado_1.txt
-mot   :  298 ZZ/Doseulado_1.txt
-carac :  1856 ZZ/Doseulado_1.txt
+mot   :  278 ZZ/Doseulado_1.txt
+carac :  1727 ZZ/Doseulado_1.txt
 
 i = The voice senior it _2
 ligne :  9 ZZ/Thevoiceseniorit_2.txt
-mot   :  356 ZZ/Thevoiceseniorit_2.txt
-carac :  2107 ZZ/Thevoiceseniorit_2.txt
+mot   :  340 ZZ/Thevoiceseniorit_2.txt
+carac :  2003 ZZ/Thevoiceseniorit_2.txt
 
 i = 5515 never too late _1
 ligne :  0 ZZ/5515nevertoolate_1.txt
@@ -54,20 +54,15 @@ ligne :  43 ZZ/Campingparadis_12.txt
 mot   :  706 ZZ/Campingparadis_12.txt
 carac :  4993 ZZ/Campingparadis_12.txt
 
-i = Painted with raven _1
-ligne :  7 ZZ/Paintedwithraven_1.txt
-mot   :  172 ZZ/Paintedwithraven_1.txt
-carac :  1122 ZZ/Paintedwithraven_1.txt
-
 i = Paint with love _1
-ligne :  5 ZZ/Paintwithlove_1.txt
-mot   :  139 ZZ/Paintwithlove_1.txt
-carac :  951 ZZ/Paintwithlove_1.txt
+ligne :  6 ZZ/Paintwithlove_1.txt
+mot   :  163 ZZ/Paintwithlove_1.txt
+carac :  1083 ZZ/Paintwithlove_1.txt
 
 i = Mr cinderella _1
 ligne :  5 ZZ/Mrcinderella_1.txt
-mot   :  138 ZZ/Mrcinderella_1.txt
-carac :  949 ZZ/Mrcinderella_1.txt
+mot   :  130 ZZ/Mrcinderella_1.txt
+carac :  895 ZZ/Mrcinderella_1.txt
 
 i = 7project _1
 ligne :  29 ZZ/7project_1.txt
@@ -131,8 +126,8 @@ carac :  355 ZZ/Districtz_2.txt
 
 i = Baker boys _1
 ligne :  11 ZZ/Bakerboys_1.txt
-mot   :  224 ZZ/Bakerboys_1.txt
-carac :  1423 ZZ/Bakerboys_1.txt
+mot   :  200 ZZ/Bakerboys_1.txt
+carac :  1269 ZZ/Bakerboys_1.txt
 
 i = Tinted with you _1
 ligne :  0 ZZ/Tintedwithyou_1.txt
@@ -166,8 +161,8 @@ carac :  1149 ZZ/Lovearea_1.txt
 
 i = Les engages _3
 ligne :  6 ZZ/Lesengages_3.txt
-mot   :  123 ZZ/Lesengages_3.txt
-carac :  827 ZZ/Lesengages_3.txt
+mot   :  119 ZZ/Lesengages_3.txt
+carac :  800 ZZ/Lesengages_3.txt
 
 i = Goblin _1
 ligne :  9 ZZ/Goblin_1.txt
@@ -206,8 +201,8 @@ carac :  688 ZZ/Survivor_13.txt
 
 i = Banana fish _1
 ligne :  4 ZZ/Bananafish_1.txt
-mot   :  89 ZZ/Bananafish_1.txt
-carac :  628 ZZ/Bananafish_1.txt
+mot   :  85 ZZ/Bananafish_1.txt
+carac :  601 ZZ/Bananafish_1.txt
 
 i = The voice be _10
 ligne :  2 ZZ/Thevoicebe_10.txt

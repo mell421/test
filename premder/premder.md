@@ -36,7 +36,6 @@ Unlocked 1x3
 Paint with love 1x4
 Earthmix space 1x8
 Bad buddy 1x8
-Painted with raven 1x4
 * Aggretsuko 4x1
 The voice portugal 9x9
 5515 never too late 1x3
@@ -51,7 +50,6 @@ Kieta hatsukoi 1x7
 * Mr cinderella 1x1
 * Paint with love 1x1
 * The voice senior it _2x1
-* Painted with raven 1x1
 * Do seu lado 1x1
 * Baker boys 1x1
 * Les engages 3x1

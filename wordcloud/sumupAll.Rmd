@@ -45,7 +45,10 @@ for (i in 1:9) {
 
 ### 1
 ```{r stats1, echo=FALSE}
-for (i in 10:19) {
+for (i in 10:14) {
+  sumup(i)
+}
+for (i in 16:19) {
   sumup(i)
 }
 ```
@@ -67,7 +70,10 @@ for (i in 20:29) {
 
 ### 3
 ```{r stats3, echo=FALSE}
-for (i in 30:39) {
+for (i in 30:35) {
+  sumup(i)
+}
+for (i in 37:39) {
   sumup(i)
 }
 ```
@@ -111,7 +117,7 @@ for (i in 60:69) {
 
 ### 7
 ```{r stats7, echo=FALSE}
-for (i in 70:73) {
+for (i in 70:71) {
   sumup(i)
 }
 ```
