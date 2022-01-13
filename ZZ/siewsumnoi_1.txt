@@ -1,10 +1,10 @@
 aEff/aeff.md:- 23/06/21 - 238* siew sum noi _1{0} elite _4{8} 
 aEff/aeff.md:- 24/06/21 - 199* siew sum noi _1{0} elite _4{10} 
-aEff/aeff.md:- 25/06/21 - 505* unbag _1{371} siew sum noi _1{0} 
-apercu/apercu21.md:- mois 01-07-2021 Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
-apercu/apercu21.md:- sem 28-06-2021 Unbag _1x25(1) Siew sum noi _1x2(1) 
-apercu/apercuglobal.md:- mois 01-07-2021 Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
-apercu/apercuglobal.md:- sem 28-06-2021 Unbag _1x25(1) Siew sum noi _1x2(1) 
+aEff/aeff.md:- 25/06/21 - 505* siew sum noi _1{0} 
+apercu/apercu21.md:- mois 01-07-2021 Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
+apercu/apercu21.md:- sem 28-06-2021 Siew sum noi _1x2(1) 
+apercu/apercuglobal.md:- mois 01-07-2021 Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
+apercu/apercuglobal.md:- sem 28-06-2021 Siew sum noi _1x2(1) 
 apercuTer/apercuTer.md:* Siew sum noi _1
-tab2021.html:    <td class="resumemois">Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) </td>
-tab2021.html:    <td class="resumesem">Unbag _1x25(1) Siew sum noi _1x2(1) </td>
+tab2021.html:    <td class="resumemois">Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) </td>
+tab2021.html:    <td class="resumesem">Siew sum noi _1x2(1) </td>

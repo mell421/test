@@ -6,9 +6,7 @@
 
 # nb bis
 list99=( 
-# >= 200
-"Unbag _1" 
-# 199-100
+# >= 100
 "Peach of time _1" 
 # 99-50
 "The voice portugal _9" "Kieta hatsukoi _1" "Survivor au _6" "Earthmix space _1" "Bad buddy _1" "Tbbt _11" 
@@ -54,7 +52,7 @@ listAsc=(
 # 6
 "Tinted with you _1" "Survivor _13" "5515 never too late _1" "The player _1" "You are my sunshine _1" 
 # 7
-"Earthmix space _1" "Unbag _1" "District z _2" "Unlocked _1" "Aggretsuko _4" 
+"Earthmix space _1" "District z _2" "Unlocked _1" "Aggretsuko _4" 
 # 8
 "Do seu lado _1" "Camping paradis _12" "Baker boys _1" "Kieta hatsukoi _1" 
 # 9

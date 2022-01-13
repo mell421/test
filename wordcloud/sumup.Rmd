@@ -61,7 +61,7 @@ for (i in 10:19) {
 for (i in 20:27) {
   sumup2(i)
 }
-sumup2(29)
+#sumup2(29)
 
 ```
 
@@ -94,11 +94,11 @@ for (i in 50:56) {
 sumup2(59)
 ```
 
-### 6
-```{r stats6, echo=FALSE}
-sumup2(60)
-```
 
+```{r stats6, echo=FALSE}
+### 6
+#sumup2(60)
+```
 
 
 ## timing 

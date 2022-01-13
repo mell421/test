@@ -1,79 +1,79 @@
-aEff/aeff.md:- 01/11/21 (eff) - unbag _1{642} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 01/12/21 (eff) - unbag _1{704} kieta hatsukoi _1{20} survivor au _6{16} 
-aEff/aeff.md:- 02/11/21 (eff) - unbag _1{644} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 02/12/21 (eff) - unbag _1{707} kieta hatsukoi _1{21} survivor au _6{16} 
-aEff/aeff.md:- 03/11/21 (eff) - unbag _1{646} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} survivor au _6{16} 
-aEff/aeff.md:- 04/11/21 (eff) - unbag _1{648} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} survivor au _6{16} 
-aEff/aeff.md:- 05/11/21 (eff) - unbag _1{650} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 06/11/21 (eff) - unbag _1{652} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 07/11/21 (eff) - unbag _1{654} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 08/11/21 (eff) - unbag _1{657} survivor au _6{16} 
-aEff/aeff.md:- 09/11/21 (eff) - unbag _1{659} survivor au _6{16} 
-aEff/aeff.md:- 10/11/21 (eff) - unbag _1{661} survivor au _6{16} 
-aEff/aeff.md:- 11/11/21 (eff) - unbag _1{663} survivor au _6{16} 
-aEff/aeff.md:- 12/11/21 (eff) - unbag _1{665} survivor au _6{16} kieta hatsukoi _1{13} 
-aEff/aeff.md:- 13/11/21 (eff) - unbag _1{667} survivor au _6{16} kieta hatsukoi _1{15} 
-aEff/aeff.md:- 14/11/21 (eff) - unbag _1{669} kieta hatsukoi _1{17} survivor au _6{16} 
-aEff/aeff.md:- 15/11/21 (eff) - unbag _1{671} kieta hatsukoi _1{17} survivor au _6{16} 
-aEff/aeff.md:- 16/11/21 (eff) - unbag _1{673} kieta hatsukoi _1{17} survivor au _6{16} 
-aEff/aeff.md:- 17/11/21 (eff) - unbag _1{675} kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 01/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 01/12/21 (eff) - kieta hatsukoi _1{20} survivor au _6{16} 
+aEff/aeff.md:- 02/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 02/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} 
+aEff/aeff.md:- 03/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 03/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} 
+aEff/aeff.md:- 04/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 04/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} 
+aEff/aeff.md:- 05/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 06/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 07/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 08/11/21 (eff) - survivor au _6{16} 
+aEff/aeff.md:- 09/11/21 (eff) - survivor au _6{16} 
+aEff/aeff.md:- 10/11/21 (eff) - survivor au _6{16} 
+aEff/aeff.md:- 11/11/21 (eff) - survivor au _6{16} 
+aEff/aeff.md:- 12/11/21 (eff) - survivor au _6{16} kieta hatsukoi _1{13} 
+aEff/aeff.md:- 13/11/21 (eff) - survivor au _6{16} kieta hatsukoi _1{15} 
+aEff/aeff.md:- 14/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 15/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 16/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 17/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 18/10/21 - 214* the voice portugal _9{1} survivor au _6{1} aoki vuanpaia no nayami _1{3} 
-aEff/aeff.md:- 18/11/21 (eff) - unbag _1{677} kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 18/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 19/10/21 - 225* the voice portugal _9{1} survivor au _6{3} aoki vuanpaia no nayami _1{4} 
-aEff/aeff.md:- 19/11/21 (eff) - unbag _1{679} kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 19/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
 aEff/aeff.md:- 20/10/21 - 224* age of the living dead _1{0} the voice portugal _9{1} survivor au _6{5} 
-aEff/aeff.md:- 20/11/21 (eff) - unbag _1{681} kieta hatsukoi _1{17} survivor au _6{16} 
-aEff/aeff.md:- 21/11/21 (eff) - unbag _1{683} kieta hatsukoi _1{17} survivor au _6{16} 
-aEff/aeff.md:- 22/10/21 (eff) - unbag _1{619} peach of time _1{33} survivor au _6{9} 
-aEff/aeff.md:- 22/11/21 (eff) - unbag _1{685} kieta hatsukoi _1{17} survivor au _6{16} 
-aEff/aeff.md:- 23/10/21 (eff) - unbag _1{621} peach of time _1{33} survivor au _6{11} 
-aEff/aeff.md:- 23/11/21 (eff) - unbag _1{687} kieta hatsukoi _1{18} survivor au _6{16} 
-aEff/aeff.md:- 24/10/21 (eff) - unbag _1{623} peach of time _1{33} survivor au _6{13} 
-aEff/aeff.md:- 24/11/21 (eff) - unbag _1{689} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 25/10/21 (eff) - unbag _1{626} peach of time _1{33} survivor au _6{15} 
-aEff/aeff.md:- 25/11/21 (eff) - unbag _1{691} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 26/10/21 (eff) - unbag _1{628} peach of time _1{33} survivor au _6{15} 
-aEff/aeff.md:- 26/11/21 (eff) - unbag _1{693} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 27/10/21 (eff) - unbag _1{630} peach of time _1{33} survivor au _6{15} 
-aEff/aeff.md:- 27/11/21 (eff) - unbag _1{695} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 28/10/21 (eff) - unbag _1{632} peach of time _1{33} survivor au _6{15} 
-aEff/aeff.md:- 28/11/21 (eff) - unbag _1{697} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 29/10/21 (eff) - unbag _1{634} peach of time _1{33} survivor au _6{15} tbbt _11{8} 
-aEff/aeff.md:- 29/11/21 (eff) - unbag _1{699} kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-aEff/aeff.md:- 30/10/21 (eff) - unbag _1{636} peach of time _1{33} survivor au _6{15} tbbt _11{10} 
-aEff/aeff.md:- 30/11/21 (eff) - unbag _1{702} kieta hatsukoi _1{20} survivor au _6{16} 
-aEff/aeff.md:- 31/10/21 (eff) - unbag _1{638} survivor au _6{15} tbbt _11{11} 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) Unbag _1x34(3) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+aEff/aeff.md:- 20/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 21/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 22/10/21 (eff) - peach of time _1{33} survivor au _6{9} 
+aEff/aeff.md:- 22/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
+aEff/aeff.md:- 23/10/21 (eff) - peach of time _1{33} survivor au _6{11} 
+aEff/aeff.md:- 23/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} 
+aEff/aeff.md:- 24/10/21 (eff) - peach of time _1{33} survivor au _6{13} 
+aEff/aeff.md:- 24/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 25/10/21 (eff) - peach of time _1{33} survivor au _6{15} 
+aEff/aeff.md:- 25/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 26/10/21 (eff) - peach of time _1{33} survivor au _6{15} 
+aEff/aeff.md:- 26/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 27/10/21 (eff) - peach of time _1{33} survivor au _6{15} 
+aEff/aeff.md:- 27/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 28/10/21 (eff) - peach of time _1{33} survivor au _6{15} 
+aEff/aeff.md:- 28/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 29/10/21 (eff) - peach of time _1{33} survivor au _6{15} tbbt _11{8} 
+aEff/aeff.md:- 29/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
+aEff/aeff.md:- 30/10/21 (eff) - peach of time _1{33} survivor au _6{15} tbbt _11{10} 
+aEff/aeff.md:- 30/11/21 (eff) - kieta hatsukoi _1{20} survivor au _6{16} 
+aEff/aeff.md:- 31/10/21 (eff) - survivor au _6{15} tbbt _11{11} 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- sem 18-10-2021 The voice portugal _9x2(1) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
-apercu/apercu21.md:* conclu 18/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
-apercu/apercu21.md:* conclu 19/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
-apercu/apercu21.md:* conclu 20/10/21 = Unbag _1 > 3; Survivor au _6 > 1; 
-apercu/apercu21.md:* conclu 21/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
-apercu/apercu21.md:* conclu 22/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
-apercu/apercu21.md:* conclu 23/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
-apercu/apercu21.md:* conclu 24/10/21 = Unbag _1 > 6; Survivor au _6 > 2; Young sheldon _5 > 1; 
-apercu/apercu21.md:* concluBis 18/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-apercu/apercu21.md:* concluBis 19/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-apercu/apercu21.md:* concluBis 20/10/21 = Unbag _1 > 5; Survivor au _6 > 3; 
-apercu/apercu21.md:* concluBis 21/10/21 = Unbag _1 > 5; Survivor au _6 > 4; 
-apercu/apercu21.md:* concluBis 22/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
-apercu/apercu21.md:* concluBis 23/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
-apercu/apercu21.md:* concluBis 24/10/21 = Unbag _1 > 10; Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; 
+apercu/apercu21.md:* conclu 18/10/21 = Survivor au _6 > 2; 
+apercu/apercu21.md:* conclu 19/10/21 = Survivor au _6 > 2; 
+apercu/apercu21.md:* conclu 20/10/21 = Survivor au _6 > 1; 
+apercu/apercu21.md:* conclu 21/10/21 = Survivor au _6 > 2; 
+apercu/apercu21.md:* conclu 22/10/21 = Survivor au _6 > 2; 
+apercu/apercu21.md:* conclu 23/10/21 = Survivor au _6 > 2; 
+apercu/apercu21.md:* conclu 24/10/21 = Survivor au _6 > 2; Young sheldon _5 > 1; 
+apercu/apercu21.md:* concluBis 18/10/21 = Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercu21.md:* concluBis 19/10/21 = Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercu21.md:* concluBis 20/10/21 = Survivor au _6 > 3; 
+apercu/apercu21.md:* concluBis 21/10/21 = Survivor au _6 > 4; 
+apercu/apercu21.md:* concluBis 22/10/21 = Survivor au _6 > 4; 
+apercu/apercu21.md:* concluBis 23/10/21 = Survivor au _6 > 4; 
+apercu/apercu21.md:* concluBis 24/10/21 = Survivor au _6 > 4; Young sheldon _5 > 3; My sweet dear _1 > 2; 
 apercu/apercuglobal.md:- sem 18-10-2021 The voice portugal _9x2(1) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
-apercu/apercuglobal.md:* conclu 18/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
-apercu/apercuglobal.md:* conclu 19/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
-apercu/apercuglobal.md:* conclu 20/10/21 = Unbag _1 > 3; Survivor au _6 > 1; 
-apercu/apercuglobal.md:* conclu 21/10/21 = Unbag _1 > 3; Survivor au _6 > 2; 
-apercu/apercuglobal.md:* conclu 22/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
-apercu/apercuglobal.md:* conclu 23/10/21 = Unbag _1 > 6; Survivor au _6 > 2; 
-apercu/apercuglobal.md:* concluBis 18/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-apercu/apercuglobal.md:* concluBis 19/10/21 = Unbag _1 > 5; Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-apercu/apercuglobal.md:* concluBis 20/10/21 = Unbag _1 > 5; Survivor au _6 > 3; 
-apercu/apercuglobal.md:* concluBis 21/10/21 = Unbag _1 > 5; Survivor au _6 > 4; 
-apercu/apercuglobal.md:* concluBis 22/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
-apercu/apercuglobal.md:* concluBis 23/10/21 = Unbag _1 > 10; Survivor au _6 > 4; 
+apercu/apercuglobal.md:* conclu 18/10/21 = Survivor au _6 > 2; 
+apercu/apercuglobal.md:* conclu 19/10/21 = Survivor au _6 > 2; 
+apercu/apercuglobal.md:* conclu 20/10/21 = Survivor au _6 > 1; 
+apercu/apercuglobal.md:* conclu 21/10/21 = Survivor au _6 > 2; 
+apercu/apercuglobal.md:* conclu 22/10/21 = Survivor au _6 > 2; 
+apercu/apercuglobal.md:* conclu 23/10/21 = Survivor au _6 > 2; 
+apercu/apercuglobal.md:* concluBis 18/10/21 = Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercuglobal.md:* concluBis 19/10/21 = Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
+apercu/apercuglobal.md:* concluBis 20/10/21 = Survivor au _6 > 3; 
+apercu/apercuglobal.md:* concluBis 21/10/21 = Survivor au _6 > 4; 
+apercu/apercuglobal.md:* concluBis 22/10/21 = Survivor au _6 > 4; 
+apercu/apercuglobal.md:* concluBis 23/10/21 = Survivor au _6 > 4; 
 apercuTer/apercuTer.md:* Survivor au _6
 apercuTer/apercuTer.md:*Stuck on you _1 Survivor _40 Kaamelott _6 Drag race esp _1 The best story _1 Crime scene kitchen _1 Rpdru _9 La mas draga _2 La mas draga _1 Queen of drags _1 Mental _1 Domino challenge _1 Survivor au _4 Love in time _1 God shave the queens _1 Nitiman _1 Skam france _8 Pearl next door _1 Glow up _1 Ydestiny _1 Mortel _2 Tharntype _2*
 apercuTer/apercuTer.md:*The circle us _3 Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*

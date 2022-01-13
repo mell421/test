@@ -1,29 +1,29 @@
 aEff/aeff.md:- 19/03/21 - 474* bt21 vlog _1{0} schools out lets date now _1{6} 
 aEff/aeff.md:- 20/03/21 - 506* bt21 vlog _1{1} schools out lets date now _1{6} 
 aEff/aeff.md:- 21/03/21 - 657* bt21 vlog _1{2} 
-apercu/apercu21.md:- mois 01-04-2021 Bt21 vlog _1x4(3) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
+apercu/apercu21.md:- mois 01-04-2021 Bt21 vlog _1x4(3) Schools out lets date now _1x6(2) You never eat alone _1x5(2) 
 apercu/apercu21.md:- sem 22-03-2021 Bt21 vlog _1x4(3) Schools out lets date now _1x6(1) 
-apercu/apercu21.md:* conclu 25/03/21 > Bt21 vlog _1 > 2; Unbag _1 > 1; 
-apercu/apercu21.md:* concluBis 19/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercu21.md:* concluBis 20/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercu21.md:* concluBis 21/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercu21.md:* concluBis 22/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercu21.md:* concluBis 23/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercu21.md:* concluBis 24/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercu21.md:* concluBis 25/03/21 = Bt21 vlog _1 > 4; Unbag _1 > 3; 
-apercu/apercuglobal.md:- mois 01-04-2021 Bt21 vlog _1x4(3) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) 
+apercu/apercu21.md:* conclu 25/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercu21.md:* concluBis 19/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercu21.md:* concluBis 20/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercu21.md:* concluBis 21/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercu21.md:* concluBis 22/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercu21.md:* concluBis 23/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercu21.md:* concluBis 24/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercu21.md:* concluBis 25/03/21 = Bt21 vlog _1 > 4; 
+apercu/apercuglobal.md:- mois 01-04-2021 Bt21 vlog _1x4(3) Schools out lets date now _1x6(2) You never eat alone _1x5(2) 
 apercu/apercuglobal.md:- sem 22-03-2021 Bt21 vlog _1x4(3) Schools out lets date now _1x6(1) 
-apercu/apercuglobal.md:* conclu 25/03/21 > Bt21 vlog _1 > 2; Unbag _1 > 1; 
-apercu/apercuglobal.md:* concluBis 19/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercuglobal.md:* concluBis 20/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercuglobal.md:* concluBis 21/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercuglobal.md:* concluBis 22/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercuglobal.md:* concluBis 23/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercuglobal.md:* concluBis 24/03/21 > Unbag _1 > 3; Bt21 vlog _1 > 2; 
-apercu/apercuglobal.md:* concluBis 25/03/21 > Bt21 vlog _1 > 4; Unbag _1 > 3; 
+apercu/apercuglobal.md:* conclu 25/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercuglobal.md:* concluBis 19/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercuglobal.md:* concluBis 20/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercuglobal.md:* concluBis 21/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercuglobal.md:* concluBis 22/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercuglobal.md:* concluBis 23/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercuglobal.md:* concluBis 24/03/21 > Bt21 vlog _1 > 2; 
+apercu/apercuglobal.md:* concluBis 25/03/21 > Bt21 vlog _1 > 4; 
 apercuTer/apercuTer.md:* Bt21 vlog _1
-tab2021.html:    <td class="conclu">Bt21 vlog _1 > 2; Unbag _1 > 1; </td>
-tab2021.html:    <td class="conclubis">Bt21 vlog _1 > 4; Unbag _1 > 3; </td>
-tab2021.html:    <td class="conclubis">Unbag _1 > 3; Bt21 vlog _1 > 2; </td>
-tab2021.html:    <td class="resumemois">Bt21 vlog _1x4(3) Schools out lets date now _1x6(2) Unbag _1x18(1) You never eat alone _1x5(2) </td>
+tab2021.html:    <td class="conclu">Bt21 vlog _1 > 2; </td>
+tab2021.html:    <td class="conclubis">Bt21 vlog _1 > 2; </td>
+tab2021.html:    <td class="conclubis">Bt21 vlog _1 > 4; </td>
+tab2021.html:    <td class="resumemois">Bt21 vlog _1x4(3) Schools out lets date now _1x6(2) You never eat alone _1x5(2) </td>
 tab2021.html:    <td class="resumesem">Bt21 vlog _1x4(3) Schools out lets date now _1x6(1) </td>

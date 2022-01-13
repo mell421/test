@@ -145,38 +145,36 @@ The office _1x5(2) You _1x3(1)
 #### sem 24-08-2020 
 Good singers _1x3(1) So much in love _1x2(1) 
 #### sem 31-08-2020 
-Unbag _1x2(1) So much in love _1x3(1) Blacklist series _1x2(1) 
+So much in love _1x3(1) Blacklist series _1x2(1) 
 #### sem 07-09-2020 
 #### sem 14-09-2020 
-Unbag _1x3(1) 
 #### sem 21-09-2020 
-Unbag _1x4(1) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
+Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
 #### sem 28-09-2020 
-Unbag _1x5(1) 
 #### sem 05-10-2020 
 Friend forever _1x3(2) My day _1x2(1) x6(1)
 #### sem 12-10-2020 
-Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### sem 19-10-2020 
 Ben x jim _1x2(1) Boys lockdown _1x2(1) 
 #### sem 26-10-2020 
 Boys lockdown _1x3(1) Pogi lang hanap _1x2(1) Swap test _1x2(1) Quien es la mascara _2x3(2) 
 #### sem 02-11-2020 
-Swap test _1x3(1) The stranded _1x2(1) Unbag _1x7(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) 
+Swap test _1x3(1) The stranded _1x2(1) Pogi lang hanap _1x3(1) Lakan _1x2(1) Friend forever _1x4(1) 
 #### sem 09-11-2020 
-Lakan _1x3(1) Pogi lang hanap _1x4(1) Unbag _1x8(1) Blood _1x17(1) 
+Lakan _1x3(1) Pogi lang hanap _1x4(1) Blood _1x17(1) 
 #### sem 16-11-2020 
-My vampire boyfriend _1x3(2) Unbag _1x9(1) 
+My vampire boyfriend _1x3(2) 
 #### sem 23-11-2020 
-Unbag _1x10(1) Pogi lang hanap _1x5(1) 
+Pogi lang hanap _1x5(1) 
 #### sem 30-11-2020 
 Be love _1x2(1) 
 #### sem 07-12-2020 
-Unbag _1x11(1) Ghost runner _1x2(1) Be love _1x3(1) 
+Ghost runner _1x2(1) Be love _1x3(1) 
 #### sem 14-12-2020 
 A queen is born _1x2(1) Tale of the nine tailed _1x2(1) 
 #### sem 21-12-2020 
-Ghost runner _1x4(2) Unbag _1x12(1) 
+Ghost runner _1x4(2) 
 #### sem 28-12-2020 
 Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
 
@@ -202,13 +200,13 @@ Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef u
 #### mois 01-08-2020 
 Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
 #### mois 01-09-2020 
-Unbag _1x2(1) So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
+So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 #### mois 01-10-2020 
-Friend forever _1x2(1) My day _1x2(1) Unbag _1x5(3) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
+Friend forever _1x2(1) My day _1x2(1) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
 #### mois 01-11-2020 
-Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+Swap test _1x3(2) The stranded _1x2(1) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 #### mois 01-12-2020 
-Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
+Be love _1x3(2) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -221,7 +219,7 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * conclu 22/09/20 > 
 * conclu 23/09/20 > 
 * conclu 24/09/20 > 
-* conclu 25/09/20 > Unbag _1 > 1; 
+* conclu 25/09/20 > 
 * conclu 26/09/20 > 
 * conclu 27/09/20 > 
 * conclu 28/09/20 > 
@@ -308,14 +306,14 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * conclu 18/12/20 > 
 * conclu 19/12/20 > 
 * conclu 20/12/20 > 
-* conclu 21/12/20 > Unbag _1 > 1; 
-* conclu 22/12/20 > Unbag _1 > 1; 
-* conclu 23/12/20 > Unbag _1 > 1; 
+* conclu 21/12/20 > 
+* conclu 22/12/20 > 
+* conclu 23/12/20 > 
 * conclu 24/12/20 > 
-* conclu 25/12/20 > From dusk till dawn _2 > 2; Unbag _1 > 1; 
-* conclu 26/12/20 > From dusk till dawn _2 > 2; Unbag _1 > 1; 
-* conclu 27/12/20 > From dusk till dawn _2 > 2; Unbag _1 > 1; 
-* conclu 28/12/20 > From dusk till dawn _2 > 1; Unbag _1 > 1; 
+* conclu 25/12/20 > From dusk till dawn _2 > 2; 
+* conclu 26/12/20 > From dusk till dawn _2 > 2; 
+* conclu 27/12/20 > From dusk till dawn _2 > 2; 
+* conclu 28/12/20 > From dusk till dawn _2 > 1; 
 * conclu 29/12/20 > From dusk till dawn _2 > 1; 
 * conclu 30/12/20 > From dusk till dawn _2 > 1; 
 * conclu 31/12/20 > 
@@ -328,7 +326,7 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 
 * concluBis 23/09/20 > 
 * concluBis 24/09/20 > 
-* concluBis 25/09/20 > Unbag _1 > 3; 
+* concluBis 25/09/20 > 
 * concluBis 26/09/20 > 
 * concluBis 27/09/20 > 
 * concluBis 28/09/20 > 
@@ -342,7 +340,7 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * concluBis 06/10/20 > Friend forever _1 > 5; 
 * concluBis 07/10/20 > Friend forever _1 > 4; 
 * concluBis 08/10/20 > Capture lover _1 > 2; Zombie detective _1 > 1; 
-* concluBis 09/10/20 > Unbag _1 > 3; Friend zone _1 > 3; 
+* concluBis 09/10/20 > Friend zone _1 > 3; 
 * concluBis 10/10/20 > 
 * concluBis 11/10/20 > 
 * concluBis 12/10/20 > 
@@ -400,29 +398,29 @@ Be love _1x3(2) Unbag _1x10(3) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3
 * concluBis 03/12/20 > 
 * concluBis 04/12/20 > 
 * concluBis 05/12/20 > 
-* concluBis 06/12/20 > Unbag _1 > 1; 
-* concluBis 07/12/20 > Unbag _1 > 1; 
-* concluBis 08/12/20 > Unbag _1 > 1; 
-* concluBis 09/12/20 > Unbag _1 > 1; 
+* concluBis 06/12/20 > 
+* concluBis 07/12/20 > 
+* concluBis 08/12/20 > 
+* concluBis 09/12/20 > 
 * concluBis 10/12/20 > 
 * concluBis 11/12/20 > 
 * concluBis 12/12/20 > 
 * concluBis 13/12/20 > 
 * concluBis 14/12/20 > A queen is born _1 > 2; 
 * concluBis 15/12/20 > A queen is born _1 > 1; 
-* concluBis 16/12/20 > Unbag _1 > 1; A queen is born _1 > 1; 
+* concluBis 16/12/20 > A queen is born _1 > 1; 
 * concluBis 17/12/20 > 
-* concluBis 18/12/20 > Unbag _1 > 4; 
-* concluBis 19/12/20 > Unbag _1 > 1; 
-* concluBis 20/12/20 > Unbag _1 > 2; 
-* concluBis 21/12/20 > Unbag _1 > 3; Ghost runner _1 > 2; 
-* concluBis 22/12/20 > Unbag _1 > 3; Ghost runner _1 > 3; 
-* concluBis 23/12/20 > Unbag _1 > 3; Lakan _1 > 1; 
-* concluBis 24/12/20 > Unbag _1 > 2; 
-* concluBis 25/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; 
-* concluBis 26/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; 
-* concluBis 27/12/20 > From dusk till dawn _2 > 4; Unbag _1 > 3; 
-* concluBis 28/12/20 > Unbag _1 > 3; From dusk till dawn _2 > 3; 
+* concluBis 18/12/20 > 
+* concluBis 19/12/20 > 
+* concluBis 20/12/20 > 
+* concluBis 21/12/20 > Ghost runner _1 > 2; 
+* concluBis 22/12/20 > Ghost runner _1 > 3; 
+* concluBis 23/12/20 > Lakan _1 > 1; 
+* concluBis 24/12/20 > 
+* concluBis 25/12/20 > From dusk till dawn _2 > 4; 
+* concluBis 26/12/20 > From dusk till dawn _2 > 4; 
+* concluBis 27/12/20 > From dusk till dawn _2 > 4; 
+* concluBis 28/12/20 > From dusk till dawn _2 > 3; 
 * concluBis 29/12/20 > From dusk till dawn _2 > 3; 
 * concluBis 30/12/20 > From dusk till dawn _2 > 3; 
 * concluBis 31/12/20 > Ghost runner _1 > 1; From dusk till dawn _2 > 1; 

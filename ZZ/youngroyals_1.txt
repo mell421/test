@@ -1,15 +1,15 @@
 aEff/aeff.md:- 06/07/21 - 237* young royals _1{0} camping paradis _12{0} 
 aEff/aeff.md:- 07/07/21 - 256* young royals _1{2} camping paradis _12{1} 
 aEff/aeff.md:- 08/07/21 - 243* /46 days _1{0} young royals _1{2} camping paradis _12{1} 
-apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-apercu/apercu21.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-apercu/apercu21.md:* conclu 06/07/21 = Unbag _1 > 6; Young royals _1 > 1; 
-apercu/apercu21.md:* concluBis 06/07/21 = Unbag _1 > 10; Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-apercu/apercuglobal.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-apercu/apercuglobal.md:* conclu 06/07/21 = Unbag _1 > 6; Young royals _1 > 1; 
-apercu/apercuglobal.md:* concluBis 06/07/21 = Unbag _1 > 10; Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; 
+apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+apercu/apercu21.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) 
+apercu/apercu21.md:* conclu 06/07/21 = Young royals _1 > 1; 
+apercu/apercu21.md:* concluBis 06/07/21 = Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:- mois 01-08-2021 /46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+apercu/apercuglobal.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) 
+apercu/apercuglobal.md:* conclu 06/07/21 = Young royals _1 > 1; 
+apercu/apercuglobal.md:* concluBis 06/07/21 = Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; 
 apercuTer/apercuTer.md:* Young royals _1
-tab2021.html:    <td class="conclu">Unbag _1 > 6; Young royals _1 > 1; </td>
-tab2021.html:    <td class="conclubis">Unbag _1 > 10; Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; </td>
-tab2021.html:    <td class="resumesem">Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) </td>
+tab2021.html:    <td class="conclu">Young royals _1 > 1; </td>
+tab2021.html:    <td class="conclubis">Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; </td>
+tab2021.html:    <td class="resumesem">Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) </td>

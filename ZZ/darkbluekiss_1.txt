@@ -4,22 +4,22 @@ aEff/aeff.md:- 19/06/21 - 265* elite _4{0} dark blue kiss _1{3}
 aEff/aeff.md:- 20/06/21 - 276* elite _4{1} dark blue kiss _1{3} 
 aEff/aeff.md:- 21/06/21 - 195* elite _4{4} dark blue kiss _1{4} 
 aEff/aeff.md:- 22/06/21 - 199* elite _4{6} dark blue kiss _1{4} 
-aEff/aeff.md:- 29/05/21 - 989* dark blue kiss _1{0} unbag _1{314} 
-aEff/aeff.md:- 30/05/21 - 992* dark blue kiss _1{0} unbag _1{316} 
-aEff/aeff.md:- 31/05/21 - 951* dark blue kiss _1{1} unbag _1{319} 
-apercu/apercu21.md:- mois 01-06-2021 Dark blue kiss _1x2(1) Unbag _1x23(2) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
-apercu/apercu21.md:- mois 01-07-2021 Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
+aEff/aeff.md:- 29/05/21 - 989* dark blue kiss _1{0} 
+aEff/aeff.md:- 30/05/21 - 992* dark blue kiss _1{0} 
+aEff/aeff.md:- 31/05/21 - 951* dark blue kiss _1{1} 
+apercu/apercu21.md:- mois 01-06-2021 Dark blue kiss _1x2(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
+apercu/apercu21.md:- mois 01-07-2021 Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 apercu/apercu21.md:- sem 21-06-2021 Elite _4x4(3) Dark blue kiss _1x3(1) 
-apercu/apercu21.md:- sem 31-05-2021 Dark blue kiss _1x2(1) Unbag _1x23(1) 
-apercu/apercu21.md:* concluBis 18/06/21 = Unbag _1 > 10; Dark blue kiss _1 > 1; 
-apercu/apercuglobal.md:- mois 01-06-2021 Dark blue kiss _1x2(1) Unbag _1x23(2) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
-apercu/apercuglobal.md:- mois 01-07-2021 Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
+apercu/apercu21.md:- sem 31-05-2021 Dark blue kiss _1x2(1) 
+apercu/apercu21.md:* concluBis 18/06/21 = Dark blue kiss _1 > 1; 
+apercu/apercuglobal.md:- mois 01-06-2021 Dark blue kiss _1x2(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
+apercu/apercuglobal.md:- mois 01-07-2021 Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 apercu/apercuglobal.md:- sem 21-06-2021 Elite _4x4(3) Dark blue kiss _1x3(1) 
-apercu/apercuglobal.md:- sem 31-05-2021 Dark blue kiss _1x2(1) Unbag _1x23(1) 
-apercu/apercuglobal.md:* concluBis 18/06/21 = Unbag _1 > 10; Dark blue kiss _1 > 1; 
+apercu/apercuglobal.md:- sem 31-05-2021 Dark blue kiss _1x2(1) 
+apercu/apercuglobal.md:* concluBis 18/06/21 = Dark blue kiss _1 > 1; 
 apercuTer/apercuTer.md:* Dark blue kiss _1
-tab2021.html:    <td class="conclubis">Unbag _1 > 10; Dark blue kiss _1 > 1; </td>
-tab2021.html:    <td class="resumemois">Dark blue kiss _1x2(1) Unbag _1x23(2) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) </td>
-tab2021.html:    <td class="resumemois">Unbag _1x25(2) Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) </td>
-tab2021.html:    <td class="resumesem">Dark blue kiss _1x2(1) Unbag _1x23(1) </td>
+tab2021.html:    <td class="conclubis">Dark blue kiss _1 > 1; </td>
+tab2021.html:    <td class="resumemois">Dark blue kiss _1x2(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) </td>
+tab2021.html:    <td class="resumemois">Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) </td>
+tab2021.html:    <td class="resumesem">Dark blue kiss _1x2(1) </td>
 tab2021.html:    <td class="resumesem">Elite _4x4(3) Dark blue kiss _1x3(1) </td>

@@ -30,7 +30,7 @@
 </div>
 
 ## apercu mois
-- mois 01-01-2021 Unbag _1x13(3) 
+- mois 01-01-2021 blabla
 
 
 
@@ -44,7 +44,7 @@
 </div>
 
 ## conclu
-* conclu 18/04/21 = Unbag _1 > 5; 
+* conclu 18/04/21 = blabla
 
 
 
@@ -58,7 +58,7 @@
 
 ## conclu bis
 
-* concluBis 01/01/21 = Unbag _1 > 3; 
+* concluBis 01/01/21 = blabla
 
 
 
