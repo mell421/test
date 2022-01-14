@@ -9,7 +9,7 @@ carac :  0 ZZ/Youaremysunshine_1.txt
 carac :  10029 ZZ/Theharvestseason_1.txt
 carac :  1034 ZZ/Goblin_1.txt
 carac :  1034 ZZ/Thebigleap_1.txt
-carac :  1083 ZZ/Paintwithlove_1.txt
+carac :  1092 ZZ/Paintwithlove_1.txt
 carac :  1095 ZZ/Theyearbook_1.txt
 carac :  1129 ZZ/Mysweetdear_1.txt
 carac :  1149 ZZ/Lovearea_1.txt
@@ -237,7 +237,7 @@ mot   :  155 ZZ/Theyearbook_1.txt
 mot   :  160 ZZ/Lovearea_1.txt
 mot   :  1618 ZZ/Vincenzo_1.txt
 mot   :  162 ZZ/Mrlipstick_1.txt
-mot   :  163 ZZ/Paintwithlove_1.txt
+mot   :  165 ZZ/Paintwithlove_1.txt
 mot   :  171 ZZ/Qforce_1.txt
 mot   :  173 ZZ/Mysweetdear_1.txt
 mot   :  191 ZZ/Tienbromance_1.txt

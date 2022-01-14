@@ -56,8 +56,8 @@ carac :  4993 ZZ/Campingparadis_12.txt
 
 i = Paint with love _1
 ligne :  6 ZZ/Paintwithlove_1.txt
-mot   :  163 ZZ/Paintwithlove_1.txt
-carac :  1083 ZZ/Paintwithlove_1.txt
+mot   :  165 ZZ/Paintwithlove_1.txt
+carac :  1092 ZZ/Paintwithlove_1.txt
 
 i = Mr cinderella _1
 ligne :  5 ZZ/Mrcinderella_1.txt
