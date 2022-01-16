@@ -1,0 +1,15 @@
+aEff/aeff.md:- 22/12/21 - 73* the player _1{0} the voice portugal _9{18} not me _1{3} mr cinderella _1{5} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} unlocked _1{5} 
+aEff/aeff.md:- 23/12/21 - 78* you are my sunshine _1{0} the player _1{2} the voice portugal _9{20} not me _1{3} mr cinderella _1{5} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} 
+aEff/aeff.md:- 24/12/21 - 842* the voice senior it _2{9} you are my sunshine _1{2} the player _1{3} the voice portugal _9{22} 
+aEff/aeff.md:- 27/12/21 - 120* the voice portugal _9{28} not me _1{3} the player _1{3} you are my sunshine _1{2} mr cinderella _1{5} f4 thailand _1{3} earthmix space _1{22} bad buddy _1{21} 
+aEff/aeff.md:- 28/12/21 - 137* 5515 never too late _1{12} the voice portugal _9{31} not me _1{4} the player _1{6} you are my sunshine _1{4} mr cinderella _1{7} f4 thailand _1{4} earthmix space _1{24} 
+aEff/aeff.md:- 29/12/21 - 129* the voice be _10{0} 5515 never too late _1{12} the voice portugal _9{33} not me _1{4} the player _1{7} you are my sunshine _1{5} 
+aEff/aeff.md:- 30/12/21 - 122* survivor _13{0} behind cut _1{0} the voice be _10{0} 5515 never too late _1{12} the voice portugal _9{35} not me _1{4} the player _1{7} 
+apercu/apercu21.md:- sem 27-12-2021 -> The voice portugal _9x12(1) Not me _1x4(1) The player _1x3(2) You are my sunshine _1x3(2) Mr cinderella _1x6(1) F4 thailand _1x3(1) Earthmix space _1x10(1) Bad buddy _1x10(1) Paint with love _1x6(1) The voice senior it _2x6(1) 
+apercu/apercu21.md:* conclu 22/12/21 = The voice portugal _9 > 2; The player _1 > 1; 
+apercu/apercu21.md:* conclu 27/12/21 = The voice portugal _9 > 4; The player _1 > 1; 
+apercu/apercu21.md:* concluBis 22/12/21 = The voice portugal _9 > 9; The player _1 > 3; Earthmix space _1 > 2; Bad buddy _1 > 1; Forever knight _1 > 1; 
+apercu/apercu21.md:* concluBis 23/12/21 = The voice portugal _9 > 7; You are my sunshine _1 > 3; Earthmix space _1 > 2; The player _1 > 2; Bad buddy _1 > 1; Forever knight _1 > 1; 
+apercu/apercu21.md:* concluBis 27/12/21 = The voice portugal _9 > 10; The player _1 > 3; Earthmix space _1 > 2; Bad buddy _1 > 2; Mr cinderella _1 > 2; You are my sunshine _1 > 2; Forever knight _1 > 1; 
+apercu/apercu21.md:* concluBis 28/12/21 = The voice portugal _9 > 9; The player _1 > 2; Earthmix space _1 > 1; Mr cinderella _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; 
+apercuTer/apercuTer.md:* The player _1

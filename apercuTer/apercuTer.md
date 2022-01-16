@@ -719,6 +719,7 @@
 * Friend or lover _1
 ### sem 17-01-2022 
 * *insererici*
+* Tinted with you _1
 * Do seu lado _1
 * Cheer _2
 * Painted with raven _1
@@ -737,32 +738,51 @@
 
 ## bientot
 * $ a commencer / venir $
-* /9-1-1 lone star _3
+* 
 * Monsters inside bm _1
 * Mental _2
 * The good doctor _5
 * Nilundon _1
 * The masked singer fr _3
-* Survivor 13
+* 
 * 
 * $ a classer $
 * Unbag _1 (23/12/21)
 * 
 * $ order $
-* 
-* The voice portugal _9
 * Not me _1
-* Mr cinderella _1
-* District z _2
-* F4 thailand _1
-* The voice senior it _2
-* Unlocked _1
-* Paint with love _1
-* Earthmix space _1
 * Bad buddy _1
+* Behind cut _1
+* The voice senior esp _3
+* The masked singer uk _3
+* Survivor au _6
+* Rpdru _14
+* Rpdr _14
+* The voice nl _12
+* The voice senior it _2
+* Ninja warrior _6
+* The masked singer vv _2
+* The voice no _7
+* Earthmix space _1
+* Skam france _9
+* Paint with love _1
+* The masked dancer ger _1
+* Next level chef _1
+* Icsyv _2
+* The voice be _10
+* /9-1-1 lone star _3
+* The voice portugal _9
+* Mr cinderella _1
+* F4 thailand _1
+* Survivor sa _7
+* Young sheldon _5
+* Survivor _13
+* 5515 never too late _1
+* The player _1
+* You are my sunshine _1
+* District z _2
+* Unlocked _1
 * Aggretsuko _4
-* Never too late _1
-* 
 * Camping paradis _12
 * Baker boys _1
 * Kieta hatsukoi _1
@@ -771,11 +791,9 @@
 * Banana fish _1
 * Tbbt _11
 * Aoki vuanpaia no nayami _1
-* Young sheldon _5
 * My sweet dear _1
 * Insiders _1
 * Age of the living dead _1
-* Survivor au _6
 * /9-1-1 _5
 * Love area _1
 * The shipper _1
@@ -874,7 +892,7 @@
 #### mois 01-01-2022 
 *insererici Druck _7 The voice nl _9 The voice ru _10 Queen of the universe _1 Survivor 12 The voice kids uk _5 Josephine ange gardien _24 The voice greece _7 Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 #### mois 01-02-2022 
-*insererici Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
+*insererici Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
 #### mois 01-03-2022 
 *insererici*
 

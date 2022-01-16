@@ -24,23 +24,66 @@ Goblin 1x2
 Les engages 3x2
 The big leap 1x2
 Aggretsuko 4x2
-Not me 1x3
-District z 2x2
+The masked singer vv 2x2
+Skam france 9x2
+The masked dancer ger 1x2
+Survivor sa 7x2
+
 
 
 ### tisaep all
 * ici
 _
-The voice senior it 2x4
+Bad buddy 1x11
+Behind cut 1x6
+The voice senior esp 3x2
+The masked singer uk 3x4
+Survivor au 6x13
+Rpdru 14x2
+Rpdr 14x2
+The voice nl 12x2
+The voice senior it 2x7
+Ninja warrior 6x2
+* The masked singer vv 2x1
+The voice no 7x4
+Earthmix space 1x10
+* Skam france 9x1
+Paint with love 1x8
+* The masked dancer ger 1x1
+Next level chef 1x3
+Icsyv 2x2
+The voice be 10x3
+/9-1-1 lone star 3x2
+The voice portugal 9x14
+Not me 1x4
+Mr cinderella 1x7
+* The voice senior esp 3x1
+F4 thailand 1x3
+* Survivor sa 7x1
+* Rpdru 14x1
+* Rpdr 14x1
+* The voice nl 12x1
+* Ninja warrior 6x1
+* The voice no 7x1
+* Icsyv 2x0
+* Next level chef 1x1
+* /9-1-1 lone star 3x1
+Young sheldon 5x5
+* The masked singer uk 3x1
+Survivor 13x5
+* Survivor 13x1
+* Behind cut 1x1
+* The voice be 10x1
+5515 never too late 1x4
+The player 1x2
+You are my sunshine 1x2
+* You are my sunshine 1x1
+* The player 1x1
+District z 2x2
+* F4 thailand 1x1
 Unlocked 1x3
-Paint with love 1x4
-Earthmix space 1x8
-Bad buddy 1x8
 * Aggretsuko 4x1
-The voice portugal 9x9
-5515 never too late 1x3
 * Not me 1x1
-Mr cinderella 1x3
 * 5515 never too late 1x1
 Camping paradis 12x5
 * District z 2x1
@@ -58,13 +101,11 @@ Banana fish 1x2
 * Bad buddy 1x1
 Tbbt 11x3
 Aoki vuanpaia no nayami 1x3
-Young sheldon 5x3
 My sweet dear 1x2
 * My sweet dear 1x1
 * Insiders 1x1
 * Age of the living dead 1x1
 * The voice portugal 9x1
-Survivor au 6x3
 * Survivor au 6x1
 * Aoki vuanpaia no nayami 1x1
 * Kieta hatsukoi 1x1

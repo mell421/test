@@ -509,6 +509,7 @@
 |painted with raven 1||8|||<!--  -->
 |cheer 2||9||us|
 |do seu lado 1||6|||<!--  -->
+|tinted with you|tinted with you|8|serie|corée|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -685,7 +686,6 @@
 |F4 thailand||16|||1|<!--  -->
 |the player|the player|16|serie(*)|thailande|0|<!-- -->
 |you are my sunshine||6|serie|vietnam|2|<!--  -->
-|tinted with you|tinted with you|8|serie|corée|2|<!--  -->
 |the voice be 10||16|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

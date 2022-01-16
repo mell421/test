@@ -18,7 +18,7 @@ list99=(
 # 19-15
 "Not me _1" "The shipper _1" 
 # 14-10
-"The player _1" "Unlocked _1" "Aoki vuanpaia no nayami _1" "Young sheldon _5" "You are my sunshine _1" "F4 thailand _1" "The case study of vanitas _1" "District z _2" "Baker boys _1" "Tinted with you _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"The player _1" "Unlocked _1" "Aoki vuanpaia no nayami _1" "Young sheldon _5" "You are my sunshine _1" "F4 thailand _1" "The case study of vanitas _1" "District z _2" "Baker boys _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
 # 7-6
 "My sweet dear _1" "Love area _1" "Les engages _3" "Goblin _1" 
@@ -49,7 +49,7 @@ listAsc=(
 # 5
 "The voice be _10" "/9-1-1 lone star _3" "The voice portugal _9" "Young sheldon _5" 
 # 6
-"Tinted with you _1" "Survivor _13" "5515 never too late _1" "The player _1" "You are my sunshine _1" 
+"Survivor _13" "5515 never too late _1" "The player _1" "You are my sunshine _1" 
 # 7
 "Earthmix space _1" "District z _2" "Unlocked _1" "Aggretsuko _4" 
 # 8

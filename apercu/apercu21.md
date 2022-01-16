@@ -66,6 +66,10 @@
 - sem 15-11-2021 -> The voice portugal _9x6(1) Bad buddy _1x4(1) 
 - sem 22-11-2021 -> The voice portugal _9x7(1) Bad buddy _1x5(1) Les engages _3x2(1) The case study of vanitas _1x3(2) Kieta hatsukoi _1x(1) 
 - sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Baker boys _1x3(2) 
+- sem 06-12-2021 -> The voice portugal _9x9(1) Mr cinderella _1x3(1) Paint with love _1x3(1) District z _2x2(1) The voice senior it _2x3(1) Bad buddy _1x7(1) Baker boys _1x4(1) 
+- sem 13-12-2021 -> The voice portugal _9x10(1) 5515 never too late _1x4(3) Not me _1x2(1) Earthmix space _1x8(1) Mr cinderella _1x4(1) Paint with love _1x4(1) The voice senior it _2x4(1) Bad buddy _1x8(1) Camping paradis _12x6(1) 
+- sem 20-12-2021 -> The voice portugal _9x11(1) Not me _1x3(1) Mr cinderella _1x5(1) District z _2x3(1) F4 thailand _1x2(1) The voice senior it _2x5(1) Unlocked _1x4(1) Paint with love _1x5(1) Earthmix space _1x9(1) Bad buddy _1x9(1) Aggretsuko _4x2(1) 
+- sem 27-12-2021 -> The voice portugal _9x12(1) Not me _1x4(1) The player _1x3(2) You are my sunshine _1x3(2) Mr cinderella _1x6(1) F4 thailand _1x3(1) Earthmix space _1x10(1) Bad buddy _1x10(1) Paint with love _1x6(1) The voice senior it _2x6(1) 
 
 
 
@@ -436,6 +440,34 @@
 * conclu 02/12/21 = 
 * conclu 03/12/21 = 
 * conclu 04/12/21 = 
+* conclu 05/12/21 = 
+* conclu 06/12/21 = 
+* conclu 07/12/21 = 
+* conclu 08/12/21 = 
+* conclu 09/12/21 = 5515 never too late _1 > 1; 
+* conclu 10/12/21 = 
+* conclu 11/12/21 = The voice senior it _2 > 2; 5515 never too late _1 > 1; 
+* conclu 12/12/21 = 
+* conclu 13/12/21 = 5515 never too late _1 > 3; 
+* conclu 14/12/21 = 5515 never too late _1 > 1; 
+* conclu 15/12/21 = 
+* conclu 16/12/21 = 
+* conclu 17/12/21 = 
+* conclu 18/12/21 = Paint with love _1 > 3; Earthmix space _1 > 2; 
+* conclu 19/12/21 = Earthmix space _1 > 2; District z _2 > 1; 
+* conclu 20/12/21 = The voice portugal _9 > 5; 
+* conclu 21/12/21 = The voice portugal _9 > 1; 
+* conclu 22/12/21 = The voice portugal _9 > 2; The player _1 > 1; 
+* conclu 23/12/21 = The voice portugal _9 > 1; You are my sunshine _1 > 1; 
+* conclu 24/12/21 = The voice senior it _2 > 2; The voice portugal _9 > 1; 
+* conclu 25/12/21 = The voice portugal _9 > 1; Bad buddy _1 > 1; 
+* conclu 26/12/21 = The voice portugal _9 > 1; Bad buddy _1 > 1; 
+* conclu 27/12/21 = The voice portugal _9 > 4; The player _1 > 1; 
+* conclu 28/12/21 = The voice portugal _9 > 3; 
+* conclu 29/12/21 = The voice portugal _9 > 2; 
+* conclu 30/12/21 = The voice portugal _9 > 2; Survivor _13 > 1; 
+* conclu 31/12/21 = The voice portugal _9 > 2; Survivor _13 > 1; 
+
 
 
 
@@ -786,6 +818,34 @@
 * concluBis 02/12/21 = 
 * concluBis 03/12/21 = 
 * concluBis 04/12/21 = 
+* concluBis 05/12/21 = 
+* concluBis 06/12/21 = 
+* concluBis 07/12/21 = 
+* concluBis 08/12/21 = 
+* concluBis 09/12/21 = 5515 never too late _1 > 3; 
+* concluBis 10/12/21 = 5515 never too late _1 > 2; 
+* concluBis 11/12/21 = The voice senior it _2 > 4; 5515 never too late _1 > 3; 
+* concluBis 12/12/21 = Paint with love _1 > 2; 5515 never too late _1 > 1; 
+* concluBis 13/12/21 = 5515 never too late _1 > 5; 
+* concluBis 14/12/21 = 5515 never too late _1 > 3; 
+* concluBis 15/12/21 = 5515 never too late _1 > 2; 
+* concluBis 16/12/21 = 
+* concluBis 17/12/21 = Aggretsuko _4 > 2; 
+* concluBis 18/12/21 = Paint with love _1 > 5; Earthmix space _1 > 4; Bad buddy _1 > 1; The voice senior it _2 > 1; 
+* concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; Bad buddy _1 > 2; F4 thailand _1 > 2; The voice portugal _9 > 1; The voice senior it _2 > 1; Forever knight _1 > 1; 
+* concluBis 20/12/21 = The voice portugal _9 > 13; Earthmix space _1 > 2; Bad buddy _1 > 2; Forever knight _1 > 2; Not me _1 > 1; Imortal _1 > 1; 
+* concluBis 21/12/21 = The voice portugal _9 > 9; Earthmix space _1 > 1; Forever knight _1 > 1; 
+* concluBis 22/12/21 = The voice portugal _9 > 9; The player _1 > 3; Earthmix space _1 > 2; Bad buddy _1 > 1; Forever knight _1 > 1; 
+* concluBis 23/12/21 = The voice portugal _9 > 7; You are my sunshine _1 > 3; Earthmix space _1 > 2; The player _1 > 2; Bad buddy _1 > 1; Forever knight _1 > 1; 
+* concluBis 24/12/21 = The voice senior it _2 > 6; The voice portugal _9 > 5; Earthmix space _1 > 2; Bad buddy _1 > 1; Forever knight _1 > 1; 
+* concluBis 25/12/21 = The voice portugal _9 > 5; Bad buddy _1 > 4; Earthmix space _1 > 3; Paint with love _1 > 2; The voice senior it _2 > 1; Forever knight _1 > 1; 
+* concluBis 26/12/21 = The voice portugal _9 > 5; Bad buddy _1 > 4; Earthmix space _1 > 2; Paint with love _1 > 2; The voice senior it _2 > 1; F4 thailand _1 > 1; Forever knight _1 > 1; 
+* concluBis 27/12/21 = The voice portugal _9 > 10; The player _1 > 3; Earthmix space _1 > 2; Bad buddy _1 > 2; Mr cinderella _1 > 2; You are my sunshine _1 > 2; Forever knight _1 > 1; 
+* concluBis 28/12/21 = The voice portugal _9 > 9; The player _1 > 2; Earthmix space _1 > 1; Mr cinderella _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; 
+* concluBis 29/12/21 = The voice portugal _9 > 8; You are my sunshine _1 > 2; Forever knight _1 > 1; 
+* concluBis 30/12/21 = The voice portugal _9 > 6; Survivor _13 > 5; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
+* concluBis 31/12/21 = The voice portugal _9 > 6; Survivor _13 > 5; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
+
 
 
 

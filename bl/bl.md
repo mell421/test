@@ -23,7 +23,7 @@
  
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
-|skam france|france|8|
+|skam france|france|8+|
 |druck|allemagne|7|
 |skam|norvège|4|
 |skam espana|espagne|4|
@@ -225,6 +225,7 @@
 |friend or lover|friend or lover|7|serie|taiwan|              <!-- 128 -->
 |don't say no|don't say no|13|serie|thailande|                <!-- 34 -->
 |do seu lado|do seu lado|6|serie|bresil|<!--  -->
+|tinted with you|tinted with you|8|serie|corée|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -288,7 +289,7 @@
 |F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
 |the player|the player|16|serie(*)|thailande|0|<!-- -->
 |you are my sunshine||6|serie|vietnam|2|<!--  -->
-|tinted with you|tinted with you|8|serie|corée|2|<!--  -->
+|behind cut||8|serie|corée|6|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
