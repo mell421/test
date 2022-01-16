@@ -11,7 +11,6 @@ list99=(
 # 99-50
 "The voice portugal _9" "Kieta hatsukoi _1" "Survivor au _6" "Earthmix space _1" "Bad buddy _1" "Tbbt _11" 
 # 49-40
-"Do seu lado _1" 
 # 39-30
 "The voice senior it _2" "5515 never too late _1" "Camping paradis _12" 
 # 29-20
@@ -54,7 +53,7 @@ listAsc=(
 # 7
 "Earthmix space _1" "District z _2" "Unlocked _1" "Aggretsuko _4" 
 # 8
-"Do seu lado _1" "Camping paradis _12" "Baker boys _1" "Kieta hatsukoi _1" 
+"Camping paradis _12" "Baker boys _1" "Kieta hatsukoi _1" 
 # 9
 "Les engages _3" "The case study of vanitas _1" "Banana fish _1" "Tbbt _11" "Aoki vuanpaia no nayami _1" 
 # 10

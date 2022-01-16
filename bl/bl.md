@@ -224,6 +224,7 @@
 |offgun fun night 2|offgun fun night 2|12+4|show|thailande|     <!-- 67 -->
 |friend or lover|friend or lover|7|serie|taiwan|              <!-- 128 -->
 |don't say no|don't say no|13|serie|thailande|                <!-- 34 -->
+|do seu lado|do seu lado|6|serie|bresil|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -280,7 +281,6 @@
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
 |bad buddy|bad buddy|12|serie|thailande|7|                      <!-- 47-->
 |baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
-|do seu lado|do seu lado|?|serie|bresil|5|<!--  -->
 |paint with love|paint with love|8|serie|thailande|4|<!--  -->
 |mr cinderella|_|8|serie|vietnam|4|<!--  -->
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->

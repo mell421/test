@@ -41,7 +41,6 @@ The voice portugal 9x9
 5515 never too late 1x3
 * Not me 1x1
 Mr cinderella 1x3
-Do seu lado 1x5
 * 5515 never too late 1x1
 Camping paradis 12x5
 * District z 2x1
@@ -50,7 +49,6 @@ Kieta hatsukoi 1x7
 * Mr cinderella 1x1
 * Paint with love 1x1
 * The voice senior it _2x1
-* Do seu lado 1x1
 * Baker boys 1x1
 * Les engages 3x1
 The case study of vanitas 1x2

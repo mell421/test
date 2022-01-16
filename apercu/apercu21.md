@@ -65,7 +65,7 @@
 - sem 08-11-2021 -> The voice portugal _9x5(2) Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) 
 - sem 15-11-2021 -> The voice portugal _9x6(1) Bad buddy _1x4(1) 
 - sem 22-11-2021 -> The voice portugal _9x7(1) Bad buddy _1x5(1) Les engages _3x2(1) The case study of vanitas _1x3(2) Kieta hatsukoi _1x(1) 
-- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Do seu lado _1x5(4) Baker boys _1x3(2) 
+- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Baker boys _1x3(2) 
 
 
 
@@ -85,7 +85,7 @@
 - mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 - mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(4) Do seu lado _1x5(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
+- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
 
 
@@ -427,11 +427,11 @@
 * conclu 23/11/21 = 
 * conclu 24/11/21 = 
 * conclu 25/11/21 = 
-* conclu 26/11/21 = Do seu lado _1 > 2; 
-* conclu 27/11/21 = Do seu lado _1 > 2; 
-* conclu 28/11/21 = Do seu lado _1 > 1; 
-* conclu 29/11/21 = Do seu lado _1 > 1; 
-* conclu 30/11/21 = Do seu lado _1 > 1; 
+* conclu 26/11/21 = 
+* conclu 27/11/21 = 
+* conclu 28/11/21 = 
+* conclu 29/11/21 = 
+* conclu 30/11/21 = 
 * conclu 01/12/21 = 
 * conclu 02/12/21 = 
 * conclu 03/12/21 = 
@@ -777,13 +777,13 @@
 * concluBis 23/11/21 = The voice portugal _9 > 1; 
 * concluBis 24/11/21 = The voice portugal _9 > 1; 
 * concluBis 25/11/21 = 
-* concluBis 26/11/21 = Do seu lado _1 > 4; Baker boys _1 > 2; 
-* concluBis 27/11/21 = Do seu lado _1 > 4; Bad buddy _1 > 1; Baker boys _1 > 1; 
-* concluBis 28/11/21 = Do seu lado _1 > 3; 
-* concluBis 29/11/21 = Do seu lado _1 > 3; Kieta hatsukoi _1 > 1; 
-* concluBis 30/11/21 = Do seu lado _1 > 3; 
-* concluBis 01/12/21 = Do seu lado _1 > 2; 
-* concluBis 02/12/21 = Do seu lado _1 > 2; 
+* concluBis 26/11/21 = Baker boys _1 > 2; 
+* concluBis 27/11/21 = Bad buddy _1 > 1; Baker boys _1 > 1; 
+* concluBis 28/11/21 = 
+* concluBis 29/11/21 = Kieta hatsukoi _1 > 1; 
+* concluBis 30/11/21 = 
+* concluBis 01/12/21 = 
+* concluBis 02/12/21 = 
 * concluBis 03/12/21 = 
 * concluBis 04/12/21 = 
 

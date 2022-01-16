@@ -714,9 +714,9 @@
 - 23/11/21 - 327* the voice portugal _9{6} bad buddy _1{5} les engages _3{1} 
 - 24/11/21 - 455* the voice portugal _9{7} 
 - 25/11/21 - 274* baker boys _1{0} the voice portugal _9{8} 
-- 26/11/21 - 248* do seu lado _1{0} baker boys _1{0} 
-- 27/11/21 - 213* the voice senior it _2{0} bad buddy _1{5} do seu lado _1{2} baker boys _1{1} 
-- 28/11/21 - 1026* the voice senior it _2{0} bad buddy _1{6} do seu lado _1{4} baker boys _1{2} 
+- 26/11/21 - 248* baker boys _1{0} 
+- 27/11/21 - 213* the voice senior it _2{0} bad buddy _1{5} baker boys _1{1} 
+- 28/11/21 - 1026* the voice senior it _2{0} bad buddy _1{6} baker boys _1{2} 
 - 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} mr cinderella _1{0} paint with love _1{0} 
 - 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} mr cinderella _1{1} paint with love _1{1} 
 - 01/12/21 - 546* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} 
