@@ -13,7 +13,6 @@ removeC <- content_transformer(function (x , pattern ) gsub(pattern, "c", x))
 removeSpace <- content_transformer(function (x , pattern ) gsub(pattern, "", x))
 wc <- function(text){
   TextDoc <- Corpus(VectorSource(text))
-
   TextDoc <- tm_map(TextDoc, toSpace, myToSpaceList)
   TextDoc <- tm_map(TextDoc, content_transformer(tolower))
   TextDoc <- tm_map(TextDoc, removeWords, myRemoveList)

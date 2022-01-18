@@ -70,8 +70,6 @@ F4 thailand 1x3
 * /9-1-1 lone star 3x1
 Young sheldon 5x5
 * The masked singer uk 3x1
-Survivor 13x5
-* Survivor 13x1
 * Behind cut 1x1
 * The voice be 10x1
 5515 never too late 1x4

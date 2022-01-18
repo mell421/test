@@ -25,7 +25,7 @@ list99=(
 # 5-4
 "Aggretsuko _4" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
-"Survivor _13" "Banana fish _1" "The voice be _10"
+"Banana fish _1" "The voice be _10"
 # 0-1
 "Behind cut _1" 
 # other
@@ -49,7 +49,7 @@ listAsc=(
 # 5
 "The voice be _10" "/9-1-1 lone star _3" "The voice portugal _9" "Young sheldon _5" 
 # 6
-"Survivor _13" "5515 never too late _1" "The player _1" "You are my sunshine _1" 
+"5515 never too late _1" "The player _1" "You are my sunshine _1" 
 # 7
 "Earthmix space _1" "District z _2" "Unlocked _1" "Aggretsuko _4" 
 # 8

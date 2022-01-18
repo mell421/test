@@ -11,7 +11,7 @@ apercu/apercuglobal.md:- mois 01-02-2021 Be love _1x4(1) The shipper _1x5(2) Tie
 apercu/apercuglobal.md:- mois 01-11-2020 Swap test _1x3(2) The stranded _1x2(1) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 apercu/apercuglobal.md:- sem 19-10-2020 Ben x jim _1x2(1) Boys lockdown _1x2(1) 
 apercu/apercuglobal.md:- sem 25-01-2021 Tien bromance _1x2(1) Ben x jim _1x3(1) 
-tab2020.html:      Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) </td>
+tab2020.html:      Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) </td>
 tab2020.html:    <td class="resumesem">Ben x jim _1x2(1) Boys lockdown _1x2(1) </td>
-tab2021.html:    <td class="resumemois">Be love _1x4(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) 
+tab2021.html:    <td class="resumemois">Be love _1x4(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) 
 tab2021.html:    <td class="resumesem">Tien bromance _1x2(1) Ben x jim _1x3(1) </td>

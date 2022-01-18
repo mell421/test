@@ -9,5 +9,5 @@ apercu/apercuglobal.md:- mois 01-02-2021 Be love _1x4(1) The shipper _1x5(2) Tie
 apercu/apercuglobal.md:- sem 25-01-2021 Tien bromance _1x2(1) Ben x jim _1x3(1) 
 apercu/apercuglobal.md:* concluBis 25/01/21 > Tien bromance _1 > 2; 
 tab2021.html:    <td class="conclubis">Tien bromance _1 > 2; </td>
-tab2021.html:    <td class="resumemois">Be love _1x4(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) 
+tab2021.html:    <td class="resumemois">Be love _1x4(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) 
 tab2021.html:    <td class="resumesem">Tien bromance _1x2(1) Ben x jim _1x3(1) </td>

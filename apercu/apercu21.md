@@ -465,8 +465,8 @@
 * conclu 27/12/21 = The voice portugal _9 > 4; The player _1 > 1; 
 * conclu 28/12/21 = The voice portugal _9 > 3; 
 * conclu 29/12/21 = The voice portugal _9 > 2; 
-* conclu 30/12/21 = The voice portugal _9 > 2; Survivor _13 > 1; 
-* conclu 31/12/21 = The voice portugal _9 > 2; Survivor _13 > 1; 
+* conclu 30/12/21 = The voice portugal _9 > 2; 
+* conclu 31/12/21 = The voice portugal _9 > 2; 
 
 
 
@@ -843,8 +843,8 @@
 * concluBis 27/12/21 = The voice portugal _9 > 10; The player _1 > 3; Earthmix space _1 > 2; Bad buddy _1 > 2; Mr cinderella _1 > 2; You are my sunshine _1 > 2; Forever knight _1 > 1; 
 * concluBis 28/12/21 = The voice portugal _9 > 9; The player _1 > 2; Earthmix space _1 > 1; Mr cinderella _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; 
 * concluBis 29/12/21 = The voice portugal _9 > 8; You are my sunshine _1 > 2; Forever knight _1 > 1; 
-* concluBis 30/12/21 = The voice portugal _9 > 6; Survivor _13 > 5; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
-* concluBis 31/12/21 = The voice portugal _9 > 6; Survivor _13 > 5; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
+* concluBis 30/12/21 = The voice portugal _9 > 6; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
+* concluBis 31/12/21 = The voice portugal _9 > 6; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 
 
 

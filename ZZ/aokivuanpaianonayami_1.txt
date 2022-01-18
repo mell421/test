@@ -18,3 +18,9 @@ apercu/apercuglobal.md:* concluBis 17/10/21 = Aoki vuanpaia no nayami _1 > 3; Fo
 apercu/apercuglobal.md:* concluBis 18/10/21 = Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercuglobal.md:* concluBis 19/10/21 = Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
 apercuTer/apercuTer.md:* Aoki vuanpaia no nayami _1
+tab2021.html:    <td class="conclu">Aoki vuanpaia no nayami _1 > 1; </td>
+tab2021.html:    <td class="conclubis">Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; </td>
+tab2021.html:    <td class="conclubis">Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; </td>
+tab2021.html:    <td class="resumemois">Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) The shipper _1x6(1) </td>
+tab2021.html:    <td class="resumesem">Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) Age of the living dead _1x2(1) </td>
+tab2021.html:    <td class="resumesem">The voice portugal _9x2(1) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) </td>

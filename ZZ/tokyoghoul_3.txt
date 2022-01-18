@@ -25,5 +25,5 @@ tab2021.html:    <td class="conclubis">My vampire boyfriend _1 > 8; Tokyo ghoul 
 tab2021.html:    <td class="conclubis">The harvest season _1 > 3; Tokyo ghoul _3 > 2; </td>
 tab2021.html:    <td class="conclubis">Tokyo ghoul _3 > 3; My vampire boyfriend _1 > 1; </td>
 tab2021.html:    <td class="resumemois">Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) 
-tab2021.html:    <td class="resumesem">Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) 
+tab2021.html:    <td class="resumesem">Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) The harvest season _1x5(4) 
 tab2021.html:    <td class="resumesem">Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) </td>
