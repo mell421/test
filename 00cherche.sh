@@ -14,7 +14,7 @@ list99=(
 # 39-30
 "The voice senior it _2" "5515 never too late _1" "Camping paradis _12" 
 # 29-20
-"Paint with love _1" "Mr cinderella _1" "7project _1" "/9-1-1 _5" 
+"Paint with love _1" "7project _1" "/9-1-1 _5" 
 # 19-15
 "Not me _1" "The shipper _1" 
 # 14-10
@@ -27,7 +27,6 @@ list99=(
 # 3-2
 "Banana fish _1" "The voice be _10"
 # 0-1
-"Behind cut _1" 
 # other
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
 "Good singers _1" "Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
@@ -39,13 +38,13 @@ list99=(
 
 listAsc=( 
 # 1
-"Not me _1" "Mr cinderella _1" "The voice senior esp _3" "The masked singer uk _3" 
+"Not me _1" "The voice senior esp _3" "The masked singer uk _3" 
 # 2
 "F4 thailand _1" "Survivor sa _7" "Rpdru _14" "Rpdr _14" "The voice nl _12" 
 # 3
 "The voice senior it _2" "Ninja warrior _6" "The voice no _7" "Icsyv _2" 
 # 4
-"Bad buddy _1" "Paint with love _1" "Next level chef _1" "Behind cut _1" 
+"Bad buddy _1" "Paint with love _1" "Next level chef _1" 
 # 5
 "The voice be _10" "/9-1-1 lone star _3" "The voice portugal _9" "Young sheldon _5" 
 # 6

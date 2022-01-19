@@ -35,7 +35,6 @@ Survivor sa 7x2
 * ici
 _
 Bad buddy 1x11
-Behind cut 1x6
 The voice senior esp 3x2
 The masked singer uk 3x4
 Survivor au 6x13
@@ -56,7 +55,6 @@ The voice be 10x3
 /9-1-1 lone star 3x2
 The voice portugal 9x14
 Not me 1x4
-Mr cinderella 1x7
 * The voice senior esp 3x1
 F4 thailand 1x3
 * Survivor sa 7x1
@@ -70,7 +68,6 @@ F4 thailand 1x3
 * /9-1-1 lone star 3x1
 Young sheldon 5x5
 * The masked singer uk 3x1
-* Behind cut 1x1
 * The voice be 10x1
 5515 never too late 1x4
 The player 1x2
@@ -87,7 +84,6 @@ Camping paradis 12x5
 * District z 2x1
 Baker boys 1x3
 Kieta hatsukoi 1x7
-* Mr cinderella 1x1
 * Paint with love 1x1
 * The voice senior it _2x1
 * Baker boys 1x1

@@ -226,6 +226,8 @@
 |don't say no|don't say no|13|serie|thailande|                <!-- 34 -->
 |do seu lado|do seu lado|6|serie|bresil|<!--  -->
 |tinted with you|tinted with you|8|serie|corée|<!--  -->
+|mr cinderella|_|8|serie|vietnam|<!--  -->
+|behind cut|behind cut|8|serie|corée|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -283,13 +285,11 @@
 |bad buddy|bad buddy|12|serie|thailande|7|                      <!-- 47-->
 |baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
 |paint with love|paint with love|8|serie|thailande|4|<!--  -->
-|mr cinderella|_|8|serie|vietnam|4|<!--  -->
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
 |NOTME|NOTME|14|serie|thailande|2|<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
 |the player|the player|16|serie(*)|thailande|0|<!-- -->
 |you are my sunshine||6|serie|vietnam|2|<!--  -->
-|behind cut||8|serie|corée|6|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

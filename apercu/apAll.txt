@@ -114,13 +114,13 @@ Aperçu semaine
 - sem 08-11-2021 -> The voice portugal _9x5(2) Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) 
 - sem 15-11-2021 -> The voice portugal _9x6(1) Bad buddy _1x4(1) 
 - sem 22-11-2021 -> The voice portugal _9x7(1) Bad buddy _1x5(1) Les engages _3x2(1) The case study of vanitas _1x3(2) Kieta hatsukoi _1x(1) 
-- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Baker boys _1x3(2) 
-sem 06-12-2021 -> The voice portugal _9x9(1) Mr cinderella _1x3(1) Paint with love _1x3(1) District z _2x2(1) The voice senior it _2x3(1) Bad buddy _1x7(1) Baker boys _1x4(1) 
-sem 13-12-2021 -> The voice portugal _9x10(1) 5515 never too late _1x4(3) Not me _1x2(1) Earthmix space _1x8(1) Mr cinderella _1x4(1) Paint with love _1x4(1) The voice senior it _2x4(1) Bad buddy _1x8(1) Camping paradis _12x6(1) 
-sem 20-12-2021 -> The voice portugal _9x11(1) Not me _1x3(1) Mr cinderella _1x5(1) District z _2x3(1) F4 thailand _1x2(1) The voice senior it _2x5(1) Unlocked _1x4(1) Paint with love _1x5(1) Earthmix space _1x9(1) Bad buddy _1x9(1) Aggretsuko _4x2(1) 
-sem 27-12-2021 -> The voice portugal _9x12(1) Not me _1x4(1) The player _1x3(2) You are my sunshine _1x3(2) Mr cinderella _1x6(1) F4 thailand _1x3(1) Earthmix space _1x10(1) Bad buddy _1x10(1) Paint with love _1x6(1) The voice senior it _2x6(1) 
-sem 03-01-2022 -> The voice portugal _9x14(1) The masked singer uk _3x3(2) Young sheldon _5x6(2) Behind cut _1x3(2) Mr cinderella _1x7(1) Paint with love _1x7(1) The voice be _10x2(1) 5515 never too late _1x5(1) 
-sem 10-01-2022 -> Behind cut _1x5(2) The voice portugal _9x15(1) Not me _1x5(1) Mr cinderella _1x8(1) The voice senior esp _3x2(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice senior it _2x7(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Bad buddy _1x11(1) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
+- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Baker boys _1x3(2) 
+sem 06-12-2021 -> The voice portugal _9x9(1) Paint with love _1x3(1) District z _2x2(1) The voice senior it _2x3(1) Bad buddy _1x7(1) Baker boys _1x4(1) 
+sem 13-12-2021 -> The voice portugal _9x10(1) 5515 never too late _1x4(3) Not me _1x2(1) Earthmix space _1x8(1) Paint with love _1x4(1) The voice senior it _2x4(1) Bad buddy _1x8(1) Camping paradis _12x6(1) 
+sem 20-12-2021 -> The voice portugal _9x11(1) Not me _1x3(1) District z _2x3(1) F4 thailand _1x2(1) The voice senior it _2x5(1) Unlocked _1x4(1) Paint with love _1x5(1) Earthmix space _1x9(1) Bad buddy _1x9(1) Aggretsuko _4x2(1) 
+sem 27-12-2021 -> The voice portugal _9x12(1) Not me _1x4(1) The player _1x3(2) You are my sunshine _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1) Bad buddy _1x10(1) Paint with love _1x6(1) The voice senior it _2x6(1) 
+sem 03-01-2022 -> The voice portugal _9x14(1) The masked singer uk _3x3(2) Young sheldon _5x6(2) Paint with love _1x7(1) The voice be _10x2(1) 5515 never too late _1x5(1) 
+sem 10-01-2022 -> The voice portugal _9x15(1) Not me _1x5(1) The voice senior esp _3x2(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice senior it _2x7(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Bad buddy _1x11(1) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
 
 </doc>
 
@@ -157,7 +157,7 @@ Aperçu mois
 - mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) The shipper _1x6(1) 
-mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
+mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
 </doc>
 
@@ -286,19 +286,19 @@ conclu 31/12/21 = The voice portugal _9 > 2;
 conclu 01/01/22 = The voice portugal _9 > 4; Paint with love _1 > 3; Earthmix space _1 > 1; 
 conclu 02/01/22 = The voice portugal _9 > 4; Paint with love _1 > 2; Earthmix space _1 > 1; 
 conclu 03/01/22 = The voice portugal _9 > 4; The masked singer uk _3 > 1; 
-conclu 04/01/22 = The voice portugal _9 > 8; Mr cinderella _1 > 1; 
-conclu 05/01/22 = The voice portugal _9 > 7; Mr cinderella _1 > 1; 
-conclu 06/01/22 = The voice portugal _9 > 8; Behind cut _1 > 3; 
-conclu 07/01/22 = The voice portugal _9 > 8; Next level chef _1 > 3; Behind cut _1 > 2; 
+conclu 04/01/22 = The voice portugal _9 > 8; 
+conclu 05/01/22 = The voice portugal _9 > 7; 
+conclu 06/01/22 = The voice portugal _9 > 8; 
+conclu 07/01/22 = The voice portugal _9 > 8; Next level chef _1 > 3; 
 conclu 08/01/22 = The voice portugal _9 > 6; The voice no _7 > 3; Bad buddy _1 > 2; Paint with love _1 > 2; Icsyv _2 > 2; Next level chef _1 > 1; 
 conclu 09/01/22 = The voice portugal _9 > 6; Bad buddy _1 > 2; Paint with love _1 > 2; The masked singer uk _3 > 2; The voice no _7 > 1; 
-conclu 10/01/22 = The voice portugal _9 > 4; Behind cut _1 > 1; 
+conclu 10/01/22 = The voice portugal _9 > 4; 
 conclu 11/01/22 = The voice portugal _9 > 4; Survivor au _6 > 2; 
-conclu 12/01/22 = The voice portugal _9 > 4; Behind cut _1 > 2; Bad buddy _1 > 1; Survivor au _6 > 1; 
-conclu 13/01/22 = The voice portugal _9 > 5; Bad buddy _1 > 3; Icsyv _2 > 2; Mr cinderella _1 > 1; Behind cut _1 > 1; Survivor au _6 > 1; 
-conclu 14/01/22 = The voice portugal _9 > 7; Bad buddy _1 > 4; Behind cut _1 > 3; Survivor au _6 > 3; Icsyv _2 > 2; Mr cinderella _1 > 1; Forever knight _1 > 1; 
-conclu 15/01/22 = Survivor au _6 > 7; The voice portugal _9 > 6; Earthmix space _1 > 4; The voice no _7 > 2; Paint with love _1 > 1; Behind cut _1 > 1; Bad buddy _1 > 1; 
-conclu 16/01/22 = Survivor au _6 > 10; The voice portugal _9 > 6; Earthmix space _1 > 2; The voice no _7 > 2; Paint with love _1 > 1; Behind cut _1 > 1; 
+conclu 12/01/22 = The voice portugal _9 > 4; Bad buddy _1 > 1; Survivor au _6 > 1; 
+conclu 13/01/22 = The voice portugal _9 > 5; Bad buddy _1 > 3; Icsyv _2 > 2; Survivor au _6 > 1; 
+conclu 14/01/22 = The voice portugal _9 > 7; Bad buddy _1 > 4; Survivor au _6 > 3; Icsyv _2 > 2; Forever knight _1 > 1; 
+conclu 15/01/22 = Survivor au _6 > 7; The voice portugal _9 > 6; Earthmix space _1 > 4; The voice no _7 > 2; Paint with love _1 > 1; Bad buddy _1 > 1; 
+conclu 16/01/22 = Survivor au _6 > 10; The voice portugal _9 > 6; Earthmix space _1 > 2; The voice no _7 > 2; Paint with love _1 > 1; 
 
 </doc>
 
@@ -512,27 +512,27 @@ concluBis 23/12/21 = The voice portugal _9 > 7; You are my sunshine _1 > 3; Eart
 concluBis 24/12/21 = The voice senior it _2 > 6; The voice portugal _9 > 5; Earthmix space _1 > 2; Bad buddy _1 > 1; Forever knight _1 > 1; 
 concluBis 25/12/21 = The voice portugal _9 > 5; Bad buddy _1 > 4; Earthmix space _1 > 3; Paint with love _1 > 2; The voice senior it _2 > 1; Forever knight _1 > 1; 
 concluBis 26/12/21 = The voice portugal _9 > 5; Bad buddy _1 > 4; Earthmix space _1 > 2; Paint with love _1 > 2; The voice senior it _2 > 1; F4 thailand _1 > 1; Forever knight _1 > 1; 
-concluBis 27/12/21 = The voice portugal _9 > 10; The player _1 > 3; Earthmix space _1 > 2; Bad buddy _1 > 2; Mr cinderella _1 > 2; You are my sunshine _1 > 2; Forever knight _1 > 1; 
-concluBis 28/12/21 = The voice portugal _9 > 9; The player _1 > 2; Earthmix space _1 > 1; Mr cinderella _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; 
+concluBis 27/12/21 = The voice portugal _9 > 10; The player _1 > 3; Earthmix space _1 > 2; Bad buddy _1 > 2; You are my sunshine _1 > 2; Forever knight _1 > 1; 
+concluBis 28/12/21 = The voice portugal _9 > 9; The player _1 > 2; Earthmix space _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; 
 concluBis 29/12/21 = The voice portugal _9 > 8; You are my sunshine _1 > 2; Forever knight _1 > 1; 
 concluBis 30/12/21 = The voice portugal _9 > 6; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 concluBis 31/12/21 = The voice portugal _9 > 6; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 concluBis 01/01/22 = The voice portugal _9 > 9; Paint with love _1 > 7; Earthmix space _1 > 3; Bad buddy _1 > 2; 5515 never too late _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 concluBis 02/01/22 = The voice portugal _9 > 8; Paint with love _1 > 5; Earthmix space _1 > 3; Bad buddy _1 > 2; The masked singer uk _3 > 2; Forever knight _1 > 2; 5515 never too late _1 > 1; Imortal _1 > 1; 
-concluBis 03/01/22 = The voice portugal _9 > 10; The masked singer uk _3 > 3; Mr cinderella _1 > 2; Young sheldon _5 > 2; Earthmix space _1 > 1; Behind cut _1 > 1; Forever knight _1 > 1; 
-concluBis 04/01/22 = The voice portugal _9 > 16; Mr cinderella _1 > 3; The masked singer uk _3 > 2; Earthmix space _1 > 1; Paint with love _1 > 1; Young sheldon _5 > 1; Forever knight _1 > 1; 
-concluBis 05/01/22 = The voice portugal _9 > 15; Mr cinderella _1 > 3; Earthmix space _1 > 1; Paint with love _1 > 1; The masked singer uk _3 > 1; Forever knight _1 > 1; 
-concluBis 06/01/22 = The voice portugal _9 > 16; Behind cut _1 > 5; The masked singer uk _3 > 2; Earthmix space _1 > 1; Mr cinderella _1 > 1; Young sheldon _5 > 1; Forever knight _1 > 1; 
-concluBis 07/01/22 = The voice portugal _9 > 16; Next level chef _1 > 5; Behind cut _1 > 4; Earthmix space _1 > 2; Bad buddy _1 > 1; Mr cinderella _1 > 1; The masked singer uk _3 > 1; Forever knight _1 > 1; 
-concluBis 08/01/22 = The voice portugal _9 > 12; Bad buddy _1 > 6; The voice no _7 > 5; Paint with love _1 > 4; Icsyv _2 > 4; Next level chef _1 > 3; Behind cut _1 > 2; The voice senior it _2 > 1; 
+concluBis 03/01/22 = The voice portugal _9 > 10; The masked singer uk _3 > 3; Young sheldon _5 > 2; Earthmix space _1 > 1; Forever knight _1 > 1; 
+concluBis 04/01/22 = The voice portugal _9 > 16; The masked singer uk _3 > 2; Earthmix space _1 > 1; Paint with love _1 > 1; Young sheldon _5 > 1; Forever knight _1 > 1; 
+concluBis 05/01/22 = The voice portugal _9 > 15; Earthmix space _1 > 1; Paint with love _1 > 1; The masked singer uk _3 > 1; Forever knight _1 > 1; 
+concluBis 06/01/22 = The voice portugal _9 > 16; The masked singer uk _3 > 2; Earthmix space _1 > 1; Young sheldon _5 > 1; Forever knight _1 > 1; 
+concluBis 07/01/22 = The voice portugal _9 > 16; Next level chef _1 > 5; Earthmix space _1 > 2; Bad buddy _1 > 1; The masked singer uk _3 > 1; Forever knight _1 > 1; 
+concluBis 08/01/22 = The voice portugal _9 > 12; Bad buddy _1 > 6; The voice no _7 > 5; Paint with love _1 > 4; Icsyv _2 > 4; Next level chef _1 > 3; The voice senior it _2 > 1; 
 concluBis 09/01/22 = The voice portugal _9 > 12; Bad buddy _1 > 7; Paint with love _1 > 4; The masked singer uk _3 > 4; The voice no _7 > 3; The voice senior it _2 > 2; Icsyv _2 > 2; Next level chef _1 > 1; 
-concluBis 10/01/22 = The voice portugal _9 > 10; Bad buddy _1 > 3; Mr cinderella _1 > 3; Behind cut _1 > 3; The voice no _7 > 2; Paint with love _1 > 1; Icsyv _2 > 1; 
-concluBis 11/01/22 = The voice portugal _9 > 10; Survivor au _6 > 4; Bad buddy _1 > 3; Mr cinderella _1 > 3; Behind cut _1 > 2; Paint with love _1 > 1; The voice no _7 > 1; 
-concluBis 12/01/22 = The voice portugal _9 > 10; Behind cut _1 > 6; Bad buddy _1 > 5; Mr cinderella _1 > 3; Survivor au _6 > 3; The voice no _7 > 1; Forever knight _1 > 1; 
-concluBis 13/01/22 = The voice portugal _9 > 11; Bad buddy _1 > 7; Behind cut _1 > 5; Mr cinderella _1 > 4; Icsyv _2 > 4; Survivor au _6 > 3; Forever knight _1 > 2; Paint with love _1 > 1; Imortal _1 > 1; 
-concluBis 14/01/22 = The voice portugal _9 > 13; Bad buddy _1 > 8; Behind cut _1 > 7; Survivor au _6 > 6; Mr cinderella _1 > 4; Icsyv _2 > 4; Forever knight _1 > 3; Paint with love _1 > 2; Imortal _1 > 2; The masked dancer ger _1 > 1; Earthmix space _1 > 1; 
-concluBis 15/01/22 = Survivor au _6 > 13; The voice portugal _9 > 11; Earthmix space _1 > 8; Paint with love _1 > 5; Behind cut _1 > 5; The voice no _7 > 4; Bad buddy _1 > 3; Forever knight _1 > 2; The voice senior it _2 > 1; Rpdru _14 > 1; Imortal _1 > 1; 
-concluBis 16/01/22 = Survivor au _6 > 18; The voice portugal _9 > 11; Earthmix space _1 > 6; Paint with love _1 > 5; Behind cut _1 > 5; The voice no _7 > 4; Bad buddy _1 > 2; The voice senior it _2 > 1; The voice senior esp _3 > 1; Forever knight _1 > 1; 
+concluBis 10/01/22 = The voice portugal _9 > 10; Bad buddy _1 > 3; The voice no _7 > 2; Paint with love _1 > 1; Icsyv _2 > 1; 
+concluBis 11/01/22 = The voice portugal _9 > 10; Survivor au _6 > 4; Bad buddy _1 > 3; Paint with love _1 > 1; The voice no _7 > 1; 
+concluBis 12/01/22 = The voice portugal _9 > 10; Bad buddy _1 > 5; Survivor au _6 > 3; The voice no _7 > 1; Forever knight _1 > 1; 
+concluBis 13/01/22 = The voice portugal _9 > 11; Bad buddy _1 > 7; Icsyv _2 > 4; Survivor au _6 > 3; Forever knight _1 > 2; Paint with love _1 > 1; Imortal _1 > 1; 
+concluBis 14/01/22 = The voice portugal _9 > 13; Bad buddy _1 > 8; Survivor au _6 > 6; Icsyv _2 > 4; Forever knight _1 > 3; Paint with love _1 > 2; Imortal _1 > 2; The masked dancer ger _1 > 1; Earthmix space _1 > 1; 
+concluBis 15/01/22 = Survivor au _6 > 13; The voice portugal _9 > 11; Earthmix space _1 > 8; Paint with love _1 > 5; The voice no _7 > 4; Bad buddy _1 > 3; Forever knight _1 > 2; The voice senior it _2 > 1; Rpdru _14 > 1; Imortal _1 > 1; 
+concluBis 16/01/22 = Survivor au _6 > 18; The voice portugal _9 > 11; Earthmix space _1 > 6; Paint with love _1 > 5; The voice no _7 > 4; Bad buddy _1 > 2; The voice senior it _2 > 1; The voice senior esp _3 > 1; Forever knight _1 > 1; 
 
 </doc>
 
@@ -881,16 +881,16 @@ concluBis 16/01/22 = Survivor au _6 > 18; The voice portugal _9 > 11; Earthmix s
 04/01/22 (eff) - the voice portugal _9{47} earthmix space _1{33} bad buddy _1{26} kieta hatsukoi _1{21} 5515 never too late _1{18} paint with love _1{17} survivor au _6{16} the voice senior it _2{15} 
 05/01/22 (eff) - the voice portugal _9{49} earthmix space _1{34} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{18} 5515 never too late _1{18} survivor au _6{16} the voice senior it _2{15} 
 06/01/22 (eff) - the voice portugal _9{51} earthmix space _1{35} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} survivor au _6{16} 
-07/01/22 (eff) - the voice portugal _9{53} earthmix space _1{36} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} mr cinderella _1{16} survivor au _6{16} 
-08/01/22 (eff) - the voice portugal _9{55} earthmix space _1{37} bad buddy _1{27} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} mr cinderella _1{17} the voice senior it _2{15} 
-09/01/22 (eff) - the voice portugal _9{57} earthmix space _1{37} bad buddy _1{29} paint with love _1{21} kieta hatsukoi _1{21} 5515 never too late _1{18} mr cinderella _1{17} the voice senior it _2{16} 
-10/01/22 (eff) - the voice portugal _9{59} earthmix space _1{37} bad buddy _1{31} paint with love _1{23} kieta hatsukoi _1{21} 5515 never too late _1{18} mr cinderella _1{17} the voice senior it _2{17} tbbt _11{13} 
-11/01/22 (eff) - the voice portugal _9{62} earthmix space _1{37} bad buddy _1{33} paint with love _1{25} kieta hatsukoi _1{21} mr cinderella _1{19} the voice senior it _2{18} 5515 never too late _1{18} survivor au _6{16} 
-12/01/22 (eff) - the voice portugal _9{64} earthmix space _1{37} bad buddy _1{34} paint with love _1{26} kieta hatsukoi _1{21} mr cinderella _1{20} survivor au _6{18} the voice senior it _2{18} 5515 never too late _1{18} 
-13/01/22 (eff) - the voice portugal _9{66} earthmix space _1{37} bad buddy _1{36} paint with love _1{26} mr cinderella _1{21} kieta hatsukoi _1{21} survivor au _6{20} the voice senior it _2{18} 5515 never too late _1{18} behind cut _1{14} 
-14/01/22 (eff) - the voice portugal _9{68} bad buddy _1{38} earthmix space _1{37} paint with love _1{27} mr cinderella _1{23} survivor au _6{22} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} behind cut _1{16} tbbt _11{13} the masked singer uk _3{11} 
-15/01/22 (eff) - the voice portugal _9{70} bad buddy _1{40} earthmix space _1{38} paint with love _1{28} mr cinderella _1{25} survivor au _6{24} kieta hatsukoi _1{21} the voice senior it _2{18} behind cut _1{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
-16/01/22 (eff) - the voice portugal _9{72} bad buddy _1{42} earthmix space _1{40} paint with love _1{30} survivor au _6{26} mr cinderella _1{25} kieta hatsukoi _1{21} behind cut _1{20} the voice senior it _2{19} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} young sheldon _5{11} 
+07/01/22 (eff) - the voice portugal _9{53} earthmix space _1{36} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} survivor au _6{16} 
+08/01/22 (eff) - the voice portugal _9{55} earthmix space _1{37} bad buddy _1{27} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} the voice senior it _2{15} 
+09/01/22 (eff) - the voice portugal _9{57} earthmix space _1{37} bad buddy _1{29} paint with love _1{21} kieta hatsukoi _1{21} 5515 never too late _1{18} the voice senior it _2{16} 
+10/01/22 (eff) - the voice portugal _9{59} earthmix space _1{37} bad buddy _1{31} paint with love _1{23} kieta hatsukoi _1{21} 5515 never too late _1{18} the voice senior it _2{17} tbbt _11{13} 
+11/01/22 (eff) - the voice portugal _9{62} earthmix space _1{37} bad buddy _1{33} paint with love _1{25} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} survivor au _6{16} 
+12/01/22 (eff) - the voice portugal _9{64} earthmix space _1{37} bad buddy _1{34} paint with love _1{26} kieta hatsukoi _1{21} survivor au _6{18} the voice senior it _2{18} 5515 never too late _1{18} 
+13/01/22 (eff) - the voice portugal _9{66} earthmix space _1{37} bad buddy _1{36} paint with love _1{26} kieta hatsukoi _1{21} survivor au _6{20} the voice senior it _2{18} 5515 never too late _1{18} 
+14/01/22 (eff) - the voice portugal _9{68} bad buddy _1{38} earthmix space _1{37} paint with love _1{27} survivor au _6{22} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
+15/01/22 (eff) - the voice portugal _9{70} bad buddy _1{40} earthmix space _1{38} paint with love _1{28} survivor au _6{24} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
+16/01/22 (eff) - the voice portugal _9{72} bad buddy _1{42} earthmix space _1{40} paint with love _1{30} survivor au _6{26} kieta hatsukoi _1{21} the voice senior it _2{19} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} young sheldon _5{11} 
 
 
 
@@ -1171,53 +1171,53 @@ concluBis 16/01/22 = Survivor au _6 > 18; The voice portugal _9 > 11; Earthmix s
 26/11/21 - baker boys _1{0} 
 27/11/21 - the voice senior it _2{0} bad buddy _1{5} baker boys _1{1} 
 28/11/21 - the voice senior it _2{0} bad buddy _1{6} baker boys _1{2} 
-29/11/21 - the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} mr cinderella _1{0} paint with love _1{0} 
-30/11/21 - the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} mr cinderella _1{1} paint with love _1{1} 
+29/11/21 - the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} paint with love _1{0} 
+30/11/21 - the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} paint with love _1{1} 
 01/12/21 - the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} 
 02/12/21 - the voice portugal _9{10} 
 03/12/21 - baker boys _1{4} 
 04/12/21 - bad buddy _1{8} baker boys _1{4} 
 05/12/21 - district z _2{0} the voice senior it _2{2} bad buddy _1{8} 
-06/12/21 - the voice portugal _9{10} mr cinderella _1{2} paint with love _1{2} district z _2{0} the voice senior it _2{2} 
-07/12/21 - 5515 never too late _1{0} camping paradis _12{8} the voice portugal _9{11} mr cinderella _1{3} paint with love _1{3} 
+06/12/21 - the voice portugal _9{10} paint with love _1{2} district z _2{0} the voice senior it _2{2} 
+07/12/21 - 5515 never too late _1{0} camping paradis _12{8} the voice portugal _9{11} paint with love _1{3} 
 08/12/21 - 5515 never too late _1{0} camping paradis _12{8} the voice portugal _9{11} 
 09/12/21 - 5515 never too late _1{0} camping paradis _12{8} the voice portugal _9{11} 
 10/12/21 - 5515 never too late _1{2} camping paradis _12{8} 
 11/12/21 - the voice senior it _2{3} bad buddy _1{9} 5515 never too late _1{3} 
 12/12/21 - paint with love _1{3} the voice senior it _2{5} bad buddy _1{9} 
-13/12/21 - the voice portugal _9{11} 5515 never too late _1{6} not me _1{0} earthmix space _1{9} mr cinderella _1{3} paint with love _1{4} 
-14/12/21 - the voice portugal _9{12} 5515 never too late _1{9} not me _1{1} earthmix space _1{10} mr cinderella _1{4} paint with love _1{5} 
-15/12/21 - the voice portugal _9{12} 5515 never too late _1{11} not me _1{1} earthmix space _1{10} mr cinderella _1{4} 
-16/12/21 - the voice portugal _9{12} 5515 never too late _1{12} not me _1{1} earthmix space _1{10} mr cinderella _1{4} 
+13/12/21 - the voice portugal _9{11} 5515 never too late _1{6} not me _1{0} earthmix space _1{9} paint with love _1{4} 
+14/12/21 - the voice portugal _9{12} 5515 never too late _1{9} not me _1{1} earthmix space _1{10} paint with love _1{5} 
+15/12/21 - the voice portugal _9{12} 5515 never too late _1{11} not me _1{1} earthmix space _1{10} 
+16/12/21 - the voice portugal _9{12} 5515 never too late _1{12} not me _1{1} earthmix space _1{10} 
 17/12/21 - aggretsuko _4{0} the voice portugal _9{12} 5515 never too late _1{12} not me _1{1} 
 18/12/21 - the voice senior it _2{6} unlocked _1{4} paint with love _1{5} earthmix space _1{10} bad buddy _1{10} aggretsuko _4{1} 
 19/12/21 - district z _2{1} f4 thailand _1{0} the voice senior it _2{7} unlocked _1{4} paint with love _1{7} earthmix space _1{12} bad buddy _1{11} aggretsuko _4{1} 
-20/12/21 - the voice portugal _9{13} not me _1{1} mr cinderella _1{4} district z _2{3} f4 thailand _1{1} the voice senior it _2{8} unlocked _1{4} paint with love _1{7} earthmix space _1{14} 
-21/12/21 - the voice portugal _9{16} not me _1{3} mr cinderella _1{5} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} unlocked _1{5} paint with love _1{8} 
-22/12/21 - the player _1{0} the voice portugal _9{18} not me _1{3} mr cinderella _1{5} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} unlocked _1{5} 
-23/12/21 - you are my sunshine _1{0} the player _1{2} the voice portugal _9{20} not me _1{3} mr cinderella _1{5} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} 
+20/12/21 - the voice portugal _9{13} not me _1{1} district z _2{3} f4 thailand _1{1} the voice senior it _2{8} unlocked _1{4} paint with love _1{7} earthmix space _1{14} 
+21/12/21 - the voice portugal _9{16} not me _1{3} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} unlocked _1{5} paint with love _1{8} 
+22/12/21 - the player _1{0} the voice portugal _9{18} not me _1{3} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} unlocked _1{5} 
+23/12/21 - you are my sunshine _1{0} the player _1{2} the voice portugal _9{20} not me _1{3} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} 
 24/12/21 - the voice senior it _2{9} you are my sunshine _1{2} the player _1{3} the voice portugal _9{22} 
 25/12/21 - earthmix space _1{20} bad buddy _1{17} paint with love _1{8} the voice senior it _2{11} you are my sunshine _1{2} 
 26/12/21 - f4 thailand _1{2} earthmix space _1{21} bad buddy _1{19} paint with love _1{9} the voice senior it _2{12} 
-27/12/21 - the voice portugal _9{28} not me _1{3} the player _1{3} you are my sunshine _1{2} mr cinderella _1{5} f4 thailand _1{3} earthmix space _1{22} bad buddy _1{21} 
-28/12/21 - 5515 never too late _1{12} the voice portugal _9{31} not me _1{4} the player _1{6} you are my sunshine _1{4} mr cinderella _1{7} f4 thailand _1{4} earthmix space _1{24} 
+27/12/21 - the voice portugal _9{28} not me _1{3} the player _1{3} you are my sunshine _1{2} f4 thailand _1{3} earthmix space _1{22} bad buddy _1{21} 
+28/12/21 - 5515 never too late _1{12} the voice portugal _9{31} not me _1{4} the player _1{6} you are my sunshine _1{4} f4 thailand _1{4} earthmix space _1{24} 
 29/12/21 - the voice be _10{0} 5515 never too late _1{12} the voice portugal _9{33} not me _1{4} the player _1{7} you are my sunshine _1{5} 
-30/12/21 - behind cut _1{0} the voice be _10{0} 5515 never too late _1{12} the voice portugal _9{35} not me _1{4} the player _1{7} 
-31/12/21 - behind cut _1{0} the voice be _10{0} 5515 never too late _1{13} the voice portugal _9{37} 
-01/01/22 - paint with love _1{11} behind cut _1{0} the voice be _10{0} 5515 never too late _1{14} the voice portugal _9{39} not me _1{4} 
-02/01/22 - the masked singer uk _3{0} paint with love _1{14} behind cut _1{1} the voice be _10{1} 5515 never too late _1{16} the voice portugal _9{42} 
-03/01/22 - the voice portugal _9{44} the masked singer uk _3{1} young sheldon _5{7} behind cut _1{1} mr cinderella _1{9} paint with love _1{16} 
-04/01/22 - /9-1-1 lone star _3{0} the voice portugal _9{47} the masked singer uk _3{4} young sheldon _5{9} behind cut _1{3} mr cinderella _1{11} paint with love _1{17} 
-05/01/22 -  the voice be _10{2} /9-1-1 lone star _3{0} the voice portugal _9{49} the masked singer uk _3{5} young sheldon _5{10} behind cut _1{3} mr cinderella _1{13} 
-06/01/22 - next level chef _1{0} behind cut _1{3} the voice be _10{2} /9-1-1 lone star _3{0} the voice portugal _9{51} the masked singer uk _3{6} young sheldon _5{10} mr cinderella _1{15} 
-07/01/22 - the voice no _7{0} icsyv _2{0} next level chef _1{0} behind cut _1{5} the voice be _10{2} /9-1-1 lone star _3{0} the voice portugal _9{53} the masked singer uk _3{7} young sheldon _5{11} 
-08/01/22 - rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice senior it _2{15} ninja warrior _6{0} the voice no _7{0} icsyv _2{0} bad buddy _1{27} paint with love _1{19} next level chef _1{2} behind cut _1{7} 
+30/12/21 - the voice be _10{0} 5515 never too late _1{12} the voice portugal _9{35} not me _1{4} the player _1{7} 
+31/12/21 - the voice be _10{0} 5515 never too late _1{13} the voice portugal _9{37} 
+01/01/22 - paint with love _1{11} the voice be _10{0} 5515 never too late _1{14} the voice portugal _9{39} not me _1{4} 
+02/01/22 - the masked singer uk _3{0} paint with love _1{14} the voice be _10{1} 5515 never too late _1{16} the voice portugal _9{42} 
+03/01/22 - the voice portugal _9{44} the masked singer uk _3{1} young sheldon _5{7} paint with love _1{16} 
+04/01/22 - /9-1-1 lone star _3{0} the voice portugal _9{47} the masked singer uk _3{4} young sheldon _5{9} paint with love _1{17} 
+05/01/22 -  the voice be _10{2} /9-1-1 lone star _3{0} the voice portugal _9{49} the masked singer uk _3{5} young sheldon _5{10} 
+06/01/22 - next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} the voice portugal _9{51} the masked singer uk _3{6} young sheldon _5{10} 
+07/01/22 - the voice no _7{0} icsyv _2{0} next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} the voice portugal _9{53} the masked singer uk _3{7} young sheldon _5{11} 
+08/01/22 - rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice senior it _2{15} ninja warrior _6{0} the voice no _7{0} icsyv _2{0} bad buddy _1{27} paint with love _1{19} next level chef _1{2} 
 09/01/22 - the voice senior esp _3{0} the masked singer uk _3{8} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice senior it _2{16} ninja warrior _6{0} the voice no _7{2} 
-10/01/22 - behind cut _1{8} the voice portugal _9{59} not me _1{5} mr cinderella _1{17} the voice senior esp _3{0} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
-11/01/22 - survivor au _6{16} /9-1-1 lone star _3{1} behind cut _1{11} the voice portugal _9{62} not me _1{6} mr cinderella _1{19} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
-12/01/22 - the voice be _10{3} behind cut _1{12} survivor au _6{18} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} mr cinderella _1{20} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
-13/01/22 - icsyv _2{5} the voice be _10{3} behind cut _1{14} survivor au _6{20} /9-1-1 lone star _3{1} the voice portugal _9{66} not me _1{6} mr cinderella _1{21} the voice senior esp _3{1} the masked singer uk _3{11} 
-14/01/22 - the masked dancer ger _1{0} next level chef _1{6} icsyv _2{7} the voice be _10{3} behind cut _1{16} survivor au _6{22} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} mr cinderella _1{23} the voice senior esp _3{1} 
+10/01/22 - the voice portugal _9{59} not me _1{5} the voice senior esp _3{0} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
+11/01/22 - survivor au _6{16} /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
+12/01/22 - the voice be _10{3} survivor au _6{18} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
+13/01/22 - icsyv _2{5} the voice be _10{3} survivor au _6{20} /9-1-1 lone star _3{1} the voice portugal _9{66} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} 
+14/01/22 - the masked dancer ger _1{0} next level chef _1{6} icsyv _2{7} the voice be _10{3} survivor au _6{22} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} the voice senior esp _3{1} 
 15/01/22 - rpdru _14{1} rpdr _14{1} the voice nl _12{1} the voice senior it _2{18} ninja warrior _6{1} the masked singer vv _2{0} the voice no _7{8} survivor au _6{24} earthmix space _1{38} skam france _9{0} paint with love _1{28} the masked dancer ger _1{1} 
 16/01/22 - the voice senior esp _3{1} the masked singer uk _3{11} survivor au _6{26} rpdru _14{2} rpdr _14{1} the voice nl _12{1} the voice senior it _2{19} ninja warrior _6{1} the masked singer vv _2{0} the voice no _7{10} earthmix space _1{40} skam france _9{0} 
 

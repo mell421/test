@@ -65,11 +65,11 @@
 - sem 08-11-2021 -> The voice portugal _9x5(2) Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) 
 - sem 15-11-2021 -> The voice portugal _9x6(1) Bad buddy _1x4(1) 
 - sem 22-11-2021 -> The voice portugal _9x7(1) Bad buddy _1x5(1) Les engages _3x2(1) The case study of vanitas _1x3(2) Kieta hatsukoi _1x(1) 
-- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Baker boys _1x3(2) 
-- sem 06-12-2021 -> The voice portugal _9x9(1) Mr cinderella _1x3(1) Paint with love _1x3(1) District z _2x2(1) The voice senior it _2x3(1) Bad buddy _1x7(1) Baker boys _1x4(1) 
-- sem 13-12-2021 -> The voice portugal _9x10(1) 5515 never too late _1x4(3) Not me _1x2(1) Earthmix space _1x8(1) Mr cinderella _1x4(1) Paint with love _1x4(1) The voice senior it _2x4(1) Bad buddy _1x8(1) Camping paradis _12x6(1) 
-- sem 20-12-2021 -> The voice portugal _9x11(1) Not me _1x3(1) Mr cinderella _1x5(1) District z _2x3(1) F4 thailand _1x2(1) The voice senior it _2x5(1) Unlocked _1x4(1) Paint with love _1x5(1) Earthmix space _1x9(1) Bad buddy _1x9(1) Aggretsuko _4x2(1) 
-- sem 27-12-2021 -> The voice portugal _9x12(1) Not me _1x4(1) The player _1x3(2) You are my sunshine _1x3(2) Mr cinderella _1x6(1) F4 thailand _1x3(1) Earthmix space _1x10(1) Bad buddy _1x10(1) Paint with love _1x6(1) The voice senior it _2x6(1) 
+- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(1) Baker boys _1x3(2) 
+- sem 06-12-2021 -> The voice portugal _9x9(1) Paint with love _1x3(1) District z _2x2(1) The voice senior it _2x3(1) Bad buddy _1x7(1) Baker boys _1x4(1) 
+- sem 13-12-2021 -> The voice portugal _9x10(1) 5515 never too late _1x4(3) Not me _1x2(1) Earthmix space _1x8(1) Paint with love _1x4(1) The voice senior it _2x4(1) Bad buddy _1x8(1) Camping paradis _12x6(1) 
+- sem 20-12-2021 -> The voice portugal _9x11(1) Not me _1x3(1) District z _2x3(1) F4 thailand _1x2(1) The voice senior it _2x5(1) Unlocked _1x4(1) Paint with love _1x5(1) Earthmix space _1x9(1) Bad buddy _1x9(1) Aggretsuko _4x2(1) 
+- sem 27-12-2021 -> The voice portugal _9x12(1) Not me _1x4(1) The player _1x3(2) You are my sunshine _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1) Bad buddy _1x10(1) Paint with love _1x6(1) The voice senior it _2x6(1) 
 
 
 
@@ -89,7 +89,7 @@
 - mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 - mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Bad buddy _1x2(1) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) Survivor au _6x4(3) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Mr cinderella _1x2(1) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
+- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
 
 
@@ -840,8 +840,8 @@
 * concluBis 24/12/21 = The voice senior it _2 > 6; The voice portugal _9 > 5; Earthmix space _1 > 2; Bad buddy _1 > 1; Forever knight _1 > 1; 
 * concluBis 25/12/21 = The voice portugal _9 > 5; Bad buddy _1 > 4; Earthmix space _1 > 3; Paint with love _1 > 2; The voice senior it _2 > 1; Forever knight _1 > 1; 
 * concluBis 26/12/21 = The voice portugal _9 > 5; Bad buddy _1 > 4; Earthmix space _1 > 2; Paint with love _1 > 2; The voice senior it _2 > 1; F4 thailand _1 > 1; Forever knight _1 > 1; 
-* concluBis 27/12/21 = The voice portugal _9 > 10; The player _1 > 3; Earthmix space _1 > 2; Bad buddy _1 > 2; Mr cinderella _1 > 2; You are my sunshine _1 > 2; Forever knight _1 > 1; 
-* concluBis 28/12/21 = The voice portugal _9 > 9; The player _1 > 2; Earthmix space _1 > 1; Mr cinderella _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; 
+* concluBis 27/12/21 = The voice portugal _9 > 10; The player _1 > 3; Earthmix space _1 > 2; Bad buddy _1 > 2; You are my sunshine _1 > 2; Forever knight _1 > 1; 
+* concluBis 28/12/21 = The voice portugal _9 > 9; The player _1 > 2; Earthmix space _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; 
 * concluBis 29/12/21 = The voice portugal _9 > 8; You are my sunshine _1 > 2; Forever knight _1 > 1; 
 * concluBis 30/12/21 = The voice portugal _9 > 6; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 * concluBis 31/12/21 = The voice portugal _9 > 6; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
