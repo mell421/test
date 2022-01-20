@@ -147,7 +147,7 @@
 - sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 - sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Young sheldon _5x2(1) 
-- sem 18-10-2021 The voice portugal _9x2(1) Survivor au _6x4(3) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
+- sem 18-10-2021 The voice portugal _9x2(1) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
 
 
 
@@ -598,12 +598,12 @@
 * conclu 15/10/21 = 
 * conclu 16/10/21 = 
 * conclu 17/10/21 = Aoki vuanpaia no nayami _1 > 1; 
-* conclu 18/10/21 = Survivor au _6 > 2; 
-* conclu 19/10/21 = Survivor au _6 > 2; 
-* conclu 20/10/21 = Survivor au _6 > 1; 
-* conclu 21/10/21 = Survivor au _6 > 2; 
-* conclu 22/10/21 = Survivor au _6 > 2; 
-* conclu 23/10/21 = Survivor au _6 > 2; 
+* conclu 18/10/21 = 
+* conclu 19/10/21 = 
+* conclu 20/10/21 = 
+* conclu 21/10/21 = 
+* conclu 22/10/21 = 
+* conclu 23/10/21 = 
 
 
 
@@ -1008,12 +1008,12 @@
 * concluBis 15/10/21 = Forever knight _1 > 1; 
 * concluBis 16/10/21 = Forever knight _1 > 1; 
 * concluBis 17/10/21 = Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
-* concluBis 18/10/21 = Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-* concluBis 19/10/21 = Survivor au _6 > 4; Aoki vuanpaia no nayami _1 > 1; 
-* concluBis 20/10/21 = Survivor au _6 > 3; 
-* concluBis 21/10/21 = Survivor au _6 > 4; 
-* concluBis 22/10/21 = Survivor au _6 > 4; 
-* concluBis 23/10/21 = Survivor au _6 > 4; 
+* concluBis 18/10/21 = Aoki vuanpaia no nayami _1 > 1; 
+* concluBis 19/10/21 = Aoki vuanpaia no nayami _1 > 1; 
+* concluBis 20/10/21 = 
+* concluBis 21/10/21 = 
+* concluBis 22/10/21 = 
+* concluBis 23/10/21 = 
 
 
 

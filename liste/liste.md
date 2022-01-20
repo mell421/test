@@ -512,6 +512,7 @@
 |tinted with you|tinted with you|8|serie|corée|<!--  -->
 |survivor 13||16|||<!--  -->
 |mr cinderella 1||8|||<!--  -->
+|survivor au 6||24|||!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -668,7 +669,6 @@
 |love area 1|||||2|<!--  -->
 |kieta hatsukoi 1|||||2|<!--  -->
 |aoki vuanpaia no nayami 1|||||2|<!--  -->
-|survivor au 6||25|||3|<!--  -->
 |the voice portugal 9|||||3|<!--  -->
 |age of the living dead 1|||||1|<!--  -->
 |insiders 1||7|||1|<!--  -->

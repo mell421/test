@@ -728,6 +728,7 @@
 * Lego masters fr _2
 ### sem 24-01-2022 
 * *insererici*
+* Survivor au _6
 * Behind cut _1
 * Mr cinderella _1
 * Survivor _13
@@ -755,10 +756,8 @@
 * $ order $
 * Not me _1
 * Bad buddy _1
-* 
 * The voice senior esp _3
 * The masked singer uk _3
-* Survivor au _6
 * Rpdru _14
 * Rpdr _14
 * The voice nl _12
@@ -775,11 +774,9 @@
 * The voice be _10
 * /9-1-1 lone star _3
 * The voice portugal _9
-* 
 * F4 thailand _1
 * Survivor sa _7
 * Young sheldon _5
-* 
 * 5515 never too late _1
 * The player _1
 * You are my sunshine _1
@@ -895,7 +892,7 @@
 #### mois 01-01-2022 
 *insererici Druck _7 The voice nl _9 The voice ru _10 Queen of the universe _1 Survivor 12 The voice kids uk _5 Josephine ange gardien _24 The voice greece _7 Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
 #### mois 01-02-2022 
-*insererici Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
+*insererici Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
 #### mois 01-03-2022 
 *insererici*
 

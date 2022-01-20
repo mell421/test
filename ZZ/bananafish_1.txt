@@ -2,5 +2,5 @@ aEff/aeff.md:- 07/11/21 - 186* kieta hatsukoi _1{3} banana fish _1{0} bad buddy 
 apercu/apercu21.md:- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 apercu/apercu21.md:- sem 08-11-2021 -> The voice portugal _9x5(2) Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) 
 apercuTer/apercuTer.md:* Banana fish _1
-tab2021.html:    <td class="resumemois">The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Paint with love _1x2(1) The voice senior it _2x2(1) Bad buddy _1x6(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) </td>
+tab2021.html:      The voice senior it _2x2(1) Bad buddy _1x6(4) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) </td>
 tab2021.html:    <td class="resumesem">The voice portugal _9x5(2) Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Bad buddy _1x3(1) Earthmix space _1x6(1) </td>

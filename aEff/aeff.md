@@ -351,52 +351,52 @@
 - 19/10/21 (eff) - peach of time _1{33} vwars _1{9} 
 - 20/10/21 (eff) - peach of time _1{33} vwars _1{9} 
 - 21/10/21 (eff) - peach of time _1{33} vwars _1{9} 
-- 22/10/21 (eff) - peach of time _1{33} survivor au _6{9} 
-- 23/10/21 (eff) - peach of time _1{33} survivor au _6{11} 
-- 24/10/21 (eff) - peach of time _1{33} survivor au _6{13} 
-- 25/10/21 (eff) - peach of time _1{33} survivor au _6{15} 
-- 26/10/21 (eff) - peach of time _1{33} survivor au _6{15} 
-- 27/10/21 (eff) - peach of time _1{33} survivor au _6{15} 
-- 28/10/21 (eff) - peach of time _1{33} survivor au _6{15} 
-- 29/10/21 (eff) - peach of time _1{33} survivor au _6{15} tbbt _11{8} 
-- 30/10/21 (eff) - peach of time _1{33} survivor au _6{15} tbbt _11{10} 
-- 31/10/21 (eff) - survivor au _6{15} tbbt _11{11} 
-- 01/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
-- 02/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
-- 03/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
-- 04/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
-- 05/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
-- 06/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
-- 07/11/21 (eff) - survivor au _6{16} tbbt _11{13} 
-- 08/11/21 (eff) - survivor au _6{16} 
-- 09/11/21 (eff) - survivor au _6{16} 
-- 10/11/21 (eff) - survivor au _6{16} 
-- 11/11/21 (eff) - survivor au _6{16} 
-- 12/11/21 (eff) - survivor au _6{16} kieta hatsukoi _1{13} 
-- 13/11/21 (eff) - survivor au _6{16} kieta hatsukoi _1{15} 
-- 14/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
-- 15/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
-- 16/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
-- 17/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
-- 18/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
-- 19/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
-- 20/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
-- 21/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
-- 22/11/21 (eff) - kieta hatsukoi _1{17} survivor au _6{16} 
-- 23/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} 
-- 24/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-- 25/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-- 26/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-- 27/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-- 28/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-- 29/11/21 (eff) - kieta hatsukoi _1{18} survivor au _6{16} tbbt _11{13} 
-- 30/11/21 (eff) - kieta hatsukoi _1{20} survivor au _6{16} 
-- 01/12/21 (eff) - kieta hatsukoi _1{20} survivor au _6{16} 
-- 02/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} 
-- 03/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} 
-- 04/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} 
-- 05/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} 
-- 06/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} 
+- 22/10/21 (eff) - peach of time _1{33} 
+- 23/10/21 (eff) - peach of time _1{33} 
+- 24/10/21 (eff) - peach of time _1{33} 
+- 25/10/21 (eff) - peach of time _1{33} 
+- 26/10/21 (eff) - peach of time _1{33} 
+- 27/10/21 (eff) - peach of time _1{33} 
+- 28/10/21 (eff) - peach of time _1{33} 
+- 29/10/21 (eff) - peach of time _1{33} tbbt _11{8} 
+- 30/10/21 (eff) - peach of time _1{33} tbbt _11{10} 
+- 31/10/21 (eff) - tbbt _11{11} 
+- 01/11/21 (eff) - tbbt _11{13} 
+- 02/11/21 (eff) - tbbt _11{13} 
+- 03/11/21 (eff) - tbbt _11{13} 
+- 04/11/21 (eff) - tbbt _11{13} 
+- 05/11/21 (eff) - tbbt _11{13} 
+- 06/11/21 (eff) - tbbt _11{13} 
+- 07/11/21 (eff) - tbbt _11{13} 
+- 08/11/21 (eff) - 
+- 09/11/21 (eff) - 
+- 10/11/21 (eff) - 
+- 11/11/21 (eff) - 
+- 12/11/21 (eff) - kieta hatsukoi _1{13} 
+- 13/11/21 (eff) - kieta hatsukoi _1{15} 
+- 14/11/21 (eff) - kieta hatsukoi _1{17} 
+- 15/11/21 (eff) - kieta hatsukoi _1{17} 
+- 16/11/21 (eff) - kieta hatsukoi _1{17} 
+- 17/11/21 (eff) - kieta hatsukoi _1{17} 
+- 18/11/21 (eff) - kieta hatsukoi _1{17} 
+- 19/11/21 (eff) - kieta hatsukoi _1{17} 
+- 20/11/21 (eff) - kieta hatsukoi _1{17} 
+- 21/11/21 (eff) - kieta hatsukoi _1{17} 
+- 22/11/21 (eff) - kieta hatsukoi _1{17} 
+- 23/11/21 (eff) - kieta hatsukoi _1{18} 
+- 24/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
+- 25/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
+- 26/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
+- 27/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
+- 28/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
+- 29/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
+- 30/11/21 (eff) - kieta hatsukoi _1{20} 
+- 01/12/21 (eff) - kieta hatsukoi _1{20} 
+- 02/12/21 (eff) - kieta hatsukoi _1{21} 
+- 03/12/21 (eff) - kieta hatsukoi _1{21} 
+- 04/12/21 (eff) - kieta hatsukoi _1{21} 
+- 05/12/21 (eff) - kieta hatsukoi _1{21} 
+- 06/12/21 (eff) - kieta hatsukoi _1{21} 
 - 07/12/21 (eff) - kieta hatsukoi _1{21} 
 - 08/12/21 (eff) - kieta hatsukoi _1{21} 
 - 09/12/21 (eff) - kieta hatsukoi _1{21} 
@@ -405,39 +405,39 @@
 - 12/12/21 (eff) - kieta hatsukoi _1{21} 
 - 13/12/21 (eff) - kieta hatsukoi _1{21} 
 - 14/12/21 (eff) - kieta hatsukoi _1{21} 
-- 15/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} 
-- 16/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} tbbt _11{13} the voice portugal _9{12} 
-- 17/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} tbbt _11{13} the voice portugal _9{12} 
-- 18/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} tbbt _11{13} the voice portugal _9{12} 
-- 19/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} tbbt _11{13} earthmix space _1{12} the voice portugal _9{12} 5515 never too late _1{12} 
-- 20/12/21 (eff) - kieta hatsukoi _1{21} survivor au _6{16} earthmix space _1{14} the voice portugal _9{13} tbbt _11{13} bad buddy _1{12} 5515 never too late _1{12} camping paradis _12{9} 
-- 21/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{16} earthmix space _1{16} survivor au _6{16} bad buddy _1{14} tbbt _11{13} 5515 never too late _1{12} 
-- 22/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{18} earthmix space _1{17} survivor au _6{16} bad buddy _1{14} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
-- 23/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{20} earthmix space _1{18} survivor au _6{16} bad buddy _1{15} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
-- 24/12/21 (eff) - the voice portugal _9{22} kieta hatsukoi _1{21} earthmix space _1{19} bad buddy _1{16} survivor au _6{16} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
-- 25/12/21 (eff) - the voice portugal _9{24} kieta hatsukoi _1{21} earthmix space _1{20} bad buddy _1{17} survivor au _6{16} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{11} 
-- 26/12/21 (eff) - the voice portugal _9{26} earthmix space _1{21} kieta hatsukoi _1{21} bad buddy _1{19} survivor au _6{16} tbbt _11{13} the voice senior it _2{12} 
-- 27/12/21 (eff) - the voice portugal _9{28} earthmix space _1{22} bad buddy _1{21} kieta hatsukoi _1{21} survivor au _6{16} the voice senior it _2{13} tbbt _11{13} 5515 never too late _1{12} 
-- 28/12/21 (eff) - the voice portugal _9{31} earthmix space _1{24} bad buddy _1{23} kieta hatsukoi _1{21} survivor au _6{16} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
-- 29/12/21 (eff) - the voice portugal _9{33} earthmix space _1{25} bad buddy _1{23} kieta hatsukoi _1{21} survivor au _6{16} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
-- 30/12/21 (eff) - the voice portugal _9{35} earthmix space _1{25} bad buddy _1{23} kieta hatsukoi _1{21} survivor au _6{16} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
-- 31/12/21 (eff) - the voice portugal _9{37} earthmix space _1{26} bad buddy _1{23} kieta hatsukoi _1{21} survivor au _6{16} the voice senior it _2{14} 5515 never too late _1{13} tbbt _11{13} 
-- 01/01/22 (eff) - the voice portugal _9{39} earthmix space _1{27} bad buddy _1{23} kieta hatsukoi _1{21} survivor au _6{16} 5515 never too late _1{14} the voice senior it _2{14} tbbt _11{13} 
-- 02/01/22 (eff) - the voice portugal _9{42} earthmix space _1{30} bad buddy _1{25} kieta hatsukoi _1{21} 5515 never too late _1{16} survivor au _6{16} the voice senior it _2{15} paint with love _1{14} 
-- 03/01/22 (eff) - the voice portugal _9{44} earthmix space _1{32} bad buddy _1{26} kieta hatsukoi _1{21} 5515 never too late _1{17} paint with love _1{16} survivor au _6{16} the voice senior it _2{15} 
-- 04/01/22 (eff) - the voice portugal _9{47} earthmix space _1{33} bad buddy _1{26} kieta hatsukoi _1{21} 5515 never too late _1{18} paint with love _1{17} survivor au _6{16} the voice senior it _2{15} 
-- 05/01/22 (eff) - the voice portugal _9{49} earthmix space _1{34} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{18} 5515 never too late _1{18} survivor au _6{16} the voice senior it _2{15} 
-- 06/01/22 (eff) - the voice portugal _9{51} earthmix space _1{35} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} survivor au _6{16} 
-- 07/01/22 (eff) - the voice portugal _9{53} earthmix space _1{36} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} survivor au _6{16} 
+- 15/12/21 (eff) - kieta hatsukoi _1{21} 
+- 16/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} the voice portugal _9{12} 
+- 17/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} the voice portugal _9{12} 
+- 18/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} the voice portugal _9{12} 
+- 19/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} earthmix space _1{12} the voice portugal _9{12} 5515 never too late _1{12} 
+- 20/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{14} the voice portugal _9{13} tbbt _11{13} bad buddy _1{12} 5515 never too late _1{12} camping paradis _12{9} 
+- 21/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{16} earthmix space _1{16} bad buddy _1{14} tbbt _11{13} 5515 never too late _1{12} 
+- 22/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{18} earthmix space _1{17} bad buddy _1{14} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
+- 23/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{20} earthmix space _1{18} bad buddy _1{15} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
+- 24/12/21 (eff) - the voice portugal _9{22} kieta hatsukoi _1{21} earthmix space _1{19} bad buddy _1{16} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
+- 25/12/21 (eff) - the voice portugal _9{24} kieta hatsukoi _1{21} earthmix space _1{20} bad buddy _1{17} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{11} 
+- 26/12/21 (eff) - the voice portugal _9{26} earthmix space _1{21} kieta hatsukoi _1{21} bad buddy _1{19} tbbt _11{13} the voice senior it _2{12} 
+- 27/12/21 (eff) - the voice portugal _9{28} earthmix space _1{22} bad buddy _1{21} kieta hatsukoi _1{21} the voice senior it _2{13} tbbt _11{13} 5515 never too late _1{12} 
+- 28/12/21 (eff) - the voice portugal _9{31} earthmix space _1{24} bad buddy _1{23} kieta hatsukoi _1{21} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
+- 29/12/21 (eff) - the voice portugal _9{33} earthmix space _1{25} bad buddy _1{23} kieta hatsukoi _1{21} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
+- 30/12/21 (eff) - the voice portugal _9{35} earthmix space _1{25} bad buddy _1{23} kieta hatsukoi _1{21} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
+- 31/12/21 (eff) - the voice portugal _9{37} earthmix space _1{26} bad buddy _1{23} kieta hatsukoi _1{21} the voice senior it _2{14} 5515 never too late _1{13} tbbt _11{13} 
+- 01/01/22 (eff) - the voice portugal _9{39} earthmix space _1{27} bad buddy _1{23} kieta hatsukoi _1{21} 5515 never too late _1{14} the voice senior it _2{14} tbbt _11{13} 
+- 02/01/22 (eff) - the voice portugal _9{42} earthmix space _1{30} bad buddy _1{25} kieta hatsukoi _1{21} 5515 never too late _1{16} the voice senior it _2{15} paint with love _1{14} 
+- 03/01/22 (eff) - the voice portugal _9{44} earthmix space _1{32} bad buddy _1{26} kieta hatsukoi _1{21} 5515 never too late _1{17} paint with love _1{16} the voice senior it _2{15} 
+- 04/01/22 (eff) - the voice portugal _9{47} earthmix space _1{33} bad buddy _1{26} kieta hatsukoi _1{21} 5515 never too late _1{18} paint with love _1{17} the voice senior it _2{15} 
+- 05/01/22 (eff) - the voice portugal _9{49} earthmix space _1{34} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{18} 5515 never too late _1{18} the voice senior it _2{15} 
+- 06/01/22 (eff) - the voice portugal _9{51} earthmix space _1{35} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} 
+- 07/01/22 (eff) - the voice portugal _9{53} earthmix space _1{36} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} 
 - 08/01/22 (eff) - the voice portugal _9{55} earthmix space _1{37} bad buddy _1{27} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} the voice senior it _2{15} 
 - 09/01/22 (eff) - the voice portugal _9{57} earthmix space _1{37} bad buddy _1{29} paint with love _1{21} kieta hatsukoi _1{21} 5515 never too late _1{18} the voice senior it _2{16} 
 - 10/01/22 (eff) - the voice portugal _9{59} earthmix space _1{37} bad buddy _1{31} paint with love _1{23} kieta hatsukoi _1{21} 5515 never too late _1{18} the voice senior it _2{17} tbbt _11{13} 
-- 11/01/22 (eff) - the voice portugal _9{62} earthmix space _1{37} bad buddy _1{33} paint with love _1{25} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} survivor au _6{16} 
-- 12/01/22 (eff) - the voice portugal _9{64} earthmix space _1{37} bad buddy _1{34} paint with love _1{26} kieta hatsukoi _1{21} survivor au _6{18} the voice senior it _2{18} 5515 never too late _1{18} 
-- 13/01/22 (eff) - the voice portugal _9{66} earthmix space _1{37} bad buddy _1{36} paint with love _1{26} kieta hatsukoi _1{21} survivor au _6{20} the voice senior it _2{18} 5515 never too late _1{18} 
-- 14/01/22 (eff) - the voice portugal _9{68} bad buddy _1{38} earthmix space _1{37} paint with love _1{27} survivor au _6{22} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
-- 15/01/22 (eff) - the voice portugal _9{70} bad buddy _1{40} earthmix space _1{38} paint with love _1{28} survivor au _6{24} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
-- 16/01/22 (eff) - the voice portugal _9{72} bad buddy _1{42} earthmix space _1{40} paint with love _1{30} survivor au _6{26} kieta hatsukoi _1{21} the voice senior it _2{19} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} young sheldon _5{11} 
+- 11/01/22 (eff) - the voice portugal _9{62} earthmix space _1{37} bad buddy _1{33} paint with love _1{25} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} 
+- 12/01/22 (eff) - the voice portugal _9{64} earthmix space _1{37} bad buddy _1{34} paint with love _1{26} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} 
+- 13/01/22 (eff) - the voice portugal _9{66} earthmix space _1{37} bad buddy _1{36} paint with love _1{26} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} 
+- 14/01/22 (eff) - the voice portugal _9{68} bad buddy _1{38} earthmix space _1{37} paint with love _1{27} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
+- 15/01/22 (eff) - the voice portugal _9{70} bad buddy _1{40} earthmix space _1{38} paint with love _1{28} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
+- 16/01/22 (eff) - the voice portugal _9{72} bad buddy _1{42} earthmix space _1{40} paint with love _1{30} kieta hatsukoi _1{21} the voice senior it _2{19} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} young sheldon _5{11} 
 
 
 
@@ -718,9 +718,9 @@
 - 15/10/21 - 180* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
 - 16/10/21 - 148* kieta hatsukoi _1{0} /9-1-1 _5{6} 
 - 17/10/21 - 118* aoki vuanpaia no nayami _1{0} 
-- 18/10/21 - 214* the voice portugal _9{1} survivor au _6{1} aoki vuanpaia no nayami _1{3} 
-- 19/10/21 - 225* the voice portugal _9{1} survivor au _6{3} aoki vuanpaia no nayami _1{4} 
-- 20/10/21 - 224* age of the living dead _1{0} the voice portugal _9{1} survivor au _6{5} 
+- 18/10/21 - 214* the voice portugal _9{1} aoki vuanpaia no nayami _1{3} 
+- 19/10/21 - 225* the voice portugal _9{1} aoki vuanpaia no nayami _1{4} 
+- 20/10/21 - 224* age of the living dead _1{0} the voice portugal _9{1} 
 - 21/10/21 - 219* age of the living dead _1{0} the voice portugal _9{1} 
 - 22/10/21 - 677* insiders _1{0} age of the living dead _1{0} 
 - 23/10/21 - 687* earthmix space _1{4} insiders _1{0} 
@@ -803,11 +803,11 @@
 - 08/01/22 - 89* rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice senior it _2{15} ninja warrior _6{0} the voice no _7{0} icsyv _2{0} bad buddy _1{27} paint with love _1{19} next level chef _1{2} 
 - 09/01/22 - 69* the voice senior esp _3{0} the masked singer uk _3{8} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice senior it _2{16} ninja warrior _6{0} the voice no _7{2} 
 - 10/01/22 - 280* the voice portugal _9{59} not me _1{5} the voice senior esp _3{0} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
-- 11/01/22 - 318* survivor au _6{16} /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
-- 12/01/22 - 196* the voice be _10{3} survivor au _6{18} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
-- 13/01/22 - 167* icsyv _2{5} the voice be _10{3} survivor au _6{20} /9-1-1 lone star _3{1} the voice portugal _9{66} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} 
-- 14/01/22 - 174* the masked dancer ger _1{0} next level chef _1{6} icsyv _2{7} the voice be _10{3} survivor au _6{22} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} the voice senior esp _3{1} 
-- 15/01/22 - 121* rpdru _14{1} rpdr _14{1} the voice nl _12{1} the voice senior it _2{18} ninja warrior _6{1} the masked singer vv _2{0} the voice no _7{8} survivor au _6{24} earthmix space _1{38} skam france _9{0} paint with love _1{28} the masked dancer ger _1{1} 
-- 16/01/22 - 112* the voice senior esp _3{1} the masked singer uk _3{11} survivor au _6{26} rpdru _14{2} rpdr _14{1} the voice nl _12{1} the voice senior it _2{19} ninja warrior _6{1} the masked singer vv _2{0} the voice no _7{10} earthmix space _1{40} skam france _9{0} 
+- 11/01/22 - 318* /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
+- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
+- 13/01/22 - 167* icsyv _2{5} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{66} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} 
+- 14/01/22 - 174* the masked dancer ger _1{0} next level chef _1{6} icsyv _2{7} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} the voice senior esp _3{1} 
+- 15/01/22 - 121* rpdru _14{1} rpdr _14{1} the voice nl _12{1} the voice senior it _2{18} ninja warrior _6{1} the masked singer vv _2{0} the voice no _7{8} earthmix space _1{38} skam france _9{0} paint with love _1{28} the masked dancer ger _1{1} 
+- 16/01/22 - 112* the voice senior esp _3{1} the masked singer uk _3{11} rpdru _14{2} rpdr _14{1} the voice nl _12{1} the voice senior it _2{19} ninja warrior _6{1} the masked singer vv _2{0} the voice no _7{10} earthmix space _1{40} skam france _9{0} 
 
 

@@ -9,7 +9,7 @@ list99=(
 # >= 100
 "Peach of time _1" 
 # 99-50
-"The voice portugal _9" "Kieta hatsukoi _1" "Survivor au _6" "Earthmix space _1" "Bad buddy _1" "Tbbt _11" 
+"The voice portugal _9" "Kieta hatsukoi _1" "Earthmix space _1" "Bad buddy _1" "Tbbt _11" 
 # 49-40
 # 39-30
 "The voice senior it _2" "5515 never too late _1" "Camping paradis _12" 
@@ -56,7 +56,7 @@ listAsc=(
 # 9
 "Les engages _3" "The case study of vanitas _1" "Banana fish _1" "Tbbt _11" "Aoki vuanpaia no nayami _1" 
 # 10
-"My sweet dear _1" "Insiders _1" "Age of the living dead _1" "Survivor au _6" "/9-1-1 _5" 
+"My sweet dear _1" "Insiders _1" "Age of the living dead _1" "/9-1-1 _5" 
 # 11
 "Love area _1" "The shipper _1" "Goblin _1" "7project _1" "The big leap _1" 
 # 12

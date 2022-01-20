@@ -37,7 +37,6 @@ _
 Bad buddy 1x11
 The voice senior esp 3x2
 The masked singer uk 3x4
-Survivor au 6x13
 Rpdru 14x2
 Rpdr 14x2
 The voice nl 12x2
@@ -100,7 +99,6 @@ My sweet dear 1x2
 * Insiders 1x1
 * Age of the living dead 1x1
 * The voice portugal 9x1
-* Survivor au 6x1
 * Aoki vuanpaia no nayami 1x1
 * Kieta hatsukoi 1x1
 /9-1-1 5x3

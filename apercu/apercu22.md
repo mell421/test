@@ -55,12 +55,12 @@
 * conclu 08/01/22 = The voice portugal _9 > 6; The voice no _7 > 3; Bad buddy _1 > 2; Paint with love _1 > 2; Icsyv _2 > 2; Next level chef _1 > 1; 
 * conclu 09/01/22 = The voice portugal _9 > 6; Bad buddy _1 > 2; Paint with love _1 > 2; The masked singer uk _3 > 2; The voice no _7 > 1; 
 * conclu 10/01/22 = The voice portugal _9 > 4; 
-* conclu 11/01/22 = The voice portugal _9 > 4; Survivor au _6 > 2; 
-* conclu 12/01/22 = The voice portugal _9 > 4; Bad buddy _1 > 1; Survivor au _6 > 1; 
-* conclu 13/01/22 = The voice portugal _9 > 5; Bad buddy _1 > 3; Icsyv _2 > 2; Survivor au _6 > 1; 
-* conclu 14/01/22 = The voice portugal _9 > 7; Bad buddy _1 > 4; Survivor au _6 > 3; Icsyv _2 > 2; Forever knight _1 > 1; 
-* conclu 15/01/22 = Survivor au _6 > 7; The voice portugal _9 > 6; Earthmix space _1 > 4; The voice no _7 > 2; Paint with love _1 > 1; Bad buddy _1 > 1; 
-* conclu 16/01/22 = Survivor au _6 > 10; The voice portugal _9 > 6; Earthmix space _1 > 2; The voice no _7 > 2; Paint with love _1 > 1; 
+* conclu 11/01/22 = The voice portugal _9 > 4; 
+* conclu 12/01/22 = The voice portugal _9 > 4; Bad buddy _1 > 1; 
+* conclu 13/01/22 = The voice portugal _9 > 5; Bad buddy _1 > 3; Icsyv _2 > 2; 
+* conclu 14/01/22 = The voice portugal _9 > 7; Bad buddy _1 > 4; Icsyv _2 > 2; Forever knight _1 > 1; 
+* conclu 15/01/22 = The voice portugal _9 > 6; Earthmix space _1 > 4; The voice no _7 > 2; Paint with love _1 > 1; Bad buddy _1 > 1; 
+* conclu 16/01/22 = The voice portugal _9 > 6; Earthmix space _1 > 2; The voice no _7 > 2; Paint with love _1 > 1; 
 
 
 
@@ -85,12 +85,12 @@
 * concluBis 08/01/22 = The voice portugal _9 > 12; Bad buddy _1 > 6; The voice no _7 > 5; Paint with love _1 > 4; Icsyv _2 > 4; Next level chef _1 > 3; The voice senior it _2 > 1; 
 * concluBis 09/01/22 = The voice portugal _9 > 12; Bad buddy _1 > 7; Paint with love _1 > 4; The masked singer uk _3 > 4; The voice no _7 > 3; The voice senior it _2 > 2; Icsyv _2 > 2; Next level chef _1 > 1; 
 * concluBis 10/01/22 = The voice portugal _9 > 10; Bad buddy _1 > 3; The voice no _7 > 2; Paint with love _1 > 1; Icsyv _2 > 1; 
-* concluBis 11/01/22 = The voice portugal _9 > 10; Survivor au _6 > 4; Bad buddy _1 > 3; Paint with love _1 > 1; The voice no _7 > 1; 
-* concluBis 12/01/22 = The voice portugal _9 > 10; Bad buddy _1 > 5; Survivor au _6 > 3; The voice no _7 > 1; Forever knight _1 > 1; 
-* concluBis 13/01/22 = The voice portugal _9 > 11; Bad buddy _1 > 7; Icsyv _2 > 4; Survivor au _6 > 3; Forever knight _1 > 2; Paint with love _1 > 1; Imortal _1 > 1; 
-* concluBis 14/01/22 = The voice portugal _9 > 13; Bad buddy _1 > 8; Survivor au _6 > 6; Icsyv _2 > 4; Forever knight _1 > 3; Paint with love _1 > 2; Imortal _1 > 2; The masked dancer ger _1 > 1; Earthmix space _1 > 1; 
-* concluBis 15/01/22 = Survivor au _6 > 13; The voice portugal _9 > 11; Earthmix space _1 > 8; Paint with love _1 > 5; The voice no _7 > 4; Bad buddy _1 > 3; Forever knight _1 > 2; The voice senior it _2 > 1; Rpdru _14 > 1; Imortal _1 > 1; 
-* concluBis 16/01/22 = Survivor au _6 > 18; The voice portugal _9 > 11; Earthmix space _1 > 6; Paint with love _1 > 5; The voice no _7 > 4; Bad buddy _1 > 2; The voice senior it _2 > 1; The voice senior esp _3 > 1; Forever knight _1 > 1; 
+* concluBis 11/01/22 = The voice portugal _9 > 10; Bad buddy _1 > 3; Paint with love _1 > 1; The voice no _7 > 1; 
+* concluBis 12/01/22 = The voice portugal _9 > 10; Bad buddy _1 > 5; The voice no _7 > 1; Forever knight _1 > 1; 
+* concluBis 13/01/22 = The voice portugal _9 > 11; Bad buddy _1 > 7; Icsyv _2 > 4; Forever knight _1 > 2; Paint with love _1 > 1; Imortal _1 > 1; 
+* concluBis 14/01/22 = The voice portugal _9 > 13; Bad buddy _1 > 8; Icsyv _2 > 4; Forever knight _1 > 3; Paint with love _1 > 2; Imortal _1 > 2; The masked dancer ger _1 > 1; Earthmix space _1 > 1; 
+* concluBis 15/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 8; Paint with love _1 > 5; The voice no _7 > 4; Bad buddy _1 > 3; Forever knight _1 > 2; The voice senior it _2 > 1; Rpdru _14 > 1; Imortal _1 > 1; 
+* concluBis 16/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 6; Paint with love _1 > 5; The voice no _7 > 4; Bad buddy _1 > 2; The voice senior it _2 > 1; The voice senior esp _3 > 1; Forever knight _1 > 1; 
 
 
 
