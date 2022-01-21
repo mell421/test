@@ -228,6 +228,7 @@
 |tinted with you|tinted with you|8|serie|corée|<!--  -->
 |mr cinderella|_|8|serie|vietnam|<!--  -->
 |behind cut|behind cut|8|serie|corée|<!--  -->
+|bad buddy|bad buddy|12|serie|thailande|                      <!-- 47-->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -282,7 +283,6 @@
 |kieta hatsukoi|kieta hatsukoi|10|serie|japon|6|                <!-- 44 -->
 |aoki vuanpaia no nayami|aoki vuanpaia no nayami|8|serie(**)|japon|2| <!-- 45 -->
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
-|bad buddy|bad buddy|12|serie|thailande|7|                      <!-- 47-->
 |baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
 |paint with love|paint with love|8|serie|thailande|4|<!--  -->
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->

@@ -13,7 +13,7 @@ aEff/aeff.md:- 14/07/21 - 253* camping paradis _12{3} glow up _2{2} /46 days _1{
 aEff/aeff.md:- 15/07/21 - 299* /46 days _1{11} camping paradis _12{3} 
 aEff/aeff.md:- 17/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
 aEff/aeff.md:- 20/07/21 - 184* camping paradis _12{4} /46 days _1{17} good singers _1{5} 
-aEff/aeff.md:- 20/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{14} the voice portugal _9{13} tbbt _11{13} bad buddy _1{12} 5515 never too late _1{12} camping paradis _12{9} 
+aEff/aeff.md:- 20/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{14} the voice portugal _9{13} tbbt _11{13} 5515 never too late _1{12} camping paradis _12{9} 
 aEff/aeff.md:- 21/07/21 - 242* camping paradis _12{4} /46 days _1{18} 
 aEff/aeff.md:- 22/07/21 - 213* /46 days _1{19} camping paradis _12{4} 
 aEff/aeff.md:- 24/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
@@ -28,7 +28,7 @@ apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Camping paradis _12x4(3) G
 apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
 apercu/apercu21.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-apercu/apercu21.md:- sem 13-12-2021 -> The voice portugal _9x10(1) 5515 never too late _1x4(3) Not me _1x2(1) Earthmix space _1x8(1) Paint with love _1x4(1) The voice senior it _2x4(1) Bad buddy _1x8(1) Camping paradis _12x6(1) 
+apercu/apercu21.md:- sem 13-12-2021 -> The voice portugal _9x10(1) 5515 never too late _1x4(3) Not me _1x2(1) Earthmix space _1x8(1) Paint with love _1x4(1) The voice senior it _2x4(1) Camping paradis _12x6(1) 
 apercu/apercu21.md:- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Camping paradis _12x3(1) 
 apercu/apercu21.md:- sem 26-07-2021 /46 days _1x7(2) Camping paradis _12x4(1) 
 apercu/apercu21.md:* concluBis 06/07/21 = Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; 
@@ -42,7 +42,7 @@ apercu/apercuglobal.md:- sem 26-07-2021 /46 days _1x7(2) Camping paradis _12x4(1
 apercu/apercuglobal.md:* concluBis 06/07/21 = Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 13/07/21 = /46 days _1 > 4; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 apercuTer/apercuTer.md:* Camping paradis _12
-tab2021.html:      The voice senior it _2x4(1) Bad buddy _1x8(1) Camping paradis _12x6(1) </td>
+tab2021.html:      The voice senior it _2x4(1) Camping paradis _12x6(1) </td>
 tab2021.html:    <td class="conclubis">/46 days _1 > 4; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; </td>
 tab2021.html:    <td class="resumemois">/46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) 

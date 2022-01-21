@@ -16,16 +16,6 @@
 </div>
 
 ## a eff
-- 21/11/20 - 
-- 22/11/20 - 
-- 23/11/20 - 
-- 24/11/20 - 
-- 25/11/20 - 
-- 26/11/20 - 
-- 27/11/20 - 
-- 28/11/20 - 
-- 29/11/20 - 
-- 30/11/20 - 
 - 01/12/20 - pogi lang hanap _1{10} 
 - 02/12/20 - pogi lang hanap _1{10} friend forever _1{10} 
 - 03/12/20 - pogi lang hanap _1{10} 
@@ -70,14 +60,7 @@
 - 11/01/21 - ghost runner _1{11} 
 - 12/01/21 - from dusk till dawn _2{15} ghost runner _1{11} 
 - 13/01/21 - from dusk till dawn _2{15} 
-- 14/01/21 - 
-- 15/01/21 - 
 - 16/01/21 - ghost runner _1{11} 
-- 17/01/21 - 
-- 18/01/21 - 
-- 19/01/21 - 
-- 20/01/21 - 
-- 21/01/21 - 
 - 22/01/21 - from dusk till dawn _2{15} 
 - 23/01/21 - koishite akuma _1{11} 
 - 24/01/21 - from dusk till dawn _2{15} koishite akuma _1{13} 
@@ -91,24 +74,13 @@
 - 01/02/21 - koishite akuma _1{16} 
 - 02/02/21 - koishite akuma _1{16} 
 - 03/02/21 - koishite akuma _1{16} 
-- 04/02/21 - 
-- 05/02/21 - 
 - 06/02/21 - koishite akuma _1{16} 
 - 07/02/21 - koishite akuma _1{16} 
 - 08/02/21 - koishite akuma _1{16} 
 - 09/02/21 - koishite akuma _1{16} 
 - 10/02/21 - koishite akuma _1{16} 
 - 11/02/21 - koishite akuma _1{16} 
-- 12/02/21 - 
-- 13/02/21 - 
 - 14/02/21 - koishite akuma _1{16} 
-- 15/02/21 - 
-- 16/02/21 - 
-- 17/02/21 - 
-- 18/02/21 - 
-- 19/02/21 - 
-- 20/02/21 - 
-- 21/02/21 - 
 - 22/02/21 - my vampire boyfriend _1{19} 
 - 23/02/21 - my vampire boyfriend _1{21} 
 - 24/02/21 - my vampire boyfriend _1{22} 
@@ -120,21 +92,6 @@
 - 02/03/21 - my vampire boyfriend _1{25} 
 - 03/03/21 - my vampire boyfriend _1{25} 
 - 04/03/21 - my vampire boyfriend _1{25} 
-- 05/03/21 - 
-- 06/03/21 - 
-- 07/03/21 - 
-- 08/03/21 - 
-- 09/03/21 - 
-- 10/03/21 - 
-- 11/03/21 - 
-- 12/03/21 - 
-- 13/03/21 - 
-- 14/03/21 - 
-- 15/03/21 - 
-- 16/03/21 - 
-- 17/03/21 - 
-- 18/03/21 - 
-- 19/03/21 - 
 - 20/03/21 - my vampire boyfriend _1{26} the harvest season _1{16} 
 - 21/03/21 - my vampire boyfriend _1{25} the harvest season _1{16} 
 - 22/03/21 - my vampire boyfriend _1{25} the harvest season _1{16} 
@@ -163,34 +120,8 @@
 - 14/04/21 (eff) - my vampire boyfriend _1{25} 
 - 15/04/21 (eff) - my vampire boyfriend _1{25} 
 - 16/04/21 (eff) - my vampire boyfriend _1{25} 
-- 17/04/21 (eff) - 
-- 18/04/21 (eff) - 
-- 19/04/21 (eff) - 
-- 20/04/21 (eff) - 
-- 21/04/21 (eff) - 
-- 22/04/21 (eff) - 
-- 23/04/21 (eff) - 
-- 24/04/21 (eff) - 
-- 25/04/21 (eff) - 
-- 26/04/21 (eff) - 
-- 27/04/21 (eff) - 
-- 28/04/21 (eff) - 
-- 29/04/21 (eff) - 
-- 30/04/21 (eff) - 
-- 01/05/21 (eff) - 
-- 02/05/21 (eff) - 
-- 03/05/21 (eff) - 
-- 04/05/21 (eff) - 
-- 05/05/21 (eff) - 
 - 06/05/21 (eff) - my vampire boyfriend _1{25} 
 - 07/05/21 (eff) - my vampire boyfriend _1{25} 
-- 08/05/21 (eff) - 
-- 09/05/21 (eff) - 
-- 10/05/21 (eff) - 
-- 11/05/21 (eff) - 
-- 12/05/21 (eff) - 
-- 13/05/21 (eff) - 
-- 14/05/21 (eff) - 
 - 15/05/21 (eff) - my vampire boyfriend _1{25} 
 - 16/05/21 (eff) - my vampire boyfriend _1{25} 
 - 17/05/21 (eff) - my vampire boyfriend _1{25} 
@@ -368,10 +299,6 @@
 - 05/11/21 (eff) - tbbt _11{13} 
 - 06/11/21 (eff) - tbbt _11{13} 
 - 07/11/21 (eff) - tbbt _11{13} 
-- 08/11/21 (eff) - 
-- 09/11/21 (eff) - 
-- 10/11/21 (eff) - 
-- 11/11/21 (eff) - 
 - 12/11/21 (eff) - kieta hatsukoi _1{13} 
 - 13/11/21 (eff) - kieta hatsukoi _1{15} 
 - 14/11/21 (eff) - kieta hatsukoi _1{17} 
@@ -410,34 +337,34 @@
 - 17/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} the voice portugal _9{12} 
 - 18/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} the voice portugal _9{12} 
 - 19/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} earthmix space _1{12} the voice portugal _9{12} 5515 never too late _1{12} 
-- 20/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{14} the voice portugal _9{13} tbbt _11{13} bad buddy _1{12} 5515 never too late _1{12} camping paradis _12{9} 
-- 21/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{16} earthmix space _1{16} bad buddy _1{14} tbbt _11{13} 5515 never too late _1{12} 
-- 22/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{18} earthmix space _1{17} bad buddy _1{14} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
-- 23/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{20} earthmix space _1{18} bad buddy _1{15} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
-- 24/12/21 (eff) - the voice portugal _9{22} kieta hatsukoi _1{21} earthmix space _1{19} bad buddy _1{16} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
-- 25/12/21 (eff) - the voice portugal _9{24} kieta hatsukoi _1{21} earthmix space _1{20} bad buddy _1{17} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{11} 
-- 26/12/21 (eff) - the voice portugal _9{26} earthmix space _1{21} kieta hatsukoi _1{21} bad buddy _1{19} tbbt _11{13} the voice senior it _2{12} 
-- 27/12/21 (eff) - the voice portugal _9{28} earthmix space _1{22} bad buddy _1{21} kieta hatsukoi _1{21} the voice senior it _2{13} tbbt _11{13} 5515 never too late _1{12} 
-- 28/12/21 (eff) - the voice portugal _9{31} earthmix space _1{24} bad buddy _1{23} kieta hatsukoi _1{21} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
-- 29/12/21 (eff) - the voice portugal _9{33} earthmix space _1{25} bad buddy _1{23} kieta hatsukoi _1{21} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
-- 30/12/21 (eff) - the voice portugal _9{35} earthmix space _1{25} bad buddy _1{23} kieta hatsukoi _1{21} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
-- 31/12/21 (eff) - the voice portugal _9{37} earthmix space _1{26} bad buddy _1{23} kieta hatsukoi _1{21} the voice senior it _2{14} 5515 never too late _1{13} tbbt _11{13} 
-- 01/01/22 (eff) - the voice portugal _9{39} earthmix space _1{27} bad buddy _1{23} kieta hatsukoi _1{21} 5515 never too late _1{14} the voice senior it _2{14} tbbt _11{13} 
-- 02/01/22 (eff) - the voice portugal _9{42} earthmix space _1{30} bad buddy _1{25} kieta hatsukoi _1{21} 5515 never too late _1{16} the voice senior it _2{15} paint with love _1{14} 
-- 03/01/22 (eff) - the voice portugal _9{44} earthmix space _1{32} bad buddy _1{26} kieta hatsukoi _1{21} 5515 never too late _1{17} paint with love _1{16} the voice senior it _2{15} 
-- 04/01/22 (eff) - the voice portugal _9{47} earthmix space _1{33} bad buddy _1{26} kieta hatsukoi _1{21} 5515 never too late _1{18} paint with love _1{17} the voice senior it _2{15} 
-- 05/01/22 (eff) - the voice portugal _9{49} earthmix space _1{34} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{18} 5515 never too late _1{18} the voice senior it _2{15} 
-- 06/01/22 (eff) - the voice portugal _9{51} earthmix space _1{35} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} 
-- 07/01/22 (eff) - the voice portugal _9{53} earthmix space _1{36} bad buddy _1{26} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} 
-- 08/01/22 (eff) - the voice portugal _9{55} earthmix space _1{37} bad buddy _1{27} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} the voice senior it _2{15} 
-- 09/01/22 (eff) - the voice portugal _9{57} earthmix space _1{37} bad buddy _1{29} paint with love _1{21} kieta hatsukoi _1{21} 5515 never too late _1{18} the voice senior it _2{16} 
-- 10/01/22 (eff) - the voice portugal _9{59} earthmix space _1{37} bad buddy _1{31} paint with love _1{23} kieta hatsukoi _1{21} 5515 never too late _1{18} the voice senior it _2{17} tbbt _11{13} 
-- 11/01/22 (eff) - the voice portugal _9{62} earthmix space _1{37} bad buddy _1{33} paint with love _1{25} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} 
-- 12/01/22 (eff) - the voice portugal _9{64} earthmix space _1{37} bad buddy _1{34} paint with love _1{26} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} 
-- 13/01/22 (eff) - the voice portugal _9{66} earthmix space _1{37} bad buddy _1{36} paint with love _1{26} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} 
-- 14/01/22 (eff) - the voice portugal _9{68} bad buddy _1{38} earthmix space _1{37} paint with love _1{27} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
-- 15/01/22 (eff) - the voice portugal _9{70} bad buddy _1{40} earthmix space _1{38} paint with love _1{28} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
-- 16/01/22 (eff) - the voice portugal _9{72} bad buddy _1{42} earthmix space _1{40} paint with love _1{30} kieta hatsukoi _1{21} the voice senior it _2{19} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} young sheldon _5{11} 
+- 20/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{14} the voice portugal _9{13} tbbt _11{13} 5515 never too late _1{12} camping paradis _12{9} 
+- 21/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{16} earthmix space _1{16} tbbt _11{13} 5515 never too late _1{12} 
+- 22/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{18} earthmix space _1{17} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
+- 23/12/21 (eff) - kieta hatsukoi _1{21} the voice portugal _9{20} earthmix space _1{18} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
+- 24/12/21 (eff) - the voice portugal _9{22} kieta hatsukoi _1{21} earthmix space _1{19} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{9} 
+- 25/12/21 (eff) - the voice portugal _9{24} kieta hatsukoi _1{21} earthmix space _1{20} tbbt _11{13} 5515 never too late _1{12} the voice senior it _2{11} 
+- 26/12/21 (eff) - the voice portugal _9{26} earthmix space _1{21} kieta hatsukoi _1{21} tbbt _11{13} the voice senior it _2{12} 
+- 27/12/21 (eff) - the voice portugal _9{28} earthmix space _1{22} kieta hatsukoi _1{21} the voice senior it _2{13} tbbt _11{13} 5515 never too late _1{12} 
+- 28/12/21 (eff) - the voice portugal _9{31} earthmix space _1{24} kieta hatsukoi _1{21} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
+- 29/12/21 (eff) - the voice portugal _9{33} earthmix space _1{25} kieta hatsukoi _1{21} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
+- 30/12/21 (eff) - the voice portugal _9{35} earthmix space _1{25} kieta hatsukoi _1{21} the voice senior it _2{14} tbbt _11{13} 5515 never too late _1{12} 
+- 31/12/21 (eff) - the voice portugal _9{37} earthmix space _1{26} kieta hatsukoi _1{21} the voice senior it _2{14} 5515 never too late _1{13} tbbt _11{13} 
+- 01/01/22 (eff) - the voice portugal _9{39} earthmix space _1{27} kieta hatsukoi _1{21} 5515 never too late _1{14} the voice senior it _2{14} tbbt _11{13} 
+- 02/01/22 (eff) - the voice portugal _9{42} earthmix space _1{30} kieta hatsukoi _1{21} 5515 never too late _1{16} the voice senior it _2{15} paint with love _1{14} 
+- 03/01/22 (eff) - the voice portugal _9{44} earthmix space _1{32} kieta hatsukoi _1{21} 5515 never too late _1{17} paint with love _1{16} the voice senior it _2{15} 
+- 04/01/22 (eff) - the voice portugal _9{47} earthmix space _1{33} kieta hatsukoi _1{21} 5515 never too late _1{18} paint with love _1{17} the voice senior it _2{15} 
+- 05/01/22 (eff) - the voice portugal _9{49} earthmix space _1{34} kieta hatsukoi _1{21} paint with love _1{18} 5515 never too late _1{18} the voice senior it _2{15} 
+- 06/01/22 (eff) - the voice portugal _9{51} earthmix space _1{35} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} 
+- 07/01/22 (eff) - the voice portugal _9{53} earthmix space _1{36} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} 
+- 08/01/22 (eff) - the voice portugal _9{55} earthmix space _1{37} kieta hatsukoi _1{21} paint with love _1{19} 5515 never too late _1{18} the voice senior it _2{15} 
+- 09/01/22 (eff) - the voice portugal _9{57} earthmix space _1{37} paint with love _1{21} kieta hatsukoi _1{21} 5515 never too late _1{18} the voice senior it _2{16} 
+- 10/01/22 (eff) - the voice portugal _9{59} earthmix space _1{37} paint with love _1{23} kieta hatsukoi _1{21} 5515 never too late _1{18} the voice senior it _2{17} tbbt _11{13} 
+- 11/01/22 (eff) - the voice portugal _9{62} earthmix space _1{37} paint with love _1{25} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} 
+- 12/01/22 (eff) - the voice portugal _9{64} earthmix space _1{37} paint with love _1{26} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} 
+- 13/01/22 (eff) - the voice portugal _9{66} earthmix space _1{37} paint with love _1{26} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} 
+- 14/01/22 (eff) - the voice portugal _9{68} earthmix space _1{37} paint with love _1{27} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
+- 15/01/22 (eff) - the voice portugal _9{70} earthmix space _1{38} paint with love _1{28} kieta hatsukoi _1{21} the voice senior it _2{18} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
+- 16/01/22 (eff) - the voice portugal _9{72} earthmix space _1{40} paint with love _1{30} kieta hatsukoi _1{21} the voice senior it _2{19} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} young sheldon _5{11} 
 
 
 
@@ -471,16 +398,11 @@
 - 08/11/20 - 222* lakan _1{2} pogi lang hanap _1{7} 
 - 09/11/20 - 267* lakan _1{3} pogi lang hanap _1{8} 
 - 10/11/20 - 271* lakan _1{3} pogi lang hanap _1{8} 
-- 12/11/20 - 233* 
-- 13/11/20 - 245* 
-- 14/11/20 - 392* 
-- 15/11/20 - 411* 
 - 16/11/20 - 374* my vampire boyfriend _1{1} 
 - 17/11/20 - 362* my vampire boyfriend _1{3} 
 - 18/11/20 - 356* my vampire boyfriend _1{5} 
 - 19/11/20 - 372* pogi lang hanap _1{8} 
 - 20/11/20 - 308* pogi lang hanap _1{8} 
-- 21/11/20 - 205* 
 - 26/11/20 - 422* be love _1{0} 
 - 27/11/20 - 438* be love _1{0} 
 - 28/11/20 - 396* be love _1{0} 
@@ -490,7 +412,6 @@
 - 03/12/20 - 281* ghost runner _1{0} be love _1{6} 
 - 04/12/20 - 239* ghost runner _1{0} be love _1{6} 
 - 05/12/20 - 134* ghost runner _1{0} 
-- 06/12/20 - 148* 
 - 08/12/20 - 311* tale of the nine tailed _1{0} 
 - 09/12/20 - 320* tale of the nine tailed _1{0} 
 - 10/12/20 - 356* tale of the nine tailed _1{0} 
@@ -527,7 +448,6 @@
 - 11/01/21 - 105* romantic blue _1{1} 
 - 12/01/21 - 70* romantic blue _1{1} 
 - 13/01/21 - 75* romantic blue _1{1} 
-- 15/01/21 - 164* 
 - 16/01/21 - 151* warper series _1{0} 
 - 18/01/21 - 128* koishite akuma _1{1} 
 - 19/01/21 - 148* koishite akuma _1{3} 
@@ -539,7 +459,6 @@
 - 27/01/21 - 407* the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
 - 28/01/21 - 376* the shipper _1{3} tien bromance _1{2} 
 - 29/01/21 - 468* the shipper _1{3} 
-- 30/01/21 - 202* 
 - 31/01/21 - 166* be love _1{7} 
 - 01/02/21 - 200* be love _1{10} 
 - 02/02/21 - 208* you never eat alone _1{0} slam dance _1{0} be love _1{11} 
@@ -558,40 +477,26 @@
 - 17/02/21 - 199* you never eat alone _1{2} tokyo ghoul _3{2} my vampire boyfriend _1{9} 
 - 18/02/21 - 127* unlocked _1{2} my vampire boyfriend _1{10} you never eat alone _1{2} 
 - 19/02/21 - 191* unlocked _1{2} my vampire boyfriend _1{12} you never eat alone _1{2} 
-- 26/02/21 - 282* 
-- 27/02/21 - 329* 
-- 28/02/21 - 377* 
 - 02/03/21 - 268* schools out lets date now _1{4} 
 - 03/03/21 - 579* you never eat alone _1{4} schools out lets date now _1{5} 
 - 04/03/21 - 610* you never eat alone _1{4} 
 - 05/03/21 - 618* you never eat alone _1{4} 
 - 10/03/21 - 702* you never eat alone _1{5} 
-- 12/03/21 - 680* 
 - 19/03/21 - 474* bt21 vlog _1{0} schools out lets date now _1{6} 
 - 20/03/21 - 506* bt21 vlog _1{1} schools out lets date now _1{6} 
 - 21/03/21 - 657* bt21 vlog _1{2} 
-- 02/04/21 - 375* 
-- 03/04/21 - 396* 
-- 04/04/21 - 414* 
 - 06/04/21 - 620* mr lipstick _1{0} 
 - 07/04/21 - 714* mr lipstick _1{1} 
 - 08/04/21 - 739* mr lipstick _1{2} 
-- 16/04/21 - 360* 
-- 17/04/21 - 457* 
-- 18/04/21 - 519* 
 - 23/04/21 - 116* i can see your voice fr _1{0} 
 - 24/04/21 - 140* i can see your voice fr _1{0} 
-- 30/04/21 - 1045* 
-- 01/05/21 - 942* 
-- 02/05/21 - 449* 
 - 14/05/21 - 1000* i can see your voice fr _1{2} 
 - 15/05/21 - 490* i can see your voice fr _1{2} 
 - 16/05/21 - 381* i can see your voice fr _1{2} 
 - 19/05/21 - 833* an eye for an eye _1{0} 
 - 20/05/21 - 909* an eye for an eye _1{0} 
 - 21/05/21 - 771* an eye for an eye _1{0} 
-- 28/05/21 - 1089* 
-- 29/05/21 - 989* dark blue kiss _1{0} 
+µ- 29/05/21 - 989* dark blue kiss _1{0} 
 - 30/05/21 - 992* dark blue kiss _1{0} 
 - 31/05/21 - 951* dark blue kiss _1{1} 
 - 01/06/21 - 655* dark blue kiss _1{2} 
@@ -604,10 +509,6 @@
 - 09/06/21 - 204* vincenzo _1{13} 
 - 10/06/21 - 144* vincenzo _1{15} 
 - 11/06/21 - 479* vincenzo _1{15} 
-- 12/06/21 - 490* 
-- 13/06/21 - 505* 
-- 14/06/21 - 509* 
-- 15/06/21 - 504* 
 - 18/06/21 - 219* dark blue kiss _1{2} 
 - 19/06/21 - 265* elite _4{0} dark blue kiss _1{3} 
 - 20/06/21 - 276* elite _4{1} dark blue kiss _1{3} 
@@ -616,10 +517,6 @@
 - 23/06/21 - 238* siew sum noi _1{0} elite _4{8} 
 - 24/06/21 - 199* siew sum noi _1{0} elite _4{10} 
 - 25/06/21 - 505* siew sum noi _1{0} 
-- 26/06/21 - 510* 
-- 27/06/21 - 503* 
-- 28/06/21 - 542* 
-- 29/06/21 - 554* 
 - 06/07/21 - 237* young royals _1{0} camping paradis _12{0} 
 - 07/07/21 - 256* young royals _1{2} camping paradis _12{1} 
 - 08/07/21 - 243* /46 days _1{0} young royals _1{2} camping paradis _12{1} 
@@ -655,14 +552,6 @@
 - 10/08/21 - 708* good singers _1{7} 
 - 11/08/21 - 716* good singers _1{7} 
 - 12/08/21 - 237* good singers _1{7} 
-- 14/08/21 - 274* 
-- 15/08/21 - 298* 
-- 16/08/21 - 311* 
-- 17/08/21 - 352* 
-- 18/08/21 - 354* 
-- 19/08/21 - 401* 
-- 20/08/21 - 860* 
-- 21/08/21 - 833* 
 - 22/08/21 - 780* from dusk till dawn _2{15} 
 - 23/08/21 - 278* from dusk till dawn _2{16} 
 - 24/08/21 - 284* from dusk till dawn _2{16} 
@@ -696,7 +585,6 @@
 - 21/09/21 - 54* /9-1-1 _5{0} post mortem _1{4} 
 - 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
 - 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
-- 24/09/21 - 98* 
 - 25/09/21 - 96* earthmix space _1{1} 
 - 26/09/21 - 56* earthmix space _1{1} 
 - 27/09/21 - 94* goblin _1{1} 
@@ -730,65 +618,61 @@
 - 27/10/21 - 206* the voice portugal _9{1} tbbt _11{4} aoki vuanpaia no nayami _1{6} young sheldon _5{6} 
 - 28/10/21 - 213* the voice portugal _9{1} tbbt _11{6} aoki vuanpaia no nayami _1{6} 
 - 29/10/21 - 831* the voice portugal _9{1} tbbt _11{8} 
-- 30/10/21 - 756* bad buddy _1{0} 
-- 31/10/21 - 798* bad buddy _1{0} 
-- 01/11/21 - 195* kieta hatsukoi _1{3} bad buddy _1{2} 
+- 01/11/21 - 195* kieta hatsukoi _1{3} 
 - 02/11/21 - 207* the voice portugal _9{3} kieta hatsukoi _1{3} 
 - 03/11/21 - 289* the voice portugal _9{3} kieta hatsukoi _1{3} 
 - 04/11/21 - 279* the voice portugal _9{3} 
 - 05/11/21 - 822* the voice portugal _9{3} 
-- 06/11/21 - 748* bad buddy _1{2} earthmix space _1{6} 
-- 07/11/21 - 186* kieta hatsukoi _1{3} banana fish _1{0} bad buddy _1{2} 
+- 06/11/21 - 748* earthmix space _1{6} 
+- 07/11/21 - 186* kieta hatsukoi _1{3} banana fish _1{0} 
 - 08/11/21 - 229* the voice portugal _9{4} kieta hatsukoi _1{6} 
 - 09/11/21 - 237* the voice portugal _9{4} kieta hatsukoi _1{7} 
 - 10/11/21 - 327* the voice portugal _9{4} kieta hatsukoi _1{9} 
 - 11/11/21 - 346* the voice portugal _9{4} 
 - 12/11/21 - 308* the voice portugal _9{4} 
-- 13/11/21 - 206* bad buddy _1{3} 
-- 14/11/21 - 212* bad buddy _1{3} 
-- 15/11/21 - 273* the voice portugal _9{4} bad buddy _1{3} 
+- 15/11/21 - 273* the voice portugal _9{4} 
 - 16/11/21 - 292* the case study of vanitas _1{0} kieta hatsukoi _1{17} the voice portugal _9{5} 
 - 17/11/21 - 386* the case study of vanitas _1{2} kieta hatsukoi _1{17} the voice portugal _9{5} 
 - 18/11/21 - 244* the case study of vanitas _1{3} kieta hatsukoi _1{17} 
 - 19/11/21 - 209* the case study of vanitas _1{4} kieta hatsukoi _1{17} 
-- 20/11/21 - 236* bad buddy _1{4} les engages _3{0} 
-- 21/11/21 - 331* bad buddy _1{4} les engages _3{0} 
-- 22/11/21 - 328* the voice portugal _9{5} bad buddy _1{4} les engages _3{0} 
-- 23/11/21 - 327* the voice portugal _9{6} bad buddy _1{5} les engages _3{1} 
+- 20/11/21 - 236* les engages _3{0} 
+- 21/11/21 - 331* les engages _3{0} 
+- 22/11/21 - 328* the voice portugal _9{5} les engages _3{0} 
+- 23/11/21 - 327* the voice portugal _9{6} les engages _3{1} 
 - 24/11/21 - 455* the voice portugal _9{7} 
 - 25/11/21 - 274* baker boys _1{0} the voice portugal _9{8} 
 - 26/11/21 - 248* baker boys _1{0} 
-- 27/11/21 - 213* the voice senior it _2{0} bad buddy _1{5} baker boys _1{1} 
-- 28/11/21 - 1026* the voice senior it _2{0} bad buddy _1{6} baker boys _1{2} 
+- 27/11/21 - 213* the voice senior it _2{0} baker boys _1{1} 
+- 28/11/21 - 1026* the voice senior it _2{0} baker boys _1{2} 
 - 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} paint with love _1{0} 
 - 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} paint with love _1{1} 
 - 01/12/21 - 546* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} 
 - 02/12/21 - 470* the voice portugal _9{10} 
 - 03/12/21 - 267* baker boys _1{4} 
-- 04/12/21 - 222* bad buddy _1{8} baker boys _1{4} 
-- 05/12/21 - 324* district z _2{0} the voice senior it _2{2} bad buddy _1{8} 
+- 04/12/21 - 222* baker boys _1{4} 
+- 05/12/21 - 324* district z _2{0} the voice senior it _2{2} 
 - 06/12/21 - 420* the voice portugal _9{10} paint with love _1{2} district z _2{0} the voice senior it _2{2} 
 - 07/12/21 - 424* 5515 never too late _1{0} camping paradis _12{8} the voice portugal _9{11} paint with love _1{3} 
 - 08/12/21 - 598* 5515 never too late _1{0} camping paradis _12{8} the voice portugal _9{11} 
 - 09/12/21 - 508* 5515 never too late _1{0} camping paradis _12{8} the voice portugal _9{11} 
 - 10/12/21 - 289* 5515 never too late _1{2} camping paradis _12{8} 
-- 11/12/21 - 257* the voice senior it _2{3} bad buddy _1{9} 5515 never too late _1{3} 
-- 12/12/21 - 1104* paint with love _1{3} the voice senior it _2{5} bad buddy _1{9} 
+- 11/12/21 - 257* the voice senior it _2{3} 5515 never too late _1{3} 
+- 12/12/21 - 1104* paint with love _1{3} the voice senior it _2{5} 
 - 13/12/21 - 1168* the voice portugal _9{11} 5515 never too late _1{6} not me _1{0} earthmix space _1{9} paint with love _1{4} 
 - 14/12/21 - 1190* the voice portugal _9{12} 5515 never too late _1{9} not me _1{1} earthmix space _1{10} paint with love _1{5} 
 - 15/12/21 - 623* the voice portugal _9{12} 5515 never too late _1{11} not me _1{1} earthmix space _1{10} 
 - 16/12/21 - 500* the voice portugal _9{12} 5515 never too late _1{12} not me _1{1} earthmix space _1{10} 
 - 17/12/21 - 485* aggretsuko _4{0} the voice portugal _9{12} 5515 never too late _1{12} not me _1{1} 
-- 18/12/21 - 356* the voice senior it _2{6} unlocked _1{4} paint with love _1{5} earthmix space _1{10} bad buddy _1{10} aggretsuko _4{1} 
-- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} the voice senior it _2{7} unlocked _1{4} paint with love _1{7} earthmix space _1{12} bad buddy _1{11} aggretsuko _4{1} 
+- 18/12/21 - 356* the voice senior it _2{6} unlocked _1{4} paint with love _1{5} earthmix space _1{10} aggretsuko _4{1} 
+- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} the voice senior it _2{7} unlocked _1{4} paint with love _1{7} earthmix space _1{12} aggretsuko _4{1} 
 - 20/12/21 - 62* the voice portugal _9{13} not me _1{1} district z _2{3} f4 thailand _1{1} the voice senior it _2{8} unlocked _1{4} paint with love _1{7} earthmix space _1{14} 
 - 21/12/21 - 72* the voice portugal _9{16} not me _1{3} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} unlocked _1{5} paint with love _1{8} 
 - 22/12/21 - 73* the player _1{0} the voice portugal _9{18} not me _1{3} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} unlocked _1{5} 
 - 23/12/21 - 78* you are my sunshine _1{0} the player _1{2} the voice portugal _9{20} not me _1{3} district z _2{4} f4 thailand _1{2} the voice senior it _2{9} 
 - 24/12/21 - 842* the voice senior it _2{9} you are my sunshine _1{2} the player _1{3} the voice portugal _9{22} 
-- 25/12/21 - 851* earthmix space _1{20} bad buddy _1{17} paint with love _1{8} the voice senior it _2{11} you are my sunshine _1{2} 
-- 26/12/21 - 865* f4 thailand _1{2} earthmix space _1{21} bad buddy _1{19} paint with love _1{9} the voice senior it _2{12} 
-- 27/12/21 - 120* the voice portugal _9{28} not me _1{3} the player _1{3} you are my sunshine _1{2} f4 thailand _1{3} earthmix space _1{22} bad buddy _1{21} 
+- 25/12/21 - 851* earthmix space _1{20} paint with love _1{8} the voice senior it _2{11} you are my sunshine _1{2} 
+- 26/12/21 - 865* f4 thailand _1{2} earthmix space _1{21} paint with love _1{9} the voice senior it _2{12} 
+- 27/12/21 - 120* the voice portugal _9{28} not me _1{3} the player _1{3} you are my sunshine _1{2} f4 thailand _1{3} earthmix space _1{22} 
 - 28/12/21 - 137* 5515 never too late _1{12} the voice portugal _9{31} not me _1{4} the player _1{6} you are my sunshine _1{4} f4 thailand _1{4} earthmix space _1{24} 
 - 29/12/21 - 129* the voice be _10{0} 5515 never too late _1{12} the voice portugal _9{33} not me _1{4} the player _1{7} you are my sunshine _1{5} 
 - 30/12/21 - 122* the voice be _10{0} 5515 never too late _1{12} the voice portugal _9{35} not me _1{4} the player _1{7} 
@@ -800,7 +684,7 @@
 - 05/01/22 - 159*  the voice be _10{2} /9-1-1 lone star _3{0} the voice portugal _9{49} the masked singer uk _3{5} young sheldon _5{10} 
 - 06/01/22 - 156* next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} the voice portugal _9{51} the masked singer uk _3{6} young sheldon _5{10} 
 - 07/01/22 - 141* the voice no _7{0} icsyv _2{0} next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} the voice portugal _9{53} the masked singer uk _3{7} young sheldon _5{11} 
-- 08/01/22 - 89* rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice senior it _2{15} ninja warrior _6{0} the voice no _7{0} icsyv _2{0} bad buddy _1{27} paint with love _1{19} next level chef _1{2} 
+- 08/01/22 - 89* rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice senior it _2{15} ninja warrior _6{0} the voice no _7{0} icsyv _2{0} paint with love _1{19} next level chef _1{2} 
 - 09/01/22 - 69* the voice senior esp _3{0} the masked singer uk _3{8} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice senior it _2{16} ninja warrior _6{0} the voice no _7{2} 
 - 10/01/22 - 280* the voice portugal _9{59} not me _1{5} the voice senior esp _3{0} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
 - 11/01/22 - 318* /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 

@@ -34,7 +34,6 @@ Survivor sa 7x2
 ### tisaep all
 * ici
 _
-Bad buddy 1x11
 The voice senior esp 3x2
 The masked singer uk 3x4
 Rpdru 14x2
@@ -91,7 +90,6 @@ The case study of vanitas 1x2
 * The case study of vanitas 1x1
 Banana fish 1x2
 * Banana fish 1x1
-* Bad buddy 1x1
 Tbbt 11x3
 Aoki vuanpaia no nayami 1x3
 My sweet dear 1x2

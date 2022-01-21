@@ -512,7 +512,9 @@
 |tinted with you|tinted with you|8|serie|corée|<!--  -->
 |survivor 13||16|||<!--  -->
 |mr cinderella 1||8|||<!--  -->
+|behind cut 1||8|||<!--  -->
 |survivor au 6||24|||!--  -->
+|bad buddy 1||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -673,7 +675,6 @@
 |age of the living dead 1|||||1|<!--  -->
 |insiders 1||7|||1|<!--  -->
 |my sweet dear 1||8|||2|<!--  -->
-|bad buddy 1||12|||2|<!--  -->
 |banana fish 1|||||2|<!--  -->
 |vanitas no carte 1||24|||2|<!--  -->
 |les engagés 3||3|||1|<!--  -->
