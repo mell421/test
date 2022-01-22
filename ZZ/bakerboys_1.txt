@@ -2,16 +2,16 @@ aEff/aeff.md:- 03/12/21 - 267* baker boys _1{4}
 aEff/aeff.md:- 04/12/21 - 222* baker boys _1{4} 
 aEff/aeff.md:- 25/11/21 - 274* baker boys _1{0} the voice portugal _9{8} 
 aEff/aeff.md:- 26/11/21 - 248* baker boys _1{0} 
-aEff/aeff.md:- 27/11/21 - 213* the voice senior it _2{0} baker boys _1{1} 
-aEff/aeff.md:- 28/11/21 - 1026* the voice senior it _2{0} baker boys _1{2} 
-apercu/apercu21.md:- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Paint with love _1x2(1) The voice senior it _2x2(1) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
-apercu/apercu21.md:- sem 06-12-2021 -> The voice portugal _9x9(1) Paint with love _1x3(1) District z _2x2(1) The voice senior it _2x3(1) Baker boys _1x4(1) 
-apercu/apercu21.md:- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Paint with love _1x2(1) The voice senior it _2x2(1) Baker boys _1x3(2) 
+aEff/aeff.md:- 27/11/21 - 213* baker boys _1{1} 
+aEff/aeff.md:- 28/11/21 - 1026* baker boys _1{2} 
+apercu/apercu21.md:- mois 01-12-2021 -> The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Paint with love _1x2(1) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
+apercu/apercu21.md:- sem 06-12-2021 -> The voice portugal _9x9(1) Paint with love _1x3(1) District z _2x2(1) Baker boys _1x4(1) 
+apercu/apercu21.md:- sem 29-11-2021 -> The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Paint with love _1x2(1) Baker boys _1x3(2) 
 apercu/apercu21.md:* concluBis 26/11/21 = Baker boys _1 > 2; 
 apercu/apercu21.md:* concluBis 27/11/21 = Baker boys _1 > 1; 
 apercuTer/apercuTer.md:* Baker boys _1
-tab2021.html:      The voice senior it _2x2(1) Baker boys _1x3(2) </td>
-tab2021.html:      The voice senior it _2x2(1) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) </td>
 tab2021.html:    <td class="conclubis">Baker boys _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Baker boys _1 > 2; </td>
-tab2021.html:    <td class="resumesem">The voice portugal _9x9(1) Paint with love _1x3(1) District z _2x2(1) The voice senior it _2x3(1) Baker boys _1x4(1) </td>
+tab2021.html:    <td class="resumemois">The voice portugal _9x8(5) Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Paint with love _1x2(1) Baker boys _1x3(2) 
+tab2021.html:    <td class="resumesem">The voice portugal _9x8(1) Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Paint with love _1x2(1) Baker boys _1x3(2) </td>
+tab2021.html:    <td class="resumesem">The voice portugal _9x9(1) Paint with love _1x3(1) District z _2x2(1) Baker boys _1x4(1) </td>

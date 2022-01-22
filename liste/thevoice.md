@@ -86,6 +86,7 @@
 |TV ru 10||13|||<!--  -->
 |TV nl 9||17|||<!--  -->
 |TV alb 6||17|||<!--  -->
+|TVS it 2||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -103,7 +104,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the voice portugal 9||15|||3|<!--  -->
-|the voice Senior it 2||?|||1|<!--  -->
 |the voice be 10||16|||0|<!--  -->
 |the voice no 7|||||0|<!--  -->
 |the voice nl 12|||||0|<!--  -->

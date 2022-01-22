@@ -58,7 +58,7 @@ for (i in 10:19) {
 
 ### 2
 ```{r stats2, echo=FALSE}
-for (i in 20:27) {
+for (i in 20:26) {
   sumup2(i)
 }
 #sumup2(29)

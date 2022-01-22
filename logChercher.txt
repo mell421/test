@@ -5,44 +5,39 @@ mot   :  2210 ZZ/Peachoftime_1.txt
 carac :  14620 ZZ/Peachoftime_1.txt
 
 i = The voice portugal _9
-ligne :  199 ZZ/Thevoiceportugal_9.txt
-mot   :  4387 ZZ/Thevoiceportugal_9.txt
-carac :  27078 ZZ/Thevoiceportugal_9.txt
+ligne :  198 ZZ/Thevoiceportugal_9.txt
+mot   :  4106 ZZ/Thevoiceportugal_9.txt
+carac :  25679 ZZ/Thevoiceportugal_9.txt
 
 i = Kieta hatsukoi _1
 ligne :  123 ZZ/Kietahatsukoi_1.txt
-mot   :  1813 ZZ/Kietahatsukoi_1.txt
-carac :  12956 ZZ/Kietahatsukoi_1.txt
+mot   :  1690 ZZ/Kietahatsukoi_1.txt
+carac :  12298 ZZ/Kietahatsukoi_1.txt
 
 i = Earthmix space _1
 ligne :  131 ZZ/Earthmixspace_1.txt
-mot   :  3228 ZZ/Earthmixspace_1.txt
-carac :  20188 ZZ/Earthmixspace_1.txt
+mot   :  2976 ZZ/Earthmixspace_1.txt
+carac :  18935 ZZ/Earthmixspace_1.txt
 
 i = Tbbt _11
 ligne :  69 ZZ/Tbbt_11.txt
-mot   :  1136 ZZ/Tbbt_11.txt
-carac :  7904 ZZ/Tbbt_11.txt
-
-i = The voice senior it _2
-ligne :  81 ZZ/Thevoiceseniorit_2.txt
-mot   :  2284 ZZ/Thevoiceseniorit_2.txt
-carac :  13843 ZZ/Thevoiceseniorit_2.txt
+mot   :  1061 ZZ/Tbbt_11.txt
+carac :  7502 ZZ/Tbbt_11.txt
 
 i = 5515 never too late _1
-ligne :  72 ZZ/5515nevertoolate_1.txt
-mot   :  1579 ZZ/5515nevertoolate_1.txt
-carac :  9993 ZZ/5515nevertoolate_1.txt
+ligne :  70 ZZ/5515nevertoolate_1.txt
+mot   :  1406 ZZ/5515nevertoolate_1.txt
+carac :  9064 ZZ/5515nevertoolate_1.txt
 
 i = Camping paradis _12
 ligne :  53 ZZ/Campingparadis_12.txt
-mot   :  888 ZZ/Campingparadis_12.txt
-carac :  6327 ZZ/Campingparadis_12.txt
+mot   :  878 ZZ/Campingparadis_12.txt
+carac :  6271 ZZ/Campingparadis_12.txt
 
 i = Paint with love _1
 ligne :  78 ZZ/Paintwithlove_1.txt
-mot   :  2174 ZZ/Paintwithlove_1.txt
-carac :  12981 ZZ/Paintwithlove_1.txt
+mot   :  1960 ZZ/Paintwithlove_1.txt
+carac :  11911 ZZ/Paintwithlove_1.txt
 
 i = 7project _1
 ligne :  36 ZZ/7project_1.txt
@@ -56,8 +51,8 @@ carac :  4842 ZZ//9-1-1_5.txt
 
 i = Not me _1
 ligne :  41 ZZ/Notme_1.txt
-mot   :  1154 ZZ/Notme_1.txt
-carac :  7444 ZZ/Notme_1.txt
+mot   :  1111 ZZ/Notme_1.txt
+carac :  7217 ZZ/Notme_1.txt
 
 i = The shipper _1
 ligne :  31 ZZ/Theshipper_1.txt
@@ -66,13 +61,13 @@ carac :  3426 ZZ/Theshipper_1.txt
 
 i = The player _1
 ligne :  22 ZZ/Theplayer_1.txt
-mot   :  538 ZZ/Theplayer_1.txt
-carac :  3138 ZZ/Theplayer_1.txt
+mot   :  518 ZZ/Theplayer_1.txt
+carac :  3032 ZZ/Theplayer_1.txt
 
 i = Unlocked _1
 ligne :  24 ZZ/Unlocked_1.txt
-mot   :  494 ZZ/Unlocked_1.txt
-carac :  3593 ZZ/Unlocked_1.txt
+mot   :  468 ZZ/Unlocked_1.txt
+carac :  3466 ZZ/Unlocked_1.txt
 
 i = Aoki vuanpaia no nayami _1
 ligne :  26 ZZ/Aokivuanpaianonayami_1.txt
@@ -81,18 +76,18 @@ carac :  2855 ZZ/Aokivuanpaianonayami_1.txt
 
 i = Young sheldon _5
 ligne :  34 ZZ/Youngsheldon_5.txt
-mot   :  814 ZZ/Youngsheldon_5.txt
-carac :  5116 ZZ/Youngsheldon_5.txt
+mot   :  809 ZZ/Youngsheldon_5.txt
+carac :  5089 ZZ/Youngsheldon_5.txt
 
 i = You are my sunshine _1
 ligne :  19 ZZ/Youaremysunshine_1.txt
-mot   :  480 ZZ/Youaremysunshine_1.txt
-carac :  2791 ZZ/Youaremysunshine_1.txt
+mot   :  460 ZZ/Youaremysunshine_1.txt
+carac :  2684 ZZ/Youaremysunshine_1.txt
 
 i = F4 thailand _1
 ligne :  22 ZZ/F4thailand_1.txt
-mot   :  657 ZZ/F4thailand_1.txt
-carac :  4004 ZZ/F4thailand_1.txt
+mot   :  588 ZZ/F4thailand_1.txt
+carac :  3669 ZZ/F4thailand_1.txt
 
 i = The case study of vanitas _1
 ligne : 
@@ -101,13 +96,13 @@ carac :
 
 i = District z _2
 ligne :  17 ZZ/Districtz_2.txt
-mot   :  422 ZZ/Districtz_2.txt
-carac :  2640 ZZ/Districtz_2.txt
+mot   :  361 ZZ/Districtz_2.txt
+carac :  2335 ZZ/Districtz_2.txt
 
 i = Baker boys _1
 ligne :  17 ZZ/Bakerboys_1.txt
-mot   :  235 ZZ/Bakerboys_1.txt
-carac :  1660 ZZ/Bakerboys_1.txt
+mot   :  212 ZZ/Bakerboys_1.txt
+carac :  1596 ZZ/Bakerboys_1.txt
 
 i = Post mortem _1
 ligne :  21 ZZ/Postmortem_1.txt
@@ -136,8 +131,8 @@ carac :  1363 ZZ/Lovearea_1.txt
 
 i = Les engages _3
 ligne :  8 ZZ/Lesengages_3.txt
-mot   :  135 ZZ/Lesengages_3.txt
-carac :  954 ZZ/Lesengages_3.txt
+mot   :  122 ZZ/Lesengages_3.txt
+carac :  879 ZZ/Lesengages_3.txt
 
 i = Goblin _1
 ligne :  11 ZZ/Goblin_1.txt
@@ -146,8 +141,8 @@ carac :  1324 ZZ/Goblin_1.txt
 
 i = Aggretsuko _4
 ligne :  8 ZZ/Aggretsuko_4.txt
-mot   :  128 ZZ/Aggretsuko_4.txt
-carac :  932 ZZ/Aggretsuko_4.txt
+mot   :  111 ZZ/Aggretsuko_4.txt
+carac :  835 ZZ/Aggretsuko_4.txt
 
 i = Age of the living dead _1
 ligne : 
@@ -171,13 +166,13 @@ carac :  1227 ZZ/Aliceinborderland_1.txt
 
 i = Banana fish _1
 ligne :  6 ZZ/Bananafish_1.txt
-mot   :  107 ZZ/Bananafish_1.txt
-carac :  793 ZZ/Bananafish_1.txt
+mot   :  94 ZZ/Bananafish_1.txt
+carac :  718 ZZ/Bananafish_1.txt
 
 i = The voice be _10
 ligne :  16 ZZ/Thevoicebe_10.txt
-mot   :  527 ZZ/Thevoicebe_10.txt
-carac :  3120 ZZ/Thevoicebe_10.txt
+mot   :  522 ZZ/Thevoicebe_10.txt
+carac :  3092 ZZ/Thevoicebe_10.txt
 
 i = Bite me _1
 ligne :  21 ZZ/Biteme_1.txt
@@ -322,7 +317,7 @@ carac :  1751 ZZ/Slamdance_1.txt
 i = Be love _1
 ligne :  67 ZZ/Belove_1.txt
 mot   :  1185 ZZ/Belove_1.txt
-carac :  7819 ZZ/Belove_1.txt
+carac :  7814 ZZ/Belove_1.txt
 
 i = Tien bromance _1
 ligne :  13 ZZ/Tienbromance_1.txt

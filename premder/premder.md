@@ -39,7 +39,6 @@ The masked singer uk 3x4
 Rpdru 14x2
 Rpdr 14x2
 The voice nl 12x2
-The voice senior it 2x7
 Ninja warrior 6x2
 * The masked singer vv 2x1
 The voice no 7x4
@@ -83,7 +82,6 @@ Camping paradis 12x5
 Baker boys 1x3
 Kieta hatsukoi 1x7
 * Paint with love 1x1
-* The voice senior it _2x1
 * Baker boys 1x1
 * Les engages 3x1
 The case study of vanitas 1x2
