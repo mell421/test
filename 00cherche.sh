@@ -38,7 +38,7 @@ list99=(
 
 listAsc=( 
 # 1
-"Not me _1" "The voice senior esp _3" "The masked singer uk _3" 
+"Not me _1" "The masked singer uk _3" 
 # 2
 "F4 thailand _1" "Survivor sa _7" "Rpdru _14" "Rpdr _14" "The voice nl _12" 
 # 3

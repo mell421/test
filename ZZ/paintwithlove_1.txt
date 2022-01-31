@@ -44,7 +44,7 @@ apercu/apercu21.md:* concluBis 18/12/21 = Paint with love _1 > 5; Earthmix space
 apercu/apercu21.md:* concluBis 25/12/21 = The voice portugal _9 > 5; Earthmix space _1 > 3; Paint with love _1 > 2; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 26/12/21 = The voice portugal _9 > 5; Earthmix space _1 > 2; Paint with love _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
 apercu/apercu22.md:- sem 03-01-2022 -> The voice portugal _9x14(1) The masked singer uk _3x3(2) Young sheldon _5x6(2) Paint with love _1x7(1) The voice be _10x2(1) 5515 never too late _1x5(1) 
-apercu/apercu22.md:- sem 10-01-2022 -> The voice portugal _9x15(1) Not me _1x5(1) The voice senior esp _3x2(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
+apercu/apercu22.md:- sem 10-01-2022 -> The voice portugal _9x15(1) Not me _1x5(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
 apercu/apercu22.md:* conclu 01/01/22 = The voice portugal _9 > 4; Paint with love _1 > 3; Earthmix space _1 > 1; 
 apercu/apercu22.md:* conclu 02/01/22 = The voice portugal _9 > 4; Paint with love _1 > 2; Earthmix space _1 > 1; 
 apercu/apercu22.md:* conclu 08/01/22 = The voice portugal _9 > 6; The voice no _7 > 3; Paint with love _1 > 2; Icsyv _2 > 2; Next level chef _1 > 1; 
@@ -62,9 +62,9 @@ apercu/apercu22.md:* concluBis 11/01/22 = The voice portugal _9 > 10; Paint with
 apercu/apercu22.md:* concluBis 13/01/22 = The voice portugal _9 > 11; Icsyv _2 > 4; Forever knight _1 > 2; Paint with love _1 > 1; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 14/01/22 = The voice portugal _9 > 13; Icsyv _2 > 4; Forever knight _1 > 3; Paint with love _1 > 2; Imortal _1 > 2; The masked dancer ger _1 > 1; Earthmix space _1 > 1; 
 apercu/apercu22.md:* concluBis 15/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 8; Paint with love _1 > 5; The voice no _7 > 4; Forever knight _1 > 2; Rpdru _14 > 1; Imortal _1 > 1; 
-apercu/apercu22.md:* concluBis 16/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 6; Paint with love _1 > 5; The voice no _7 > 4; The voice senior esp _3 > 1; Forever knight _1 > 1; 
+apercu/apercu22.md:* concluBis 16/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 6; Paint with love _1 > 5; The voice no _7 > 4; Forever knight _1 > 1; 
 apercuTer/apercuTer.md:* Paint with love _1
-apercuTer/apercuTer.md:*insererici The voice senior it _2 Bad buddy _1 Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
+apercuTer/apercuTer.md:*insererici The voice senior esp _3 Survivor _17 Survivor _16 Survivor _15 Survivor _14 The voice senior it _2 Bad buddy _1 Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
 tab2021.html:      Earthmix space _1x10(1) Paint with love _1x6(1) </td>
 tab2021.html:      Paint with love _1x5(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) </td>
 tab2021.html:    <td class="conclu">Paint with love _1 > 3; Earthmix space _1 > 2; </td>

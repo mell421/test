@@ -26,19 +26,19 @@ aEff/aeff.md:- 08/12/21 - 598* 5515 never too late _1{0} camping paradis _12{8} 
 aEff/aeff.md:- 09/01/22 (eff) - the voice portugal _9{57} earthmix space _1{37} paint with love _1{21} kieta hatsukoi _1{21} 5515 never too late _1{18} 
 aEff/aeff.md:- 09/11/21 - 237* the voice portugal _9{4} kieta hatsukoi _1{7} 
 aEff/aeff.md:- 09/12/21 - 508* 5515 never too late _1{0} camping paradis _12{8} the voice portugal _9{11} 
-aEff/aeff.md:- 10/01/22 - 280* the voice portugal _9{59} not me _1{5} the voice senior esp _3{0} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
+aEff/aeff.md:- 10/01/22 - 280* the voice portugal _9{59} not me _1{5} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
 aEff/aeff.md:- 10/01/22 (eff) - the voice portugal _9{59} earthmix space _1{37} paint with love _1{23} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} 
 aEff/aeff.md:- 10/11/21 - 327* the voice portugal _9{4} kieta hatsukoi _1{9} 
-aEff/aeff.md:- 11/01/22 - 318* /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
+aEff/aeff.md:- 11/01/22 - 318* /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
 aEff/aeff.md:- 11/01/22 (eff) - the voice portugal _9{62} earthmix space _1{37} paint with love _1{25} kieta hatsukoi _1{21} 5515 never too late _1{18} 
 aEff/aeff.md:- 11/11/21 - 346* the voice portugal _9{4} 
-aEff/aeff.md:- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
+aEff/aeff.md:- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
 aEff/aeff.md:- 12/01/22 (eff) - the voice portugal _9{64} earthmix space _1{37} paint with love _1{26} kieta hatsukoi _1{21} 5515 never too late _1{18} 
 aEff/aeff.md:- 12/11/21 - 308* the voice portugal _9{4} 
-aEff/aeff.md:- 13/01/22 - 167* icsyv _2{5} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{66} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} 
+aEff/aeff.md:- 13/01/22 - 167* icsyv _2{5} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{66} not me _1{6} the masked singer uk _3{11} 
 aEff/aeff.md:- 13/01/22 (eff) - the voice portugal _9{66} earthmix space _1{37} paint with love _1{26} kieta hatsukoi _1{21} 5515 never too late _1{18} 
 aEff/aeff.md:- 13/12/21 - 1168* the voice portugal _9{11} 5515 never too late _1{6} not me _1{0} earthmix space _1{9} paint with love _1{4} 
-aEff/aeff.md:- 14/01/22 - 174* the masked dancer ger _1{0} next level chef _1{6} icsyv _2{7} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} the voice senior esp _3{1} 
+aEff/aeff.md:- 14/01/22 - 174* the masked dancer ger _1{0} next level chef _1{6} icsyv _2{7} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} 
 aEff/aeff.md:- 14/01/22 (eff) - the voice portugal _9{68} earthmix space _1{37} paint with love _1{27} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
 aEff/aeff.md:- 14/12/21 - 1190* the voice portugal _9{12} 5515 never too late _1{9} not me _1{1} earthmix space _1{10} paint with love _1{5} 
 aEff/aeff.md:- 15/01/22 (eff) - the voice portugal _9{70} earthmix space _1{38} paint with love _1{28} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
@@ -129,7 +129,7 @@ apercu/apercu21.md:* concluBis 29/12/21 = The voice portugal _9 > 8; You are my 
 apercu/apercu21.md:* concluBis 30/12/21 = The voice portugal _9 > 6; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 31/12/21 = The voice portugal _9 > 6; Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 apercu/apercu22.md:- sem 03-01-2022 -> The voice portugal _9x14(1) The masked singer uk _3x3(2) Young sheldon _5x6(2) Paint with love _1x7(1) The voice be _10x2(1) 5515 never too late _1x5(1) 
-apercu/apercu22.md:- sem 10-01-2022 -> The voice portugal _9x15(1) Not me _1x5(1) The voice senior esp _3x2(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
+apercu/apercu22.md:- sem 10-01-2022 -> The voice portugal _9x15(1) Not me _1x5(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
 apercu/apercu22.md:* conclu 01/01/22 = The voice portugal _9 > 4; Paint with love _1 > 3; Earthmix space _1 > 1; 
 apercu/apercu22.md:* conclu 02/01/22 = The voice portugal _9 > 4; Paint with love _1 > 2; Earthmix space _1 > 1; 
 apercu/apercu22.md:* conclu 03/01/22 = The voice portugal _9 > 4; The masked singer uk _3 > 1; 
@@ -161,7 +161,7 @@ apercu/apercu22.md:* concluBis 12/01/22 = The voice portugal _9 > 10; The voice 
 apercu/apercu22.md:* concluBis 13/01/22 = The voice portugal _9 > 11; Icsyv _2 > 4; Forever knight _1 > 2; Paint with love _1 > 1; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 14/01/22 = The voice portugal _9 > 13; Icsyv _2 > 4; Forever knight _1 > 3; Paint with love _1 > 2; Imortal _1 > 2; The masked dancer ger _1 > 1; Earthmix space _1 > 1; 
 apercu/apercu22.md:* concluBis 15/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 8; Paint with love _1 > 5; The voice no _7 > 4; Forever knight _1 > 2; Rpdru _14 > 1; Imortal _1 > 1; 
-apercu/apercu22.md:* concluBis 16/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 6; Paint with love _1 > 5; The voice no _7 > 4; The voice senior esp _3 > 1; Forever knight _1 > 1; 
+apercu/apercu22.md:* concluBis 16/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 6; Paint with love _1 > 5; The voice no _7 > 4; Forever knight _1 > 1; 
 apercu/apercuglobal.md:- sem 18-10-2021 The voice portugal _9x2(1) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
 apercuTer/apercuTer.md:* The voice portugal _9
 tab2021.html:    <td class="conclu">The voice portugal _9 > 1; </td>

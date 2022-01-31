@@ -1,10 +1,10 @@
 aEff/aeff.md:- 01/01/22 - 127* paint with love _1{11} the voice be _10{0} 5515 never too late _1{14} the voice portugal _9{39} not me _1{4} 
-aEff/aeff.md:- 10/01/22 - 280* the voice portugal _9{59} not me _1{5} the voice senior esp _3{0} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
-aEff/aeff.md:- 11/01/22 - 318* /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
-aEff/aeff.md:- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
-aEff/aeff.md:- 13/01/22 - 167* icsyv _2{5} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{66} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} 
+aEff/aeff.md:- 10/01/22 - 280* the voice portugal _9{59} not me _1{5} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
+aEff/aeff.md:- 11/01/22 - 318* /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
+aEff/aeff.md:- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
+aEff/aeff.md:- 13/01/22 - 167* icsyv _2{5} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{66} not me _1{6} the masked singer uk _3{11} 
 aEff/aeff.md:- 13/12/21 - 1168* the voice portugal _9{11} 5515 never too late _1{6} not me _1{0} earthmix space _1{9} paint with love _1{4} 
-aEff/aeff.md:- 14/01/22 - 174* the masked dancer ger _1{0} next level chef _1{6} icsyv _2{7} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} the voice senior esp _3{1} 
+aEff/aeff.md:- 14/01/22 - 174* the masked dancer ger _1{0} next level chef _1{6} icsyv _2{7} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} 
 aEff/aeff.md:- 14/12/21 - 1190* the voice portugal _9{12} 5515 never too late _1{9} not me _1{1} earthmix space _1{10} paint with love _1{5} 
 aEff/aeff.md:- 15/12/21 - 623* the voice portugal _9{12} 5515 never too late _1{11} not me _1{1} earthmix space _1{10} 
 aEff/aeff.md:- 16/12/21 - 500* the voice portugal _9{12} 5515 never too late _1{12} not me _1{1} earthmix space _1{10} 
@@ -24,7 +24,7 @@ apercu/apercu21.md:- sem 13-12-2021 -> The voice portugal _9x10(1) 5515 never to
 apercu/apercu21.md:- sem 20-12-2021 -> The voice portugal _9x11(1) Not me _1x3(1) District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Paint with love _1x5(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
 apercu/apercu21.md:- sem 27-12-2021 -> The voice portugal _9x12(1) Not me _1x4(1) The player _1x3(2) You are my sunshine _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1) Paint with love _1x6(1) 
 apercu/apercu21.md:* concluBis 20/12/21 = The voice portugal _9 > 13; Earthmix space _1 > 2; Forever knight _1 > 2; Not me _1 > 1; Imortal _1 > 1; 
-apercu/apercu22.md:- sem 10-01-2022 -> The voice portugal _9x15(1) Not me _1x5(1) The voice senior esp _3x2(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
+apercu/apercu22.md:- sem 10-01-2022 -> The voice portugal _9x15(1) Not me _1x5(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
 apercu/apercuglobal.md:- mois 01-04-2020 Ninja warrior junior us _2x7(5) Why women kill _1x3(2) Les ratz _1x2(1) Dare me _1x2(1) Vwars _1x6(2) Prodigal son _1x5(2) Kingdom _2x2(1) Only connect _15x24(2) Breaking bad _4x8(1) I am not okay with this _1x4(2) Castlevania _3x2(1) 
 apercu/apercuglobal.md:- mois 01-08-2019 Riverdale _3x11(1) Kunoichi _1x8(2) Sasuke _1x8(3) Girl meets world _1x9(1) Another life _1x2(1) Will and grace _5x4(3) Scrubs _1x11(2) Malcolm _2x14(3) Euphoria _1x2(1) Light as a feather _1x7(1) Nos4a2 _1x4(1) Doom patrol _1x5(1) Blood _1x15(2) 
 apercu/apercuglobal.md:- sem 05-08-2019 Dark _1x2(1) Dna _1x6(1) Riverdale _3x11(1) Kunoichi _1x8(1) Sasuke _1x8(2) Girl meets world _1x9(1) Another life _1x2(1) 

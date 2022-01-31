@@ -52,13 +52,13 @@
 |survivor 11||15||us|<!--  -->
 |Koh-Lanta 27||15||france|<!--  -->
 |survivor 41||14||us|<!--  -->
-|survivor 12||16|||<!--  -->
-|survivor 13||16|||<!--  -->
+|survivor 12||16||us|<!--  -->
+|survivor 13||16||us|<!--  -->
 |survivor au 6||24||aus|<!--  -->
-|Survivor 14||15|||<!--  -->
-|survivor 15||15|||<!--  -->
-|survivor 16||15|||<!--  -->
-|Survivor 17||14|||<!--  -->
+|Survivor 14||15||us|<!--  -->
+|survivor 15||15||us|<!--  -->
+|survivor 16||15||us|<!--  -->
+|Survivor 17||14||us|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

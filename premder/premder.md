@@ -34,7 +34,6 @@ Survivor sa 7x2
 ### tisaep all
 * ici
 _
-The voice senior esp 3x2
 The masked singer uk 3x4
 Rpdru 14x2
 Rpdr 14x2
@@ -52,7 +51,6 @@ The voice be 10x3
 /9-1-1 lone star 3x2
 The voice portugal 9x14
 Not me 1x4
-* The voice senior esp 3x1
 F4 thailand 1x3
 * Survivor sa 7x1
 * Rpdru 14x1

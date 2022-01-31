@@ -1,7 +1,7 @@
-aEff/aeff.md:- 09/01/22 - 69* the voice senior esp _3{0} the masked singer uk _3{8} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} rpdr _14{0} the voice nl _12{0} ninja warrior _6{0} the voice no _7{2} 
-aEff/aeff.md:- 10/01/22 - 280* the voice portugal _9{59} not me _1{5} the voice senior esp _3{0} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
-aEff/aeff.md:- 11/01/22 - 318* /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
-aEff/aeff.md:- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the voice senior esp _3{1} the masked singer uk _3{11} f4 thailand _1{6} 
+aEff/aeff.md:- 09/01/22 - 69* the masked singer uk _3{8} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} rpdr _14{0} the voice nl _12{0} ninja warrior _6{0} the voice no _7{2} 
+aEff/aeff.md:- 10/01/22 - 280* the voice portugal _9{59} not me _1{5} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
+aEff/aeff.md:- 11/01/22 - 318* /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
+aEff/aeff.md:- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
 aEff/aeff.md:- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} unlocked _1{4} paint with love _1{7} earthmix space _1{12} aggretsuko _4{1} 
 aEff/aeff.md:- 20/12/21 - 62* the voice portugal _9{13} not me _1{1} district z _2{3} f4 thailand _1{1} unlocked _1{4} paint with love _1{7} earthmix space _1{14} 
 aEff/aeff.md:- 21/12/21 - 72* the voice portugal _9{16} not me _1{3} district z _2{4} f4 thailand _1{2} unlocked _1{5} paint with love _1{8} 
@@ -14,7 +14,7 @@ apercu/apercu21.md:- sem 20-12-2021 -> The voice portugal _9x11(1) Not me _1x3(1
 apercu/apercu21.md:- sem 27-12-2021 -> The voice portugal _9x12(1) Not me _1x4(1) The player _1x3(2) You are my sunshine _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1) Paint with love _1x6(1) 
 apercu/apercu21.md:* concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; The voice portugal _9 > 1; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 26/12/21 = The voice portugal _9 > 5; Earthmix space _1 > 2; Paint with love _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
-apercu/apercu22.md:- sem 10-01-2022 -> The voice portugal _9x15(1) Not me _1x5(1) The voice senior esp _3x2(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
+apercu/apercu22.md:- sem 10-01-2022 -> The voice portugal _9x15(1) Not me _1x5(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
 apercuTer/apercuTer.md:* F4 thailand _1
 tab2021.html:    <td class="conclubis">Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; The voice portugal _9 > 1; Forever knight _1 > 1; </td>
 tab2021.html:    <td class="conclubis">The voice portugal _9 > 5; Earthmix space _1 > 2; Paint with love _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; </td>
