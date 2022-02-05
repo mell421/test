@@ -6,8 +6,8 @@ carac :  14620 ZZ/Peachoftime_1.txt
 
 i = The voice portugal _9
 ligne :  198 ZZ/Thevoiceportugal_9.txt
-mot   :  4069 ZZ/Thevoiceportugal_9.txt
-carac :  25486 ZZ/Thevoiceportugal_9.txt
+mot   :  4057 ZZ/Thevoiceportugal_9.txt
+carac :  25428 ZZ/Thevoiceportugal_9.txt
 
 i = Kieta hatsukoi _1
 ligne :  123 ZZ/Kietahatsukoi_1.txt
@@ -16,8 +16,8 @@ carac :  12298 ZZ/Kietahatsukoi_1.txt
 
 i = Earthmix space _1
 ligne :  131 ZZ/Earthmixspace_1.txt
-mot   :  2964 ZZ/Earthmixspace_1.txt
-carac :  18879 ZZ/Earthmixspace_1.txt
+mot   :  2952 ZZ/Earthmixspace_1.txt
+carac :  18821 ZZ/Earthmixspace_1.txt
 
 i = Tbbt _11
 ligne :  69 ZZ/Tbbt_11.txt
@@ -36,8 +36,8 @@ carac :  6271 ZZ/Campingparadis_12.txt
 
 i = Paint with love _1
 ligne :  78 ZZ/Paintwithlove_1.txt
-mot   :  1961 ZZ/Paintwithlove_1.txt
-carac :  11929 ZZ/Paintwithlove_1.txt
+mot   :  1955 ZZ/Paintwithlove_1.txt
+carac :  11907 ZZ/Paintwithlove_1.txt
 
 i = 7project _1
 ligne :  36 ZZ/7project_1.txt
@@ -51,8 +51,8 @@ carac :  4842 ZZ//9-1-1_5.txt
 
 i = Not me _1
 ligne :  41 ZZ/Notme_1.txt
-mot   :  1081 ZZ/Notme_1.txt
-carac :  7053 ZZ/Notme_1.txt
+mot   :  1076 ZZ/Notme_1.txt
+carac :  7025 ZZ/Notme_1.txt
 
 i = The shipper _1
 ligne :  31 ZZ/Theshipper_1.txt
@@ -171,8 +171,8 @@ carac :  718 ZZ/Bananafish_1.txt
 
 i = The voice be _10
 ligne :  16 ZZ/Thevoicebe_10.txt
-mot   :  502 ZZ/Thevoicebe_10.txt
-carac :  2982 ZZ/Thevoicebe_10.txt
+mot   :  497 ZZ/Thevoicebe_10.txt
+carac :  2954 ZZ/Thevoicebe_10.txt
 
 i = Bite me _1
 ligne :  21 ZZ/Biteme_1.txt
@@ -316,8 +316,8 @@ carac :  1751 ZZ/Slamdance_1.txt
 
 i = Be love _1
 ligne :  67 ZZ/Belove_1.txt
-mot   :  1193 ZZ/Belove_1.txt
-carac :  7861 ZZ/Belove_1.txt
+mot   :  1199 ZZ/Belove_1.txt
+carac :  7897 ZZ/Belove_1.txt
 
 i = Tien bromance _1
 ligne :  13 ZZ/Tienbromance_1.txt

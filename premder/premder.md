@@ -26,7 +26,6 @@ The big leap 1x2
 Aggretsuko 4x2
 The masked singer vv 2x2
 Skam france 9x2
-The masked dancer ger 1x2
 Survivor sa 7x2
 
 
@@ -44,7 +43,6 @@ The voice no 7x4
 Earthmix space 1x10
 * Skam france 9x1
 Paint with love 1x8
-* The masked dancer ger 1x1
 Next level chef 1x3
 Icsyv 2x2
 The voice be 10x3

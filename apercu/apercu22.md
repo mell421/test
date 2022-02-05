@@ -88,7 +88,7 @@
 * concluBis 11/01/22 = The voice portugal _9 > 10; Paint with love _1 > 1; The voice no _7 > 1; 
 * concluBis 12/01/22 = The voice portugal _9 > 10; The voice no _7 > 1; Forever knight _1 > 1; 
 * concluBis 13/01/22 = The voice portugal _9 > 11; Icsyv _2 > 4; Forever knight _1 > 2; Paint with love _1 > 1; Imortal _1 > 1; 
-* concluBis 14/01/22 = The voice portugal _9 > 13; Icsyv _2 > 4; Forever knight _1 > 3; Paint with love _1 > 2; Imortal _1 > 2; The masked dancer ger _1 > 1; Earthmix space _1 > 1; 
+* concluBis 14/01/22 = The voice portugal _9 > 13; Icsyv _2 > 4; Forever knight _1 > 3; Paint with love _1 > 2; Imortal _1 > 2; Earthmix space _1 > 1; 
 * concluBis 15/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 8; Paint with love _1 > 5; The voice no _7 > 4; Forever knight _1 > 2; Rpdru _14 > 1; Imortal _1 > 1; 
 * concluBis 16/01/22 = The voice portugal _9 > 11; Earthmix space _1 > 6; Paint with love _1 > 5; The voice no _7 > 4; Forever knight _1 > 1; 
 

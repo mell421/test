@@ -690,8 +690,8 @@
 - 11/01/22 - 318* /9-1-1 lone star _3{1} the voice portugal _9{62} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
 - 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{64} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
 - 13/01/22 - 167* icsyv _2{5} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{66} not me _1{6} the masked singer uk _3{11} 
-- 14/01/22 - 174* the masked dancer ger _1{0} next level chef _1{6} icsyv _2{7} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} 
-- 15/01/22 - 121* rpdru _14{1} rpdr _14{1} the voice nl _12{1} ninja warrior _6{1} the masked singer vv _2{0} the voice no _7{8} earthmix space _1{38} skam france _9{0} paint with love _1{28} the masked dancer ger _1{1} 
+- 14/01/22 - 174* next level chef _1{6} icsyv _2{7} the voice be _10{3} /9-1-1 lone star _3{1} the voice portugal _9{68} not me _1{6} 
+- 15/01/22 - 121* rpdru _14{1} rpdr _14{1} the voice nl _12{1} ninja warrior _6{1} the masked singer vv _2{0} the voice no _7{8} earthmix space _1{38} skam france _9{0} paint with love _1{28} 
 - 16/01/22 - 112* the masked singer uk _3{11} rpdru _14{2} rpdr _14{1} the voice nl _12{1} ninja warrior _6{1} the masked singer vv _2{0} the voice no _7{10} earthmix space _1{40} skam france _9{0} 
 
 

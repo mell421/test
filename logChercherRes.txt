@@ -4,7 +4,7 @@ carac :
 carac :  1007 ZZ/Insiders_1.txt
 carac :  10120 ZZ/Theharvestseason_1.txt
 carac :  11720 ZZ/Vincenzo_1.txt
-carac :  11929 ZZ/Paintwithlove_1.txt
+carac :  11907 ZZ/Paintwithlove_1.txt
 carac :  1227 ZZ/Aliceinborderland_1.txt
 carac :  12298 ZZ/Kietahatsukoi_1.txt
 carac :  1259 ZZ/Mrlipstick_1.txt
@@ -21,7 +21,7 @@ carac :  1559 ZZ/Mysweetdear_1.txt
 carac :  1596 ZZ/Bakerboys_1.txt
 carac :  1636 ZZ/Youngroyals_1.txt
 carac :  1751 ZZ/Slamdance_1.txt
-carac :  18879 ZZ/Earthmixspace_1.txt
+carac :  18821 ZZ/Earthmixspace_1.txt
 carac :  1945 ZZ/Darkbluekiss_1.txt
 carac :  20947 ZZ/46days_1.txt
 carac :  2108 ZZ/Bt21vlog_1.txt
@@ -29,13 +29,13 @@ carac :  2169 ZZ/Benxjim_1.txt
 carac :  22963 ZZ/Myvampireboyfriend_1.txt
 carac :  2335 ZZ/Districtz_2.txt
 carac :  2423 ZZ/Buffy_1.txt
-carac :  25486 ZZ/Thevoiceportugal_9.txt
+carac :  25428 ZZ/Thevoiceportugal_9.txt
 carac :  2681 ZZ/Zombiedetective_1.txt
 carac :  2684 ZZ/Youaremysunshine_1.txt
 carac :  2766 ZZ/Postmortem_1.txt
 carac :  2853 ZZ/Controlz_2.txt
 carac :  2855 ZZ/Aokivuanpaianonayami_1.txt
-carac :  2982 ZZ/Thevoicebe_10.txt
+carac :  2954 ZZ/Thevoicebe_10.txt
 carac :  3008 ZZ/Theuntamed_1.txt
 carac :  3032 ZZ/Theplayer_1.txt
 carac :  3060 ZZ/Lucifer_4.txt
@@ -54,11 +54,11 @@ carac :  4842 ZZ//9-1-1_5.txt
 carac :  5089 ZZ/Youngsheldon_5.txt
 carac :  6097 ZZ/Elite_4.txt
 carac :  6271 ZZ/Campingparadis_12.txt
-carac :  7053 ZZ/Notme_1.txt
+carac :  7025 ZZ/Notme_1.txt
 carac :  718 ZZ/Bananafish_1.txt
 carac :  7502 ZZ/Tbbt_11.txt
 carac :  766 ZZ/Siewsumnoi_1.txt
-carac :  7861 ZZ/Belove_1.txt
+carac :  7897 ZZ/Belove_1.txt
 carac :  8118 ZZ/Vwars_1.txt
 carac :  835 ZZ/Aggretsuko_4.txt
 carac :  879 ZZ/Lesengages_3.txt
@@ -195,10 +195,10 @@ ligne :  8 ZZ/Lesengages_3.txt
 ligne :  9 ZZ/Thebigleap_1.txt
 mot   : 
 mot   :  1061 ZZ/Tbbt_11.txt
-mot   :  1081 ZZ/Notme_1.txt
+mot   :  1076 ZZ/Notme_1.txt
 mot   :  111 ZZ/Aggretsuko_4.txt
 mot   :  1167 ZZ/Vwars_1.txt
-mot   :  1193 ZZ/Belove_1.txt
+mot   :  1199 ZZ/Belove_1.txt
 mot   :  122 ZZ/Lesengages_3.txt
 mot   :  139 ZZ/Insiders_1.txt
 mot   :  1406 ZZ/5515nevertoolate_1.txt
@@ -212,7 +212,7 @@ mot   :  174 ZZ/Thebigleap_1.txt
 mot   :  184 ZZ/Lovearea_1.txt
 mot   :  192 ZZ/Theyearbook_1.txt
 mot   :  194 ZZ/Tienbromance_1.txt
-mot   :  1961 ZZ/Paintwithlove_1.txt
+mot   :  1955 ZZ/Paintwithlove_1.txt
 mot   :  2079 ZZ/Fromdusktilldawn_2.txt
 mot   :  208 ZZ/Qforce_1.txt
 mot   :  212 ZZ/Bakerboys_1.txt
@@ -223,7 +223,7 @@ mot   :  230 ZZ/Mysweetdear_1.txt
 mot   :  261 ZZ/Slamdance_1.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
 mot   :  292 ZZ/Bt21vlog_1.txt
-mot   :  2964 ZZ/Earthmixspace_1.txt
+mot   :  2952 ZZ/Earthmixspace_1.txt
 mot   :  301 ZZ/Benxjim_1.txt
 mot   :  3151 ZZ/Myvampireboyfriend_1.txt
 mot   :  3261 ZZ/46days_1.txt
@@ -232,8 +232,8 @@ mot   :  356 ZZ/Buffy_1.txt
 mot   :  361 ZZ/Districtz_2.txt
 mot   :  373 ZZ/Postmortem_1.txt
 mot   :  400 ZZ/Aokivuanpaianonayami_1.txt
+mot   :  4057 ZZ/Thevoiceportugal_9.txt
 mot   :  406 ZZ/Lucifer_4.txt
-mot   :  4069 ZZ/Thevoiceportugal_9.txt
 mot   :  409 ZZ/Theuntamed_1.txt
 mot   :  443 ZZ/Biteme_1.txt
 mot   :  449 ZZ/Controlz_2.txt
@@ -242,7 +242,7 @@ mot   :  460 ZZ/Youaremysunshine_1.txt
 mot   :  468 ZZ/Unlocked_1.txt
 mot   :  479 ZZ/Tokyoghoul_3.txt
 mot   :  482 ZZ/Glowup_2.txt
-mot   :  502 ZZ/Thevoicebe_10.txt
+mot   :  497 ZZ/Thevoicebe_10.txt
 mot   :  518 ZZ/Theplayer_1.txt
 mot   :  519 ZZ/Wabishow_1.txt
 mot   :  523 ZZ/Goodsingers_1.txt
