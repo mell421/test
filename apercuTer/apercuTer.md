@@ -745,6 +745,7 @@
 * Survivor _16
 ### sem 06-02-2022 
 * *insererici*
+* Survivor _19
 * The masked dancer ger _1
 * The voice generations au _1
 * Survivor _18
@@ -759,38 +760,74 @@
 
 ## bientot
 * $ a commencer / venir $
-* 
-* Monsters inside bm _1
 * Mental _2
 * The good doctor _5
 * Nilundon _1
 * The masked singer fr _3
+* Survivor _20
+* Survivor _21
+* Survivor _22
+* Survivor _23
+* Survivor _24
+* Pekin express _15
+* First love again _1
+* Cutie pie _1
+* The voice _12
+* Semantic error _1
+* Top chef _13
+* Agt extrem _1
+* Koh-lanta _28
+* Cherry blossom after winter _1
+* The tuxedo _1
+* Domino masters _1
+* Survivor _42
+* The masked singer _7
+* American song contest _1
+* Queen stars brasil _1
+* Name that tune _2
+* Cupids last wish _1
+* Bgt _15
+* Drag race esp _2
+* Unforgotten night _1
+* 
 * 
 * 
 * $ a classer $
 * Unbag _1 (23/12/21)
 * 
 * $ order $
+* F4 thailand _1
+* Paint with love _1
+* The voice no _7
+* The masked singer vv _2
+* The voice finland _12
+* Ninja warrior _6
+* Kissable lips _1
+* Enchante _1
+* Love stage 2022 _1
+* Next level chef _1
+* Icsyv _2
+* The voice generations lithu _1
+* Survivor au _9
+* Rpdrukvstheworld _1
+* The voice be _10
+* Skam france _9
+* /9-1-1 lone star _3
+* Dancing on ice uk _14
+* The voice ukr _12
 * Not me _1
-* 
 * The masked singer uk _3
 * Rpdru _14
 * Rpdr _14
-* The voice nl _12
-* 
-* Ninja warrior _6
-* The masked singer vv _2
-* The voice no _7
-* Earthmix space _1
-* Skam france _9
-* Paint with love _1
-* 
-* Next level chef _1
-* Icsyv _2
-* The voice be _10
-* /9-1-1 lone star _3
+* Peach of time _1
+* Something in my room _1
+* The voice ph _1
+* Love at night _1
+* Color rush _1
+* Meet my angel _2
 * The voice portugal _9
-* F4 thailand _1
+* The voice nl _12
+* Earthmix space _1
 * Survivor sa _7
 * Young sheldon _5
 * 5515 never too late _1
@@ -818,7 +855,6 @@
 * The big leap _1
 * Post mortem _1
 * Alice in bordeland _1
-* Peach of time _1
 * Buffy _1
 * Lucifer _4
 * Bite me _1
@@ -910,7 +946,7 @@
 #### mois 01-02-2022 
 *insererici Survivor _18 Bt21 original story _1 The voice senior esp _3 Survivor _17 Survivor _16 Survivor _15 Survivor _14 The voice senior it _2 Bad buddy _1 Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
 #### mois 01-03-2022 
-*insererici The masked dancer ger _1 The voice generations au _1*
+*insererici Survivor _19 The masked dancer ger _1 The voice generations au _1*
 
 
 

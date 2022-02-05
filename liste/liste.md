@@ -524,6 +524,7 @@
 |Survivor 18||15|||<!-- 31/1/22 -->
 |The voice generations au 1||3|||<!-- 2/2/22 -->
 |The masked dancer ger 1||4|||<!-- 5/2 -->
+|Survivor 19||16|||0|<!-- 5/2/22 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -719,7 +720,6 @@
 |the voice finland 12|||||0|<!-- 28/1/22 -->
 |survivor au 9|||||0|<!-- 31/1/22 -->
 |rpdr uk vs world 1|||||0|<!-- 1/2/22 -->
-|Survivor 19||16|||0|<!-- 2/2/22 -->
 |the voice generations lithu 1|||||0|<!-- 2/2/22 -->
 |kissable lips 1|||||0|<!-- 3/2/22 -->
 |love stage 2022 1|||||0|<!-- 3/2/22 -->
