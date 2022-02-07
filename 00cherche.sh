@@ -9,7 +9,7 @@ list99=(
 # >= 100
 "Peach of time _1" 
 # 99-50
-"The voice portugal _9" "Kieta hatsukoi _1" "Earthmix space _1" "Tbbt _11" 
+"Kieta hatsukoi _1" "Earthmix space _1" "Tbbt _11" 
 # 49-40
 # 39-30
 "5515 never too late _1" "Camping paradis _12" 
@@ -46,7 +46,7 @@ listAsc=(
 # 4
 "Paint with love _1" "Next level chef _1" 
 # 5
-"The voice be _10" "/9-1-1 lone star _3" "The voice portugal _9" "Young sheldon _5" 
+"The voice be _10" "/9-1-1 lone star _3" "Young sheldon _5" 
 # 6
 "5515 never too late _1" "The player _1" "You are my sunshine _1" 
 # 7

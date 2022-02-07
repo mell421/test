@@ -147,7 +147,7 @@
 - sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 - sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Young sheldon _5x2(1) 
-- sem 18-10-2021 The voice portugal _9x2(1) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
+- sem 18-10-2021 Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
 
 
 

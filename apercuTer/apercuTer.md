@@ -118,8 +118,8 @@
     - [sem 17-01-2022](#sem-17-01-2022)
     - [sem 24-01-2022](#sem-24-01-2022)
     - [sem 31-01-2022](#sem-31-01-2022)
-    - [sem 06-02-2022](#sem-06-02-2022)
-    - [sem 13-02-2022](#sem-13-02-2022)
+    - [sem 07-02-2022](#sem-07-02-2022)
+    - [sem 14-02-2022](#sem-14-02-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -743,13 +743,14 @@
 * The voice senior esp _3
 * Survivor _17
 * Survivor _16
-### sem 06-02-2022 
+### sem 07-02-2022 
 * *insererici*
+* The voice portugal _9
 * Survivor _19
 * The masked dancer ger _1
 * The voice generations au _1
 * Survivor _18
-### sem 13-02-2022 
+### sem 14-02-2022 
 * *insererici*
 
 
@@ -825,7 +826,7 @@
 * Love at night _1
 * Color rush _1
 * Meet my angel _2
-* The voice portugal _9
+* 
 * The voice nl _12
 * Earthmix space _1
 * Survivor sa _7
@@ -946,7 +947,7 @@
 #### mois 01-02-2022 
 *insererici Survivor _18 Bt21 original story _1 The voice senior esp _3 Survivor _17 Survivor _16 Survivor _15 Survivor _14 The voice senior it _2 Bad buddy _1 Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
 #### mois 01-03-2022 
-*insererici Survivor _19 The masked dancer ger _1 The voice generations au _1*
+*insererici The voice portugal _9 Survivor _19 The masked dancer ger _1 The voice generations au _1*
 
 
 

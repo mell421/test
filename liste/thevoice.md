@@ -89,6 +89,7 @@
 |TVS it 2||8|||<!--  -->
 |TVS ESP 3||4|||0|<!--  -->
 |TVG au 1||3|||<!--  -->
+|TV portugal 9||16|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -105,7 +106,6 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|the voice portugal 9||15|||3|<!--  -->
 |the voice be 10||16|||0|<!--  -->
 |the voice no 7|||||0|<!--  -->
 |the voice nl 12|||||0|<!--  -->

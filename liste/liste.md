@@ -525,6 +525,7 @@
 |The voice generations au 1||3|||<!-- 2/2/22 -->
 |The masked dancer ger 1||4|||<!-- 5/2 -->
 |Survivor 19||16|||0|<!-- 5/2/22 -->
+|the voice portugal 9||16|||<!-- 6/2 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -681,7 +682,6 @@
 |love area 1|||||2|<!--  -->
 |kieta hatsukoi 1|||||2|<!--  -->
 |aoki vuanpaia no nayami 1|||||2|<!--  -->
-|the voice portugal 9|||||3|<!--  -->
 |age of the living dead 1|||||1|<!--  -->
 |insiders 1||7|||1|<!--  -->
 |my sweet dear 1||8|||2|<!--  -->

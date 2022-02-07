@@ -1,18 +1,18 @@
 aEff/aeff.md:- 17/10/21 - 118* aoki vuanpaia no nayami _1{0} 
-aEff/aeff.md:- 18/10/21 - 214* the voice portugal _9{1} aoki vuanpaia no nayami _1{3} 
-aEff/aeff.md:- 19/10/21 - 225* the voice portugal _9{1} aoki vuanpaia no nayami _1{4} 
+aEff/aeff.md:- 18/10/21 - 214* aoki vuanpaia no nayami _1{3} 
+aEff/aeff.md:- 19/10/21 - 225* aoki vuanpaia no nayami _1{4} 
 aEff/aeff.md:- 25/10/21 - 139* aoki vuanpaia no nayami _1{6} young sheldon _5{4} my sweet dear _1{2} 
-aEff/aeff.md:- 26/10/21 - 133* the voice portugal _9{1} tbbt _11{2} aoki vuanpaia no nayami _1{6} young sheldon _5{5} my sweet dear _1{3} 
-aEff/aeff.md:- 27/10/21 - 206* the voice portugal _9{1} tbbt _11{4} aoki vuanpaia no nayami _1{6} young sheldon _5{6} 
-aEff/aeff.md:- 28/10/21 - 213* the voice portugal _9{1} tbbt _11{6} aoki vuanpaia no nayami _1{6} 
-apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-apercu/apercu21.md:- sem 18-10-2021 The voice portugal _9x2(1) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
+aEff/aeff.md:- 26/10/21 - 133* tbbt _11{2} aoki vuanpaia no nayami _1{6} young sheldon _5{5} my sweet dear _1{3} 
+aEff/aeff.md:- 27/10/21 - 206* tbbt _11{4} aoki vuanpaia no nayami _1{6} young sheldon _5{6} 
+aEff/aeff.md:- 28/10/21 - 213* tbbt _11{6} aoki vuanpaia no nayami _1{6} 
+apercu/apercu21.md:- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercu21.md:- sem 18-10-2021 Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
 apercu/apercu21.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) Age of the living dead _1x2(1) 
 apercu/apercu21.md:* conclu 17/10/21 = Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercu21.md:* concluBis 17/10/21 = Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 18/10/21 = Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercu21.md:* concluBis 19/10/21 = Aoki vuanpaia no nayami _1 > 1; 
-apercu/apercuglobal.md:- sem 18-10-2021 The voice portugal _9x2(1) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
+apercu/apercuglobal.md:- sem 18-10-2021 Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
 apercu/apercuglobal.md:* conclu 17/10/21 = Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercuglobal.md:* concluBis 17/10/21 = Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 18/10/21 = Aoki vuanpaia no nayami _1 > 1; 
@@ -21,6 +21,6 @@ apercuTer/apercuTer.md:* Aoki vuanpaia no nayami _1
 tab2021.html:    <td class="conclu">Aoki vuanpaia no nayami _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Aoki vuanpaia no nayami _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; </td>
-tab2021.html:    <td class="resumemois">Kieta hatsukoi _1x3(2) The voice portugal _9x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) 
+tab2021.html:    <td class="resumemois">Kieta hatsukoi _1x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) 
+tab2021.html:    <td class="resumesem">Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) </td>
 tab2021.html:    <td class="resumesem">Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) 
-tab2021.html:    <td class="resumesem">The voice portugal _9x2(1) Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) </td>

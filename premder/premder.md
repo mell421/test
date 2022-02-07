@@ -72,7 +72,6 @@ The voice ph 1x4
 * Color rush 2x1
 * Meet my angel 2x1
 * Something in my room 1x1
-The voice portugal 9x15
 The voice nl 12x2
 * The masked singer vv 2x1
 Earthmix space 1x10
@@ -117,7 +116,6 @@ My sweet dear 1x2
 * My sweet dear 1x1
 * Insiders 1x1
 * Age of the living dead 1x1
-* The voice portugal 9x1
 * Aoki vuanpaia no nayami 1x1
 * Kieta hatsukoi 1x1
 /9-1-1 5x3
