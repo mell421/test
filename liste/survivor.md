@@ -77,7 +77,8 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |survivor sa 7||18|||0|<!--  -->
-||||||0|<!--  -->
+|Survivor 20|||||0|<!--  -->
+|survivor au 9||25|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -89,9 +90,11 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |Survivor 42|||||0|<!--  -->
-|survivor au 9||25|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
+|Survivor 21|||||0|<!--  -->
+|Survivor 22|||||0|<!--  -->
+|Survivor 23|||||0|<!--  -->
 ||||||0|<!--  -->
 |survivor sa 9|||||0|<!--  -->
 |Koh-Lanta 28|||||0|<!--  -->
