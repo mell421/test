@@ -38,7 +38,6 @@ F4 thailand 1x7
 The voice no 7x10
 The masked singer vv 2x4
 The voice finland 12x3
-Ninja warrior 6x4
 Kissable lips 1x2
 Enchante 1x2
 * Love stage 2022 1x1
@@ -79,7 +78,6 @@ Earthmix space 1x10
 * Rpdru 14x1
 * Rpdr 14x1
 * The voice nl 12x1
-* Ninja warrior 6x1
 * The voice no 7x1
 * Icsyv 2x0
 * Next level chef 1x1

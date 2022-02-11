@@ -42,7 +42,7 @@ listAsc=(
 # 2
 "F4 thailand _1" "Survivor sa _7" "Rpdru _14" "Rpdr _14" "The voice nl _12" 
 # 3
-"Ninja warrior _6" "The voice no _7" "Icsyv _2" 
+"The voice no _7" "Icsyv _2" 
 # 4
 "Next level chef _1" 
 # 5

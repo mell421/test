@@ -16,7 +16,7 @@ carac :  1422 ZZ/Lovearea_1.txt
 carac :  14620 ZZ/Peachoftime_1.txt
 carac :  1511 ZZ/Mysweetdear_1.txt
 carac :  1536 ZZ/Bangkoklovestoriesinnocence_1.txt
-carac :  15400 ZZ/Earthmixspace_1.txt
+carac :  15360 ZZ/Earthmixspace_1.txt
 carac :  1553 ZZ/Qforce_1.txt
 carac :  1636 ZZ/Youngroyals_1.txt
 carac :  1751 ZZ/Slamdance_1.txt
@@ -29,12 +29,12 @@ carac :  2232 ZZ/Youaremysunshine_1.txt
 carac :  22963 ZZ/Myvampireboyfriend_1.txt
 carac :  2382 ZZ/Theplayer_1.txt
 carac :  2423 ZZ/Buffy_1.txt
-carac :  2563 ZZ/Thevoicebe_10.txt
+carac :  2541 ZZ/Thevoicebe_10.txt
 carac :  2639 ZZ/Aokivuanpaianonayami_1.txt
 carac :  2681 ZZ/Zombiedetective_1.txt
 carac :  2766 ZZ/Postmortem_1.txt
 carac :  2853 ZZ/Controlz_2.txt
-carac :  2908 ZZ/F4thailand_1.txt
+carac :  2866 ZZ/F4thailand_1.txt
 carac :  3008 ZZ/Theuntamed_1.txt
 carac :  3060 ZZ/Lucifer_4.txt
 carac :  3128 ZZ/Biteme_1.txt
@@ -51,7 +51,7 @@ carac :  4631 ZZ/Youngsheldon_5.txt
 carac :  4687 ZZ//9-1-1_5.txt
 carac :  593 ZZ/Bananafish_1.txt
 carac :  6097 ZZ/Elite_4.txt
-carac :  6139 ZZ/Notme_1.txt
+carac :  6117 ZZ/Notme_1.txt
 carac :  6179 ZZ/Campingparadis_12.txt
 carac :  666 ZZ/Aggretsuko_4.txt
 carac :  6700 ZZ/Tbbt_11.txt
@@ -209,7 +209,7 @@ mot   :  212 ZZ/Bangkoklovestoriesinnocence_1.txt
 mot   :  220 ZZ/Mysweetdear_1.txt
 mot   :  220 ZZ/Youngroyals_1.txt
 mot   :  2210 ZZ/Peachoftime_1.txt
-mot   :  2296 ZZ/Earthmixspace_1.txt
+mot   :  2290 ZZ/Earthmixspace_1.txt
 mot   :  261 ZZ/Slamdance_1.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
 mot   :  288 ZZ/Districtz_2.txt
@@ -225,11 +225,11 @@ mot   :  373 ZZ/Postmortem_1.txt
 mot   :  398 ZZ/Theplayer_1.txt
 mot   :  406 ZZ/Lucifer_4.txt
 mot   :  409 ZZ/Theuntamed_1.txt
+mot   :  431 ZZ/Thevoicebe_10.txt
 mot   :  431 ZZ/Unlocked_1.txt
-mot   :  434 ZZ/Thevoicebe_10.txt
 mot   :  443 ZZ/Biteme_1.txt
+mot   :  444 ZZ/F4thailand_1.txt
 mot   :  449 ZZ/Controlz_2.txt
-mot   :  450 ZZ/F4thailand_1.txt
 mot   :  460 ZZ/Theshipper_1.txt
 mot   :  479 ZZ/Tokyoghoul_3.txt
 mot   :  482 ZZ/Glowup_2.txt
@@ -244,7 +244,7 @@ mot   :  75 ZZ/Bananafish_1.txt
 mot   :  84 ZZ/Aggretsuko_4.txt
 mot   :  862 ZZ/Campingparadis_12.txt
 mot   :  892 ZZ/Elite_4.txt
-mot   :  931 ZZ/Notme_1.txt
+mot   :  928 ZZ/Notme_1.txt
 mot   :  936 ZZ/Tbbt_11.txt
 mot   :  98 ZZ/Lesengages_3.txt
 mot   :  99 ZZ/Siewsumnoi_1.txt

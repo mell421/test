@@ -11,8 +11,8 @@ carac :  10390 ZZ/Kietahatsukoi_1.txt
 
 i = Earthmix space _1
 ligne :  132 ZZ/Earthmixspace_1.txt
-mot   :  2296 ZZ/Earthmixspace_1.txt
-carac :  15400 ZZ/Earthmixspace_1.txt
+mot   :  2290 ZZ/Earthmixspace_1.txt
+carac :  15360 ZZ/Earthmixspace_1.txt
 
 i = Tbbt _11
 ligne :  69 ZZ/Tbbt_11.txt
@@ -41,8 +41,8 @@ carac :  4687 ZZ//9-1-1_5.txt
 
 i = Not me _1
 ligne :  42 ZZ/Notme_1.txt
-mot   :  931 ZZ/Notme_1.txt
-carac :  6139 ZZ/Notme_1.txt
+mot   :  928 ZZ/Notme_1.txt
+carac :  6117 ZZ/Notme_1.txt
 
 i = The shipper _1
 ligne :  31 ZZ/Theshipper_1.txt
@@ -76,8 +76,8 @@ carac :  2232 ZZ/Youaremysunshine_1.txt
 
 i = F4 thailand _1
 ligne :  23 ZZ/F4thailand_1.txt
-mot   :  450 ZZ/F4thailand_1.txt
-carac :  2908 ZZ/F4thailand_1.txt
+mot   :  444 ZZ/F4thailand_1.txt
+carac :  2866 ZZ/F4thailand_1.txt
 
 i = The case study of vanitas _1
 ligne : 
@@ -161,8 +161,8 @@ carac :  593 ZZ/Bananafish_1.txt
 
 i = The voice be _10
 ligne :  17 ZZ/Thevoicebe_10.txt
-mot   :  434 ZZ/Thevoicebe_10.txt
-carac :  2563 ZZ/Thevoicebe_10.txt
+mot   :  431 ZZ/Thevoicebe_10.txt
+carac :  2541 ZZ/Thevoicebe_10.txt
 
 i = Bite me _1
 ligne :  21 ZZ/Biteme_1.txt

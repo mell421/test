@@ -19,7 +19,7 @@
 
 ## Aperçu semaine
 - sem 03-01-2022 -> The masked singer uk _3x3(2) Young sheldon _5x6(2) The voice be _10x2(1) 5515 never too late _1x5(1) 
-- sem 10-01-2022 -> Not me _1x5(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
+- sem 10-01-2022 -> Not me _1x5(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) Icsyv _2x2(2) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
 
 
 
