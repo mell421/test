@@ -14,7 +14,7 @@ list99=(
 # 39-30
 "5515 never too late _1" "Camping paradis _12" 
 # 29-20
-"Paint with love _1" "7project _1" "/9-1-1 _5" 
+"7project _1" "/9-1-1 _5" 
 # 19-15
 "Not me _1" "The shipper _1" 
 # 14-10
@@ -44,7 +44,7 @@ listAsc=(
 # 3
 "Ninja warrior _6" "The voice no _7" "Icsyv _2" 
 # 4
-"Paint with love _1" "Next level chef _1" 
+"Next level chef _1" 
 # 5
 "The voice be _10" "/9-1-1 lone star _3" "Young sheldon _5" 
 # 6

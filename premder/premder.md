@@ -35,7 +35,6 @@ Meet my angel 2x2
 * ici
 _
 F4 thailand 1x7
-Paint with love 1x11
 The voice no 7x10
 The masked singer vv 2x4
 The voice finland 12x3
@@ -103,7 +102,6 @@ Camping paradis 12x5
 * District z 2x1
 Baker boys 1x3
 Kieta hatsukoi 1x7
-* Paint with love 1x1
 * Baker boys 1x1
 * Les engages 3x1
 The case study of vanitas 1x2

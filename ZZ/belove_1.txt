@@ -1,7 +1,5 @@
-aEff/aeff.md:- 01/01/22 - 127* paint with love _1{11} the voice be _10{0} 5515 never too late _1{14} not me _1{4} 
 aEff/aeff.md:- 01/02/21 - 200* be love _1{10} 
 aEff/aeff.md:- 01/12/20 - 475* be love _1{2} 
-aEff/aeff.md:- 02/01/22 - 129* the masked singer uk _3{0} paint with love _1{14} the voice be _10{1} 5515 never too late _1{16} 
 aEff/aeff.md:- 02/02/21 - 208* you never eat alone _1{0} slam dance _1{0} be love _1{11} 
 aEff/aeff.md:- 02/12/20 - 385* be love _1{4} 
 aEff/aeff.md:- 03/02/21 - 143* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} be love _1{11} 
@@ -37,8 +35,6 @@ apercu/apercu21.md:- mois 01-02-2021 Be love _1x4(1) The shipper _1x5(2) Tien br
 apercu/apercu21.md:- sem 01-02-2021 Be love _1x4(1) The shipper _1x5(1) 
 apercu/apercu21.md:* concluBis 01/02/21 > Be love _1 > 1; 
 apercu/apercu21.md:* concluBis 31/01/21 > Be love _1 > 1; 
-apercu/apercu22.md:- sem 03-01-2022 -> The masked singer uk _3x3(2) Young sheldon _5x6(2) Paint with love _1x7(1) The voice be _10x2(1) 5515 never too late _1x5(1) 
-apercu/apercu22.md:- sem 10-01-2022 -> Not me _1x5(1) The masked singer uk _3x4(1) F4 thailand _1x4(1) Survivor sa _7x2(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) Ninja warrior _6x2(1) The voice no _7x3(2) Icsyv _2x2(2) Paint with love _1x8(1) Next level chef _1x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
 apercu/apercuglobal.md:- mois 01-02-2021 Be love _1x4(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
 apercu/apercuglobal.md:- mois 01-11-2020 Swap test _1x3(2) The stranded _1x2(1) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 apercu/apercuglobal.md:- mois 01-12-2020 Be love _1x3(2) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
