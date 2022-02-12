@@ -38,35 +38,32 @@ list99=(
 
 listAsc=( 
 # 1
-"Not me _1" "The masked singer uk _3" 
+"Not me _1" "F4 thailand _1" "Survivor sa _7" "Rpdru _14" "Rpdr _14" 
 # 2
-"F4 thailand _1" "Survivor sa _7" "Rpdru _14" "Rpdr _14" "The voice nl _12" 
+"The voice nl _12" "The voice no _7" "Icsyv _2" "Next level chef _1" "The voice be _10" 
 # 3
-"The voice no _7" "Icsyv _2" 
+"/9-1-1 lone star _3" "Young sheldon _5" "5515 never too late _1" "The player _1" "You are my sunshine _1" 
 # 4
-"Next level chef _1" 
+"Earthmix space _1" "District z _2" "Unlocked _1" "Aggretsuko _4" "Camping paradis _12" 
 # 5
-"The voice be _10" "/9-1-1 lone star _3" "Young sheldon _5" 
+"Baker boys _1" "Kieta hatsukoi _1" "Les engages _3" "The case study of vanitas _1" "Banana fish _1" 
 # 6
-"5515 never too late _1" "The player _1" "You are my sunshine _1" 
+"Tbbt _11" "Aoki vuanpaia no nayami _1" "My sweet dear _1" "Insiders _1" "Age of the living dead _1" 
 # 7
-"Earthmix space _1" "District z _2" "Unlocked _1" "Aggretsuko _4" 
+"/9-1-1 _5" "Love area _1" "The shipper _1" "Goblin _1" "7project _1" 
 # 8
-"Camping paradis _12" "Baker boys _1" "Kieta hatsukoi _1" 
+"The big leap _1" "Post mortem _1" "Alice in borderland _1" "Peach of time _1" "Buffy _1" 
 # 9
-"Les engages _3" "The case study of vanitas _1" "Banana fish _1" "Tbbt _11" "Aoki vuanpaia no nayami _1" 
+"Lucifer _4" "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" 
 # 10
-"My sweet dear _1" "Insiders _1" "Age of the living dead _1" "/9-1-1 _5" 
+"From dusk till dawn _2" "Good singers _1" "Control z _2" "46 days _1" "Glow up _2" 
 # 11
-"Love area _1" "The shipper _1" "Goblin _1" "7project _1" "The big leap _1" 
+"Zombie detective _1" "Young royals _1" "Siew sum noi _1" "Elite _4" "Dark blue kiss _1" 
 # 12
-"Post mortem _1" "Alice in borderland _1" "Peach of time _1" "Buffy _1" "Lucifer _4" 
+"Vincenzo _1" 
 # 13
-"Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
 # 14
-"Good singers _1" "Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
 # 15
-"Young royals _1" "Siew sum noi _1" "Elite _4" "Dark blue kiss _1" "Vincenzo _1" 
 # 16
 "An eye for an eye _1" "I can see your voice fr _1" "Mr lipstick _1" "Bt21 vlog _1" "Schools out lets date now _1" 
 # 17

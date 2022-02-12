@@ -6,23 +6,23 @@ carac :  14620 ZZ/Peachoftime_1.txt
 
 i = Kieta hatsukoi _1
 ligne :  123 ZZ/Kietahatsukoi_1.txt
-mot   :  1388 ZZ/Kietahatsukoi_1.txt
-carac :  10390 ZZ/Kietahatsukoi_1.txt
+mot   :  1373 ZZ/Kietahatsukoi_1.txt
+carac :  10306 ZZ/Kietahatsukoi_1.txt
 
 i = Earthmix space _1
 ligne :  132 ZZ/Earthmixspace_1.txt
-mot   :  2290 ZZ/Earthmixspace_1.txt
-carac :  15360 ZZ/Earthmixspace_1.txt
+mot   :  2228 ZZ/Earthmixspace_1.txt
+carac :  15074 ZZ/Earthmixspace_1.txt
 
 i = Tbbt _11
 ligne :  69 ZZ/Tbbt_11.txt
-mot   :  936 ZZ/Tbbt_11.txt
-carac :  6700 ZZ/Tbbt_11.txt
+mot   :  921 ZZ/Tbbt_11.txt
+carac :  6616 ZZ/Tbbt_11.txt
 
 i = 5515 never too late _1
 ligne :  70 ZZ/5515nevertoolate_1.txt
-mot   :  1084 ZZ/5515nevertoolate_1.txt
-carac :  7158 ZZ/5515nevertoolate_1.txt
+mot   :  1052 ZZ/5515nevertoolate_1.txt
+carac :  6989 ZZ/5515nevertoolate_1.txt
 
 i = Camping paradis _12
 ligne :  53 ZZ/Campingparadis_12.txt
@@ -36,13 +36,13 @@ carac :  4560 ZZ/7project_1.txt
 
 i = /9-1-1 _5
 ligne :  40 ZZ//9-1-1_5.txt
-mot   :  665 ZZ//9-1-1_5.txt
-carac :  4687 ZZ//9-1-1_5.txt
+mot   :  645 ZZ//9-1-1_5.txt
+carac :  4579 ZZ//9-1-1_5.txt
 
 i = Not me _1
 ligne :  42 ZZ/Notme_1.txt
-mot   :  928 ZZ/Notme_1.txt
-carac :  6117 ZZ/Notme_1.txt
+mot   :  903 ZZ/Notme_1.txt
+carac :  5976 ZZ/Notme_1.txt
 
 i = The shipper _1
 ligne :  31 ZZ/Theshipper_1.txt
@@ -66,8 +66,8 @@ carac :  2639 ZZ/Aokivuanpaianonayami_1.txt
 
 i = Young sheldon _5
 ligne :  34 ZZ/Youngsheldon_5.txt
-mot   :  727 ZZ/Youngsheldon_5.txt
-carac :  4631 ZZ/Youngsheldon_5.txt
+mot   :  671 ZZ/Youngsheldon_5.txt
+carac :  4352 ZZ/Youngsheldon_5.txt
 
 i = You are my sunshine _1
 ligne :  20 ZZ/Youaremysunshine_1.txt
@@ -76,8 +76,8 @@ carac :  2232 ZZ/Youaremysunshine_1.txt
 
 i = F4 thailand _1
 ligne :  23 ZZ/F4thailand_1.txt
-mot   :  444 ZZ/F4thailand_1.txt
-carac :  2866 ZZ/F4thailand_1.txt
+mot   :  419 ZZ/F4thailand_1.txt
+carac :  2726 ZZ/F4thailand_1.txt
 
 i = The case study of vanitas _1
 ligne : 
@@ -161,8 +161,8 @@ carac :  593 ZZ/Bananafish_1.txt
 
 i = The voice be _10
 ligne :  17 ZZ/Thevoicebe_10.txt
-mot   :  431 ZZ/Thevoicebe_10.txt
-carac :  2541 ZZ/Thevoicebe_10.txt
+mot   :  391 ZZ/Thevoicebe_10.txt
+carac :  2319 ZZ/Thevoicebe_10.txt
 
 i = Bite me _1
 ligne :  21 ZZ/Biteme_1.txt

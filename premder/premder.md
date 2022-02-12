@@ -55,7 +55,6 @@ Dancing on ice uk 14x3
 * Survivor au 9x1
 The voice ukr 12x2
 Not me 1x7
-The masked singer uk 3x6
 Rpdru 14x4
 Rpdr 14x4
 * The voice finland 12x1
@@ -83,7 +82,6 @@ Earthmix space 1x10
 * Next level chef 1x1
 * /9-1-1 lone star 3x1
 Young sheldon 5x5
-* The masked singer uk 3x1
 * The voice be 10x1
 5515 never too late 1x4
 The player 1x2

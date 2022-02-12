@@ -2,7 +2,7 @@ cat sep nb fichier
 
 carac : 
 carac :  10120 ZZ/Theharvestseason_1.txt
-carac :  10390 ZZ/Kietahatsukoi_1.txt
+carac :  10306 ZZ/Kietahatsukoi_1.txt
 carac :  11720 ZZ/Vincenzo_1.txt
 carac :  1227 ZZ/Aliceinborderland_1.txt
 carac :  1259 ZZ/Mrlipstick_1.txt
@@ -14,9 +14,9 @@ carac :  1389 ZZ/Theyearbook_1.txt
 carac :  1419 ZZ/Tienbromance_1.txt
 carac :  1422 ZZ/Lovearea_1.txt
 carac :  14620 ZZ/Peachoftime_1.txt
+carac :  15074 ZZ/Earthmixspace_1.txt
 carac :  1511 ZZ/Mysweetdear_1.txt
 carac :  1536 ZZ/Bangkoklovestoriesinnocence_1.txt
-carac :  15360 ZZ/Earthmixspace_1.txt
 carac :  1553 ZZ/Qforce_1.txt
 carac :  1636 ZZ/Youngroyals_1.txt
 carac :  1751 ZZ/Slamdance_1.txt
@@ -27,14 +27,14 @@ carac :  2108 ZZ/Bt21vlog_1.txt
 carac :  2169 ZZ/Benxjim_1.txt
 carac :  2232 ZZ/Youaremysunshine_1.txt
 carac :  22963 ZZ/Myvampireboyfriend_1.txt
+carac :  2319 ZZ/Thevoicebe_10.txt
 carac :  2382 ZZ/Theplayer_1.txt
 carac :  2423 ZZ/Buffy_1.txt
-carac :  2541 ZZ/Thevoicebe_10.txt
 carac :  2639 ZZ/Aokivuanpaianonayami_1.txt
 carac :  2681 ZZ/Zombiedetective_1.txt
+carac :  2726 ZZ/F4thailand_1.txt
 carac :  2766 ZZ/Postmortem_1.txt
 carac :  2853 ZZ/Controlz_2.txt
-carac :  2866 ZZ/F4thailand_1.txt
 carac :  3008 ZZ/Theuntamed_1.txt
 carac :  3060 ZZ/Lucifer_4.txt
 carac :  3128 ZZ/Biteme_1.txt
@@ -45,18 +45,18 @@ carac :  3399 ZZ/Tokyoghoul_3.txt
 carac :  3485 ZZ/Theshipper_1.txt
 carac :  3841 ZZ/Younevereatalone_1.txt
 carac :  3974 ZZ/Goodsingers_1.txt
+carac :  4352 ZZ/Youngsheldon_5.txt
 carac :  4377 ZZ/Koishiteakuma_1.txt
 carac :  4560 ZZ/7project_1.txt
-carac :  4631 ZZ/Youngsheldon_5.txt
-carac :  4687 ZZ//9-1-1_5.txt
+carac :  4579 ZZ//9-1-1_5.txt
 carac :  593 ZZ/Bananafish_1.txt
+carac :  5976 ZZ/Notme_1.txt
 carac :  6097 ZZ/Elite_4.txt
-carac :  6117 ZZ/Notme_1.txt
 carac :  6179 ZZ/Campingparadis_12.txt
+carac :  6616 ZZ/Tbbt_11.txt
 carac :  666 ZZ/Aggretsuko_4.txt
-carac :  6700 ZZ/Tbbt_11.txt
+carac :  6989 ZZ/5515nevertoolate_1.txt
 carac :  7049 ZZ/Belove_1.txt
-carac :  7158 ZZ/5515nevertoolate_1.txt
 carac :  751 ZZ/Lesengages_3.txt
 carac :  766 ZZ/Siewsumnoi_1.txt
 carac :  8118 ZZ/Vwars_1.txt
@@ -188,11 +188,11 @@ ligne :  8 ZZ/Bangkoklovestoriesinnocence_1.txt
 ligne :  8 ZZ/Lesengages_3.txt
 ligne :  9 ZZ/Thebigleap_1.txt
 mot   : 
+mot   :  1052 ZZ/5515nevertoolate_1.txt
 mot   :  1065 ZZ/Belove_1.txt
-mot   :  1084 ZZ/5515nevertoolate_1.txt
 mot   :  1167 ZZ/Vwars_1.txt
 mot   :  135 ZZ/Insiders_1.txt
-mot   :  1388 ZZ/Kietahatsukoi_1.txt
+mot   :  1373 ZZ/Kietahatsukoi_1.txt
 mot   :  1451 ZZ/Theharvestseason_1.txt
 mot   :  1618 ZZ/Vincenzo_1.txt
 mot   :  162 ZZ/Mrlipstick_1.txt
@@ -209,7 +209,7 @@ mot   :  212 ZZ/Bangkoklovestoriesinnocence_1.txt
 mot   :  220 ZZ/Mysweetdear_1.txt
 mot   :  220 ZZ/Youngroyals_1.txt
 mot   :  2210 ZZ/Peachoftime_1.txt
-mot   :  2290 ZZ/Earthmixspace_1.txt
+mot   :  2228 ZZ/Earthmixspace_1.txt
 mot   :  261 ZZ/Slamdance_1.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
 mot   :  288 ZZ/Districtz_2.txt
@@ -222,13 +222,13 @@ mot   :  356 ZZ/Buffy_1.txt
 mot   :  367 ZZ/Aokivuanpaianonayami_1.txt
 mot   :  370 ZZ/Youaremysunshine_1.txt
 mot   :  373 ZZ/Postmortem_1.txt
+mot   :  391 ZZ/Thevoicebe_10.txt
 mot   :  398 ZZ/Theplayer_1.txt
 mot   :  406 ZZ/Lucifer_4.txt
 mot   :  409 ZZ/Theuntamed_1.txt
-mot   :  431 ZZ/Thevoicebe_10.txt
+mot   :  419 ZZ/F4thailand_1.txt
 mot   :  431 ZZ/Unlocked_1.txt
 mot   :  443 ZZ/Biteme_1.txt
-mot   :  444 ZZ/F4thailand_1.txt
 mot   :  449 ZZ/Controlz_2.txt
 mot   :  460 ZZ/Theshipper_1.txt
 mot   :  479 ZZ/Tokyoghoul_3.txt
@@ -238,13 +238,13 @@ mot   :  523 ZZ/Goodsingers_1.txt
 mot   :  546 ZZ/Younevereatalone_1.txt
 mot   :  567 ZZ/Koishiteakuma_1.txt
 mot   :  619 ZZ/7project_1.txt
-mot   :  665 ZZ//9-1-1_5.txt
-mot   :  727 ZZ/Youngsheldon_5.txt
+mot   :  645 ZZ//9-1-1_5.txt
+mot   :  671 ZZ/Youngsheldon_5.txt
 mot   :  75 ZZ/Bananafish_1.txt
 mot   :  84 ZZ/Aggretsuko_4.txt
 mot   :  862 ZZ/Campingparadis_12.txt
 mot   :  892 ZZ/Elite_4.txt
-mot   :  928 ZZ/Notme_1.txt
-mot   :  936 ZZ/Tbbt_11.txt
+mot   :  903 ZZ/Notme_1.txt
+mot   :  921 ZZ/Tbbt_11.txt
 mot   :  98 ZZ/Lesengages_3.txt
 mot   :  99 ZZ/Siewsumnoi_1.txt

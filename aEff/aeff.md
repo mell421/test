@@ -362,9 +362,9 @@
 - 11/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
 - 12/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
 - 13/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 14/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
-- 15/01/22 (eff) - earthmix space _1{38} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
-- 16/01/22 (eff) - earthmix space _1{40} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} young sheldon _5{11} 
+- 14/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} 
+- 15/01/22 (eff) - earthmix space _1{38} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} 
+- 16/01/22 (eff) - earthmix space _1{40} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 
 
 
@@ -671,20 +671,20 @@
 - 30/12/21 - 122* the voice be _10{0} 5515 never too late _1{12} not me _1{4} the player _1{7} 
 - 31/12/21 - 114* the voice be _10{0} 5515 never too late _1{13} 
 - 01/01/22 - 127* the voice be _10{0} 5515 never too late _1{14} not me _1{4} 
-- 02/01/22 - 129* the masked singer uk _3{0} the voice be _10{1} 5515 never too late _1{16} 
-- 03/01/22 - 141* the masked singer uk _3{1} young sheldon _5{7} 
-- 04/01/22 - 173* /9-1-1 lone star _3{0} the masked singer uk _3{4} young sheldon _5{9} 
-- 05/01/22 - 159*  the voice be _10{2} /9-1-1 lone star _3{0} the masked singer uk _3{5} young sheldon _5{10} 
-- 06/01/22 - 156* next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} the masked singer uk _3{6} young sheldon _5{10} 
-- 07/01/22 - 141* the voice no _7{0} icsyv _2{0} next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} the masked singer uk _3{7} young sheldon _5{11} 
+- 02/01/22 - 129* the voice be _10{1} 5515 never too late _1{16} 
+- 03/01/22 - 141* young sheldon _5{7} 
+- 04/01/22 - 173* /9-1-1 lone star _3{0} young sheldon _5{9} 
+- 05/01/22 - 159*  the voice be _10{2} /9-1-1 lone star _3{0} young sheldon _5{10} 
+- 06/01/22 - 156* next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} young sheldon _5{10} 
+- 07/01/22 - 141* the voice no _7{0} icsyv _2{0} next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} young sheldon _5{11} 
 - 08/01/22 - 89* rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice no _7{0} icsyv _2{0} next level chef _1{2} 
-- 09/01/22 - 69* the masked singer uk _3{8} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice no _7{2} 
-- 10/01/22 - 280* not me _1{5} the masked singer uk _3{10} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
-- 11/01/22 - 318* /9-1-1 lone star _3{1} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
-- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} the masked singer uk _3{11} f4 thailand _1{6} 
-- 13/01/22 - 167* icsyv _2{5} the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} the masked singer uk _3{11} 
+- 09/01/22 - 69* f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice no _7{2} 
+- 10/01/22 - 280* not me _1{5} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
+- 11/01/22 - 318* /9-1-1 lone star _3{1} not me _1{6} f4 thailand _1{6} 
+- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} f4 thailand _1{6} 
+- 13/01/22 - 167* icsyv _2{5} the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} 
 - 14/01/22 - 174* next level chef _1{6} icsyv _2{7} the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} 
 - 15/01/22 - 121* rpdru _14{1} rpdr _14{1} the voice nl _12{1} the masked singer vv _2{0} the voice no _7{8} earthmix space _1{38} skam france _9{0} 
-- 16/01/22 - 112* the masked singer uk _3{11} rpdru _14{2} rpdr _14{1} the voice nl _12{1} the masked singer vv _2{0} the voice no _7{10} earthmix space _1{40} skam france _9{0} 
+- 16/01/22 - 112* rpdru _14{2} rpdr _14{1} the voice nl _12{1} the masked singer vv _2{0} the voice no _7{10} earthmix space _1{40} skam france _9{0} 
 
 

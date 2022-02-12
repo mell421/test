@@ -1,6 +1,6 @@
 aEff/aeff.md:- 01/01/22 - 127* the voice be _10{0} 5515 never too late _1{14} not me _1{4} 
 aEff/aeff.md:- 01/01/22 (eff) - earthmix space _1{27} kieta hatsukoi _1{21} 5515 never too late _1{14} tbbt _11{13} 
-aEff/aeff.md:- 02/01/22 - 129* the masked singer uk _3{0} the voice be _10{1} 5515 never too late _1{16} 
+aEff/aeff.md:- 02/01/22 - 129* the voice be _10{1} 5515 never too late _1{16} 
 aEff/aeff.md:- 02/01/22 (eff) - earthmix space _1{30} kieta hatsukoi _1{21} 5515 never too late _1{16} 
 aEff/aeff.md:- 03/01/22 (eff) - earthmix space _1{32} kieta hatsukoi _1{21} 5515 never too late _1{17} 
 aEff/aeff.md:- 04/01/22 (eff) - earthmix space _1{33} kieta hatsukoi _1{21} 5515 never too late _1{18} 
@@ -19,11 +19,11 @@ aEff/aeff.md:- 11/12/21 - 257* 5515 never too late _1{3}
 aEff/aeff.md:- 12/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
 aEff/aeff.md:- 13/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
 aEff/aeff.md:- 13/12/21 - 1168* 5515 never too late _1{6} not me _1{0} earthmix space _1{9} 
-aEff/aeff.md:- 14/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
+aEff/aeff.md:- 14/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} 
 aEff/aeff.md:- 14/12/21 - 1190* 5515 never too late _1{9} not me _1{1} earthmix space _1{10} 
-aEff/aeff.md:- 15/01/22 (eff) - earthmix space _1{38} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} 
+aEff/aeff.md:- 15/01/22 (eff) - earthmix space _1{38} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} 
 aEff/aeff.md:- 15/12/21 - 623* 5515 never too late _1{11} not me _1{1} earthmix space _1{10} 
-aEff/aeff.md:- 16/01/22 (eff) - earthmix space _1{40} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} the masked singer uk _3{11} young sheldon _5{11} 
+aEff/aeff.md:- 16/01/22 (eff) - earthmix space _1{40} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 aEff/aeff.md:- 16/12/21 - 500* 5515 never too late _1{12} not me _1{1} earthmix space _1{10} 
 aEff/aeff.md:- 17/12/21 - 485* aggretsuko _4{0} 5515 never too late _1{12} not me _1{1} 
 aEff/aeff.md:- 19/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} earthmix space _1{12} 5515 never too late _1{12} 
@@ -56,9 +56,9 @@ apercu/apercu21.md:* concluBis 14/12/21 = 5515 never too late _1 > 3;
 apercu/apercu21.md:* concluBis 15/12/21 = 5515 never too late _1 > 2; 
 apercu/apercu21.md:* concluBis 30/12/21 = Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 31/12/21 = Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
-apercu/apercu22.md:- sem 03-01-2022 -> The masked singer uk _3x3(2) Young sheldon _5x6(2) The voice be _10x2(1) 5515 never too late _1x5(1) 
+apercu/apercu22.md:- sem 03-01-2022 -> Young sheldon _5x6(2) The voice be _10x2(1) 5515 never too late _1x5(1) 
 apercu/apercu22.md:* concluBis 01/01/22 = Earthmix space _1 > 3; 5515 never too late _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-apercu/apercu22.md:* concluBis 02/01/22 = Earthmix space _1 > 3; The masked singer uk _3 > 2; Forever knight _1 > 2; 5515 never too late _1 > 1; Imortal _1 > 1; 
+apercu/apercu22.md:* concluBis 02/01/22 = Earthmix space _1 > 3; Forever knight _1 > 2; 5515 never too late _1 > 1; Imortal _1 > 1; 
 apercuTer/apercuTer.md:* 5515 never too late _1
 tab2021.html:    <td class="conclu">5515 never too late _1 > 1; </td>
 tab2021.html:    <td class="conclu">5515 never too late _1 > 3; </td>

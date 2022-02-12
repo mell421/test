@@ -754,6 +754,7 @@
 * Survivor _18
 ### sem 14-02-2022 
 * *insererici*
+* The masked singer uk _3
 * Ninja warrior _6
 * Paint with love _1
 ### sem 21-02-2022 
@@ -807,11 +808,9 @@
 * 
 * $ order $
 * F4 thailand _1
-* 
 * The voice no _7
 * The masked singer vv _2
 * The voice finland _12
-* 
 * Kissable lips _1
 * Enchante _1
 * Love stage 2022 _1
@@ -826,7 +825,6 @@
 * Dancing on ice uk _14
 * The voice ukr _12
 * Not me _1
-* The masked singer uk _3
 * Rpdru _14
 * Rpdr _14
 * Peach of time _1
@@ -835,7 +833,6 @@
 * Love at night _1
 * Color rush _1
 * Meet my angel _2
-* 
 * The voice nl _12
 * Earthmix space _1
 * Survivor sa _7
@@ -956,7 +953,7 @@
 #### mois 01-02-2022 
 *insererici Survivor _18 Bt21 original story _1 The voice senior esp _3 Survivor _17 Survivor _16 Survivor _15 Survivor _14 The voice senior it _2 Bad buddy _1 Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
 #### mois 01-03-2022 
-*insererici Ninja warrior _6 Paint with love _1 The voice portugal _9 Survivor _19 The masked dancer ger _1 The voice generations au _1*
+*insererici The masked singer uk _3 Ninja warrior _6 Paint with love _1 The voice portugal _9 Survivor _19 The masked dancer ger _1 The voice generations au _1*
 
 
 

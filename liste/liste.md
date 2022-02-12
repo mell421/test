@@ -528,6 +528,7 @@
 |the voice portugal 9||16|||<!-- 6/2 -->
 |paint with love 1||12|||<!-- 28/11/21 - 11/2 -->
 |ninja warrior 6||5|||<!-- 7/1/22 - 11/2 -->
+|the masked singer uk 3||8|||<!-- 1/1/22 - 12/2 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -699,7 +700,6 @@
 |the player|the player|16|serie(*)|thailande|0|<!-- 21/12/21 -->
 |you are my sunshine||6|serie|vietnam|2|<!-- 22/12/21 -->
 |the voice be 10||16|||0|<!-- 28/12/21 -->
-|the masked singer uk 3|||||0|<!-- 1/1/22 -->
 |/9-1-1 lone star 3|||||0|<!-- 3/1/22 -->
 |next level chef 1|||||0|<!-- 5/1/22 -->
 |i can see your voice 2|||||0|<!-- 6/1/22 -->

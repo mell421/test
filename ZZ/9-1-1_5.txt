@@ -1,11 +1,11 @@
 aEff/aeff.md:- 01/10/21 - 129* /9-1-1 _5{2} 
 aEff/aeff.md:- 02/10/21 - 105* /9-1-1 _5{4} 
 aEff/aeff.md:- 03/10/21 - 73* the shipper _1{5} /9-1-1 _5{4} 
-aEff/aeff.md:- 04/01/22 - 173* /9-1-1 lone star _3{0} the masked singer uk _3{4} young sheldon _5{9} 
+aEff/aeff.md:- 04/01/22 - 173* /9-1-1 lone star _3{0} young sheldon _5{9} 
 aEff/aeff.md:- 04/10/21 - 124* the shipper _1{6} /9-1-1 _5{5} 
-aEff/aeff.md:- 05/01/22 - 159*  the voice be _10{2} /9-1-1 lone star _3{0} the masked singer uk _3{5} young sheldon _5{10} 
-aEff/aeff.md:- 06/01/22 - 156* next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} the masked singer uk _3{6} young sheldon _5{10} 
-aEff/aeff.md:- 07/01/22 - 141* the voice no _7{0} icsyv _2{0} next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} the masked singer uk _3{7} young sheldon _5{11} 
+aEff/aeff.md:- 05/01/22 - 159*  the voice be _10{2} /9-1-1 lone star _3{0} young sheldon _5{10} 
+aEff/aeff.md:- 06/01/22 - 156* next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} young sheldon _5{10} 
+aEff/aeff.md:- 07/01/22 - 141* the voice no _7{0} icsyv _2{0} next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} young sheldon _5{11} 
 aEff/aeff.md:- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
 aEff/aeff.md:- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
 aEff/aeff.md:- 13/10/21 - 204* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
