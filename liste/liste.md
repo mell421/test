@@ -532,6 +532,7 @@
 |Survivor 20||15|||<!-- 14/2 -->
 |Survivor 21||16|||<!-- 16/2 -->
 |Survivor 22||15|||<!-- 18/2 -->
+|kieta hatsukoi 1||10|||<!-- 19/2 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -686,7 +687,6 @@
 |goblin 1||16|||1|<!--  -->
 |young sheldon 5||?|||3|<!--  -->
 |love area 1|||||2|<!--  -->
-|kieta hatsukoi 1|||||2|<!--  -->
 |aoki vuanpaia no nayami 1|||||2|<!--  -->
 |age of the living dead 1|||||1|<!--  -->
 |insiders 1||7|||1|<!--  -->

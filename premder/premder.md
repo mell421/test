@@ -97,7 +97,6 @@ Unlocked 1x3
 Camping paradis 12x5
 * District z 2x1
 Baker boys 1x3
-Kieta hatsukoi 1x7
 * Baker boys 1x1
 * Les engages 3x1
 The case study of vanitas 1x2
@@ -111,7 +110,6 @@ My sweet dear 1x2
 * Insiders 1x1
 * Age of the living dead 1x1
 * Aoki vuanpaia no nayami 1x1
-* Kieta hatsukoi 1x1
 /9-1-1 5x3
 Love area 1x2
 * Love area 1x1

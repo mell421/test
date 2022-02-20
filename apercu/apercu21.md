@@ -49,12 +49,12 @@
 - sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 - sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) 
-- sem 18-10-2021 Aoki vuanpaia no nayami _1x3(2) Kieta hatsukoi _1x2(1) 
+- sem 18-10-2021 Aoki vuanpaia no nayami _1x3(2) 
 - sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) Age of the living dead _1x2(1) 
-- sem 01-11-2021 -> Kieta hatsukoi _1x3(1) Tbbt _11x4(2) 
-- sem 08-11-2021 -> Kieta hatsukoi _1x6(3) Banana fish _1x3(2) Earthmix space _1x6(1) 
-- sem 22-11-2021 -> Les engages _3x2(1) The case study of vanitas _1x3(2) Kieta hatsukoi _1x(1) 
-- sem 29-11-2021 -> Kieta hatsukoi _1x8(1) Earthmix space _1x7(1) Baker boys _1x3(2) 
+- sem 01-11-2021 -> Tbbt _11x4(2) 
+- sem 08-11-2021 -> Banana fish _1x3(2) Earthmix space _1x6(1) 
+- sem 22-11-2021 -> Les engages _3x2(1) The case study of vanitas _1x3(2) 
+- sem 29-11-2021 -> Earthmix space _1x7(1) Baker boys _1x3(2) 
 - sem 06-12-2021 -> District z _2x2(1) Baker boys _1x4(1) 
 - sem 13-12-2021 -> 5515 never too late _1x4(3) Not me _1x2(1) Earthmix space _1x8(1) Camping paradis _12x6(1) 
 - sem 20-12-2021 -> Not me _1x3(1) District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
@@ -77,8 +77,8 @@
 - mois 01-08-2021 /46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 - mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-- mois 01-11-2021 -> Kieta hatsukoi _1x3(2) Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-- mois 01-12-2021 -> Kieta hatsukoi _1x8(5) Earthmix space _1x7(2) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
+- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+- mois 01-12-2021 -> Earthmix space _1x7(2) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
 
 
@@ -164,12 +164,6 @@
 * conclu 27/10/21 = Tbbt _11 > 1; 
 * conclu 28/10/21 = Tbbt _11 > 1; 
 * conclu 29/10/21 = Tbbt _11 > 1; 
-* conclu 07/11/21 = Kieta hatsukoi _1 > 1; 
-* conclu 09/11/21 = Kieta hatsukoi _1 > 2; 
-* conclu 10/11/21 = Kieta hatsukoi _1 > 2; 
-* conclu 11/11/21 = Kieta hatsukoi _1 > 2; 
-* conclu 12/11/21 = Kieta hatsukoi _1 > 3; 
-* conclu 13/11/21 = Kieta hatsukoi _1 > 2; 
 * conclu 16/11/21 = The case study of vanitas _1 > 2; 
 * conclu 09/12/21 = 5515 never too late _1 > 1; 
 * conclu 11/12/21 = 5515 never too late _1 > 1; 
@@ -333,13 +327,6 @@
 * concluBis 28/10/21 = Tbbt _11 > 3; 
 * concluBis 29/10/21 = Tbbt _11 > 3; 
 * concluBis 30/10/21 = Tbbt _11 > 1; 
-* concluBis 07/11/21 = Kieta hatsukoi _1 > 3; 
-* concluBis 08/11/21 = Kieta hatsukoi _1 > 2; 
-* concluBis 09/11/21 = Kieta hatsukoi _1 > 4; 
-* concluBis 10/11/21 = Kieta hatsukoi _1 > 4; 
-* concluBis 11/11/21 = Kieta hatsukoi _1 > 4; 
-* concluBis 12/11/21 = Kieta hatsukoi _1 > 5; 
-* concluBis 13/11/21 = Kieta hatsukoi _1 > 4; 
 * concluBis 16/11/21 = The case study of vanitas _1 > 4; 
 * concluBis 17/11/21 = The case study of vanitas _1 > 1; 
 * concluBis 18/11/21 = The case study of vanitas _1 > 1; 
@@ -347,7 +334,6 @@
 * concluBis 20/11/21 = The case study of vanitas _1 > 1; 
 * concluBis 26/11/21 = Baker boys _1 > 2; 
 * concluBis 27/11/21 = Baker boys _1 > 1; 
-* concluBis 29/11/21 = Kieta hatsukoi _1 > 1; 
 * concluBis 09/12/21 = 5515 never too late _1 > 3; 
 * concluBis 10/12/21 = 5515 never too late _1 > 2; 
 * concluBis 11/12/21 = 5515 never too late _1 > 3; 

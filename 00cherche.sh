@@ -9,7 +9,7 @@ list99=(
 # >= 100
 "Peach of time _1" 
 # 99-50
-"Kieta hatsukoi _1" "Earthmix space _1" "Tbbt _11" 
+"Earthmix space _1" "Tbbt _11" 
 # 49-40
 # 39-30
 "5515 never too late _1" "Camping paradis _12" 
@@ -46,7 +46,7 @@ listAsc=(
 # 4
 "Earthmix space _1" "District z _2" "Unlocked _1" "Aggretsuko _4" "Camping paradis _12" 
 # 5
-"Baker boys _1" "Kieta hatsukoi _1" "Les engages _3" "The case study of vanitas _1" "Banana fish _1" 
+"Baker boys _1" "Les engages _3" "The case study of vanitas _1" "Banana fish _1" 
 # 6
 "Tbbt _11" "Aoki vuanpaia no nayami _1" "My sweet dear _1" "Insiders _1" "Age of the living dead _1" 
 # 7

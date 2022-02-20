@@ -299,72 +299,44 @@
 - 05/11/21 (eff) - tbbt _11{13} 
 - 06/11/21 (eff) - tbbt _11{13} 
 - 07/11/21 (eff) - tbbt _11{13} 
-- 12/11/21 (eff) - kieta hatsukoi _1{13} 
-- 13/11/21 (eff) - kieta hatsukoi _1{15} 
-- 14/11/21 (eff) - kieta hatsukoi _1{17} 
-- 15/11/21 (eff) - kieta hatsukoi _1{17} 
-- 16/11/21 (eff) - kieta hatsukoi _1{17} 
-- 17/11/21 (eff) - kieta hatsukoi _1{17} 
-- 18/11/21 (eff) - kieta hatsukoi _1{17} 
-- 19/11/21 (eff) - kieta hatsukoi _1{17} 
-- 20/11/21 (eff) - kieta hatsukoi _1{17} 
-- 21/11/21 (eff) - kieta hatsukoi _1{17} 
-- 22/11/21 (eff) - kieta hatsukoi _1{17} 
-- 23/11/21 (eff) - kieta hatsukoi _1{18} 
-- 24/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
-- 25/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
-- 26/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
-- 27/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
-- 28/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
-- 29/11/21 (eff) - kieta hatsukoi _1{18} tbbt _11{13} 
-- 30/11/21 (eff) - kieta hatsukoi _1{20} 
-- 01/12/21 (eff) - kieta hatsukoi _1{20} 
-- 02/12/21 (eff) - kieta hatsukoi _1{21} 
-- 03/12/21 (eff) - kieta hatsukoi _1{21} 
-- 04/12/21 (eff) - kieta hatsukoi _1{21} 
-- 05/12/21 (eff) - kieta hatsukoi _1{21} 
-- 06/12/21 (eff) - kieta hatsukoi _1{21} 
-- 07/12/21 (eff) - kieta hatsukoi _1{21} 
-- 08/12/21 (eff) - kieta hatsukoi _1{21} 
-- 09/12/21 (eff) - kieta hatsukoi _1{21} 
-- 10/12/21 (eff) - kieta hatsukoi _1{21} 
-- 11/12/21 (eff) - kieta hatsukoi _1{21} 
-- 12/12/21 (eff) - kieta hatsukoi _1{21} 
-- 13/12/21 (eff) - kieta hatsukoi _1{21} 
-- 14/12/21 (eff) - kieta hatsukoi _1{21} 
-- 15/12/21 (eff) - kieta hatsukoi _1{21} 
-- 16/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} 
-- 17/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} 
-- 18/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} 
-- 19/12/21 (eff) - kieta hatsukoi _1{21} tbbt _11{13} earthmix space _1{12} 5515 never too late _1{12} 
-- 20/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{14} tbbt _11{13} 5515 never too late _1{12} camping paradis _12{9} 
-- 21/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{16} tbbt _11{13} 5515 never too late _1{12} 
-- 22/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{17} tbbt _11{13} 5515 never too late _1{12} 
-- 23/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{18} tbbt _11{13} 5515 never too late _1{12} 
-- 24/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{19} tbbt _11{13} 5515 never too late _1{12} 
-- 25/12/21 (eff) - kieta hatsukoi _1{21} earthmix space _1{20} tbbt _11{13} 5515 never too late _1{12} 
-- 26/12/21 (eff) - earthmix space _1{21} kieta hatsukoi _1{21} tbbt _11{13} 
-- 27/12/21 (eff) - earthmix space _1{22} kieta hatsukoi _1{21} tbbt _11{13} 5515 never too late _1{12} 
-- 28/12/21 (eff) - earthmix space _1{24} kieta hatsukoi _1{21} tbbt _11{13} 5515 never too late _1{12} 
-- 29/12/21 (eff) - earthmix space _1{25} kieta hatsukoi _1{21} tbbt _11{13} 5515 never too late _1{12} 
-- 30/12/21 (eff) - earthmix space _1{25} kieta hatsukoi _1{21} tbbt _11{13} 5515 never too late _1{12} 
-- 31/12/21 (eff) - earthmix space _1{26} kieta hatsukoi _1{21} 5515 never too late _1{13} tbbt _11{13} 
-- 01/01/22 (eff) - earthmix space _1{27} kieta hatsukoi _1{21} 5515 never too late _1{14} tbbt _11{13} 
-- 02/01/22 (eff) - earthmix space _1{30} kieta hatsukoi _1{21} 5515 never too late _1{16} 
-- 03/01/22 (eff) - earthmix space _1{32} kieta hatsukoi _1{21} 5515 never too late _1{17} 
-- 04/01/22 (eff) - earthmix space _1{33} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 05/01/22 (eff) - earthmix space _1{34} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 06/01/22 (eff) - earthmix space _1{35} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 07/01/22 (eff) - earthmix space _1{36} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 08/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 09/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 10/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} 
-- 11/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 12/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 13/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} 
-- 14/01/22 (eff) - earthmix space _1{37} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} 
-- 15/01/22 (eff) - earthmix space _1{38} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} 
-- 16/01/22 (eff) - earthmix space _1{40} kieta hatsukoi _1{21} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 24/11/21 (eff) - tbbt _11{13} 
+- 25/11/21 (eff) - tbbt _11{13} 
+- 26/11/21 (eff) - tbbt _11{13} 
+- 27/11/21 (eff) - tbbt _11{13} 
+- 28/11/21 (eff) - tbbt _11{13} 
+- 29/11/21 (eff) - tbbt _11{13} 
+- 16/12/21 (eff) - tbbt _11{13} 
+- 17/12/21 (eff) - tbbt _11{13} 
+- 18/12/21 (eff) - tbbt _11{13} 
+- 19/12/21 (eff) - tbbt _11{13} earthmix space _1{12} 5515 never too late _1{12} 
+- 20/12/21 (eff) - earthmix space _1{14} tbbt _11{13} 5515 never too late _1{12} camping paradis _12{9} 
+- 21/12/21 (eff) - earthmix space _1{16} tbbt _11{13} 5515 never too late _1{12} 
+- 22/12/21 (eff) - earthmix space _1{17} tbbt _11{13} 5515 never too late _1{12} 
+- 23/12/21 (eff) - earthmix space _1{18} tbbt _11{13} 5515 never too late _1{12} 
+- 24/12/21 (eff) - earthmix space _1{19} tbbt _11{13} 5515 never too late _1{12} 
+- 25/12/21 (eff) - earthmix space _1{20} tbbt _11{13} 5515 never too late _1{12} 
+- 26/12/21 (eff) - earthmix space _1{21} tbbt _11{13} 
+- 27/12/21 (eff) - earthmix space _1{22} tbbt _11{13} 5515 never too late _1{12} 
+- 28/12/21 (eff) - earthmix space _1{24} tbbt _11{13} 5515 never too late _1{12} 
+- 29/12/21 (eff) - earthmix space _1{25} tbbt _11{13} 5515 never too late _1{12} 
+- 30/12/21 (eff) - earthmix space _1{25} tbbt _11{13} 5515 never too late _1{12} 
+- 31/12/21 (eff) - earthmix space _1{26} 5515 never too late _1{13} tbbt _11{13} 
+- 01/01/22 (eff) - earthmix space _1{27} 5515 never too late _1{14} tbbt _11{13} 
+- 02/01/22 (eff) - earthmix space _1{30} 5515 never too late _1{16} 
+- 03/01/22 (eff) - earthmix space _1{32} 5515 never too late _1{17} 
+- 04/01/22 (eff) - earthmix space _1{33} 5515 never too late _1{18} 
+- 05/01/22 (eff) - earthmix space _1{34} 5515 never too late _1{18} 
+- 06/01/22 (eff) - earthmix space _1{35} 5515 never too late _1{18} 
+- 07/01/22 (eff) - earthmix space _1{36} 5515 never too late _1{18} 
+- 08/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 09/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 10/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} tbbt _11{13} 
+- 11/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 12/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 13/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 14/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} tbbt _11{13} 
+- 15/01/22 (eff) - earthmix space _1{38} 5515 never too late _1{18} tbbt _11{13} 
+- 16/01/22 (eff) - earthmix space _1{40} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 
 
 
@@ -600,11 +572,11 @@
 - 09/10/21 - 183* young sheldon _5{0} 
 - 10/10/21 - 701* love area _1{0} young sheldon _5{0} 
 - 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
-- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
-- 13/10/21 - 204* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
-- 14/10/21 - 284* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
-- 15/10/21 - 180* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
-- 16/10/21 - 148* kieta hatsukoi _1{0} /9-1-1 _5{6} 
+- 12/10/21 - 236* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
+- 13/10/21 - 204* /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
+- 14/10/21 - 284* /9-1-1 _5{6} earthmix space _1{4} 
+- 15/10/21 - 180* /9-1-1 _5{6} earthmix space _1{4} 
+- 16/10/21 - 148* /9-1-1 _5{6} 
 - 17/10/21 - 118* aoki vuanpaia no nayami _1{0} 
 - 18/10/21 - 214* aoki vuanpaia no nayami _1{3} 
 - 19/10/21 - 225* aoki vuanpaia no nayami _1{4} 
@@ -618,18 +590,12 @@
 - 27/10/21 - 206* tbbt _11{4} aoki vuanpaia no nayami _1{6} young sheldon _5{6} 
 - 28/10/21 - 213* tbbt _11{6} aoki vuanpaia no nayami _1{6} 
 - 29/10/21 - 831* tbbt _11{8} 
-- 01/11/21 - 195* kieta hatsukoi _1{3} 
-- 02/11/21 - 207* kieta hatsukoi _1{3} 
-- 03/11/21 - 289* kieta hatsukoi _1{3} 
 - 06/11/21 - 748* earthmix space _1{6} 
-- 07/11/21 - 186* kieta hatsukoi _1{3} banana fish _1{0} 
-- 08/11/21 - 229* kieta hatsukoi _1{6} 
-- 09/11/21 - 237* kieta hatsukoi _1{7} 
-- 10/11/21 - 327* kieta hatsukoi _1{9} 
-- 16/11/21 - 292* the case study of vanitas _1{0} kieta hatsukoi _1{17} 
-- 17/11/21 - 386* the case study of vanitas _1{2} kieta hatsukoi _1{17} 
-- 18/11/21 - 244* the case study of vanitas _1{3} kieta hatsukoi _1{17} 
-- 19/11/21 - 209* the case study of vanitas _1{4} kieta hatsukoi _1{17} 
+- 07/11/21 - 186* banana fish _1{0} 
+- 16/11/21 - 292* the case study of vanitas _1{0} 
+- 17/11/21 - 386* the case study of vanitas _1{2} 
+- 18/11/21 - 244* the case study of vanitas _1{3} 
+- 19/11/21 - 209* the case study of vanitas _1{4} 
 - 20/11/21 - 236* les engages _3{0} 
 - 21/11/21 - 331* les engages _3{0} 
 - 22/11/21 - 328* les engages _3{0} 
@@ -638,9 +604,9 @@
 - 26/11/21 - 248* baker boys _1{0} 
 - 27/11/21 - 213* baker boys _1{1} 
 - 28/11/21 - 1026* baker boys _1{2} 
-- 29/11/21 - 1071* kieta hatsukoi _1{18} earthmix space _1{7} 
-- 30/11/21 - 381* kieta hatsukoi _1{20} earthmix space _1{8} 
-- 01/12/21 - 546* kieta hatsukoi _1{20} earthmix space _1{8} 
+- 29/11/21 - 1071* earthmix space _1{7} 
+- 30/11/21 - 381* earthmix space _1{8} 
+- 01/12/21 - 546* earthmix space _1{8} 
 - 03/12/21 - 267* baker boys _1{4} 
 - 04/12/21 - 222* baker boys _1{4} 
 - 05/12/21 - 324* district z _2{0} 
@@ -650,7 +616,6 @@
 - 09/12/21 - 508* 5515 never too late _1{0} camping paradis _12{8} 
 - 10/12/21 - 289* 5515 never too late _1{2} camping paradis _12{8} 
 - 11/12/21 - 257* 5515 never too late _1{3} 
-- 12/12/21 - 1104* 
 - 13/12/21 - 1168* 5515 never too late _1{6} not me _1{0} earthmix space _1{9} 
 - 14/12/21 - 1190* 5515 never too late _1{9} not me _1{1} earthmix space _1{10} 
 - 15/12/21 - 623* 5515 never too late _1{11} not me _1{1} earthmix space _1{10} 

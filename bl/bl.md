@@ -230,6 +230,7 @@
 |behind cut|behind cut|8|serie|corée|<!--  -->
 |bad buddy|bad buddy|12|serie|thailande|                      <!-- 47-->
 |paint with love|paint with love|12|serie|thailande|<!--  -->
+|kieta hatsukoi|kieta hatsukoi|10|serie|japon|                <!-- 44 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -281,7 +282,6 @@
 |Alice in borderland|alice in borderland|8|serie(**)|japon|1|   <!-- 41 -->
 |goblin|goblin|16|serie(***)|corée|1|                           <!-- 42 -->
 |love area|love area|8|serie|thailande|2|                       <!-- 43 -->
-|kieta hatsukoi|kieta hatsukoi|10|serie|japon|6|                <!-- 44 -->
 |aoki vuanpaia no nayami|aoki vuanpaia no nayami|8|serie(**)|japon|2| <!-- 45 -->
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
 |baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
