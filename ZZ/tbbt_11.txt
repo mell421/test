@@ -56,7 +56,18 @@ apercu/apercu21.md:* concluBis 28/10/21 = Tbbt _11 > 3;
 apercu/apercu21.md:* concluBis 29/10/21 = Tbbt _11 > 3; 
 apercu/apercu21.md:* concluBis 30/10/21 = Tbbt _11 > 1; 
 apercu/apercuglobal.md:- mois 01-03-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
+apercu/apercuglobal.md:- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercuglobal.md:- sem 01-11-2021 -> Tbbt _11x4(2) 
 apercu/apercuglobal.md:- sem 08-02-2021 Tbbt _11x2(1) The untamed _1x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) 
+apercu/apercuglobal.md:* conclu 26/10/21 = Tbbt _11 > 2; 
+apercu/apercuglobal.md:* conclu 27/10/21 = Tbbt _11 > 1; 
+apercu/apercuglobal.md:* conclu 28/10/21 = Tbbt _11 > 1; 
+apercu/apercuglobal.md:* conclu 29/10/21 = Tbbt _11 > 1; 
+apercu/apercuglobal.md:* concluBis 26/10/21 = Tbbt _11 > 4; Young sheldon _5 > 1; 
+apercu/apercuglobal.md:* concluBis 27/10/21 = Tbbt _11 > 3; 
+apercu/apercuglobal.md:* concluBis 28/10/21 = Tbbt _11 > 3; 
+apercu/apercuglobal.md:* concluBis 29/10/21 = Tbbt _11 > 3; 
+apercu/apercuglobal.md:* concluBis 30/10/21 = Tbbt _11 > 1; 
 apercuTer/apercuTer.md:* Tbbt _11
 tab2021.html:      Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) 
 tab2021.html:    <td class="conclu">Tbbt _11 > 1; </td>

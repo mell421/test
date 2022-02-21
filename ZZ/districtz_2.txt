@@ -9,6 +9,10 @@ apercu/apercu21.md:- sem 06-12-2021 -> District z _2x2(1) Baker boys _1x4(1)
 apercu/apercu21.md:- sem 20-12-2021 -> Not me _1x3(1) District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
 apercu/apercu21.md:* conclu 19/12/21 = Earthmix space _1 > 2; District z _2 > 1; 
 apercu/apercu21.md:* concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:- sem 06-12-2021 -> District z _2x2(1) Baker boys _1x4(1) 
+apercu/apercuglobal.md:- sem 20-12-2021 -> Not me _1x3(1) District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
+apercu/apercuglobal.md:* conclu 19/12/21 = Earthmix space _1 > 2; District z _2 > 1; 
+apercu/apercuglobal.md:* concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
 apercuTer/apercuTer.md:* District z _2
 apercuTer/apercuTer.md:*Ninja warrior _5 Friend.ship with kristsingto _1 Bonding _2 Sweet home _1 Tonhon chonlathee _1 Color rush _1 Follow my sunshine _1 Cheat _1 Interested in _1 My extraordinary _1 Lego masters fr _1 Gameboys _1 The voice vv _6 Ingredients _1 District z _1 Bt21 universe _1 Meet me outside _1*
 tab2021.html:    <td class="conclu">Earthmix space _1 > 2; District z _2 > 1; </td>

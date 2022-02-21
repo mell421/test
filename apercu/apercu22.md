@@ -47,7 +47,6 @@
 ## conclu
 * conclu 01/01/22 = Earthmix space _1 > 1; 
 * conclu 02/01/22 = Earthmix space _1 > 1; 
-* conclu 03/01/22 = 
 * conclu 07/01/22 = Next level chef _1 > 3; 
 * conclu 08/01/22 = The voice no _7 > 3; Icsyv _2 > 2; Next level chef _1 > 1; 
 * conclu 09/01/22 = The voice no _7 > 1; 
