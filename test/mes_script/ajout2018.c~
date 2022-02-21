@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(){
+  FILE * fichier=NULL;
+  char dateV[11], nom[30], ep[10];
+  int cont, date=0;
+  char continuer,DATE;
+  fichier=fopen("liste/2018.txt","a");
+  if(fichier == NULL){
+    printf("acces non autorisé au fichier\n");
+    fclose(fichier);
+    exit(-1);
+  }
+	
+  while(date==0){
+    cont=0;
+    printf("\ndate : \t.\t.\t");
+    scanf("%s",&dateV);
+    do{
+      printf("nom (un mot), ep : \t.\t");
+      scanf("%s",&nom);
+      scanf("%s",&ep);
+      fprintf(fichier,"2018-%s %s %s\n",dateV,nom,ep);
+
+      printf("continuer ajout ? (o/n) : \t");
+      scanf("%s",&continuer);
+      if(continuer=='o' || continuer=='O'){
+	cont=0;
+      }
+      else{
+	cont=1;	
+      }
+    }
+    while(cont==0);
+		
+
+    printf("continuer date ? (o/n) : \t");
+    scanf("%s",&DATE);			
+    if (DATE=='o' || DATE=='O')
+      date=0;
+    else{
+      date=1;	
+      printf("\nbye\n");
+    }
+  }
+  fclose(fichier);
+  exit(0);
+}

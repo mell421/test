@@ -118,6 +118,10 @@
     - [sem 17-01-2022](#sem-17-01-2022)
     - [sem 24-01-2022](#sem-24-01-2022)
     - [sem 31-01-2022](#sem-31-01-2022)
+    - [sem 07-02-2022](#sem-07-02-2022)
+    - [sem 14-02-2022](#sem-14-02-2022)
+    - [sem 21-02-2022](#sem-21-02-2022)
+    - [sem 28-02-2022](#sem-28-02-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -684,7 +688,6 @@
 * La mas draga _4
 * Alter ego _1
 * Survivor _11
-* Bt21 original story _1
 ### sem 20-12-2021 
 * The voice ger _11
 * The voice greece _8
@@ -712,14 +715,58 @@
 * Josephine ange gardien _24
 ### sem 10-01-2022 
 * *insererici*
+* Drag race it _1
+* Rpdruk _3
+* Dexter _9
 * The voice alb _6
 * Friend or lover _1
 ### sem 17-01-2022 
 * *insererici*
+* Tinted with you _1
+* Do seu lado _1
+* Cheer _2
+* Painted with raven _1
+* Inhuman condition _1
+* Dont say no _1
+* Lego masters fr _2
 ### sem 24-01-2022 
 * *insererici*
+* Survivor _15
+* Survivor _14
+* The voice senior it _2
+* Bad buddy _1
+* Survivor au _6
+* Behind cut _1
+* Mr cinderella _1
+* Survivor _13
 ### sem 31-01-2022 
 * *insererici*
+* Bt21 original story _1
+* The voice senior esp _3
+* Survivor _17
+* Survivor _16
+### sem 07-02-2022 
+* *insererici*
+* The voice portugal _9
+* Survivor _19
+* The masked dancer ger _1
+* The voice generations au _1
+* Survivor _18
+### sem 14-02-2022 
+* *insererici*
+* The masked singer uk _3
+* Ninja warrior _6
+* Paint with love _1
+### sem 21-02-2022 
+* *insererici*
+* Kieta hatsukoi _1
+* Survivor _22
+* Survivor _21
+* Survivor _20
+### sem 28-02-2022 
+* *insererici*
+
+
 
 
 <div style="page-break-after: always; visibility: hidden"> 
@@ -728,64 +775,95 @@
 
 ## bientot
 * $ a commencer / venir $
-* /9-1-1 lone star _3
-* Monsters inside bm _1
 * Mental _2
 * The good doctor _5
 * Nilundon _1
 * The masked singer fr _3
 * 
-* Survivor 13
+* Survivor _23
+* Survivor _24
+* Pekin express _15
+* First love again _1
+* Cutie pie _1
+* The voice _12
+* Semantic error _1
+* Top chef _13
+* Agt extrem _1
+* Koh-lanta _28
+* Cherry blossom after winter _1
+* The tuxedo _1
+* Domino masters _1
+* Survivor _42
+* The masked singer _7
+* American song contest _1
+* Queen stars brasil _1
+* Name that tune _2
+* Cupids last wish _1
+* Bgt _15
+* Drag race esp _2
+* Unforgotten night _1
+* 
+* 
+* 
+* $ a classer $
+* Unbag _1 (23/12/21)
 * 
 * $ order $
-* 
-* 
-* 
-* The voice portugal _9
-* Dexter _9
-* Not me _1
-* Mr cinderella _1
-* District z _2
 * F4 thailand _1
-* The voice senior it _2
-* Unlocked _1
-* Paint with love _1
+* The voice no _7
+* The masked singer vv _2
+* The voice finland _12
+* Kissable lips _1
+* Enchante _1
+* Love stage 2022 _1
+* Next level chef _1
+* Icsyv _2
+* The voice generations lithu _1
+* Survivor au _9
+* Rpdrukvstheworld _1
+* The voice be _10
+* Skam france _9
+* /9-1-1 lone star _3
+* Dancing on ice uk _14
+* The voice ukr _12
+* Not me _1
+* Rpdru _14
+* Rpdr _14
+* Peach of time _1
+* Something in my room _1
+* The voice ph _1
+* Love at night _1
+* Color rush _1
+* Meet my angel _2
+* The voice nl _12
 * Earthmix space _1
-* Bad buddy _1
-* Painted with raven _1
+* Survivor sa _7
+* Young sheldon _5
+* 5515 never too late _1
+* The player _1
+* You are my sunshine _1
+* District z _2
+* Unlocked _1
 * Aggretsuko _4
-* 
-* 
-* Never too late _1
-* Unbag _1
-* Do seu lado _1
 * Camping paradis _12
-* Rpdruk _3
-* Drag race it _1
 * Baker boys _1
-* Kieta hatsukoi _1
+* 
 * Les engagés _3
 * The case study of vanitas _1
-* 
 * Banana fish _1
 * Tbbt _11
 * Aoki vuanpaia no nayami _1
-* Young sheldon _5
 * My sweet dear _1
 * Insiders _1
 * Age of the living dead _1
-* Inhuman condition _1
-* Survivor au _6
 * /9-1-1 _5
 * Love area _1
-* Dont say no _1
 * The shipper _1
 * Goblin _1
 * 7project _1
 * The big leap _1
 * Post mortem _1
 * Alice in bordeland _1
-* Peach of time _1
 * Buffy _1
 * Lucifer _4
 * Bite me _1
@@ -873,11 +951,11 @@
 #### mois 01-12-2021 
 *The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Survivor _9 Survivor _8*
 #### mois 01-01-2022 
-*insererici Druck _7 The voice nl _9 The voice ru _10 Queen of the universe _1 Survivor 12 The voice kids uk _5 Josephine ange gardien _24 The voice greece _7 Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 Bt21 original story _1 The voice th _7*
+*insererici Druck _7 The voice nl _9 The voice ru _10 Queen of the universe _1 Survivor 12 The voice kids uk _5 Josephine ange gardien _24 The voice greece _7 Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 The voice th _7*
 #### mois 01-02-2022 
-*insererici The voice alb _6 Friend or lover _1*
+*insererici Survivor _18 Bt21 original story _1 The voice senior esp _3 Survivor _17 Survivor _16 Survivor _15 Survivor _14 The voice senior it _2 Bad buddy _1 Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
 #### mois 01-03-2022 
-*insererici*
+*insererici Kieta hatsukoi _1 Survivor _22 Survivor _21 Survivor _20 The masked singer uk _3 Ninja warrior _6 Paint with love _1 The voice portugal _9 Survivor _19 The masked dancer ger _1 The voice generations au _1*
 
 
 

@@ -70,6 +70,9 @@
 |drag race ca 2||10|||<!--  -->
 |dragula 4||10|||<!--  -->
 |Queen of the universe 1||6|||<!--  -->
+|rpdruk 3||10|||<!--  -->
+|drag race it 1||6|||<!--  -->
+|painted with raven 1||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -85,9 +88,9 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|rpdruk 3||10||||<!--  -->
-|drag race it 1||6|||2|<!--  -->
-|painted with raven 1|||||<!--  -->
+|rpdr 14|||||0|<!--  -->
+|rpdru 14|||||0|<!--  -->
+|rpdr uk vs world 1|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -102,14 +105,11 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|rpdr 14|||||0|<!--  -->
-|rpdru 14|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 |drag race th 3|||||0|<!--  -->
 |drag race fr 1|||||0|<!--  -->
-|rpdr uk vs world 1|||||0|<!--  -->
 |drag latina 1|||||0|<!--  -->
 |drag race ph 1||||||<!--  -->
 |drag den ph 1||||||<!--  -->

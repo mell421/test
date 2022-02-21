@@ -1,0 +1,52 @@
+<html>
+<head>
+    <script language="javascript">
+		let name 
+		let mdp
+
+        function checkI(form) {
+            if(form.userid.value == "") {
+				alert("empty field")
+				return false
+            } else if(form.pswrd.value != form.pswrd2.value) {
+				alert("write again the password")
+				return false
+            } else {
+				name = form.userid.value
+				mdp = form.pswrd.value
+				return true
+			}
+		}
+		function check(form) {
+            if(form.userid.value != name) {
+				alert("wrong username")
+				return false
+            } else if(form.pswrd.value != mdp) {
+				alert("wrong password")
+				return false
+            } else {
+				return true
+            }
+		}
+		
+    </script>
+
+</head>
+<body>
+<h1>Inscription </h1>
+<form name="inscription">
+    Username<input type="text" name="userid" required/>
+	Password<input type="password" name="pswrd" required/>
+	Password again<input type="password" name="pswrd2" required/>
+    <input type="button" onclick="checkI(this.form)" value="Inscrip"/>
+    <input type="reset" value="reset"/>
+</form>
+<h1>Login </h1>
+<form name="login">
+    Username<input type="text" name="userid" required/>
+    Password<input type="password" name="pswrd" required/>
+    <input type="button" onclick="check(this.form)" value="Login"/>
+    <input type="reset" value="reset"/>
+</form>
+</body>
+</html>

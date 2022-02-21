@@ -23,7 +23,7 @@
  
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
-|skam france|france|8|
+|skam france|france|8+|
 |druck|allemagne|7|
 |skam|norvège|4|
 |skam espana|espagne|4|
@@ -223,9 +223,18 @@
 |Between us special|Between us special|6|series|thailande|<!--  -->
 |offgun fun night 2|offgun fun night 2|12+4|show|thailande|     <!-- 67 -->
 |friend or lover|friend or lover|7|serie|taiwan|              <!-- 128 -->
+|don't say no|don't say no|13|serie|thailande|                <!-- 34 -->
+|do seu lado|do seu lado|6|serie|bresil|<!--  -->
+|tinted with you|tinted with you|8|serie|corée|<!--  -->
+|mr cinderella|_|8|serie|vietnam|<!--  -->
+|behind cut|behind cut|8|serie|corée|<!--  -->
+|bad buddy|bad buddy|12|serie|thailande|                      <!-- 47-->
+|paint with love|paint with love|12|serie|thailande|<!--  -->
+|kieta hatsukoi|kieta hatsukoi|10|serie|japon|                <!-- 44 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
+|unbag|unbag|37?|show|thailande|                               <!-- 6 23/12/21 -->
 ||||||<!--  -->
 
 ## en cours, a jour
@@ -237,7 +246,6 @@
 |the shipper|the shipper|12|serie|thailande|4|                  <!-- 3 -->
 |so much in love|so much in love|12|serie|thailande|2|          <!-- 4 -->
 |blacklist|blacklist|13|serie(**)|thailande|1|                  <!-- 5 -->
-|unbag|unbag|?|show|thailande|26|                               <!-- 6 -->
 |my dear loser edge of 17|my dear loser edge of 17|9|serie|thailande|1| <!-- 7 -->
 |my day|my day|12|serie|philippines|1|                          <!-- 8 -->
 |friend forever|friend forever|12|serie|thailande|3|            <!-- 9 -->
@@ -265,7 +273,6 @@
 |an eye for an eye|an eye for an eye|?|serie(**)|thailande|1|   <!-- 31 -->
 |dark blue kiss|dark blue kiss|12|serie|thailande|2|            <!-- 32 -->
 |siew sum noi|siew sum noi|12|serie|thailande|1|                <!-- 33 -->
-|don't say no|don't say no|13|serie|thailande|6|                <!-- 34 -->
 |46 days|46 days|18|serie(**)|thailande|6|                      <!-- 35 -->
 |the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
 |bite me|bite me|?|serie|thailande|2|                           <!-- 37 -->
@@ -275,20 +282,14 @@
 |Alice in borderland|alice in borderland|8|serie(**)|japon|1|   <!-- 41 -->
 |goblin|goblin|16|serie(***)|corée|1|                           <!-- 42 -->
 |love area|love area|8|serie|thailande|2|                       <!-- 43 -->
-|kieta hatsukoi|kieta hatsukoi|10|serie|japon|6|                <!-- 44 -->
 |aoki vuanpaia no nayami|aoki vuanpaia no nayami|8|serie(**)|japon|2| <!-- 45 -->
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
-|bad buddy|bad buddy|12|serie|thailande|7|                      <!-- 47-->
 |baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
-|do seu lado|do seu lado|?|serie|bresil|5|<!--  -->
-|paint with love|paint with love|8|serie|thailande|4|<!--  -->
-|mr cinderella|_|8|serie|vietnam|4|<!--  -->
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
 |NOTME|NOTME|14|serie|thailande|2|<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
 |the player|the player|16|serie(*)|thailande|0|<!-- -->
 |you are my sunshine||6|serie|vietnam|2|<!--  -->
-|tinted with you|tinted with you|8|serie|corée|2|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

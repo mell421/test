@@ -9,392 +9,334 @@
 - [a eff](#a-eff)
   - [sommaire](#sommaire)
   - [a eff](#a-eff-1)
-  - [(nb)](#nb)
+  - [nb](#nb)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
 
 ## a eff
-- 21/11/20 - 
-- 22/11/20 - 
-- 23/11/20 - 
-- 24/11/20 - 
-- 25/11/20 - unbag _1{15} 
-- 26/11/20 - unbag _1{15} 
-- 27/11/20 - unbag _1{15} 
-- 28/11/20 - unbag _1{15} 
-- 29/11/20 - unbag _1{15} 
-- 30/11/20 - unbag _1{15}
-- 01/12/20 - unbag _1{16} pogi lang hanap _1{10} 
-- 02/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} 
-- 03/12/20 - unbag _1{16} pogi lang hanap _1{10} 
-- 04/12/20 - unbag _1{16} pogi lang hanap _1{10} 
-- 05/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 06/12/20 - unbag _1{16} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 07/12/20 - unbag _1{18} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 08/12/20 - unbag _1{19} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 09/12/20 - unbag _1{20} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 10/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 11/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} 
-- 12/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 13/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 14/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 15/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 16/12/20 - unbag _1{21} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
-- 17/12/20 - unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
-- 18/12/20 - unbag _1{22} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
-- 19/12/20 - unbag _1{23} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
-- 20/12/20 - unbag _1{24} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
-- 21/12/20 - unbag _1{26} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
-- 22/12/20 - unbag _1{28} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
-- 23/12/20 - unbag _1{30} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
-- 24/12/20 - unbag _1{32} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
-- 25/12/20 - unbag _1{33} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} lakan _1{5} 
-- 26/12/20 - unbag _1{35} pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
-- 27/12/20 - unbag _1{37} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
-- 28/12/20 - unbag _1{39} pogi lang hanap _1{10} my vampire boyfriend _1{9} from dusk till dawn _2{7} 
-- 29/12/20 - unbag _1{41} pogi lang hanap _1{10} from dusk till dawn _2{9} my vampire boyfriend _1{9} 
-- 30/12/20 - unbag _1{41} from dusk till dawn _2{11} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} 
-- 31/12/20 - unbag _1{41} from dusk till dawn _2{13} pogi lang hanap _1{10} be love _1{7} lakan _1{6} 
-- 01/01/21 - unbag _1{42} from dusk till dawn _2{15} pogi lang hanap _1{10} lakan _1{7} 
-- 02/01/21 - unbag _1{44} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
-- 03/01/21 - unbag _1{46} from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
-- 04/01/21 - unbag _1{49} from dusk till dawn _2{15} ghost runner _1{9} 
-- 05/01/21 - unbag _1{51} from dusk till dawn _2{15} ghost runner _1{10} 
-- 06/01/21 - unbag _1{53} ghost runner _1{11} 
-- 07/01/21 - unbag _1{55} ghost runner _1{11} 
-- 08/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
-- 09/01/21 - unbag _1{57} from dusk till dawn _2{15} ghost runner _1{11} 
-- 10/01/21 - unbag _1{57} ghost runner _1{11} 
-- 11/01/21 - unbag _1{58} ghost runner _1{11} 
-- 12/01/21 - unbag _1{58} from dusk till dawn _2{15} ghost runner _1{11} 
-- 13/01/21 - unbag _1{59} from dusk till dawn _2{15} 
-- 14/01/21 - unbag _1{60} 
-- 15/01/21 - unbag _1{61} 
-- 16/01/21 - unbag _1{63} ghost runner _1{11} 
-- 17/01/21 - unbag _1{65} 
-- 18/01/21 - unbag _1{68} 
-- 19/01/21 - unbag _1{70} 
-- 20/01/21 - unbag _1{72} 
-- 21/01/21 - unbag _1{74} 
-- 22/01/21 - unbag _1{76} from dusk till dawn _2{15} 
-- 23/01/21 - unbag _1{77} koishite akuma _1{11} 
-- 24/01/21 - unbag _1{78} from dusk till dawn _2{15} koishite akuma _1{13} 
-- 25/01/21 - unbag _1{79} koishite akuma _1{15} 
-- 26/01/21 - unbag _1{80} koishite akuma _1{15} 
-- 27/01/21 - unbag _1{81} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 28/01/21 - unbag _1{82} koishite akuma _1{15} 
-- 29/01/21 - unbag _1{83} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 30/01/21 - unbag _1{85} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 31/01/21 - unbag _1{87} koishite akuma _1{15} from dusk till dawn _2{15} 
-- 01/02/21 - unbag _1{91} koishite akuma _1{16} 
-- 02/02/21 - unbag _1{93} koishite akuma _1{16} 
-- 03/02/21 - unbag _1{95} koishite akuma _1{16} 
-- 04/02/21 - unbag _1{97} 
-- 05/02/21 - unbag _1{99} 
-- 06/02/21 - unbag _1{100} koishite akuma _1{16} 
-- 07/02/21 - unbag _1{101} koishite akuma _1{16} 
-- 08/02/21 - unbag _1{102} koishite akuma _1{16} 
-- 09/02/21 - unbag _1{103} koishite akuma _1{16} 
-- 10/02/21 - unbag _1{104} koishite akuma _1{16} 
-- 11/02/21 - unbag _1{105} koishite akuma _1{16} 
-- 12/02/21 - unbag _1{106} 
-- 13/02/21 - unbag _1{108} 
-- 14/02/21 - unbag _1{110} koishite akuma _1{16} 
-- 15/02/21 - unbag _1{113} 
-- 16/02/21 - unbag _1{115} 
-- 17/02/21 - unbag _1{117} 
-- 18/02/21 - unbag _1{119} 
-- 19/02/21 - unbag _1{121} 
-- 20/02/21 - unbag _1{122} 
-- 21/02/21 - unbag _1{123} 
-- 22/02/21 - unbag _1{124} my vampire boyfriend _1{19} 
-- 23/02/21 - unbag _1{125} my vampire boyfriend _1{21} 
-- 24/02/21 - unbag _1{126} my vampire boyfriend _1{22} 
-- 25/02/21 - unbag _1{127} my vampire boyfriend _1{24} 
-- 26/02/21 - unbag _1{128} my vampire boyfriend _1{24} 
-- 27/02/21 - unbag _1{130} my vampire boyfriend _1{24} 
-- 28/02/21 - unbag _1{132} my vampire boyfriend _1{24} 
-- 01/03/21 - unbag _1{136} my vampire boyfriend _1{25} 
-- 02/03/21 - unbag _1{138} my vampire boyfriend _1{25} 
-- 03/03/21 - unbag _1{140} my vampire boyfriend _1{25} 
-- 04/03/21 - unbag _1{142} my vampire boyfriend _1{25} 
-- 05/03/21 - unbag _1{144} 
-- 06/03/21 - unbag _1{146} 
-- 07/03/21 - unbag _1{147} 
-- 08/03/21 - unbag _1{148} 
-- 09/03/21 - unbag _1{149} 
-- 10/03/21 - unbag _1{150} 
-- 11/03/21 - unbag _1{151} 
-- 12/03/21 - unbag _1{152} 
-- 13/03/21 - unbag _1{154} 
-- 14/03/21 - unbag _1{156} 
-- 15/03/21 - unbag _1{159} 
-- 16/03/21 - unbag _1{161} 
-- 17/03/21 - unbag _1{163} 
-- 18/03/21 - unbag _1{165} 
-- 19/03/21 - unbag _1{166} 
-- 20/03/21 - unbag _1{168} my vampire boyfriend _1{26} the harvest season _1{16} 
-- 21/03/21 - unbag _1{171} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 22/03/21 - unbag _1{173} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 23/03/21 - unbag _1{175} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 24/03/21 - unbag _1{177} my vampire boyfriend _1{25} 
-- 25/03/21 - unbag _1{179} my vampire boyfriend _1{25} 
-- 26/03/21 - unbag _1{181} my vampire boyfriend _1{25} 
-- 27/03/21 - unbag _1{183} my vampire boyfriend _1{25} 
-- 28/03/21 - unbag _1{185} my vampire boyfriend _1{25} 
-- 29/03/21 - unbag _1{187} my vampire boyfriend _1{25} 
-- 30/03/21 - unbag _1{189} my vampire boyfriend _1{25} 
-- 31/03/21 - unbag _1{191} my vampire boyfriend _1{25} 
-- 01/04/21 - unbag _1{194} my vampire boyfriend _1{25} 
-- 02/04/21 - unbag _1{196} my vampire boyfriend _1{25} 
-- 03/04/21 - unbag _1{198} my vampire boyfriend _1{25} 
-- 04/04/21 - unbag _1{200} my vampire boyfriend _1{25} 
-- 05/04/21 - unbag _1{203} my vampire boyfriend _1{25} 
-- 06/04/21 - unbag _1{205} my vampire boyfriend _1{25} 
-- 07/04/21 - unbag _1{207} my vampire boyfriend _1{25} 
-- 08/04/21 - unbag _1{209} my vampire boyfriend _1{25} 
-- 09/04/21 (eff) - unbag _1{211} my vampire boyfriend _1{25} 
-- 10/04/21 (eff) - unbag _1{213} my vampire boyfriend _1{25} 
-- 11/04/21 (eff) - unbag _1{215} my vampire boyfriend _1{25} 
-- 12/04/21 (eff) - unbag _1{217} my vampire boyfriend _1{25} 
-- 13/04/21 (eff) - unbag _1{219} my vampire boyfriend _1{25} 
-- 14/04/21 (eff) - unbag _1{221} my vampire boyfriend _1{25} 
-- 15/04/21 (eff) - unbag _1{223} my vampire boyfriend _1{25} 
-- 16/04/21 (eff) - unbag _1{225} my vampire boyfriend _1{25} 
-- 17/04/21 (eff) - unbag _1{227} 
-- 18/04/21 (eff) - unbag _1{229} 
-- 19/04/21 (eff) - unbag _1{232} 
-- 20/04/21 (eff) - unbag _1{234} 
-- 21/04/21 (eff) - unbag _1{236} 
-- 22/04/21 (eff) - unbag _1{238} 
-- 23/04/21 (eff) - unbag _1{240} 
-- 24/04/21 (eff) - unbag _1{242} 
-- 25/04/21 (eff) - unbag _1{244} 
-- 26/04/21 (eff) - unbag _1{246} 
-- 27/04/21 (eff) - unbag _1{248} 
-- 28/04/21 (eff) - unbag _1{250} 
-- 29/04/21 (eff) - unbag _1{251} 
-- 30/04/21 (eff) - unbag _1{253} 
-- 01/05/21 (eff) - unbag _1{256} 
-- 02/05/21 (eff) - unbag _1{258} 
-- 03/05/21 (eff) - unbag _1{261} 
-- 04/05/21 (eff) - unbag _1{263} 
-- 05/05/21 (eff) - unbag _1{265} 
-- 06/05/21 (eff) - unbag _1{267} my vampire boyfriend _1{25} 
-- 07/05/21 (eff) - unbag _1{269} my vampire boyfriend _1{25} 
-- 08/05/21 (eff) - unbag _1{271} 
-- 09/05/21 (eff) - unbag _1{273} 
-- 10/05/21 (eff) - unbag _1{275} 
-- 11/05/21 (eff) - unbag _1{277} 
-- 12/05/21 (eff) - unbag _1{279} 
-- 13/05/21 (eff) - unbag _1{281} 
-- 14/05/21 (eff) - unbag _1{283} 
-- 15/05/21 (eff) - unbag _1{285} my vampire boyfriend _1{25} 
-- 16/05/21 (eff) - unbag _1{287} my vampire boyfriend _1{25} 
-- 17/05/21 (eff) - unbag _1{290} my vampire boyfriend _1{25} 
-- 18/05/21 (eff) - unbag _1{292} my vampire boyfriend _1{25} 
-- 19/05/21 (eff) - unbag _1{294} my vampire boyfriend _1{25} 
-- 20/05/21 (eff) - unbag _1{296} my vampire boyfriend _1{25} 
-- 21/05/21 (eff) - unbag _1{298} my vampire boyfriend _1{25} 
-- 22/05/21 (eff) - unbag _1{300} my vampire boyfriend _1{25} 
-- 23/05/21 (eff) - unbag _1{302} my vampire boyfriend _1{25} 
-- 24/05/21 (eff) - unbag _1{304} my vampire boyfriend _1{25} 
-- 25/05/21 (eff) - unbag _1{306} my vampire boyfriend _1{25} 
-- 26/05/21 (eff) - unbag _1{308} my vampire boyfriend _1{25} 
-- 27/05/21 (eff) - unbag _1{310} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 28/05/21 (eff) - unbag _1{312} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 29/05/21 (eff) - unbag _1{314} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 30/05/21 (eff) - unbag _1{316} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 31/05/21 (eff) - unbag _1{319} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 01/06/21 (eff) - unbag _1{322} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 02/06/21 (eff) - unbag _1{324} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 03/06/21 (eff) - unbag _1{326} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 04/06/21 (eff) - unbag _1{328} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 05/06/21 (eff) - unbag _1{330} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 06/06/21 (eff) - unbag _1{332} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 07/06/21 (eff) - unbag _1{334} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 08/06/21 (eff) - unbag _1{336} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 09/06/21 (eff) - unbag _1{338} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 10/06/21 (eff) - unbag _1{340} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 11/06/21 (eff) - unbag _1{342} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 12/06/21 (eff) - unbag _1{344} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 13/06/21 (eff) - unbag _1{346} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 14/06/21 (eff) - unbag _1{349} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 15/06/21 (eff) - unbag _1{351} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 16/06/21 (eff) - unbag _1{353} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 17/06/21 (eff) - unbag _1{355} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 18/06/21 (eff) - unbag _1{357} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 19/06/21 (eff) - unbag _1{359} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 20/06/21 (eff) - unbag _1{361} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 21/06/21 (eff) - unbag _1{363} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 22/06/21 (eff) - unbag _1{365} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 23/06/21 (eff) - unbag _1{367} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 24/06/21 (eff) - unbag _1{369} my vampire boyfriend _1{25} the harvest season _1{16} 
-- 25/06/21 (eff) - unbag _1{371} my vampire boyfriend _1{25} 
-- 26/06/21 (eff) - unbag _1{373} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 27/06/21 (eff) - unbag _1{375} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 28/06/21 (eff) - unbag _1{378} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 29/06/21 (eff) - unbag _1{380} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 30/06/21 (eff) - unbag _1{382} my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
-- 01/07/21 (eff) - unbag _1{385} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 02/07/21 (eff) - unbag _1{387} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 03/07/21 (eff) - unbag _1{389} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 04/07/21 (eff) - unbag _1{391} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 05/07/21 (eff) - unbag _1{393} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 06/07/21 (eff) - unbag _1{395} my vampire boyfriend _1{25} 
-- 07/07/21 (eff) - unbag _1{397} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 08/07/21 (eff) - unbag _1{399} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 09/07/21 (eff) - unbag _1{401} my vampire boyfriend _1{25} 
-- 10/07/21 (eff) - unbag _1{403} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 11/07/21 (eff) - unbag _1{405} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 12/07/21 (eff) - unbag _1{408} my vampire boyfriend _1{25} 
-- 13/07/21 (eff) - unbag _1{410} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 14/07/21 (eff) - unbag _1{412} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 15/07/21 (eff) - unbag _1{414} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 16/07/21 (eff) - unbag _1{416} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 17/07/21 (eff) - unbag _1{418} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 18/07/21 (eff) - unbag _1{420} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 19/07/21 (eff) - unbag _1{422} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 20/07/21 (eff) - unbag _1{424} my vampire boyfriend _1{25} 
-- 21/07/21 (eff) - unbag _1{426} my vampire boyfriend _1{25} /46 days _1{18} 
-- 22/07/21 (eff) - unbag _1{428} my vampire boyfriend _1{25} /46 days _1{19} vincenzo _1{16} 
-- 23/07/21 (eff) - unbag _1{430} my vampire boyfriend _1{25} /46 days _1{21} vincenzo _1{16} 
-- 24/07/21 (eff) - unbag _1{432} my vampire boyfriend _1{25} /46 days _1{23} vincenzo _1{16} 
-- 25/07/21 (eff) - unbag _1{434} /46 days _1{25} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 26/07/21 (eff) - unbag _1{437} /46 days _1{28} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 27/07/21 (eff) - unbag _1{439} /46 days _1{29} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 28/07/21 (eff) - unbag _1{441} /46 days _1{30} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 29/07/21 (eff) - unbag _1{443} /46 days _1{31} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 30/07/21 (eff) - unbag _1{445} /46 days _1{32} my vampire boyfriend _1{25} 
-- 31/07/21 (eff) - unbag _1{447} /46 days _1{33} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 01/08/21 (eff) - unbag _1{450} /46 days _1{35} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 02/08/21 (eff) - unbag _1{452} /46 days _1{36} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 03/08/21 (eff) - unbag _1{454} /46 days _1{37} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 04/08/21 (eff) - unbag _1{456} /46 days _1{38} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 05/08/21 (eff) - unbag _1{458} /46 days _1{39} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 06/08/21 (eff) - unbag _1{460} /46 days _1{40} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 07/08/21 (eff) - unbag _1{462} /46 days _1{41} my vampire boyfriend _1{25} vincenzo _1{16} elite _4{15} 
-- 08/08/21 (eff) - unbag _1{464} /46 days _1{41} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 09/08/21 (eff) - unbag _1{467} /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 10/08/21 (eff) - unbag _1{469} /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 11/08/21 (eff) - unbag _1{471} /46 days _1{43} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 12/08/21 (eff) - unbag _1{473} /46 days _1{44} my vampire boyfriend _1{25} 
-- 13/08/21 (eff) - unbag _1{475} /46 days _1{45} my vampire boyfriend _1{25} 
-- 14/08/21 (eff) - unbag _1{477} /46 days _1{45} my vampire boyfriend _1{25} 
-- 15/08/21 (eff) - unbag _1{479} /46 days _1{45} my vampire boyfriend _1{25} 
-- 16/08/21 (eff) - unbag _1{481} /46 days _1{45} my vampire boyfriend _1{25} 
-- 17/08/21 (eff) - unbag _1{483} /46 days _1{45} my vampire boyfriend _1{25} 
-- 18/08/21 (eff) - unbag _1{485} /46 days _1{45} my vampire boyfriend _1{25} 
-- 19/08/21 (eff) - unbag _1{487} /46 days _1{45} my vampire boyfriend _1{25} 
-- 20/08/21 (eff) - unbag _1{489} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} 
-- 21/08/21 (eff) - unbag _1{491} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 22/08/21 (eff) - unbag _1{493} /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
-- 23/08/21 (eff) - unbag _1{496} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
-- 24/08/21 (eff) - unbag _1{498} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
-- 25/08/21 (eff) - unbag _1{500} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
-- 26/08/21 (eff) - unbag _1{502} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
-- 27/08/21 (eff) - unbag _1{504} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
-- 28/08/21 (eff) - unbag _1{506} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
-- 29/08/21 (eff) - unbag _1{508} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
-- 30/08/21 (eff) - unbag _1{510} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{19} 
-- 31/08/21 (eff) - unbag _1{512} /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{19} vincenzo _1{16} 
-- 01/09/21 (eff) - unbag _1{515} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} 
-- 02/09/21 (eff) - unbag _1{517} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} 
-- 03/09/21 (eff) - unbag _1{519} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-- 04/09/21 (eff) - unbag _1{521} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} dont say no _1{11} 
-- 05/09/21 (eff) - unbag _1{523} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} dont say no _1{11} 
-- 06/09/21 (eff) - unbag _1{526} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} dont say no _1{13} peach of time _1{13} 
-- 07/09/21 (eff) - unbag _1{528} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} peach of time _1{15} elite _4{15} dont say no _1{14} 
-- 08/09/21 (eff) - unbag _1{530} /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} peach of time _1{17} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-- 09/09/21 (eff) - unbag _1{532} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-- 10/09/21 (eff) - unbag _1{534} /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-- 11/09/21 (eff) - unbag _1{536} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} dont say no _1{14} 
-- 12/09/21 (eff) - unbag _1{538} /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} dont say no _1{15} elite _4{15} 
-- 13/09/21 (eff) - unbag _1{540} /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} dont say no _1{17} vincenzo _1{16} elite _4{15} 
-- 14/09/21 (eff) - unbag _1{542} /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 15/09/21 (eff) - unbag _1{544} /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 16/09/21 (eff) - unbag _1{546} /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 17/09/21 (eff) - unbag _1{548} /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 18/09/21 (eff) - unbag _1{550} /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} dont say no _1{18} vincenzo _1{16} elite _4{15} 
-- 19/09/21 (eff) - unbag _1{552} /46 days _1{46} peach of time _1{27} dont say no _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-- 20/09/21 (eff) - unbag _1{555} /46 days _1{46} peach of time _1{29} dont say no _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-- 21/09/21 (eff) - unbag _1{557} /46 days _1{46} peach of time _1{30} dont say no _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-- 22/09/21 (eff) - unbag _1{559} /46 days _1{46} peach of time _1{31} dont say no _1{26} from dusk till dawn _2{20} vwars _1{8} 
-- 23/09/21 (eff) - unbag _1{561} /46 days _1{46} peach of time _1{32} dont say no _1{28} from dusk till dawn _2{20} vwars _1{8} 
-- 24/09/21 (eff) - unbag _1{563} peach of time _1{32} dont say no _1{29} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 25/09/21 (eff) - unbag _1{565} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 26/09/21 (eff) - unbag _1{567} peach of time _1{32} dont say no _1{30} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 27/09/21 (eff) - unbag _1{569} dont say no _1{33} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 28/09/21 (eff) - unbag _1{571} dont say no _1{35} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 29/09/21 (eff) - unbag _1{573} dont say no _1{37} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 30/09/21 (eff) - unbag _1{575} dont say no _1{39} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-- 01/10/21 (eff) - unbag _1{578} dont say no _1{42} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 02/10/21 (eff) - unbag _1{578} dont say no _1{44} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 03/10/21 (eff) - unbag _1{580} dont say no _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 04/10/21 (eff) - unbag _1{582} dont say no _1{48} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 05/10/21 (eff) - unbag _1{584} dont say no _1{50} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 06/10/21 (eff) - unbag _1{586} dont say no _1{51} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 07/10/21 (eff) - unbag _1{588} dont say no _1{52} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 08/10/21 (eff) - unbag _1{590} dont say no _1{53} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 09/10/21 (eff) - unbag _1{592} dont say no _1{54} peach of time _1{33} vwars _1{9} 
-- 10/10/21 (eff) - unbag _1{594} dont say no _1{54} peach of time _1{33} vwars _1{9} camping paradis _12{8} 
-- 11/10/21 (eff) - unbag _1{597} dont say no _1{56} peach of time _1{33} vwars _1{9} 
-- 12/10/21 (eff) - unbag _1{599} dont say no _1{57} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 13/10/21 (eff) - unbag _1{601} dont say no _1{58} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 14/10/21 (eff) - unbag _1{603} dont say no _1{59} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 15/10/21 (eff) - unbag _1{605} dont say no _1{60} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 16/10/21 (eff) - unbag _1{607} dont say no _1{62} /46 days _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-- 17/10/21 (eff) - unbag _1{609} dont say no _1{64} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
-- 18/10/21 (eff) - unbag _1{611} dont say no _1{66} peach of time _1{33} vwars _1{9} 
-- 19/10/21 (eff) - unbag _1{613} dont say no _1{68} peach of time _1{33} vwars _1{9} 
-- 20/10/21 (eff) - unbag _1{615} dont say no _1{70} peach of time _1{33} vwars _1{9} 
-- 21/10/21 (eff) - unbag _1{617} dont say no _1{72} peach of time _1{33} vwars _1{9} 
-- 22/10/21 (eff) - unbag _1{619} dont say no _1{74} peach of time _1{33} survivor au _6{9} 
-- 23/10/21 (eff) - unbag _1{621} dont say no _1{76} peach of time _1{33} survivor au _6{11} 
-- 24/10/21 (eff) - unbag _1{623} dont say no _1{78} peach of time _1{33} survivor au _6{13} inhuman condition _1{8} 
-- 25/10/21 (eff) - unbag _1{626} dont say no _1{79} peach of time _1{33} survivor au _6{15} inhuman condition _1{11} 
-- 26/10/21 (eff) - unbag _1{628} dont say no _1{80} peach of time _1{33} survivor au _6{15} inhuman condition _1{13} 
-- 27/10/21 (eff) - unbag _1{630} dont say no _1{81} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
-- 28/10/21 (eff) - unbag _1{632} dont say no _1{82} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} 
-- 29/10/21 (eff) - unbag _1{634} dont say no _1{83} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{8} 
-- 30/10/21 (eff) - unbag _1{636} dont say no _1{84} peach of time _1{33} inhuman condition _1{15} survivor au _6{15} tbbt _11{10} 
-- 31/10/21 (eff) - unbag _1{638} dont say no _1{85} inhuman condition _1{15} survivor au _6{15} tbbt _11{11} 
-- 01/11/21 (eff) - unbag _1{642} dont say no _1{87} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 02/11/21 (eff) - unbag _1{644} dont say no _1{88} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 03/11/21 (eff) - unbag _1{646} dont say no _1{89} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 04/11/21 (eff) - unbag _1{648} dont say no _1{89} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 05/11/21 (eff) - unbag _1{650} dont say no _1{90} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 06/11/21 (eff) - unbag _1{652} dont say no _1{91} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 07/11/21 (eff) - unbag _1{654} dont say no _1{92} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 08/11/21 (eff) - unbag _1{657} dont say no _1{93} inhuman condition _1{16} survivor au _6{16} 
-- 09/11/21 (eff) - unbag _1{659} dont say no _1{94} inhuman condition _1{16} survivor au _6{16} 
-- 10/11/21 (eff) - unbag _1{661} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} 
-- 11/11/21 (eff) - unbag _1{663} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} 
-- 12/11/21 (eff) - unbag _1{665} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{13} 
-- 13/11/21 (eff) - unbag _1{667} dont say no _1{95} inhuman condition _1{16} survivor au _6{16} kieta hatsukoi _1{15} 
-- 14/11/21 (eff) - unbag _1{669} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 15/11/21 (eff) - unbag _1{671} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 16/11/21 (eff) - unbag _1{673} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 17/11/21 (eff) - unbag _1{675} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 18/11/21 (eff) - unbag _1{677} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 19/11/21 (eff) - unbag _1{679} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 20/11/21 (eff) - unbag _1{681} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 21/11/21 (eff) - unbag _1{683} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 22/11/21 (eff) - unbag _1{685} dont say no _1{95} kieta hatsukoi _1{17} inhuman condition _1{16} survivor au _6{16} 
-- 23/11/21 (eff) - unbag _1{687} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} 
-- 24/11/21 (eff) - unbag _1{689} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 25/11/21 (eff) - unbag _1{691} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 26/11/21 (eff) - unbag _1{693} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 27/11/21 (eff) - unbag _1{695} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 28/11/21 (eff) - unbag _1{697} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 29/11/21 (eff) - unbag _1{699} dont say no _1{95} kieta hatsukoi _1{18} inhuman condition _1{16} survivor au _6{16} tbbt _11{13} 
-- 30/11/21 (eff) - unbag _1{702} dont say no _1{95} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
-- 01/12/21 (eff) - unbag _1{704} dont say no _1{95} kieta hatsukoi _1{20} inhuman condition _1{16} survivor au _6{16} 
-- 02/12/21 (eff) - unbag _1{707} dont say no _1{95} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
-- 03/12/21 (eff) - unbag _1{709} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
-- 04/12/21 (eff) - unbag _1{711} kieta hatsukoi _1{21} inhuman condition _1{16} survivor au _6{16} 
+- 01/12/20 - pogi lang hanap _1{10} 
+- 02/12/20 - pogi lang hanap _1{10} friend forever _1{10} 
+- 03/12/20 - pogi lang hanap _1{10} 
+- 04/12/20 - pogi lang hanap _1{10} 
+- 05/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 06/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 07/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 08/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 09/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 10/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 11/12/20 - pogi lang hanap _1{10} friend forever _1{10} 
+- 12/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 13/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 14/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 15/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 16/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 17/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} 
+- 18/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 19/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 20/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 21/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 22/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 23/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 24/12/20 - pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 25/12/20 - pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} lakan _1{5} 
+- 26/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 27/12/20 - pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
+- 28/12/20 - pogi lang hanap _1{10} my vampire boyfriend _1{9} from dusk till dawn _2{7} 
+- 29/12/20 - pogi lang hanap _1{10} from dusk till dawn _2{9} my vampire boyfriend _1{9} 
+- 30/12/20 - from dusk till dawn _2{11} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} 
+- 31/12/20 - from dusk till dawn _2{13} pogi lang hanap _1{10} be love _1{7} lakan _1{6} 
+- 01/01/21 - from dusk till dawn _2{15} pogi lang hanap _1{10} lakan _1{7} 
+- 02/01/21 - from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
+- 03/01/21 - from dusk till dawn _2{15} ghost runner _1{7} lakan _1{7} 
+- 04/01/21 - from dusk till dawn _2{15} ghost runner _1{9} 
+- 05/01/21 - from dusk till dawn _2{15} ghost runner _1{10} 
+- 06/01/21 - ghost runner _1{11} 
+- 07/01/21 - ghost runner _1{11} 
+- 08/01/21 - from dusk till dawn _2{15} ghost runner _1{11} 
+- 09/01/21 - from dusk till dawn _2{15} ghost runner _1{11} 
+- 10/01/21 - ghost runner _1{11} 
+- 11/01/21 - ghost runner _1{11} 
+- 12/01/21 - from dusk till dawn _2{15} ghost runner _1{11} 
+- 13/01/21 - from dusk till dawn _2{15} 
+- 16/01/21 - ghost runner _1{11} 
+- 22/01/21 - from dusk till dawn _2{15} 
+- 23/01/21 - koishite akuma _1{11} 
+- 24/01/21 - from dusk till dawn _2{15} koishite akuma _1{13} 
+- 25/01/21 - koishite akuma _1{15} 
+- 26/01/21 - koishite akuma _1{15} 
+- 27/01/21 - koishite akuma _1{15} from dusk till dawn _2{15} 
+- 28/01/21 - koishite akuma _1{15} 
+- 29/01/21 - koishite akuma _1{15} from dusk till dawn _2{15} 
+- 30/01/21 - koishite akuma _1{15} from dusk till dawn _2{15} 
+- 31/01/21 - koishite akuma _1{15} from dusk till dawn _2{15} 
+- 01/02/21 - koishite akuma _1{16} 
+- 02/02/21 - koishite akuma _1{16} 
+- 03/02/21 - koishite akuma _1{16} 
+- 06/02/21 - koishite akuma _1{16} 
+- 07/02/21 - koishite akuma _1{16} 
+- 08/02/21 - koishite akuma _1{16} 
+- 09/02/21 - koishite akuma _1{16} 
+- 10/02/21 - koishite akuma _1{16} 
+- 11/02/21 - koishite akuma _1{16} 
+- 14/02/21 - koishite akuma _1{16} 
+- 22/02/21 - my vampire boyfriend _1{19} 
+- 23/02/21 - my vampire boyfriend _1{21} 
+- 24/02/21 - my vampire boyfriend _1{22} 
+- 25/02/21 - my vampire boyfriend _1{24} 
+- 26/02/21 - my vampire boyfriend _1{24} 
+- 27/02/21 - my vampire boyfriend _1{24} 
+- 28/02/21 - my vampire boyfriend _1{24} 
+- 01/03/21 - my vampire boyfriend _1{25} 
+- 02/03/21 - my vampire boyfriend _1{25} 
+- 03/03/21 - my vampire boyfriend _1{25} 
+- 04/03/21 - my vampire boyfriend _1{25} 
+- 20/03/21 - my vampire boyfriend _1{26} the harvest season _1{16} 
+- 21/03/21 - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 22/03/21 - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 23/03/21 - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 24/03/21 - my vampire boyfriend _1{25} 
+- 25/03/21 - my vampire boyfriend _1{25} 
+- 26/03/21 - my vampire boyfriend _1{25} 
+- 27/03/21 - my vampire boyfriend _1{25} 
+- 28/03/21 - my vampire boyfriend _1{25} 
+- 29/03/21 - my vampire boyfriend _1{25} 
+- 30/03/21 - my vampire boyfriend _1{25} 
+- 31/03/21 - my vampire boyfriend _1{25} 
+- 01/04/21 - my vampire boyfriend _1{25} 
+- 02/04/21 - my vampire boyfriend _1{25} 
+- 03/04/21 - my vampire boyfriend _1{25} 
+- 04/04/21 - my vampire boyfriend _1{25} 
+- 05/04/21 - my vampire boyfriend _1{25} 
+- 06/04/21 - my vampire boyfriend _1{25} 
+- 07/04/21 - my vampire boyfriend _1{25} 
+- 08/04/21 - my vampire boyfriend _1{25} 
+- 09/04/21 (eff) - my vampire boyfriend _1{25} 
+- 10/04/21 (eff) - my vampire boyfriend _1{25} 
+- 11/04/21 (eff) - my vampire boyfriend _1{25} 
+- 12/04/21 (eff) - my vampire boyfriend _1{25} 
+- 13/04/21 (eff) - my vampire boyfriend _1{25} 
+- 14/04/21 (eff) - my vampire boyfriend _1{25} 
+- 15/04/21 (eff) - my vampire boyfriend _1{25} 
+- 16/04/21 (eff) - my vampire boyfriend _1{25} 
+- 06/05/21 (eff) - my vampire boyfriend _1{25} 
+- 07/05/21 (eff) - my vampire boyfriend _1{25} 
+- 15/05/21 (eff) - my vampire boyfriend _1{25} 
+- 16/05/21 (eff) - my vampire boyfriend _1{25} 
+- 17/05/21 (eff) - my vampire boyfriend _1{25} 
+- 18/05/21 (eff) - my vampire boyfriend _1{25} 
+- 19/05/21 (eff) - my vampire boyfriend _1{25} 
+- 20/05/21 (eff) - my vampire boyfriend _1{25} 
+- 21/05/21 (eff) - my vampire boyfriend _1{25} 
+- 22/05/21 (eff) - my vampire boyfriend _1{25} 
+- 23/05/21 (eff) - my vampire boyfriend _1{25} 
+- 24/05/21 (eff) - my vampire boyfriend _1{25} 
+- 25/05/21 (eff) - my vampire boyfriend _1{25} 
+- 26/05/21 (eff) - my vampire boyfriend _1{25} 
+- 27/05/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 28/05/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 29/05/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 30/05/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 31/05/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 01/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 02/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 03/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 04/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 05/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 06/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 07/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 08/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 09/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 10/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 11/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 12/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 13/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 14/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 15/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 16/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 17/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 18/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 19/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 20/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 21/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 22/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 23/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 24/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} 
+- 25/06/21 (eff) - my vampire boyfriend _1{25} 
+- 26/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 27/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 28/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 29/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 30/06/21 (eff) - my vampire boyfriend _1{25} the harvest season _1{16} vincenzo _1{15} 
+- 01/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 02/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 03/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 04/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 05/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 06/07/21 (eff) - my vampire boyfriend _1{25} 
+- 07/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 08/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 09/07/21 (eff) - my vampire boyfriend _1{25} 
+- 10/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 11/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 12/07/21 (eff) - my vampire boyfriend _1{25} 
+- 13/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 14/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 15/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 16/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 17/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 18/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 19/07/21 (eff) - my vampire boyfriend _1{25} vincenzo _1{16} 
+- 20/07/21 (eff) - my vampire boyfriend _1{25} 
+- 21/07/21 (eff) - my vampire boyfriend _1{25} /46 days _1{18} 
+- 22/07/21 (eff) - my vampire boyfriend _1{25} /46 days _1{19} vincenzo _1{16} 
+- 23/07/21 (eff) - my vampire boyfriend _1{25} /46 days _1{21} vincenzo _1{16} 
+- 24/07/21 (eff) - my vampire boyfriend _1{25} /46 days _1{23} vincenzo _1{16} 
+- 25/07/21 (eff) - /46 days _1{25} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 26/07/21 (eff) - /46 days _1{28} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 27/07/21 (eff) - /46 days _1{29} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 28/07/21 (eff) - /46 days _1{30} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 29/07/21 (eff) - /46 days _1{31} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 30/07/21 (eff) - /46 days _1{32} my vampire boyfriend _1{25} 
+- 31/07/21 (eff) - /46 days _1{33} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 01/08/21 (eff) - /46 days _1{35} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 02/08/21 (eff) - /46 days _1{36} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 03/08/21 (eff) - /46 days _1{37} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 04/08/21 (eff) - /46 days _1{38} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 05/08/21 (eff) - /46 days _1{39} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 06/08/21 (eff) - /46 days _1{40} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 07/08/21 (eff) - /46 days _1{41} my vampire boyfriend _1{25} vincenzo _1{16} elite _4{15} 
+- 08/08/21 (eff) - /46 days _1{41} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 09/08/21 (eff) - /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 10/08/21 (eff) - /46 days _1{42} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 11/08/21 (eff) - /46 days _1{43} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 12/08/21 (eff) - /46 days _1{44} my vampire boyfriend _1{25} 
+- 13/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} 
+- 14/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} 
+- 15/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} 
+- 16/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} 
+- 17/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} 
+- 18/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} 
+- 19/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} 
+- 20/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} 
+- 21/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 22/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} vincenzo _1{16} the harvest season _1{16} 
+- 23/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 24/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{16} vincenzo _1{16} 
+- 25/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{17} vincenzo _1{16} 
+- 26/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
+- 27/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
+- 28/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
+- 29/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{18} 
+- 30/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{19} 
+- 31/08/21 (eff) - /46 days _1{45} my vampire boyfriend _1{25} from dusk till dawn _2{19} vincenzo _1{16} 
+- 01/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} 
+- 02/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} 
+- 03/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 04/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} 
+- 05/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} 
+- 06/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} peach of time _1{13} 
+- 07/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} peach of time _1{15} elite _4{15} 
+- 08/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} peach of time _1{17} vincenzo _1{16} elite _4{15} 
+- 09/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} 
+- 10/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} 
+- 11/09/21 (eff) - /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 12/09/21 (eff) - /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 13/09/21 (eff) - /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 14/09/21 (eff) - /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 15/09/21 (eff) - /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 16/09/21 (eff) - /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 17/09/21 (eff) - /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 18/09/21 (eff) - /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 19/09/21 (eff) - /46 days _1{46} peach of time _1{27} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 20/09/21 (eff) - /46 days _1{46} peach of time _1{29} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 21/09/21 (eff) - /46 days _1{46} peach of time _1{30} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+- 22/09/21 (eff) - /46 days _1{46} peach of time _1{31} from dusk till dawn _2{20} vwars _1{8} 
+- 23/09/21 (eff) - /46 days _1{46} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} 
+- 24/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 25/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 26/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 27/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 28/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 29/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 30/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+- 01/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 02/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 03/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 04/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 05/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 06/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 07/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 08/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 09/10/21 (eff) - peach of time _1{33} vwars _1{9} 
+- 10/10/21 (eff) - peach of time _1{33} vwars _1{9} camping paradis _12{8} 
+- 11/10/21 (eff) - peach of time _1{33} vwars _1{9} 
+- 12/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 13/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 14/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 15/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 16/10/21 (eff) - /46 days _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
+- 17/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
+- 18/10/21 (eff) - peach of time _1{33} vwars _1{9} 
+- 19/10/21 (eff) - peach of time _1{33} vwars _1{9} 
+- 20/10/21 (eff) - peach of time _1{33} vwars _1{9} 
+- 21/10/21 (eff) - peach of time _1{33} vwars _1{9} 
+- 22/10/21 (eff) - peach of time _1{33} 
+- 23/10/21 (eff) - peach of time _1{33} 
+- 24/10/21 (eff) - peach of time _1{33} 
+- 25/10/21 (eff) - peach of time _1{33} 
+- 26/10/21 (eff) - peach of time _1{33} 
+- 27/10/21 (eff) - peach of time _1{33} 
+- 28/10/21 (eff) - peach of time _1{33} 
+- 29/10/21 (eff) - peach of time _1{33} tbbt _11{8} 
+- 30/10/21 (eff) - peach of time _1{33} tbbt _11{10} 
+- 31/10/21 (eff) - tbbt _11{11} 
+- 01/11/21 (eff) - tbbt _11{13} 
+- 02/11/21 (eff) - tbbt _11{13} 
+- 03/11/21 (eff) - tbbt _11{13} 
+- 04/11/21 (eff) - tbbt _11{13} 
+- 05/11/21 (eff) - tbbt _11{13} 
+- 06/11/21 (eff) - tbbt _11{13} 
+- 07/11/21 (eff) - tbbt _11{13} 
+- 24/11/21 (eff) - tbbt _11{13} 
+- 25/11/21 (eff) - tbbt _11{13} 
+- 26/11/21 (eff) - tbbt _11{13} 
+- 27/11/21 (eff) - tbbt _11{13} 
+- 28/11/21 (eff) - tbbt _11{13} 
+- 29/11/21 (eff) - tbbt _11{13} 
+- 16/12/21 (eff) - tbbt _11{13} 
+- 17/12/21 (eff) - tbbt _11{13} 
+- 18/12/21 (eff) - tbbt _11{13} 
+- 19/12/21 (eff) - tbbt _11{13} earthmix space _1{12} 5515 never too late _1{12} 
+- 20/12/21 (eff) - earthmix space _1{14} tbbt _11{13} 5515 never too late _1{12} camping paradis _12{9} 
+- 21/12/21 (eff) - earthmix space _1{16} tbbt _11{13} 5515 never too late _1{12} 
+- 22/12/21 (eff) - earthmix space _1{17} tbbt _11{13} 5515 never too late _1{12} 
+- 23/12/21 (eff) - earthmix space _1{18} tbbt _11{13} 5515 never too late _1{12} 
+- 24/12/21 (eff) - earthmix space _1{19} tbbt _11{13} 5515 never too late _1{12} 
+- 25/12/21 (eff) - earthmix space _1{20} tbbt _11{13} 5515 never too late _1{12} 
+- 26/12/21 (eff) - earthmix space _1{21} tbbt _11{13} 
+- 27/12/21 (eff) - earthmix space _1{22} tbbt _11{13} 5515 never too late _1{12} 
+- 28/12/21 (eff) - earthmix space _1{24} tbbt _11{13} 5515 never too late _1{12} 
+- 29/12/21 (eff) - earthmix space _1{25} tbbt _11{13} 5515 never too late _1{12} 
+- 30/12/21 (eff) - earthmix space _1{25} tbbt _11{13} 5515 never too late _1{12} 
+- 31/12/21 (eff) - earthmix space _1{26} 5515 never too late _1{13} tbbt _11{13} 
+- 01/01/22 (eff) - earthmix space _1{27} 5515 never too late _1{14} tbbt _11{13} 
+- 02/01/22 (eff) - earthmix space _1{30} 5515 never too late _1{16} 
+- 03/01/22 (eff) - earthmix space _1{32} 5515 never too late _1{17} 
+- 04/01/22 (eff) - earthmix space _1{33} 5515 never too late _1{18} 
+- 05/01/22 (eff) - earthmix space _1{34} 5515 never too late _1{18} 
+- 06/01/22 (eff) - earthmix space _1{35} 5515 never too late _1{18} 
+- 07/01/22 (eff) - earthmix space _1{36} 5515 never too late _1{18} 
+- 08/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 09/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 10/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} tbbt _11{13} 
+- 11/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 12/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 13/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
+- 14/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} tbbt _11{13} 
+- 15/01/22 (eff) - earthmix space _1{38} 5515 never too late _1{18} tbbt _11{13} 
+- 16/01/22 (eff) - earthmix space _1{40} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 
 
 
@@ -413,37 +355,26 @@
 \pagebreak 
 </div>
 
-## (nb)
+## nb
 - 22/10/20 - 151* quien es la mascara _2{1} 
 - 23/10/20 - 164* quien es la mascara _2{1} ben x jim _1{1} 
 - 24/10/20 - 135* swap test _1{0} 
 - 25/10/20 - 77* pogi lang hanap _1{0} 
 - 26/10/20 - 117* boys lockdown _1{2} 
 - 27/10/20 - 198* boys lockdown _1{2} 
-- 28/10/20 - 256* 
 - 29/10/20 - 164* pogi lang hanap _1{1} lakan _1{0} friend forever _1{8} 
-- 30/10/20 - 73* the stranded _1{0} unbag _1{10} pogi lang hanap _1{3} lakan _1{0} friend forever _1{8} 
-- 31/10/20 - 158* swap test _1{1} the stranded _1{0} unbag _1{10} 
-- 05/11/20 - 307* 
-- 06/11/20 - 253* unbag _1{12} blood _1{4} 
-- 07/11/20 - 173* unbag _1{12} blood _1{4} 
+- 30/10/20 - 73* the stranded _1{0} pogi lang hanap _1{3} lakan _1{0} friend forever _1{8} 
+- 31/10/20 - 158* swap test _1{1} the stranded _1{0} 
+- 06/11/20 - 253* blood _1{4} 
+- 07/11/20 - 173* blood _1{4} 
 - 08/11/20 - 222* lakan _1{2} pogi lang hanap _1{7} 
 - 09/11/20 - 267* lakan _1{3} pogi lang hanap _1{8} 
 - 10/11/20 - 271* lakan _1{3} pogi lang hanap _1{8} 
-- 12/11/20 - 233* unbag _1{13} 
-- 13/11/20 - 245* unbag _1{13} 
-- 14/11/20 - 392* unbag _1{13} 
-- 15/11/20 - 411* unbag _1{13} 
 - 16/11/20 - 374* my vampire boyfriend _1{1} 
 - 17/11/20 - 362* my vampire boyfriend _1{3} 
 - 18/11/20 - 356* my vampire boyfriend _1{5} 
 - 19/11/20 - 372* pogi lang hanap _1{8} 
-- 20/11/20 - 308* unbag _1{14} pogi lang hanap _1{8} 
-- 21/11/20 - 205* unbag _1{14} 
-- 22/11/20 - 178* 
-- 23/11/20 - 274* 
-- 24/11/20 - 346* 
-- 25/11/20 - 421* 
+- 20/11/20 - 308* pogi lang hanap _1{8} 
 - 26/11/20 - 422* be love _1{0} 
 - 27/11/20 - 438* be love _1{0} 
 - 28/11/20 - 396* be love _1{0} 
@@ -451,10 +382,8 @@
 - 01/12/20 - 475* be love _1{2} 
 - 02/12/20 - 385* be love _1{4} 
 - 03/12/20 - 281* ghost runner _1{0} be love _1{6} 
-- 04/12/20 - 239* unbag _1{16} ghost runner _1{0} be love _1{6} 
-- 05/12/20 - 134* unbag _1{16} ghost runner _1{0} 
-- 06/12/20 - 148* unbag _1{16} 
-- 07/12/20 - 203* 
+- 04/12/20 - 239* ghost runner _1{0} be love _1{6} 
+- 05/12/20 - 134* ghost runner _1{0} 
 - 08/12/20 - 311* tale of the nine tailed _1{0} 
 - 09/12/20 - 320* tale of the nine tailed _1{0} 
 - 10/12/20 - 356* tale of the nine tailed _1{0} 
@@ -464,11 +393,11 @@
 - 15/12/20 - 588* a queen is born _1{2} 
 - 16/12/20 - 504* a queen is born _1{3} 
 - 17/12/20 - 669* a queen is born _1{4} 
-- 18/12/20 - 676* unbag _1{22} a queen is born _1{4} 
-- 19/12/20 - 497* unbag _1{23} a queen is born _1{4} 
-- 20/12/20 - 408* unbag _1{24} a queen is born _1{4} 
-- 21/12/20 - 296* ghost runner _1{2} unbag _1{26} a queen is born _1{4} 
-- 22/12/20 - 295* lakan _1{4} ghost runner _1{3} unbag _1{28} 
+- 18/12/20 - 676* a queen is born _1{4} 
+- 19/12/20 - 497* a queen is born _1{4} 
+- 20/12/20 - 408* a queen is born _1{4} 
+- 21/12/20 - 296* ghost runner _1{2} a queen is born _1{4} 
+- 22/12/20 - 295* lakan _1{4} ghost runner _1{3} 
 - 23/12/20 - 283* lakan _1{4} ghost runner _1{4} 
 - 24/12/20 - 238* from dusk till dawn _2{0} lakan _1{5} 
 - 25/12/20 - 38* from dusk till dawn _2{0} lakan _1{5} 
@@ -478,8 +407,8 @@
 - 29/12/20 - 471* capture lover _1{4} 
 - 30/12/20 - 269* capture lover _1{4} 
 - 31/12/20 - 65* ghost runner _1{4} friend zone _1{4} capture lover _1{4} 
-- 01/01/21 - 105* unbag _1{42} ghost runner _1{6} friend zone _1{5} 
-- 02/01/21 - 75* the shipper _1{2} unbag _1{44} ghost runner _1{7} 
+- 01/01/21 - 105* ghost runner _1{6} friend zone _1{5} 
+- 02/01/21 - 75* the shipper _1{2} ghost runner _1{7} 
 - 03/01/21 - 22* together with me _1{0} the shipper _1{2} 
 - 04/01/21 - 72* together with me _1{1} 
 - 05/01/21 - 81* together with me _1{1} 
@@ -491,146 +420,58 @@
 - 11/01/21 - 105* romantic blue _1{1} 
 - 12/01/21 - 70* romantic blue _1{1} 
 - 13/01/21 - 75* romantic blue _1{1} 
-- 14/01/21 - 94* 
-- 15/01/21 - 164* unbag _1{61} 
-- 16/01/21 - 151* warper series _1{0} unbag _1{63} 
-- 17/01/21 - 116* 
+- 16/01/21 - 151* warper series _1{0} 
 - 18/01/21 - 128* koishite akuma _1{1} 
 - 19/01/21 - 148* koishite akuma _1{3} 
 - 20/01/21 - 140* koishite akuma _1{5} 
 - 21/01/21 - 131* koishite akuma _1{7} 
-- 22/01/21 - 113* 
-- 23/01/21 - 73* 
 - 24/01/21 - 89* ben x jim _1{2} 
 - 25/01/21 - 105* tien bromance _1{1} ben x jim _1{3} 
 - 26/01/21 - 425* the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
 - 27/01/21 - 407* the shipper _1{3} tien bromance _1{2} ben x jim _1{3} 
 - 28/01/21 - 376* the shipper _1{3} tien bromance _1{2} 
-- 29/01/21 - 468* unbag _1{83} the shipper _1{3} 
-- 30/01/21 - 202* unbag _1{85} 
+- 29/01/21 - 468* the shipper _1{3} 
 - 31/01/21 - 166* be love _1{7} 
 - 01/02/21 - 200* be love _1{10} 
 - 02/02/21 - 208* you never eat alone _1{0} slam dance _1{0} be love _1{11} 
 - 03/02/21 - 143* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} be love _1{11} 
 - 04/02/21 - 145* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} 
 - 05/02/21 - 128* schools out lets date now _1{0} you never eat alone _1{1} 
-- 06/02/21 - 184* 
-- 07/02/21 - 192* 
 - 08/02/21 - 175* tbbt _11{1} the untamed _1{5} schools out lets date now _1{1} 
 - 09/02/21 - 219* tbbt _11{1} the untamed _1{5} schools out lets date now _1{2} 
 - 10/02/21 - 220* the harvest season _1{0} wabi show _1{0} tbbt _11{1} 
 - 11/02/21 - 140* the harvest season _1{2} wabi show _1{2} 
-- 12/02/21 - 199* unbag _1{106} the harvest season _1{4} wabi show _1{3} 
-- 13/02/21 - 218* tokyo ghoul _3{0} unbag _1{108} 
-- 14/02/21 - 209* tokyo ghoul _3{0} unbag _1{110} 
+- 12/02/21 - 199* the harvest season _1{4} wabi show _1{3} 
+- 13/02/21 - 218* tokyo ghoul _3{0} 
+- 14/02/21 - 209* tokyo ghoul _3{0} 
 - 15/02/21 - 114* bangkok love stories innocence _1{1} schools out lets date now _1{3} 
 - 16/02/21 - 175* tokyo ghoul _3{1} my vampire boyfriend _1{9} bangkok love stories innocence _1{1} schools out lets date now _1{3} 
 - 17/02/21 - 199* you never eat alone _1{2} tokyo ghoul _3{2} my vampire boyfriend _1{9} 
 - 18/02/21 - 127* unlocked _1{2} my vampire boyfriend _1{10} you never eat alone _1{2} 
 - 19/02/21 - 191* unlocked _1{2} my vampire boyfriend _1{12} you never eat alone _1{2} 
-- 20/02/21 - 164* 
-- 21/02/21 - 191* 
-- 22/02/21 - 207* 
-- 23/02/21 - 226* 
-- 24/02/21 - 257* 
-- 25/02/21 - 163* 
-- 26/02/21 - 282* unbag _1{128} 
-- 27/02/21 - 329* unbag _1{130} 
-- 28/02/21 - 377* unbag _1{132} 
-- 01/03/21 - 279* 
 - 02/03/21 - 268* schools out lets date now _1{4} 
 - 03/03/21 - 579* you never eat alone _1{4} schools out lets date now _1{5} 
 - 04/03/21 - 610* you never eat alone _1{4} 
 - 05/03/21 - 618* you never eat alone _1{4} 
-- 06/03/21 - 587* 
-- 07/03/21 - 648* 
-- 08/03/21 - 687* 
-- 09/03/21 - 760* 
 - 10/03/21 - 702* you never eat alone _1{5} 
-- 11/03/21 - 552* 
-- 12/03/21 - 680* unbag _1{152} 
-- 13/03/21 - 852* 
-- 14/03/21 - 953* 
-- 15/03/21 - 788* 
-- 16/03/21 - 788* 
-- 17/03/21 - 779* 
-- 18/03/21 - 533* 
 - 19/03/21 - 474* bt21 vlog _1{0} schools out lets date now _1{6} 
 - 20/03/21 - 506* bt21 vlog _1{1} schools out lets date now _1{6} 
 - 21/03/21 - 657* bt21 vlog _1{2} 
-- 22/03/21 - 672* 
-- 23/03/21 - 659* 
-- 24/03/21 - 582* 
-- 25/03/21 - 195* 
-- 26/03/21 - 204* 
-- 27/03/21 - 171* 
-- 28/03/21 - 260* 
-- 29/03/21 - 652* 
-- 30/03/21 - 578* 
-- 31/03/21 - 640* 
-- 01/04/21 - 654* 
-- 02/04/21 - 375* unbag _1{196} 
-- 03/04/21 - 396* unbag _1{198} 
-- 04/04/21 - 414* unbag _1{200} 
-- 05/04/21 - 170* 
 - 06/04/21 - 620* mr lipstick _1{0} 
 - 07/04/21 - 714* mr lipstick _1{1} 
 - 08/04/21 - 739* mr lipstick _1{2} 
-- 09/04/21 - 681* 
-- 10/04/21 - 220* 
-- 11/04/21 - 225* 
-- 12/04/21 - 216* 
-- 13/04/21 - 253* 
-- 14/04/21 - 182* 
-- 15/04/21 - 154* 
-- 16/04/21 - 360* unbag _1{225} 
-- 17/04/21 - 457* unbag _1{227} 
-- 18/04/21 - 519* unbag _1{229} 
-- 19/04/21 - 276* 
-- 20/04/21 - 230* 
-- 21/04/21 - 290* 
-- 22/04/21 - 282* 
 - 23/04/21 - 116* i can see your voice fr _1{0} 
 - 24/04/21 - 140* i can see your voice fr _1{0} 
-- 25/04/21 - 224* 
-- 26/04/21 - 180* 
-- 27/04/21 - 639* 
-- 28/04/21 - 764* 
-- 29/04/21 - 763* 
-- 30/04/21 - 1045* unbag _1{253} 
-- 01/05/21 - 942* unbag _1{256} 
-- 02/05/21 - 449* unbag _1{258} 
-- 03/05/21 - 648* 
-- 04/05/21 - 757* 
-- 05/05/21 - 806* 
-- 06/05/21 - 846* 
-- 07/05/21 - 857* 
-- 08/05/21 - 190* 
-- 09/05/21 - 179* 
-- 10/05/21 - 709* 
-- 11/05/21 - 827* 
-- 12/05/21 - 852* 
-- 13/05/21 - 849* 
-- 14/05/21 - 1000* unbag _1{283} i can see your voice fr _1{2} 
-- 15/05/21 - 490* unbag _1{285} i can see your voice fr _1{2} 
-- 16/05/21 - 381* unbag _1{287} i can see your voice fr _1{2} 
-- 17/05/21 - 645* 
-- 18/05/21 - 790* 
+- 14/05/21 - 1000* i can see your voice fr _1{2} 
+- 15/05/21 - 490* i can see your voice fr _1{2} 
+- 16/05/21 - 381* i can see your voice fr _1{2} 
 - 19/05/21 - 833* an eye for an eye _1{0} 
 - 20/05/21 - 909* an eye for an eye _1{0} 
 - 21/05/21 - 771* an eye for an eye _1{0} 
-- 22/05/21 - 761* 
-- 23/05/21 - 658* 
-- 24/05/21 - 659* 
-- 25/05/21 - 251* 
-- 26/05/21 - 329* 
-- 27/05/21 - 286* 
-- 28/05/21 - 1089* unbag _1{312} 
-- 29/05/21 - 989* dark blue kiss _1{0} unbag _1{314} 
-- 30/05/21 - 992* dark blue kiss _1{0} unbag _1{316} 
-- 31/05/21 - 951* dark blue kiss _1{1} unbag _1{319} 
+µ- 29/05/21 - 989* dark blue kiss _1{0} 
+- 30/05/21 - 992* dark blue kiss _1{0} 
+- 31/05/21 - 951* dark blue kiss _1{1} 
 - 01/06/21 - 655* dark blue kiss _1{2} 
-- 02/06/21 - 682* 
 - 03/06/21 - 190* vincenzo _1{0} 
 - 04/06/21 - 179* vincenzo _1{2} 
 - 05/06/21 - 163* vincenzo _1{4} 
@@ -639,13 +480,7 @@
 - 08/06/21 - 200* vincenzo _1{11} 
 - 09/06/21 - 204* vincenzo _1{13} 
 - 10/06/21 - 144* vincenzo _1{15} 
-- 11/06/21 - 479* unbag _1{342} vincenzo _1{15} 
-- 12/06/21 - 490* unbag _1{344} 
-- 13/06/21 - 505* unbag _1{346} 
-- 14/06/21 - 509* unbag _1{349} 
-- 15/06/21 - 504* unbag _1{351} 
-- 16/06/21 - 211* 
-- 17/06/21 - 233* 
+- 11/06/21 - 479* vincenzo _1{15} 
 - 18/06/21 - 219* dark blue kiss _1{2} 
 - 19/06/21 - 265* elite _4{0} dark blue kiss _1{3} 
 - 20/06/21 - 276* elite _4{1} dark blue kiss _1{3} 
@@ -653,25 +488,15 @@
 - 22/06/21 - 199* elite _4{6} dark blue kiss _1{4} 
 - 23/06/21 - 238* siew sum noi _1{0} elite _4{8} 
 - 24/06/21 - 199* siew sum noi _1{0} elite _4{10} 
-- 25/06/21 - 505* unbag _1{371} siew sum noi _1{0} 
-- 26/06/21 - 510* unbag _1{373} 
-- 27/06/21 - 503* unbag _1{375} 
-- 28/06/21 - 542* unbag _1{378} 
-- 29/06/21 - 554* unbag _1{380} 
-- 30/06/21 - 249* 
-- 01/07/21 - 287* 
-- 02/07/21 - 255* 
-- 03/07/21 - 202* 
-- 04/07/21 - 216* 
-- 05/07/21 - 253* 
+- 25/06/21 - 505* siew sum noi _1{0} 
 - 06/07/21 - 237* young royals _1{0} camping paradis _12{0} 
 - 07/07/21 - 256* young royals _1{2} camping paradis _12{1} 
 - 08/07/21 - 243* /46 days _1{0} young royals _1{2} camping paradis _12{1} 
-- 09/07/21 - 545* unbag _1{401} /46 days _1{0} 
-- 10/07/21 - 601* /46 days _1{0} zombie detective _1{3} unbag _1{403} 
-- 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} unbag _1{405} 
-- 12/07/21 - 655* glow up _2{2} /46 days _1{5} zombie detective _1{4} unbag _1{408} 
-- 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} unbag _1{410} 
+- 09/07/21 - 545* /46 days _1{0} 
+- 10/07/21 - 601* /46 days _1{0} zombie detective _1{3} 
+- 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} 
+- 12/07/21 - 655* glow up _2{2} /46 days _1{5} zombie detective _1{4} 
+- 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} 
 - 14/07/21 - 253* camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
 - 15/07/21 - 299* /46 days _1{11} camping paradis _12{3} 
 - 16/07/21 - 215* /46 days _1{13} 
@@ -681,74 +506,61 @@
 - 20/07/21 - 184* camping paradis _12{4} /46 days _1{17} good singers _1{5} 
 - 21/07/21 - 242* camping paradis _12{4} /46 days _1{18} 
 - 22/07/21 - 213* /46 days _1{19} camping paradis _12{4} 
-- 23/07/21 - 655* /46 days _1{21} unbag _1{430} 
-- 24/07/21 - 662* /46 days _1{23} unbag _1{432} 
-- 25/07/21 - 683* /46 days _1{25} unbag _1{434} 
-- 26/07/21 - 660* /46 days _1{28} unbag _1{437} 
-- 27/07/21 - 671* /46 days _1{29} unbag _1{439} 
-- 28/07/21 - 700* /46 days _1{30} unbag _1{441} 
+- 23/07/21 - 655* /46 days _1{21} 
+- 24/07/21 - 662* /46 days _1{23} 
+- 25/07/21 - 683* /46 days _1{25} 
+- 26/07/21 - 660* /46 days _1{28} 
+- 27/07/21 - 671* /46 days _1{29} 
+- 28/07/21 - 700* /46 days _1{30} 
 - 29/07/21 - 295* /46 days _1{31} 
 - 30/07/21 - 297* /46 days _1{32} 
-- 31/07/21 - 321* 
-- 01/08/21 - 316* 
-- 02/08/21 - 308* 
 - 03/08/21 - 310* glow up _2{3} 
 - 04/08/21 - 302* /46 days _1{38} glow up _2{3} 
 - 05/08/21 - 206* control z _2{0} /46 days _1{39} glow up _2{3} 
-- 06/08/21 - 716* unbag _1{460} control z _2{1} /46 days _1{40} 
-- 07/08/21 - 650* dont say no _1{0} unbag _1{462} control z _2{1} 
-- 08/08/21 - 660* good singers _1{6} dont say no _1{0} unbag _1{464} 
-- 09/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{467} 
-- 10/08/21 - 708* good singers _1{7} dont say no _1{1} unbag _1{469} 
-- 11/08/21 - 716* good singers _1{7} dont say no _1{1} unbag _1{471} 
-- 12/08/21 - 237* good singers _1{7} dont say no _1{1} 
-- 13/08/21 - 329* 
-- 14/08/21 - 274* dont say no _1{1} 
-- 15/08/21 - 298* dont say no _1{1} 
-- 16/08/21 - 311* dont say no _1{2} 
-- 17/08/21 - 352* dont say no _1{2} 
-- 18/08/21 - 354* dont say no _1{2} 
-- 19/08/21 - 401* dont say no _1{2} 
-- 20/08/21 - 860* unbag _1{489} 
-- 21/08/21 - 833* unbag _1{491} 
-- 22/08/21 - 780* from dusk till dawn _2{15} unbag _1{493} 
-- 23/08/21 - 278* dont say no _1{3} from dusk till dawn _2{16} 
-- 24/08/21 - 284* from dusk till dawn _2{16} dont say no _1{4} 
-- 25/08/21 - 284* from dusk till dawn _2{17} dont say no _1{4} 
-- 26/08/21 - 249* post mortem _1{0} from dusk till dawn _2{18} dont say no _1{4} 
+- 06/08/21 - 716* control z _2{1} /46 days _1{40} 
+- 07/08/21 - 650* control z _2{1} 
+- 08/08/21 - 660* good singers _1{6} 
+- 09/08/21 - 708* good singers _1{7} 
+- 10/08/21 - 708* good singers _1{7} 
+- 11/08/21 - 716* good singers _1{7} 
+- 12/08/21 - 237* good singers _1{7} 
+- 22/08/21 - 780* from dusk till dawn _2{15} 
+- 23/08/21 - 278* from dusk till dawn _2{16} 
+- 24/08/21 - 284* from dusk till dawn _2{16} 
+- 25/08/21 - 284* from dusk till dawn _2{17} 
+- 26/08/21 - 249* post mortem _1{0} from dusk till dawn _2{18} 
 - 27/08/21 - 252* post mortem _1{1} 
-- 28/08/21 - 270* dont say no _1{4} the yearbook _1{0} 
-- 29/08/21 - 316* dont say no _1{5} the yearbook _1{0} 
-- 30/08/21 - 306* bite me _1{1} dont say no _1{8} the yearbook _1{1} 
-- 31/08/21 - 239* camping paradis _12{6} peach of time _1{0} bite me _1{1} dont say no _1{9} the yearbook _1{1} 
+- 28/08/21 - 270* the yearbook _1{0} 
+- 29/08/21 - 316* the yearbook _1{0} 
+- 30/08/21 - 306* bite me _1{1} the yearbook _1{1} 
+- 31/08/21 - 239* camping paradis _12{6} peach of time _1{0} bite me _1{1} the yearbook _1{1} 
 - 01/09/21 - 245* 7project _1{1} peach of time _1{2} camping paradis _12{7} bite me _1{2} 
 - 02/09/21 - 385* 7project _1{1} peach of time _1{4} camping paradis _12{7} 
-- 03/09/21 - 895* unbag _1{519} 7project _1{1} peach of time _1{6} 
-- 04/09/21 - 789* dont say no _1{11} unbag _1{521} 7project _1{1} peach of time _1{8} 
-- 05/09/21 - 792* qforce _1{0} dont say no _1{11} unbag _1{523} 7project _1{1} peach of time _1{10} 
-- 06/09/21 - 865* vwars _1{7} qforce _1{1} dont say no _1{13} unbag _1{526} 
-- 07/09/21 - 854* peach of time _1{15} vwars _1{7} qforce _1{1} dont say no _1{14} unbag _1{528} 
-- 08/09/21 - 789* peach of time _1{17} 7project _1{2} vwars _1{8} qforce _1{1} dont say no _1{14} unbag _1{530} 
+- 03/09/21 - 895* 7project _1{1} peach of time _1{6} 
+- 04/09/21 - 789* 7project _1{1} peach of time _1{8} 
+- 05/09/21 - 792* qforce _1{0} 7project _1{1} peach of time _1{10} 
+- 06/09/21 - 865* vwars _1{7} qforce _1{1} 
+- 07/09/21 - 854* peach of time _1{15} vwars _1{7} qforce _1{1} 
+- 08/09/21 - 789* peach of time _1{17} 7project _1{2} vwars _1{8} qforce _1{1} 
 - 09/09/21 - 247* peach of time _1{19} 7project _1{2} vwars _1{8} qforce _1{1} 
 - 10/09/21 - 300* bite me _1{2} peach of time _1{19} 7project _1{2} vwars _1{8} 
-- 11/09/21 - 303* dont say no _1{14} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
-- 12/09/21 - 306* dont say no _1{15} earthmix space _1{0} lucifer _4{4} bite me _1{2} 
-- 13/09/21 - 211* buffy _1{1} dont say no _1{17} earthmix space _1{1} lucifer _4{5} bite me _1{3} 
-- 14/09/21 - 115* peach of time _1{22} 7project _1{3} buffy _1{3} dont say no _1{18} earthmix space _1{1} lucifer _4{5} 
-- 15/09/21 - 225* peach of time _1{23} 7project _1{4} buffy _1{3} dont say no _1{18} 
+- 11/09/21 - 303* earthmix space _1{0} lucifer _4{4} bite me _1{2} 
+- 12/09/21 - 306* earthmix space _1{0} lucifer _4{4} bite me _1{2} 
+- 13/09/21 - 211* buffy _1{1} earthmix space _1{1} lucifer _4{5} bite me _1{3} 
+- 14/09/21 - 115* peach of time _1{22} 7project _1{3} buffy _1{3} earthmix space _1{1} lucifer _4{5} 
+- 15/09/21 - 225* peach of time _1{23} 7project _1{4} buffy _1{3} 
 - 16/09/21 - 191* peach of time _1{24} 7project _1{4} buffy _1{3} 
-- 17/09/21 - 643* unbag _1{548} peach of time _1{25} 7project _1{4} buffy _1{3} 
-- 18/09/21 - 661* dont say no _1{18} unbag _1{550} peach of time _1{26} 
-- 19/09/21 - 627* alice in borderland _1{0} dont say no _1{20} unbag _1{552} 
+- 17/09/21 - 643* peach of time _1{25} 7project _1{4} buffy _1{3} 
+- 18/09/21 - 661* peach of time _1{26} 
+- 19/09/21 - 627* alice in borderland _1{0} 
 - 20/09/21 - 63* post mortem _1{4} alice in borderland _1{1} 
 - 21/09/21 - 54* /9-1-1 _5{0} post mortem _1{4} 
 - 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
 - 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
-- 24/09/21 - 98* rpdruk _3{0} 
-- 25/09/21 - 96* earthmix space _1{1} rpdruk _3{0} 
-- 26/09/21 - 56* dont say no _1{30} earthmix space _1{1} 
-- 27/09/21 - 94* goblin _1{1} dont say no _1{33} 
-- 28/09/21 - 102* goblin _1{1} dont say no _1{35} 
+- 25/09/21 - 96* earthmix space _1{1} 
+- 26/09/21 - 56* earthmix space _1{1} 
+- 27/09/21 - 94* goblin _1{1} 
+- 28/09/21 - 102* goblin _1{1} 
 - 29/09/21 - 69* goblin _1{1} 
 - 30/09/21 - 115* goblin _1{1} 
 - 01/10/21 - 129* /9-1-1 _5{2} 
@@ -757,64 +569,87 @@
 - 04/10/21 - 124* the shipper _1{6} /9-1-1 _5{5} 
 - 05/10/21 - 166* the shipper _1{6} 
 - 06/10/21 - 232* the shipper _1{6} 
-- 07/10/21 - 302* 
-- 08/10/21 - 309* 
 - 09/10/21 - 183* young sheldon _5{0} 
-- 10/10/21 - 701* love area _1{0} dont say no _1{54} young sheldon _5{0} unbag _1{594} 
-- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} dont say no _1{56} 
-- 12/10/21 - 236* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{1} dont say no _1{57} 
-- 13/10/21 - 204* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
-- 14/10/21 - 284* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
-- 15/10/21 - 180* kieta hatsukoi _1{0} /9-1-1 _5{6} earthmix space _1{4} 
-- 16/10/21 - 148* kieta hatsukoi _1{0} /9-1-1 _5{6} 
+- 10/10/21 - 701* love area _1{0} young sheldon _5{0} 
+- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
+- 12/10/21 - 236* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
+- 13/10/21 - 204* /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
+- 14/10/21 - 284* /9-1-1 _5{6} earthmix space _1{4} 
+- 15/10/21 - 180* /9-1-1 _5{6} earthmix space _1{4} 
+- 16/10/21 - 148* /9-1-1 _5{6} 
 - 17/10/21 - 118* aoki vuanpaia no nayami _1{0} 
-- 18/10/21 - 214* the voice portugal _9{1} survivor au _6{1} aoki vuanpaia no nayami _1{3} 
-- 19/10/21 - 225* the voice portugal _9{1} survivor au _6{3} aoki vuanpaia no nayami _1{4} 
-- 20/10/21 - 224* age of the living dead _1{0} inhuman condition _1{0} the voice portugal _9{1} survivor au _6{5} 
-- 21/10/21 - 219* age of the living dead _1{0} inhuman condition _1{2} the voice portugal _9{1} 
-- 22/10/21 - 677* unbag _1{619} insiders _1{0} age of the living dead _1{0} 
-- 23/10/21 - 687* earthmix space _1{4} unbag _1{621} insiders _1{0} 
-- 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} earthmix space _1{4} unbag _1{623} 
+- 18/10/21 - 214* aoki vuanpaia no nayami _1{3} 
+- 19/10/21 - 225* aoki vuanpaia no nayami _1{4} 
+- 20/10/21 - 224* age of the living dead _1{0} 
+- 21/10/21 - 219* age of the living dead _1{0} 
+- 22/10/21 - 677* insiders _1{0} age of the living dead _1{0} 
+- 23/10/21 - 687* earthmix space _1{4} insiders _1{0} 
+- 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} earthmix space _1{4} 
 - 25/10/21 - 139* aoki vuanpaia no nayami _1{6} young sheldon _5{4} my sweet dear _1{2} 
-- 26/10/21 - 133* the voice portugal _9{1} tbbt _11{2} aoki vuanpaia no nayami _1{6} young sheldon _5{5} my sweet dear _1{3} 
-- 27/10/21 - 206* the voice portugal _9{1} tbbt _11{4} aoki vuanpaia no nayami _1{6} young sheldon _5{6} 
-- 28/10/21 - 213* the voice portugal _9{1} tbbt _11{6} aoki vuanpaia no nayami _1{6} 
-- 29/10/21 - 831* unbag _1{634} the voice portugal _9{1} tbbt _11{8} 
-- 30/10/21 - 756* bad buddy _1{0} unbag _1{636} 
-- 31/10/21 - 798* bad buddy _1{0} unbag _1{638} 
-- 01/11/21 - 195* kieta hatsukoi _1{3} bad buddy _1{2} 
-- 02/11/21 - 207* the voice portugal _9{3} kieta hatsukoi _1{3} 
-- 03/11/21 - 289* the voice portugal _9{3} kieta hatsukoi _1{3} 
-- 04/11/21 - 279* the voice portugal _9{3} 
-- 05/11/21 - 822* unbag _1{650} the voice portugal _9{3} 
-- 06/11/21 - 748* bad buddy _1{2} earthmix space _1{6} unbag _1{652} 
-- 07/11/21 - 186* kieta hatsukoi _1{3} banana fish _1{0} bad buddy _1{2} 
-- 08/11/21 - 229* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{6} 
-- 09/11/21 - 237* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{7} 
-- 10/11/21 - 327* the voice portugal _9{4} dexter _9{1} kieta hatsukoi _1{9} 
-- 11/11/21 - 346* the voice portugal _9{4} dexter _9{1} 
-- 12/11/21 - 308* the voice portugal _9{4} 
-- 13/11/21 - 206* bad buddy _1{3} 
-- 14/11/21 - 212* bad buddy _1{3} 
-- 15/11/21 - 273* the voice portugal _9{4} dexter _9{1} bad buddy _1{3} 
-- 16/11/21 - 292* the case study of vanitas _1{0} kieta hatsukoi _1{17} the voice portugal _9{5} dexter _9{2} 
-- 17/11/21 - 386* the case study of vanitas _1{2} kieta hatsukoi _1{17} the voice portugal _9{5} 
-- 18/11/21 - 244* the case study of vanitas _1{3} kieta hatsukoi _1{17} 
-- 19/11/21 - 209* drag race it _1{0} the case study of vanitas _1{4} kieta hatsukoi _1{17} 
-- 20/11/21 - 236* bad buddy _1{4} les engages _3{0} drag race it _1{0} 
-- 21/11/21 - 331* bad buddy _1{4} les engages _3{0} drag race it _1{0} 
-- 22/11/21 - 328* the voice portugal _9{5} dexter _9{2} bad buddy _1{4} les engages _3{0} 
-- 23/11/21 - 327* the voice portugal _9{6} dexter _9{3} bad buddy _1{5} les engages _3{1} 
-- 24/11/21 - 455* rpdruk _3{2} the voice portugal _9{7} dexter _9{3} 
-- 25/11/21 - 274* baker boys _1{0} rpdruk _3{4} the voice portugal _9{8} 
-- 26/11/21 - 248* drag race it _1{1} painted with raven _1{0} do seu lado _1{0} baker boys _1{0} rpdruk _3{6} 
-- 27/11/21 - 213* the voice senior it _2{0} bad buddy _1{5} drag race it _1{1} painted with raven _1{0} do seu lado _1{2} baker boys _1{1} rpdruk _3{8} 
-- 28/11/21 - 1026* unbag _1{697} the voice senior it _2{0} bad buddy _1{6} drag race it _1{1} painted with raven _1{0} do seu lado _1{4} baker boys _1{2} 
-- 29/11/21 - 1071* the voice portugal _9{8} kieta hatsukoi _1{18} earthmix space _1{7} dexter _9{3} mr cinderella _1{0} paint with love _1{0} unbag _1{699} 
-- 30/11/21 - 381* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} dexter _9{4} mr cinderella _1{1} paint with love _1{1} 
-- 01/12/21 - 546* the voice portugal _9{9} kieta hatsukoi _1{20} earthmix space _1{8} 
-- 02/12/21 - 470* the voice portugal _9{10} 
-- 03/12/21 - 267* drag race it _1{3} baker boys _1{4} 
-- 04/12/21 - 222* painted with raven _1{2} bad buddy _1{8} drag race it _1{3} baker boys _1{4} 
+- 26/10/21 - 133* tbbt _11{2} aoki vuanpaia no nayami _1{6} young sheldon _5{5} my sweet dear _1{3} 
+- 27/10/21 - 206* tbbt _11{4} aoki vuanpaia no nayami _1{6} young sheldon _5{6} 
+- 28/10/21 - 213* tbbt _11{6} aoki vuanpaia no nayami _1{6} 
+- 29/10/21 - 831* tbbt _11{8} 
+- 06/11/21 - 748* earthmix space _1{6} 
+- 07/11/21 - 186* banana fish _1{0} 
+- 16/11/21 - 292* the case study of vanitas _1{0} 
+- 17/11/21 - 386* the case study of vanitas _1{2} 
+- 18/11/21 - 244* the case study of vanitas _1{3} 
+- 19/11/21 - 209* the case study of vanitas _1{4} 
+- 20/11/21 - 236* les engages _3{0} 
+- 21/11/21 - 331* les engages _3{0} 
+- 22/11/21 - 328* les engages _3{0} 
+- 23/11/21 - 327* les engages _3{1} 
+- 25/11/21 - 274* baker boys _1{0} 
+- 26/11/21 - 248* baker boys _1{0} 
+- 27/11/21 - 213* baker boys _1{1} 
+- 28/11/21 - 1026* baker boys _1{2} 
+- 29/11/21 - 1071* earthmix space _1{7} 
+- 30/11/21 - 381* earthmix space _1{8} 
+- 01/12/21 - 546* earthmix space _1{8} 
+- 03/12/21 - 267* baker boys _1{4} 
+- 04/12/21 - 222* baker boys _1{4} 
+- 05/12/21 - 324* district z _2{0} 
+- 06/12/21 - 420* district z _2{0} 
+- 07/12/21 - 424* 5515 never too late _1{0} camping paradis _12{8} 
+- 08/12/21 - 598* 5515 never too late _1{0} camping paradis _12{8} 
+- 09/12/21 - 508* 5515 never too late _1{0} camping paradis _12{8} 
+- 10/12/21 - 289* 5515 never too late _1{2} camping paradis _12{8} 
+- 11/12/21 - 257* 5515 never too late _1{3} 
+- 13/12/21 - 1168* 5515 never too late _1{6} not me _1{0} earthmix space _1{9} 
+- 14/12/21 - 1190* 5515 never too late _1{9} not me _1{1} earthmix space _1{10} 
+- 15/12/21 - 623* 5515 never too late _1{11} not me _1{1} earthmix space _1{10} 
+- 16/12/21 - 500* 5515 never too late _1{12} not me _1{1} earthmix space _1{10} 
+- 17/12/21 - 485* aggretsuko _4{0} 5515 never too late _1{12} not me _1{1} 
+- 18/12/21 - 356* unlocked _1{4} earthmix space _1{10} aggretsuko _4{1} 
+- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} unlocked _1{4} earthmix space _1{12} aggretsuko _4{1} 
+- 20/12/21 - 62* not me _1{1} district z _2{3} f4 thailand _1{1} unlocked _1{4} earthmix space _1{14} 
+- 21/12/21 - 72* not me _1{3} district z _2{4} f4 thailand _1{2} unlocked _1{5} 
+- 22/12/21 - 73* the player _1{0} not me _1{3} district z _2{4} f4 thailand _1{2} unlocked _1{5} 
+- 23/12/21 - 78* you are my sunshine _1{0} the player _1{2} not me _1{3} district z _2{4} f4 thailand _1{2} 
+- 24/12/21 - 842* you are my sunshine _1{2} the player _1{3} 
+- 25/12/21 - 851* earthmix space _1{20} you are my sunshine _1{2} 
+- 26/12/21 - 865* f4 thailand _1{2} earthmix space _1{21} 
+- 27/12/21 - 120* not me _1{3} the player _1{3} you are my sunshine _1{2} f4 thailand _1{3} earthmix space _1{22} 
+- 28/12/21 - 137* 5515 never too late _1{12} not me _1{4} the player _1{6} you are my sunshine _1{4} f4 thailand _1{4} earthmix space _1{24} 
+- 29/12/21 - 129* the voice be _10{0} 5515 never too late _1{12} not me _1{4} the player _1{7} you are my sunshine _1{5} 
+- 30/12/21 - 122* the voice be _10{0} 5515 never too late _1{12} not me _1{4} the player _1{7} 
+- 31/12/21 - 114* the voice be _10{0} 5515 never too late _1{13} 
+- 01/01/22 - 127* the voice be _10{0} 5515 never too late _1{14} not me _1{4} 
+- 02/01/22 - 129* the voice be _10{1} 5515 never too late _1{16} 
+- 03/01/22 - 141* young sheldon _5{7} 
+- 04/01/22 - 173* /9-1-1 lone star _3{0} young sheldon _5{9} 
+- 05/01/22 - 159*  the voice be _10{2} /9-1-1 lone star _3{0} young sheldon _5{10} 
+- 06/01/22 - 156* next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} young sheldon _5{10} 
+- 07/01/22 - 141* the voice no _7{0} icsyv _2{0} next level chef _1{0} the voice be _10{2} /9-1-1 lone star _3{0} young sheldon _5{11} 
+- 08/01/22 - 89* rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice no _7{0} icsyv _2{0} next level chef _1{2} 
+- 09/01/22 - 69* f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} rpdr _14{0} the voice nl _12{0} the voice no _7{2} 
+- 10/01/22 - 280* not me _1{5} f4 thailand _1{5} survivor sa _7{0} rpdru _14{0} 
+- 11/01/22 - 318* /9-1-1 lone star _3{1} not me _1{6} f4 thailand _1{6} 
+- 12/01/22 - 196* the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} f4 thailand _1{6} 
+- 13/01/22 - 167* icsyv _2{5} the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} 
+- 14/01/22 - 174* next level chef _1{6} icsyv _2{7} the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} 
+- 15/01/22 - 121* rpdru _14{1} rpdr _14{1} the voice nl _12{1} the masked singer vv _2{0} the voice no _7{8} earthmix space _1{38} skam france _9{0} 
+- 16/01/22 - 112* rpdru _14{2} rpdr _14{1} the voice nl _12{1} the masked singer vv _2{0} the voice no _7{10} earthmix space _1{40} skam france _9{0} 
 
 

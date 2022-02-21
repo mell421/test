@@ -59,6 +59,7 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |skam vsg 1|||||4|<!--  -->
+|skam france 9||10|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -76,8 +77,7 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|skam fr 9||10|||0|<!--  -->
-|skam fr 10||10|||0|<!--  -->
+|skam france 10||10|||0|<!--  -->
 |skam it 5|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

@@ -108,12 +108,6 @@ data <- data.frame(aTestMS())
 data %>% filter(nbTotal != "") %>% select(-date,-nrm,-nbTotal,-graph,-vide,-titre)
 ```
 
-### page app
-```{r testPA , echo=FALSE}
-
-data <- data.frame(aPA())
-data %>% filter(nb != "") %>% select(-nb,-X3,-titre,-tx,-sum,-graph)
-```
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -205,9 +199,9 @@ data <- data.frame(aListes())
 
 ### copy
 ```{r copy, echo=FALSE}
-data <- data.frame(aCopyAll())
+data <- data.frame(aCopyAllBis())
         data <- data[2:2]
-        data %>% filter(tout != "")
+        data %>% filter(contentAll != "")
     
 ```
 

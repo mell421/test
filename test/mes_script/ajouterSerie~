@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+if (( $# != 1 ))
+then
+    echo "usage : annee";
+else
+    if (( $1 == 2018 ))
+    then
+	./ajout ;
+	cp liste/2018.txt liste/copie_2018.txt ;
+	tr '_' ' ' < liste/copie_2018.txt > liste/2018.txt ;
+	rm liste/copie_2018.txt ;
+	echo "2018 fait";
+    else
+	if (( $1 == 2017 ))
+	then
+	    ./ajout2017;
+	    cp liste/2017.txt liste/copie_2017.txt ;
+	    tr '_' ' ' < liste/copie_2017.txt > liste/2017.txt ;
+	    rm liste/copie_2017.txt ;
+	    echo "2017 fait";
+	fi;
+    fi;
+fi;
+    

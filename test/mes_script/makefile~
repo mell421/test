@@ -1,0 +1,6 @@
+main:
+	gcc -W -Wall -ansi -pedantic ajout2018.c -o ajout2018;
+	gcc -W -Wall -ansi -pedantic ajout2017.c -o ajout2017;
+clean:
+	rm -f *.o *~ '#'*'#';
+	rm -f ajout2018 ajout2017;

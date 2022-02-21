@@ -1,20 +1,21 @@
-aEff/aeff.md:- 10/07/21 - 601* /46 days _1{0} zombie detective _1{3} unbag _1{403} 
-aEff/aeff.md:- 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} unbag _1{405} 
-aEff/aeff.md:- 12/07/21 - 655* glow up _2{2} /46 days _1{5} zombie detective _1{4} unbag _1{408} 
-aEff/aeff.md:- 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} unbag _1{410} 
+aEff/aeff.md:- 10/07/21 - 601* /46 days _1{0} zombie detective _1{3} 
+aEff/aeff.md:- 11/07/21 - 613* glow up _2{0} /46 days _1{2} zombie detective _1{3} 
+aEff/aeff.md:- 12/07/21 - 655* glow up _2{2} /46 days _1{5} zombie detective _1{4} 
+aEff/aeff.md:- 13/07/21 - 650* camping paradis _12{2} glow up _2{2} /46 days _1{7} zombie detective _1{4} 
 aEff/aeff.md:- 14/07/21 - 253* camping paradis _12{3} glow up _2{2} /46 days _1{9} zombie detective _1{4} 
 apercu/apercu20.md:* concluBis 08/10/20 > Capture lover _1 > 2; Zombie detective _1 > 1; 
-apercu/apercu20.md:Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
-apercu/apercu20.md:Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
-apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-apercu/apercu21.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-apercu/apercuglobal.md:- mois 01-08-2021 /46 days _1x7(6) Unbag _1x27(2) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-apercu/apercuglobal.md:- mois 01-11-2020 Swap test _1x3(2) The stranded _1x2(1) Unbag _1x7(2) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
-apercu/apercuglobal.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-apercu/apercuglobal.md:- sem 12-10-2020 Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+apercu/apercu20.md:Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+apercu/apercu20.md:Swap test _1x3(2) The stranded _1x2(1) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+apercu/apercu21.md:- mois 01-08-2021 /46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+apercu/apercu21.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) 
+apercu/apercuglobal.md:- mois 01-08-2021 /46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+apercu/apercuglobal.md:- mois 01-11-2020 Swap test _1x3(2) The stranded _1x2(1) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
+apercu/apercuglobal.md:- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) 
+apercu/apercuglobal.md:- sem 12-10-2020 Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 apercu/apercuglobal.md:* concluBis 08/10/20 > Capture lover _1 > 2; Zombie detective _1 > 1; 
 apercuTer/apercuTer.md:* Zombie detective _1
-tab2020.html:      Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) </td>
+tab2020.html:      Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) </td>
 tab2020.html:    <td class="conclubis">Capture lover _1 > 2; Zombie detective _1 > 1; </td>
-tab2020.html:    <td class="resumesem">Friend zone _1x2(1) Unbag _1x6(1) Capture lover _1x2(1) Zombie detective _1x2(1) </td>
-tab2021.html:    <td class="resumesem">Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Unbag _1x26(1) Young royals _1x2(1) Camping paradis _12x2(1) </td>
+tab2020.html:    <td class="resumesem">Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) </td>
+tab2021.html:    <td class="resumemois">/46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) 
+tab2021.html:    <td class="resumesem">Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) </td>

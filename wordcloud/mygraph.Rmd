@@ -270,14 +270,6 @@ barplot(table(df$rest),
         )
 box()
 
-barplot(table(df$titre_6),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="titre (pour conclu)",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df$titre_6))*1.1)
-        )
-box()
 
 # max(table(df$sem1))*1.1
 ```
@@ -561,15 +553,6 @@ barplot(table(df$minute),
         )
 box()
 
-# print("secondes")
-barplot(table(df$sec),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="ep per seconds",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df$sec))*1.1)
-        )
-box()
 ```
 
 ### accueil

@@ -52,8 +52,18 @@
 |survivor 11||15||us|<!--  -->
 |Koh-Lanta 27||15||france|<!--  -->
 |survivor 41||14||us|<!--  -->
-|survivor 12||16|||<!--  -->
-||||||<!--  -->
+|survivor 12||16||us|<!--  -->
+|survivor 13||16||us|<!--  -->
+|survivor au 6||24||aus|<!--  -->
+|Survivor 14||15||us|<!--  -->
+|survivor 15||15||us|<!--  -->
+|survivor 16||15||us|<!--  -->
+|Survivor 17||14||us|<!--  -->
+|Survivor 18||15||us|<!--  -->
+|Survivor 19||16||us|<!--  -->
+|Survivor 20||15|||<!--  -->
+|Survivor 21||16|||<!--  -->
+|Survivor 22||15|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -69,10 +79,8 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|survivor au 6||25||aus|3|<!--  -->
-|survivor 13||16|||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
+|survivor sa 7||18|||0|<!--  -->
+|survivor au 9||25|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -84,9 +92,9 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |Survivor 42|||||0|<!--  -->
-|survivor au 9||25|||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
+|Survivor 23|||||0|<!--  -->
 ||||||0|<!--  -->
 |survivor sa 9|||||0|<!--  -->
 |Koh-Lanta 28|||||0|<!--  -->
