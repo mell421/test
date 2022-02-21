@@ -1,11 +1,11 @@
 cat sep nb fichier
 
 carac : 
-carac :  10120 ZZ/Theharvestseason_1.txt
 carac :  11720 ZZ/Vincenzo_1.txt
 carac :  1193 ZZ/Bakerboys_1.txt
 carac :  1227 ZZ/Aliceinborderland_1.txt
 carac :  1259 ZZ/Mrlipstick_1.txt
+carac :  1311 ZZ/Bangkoklovestoriesinnocence_1.txt
 carac :  1324 ZZ/Goblin_1.txt
 carac :  1324 ZZ/Thebigleap_1.txt
 carac :  1357 ZZ/Lovearea_1.txt
@@ -15,17 +15,16 @@ carac :  14125 ZZ/Earthmixspace_1.txt
 carac :  1419 ZZ/Tienbromance_1.txt
 carac :  14620 ZZ/Peachoftime_1.txt
 carac :  1465 ZZ/Mysweetdear_1.txt
-carac :  1536 ZZ/Bangkoklovestoriesinnocence_1.txt
+carac :  1497 ZZ/Slamdance_1.txt
 carac :  1553 ZZ/Qforce_1.txt
 carac :  1636 ZZ/Youngroyals_1.txt
-carac :  1751 ZZ/Slamdance_1.txt
+carac :  1840 ZZ/Bt21vlog_1.txt
 carac :  1904 ZZ/Districtz_2.txt
-carac :  1945 ZZ/Darkbluekiss_1.txt
+carac :  1943 ZZ/Darkbluekiss_1.txt
 carac :  20947 ZZ/46days_1.txt
-carac :  2108 ZZ/Bt21vlog_1.txt
 carac :  2169 ZZ/Benxjim_1.txt
 carac :  2232 ZZ/Youaremysunshine_1.txt
-carac :  22963 ZZ/Myvampireboyfriend_1.txt
+carac :  22863 ZZ/Myvampireboyfriend_1.txt
 carac :  2319 ZZ/Thevoicebe_10.txt
 carac :  2382 ZZ/Theplayer_1.txt
 carac :  2423 ZZ/Buffy_1.txt
@@ -33,33 +32,34 @@ carac :  2524 ZZ/Aokivuanpaianonayami_1.txt
 carac :  2681 ZZ/Zombiedetective_1.txt
 carac :  2726 ZZ/F4thailand_1.txt
 carac :  2766 ZZ/Postmortem_1.txt
+carac :  2848 ZZ/Theuntamed_1.txt
 carac :  2853 ZZ/Controlz_2.txt
-carac :  3008 ZZ/Theuntamed_1.txt
 carac :  3060 ZZ/Lucifer_4.txt
 carac :  3128 ZZ/Biteme_1.txt
+carac :  3175 ZZ/Unlocked_1.txt
+carac :  3220 ZZ/Tokyoghoul_3.txt
 carac :  3235 ZZ/Glowup_2.txt
-carac :  3243 ZZ/Unlocked_1.txt
-carac :  3387 ZZ/Wabishow_1.txt
-carac :  3399 ZZ/Tokyoghoul_3.txt
+carac :  3339 ZZ/Younevereatalone_1.txt
+carac :  3344 ZZ/Wabishow_1.txt
 carac :  3462 ZZ/Theshipper_1.txt
-carac :  3841 ZZ/Younevereatalone_1.txt
 carac :  3974 ZZ/Goodsingers_1.txt
 carac :  4284 ZZ/Youngsheldon_5.txt
 carac :  4377 ZZ/Koishiteakuma_1.txt
 carac :  4451 ZZ//9-1-1_5.txt
 carac :  4560 ZZ/7project_1.txt
 carac :  503 ZZ/Bananafish_1.txt
-carac :  5930 ZZ/Tbbt_11.txt
+carac :  5682 ZZ/Tbbt_11.txt
 carac :  5976 ZZ/Notme_1.txt
 carac :  6097 ZZ/Elite_4.txt
 carac :  6157 ZZ/Campingparadis_12.txt
 carac :  6373 ZZ/5515nevertoolate_1.txt
 carac :  661 ZZ/Lesengages_3.txt
 carac :  666 ZZ/Aggretsuko_4.txt
-carac :  7049 ZZ/Belove_1.txt
+carac :  7017 ZZ/Belove_1.txt
 carac :  766 ZZ/Siewsumnoi_1.txt
 carac :  8118 ZZ/Vwars_1.txt
 carac :  956 ZZ/Insiders_1.txt
+carac :  9959 ZZ/Theharvestseason_1.txt
 i = /9-1-1 _5
 i = 46 days _1
 i = 5515 never too late _1
@@ -101,7 +101,6 @@ i = Not me _1
 i = Peach of time _1
 i = Post mortem _1
 i = Qforce _1
-i = Schools out lets date now _1
 i = Siew sum noi _1
 i = Slam dance _1
 i = Tbbt _11
@@ -185,15 +184,16 @@ ligne :  8 ZZ/Bangkoklovestoriesinnocence_1.txt
 ligne :  8 ZZ/Lesengages_3.txt
 ligne :  9 ZZ/Thebigleap_1.txt
 mot   : 
-mot   :  1065 ZZ/Belove_1.txt
+mot   :  1059 ZZ/Belove_1.txt
 mot   :  1167 ZZ/Vwars_1.txt
 mot   :  132 ZZ/Insiders_1.txt
-mot   :  1451 ZZ/Theharvestseason_1.txt
+mot   :  1422 ZZ/Theharvestseason_1.txt
 mot   :  151 ZZ/Bakerboys_1.txt
 mot   :  1618 ZZ/Vincenzo_1.txt
 mot   :  162 ZZ/Mrlipstick_1.txt
 mot   :  164 ZZ/Aliceinborderland_1.txt
 mot   :  169 ZZ/Goblin_1.txt
+mot   :  171 ZZ/Bangkoklovestoriesinnocence_1.txt
 mot   :  174 ZZ/Thebigleap_1.txt
 mot   :  184 ZZ/Lovearea_1.txt
 mot   :  192 ZZ/Theyearbook_1.txt
@@ -201,42 +201,41 @@ mot   :  194 ZZ/Tienbromance_1.txt
 mot   :  2079 ZZ/Fromdusktilldawn_2.txt
 mot   :  208 ZZ/Qforce_1.txt
 mot   :  2099 ZZ/Earthmixspace_1.txt
-mot   :  212 ZZ/Bangkoklovestoriesinnocence_1.txt
 mot   :  214 ZZ/Mysweetdear_1.txt
+mot   :  216 ZZ/Slamdance_1.txt
 mot   :  220 ZZ/Youngroyals_1.txt
 mot   :  2210 ZZ/Peachoftime_1.txt
-mot   :  261 ZZ/Slamdance_1.txt
+mot   :  244 ZZ/Bt21vlog_1.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
 mot   :  288 ZZ/Districtz_2.txt
-mot   :  292 ZZ/Bt21vlog_1.txt
 mot   :  301 ZZ/Benxjim_1.txt
-mot   :  3151 ZZ/Myvampireboyfriend_1.txt
+mot   :  3133 ZZ/Myvampireboyfriend_1.txt
 mot   :  3261 ZZ/46days_1.txt
 mot   :  352 ZZ/Aokivuanpaianonayami_1.txt
 mot   :  354 ZZ/Zombiedetective_1.txt
 mot   :  356 ZZ/Buffy_1.txt
 mot   :  370 ZZ/Youaremysunshine_1.txt
 mot   :  373 ZZ/Postmortem_1.txt
+mot   :  377 ZZ/Theuntamed_1.txt
 mot   :  391 ZZ/Thevoicebe_10.txt
 mot   :  398 ZZ/Theplayer_1.txt
 mot   :  406 ZZ/Lucifer_4.txt
-mot   :  409 ZZ/Theuntamed_1.txt
 mot   :  419 ZZ/F4thailand_1.txt
-mot   :  431 ZZ/Unlocked_1.txt
+mot   :  419 ZZ/Unlocked_1.txt
 mot   :  443 ZZ/Biteme_1.txt
+mot   :  447 ZZ/Tokyoghoul_3.txt
 mot   :  449 ZZ/Controlz_2.txt
+mot   :  456 ZZ/Younevereatalone_1.txt
 mot   :  457 ZZ/Theshipper_1.txt
-mot   :  479 ZZ/Tokyoghoul_3.txt
 mot   :  482 ZZ/Glowup_2.txt
-mot   :  519 ZZ/Wabishow_1.txt
+mot   :  505 ZZ/Wabishow_1.txt
 mot   :  523 ZZ/Goodsingers_1.txt
-mot   :  546 ZZ/Younevereatalone_1.txt
 mot   :  567 ZZ/Koishiteakuma_1.txt
 mot   :  619 ZZ/7project_1.txt
 mot   :  627 ZZ//9-1-1_5.txt
 mot   :  63 ZZ/Bananafish_1.txt
 mot   :  662 ZZ/Youngsheldon_5.txt
-mot   :  828 ZZ/Tbbt_11.txt
+mot   :  783 ZZ/Tbbt_11.txt
 mot   :  84 ZZ/Aggretsuko_4.txt
 mot   :  859 ZZ/Campingparadis_12.txt
 mot   :  86 ZZ/Lesengages_3.txt

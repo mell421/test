@@ -434,28 +434,27 @@
 - 31/01/21 - 166* be love _1{7} 
 - 01/02/21 - 200* be love _1{10} 
 - 02/02/21 - 208* you never eat alone _1{0} slam dance _1{0} be love _1{11} 
-- 03/02/21 - 143* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} be love _1{11} 
-- 04/02/21 - 145* schools out lets date now _1{0} you never eat alone _1{1} slam dance _1{1} 
-- 05/02/21 - 128* schools out lets date now _1{0} you never eat alone _1{1} 
-- 08/02/21 - 175* tbbt _11{1} the untamed _1{5} schools out lets date now _1{1} 
-- 09/02/21 - 219* tbbt _11{1} the untamed _1{5} schools out lets date now _1{2} 
+- 03/02/21 - 143* you never eat alone _1{1} slam dance _1{1} be love _1{11} 
+- 04/02/21 - 145* you never eat alone _1{1} slam dance _1{1} 
+- 05/02/21 - 128* you never eat alone _1{1} 
+- 08/02/21 - 175* tbbt _11{1} the untamed _1{5} 
+- 09/02/21 - 219* tbbt _11{1} the untamed _1{5} 
 - 10/02/21 - 220* the harvest season _1{0} wabi show _1{0} tbbt _11{1} 
 - 11/02/21 - 140* the harvest season _1{2} wabi show _1{2} 
 - 12/02/21 - 199* the harvest season _1{4} wabi show _1{3} 
 - 13/02/21 - 218* tokyo ghoul _3{0} 
 - 14/02/21 - 209* tokyo ghoul _3{0} 
-- 15/02/21 - 114* bangkok love stories innocence _1{1} schools out lets date now _1{3} 
-- 16/02/21 - 175* tokyo ghoul _3{1} my vampire boyfriend _1{9} bangkok love stories innocence _1{1} schools out lets date now _1{3} 
+- 15/02/21 - 114* bangkok love stories innocence _1{1} 
+- 16/02/21 - 175* tokyo ghoul _3{1} my vampire boyfriend _1{9} bangkok love stories innocence _1{1} 
 - 17/02/21 - 199* you never eat alone _1{2} tokyo ghoul _3{2} my vampire boyfriend _1{9} 
 - 18/02/21 - 127* unlocked _1{2} my vampire boyfriend _1{10} you never eat alone _1{2} 
 - 19/02/21 - 191* unlocked _1{2} my vampire boyfriend _1{12} you never eat alone _1{2} 
-- 02/03/21 - 268* schools out lets date now _1{4} 
-- 03/03/21 - 579* you never eat alone _1{4} schools out lets date now _1{5} 
+- 03/03/21 - 579* you never eat alone _1{4} 
 - 04/03/21 - 610* you never eat alone _1{4} 
 - 05/03/21 - 618* you never eat alone _1{4} 
 - 10/03/21 - 702* you never eat alone _1{5} 
-- 19/03/21 - 474* bt21 vlog _1{0} schools out lets date now _1{6} 
-- 20/03/21 - 506* bt21 vlog _1{1} schools out lets date now _1{6} 
+- 19/03/21 - 474* bt21 vlog _1{0} 
+- 20/03/21 - 506* bt21 vlog _1{1} 
 - 21/03/21 - 657* bt21 vlog _1{2} 
 - 06/04/21 - 620* mr lipstick _1{0} 
 - 07/04/21 - 714* mr lipstick _1{1} 
@@ -468,7 +467,7 @@
 - 19/05/21 - 833* an eye for an eye _1{0} 
 - 20/05/21 - 909* an eye for an eye _1{0} 
 - 21/05/21 - 771* an eye for an eye _1{0} 
-µ- 29/05/21 - 989* dark blue kiss _1{0} 
+- 29/05/21 - 989* dark blue kiss _1{0} 
 - 30/05/21 - 992* dark blue kiss _1{0} 
 - 31/05/21 - 951* dark blue kiss _1{1} 
 - 01/06/21 - 655* dark blue kiss _1{2} 

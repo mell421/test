@@ -23,12 +23,12 @@
 - sem 18-01-2021 Koishite akuma _1x4(3) Warper series _1x2(1) 
 - sem 25-01-2021 Tien bromance _1x2(1) Ben x jim _1x3(1) 
 - sem 01-02-2021 Be love _1x4(1) The shipper _1x5(1) 
-- sem 08-02-2021 Tbbt _11x2(1) The untamed _1x4(1) Schools out lets date now _1x3(2) You never eat alone _1x2(1) Slam dance _1x2(1) 
-- sem 15-02-2021 Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(1) Tokyo ghoul _3x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
+- sem 08-02-2021 Tbbt _11x2(1) The untamed _1x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) 
+- sem 15-02-2021 Bangkok love stories innocence _1x2(1) Tokyo ghoul _3x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
 - sem 22-02-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) 
-- sem 08-03-2021 You never eat alone _1x4(1) Schools out lets date now _1x5(1) 
+- sem 08-03-2021 You never eat alone _1x4(1) 
 - sem 15-03-2021 You never eat alone _1x5(1) 
-- sem 22-03-2021 Bt21 vlog _1x4(3) Schools out lets date now _1x6(1) 
+- sem 22-03-2021 Bt21 vlog _1x4(3) 
 - sem 12-04-2021 Mr lipstick _1x3(2) 
 - sem 26-04-2021 I can see your voice fr _1x2(1) 
 - sem 17-05-2021 I can see your voice fr _1x3(1) 
@@ -69,8 +69,8 @@
 ## apercu mois
 - mois 01-01-2021 Ghost runner _1x5(4) Friend zone _1x3(1) Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) 
 - mois 01-02-2021 Be love _1x4(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
-- mois 01-03-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) Schools out lets date now _1x4(3) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
-- mois 01-04-2021 Bt21 vlog _1x4(3) Schools out lets date now _1x6(2) You never eat alone _1x5(2) 
+- mois 01-03-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
+- mois 01-04-2021 Bt21 vlog _1x4(3) You never eat alone _1x5(2) 
 - mois 01-05-2021 I can see your voice fr _1x2(1) Mr lipstick _1x3(2) 
 - mois 01-06-2021 Dark blue kiss _1x2(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 - mois 01-07-2021 Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
@@ -203,7 +203,7 @@
 * concluBis 31/01/21 > Be love _1 > 1; 
 * concluBis 01/02/21 > Be love _1 > 1; 
 * concluBis 02/02/21 > You never eat alone _1 > 2; Slam dance _1 > 1; 
-* concluBis 08/02/21 > Schools out lets date now _1 > 2; 
+* concluBis 08/02/21 > 
 * concluBis 10/02/21 > The harvest season _1 > 4; Wabi show _1 > 3; 
 * concluBis 11/02/21 > The harvest season _1 > 5; Wabi show _1 > 2; 
 * concluBis 12/02/21 > The harvest season _1 > 5; Wabi show _1 > 3; 
@@ -219,7 +219,7 @@
 * concluBis 22/02/21 > My vampire boyfriend _1 > 5; 
 * concluBis 23/02/21 > My vampire boyfriend _1 > 2; 
 * concluBis 24/02/21 > My vampire boyfriend _1 > 3; 
-* concluBis 02/03/21 > Schools out lets date now _1 > 1; 
+* concluBis 02/03/21 > 
 * concluBis 19/03/21 > Bt21 vlog _1 > 2; 
 * concluBis 20/03/21 > Bt21 vlog _1 > 2; 
 * concluBis 21/03/21 > Bt21 vlog _1 > 2; 

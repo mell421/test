@@ -157,7 +157,6 @@ Mr lipstick 1x2
 * Mr lipstick 1x1
 Bt21 vlog 1x3
 * Bt21 vlog 1x1
-Schools out lets date now 1x5
 You never eat alone 1x4
 My vampire boyfriend 1x6
 Tokyo ghoul 3x16
@@ -168,7 +167,6 @@ Wabi game 1x2
 * Wabi game 1x1
 * Tbbt 11x1
 The untamed 1x3
-* Schools out lets date now 1x1
 * You never eat alone 1x1
 * Slam dance 1x1
 Be love 1x3

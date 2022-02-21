@@ -235,6 +235,7 @@
 ||||||<!--  -->
 ||||||<!--  -->
 |unbag|unbag|37?|show|thailande|                               <!-- 6 23/12/21 -->
+|schools out lets date now|school's out let's date now|5|serie(gl)|vietnam|    <!-- 18/3/21 -->
 ||||||<!--  -->
 
 ## en cours, a jour
@@ -265,7 +266,6 @@
 |tien bromance|tien bromance|10|serie|vietnam|1|                <!-- 23 -->
 |slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 24 -->
 |you never eat alone|you never eat alone|12|serie(*)|thailande|4|   <!-- 25 -->
-|school's out let's date now|school's out let's date now|6|serie(gl)|vietnam|5|    <!-- 26 -->
 |wabi game|wabi game|?|show|thailande|2|                        <!-- 27 -->
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 28 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 29 -->

@@ -11,8 +11,8 @@ carac :  14125 ZZ/Earthmixspace_1.txt
 
 i = Tbbt _11
 ligne :  69 ZZ/Tbbt_11.txt
-mot   :  828 ZZ/Tbbt_11.txt
-carac :  5930 ZZ/Tbbt_11.txt
+mot   :  783 ZZ/Tbbt_11.txt
+carac :  5682 ZZ/Tbbt_11.txt
 
 i = 5515 never too late _1
 ligne :  70 ZZ/5515nevertoolate_1.txt
@@ -51,8 +51,8 @@ carac :  2382 ZZ/Theplayer_1.txt
 
 i = Unlocked _1
 ligne :  24 ZZ/Unlocked_1.txt
-mot   :  431 ZZ/Unlocked_1.txt
-carac :  3243 ZZ/Unlocked_1.txt
+mot   :  419 ZZ/Unlocked_1.txt
+carac :  3175 ZZ/Unlocked_1.txt
 
 i = Aoki vuanpaia no nayami _1
 ligne :  26 ZZ/Aokivuanpaianonayami_1.txt
@@ -227,7 +227,7 @@ carac :  6097 ZZ/Elite_4.txt
 i = Dark blue kiss _1
 ligne :  25 ZZ/Darkbluekiss_1.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
-carac :  1945 ZZ/Darkbluekiss_1.txt
+carac :  1943 ZZ/Darkbluekiss_1.txt
 
 i = Vincenzo _1
 ligne :  128 ZZ/Vincenzo_1.txt
@@ -251,58 +251,53 @@ carac :  1259 ZZ/Mrlipstick_1.txt
 
 i = Bt21 vlog _1
 ligne :  29 ZZ/Bt21vlog_1.txt
-mot   :  292 ZZ/Bt21vlog_1.txt
-carac :  2108 ZZ/Bt21vlog_1.txt
-
-i = Schools out lets date now _1
-ligne : 
-mot   : 
-carac : 
+mot   :  244 ZZ/Bt21vlog_1.txt
+carac :  1840 ZZ/Bt21vlog_1.txt
 
 i = You never eat alone _1
 ligne :  33 ZZ/Younevereatalone_1.txt
-mot   :  546 ZZ/Younevereatalone_1.txt
-carac :  3841 ZZ/Younevereatalone_1.txt
+mot   :  456 ZZ/Younevereatalone_1.txt
+carac :  3339 ZZ/Younevereatalone_1.txt
 
 i = My vampire boyfriend _1
 ligne :  259 ZZ/Myvampireboyfriend_1.txt
-mot   :  3151 ZZ/Myvampireboyfriend_1.txt
-carac :  22963 ZZ/Myvampireboyfriend_1.txt
+mot   :  3133 ZZ/Myvampireboyfriend_1.txt
+carac :  22863 ZZ/Myvampireboyfriend_1.txt
 
 i = Tokyo ghoul _3
 ligne :  29 ZZ/Tokyoghoul_3.txt
-mot   :  479 ZZ/Tokyoghoul_3.txt
-carac :  3399 ZZ/Tokyoghoul_3.txt
+mot   :  447 ZZ/Tokyoghoul_3.txt
+carac :  3220 ZZ/Tokyoghoul_3.txt
 
 i = Bangkok love stories innocence _1
 ligne :  8 ZZ/Bangkoklovestoriesinnocence_1.txt
-mot   :  212 ZZ/Bangkoklovestoriesinnocence_1.txt
-carac :  1536 ZZ/Bangkoklovestoriesinnocence_1.txt
+mot   :  171 ZZ/Bangkoklovestoriesinnocence_1.txt
+carac :  1311 ZZ/Bangkoklovestoriesinnocence_1.txt
 
 i = The harvest season _1
 ligne :  100 ZZ/Theharvestseason_1.txt
-mot   :  1451 ZZ/Theharvestseason_1.txt
-carac :  10120 ZZ/Theharvestseason_1.txt
+mot   :  1422 ZZ/Theharvestseason_1.txt
+carac :  9959 ZZ/Theharvestseason_1.txt
 
 i = Wabi show _1
 ligne :  31 ZZ/Wabishow_1.txt
-mot   :  519 ZZ/Wabishow_1.txt
-carac :  3387 ZZ/Wabishow_1.txt
+mot   :  505 ZZ/Wabishow_1.txt
+carac :  3344 ZZ/Wabishow_1.txt
 
 i = The untamed _1
 ligne :  20 ZZ/Theuntamed_1.txt
-mot   :  409 ZZ/Theuntamed_1.txt
-carac :  3008 ZZ/Theuntamed_1.txt
+mot   :  377 ZZ/Theuntamed_1.txt
+carac :  2848 ZZ/Theuntamed_1.txt
 
 i = Slam dance _1
 ligne :  12 ZZ/Slamdance_1.txt
-mot   :  261 ZZ/Slamdance_1.txt
-carac :  1751 ZZ/Slamdance_1.txt
+mot   :  216 ZZ/Slamdance_1.txt
+carac :  1497 ZZ/Slamdance_1.txt
 
 i = Be love _1
 ligne :  63 ZZ/Belove_1.txt
-mot   :  1065 ZZ/Belove_1.txt
-carac :  7049 ZZ/Belove_1.txt
+mot   :  1059 ZZ/Belove_1.txt
+carac :  7017 ZZ/Belove_1.txt
 
 i = Tien bromance _1
 ligne :  13 ZZ/Tienbromance_1.txt

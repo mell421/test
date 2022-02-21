@@ -31,7 +31,7 @@ list99=(
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
 "Good singers _1" "Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
 "Young royals _1" "Siew sum noi _1" "Elite _4" "Dark blue kiss _1" "Vincenzo _1" 
-"An eye for an eye _1" "I can see your voice fr _1" "Mr lipstick _1" "Bt21 vlog _1" "Schools out lets date now _1" 
+"An eye for an eye _1" "I can see your voice fr _1" "Mr lipstick _1" "Bt21 vlog _1" 
 "You never eat alone _1" "My vampire boyfriend _1" "Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" 
 "Wabi show _1" "The untamed _1" "Slam dance _1" "Be love _1" "Tien bromance _1" 
 "Ben x jim _1" "Koishite akuma _1" )
@@ -65,7 +65,7 @@ listAsc=(
 # 14
 # 15
 # 16
-"An eye for an eye _1" "I can see your voice fr _1" "Mr lipstick _1" "Bt21 vlog _1" "Schools out lets date now _1" 
+"An eye for an eye _1" "I can see your voice fr _1" "Mr lipstick _1" "Bt21 vlog _1" 
 # 17
 "You never eat alone _1" "My vampire boyfriend _1" "Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" 
 # 18
