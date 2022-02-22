@@ -24,12 +24,13 @@ python ./toy_indexer/main.py ./aEff/aeff.txt ./apercu/ap20.txt ./apercu/ap21.txt
 
 ## git
 
-### git blame
+### git blame and log
 ```bash
 git blame <file> > blame
+git log > log
 ```
 
-### git log
+## wordle
 ```bash
-git log > log
+./wordle/freq_wordle.sh ./wordle/wordle_list.txt freq_wordle.txt
 ```
