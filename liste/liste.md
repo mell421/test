@@ -5,18 +5,18 @@
 
 # liste de séries + emissions
 
-## sommaire
+## summary
 - [liste de séries + emissions](#liste-de-séries--emissions)
-  - [sommaire](#sommaire)
-  - [terminé](#terminé)
-  - [en cours, a jour](#en-cours-a-jour)
-  - [a venir](#a-venir)
+  - [summary](#summary)
+  - [finished](#finished)
+  - [ongoing, up-to-date](#ongoing-up-to-date)
+  - [come soon](#come-soon)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
 
-## terminé
+## finished
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
@@ -534,6 +534,7 @@
 |Survivor 22||15|||<!-- 18/2 -->
 |kieta hatsukoi 1||10|||<!-- 19/2 -->
 |The voice lithu 8||11|||<!-- 22/2 -->
+|kissable lips 1|||||<!-- 3/2/22 - 26/2-->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -546,7 +547,7 @@
 \pagebreak 
 </div>
 
-## en cours, a jour
+## ongoing, up-to-date
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
@@ -726,8 +727,18 @@
 |survivor au 9|||||0|<!-- 31/1/22 -->
 |rpdr uk vs world 1|||||0|<!-- 1/2/22 -->
 |the voice generations lithu 1|||||0|<!-- 2/2/22 -->
-|kissable lips 1|||||0|<!-- 3/2/22 -->
 |love stage 2022 1|||||0|<!-- 3/2/22 -->
+|pekin express 15|||||0|<!-- 10/2 -->
+|The voice 12|||||0|<!-- 12/2 -->
+|All of us are dead 1|||||0|<!-- 12/2 -->
+|Semantic error 1|||||0|<!-- 16/2 -->
+|top chef 13|||||0|<!-- 16/2 -->
+|forcebook show real 1|||||0|<!-- 17/2 -->
+|cutie pie 1|||||0|<!-- 19/2 -->
+|survivor 23|||||0|<!-- 20/2 -->
+|koh-lanta 28|||||0|<!-- 22/2 -->
+|AGT extrem 1|||||0|<!-- 23/2 -->
+|cupids last wish 1||?|serie|thailande|0|<!-- 23/2 -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -740,19 +751,43 @@
 \pagebreak 
 </div>
 
-## a venir
+## come soon
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|rainbow prince 1|||||0|<!--  -->
-|ASC 1|||||0|<!--  -->
-|Survivor 42|||||0|<!--  -->
+|quaranthings 2||8|||0|<!-- 18/2 -->
+|cherry blossoms after winter 1|||||0|<!-- 24/2 -->
+|drag I love you 1|||||0|<!-- 2/3 -->
+|The voice kids ger 10|||||0|<!-- 4/3 -->
+|the tuxedo 1|||||0|<!-- 5/3 -->
+|domino masters 1|||||0|<!-- 10/3 -->
+|Survivor 42|||||0|<!-- 10/3 -->
+|The masked singer 7|||||0|<!-- 10/3 -->
+|Absolute bl 2|||||0|<!-- 20/3 -->
+|ASC 1|||||0|<!-- 22/3 -->
+|queen stars brasil 1|||||0|<!-- 22/3 -->
+|dear doctor 1|||||0|<!-- 23/3 -->
+|drag race esp 2|||||0|<!-- 27/3 -->
+|Name that tune 2|||||0|<!-- 30/3 -->
+|kinnporsche 1||?|||0|<!-- 2/4? -->
+|Bgt 15|||||0|<!-- 9/4 -->
+|love victor 3|||||0|<!-- 15/6 -->
+|unforgotten night 1|||||0|<!-- 22/6 -->
+|my only 12pc 1|||||0|<!-- 12/8 -->
+|between us 1||?|||0|<!-- 18/11 -->
 ||||||0|<!--  -->
-|quaranthings 2||8|||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+|Survivor 24|||||0|<!--  -->
+|Survivor 25|||||0|<!--  -->
+|Survivor 26|||||0|<!--  -->
+|Survivor 27|||||0|<!--  -->
+|Survivor 28|||||0|<!--  -->
+|rainbow prince 1|||||0|<!--  -->
 |nilundon 1|||||0|<!--  -->
 |The masked singer fr 3|||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
@@ -762,28 +797,22 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|date future||||||<!--  -->
+|date future ASIE||||||<!--  -->
 |cheat 2||?|||0|<!--  -->
 |gameboys 2||?|||0|<!--  -->
 |turbulence 1||?|||0|<!--  -->
-|kinnporsche 1||?|||0|<!--  -->
 |wars of the flowers 1||?|||0|<!--  -->
-|hemp rope 1||?|||0|<!--  -->
 |my engineer 2||?|||0|<!--  -->
 |yyy 2||?|||0|<!--  -->
 |sea him 2||?|||0|<!--  -->
-|drag I love you 1|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |my extraordinary 2|||||0|<!--  -->
-|meet my angel 2|||||0|<!--  -->
-|the tuxedo||?|||0|<!--  -->
 |UMG||?||thailande|0|<!--  -->
 |home school||?||thailande|0|<!--  -->
 |midnight motel||?||thailande|0|<!--  -->
 |dirty laundry||?||thailande|0|<!--  -->
 |my precious||1||thailande|0|<!--  -->
 |star & sky||?|serie|thailande|0|<!--  -->
-|cupids last wish||?|serie|thailande|0|<!--  -->
 |the eclipse||?|serie|thailande|0|<!--  -->
 |never let me go||?|serie|thailande|0|<!--  -->
 |moonlight chicken||?|serie|thailande|0|<!--  -->

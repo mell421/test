@@ -231,6 +231,7 @@
 |bad buddy|bad buddy|12|serie|thailande|                      <!-- 47-->
 |paint with love|paint with love|12|serie|thailande|<!--  -->
 |kieta hatsukoi|kieta hatsukoi|10|serie|japon|                <!-- 44 -->
+|kissable lips|kissable lips|8|serie|corée|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
