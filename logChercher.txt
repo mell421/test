@@ -6,8 +6,8 @@ carac :  14620 ZZ/Peachoftime_1.txt
 
 i = Earthmix space _1
 ligne :  169 ZZ/Earthmixspace_1.txt
-mot   :  2806 ZZ/Earthmixspace_1.txt
-carac :  18574 ZZ/Earthmixspace_1.txt
+mot   :  2794 ZZ/Earthmixspace_1.txt
+carac :  18526 ZZ/Earthmixspace_1.txt
 
 i = Tbbt _11
 ligne :  80 ZZ/Tbbt_11.txt
@@ -31,13 +31,13 @@ carac :  4560 ZZ/7project_1.txt
 
 i = /9-1-1 _5
 ligne :  41 ZZ//9-1-1_5.txt
-mot   :  668 ZZ//9-1-1_5.txt
-carac :  4732 ZZ//9-1-1_5.txt
+mot   :  660 ZZ//9-1-1_5.txt
+carac :  4688 ZZ//9-1-1_5.txt
 
 i = Not me _1
 ligne :  47 ZZ/Notme_1.txt
-mot   :  1024 ZZ/Notme_1.txt
-carac :  6802 ZZ/Notme_1.txt
+mot   :  1012 ZZ/Notme_1.txt
+carac :  6732 ZZ/Notme_1.txt
 
 i = The shipper _1
 ligne :  32 ZZ/Theshipper_1.txt
@@ -61,8 +61,8 @@ carac :  2997 ZZ/Aokivuanpaianonayami_1.txt
 
 i = Young sheldon _5
 ligne :  44 ZZ/Youngsheldon_5.txt
-mot   :  855 ZZ/Youngsheldon_5.txt
-carac :  5557 ZZ/Youngsheldon_5.txt
+mot   :  847 ZZ/Youngsheldon_5.txt
+carac :  5513 ZZ/Youngsheldon_5.txt
 
 i = You are my sunshine _1
 ligne :  26 ZZ/Youaremysunshine_1.txt
@@ -71,8 +71,8 @@ carac :  2977 ZZ/Youaremysunshine_1.txt
 
 i = F4 thailand _1
 ligne :  28 ZZ/F4thailand_1.txt
-mot   :  542 ZZ/F4thailand_1.txt
-carac :  3538 ZZ/F4thailand_1.txt
+mot   :  534 ZZ/F4thailand_1.txt
+carac :  3490 ZZ/F4thailand_1.txt
 
 i = The case study of vanitas _1
 ligne : 
@@ -156,8 +156,8 @@ carac :  753 ZZ/Bananafish_1.txt
 
 i = The voice be _10
 ligne :  19 ZZ/Thevoicebe_10.txt
-mot   :  446 ZZ/Thevoicebe_10.txt
-carac :  2693 ZZ/Thevoicebe_10.txt
+mot   :  426 ZZ/Thevoicebe_10.txt
+carac :  2579 ZZ/Thevoicebe_10.txt
 
 i = Bite me _1
 ligne :  21 ZZ/Biteme_1.txt

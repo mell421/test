@@ -40,7 +40,7 @@ listAsc=(
 # 1
 "Not me _1" "F4 thailand _1" "Survivor sa _7" "Rpdru _14" "Rpdr _14" 
 # 2
-"The voice nl _12" "The voice no _7" "Icsyv _2" "Next level chef _1" "The voice be _10" 
+"The voice nl _12" "The voice no _7" "Icsyv _2" "The voice be _10" 
 # 3
 "/9-1-1 lone star _3" "Young sheldon _5" "5515 never too late _1" "The player _1" "You are my sunshine _1" 
 # 4

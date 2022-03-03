@@ -40,7 +40,6 @@ The masked singer vv 2x4
 The voice finland 12x3
 Enchante 1x2
 * Love stage 2022 1x1
-Next level chef 1x7
 Icsyv 2x5
 The voice generations lithu 1x5
 * The voice generations lithu 1x1
@@ -77,7 +76,6 @@ Earthmix space 1x10
 * The voice nl 12x1
 * The voice no 7x1
 * Icsyv 2x0
-* Next level chef 1x1
 * /9-1-1 lone star 3x1
 Young sheldon 5x5
 * The voice be 10x1
