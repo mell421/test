@@ -775,6 +775,7 @@
 * The voice lithu _8
 ### sem 07-03-2022 
 * *insererici*
+* The voice poland _12
 * Next level chef _1
 * Survivor _23
 ### sem 14-03-2022 
@@ -793,31 +794,32 @@
 * The good doctor _5
 * Nilundon _1
 * The masked singer fr _3
-* 
-* 
-* Survivor _24
-* Pekin express _15
 * First love again _1
-* Cutie pie _1
-* The voice _12
-* Semantic error _1
-* Top chef _13
-* Agt extrem _1
-* Koh-lanta _28
-* Cherry blossom after winter _1
-* The tuxedo _1
 * Domino masters _1
 * Survivor _42
 * The masked singer _7
 * American song contest _1
 * Queen stars brasil _1
 * Name that tune _2
-* Cupids last wish _1
 * Bgt _15
 * Drag race esp _2
 * Unforgotten night _1
+* Survivor _25
+* Survivor _26
+* Survivor _27
+* Survivor _28
 * 
-* 
+* Cherry blossom after winter _1
+* The tuxedo _1
+* Cupids last wish _1
+* Semantic error _1
+* Top chef _13
+* Agt extrem _1
+* Koh-lanta _28
+* The voice _12
+* Cutie pie _1
+* Pekin express _15
+* Survivor _24
 * 
 * $ a classer $
 * Unbag _1 (23/12/21)
@@ -968,7 +970,7 @@
 #### mois 01-03-2022 
 *insererici Survivor _23 Kissable lips _1 The voice lithu _8 Kieta hatsukoi _1 Survivor _22 Survivor _21 Survivor _20 The masked singer uk _3 Ninja warrior _6 Paint with love _1 The voice portugal _9 Survivor _19 The masked dancer ger _1 The voice generations au _1*
 #### mois 01-04-2022 
-*insererici Next level chef _1*
+*insererici The voice poland _12 Next level chef _1*
 #### mois 01-05-2022 
 *insererici*
 #### mois 01-06-2022 
