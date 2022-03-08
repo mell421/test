@@ -28,7 +28,6 @@ Survivor sa 7x2
 Love stage 2022 1x2
 Love at night 1x2
 Color rush 2x2
-Rpdrukvstheworld 1x2
 Meet my angel 2x2
 
 ### tisaep all
@@ -44,7 +43,6 @@ Icsyv 2x5
 The voice generations lithu 1x5
 * The voice generations lithu 1x1
 Survivor au 9x3
-* Rpdrukvstheworld 1x1
 The voice be 10x6
 Skam france 9x3
 /9-1-1 lone star 3x4

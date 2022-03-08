@@ -538,6 +538,7 @@
 |survivor 23|||||<!-- 20/2 - 28/2 -->
 |next level chef 1||11|||<!-- 5/1/22 - 3/3 -->
 |the voice poland 12||18|||<!-- 5/3 -->
+|rpdr uk vs world 1||6|||<!-- 8/3 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -728,7 +729,6 @@
 |enchante 1|||||0|<!-- 28/1/22 -->
 |the voice finland 12|||||0|<!-- 28/1/22 -->
 |survivor au 9|||||0|<!-- 31/1/22 -->
-|rpdr uk vs world 1|||||0|<!-- 1/2/22 -->
 |the voice generations lithu 1|||||0|<!-- 2/2/22 -->
 |love stage 2022 1|||||0|<!-- 3/2/22 -->
 |pekin express 15|||||0|<!-- 10/2 -->
