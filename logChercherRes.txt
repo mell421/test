@@ -18,7 +18,7 @@ carac :  1636 ZZ/Youngroyals_1.txt
 carac :  1638 ZZ/Lovearea_1.txt
 carac :  1659 ZZ/Bakerboys_1.txt
 carac :  1840 ZZ/Bt21vlog_1.txt
-carac :  18526 ZZ/Earthmixspace_1.txt
+carac :  18498 ZZ/Earthmixspace_1.txt
 carac :  1943 ZZ/Darkbluekiss_1.txt
 carac :  20947 ZZ/46days_1.txt
 carac :  2122 ZZ/Mysweetdear_1.txt
@@ -26,7 +26,7 @@ carac :  2169 ZZ/Benxjim_1.txt
 carac :  22863 ZZ/Myvampireboyfriend_1.txt
 carac :  2365 ZZ/Districtz_2.txt
 carac :  2423 ZZ/Buffy_1.txt
-carac :  2539 ZZ/Thevoicebe_10.txt
+carac :  2475 ZZ/Thevoicebe_10.txt
 carac :  2681 ZZ/Zombiedetective_1.txt
 carac :  2766 ZZ/Postmortem_1.txt
 carac :  2848 ZZ/Theuntamed_1.txt
@@ -41,17 +41,17 @@ carac :  3235 ZZ/Glowup_2.txt
 carac :  3333 ZZ/Unlocked_1.txt
 carac :  3339 ZZ/Younevereatalone_1.txt
 carac :  3344 ZZ/Wabishow_1.txt
-carac :  3414 ZZ/F4thailand_1.txt
+carac :  3386 ZZ/F4thailand_1.txt
 carac :  3743 ZZ/Theshipper_1.txt
 carac :  3974 ZZ/Goodsingers_1.txt
 carac :  4377 ZZ/Koishiteakuma_1.txt
 carac :  4560 ZZ/7project_1.txt
-carac :  4688 ZZ//9-1-1_5.txt
-carac :  5513 ZZ/Youngsheldon_5.txt
+carac :  4676 ZZ//9-1-1_5.txt
+carac :  5501 ZZ/Youngsheldon_5.txt
 carac :  6097 ZZ/Elite_4.txt
 carac :  6293 ZZ/Campingparadis_12.txt
 carac :  6590 ZZ/Tbbt_11.txt
-carac :  6674 ZZ/Notme_1.txt
+carac :  6622 ZZ/Notme_1.txt
 carac :  7017 ZZ/Belove_1.txt
 carac :  753 ZZ/Bananafish_1.txt
 carac :  766 ZZ/Siewsumnoi_1.txt
@@ -184,7 +184,6 @@ ligne :  87 ZZ/5515nevertoolate_1.txt
 ligne :  9 ZZ/Insiders_1.txt
 ligne :  9 ZZ/Thebigleap_1.txt
 mot   : 
-mot   :  1003 ZZ/Notme_1.txt
 mot   :  1059 ZZ/Belove_1.txt
 mot   :  112 ZZ/Aggretsuko_4.txt
 mot   :  1167 ZZ/Vwars_1.txt
@@ -209,7 +208,7 @@ mot   :  2210 ZZ/Peachoftime_1.txt
 mot   :  225 ZZ/Lovearea_1.txt
 mot   :  244 ZZ/Bt21vlog_1.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
-mot   :  2794 ZZ/Earthmixspace_1.txt
+mot   :  2786 ZZ/Earthmixspace_1.txt
 mot   :  301 ZZ/Benxjim_1.txt
 mot   :  312 ZZ/Mysweetdear_1.txt
 mot   :  3133 ZZ/Myvampireboyfriend_1.txt
@@ -220,8 +219,8 @@ mot   :  356 ZZ/Districtz_2.txt
 mot   :  373 ZZ/Postmortem_1.txt
 mot   :  377 ZZ/Theuntamed_1.txt
 mot   :  406 ZZ/Lucifer_4.txt
+mot   :  410 ZZ/Thevoicebe_10.txt
 mot   :  420 ZZ/Aokivuanpaianonayami_1.txt
-mot   :  420 ZZ/Thevoicebe_10.txt
 mot   :  439 ZZ/Unlocked_1.txt
 mot   :  443 ZZ/Biteme_1.txt
 mot   :  447 ZZ/Tokyoghoul_3.txt
@@ -231,15 +230,16 @@ mot   :  482 ZZ/Glowup_2.txt
 mot   :  496 ZZ/Youaremysunshine_1.txt
 mot   :  498 ZZ/Theshipper_1.txt
 mot   :  505 ZZ/Wabishow_1.txt
-mot   :  522 ZZ/F4thailand_1.txt
+mot   :  518 ZZ/F4thailand_1.txt
 mot   :  523 ZZ/Goodsingers_1.txt
 mot   :  534 ZZ/Theplayer_1.txt
 mot   :  567 ZZ/Koishiteakuma_1.txt
 mot   :  619 ZZ/7project_1.txt
-mot   :  660 ZZ//9-1-1_5.txt
-mot   :  847 ZZ/Youngsheldon_5.txt
+mot   :  658 ZZ//9-1-1_5.txt
+mot   :  845 ZZ/Youngsheldon_5.txt
 mot   :  877 ZZ/Campingparadis_12.txt
 mot   :  892 ZZ/Elite_4.txt
 mot   :  907 ZZ/Tbbt_11.txt
 mot   :  95 ZZ/Bananafish_1.txt
 mot   :  99 ZZ/Siewsumnoi_1.txt
+mot   :  995 ZZ/Notme_1.txt
