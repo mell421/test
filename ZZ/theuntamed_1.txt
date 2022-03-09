@@ -1,0 +1,20 @@
+aEff/aeff.md:- 08/02/21 - 175* tbbt _11{1} the untamed _1{5} 
+aEff/aeff.md:- 09/02/21 - 219* tbbt _11{1} the untamed _1{5} 
+apercu/apercu20.md:Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
+apercu/apercu20.md:The untamed _1x3(1) 
+apercu/apercu20.md:Young dracula _1x7(2) The untamed _1x2(1) 
+apercu/apercu20.md:Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
+apercu/apercu21.md:- mois 01-03-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
+apercu/apercu21.md:- sem 08-02-2021 Tbbt _11x2(1) The untamed _1x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) 
+apercu/apercuglobal.md:- mois 01-03-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
+apercu/apercuglobal.md:- mois 01-07-2020 Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
+apercu/apercuglobal.md:- mois 01-08-2020 Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
+apercu/apercuglobal.md:- sem 06-07-2020 The untamed _1x3(1) 
+apercu/apercuglobal.md:- sem 08-02-2021 Tbbt _11x2(1) The untamed _1x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) 
+apercu/apercuglobal.md:- sem 29-06-2020 Young dracula _1x7(2) The untamed _1x2(1) 
+tab2020.html:      The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) </td>
+tab2020.html:    <td class="resumemois">Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) 
+tab2020.html:    <td class="resumesem">The untamed _1x3(1) </td>
+tab2020.html:    <td class="resumesem">Young dracula _1x7(2) The untamed _1x2(1) </td>
+tab2021.html:      Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) 
+tab2021.html:    <td class="resumesem">Tbbt _11x2(1) The untamed _1x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) </td>

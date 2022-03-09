@@ -209,3 +209,108 @@ ligne :  21 ZZ/Zombiedetective_1.txt
 mot   :  354 ZZ/Zombiedetective_1.txt
 carac :  2681 ZZ/Zombiedetective_1.txt
 
+i = Young royals _1
+ligne :  16 ZZ/Youngroyals_1.txt
+mot   :  220 ZZ/Youngroyals_1.txt
+carac :  1636 ZZ/Youngroyals_1.txt
+
+i = Siew sum noi _1
+ligne :  10 ZZ/Siewsumnoi_1.txt
+mot   :  99 ZZ/Siewsumnoi_1.txt
+carac :  766 ZZ/Siewsumnoi_1.txt
+
+i = Elite _4
+ligne :  67 ZZ/Elite_4.txt
+mot   :  892 ZZ/Elite_4.txt
+carac :  6097 ZZ/Elite_4.txt
+
+i = Dark blue kiss _1
+ligne :  25 ZZ/Darkbluekiss_1.txt
+mot   :  267 ZZ/Darkbluekiss_1.txt
+carac :  1943 ZZ/Darkbluekiss_1.txt
+
+i = Vincenzo _1
+ligne :  128 ZZ/Vincenzo_1.txt
+mot   :  1618 ZZ/Vincenzo_1.txt
+carac :  11720 ZZ/Vincenzo_1.txt
+
+i = An eye for an eye _1
+ligne : 
+mot   : 
+carac : 
+
+i = I can see your voice fr _1
+ligne : 
+mot   : 
+carac : 
+
+i = Mr lipstick _1
+ligne :  19 ZZ/Mrlipstick_1.txt
+mot   :  162 ZZ/Mrlipstick_1.txt
+carac :  1259 ZZ/Mrlipstick_1.txt
+
+i = Bt21 vlog _1
+ligne :  29 ZZ/Bt21vlog_1.txt
+mot   :  244 ZZ/Bt21vlog_1.txt
+carac :  1840 ZZ/Bt21vlog_1.txt
+
+i = You never eat alone _1
+ligne :  33 ZZ/Younevereatalone_1.txt
+mot   :  456 ZZ/Younevereatalone_1.txt
+carac :  3339 ZZ/Younevereatalone_1.txt
+
+i = My vampire boyfriend _1
+ligne :  259 ZZ/Myvampireboyfriend_1.txt
+mot   :  3133 ZZ/Myvampireboyfriend_1.txt
+carac :  22863 ZZ/Myvampireboyfriend_1.txt
+
+i = Tokyo ghoul _3
+ligne :  29 ZZ/Tokyoghoul_3.txt
+mot   :  447 ZZ/Tokyoghoul_3.txt
+carac :  3220 ZZ/Tokyoghoul_3.txt
+
+i = Bangkok love stories innocence _1
+ligne :  8 ZZ/Bangkoklovestoriesinnocence_1.txt
+mot   :  171 ZZ/Bangkoklovestoriesinnocence_1.txt
+carac :  1311 ZZ/Bangkoklovestoriesinnocence_1.txt
+
+i = The harvest season _1
+ligne :  100 ZZ/Theharvestseason_1.txt
+mot   :  1422 ZZ/Theharvestseason_1.txt
+carac :  9959 ZZ/Theharvestseason_1.txt
+
+i = Wabi show _1
+ligne :  31 ZZ/Wabishow_1.txt
+mot   :  505 ZZ/Wabishow_1.txt
+carac :  3344 ZZ/Wabishow_1.txt
+
+i = The untamed _1
+ligne :  20 ZZ/Theuntamed_1.txt
+mot   :  377 ZZ/Theuntamed_1.txt
+carac :  2848 ZZ/Theuntamed_1.txt
+
+i = Slam dance _1
+ligne :  12 ZZ/Slamdance_1.txt
+mot   :  216 ZZ/Slamdance_1.txt
+carac :  1497 ZZ/Slamdance_1.txt
+
+i = Be love _1
+ligne :  63 ZZ/Belove_1.txt
+mot   :  1059 ZZ/Belove_1.txt
+carac :  7017 ZZ/Belove_1.txt
+
+i = Tien bromance _1
+ligne :  13 ZZ/Tienbromance_1.txt
+mot   :  194 ZZ/Tienbromance_1.txt
+carac :  1419 ZZ/Tienbromance_1.txt
+
+i = Ben x jim _1
+ligne :  17 ZZ/Benxjim_1.txt
+mot   :  301 ZZ/Benxjim_1.txt
+carac :  2169 ZZ/Benxjim_1.txt
+
+i = Koishite akuma _1
+ligne :  61 ZZ/Koishiteakuma_1.txt
+mot   :  567 ZZ/Koishiteakuma_1.txt
+carac :  4377 ZZ/Koishiteakuma_1.txt
+
