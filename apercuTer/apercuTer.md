@@ -780,6 +780,8 @@
 * Survivor _23
 ### sem 14-03-2022 
 * *insererici*
+* Icsyv _2
+* Survivor sa _7
 * Rpdrukvstheworld _1
 ### sem 21-03-2022 
 * *insererici*
@@ -832,7 +834,7 @@
 * The voice finland _12
 * Enchante _1
 * Love stage 2022 _1
-* Icsyv _2
+* 
 * The voice generations lithu _1
 * Survivor au _9
 * 
@@ -852,7 +854,7 @@
 * Meet my angel _2
 * The voice nl _12
 * Earthmix space _1
-* Survivor sa _7
+* 
 * Young sheldon _5
 * 5515 never too late _1
 * The player _1
@@ -971,7 +973,7 @@
 #### mois 01-03-2022 
 *insererici Survivor _23 Kissable lips _1 The voice lithu _8 Kieta hatsukoi _1 Survivor _22 Survivor _21 Survivor _20 The masked singer uk _3 Ninja warrior _6 Paint with love _1 The voice portugal _9 Survivor _19 The masked dancer ger _1 The voice generations au _1*
 #### mois 01-04-2022 
-*insererici Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*
+*insererici Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*
 #### mois 01-05-2022 
 *insererici*
 #### mois 01-06-2022 

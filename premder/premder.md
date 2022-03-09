@@ -24,7 +24,6 @@ Goblin 1x2
 Les engages 3x2
 The big leap 1x2
 Aggretsuko 4x2
-Survivor sa 7x2
 Love stage 2022 1x2
 Love at night 1x2
 Color rush 2x2
@@ -39,7 +38,6 @@ The masked singer vv 2x4
 The voice finland 12x3
 Enchante 1x2
 * Love stage 2022 1x1
-Icsyv 2x5
 The voice generations lithu 1x5
 * The voice generations lithu 1x1
 Survivor au 9x3
@@ -68,12 +66,10 @@ The voice nl 12x2
 * The masked singer vv 2x1
 Earthmix space 1x10
 * Skam france 9x1
-* Survivor sa 7x1
 * Rpdru 14x1
 * Rpdr 14x1
 * The voice nl 12x1
 * The voice no 7x1
-* Icsyv 2x0
 * /9-1-1 lone star 3x1
 Young sheldon 5x5
 * The voice be 10x1
