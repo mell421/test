@@ -38,8 +38,6 @@ The masked singer vv 2x4
 The voice finland 12x3
 Enchante 1x2
 * Love stage 2022 1x1
-The voice generations lithu 1x5
-* The voice generations lithu 1x1
 Survivor au 9x3
 The voice be 10x6
 Skam france 9x3
