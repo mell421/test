@@ -311,3 +311,6 @@ carac :  2169 ZZ/Benxjim_1.txt
 
 i = Koishite akuma _1
 ligne :  61 ZZ/Koishiteakuma_1.txt
+mot   :  567 ZZ/Koishiteakuma_1.txt
+carac :  4377 ZZ/Koishiteakuma_1.txt
+
