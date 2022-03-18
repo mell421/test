@@ -1124,7 +1124,7 @@ concluBis 16/01/22 = Earthmix space _1 > 6; The voice no _7 > 4; Forever knight 
 12/01/22 - the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} f4 thailand _1{6} 
 13/01/22 - the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} 
 14/01/22 - the voice be _10{3} /9-1-1 lone star _3{1} not me _1{6} 
-15/01/22 - rpdru _14{1} rpdr _14{1} the voice nl _12{1} the masked singer vv _2{0} the voice no _7{8} earthmix space _1{38} skam france _9{0} 
-16/01/22 - rpdru _14{2} rpdr _14{1} the voice nl _12{1} the masked singer vv _2{0} the voice no _7{10} earthmix space _1{40} skam france _9{0} 
+15/01/22 - rpdru _14{1} rpdr _14{1} the voice nl _12{1} the masked singer vv _2{0} the voice no _7{8} earthmix space _1{38} 
+16/01/22 - rpdru _14{2} rpdr _14{1} the voice nl _12{1} the masked singer vv _2{0} the voice no _7{10} earthmix space _1{40} 
 
 </doc>

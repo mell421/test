@@ -6,8 +6,8 @@ carac :  14620 ZZ/Peachoftime_1.txt
 
 i = Earthmix space _1
 ligne :  169 ZZ/Earthmixspace_1.txt
-mot   :  2786 ZZ/Earthmixspace_1.txt
-carac :  18498 ZZ/Earthmixspace_1.txt
+mot   :  2780 ZZ/Earthmixspace_1.txt
+carac :  18462 ZZ/Earthmixspace_1.txt
 
 i = Tbbt _11
 ligne :  80 ZZ/Tbbt_11.txt

@@ -40,7 +40,6 @@ Enchante 1x2
 * Love stage 2022 1x1
 Survivor au 9x3
 The voice be 10x6
-Skam france 9x3
 /9-1-1 lone star 3x4
 Dancing on ice uk 14x3
 * Survivor au 9x1
@@ -63,7 +62,6 @@ The voice ph 1x4
 The voice nl 12x2
 * The masked singer vv 2x1
 Earthmix space 1x10
-* Skam france 9x1
 * Rpdru 14x1
 * Rpdr 14x1
 * The voice nl 12x1

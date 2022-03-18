@@ -18,7 +18,7 @@ carac :  1636 ZZ/Youngroyals_1.txt
 carac :  1638 ZZ/Lovearea_1.txt
 carac :  1659 ZZ/Bakerboys_1.txt
 carac :  1840 ZZ/Bt21vlog_1.txt
-carac :  18498 ZZ/Earthmixspace_1.txt
+carac :  18462 ZZ/Earthmixspace_1.txt
 carac :  1943 ZZ/Darkbluekiss_1.txt
 carac :  20947 ZZ/46days_1.txt
 carac :  2122 ZZ/Mysweetdear_1.txt
@@ -208,7 +208,7 @@ mot   :  2210 ZZ/Peachoftime_1.txt
 mot   :  225 ZZ/Lovearea_1.txt
 mot   :  244 ZZ/Bt21vlog_1.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
-mot   :  2786 ZZ/Earthmixspace_1.txt
+mot   :  2780 ZZ/Earthmixspace_1.txt
 mot   :  301 ZZ/Benxjim_1.txt
 mot   :  312 ZZ/Mysweetdear_1.txt
 mot   :  3133 ZZ/Myvampireboyfriend_1.txt
