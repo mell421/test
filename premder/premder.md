@@ -34,7 +34,6 @@ Meet my angel 2x2
 _
 F4 thailand 1x7
 The voice no 7x10
-The masked singer vv 2x4
 The voice finland 12x3
 Enchante 1x2
 * Love stage 2022 1x1
@@ -60,7 +59,6 @@ The voice ph 1x4
 * Meet my angel 2x1
 * Something in my room 1x1
 The voice nl 12x2
-* The masked singer vv 2x1
 Earthmix space 1x10
 * Rpdru 14x1
 * Rpdr 14x1

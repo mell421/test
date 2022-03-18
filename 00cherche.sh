@@ -79,7 +79,7 @@ listAsc=(
 listAV=( 
 # jan
 "Drag latina _1" 
-"The masked singer vv _2" "Rainbow prince _1" "Color rush _2" 
+"Rainbow prince _1" "Color rush _2" 
 "The masked singer fr _3" "Survivor au _9" 
 # fev
 "Asc _1" "Queen stars brasil _1" 

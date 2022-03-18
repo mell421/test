@@ -6,8 +6,8 @@ carac :  14620 ZZ/Peachoftime_1.txt
 
 i = Earthmix space _1
 ligne :  169 ZZ/Earthmixspace_1.txt
-mot   :  2780 ZZ/Earthmixspace_1.txt
-carac :  18462 ZZ/Earthmixspace_1.txt
+mot   :  2770 ZZ/Earthmixspace_1.txt
+carac :  18408 ZZ/Earthmixspace_1.txt
 
 i = Tbbt _11
 ligne :  80 ZZ/Tbbt_11.txt
@@ -311,6 +311,3 @@ carac :  2169 ZZ/Benxjim_1.txt
 
 i = Koishite akuma _1
 ligne :  61 ZZ/Koishiteakuma_1.txt
-mot   :  567 ZZ/Koishiteakuma_1.txt
-carac :  4377 ZZ/Koishiteakuma_1.txt
-
