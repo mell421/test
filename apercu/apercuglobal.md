@@ -132,11 +132,11 @@
 - sem 22-11-2021 -> Les engages _3x2(1) The case study of vanitas _1x3(2) 
 - sem 29-11-2021 -> Earthmix space _1x7(1) Baker boys _1x3(2) 
 - sem 06-12-2021 -> District z _2x2(1) Baker boys _1x4(1) 
-- sem 13-12-2021 -> 5515 never too late _1x4(3) Not me _1x2(1) Earthmix space _1x8(1) Camping paradis _12x6(1) 
-- sem 20-12-2021 -> Not me _1x3(1) District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
-- sem 27-12-2021 -> Not me _1x4(1) The player _1x3(2) You are my sunshine _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1)
+- sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) Camping paradis _12x6(1) 
+- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
+- sem 27-12-2021 -> The player _1x3(2) You are my sunshine _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1)
 - sem 03-01-2022 -> Young sheldon _5x6(2) The voice be _10x2(1) 5515 never too late _1x5(1) 
-- sem 10-01-2022 -> Not me _1x5(1) F4 thailand _1x4(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
+- sem 10-01-2022 -> F4 thailand _1x4(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
 
 
 
@@ -499,7 +499,7 @@
 * concluBis 17/12/21 = Aggretsuko _4 > 2; 
 * concluBis 18/12/21 = Earthmix space _1 > 4; 
 * concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
-* concluBis 20/12/21 = Earthmix space _1 > 2; Forever knight _1 > 2; Not me _1 > 1; Imortal _1 > 1; 
+* concluBis 20/12/21 = Earthmix space _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 21/12/21 = Earthmix space _1 > 1; Forever knight _1 > 1; 
 * concluBis 22/12/21 = The player _1 > 3; Earthmix space _1 > 2; Forever knight _1 > 1; 
 * concluBis 23/12/21 = You are my sunshine _1 > 3; Earthmix space _1 > 2; The player _1 > 2; Forever knight _1 > 1; 

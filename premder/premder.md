@@ -43,7 +43,6 @@ The voice be 10x6
 Dancing on ice uk 14x3
 * Survivor au 9x1
 The voice ukr 12x2
-Not me 1x7
 Rpdru 14x4
 Rpdr 14x4
 * The voice finland 12x1
@@ -76,7 +75,6 @@ District z 2x2
 * F4 thailand 1x1
 Unlocked 1x3
 * Aggretsuko 4x1
-* Not me 1x1
 * 5515 never too late 1x1
 Camping paradis 12x5
 * District z 2x1

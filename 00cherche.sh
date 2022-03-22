@@ -16,7 +16,7 @@ list99=(
 # 29-20
 "7project _1" "/9-1-1 _5" 
 # 19-15
-"Not me _1" "The shipper _1" 
+"The shipper _1" 
 # 14-10
 "The player _1" "Unlocked _1" "Aoki vuanpaia no nayami _1" "Young sheldon _5" "You are my sunshine _1" "F4 thailand _1" "The case study of vanitas _1" "District z _2" "Baker boys _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
@@ -38,7 +38,7 @@ list99=(
 
 listAsc=( 
 # 1
-"Not me _1" "F4 thailand _1" "Rpdru _14" "Rpdr _14" 
+"F4 thailand _1" "Rpdru _14" "Rpdr _14" 
 # 2
 "The voice nl _12" "The voice no _7" "The voice be _10" 
 # 3

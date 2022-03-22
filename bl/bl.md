@@ -232,6 +232,7 @@
 |paint with love|paint with love|12|serie|thailande|<!--  -->
 |kieta hatsukoi|kieta hatsukoi|10|serie|japon|                <!-- 44 -->
 |kissable lips|kissable lips|8|serie|corée|<!--  -->
+|not me 1||14|||<!-- 20/3 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -287,7 +288,6 @@
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
 |baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
-|NOTME|NOTME|14|serie|thailande|2|<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
 |the player|the player|16|serie(*)|thailande|0|<!-- -->
 |you are my sunshine||6|serie|vietnam|2|<!--  -->
