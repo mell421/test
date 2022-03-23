@@ -7,26 +7,29 @@
 # nb bis
 list99=( 
 # >= 100
-"Peach of time _1" 
+"Earthmix space _1" "The voice no _7" "The voice finland _12" "Peach of time _1" "The voice be _10" "5515 never too late _1" "F4 thailand _1" "Rpdru _14" "Rpdr _14" 
 # 99-50
-"Earthmix space _1" "Tbbt _11" 
+"Dancing on ice uk _14" "Survivor au _9" "Semantic error _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
+"The voice ph _1" "Camping paradis _12" 
 # 39-30
-"5515 never too late _1" "Camping paradis _12" 
+"The voice fr _12" "Cupids last wish _1" "The voice ukr _12" 
 # 29-20
-"7project _1" "/9-1-1 _5" 
+"Pekin express _15" "Cutie pie _1" "/9-1-1 lone star _3" "American idol _20" "Forcebook show real _1" "Meet my angel _2" "Something in my room _1" "Koh-lanta _28" "Top chef _13" "The player _1" "7project _1" "/9-1-1 _5" 
 # 19-15
-"The shipper _1" 
+"Enchante _1" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
 # 14-10
-"The player _1" "Unlocked _1" "Aoki vuanpaia no nayami _1" "Young sheldon _5" "You are my sunshine _1" "F4 thailand _1" "The case study of vanitas _1" "District z _2" "Baker boys _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"The voice kids ger _10" "All of us are dead _1" "You are my sunshine _1" "Domino masters us _1" "District z _2" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
+"Is it cake _1" "Love at night _1" "Drag i love you _1" 
 # 7-6
-"My sweet dear _1" "Love area _1" "Les engages _3" "Goblin _1" 
+"The masked singer _7" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
 # 5-4
-"Aggretsuko _4" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
+"Cherry blossoms after winter _1" "Survivor _42" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
-"Banana fish _1" "The voice be _10"
+"Absolute bl _1" "Banana fish _1" 
 # 0-1
+"Asc _1"
 # other
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
 "Good singers _1" "Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
