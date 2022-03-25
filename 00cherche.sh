@@ -21,7 +21,7 @@ list99=(
 # 14-10
 "The voice kids ger _10" "All of us are dead _1" "You are my sunshine _1" "Domino masters us _1" "District z _2" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
-"Is it cake _1" "Love at night _1" "Drag i love you _1" 
+"Love at night _1" "Drag i love you _1" 
 # 7-6
 "The masked singer _7" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
 # 5-4

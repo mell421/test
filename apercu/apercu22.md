@@ -29,7 +29,7 @@
 - sem 28-02-2022 -> The voice finland _12x11(2) The voice fr _12x4(1) Cutie pie _1x3(1) Cupids last wish _1x3(2) Rpdru _14x9(1) Rpdr _14x9(1) Forcebook show real _1x3(1) Earthmix space _1x13(1) The voice no _7x17(2) Semantic error _1x5(2) Cherry blossoms after winter _1x2(1) Pekin express _15x4(1) Top chef _13x3(1) Koh-lanta _28x2(1) The voice be _10x10(1) Dancing on ice uk _14x7(1) 
 - sem 07-03-2022 -> The voice finland _12x13(2) The tuxedo _1x2(1) The voice fr _12x5(1) Cutie pie _1x4(1) Dancing on ice uk _14x8(1) The voice kids ger _10x2(1) The voice no _7x19(2) Pekin express _15x5(1) Top chef _13x4(1) Drag i love you _1x2(1) Koh-lanta _28x3(1) The voice be _10x11(1) American idol _20x2(1) 
 - sem 14-03-2022 -> The voice finland _12x15(2) The voice fr _12x6(1) Cutie pie _1x5(1) The voice kids ger _10x3(1) Rpdru _14x11(2) Rpdr _14x11(2) The voice no _7x21(2) Forcebook show real _1x5(2) Pekin express _15x6(1) Drag i love you _1x3(1) The masked singer _7x2(1) Survivor _42x2(1) Semantic error _1x7(2) Top chef _13x5(1) The voice be _10x12(1) Koh-lanta _28x4(1) Dancing on ice uk _14x9(1) American idol _20x3(1) 
-- sem 21-03-2022 -> American idol _20x5(2) The voice finland _12x17(2) The voice kids ger _10x4(1) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) Is it cake _1x2(1) Rpdru _14x12(1) Rpdr _14x12(1) The voice no _7x23(2) Dancing on ice uk _14x10(1) Earthmix space _1x14(1) Forcebook show real _1x6(1) Pekin express _15x7(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) The voice be _10x13(1) Koh-lanta _28x5(1) 
+- sem 21-03-2022 -> American idol _20x5(2) The voice finland _12x17(2) The voice kids ger _10x4(1) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) Rpdru _14x12(1) Rpdr _14x12(1) The voice no _7x23(2) Dancing on ice uk _14x10(1) Earthmix space _1x14(1) Forcebook show real _1x6(1) Pekin express _15x7(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) The voice be _10x13(1) Koh-lanta _28x5(1) 
 
 
 
@@ -126,8 +126,8 @@
 * conclu 19/03/22 = The voice no _7 > 12; The voice finland _12 > 8; Earthmix space _1 > 2; Rpdr _14 > 1; Domino masters us _1 > 1; 
 * conclu 20/03/22 = The voice no _7 > 11; The voice finland _12 > 7; Cupids last wish _1 > 3; Earthmix space _1 > 2; Rpdru _14 > 1; 
 * conclu 21/03/22 = The voice finland _12 > 9; The voice no _7 > 8; American idol _20 > 3; Earthmix space _1 > 2; Rpdru _14 > 1; Cupids last wish _1 > 1; 
-* conclu 22/03/22 = The voice no _7 > 8; The voice finland _12 > 8; Is it cake _1 > 3; Earthmix space _1 > 2; American idol _20 > 2; The voice fr _12 > 1; 
-* conclu 23/03/22 = The voice no _7 > 8; The voice finland _12 > 8; American idol _20 > 3; Is it cake _1 > 3; The voice be _10 > 2; 
+* conclu 22/03/22 = The voice no _7 > 8; The voice finland _12 > 8; Earthmix space _1 > 2; American idol _20 > 2; The voice fr _12 > 1; 
+* conclu 23/03/22 = The voice no _7 > 8; The voice finland _12 > 8; American idol _20 > 3; The voice be _10 > 2; 
 
 
 
@@ -221,8 +221,8 @@
 * concluBis 19/03/22 = The voice no _7 > 20; The voice finland _12 > 16; Earthmix space _1 > 6; Rpdr _14 > 5; Domino masters us _1 > 3; The voice be _10 > 2; Semantic error _1 > 2; Dancing on ice uk _14 > 1; American idol _20 > 1; 
 * concluBis 20/03/22 = The voice no _7 > 19; The voice finland _12 > 15; Earthmix space _1 > 6; Cupids last wish _1 > 5; Rpdru _14 > 3; The voice be _10 > 2; Rpdr _14 > 2; The voice fr _12 > 2; Domino masters us _1 > 2; 
 * concluBis 21/03/22 = The voice finland _12 > 17; The voice no _7 > 16; Earthmix space _1 > 6; Rpdru _14 > 5; American idol _20 > 5; The voice be _10 > 4; Cupids last wish _1 > 3; Rpdr _14 > 2; The voice fr _12 > 1; Domino masters us _1 > 1; 
-* concluBis 22/03/22 = The voice finland _12 > 16; The voice no _7 > 15; Earthmix space _1 > 6; Is it cake _1 > 5; The voice be _10 > 4; American idol _20 > 4; The voice fr _12 > 3; Rpdru _14 > 2; Cutie pie _1 > 2; Cupids last wish _1 > 2; Dancing on ice uk _14 > 1; 
-* concluBis 23/03/22 = The voice finland _12 > 16; The voice no _7 > 15; The voice be _10 > 8; American idol _20 > 7; Is it cake _1 > 5; Earthmix space _1 > 4; Rpdru _14 > 2; Cupids last wish _1 > 2; Koh-lanta _28 > 1; 
+* concluBis 22/03/22 = The voice finland _12 > 16; The voice no _7 > 15; Earthmix space _1 > 6; The voice be _10 > 4; American idol _20 > 4; The voice fr _12 > 3; Rpdru _14 > 2; Cutie pie _1 > 2; Cupids last wish _1 > 2; Dancing on ice uk _14 > 1; 
+* concluBis 23/03/22 = The voice finland _12 > 16; The voice no _7 > 15; The voice be _10 > 8; American idol _20 > 7; Earthmix space _1 > 4; Rpdru _14 > 2; Cupids last wish _1 > 2; Koh-lanta _28 > 1; 
 
 
 
