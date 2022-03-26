@@ -233,6 +233,7 @@
 |kieta hatsukoi|kieta hatsukoi|10|serie|japon|                <!-- 44 -->
 |kissable lips|kissable lips|8|serie|corée|<!--  -->
 |not me 1||14|||<!-- 20/3 -->
+|semantic error|semantic error|8|serie|corée|<!-- -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -350,7 +351,6 @@
 |----------|---|---||||<!--  -->
 |COREE|---|---||||<!-- -->
 |I just slept|I just slept|?|serie(gl)|corée|0|<!-- -->
-|semantic error|semantic error|?|serie|corée|0|<!-- -->
 |||||||<!--  -->
 |VIETNAM|---|---||||<!-- -->
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->

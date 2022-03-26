@@ -9,7 +9,7 @@ list99=(
 # >= 100
 "Earthmix space _1" "The voice no _7" "The voice finland _12" "Peach of time _1" "The voice be _10" "5515 never too late _1" "F4 thailand _1" "Rpdru _14" "Rpdr _14" 
 # 99-50
-"Dancing on ice uk _14" "Survivor au _9" "Semantic error _1" "Young sheldon _5" "Tbbt _11" 
+"Dancing on ice uk _14" "Survivor au _9" "Young sheldon _5" "Tbbt _11" 
 # 49-40
 "The voice ph _1" "Camping paradis _12" 
 # 39-30
