@@ -7,29 +7,29 @@
 # nb bis
 list99=( 
 # >= 100
-"Earthmix space _1" "The voice no _7" "The voice finland _12" "Peach of time _1" "The voice be _10" "5515 never too late _1" "F4 thailand _1" "Rpdru _14" "Rpdr _14" 
+"Earthmix space _1" "The voice no _7" "The voice finland _12" "Peach of time _1" "The voice be _10" "5515 never too late _1" "Rpdru _14" "F4 thailand _1" "Rpdr _14" 
 # 99-50
-"Dancing on ice uk _14" "Survivor au _9" "Young sheldon _5" "Tbbt _11" 
+"Dancing on ice uk _14" "Survivor au _9" "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
-"The voice ph _1" "Camping paradis _12" 
+"The voice fr _12" "Camping paradis _12" 
 # 39-30
-"The voice fr _12" "Cupids last wish _1" "The voice ukr _12" 
+"Cupids last wish _1" "Pekin express _15" "American idol _20" "Cutie pie _1" "The voice ukr _12" 
 # 29-20
-"Pekin express _15" "Cutie pie _1" "/9-1-1 lone star _3" "American idol _20" "Forcebook show real _1" "Meet my angel _2" "Something in my room _1" "Koh-lanta _28" "Top chef _13" "The player _1" "7project _1" "/9-1-1 _5" 
+"Forcebook show real _1" "Top chef _13" "/9-1-1 lone star _3" "Koh-lanta _28" "Meet my angel _2" "Something in my room _1" "The voice kids ger _10" "The player _1" "7project _1" "/9-1-1 _5" 
 # 19-15
 "Enchante _1" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
 # 14-10
-"The voice kids ger _10" "All of us are dead _1" "You are my sunshine _1" "Domino masters us _1" "District z _2" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"All of us are dead _1" "You are my sunshine _1" "Queen stars brazil _1" "Domino masters us _1" "District z _2" "The masked singer _7" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
 "Love at night _1" "Drag i love you _1" 
 # 7-6
-"The masked singer _7" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
+"Asc _1" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
 # 5-4
-"Cherry blossoms after winter _1" "Survivor _42" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
+"Absolute bl _1" "Cherry blossoms after winter _1" "The voice kids poland _5" "Survivor _42" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
-"Absolute bl _1" "Banana fish _1" 
+"Drag race esp _2" "Dear doctor _1" "The voice kids vv _6" "Clem _12" "Banana fish _1" 
 # 0-1
-"Asc _1"
+
 # other
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
 "Good singers _1" "Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
@@ -41,54 +41,58 @@ list99=(
 
 listAsc=( 
 # 1
-"F4 thailand _1" "Rpdru _14" "Rpdr _14" 
+"The voice kids poland _5" "The voice finland _12" "Drag race esp _2" "Clem _12" "The voice fr _12" 
 # 2
-"The voice nl _12" "The voice no _7" "The voice be _10" 
+"Cutie pie _1" "Dear doctor _1" "The voice kids ger _10" "The voice kids vv _6" "Rpdru _14" 
 # 3
-"/9-1-1 lone star _3" "Young sheldon _5" "5515 never too late _1" "The player _1" "You are my sunshine _1" 
+"Rpdr _14" "Forcebook show real _1" "The voice no _7" "Pekin express _15" "The masked singer _7" 
 # 4
-"Earthmix space _1" "District z _2" "Unlocked _1" "Aggretsuko _4" "Camping paradis _12" 
+"Queen stars brazil _1" "Top chef _13" "American idol _20" "Asc _1" "The voice be _10" 
 # 5
-"Baker boys _1" "Les engages _3" "The case study of vanitas _1" "Banana fish _1" 
+"Koh-lanta _28" "Absolute bl _2" "Cupids last wish _1" "Dancing on ice uk _14" "Earthmix space _1" 
 # 6
-"Tbbt _11" "Aoki vuanpaia no nayami _1" "My sweet dear _1" "Insiders _1" "Age of the living dead _1" 
+"Domino masters us _1" "Drag i love you _1" "Survivor _42" "The tuxedo _1" "Cherry blossoms after winter _1" 
 # 7
-"/9-1-1 _5" "Love area _1" "The shipper _1" "Goblin _1" "7project _1" 
+"The voice ukr _12" "Enchante _1" "Something in my room _1" "F4 thailand _1" "Love stage 2022 _1" 
 # 8
-"The big leap _1" "Post mortem _1" "Alice in borderland _1" "Peach of time _1" "Buffy _1" 
+"Survivor au _9" "All of us are dead _1" "/9-1-1 lone star _3" "Meet my angel _2" "Peach of time _1" 
 # 9
-"Lucifer _4" "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" 
+"The voice ph _1" "Love at night _1" "Color rush _2" "The voice nl _12" "Young sheldon _5" 
 # 10
-"From dusk till dawn _2" "Good singers _1" "Control z _2" "46 days _1" "Glow up _2" 
+"5515 never too late _1" "The player _1" "You are my sunshine _1" "District z _2" "Unlocked _1" 
 # 11
-"Zombie detective _1" "Young royals _1" "Siew sum noi _1" "Elite _4" "Dark blue kiss _1" 
+"Aggretsuko _4" "Camping paradis _12" "Baker boys _1" "Les engages _3" "The case study of vanitas _1" 
 # 12
-"Vincenzo _1" 
+"Banana fish _1" "Tbbt _11" "Aoki vuanpaia no nayami _1" "My sweet dear _1" "Insiders _1" 
 # 13
+"Age of the living dead _1" "/9-1-1 _5" "Love area _1" "The shipper _1" "Goblin _1" 
 # 14
+"7project _1" "The big leap _1" "Post mortem _1" "Alice in borderland _1" "Buffy _1" 
 # 15
+"Lucifer _4" "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" 
 # 16
-"An eye for an eye _1" "I can see your voice fr _1" "Mr lipstick _1" "Bt21 vlog _1" 
+"From dusk till dawn _2" "Good singers _1" "Control z _2" "46 days _1" "Glow up _2" 
 # 17
-"You never eat alone _1" "My vampire boyfriend _1" "Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" 
+"Zombie detective _1" "Young royals _1" "Siew sum noi _1" "Elite _4" "Dark blue kiss _1" 
 # 18
-"Wabi show _1" "The untamed _1" "Slam dance _1" "Be love _1" "Tien bromance _1" 
+"Vincenzo _1" "An eye for an eye _1" "I can see your voice fr _1" "Mr lipstick _1" "Bt21 vlog _1" 
 # 19
-"Ben x jim _1" "Koishite akuma _1" "Warper series _1" "Romantic blue _1" "Friend zone _1" 
+"You never eat alone _1" "My vampire boyfriend _1" "Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" 
 # 20
+"Wabi show _1" "The untamed _1" "Slam dance _1" "Be love _1" "Tien bromance _1" 
+# 21
+"Ben x jim _1" "Koishite akuma _1" "Warper series _1" "Romantic blue _1" "Friend zone _1" 
+# 22
 "Together with me _1" "Ghost runner _1" 
 )
 
 listAV=( 
 # jan
-"Drag latina _1" 
-"Rainbow prince _1" "Color rush _2" 
-"The masked singer fr _3" "Survivor au _9" 
+"Drag latina _1" "Rainbow prince _1" 
 # fev
-"Asc _1" "Queen stars brasil _1" 
 # mar
-"Survivor _42" 
 # avr
+"The masked singer fr _3" 
 "" "" "" "" "" )
 
 listOld=( "Capture lover _1" "Lakan _1" "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" 
