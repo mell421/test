@@ -25,7 +25,7 @@ list99=(
 # 7-6
 "Asc _1" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
 # 5-4
-"Absolute bl _1" "Cherry blossoms after winter _1" "The voice kids poland _5" "Survivor _42" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
+"Cherry blossoms after winter _1" "The voice kids poland _5" "Survivor _42" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
 "Drag race esp _2" "Dear doctor _1" "The voice kids vv _6" "Clem _12" "Banana fish _1" 
 # 0-1
@@ -49,7 +49,7 @@ listAsc=(
 # 4
 "Queen stars brazil _1" "Top chef _13" "American idol _20" "Asc _1" "The voice be _10" 
 # 5
-"Koh-lanta _28" "Absolute bl _2" "Cupids last wish _1" "Earthmix space _1" 
+"Koh-lanta _28" "Cupids last wish _1" "Earthmix space _1" 
 # 6
 "Domino masters us _1" "Drag i love you _1" "Survivor _42" "The tuxedo _1" "Cherry blossoms after winter _1" 
 # 7

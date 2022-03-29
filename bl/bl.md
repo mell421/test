@@ -234,6 +234,7 @@
 |kissable lips|kissable lips|8|serie|corée|<!--  -->
 |not me 1||14|||<!-- 20/3 -->
 |semantic error|semantic error|8|serie|corée|<!-- -->
+|absolute BL 2|absolute bl 2|6|serie|japon|                         <!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
