@@ -40,7 +40,6 @@ Enchante 1x2
 Survivor au 9x3
 The voice be 10x6
 /9-1-1 lone star 3x4
-Dancing on ice uk 14x3
 * Survivor au 9x1
 The voice ukr 12x2
 Rpdru 14x4
@@ -53,7 +52,6 @@ The voice ph 1x4
 * The voice ph 1x1
 * Love at night 1x1
 * The voice ukr 12x1
-* Dancing on ice uk 14x1
 * Color rush 2x1
 * Meet my angel 2x1
 * Something in my room 1x1

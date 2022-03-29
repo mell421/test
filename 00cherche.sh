@@ -9,7 +9,7 @@ list99=(
 # >= 100
 "Earthmix space _1" "The voice no _7" "The voice finland _12" "Peach of time _1" "The voice be _10" "5515 never too late _1" "Rpdru _14" "F4 thailand _1" "Rpdr _14" 
 # 99-50
-"Dancing on ice uk _14" "Survivor au _9" "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
+"Survivor au _9" "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
 "The voice fr _12" "Camping paradis _12" 
 # 39-30
@@ -49,7 +49,7 @@ listAsc=(
 # 4
 "Queen stars brazil _1" "Top chef _13" "American idol _20" "Asc _1" "The voice be _10" 
 # 5
-"Koh-lanta _28" "Absolute bl _2" "Cupids last wish _1" "Dancing on ice uk _14" "Earthmix space _1" 
+"Koh-lanta _28" "Absolute bl _2" "Cupids last wish _1" "Earthmix space _1" 
 # 6
 "Domino masters us _1" "Drag i love you _1" "Survivor _42" "The tuxedo _1" "Cherry blossoms after winter _1" 
 # 7

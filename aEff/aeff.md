@@ -376,33 +376,33 @@
 - 22/02/22 (eff) - earthmix space _1{109} the voice no _7{90} peach of time _1{44} the voice finland _12{35} f4 thailand _1{30} the voice be _10{26} survivor au _9{21} 5515 never too late _1{18} rpdr _14{17} rpdru _14{16} 
 - 23/02/22 (eff) - earthmix space _1{111} the voice no _7{92} peach of time _1{44} the voice finland _12{37} f4 thailand _1{32} the voice be _10{26} survivor au _9{21} 5515 never too late _1{18} rpdr _14{17} rpdru _14{16} 
 - 24/02/22 (eff) - earthmix space _1{113} the voice no _7{94} peach of time _1{44} the voice finland _12{39} f4 thailand _1{33} the voice be _10{28} survivor au _9{21} 5515 never too late _1{18} rpdru _14{17} rpdr _14{17} 
-- 25/02/22 (eff) - earthmix space _1{115} the voice no _7{96} peach of time _1{44} the voice finland _12{41} f4 thailand _1{34} the voice be _10{30} survivor au _9{21} dancing on ice uk _14{18} 5515 never too late _1{18} rpdru _14{17} 
-- 26/02/22 (eff) - earthmix space _1{117} the voice no _7{98} peach of time _1{44} the voice finland _12{43} f4 thailand _1{34} the voice be _10{31} survivor au _9{21} dancing on ice uk _14{20} 5515 never too late _1{18} rpdru _14{17} rpdr _14{17} 
-- 27/02/22 (eff) - earthmix space _1{119} the voice no _7{100} the voice finland _12{45} peach of time _1{44} f4 thailand _1{34} the voice be _10{31} dancing on ice uk _14{21} survivor au _9{21} rpdru _14{18} 5515 never too late _1{18} rpdr _14{17} 
-- 28/02/22 (eff) - earthmix space _1{121} the voice no _7{102} the voice finland _12{47} peach of time _1{44} f4 thailand _1{34} the voice be _10{31} dancing on ice uk _14{22} survivor au _9{21} rpdru _14{19} rpdr _14{18} 5515 never too late _1{18} 
-- 01/03/22 (eff) - earthmix space _1{124} the voice no _7{105} the voice finland _12{50} peach of time _1{44} f4 thailand _1{34} the voice be _10{32} dancing on ice uk _14{23} survivor au _9{21} rpdru _14{20} rpdr _14{19} 5515 never too late _1{18} 
-- 02/03/22 (eff) - earthmix space _1{127} the voice no _7{108} the voice finland _12{53} peach of time _1{44} f4 thailand _1{35} the voice be _10{33} dancing on ice uk _14{24} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
-- 03/03/22 (eff) - earthmix space _1{129} the voice no _7{110} the voice finland _12{55} peach of time _1{44} f4 thailand _1{35} the voice be _10{34} dancing on ice uk _14{24} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
-- 04/03/22 (eff) - earthmix space _1{131} the voice no _7{112} the voice finland _12{57} peach of time _1{44} the voice be _10{35} f4 thailand _1{35} dancing on ice uk _14{24} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} the voice ph _1{16} 
-- 05/03/22 (eff) - earthmix space _1{133} the voice no _7{114} the voice finland _12{59} peach of time _1{44} the voice be _10{36} f4 thailand _1{35} dancing on ice uk _14{24} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} the voice ph _1{16} 
-- 06/03/22 (eff) - earthmix space _1{135} the voice no _7{116} the voice finland _12{61} peach of time _1{44} the voice be _10{36} f4 thailand _1{35} dancing on ice uk _14{24} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} the voice ph _1{16} 
-- 07/03/22 (eff) - earthmix space _1{137} the voice no _7{118} the voice finland _12{63} peach of time _1{44} the voice be _10{37} f4 thailand _1{35} dancing on ice uk _14{24} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
-- 08/03/22 (eff) - earthmix space _1{138} the voice no _7{121} the voice finland _12{66} peach of time _1{44} the voice be _10{38} f4 thailand _1{35} dancing on ice uk _14{25} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
-- 09/03/22 (eff) - earthmix space _1{139} the voice no _7{123} the voice finland _12{68} peach of time _1{44} the voice be _10{38} f4 thailand _1{35} dancing on ice uk _14{27} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
-- 10/03/22 (eff) - earthmix space _1{140} the voice no _7{125} the voice finland _12{70} peach of time _1{44} the voice be _10{40} f4 thailand _1{35} dancing on ice uk _14{29} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
-- 11/03/22 (eff) - earthmix space _1{141} the voice no _7{127} the voice finland _12{72} peach of time _1{44} the voice be _10{41} f4 thailand _1{35} dancing on ice uk _14{30} rpdru _14{23} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
-- 12/03/22 (eff) - earthmix space _1{142} the voice no _7{129} the voice finland _12{74} peach of time _1{44} the voice be _10{42} f4 thailand _1{35} dancing on ice uk _14{31} rpdru _14{23} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
-- 13/03/22 (eff) - earthmix space _1{143} the voice no _7{131} the voice finland _12{76} peach of time _1{44} the voice be _10{43} f4 thailand _1{35} dancing on ice uk _14{31} rpdru _14{25} survivor au _9{22} rpdr _14{21} 5515 never too late _1{18} 
-- 14/03/22 (eff) - earthmix space _1{144} the voice no _7{133} the voice finland _12{78} the voice be _10{44} peach of time _1{44} f4 thailand _1{35} dancing on ice uk _14{31} rpdru _14{27} rpdr _14{22} survivor au _9{22} 5515 never too late _1{18} 
-- 15/03/22 (eff) - earthmix space _1{145} the voice no _7{136} the voice finland _12{81} the voice be _10{46} peach of time _1{44} f4 thailand _1{35} dancing on ice uk _14{32} rpdru _14{30} rpdr _14{24} survivor au _9{22} 5515 never too late _1{18} 
-- 16/03/22 (eff) - earthmix space _1{146} the voice no _7{138} the voice finland _12{83} the voice be _10{47} peach of time _1{44} f4 thailand _1{35} rpdru _14{32} dancing on ice uk _14{32} rpdr _14{25} survivor au _9{22} 5515 never too late _1{18} 
-- 17/03/22 (eff) - earthmix space _1{147} the voice no _7{140} the voice finland _12{85} the voice be _10{48} peach of time _1{44} f4 thailand _1{35} rpdru _14{34} dancing on ice uk _14{32} rpdr _14{27} survivor au _9{22} 5515 never too late _1{18} 
-- 18/03/22 (eff) - earthmix space _1{148} the voice no _7{142} the voice finland _12{87} the voice be _10{49} peach of time _1{44} f4 thailand _1{35} rpdru _14{34} dancing on ice uk _14{32} rpdr _14{27} survivor au _9{22} 5515 never too late _1{18} 
-- 19/03/22 (eff) - earthmix space _1{150} the voice no _7{144} the voice finland _12{89} the voice be _10{50} peach of time _1{44} f4 thailand _1{35} rpdru _14{34} dancing on ice uk _14{32} rpdr _14{27} survivor au _9{22} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12} 
-- 20/03/22 (eff) - earthmix space _1{152} the voice no _7{146} the voice finland _12{91} the voice be _10{51} peach of time _1{44} f4 thailand _1{35} rpdru _14{34} dancing on ice uk _14{33} rpdr _14{29} survivor au _9{22} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
-- 21/03/22 (eff) - earthmix space _1{154} the voice no _7{148} the voice finland _12{93} the voice be _10{52} peach of time _1{44} rpdru _14{36} f4 thailand _1{35} dancing on ice uk _14{33} rpdr _14{30} survivor au _9{22} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
-- 22/03/22 (eff) - earthmix space _1{157} the voice no _7{151} the voice finland _12{96} the voice be _10{54} peach of time _1{44} rpdru _14{39} f4 thailand _1{35} dancing on ice uk _14{34} rpdr _14{32} survivor au _9{22} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
-- 23/03/22 (eff) - earthmix space _1{159} the voice no _7{153} the voice finland _12{98} the voice be _10{55} peach of time _1{44} rpdru _14{40} dancing on ice uk _14{35} f4 thailand _1{35} rpdr _14{32} survivor au _9{22} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} the voice fr _12{12} 
+- 25/02/22 (eff) - earthmix space _1{115} the voice no _7{96} peach of time _1{44} the voice finland _12{41} f4 thailand _1{34} the voice be _10{30} survivor au _9{21} 5515 never too late _1{18} rpdru _14{17} 
+- 26/02/22 (eff) - earthmix space _1{117} the voice no _7{98} peach of time _1{44} the voice finland _12{43} f4 thailand _1{34} the voice be _10{31} survivor au _9{21} 5515 never too late _1{18} rpdru _14{17} rpdr _14{17} 
+- 27/02/22 (eff) - earthmix space _1{119} the voice no _7{100} the voice finland _12{45} peach of time _1{44} f4 thailand _1{34} the voice be _10{31} survivor au _9{21} rpdru _14{18} 5515 never too late _1{18} rpdr _14{17} 
+- 28/02/22 (eff) - earthmix space _1{121} the voice no _7{102} the voice finland _12{47} peach of time _1{44} f4 thailand _1{34} the voice be _10{31} survivor au _9{21} rpdru _14{19} rpdr _14{18} 5515 never too late _1{18} 
+- 01/03/22 (eff) - earthmix space _1{124} the voice no _7{105} the voice finland _12{50} peach of time _1{44} f4 thailand _1{34} the voice be _10{32} survivor au _9{21} rpdru _14{20} rpdr _14{19} 5515 never too late _1{18} 
+- 02/03/22 (eff) - earthmix space _1{127} the voice no _7{108} the voice finland _12{53} peach of time _1{44} f4 thailand _1{35} the voice be _10{33} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
+- 03/03/22 (eff) - earthmix space _1{129} the voice no _7{110} the voice finland _12{55} peach of time _1{44} f4 thailand _1{35} the voice be _10{34} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
+- 04/03/22 (eff) - earthmix space _1{131} the voice no _7{112} the voice finland _12{57} peach of time _1{44} the voice be _10{35} f4 thailand _1{35} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} the voice ph _1{16} 
+- 05/03/22 (eff) - earthmix space _1{133} the voice no _7{114} the voice finland _12{59} peach of time _1{44} the voice be _10{36} f4 thailand _1{35} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} the voice ph _1{16} 
+- 06/03/22 (eff) - earthmix space _1{135} the voice no _7{116} the voice finland _12{61} peach of time _1{44} the voice be _10{36} f4 thailand _1{35} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} the voice ph _1{16} 
+- 07/03/22 (eff) - earthmix space _1{137} the voice no _7{118} the voice finland _12{63} peach of time _1{44} the voice be _10{37} f4 thailand _1{35} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
+- 08/03/22 (eff) - earthmix space _1{138} the voice no _7{121} the voice finland _12{66} peach of time _1{44} the voice be _10{38} f4 thailand _1{35} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
+- 09/03/22 (eff) - earthmix space _1{139} the voice no _7{123} the voice finland _12{68} peach of time _1{44} the voice be _10{38} f4 thailand _1{35} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
+- 10/03/22 (eff) - earthmix space _1{140} the voice no _7{125} the voice finland _12{70} peach of time _1{44} the voice be _10{40} f4 thailand _1{35} rpdru _14{22} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
+- 11/03/22 (eff) - earthmix space _1{141} the voice no _7{127} the voice finland _12{72} peach of time _1{44} the voice be _10{41} f4 thailand _1{35} rpdru _14{23} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
+- 12/03/22 (eff) - earthmix space _1{142} the voice no _7{129} the voice finland _12{74} peach of time _1{44} the voice be _10{42} f4 thailand _1{35} rpdru _14{23} survivor au _9{22} rpdr _14{20} 5515 never too late _1{18} 
+- 13/03/22 (eff) - earthmix space _1{143} the voice no _7{131} the voice finland _12{76} peach of time _1{44} the voice be _10{43} f4 thailand _1{35} rpdru _14{25} survivor au _9{22} rpdr _14{21} 5515 never too late _1{18} 
+- 14/03/22 (eff) - earthmix space _1{144} the voice no _7{133} the voice finland _12{78} the voice be _10{44} peach of time _1{44} f4 thailand _1{35} rpdru _14{27} rpdr _14{22} survivor au _9{22} 5515 never too late _1{18} 
+- 15/03/22 (eff) - earthmix space _1{145} the voice no _7{136} the voice finland _12{81} the voice be _10{46} peach of time _1{44} f4 thailand _1{35} rpdru _14{30} rpdr _14{24} survivor au _9{22} 5515 never too late _1{18} 
+- 16/03/22 (eff) - earthmix space _1{146} the voice no _7{138} the voice finland _12{83} the voice be _10{47} peach of time _1{44} f4 thailand _1{35} rpdru _14{32} rpdr _14{25} survivor au _9{22} 5515 never too late _1{18} 
+- 17/03/22 (eff) - earthmix space _1{147} the voice no _7{140} the voice finland _12{85} the voice be _10{48} peach of time _1{44} f4 thailand _1{35} rpdru _14{34} rpdr _14{27} survivor au _9{22} 5515 never too late _1{18} 
+- 18/03/22 (eff) - earthmix space _1{148} the voice no _7{142} the voice finland _12{87} the voice be _10{49} peach of time _1{44} f4 thailand _1{35} rpdru _14{34} rpdr _14{27} survivor au _9{22} 5515 never too late _1{18} 
+- 19/03/22 (eff) - earthmix space _1{150} the voice no _7{144} the voice finland _12{89} the voice be _10{50} peach of time _1{44} f4 thailand _1{35} rpdru _14{34} rpdr _14{27} survivor au _9{22} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12} 
+- 20/03/22 (eff) - earthmix space _1{152} the voice no _7{146} the voice finland _12{91} the voice be _10{51} peach of time _1{44} f4 thailand _1{35} rpdru _14{34} rpdr _14{29} survivor au _9{22} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
+- 21/03/22 (eff) - earthmix space _1{154} the voice no _7{148} the voice finland _12{93} the voice be _10{52} peach of time _1{44} rpdru _14{36} f4 thailand _1{35} rpdr _14{30} survivor au _9{22} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
+- 22/03/22 (eff) - earthmix space _1{157} the voice no _7{151} the voice finland _12{96} the voice be _10{54} peach of time _1{44} rpdru _14{39} f4 thailand _1{35} rpdr _14{32} survivor au _9{22} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
+- 23/03/22 (eff) - earthmix space _1{159} the voice no _7{153} the voice finland _12{98} the voice be _10{55} peach of time _1{44} rpdru _14{40} f4 thailand _1{35} rpdr _14{32} survivor au _9{22} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} the voice fr _12{12} 
 
 
 
@@ -720,27 +720,27 @@
 - 19/01/22 - 243* the voice be _10{4} rpdru _14{3} rpdr _14{2} the voice nl _12{2} 
 - 20/01/22 - 221* the voice be _10{6} rpdru _14{3} rpdr _14{2} the voice nl _12{2} 
 - 21/01/22 - 192* meet my angel _2{0} something in my room _1{0} the voice be _10{7} rpdru _14{3} rpdr _14{2} 
-- 22/01/22 - 85* rpdru _14{3} rpdr _14{2} the voice no _7{22} dancing on ice uk _14{0} color rush _2{0} meet my angel _2{2} something in my room _1{2} 
-- 23/01/22 - 99* rpdru _14{5} rpdr _14{4} the voice no _7{24} dancing on ice uk _14{1} color rush _2{0} meet my angel _2{2} 
-- 24/01/22 - 77* the voice ukr _12{0} f4 thailand _1{6} rpdru _14{6} rpdr _14{5} the voice no _7{26} dancing on ice uk _14{1} 
+- 22/01/22 - 85* rpdru _14{3} rpdr _14{2} the voice no _7{22} color rush _2{0} meet my angel _2{2} something in my room _1{2} 
+- 23/01/22 - 99* rpdru _14{5} rpdr _14{4} the voice no _7{24} color rush _2{0} meet my angel _2{2} 
+- 24/01/22 - 77* the voice ukr _12{0} f4 thailand _1{6} rpdru _14{6} rpdr _14{5} the voice no _7{26} 
 - 25/01/22 - 97* love at night _1{0} the voice ukr _12{3} f4 thailand _1{7} rpdru _14{7} rpdr _14{6} the voice no _7{29} 
 - 26/01/22 - 78* the voice ph _1{0} the voice be _10{9} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} rpdru _14{7} rpdr _14{6} 
 - 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} the voice be _10{11} love at night _1{3} the voice ukr _12{4} f4 thailand _1{7} 
-- 28/01/22 - 121* dancing on ice uk _14{2} peach of time _1{33} f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} the voice be _10{12} love at night _1{3} the voice ukr _12{4} 
-- 29/01/22 - 136* the voice no _7{37} the voice finland _12{0} enchante _1{0} dancing on ice uk _14{4} peach of time _1{35} f4 thailand _1{9} something in my room _1{5} the voice ph _1{6} 
-- 30/01/22 - 154* f4 thailand _1{10} rpdru _14{7} rpdr _14{6} the voice no _7{39} the voice finland _12{0} enchante _1{0} dancing on ice uk _14{4} peach of time _1{37} 
+- 28/01/22 - 121* peach of time _1{33} f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} the voice be _10{12} love at night _1{3} the voice ukr _12{4} 
+- 29/01/22 - 136* the voice no _7{37} the voice finland _12{0} enchante _1{0} peach of time _1{35} f4 thailand _1{9} something in my room _1{5} the voice ph _1{6} 
+- 30/01/22 - 154* f4 thailand _1{10} rpdru _14{7} rpdr _14{6} the voice no _7{39} the voice finland _12{0} enchante _1{0} peach of time _1{37} 
 - 31/01/22 - 177* the voice ukr _12{4} the voice finland _12{0} f4 thailand _1{12} rpdru _14{7} rpdr _14{6} the voice no _7{41} enchante _1{0} 
-- 01/02/22 - 143* /9-1-1 lone star _3{2} dancing on ice uk _14{5} survivor au _9{0} the voice ukr _12{5} the voice finland _12{3} f4 thailand _1{14} 
-- 02/02/22 - 97* the voice be _10{15} survivor au _9{1} /9-1-1 lone star _3{5} dancing on ice uk _14{8} the voice ukr _12{6} the voice finland _12{5} 
-- 03/02/22 - 104* survivor au _9{3} the voice be _10{17} /9-1-1 lone star _3{6} dancing on ice uk _14{9} the voice ukr _12{6} 
+- 01/02/22 - 143* /9-1-1 lone star _3{2} survivor au _9{0} the voice ukr _12{5} the voice finland _12{3} f4 thailand _1{14} 
+- 02/02/22 - 97* the voice be _10{15} survivor au _9{1} /9-1-1 lone star _3{5} the voice ukr _12{6} the voice finland _12{5} 
+- 03/02/22 - 104* survivor au _9{3} the voice be _10{17} /9-1-1 lone star _3{6} the voice ukr _12{6} 
 - 04/02/22 - 101* love stage 2022 _1{0} survivor au _9{5} the voice be _10{18} /9-1-1 lone star _3{7} 
 - 05/02/22 - 146* the voice no _7{53} the voice finland _12{5} enchante _1{2} love stage 2022 _1{0} survivor au _9{7} 
 - 06/02/22 - 208* something in my room _1{7} rpdr _14{8} f4 thailand _1{16} the voice no _7{55} the voice finland _12{6} enchante _1{2} 
 - 07/02/22 - 204* survivor au _9{11} the voice ukr _12{6} the voice finland _12{6} meet my angel _2{4} something in my room _1{7} rpdr _14{9} f4 thailand _1{17} 
 - 08/02/22 - 231* survivor au _9{14} the voice ukr _12{7} the voice finland _12{9} meet my angel _2{6} something in my room _1{8} rpdr _14{11} f4 thailand _1{19} 
-- 09/02/22 - 142* the voice be _10{19} dancing on ice uk _14{10} /9-1-1 lone star _3{9} survivor au _9{16} the voice ukr _12{7} the voice finland _12{11} meet my angel _2{7} something in my room _1{8} 
-- 10/02/22 - 147* love stage 2022 _1{1} the voice be _10{21} dancing on ice uk _14{10} /9-1-1 lone star _3{9} survivor au _9{18} the voice ukr _12{7} the voice finland _12{13} meet my angel _2{8} 
-- 11/02/22 - 156* pekin express _15{0} love stage 2022 _1{3} the voice be _10{22} dancing on ice uk _14{10} /9-1-1 lone star _3{9} survivor au _9{18} the voice ukr _12{7} 
+- 09/02/22 - 142* the voice be _10{19} /9-1-1 lone star _3{9} survivor au _9{16} the voice ukr _12{7} the voice finland _12{11} meet my angel _2{7} something in my room _1{8} 
+- 10/02/22 - 147* love stage 2022 _1{1} the voice be _10{21} /9-1-1 lone star _3{9} survivor au _9{18} the voice ukr _12{7} the voice finland _12{13} meet my angel _2{8} 
+- 11/02/22 - 156* pekin express _15{0} love stage 2022 _1{3} the voice be _10{22} /9-1-1 lone star _3{9} survivor au _9{18} the voice ukr _12{7} 
 - 12/02/22 - 216* the voice no _7{68} rpdru _14{9} the voice finland _12{17} enchante _1{3} pekin express _15{0} love stage 2022 _1{3} the voice be _10{22} 
 - 13/02/22 - 210* all of us are dead _1{0} the voice fr _12{0} f4 thailand _1{20} the voice no _7{70} rpdru _14{9} the voice finland _12{19} enchante _1{3} pekin express _15{0} 
 - 14/02/22 - 317* the voice ukr _12{7} the voice finland _12{20} survivor au _9{18} earthmix space _1{92} all of us are dead _1{2} the voice fr _12{0} f4 thailand _1{22} the voice no _7{72} 
@@ -750,10 +750,10 @@
 - 18/02/22 - 156* forcebook show real _1{0} pekin express _15{1} top chef _13{0} the voice be _10{25} love stage 2022 _1{6} 
 - 19/02/22 - 243* rpdru _14{10} rpdr _14{11} the voice no _7{83} the voice finland _12{28} forcebook show real _1{0} pekin express _15{1} top chef _13{0} 
 - 20/02/22 - 199* enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} rpdru _14{12} rpdr _14{13} the voice no _7{85} the voice finland _12{30} forcebook show real _1{0} 
-- 21/02/22 - 190* the voice ukr _12{8} the voice finland _12{32} dancing on ice uk _14{11} enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
-- 22/02/22 - 196* dancing on ice uk _14{14} the voice ukr _12{9} the voice finland _12{37} enchante _1{5} the voice fr _12{2} cutie pie _1{1} something in my room _1{9} 
-- 23/02/22 - 201* koh-lanta _28{0} the voice be _10{26} dancing on ice uk _14{14} the voice ukr _12{9} the voice finland _12{37} enchante _1{5} the voice fr _12{2} cutie pie _1{1} 
-- 24/02/22 - 154* top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} the voice be _10{28} dancing on ice uk _14{16} the voice ukr _12{9} the voice finland _12{39} 
+- 21/02/22 - 190* the voice ukr _12{8} the voice finland _12{32} enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
+- 22/02/22 - 196* the voice ukr _12{9} the voice finland _12{37} enchante _1{5} the voice fr _12{2} cutie pie _1{1} something in my room _1{9} 
+- 23/02/22 - 201* koh-lanta _28{0} the voice be _10{26} the voice ukr _12{9} the voice finland _12{37} enchante _1{5} the voice fr _12{2} cutie pie _1{1} 
+- 24/02/22 - 154* top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} the voice be _10{28} the voice ukr _12{9} the voice finland _12{39} 
 - 25/02/22 - 136* cherry blossoms after winter _1{0} pekin express _15{2} top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} 
 - 26/02/22 - 414* rpdru _14{17} rpdr _14{17} forcebook show real _1{1} earthmix space _1{117} the voice no _7{98} the voice finland _12{43} cherry blossoms after winter _1{0} pekin express _15{2} 
 - 27/02/22 - 324* the voice fr _12{2} cutie pie _1{1} cupids last wish _1{0} rpdru _14{18} rpdr _14{17} forcebook show real _1{1} earthmix space _1{119} the voice no _7{100} the voice finland _12{45} cherry blossoms after winter _1{0} 
@@ -763,12 +763,12 @@
 - 03/03/22 - 160* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} the voice be _10{34} american idol _20{1} 
 - 04/03/22 - 111* pekin express _15{4} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} the voice be _10{35} american idol _20{1} 
 - 05/03/22 - 298* the voice no _7{114} the voice finland _12{59} pekin express _15{5} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} the voice be _10{36} 
-- 06/03/22 - 291* the tuxedo _1{0} the voice fr _12{4} cutie pie _1{3} dancing on ice uk _14{24} the voice kids ger _10{0} the voice no _7{116} the voice finland _12{61} pekin express _15{5} 
-- 07/03/22 - 332* the voice finland _12{63} the tuxedo _1{1} the voice fr _12{5} cutie pie _1{3} dancing on ice uk _14{24} the voice kids ger _10{0} the voice no _7{118} pekin express _15{5} 
-- 08/03/22 - 279* dancing on ice uk _14{25} american idol _20{2} forcebook show real _1{3} the voice finland _12{66} the tuxedo _1{2} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} 
-- 09/03/22 - 313* the voice be _10{38} koh-lanta _28{3} dancing on ice uk _14{27} american idol _20{2} forcebook show real _1{3} the voice finland _12{68} the tuxedo _1{2} the voice fr _12{6} 
-- 10/03/22 - 206* the masked singer _7{0} survivor _42{0} top chef _13{4} rpdru _14{22} rpdr _14{20} the voice be _10{40} koh-lanta _28{3} dancing on ice uk _14{29} american idol _20{2} 
-- 11/03/22 - 152* pekin express _15{6} drag i love you _1{1} the masked singer _7{0} survivor _42{0} top chef _13{4} rpdru _14{23} rpdr _14{20} the voice be _10{41} koh-lanta _28{3} dancing on ice uk _14{30} 
+- 06/03/22 - 291* the tuxedo _1{0} the voice fr _12{4} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{116} the voice finland _12{61} pekin express _15{5} 
+- 07/03/22 - 332* the voice finland _12{63} the tuxedo _1{1} the voice fr _12{5} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{118} pekin express _15{5} 
+- 08/03/22 - 279* american idol _20{2} forcebook show real _1{3} the voice finland _12{66} the tuxedo _1{2} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} 
+- 09/03/22 - 313* the voice be _10{38} koh-lanta _28{3} american idol _20{2} forcebook show real _1{3} the voice finland _12{68} the tuxedo _1{2} the voice fr _12{6} 
+- 10/03/22 - 206* the masked singer _7{0} survivor _42{0} top chef _13{4} rpdru _14{22} rpdr _14{20} the voice be _10{40} koh-lanta _28{3} american idol _20{2} 
+- 11/03/22 - 152* pekin express _15{6} drag i love you _1{1} the masked singer _7{0} survivor _42{0} top chef _13{4} rpdru _14{23} rpdr _14{20} the voice be _10{41} koh-lanta _28{3} 
 - 12/03/22 - 302* rpdru _14{23} rpdr _14{20} the voice no _7{129} the voice finland _12{74} forcebook show real _1{3} pekin express _15{7} drag i love you _1{1} the masked singer _7{0} survivor _42{0} 
 - 13/03/22 - 316* the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} rpdru _14{25} rpdr _14{21} the voice no _7{131} the voice finland _12{76} forcebook show real _1{3} pekin express _15{7} drag i love you _1{1} 
 - 14/03/22 - 413* the voice finland _12{78} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} rpdru _14{27} rpdr _14{22} the voice no _7{133} forcebook show real _1{3} pekin express _15{7} 
@@ -776,9 +776,9 @@
 - 16/03/22 - 482* the voice be _10{47} koh-lanta _28{4} the voice finland _12{83} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdru _14{32} rpdr _14{25} the voice no _7{138} 
 - 17/03/22 - 340* domino masters us _1{0} top chef _13{5} the voice be _10{48} koh-lanta _28{4} the voice finland _12{85} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdru _14{34} rpdr _14{27} 
 - 18/03/22 - 424* earthmix space _1{148} forcebook show real _1{4} pekin express _15{8} domino masters us _1{2} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} the voice be _10{49} koh-lanta _28{4} the voice finland _12{87} the voice fr _12{7} 
-- 19/03/22 - 481* rpdr _14{27} american idol _20{3} the voice no _7{144} the voice finland _12{89} dancing on ice uk _14{32} earthmix space _1{150} forcebook show real _1{6} pekin express _15{9} domino masters us _1{4} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} 
-- 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} rpdru _14{34} rpdr _14{29} american idol _20{4} the voice no _7{146} the voice finland _12{91} dancing on ice uk _14{33} earthmix space _1{152} forcebook show real _1{6}
-- 21/03/22 - 525* american idol _20{4} the voice finland _12{93} the voice kids ger _10{2} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} rpdru _14{36} rpdr _14{30} the voice no _7{148} dancing on ice uk _14{33} earthmix space _1{154} 
-- 22/03/22 - 394* absolute bl _2{0} american idol _20{7} the voice finland _12{96} the voice kids ger _10{3} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} rpdru _14{39} rpdr _14{32} the voice no _7{151} dancing on ice uk _14{34} 
+- 19/03/22 - 481* rpdr _14{27} american idol _20{3} the voice no _7{144} the voice finland _12{89} earthmix space _1{150} forcebook show real _1{6} pekin express _15{9} domino masters us _1{4} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} 
+- 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} rpdru _14{34} rpdr _14{29} american idol _20{4} the voice no _7{146} the voice finland _12{91} earthmix space _1{152} forcebook show real _1{6}
+- 21/03/22 - 525* american idol _20{4} the voice finland _12{93} the voice kids ger _10{2} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} rpdru _14{36} rpdr _14{30} the voice no _7{148} earthmix space _1{154} 
+- 22/03/22 - 394* absolute bl _2{0} american idol _20{7} the voice finland _12{96} the voice kids ger _10{3} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} rpdru _14{39} rpdr _14{32} the voice no _7{151} 
 - 23/03/22 - 248* american idol _20{9} asc _1{0} the voice be _10{55} koh-lanta _28{5} absolute bl _2{0} the voice finland _12{98} the voice kids ger _10{3} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} rpdru _14{40} 
 
