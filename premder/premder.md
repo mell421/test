@@ -37,10 +37,8 @@ The voice no 7x10
 The voice finland 12x3
 Enchante 1x2
 * Love stage 2022 1x1
-Survivor au 9x3
 The voice be 10x6
 /9-1-1 lone star 3x4
-* Survivor au 9x1
 The voice ukr 12x2
 Rpdru 14x4
 Rpdr 14x4

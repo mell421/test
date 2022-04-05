@@ -5,15 +5,15 @@ aEff/aeff.md:- 02/12/20 - 385* be love _1{4}
 aEff/aeff.md:- 03/02/21 - 143* you never eat alone _1{1} slam dance _1{1} be love _1{11} 
 aEff/aeff.md:- 03/03/22 - 160* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} the voice be _10{34} american idol _20{1} 
 aEff/aeff.md:- 03/12/20 - 281* ghost runner _1{0} be love _1{6} 
-aEff/aeff.md:- 04/02/22 - 101* love stage 2022 _1{0} survivor au _9{5} the voice be _10{18} /9-1-1 lone star _3{7} 
+aEff/aeff.md:- 04/02/22 - 101* love stage 2022 _1{0} the voice be _10{18} /9-1-1 lone star _3{7} 
 aEff/aeff.md:- 04/03/22 - 111* pekin express _15{4} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} the voice be _10{35} american idol _20{1} 
 aEff/aeff.md:- 04/12/20 - 239* ghost runner _1{0} be love _1{6} 
 aEff/aeff.md:- 05/03/22 - 298* the voice no _7{114} the voice finland _12{59} pekin express _15{5} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} the voice be _10{36} 
-aEff/aeff.md:- 10/02/22 - 147* love stage 2022 _1{1} the voice be _10{21} /9-1-1 lone star _3{9} survivor au _9{18} the voice ukr _12{7} the voice finland _12{13} meet my angel _2{8} 
-aEff/aeff.md:- 11/02/22 - 156* pekin express _15{0} love stage 2022 _1{3} the voice be _10{22} /9-1-1 lone star _3{9} survivor au _9{18} the voice ukr _12{7} 
+aEff/aeff.md:- 10/02/22 - 147* love stage 2022 _1{1} the voice be _10{21} /9-1-1 lone star _3{9} the voice ukr _12{7} the voice finland _12{13} meet my angel _2{8} 
+aEff/aeff.md:- 11/02/22 - 156* pekin express _15{0} love stage 2022 _1{3} the voice be _10{22} /9-1-1 lone star _3{9} the voice ukr _12{7} 
 aEff/aeff.md:- 11/03/22 - 152* pekin express _15{6} drag i love you _1{1} the masked singer _7{0} survivor _42{0} top chef _13{4} rpdru _14{23} rpdr _14{20} the voice be _10{41} koh-lanta _28{3} 
 aEff/aeff.md:- 12/02/22 - 216* the voice no _7{68} rpdru _14{9} the voice finland _12{17} enchante _1{3} pekin express _15{0} love stage 2022 _1{3} the voice be _10{22} 
-aEff/aeff.md:- 16/02/22 - 282* the voice be _10{24} love stage 2022 _1{4} the voice ukr _12{8} the voice finland _12{25} survivor au _9{21} earthmix space _1{97} all of us are dead _1{7} 
+aEff/aeff.md:- 16/02/22 - 282* the voice be _10{24} love stage 2022 _1{4} the voice ukr _12{8} the voice finland _12{25} earthmix space _1{97} all of us are dead _1{7} 
 aEff/aeff.md:- 16/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 17/02/22 - 203* top chef _13{0} the voice be _10{25} love stage 2022 _1{6} the voice ukr _12{8} the voice finland _12{26} 
 aEff/aeff.md:- 18/02/22 - 156* forcebook show real _1{0} pekin express _15{1} top chef _13{0} the voice be _10{25} love stage 2022 _1{6} 
