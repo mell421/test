@@ -59,6 +59,6 @@ if (VERSION > 3) {
   <input type="button" value="test" onClick="execAppli('date.sh')">
   </script> 
   <script src="js/lastCommit.js"></script>
-  author : M.E https://bouncingdvdlogo.com
+  author : M.E <a href="https://bouncingdvdlogo.com" target="_blank">fin</a>
 </div>
 `)
