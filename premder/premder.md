@@ -40,7 +40,6 @@ Enchante 1x2
 The voice be 10x6
 /9-1-1 lone star 3x4
 The voice ukr 12x2
-Rpdru 14x4
 Rpdr 14x4
 * The voice finland 12x1
 * Enchante 1x1
@@ -55,7 +54,6 @@ The voice ph 1x4
 * Something in my room 1x1
 The voice nl 12x2
 Earthmix space 1x10
-* Rpdru 14x1
 * Rpdr 14x1
 * The voice nl 12x1
 * The voice no 7x1

@@ -18,7 +18,6 @@ apercu/apercuglobal.md:* concluBis 27/12/21 = The player _1 > 3; Earthmix space 
 apercu/apercuglobal.md:* concluBis 28/12/21 = The player _1 > 2; Earthmix space _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 29/12/21 = You are my sunshine _1 > 2; Forever knight _1 > 1; 
 apercuTer/apercuTer.md:* You are my sunshine _1
-index.html:            you are my sunshine _1</td>
 tab2021.html:    <td class="conclu">You are my sunshine _1 > 1; </td>
 tab2021.html:    <td class="conclubis">The player _1 > 2; Earthmix space _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; </td>
 tab2021.html:    <td class="conclubis">The player _1 > 3; Earthmix space _1 > 2; You are my sunshine _1 > 2; Forever knight _1 > 1; </td>

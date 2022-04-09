@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 100
-"Earthmix space _1" "The voice no _7" "The voice finland _12" "Peach of time _1" "The voice be _10" "5515 never too late _1" "Rpdru _14" "F4 thailand _1" "Rpdr _14" 
+"Earthmix space _1" "The voice no _7" "The voice finland _12" "Peach of time _1" "The voice be _10" "5515 never too late _1" "F4 thailand _1" "Rpdr _14" 
 # 99-50
 "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
@@ -29,7 +29,7 @@ list99=(
 # 3-2
 "Drag race esp _2" "Dear doctor _1" "The voice kids vv _6" "Clem _12" "Banana fish _1" 
 # 0-1
-
+"The masked singer fr _3" 
 # other
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
 "Good singers _1" "Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
@@ -41,9 +41,9 @@ list99=(
 
 listAsc=( 
 # 1
-"The voice kids poland _5" "The voice finland _12" "Drag race esp _2" "Clem _12" "The voice fr _12" 
+"The masked singer fr _3"  "The voice kids poland _5" "The voice finland _12" "Drag race esp _2" "Clem _12" "The voice fr _12" 
 # 2
-"Cutie pie _1" "Dear doctor _1" "The voice kids ger _10" "The voice kids vv _6" "Rpdru _14" 
+"Cutie pie _1" "Dear doctor _1" "The voice kids ger _10" "The voice kids vv _6" 
 # 3
 "Rpdr _14" "Forcebook show real _1" "The voice no _7" "Pekin express _15" "The masked singer _7" 
 # 4
@@ -92,7 +92,7 @@ listAV=(
 # fev
 # mar
 # avr
-"The masked singer fr _3" 
+
 "" "" "" "" "" )
 
 listOld=( "Capture lover _1" "Lakan _1" "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" 

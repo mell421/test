@@ -136,7 +136,7 @@
 - sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
 - sem 27-12-2021 -> The player _1x3(2) You are my sunshine _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1)
 - sem 03-01-2022 -> Young sheldon _5x6(2) The voice be _10x2(1) 5515 never too late _1x5(1) 
-- sem 10-01-2022 -> F4 thailand _1x4(1) Rpdru _14x2(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
+- sem 10-01-2022 -> F4 thailand _1x4(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
 
 
 
@@ -525,7 +525,7 @@
 * concluBis 12/01/22 = The voice no _7 > 1; Forever knight _1 > 1; 
 * concluBis 13/01/22 = Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 14/01/22 = Forever knight _1 > 3; Imortal _1 > 2; Earthmix space _1 > 1; 
-* concluBis 15/01/22 = Earthmix space _1 > 8; The voice no _7 > 4; Forever knight _1 > 2; Rpdru _14 > 1; Imortal _1 > 1; 
+* concluBis 15/01/22 = Earthmix space _1 > 8; The voice no _7 > 4; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 16/01/22 = Earthmix space _1 > 6; The voice no _7 > 4; Forever knight _1 > 1; 
 
 
