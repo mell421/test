@@ -43,9 +43,9 @@
 - sem 09-08-2021 Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - sem 23-08-2021 From dusk till dawn _2x5(1) 
 - sem 30-08-2021 Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
-- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
-- sem 13-09-2021 Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
-- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Peach of time _1x7(1) 7project _1x4(1) 
+- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) 7project _1x2(1) Camping paradis _12x5(1) 
+- sem 13-09-2021 Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) 
+- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) 7project _1x4(1) 
 - sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 - sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) 
@@ -75,8 +75,8 @@
 - mois 01-06-2021 Dark blue kiss _1x2(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 - mois 01-07-2021 Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 - mois 01-08-2021 /46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+- mois 01-09-2021 7project _1x2(1) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 - mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 - mois 01-12-2021 -> Earthmix space _1x7(2) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
@@ -148,14 +148,6 @@
 * conclu 27/07/21 = Forever knight _1 > 1; 
 * conclu 28/07/21 = Forever knight _1 > 1; 
 * conclu 11/08/21 = Control z _2 > 1; 
-* conclu 01/09/21 = Peach of time _1 > 2; 
-* conclu 02/09/21 = Peach of time _1 > 2; 
-* conclu 03/09/21 = Peach of time _1 > 2; 
-* conclu 04/09/21 = Peach of time _1 > 2; 
-* conclu 05/09/21 = Peach of time _1 > 2; 
-* conclu 06/09/21 = Peach of time _1 > 2; 
-* conclu 07/09/21 = Peach of time _1 > 2; 
-* conclu 08/09/21 = Peach of time _1 > 2; 
 * conclu 13/09/21 = Buffy _1 > 1; 
 * conclu 01/10/21 = /9-1-1 _5 > 2; 
 * conclu 17/10/21 = Aoki vuanpaia no nayami _1 > 1; 
@@ -293,26 +285,15 @@
 * concluBis 24/08/21 = From dusk till dawn _2 > 1; 
 * concluBis 25/08/21 = From dusk till dawn _2 > 1; 
 * concluBis 26/08/21 = Post mortem _1 > 1; 
-* concluBis 31/08/21 = Peach of time _1 > 2; 
-* concluBis 01/09/21 = Peach of time _1 > 4; 
-* concluBis 02/09/21 = Peach of time _1 > 4; 
-* concluBis 03/09/21 = Peach of time _1 > 4; 
-* concluBis 04/09/21 = Peach of time _1 > 4; 
-* concluBis 05/09/21 = Peach of time _1 > 4; 
-* concluBis 06/09/21 = Peach of time _1 > 4; 
-* concluBis 07/09/21 = Peach of time _1 > 6; Vwars _1 > 1; 
-* concluBis 08/09/21 = Peach of time _1 > 5; 
-* concluBis 10/09/21 = Peach of time _1 > 1; 
-* concluBis 13/09/21 = Buffy _1 > 3; Peach of time _1 > 2; 
-* concluBis 14/09/21 = Peach of time _1 > 4; 7project _1 > 1; 
-* concluBis 15/09/21 = Peach of time _1 > 2; 
-* concluBis 16/09/21 = Peach of time _1 > 1; 
-* concluBis 17/09/21 = Peach of time _1 > 2; Forever knight _1 > 2; Buffy _1 > 1; Imortal _1 > 1; 
-* concluBis 18/09/21 = Peach of time _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 19/09/21 = Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 20/09/21 = Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 21/09/21 = Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 22/09/21 = Peach of time _1 > 2; Forever knight _1 > 1; 
+* concluBis 07/09/21 = Vwars _1 > 1; 
+* concluBis 13/09/21 = Buffy _1 > 3; 
+* concluBis 14/09/21 = 7project _1 > 1; 
+* concluBis 17/09/21 = Forever knight _1 > 2; Buffy _1 > 1; Imortal _1 > 1; 
+* concluBis 18/09/21 = Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 19/09/21 = Forever knight _1 > 1; 
+* concluBis 20/09/21 = Forever knight _1 > 1; 
+* concluBis 21/09/21 = Forever knight _1 > 1; 
+* concluBis 22/09/21 = Forever knight _1 > 1; 
 * concluBis 01/10/21 = /9-1-1 _5 > 4; 
 * concluBis 12/10/21 = Love area _1 > 1; 
 * concluBis 15/10/21 = Forever knight _1 > 1; 

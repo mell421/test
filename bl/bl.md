@@ -235,6 +235,7 @@
 |not me 1||14|||<!-- 20/3 -->
 |semantic error|semantic error|8|serie|corée|<!-- -->
 |absolute BL 2|absolute bl 2|6|serie|japon|                         <!--  -->
+|peach of time|peach of time|10|serie|corée-thailande|        <!-- 38 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -280,7 +281,6 @@
 |46 days|46 days|18|serie(**)|thailande|6|                      <!-- 35 -->
 |the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
 |bite me|bite me|?|serie|thailande|2|                           <!-- 37 -->
-|peach of time|peach of time|10|serie|corée-thailande|6|        <!-- 38 -->
 |7 project|7project|7|serie(bl/gl/het)|thailande|4|             <!-- 39 -->
 |EMS|earth mix space|?|show|thailande|8|                        <!-- 40 -->
 |Alice in borderland|alice in borderland|8|serie(**)|japon|1|   <!-- 41 -->

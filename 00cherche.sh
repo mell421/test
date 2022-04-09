@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 100
-"Earthmix space _1" "The voice no _7" "The voice finland _12" "Peach of time _1" "The voice be _10" "5515 never too late _1" "F4 thailand _1" "Rpdr _14" 
+"Earthmix space _1" "The voice no _7" "The voice finland _12" "The voice be _10" "5515 never too late _1" "F4 thailand _1" "Rpdr _14" 
 # 99-50
 "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
@@ -55,7 +55,7 @@ listAsc=(
 # 7
 "The voice ukr _12" "Enchante _1" "Something in my room _1" "F4 thailand _1" "Love stage 2022 _1" 
 # 8
-"All of us are dead _1" "/9-1-1 lone star _3" "Meet my angel _2" "Peach of time _1" 
+"All of us are dead _1" "/9-1-1 lone star _3" "Meet my angel _2" 
 # 9
 "The voice ph _1" "Love at night _1" "Color rush _2" "The voice nl _12" "Young sheldon _5" 
 # 10

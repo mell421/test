@@ -102,9 +102,9 @@ Aperçu semaine
 - sem 09-08-2021 Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - sem 23-08-2021 From dusk till dawn _2x5(1) 
 - sem 30-08-2021 Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
-- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) 
-- sem 13-09-2021 Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) Peach of time _1x6(2) 7project _1x3(1) 
-- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) Peach of time _1x7(1) 7project _1x4(1) 
+- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) 7project _1x2(1) Camping paradis _12x5(1) 
+- sem 13-09-2021 Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) 
+- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) 7project _1x4(1) 
 - sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 - sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Young sheldon _5x2(1) 
@@ -153,8 +153,8 @@ Aperçu mois
 - mois 01-06-2021 Dark blue kiss _1x2(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 - mois 01-07-2021 Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 - mois 01-08-2021 /46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-- mois 01-09-2021 7project _1x2(1) Peach of time _1x4(3) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Peach of time _1x7(3) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+- mois 01-09-2021 7project _1x2(1) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) The shipper _1x6(1) 
 mois 01-12-2021 -> Earthmix space _1x7(2) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
@@ -235,14 +235,6 @@ mois 01-12-2021 -> Earthmix space _1x7(2) Baker boys _1x3(2) Les engages _3x2(1)
 * conclu 27/07/21 = Forever knight _1 > 1; 
 * conclu 28/07/21 = Forever knight _1 > 1; 
 * conclu 11/08/21 = Control z _2 > 1; 
-* conclu 01/09/21 = Peach of time _1 > 2; 
-* conclu 02/09/21 = Peach of time _1 > 2; 
-* conclu 03/09/21 = Peach of time _1 > 2; 
-* conclu 04/09/21 = Peach of time _1 > 2; 
-* conclu 05/09/21 = Peach of time _1 > 2; 
-* conclu 06/09/21 = Peach of time _1 > 2; 
-* conclu 07/09/21 = Peach of time _1 > 2; 
-* conclu 08/09/21 = Peach of time _1 > 2; 
 * conclu 13/09/21 = Buffy _1 > 1; 
 * conclu 01/10/21 = /9-1-1 _5 > 2; 
 * conclu 17/10/21 = Aoki vuanpaia no nayami _1 > 1; 
@@ -263,10 +255,8 @@ conclu 23/12/21 = You are my sunshine _1 > 1;
 conclu 27/12/21 = The player _1 > 1; 
 conclu 01/01/22 = Earthmix space _1 > 1; 
 conclu 02/01/22 = Earthmix space _1 > 1; 
-conclu 07/01/22 = 
 conclu 08/01/22 = The voice no _7 > 3; 
 conclu 09/01/22 = The voice no _7 > 1; 
-conclu 13/01/22 = 
 conclu 14/01/22 = Forever knight _1 > 1; 
 conclu 15/01/22 = Earthmix space _1 > 4; The voice no _7 > 2; 
 conclu 16/01/22 = Earthmix space _1 > 2; The voice no _7 > 2; 
@@ -321,7 +311,6 @@ conclu 16/01/22 = Earthmix space _1 > 2; The voice no _7 > 2;
 * concluBis 31/01/21 > Be love _1 > 1; 
 * concluBis 01/02/21 > Be love _1 > 1; 
 * concluBis 02/02/21 > You never eat alone _1 > 2; Slam dance _1 > 1; 
-* concluBis 08/02/21 > 
 * concluBis 10/02/21 > The harvest season _1 > 4; Wabi show _1 > 3; 
 * concluBis 11/02/21 > The harvest season _1 > 5; Wabi show _1 > 2; 
 * concluBis 12/02/21 > The harvest season _1 > 5; Wabi show _1 > 3; 
@@ -411,26 +400,26 @@ conclu 16/01/22 = Earthmix space _1 > 2; The voice no _7 > 2;
 * concluBis 24/08/21 = From dusk till dawn _2 > 1; 
 * concluBis 25/08/21 = From dusk till dawn _2 > 1; 
 * concluBis 26/08/21 = Post mortem _1 > 1; 
-* concluBis 31/08/21 = Peach of time _1 > 2; 
-* concluBis 01/09/21 = Peach of time _1 > 4; 
-* concluBis 02/09/21 = Peach of time _1 > 4; 
-* concluBis 03/09/21 = Peach of time _1 > 4; 
-* concluBis 04/09/21 = Peach of time _1 > 4; 
-* concluBis 05/09/21 = Peach of time _1 > 4; 
-* concluBis 06/09/21 = Peach of time _1 > 4; 
-* concluBis 07/09/21 = Peach of time _1 > 6; Vwars _1 > 1; 
-* concluBis 08/09/21 = Peach of time _1 > 5; 
-* concluBis 10/09/21 = Peach of time _1 > 1; 
-* concluBis 13/09/21 = Buffy _1 > 3; Peach of time _1 > 2; 
-* concluBis 14/09/21 = Peach of time _1 > 4; 7project _1 > 1; 
-* concluBis 15/09/21 = Peach of time _1 > 2; 
-* concluBis 16/09/21 = Peach of time _1 > 1; 
-* concluBis 17/09/21 = Peach of time _1 > 2; Forever knight _1 > 2; Buffy _1 > 1; Imortal _1 > 1; 
-* concluBis 18/09/21 = Peach of time _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 19/09/21 = Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 20/09/21 = Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 21/09/21 = Peach of time _1 > 2; Forever knight _1 > 1; 
-* concluBis 22/09/21 = Peach of time _1 > 2; Forever knight _1 > 1; 
+* concluBis 31/08/21 = 
+* concluBis 01/09/21 = 
+* concluBis 02/09/21 = 
+* concluBis 03/09/21 = 
+* concluBis 04/09/21 = 
+* concluBis 05/09/21 = 
+* concluBis 06/09/21 = 
+* concluBis 07/09/21 = Vwars _1 > 1; 
+* concluBis 08/09/21 = 
+* concluBis 10/09/21 = 
+* concluBis 13/09/21 = Buffy _1 > 3; 
+* concluBis 14/09/21 = 7project _1 > 1; 
+* concluBis 15/09/21 = 
+* concluBis 16/09/21 = 
+* concluBis 17/09/21 = Forever knight _1 > 2; Buffy _1 > 1; Imortal _1 > 1; 
+* concluBis 18/09/21 = Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 19/09/21 = Forever knight _1 > 1; 
+* concluBis 20/09/21 = Forever knight _1 > 1; 
+* concluBis 21/09/21 = Forever knight _1 > 1; 
+* concluBis 22/09/21 = Forever knight _1 > 1; 
 * concluBis 01/10/21 = /9-1-1 _5 > 4; 
 * concluBis 12/10/21 = Love area _1 > 1; 
 * concluBis 15/10/21 = Forever knight _1 > 1; 
@@ -715,61 +704,54 @@ concluBis 16/01/22 = Earthmix space _1 > 6; The voice no _7 > 4; Forever knight 
 03/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
 04/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} 
 05/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} the harvest season _1{16} elite _4{15} 
-06/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} peach of time _1{13} 
-07/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} peach of time _1{15} elite _4{15} 
-08/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} peach of time _1{17} vincenzo _1{16} elite _4{15} 
-09/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} 
-10/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} peach of time _1{19} vincenzo _1{16} elite _4{15} 
-11/09/21 (eff) - /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-12/09/21 (eff) - /46 days _1{46} peach of time _1{20} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-13/09/21 (eff) - /46 days _1{46} peach of time _1{21} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-14/09/21 (eff) - /46 days _1{46} peach of time _1{22} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-15/09/21 (eff) - /46 days _1{46} peach of time _1{23} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-16/09/21 (eff) - /46 days _1{46} peach of time _1{24} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-17/09/21 (eff) - /46 days _1{46} peach of time _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-18/09/21 (eff) - /46 days _1{46} peach of time _1{26} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-19/09/21 (eff) - /46 days _1{46} peach of time _1{27} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-20/09/21 (eff) - /46 days _1{46} peach of time _1{29} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-21/09/21 (eff) - /46 days _1{46} peach of time _1{30} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
-22/09/21 (eff) - /46 days _1{46} peach of time _1{31} from dusk till dawn _2{20} vwars _1{8} 
-23/09/21 (eff) - /46 days _1{46} peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} 
-24/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-25/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-26/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-27/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-28/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-29/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-30/09/21 (eff) - peach of time _1{32} from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
-01/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-02/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-03/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-04/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-05/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-06/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-07/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-08/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-09/10/21 (eff) - peach of time _1{33} vwars _1{9} 
-10/10/21 (eff) - peach of time _1{33} vwars _1{9} camping paradis _12{8} 
-11/10/21 (eff) - peach of time _1{33} vwars _1{9} 
-12/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-13/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-14/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-15/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-16/10/21 (eff) - /46 days _1{46} peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} 
-17/10/21 (eff) - peach of time _1{33} from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
-18/10/21 (eff) - peach of time _1{33} vwars _1{9} 
-19/10/21 (eff) - peach of time _1{33} vwars _1{9} 
-20/10/21 (eff) - peach of time _1{33} vwars _1{9} 
-21/10/21 (eff) - peach of time _1{33} vwars _1{9} 
-22/10/21 (eff) - peach of time _1{33} 
-23/10/21 (eff) - peach of time _1{33} 
-24/10/21 (eff) - peach of time _1{33} 
-25/10/21 (eff) - peach of time _1{33} 
-26/10/21 (eff) - peach of time _1{33} 
-27/10/21 (eff) - peach of time _1{33} 
-28/10/21 (eff) - peach of time _1{33} 
-29/10/21 (eff) - peach of time _1{33} tbbt _11{8} 
-30/10/21 (eff) - peach of time _1{33} tbbt _11{10} 
+06/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+07/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+08/09/21 (eff) - /46 days _1{46} my vampire boyfriend _1{25} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+09/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+10/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+11/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+12/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+13/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+14/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+15/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+16/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+17/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+18/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+19/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+20/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+21/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vincenzo _1{16} elite _4{15} 
+22/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vwars _1{8} 
+23/09/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vwars _1{8} 
+24/09/21 (eff) - from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+25/09/21 (eff) - from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+26/09/21 (eff) - from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+27/09/21 (eff) - from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+28/09/21 (eff) - from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+29/09/21 (eff) - from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+30/09/21 (eff) - from dusk till dawn _2{20} vwars _1{8} camping paradis _12{8} 
+01/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+02/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+03/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+04/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+05/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+06/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+07/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+08/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+09/10/21 (eff) - vwars _1{9} 
+10/10/21 (eff) - vwars _1{9} camping paradis _12{8} 
+11/10/21 (eff) - vwars _1{9} 
+12/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+13/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+14/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+15/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} 
+16/10/21 (eff) - /46 days _1{46} from dusk till dawn _2{20} vwars _1{9} 
+17/10/21 (eff) - from dusk till dawn _2{20} vwars _1{9} camping paradis _12{8} 
+18/10/21 (eff) - vwars _1{9} 
+19/10/21 (eff) - vwars _1{9} 
+20/10/21 (eff) - vwars _1{9} 
+21/10/21 (eff) - vwars _1{9} 
+29/10/21 (eff) - tbbt _11{8} 
+30/10/21 (eff) - tbbt _11{10} 
 31/10/21 (eff) - tbbt _11{11} 
 01/11/21 (eff) - tbbt _11{13} 
 02/11/21 (eff) - tbbt _11{13} 
@@ -1008,25 +990,24 @@ concluBis 16/01/22 = Earthmix space _1 > 6; The voice no _7 > 4; Forever knight 
 28/08/21 - the yearbook _1{0} 
 29/08/21 - the yearbook _1{0} 
 30/08/21 - bite me _1{1} the yearbook _1{1} 
-31/08/21 - camping paradis _12{6} peach of time _1{0} bite me _1{1} the yearbook _1{1} 
-01/09/21 - 7project _1{1} peach of time _1{2} camping paradis _12{7} bite me _1{2} 
-02/09/21 - 7project _1{1} peach of time _1{4} camping paradis _12{7} 
-03/09/21 - 7project _1{1} peach of time _1{6} 
-04/09/21 - 7project _1{1} peach of time _1{8} 
-05/09/21 - qforce _1{0} 7project _1{1} peach of time _1{10} 
+31/08/21 - camping paradis _12{6} bite me _1{1} the yearbook _1{1} 
+01/09/21 - 7project _1{1} camping paradis _12{7} bite me _1{2} 
+02/09/21 - 7project _1{1} camping paradis _12{7} 
+03/09/21 - 7project _1{1} 
+04/09/21 - 7project _1{1} 
+05/09/21 - qforce _1{0} 7project _1{1} 
 06/09/21 - vwars _1{7} qforce _1{1} 
-07/09/21 - peach of time _1{15} vwars _1{7} qforce _1{1} 
-08/09/21 - peach of time _1{17} 7project _1{2} vwars _1{8} qforce _1{1} 
-09/09/21 - peach of time _1{19} 7project _1{2} vwars _1{8} qforce _1{1} 
-10/09/21 - bite me _1{2} peach of time _1{19} 7project _1{2} vwars _1{8} 
+07/09/21 - vwars _1{7} qforce _1{1} 
+08/09/21 - 7project _1{2} vwars _1{8} qforce _1{1} 
+09/09/21 - 7project _1{2} vwars _1{8} qforce _1{1} 
+10/09/21 - bite me _1{2} 7project _1{2} vwars _1{8} 
 11/09/21 - earthmix space _1{0} lucifer _4{4} bite me _1{2} 
 12/09/21 - earthmix space _1{0} lucifer _4{4} bite me _1{2} 
 13/09/21 - buffy _1{1} earthmix space _1{1} lucifer _4{5} bite me _1{3} 
-14/09/21 - peach of time _1{22} 7project _1{3} buffy _1{3} earthmix space _1{1} lucifer _4{5} 
-15/09/21 - peach of time _1{23} 7project _1{4} buffy _1{3} 
-16/09/21 - peach of time _1{24} 7project _1{4} buffy _1{3} 
-17/09/21 - peach of time _1{25} 7project _1{4} buffy _1{3} 
-18/09/21 - peach of time _1{26} 
+14/09/21 - 7project _1{3} buffy _1{3} earthmix space _1{1} lucifer _4{5} 
+15/09/21 - 7project _1{4} buffy _1{3} 
+16/09/21 - 7project _1{4} buffy _1{3} 
+17/09/21 - 7project _1{4} buffy _1{3} 
 19/09/21 - alice in borderland _1{0} 
 20/09/21 - post mortem _1{4} alice in borderland _1{1} 
 21/09/21 - /9-1-1 _5{0} post mortem _1{4} 

@@ -43,7 +43,6 @@ The voice ukr 12x2
 Rpdr 14x4
 * The voice finland 12x1
 * Enchante 1x1
-Peach of time 1x7
 Something in my room 1x2
 The voice ph 1x4
 * The voice ph 1x1
@@ -104,7 +103,6 @@ Bite me 1x2
 Vwars 1x7
 * Qforce 1x1
 * 7project 1x1
-* Peach of time 1x1
 * Bite me 1x1
 * The yearbook 1x1
 * Post mortem 1x1
