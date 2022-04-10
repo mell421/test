@@ -806,6 +806,8 @@
 * Dancing on ice uk _14
 ### sem 11-04-2022 
 * *insererici*
+* Lol fr _2
+* Lol fr _1
 * Peach of time _1
 * Rpdru _14
 * Survivor au _9
@@ -823,59 +825,67 @@
 * Mental _2
 * The good doctor _5
 * Nilundon _1
-* The masked singer fr _3
 * First love again _1
-* Domino masters _1
-* Survivor _42
-* The masked singer _7
-* American song contest _1
-* Queen stars brasil _1
-* Name that tune _2
 * Bgt _15
-* Drag race esp _2
 * Unforgotten night _1
 * 
 * Survivor _26
 * Survivor _27
 * Survivor _28
 * 
-* Cherry blossom after winter _1
-* The tuxedo _1
-* Cupids last wish _1
-* 
-* Top chef _13
-* 
-* Koh-lanta _28
-* The voice _12
-* Cutie pie _1
-* Pekin express _15
-* 
 * 
 * $ a classer $
 * Unbag _1 (23/12/21)
 * 
 * $ order $
-* F4 thailand _1
+* 
+* The voice kids poland _5
+* The voice kids ger _10
+* The voice fr _12
+* Trivia quest _1
+* Cutie pie _1
+* Rpdr _14
 * The voice no _7
 * The voice finland _12
-* Enchante _1
-* Love stage 2022 _1
-* 
+* The voice kids vv _6
+* The masked singer fr _3
+* The masked singer _7
+* Forcebook show real _1
+* Earthmix space _1
+* Star in my mind _1
+* Pekin express _15
+* Queen stars brazil _1
+* Asc _1
+* Top chef _13
+* Dear doctor _1
 * The voice be _10
-* /9-1-1 lone star _3
-* 
+* Koh-lanta _28
+* American idol _20
+* Clem _12
+* Domino masters us _1
+* Drag race esp _2
+* Kinnporsche _1
+* Name that tune _2
+* Enchante _1
+* Quaranthings _2
+* Ohmnanon upvel _1
+* The masked singer ger _6
+* Cupids last wish _1
+* Drag i love you _1
+* Survivor _42
+* The tuxedo _1
+* Cherry blossom after winter _1
 * The voice ukr _12
-* 
-* 
-* Rpdr _14
-* 
 * Something in my room _1
+* F4 thailand _1
+* Love stage 2022 _1
+* All of us are dead _1
+* /9-1-1 lone star _3
+* Meet my angel _2
 * The voice ph _1
 * Love at night _1
 * Color rush _1
-* Meet my angel _2
 * The voice nl _12
-* Earthmix space _1
 * Young sheldon _5
 * 5515 never too late _1
 * The player _1
@@ -996,7 +1006,7 @@
 #### mois 01-04-2022 
 *insererici Absolute bl _2 Dancing on ice uk _14 Survivor _25 Semantic error _1 Is it cake _1 Not me _1 The masked singer vv _2 Skam france _9 Survivor _24 Agt extreme _1 The voice generations lithu _1 Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*
 #### mois 01-05-2022 
-*insererici Peach of time _1 Rpdru _14 Survivor au _9*
+*insererici Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
 *insererici*
 
