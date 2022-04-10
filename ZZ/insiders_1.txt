@@ -2,6 +2,8 @@ aEff/aeff.md:- 22/10/21 - 677* insiders _1{0} age of the living dead _1{0}
 aEff/aeff.md:- 23/10/21 - 687* earthmix space _1{4} insiders _1{0} 
 apercu/apercu21.md:- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) Age of the living dead _1x2(1) 
+apercu/apercuglobal.md:- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+apercu/apercuglobal.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) Age of the living dead _1x2(1) 
 apercuTer/apercuTer.md:* Insiders _1
-tab2021.html:      Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) The shipper _1x6(1) </td>
+tab2021.html:      Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) The shipper _1x6(1) </td>
 tab2021.html:    <td class="resumesem">Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) 

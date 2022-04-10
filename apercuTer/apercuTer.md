@@ -122,6 +122,13 @@
     - [sem 14-02-2022](#sem-14-02-2022)
     - [sem 21-02-2022](#sem-21-02-2022)
     - [sem 28-02-2022](#sem-28-02-2022)
+    - [sem 07-03-2022](#sem-07-03-2022)
+    - [sem 14-03-2022](#sem-14-03-2022)
+    - [sem 21-03-2022](#sem-21-03-2022)
+    - [sem 28-03-2022](#sem-28-03-2022)
+    - [sem 04-04-2022](#sem-04-04-2022)
+    - [sem 11-04-2022](#sem-11-04-2022)
+    - [sem 18-04-2022](#sem-18-04-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -151,6 +158,9 @@
       - [mois 01-01-2022](#mois-01-01-2022)
       - [mois 01-02-2022](#mois-01-02-2022)
       - [mois 01-03-2022](#mois-01-03-2022)
+      - [mois 01-04-2022](#mois-01-04-2022)
+      - [mois 01-05-2022](#mois-01-05-2022)
+      - [mois 01-06-2022](#mois-01-06-2022)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -765,7 +775,44 @@
 * Survivor _20
 ### sem 28-02-2022 
 * *insererici*
-
+* Kissable lips _1
+* The voice lithu _8
+### sem 07-03-2022 
+* *insererici*
+* The voice poland _12
+* Next level chef _1
+* Survivor _23
+### sem 14-03-2022 
+* *insererici*
+* Icsyv _2
+* Survivor sa _7
+* Rpdrukvstheworld _1
+### sem 21-03-2022 
+* *insererici*
+* Not me _1
+* The masked singer vv _2
+* Skam france _9
+* Survivor _24
+* Agt extreme _1
+* The voice generations lithu _1
+### sem 28-03-2022 
+* *insererici*
+* Survivor _25
+* Semantic error _1
+* Is it cake _1
+### sem 04-04-2022 
+* *insererici*
+* Absolute bl _2
+* Dancing on ice uk _14
+### sem 11-04-2022 
+* *insererici*
+* Lol fr _2
+* Lol fr _1
+* Peach of time _1
+* Rpdru _14
+* Survivor au _9
+### sem 18-04-2022 
+* *insererici*
 
 
 
@@ -778,66 +825,67 @@
 * Mental _2
 * The good doctor _5
 * Nilundon _1
-* The masked singer fr _3
-* 
-* Survivor _23
-* Survivor _24
-* Pekin express _15
 * First love again _1
-* Cutie pie _1
-* The voice _12
-* Semantic error _1
-* Top chef _13
-* Agt extrem _1
-* Koh-lanta _28
-* Cherry blossom after winter _1
-* The tuxedo _1
-* Domino masters _1
-* Survivor _42
-* The masked singer _7
-* American song contest _1
-* Queen stars brasil _1
-* Name that tune _2
-* Cupids last wish _1
 * Bgt _15
-* Drag race esp _2
 * Unforgotten night _1
 * 
+* Survivor _26
+* Survivor _27
+* Survivor _28
 * 
 * 
 * $ a classer $
 * Unbag _1 (23/12/21)
 * 
 * $ order $
-* F4 thailand _1
-* The voice no _7
-* The masked singer vv _2
-* The voice finland _12
-* Kissable lips _1
-* Enchante _1
-* Love stage 2022 _1
-* Next level chef _1
-* Icsyv _2
-* The voice generations lithu _1
-* Survivor au _9
-* Rpdrukvstheworld _1
-* The voice be _10
-* Skam france _9
-* /9-1-1 lone star _3
-* Dancing on ice uk _14
-* The voice ukr _12
-* Not me _1
-* Rpdru _14
+* 
+* The voice kids poland _5
+* The voice kids ger _10
+* The voice fr _12
+* Trivia quest _1
+* Cutie pie _1
 * Rpdr _14
-* Peach of time _1
+* The voice no _7
+* The voice finland _12
+* The voice kids vv _6
+* The masked singer fr _3
+* The masked singer _7
+* Forcebook show real _1
+* Earthmix space _1
+* Star in my mind _1
+* Pekin express _15
+* Queen stars brazil _1
+* Asc _1
+* Top chef _13
+* Dear doctor _1
+* The voice be _10
+* Koh-lanta _28
+* American idol _20
+* Clem _12
+* Domino masters us _1
+* Drag race esp _2
+* Kinnporsche _1
+* Name that tune _2
+* Enchante _1
+* Quaranthings _2
+* Ohmnanon upvel _1
+* The masked singer ger _6
+* Cupids last wish _1
+* Drag i love you _1
+* Survivor _42
+* The tuxedo _1
+* Cherry blossom after winter _1
+* The voice ukr _12
 * Something in my room _1
+* F4 thailand _1
+* Love stage 2022 _1
+* All of us are dead _1
+* /9-1-1 lone star _3
+* Meet my angel _2
 * The voice ph _1
 * Love at night _1
 * Color rush _1
-* Meet my angel _2
 * The voice nl _12
-* Earthmix space _1
-* Survivor sa _7
 * Young sheldon _5
 * 5515 never too late _1
 * The player _1
@@ -847,7 +895,6 @@
 * Aggretsuko _4
 * Camping paradis _12
 * Baker boys _1
-* 
 * Les engagés _3
 * The case study of vanitas _1
 * Banana fish _1
@@ -885,7 +932,6 @@
 * I can see your voice fr _1
 * Mr lipstick _1
 * Bt21 vlog _1
-* Schools out lets date now _1
 * You never eat alone _1
 * My vampire boyfriend _1
 * Tokyo ghoul _3
@@ -893,6 +939,7 @@
 * 
 * $ nbPcTps $
 * Marble mania _1 (19/8/21)
+* Schools out lets date now _1 (18/3/21)
 * 
 
 
@@ -955,7 +1002,14 @@
 #### mois 01-02-2022 
 *insererici Survivor _18 Bt21 original story _1 The voice senior esp _3 Survivor _17 Survivor _16 Survivor _15 Survivor _14 The voice senior it _2 Bad buddy _1 Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
 #### mois 01-03-2022 
-*insererici Kieta hatsukoi _1 Survivor _22 Survivor _21 Survivor _20 The masked singer uk _3 Ninja warrior _6 Paint with love _1 The voice portugal _9 Survivor _19 The masked dancer ger _1 The voice generations au _1*
+*insererici Survivor _23 Kissable lips _1 The voice lithu _8 Kieta hatsukoi _1 Survivor _22 Survivor _21 Survivor _20 The masked singer uk _3 Ninja warrior _6 Paint with love _1 The voice portugal _9 Survivor _19 The masked dancer ger _1 The voice generations au _1*
+#### mois 01-04-2022 
+*insererici Absolute bl _2 Dancing on ice uk _14 Survivor _25 Semantic error _1 Is it cake _1 Not me _1 The masked singer vv _2 Skam france _9 Survivor _24 Agt extreme _1 The voice generations lithu _1 Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*
+#### mois 01-05-2022 
+*insererici Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
+#### mois 01-06-2022 
+*insererici*
+
 
 
 

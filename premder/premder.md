@@ -24,11 +24,9 @@ Goblin 1x2
 Les engages 3x2
 The big leap 1x2
 Aggretsuko 4x2
-Survivor sa 7x2
 Love stage 2022 1x2
 Love at night 1x2
 Color rush 2x2
-Rpdrukvstheworld 1x2
 Meet my angel 2x2
 
 ### tisaep all
@@ -36,50 +34,28 @@ Meet my angel 2x2
 _
 F4 thailand 1x7
 The voice no 7x10
-The masked singer vv 2x4
 The voice finland 12x3
-Kissable lips 1x2
 Enchante 1x2
 * Love stage 2022 1x1
-* Kissable lips 1x1
-Next level chef 1x7
-Icsyv 2x5
-The voice generations lithu 1x5
-* The voice generations lithu 1x1
-Survivor au 9x3
-* Rpdrukvstheworld 1x1
 The voice be 10x6
-Skam france 9x3
 /9-1-1 lone star 3x4
-Dancing on ice uk 14x3
-* Survivor au 9x1
 The voice ukr 12x2
-Not me 1x7
-Rpdru 14x4
 Rpdr 14x4
 * The voice finland 12x1
 * Enchante 1x1
-Peach of time 1x7
 Something in my room 1x2
 The voice ph 1x4
 * The voice ph 1x1
 * Love at night 1x1
 * The voice ukr 12x1
-* Dancing on ice uk 14x1
 * Color rush 2x1
 * Meet my angel 2x1
 * Something in my room 1x1
 The voice nl 12x2
-* The masked singer vv 2x1
 Earthmix space 1x10
-* Skam france 9x1
-* Survivor sa 7x1
-* Rpdru 14x1
 * Rpdr 14x1
 * The voice nl 12x1
 * The voice no 7x1
-* Icsyv 2x0
-* Next level chef 1x1
 * /9-1-1 lone star 3x1
 Young sheldon 5x5
 * The voice be 10x1
@@ -92,7 +68,6 @@ District z 2x2
 * F4 thailand 1x1
 Unlocked 1x3
 * Aggretsuko 4x1
-* Not me 1x1
 * 5515 never too late 1x1
 Camping paradis 12x5
 * District z 2x1
@@ -128,7 +103,6 @@ Bite me 1x2
 Vwars 1x7
 * Qforce 1x1
 * 7project 1x1
-* Peach of time 1x1
 * Bite me 1x1
 * The yearbook 1x1
 * Post mortem 1x1
@@ -157,7 +131,6 @@ Mr lipstick 1x2
 * Mr lipstick 1x1
 Bt21 vlog 1x3
 * Bt21 vlog 1x1
-Schools out lets date now 1x5
 You never eat alone 1x4
 My vampire boyfriend 1x6
 Tokyo ghoul 3x16
@@ -168,7 +141,6 @@ Wabi game 1x2
 * Wabi game 1x1
 * Tbbt 11x1
 The untamed 1x3
-* Schools out lets date now 1x1
 * You never eat alone 1x1
 * Slam dance 1x1
 Be love 1x3

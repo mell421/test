@@ -231,10 +231,16 @@
 |bad buddy|bad buddy|12|serie|thailande|                      <!-- 47-->
 |paint with love|paint with love|12|serie|thailande|<!--  -->
 |kieta hatsukoi|kieta hatsukoi|10|serie|japon|                <!-- 44 -->
+|kissable lips|kissable lips|8|serie|corée|<!--  -->
+|not me 1||14|||<!-- 20/3 -->
+|semantic error|semantic error|8|serie|corée|<!-- -->
+|absolute BL 2|absolute bl 2|6|serie|japon|                         <!--  -->
+|peach of time|peach of time|10|serie|corée-thailande|        <!-- 38 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 |unbag|unbag|37?|show|thailande|                               <!-- 6 23/12/21 -->
+|schools out lets date now|school's out let's date now|5|serie(gl)|vietnam|    <!-- 18/3/21 -->
 ||||||<!--  -->
 
 ## en cours, a jour
@@ -265,7 +271,6 @@
 |tien bromance|tien bromance|10|serie|vietnam|1|                <!-- 23 -->
 |slam dance|slam dance|?|serie(*)|thailande|1|                  <!-- 24 -->
 |you never eat alone|you never eat alone|12|serie(*)|thailande|4|   <!-- 25 -->
-|school's out let's date now|school's out let's date now|6|serie(gl)|vietnam|5|    <!-- 26 -->
 |wabi game|wabi game|?|show|thailande|2|                        <!-- 27 -->
 |the harvest season|the harvest season|?|show|thailande|5|      <!-- 28 -->
 |bangkok love stories innocence|bangkok love stories innocence|12|serie|thailande|1|    <!-- 29 -->
@@ -276,7 +281,6 @@
 |46 days|46 days|18|serie(**)|thailande|6|                      <!-- 35 -->
 |the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
 |bite me|bite me|?|serie|thailande|2|                           <!-- 37 -->
-|peach of time|peach of time|10|serie|corée-thailande|6|        <!-- 38 -->
 |7 project|7project|7|serie(bl/gl/het)|thailande|4|             <!-- 39 -->
 |EMS|earth mix space|?|show|thailande|8|                        <!-- 40 -->
 |Alice in borderland|alice in borderland|8|serie(**)|japon|1|   <!-- 41 -->
@@ -286,7 +290,6 @@
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
 |baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
-|NOTME|NOTME|14|serie|thailande|2|<!-- -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
 |the player|the player|16|serie(*)|thailande|0|<!-- -->
 |you are my sunshine||6|serie|vietnam|2|<!--  -->
@@ -349,7 +352,6 @@
 |----------|---|---||||<!--  -->
 |COREE|---|---||||<!-- -->
 |I just slept|I just slept|?|serie(gl)|corée|0|<!-- -->
-|semantic error|semantic error|?|serie|corée|0|<!-- -->
 |||||||<!--  -->
 |VIETNAM|---|---||||<!-- -->
 |khi gap em|khi gap em|7|serie|vietnam|0|<!-- -->
