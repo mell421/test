@@ -21,3 +21,4 @@ apercu/apercu22.md:- sem 21-03-2022 -> American idol _20x5(2) The voice finland 
 apercu/apercu22.md:- sem 28-02-2022 -> The voice finland _12x11(2) The voice fr _12x4(1) Cutie pie _1x3(1) Cupids last wish _1x3(2) Rpdr _14x9(1) Forcebook show real _1x3(1) Earthmix space _1x13(1) The voice no _7x17(2) Cherry blossoms after winter _1x2(1) Pekin express _15x4(1) Top chef _13x3(1) Koh-lanta _28x2(1) The voice be _10x10(1) 
 apercu/apercu22.md:* conclu 18/03/22 = The voice no _7 > 8; The voice finland _12 > 8; Forcebook show real _1 > 3; Earthmix space _1 > 2; Domino masters us _1 > 2; 
 apercu/apercu22.md:* concluBis 18/03/22 = The voice no _7 > 16; The voice finland _12 > 16; Earthmix space _1 > 7; Forcebook show real _1 > 7; Domino masters us _1 > 4; The voice be _10 > 2; Pekin express _15 > 1; 
+apercuTer/apercuTer.md:* Forcebook show real _1

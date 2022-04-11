@@ -61,8 +61,6 @@ Young sheldon 5x5
 * The voice be 10x1
 5515 never too late 1x4
 The player 1x2
-You are my sunshine 1x2
-* You are my sunshine 1x1
 * The player 1x1
 District z 2x2
 * F4 thailand 1x1
@@ -107,7 +105,6 @@ Vwars 1x7
 * The yearbook 1x1
 * Post mortem 1x1
 From dusk till dawn 2x5
-Good singers 1x4
 Control z 2x2
 * Control z 2x1
 /46 days 1x7
@@ -125,8 +122,6 @@ Vincenzo 1x2
 * Vincenzo 1x1
 * Dark blue kiss 1x1
 * An eye for an eye 1x1
-I can see your voice fr 1x2
-* I can see your voice fr 1x1
 Mr lipstick 1x2
 * Mr lipstick 1x1
 Bt21 vlog 1x3
@@ -197,7 +192,6 @@ Forever knight 1x10
 * The shipper 1x1
 * Long khong 1x1
 * Himym 6x1
-* Good singers 1x1
 Young dracula 1x6
 * The untamed 1x1
 Blank 1x4

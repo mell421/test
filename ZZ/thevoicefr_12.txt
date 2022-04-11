@@ -36,4 +36,5 @@ apercu/apercu22.md:* concluBis 06/03/22 = The voice no _7 > 18; The voice finlan
 apercu/apercu22.md:* concluBis 20/03/22 = The voice no _7 > 19; The voice finland _12 > 15; Earthmix space _1 > 6; Cupids last wish _1 > 5; The voice be _10 > 2; Rpdr _14 > 2; The voice fr _12 > 2; Domino masters us _1 > 2; 
 apercu/apercu22.md:* concluBis 21/03/22 = The voice finland _12 > 17; The voice no _7 > 16; Earthmix space _1 > 6; American idol _20 > 5; The voice be _10 > 4; Cupids last wish _1 > 3; Rpdr _14 > 2; The voice fr _12 > 1; Domino masters us _1 > 1; 
 apercu/apercu22.md:* concluBis 22/03/22 = The voice finland _12 > 16; The voice no _7 > 15; Earthmix space _1 > 6; The voice be _10 > 4; American idol _20 > 4; The voice fr _12 > 3; Cutie pie _1 > 2; Cupids last wish _1 > 2; 
+apercuTer/apercuTer.md:* The voice fr _12
 apercuTer/apercuTer.md:*insererici Absolute bl _2 Dancing on ice uk _14 Survivor _25 Semantic error _1 Is it cake _1 Not me _1 The masked singer vv _2 Skam france _9 Survivor _24 Agt extreme _1 The voice generations lithu _1 Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*

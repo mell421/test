@@ -19,7 +19,7 @@ list99=(
 # 19-15
 "Enchante _1" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
 # 14-10
-"All of us are dead _1" "You are my sunshine _1" "Queen stars brazil _1" "Domino masters us _1" "District z _2" "The masked singer _7" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"All of us are dead _1" "Queen stars brazil _1" "Domino masters us _1" "District z _2" "The masked singer _7" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
 "Love at night _1" "Drag i love you _1" 
 # 7-6
@@ -32,9 +32,9 @@ list99=(
 "The masked singer fr _3" 
 # other
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
-"Good singers _1" "Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
+"Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
 "Young royals _1" "Siew sum noi _1" "Elite _4" "Dark blue kiss _1" "Vincenzo _1" 
-"An eye for an eye _1" "I can see your voice fr _1" "Mr lipstick _1" "Bt21 vlog _1" 
+"An eye for an eye _1" "Mr lipstick _1" "Bt21 vlog _1" 
 "You never eat alone _1" "My vampire boyfriend _1" "Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" 
 "Wabi show _1" "The untamed _1" "Slam dance _1" "Be love _1" "Tien bromance _1" 
 "Ben x jim _1" "Koishite akuma _1" )
@@ -59,7 +59,7 @@ listAsc=(
 # 9
 "The voice ph _1" "Love at night _1" "Color rush _2" "The voice nl _12" "Young sheldon _5" 
 # 10
-"5515 never too late _1" "The player _1" "You are my sunshine _1" "District z _2" "Unlocked _1" 
+"5515 never too late _1" "The player _1" "District z _2" "Unlocked _1" 
 # 11
 "Aggretsuko _4" "Camping paradis _12" "Baker boys _1" "Les engages _3" "The case study of vanitas _1" 
 # 12
@@ -71,11 +71,11 @@ listAsc=(
 # 15
 "Lucifer _4" "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" 
 # 16
-"From dusk till dawn _2" "Good singers _1" "Control z _2" "46 days _1" "Glow up _2" 
+"From dusk till dawn _2" "Control z _2" "46 days _1" "Glow up _2" 
 # 17
 "Zombie detective _1" "Young royals _1" "Siew sum noi _1" "Elite _4" "Dark blue kiss _1" 
 # 18
-"Vincenzo _1" "An eye for an eye _1" "I can see your voice fr _1" "Mr lipstick _1" "Bt21 vlog _1" 
+"Vincenzo _1" "An eye for an eye _1" "Mr lipstick _1" "Bt21 vlog _1" 
 # 19
 "You never eat alone _1" "My vampire boyfriend _1" "Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" 
 # 20

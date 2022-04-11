@@ -10,3 +10,4 @@ apercu/apercu22.md:* concluBis 18/03/22 = The voice no _7 > 16; The voice finlan
 apercu/apercu22.md:* concluBis 19/03/22 = The voice no _7 > 20; The voice finland _12 > 16; Earthmix space _1 > 6; Rpdr _14 > 5; Domino masters us _1 > 3; The voice be _10 > 2; American idol _20 > 1; 
 apercu/apercu22.md:* concluBis 20/03/22 = The voice no _7 > 19; The voice finland _12 > 15; Earthmix space _1 > 6; Cupids last wish _1 > 5; The voice be _10 > 2; Rpdr _14 > 2; The voice fr _12 > 2; Domino masters us _1 > 2; 
 apercu/apercu22.md:* concluBis 21/03/22 = The voice finland _12 > 17; The voice no _7 > 16; Earthmix space _1 > 6; American idol _20 > 5; The voice be _10 > 4; Cupids last wish _1 > 3; Rpdr _14 > 2; The voice fr _12 > 1; Domino masters us _1 > 1; 
+apercuTer/apercuTer.md:* Domino masters us _1
