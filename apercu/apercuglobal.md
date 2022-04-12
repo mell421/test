@@ -135,8 +135,8 @@
 - sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) Camping paradis _12x6(1) 
 - sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
 - sem 27-12-2021 -> The player _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1)
-- sem 03-01-2022 -> Young sheldon _5x6(2) The voice be _10x2(1) 5515 never too late _1x5(1) 
-- sem 10-01-2022 -> F4 thailand _1x4(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) The voice be _10x3(1) /9-1-1 lone star _3x2(1) 
+- sem 03-01-2022 -> Young sheldon _5x6(2) 5515 never too late _1x5(1) 
+- sem 10-01-2022 -> F4 thailand _1x4(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) /9-1-1 lone star _3x2(1) 
 
 
 

@@ -37,7 +37,6 @@ The voice no 7x10
 The voice finland 12x3
 Enchante 1x2
 * Love stage 2022 1x1
-The voice be 10x6
 /9-1-1 lone star 3x4
 The voice ukr 12x2
 Rpdr 14x4
@@ -58,7 +57,6 @@ Earthmix space 1x10
 * The voice no 7x1
 * /9-1-1 lone star 3x1
 Young sheldon 5x5
-* The voice be 10x1
 5515 never too late 1x4
 The player 1x2
 * The player 1x1

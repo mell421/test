@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 100
-"Earthmix space _1" "The voice no _7" "The voice finland _12" "The voice be _10" "5515 never too late _1" "F4 thailand _1" "Rpdr _14" 
+"Earthmix space _1" "The voice no _7" "The voice finland _12" "5515 never too late _1" "F4 thailand _1" "Rpdr _14" 
 # 99-50
 "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
@@ -47,7 +47,7 @@ listAsc=(
 # 3
 "Rpdr _14" "Forcebook show real _1" "The voice no _7" "Pekin express _15" "The masked singer _7" 
 # 4
-"Queen stars brazil _1" "Top chef _13" "American idol _20" "Asc _1" "The voice be _10" 
+"Queen stars brazil _1" "Top chef _13" "American idol _20" "Asc _1" 
 # 5
 "Koh-lanta _28" "Cupids last wish _1" "Earthmix space _1" 
 # 6

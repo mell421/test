@@ -3,20 +3,9 @@ aEff/aeff.md:- 01/12/20 - 475* be love _1{2}
 aEff/aeff.md:- 02/02/21 - 208* you never eat alone _1{0} slam dance _1{0} be love _1{11} 
 aEff/aeff.md:- 02/12/20 - 385* be love _1{4} 
 aEff/aeff.md:- 03/02/21 - 143* you never eat alone _1{1} slam dance _1{1} be love _1{11} 
-aEff/aeff.md:- 03/03/22 - 160* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} the voice be _10{34} american idol _20{1} 
 aEff/aeff.md:- 03/12/20 - 281* ghost runner _1{0} be love _1{6} 
-aEff/aeff.md:- 04/02/22 - 101* love stage 2022 _1{0} the voice be _10{18} /9-1-1 lone star _3{7} 
-aEff/aeff.md:- 04/03/22 - 111* pekin express _15{4} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} the voice be _10{35} american idol _20{1} 
 aEff/aeff.md:- 04/12/20 - 239* ghost runner _1{0} be love _1{6} 
-aEff/aeff.md:- 05/03/22 - 298* the voice no _7{114} the voice finland _12{59} pekin express _15{5} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} the voice be _10{36} 
-aEff/aeff.md:- 10/02/22 - 147* love stage 2022 _1{1} the voice be _10{21} /9-1-1 lone star _3{9} the voice ukr _12{7} the voice finland _12{13} meet my angel _2{8} 
-aEff/aeff.md:- 11/02/22 - 156* pekin express _15{0} love stage 2022 _1{3} the voice be _10{22} /9-1-1 lone star _3{9} the voice ukr _12{7} 
-aEff/aeff.md:- 11/03/22 - 152* pekin express _15{6} drag i love you _1{1} the masked singer _7{0} survivor _42{0} top chef _13{4} rpdr _14{20} the voice be _10{41} koh-lanta _28{3} 
-aEff/aeff.md:- 12/02/22 - 216* the voice no _7{68} the voice finland _12{17} enchante _1{3} pekin express _15{0} love stage 2022 _1{3} the voice be _10{22} 
-aEff/aeff.md:- 16/02/22 - 282* the voice be _10{24} love stage 2022 _1{4} the voice ukr _12{8} the voice finland _12{25} earthmix space _1{97} all of us are dead _1{7} 
 aEff/aeff.md:- 16/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
-aEff/aeff.md:- 17/02/22 - 203* top chef _13{0} the voice be _10{25} love stage 2022 _1{6} the voice ukr _12{8} the voice finland _12{26} 
-aEff/aeff.md:- 18/02/22 - 156* forcebook show real _1{0} pekin express _15{1} top chef _13{0} the voice be _10{25} love stage 2022 _1{6} 
 aEff/aeff.md:- 18/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 19/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 20/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
@@ -25,13 +14,10 @@ aEff/aeff.md:- 22/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampir
 aEff/aeff.md:- 23/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} 
 aEff/aeff.md:- 24/12/20 - pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
 aEff/aeff.md:- 25/12/20 - pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} lakan _1{5} 
-aEff/aeff.md:- 26/01/22 - 78* the voice ph _1{0} the voice be _10{9} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} rpdr _14{6} 
 aEff/aeff.md:- 26/11/20 - 422* be love _1{0} 
 aEff/aeff.md:- 26/12/20 - pogi lang hanap _1{10} friend forever _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
-aEff/aeff.md:- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} the voice be _10{11} love at night _1{3} the voice ukr _12{4} f4 thailand _1{7} 
 aEff/aeff.md:- 27/11/20 - 438* be love _1{0} 
 aEff/aeff.md:- 27/12/20 - pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} blood _1{6} 
-aEff/aeff.md:- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} the voice be _10{12} love at night _1{3} the voice ukr _12{4} 
 aEff/aeff.md:- 28/11/20 - 396* be love _1{0} 
 aEff/aeff.md:- 29/11/20 - 463* be love _1{0} 
 aEff/aeff.md:- 30/12/20 - from dusk till dawn _2{11} pogi lang hanap _1{10} my vampire boyfriend _1{9} be love _1{7} 
@@ -49,8 +35,6 @@ apercu/apercu21.md:- mois 01-02-2021 Be love _1x4(1) The shipper _1x5(2) Tien br
 apercu/apercu21.md:- sem 01-02-2021 Be love _1x4(1) The shipper _1x5(1) 
 apercu/apercu21.md:* concluBis 01/02/21 > Be love _1 > 1; 
 apercu/apercu21.md:* concluBis 31/01/21 > Be love _1 > 1; 
-apercu/apercu22.md:- sem 07-03-2022 -> The voice finland _12x13(2) The tuxedo _1x2(1) The voice fr _12x5(1) Cutie pie _1x4(1) The voice kids ger _10x2(1) The voice no _7x19(2) Pekin express _15x5(1) Top chef _13x4(1) Drag i love you _1x2(1) Koh-lanta _28x3(1) The voice be _10x11(1) American idol _20x2(1) 
-apercu/apercu22.md:- sem 14-03-2022 -> The voice finland _12x15(2) The voice fr _12x6(1) Cutie pie _1x5(1) The voice kids ger _10x3(1) Rpdr _14x11(2) The voice no _7x21(2) Forcebook show real _1x5(2) Pekin express _15x6(1) Drag i love you _1x3(1) The masked singer _7x2(1) Survivor _42x2(1) Top chef _13x5(1) The voice be _10x12(1) Koh-lanta _28x4(1) American idol _20x3(1) 
 apercu/apercuglobal.md:- mois 01-02-2021 Be love _1x4(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
 apercu/apercuglobal.md:- mois 01-11-2020 Swap test _1x3(2) The stranded _1x2(1) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 apercu/apercuglobal.md:- mois 01-12-2020 Be love _1x3(2) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
