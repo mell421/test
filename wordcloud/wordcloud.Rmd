@@ -430,8 +430,9 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+
+```{r resume, eval=FALSE, include=FALSE}
 ### resume
-```{r resume, echo=FALSE}
 text2 <- data.frame(aResume())
 text <- text2[2]
 main <- function(text){

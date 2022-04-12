@@ -8,6 +8,12 @@ aAccueil <- function(){
 }
 
 #2
+aAlea <- function(){
+  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=998240626')))
+  na.omit(table)
+  return(table)
+}
+
 aMenu <- function(){
   table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1225067668')))
   na.omit(table)
@@ -65,13 +71,6 @@ aConclBis <- function(){
   return(table)
 }
 
-#11
-aConclResume <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=290384599')))
-  na.omit(table)
-  return(table)
-}
-
 #12
 aEff <- function(){
   table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=2067255367')))
@@ -82,11 +81,6 @@ aEff <- function(){
 # 13 14
 
 #15
-aEffResume <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1824479592')))
-  na.omit(table)
-  return(table)
-}
 
 # 16
 
@@ -126,11 +120,6 @@ aPAR <- function(){
 }
 
 #22
-aResume <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=382303522')))
-  na.omit(table)
-  return(table)
-}
 
 #23
 aCal21 <- function(){
@@ -148,7 +137,7 @@ aCalAutre <- function(){
 
 #25
 aCal3 <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=484101736')))
+  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=855661173')))
   na.omit(table)
   return(table)
 }
@@ -196,18 +185,8 @@ aTestMax <- function(){
 }
 
 #31
-aTestConclu <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1679144414')))
-  na.omit(table)
-  return(table)
-}
 
 #32
-aTestConcluBis <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=620451340')))
-  na.omit(table)
-  return(table)
-}
 
 #33
 aTestMS <- function(){
@@ -224,33 +203,12 @@ aTestConcluAllEff <- function(){
 }
 
 #35
-aTestDerJour <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=53057760')))
-  na.omit(table)
-  return(table)
-}
 
 #36
-aTestResume <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1190491385')))
-  na.omit(table)
-  return(table)
-}
 
 #37
-aTestPA <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=533338717')))
-  na.omit(table)
-  return(table)
-}
 
 #38
-aCopyAll <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=31083732')))
-  na.omit(table)
-  return(table)
-}
-
 #39
 aCopyAllBis <- function(){
   table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=213693280')))
@@ -275,11 +233,6 @@ aLettreCode <- function(){
 # 42 43 44
 
 #45
-aBLlist <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=505592808')))
-  na.omit(table)
-  return(table)
-}
 
 #46
 aListDesc <- function(){
@@ -298,11 +251,6 @@ aCps <- function(){
 }
 
 #49
-aCps <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=982897317')))
-  na.omit(table)
-  return(table)
-}
 
 #50
 aListes <- function(){
@@ -368,11 +316,6 @@ aDuree <- function(){
 }
 
 #59
-aECocc80 <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=438259555')))
-  na.omit(table)
-  return(table)
-}
 
 # 60
 
@@ -467,28 +410,13 @@ aFiles <- function(){
   return(table)
 }
 
-#73 FilesSheets	https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=830358802
-aFilesSh <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=830358802')))
-  na.omit(table)
-  return(table)
-}
+#73
 
-#74 stats	https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=543512625
-aStats <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=543512625')))
-  na.omit(table)
-  return(table)
-}
+#74
 
 # 75
 
-#76 date_code	https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1392877912
-aDateCode <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1392877912')))
-  na.omit(table)
-  return(table)
-}
+#76
 
 
 # ou aAffODD

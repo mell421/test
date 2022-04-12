@@ -31,8 +31,8 @@ carac :  22317 ZZ/F4thailand_1.txt
 
 i = Rpdr _14
 ligne :  109 ZZ/Rpdr_14.txt
-mot   :  3451 ZZ/Rpdr_14.txt
-carac :  20634 ZZ/Rpdr_14.txt
+mot   :  3453 ZZ/Rpdr_14.txt
+carac :  20643 ZZ/Rpdr_14.txt
 
 i = The voice ph _1
 ligne :  52 ZZ/Thevoiceph_1.txt
@@ -313,11 +313,6 @@ i = The voice kids vv _6
 ligne :  3 ZZ/Thevoicekidsvv_6.txt
 mot   :  161 ZZ/Thevoicekidsvv_6.txt
 carac :  900 ZZ/Thevoicekidsvv_6.txt
-
-i = Clem _12
-ligne :  1 ZZ/Clem_12.txt
-mot   :  3 ZZ/Clem_12.txt
-carac :  35 ZZ/Clem_12.txt
 
 i = Banana fish _1
 ligne :  8 ZZ/Bananafish_1.txt

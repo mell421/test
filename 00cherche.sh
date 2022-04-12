@@ -27,7 +27,7 @@ list99=(
 # 5-4
 "Cherry blossoms after winter _1" "The voice kids poland _5" "Survivor _42" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
-"Drag race esp _2" "Dear doctor _1" "The voice kids vv _6" "Clem _12" "Banana fish _1" 
+"Drag race esp _2" "Dear doctor _1" "The voice kids vv _6" "Banana fish _1" 
 # 0-1
 "The masked singer fr _3" 
 # other
@@ -41,7 +41,7 @@ list99=(
 
 listAsc=( 
 # 1
-"The masked singer fr _3"  "The voice kids poland _5" "The voice finland _12" "Drag race esp _2" "Clem _12" "The voice fr _12" 
+"The masked singer fr _3"  "The voice kids poland _5" "The voice finland _12" "Drag race esp _2" "The voice fr _12" 
 # 2
 "Cutie pie _1" "Dear doctor _1" "The voice kids ger _10" "The voice kids vv _6" 
 # 3

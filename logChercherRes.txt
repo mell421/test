@@ -29,7 +29,7 @@ carac :  1943 ZZ/Darkbluekiss_1.txt
 carac :  1988 ZZ/Asc_1.txt
 carac :  20214 ZZ/46days_1.txt
 carac :  20473 ZZ/5515nevertoolate_1.txt
-carac :  20634 ZZ/Rpdr_14.txt
+carac :  20643 ZZ/Rpdr_14.txt
 carac :  2075 ZZ/Buffy_1.txt
 carac :  2145 ZZ/Mysweetdear_1.txt
 carac :  2169 ZZ/Benxjim_1.txt
@@ -52,7 +52,6 @@ carac :  33355 ZZ/Thevoicefinland_12.txt
 carac :  3339 ZZ/Younevereatalone_1.txt
 carac :  3344 ZZ/Wabishow_1.txt
 carac :  3397 ZZ/Lovestage2022_1.txt
-carac :  35 ZZ/Clem_12.txt
 carac :  3503 ZZ/Dragiloveyou_1.txt
 carac :  3527 ZZ/Unlocked_1.txt
 carac :  35614 ZZ/Thevoicenl_12.txt
@@ -115,7 +114,6 @@ i = Bt21 vlog _1
 i = Buffy _1
 i = Camping paradis _12
 i = Cherry blossoms after winter _1
-i = Clem _12
 i = Color rush _2
 i = Control z _2
 i = Cupids last wish _1
@@ -188,7 +186,6 @@ i = Young royals _1
 i = Young sheldon _5
 i = Zombie detective _1
 ligne : 
-ligne :  1 ZZ/Clem_12.txt
 ligne :  1 ZZ/Deardoctor_1.txt
 ligne :  1 ZZ/Queenstarsbrazil_1.txt
 ligne :  1 ZZ/Thevoicekidspoland_5.txt
@@ -318,7 +315,6 @@ mot   :  250 ZZ/Dragraceesp_2.txt
 mot   :  266 ZZ/Themaskedsingerfr_3.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
 mot   :  280 ZZ/Buffy_1.txt
-mot   :  3 ZZ/Clem_12.txt
 mot   :  301 ZZ/Asc_1.txt
 mot   :  301 ZZ/Benxjim_1.txt
 mot   :  3121 ZZ/Myvampireboyfriend_1.txt
@@ -327,7 +323,7 @@ mot   :  315 ZZ/Mysweetdear_1.txt
 mot   :  3194 ZZ/5515nevertoolate_1.txt
 mot   :  335 ZZ/Postmortem_1.txt
 mot   :  345 ZZ/Zombiedetective_1.txt
-mot   :  3451 ZZ/Rpdr_14.txt
+mot   :  3453 ZZ/Rpdr_14.txt
 mot   :  368 ZZ/Districtz_2.txt
 mot   :  368 ZZ/Theuntamed_1.txt
 mot   :  372 ZZ/Lucifer_4.txt
