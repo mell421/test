@@ -26,8 +26,8 @@ carac :  20835 ZZ/F4thailand_1.txt
 
 i = Rpdr _14
 ligne :  109 ZZ/Rpdr_14.txt
-mot   :  3205 ZZ/Rpdr_14.txt
-carac :  19401 ZZ/Rpdr_14.txt
+mot   :  3209 ZZ/Rpdr_14.txt
+carac :  19423 ZZ/Rpdr_14.txt
 
 i = The voice ph _1
 ligne :  52 ZZ/Thevoiceph_1.txt
@@ -46,8 +46,8 @@ carac :  9168 ZZ/Tbbt_11.txt
 
 i = The voice fr _12
 ligne :  41 ZZ/Thevoicefr_12.txt
-mot   :  1460 ZZ/Thevoicefr_12.txt
-carac :  8946 ZZ/Thevoicefr_12.txt
+mot   :  1464 ZZ/Thevoicefr_12.txt
+carac :  8968 ZZ/Thevoicefr_12.txt
 
 i = Camping paradis _12
 ligne :  66 ZZ/Campingparadis_12.txt
@@ -153,11 +153,6 @@ i = All of us are dead _1
 ligne : 
 mot   : 
 carac : 
-
-i = Queen stars brazil _1
-ligne :  1 ZZ/Queenstarsbrazil_1.txt
-mot   :  5 ZZ/Queenstarsbrazil_1.txt
-carac :  48 ZZ/Queenstarsbrazil_1.txt
 
 i = Domino masters us _1
 ligne :  13 ZZ/Dominomastersus_1.txt

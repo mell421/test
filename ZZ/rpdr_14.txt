@@ -102,8 +102,8 @@ apercu/apercuglobal.md:- sem 10-01-2022 -> F4 thailand _1x4(1) Rpdr _14x2(1) The
 apercuTer/apercuTer.md:* Rpdr _14
 apercuTer/apercuTer.md:* Rpdru _14
 apercuTer/apercuTer.md:*insererici Absolute bl _2 Dancing on ice uk _14 Survivor _25 Semantic error _1 Is it cake _1 Not me _1 The masked singer vv _2 Skam france _9 Survivor _24 Agt extreme _1 The voice generations lithu _1 Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*
+apercuTer/apercuTer.md:*insererici Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 apercuTer/apercuTer.md:*insererici Survivor _18 Bt21 original story _1 The voice senior esp _3 Survivor _17 Survivor _16 Survivor _15 Survivor _14 The voice senior it _2 Bad buddy _1 Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*
-apercuTer/apercuTer.md:*insererici The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 apercuTer/apercuTer.md:*My superboss _1 Why are you like this _1 Bad roommate _1 The voice kids ger _9 Pekin express _14 Wabi vlog _1 Rpdr _13 Drag race holland _1 Survivor au _3 Nailed it holiday _2 The circle france _1 Roommate _2 The voice be _9 Woodward cheer girls _1 Rpdru _13 We best love _2 Meet my angel _1 Atots _1*
 apercuTer/apercuTer.md:*Nailed it _3 Monsieur flap _2 La petite mort _2 Rpdruk _1 Nailed it _2 Ninja warrior us _1 The voice us _17 Wtfock _3 The masked singer _2 Strictly come dancing _17 The masked singer fr _1 The greatest dancer _1 Incroyable talent _14 Nailed it _1*
 index.html:            rpdr _14<br>

@@ -19,7 +19,7 @@ list99=(
 # 19-15
 "Enchante _1" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
 # 14-10
-"All of us are dead _1" "Queen stars brazil _1" "Domino masters us _1" "District z _2" "The masked singer _7" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"All of us are dead _1" "Domino masters us _1" "District z _2" "The masked singer _7" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
 "Love at night _1" "Drag i love you _1" 
 # 7-6
@@ -47,7 +47,7 @@ listAsc=(
 # 3
 "Rpdr _14" "Forcebook show real _1" "The voice no _7" "Pekin express _15" "The masked singer _7" 
 # 4
-"Queen stars brazil _1" "Top chef _13" "American idol _20" "Asc _1" 
+"Top chef _13" "American idol _20" "Asc _1" 
 # 5
 "Koh-lanta _28" "Cupids last wish _1" "Earthmix space _1" 
 # 6

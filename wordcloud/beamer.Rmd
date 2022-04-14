@@ -5,6 +5,11 @@ date: March 22, 2005
 output: beamer_presentation
 ---
 
+```{r init, echo=FALSE}
+#tinytex::install_tinytex()
+```
+
+
 # In the morning
 
 ## Getting up
