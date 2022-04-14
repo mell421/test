@@ -814,6 +814,7 @@
 * Survivor au _9
 ### sem 18-04-2022 
 * *insererici*
+* Survivor _26
 * Queen stars brazil _1
 * The voice be _10
 * Clem _12
@@ -834,7 +835,7 @@
 * Bgt _15
 * Unforgotten night _1
 * 
-* Survivor _26
+* 
 * Survivor _27
 * Survivor _28
 * 
@@ -1010,7 +1011,7 @@
 #### mois 01-04-2022 
 *insererici Absolute bl _2 Dancing on ice uk _14 Survivor _25 Semantic error _1 Is it cake _1 Not me _1 The masked singer vv _2 Skam france _9 Survivor _24 Agt extreme _1 The voice generations lithu _1 Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*
 #### mois 01-05-2022 
-*insererici Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
+*insererici Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
 *insererici*
 
