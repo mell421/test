@@ -25,11 +25,11 @@
 - sem 31-01-2022 -> The voice ukr _12x3(1) The voice finland _12x3(2) F4 thailand _1x7(2) Rpdr _14x5(1) The voice no _7x9(2) Enchante _1x2(1) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
 - sem 07-02-2022 -> The voice ukr _12x4(1) The voice finland _12x5(2) Meet my angel _2x4(2) Something in my room _1x4(1) Rpdr _14x6(1) F4 thailand _1x8(1) The voice no _7x11(2) Enchante _1x3(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
 - sem 14-02-2022 -> The voice ukr _12x5(1) The voice finland _12x7(2) Earthmix space _1x12(1) All of us are dead _1x3(2) The voice fr _12x2(1) F4 thailand _1x9(1) The voice no _7x13(2) Enchante _1x4(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
-- sem 21-02-2022 -> The voice ukr _12x6(1) The voice finland _12x9(2) Enchante _1x5(1) The voice fr _12x3(1) Cutie pie _1x2(1) Something in my room _1x5(1) F4 thailand _1x10(1) Rpdr _14x8(2) The voice no _7x15(2) Forcebook show real _1x2(1) Top chef _13x2(1) Love stage 2022 _1x4(1) 
-- sem 28-02-2022 -> The voice finland _12x11(2) The voice fr _12x4(1) Cutie pie _1x3(1) Cupids last wish _1x3(2) Rpdr _14x9(1) Forcebook show real _1x3(1) Earthmix space _1x13(1) The voice no _7x17(2) Cherry blossoms after winter _1x2(1) Top chef _13x3(1) Koh-lanta _28x2(1) 
+- sem 21-02-2022 -> The voice ukr _12x6(1) The voice finland _12x9(2) Enchante _1x5(1) The voice fr _12x3(1) Cutie pie _1x2(1) Something in my room _1x5(1) F4 thailand _1x10(1) Rpdr _14x8(2) The voice no _7x15(2) Top chef _13x2(1) Love stage 2022 _1x4(1) 
+- sem 28-02-2022 -> The voice finland _12x11(2) The voice fr _12x4(1) Cutie pie _1x3(1) Cupids last wish _1x3(2) Rpdr _14x9(1) Earthmix space _1x13(1) The voice no _7x17(2) Cherry blossoms after winter _1x2(1) Top chef _13x3(1) Koh-lanta _28x2(1) 
 - sem 07-03-2022 -> The voice finland _12x13(2) The tuxedo _1x2(1) The voice fr _12x5(1) Cutie pie _1x4(1) The voice kids ger _10x2(1) The voice no _7x19(2) Top chef _13x4(1) Drag i love you _1x2(1) Koh-lanta _28x3(1) American idol _20x2(1) 
-- sem 14-03-2022 -> The voice finland _12x15(2) The voice fr _12x6(1) Cutie pie _1x5(1) The voice kids ger _10x3(1) Rpdr _14x11(2) The voice no _7x21(2) Forcebook show real _1x5(2) Drag i love you _1x3(1) The masked singer _7x2(1) Survivor _42x2(1) Top chef _13x5(1) Koh-lanta _28x4(1) American idol _20x3(1) 
-- sem 21-03-2022 -> American idol _20x5(2) The voice finland _12x17(2) The voice kids ger _10x4(1) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) Rpdr _14x12(1) The voice no _7x23(2) Earthmix space _1x14(1) Forcebook show real _1x6(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
+- sem 14-03-2022 -> The voice finland _12x15(2) The voice fr _12x6(1) Cutie pie _1x5(1) The voice kids ger _10x3(1) Rpdr _14x11(2) The voice no _7x21(2) Drag i love you _1x3(1) The masked singer _7x2(1) Survivor _42x2(1) Top chef _13x5(1) Koh-lanta _28x4(1) American idol _20x3(1) 
+- sem 21-03-2022 -> American idol _20x5(2) The voice finland _12x17(2) The voice kids ger _10x4(1) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) Rpdr _14x12(1) The voice no _7x23(2) Earthmix space _1x14(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
 
 
 
@@ -42,7 +42,7 @@
 ## apercu mois
 - mois 01-01-2022 -> 5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) Earthmix space _1x10(3) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Camping paradis _12x6(1) Baker boys _1x4(1) 
 - mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) The voice finland _12x3(2) F4 thailand _1x7(4) Rpdr _14x5(4) The voice no _7x9(8) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
-- mois 01-03-2022 -> American idol _20x2(1) The voice finland _12x11(8) The voice fr _12x4(3) Cutie pie _1x3(2) Cupids last wish _1x3(2) Rpdr _14x9(4) Forcebook show real _1x3(2) Earthmix space _1x13(2) The voice no _7x17(8) Cherry blossoms after winter _1x2(1) Top chef _13x3(2) Koh-lanta _28x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+- mois 01-03-2022 -> American idol _20x2(1) The voice finland _12x11(8) The voice fr _12x4(3) Cutie pie _1x3(2) Cupids last wish _1x3(2) Rpdr _14x9(4) Earthmix space _1x13(2) The voice no _7x17(8) Cherry blossoms after winter _1x2(1) Top chef _13x3(2) Koh-lanta _28x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 
 
 
@@ -122,7 +122,7 @@
 * conclu 15/03/22 = The voice finland _12 > 8; The voice no _7 > 7; 
 * conclu 16/03/22 = The voice finland _12 > 10; The voice no _7 > 8; Rpdr _14 > 1; 
 * conclu 17/03/22 = The voice no _7 > 10; The voice finland _12 > 10; Domino masters us _1 > 1; 
-* conclu 18/03/22 = The voice no _7 > 8; The voice finland _12 > 8; Forcebook show real _1 > 3; Earthmix space _1 > 2; Domino masters us _1 > 2; 
+* conclu 18/03/22 = The voice no _7 > 8; The voice finland _12 > 8; Earthmix space _1 > 2; Domino masters us _1 > 2; 
 * conclu 19/03/22 = The voice no _7 > 12; The voice finland _12 > 8; Earthmix space _1 > 2; Rpdr _14 > 1; Domino masters us _1 > 1; 
 * conclu 20/03/22 = The voice no _7 > 11; The voice finland _12 > 7; Cupids last wish _1 > 3; Earthmix space _1 > 2; 
 * conclu 21/03/22 = The voice finland _12 > 9; The voice no _7 > 8; American idol _20 > 3; Earthmix space _1 > 2; Cupids last wish _1 > 1; 
@@ -217,7 +217,7 @@
 * concluBis 15/03/22 = The voice finland _12 > 16; The voice no _7 > 14; Rpdr _14 > 2; Earthmix space _1 > 2; 
 * concluBis 16/03/22 = The voice finland _12 > 18; The voice no _7 > 16; Rpdr _14 > 3; Earthmix space _1 > 2; 
 * concluBis 17/03/22 = The voice no _7 > 18; The voice finland _12 > 18; Top chef _13 > 4; Domino masters us _1 > 3; Earthmix space _1 > 2; 
-* concluBis 18/03/22 = The voice no _7 > 16; The voice finland _12 > 16; Earthmix space _1 > 7; Forcebook show real _1 > 7; Domino masters us _1 > 4; 
+* concluBis 18/03/22 = The voice no _7 > 16; The voice finland _12 > 16; Earthmix space _1 > 7; Domino masters us _1 > 4; 
 * concluBis 19/03/22 = The voice no _7 > 20; The voice finland _12 > 16; Earthmix space _1 > 6; Rpdr _14 > 5; Domino masters us _1 > 3; American idol _20 > 1; 
 * concluBis 20/03/22 = The voice no _7 > 19; The voice finland _12 > 15; Earthmix space _1 > 6; Cupids last wish _1 > 5; Rpdr _14 > 2; The voice fr _12 > 2; Domino masters us _1 > 2; 
 * concluBis 21/03/22 = The voice finland _12 > 17; The voice no _7 > 16; Earthmix space _1 > 6; American idol _20 > 5; Cupids last wish _1 > 3; Rpdr _14 > 2; The voice fr _12 > 1; Domino masters us _1 > 1; 

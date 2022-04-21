@@ -732,37 +732,37 @@
 - 15/02/22 - 273* the voice ukr _12{8} the voice finland _12{23} earthmix space _1{95} all of us are dead _1{5} the voice fr _12{1} f4 thailand _1{24} 
 - 16/02/22 - 282* love stage 2022 _1{4} the voice ukr _12{8} the voice finland _12{25} earthmix space _1{97} all of us are dead _1{7} 
 - 17/02/22 - 203* top chef _13{0} love stage 2022 _1{6} the voice ukr _12{8} the voice finland _12{26} 
-- 18/02/22 - 156* forcebook show real _1{0} top chef _13{0} love stage 2022 _1{6} 
-- 19/02/22 - 243* rpdr _14{11} the voice no _7{83} the voice finland _12{28} forcebook show real _1{0} top chef _13{0} 
-- 20/02/22 - 199* enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} rpdr _14{13} the voice no _7{85} the voice finland _12{30} forcebook show real _1{0} 
+- 18/02/22 - 156* top chef _13{0} love stage 2022 _1{6} 
+- 19/02/22 - 243* rpdr _14{11} the voice no _7{83} the voice finland _12{28} top chef _13{0} 
+- 20/02/22 - 199* enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} rpdr _14{13} the voice no _7{85} the voice finland _12{30} 
 - 21/02/22 - 190* the voice ukr _12{8} the voice finland _12{32} enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
 - 22/02/22 - 196* the voice ukr _12{9} the voice finland _12{37} enchante _1{5} the voice fr _12{2} cutie pie _1{1} something in my room _1{9} 
 - 23/02/22 - 201* koh-lanta _28{0} the voice ukr _12{9} the voice finland _12{37} enchante _1{5} the voice fr _12{2} cutie pie _1{1} 
 - 24/02/22 - 154* top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} the voice ukr _12{9} the voice finland _12{39} 
 - 25/02/22 - 136* cherry blossoms after winter _1{0} top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} 
-- 26/02/22 - 414* rpdr _14{17} forcebook show real _1{1} earthmix space _1{117} the voice no _7{98} the voice finland _12{43} cherry blossoms after winter _1{0} 
-- 27/02/22 - 324* the voice fr _12{2} cutie pie _1{1} cupids last wish _1{0} rpdr _14{17} forcebook show real _1{1} earthmix space _1{119} the voice no _7{100} the voice finland _12{45} cherry blossoms after winter _1{0} 
-- 28/02/22 - 347* the voice finland _12{47} the voice fr _12{2} cutie pie _1{1} cupids last wish _1{2} rpdr _14{18} forcebook show real _1{1} earthmix space _1{121} 
-- 01/03/22 - 344* american idol _20{0} the voice finland _12{50} the voice fr _12{3} cutie pie _1{2} cupids last wish _1{5} rpdr _14{19} forcebook show real _1{2} earthmix space _1{124} 
+- 26/02/22 - 414* rpdr _14{17} earthmix space _1{117} the voice no _7{98} the voice finland _12{43} cherry blossoms after winter _1{0} 
+- 27/02/22 - 324* the voice fr _12{2} cutie pie _1{1} cupids last wish _1{0} rpdr _14{17} earthmix space _1{119} the voice no _7{100} the voice finland _12{45} cherry blossoms after winter _1{0} 
+- 28/02/22 - 347* the voice finland _12{47} the voice fr _12{2} cutie pie _1{1} cupids last wish _1{2} rpdr _14{18} earthmix space _1{121} 
+- 01/03/22 - 344* american idol _20{0} the voice finland _12{50} the voice fr _12{3} cutie pie _1{2} cupids last wish _1{5} rpdr _14{19} earthmix space _1{124} 
 - 02/03/22 - 241* koh-lanta _28{2} american idol _20{1} the voice finland _12{53} the voice fr _12{4} cutie pie _1{3} cupids last wish _1{8} 
 - 03/03/22 - 160* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} american idol _20{1} 
 - 04/03/22 - 111* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} american idol _20{1} 
 - 05/03/22 - 298* the voice no _7{114} the voice finland _12{59} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} 
 - 06/03/22 - 291* the tuxedo _1{0} the voice fr _12{4} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{116} the voice finland _12{61} 
 - 07/03/22 - 332* the voice finland _12{63} the tuxedo _1{1} the voice fr _12{5} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{118} 
-- 08/03/22 - 279* american idol _20{2} forcebook show real _1{3} the voice finland _12{66} the tuxedo _1{2} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} 
-- 09/03/22 - 313* koh-lanta _28{3} american idol _20{2} forcebook show real _1{3} the voice finland _12{68} the tuxedo _1{2} the voice fr _12{6} 
+- 08/03/22 - 279* american idol _20{2} the voice finland _12{66} the tuxedo _1{2} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} 
+- 09/03/22 - 313* koh-lanta _28{3} american idol _20{2} the voice finland _12{68} the tuxedo _1{2} the voice fr _12{6} 
 - 10/03/22 - 206* the masked singer _7{0} survivor _42{0} top chef _13{4} rpdr _14{20} koh-lanta _28{3} american idol _20{2} 
 - 11/03/22 - 152* drag i love you _1{1} the masked singer _7{0} survivor _42{0} top chef _13{4} rpdr _14{20} koh-lanta _28{3} 
-- 12/03/22 - 302* rpdr _14{20} the voice no _7{129} the voice finland _12{74} forcebook show real _1{3} drag i love you _1{1} the masked singer _7{0} survivor _42{0} 
-- 13/03/22 - 316* the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} rpdr _14{21} the voice no _7{131} the voice finland _12{76} forcebook show real _1{3} drag i love you _1{1} 
-- 14/03/22 - 413* the voice finland _12{78} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} rpdr _14{22} the voice no _7{133} forcebook show real _1{3} 
-- 15/03/22 - 434* the voice finland _12{81} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdr _14{24} the voice no _7{136} forcebook show real _1{4} 
+- 12/03/22 - 302* rpdr _14{20} the voice no _7{129} the voice finland _12{74} drag i love you _1{1} the masked singer _7{0} survivor _42{0} 
+- 13/03/22 - 316* the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} rpdr _14{21} the voice no _7{131} the voice finland _12{76} drag i love you _1{1} 
+- 14/03/22 - 413* the voice finland _12{78} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} rpdr _14{22} the voice no _7{133} 
+- 15/03/22 - 434* the voice finland _12{81} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdr _14{24} the voice no _7{136} 
 - 16/03/22 - 482* koh-lanta _28{4} the voice finland _12{83} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdr _14{25} the voice no _7{138} 
 - 17/03/22 - 340* domino masters us _1{0} top chef _13{5} koh-lanta _28{4} the voice finland _12{85} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdr _14{27} 
-- 18/03/22 - 424* earthmix space _1{148} forcebook show real _1{4} domino masters us _1{2} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} the voice finland _12{87} the voice fr _12{7} 
-- 19/03/22 - 481* rpdr _14{27} american idol _20{3} the voice no _7{144} the voice finland _12{89} earthmix space _1{150} forcebook show real _1{6} domino masters us _1{4} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} 
-- 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} rpdr _14{29} american idol _20{4} the voice no _7{146} the voice finland _12{91} earthmix space _1{152} forcebook show real _1{6}
+- 18/03/22 - 424* earthmix space _1{148} domino masters us _1{2} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} the voice finland _12{87} the voice fr _12{7} 
+- 19/03/22 - 481* rpdr _14{27} american idol _20{3} the voice no _7{144} the voice finland _12{89} earthmix space _1{150} domino masters us _1{4} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} 
+- 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} rpdr _14{29} american idol _20{4} the voice no _7{146} the voice finland _12{91} earthmix space _1{152} 
 - 21/03/22 - 525* american idol _20{4} the voice finland _12{93} the voice kids ger _10{2} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} rpdr _14{30} the voice no _7{148} earthmix space _1{154} 
 - 22/03/22 - 394* american idol _20{7} the voice finland _12{96} the voice kids ger _10{3} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} rpdr _14{32} the voice no _7{151} 
 - 23/03/22 - 248* american idol _20{9} asc _1{0} koh-lanta _28{5} the voice finland _12{98} the voice kids ger _10{3} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} 

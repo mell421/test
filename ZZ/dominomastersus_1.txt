@@ -1,12 +1,12 @@
 aEff/aeff.md:- 17/03/22 - 340* domino masters us _1{0} top chef _13{5} koh-lanta _28{4} the voice finland _12{85} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdr _14{27} 
-aEff/aeff.md:- 18/03/22 - 424* earthmix space _1{148} forcebook show real _1{4} domino masters us _1{2} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} the voice finland _12{87} the voice fr _12{7} 
-aEff/aeff.md:- 19/03/22 - 481* rpdr _14{27} american idol _20{3} the voice no _7{144} the voice finland _12{89} earthmix space _1{150} forcebook show real _1{6} domino masters us _1{4} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} 
-apercu/apercu22.md:- sem 21-03-2022 -> American idol _20x5(2) The voice finland _12x17(2) The voice kids ger _10x4(1) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) Rpdr _14x12(1) The voice no _7x23(2) Earthmix space _1x14(1) Forcebook show real _1x6(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
+aEff/aeff.md:- 18/03/22 - 424* earthmix space _1{148} domino masters us _1{2} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} the voice finland _12{87} the voice fr _12{7} 
+aEff/aeff.md:- 19/03/22 - 481* rpdr _14{27} american idol _20{3} the voice no _7{144} the voice finland _12{89} earthmix space _1{150} domino masters us _1{4} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} 
+apercu/apercu22.md:- sem 21-03-2022 -> American idol _20x5(2) The voice finland _12x17(2) The voice kids ger _10x4(1) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) Rpdr _14x12(1) The voice no _7x23(2) Earthmix space _1x14(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
 apercu/apercu22.md:* conclu 17/03/22 = The voice no _7 > 10; The voice finland _12 > 10; Domino masters us _1 > 1; 
-apercu/apercu22.md:* conclu 18/03/22 = The voice no _7 > 8; The voice finland _12 > 8; Forcebook show real _1 > 3; Earthmix space _1 > 2; Domino masters us _1 > 2; 
+apercu/apercu22.md:* conclu 18/03/22 = The voice no _7 > 8; The voice finland _12 > 8; Earthmix space _1 > 2; Domino masters us _1 > 2; 
 apercu/apercu22.md:* conclu 19/03/22 = The voice no _7 > 12; The voice finland _12 > 8; Earthmix space _1 > 2; Rpdr _14 > 1; Domino masters us _1 > 1; 
 apercu/apercu22.md:* concluBis 17/03/22 = The voice no _7 > 18; The voice finland _12 > 18; Top chef _13 > 4; Domino masters us _1 > 3; Earthmix space _1 > 2; 
-apercu/apercu22.md:* concluBis 18/03/22 = The voice no _7 > 16; The voice finland _12 > 16; Earthmix space _1 > 7; Forcebook show real _1 > 7; Domino masters us _1 > 4; 
+apercu/apercu22.md:* concluBis 18/03/22 = The voice no _7 > 16; The voice finland _12 > 16; Earthmix space _1 > 7; Domino masters us _1 > 4; 
 apercu/apercu22.md:* concluBis 19/03/22 = The voice no _7 > 20; The voice finland _12 > 16; Earthmix space _1 > 6; Rpdr _14 > 5; Domino masters us _1 > 3; American idol _20 > 1; 
 apercu/apercu22.md:* concluBis 20/03/22 = The voice no _7 > 19; The voice finland _12 > 15; Earthmix space _1 > 6; Cupids last wish _1 > 5; Rpdr _14 > 2; The voice fr _12 > 2; Domino masters us _1 > 2; 
 apercu/apercu22.md:* concluBis 21/03/22 = The voice finland _12 > 17; The voice no _7 > 16; Earthmix space _1 > 6; American idol _20 > 5; Cupids last wish _1 > 3; Rpdr _14 > 2; The voice fr _12 > 1; Domino masters us _1 > 1; 
