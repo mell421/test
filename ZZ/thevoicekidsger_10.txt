@@ -1,17 +1,28 @@
 aEff/aeff.md:- 06/03/22 - 291* the tuxedo _1{0} the voice fr _12{4} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{116} the voice finland _12{61} 
 aEff/aeff.md:- 07/03/22 - 332* the voice finland _12{63} the tuxedo _1{1} the voice fr _12{5} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{118} 
 aEff/aeff.md:- 08/03/22 - 279* american idol _20{2} the voice finland _12{66} the tuxedo _1{2} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} 
-aEff/aeff.md:- 13/03/22 - 316* the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} rpdr _14{21} the voice no _7{131} the voice finland _12{76} drag i love you _1{1} 
-aEff/aeff.md:- 14/03/22 - 413* the voice finland _12{78} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} rpdr _14{22} the voice no _7{133} 
-aEff/aeff.md:- 15/03/22 - 434* the voice finland _12{81} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdr _14{24} the voice no _7{136} 
-aEff/aeff.md:- 16/03/22 - 482* koh-lanta _28{4} the voice finland _12{83} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdr _14{25} the voice no _7{138} 
-aEff/aeff.md:- 17/03/22 - 340* domino masters us _1{0} top chef _13{5} koh-lanta _28{4} the voice finland _12{85} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} rpdr _14{27} 
-aEff/aeff.md:- 21/03/22 - 525* american idol _20{4} the voice finland _12{93} the voice kids ger _10{2} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} rpdr _14{30} the voice no _7{148} earthmix space _1{154} 
-aEff/aeff.md:- 22/03/22 - 394* american idol _20{7} the voice finland _12{96} the voice kids ger _10{3} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} rpdr _14{32} the voice no _7{151} 
+aEff/aeff.md:- 13/03/22 - 316* the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} the voice no _7{131} the voice finland _12{76} drag i love you _1{1} 
+aEff/aeff.md:- 14/03/22 - 413* the voice finland _12{78} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} the voice no _7{133} 
+aEff/aeff.md:- 15/03/22 - 434* the voice finland _12{81} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} the voice no _7{136} 
+aEff/aeff.md:- 16/03/22 - 482* koh-lanta _28{4} the voice finland _12{83} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} the voice no _7{138} 
+aEff/aeff.md:- 17/03/22 - 340* domino masters us _1{0} top chef _13{5} koh-lanta _28{4} the voice finland _12{85} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} 
+aEff/aeff.md:- 21/03/22 - 525* american idol _20{4} the voice finland _12{93} the voice kids ger _10{2} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} the voice no _7{148} earthmix space _1{154} 
+aEff/aeff.md:- 22/03/22 - 394* american idol _20{7} the voice finland _12{96} the voice kids ger _10{3} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} the voice no _7{151} 
 aEff/aeff.md:- 23/03/22 - 248* american idol _20{9} asc _1{0} koh-lanta _28{5} the voice finland _12{98} the voice kids ger _10{3} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} 
+aEff/aeffT.md:- 06/03/22 - 291* the tuxedo _1{0} the voice fr _12{4} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{116} the voice finland _12{61} 
+aEff/aeffT.md:- 07/03/22 - 332* the voice finland _12{63} the tuxedo _1{1} the voice fr _12{5} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{118} 
+aEff/aeffT.md:- 08/03/22 - 279* american idol _20{2} the voice finland _12{66} the tuxedo _1{2} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} 
+aEff/aeffT.md:- 13/03/22 - 316* the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} the voice no _7{131} the voice finland _12{76} drag i love you _1{1} 
+aEff/aeffT.md:- 14/03/22 - 413* the voice finland _12{78} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} the voice no _7{133} 
+aEff/aeffT.md:- 15/03/22 - 434* the voice finland _12{81} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} the voice no _7{136} 
+aEff/aeffT.md:- 16/03/22 - 482* koh-lanta _28{4} the voice finland _12{83} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} the voice no _7{138} 
+aEff/aeffT.md:- 17/03/22 - 340* domino masters us _1{0} top chef _13{5} koh-lanta _28{4} the voice finland _12{85} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} 
+aEff/aeffT.md:- 21/03/22 - 525* american idol _20{4} the voice finland _12{93} the voice kids ger _10{2} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} the voice no _7{148} earthmix space _1{154} 
+aEff/aeffT.md:- 22/03/22 - 394* american idol _20{7} the voice finland _12{96} the voice kids ger _10{3} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} the voice no _7{151} 
+aEff/aeffT.md:- 23/03/22 - 248* american idol _20{9} asc _1{0} koh-lanta _28{5} the voice finland _12{98} the voice kids ger _10{3} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} 
 apercu/apercu22.md:- sem 07-03-2022 -> The voice finland _12x13(2) The tuxedo _1x2(1) The voice fr _12x5(1) Cutie pie _1x4(1) The voice kids ger _10x2(1) The voice no _7x19(2) Top chef _13x4(1) Drag i love you _1x2(1) Koh-lanta _28x3(1) American idol _20x2(1) 
-apercu/apercu22.md:- sem 14-03-2022 -> The voice finland _12x15(2) The voice fr _12x6(1) Cutie pie _1x5(1) The voice kids ger _10x3(1) Rpdr _14x11(2) The voice no _7x21(2) Drag i love you _1x3(1) The masked singer _7x2(1) Survivor _42x2(1) Top chef _13x5(1) Koh-lanta _28x4(1) American idol _20x3(1) 
-apercu/apercu22.md:- sem 21-03-2022 -> American idol _20x5(2) The voice finland _12x17(2) The voice kids ger _10x4(1) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) Rpdr _14x12(1) The voice no _7x23(2) Earthmix space _1x14(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
+apercu/apercu22.md:- sem 14-03-2022 -> The voice finland _12x15(2) The voice fr _12x6(1) Cutie pie _1x5(1) The voice kids ger _10x3(1) The voice no _7x21(2) Drag i love you _1x3(1) The masked singer _7x2(1) Survivor _42x2(1) Top chef _13x5(1) Koh-lanta _28x4(1) American idol _20x3(1) 
+apercu/apercu22.md:- sem 21-03-2022 -> American idol _20x5(2) The voice finland _12x17(2) The voice kids ger _10x4(1) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) The voice no _7x23(2) Earthmix space _1x14(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
 apercuTer/apercuTer.md:* The voice kids ger _10
 apercuTer/apercuTer.md:*History1 stay away from me _1 Clem _10 Until we meet again _1 My engineer summer trip _1 Rpdr vegas revue _1 Grand hotel _1 Where your eyes linger _1 Agt _15 2wish _1 History1 my hero _1 My friendship _1 The voice senior nl _3 Yyy _1 Sing on _1 The masked singer au _2 Strictly come dancing _16 My engineer _1 The voice kids vv _5 2gether _2 The voice kids th _7 Theory of love _1 Love by chance _1 Drag race canada _1*
 apercuTer/apercuTer.md:*insererici Druck _7 The voice nl _9 The voice ru _10 Queen of the universe _1 Survivor 12 The voice kids uk _5 Josephine ange gardien _24 The voice greece _7 Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 The voice th _7*

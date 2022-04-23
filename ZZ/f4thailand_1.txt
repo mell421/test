@@ -1,113 +1,195 @@
 aEff/aeff.md:- 01/02/22 - 143* /9-1-1 lone star _3{2} the voice ukr _12{5} the voice finland _12{3} f4 thailand _1{14} 
 aEff/aeff.md:- 01/02/22 (eff) - earthmix space _1{68} the voice no _7{44} 5515 never too late _1{18} f4 thailand _1{14} the voice ph _1{13} tbbt _11{13} 
-aEff/aeff.md:- 01/03/22 (eff) - earthmix space _1{124} the voice no _7{105} the voice finland _12{50} f4 thailand _1{34} rpdr _14{19} 5515 never too late _1{18} 
+aEff/aeff.md:- 01/03/22 (eff) - earthmix space _1{124} the voice no _7{105} the voice finland _12{50} f4 thailand _1{34} 5515 never too late _1{18} 
 aEff/aeff.md:- 02/02/22 (eff) - earthmix space _1{71} the voice no _7{47} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 02/03/22 (eff) - earthmix space _1{127} the voice no _7{108} the voice finland _12{53} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} 
+aEff/aeff.md:- 02/03/22 (eff) - earthmix space _1{127} the voice no _7{108} the voice finland _12{53} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 03/02/22 (eff) - earthmix space _1{73} the voice no _7{49} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 03/03/22 (eff) - earthmix space _1{129} the voice no _7{110} the voice finland _12{55} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} 
+aEff/aeff.md:- 03/03/22 (eff) - earthmix space _1{129} the voice no _7{110} the voice finland _12{55} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 04/02/22 (eff) - earthmix space _1{75} the voice no _7{51} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 04/03/22 (eff) - earthmix space _1{131} the voice no _7{112} the voice finland _12{57} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeff.md:- 04/03/22 (eff) - earthmix space _1{131} the voice no _7{112} the voice finland _12{57} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 05/02/22 (eff) - earthmix space _1{76} the voice no _7{53} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 05/03/22 (eff) - earthmix space _1{133} the voice no _7{114} the voice finland _12{59} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} the voice ph _1{16} 
-aEff/aeff.md:- 06/02/22 - 208* something in my room _1{7} rpdr _14{8} f4 thailand _1{16} the voice no _7{55} the voice finland _12{6} enchante _1{2} 
+aEff/aeff.md:- 05/03/22 (eff) - earthmix space _1{133} the voice no _7{114} the voice finland _12{59} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeff.md:- 06/02/22 - 208* something in my room _1{7} f4 thailand _1{16} the voice no _7{55} the voice finland _12{6} enchante _1{2} 
 aEff/aeff.md:- 06/02/22 (eff) - earthmix space _1{77} the voice no _7{55} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 06/03/22 (eff) - earthmix space _1{135} the voice no _7{116} the voice finland _12{61} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} the voice ph _1{16} 
-aEff/aeff.md:- 07/02/22 - 204* the voice ukr _12{6} the voice finland _12{6} meet my angel _2{4} something in my room _1{7} rpdr _14{9} f4 thailand _1{17} 
+aEff/aeff.md:- 06/03/22 (eff) - earthmix space _1{135} the voice no _7{116} the voice finland _12{61} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeff.md:- 07/02/22 - 204* the voice ukr _12{6} the voice finland _12{6} meet my angel _2{4} something in my room _1{7} f4 thailand _1{17} 
 aEff/aeff.md:- 07/02/22 (eff) - earthmix space _1{78} the voice no _7{57} 5515 never too late _1{18} f4 thailand _1{17} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 07/03/22 (eff) - earthmix space _1{137} the voice no _7{118} the voice finland _12{63} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} 
-aEff/aeff.md:- 08/02/22 - 231* the voice ukr _12{7} the voice finland _12{9} meet my angel _2{6} something in my room _1{8} rpdr _14{11} f4 thailand _1{19} 
+aEff/aeff.md:- 07/03/22 (eff) - earthmix space _1{137} the voice no _7{118} the voice finland _12{63} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeff.md:- 08/02/22 - 231* the voice ukr _12{7} the voice finland _12{9} meet my angel _2{6} something in my room _1{8} f4 thailand _1{19} 
 aEff/aeff.md:- 08/02/22 (eff) - earthmix space _1{80} the voice no _7{60} f4 thailand _1{19} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 08/03/22 (eff) - earthmix space _1{138} the voice no _7{121} the voice finland _12{66} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} 
-aEff/aeff.md:- 09/01/22 - 69* f4 thailand _1{5} rpdr _14{0} the voice nl _12{0} the voice no _7{2} 
+aEff/aeff.md:- 08/03/22 (eff) - earthmix space _1{138} the voice no _7{121} the voice finland _12{66} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeff.md:- 09/01/22 - 69* f4 thailand _1{5} the voice nl _12{0} the voice no _7{2} 
 aEff/aeff.md:- 09/02/22 (eff) - earthmix space _1{82} the voice no _7{62} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
-aEff/aeff.md:- 09/03/22 (eff) - earthmix space _1{139} the voice no _7{123} the voice finland _12{68} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} 
+aEff/aeff.md:- 09/03/22 (eff) - earthmix space _1{139} the voice no _7{123} the voice finland _12{68} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 10/01/22 - 280* f4 thailand _1{5} 
 aEff/aeff.md:- 10/02/22 (eff) - earthmix space _1{84} the voice no _7{64} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
-aEff/aeff.md:- 10/03/22 (eff) - earthmix space _1{140} the voice no _7{125} the voice finland _12{70} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} 
+aEff/aeff.md:- 10/03/22 (eff) - earthmix space _1{140} the voice no _7{125} the voice finland _12{70} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 11/01/22 - 318* /9-1-1 lone star _3{1} f4 thailand _1{6} 
 aEff/aeff.md:- 11/02/22 (eff) - earthmix space _1{86} the voice no _7{66} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
-aEff/aeff.md:- 11/03/22 (eff) - earthmix space _1{141} the voice no _7{127} the voice finland _12{72} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} 
+aEff/aeff.md:- 11/03/22 (eff) - earthmix space _1{141} the voice no _7{127} the voice finland _12{72} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 12/01/22 - 196* /9-1-1 lone star _3{1} f4 thailand _1{6} 
 aEff/aeff.md:- 12/02/22 (eff) - earthmix space _1{88} the voice no _7{68} f4 thailand _1{20} 5515 never too late _1{18} the voice finland _12{17} the voice ph _1{16} 
-aEff/aeff.md:- 12/03/22 (eff) - earthmix space _1{142} the voice no _7{129} the voice finland _12{74} f4 thailand _1{35} rpdr _14{20} 5515 never too late _1{18} 
+aEff/aeff.md:- 12/03/22 (eff) - earthmix space _1{142} the voice no _7{129} the voice finland _12{74} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 13/02/22 - 210* all of us are dead _1{0} the voice fr _12{0} f4 thailand _1{20} the voice no _7{70} the voice finland _12{19} enchante _1{3} 
 aEff/aeff.md:- 13/02/22 (eff) - earthmix space _1{90} the voice no _7{70} f4 thailand _1{20} the voice finland _12{19} 5515 never too late _1{18} the voice ph _1{16} 
-aEff/aeff.md:- 13/03/22 (eff) - earthmix space _1{143} the voice no _7{131} the voice finland _12{76} f4 thailand _1{35} rpdr _14{21} 5515 never too late _1{18} 
+aEff/aeff.md:- 13/03/22 (eff) - earthmix space _1{143} the voice no _7{131} the voice finland _12{76} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 14/02/22 - 317* the voice ukr _12{7} the voice finland _12{20} earthmix space _1{92} all of us are dead _1{2} the voice fr _12{0} f4 thailand _1{22} the voice no _7{72} 
 aEff/aeff.md:- 14/02/22 (eff) - earthmix space _1{92} the voice no _7{72} f4 thailand _1{22} the voice finland _12{20} 5515 never too late _1{18} the voice ph _1{16} 
-aEff/aeff.md:- 14/03/22 (eff) - earthmix space _1{144} the voice no _7{133} the voice finland _12{78} f4 thailand _1{35} rpdr _14{22} 5515 never too late _1{18} 
+aEff/aeff.md:- 14/03/22 (eff) - earthmix space _1{144} the voice no _7{133} the voice finland _12{78} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 15/02/22 - 273* the voice ukr _12{8} the voice finland _12{23} earthmix space _1{95} all of us are dead _1{5} the voice fr _12{1} f4 thailand _1{24} 
 aEff/aeff.md:- 15/02/22 (eff) - earthmix space _1{95} the voice no _7{75} f4 thailand _1{24} the voice finland _12{23} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 15/03/22 (eff) - earthmix space _1{145} the voice no _7{136} the voice finland _12{81} f4 thailand _1{35} rpdr _14{24} 5515 never too late _1{18} 
+aEff/aeff.md:- 15/03/22 (eff) - earthmix space _1{145} the voice no _7{136} the voice finland _12{81} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 16/02/22 (eff) - earthmix space _1{97} the voice no _7{77} the voice finland _12{25} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 16/03/22 (eff) - earthmix space _1{146} the voice no _7{138} the voice finland _12{83} f4 thailand _1{35} rpdr _14{25} 5515 never too late _1{18} 
+aEff/aeff.md:- 16/03/22 (eff) - earthmix space _1{146} the voice no _7{138} the voice finland _12{83} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 17/02/22 (eff) - earthmix space _1{99} the voice no _7{79} the voice finland _12{26} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 17/03/22 (eff) - earthmix space _1{147} the voice no _7{140} the voice finland _12{85} f4 thailand _1{35} rpdr _14{27} 5515 never too late _1{18} 
+aEff/aeff.md:- 17/03/22 (eff) - earthmix space _1{147} the voice no _7{140} the voice finland _12{85} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 18/02/22 (eff) - earthmix space _1{101} the voice no _7{81} the voice finland _12{27} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 18/03/22 (eff) - earthmix space _1{148} the voice no _7{142} the voice finland _12{87} f4 thailand _1{35} rpdr _14{27} 5515 never too late _1{18} 
+aEff/aeff.md:- 18/03/22 (eff) - earthmix space _1{148} the voice no _7{142} the voice finland _12{87} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 19/02/22 (eff) - earthmix space _1{103} the voice no _7{83} the voice finland _12{28} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-aEff/aeff.md:- 19/03/22 (eff) - earthmix space _1{150} the voice no _7{144} the voice finland _12{89} f4 thailand _1{35} rpdr _14{27} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12} 
+aEff/aeff.md:- 19/03/22 (eff) - earthmix space _1{150} the voice no _7{144} the voice finland _12{89} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12} 
 aEff/aeff.md:- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} unlocked _1{4} earthmix space _1{12} aggretsuko _4{1} 
-aEff/aeff.md:- 20/02/22 - 199* enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} rpdr _14{13} the voice no _7{85} the voice finland _12{30} 
-aEff/aeff.md:- 20/02/22 (eff) - earthmix space _1{105} the voice no _7{85} the voice finland _12{30} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} rpdr _14{13} 
-aEff/aeff.md:- 20/03/22 (eff) - earthmix space _1{152} the voice no _7{146} the voice finland _12{91} f4 thailand _1{35} rpdr _14{29} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
+aEff/aeff.md:- 20/02/22 - 199* enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} the voice no _7{85} the voice finland _12{30} 
+aEff/aeff.md:- 20/02/22 (eff) - earthmix space _1{105} the voice no _7{85} the voice finland _12{30} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeff.md:- 20/03/22 (eff) - earthmix space _1{152} the voice no _7{146} the voice finland _12{91} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
 aEff/aeff.md:- 20/12/21 - 62* district z _2{3} f4 thailand _1{1} unlocked _1{4} earthmix space _1{14} 
 aEff/aeff.md:- 21/02/22 - 190* the voice ukr _12{8} the voice finland _12{32} enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
-aEff/aeff.md:- 21/02/22 (eff) - earthmix space _1{107} the voice no _7{87} the voice finland _12{32} f4 thailand _1{27} 5515 never too late _1{18} the voice ph _1{16} rpdr _14{15} 
-aEff/aeff.md:- 21/03/22 (eff) - earthmix space _1{154} the voice no _7{148} the voice finland _12{93} f4 thailand _1{35} rpdr _14{30} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
+aEff/aeff.md:- 21/02/22 (eff) - earthmix space _1{107} the voice no _7{87} the voice finland _12{32} f4 thailand _1{27} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeff.md:- 21/03/22 (eff) - earthmix space _1{154} the voice no _7{148} the voice finland _12{93} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
 aEff/aeff.md:- 21/12/21 - 72* district z _2{4} f4 thailand _1{2} unlocked _1{5} 
-aEff/aeff.md:- 22/02/22 (eff) - earthmix space _1{109} the voice no _7{90} the voice finland _12{35} f4 thailand _1{30} 5515 never too late _1{18} rpdr _14{17} 
-aEff/aeff.md:- 22/03/22 (eff) - earthmix space _1{157} the voice no _7{151} the voice finland _12{96} f4 thailand _1{35} rpdr _14{32} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
+aEff/aeff.md:- 22/02/22 (eff) - earthmix space _1{109} the voice no _7{90} the voice finland _12{35} f4 thailand _1{30} 5515 never too late _1{18} 
+aEff/aeff.md:- 22/03/22 (eff) - earthmix space _1{157} the voice no _7{151} the voice finland _12{96} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
 aEff/aeff.md:- 22/12/21 - 73* the player _1{0} district z _2{4} f4 thailand _1{2} unlocked _1{5} 
-aEff/aeff.md:- 23/02/22 (eff) - earthmix space _1{111} the voice no _7{92} the voice finland _12{37} f4 thailand _1{32} 5515 never too late _1{18} rpdr _14{17} 
-aEff/aeff.md:- 23/03/22 (eff) - earthmix space _1{159} the voice no _7{153} the voice finland _12{98} f4 thailand _1{35} rpdr _14{32} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} the voice fr _12{12} 
+aEff/aeff.md:- 23/02/22 (eff) - earthmix space _1{111} the voice no _7{92} the voice finland _12{37} f4 thailand _1{32} 5515 never too late _1{18} 
+aEff/aeff.md:- 23/03/22 (eff) - earthmix space _1{159} the voice no _7{153} the voice finland _12{98} f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} the voice fr _12{12} 
 aEff/aeff.md:- 23/12/21 - 78* the player _1{2} district z _2{4} f4 thailand _1{2} 
-aEff/aeff.md:- 24/01/22 - 77* the voice ukr _12{0} f4 thailand _1{6} rpdr _14{5} the voice no _7{26} 
-aEff/aeff.md:- 24/02/22 (eff) - earthmix space _1{113} the voice no _7{94} the voice finland _12{39} f4 thailand _1{33} 5515 never too late _1{18} rpdr _14{17} 
-aEff/aeff.md:- 25/01/22 - 97* love at night _1{0} the voice ukr _12{3} f4 thailand _1{7} rpdr _14{6} the voice no _7{29} 
+aEff/aeff.md:- 24/01/22 - 77* the voice ukr _12{0} f4 thailand _1{6} the voice no _7{26} 
+aEff/aeff.md:- 24/02/22 (eff) - earthmix space _1{113} the voice no _7{94} the voice finland _12{39} f4 thailand _1{33} 5515 never too late _1{18} 
+aEff/aeff.md:- 25/01/22 - 97* love at night _1{0} the voice ukr _12{3} f4 thailand _1{7} the voice no _7{29} 
 aEff/aeff.md:- 25/02/22 (eff) - earthmix space _1{115} the voice no _7{96} the voice finland _12{41} f4 thailand _1{34} 5515 never too late _1{18} 
-aEff/aeff.md:- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} rpdr _14{6} 
-aEff/aeff.md:- 26/02/22 (eff) - earthmix space _1{117} the voice no _7{98} the voice finland _12{43} f4 thailand _1{34} 5515 never too late _1{18} rpdr _14{17} 
+aEff/aeff.md:- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} 
+aEff/aeff.md:- 26/02/22 (eff) - earthmix space _1{117} the voice no _7{98} the voice finland _12{43} f4 thailand _1{34} 5515 never too late _1{18} 
 aEff/aeff.md:- 26/12/21 - 865* f4 thailand _1{2} earthmix space _1{21} 
 aEff/aeff.md:- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} love at night _1{3} the voice ukr _12{4} f4 thailand _1{7} 
-aEff/aeff.md:- 27/02/22 (eff) - earthmix space _1{119} the voice no _7{100} the voice finland _12{45} f4 thailand _1{34} 5515 never too late _1{18} rpdr _14{17} 
+aEff/aeff.md:- 27/02/22 (eff) - earthmix space _1{119} the voice no _7{100} the voice finland _12{45} f4 thailand _1{34} 5515 never too late _1{18} 
 aEff/aeff.md:- 27/12/21 - 120* the player _1{3} f4 thailand _1{3} earthmix space _1{22} 
 aEff/aeff.md:- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} love at night _1{3} the voice ukr _12{4} 
-aEff/aeff.md:- 28/02/22 (eff) - earthmix space _1{121} the voice no _7{102} the voice finland _12{47} f4 thailand _1{34} rpdr _14{18} 5515 never too late _1{18} 
+aEff/aeff.md:- 28/02/22 (eff) - earthmix space _1{121} the voice no _7{102} the voice finland _12{47} f4 thailand _1{34} 5515 never too late _1{18} 
 aEff/aeff.md:- 28/12/21 - 137* 5515 never too late _1{12} the player _1{6} f4 thailand _1{4} earthmix space _1{24} 
 aEff/aeff.md:- 29/01/22 - 136* the voice no _7{37} the voice finland _12{0} enchante _1{0} f4 thailand _1{9} something in my room _1{5} the voice ph _1{6} 
-aEff/aeff.md:- 30/01/22 - 154* f4 thailand _1{10} rpdr _14{6} the voice no _7{39} the voice finland _12{0} enchante _1{0} 
+aEff/aeff.md:- 30/01/22 - 154* f4 thailand _1{10} the voice no _7{39} the voice finland _12{0} enchante _1{0} 
 aEff/aeff.md:- 30/01/22 (eff) - earthmix space _1{65} the voice no _7{39} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} f4 thailand _1{10} 
-aEff/aeff.md:- 31/01/22 - 177* the voice ukr _12{4} the voice finland _12{0} f4 thailand _1{12} rpdr _14{6} the voice no _7{41} enchante _1{0} 
+aEff/aeff.md:- 31/01/22 - 177* the voice ukr _12{4} the voice finland _12{0} f4 thailand _1{12} the voice no _7{41} enchante _1{0} 
 aEff/aeff.md:- 31/01/22 (eff) - earthmix space _1{67} the voice no _7{41} 5515 never too late _1{18} tbbt _11{13} f4 thailand _1{12} young sheldon _5{11} 
+aEff/aeffT.md:- 01/02/22 - 143* /9-1-1 lone star _3{2} the voice ukr _12{5} the voice finland _12{3} f4 thailand _1{14} 
+aEff/aeffT.md:- 01/02/22 (eff) - earthmix space _1{68} the voice no _7{44} 5515 never too late _1{18} f4 thailand _1{14} the voice ph _1{13} tbbt _11{13} 
+aEff/aeffT.md:- 01/03/22 (eff) - earthmix space _1{124} the voice no _7{105} the voice finland _12{50} f4 thailand _1{34} 5515 never too late _1{18} 
+aEff/aeffT.md:- 02/02/22 (eff) - earthmix space _1{71} the voice no _7{47} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 02/03/22 (eff) - earthmix space _1{127} the voice no _7{108} the voice finland _12{53} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 03/02/22 (eff) - earthmix space _1{73} the voice no _7{49} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 03/03/22 (eff) - earthmix space _1{129} the voice no _7{110} the voice finland _12{55} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 04/02/22 (eff) - earthmix space _1{75} the voice no _7{51} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 04/03/22 (eff) - earthmix space _1{131} the voice no _7{112} the voice finland _12{57} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 05/02/22 (eff) - earthmix space _1{76} the voice no _7{53} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 05/03/22 (eff) - earthmix space _1{133} the voice no _7{114} the voice finland _12{59} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 06/02/22 - 208* something in my room _1{7} f4 thailand _1{16} the voice no _7{55} the voice finland _12{6} enchante _1{2} 
+aEff/aeffT.md:- 06/02/22 (eff) - earthmix space _1{77} the voice no _7{55} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 06/03/22 (eff) - earthmix space _1{135} the voice no _7{116} the voice finland _12{61} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 07/02/22 - 204* the voice ukr _12{6} the voice finland _12{6} meet my angel _2{4} something in my room _1{7} f4 thailand _1{17} 
+aEff/aeffT.md:- 07/02/22 (eff) - earthmix space _1{78} the voice no _7{57} 5515 never too late _1{18} f4 thailand _1{17} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 07/03/22 (eff) - earthmix space _1{137} the voice no _7{118} the voice finland _12{63} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 08/02/22 - 231* the voice ukr _12{7} the voice finland _12{9} meet my angel _2{6} something in my room _1{8} f4 thailand _1{19} 
+aEff/aeffT.md:- 08/02/22 (eff) - earthmix space _1{80} the voice no _7{60} f4 thailand _1{19} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 08/03/22 (eff) - earthmix space _1{138} the voice no _7{121} the voice finland _12{66} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 09/01/22 - 69* f4 thailand _1{5} the voice nl _12{0} the voice no _7{2} 
+aEff/aeffT.md:- 09/02/22 (eff) - earthmix space _1{82} the voice no _7{62} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 09/03/22 (eff) - earthmix space _1{139} the voice no _7{123} the voice finland _12{68} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 10/01/22 - 280* f4 thailand _1{5} 
+aEff/aeffT.md:- 10/02/22 (eff) - earthmix space _1{84} the voice no _7{64} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 10/03/22 (eff) - earthmix space _1{140} the voice no _7{125} the voice finland _12{70} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 11/01/22 - 318* /9-1-1 lone star _3{1} f4 thailand _1{6} 
+aEff/aeffT.md:- 11/02/22 (eff) - earthmix space _1{86} the voice no _7{66} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 11/03/22 (eff) - earthmix space _1{141} the voice no _7{127} the voice finland _12{72} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 12/01/22 - 196* /9-1-1 lone star _3{1} f4 thailand _1{6} 
+aEff/aeffT.md:- 12/02/22 (eff) - earthmix space _1{88} the voice no _7{68} f4 thailand _1{20} 5515 never too late _1{18} the voice finland _12{17} the voice ph _1{16} 
+aEff/aeffT.md:- 12/03/22 (eff) - earthmix space _1{142} the voice no _7{129} the voice finland _12{74} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 13/02/22 - 210* all of us are dead _1{0} the voice fr _12{0} f4 thailand _1{20} the voice no _7{70} the voice finland _12{19} enchante _1{3} 
+aEff/aeffT.md:- 13/02/22 (eff) - earthmix space _1{90} the voice no _7{70} f4 thailand _1{20} the voice finland _12{19} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 13/03/22 (eff) - earthmix space _1{143} the voice no _7{131} the voice finland _12{76} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 14/02/22 - 317* the voice ukr _12{7} the voice finland _12{20} earthmix space _1{92} all of us are dead _1{2} the voice fr _12{0} f4 thailand _1{22} the voice no _7{72} 
+aEff/aeffT.md:- 14/02/22 (eff) - earthmix space _1{92} the voice no _7{72} f4 thailand _1{22} the voice finland _12{20} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 14/03/22 (eff) - earthmix space _1{144} the voice no _7{133} the voice finland _12{78} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 15/02/22 - 273* the voice ukr _12{8} the voice finland _12{23} earthmix space _1{95} all of us are dead _1{5} the voice fr _12{1} f4 thailand _1{24} 
+aEff/aeffT.md:- 15/02/22 (eff) - earthmix space _1{95} the voice no _7{75} f4 thailand _1{24} the voice finland _12{23} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 15/03/22 (eff) - earthmix space _1{145} the voice no _7{136} the voice finland _12{81} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 16/02/22 (eff) - earthmix space _1{97} the voice no _7{77} the voice finland _12{25} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 16/03/22 (eff) - earthmix space _1{146} the voice no _7{138} the voice finland _12{83} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 17/02/22 (eff) - earthmix space _1{99} the voice no _7{79} the voice finland _12{26} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 17/03/22 (eff) - earthmix space _1{147} the voice no _7{140} the voice finland _12{85} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 18/02/22 (eff) - earthmix space _1{101} the voice no _7{81} the voice finland _12{27} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 18/03/22 (eff) - earthmix space _1{148} the voice no _7{142} the voice finland _12{87} f4 thailand _1{35} 5515 never too late _1{18} 
+aEff/aeffT.md:- 19/02/22 (eff) - earthmix space _1{103} the voice no _7{83} the voice finland _12{28} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeffT.md:- 19/03/22 (eff) - earthmix space _1{150} the voice no _7{144} the voice finland _12{89} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12} 
+aEff/aeffT.md:- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} unlocked _1{4} earthmix space _1{12} aggretsuko _4{1} 
+aEff/aeffT.md:- 20/02/22 - 199* enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} the voice no _7{85} the voice finland _12{30} 
+aEff/aeffT.md:- 20/02/22 (eff) - earthmix space _1{105} the voice no _7{85} the voice finland _12{30} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 20/03/22 (eff) - earthmix space _1{152} the voice no _7{146} the voice finland _12{91} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
+aEff/aeffT.md:- 20/12/21 - 62* district z _2{3} f4 thailand _1{1} unlocked _1{4} earthmix space _1{14} 
+aEff/aeffT.md:- 21/02/22 - 190* the voice ukr _12{8} the voice finland _12{32} enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
+aEff/aeffT.md:- 21/02/22 (eff) - earthmix space _1{107} the voice no _7{87} the voice finland _12{32} f4 thailand _1{27} 5515 never too late _1{18} the voice ph _1{16} 
+aEff/aeffT.md:- 21/03/22 (eff) - earthmix space _1{154} the voice no _7{148} the voice finland _12{93} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
+aEff/aeffT.md:- 21/12/21 - 72* district z _2{4} f4 thailand _1{2} unlocked _1{5} 
+aEff/aeffT.md:- 22/02/22 (eff) - earthmix space _1{109} the voice no _7{90} the voice finland _12{35} f4 thailand _1{30} 5515 never too late _1{18} 
+aEff/aeffT.md:- 22/03/22 (eff) - earthmix space _1{157} the voice no _7{151} the voice finland _12{96} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
+aEff/aeffT.md:- 22/12/21 - 73* the player _1{0} district z _2{4} f4 thailand _1{2} unlocked _1{5} 
+aEff/aeffT.md:- 23/02/22 (eff) - earthmix space _1{111} the voice no _7{92} the voice finland _12{37} f4 thailand _1{32} 5515 never too late _1{18} 
+aEff/aeffT.md:- 23/03/22 (eff) - earthmix space _1{159} the voice no _7{153} the voice finland _12{98} f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} the voice fr _12{12} 
+aEff/aeffT.md:- 23/12/21 - 78* the player _1{2} district z _2{4} f4 thailand _1{2} 
+aEff/aeffT.md:- 24/01/22 - 77* the voice ukr _12{0} f4 thailand _1{6} the voice no _7{26} 
+aEff/aeffT.md:- 24/02/22 (eff) - earthmix space _1{113} the voice no _7{94} the voice finland _12{39} f4 thailand _1{33} 5515 never too late _1{18} 
+aEff/aeffT.md:- 25/01/22 - 97* love at night _1{0} the voice ukr _12{3} f4 thailand _1{7} the voice no _7{29} 
+aEff/aeffT.md:- 25/02/22 (eff) - earthmix space _1{115} the voice no _7{96} the voice finland _12{41} f4 thailand _1{34} 5515 never too late _1{18} 
+aEff/aeffT.md:- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} 
+aEff/aeffT.md:- 26/02/22 (eff) - earthmix space _1{117} the voice no _7{98} the voice finland _12{43} f4 thailand _1{34} 5515 never too late _1{18} 
+aEff/aeffT.md:- 26/12/21 - 865* f4 thailand _1{2} earthmix space _1{21} 
+aEff/aeffT.md:- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} love at night _1{3} the voice ukr _12{4} f4 thailand _1{7} 
+aEff/aeffT.md:- 27/02/22 (eff) - earthmix space _1{119} the voice no _7{100} the voice finland _12{45} f4 thailand _1{34} 5515 never too late _1{18} 
+aEff/aeffT.md:- 27/12/21 - 120* the player _1{3} f4 thailand _1{3} earthmix space _1{22} 
+aEff/aeffT.md:- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} love at night _1{3} the voice ukr _12{4} 
+aEff/aeffT.md:- 28/02/22 (eff) - earthmix space _1{121} the voice no _7{102} the voice finland _12{47} f4 thailand _1{34} 5515 never too late _1{18} 
+aEff/aeffT.md:- 28/12/21 - 137* 5515 never too late _1{12} the player _1{6} f4 thailand _1{4} earthmix space _1{24} 
+aEff/aeffT.md:- 29/01/22 - 136* the voice no _7{37} the voice finland _12{0} enchante _1{0} f4 thailand _1{9} something in my room _1{5} the voice ph _1{6} 
+aEff/aeffT.md:- 30/01/22 - 154* f4 thailand _1{10} the voice no _7{39} the voice finland _12{0} enchante _1{0} 
+aEff/aeffT.md:- 30/01/22 (eff) - earthmix space _1{65} the voice no _7{39} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} f4 thailand _1{10} 
+aEff/aeffT.md:- 31/01/22 - 177* the voice ukr _12{4} the voice finland _12{0} f4 thailand _1{12} the voice no _7{41} enchante _1{0} 
+aEff/aeffT.md:- 31/01/22 (eff) - earthmix space _1{67} the voice no _7{41} 5515 never too late _1{18} tbbt _11{13} f4 thailand _1{12} young sheldon _5{11} 
 apercu/apercu21.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
 apercu/apercu21.md:- sem 27-12-2021 -> The player _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1) 
 apercu/apercu21.md:* concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 26/12/21 = Earthmix space _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
 apercu/apercu22.md:- mois 01-01-2022 -> 5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) Earthmix space _1x10(3) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Camping paradis _12x6(1) Baker boys _1x4(1) 
-apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) The voice finland _12x3(2) F4 thailand _1x7(4) Rpdr _14x5(4) The voice no _7x9(8) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
-apercu/apercu22.md:- mois 01-03-2022 -> American idol _20x2(1) The voice finland _12x11(8) The voice fr _12x4(3) Cutie pie _1x3(2) Cupids last wish _1x3(2) Rpdr _14x9(4) Earthmix space _1x13(2) The voice no _7x17(8) Cherry blossoms after winter _1x2(1) Top chef _13x3(2) Koh-lanta _28x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
-apercu/apercu22.md:- sem 07-02-2022 -> The voice ukr _12x4(1) The voice finland _12x5(2) Meet my angel _2x4(2) Something in my room _1x4(1) Rpdr _14x6(1) F4 thailand _1x8(1) The voice no _7x11(2) Enchante _1x3(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
-apercu/apercu22.md:- sem 10-01-2022 -> F4 thailand _1x4(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) /9-1-1 lone star _3x2(1) 
+apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) The voice finland _12x3(2) F4 thailand _1x7(4) The voice no _7x9(8) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
+apercu/apercu22.md:- mois 01-03-2022 -> American idol _20x2(1) The voice finland _12x11(8) The voice fr _12x4(3) Cutie pie _1x3(2) Cupids last wish _1x3(2) Earthmix space _1x13(2) The voice no _7x17(8) Cherry blossoms after winter _1x2(1) Top chef _13x3(2) Koh-lanta _28x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercu22.md:- sem 07-02-2022 -> The voice ukr _12x4(1) The voice finland _12x5(2) Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) The voice no _7x11(2) Enchante _1x3(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
+apercu/apercu22.md:- sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) The voice no _7x3(2) /9-1-1 lone star _3x2(1) 
 apercu/apercu22.md:- sem 14-02-2022 -> The voice ukr _12x5(1) The voice finland _12x7(2) Earthmix space _1x12(1) All of us are dead _1x3(2) The voice fr _12x2(1) F4 thailand _1x9(1) The voice no _7x13(2) Enchante _1x4(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
-apercu/apercu22.md:- sem 21-02-2022 -> The voice ukr _12x6(1) The voice finland _12x9(2) Enchante _1x5(1) The voice fr _12x3(1) Cutie pie _1x2(1) Something in my room _1x5(1) F4 thailand _1x10(1) Rpdr _14x8(2) The voice no _7x15(2) Top chef _13x2(1) Love stage 2022 _1x4(1) 
-apercu/apercu22.md:- sem 24-01-2022 -> The voice ukr _12x2(1) F4 thailand _1x5(1) Rpdr _14x4(1) The voice no _7x7(2) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
-apercu/apercu22.md:- sem 31-01-2022 -> The voice ukr _12x3(1) The voice finland _12x3(2) F4 thailand _1x7(2) Rpdr _14x5(1) The voice no _7x9(2) Enchante _1x2(1) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
+apercu/apercu22.md:- sem 21-02-2022 -> The voice ukr _12x6(1) The voice finland _12x9(2) Enchante _1x5(1) The voice fr _12x3(1) Cutie pie _1x2(1) Something in my room _1x5(1) F4 thailand _1x10(1) The voice no _7x15(2) Top chef _13x2(1) Love stage 2022 _1x4(1) 
+apercu/apercu22.md:- sem 24-01-2022 -> The voice ukr _12x2(1) F4 thailand _1x5(1) The voice no _7x7(2) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
+apercu/apercu22.md:- sem 31-01-2022 -> The voice ukr _12x3(1) The voice finland _12x3(2) F4 thailand _1x7(2) The voice no _7x9(2) Enchante _1x2(1) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
 apercu/apercu22.md:* conclu 13/02/22 = The voice no _7 > 10; F4 thailand _1 > 2; All of us are dead _1 > 2; Earthmix space _1 > 2; Forever knight _1 > 1; 
-apercu/apercu22.md:* conclu 20/02/22 = The voice no _7 > 9; Earthmix space _1 > 4; The voice finland _12 > 2; F4 thailand _1 > 1; Rpdr _14 > 1; Forever knight _1 > 1; 
+apercu/apercu22.md:* conclu 20/02/22 = The voice no _7 > 9; Earthmix space _1 > 4; The voice finland _12 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
 apercu/apercu22.md:* conclu 21/02/22 = The voice no _7 > 9; The voice finland _12 > 4; Earthmix space _1 > 2; F4 thailand _1 > 1; 
 apercu/apercu22.md:* conclu 22/02/22 = The voice no _7 > 7; The voice finland _12 > 3; Earthmix space _1 > 2; F4 thailand _1 > 1; 
 apercu/apercu22.md:* conclu 28/01/22 = The voice no _7 > 3; The voice ph _1 > 3; Earthmix space _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
 apercu/apercu22.md:* conclu 30/01/22 = The voice no _7 > 5; The voice ph _1 > 2; Earthmix space _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
 apercu/apercu22.md:* concluBis 01/02/22 = The voice no _7 > 9; /9-1-1 lone star _3 > 5; The voice ph _1 > 5; Earthmix space _1 > 3; The voice finland _12 > 2; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; 
-apercu/apercu22.md:* concluBis 06/02/22 = The voice no _7 > 13; F4 thailand _1 > 2; Rpdr _14 > 2; Earthmix space _1 > 2; Forever knight _1 > 1; 
-apercu/apercu22.md:* concluBis 07/02/22 = The voice no _7 > 13; The voice finland _12 > 3; Earthmix space _1 > 3; Rpdr _14 > 2; Meet my angel _2 > 2; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; 
+apercu/apercu22.md:* concluBis 06/02/22 = The voice no _7 > 13; F4 thailand _1 > 2; Earthmix space _1 > 2; Forever knight _1 > 1; 
+apercu/apercu22.md:* concluBis 07/02/22 = The voice no _7 > 13; The voice finland _12 > 3; Earthmix space _1 > 3; Meet my angel _2 > 2; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 08/02/22 = The voice no _7 > 13; The voice finland _12 > 3; Earthmix space _1 > 3; F4 thailand _1 > 2; Meet my angel _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 13/02/22 = The voice no _7 > 18; F4 thailand _1 > 7; All of us are dead _1 > 4; Earthmix space _1 > 4; Forever knight _1 > 3; The voice finland _12 > 2; Imortal _1 > 2; 
 apercu/apercu22.md:* concluBis 14/02/22 = The voice no _7 > 17; Earthmix space _1 > 8; The voice finland _12 > 6; All of us are dead _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; F4 thailand _1 > 1; 
 apercu/apercu22.md:* concluBis 15/02/22 = The voice no _7 > 17; Earthmix space _1 > 8; The voice finland _12 > 7; All of us are dead _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; F4 thailand _1 > 1; 
-apercu/apercu22.md:* concluBis 20/02/22 = The voice no _7 > 17; Earthmix space _1 > 8; F4 thailand _1 > 5; The voice finland _12 > 5; Rpdr _14 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
-apercu/apercu22.md:* concluBis 21/02/22 = The voice no _7 > 15; The voice finland _12 > 8; F4 thailand _1 > 4; Earthmix space _1 > 4; Forever knight _1 > 2; Rpdr _14 > 1; Imortal _1 > 1; 
+apercu/apercu22.md:* concluBis 20/02/22 = The voice no _7 > 17; Earthmix space _1 > 8; F4 thailand _1 > 5; The voice finland _12 > 5; Forever knight _1 > 3; Imortal _1 > 2; 
+apercu/apercu22.md:* concluBis 21/02/22 = The voice no _7 > 15; The voice finland _12 > 8; F4 thailand _1 > 4; Earthmix space _1 > 4; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 22/02/22 = The voice no _7 > 13; The voice finland _12 > 7; Earthmix space _1 > 4; F4 thailand _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 23/02/22 = The voice no _7 > 13; The voice finland _12 > 8; Earthmix space _1 > 4; F4 thailand _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 24/02/22 = The voice no _7 > 13; The voice finland _12 > 7; Earthmix space _1 > 4; F4 thailand _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
@@ -115,7 +197,7 @@ apercu/apercu22.md:* concluBis 28/01/22 = The voice no _7 > 8; The voice ph _1 >
 apercu/apercu22.md:* concluBis 29/01/22 = The voice no _7 > 12; The voice ph _1 > 4; Earthmix space _1 > 4; F4 thailand _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercu22.md:* concluBis 30/01/22 = The voice no _7 > 11; The voice ph _1 > 4; Earthmix space _1 > 4; F4 thailand _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercu22.md:* concluBis 31/01/22 = The voice no _7 > 8; The voice ph _1 > 4; The voice finland _12 > 3; F4 thailand _1 > 2; Earthmix space _1 > 2; Forever knight _1 > 1; 
-apercu/apercuglobal.md:- sem 10-01-2022 -> F4 thailand _1x4(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) /9-1-1 lone star _3x2(1) 
+apercu/apercuglobal.md:- sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) The voice no _7x3(2) /9-1-1 lone star _3x2(1) 
 apercu/apercuglobal.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
 apercu/apercuglobal.md:- sem 27-12-2021 -> The player _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1)
 apercu/apercuglobal.md:* concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 

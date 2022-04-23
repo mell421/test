@@ -39,7 +39,6 @@ Enchante 1x2
 * Love stage 2022 1x1
 /9-1-1 lone star 3x4
 The voice ukr 12x2
-Rpdr 14x4
 * The voice finland 12x1
 * Enchante 1x1
 Something in my room 1x2
@@ -52,7 +51,6 @@ The voice ph 1x4
 * Something in my room 1x1
 The voice nl 12x2
 Earthmix space 1x10
-* Rpdr 14x1
 * The voice nl 12x1
 * The voice no 7x1
 * /9-1-1 lone star 3x1

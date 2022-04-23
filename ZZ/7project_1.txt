@@ -12,6 +12,20 @@ aEff/aeff.md:- 16/09/21 - 191* 7project _1{4} buffy _1{3}
 aEff/aeff.md:- 17/09/21 - 643* 7project _1{4} buffy _1{3} 
 aEff/aeff.md:- 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
 aEff/aeff.md:- 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
+aEff/aeffT.md:- 01/09/21 - 245* 7project _1{1} camping paradis _12{7} bite me _1{2} 
+aEff/aeffT.md:- 02/09/21 - 385* 7project _1{1} camping paradis _12{7} 
+aEff/aeffT.md:- 03/09/21 - 895* 7project _1{1} 
+aEff/aeffT.md:- 04/09/21 - 789* 7project _1{1} 
+aEff/aeffT.md:- 05/09/21 - 792* qforce _1{0} 7project _1{1} 
+aEff/aeffT.md:- 08/09/21 - 789* 7project _1{2} vwars _1{8} qforce _1{1} 
+aEff/aeffT.md:- 09/09/21 - 247* 7project _1{2} vwars _1{8} qforce _1{1} 
+aEff/aeffT.md:- 10/09/21 - 300* bite me _1{2} 7project _1{2} vwars _1{8} 
+aEff/aeffT.md:- 14/09/21 - 115* 7project _1{3} buffy _1{3} earthmix space _1{1} lucifer _4{5} 
+aEff/aeffT.md:- 15/09/21 - 225* 7project _1{4} buffy _1{3} 
+aEff/aeffT.md:- 16/09/21 - 191* 7project _1{4} buffy _1{3} 
+aEff/aeffT.md:- 17/09/21 - 643* 7project _1{4} buffy _1{3} 
+aEff/aeffT.md:- 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
+aEff/aeffT.md:- 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
 apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 apercu/apercu21.md:- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) 7project _1x2(1) Camping paradis _12x5(1) 

@@ -119,7 +119,7 @@ sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) Camping par
 sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
 sem 27-12-2021 -> The player _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1) 
 sem 03-01-2022 -> Young sheldon _5x6(2) 5515 never too late _1x5(1) 
-sem 10-01-2022 -> F4 thailand _1x4(1) Rpdr _14x2(1) The voice nl _12x2(1) The voice no _7x3(2) /9-1-1 lone star _3x2(1) 
+sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) The voice no _7x3(2) /9-1-1 lone star _3x2(1) 
 
 </doc>
 
@@ -1090,14 +1090,14 @@ concluBis 16/01/22 = Earthmix space _1 > 6; The voice no _7 > 4; Forever knight 
 05/01/22 -  /9-1-1 lone star _3{0} young sheldon _5{10} 
 06/01/22 - /9-1-1 lone star _3{0} young sheldon _5{10} 
 07/01/22 - the voice no _7{0} /9-1-1 lone star _3{0} young sheldon _5{11} 
-08/01/22 - rpdr _14{0} the voice nl _12{0} the voice no _7{0} 
-09/01/22 - f4 thailand _1{5} rpdr _14{0} the voice nl _12{0} the voice no _7{2} 
+08/01/22 - the voice nl _12{0} the voice no _7{0} 
+09/01/22 - f4 thailand _1{5} the voice nl _12{0} the voice no _7{2} 
 10/01/22 - f4 thailand _1{5} 
 11/01/22 - /9-1-1 lone star _3{1} f4 thailand _1{6} 
 12/01/22 - /9-1-1 lone star _3{1} f4 thailand _1{6} 
 13/01/22 - /9-1-1 lone star _3{1} 
 14/01/22 - /9-1-1 lone star _3{1} 
-15/01/22 - rpdr _14{1} the voice nl _12{1} the voice no _7{8} earthmix space _1{38} 
-16/01/22 - rpdr _14{1} the voice nl _12{1} the voice no _7{10} earthmix space _1{40} 
+15/01/22 - the voice nl _12{1} the voice no _7{8} earthmix space _1{38} 
+16/01/22 - the voice nl _12{1} the voice no _7{10} earthmix space _1{40} 
 
 </doc>

@@ -821,6 +821,7 @@
 * Clem _12
 ### sem 25-04-2022 
 * *insererici*
+* Rpdr _14
 * Forcebook show real _1
 
 
@@ -855,7 +856,7 @@
 * The voice fr _12
 * Trivia quest _1
 * Cutie pie _1
-* Rpdr _14
+* 
 * The voice no _7
 * The voice finland _12
 * The voice kids vv _6
@@ -1013,7 +1014,7 @@
 #### mois 01-04-2022 
 *insererici Absolute bl _2 Dancing on ice uk _14 Survivor _25 Semantic error _1 Is it cake _1 Not me _1 The masked singer vv _2 Skam france _9 Survivor _24 Agt extreme _1 The voice generations lithu _1 Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*
 #### mois 01-05-2022 
-*insererici Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
+*insererici Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
 *insererici*
 
