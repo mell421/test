@@ -15,23 +15,6 @@ aEff/aeff.md:- 16/10/21 - 148* /9-1-1 _5{6}
 aEff/aeff.md:- 21/09/21 - 54* /9-1-1 _5{0} post mortem _1{4} 
 aEff/aeff.md:- 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
 aEff/aeff.md:- 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
-aEff/aeffT.md:- 01/10/21 - 129* /9-1-1 _5{2} 
-aEff/aeffT.md:- 02/10/21 - 105* /9-1-1 _5{4} 
-aEff/aeffT.md:- 03/10/21 - 73* the shipper _1{5} /9-1-1 _5{4} 
-aEff/aeffT.md:- 04/01/22 - 173* /9-1-1 lone star _3{0} young sheldon _5{9} 
-aEff/aeffT.md:- 04/10/21 - 124* the shipper _1{6} /9-1-1 _5{5} 
-aEff/aeffT.md:- 05/01/22 - 159*  /9-1-1 lone star _3{0} young sheldon _5{10} 
-aEff/aeffT.md:- 06/01/22 - 156* /9-1-1 lone star _3{0} young sheldon _5{10} 
-aEff/aeffT.md:- 07/01/22 - 141* the voice no _7{0} /9-1-1 lone star _3{0} young sheldon _5{11} 
-aEff/aeffT.md:- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
-aEff/aeffT.md:- 12/10/21 - 236* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
-aEff/aeffT.md:- 13/10/21 - 204* /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
-aEff/aeffT.md:- 14/10/21 - 284* /9-1-1 _5{6} earthmix space _1{4} 
-aEff/aeffT.md:- 15/10/21 - 180* /9-1-1 _5{6} earthmix space _1{4} 
-aEff/aeffT.md:- 16/10/21 - 148* /9-1-1 _5{6} 
-aEff/aeffT.md:- 21/09/21 - 54* /9-1-1 _5{0} post mortem _1{4} 
-aEff/aeffT.md:- 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
-aEff/aeffT.md:- 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
 apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 apercu/apercu21.md:- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 

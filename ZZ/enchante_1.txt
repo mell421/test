@@ -9,17 +9,6 @@ aEff/aeff.md:- 23/02/22 - 201* koh-lanta _28{0} the voice ukr _12{9} the voice f
 aEff/aeff.md:- 29/01/22 - 136* the voice no _7{37} the voice finland _12{0} enchante _1{0} f4 thailand _1{9} something in my room _1{5} the voice ph _1{6} 
 aEff/aeff.md:- 30/01/22 - 154* f4 thailand _1{10} the voice no _7{39} the voice finland _12{0} enchante _1{0} 
 aEff/aeff.md:- 31/01/22 - 177* the voice ukr _12{4} the voice finland _12{0} f4 thailand _1{12} the voice no _7{41} enchante _1{0} 
-aEff/aeffT.md:- 05/02/22 - 146* the voice no _7{53} the voice finland _12{5} enchante _1{2} love stage 2022 _1{0} 
-aEff/aeffT.md:- 06/02/22 - 208* something in my room _1{7} f4 thailand _1{16} the voice no _7{55} the voice finland _12{6} enchante _1{2} 
-aEff/aeffT.md:- 12/02/22 - 216* the voice no _7{68} the voice finland _12{17} enchante _1{3} love stage 2022 _1{3} 
-aEff/aeffT.md:- 13/02/22 - 210* all of us are dead _1{0} the voice fr _12{0} f4 thailand _1{20} the voice no _7{70} the voice finland _12{19} enchante _1{3} 
-aEff/aeffT.md:- 20/02/22 - 199* enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} the voice no _7{85} the voice finland _12{30} 
-aEff/aeffT.md:- 21/02/22 - 190* the voice ukr _12{8} the voice finland _12{32} enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
-aEff/aeffT.md:- 22/02/22 - 196* the voice ukr _12{9} the voice finland _12{37} enchante _1{5} the voice fr _12{2} cutie pie _1{1} something in my room _1{9} 
-aEff/aeffT.md:- 23/02/22 - 201* koh-lanta _28{0} the voice ukr _12{9} the voice finland _12{37} enchante _1{5} the voice fr _12{2} cutie pie _1{1} 
-aEff/aeffT.md:- 29/01/22 - 136* the voice no _7{37} the voice finland _12{0} enchante _1{0} f4 thailand _1{9} something in my room _1{5} the voice ph _1{6} 
-aEff/aeffT.md:- 30/01/22 - 154* f4 thailand _1{10} the voice no _7{39} the voice finland _12{0} enchante _1{0} 
-aEff/aeffT.md:- 31/01/22 - 177* the voice ukr _12{4} the voice finland _12{0} f4 thailand _1{12} the voice no _7{41} enchante _1{0} 
 apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) The voice finland _12x3(2) F4 thailand _1x7(4) The voice no _7x9(8) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
 apercu/apercu22.md:- mois 01-03-2022 -> American idol _20x2(1) The voice finland _12x11(8) The voice fr _12x4(3) Cutie pie _1x3(2) Cupids last wish _1x3(2) Earthmix space _1x13(2) The voice no _7x17(8) Cherry blossoms after winter _1x2(1) Top chef _13x3(2) Koh-lanta _28x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 apercu/apercu22.md:- sem 07-02-2022 -> The voice ukr _12x4(1) The voice finland _12x5(2) Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) The voice no _7x11(2) Enchante _1x3(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
