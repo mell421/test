@@ -11,7 +11,7 @@ list99=(
 # 99-50
 "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
-"The voice fr _12" "Camping paradis _12" 
+"The voice fr _12" 
 # 39-30
 "Cupids last wish _1" "American idol _20" "Cutie pie _1" "The voice ukr _12" 
 # 29-20
@@ -61,7 +61,7 @@ listAsc=(
 # 10
 "5515 never too late _1" "The player _1" "District z _2" "Unlocked _1" 
 # 11
-"Aggretsuko _4" "Camping paradis _12" "Baker boys _1" "Les engages _3" "The case study of vanitas _1" 
+"Aggretsuko _4" "Baker boys _1" "Les engages _3" "The case study of vanitas _1" 
 # 12
 "Banana fish _1" "Tbbt _11" "Aoki vuanpaia no nayami _1" "My sweet dear _1" "Insiders _1" 
 # 13

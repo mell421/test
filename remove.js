@@ -7,7 +7,7 @@ function remove(someFile,replacement){
         if (err) {
           return console.log(err);
         }
-        var regex=/the voice kids poland _5{\d+} ?|the voice kids poland _5 > \d+; ?|the voice kids poland _5x\d+; ?|the voice kids poland _5x\d+\(\d+\) ?/ig;
+        var regex=/camping paradis _12{\d+} ?|camping paradis _12 > \d+; ?|camping paradis _12x\d+; ?|camping paradis _12x\d+\(\d+\) ?/ig;
         var result = data.replace(regex, replacement);
       
         fs.writeFile(someFile, result, 'utf8', function (err) {

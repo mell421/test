@@ -63,7 +63,6 @@ District z 2x2
 Unlocked 1x3
 * Aggretsuko 4x1
 * 5515 never too late 1x1
-Camping paradis 12x5
 * District z 2x1
 Baker boys 1x3
 * Baker boys 1x1
@@ -109,7 +108,6 @@ Glow up 2x2
 Zombie detective 1x2
 * /46 days 1x1
 * Young royals 1x1
-* Camping paradis 12x1
 * Siew sum noi 1x1
 Elite 4x3
 * Elite 4x1

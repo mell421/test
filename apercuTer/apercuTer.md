@@ -130,6 +130,7 @@
     - [sem 11-04-2022](#sem-11-04-2022)
     - [sem 18-04-2022](#sem-18-04-2022)
     - [sem 25-04-2022](#sem-25-04-2022)
+    - [sem 02-05-2022](#sem-02-05-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -824,7 +825,9 @@
 * The voice kids poland _5
 * Rpdr _14
 * Forcebook show real _1
-
+### sem 02-05-2022 
+* *insererici*
+* Camping paradis _12
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -904,7 +907,7 @@
 * District z _2
 * Unlocked _1
 * Aggretsuko _4
-* Camping paradis _12
+* 
 * Baker boys _1
 * Les engagés _3
 * The case study of vanitas _1
@@ -1015,7 +1018,7 @@
 #### mois 01-04-2022 
 *insererici Absolute bl _2 Dancing on ice uk _14 Survivor _25 Semantic error _1 Is it cake _1 Not me _1 The masked singer vv _2 Skam france _9 Survivor _24 Agt extreme _1 The voice generations lithu _1 Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*
 #### mois 01-05-2022 
-*insererici The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
+*insererici Camping paradis _12 The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
 *insererici*
 

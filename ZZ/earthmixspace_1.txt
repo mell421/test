@@ -75,58 +75,58 @@ aEff/aeff.md:- 18/02/22 (eff) - earthmix space _1{101} the voice no _7{81} the v
 aEff/aeff.md:- 18/03/22 - 424* earthmix space _1{148} domino masters us _1{2} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} the voice finland _12{87} the voice fr _12{7} 
 aEff/aeff.md:- 18/03/22 (eff) - earthmix space _1{148} the voice no _7{142} the voice finland _12{87} f4 thailand _1{35} 5515 never too late _1{18} 
 aEff/aeff.md:- 18/12/21 - 356* unlocked _1{4} earthmix space _1{10} aggretsuko _4{1} 
-aEff/aeff.md:- 19/01/22 (eff) - earthmix space _1{45} 5515 never too late _1{18} the voice no _7{16} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} 
+aEff/aeff.md:- 19/01/22 (eff) - earthmix space _1{45} 5515 never too late _1{18} the voice no _7{16} tbbt _11{13} young sheldon _5{11} 
 aEff/aeff.md:- 19/02/22 (eff) - earthmix space _1{103} the voice no _7{83} the voice finland _12{28} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
 aEff/aeff.md:- 19/03/22 - 481* american idol _20{3} the voice no _7{144} the voice finland _12{89} earthmix space _1{150} domino masters us _1{4} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} 
 aEff/aeff.md:- 19/03/22 (eff) - earthmix space _1{150} the voice no _7{144} the voice finland _12{89} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12} 
 aEff/aeff.md:- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} unlocked _1{4} earthmix space _1{12} aggretsuko _4{1} 
 aEff/aeff.md:- 19/12/21 (eff) - tbbt _11{13} earthmix space _1{12} 5515 never too late _1{12} 
-aEff/aeff.md:- 20/01/22 (eff) - earthmix space _1{46} the voice no _7{18} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} 
+aEff/aeff.md:- 20/01/22 (eff) - earthmix space _1{46} the voice no _7{18} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 aEff/aeff.md:- 20/02/22 (eff) - earthmix space _1{105} the voice no _7{85} the voice finland _12{30} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} american idol _20{4} the voice no _7{146} the voice finland _12{91} earthmix space _1{152} 
 aEff/aeff.md:- 20/03/22 (eff) - earthmix space _1{152} the voice no _7{146} the voice finland _12{91} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
 aEff/aeff.md:- 20/12/21 - 62* district z _2{3} f4 thailand _1{1} unlocked _1{4} earthmix space _1{14} 
-aEff/aeff.md:- 20/12/21 (eff) - earthmix space _1{14} tbbt _11{13} 5515 never too late _1{12} camping paradis _12{9} 
-aEff/aeff.md:- 21/01/22 (eff) - earthmix space _1{47} the voice no _7{20} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} 
+aEff/aeff.md:- 20/12/21 (eff) - earthmix space _1{14} tbbt _11{13} 5515 never too late _1{12} 
+aEff/aeff.md:- 21/01/22 (eff) - earthmix space _1{47} the voice no _7{20} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 aEff/aeff.md:- 21/02/22 (eff) - earthmix space _1{107} the voice no _7{87} the voice finland _12{32} f4 thailand _1{27} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 21/03/22 - 525* american idol _20{4} the voice finland _12{93} the voice kids ger _10{2} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} the voice no _7{148} earthmix space _1{154} 
 aEff/aeff.md:- 21/03/22 (eff) - earthmix space _1{154} the voice no _7{148} the voice finland _12{93} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
 aEff/aeff.md:- 21/12/21 (eff) - earthmix space _1{16} tbbt _11{13} 5515 never too late _1{12} 
-aEff/aeff.md:- 22/01/22 (eff) - earthmix space _1{49} the voice no _7{22} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} 
+aEff/aeff.md:- 22/01/22 (eff) - earthmix space _1{49} the voice no _7{22} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 aEff/aeff.md:- 22/02/22 (eff) - earthmix space _1{109} the voice no _7{90} the voice finland _12{35} f4 thailand _1{30} 5515 never too late _1{18} 
 aEff/aeff.md:- 22/03/22 (eff) - earthmix space _1{157} the voice no _7{151} the voice finland _12{96} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
 aEff/aeff.md:- 22/12/21 (eff) - earthmix space _1{17} tbbt _11{13} 5515 never too late _1{12} 
-aEff/aeff.md:- 23/01/22 (eff) - earthmix space _1{51} the voice no _7{24} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} the player _1{8} 
+aEff/aeff.md:- 23/01/22 (eff) - earthmix space _1{51} the voice no _7{24} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
 aEff/aeff.md:- 23/02/22 (eff) - earthmix space _1{111} the voice no _7{92} the voice finland _12{37} f4 thailand _1{32} 5515 never too late _1{18} 
 aEff/aeff.md:- 23/03/22 (eff) - earthmix space _1{159} the voice no _7{153} the voice finland _12{98} f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} the voice fr _12{12} 
 aEff/aeff.md:- 23/10/21 - 687* earthmix space _1{4} insiders _1{0} 
 aEff/aeff.md:- 23/12/21 (eff) - earthmix space _1{18} tbbt _11{13} 5515 never too late _1{12} 
-aEff/aeff.md:- 24/01/22 (eff) - earthmix space _1{53} the voice no _7{26} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} the player _1{8} 
+aEff/aeff.md:- 24/01/22 (eff) - earthmix space _1{53} the voice no _7{26} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
 aEff/aeff.md:- 24/02/22 (eff) - earthmix space _1{113} the voice no _7{94} the voice finland _12{39} f4 thailand _1{33} 5515 never too late _1{18} 
 aEff/aeff.md:- 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} earthmix space _1{4} 
 aEff/aeff.md:- 24/12/21 (eff) - earthmix space _1{19} tbbt _11{13} 5515 never too late _1{12} 
-aEff/aeff.md:- 25/01/22 (eff) - earthmix space _1{55} the voice no _7{29} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} the player _1{8} 
+aEff/aeff.md:- 25/01/22 (eff) - earthmix space _1{55} the voice no _7{29} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
 aEff/aeff.md:- 25/02/22 (eff) - earthmix space _1{115} the voice no _7{96} the voice finland _12{41} f4 thailand _1{34} 5515 never too late _1{18} 
 aEff/aeff.md:- 25/09/21 - 96* earthmix space _1{1} 
 aEff/aeff.md:- 25/12/21 - 851* earthmix space _1{20} 
 aEff/aeff.md:- 25/12/21 (eff) - earthmix space _1{20} tbbt _11{13} 5515 never too late _1{12} 
-aEff/aeff.md:- 26/01/22 (eff) - earthmix space _1{57} the voice no _7{31} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} the player _1{8} 
+aEff/aeff.md:- 26/01/22 (eff) - earthmix space _1{57} the voice no _7{31} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
 aEff/aeff.md:- 26/02/22 - 414* earthmix space _1{117} the voice no _7{98} the voice finland _12{43} cherry blossoms after winter _1{0} 
 aEff/aeff.md:- 26/02/22 (eff) - earthmix space _1{117} the voice no _7{98} the voice finland _12{43} f4 thailand _1{34} 5515 never too late _1{18} 
 aEff/aeff.md:- 26/09/21 - 56* earthmix space _1{1} 
 aEff/aeff.md:- 26/12/21 - 865* f4 thailand _1{2} earthmix space _1{21} 
 aEff/aeff.md:- 26/12/21 (eff) - earthmix space _1{21} tbbt _11{13} 
-aEff/aeff.md:- 27/01/22 (eff) - earthmix space _1{59} the voice no _7{33} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} the player _1{8} 
+aEff/aeff.md:- 27/01/22 (eff) - earthmix space _1{59} the voice no _7{33} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
 aEff/aeff.md:- 27/02/22 - 324* the voice fr _12{2} cutie pie _1{1} cupids last wish _1{0} earthmix space _1{119} the voice no _7{100} the voice finland _12{45} cherry blossoms after winter _1{0} 
 aEff/aeff.md:- 27/02/22 (eff) - earthmix space _1{119} the voice no _7{100} the voice finland _12{45} f4 thailand _1{34} 5515 never too late _1{18} 
 aEff/aeff.md:- 27/12/21 - 120* the player _1{3} f4 thailand _1{3} earthmix space _1{22} 
 aEff/aeff.md:- 27/12/21 (eff) - earthmix space _1{22} tbbt _11{13} 5515 never too late _1{12} 
-aEff/aeff.md:- 28/01/22 (eff) - earthmix space _1{61} the voice no _7{35} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} 
+aEff/aeff.md:- 28/01/22 (eff) - earthmix space _1{61} the voice no _7{35} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 aEff/aeff.md:- 28/02/22 - 347* the voice finland _12{47} the voice fr _12{2} cutie pie _1{1} cupids last wish _1{2} earthmix space _1{121} 
 aEff/aeff.md:- 28/02/22 (eff) - earthmix space _1{121} the voice no _7{102} the voice finland _12{47} f4 thailand _1{34} 5515 never too late _1{18} 
 aEff/aeff.md:- 28/12/21 - 137* 5515 never too late _1{12} the player _1{6} f4 thailand _1{4} earthmix space _1{24} 
 aEff/aeff.md:- 28/12/21 (eff) - earthmix space _1{24} tbbt _11{13} 5515 never too late _1{12} 
-aEff/aeff.md:- 29/01/22 (eff) - earthmix space _1{63} the voice no _7{37} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} camping paradis _12{10} 
+aEff/aeff.md:- 29/01/22 (eff) - earthmix space _1{63} the voice no _7{37} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 aEff/aeff.md:- 29/11/21 - 1071* earthmix space _1{7} 
 aEff/aeff.md:- 29/12/21 (eff) - earthmix space _1{25} tbbt _11{13} 5515 never too late _1{12} 
 aEff/aeff.md:- 30/01/22 (eff) - earthmix space _1{65} the voice no _7{39} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} f4 thailand _1{10} 
@@ -140,7 +140,7 @@ apercu/apercu21.md:- mois 01-12-2021 -> Earthmix space _1x7(2) Baker boys _1x3(2
 apercu/apercu21.md:- sem 08-11-2021 -> Banana fish _1x3(2) Earthmix space _1x6(1) 
 apercu/apercu21.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) 
 apercu/apercu21.md:- sem 13-09-2021 Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) 
-apercu/apercu21.md:- sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) Camping paradis _12x6(1) 
+apercu/apercu21.md:- sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) 
 apercu/apercu21.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
 apercu/apercu21.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) Age of the living dead _1x2(1) 
 apercu/apercu21.md:- sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
@@ -161,7 +161,7 @@ apercu/apercu21.md:* concluBis 27/12/21 = The player _1 > 3; Earthmix space _1 >
 apercu/apercu21.md:* concluBis 28/12/21 = The player _1 > 2; Earthmix space _1 > 1; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 30/12/21 = Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 apercu/apercu21.md:* concluBis 31/12/21 = Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
-apercu/apercu22.md:- mois 01-01-2022 -> 5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) Earthmix space _1x10(3) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Camping paradis _12x6(1) Baker boys _1x4(1) 
+apercu/apercu22.md:- mois 01-01-2022 -> 5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) Earthmix space _1x10(3) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Baker boys _1x4(1) 
 apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) The voice finland _12x3(2) F4 thailand _1x7(4) The voice no _7x9(8) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
 apercu/apercu22.md:- mois 01-03-2022 -> American idol _20x2(1) The voice finland _12x11(8) The voice fr _12x4(3) Cutie pie _1x3(2) Cupids last wish _1x3(2) Earthmix space _1x13(2) The voice no _7x17(8) Cherry blossoms after winter _1x2(1) Top chef _13x3(2) Koh-lanta _28x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 apercu/apercu22.md:- sem 14-02-2022 -> The voice ukr _12x5(1) The voice finland _12x7(2) Earthmix space _1x12(1) All of us are dead _1x3(2) The voice fr _12x2(1) F4 thailand _1x9(1) The voice no _7x13(2) Enchante _1x4(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
@@ -300,7 +300,7 @@ apercu/apercuglobal.md:- mois 01-12-2021 -> Earthmix space _1x7(2) Baker boys _1
 apercu/apercuglobal.md:- sem 08-11-2021 -> Banana fish _1x3(2) Earthmix space _1x6(1) 
 apercu/apercuglobal.md:- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Young sheldon _5x2(1) 
 apercu/apercuglobal.md:- sem 13-09-2021 Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) 
-apercu/apercuglobal.md:- sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) Camping paradis _12x6(1) 
+apercu/apercuglobal.md:- sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) 
 apercu/apercuglobal.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
 apercu/apercuglobal.md:- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) Age of the living dead _1x2(1) 
 apercu/apercuglobal.md:- sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
@@ -354,7 +354,7 @@ tab2021.html:    <td class="resumemois">/9-1-1 _5x3(2) Goblin _1x2(1) Earthmix s
 tab2021.html:    <td class="resumemois">Earthmix space _1x7(2) Baker boys _1x3(2) Les engages _3x2(1) 
 tab2021.html:    <td class="resumemois">Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) 
 tab2021.html:    <td class="resumesem">/9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Young sheldon _5x2(1) </td>
-tab2021.html:    <td class="resumesem">5515 never too late _1x4(3) Earthmix space _1x8(1) Camping paradis _12x6(1) </td>
+tab2021.html:    <td class="resumesem">5515 never too late _1x4(3) Earthmix space _1x8(1) </td>
 tab2021.html:    <td class="resumesem">Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) 
 tab2021.html:    <td class="resumesem">Banana fish _1x3(2) Earthmix space _1x6(1) </td>
 tab2021.html:    <td class="resumesem">Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) </td>
