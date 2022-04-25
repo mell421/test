@@ -70,10 +70,7 @@ suppressWarnings(main())
 ```{r pars, echo = FALSE}
 CopyS <-data.frame(aPARS())
   
-  plot(CopyS$incJ,main="nb de tisaep",type = "l",col="red",xlab = "date",ylab = "nb",ylim=c(0,30*1.1) )
-  lines(CopyS$incS,type = "l",col="navy blue")
-  lines(CopyS$incM,type = "l",col="purple")
-  lines(CopyS$j,type = "l",col="orange")
+  plot(CopyS$j,main="nb de tisaep",type = "l",col="red",xlab = "date",ylab = "nb",ylim=c(0,30*1.1) )
   lines(CopyS$s,type = "l",col="blue")
   lines(CopyS$m,type = "l",col="violet")
   box()
