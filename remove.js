@@ -7,7 +7,8 @@ function remove(someFile,replacement){
         if (err) {
           return console.log(err);
         }
-        var regex=/camping paradis _12{\d+} ?|camping paradis _12 > \d+; ?|camping paradis _12x\d+; ?|camping paradis _12x\d+\(\d+\) ?/ig;
+        //var regex=/the amazing race _33{\d+} ?|the amazing race _33 > \d+; ?|the amazing race _33 &gt; \d+; ?|the amazing race _33x\d+; ?|the amazing race _33x\d+\(\d+\) ?/ig;
+        var regex=/heartstopper _1({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
         var result = data.replace(regex, replacement);
       
         fs.writeFile(someFile, result, 'utf8', function (err) {
@@ -31,11 +32,9 @@ for (var page in pages){
     remove(pages[page],'')
     console.log(pages[page])
     var ext = pages[page].split('.').pop();
-    //console.log('extension',ext);
     if(ext == "md"){
         pageHtml=pages[page].replace(ext,"html");
-        //console.log(pageHtml)
         remove(pageHtml,'')
     }
 }
-//remove('./aEff/aeffT.md','')
+

@@ -41,23 +41,23 @@ list99=(
 
 listAsc=( 
 # 1
-"The masked singer fr _3"  "The voice finland _12" "Drag race esp _2" "The voice fr _12" 
+"The masked singer fr _3"  "The voice finland _12" "Drag race esp _2" "The voice fr _12" "Cutie pie _1" 
 # 2
-"Cutie pie _1" "Dear doctor _1" "The voice kids ger _10" "The voice kids vv _6" 
+"Dear doctor _1" "The voice kids ger _10" "The voice kids vv _6" "The voice no _7" "The masked singer _7" 
 # 3
-"The voice no _7" "The masked singer _7" 
+"Top chef _13" "American idol _20" "Asc _1" "Koh-lanta _28" "Cupids last wish _1" 
 # 4
-"Top chef _13" "American idol _20" "Asc _1" 
+"Earthmix space _1" "Domino masters us _1" "Drag i love you _1" "Survivor _42" "The tuxedo _1" 
 # 5
-"Koh-lanta _28" "Cupids last wish _1" "Earthmix space _1" 
+"Cherry blossoms after winter _1" "The voice ukr _12" "Enchante _1" "Something in my room _1" "F4 thailand _1" 
 # 6
-"Domino masters us _1" "Drag i love you _1" "Survivor _42" "The tuxedo _1" "Cherry blossoms after winter _1" 
+"Love stage 2022 _1" "All of us are dead _1" "/9-1-1 lone star _3" "Meet my angel _2" "The voice ph _1" 
 # 7
-"The voice ukr _12" "Enchante _1" "Something in my room _1" "F4 thailand _1" "Love stage 2022 _1" 
+
 # 8
-"All of us are dead _1" "/9-1-1 lone star _3" "Meet my angel _2" 
+
 # 9
-"The voice ph _1" "Love at night _1" "Color rush _2" "The voice nl _12" "Young sheldon _5" 
+"Love at night _1" "Color rush _2" "The voice nl _12" "Young sheldon _5" 
 # 10
 "5515 never too late _1" "The player _1" "District z _2" "Unlocked _1" 
 # 11

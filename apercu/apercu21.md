@@ -194,7 +194,6 @@
 * concluBis 31/01/21 > Be love _1 > 1; 
 * concluBis 01/02/21 > Be love _1 > 1; 
 * concluBis 02/02/21 > You never eat alone _1 > 2; Slam dance _1 > 1; 
-* concluBis 08/02/21 > 
 * concluBis 10/02/21 > The harvest season _1 > 4; Wabi show _1 > 3; 
 * concluBis 11/02/21 > The harvest season _1 > 5; Wabi show _1 > 2; 
 * concluBis 12/02/21 > The harvest season _1 > 5; Wabi show _1 > 3; 
@@ -210,7 +209,6 @@
 * concluBis 22/02/21 > My vampire boyfriend _1 > 5; 
 * concluBis 23/02/21 > My vampire boyfriend _1 > 2; 
 * concluBis 24/02/21 > My vampire boyfriend _1 > 3; 
-* concluBis 02/03/21 > 
 * concluBis 19/03/21 > Bt21 vlog _1 > 2; 
 * concluBis 20/03/21 > Bt21 vlog _1 > 2; 
 * concluBis 21/03/21 > Bt21 vlog _1 > 2; 
