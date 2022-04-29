@@ -12,15 +12,15 @@ aEff/aeff.md:- 07/02/22 (eff) - earthmix space _1{78} the voice no _7{57} 5515 n
 aEff/aeff.md:- 08/02/22 (eff) - earthmix space _1{80} the voice no _7{60} f4 thailand _1{19} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
 aEff/aeff.md:- 09/10/21 - 183* young sheldon _5{0} 
 aEff/aeff.md:- 10/10/21 - 701* love area _1{0} young sheldon _5{0} 
-aEff/aeff.md:- 15/02/22 (eff) - earthmix space _1{95} the voice no _7{75} f4 thailand _1{24} the voice finland _12{23} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeff.md:- 15/02/22 (eff) - earthmix space _1{95} the voice no _7{75} f4 thailand _1{24} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
 aEff/aeff.md:- 16/01/22 (eff) - earthmix space _1{40} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-aEff/aeff.md:- 16/02/22 (eff) - earthmix space _1{97} the voice no _7{77} the voice finland _12{25} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeff.md:- 16/02/22 (eff) - earthmix space _1{97} the voice no _7{77} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
 aEff/aeff.md:- 17/01/22 (eff) - earthmix space _1{42} 5515 never too late _1{18} tbbt _11{13} the voice no _7{12} young sheldon _5{11} 
-aEff/aeff.md:- 17/02/22 (eff) - earthmix space _1{99} the voice no _7{79} the voice finland _12{26} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeff.md:- 17/02/22 (eff) - earthmix space _1{99} the voice no _7{79} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
 aEff/aeff.md:- 18/01/22 (eff) - earthmix space _1{44} 5515 never too late _1{18} the voice no _7{14} tbbt _11{13} young sheldon _5{11} 
-aEff/aeff.md:- 18/02/22 (eff) - earthmix space _1{101} the voice no _7{81} the voice finland _12{27} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeff.md:- 18/02/22 (eff) - earthmix space _1{101} the voice no _7{81} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
 aEff/aeff.md:- 19/01/22 (eff) - earthmix space _1{45} 5515 never too late _1{18} the voice no _7{16} tbbt _11{13} young sheldon _5{11} 
-aEff/aeff.md:- 19/02/22 (eff) - earthmix space _1{103} the voice no _7{83} the voice finland _12{28} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+aEff/aeff.md:- 19/02/22 (eff) - earthmix space _1{103} the voice no _7{83} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
 aEff/aeff.md:- 20/01/22 (eff) - earthmix space _1{46} the voice no _7{18} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 aEff/aeff.md:- 21/01/22 (eff) - earthmix space _1{47} the voice no _7{20} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
 aEff/aeff.md:- 22/01/22 (eff) - earthmix space _1{49} the voice no _7{22} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
@@ -44,7 +44,7 @@ apercu/apercu21.md:* conclu 24/10/21 = Young sheldon _5 > 1;
 apercu/apercu21.md:* concluBis 24/10/21 = Young sheldon _5 > 3; My sweet dear _1 > 2; 
 apercu/apercu21.md:* concluBis 25/10/21 = Young sheldon _5 > 2; My sweet dear _1 > 1; 
 apercu/apercu21.md:* concluBis 26/10/21 = Tbbt _11 > 4; Young sheldon _5 > 1; 
-apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) The voice finland _12x3(2) F4 thailand _1x7(4) The voice no _7x9(8) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
+apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) The voice no _7x9(8) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
 apercu/apercu22.md:- sem 03-01-2022 -> Young sheldon _5x6(2) 5515 never too late _1x5(1) 
 apercu/apercu22.md:* concluBis 03/01/22 = Young sheldon _5 > 2; Earthmix space _1 > 1; Forever knight _1 > 1; 
 apercu/apercu22.md:* concluBis 04/01/22 = Earthmix space _1 > 1; Young sheldon _5 > 1; Forever knight _1 > 1; 

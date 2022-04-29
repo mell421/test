@@ -29,7 +29,7 @@ apercu/apercuglobal.md:* concluBis 14/09/21 = 7project _1 > 1;
 apercuTer/apercuTer.md:* 7project _1
 tab2021.html:    <td class="conclubis">7project _1 > 1; </td>
 tab2021.html:    <td class="resumemois">/9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) 
-tab2021.html:    <td class="resumemois">7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) 
+tab2021.html:    <td class="resumemois">7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) 
 tab2021.html:    <td class="resumesem">Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) </td>
 tab2021.html:    <td class="resumesem">Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) </td>
 tab2021.html:    <td class="resumesem">Post mortem _1x4(1) Alice in borderland _1x2(1) 7project _1x4(1) </td>

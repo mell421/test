@@ -17,7 +17,7 @@ apercu/apercuglobal.md:* concluBis 10/08/21 = Control z _2 > 2; /46 days _1 > 1;
 apercu/apercuglobal.md:* concluBis 11/08/21 = Control z _2 > 3; /46 days _1 > 1; 
 apercuTer/apercuTer.md:* Control z _2
 apercuTer/apercuTer.md:*TharnType _1 Rpdr _12 Cheerleaders champions league _1 Alyssas secret _2 Control z _1 Cheerleaders _3 The voice kids nl _1 The masked singer _3 The voice us _18 The outs _1 Cheerleaders _2 Cheerhab _1 The voice senior nl _2 Rpdru _12 Rpscdr _1 The voice senior nl _1 /9-1-1 _3 The voice uk _8 The voice nl _6 Tbbt _9 The voice senior vv _1 Amours solitaires _1*
-tab2021.html:      From dusk till dawn _2x6(2) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) </td>
+tab2021.html:      Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) </td>
 tab2021.html:    <td class="conclu">Control z _2 > 1; </td>
 tab2021.html:    <td class="conclubis">/46 days _1 > 1; Control z _2 > 1; Forever knight _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Control z _2 > 1; Forever knight _1 > 1; </td>

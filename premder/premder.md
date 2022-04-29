@@ -34,12 +34,10 @@ Meet my angel 2x2
 _
 F4 thailand 1x7
 The voice no 7x10
-The voice finland 12x3
 Enchante 1x2
 * Love stage 2022 1x1
 /9-1-1 lone star 3x4
 The voice ukr 12x2
-* The voice finland 12x1
 * Enchante 1x1
 Something in my room 1x2
 The voice ph 1x4
