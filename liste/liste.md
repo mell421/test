@@ -571,6 +571,7 @@
 |the amazing race 33||11|||<!-- 27/4 -->
 |heartstopper 1||8|show|uk|<!-- 28/4 -->
 |the voice finland 12||24|||<!-- 28/1/22 - 29/4 -->
+|the masked singer ger 6||6|||<!-- 30/4 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

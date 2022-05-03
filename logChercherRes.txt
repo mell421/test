@@ -34,7 +34,7 @@ carac :  2169 ZZ/Benxjim_1.txt
 carac :  2246 ZZ/Loveatnight_1.txt
 carac :  22800 ZZ/Myvampireboyfriend_1.txt
 carac :  2422 ZZ/Zombiedetective_1.txt
-carac :  2431 ZZ/Thevoicenl_12.txt
+carac :  2456 ZZ/Thevoicenl_12.txt
 carac :  2473 ZZ/Districtz_2.txt
 carac :  2501 ZZ/Postmortem_1.txt
 carac :  2542 ZZ/Lovestage2022_1.txt
@@ -57,11 +57,11 @@ carac :  3497 ZZ/Koh-lanta_28.txt
 carac :  3657 ZZ/Theshipper_1.txt
 carac :  3728 ZZ/7project_1.txt
 carac :  3746 ZZ//9-1-1lonestar_3.txt
-carac :  3850 ZZ/Thevoicekidsger_10.txt
 carac :  3862 ZZ/Somethinginmyroom_1.txt
 carac :  3981 ZZ/Americanidol_20.txt
 carac :  41 ZZ/Deardoctor_1.txt
 carac :  4130 ZZ/Themaskedsinger_7.txt
+carac :  4168 ZZ/Thevoicekidsger_10.txt
 carac :  4288 ZZ/Meetmyangel_2.txt
 carac :  4377 ZZ/Koishiteakuma_1.txt
 carac :  44471 ZZ/Earthmixspace_1.txt
@@ -73,7 +73,7 @@ carac :  5761 ZZ/Elite_4.txt
 carac :  669 ZZ/Survivor_42.txt
 carac :  6924 ZZ/Vwars_1.txt
 carac :  7017 ZZ/Belove_1.txt
-carac :  7103 ZZ/Thevoicefr_12.txt
+carac :  7128 ZZ/Thevoicefr_12.txt
 carac :  719 ZZ/Bananafish_1.txt
 carac :  766 ZZ/Siewsumnoi_1.txt
 carac :  8779 ZZ/Thevoiceph_1.txt
@@ -196,8 +196,8 @@ ligne :  17 ZZ/Benxjim_1.txt
 ligne :  17 ZZ/Lovestage2022_1.txt
 ligne :  17 ZZ/Thevoicenl_12.txt
 ligne :  18 ZZ/Enchante_1.txt
-ligne :  18 ZZ/Thevoicekidsger_10.txt
 ligne :  19 ZZ/Mrlipstick_1.txt
+ligne :  19 ZZ/Thevoicekidsger_10.txt
 ligne :  20 ZZ/Theuntamed_1.txt
 ligne :  21 ZZ/Biteme_1.txt
 ligne :  21 ZZ/Buffy_1.txt
@@ -254,7 +254,7 @@ ligne :  9 ZZ/Thebigleap_1.txt
 ligne :  96 ZZ/Tbbt_11.txt
 mot   : 
 mot   :  1059 ZZ/Belove_1.txt
-mot   :  1177 ZZ/Thevoicefr_12.txt
+mot   :  1182 ZZ/Thevoicefr_12.txt
 mot   :  1260 ZZ/Tbbt_11.txt
 mot   :  127 ZZ/Lesengages_3.txt
 mot   :  140 ZZ/Aliceinborderland_1.txt
@@ -299,9 +299,9 @@ mot   :  361 ZZ/Districtz_2.txt
 mot   :  368 ZZ/Theuntamed_1.txt
 mot   :  372 ZZ/Lucifer_4.txt
 mot   :  379 ZZ/Biteme_1.txt
-mot   :  398 ZZ/Thevoicenl_12.txt
 mot   :  4 ZZ/Deardoctor_1.txt
 mot   :  401 ZZ/Loveatnight_1.txt
+mot   :  403 ZZ/Thevoicenl_12.txt
 mot   :  412 ZZ/Controlz_2.txt
 mot   :  412 ZZ/Glowup_2.txt
 mot   :  423 ZZ/Aokivuanpaianonayami_1.txt
@@ -322,8 +322,8 @@ mot   :  5878 ZZ/Thevoiceno_7.txt
 mot   :  605 ZZ//9-1-1lonestar_3.txt
 mot   :  646 ZZ/Somethinginmyroom_1.txt
 mot   :  656 ZZ/Americanidol_20.txt
-mot   :  663 ZZ/Thevoicekidsger_10.txt
 mot   :  686 ZZ//9-1-1_5.txt
+mot   :  719 ZZ/Thevoicekidsger_10.txt
 mot   :  726 ZZ/Themaskedsinger_7.txt
 mot   :  7306 ZZ/Earthmixspace_1.txt
 mot   :  752 ZZ/Meetmyangel_2.txt

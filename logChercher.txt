@@ -36,8 +36,8 @@ carac :  8881 ZZ/Tbbt_11.txt
 
 i = The voice fr _12
 ligne :  41 ZZ/Thevoicefr_12.txt
-mot   :  1177 ZZ/Thevoicefr_12.txt
-carac :  7103 ZZ/Thevoicefr_12.txt
+mot   :  1182 ZZ/Thevoicefr_12.txt
+carac :  7128 ZZ/Thevoicefr_12.txt
 
 i = Cupids last wish _1
 ligne :  35 ZZ/Cupidslastwish_1.txt
@@ -85,9 +85,9 @@ mot   :  646 ZZ/Somethinginmyroom_1.txt
 carac :  3862 ZZ/Somethinginmyroom_1.txt
 
 i = The voice kids ger _10
-ligne :  18 ZZ/Thevoicekidsger_10.txt
-mot   :  663 ZZ/Thevoicekidsger_10.txt
-carac :  3850 ZZ/Thevoicekidsger_10.txt
+ligne :  19 ZZ/Thevoicekidsger_10.txt
+mot   :  719 ZZ/Thevoicekidsger_10.txt
+carac :  4168 ZZ/Thevoicekidsger_10.txt
 
 i = The player _1
 ligne :  33 ZZ/Theplayer_1.txt
@@ -151,8 +151,8 @@ carac :  1900 ZZ/Bakerboys_1.txt
 
 i = The voice nl _12
 ligne :  17 ZZ/Thevoicenl_12.txt
-mot   :  398 ZZ/Thevoicenl_12.txt
-carac :  2431 ZZ/Thevoicenl_12.txt
+mot   :  403 ZZ/Thevoicenl_12.txt
+carac :  2456 ZZ/Thevoicenl_12.txt
 
 i = Aoki vuanpaia no nayami _1
 ligne :  28 ZZ/Aokivuanpaianonayami_1.txt
