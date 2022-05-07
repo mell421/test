@@ -15,7 +15,7 @@ list99=(
 # 39-30
 "Cupids last wish _1" "American idol _20" "Cutie pie _1" "The voice ukr _12" 
 # 29-20
-"Top chef _13" "/9-1-1 lone star _3" "Koh-lanta _28" "Meet my angel _2" "Something in my room _1" "The voice kids ger _10" "The player _1" "7project _1" "/9-1-1 _5" 
+"Top chef _13" "/9-1-1 lone star _3" "Koh-lanta _28" "Meet my angel _2" "Something in my room _1" "The player _1" "7project _1" "/9-1-1 _5" 
 # 19-15
 "Enchante _1" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
 # 14-10
@@ -43,7 +43,7 @@ listAsc=(
 # 1
 "The masked singer fr _3"  "Drag race esp _2" "The voice fr _12" "Cutie pie _1" 
 # 2
-"Dear doctor _1" "The voice kids ger _10" "The voice kids vv _6" "The voice no _7" "The masked singer _7" 
+"Dear doctor _1" "The voice kids vv _6" "The voice no _7" "The masked singer _7" 
 # 3
 "Top chef _13" "American idol _20" "Asc _1" "Koh-lanta _28" "Cupids last wish _1" 
 # 4

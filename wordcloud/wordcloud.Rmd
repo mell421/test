@@ -85,10 +85,10 @@ tm <- function(text){
 suppressWarnings(tm(text))
 ```
 
-<!-- accueil -->
+<!-- LD -->
 ### recent
 ```{r recent0, echo=FALSE}
-recent <- data.frame(aAccueil())
+recent <- data.frame(aLD())
 text <- recent$Titre_1
 
 tm <- function(text){
@@ -365,7 +365,7 @@ suppressWarnings(main(text))
 
 ### Page app
 ```{r pa, echo=FALSE}
-text <- data.frame(PA())
+text <- data.frame(aPA())
 main <- function(text){
   dtm_d <- wc(text)
   # Display the top 20 most frequent words
@@ -409,7 +409,7 @@ suppressWarnings(main(text))
 
 ### aff odd
 ```{r affodd, echo=FALSE}
-text <- data.frame(affodd())
+text <- data.frame(aAffODD())
 main <- function(text){
   dtm_d <- wc(text)
   # Display the top 20 most frequent words

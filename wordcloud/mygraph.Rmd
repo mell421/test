@@ -30,22 +30,29 @@ begin_time<-Sys.time()
 
 ---
 
+### hhmm
+```{r saiep, echo = FALSE}
+CopyS <-data.frame(aLD())
+  tab3 <-table(CopyS$hh,CopyS$minute)
+  tab3
+  rowSums(tab3)
+  chisq.test(tab3)
+```
+
 ### nb duree
 ```{r nbDuree, echo = FALSE}
 CopyS <-data.frame(aListes())
   plot(CopyS$nb.jour,main="nb d'ep par jour",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
-  #lines(CopyS$nb.jour,type = "l",col="red")
   
   plot(CopyS$nb.sem,main="nb d'ep par semaine",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
-  #lines(CopyS$nb.sem,type = "l",col="red")
-  
+
   plot(CopyS$nb.mois,main="nb d'ep par mois",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
 ```
 
 ### conclu
 ```{r concluG, echo = FALSE}
 CopyS <-data.frame(copy.conclu())
-dataC <- data.frame(CopyS$nbCarConclu,CopyS$nbCarConcluBis,CopyS$jour_1,CopyS$date)
+#dataC <- data.frame(CopyS$nbCarConclu,CopyS$nbCarConcluBis,CopyS$jour_1,CopyS$date)
   
   plot(CopyS$nbCarConcluBis,main="nb de caracteres conclu",type = "l",col="red",xlab = "date",ylab = "nb car")
   lines(CopyS$nbCarConclu,type = "l",col="blue")
@@ -528,8 +535,7 @@ suppressWarnings(main())
 ### temps
 ```{r temps, echo=FALSE}
 
-df <- data.frame(accueil())
-layout(matrix(1:4,2,2))
+df <- data.frame(aLD())
 
 # print("heures")
 barplot(table(df$hh),
@@ -555,7 +561,7 @@ box()
 ### accueil
 ```{r acc, echo=FALSE}
 
-df <- data.frame(accueil())
+df <- data.frame(aLD())
 layout(matrix(1:4,2,2))
 # print("saison")
 barplot(table(df$saison),
@@ -584,15 +590,7 @@ barplot(table(df$status),
         ylim=c(0,max(table(df$status))*1.1)
         )
 box()
-# print("indice")
-barplot(table(df$indice),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="indice",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df$indice))*1.1)
-        )
-box()
+
 
 ```
 

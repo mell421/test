@@ -131,6 +131,7 @@
     - [sem 18-04-2022](#sem-18-04-2022)
     - [sem 25-04-2022](#sem-25-04-2022)
     - [sem 02-05-2022](#sem-02-05-2022)
+    - [sem 09-05-2022](#sem-09-05-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -831,6 +832,9 @@
 * The voice finland _12
 * Heartstopper _1
 * Camping paradis _12
+### sem 09-05-2022 
+* *insererici*
+* The voice kids ger _10
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -859,7 +863,7 @@
 * $ order $
 * 
 * 
-* The voice kids ger _10
+* 
 * The voice fr _12
 * Trivia quest _1
 * Cutie pie _1
@@ -1023,7 +1027,7 @@
 #### mois 01-05-2022 
 *insererici The masked singer ger _6 The voice finland _12 Heartstopper _1 Camping paradis _12 The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
-*insererici*
+*insererici The voice kids ger _10*
 
 
 

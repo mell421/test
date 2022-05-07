@@ -748,22 +748,22 @@
 - 03/03/22 - 160* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} american idol _20{1} 
 - 04/03/22 - 111* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} american idol _20{1} 
 - 05/03/22 - 298* the voice no _7{114} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} 
-- 06/03/22 - 291* the tuxedo _1{0} the voice fr _12{4} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{116} 
-- 07/03/22 - 332* the tuxedo _1{1} the voice fr _12{5} cutie pie _1{3} the voice kids ger _10{0} the voice no _7{118} 
-- 08/03/22 - 279* american idol _20{2} the tuxedo _1{2} the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} 
+- 06/03/22 - 291* the tuxedo _1{0} the voice fr _12{4} cutie pie _1{3} the voice no _7{116} 
+- 07/03/22 - 332* the tuxedo _1{1} the voice fr _12{5} cutie pie _1{3} the voice no _7{118} 
+- 08/03/22 - 279* american idol _20{2} the tuxedo _1{2} the voice fr _12{6} cutie pie _1{4} 
 - 09/03/22 - 313* koh-lanta _28{3} american idol _20{2} the tuxedo _1{2} the voice fr _12{6} 
 - 10/03/22 - 206* the masked singer _7{0} survivor _42{0} top chef _13{4} koh-lanta _28{3} american idol _20{2} 
 - 11/03/22 - 152* drag i love you _1{1} the masked singer _7{0} survivor _42{0} top chef _13{4} koh-lanta _28{3} 
 - 12/03/22 - 302* the voice no _7{129} drag i love you _1{1} the masked singer _7{0} survivor _42{0} 
-- 13/03/22 - 316* the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} the voice no _7{131} drag i love you _1{1} 
-- 14/03/22 - 413* the voice fr _12{6} cutie pie _1{4} the voice kids ger _10{1} the voice no _7{133} 
-- 15/03/22 - 434* the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} the voice no _7{136} 
-- 16/03/22 - 482* koh-lanta _28{4} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} the voice no _7{138} 
-- 17/03/22 - 340* domino masters us _1{0} top chef _13{5} koh-lanta _28{4} the voice fr _12{7} cutie pie _1{5} the voice kids ger _10{2} 
+- 13/03/22 - 316* the voice fr _12{6} cutie pie _1{4} the voice no _7{131} drag i love you _1{1} 
+- 14/03/22 - 413* the voice fr _12{6} cutie pie _1{4} the voice no _7{133} 
+- 15/03/22 - 434* the voice fr _12{7} cutie pie _1{5} the voice no _7{136} 
+- 16/03/22 - 482* koh-lanta _28{4} the voice fr _12{7} cutie pie _1{5} the voice no _7{138} 
+- 17/03/22 - 340* domino masters us _1{0} top chef _13{5} koh-lanta _28{4} the voice fr _12{7} cutie pie _1{5} 
 - 18/03/22 - 424* earthmix space _1{148} domino masters us _1{2} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} the voice fr _12{7} 
 - 19/03/22 - 481* american idol _20{3} the voice no _7{144} earthmix space _1{150} domino masters us _1{4} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} 
 - 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} american idol _20{4} the voice no _7{146} earthmix space _1{152} 
-- 21/03/22 - 525* american idol _20{4} the voice kids ger _10{2} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} the voice no _7{148} earthmix space _1{154} 
-- 22/03/22 - 394* american idol _20{7} the voice kids ger _10{3} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} the voice no _7{151} 
-- 23/03/22 - 248* american idol _20{9} asc _1{0} koh-lanta _28{5} the voice kids ger _10{3} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} 
+- 21/03/22 - 525* american idol _20{4} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} the voice no _7{148} earthmix space _1{154} 
+- 22/03/22 - 394* american idol _20{7} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} the voice no _7{151} 
+- 23/03/22 - 248* american idol _20{9} asc _1{0} koh-lanta _28{5} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} 
 

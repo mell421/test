@@ -2,8 +2,7 @@
 
 myRemoveList <- c("conclu", "conclubis","conclucompi","conclucompibis" ,"eff",
                   "the","sem","mois","premderall","last48tri","last46","offset3",
-                  "nbPageTri","nbPage","nbTpsPc","titre","na",
-                  "ufa")
+                  "nbPageTri","nbPage","nbTpsPc","titre","na")
 myToSpaceList <- c("@","\\|","'<'","\\'","/")
 
 toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))

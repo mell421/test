@@ -572,6 +572,7 @@
 |heartstopper 1||8|show|uk|<!-- 28/4 -->
 |the voice finland 12||24|||<!-- 28/1/22 - 29/4 -->
 |the masked singer ger 6||6|||<!-- 30/4 -->
+|The voice kids ger 10|||||<!-- 4/3 - 7/5-->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -774,7 +775,6 @@
 |quaranthings 2||8|||0|<!-- 18/2 -->
 |cherry blossoms after winter 1|||||0|<!-- 24/2 -->
 |drag I love you 1|||||0|<!-- 2/3 -->
-|The voice kids ger 10|||||0|<!-- 4/3 -->
 |the tuxedo 1|||||0|<!-- 5/3 -->
 |domino masters 1|||||0|<!-- 10/3 -->
 |Survivor 42|||||0|<!-- 10/3 -->
