@@ -23,7 +23,7 @@ list99=(
 # 9-8
 "Love at night _1" "Drag i love you _1" 
 # 7-6
-"Asc _1" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
+"The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
 # 5-4
 "Cherry blossoms after winter _1" "Survivor _42" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
@@ -45,7 +45,7 @@ listAsc=(
 # 2
 "Dear doctor _1" "The voice kids vv _6" "The voice no _7" "The masked singer _7" 
 # 3
-"Top chef _13" "American idol _20" "Asc _1" "Koh-lanta _28" "Cupids last wish _1" 
+"Top chef _13" "American idol _20" "Koh-lanta _28" "Cupids last wish _1" 
 # 4
 "Earthmix space _1" "Domino masters us _1" "Drag i love you _1" "Survivor _42" "The tuxedo _1" 
 # 5

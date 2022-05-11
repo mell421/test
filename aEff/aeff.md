@@ -765,5 +765,5 @@
 - 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} american idol _20{4} the voice no _7{146} earthmix space _1{152} 
 - 21/03/22 - 525* american idol _20{4} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} the voice no _7{148} earthmix space _1{154} 
 - 22/03/22 - 394* american idol _20{7} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} the voice no _7{151} 
-- 23/03/22 - 248* american idol _20{9} asc _1{0} koh-lanta _28{5} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} 
+- 23/03/22 - 248* american idol _20{9} koh-lanta _28{5} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} 
 

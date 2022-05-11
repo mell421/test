@@ -36,23 +36,23 @@ carac :  8881 ZZ/Tbbt_11.txt
 
 i = The voice fr _12
 ligne :  41 ZZ/Thevoicefr_12.txt
-mot   :  1112 ZZ/Thevoicefr_12.txt
-carac :  6758 ZZ/Thevoicefr_12.txt
+mot   :  1110 ZZ/Thevoicefr_12.txt
+carac :  6748 ZZ/Thevoicefr_12.txt
 
 i = Cupids last wish _1
 ligne :  35 ZZ/Cupidslastwish_1.txt
-mot   :  875 ZZ/Cupidslastwish_1.txt
-carac :  5230 ZZ/Cupidslastwish_1.txt
+mot   :  873 ZZ/Cupidslastwish_1.txt
+carac :  5220 ZZ/Cupidslastwish_1.txt
 
 i = American idol _20
 ligne :  24 ZZ/Americanidol_20.txt
-mot   :  621 ZZ/Americanidol_20.txt
-carac :  3793 ZZ/Americanidol_20.txt
+mot   :  619 ZZ/Americanidol_20.txt
+carac :  3783 ZZ/Americanidol_20.txt
 
 i = Cutie pie _1
 ligne :  29 ZZ/Cutiepie_1.txt
-mot   :  694 ZZ/Cutiepie_1.txt
-carac :  4406 ZZ/Cutiepie_1.txt
+mot   :  692 ZZ/Cutiepie_1.txt
+carac :  4396 ZZ/Cutiepie_1.txt
 
 i = The voice ukr _12
 ligne :  34 ZZ/Thevoiceukr_12.txt
@@ -71,8 +71,8 @@ carac :  3746 ZZ//9-1-1lonestar_3.txt
 
 i = Koh-lanta _28
 ligne :  22 ZZ/Koh-lanta_28.txt
-mot   :  505 ZZ/Koh-lanta_28.txt
-carac :  3335 ZZ/Koh-lanta_28.txt
+mot   :  503 ZZ/Koh-lanta_28.txt
+carac :  3325 ZZ/Koh-lanta_28.txt
 
 i = Meet my angel _2
 ligne :  25 ZZ/Meetmyangel_2.txt
@@ -183,11 +183,6 @@ i = Drag i love you _1
 ligne :  13 ZZ/Dragiloveyou_1.txt
 mot   :  505 ZZ/Dragiloveyou_1.txt
 carac :  2872 ZZ/Dragiloveyou_1.txt
-
-i = Asc _1
-ligne :  13 ZZ/Asc_1.txt
-mot   :  288 ZZ/Asc_1.txt
-carac :  1915 ZZ/Asc_1.txt
 
 i = The tuxedo _1
 ligne :  7 ZZ/Thetuxedo_1.txt

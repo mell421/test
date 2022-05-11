@@ -25,7 +25,6 @@ carac :  18018 ZZ/F4thailand_1.txt
 carac :  1840 ZZ/Bt21vlog_1.txt
 carac :  1849 ZZ/Dominomastersus_1.txt
 carac :  1900 ZZ/Bakerboys_1.txt
-carac :  1915 ZZ/Asc_1.txt
 carac :  1943 ZZ/Darkbluekiss_1.txt
 carac :  19498 ZZ/46days_1.txt
 carac :  2075 ZZ/Buffy_1.txt
@@ -47,7 +46,7 @@ carac :  2872 ZZ/Dragiloveyou_1.txt
 carac :  3010 ZZ/Enchante_1.txt
 carac :  3020 ZZ/Aokivuanpaianonayami_1.txt
 carac :  3220 ZZ/Tokyoghoul_3.txt
-carac :  3335 ZZ/Koh-lanta_28.txt
+carac :  3325 ZZ/Koh-lanta_28.txt
 carac :  3339 ZZ/Younevereatalone_1.txt
 carac :  3344 ZZ/Wabishow_1.txt
 carac :  3354 ZZ/Topchef_13.txt
@@ -57,20 +56,20 @@ carac :  3480 ZZ/Unlocked_1.txt
 carac :  3657 ZZ/Theshipper_1.txt
 carac :  3728 ZZ/7project_1.txt
 carac :  3746 ZZ//9-1-1lonestar_3.txt
-carac :  3793 ZZ/Americanidol_20.txt
+carac :  3783 ZZ/Americanidol_20.txt
 carac :  3862 ZZ/Somethinginmyroom_1.txt
 carac :  4074 ZZ/Themaskedsinger_7.txt
 carac :  41 ZZ/Deardoctor_1.txt
 carac :  4288 ZZ/Meetmyangel_2.txt
 carac :  4377 ZZ/Koishiteakuma_1.txt
-carac :  4406 ZZ/Cutiepie_1.txt
+carac :  4396 ZZ/Cutiepie_1.txt
 carac :  44417 ZZ/Earthmixspace_1.txt
 carac :  4878 ZZ//9-1-1_5.txt
 carac :  4941 ZZ/Thevoiceukr_12.txt
-carac :  5230 ZZ/Cupidslastwish_1.txt
+carac :  5220 ZZ/Cupidslastwish_1.txt
 carac :  5761 ZZ/Elite_4.txt
 carac :  641 ZZ/Survivor_42.txt
-carac :  6758 ZZ/Thevoicefr_12.txt
+carac :  6748 ZZ/Thevoicefr_12.txt
 carac :  6924 ZZ/Vwars_1.txt
 carac :  7017 ZZ/Belove_1.txt
 carac :  719 ZZ/Bananafish_1.txt
@@ -94,7 +93,6 @@ i = All of us are dead _1
 i = American idol _20
 i = An eye for an eye _1
 i = Aoki vuanpaia no nayami _1
-i = Asc _1
 i = Baker boys _1
 i = Banana fish _1
 i = Bangkok love stories innocence _1
@@ -180,7 +178,6 @@ ligne :  12 ZZ/Qforce_1.txt
 ligne :  12 ZZ/Slamdance_1.txt
 ligne :  128 ZZ/F4thailand_1.txt
 ligne :  128 ZZ/Vincenzo_1.txt
-ligne :  13 ZZ/Asc_1.txt
 ligne :  13 ZZ/Dominomastersus_1.txt
 ligne :  13 ZZ/Dragiloveyou_1.txt
 ligne :  13 ZZ/Tienbromance_1.txt
@@ -251,7 +248,7 @@ ligne :  9 ZZ/Thebigleap_1.txt
 ligne :  96 ZZ/Tbbt_11.txt
 mot   : 
 mot   :  1059 ZZ/Belove_1.txt
-mot   :  1112 ZZ/Thevoicefr_12.txt
+mot   :  1110 ZZ/Thevoicefr_12.txt
 mot   :  1260 ZZ/Tbbt_11.txt
 mot   :  127 ZZ/Lesengages_3.txt
 mot   :  130 ZZ/Thetuxedo_1.txt
@@ -283,7 +280,6 @@ mot   :  2636 ZZ/5515nevertoolate_1.txt
 mot   :  266 ZZ/Themaskedsingerfr_3.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
 mot   :  280 ZZ/Buffy_1.txt
-mot   :  288 ZZ/Asc_1.txt
 mot   :  2971 ZZ/F4thailand_1.txt
 mot   :  301 ZZ/Benxjim_1.txt
 mot   :  3035 ZZ/46days_1.txt
@@ -309,24 +305,24 @@ mot   :  456 ZZ/Younevereatalone_1.txt
 mot   :  471 ZZ/Enchante_1.txt
 mot   :  472 ZZ/7project_1.txt
 mot   :  486 ZZ/Theshipper_1.txt
+mot   :  503 ZZ/Koh-lanta_28.txt
 mot   :  505 ZZ/Dragiloveyou_1.txt
-mot   :  505 ZZ/Koh-lanta_28.txt
 mot   :  505 ZZ/Wabishow_1.txt
 mot   :  511 ZZ/Topchef_13.txt
 mot   :  530 ZZ/Theplayer_1.txt
 mot   :  567 ZZ/Koishiteakuma_1.txt
 mot   :  5823 ZZ/Thevoiceno_7.txt
 mot   :  605 ZZ//9-1-1lonestar_3.txt
-mot   :  621 ZZ/Americanidol_20.txt
+mot   :  619 ZZ/Americanidol_20.txt
 mot   :  646 ZZ/Somethinginmyroom_1.txt
 mot   :  686 ZZ//9-1-1_5.txt
-mot   :  694 ZZ/Cutiepie_1.txt
+mot   :  692 ZZ/Cutiepie_1.txt
 mot   :  716 ZZ/Themaskedsinger_7.txt
 mot   :  7296 ZZ/Earthmixspace_1.txt
 mot   :  752 ZZ/Meetmyangel_2.txt
 mot   :  810 ZZ/Thevoiceukr_12.txt
 mot   :  828 ZZ/Elite_4.txt
-mot   :  875 ZZ/Cupidslastwish_1.txt
+mot   :  873 ZZ/Cupidslastwish_1.txt
 mot   :  89 ZZ/Bananafish_1.txt
 mot   :  94 ZZ/Survivor_42.txt
 mot   :  953 ZZ/Vwars_1.txt
