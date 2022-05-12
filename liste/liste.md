@@ -574,6 +574,7 @@
 |the masked singer ger 6||6|||<!-- 30/4 -->
 |The voice kids ger 10|||||<!-- 4/3 - 7/5-->
 |ASC 1||8|||<!-- 22/3 - 11/5-->
+|domino masters us 1||10|||<!-- 16/3 - 12/5 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -757,6 +758,33 @@
 |cutie pie 1|||||0|<!-- 19/2 -->
 |koh-lanta 28|||||0|<!-- 22/2 -->
 |cupids last wish 1||10|serie|thailande|0|<!-- 23/2 -->
+|cherry blossoms after winter 1|||||1|<!-- 24/2 -->
+|american idol 20|||||0|<!-- 28/2 -->
+|drag I love you 1|||||1|<!-- 2/3 -->
+|the tuxedo 1|||||1|<!-- 5/3 -->
+|Survivor 42|||||4|<!-- 9/3 -->
+|The masked singer 7|||||9|<!-- 9/3 -->
+|the voice kids vv 6|||||0|<!-- 26/3 -->
+|dear doctor 1|||||6|<!-- 26/3 -->
+|drag race esp 2||12|||6|<!-- 27/3 -->
+|ohmnanon upvel 1|||||0|<!-- 31/3 -->
+|quaranthings 2||8|||1|<!-- 1/4 -->
+|Name that tune 2|||||7|<!-- 1/4 -->
+|The masked singer fr 3||7|||6|<!-- 1/4 -->
+|kinnporsche 1||?|||3|<!-- 2/4 -->
+|star in my mind 1|||||0|<!-- 8/4 -->
+|trivia quest 1|||||0|<!-- 9/4 -->
+|cgt 2|||||0|<!-- 11/4 -->
+|call me mother 1|||||0|<!-- 15/4 -->
+|Bgt 15|||||4|<!-- 17/4 -->
+|the voice au 11|||||0|<!-- 18/4 -->
+|Survivor 27||15|||0|<!-- 26/4 -->
+|Bullshit the game show 1|||||0|<!-- 27/4 -->
+|druck 8|||||0|<!-- 30/4 -->
+|triage 1|||||0|<!-- 1/5 -->
+|the circle us 4|||||0|<!-- 4/5 -->
+|clik clak clok 1|||||0|<!-- 5/5 -->
+|close friend 2|||||0|<!-- 5/5 -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -773,18 +801,19 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|quaranthings 2||8|||0|<!-- 18/2 -->
-|cherry blossoms after winter 1|||||0|<!-- 24/2 -->
-|drag I love you 1|||||0|<!-- 2/3 -->
-|the tuxedo 1|||||0|<!-- 5/3 -->
-|domino masters 1|||||0|<!-- 10/3 -->
-|Survivor 42|||||0|<!-- 10/3 -->
-|The masked singer 7|||||0|<!-- 10/3 -->
-|dear doctor 1|||||0|<!-- 23/3 -->
-|drag race esp 2|||||0|<!-- 27/3 -->
-|Name that tune 2|||||0|<!-- 30/3 -->
-|kinnporsche 1||?|||0|<!-- 2/4? -->
-|Bgt 15|||||0|<!-- 9/4 -->
+|skam france 10|||||0|<!--  -->
+|vampire in the garden 1|||||0|<!--  -->
+|sytycd 17|||||0|<!--  -->
+|love death & robots 3|||||0|<!--  -->
+|the voice senior finland 1|||||0|<!--  -->
+|rpdras 7|||||0|<!--  -->
+|gameboys 2|||||0|<!--  -->
+|beat shazam 5|||||0|<!--  -->
+|the voice kids esp 7|||||0|<!--  -->
+|agt 17|||||0|<!--  -->
+|lego masters 3|||||0|<!--  -->
+|check out 1|||||0|<!--  -->
+|first kill 1|||||0|<!--  -->
 |love victor 3|||||0|<!-- 15/6 -->
 |unforgotten night 1|||||0|<!-- 22/6 -->
 |my only 12pc 1|||||0|<!-- 12/8 -->
@@ -794,11 +823,10 @@
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
-|Survivor 27|||||0|<!--  -->
+||||||0|<!--  -->
 |Survivor 28|||||0|<!--  -->
 |rainbow prince 1|||||0|<!--  -->
 |nilundon 1|||||0|<!--  -->
-|The masked singer fr 3|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 |CIWYW 1||?|||0|<!-- 9/4 -->

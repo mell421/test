@@ -11,8 +11,8 @@ aEff/aeff.md:- 14/03/22 - 413* the voice fr _12{6} cutie pie _1{4} the voice no 
 aEff/aeff.md:- 15/02/22 - 273* the voice ukr _12{8} earthmix space _1{95} all of us are dead _1{5} the voice fr _12{1} f4 thailand _1{24} 
 aEff/aeff.md:- 15/03/22 - 434* the voice fr _12{7} cutie pie _1{5} the voice no _7{136} 
 aEff/aeff.md:- 16/03/22 - 482* koh-lanta _28{4} the voice fr _12{7} cutie pie _1{5} the voice no _7{138} 
-aEff/aeff.md:- 17/03/22 - 340* domino masters us _1{0} top chef _13{5} koh-lanta _28{4} the voice fr _12{7} cutie pie _1{5} 
-aEff/aeff.md:- 18/03/22 - 424* earthmix space _1{148} domino masters us _1{2} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} the voice fr _12{7} 
+aEff/aeff.md:- 17/03/22 - 340* top chef _13{5} koh-lanta _28{4} the voice fr _12{7} cutie pie _1{5} 
+aEff/aeff.md:- 18/03/22 - 424* earthmix space _1{148} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} the voice fr _12{7} 
 aEff/aeff.md:- 20/02/22 - 199* enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} the voice no _7{85} 
 aEff/aeff.md:- 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} american idol _20{4} the voice no _7{146} earthmix space _1{152} 
 aEff/aeff.md:- 21/02/22 - 190* the voice ukr _12{8} enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
@@ -29,12 +29,12 @@ apercu/apercu22.md:- sem 07-03-2022 -> The tuxedo _1x2(1) The voice fr _12x5(1) 
 apercu/apercu22.md:- sem 14-02-2022 -> The voice ukr _12x5(1) Earthmix space _1x12(1) All of us are dead _1x3(2) The voice fr _12x2(1) F4 thailand _1x9(1) The voice no _7x13(2) Enchante _1x4(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
 apercu/apercu22.md:- sem 14-03-2022 -> The voice fr _12x6(1) Cutie pie _1x5(1) The voice no _7x21(2) Drag i love you _1x3(1) The masked singer _7x2(1) Survivor _42x2(1) Top chef _13x5(1) Koh-lanta _28x4(1) American idol _20x3(1) 
 apercu/apercu22.md:- sem 21-02-2022 -> The voice ukr _12x6(1) Enchante _1x5(1) The voice fr _12x3(1) Cutie pie _1x2(1) Something in my room _1x5(1) F4 thailand _1x10(1) The voice no _7x15(2) Top chef _13x2(1) Love stage 2022 _1x4(1) 
-apercu/apercu22.md:- sem 21-03-2022 -> American idol _20x5(2) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) The voice no _7x23(2) Earthmix space _1x14(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
+apercu/apercu22.md:- sem 21-03-2022 -> American idol _20x5(2) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) The voice no _7x23(2) Earthmix space _1x14(1) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
 apercu/apercu22.md:- sem 28-02-2022 -> The voice fr _12x4(1) Cutie pie _1x3(1) Cupids last wish _1x3(2) Earthmix space _1x13(1) The voice no _7x17(2) Cherry blossoms after winter _1x2(1) Top chef _13x3(1) Koh-lanta _28x2(1) 
 apercu/apercu22.md:* conclu 22/03/22 = The voice no _7 > 8; Earthmix space _1 > 2; American idol _20 > 2; The voice fr _12 > 1; 
 apercu/apercu22.md:* concluBis 06/03/22 = The voice no _7 > 18; Earthmix space _1 > 4; The voice fr _12 > 1; The tuxedo _1 > 1; 
-apercu/apercu22.md:* concluBis 20/03/22 = The voice no _7 > 19; Earthmix space _1 > 6; Cupids last wish _1 > 5; The voice fr _12 > 2; Domino masters us _1 > 2; 
-apercu/apercu22.md:* concluBis 21/03/22 = The voice no _7 > 16; Earthmix space _1 > 6; American idol _20 > 5; Cupids last wish _1 > 3; The voice fr _12 > 1; Domino masters us _1 > 1; 
+apercu/apercu22.md:* concluBis 20/03/22 = The voice no _7 > 19; Earthmix space _1 > 6; Cupids last wish _1 > 5; The voice fr _12 > 2; 
+apercu/apercu22.md:* concluBis 21/03/22 = The voice no _7 > 16; Earthmix space _1 > 6; American idol _20 > 5; Cupids last wish _1 > 3; The voice fr _12 > 1; 
 apercu/apercu22.md:* concluBis 22/03/22 = The voice no _7 > 15; Earthmix space _1 > 6; American idol _20 > 4; The voice fr _12 > 3; Cutie pie _1 > 2; Cupids last wish _1 > 2; 
 apercuTer/apercuTer.md:* The voice fr _12
 apercuTer/apercuTer.md:*insererici Absolute bl _2 Dancing on ice uk _14 Survivor _25 Semantic error _1 Is it cake _1 Not me _1 The masked singer vv _2 Skam france _9 Survivor _24 Agt extreme _1 The voice generations lithu _1 Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*

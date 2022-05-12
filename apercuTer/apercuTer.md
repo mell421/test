@@ -838,6 +838,7 @@
 * The voice kids ger _10
 ### sem 16-05-2022 
 * *insererici*
+* Domino masters us _1
 * Asc _1
 
 <div style="page-break-after: always; visibility: hidden"> 
@@ -888,7 +889,7 @@
 * 
 * Koh-lanta _28
 * American idol _20
-* Domino masters us _1
+* 
 * Drag race esp _2
 * Kinnporsche _1
 * Name that tune _2
@@ -1031,7 +1032,7 @@
 #### mois 01-05-2022 
 *insererici The masked singer ger _6 The voice finland _12 Heartstopper _1 Camping paradis _12 The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
-*insererici Asc _1 The voice kids ger _10*
+*insererici Domino masters us _1 Asc _1 The voice kids ger _10*
 
 
 

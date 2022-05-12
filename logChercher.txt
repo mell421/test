@@ -1,13 +1,13 @@
 
 i = Earthmix space _1
 ligne :  364 ZZ/Earthmixspace_1.txt
-mot   :  7296 ZZ/Earthmixspace_1.txt
-carac :  44417 ZZ/Earthmixspace_1.txt
+mot   :  7242 ZZ/Earthmixspace_1.txt
+carac :  44161 ZZ/Earthmixspace_1.txt
 
 i = The voice no _7
-ligne :  269 ZZ/Thevoiceno_7.txt
-mot   :  5823 ZZ/Thevoiceno_7.txt
-carac :  33691 ZZ/Thevoiceno_7.txt
+ligne :  268 ZZ/Thevoiceno_7.txt
+mot   :  5739 ZZ/Thevoiceno_7.txt
+carac :  33252 ZZ/Thevoiceno_7.txt
 
 i = 5515 never too late _1
 ligne :  154 ZZ/5515nevertoolate_1.txt
@@ -36,23 +36,23 @@ carac :  8881 ZZ/Tbbt_11.txt
 
 i = The voice fr _12
 ligne :  41 ZZ/Thevoicefr_12.txt
-mot   :  1110 ZZ/Thevoicefr_12.txt
-carac :  6748 ZZ/Thevoicefr_12.txt
+mot   :  1086 ZZ/Thevoicefr_12.txt
+carac :  6622 ZZ/Thevoicefr_12.txt
 
 i = Cupids last wish _1
 ligne :  35 ZZ/Cupidslastwish_1.txt
-mot   :  873 ZZ/Cupidslastwish_1.txt
-carac :  5220 ZZ/Cupidslastwish_1.txt
+mot   :  849 ZZ/Cupidslastwish_1.txt
+carac :  5094 ZZ/Cupidslastwish_1.txt
 
 i = American idol _20
 ligne :  24 ZZ/Americanidol_20.txt
-mot   :  619 ZZ/Americanidol_20.txt
-carac :  3783 ZZ/Americanidol_20.txt
+mot   :  599 ZZ/Americanidol_20.txt
+carac :  3681 ZZ/Americanidol_20.txt
 
 i = Cutie pie _1
 ligne :  29 ZZ/Cutiepie_1.txt
-mot   :  692 ZZ/Cutiepie_1.txt
-carac :  4396 ZZ/Cutiepie_1.txt
+mot   :  684 ZZ/Cutiepie_1.txt
+carac :  4346 ZZ/Cutiepie_1.txt
 
 i = The voice ukr _12
 ligne :  34 ZZ/Thevoiceukr_12.txt
@@ -61,8 +61,8 @@ carac :  4941 ZZ/Thevoiceukr_12.txt
 
 i = Top chef _13
 ligne :  22 ZZ/Topchef_13.txt
-mot   :  511 ZZ/Topchef_13.txt
-carac :  3354 ZZ/Topchef_13.txt
+mot   :  489 ZZ/Topchef_13.txt
+carac :  3230 ZZ/Topchef_13.txt
 
 i = /9-1-1 lone star _3
 ligne :  29 ZZ//9-1-1lonestar_3.txt
@@ -71,8 +71,8 @@ carac :  3746 ZZ//9-1-1lonestar_3.txt
 
 i = Koh-lanta _28
 ligne :  22 ZZ/Koh-lanta_28.txt
-mot   :  503 ZZ/Koh-lanta_28.txt
-carac :  3325 ZZ/Koh-lanta_28.txt
+mot   :  491 ZZ/Koh-lanta_28.txt
+carac :  3251 ZZ/Koh-lanta_28.txt
 
 i = Meet my angel _2
 ligne :  25 ZZ/Meetmyangel_2.txt
@@ -124,11 +124,6 @@ ligne :
 mot   : 
 carac : 
 
-i = Domino masters us _1
-ligne :  13 ZZ/Dominomastersus_1.txt
-mot   :  322 ZZ/Dominomastersus_1.txt
-carac :  1849 ZZ/Dominomastersus_1.txt
-
 i = District z _2
 ligne :  22 ZZ/Districtz_2.txt
 mot   :  361 ZZ/Districtz_2.txt
@@ -136,8 +131,8 @@ carac :  2473 ZZ/Districtz_2.txt
 
 i = The masked singer _7
 ligne :  15 ZZ/Themaskedsinger_7.txt
-mot   :  716 ZZ/Themaskedsinger_7.txt
-carac :  4074 ZZ/Themaskedsinger_7.txt
+mot   :  704 ZZ/Themaskedsinger_7.txt
+carac :  4000 ZZ/Themaskedsinger_7.txt
 
 i = Baker boys _1
 ligne :  23 ZZ/Bakerboys_1.txt

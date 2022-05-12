@@ -29,7 +29,7 @@
 - sem 28-02-2022 -> The voice fr _12x4(1) Cutie pie _1x3(1) Cupids last wish _1x3(2) Earthmix space _1x13(1) The voice no _7x17(2) Cherry blossoms after winter _1x2(1) Top chef _13x3(1) Koh-lanta _28x2(1) 
 - sem 07-03-2022 -> The tuxedo _1x2(1) The voice fr _12x5(1) Cutie pie _1x4(1) The voice no _7x19(2) Top chef _13x4(1) Drag i love you _1x2(1) Koh-lanta _28x3(1) American idol _20x2(1) 
 - sem 14-03-2022 -> The voice fr _12x6(1) Cutie pie _1x5(1) The voice no _7x21(2) Drag i love you _1x3(1) The masked singer _7x2(1) Survivor _42x2(1) Top chef _13x5(1) Koh-lanta _28x4(1) American idol _20x3(1) 
-- sem 21-03-2022 -> American idol _20x5(2) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) The voice no _7x23(2) Earthmix space _1x14(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
+- sem 21-03-2022 -> American idol _20x5(2) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) The voice no _7x23(2) Earthmix space _1x14(1) The masked singer _7x3(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
 
 
 
@@ -121,9 +121,9 @@
 * conclu 14/03/22 = The voice no _7 > 7; 
 * conclu 15/03/22 = The voice no _7 > 7; 
 * conclu 16/03/22 = The voice no _7 > 8; 
-* conclu 17/03/22 = The voice no _7 > 10; Domino masters us _1 > 1; 
-* conclu 18/03/22 = The voice no _7 > 8; Earthmix space _1 > 2; Domino masters us _1 > 2; 
-* conclu 19/03/22 = The voice no _7 > 12; Earthmix space _1 > 2; Domino masters us _1 > 1; 
+* conclu 17/03/22 = The voice no _7 > 10; 
+* conclu 18/03/22 = The voice no _7 > 8; Earthmix space _1 > 2; 
+* conclu 19/03/22 = The voice no _7 > 12; Earthmix space _1 > 2; 
 * conclu 20/03/22 = The voice no _7 > 11; Cupids last wish _1 > 3; Earthmix space _1 > 2; 
 * conclu 21/03/22 = The voice no _7 > 8; American idol _20 > 3; Earthmix space _1 > 2; Cupids last wish _1 > 1; 
 * conclu 22/03/22 = The voice no _7 > 8; Earthmix space _1 > 2; American idol _20 > 2; The voice fr _12 > 1; 
@@ -216,11 +216,11 @@
 * concluBis 14/03/22 = The voice no _7 > 14; Earthmix space _1 > 2; 
 * concluBis 15/03/22 = The voice no _7 > 14; Earthmix space _1 > 2; 
 * concluBis 16/03/22 = The voice no _7 > 16; Earthmix space _1 > 2; 
-* concluBis 17/03/22 = The voice no _7 > 18; Top chef _13 > 4; Domino masters us _1 > 3; Earthmix space _1 > 2; 
-* concluBis 18/03/22 = The voice no _7 > 16; Earthmix space _1 > 7; Domino masters us _1 > 4; 
-* concluBis 19/03/22 = The voice no _7 > 20; Earthmix space _1 > 6; Domino masters us _1 > 3; American idol _20 > 1; 
-* concluBis 20/03/22 = The voice no _7 > 19; Earthmix space _1 > 6; Cupids last wish _1 > 5; The voice fr _12 > 2; Domino masters us _1 > 2; 
-* concluBis 21/03/22 = The voice no _7 > 16; Earthmix space _1 > 6; American idol _20 > 5; Cupids last wish _1 > 3; The voice fr _12 > 1; Domino masters us _1 > 1; 
+* concluBis 17/03/22 = The voice no _7 > 18; Top chef _13 > 4; Earthmix space _1 > 2; 
+* concluBis 18/03/22 = The voice no _7 > 16; Earthmix space _1 > 7; 
+* concluBis 19/03/22 = The voice no _7 > 20; Earthmix space _1 > 6; American idol _20 > 1; 
+* concluBis 20/03/22 = The voice no _7 > 19; Earthmix space _1 > 6; Cupids last wish _1 > 5; The voice fr _12 > 2; 
+* concluBis 21/03/22 = The voice no _7 > 16; Earthmix space _1 > 6; American idol _20 > 5; Cupids last wish _1 > 3; The voice fr _12 > 1; 
 * concluBis 22/03/22 = The voice no _7 > 15; Earthmix space _1 > 6; American idol _20 > 4; The voice fr _12 > 3; Cutie pie _1 > 2; Cupids last wish _1 > 2; 
 * concluBis 23/03/22 = The voice no _7 > 15; American idol _20 > 7; Earthmix space _1 > 4; Cupids last wish _1 > 2; Koh-lanta _28 > 1; 
 
