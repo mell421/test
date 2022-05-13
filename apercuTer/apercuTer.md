@@ -838,6 +838,7 @@
 * The voice kids ger _10
 ### sem 16-05-2022 
 * *insererici*
+* Survivor _27
 * Domino masters us _1
 * Asc _1
 
@@ -853,9 +854,6 @@
 * First love again _1
 * Bgt _15
 * Unforgotten night _1
-* 
-* 
-* Survivor _27
 * Survivor _28
 * 
 * 
@@ -867,36 +865,25 @@
 * 
 * $ order $
 * 
-* 
-* 
 * The voice fr _12
 * Trivia quest _1
 * Cutie pie _1
-* 
 * The voice no _7
-* 
 * The voice kids vv _6
 * The masked singer fr _3
 * The masked singer _7
-* 
 * Earthmix space _1
 * Star in my mind _1
-* 
-* 
-* 
 * Top chef _13
 * Dear doctor _1
-* 
 * Koh-lanta _28
 * American idol _20
-* 
 * Drag race esp _2
 * Kinnporsche _1
 * Name that tune _2
 * Enchante _1
 * Quaranthings _2
 * Ohmnanon upvel _1
-* 
 * Cupids last wish _1
 * Drag i love you _1
 * Survivor _42
@@ -919,7 +906,6 @@
 * District z _2
 * Unlocked _1
 * Aggretsuko _4
-* 
 * Baker boys _1
 * Les engagés _3
 * The case study of vanitas _1
@@ -1032,7 +1018,7 @@
 #### mois 01-05-2022 
 *insererici The masked singer ger _6 The voice finland _12 Heartstopper _1 Camping paradis _12 The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
-*insererici Domino masters us _1 Asc _1 The voice kids ger _10*
+*insererici Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
 
 
 

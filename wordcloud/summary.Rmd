@@ -43,7 +43,7 @@ summar2 <- function(i){
 ### 0
 ```{r stats0, echo=FALSE}
 summar(1)
-summar(2)
+#summar(2)
 summar(3)
 summar(4)
 summar(5)
@@ -84,9 +84,9 @@ summar(23)
 summar(24)
 summar(25)
 summar(26)
-summar(27)
-# summar(28)
-# summar(29)
+#summar(27)
+summar(28)
+summar(29)
 ```
 
 <div style="page-break-after: always; visibility: hidden"> 
@@ -96,13 +96,14 @@ summar(27)
 ### 3
 ```{r stats3, echo=FALSE}
 summar(30)
-summar(31)
+#summar(31)
 summar(32)
 summar(33)
+summar(34)
+summar(35)
 summar(36)
 summar(37)
 summar(38)
-#summar(38)
 summar(39)
 ```
 
@@ -115,7 +116,7 @@ summar(39)
 summar(40)
 summar(41)
 summar(42)
-#summar(43)
+summar(43)
 summar(44)
 summar(45)
 summar(46)
@@ -136,10 +137,10 @@ summar(52)
 summar(53)
 summar(54)
 summar(55)
-summar(56)
+#summar(56)
 #summar(57)
 #summar(58)
-summar(59)
+#summar(59)
 ```
 
 

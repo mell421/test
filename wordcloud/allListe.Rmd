@@ -79,17 +79,6 @@ data %>% filter(tisaep.all != "")  %>% select(tisaep.all
 
 ## PAGE TESTS
 
-### max
-```{r testMax , echo=FALSE}
-tab <- st(aTestMax())
-tab
-
-data <- data.frame(aTestMax())
-data %>% filter(nb != "") %>% select(-
-X.,-nb,-total,-graph,-vide,-titre)
-```
-
-
 ```{r testConcl, eval=FALSE, include=FALSE}
 ### concl
 #tab <- st(aConcl())
@@ -99,15 +88,6 @@ data <- data.frame(aConcl())
 data %>% filter(nc >= 1) %>% select(-date,-nc,-nbTotal,-graph,-vide,-titre)
 ```
 
-
-### MS
-```{r testMS , echo=FALSE}
-tab <- st(aTestMS())
-tab
-
-data <- data.frame(aTestMS())
-data %>% filter(nbTotal != "") %>% select(-date,-nrm,-nbTotal,-graph,-vide,-titre)
-```
 
 
 <div style="page-break-after: always; visibility: hidden"> 

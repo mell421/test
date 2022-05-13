@@ -7,9 +7,9 @@ function remove(someFile,replacement){
         if (err) {
           return console.log(err);
         }
-        //var regex=/the amazing race _33{\d+} ?|the amazing race _33 > \d+; ?|the amazing race _33 &gt; \d+; ?|the amazing race _33x\d+; ?|the amazing race _33x\d+\(\d+\) ?/ig;
-        var regex=/domino masters us _1({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
+        var regex=/survivor _27({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
         var result = data.replace(regex, replacement);
+        
       
         fs.writeFile(someFile, result, 'utf8', function (err) {
            if (err) return console.log(err);
