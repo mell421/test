@@ -264,11 +264,6 @@ ligne :  8 ZZ/Bananafish_1.txt
 mot   :  89 ZZ/Bananafish_1.txt
 carac :  719 ZZ/Bananafish_1.txt
 
-i = The masked singer fr _3
-ligne :  5 ZZ/Themaskedsingerfr_3.txt
-mot   :  266 ZZ/Themaskedsingerfr_3.txt
-carac :  1422 ZZ/Themaskedsingerfr_3.txt
-
 i = Bite me _1
 ligne :  21 ZZ/Biteme_1.txt
 mot   :  379 ZZ/Biteme_1.txt

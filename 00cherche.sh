@@ -29,7 +29,6 @@ list99=(
 # 3-2
 "Drag race esp _2" "Dear doctor _1" "The voice kids vv _6" "Banana fish _1" 
 # 0-1
-"The masked singer fr _3" 
 # other
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
 "Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
@@ -41,7 +40,7 @@ list99=(
 
 listAsc=( 
 # 1
-"The masked singer fr _3"  "Drag race esp _2" "The voice fr _12" "Cutie pie _1" 
+"Drag race esp _2" "The voice fr _12" "Cutie pie _1" 
 # 2
 "Dear doctor _1" "The voice kids vv _6" "The voice no _7" "The masked singer _7" 
 # 3

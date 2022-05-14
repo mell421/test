@@ -7,7 +7,7 @@ function remove(someFile,replacement){
         if (err) {
           return console.log(err);
         }
-        var regex=/survivor _27({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
+        var regex=/the masked singer fr _3({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
         var result = data.replace(regex, replacement);
         
       
@@ -26,6 +26,7 @@ var appGlobal ='./apercu/apercuglobal.md'
 var tab20 ='./tab2020.html'
 var tab21 ='./tab2021.html'
 var tab22 ='./tab2022.html'
+var zz = './ZZ/*.txt'
 
 var pages = [aEff,appAll,app20,app21,app22,app19,appGlobal,tab20,tab21,tab22]
 for (var page in pages){
@@ -37,4 +38,5 @@ for (var page in pages){
         remove(pageHtml,'')
     }
 }
+
 
