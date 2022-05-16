@@ -577,6 +577,7 @@
 |domino masters us 1||10|||<!-- 16/3 - 12/5 -->
 |Survivor 27||15|||<!-- 26/4 - 13/5-->
 |The masked singer fr 3||7|||<!-- 1/4 - 13/5 -->
+|vampire in the garden 1||5|||<!-- 16/5 - 16/5 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -802,7 +803,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |skam france 10|||||0|<!--  -->
-|vampire in the garden 1|||||0|<!--  -->
 |sytycd 17|||||0|<!--  -->
 |love death & robots 3|||||0|<!--  -->
 |the voice senior finland 1|||||0|<!--  -->
