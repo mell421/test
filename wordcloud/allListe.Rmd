@@ -99,7 +99,7 @@ data %>% filter(nc >= 1) %>% select(-date,-nc,-nbTotal,-graph,-vide,-titre)
 ### debut
 ```{r lettre, echo=FALSE}
 data <- data.frame(listDesc.desc())
-data %>% filter(episode == 1,status=="en cours") %>% select(tisaep,Horodateur,descr.img) 
+data %>% filter(episode == 1,status=="en cours") %>% select(tisaep,Horodateur) 
 
 ```
 
@@ -154,20 +154,9 @@ data %>% filter(status == "film") %>% select(tisaep,Horodateur)
 
 ## NB
 
-### nb
-```{r nb, echo=FALSE}
-data <- data.frame(aListes())
-
-# df <- data.frame(cbind(data$titre,data$nbDeLignes,data$titre_1,data$nbPage))
-# df[1:50,]
-
-data %>% filter(titre != "")  %>% select(titre,nbDeLignes) 
-data %>% filter(titre_1 != "")  %>% select(titre_1,nbPage) 
-```
-
 ### nb (large)
 ```{r nb2, echo=FALSE}
-data <- data.frame(aListes())
+data <- data.frame(aSmra())
         data %>% filter(titre_1 != "") %>% mutate(sum=nbDeLignes+nbPage) %>% rename("nb"=nbDeLignes,"nbBis"=nbPage) %>% select(titre,nb,titre_1,nbBis,sum)
 ```
 
