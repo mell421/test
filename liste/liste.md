@@ -579,6 +579,7 @@
 |The masked singer fr 3||7|||<!-- 1/4 - 13/5 -->
 |vampire in the garden 1||5|||<!-- 16/5 - 16/5 -->
 |cgt 2|||||<!-- 11/4 - 19/5 -->
+|The masked singer 7||11|||<!-- 9/3 - 19/5 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -767,7 +768,6 @@
 |drag I love you 1|||||1|<!-- 2/3 -->
 |the tuxedo 1|||||1|<!-- 5/3 -->
 |Survivor 42|||||4|<!-- 9/3 -->
-|The masked singer 7|||||9|<!-- 9/3 -->
 |the voice kids vv 6|||||0|<!-- 26/3 -->
 |dear doctor 1|||||6|<!-- 26/3 -->
 |drag race esp 2||12|||6|<!-- 27/3 -->

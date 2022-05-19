@@ -1,13 +1,13 @@
 
 i = Earthmix space _1
 ligne :  364 ZZ/Earthmixspace_1.txt
-mot   :  7242 ZZ/Earthmixspace_1.txt
-carac :  44161 ZZ/Earthmixspace_1.txt
+mot   :  7230 ZZ/Earthmixspace_1.txt
+carac :  44087 ZZ/Earthmixspace_1.txt
 
 i = The voice no _7
-ligne :  268 ZZ/Thevoiceno_7.txt
-mot   :  5739 ZZ/Thevoiceno_7.txt
-carac :  33252 ZZ/Thevoiceno_7.txt
+ligne :  269 ZZ/Thevoiceno_7.txt
+mot   :  5753 ZZ/Thevoiceno_7.txt
+carac :  33330 ZZ/Thevoiceno_7.txt
 
 i = 5515 never too late _1
 ligne :  154 ZZ/5515nevertoolate_1.txt
@@ -36,23 +36,23 @@ carac :  8881 ZZ/Tbbt_11.txt
 
 i = The voice fr _12
 ligne :  41 ZZ/Thevoicefr_12.txt
-mot   :  1086 ZZ/Thevoicefr_12.txt
-carac :  6622 ZZ/Thevoicefr_12.txt
+mot   :  1074 ZZ/Thevoicefr_12.txt
+carac :  6546 ZZ/Thevoicefr_12.txt
 
 i = Cupids last wish _1
 ligne :  35 ZZ/Cupidslastwish_1.txt
-mot   :  849 ZZ/Cupidslastwish_1.txt
-carac :  5094 ZZ/Cupidslastwish_1.txt
+mot   :  837 ZZ/Cupidslastwish_1.txt
+carac :  5020 ZZ/Cupidslastwish_1.txt
 
 i = American idol _20
 ligne :  24 ZZ/Americanidol_20.txt
-mot   :  599 ZZ/Americanidol_20.txt
-carac :  3681 ZZ/Americanidol_20.txt
+mot   :  583 ZZ/Americanidol_20.txt
+carac :  3581 ZZ/Americanidol_20.txt
 
 i = Cutie pie _1
 ligne :  29 ZZ/Cutiepie_1.txt
-mot   :  684 ZZ/Cutiepie_1.txt
-carac :  4346 ZZ/Cutiepie_1.txt
+mot   :  676 ZZ/Cutiepie_1.txt
+carac :  4294 ZZ/Cutiepie_1.txt
 
 i = The voice ukr _12
 ligne :  34 ZZ/Thevoiceukr_12.txt
@@ -61,8 +61,8 @@ carac :  4941 ZZ/Thevoiceukr_12.txt
 
 i = Top chef _13
 ligne :  22 ZZ/Topchef_13.txt
-mot   :  489 ZZ/Topchef_13.txt
-carac :  3230 ZZ/Topchef_13.txt
+mot   :  465 ZZ/Topchef_13.txt
+carac :  3082 ZZ/Topchef_13.txt
 
 i = /9-1-1 lone star _3
 ligne :  29 ZZ//9-1-1lonestar_3.txt
@@ -71,8 +71,8 @@ carac :  3746 ZZ//9-1-1lonestar_3.txt
 
 i = Koh-lanta _28
 ligne :  22 ZZ/Koh-lanta_28.txt
-mot   :  491 ZZ/Koh-lanta_28.txt
-carac :  3251 ZZ/Koh-lanta_28.txt
+mot   :  471 ZZ/Koh-lanta_28.txt
+carac :  3127 ZZ/Koh-lanta_28.txt
 
 i = Meet my angel _2
 ligne :  25 ZZ/Meetmyangel_2.txt
@@ -129,11 +129,6 @@ ligne :  22 ZZ/Districtz_2.txt
 mot   :  361 ZZ/Districtz_2.txt
 carac :  2473 ZZ/Districtz_2.txt
 
-i = The masked singer _7
-ligne :  15 ZZ/Themaskedsinger_7.txt
-mot   :  704 ZZ/Themaskedsinger_7.txt
-carac :  4000 ZZ/Themaskedsinger_7.txt
-
 i = Baker boys _1
 ligne :  23 ZZ/Bakerboys_1.txt
 mot   :  245 ZZ/Bakerboys_1.txt
@@ -176,8 +171,8 @@ carac :  2246 ZZ/Loveatnight_1.txt
 
 i = Drag i love you _1
 ligne :  13 ZZ/Dragiloveyou_1.txt
-mot   :  505 ZZ/Dragiloveyou_1.txt
-carac :  2872 ZZ/Dragiloveyou_1.txt
+mot   :  493 ZZ/Dragiloveyou_1.txt
+carac :  2798 ZZ/Dragiloveyou_1.txt
 
 i = The tuxedo _1
 ligne :  7 ZZ/Thetuxedo_1.txt
@@ -216,8 +211,8 @@ carac :  1133 ZZ/Cherryblossomsafterwinter_1.txt
 
 i = Survivor _42
 ligne :  5 ZZ/Survivor_42.txt
-mot   :  94 ZZ/Survivor_42.txt
-carac :  641 ZZ/Survivor_42.txt
+mot   :  78 ZZ/Survivor_42.txt
+carac :  543 ZZ/Survivor_42.txt
 
 i = Color rush _2
 ligne :  5 ZZ/Colorrush_2.txt

@@ -845,6 +845,7 @@
 * Asc _1
 ### sem 23-05-2022 
 * *insererici*
+* The masked singer _7
 * Cgt _2
 * Vampire in the garden _1
 
@@ -877,7 +878,7 @@
 * The voice no _7
 * The voice kids vv _6
 * 
-* The masked singer _7
+* 
 * Earthmix space _1
 * Star in my mind _1
 * Top chef _13
@@ -1024,7 +1025,7 @@
 #### mois 01-05-2022 
 *insererici The masked singer ger _6 The voice finland _12 Heartstopper _1 Camping paradis _12 The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
-*insererici Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
+*insererici The masked singer _7 Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
 
 
 

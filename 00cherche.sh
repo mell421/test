@@ -19,7 +19,7 @@ list99=(
 # 19-15
 "Enchante _1" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
 # 14-10
-"All of us are dead _1" "District z _2" "The masked singer _7" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"All of us are dead _1" "District z _2" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
 "Love at night _1" "Drag i love you _1" 
 # 7-6
@@ -42,7 +42,7 @@ listAsc=(
 # 1
 "Drag race esp _2" "The voice fr _12" "Cutie pie _1" 
 # 2
-"Dear doctor _1" "The voice kids vv _6" "The voice no _7" "The masked singer _7" 
+"Dear doctor _1" "The voice kids vv _6" "The voice no _7" 
 # 3
 "Top chef _13" "American idol _20" "Koh-lanta _28" "Cupids last wish _1" 
 # 4
