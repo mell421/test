@@ -11,7 +11,6 @@ list99=(
 # 99-50
 "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
-"The voice fr _12" 
 # 39-30
 "Cupids last wish _1" "American idol _20" "Cutie pie _1" "The voice ukr _12" 
 # 29-20
@@ -40,7 +39,7 @@ list99=(
 
 listAsc=( 
 # 1
-"Drag race esp _2" "The voice fr _12" "Cutie pie _1" 
+"Drag race esp _2" "Cutie pie _1" 
 # 2
 "Dear doctor _1" "The voice kids vv _6" "The voice no _7" 
 # 3

@@ -395,7 +395,7 @@
 - 20/03/22 (eff) - earthmix space _1{152} the voice no _7{146} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
 - 21/03/22 (eff) - earthmix space _1{154} the voice no _7{148} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
 - 22/03/22 (eff) - earthmix space _1{157} the voice no _7{151} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
-- 23/03/22 (eff) - earthmix space _1{159} the voice no _7{153} f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} the voice fr _12{12} 
+- 23/03/22 (eff) - earthmix space _1{159} the voice no _7{153} f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} 
 
 
 
@@ -727,43 +727,43 @@
 - 10/02/22 - 147* love stage 2022 _1{1} /9-1-1 lone star _3{9} the voice ukr _12{7} meet my angel _2{8} 
 - 11/02/22 - 156* love stage 2022 _1{3} /9-1-1 lone star _3{9} the voice ukr _12{7} 
 - 12/02/22 - 216* the voice no _7{68} enchante _1{3} love stage 2022 _1{3} 
-- 13/02/22 - 210* all of us are dead _1{0} the voice fr _12{0} f4 thailand _1{20} the voice no _7{70} enchante _1{3} 
-- 14/02/22 - 317* the voice ukr _12{7} earthmix space _1{92} all of us are dead _1{2} the voice fr _12{0} f4 thailand _1{22} the voice no _7{72} 
-- 15/02/22 - 273* the voice ukr _12{8} earthmix space _1{95} all of us are dead _1{5} the voice fr _12{1} f4 thailand _1{24} 
+- 13/02/22 - 210* all of us are dead _1{0} f4 thailand _1{20} the voice no _7{70} enchante _1{3} 
+- 14/02/22 - 317* the voice ukr _12{7} earthmix space _1{92} all of us are dead _1{2} f4 thailand _1{22} the voice no _7{72} 
+- 15/02/22 - 273* the voice ukr _12{8} earthmix space _1{95} all of us are dead _1{5} f4 thailand _1{24} 
 - 16/02/22 - 282* love stage 2022 _1{4} the voice ukr _12{8} earthmix space _1{97} all of us are dead _1{7} 
 - 17/02/22 - 203* top chef _13{0} love stage 2022 _1{6} the voice ukr _12{8} 
 - 18/02/22 - 156* top chef _13{0} love stage 2022 _1{6} 
 - 19/02/22 - 243* the voice no _7{83} top chef _13{0} 
-- 20/02/22 - 199* enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} the voice no _7{85} 
-- 21/02/22 - 190* the voice ukr _12{8} enchante _1{4} the voice fr _12{1} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
-- 22/02/22 - 196* the voice ukr _12{9} enchante _1{5} the voice fr _12{2} cutie pie _1{1} something in my room _1{9} 
-- 23/02/22 - 201* koh-lanta _28{0} the voice ukr _12{9} enchante _1{5} the voice fr _12{2} cutie pie _1{1} 
+- 20/02/22 - 199* enchante _1{4} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} the voice no _7{85} 
+- 21/02/22 - 190* the voice ukr _12{8} enchante _1{4} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
+- 22/02/22 - 196* the voice ukr _12{9} enchante _1{5} cutie pie _1{1} something in my room _1{9} 
+- 23/02/22 - 201* koh-lanta _28{0} the voice ukr _12{9} enchante _1{5} cutie pie _1{1} 
 - 24/02/22 - 154* top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} the voice ukr _12{9} 
 - 25/02/22 - 136* cherry blossoms after winter _1{0} top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} 
 - 26/02/22 - 414* earthmix space _1{117} the voice no _7{98} cherry blossoms after winter _1{0} 
-- 27/02/22 - 324* the voice fr _12{2} cutie pie _1{1} cupids last wish _1{0} earthmix space _1{119} the voice no _7{100} cherry blossoms after winter _1{0} 
-- 28/02/22 - 347* the voice fr _12{2} cutie pie _1{1} cupids last wish _1{2} earthmix space _1{121} 
-- 01/03/22 - 344* american idol _20{0} the voice fr _12{3} cutie pie _1{2} cupids last wish _1{5} earthmix space _1{124} 
-- 02/03/22 - 241* koh-lanta _28{2} american idol _20{1} the voice fr _12{4} cutie pie _1{3} cupids last wish _1{8} 
+- 27/02/22 - 324* cutie pie _1{1} cupids last wish _1{0} earthmix space _1{119} the voice no _7{100} cherry blossoms after winter _1{0} 
+- 28/02/22 - 347* cutie pie _1{1} cupids last wish _1{2} earthmix space _1{121} 
+- 01/03/22 - 344* american idol _20{0} cutie pie _1{2} cupids last wish _1{5} earthmix space _1{124} 
+- 02/03/22 - 241* koh-lanta _28{2} american idol _20{1} cutie pie _1{3} cupids last wish _1{8} 
 - 03/03/22 - 160* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} american idol _20{1} 
 - 04/03/22 - 111* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} american idol _20{1} 
 - 05/03/22 - 298* the voice no _7{114} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} 
-- 06/03/22 - 291* the tuxedo _1{0} the voice fr _12{4} cutie pie _1{3} the voice no _7{116} 
-- 07/03/22 - 332* the tuxedo _1{1} the voice fr _12{5} cutie pie _1{3} the voice no _7{118} 
-- 08/03/22 - 279* american idol _20{2} the tuxedo _1{2} the voice fr _12{6} cutie pie _1{4} 
-- 09/03/22 - 313* koh-lanta _28{3} american idol _20{2} the tuxedo _1{2} the voice fr _12{6} 
+- 06/03/22 - 291* the tuxedo _1{0} cutie pie _1{3} the voice no _7{116} 
+- 07/03/22 - 332* the tuxedo _1{1} cutie pie _1{3} the voice no _7{118} 
+- 08/03/22 - 279* american idol _20{2} the tuxedo _1{2} cutie pie _1{4} 
+- 09/03/22 - 313* koh-lanta _28{3} american idol _20{2} the tuxedo _1{2} 
 - 10/03/22 - 206* survivor _42{0} top chef _13{4} koh-lanta _28{3} american idol _20{2} 
 - 11/03/22 - 152* drag i love you _1{1} survivor _42{0} top chef _13{4} koh-lanta _28{3} 
 - 12/03/22 - 302* the voice no _7{129} drag i love you _1{1} survivor _42{0} 
-- 13/03/22 - 316* the voice fr _12{6} cutie pie _1{4} the voice no _7{131} drag i love you _1{1} 
-- 14/03/22 - 413* the voice fr _12{6} cutie pie _1{4} the voice no _7{133} 
-- 15/03/22 - 434* the voice fr _12{7} cutie pie _1{5} the voice no _7{136} 
-- 16/03/22 - 482* koh-lanta _28{4} the voice fr _12{7} cutie pie _1{5} the voice no _7{138} 
-- 17/03/22 - 340* top chef _13{5} koh-lanta _28{4} the voice fr _12{7} cutie pie _1{5} 
-- 18/03/22 - 424* earthmix space _1{148} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} the voice fr _12{7} 
+- 13/03/22 - 316* cutie pie _1{4} the voice no _7{131} drag i love you _1{1} 
+- 14/03/22 - 413* cutie pie _1{4} the voice no _7{133} 
+- 15/03/22 - 434* cutie pie _1{5} the voice no _7{136} 
+- 16/03/22 - 482* koh-lanta _28{4} cutie pie _1{5} the voice no _7{138} 
+- 17/03/22 - 340* top chef _13{5} koh-lanta _28{4} cutie pie _1{5} 
+- 18/03/22 - 424* earthmix space _1{148} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} 
 - 19/03/22 - 481* american idol _20{3} the voice no _7{144} earthmix space _1{150} cupids last wish _1{10} top chef _13{6} 
-- 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} american idol _20{4} the voice no _7{146} earthmix space _1{152} 
-- 21/03/22 - 525* american idol _20{4} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} the voice no _7{148} earthmix space _1{154} 
-- 22/03/22 - 394* american idol _20{7} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} the voice no _7{151} 
-- 23/03/22 - 248* american idol _20{9} koh-lanta _28{5} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} 
+- 20/03/22 - 517* cutie pie _1{5} cupids last wish _1{10} american idol _20{4} the voice no _7{146} earthmix space _1{152} 
+- 21/03/22 - 525* american idol _20{4} cutie pie _1{5} cupids last wish _1{12} the voice no _7{148} earthmix space _1{154} 
+- 22/03/22 - 394* american idol _20{7} cutie pie _1{6} cupids last wish _1{15} the voice no _7{151} 
+- 23/03/22 - 248* american idol _20{9} koh-lanta _28{5} cutie pie _1{7} cupids last wish _1{16} 
 

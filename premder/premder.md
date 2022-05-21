@@ -52,7 +52,6 @@ American idol 20x19
 Drag race esp 2x8
 Bgt 15x6
 The voice au 11x12
-The voice fr 12x14
 The voice no 7x36
 * Survivor 28x1
 * The voice kids portugal 3x1
@@ -102,7 +101,6 @@ F4 thailand 1x9
 Love stage 2022 1x3
 All of us are dead 1x2
 * All of us are dead 1x1
-* The voice fr 12x1
 /9-1-1 lone star 3x5
 Meet my angel 2x3
 * Love stage 2022 1x1
