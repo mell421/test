@@ -12,7 +12,7 @@ list99=(
 "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
 # 39-30
-"Cupids last wish _1" "American idol _20" "Cutie pie _1" "The voice ukr _12" 
+"Cupids last wish _1" "Cutie pie _1" "The voice ukr _12" 
 # 29-20
 "Top chef _13" "/9-1-1 lone star _3" "Koh-lanta _28" "Meet my angel _2" "Something in my room _1" "The player _1" "7project _1" "/9-1-1 _5" 
 # 19-15
@@ -43,7 +43,7 @@ listAsc=(
 # 2
 "Dear doctor _1" "The voice kids vv _6" "The voice no _7" 
 # 3
-"Top chef _13" "American idol _20" "Koh-lanta _28" "Cupids last wish _1" 
+"Top chef _13" "Koh-lanta _28" "Cupids last wish _1" 
 # 4
 "Earthmix space _1" "Drag i love you _1" "Survivor _42" "The tuxedo _1" 
 # 5

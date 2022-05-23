@@ -582,6 +582,7 @@
 |The masked singer 7||11|||<!-- 9/3 - 19/5 -->
 |love death & robots 3||9|||<!-- 20/5 -20/5 -->
 |The voice 12||15|||<!-- 12/2 - 21/5 -->
+|american idol 20||20|||<!-- 28/2 - 23/5 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -765,7 +766,6 @@
 |koh-lanta 28|||||0|<!-- 22/2 -->
 |cupids last wish 1||10|serie|thailande|0|<!-- 23/2 -->
 |cherry blossoms after winter 1|||||1|<!-- 24/2 -->
-|american idol 20|||||0|<!-- 28/2 -->
 |drag I love you 1|||||1|<!-- 2/3 -->
 |the tuxedo 1|||||1|<!-- 5/3 -->
 |Survivor 42|||||4|<!-- 9/3 -->

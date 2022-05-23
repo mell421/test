@@ -1,11 +1,11 @@
-aEff/aeff.md:- 03/03/22 - 160* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} american idol _20{1} 
-aEff/aeff.md:- 04/03/22 - 111* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} american idol _20{1} 
+aEff/aeff.md:- 03/03/22 - 160* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} 
+aEff/aeff.md:- 04/03/22 - 111* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} 
 aEff/aeff.md:- 05/03/22 - 298* the voice no _7{114} top chef _13{3} drag i love you _1{0} koh-lanta _28{2} 
 aEff/aeff.md:- 11/03/22 - 152* drag i love you _1{1} survivor _42{0} top chef _13{4} koh-lanta _28{3} 
 aEff/aeff.md:- 12/03/22 - 302* the voice no _7{129} drag i love you _1{1} survivor _42{0} 
 aEff/aeff.md:- 13/03/22 - 316* cutie pie _1{4} the voice no _7{131} drag i love you _1{1} 
-apercu/apercu22.md:- sem 07-03-2022 -> The tuxedo _1x2(1) Cutie pie _1x4(1) The voice no _7x19(2) Top chef _13x4(1) Drag i love you _1x2(1) Koh-lanta _28x3(1) American idol _20x2(1) 
-apercu/apercu22.md:- sem 14-03-2022 -> Cutie pie _1x5(1) The voice no _7x21(2) Drag i love you _1x3(1) Survivor _42x2(1) Top chef _13x5(1) Koh-lanta _28x4(1) American idol _20x3(1) 
+apercu/apercu22.md:- sem 07-03-2022 -> The tuxedo _1x2(1) Cutie pie _1x4(1) The voice no _7x19(2) Top chef _13x4(1) Drag i love you _1x2(1) Koh-lanta _28x3(1) 
+apercu/apercu22.md:- sem 14-03-2022 -> Cutie pie _1x5(1) The voice no _7x21(2) Drag i love you _1x3(1) Survivor _42x2(1) Top chef _13x5(1) Koh-lanta _28x4(1) 
 apercuTer/apercuTer.md:* Drag i love you _1
 apercuTer/apercuTer.md:*History1 stay away from me _1 Clem _10 Until we meet again _1 My engineer summer trip _1 Rpdr vegas revue _1 Grand hotel _1 Where your eyes linger _1 Agt _15 2wish _1 History1 my hero _1 My friendship _1 The voice senior nl _3 Yyy _1 Sing on _1 The masked singer au _2 Strictly come dancing _16 My engineer _1 The voice kids vv _5 2gether _2 The voice kids th _7 Theory of love _1 Love by chance _1 Drag race canada _1*
 apercuTer/apercuTer.md:*insererici Survivor _18 Bt21 original story _1 The voice senior esp _3 Survivor _17 Survivor _16 Survivor _15 Survivor _14 The voice senior it _2 Bad buddy _1 Survivor au _6 Behind cut _1 Mr cinderella _1 Survivor _13 Tinted with you _1 Do seu lado _1 Cheer _2 Painted with raven _1 Inhuman condition _1 Dont say no _1 Lego masters fr _2 Drag race it _1 Rpdruk _3 Dexter _9 The voice alb _6 Friend or lover _1*

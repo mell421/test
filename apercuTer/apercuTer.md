@@ -134,6 +134,8 @@
     - [sem 09-05-2022](#sem-09-05-2022)
     - [sem 16-05-2022](#sem-16-05-2022)
     - [sem 23-05-2022](#sem-23-05-2022)
+    - [sem 30-05-2022](#sem-30-05-2022)
+    - [sem 06-06-2022](#sem-06-06-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -850,6 +852,12 @@
 * The masked singer _7
 * Cgt _2
 * Vampire in the garden _1
+### sem 30-05-2022 
+* *insererici*
+* American idol _20
+### sem 06-06-2022 
+* *insererici*
+
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -886,7 +894,7 @@
 * Top chef _13
 * Dear doctor _1
 * Koh-lanta _28
-* American idol _20
+* 
 * Drag race esp _2
 * Kinnporsche _1
 * Name that tune _2
@@ -1027,7 +1035,7 @@
 #### mois 01-05-2022 
 *insererici The masked singer ger _6 The voice finland _12 Heartstopper _1 Camping paradis _12 The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
-*insererici The voice fr _12 Love death & robots _3 The masked singer _7 Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
+*insererici American idol _20 The voice fr _12 Love death & robots _3 The masked singer _7 Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
 
 
 
