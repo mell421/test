@@ -34,7 +34,6 @@ Druck 8x2
 Clik clak clok 1x2
 Close friend 2x2
 Skam france 10x2
-Survivor 28x2
 
 ### tisaep all
 * ici
@@ -51,7 +50,6 @@ Drag race esp 2x8
 Bgt 15x6
 The voice au 11x12
 The voice no 7x36
-* Survivor 28x1
 * The voice kids portugal 3x1
 The voice kids vv 6x8
 * Skam france 10x1
