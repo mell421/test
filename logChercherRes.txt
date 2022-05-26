@@ -35,22 +35,22 @@ carac :  2453 ZZ/Lovestage2022_1.txt
 carac :  2456 ZZ/Thevoicenl_12.txt
 carac :  2473 ZZ/Districtz_2.txt
 carac :  2501 ZZ/Postmortem_1.txt
+carac :  2585 ZZ/Koh-lanta_28.txt
+carac :  2596 ZZ/Dragiloveyou_1.txt
 carac :  2605 ZZ/Controlz_2.txt
-carac :  2635 ZZ/Koh-lanta_28.txt
-carac :  2646 ZZ/Dragiloveyou_1.txt
+carac :  2684 ZZ/Topchef_13.txt
 carac :  2728 ZZ/Glowup_2.txt
 carac :  2734 ZZ/Biteme_1.txt
-carac :  2734 ZZ/Topchef_13.txt
 carac :  2785 ZZ/Theuntamed_1.txt
 carac :  2821 ZZ/Enchante_1.txt
 carac :  2865 ZZ/Lucifer_4.txt
 carac :  3020 ZZ/Aokivuanpaianonayami_1.txt
 carac :  3220 ZZ/Tokyoghoul_3.txt
-carac :  32505 ZZ/Thevoiceno_7.txt
+carac :  32484 ZZ/Thevoiceno_7.txt
 carac :  3339 ZZ/Younevereatalone_1.txt
 carac :  3344 ZZ/Wabishow_1.txt
+carac :  3458 ZZ/Cutiepie_1.txt
 carac :  3462 ZZ/Theplayer_1.txt
-carac :  3476 ZZ/Cutiepie_1.txt
 carac :  3480 ZZ/Unlocked_1.txt
 carac :  3657 ZZ/Theshipper_1.txt
 carac :  3679 ZZ//9-1-1lonestar_3.txt
@@ -62,7 +62,6 @@ carac :  43440 ZZ/Earthmixspace_1.txt
 carac :  4377 ZZ/Koishiteakuma_1.txt
 carac :  4400 ZZ/Cupidslastwish_1.txt
 carac :  4752 ZZ/Thevoiceukr_12.txt
-carac :  477 ZZ/Survivor_42.txt
 carac :  4878 ZZ//9-1-1_5.txt
 carac :  5761 ZZ/Elite_4.txt
 carac :  616 ZZ/Thetuxedo_1.txt
@@ -129,7 +128,6 @@ i = Qforce _1
 i = Siew sum noi _1
 i = Slam dance _1
 i = Something in my room _1
-i = Survivor _42
 i = Tbbt _11
 i = The big leap _1
 i = The case study of vanitas _1
@@ -216,7 +214,6 @@ ligne :  364 ZZ/Earthmixspace_1.txt
 ligne :  4 ZZ/Dragraceesp_2.txt
 ligne :  42 ZZ//9-1-1_5.txt
 ligne :  5 ZZ/Colorrush_2.txt
-ligne :  5 ZZ/Survivor_42.txt
 ligne :  52 ZZ/Thevoiceph_1.txt
 ligne :  6 ZZ/Cherryblossomsafterwinter_1.txt
 ligne :  61 ZZ/Koishiteakuma_1.txt
@@ -273,12 +270,12 @@ mot   :  361 ZZ/Districtz_2.txt
 mot   :  368 ZZ/Theuntamed_1.txt
 mot   :  372 ZZ/Lucifer_4.txt
 mot   :  379 ZZ/Biteme_1.txt
-mot   :  388 ZZ/Koh-lanta_28.txt
+mot   :  382 ZZ/Koh-lanta_28.txt
 mot   :  4 ZZ/Deardoctor_1.txt
 mot   :  401 ZZ/Loveatnight_1.txt
 mot   :  403 ZZ/Thevoicenl_12.txt
+mot   :  403 ZZ/Topchef_13.txt
 mot   :  409 ZZ/Lovestage2022_1.txt
-mot   :  409 ZZ/Topchef_13.txt
 mot   :  412 ZZ/Controlz_2.txt
 mot   :  412 ZZ/Glowup_2.txt
 mot   :  423 ZZ/Aokivuanpaianonayami_1.txt
@@ -286,17 +283,16 @@ mot   :  436 ZZ/Enchante_1.txt
 mot   :  447 ZZ/Tokyoghoul_3.txt
 mot   :  452 ZZ/Unlocked_1.txt
 mot   :  456 ZZ/Younevereatalone_1.txt
-mot   :  469 ZZ/Dragiloveyou_1.txt
+mot   :  463 ZZ/Dragiloveyou_1.txt
 mot   :  472 ZZ/7project_1.txt
 mot   :  486 ZZ/Theshipper_1.txt
 mot   :  505 ZZ/Wabishow_1.txt
-mot   :  528 ZZ/Cutiepie_1.txt
+mot   :  526 ZZ/Cutiepie_1.txt
 mot   :  530 ZZ/Theplayer_1.txt
-mot   :  5592 ZZ/Thevoiceno_7.txt
+mot   :  5590 ZZ/Thevoiceno_7.txt
 mot   :  567 ZZ/Koishiteakuma_1.txt
 mot   :  594 ZZ//9-1-1lonestar_3.txt
 mot   :  623 ZZ/Somethinginmyroom_1.txt
-mot   :  68 ZZ/Survivor_42.txt
 mot   :  686 ZZ//9-1-1_5.txt
 mot   :  7100 ZZ/Earthmixspace_1.txt
 mot   :  720 ZZ/Cupidslastwish_1.txt

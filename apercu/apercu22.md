@@ -28,7 +28,7 @@
 - sem 21-02-2022 -> The voice ukr _12x6(1) Enchante _1x5(1) Cutie pie _1x2(1) Something in my room _1x5(1) F4 thailand _1x10(1) The voice no _7x15(2) Top chef _13x2(1) Love stage 2022 _1x4(1) 
 - sem 28-02-2022 -> Cutie pie _1x3(1) Cupids last wish _1x3(2) Earthmix space _1x13(1) The voice no _7x17(2) Cherry blossoms after winter _1x2(1) Top chef _13x3(1) Koh-lanta _28x2(1) 
 - sem 07-03-2022 -> The tuxedo _1x2(1) Cutie pie _1x4(1) The voice no _7x19(2) Top chef _13x4(1) Drag i love you _1x2(1) Koh-lanta _28x3(1) 
-- sem 14-03-2022 -> Cutie pie _1x5(1) The voice no _7x21(2) Drag i love you _1x3(1) Survivor _42x2(1) Top chef _13x5(1) Koh-lanta _28x4(1) 
+- sem 14-03-2022 -> Cutie pie _1x5(1) The voice no _7x21(2) Drag i love you _1x3(1) Top chef _13x5(1) Koh-lanta _28x4(1) 
 - sem 21-03-2022 -> Cutie pie _1x6(1) Cupids last wish _1x5(2) The voice no _7x23(2) Earthmix space _1x14(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
 
 

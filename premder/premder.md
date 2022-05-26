@@ -43,7 +43,6 @@ The voice chile 3x7
 * The voice chile 3x1
 The voice kids portugal 3x2
 Top chef 13x14
-Survivor 42x9
 Dear doctor 1x9
 Koh-lanta 28x12
 Kinnporsche 1x6
@@ -85,7 +84,6 @@ Enchante 1x5
 * The voice kids vv 6x1
 Cupids last wish 1x4
 Drag i love you 1x2
-* Survivor 42x1
 * The tuxedo 1x1
 * Drag i love you 1x1
 * Cherry blossoms after winter 1x1

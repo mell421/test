@@ -752,9 +752,9 @@
 - 07/03/22 - 332* the tuxedo _1{1} cutie pie _1{3} the voice no _7{118} 
 - 08/03/22 - 279* the tuxedo _1{2} cutie pie _1{4} 
 - 09/03/22 - 313* koh-lanta _28{3} the tuxedo _1{2} 
-- 10/03/22 - 206* survivor _42{0} top chef _13{4} koh-lanta _28{3} 
-- 11/03/22 - 152* drag i love you _1{1} survivor _42{0} top chef _13{4} koh-lanta _28{3} 
-- 12/03/22 - 302* the voice no _7{129} drag i love you _1{1} survivor _42{0} 
+- 10/03/22 - 206* top chef _13{4} koh-lanta _28{3} 
+- 11/03/22 - 152* drag i love you _1{1} top chef _13{4} koh-lanta _28{3} 
+- 12/03/22 - 302* the voice no _7{129} drag i love you _1{1} 
 - 13/03/22 - 316* cutie pie _1{4} the voice no _7{131} drag i love you _1{1} 
 - 14/03/22 - 413* cutie pie _1{4} the voice no _7{133} 
 - 15/03/22 - 434* cutie pie _1{5} the voice no _7{136} 
