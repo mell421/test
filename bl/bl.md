@@ -23,7 +23,7 @@
  
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
-|skam france|france|8+|
+|skam france|france|9+|
 |druck|allemagne|7|
 |skam|norvège|4|
 |skam espana|espagne|4|
@@ -238,6 +238,7 @@
 |peach of time|peach of time|10|serie|corée-thailande|        <!-- 38 -->
 |forcebook show real 1|forcebook show real 1|10|show|thailande|
 |heartstopper 1||8|show|uk|<!--  -->
+|star in my mind 1|star in my mind|8|show|thailand|
 ||||||<!--  -->
 ||||||<!--  -->
 |you are my sunshine||2|serie|vietnam|<!--  -->

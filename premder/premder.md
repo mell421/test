@@ -53,7 +53,6 @@ The voice no 7x36
 * The voice kids portugal 3x1
 The voice kids vv 6x8
 * Skam france 10x1
-Star in my mind 1x6
 The circle us 4x5
 Name that tune 2x7
 Ohmnanon upvel 1x4
@@ -71,7 +70,6 @@ Cutie pie 1x9
 * Call me mother 1x1
 Trivia quest 1x6
 * Trivia quest 1x1
-* Star in my mind 1x1
 * Kinnporsche 1x1
 * Name that tune 2x1
 Enchante 1x5
