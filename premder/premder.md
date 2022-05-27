@@ -51,7 +51,6 @@ Bgt 15x6
 The voice au 11x12
 The voice no 7x36
 * The voice kids portugal 3x1
-The voice kids vv 6x8
 * Skam france 10x1
 The circle us 4x5
 Name that tune 2x7
@@ -77,7 +76,6 @@ Enchante 1x5
 * Ohmnanon upvel 1x1
 * Drag race esp 2x1
 * Dear doctor 1x1
-* The voice kids vv 6x1
 Cupids last wish 1x4
 Drag i love you 1x2
 * The tuxedo 1x1

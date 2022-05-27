@@ -586,6 +586,7 @@
 |Survivor 42||14|||<!-- 9/3 - 25/5 -->
 |Survivor 28||14|||<!-- 26/5 -->
 |star in my mind 1||8|||<!-- 8/4 - 27/5 -->
+|the voice kids vv 6||10|||<!-- 26/3 - 27/5 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -771,7 +772,6 @@
 |cherry blossoms after winter 1|||||1|<!-- 24/2 -->
 |drag I love you 1|||||1|<!-- 2/3 -->
 |the tuxedo 1|||||1|<!-- 5/3 -->
-|the voice kids vv 6|||||0|<!-- 26/3 -->
 |dear doctor 1|||||6|<!-- 26/3 -->
 |drag race esp 2||12|||6|<!-- 27/3 -->
 |ohmnanon upvel 1|||||0|<!-- 31/3 -->

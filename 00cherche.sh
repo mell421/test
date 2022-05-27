@@ -26,7 +26,7 @@ list99=(
 # 5-4
 "Cherry blossoms after winter _1" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
-"Drag race esp _2" "Dear doctor _1" "The voice kids vv _6" "Banana fish _1" 
+"Drag race esp _2" "Dear doctor _1" "Banana fish _1" 
 # 0-1
 # other
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
@@ -41,7 +41,7 @@ listAsc=(
 # 1
 "Drag race esp _2" "Cutie pie _1" 
 # 2
-"Dear doctor _1" "The voice kids vv _6" "The voice no _7" 
+"Dear doctor _1" "The voice no _7" 
 # 3
 "Top chef _13" "Koh-lanta _28" "Cupids last wish _1" 
 # 4

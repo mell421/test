@@ -46,7 +46,7 @@ carac :  2821 ZZ/Enchante_1.txt
 carac :  2865 ZZ/Lucifer_4.txt
 carac :  3020 ZZ/Aokivuanpaianonayami_1.txt
 carac :  3220 ZZ/Tokyoghoul_3.txt
-carac :  32484 ZZ/Thevoiceno_7.txt
+carac :  32537 ZZ/Thevoiceno_7.txt
 carac :  3339 ZZ/Younevereatalone_1.txt
 carac :  3344 ZZ/Wabishow_1.txt
 carac :  3458 ZZ/Cutiepie_1.txt
@@ -71,7 +71,6 @@ carac :  719 ZZ/Bananafish_1.txt
 carac :  766 ZZ/Siewsumnoi_1.txt
 carac :  8758 ZZ/Thevoiceph_1.txt
 carac :  8881 ZZ/Tbbt_11.txt
-carac :  900 ZZ/Thevoicekidsvv_6.txt
 carac :  956 ZZ/Lesengages_3.txt
 carac :  9885 ZZ/Youngsheldon_5.txt
 carac :  9959 ZZ/Theharvestseason_1.txt
@@ -136,7 +135,6 @@ i = The player _1
 i = The shipper _1
 i = The tuxedo _1
 i = The untamed _1
-i = The voice kids vv _6
 i = The voice nl _12
 i = The voice no _7
 i = The voice ph _1
@@ -202,7 +200,6 @@ ligne :  29 ZZ//9-1-1lonestar_3.txt
 ligne :  29 ZZ/Bt21vlog_1.txt
 ligne :  29 ZZ/Cutiepie_1.txt
 ligne :  29 ZZ/Tokyoghoul_3.txt
-ligne :  3 ZZ/Thevoicekidsvv_6.txt
 ligne :  31 ZZ/Wabishow_1.txt
 ligne :  32 ZZ/Theshipper_1.txt
 ligne :  33 ZZ/Theplayer_1.txt
@@ -241,7 +238,6 @@ mot   :  1533 ZZ/Thevoiceph_1.txt
 mot   :  1554 ZZ/Vincenzo_1.txt
 mot   :  159 ZZ/Qforce_1.txt
 mot   :  161 ZZ/Goblin_1.txt
-mot   :  161 ZZ/Thevoicekidsvv_6.txt
 mot   :  162 ZZ/Mrlipstick_1.txt
 mot   :  163 ZZ/Theyearbook_1.txt
 mot   :  165 ZZ/Colorrush_2.txt
@@ -289,7 +285,7 @@ mot   :  486 ZZ/Theshipper_1.txt
 mot   :  505 ZZ/Wabishow_1.txt
 mot   :  526 ZZ/Cutiepie_1.txt
 mot   :  530 ZZ/Theplayer_1.txt
-mot   :  5590 ZZ/Thevoiceno_7.txt
+mot   :  5602 ZZ/Thevoiceno_7.txt
 mot   :  567 ZZ/Koishiteakuma_1.txt
 mot   :  594 ZZ//9-1-1lonestar_3.txt
 mot   :  623 ZZ/Somethinginmyroom_1.txt

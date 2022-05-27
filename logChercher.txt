@@ -6,8 +6,8 @@ carac :  43440 ZZ/Earthmixspace_1.txt
 
 i = The voice no _7
 ligne :  269 ZZ/Thevoiceno_7.txt
-mot   :  5590 ZZ/Thevoiceno_7.txt
-carac :  32484 ZZ/Thevoiceno_7.txt
+mot   :  5602 ZZ/Thevoiceno_7.txt
+carac :  32537 ZZ/Thevoiceno_7.txt
 
 i = 5515 never too late _1
 ligne :  154 ZZ/5515nevertoolate_1.txt
@@ -233,11 +233,6 @@ i = Dear doctor _1
 ligne :  1 ZZ/Deardoctor_1.txt
 mot   :  4 ZZ/Deardoctor_1.txt
 carac :  41 ZZ/Deardoctor_1.txt
-
-i = The voice kids vv _6
-ligne :  3 ZZ/Thevoicekidsvv_6.txt
-mot   :  161 ZZ/Thevoicekidsvv_6.txt
-carac :  900 ZZ/Thevoicekidsvv_6.txt
 
 i = Banana fish _1
 ligne :  8 ZZ/Bananafish_1.txt
