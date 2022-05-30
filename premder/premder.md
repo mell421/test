@@ -48,7 +48,6 @@ Kinnporsche 1x6
 Triage 1x5
 Drag race esp 2x8
 Bgt 15x6
-The voice au 11x12
 The voice no 7x36
 * The voice kids portugal 3x1
 * Skam france 10x1
@@ -64,7 +63,6 @@ Earthmix space 1x16
 Bullshit the game show 1x2
 * Bullshit the game show 1x1
 Cutie pie 1x9
-* The voice au 11x1
 * Bgt 15x1
 * Call me mother 1x1
 Trivia quest 1x6
