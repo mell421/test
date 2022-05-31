@@ -48,7 +48,6 @@ Kinnporsche 1x6
 Triage 1x5
 Drag race esp 2x8
 Bgt 15x6
-The voice no 7x36
 * The voice kids portugal 3x1
 * Skam france 10x1
 The circle us 4x5
@@ -102,7 +101,6 @@ The voice ph 1x4
 * Something in my room 1x1
 The voice nl 12x2
 * The voice nl 12x1
-* The voice no 7x1
 * /9-1-1 lone star 3x1
 Young sheldon 5x5
 5515 never too late 1x4

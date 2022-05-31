@@ -7,7 +7,7 @@ function remove(someFile,replacement){
         if (err) {
           return console.log(err);
         }
-        var regex=/The voice au _11({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
+        var regex=/The voice no _7({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
         var result = data.replace(regex, replacement);
         
       
@@ -39,4 +39,12 @@ for (var page in pages){
     }
 }
 
+
+const dir = './ZZ/'
+const files = fs.readdirSync(dir)
+
+for (const file of files) {
+  console.log(file)
+  remove(page,'')
+}
 

@@ -1,83 +1,78 @@
 
 i = Earthmix space _1
 ligne :  364 ZZ/Earthmixspace_1.txt
-mot   :  7100 ZZ/Earthmixspace_1.txt
-carac :  43440 ZZ/Earthmixspace_1.txt
-
-i = The voice no _7
-ligne :  269 ZZ/Thevoiceno_7.txt
-mot   :  5602 ZZ/Thevoiceno_7.txt
-carac :  32537 ZZ/Thevoiceno_7.txt
+mot   :  6060 ZZ/Earthmixspace_1.txt
+carac :  39223 ZZ/Earthmixspace_1.txt
 
 i = 5515 never too late _1
 ligne :  154 ZZ/5515nevertoolate_1.txt
-mot   :  2632 ZZ/5515nevertoolate_1.txt
-carac :  17088 ZZ/5515nevertoolate_1.txt
+mot   :  2368 ZZ/5515nevertoolate_1.txt
+carac :  15743 ZZ/5515nevertoolate_1.txt
 
 i = F4 thailand _1
 ligne :  128 ZZ/F4thailand_1.txt
-mot   :  2932 ZZ/F4thailand_1.txt
-carac :  17808 ZZ/F4thailand_1.txt
+mot   :  2512 ZZ/F4thailand_1.txt
+carac :  15855 ZZ/F4thailand_1.txt
 
 i = The voice ph _1
 ligne :  52 ZZ/Thevoiceph_1.txt
-mot   :  1533 ZZ/Thevoiceph_1.txt
-carac :  8758 ZZ/Thevoiceph_1.txt
+mot   :  1321 ZZ/Thevoiceph_1.txt
+carac :  7812 ZZ/Thevoiceph_1.txt
 
 i = Young sheldon _5
 ligne :  72 ZZ/Youngsheldon_5.txt
-mot   :  1527 ZZ/Youngsheldon_5.txt
-carac :  9885 ZZ/Youngsheldon_5.txt
+mot   :  1411 ZZ/Youngsheldon_5.txt
+carac :  9305 ZZ/Youngsheldon_5.txt
 
 i = Tbbt _11
 ligne :  96 ZZ/Tbbt_11.txt
-mot   :  1260 ZZ/Tbbt_11.txt
-carac :  8881 ZZ/Tbbt_11.txt
+mot   :  1196 ZZ/Tbbt_11.txt
+carac :  8561 ZZ/Tbbt_11.txt
 
 i = Cupids last wish _1
 ligne :  35 ZZ/Cupidslastwish_1.txt
-mot   :  720 ZZ/Cupidslastwish_1.txt
-carac :  4400 ZZ/Cupidslastwish_1.txt
+mot   :  592 ZZ/Cupidslastwish_1.txt
+carac :  3862 ZZ/Cupidslastwish_1.txt
 
 i = Cutie pie _1
 ligne :  29 ZZ/Cutiepie_1.txt
-mot   :  526 ZZ/Cutiepie_1.txt
-carac :  3458 ZZ/Cutiepie_1.txt
+mot   :  452 ZZ/Cutiepie_1.txt
+carac :  3074 ZZ/Cutiepie_1.txt
 
 i = The voice ukr _12
 ligne :  34 ZZ/Thevoiceukr_12.txt
-mot   :  775 ZZ/Thevoiceukr_12.txt
-carac :  4752 ZZ/Thevoiceukr_12.txt
+mot   :  713 ZZ/Thevoiceukr_12.txt
+carac :  4457 ZZ/Thevoiceukr_12.txt
 
 i = Top chef _13
 ligne :  22 ZZ/Topchef_13.txt
-mot   :  403 ZZ/Topchef_13.txt
-carac :  2684 ZZ/Topchef_13.txt
+mot   :  361 ZZ/Topchef_13.txt
+carac :  2468 ZZ/Topchef_13.txt
 
 i = /9-1-1 lone star _3
 ligne :  29 ZZ//9-1-1lonestar_3.txt
-mot   :  594 ZZ//9-1-1lonestar_3.txt
-carac :  3679 ZZ//9-1-1lonestar_3.txt
+mot   :  532 ZZ//9-1-1lonestar_3.txt
+carac :  3405 ZZ//9-1-1lonestar_3.txt
 
 i = Koh-lanta _28
 ligne :  22 ZZ/Koh-lanta_28.txt
-mot   :  382 ZZ/Koh-lanta_28.txt
-carac :  2585 ZZ/Koh-lanta_28.txt
+mot   :  348 ZZ/Koh-lanta_28.txt
+carac :  2411 ZZ/Koh-lanta_28.txt
 
 i = Meet my angel _2
 ligne :  25 ZZ/Meetmyangel_2.txt
-mot   :  745 ZZ/Meetmyangel_2.txt
-carac :  4243 ZZ/Meetmyangel_2.txt
+mot   :  657 ZZ/Meetmyangel_2.txt
+carac :  3859 ZZ/Meetmyangel_2.txt
 
 i = Something in my room _1
 ligne :  24 ZZ/Somethinginmyroom_1.txt
-mot   :  623 ZZ/Somethinginmyroom_1.txt
-carac :  3735 ZZ/Somethinginmyroom_1.txt
+mot   :  559 ZZ/Somethinginmyroom_1.txt
+carac :  3442 ZZ/Somethinginmyroom_1.txt
 
 i = The player _1
 ligne :  33 ZZ/Theplayer_1.txt
-mot   :  530 ZZ/Theplayer_1.txt
-carac :  3462 ZZ/Theplayer_1.txt
+mot   :  510 ZZ/Theplayer_1.txt
+carac :  3362 ZZ/Theplayer_1.txt
 
 i = 7project _1
 ligne :  36 ZZ/7project_1.txt
@@ -86,18 +81,18 @@ carac :  3728 ZZ/7project_1.txt
 
 i = /9-1-1 _5
 ligne :  42 ZZ//9-1-1_5.txt
-mot   :  686 ZZ//9-1-1_5.txt
-carac :  4878 ZZ//9-1-1_5.txt
+mot   :  678 ZZ//9-1-1_5.txt
+carac :  4838 ZZ//9-1-1_5.txt
 
 i = Enchante _1
 ligne :  18 ZZ/Enchante_1.txt
-mot   :  436 ZZ/Enchante_1.txt
-carac :  2821 ZZ/Enchante_1.txt
+mot   :  380 ZZ/Enchante_1.txt
+carac :  2531 ZZ/Enchante_1.txt
 
 i = Love stage 2022 _1
 ligne :  17 ZZ/Lovestage2022_1.txt
-mot   :  409 ZZ/Lovestage2022_1.txt
-carac :  2453 ZZ/Lovestage2022_1.txt
+mot   :  361 ZZ/Lovestage2022_1.txt
+carac :  2239 ZZ/Lovestage2022_1.txt
 
 i = Unlocked _1
 ligne :  26 ZZ/Unlocked_1.txt
@@ -126,8 +121,8 @@ carac :  1900 ZZ/Bakerboys_1.txt
 
 i = The voice nl _12
 ligne :  17 ZZ/Thevoicenl_12.txt
-mot   :  403 ZZ/Thevoicenl_12.txt
-carac :  2456 ZZ/Thevoicenl_12.txt
+mot   :  371 ZZ/Thevoicenl_12.txt
+carac :  2295 ZZ/Thevoicenl_12.txt
 
 i = Aoki vuanpaia no nayami _1
 ligne :  28 ZZ/Aokivuanpaianonayami_1.txt
@@ -156,18 +151,18 @@ carac :  2865 ZZ/Lucifer_4.txt
 
 i = Love at night _1
 ligne :  12 ZZ/Loveatnight_1.txt
-mot   :  401 ZZ/Loveatnight_1.txt
-carac :  2246 ZZ/Loveatnight_1.txt
+mot   :  371 ZZ/Loveatnight_1.txt
+carac :  2121 ZZ/Loveatnight_1.txt
 
 i = Drag i love you _1
 ligne :  13 ZZ/Dragiloveyou_1.txt
-mot   :  463 ZZ/Dragiloveyou_1.txt
-carac :  2596 ZZ/Dragiloveyou_1.txt
+mot   :  443 ZZ/Dragiloveyou_1.txt
+carac :  2489 ZZ/Dragiloveyou_1.txt
 
 i = The tuxedo _1
 ligne :  7 ZZ/Thetuxedo_1.txt
-mot   :  95 ZZ/Thetuxedo_1.txt
-carac :  616 ZZ/Thetuxedo_1.txt
+mot   :  77 ZZ/Thetuxedo_1.txt
+carac :  530 ZZ/Thetuxedo_1.txt
 
 i = Aggretsuko _4
 ligne :  11 ZZ/Aggretsuko_4.txt
@@ -196,13 +191,13 @@ carac :  1280 ZZ/Goblin_1.txt
 
 i = Cherry blossoms after winter _1
 ligne :  6 ZZ/Cherryblossomsafterwinter_1.txt
-mot   :  151 ZZ/Cherryblossomsafterwinter_1.txt
-carac :  1046 ZZ/Cherryblossomsafterwinter_1.txt
+mot   :  135 ZZ/Cherryblossomsafterwinter_1.txt
+carac :  961 ZZ/Cherryblossomsafterwinter_1.txt
 
 i = Color rush _2
 ligne :  5 ZZ/Colorrush_2.txt
-mot   :  165 ZZ/Colorrush_2.txt
-carac :  1024 ZZ/Colorrush_2.txt
+mot   :  149 ZZ/Colorrush_2.txt
+carac :  942 ZZ/Colorrush_2.txt
 
 i = Age of the living dead _1
 ligne : 

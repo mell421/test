@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 100
-"Earthmix space _1" "The voice no _7" "5515 never too late _1" "F4 thailand _1" 
+"Earthmix space _1" "5515 never too late _1" "F4 thailand _1" 
 # 99-50
 "The voice ph _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
@@ -41,7 +41,7 @@ listAsc=(
 # 1
 "Drag race esp _2" "Cutie pie _1" 
 # 2
-"Dear doctor _1" "The voice no _7" 
+"Dear doctor _1" 
 # 3
 "Top chef _13" "Koh-lanta _28" "Cupids last wish _1" 
 # 4
