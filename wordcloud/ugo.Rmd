@@ -1,0 +1,26 @@
+---
+title: "ugo"
+output:
+  html_document:
+    df_print: paged
+    toc: false
+---
+```{r setup, include = FALSE}
+install.packages("rjson")
+library("rjson")
+```
+
+---
+
+```{r a1 , echo=FALSE}
+# Give the input file name to the function.
+result <- fromJSON(file = "out.json")
+
+# Convert JSON file to a data frame.
+json_data_frame <- as.data.frame(result)
+
+print(json_data_frame)
+```
+
+
+

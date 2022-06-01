@@ -1,35 +1,35 @@
-aEff/aeff.md:- 01/03/22 - 344* american idol _20{0} the voice finland _12{50} the voice fr _12{3} cutie pie _1{2} cupids last wish _1{5} rpdr _14{19} forcebook show real _1{2} earthmix space _1{124} 
-aEff/aeff.md:- 02/03/22 - 241* koh-lanta _28{2} the voice be _10{33} american idol _20{1} the voice finland _12{53} the voice fr _12{4} cutie pie _1{3} cupids last wish _1{8} 
-aEff/aeff.md:- 18/03/22 - 424* earthmix space _1{148} forcebook show real _1{4} pekin express _15{8} domino masters us _1{2} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} the voice be _10{49} koh-lanta _28{4} the voice finland _12{87} the voice fr _12{7} 
-aEff/aeff.md:- 19/03/22 - 481* rpdr _14{27} american idol _20{3} the voice no _7{144} the voice finland _12{89} earthmix space _1{150} forcebook show real _1{6} pekin express _15{9} domino masters us _1{4} the masked singer _7{1} cupids last wish _1{10} top chef _13{6} 
-aEff/aeff.md:- 20/03/22 - 517* the voice fr _12{7} cutie pie _1{5} cupids last wish _1{10} rpdr _14{29} american idol _20{4} the voice no _7{146} the voice finland _12{91} earthmix space _1{152} forcebook show real _1{6}
-aEff/aeff.md:- 21/03/22 - 525* american idol _20{4} the voice finland _12{93} the voice kids ger _10{2} the voice fr _12{8} cutie pie _1{5} cupids last wish _1{12} rpdr _14{30} the voice no _7{148} earthmix space _1{154} 
-aEff/aeff.md:- 21/03/22 (eff) - earthmix space _1{154} the voice no _7{148} the voice finland _12{93} the voice be _10{52} f4 thailand _1{35} rpdr _14{30} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
-aEff/aeff.md:- 22/03/22 - 394* american idol _20{7} the voice finland _12{96} the voice kids ger _10{3} the voice fr _12{10} cutie pie _1{6} cupids last wish _1{15} rpdr _14{32} the voice no _7{151} 
-aEff/aeff.md:- 22/03/22 (eff) - earthmix space _1{157} the voice no _7{151} the voice finland _12{96} the voice be _10{54} f4 thailand _1{35} rpdr _14{32} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
-aEff/aeff.md:- 23/03/22 - 248* american idol _20{9} asc _1{0} the voice be _10{55} koh-lanta _28{5} the voice finland _12{98} the voice kids ger _10{3} the voice fr _12{12} cutie pie _1{7} cupids last wish _1{16} 
-aEff/aeff.md:- 23/03/22 (eff) - earthmix space _1{159} the voice no _7{153} the voice finland _12{98} the voice be _10{55} f4 thailand _1{35} rpdr _14{32} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} the voice fr _12{12} 
-aEff/aeff.md:- 24/02/22 - 154* top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} the voice be _10{28} the voice ukr _12{9} the voice finland _12{39} 
-aEff/aeff.md:- 25/02/22 - 136* cherry blossoms after winter _1{0} pekin express _15{2} top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} 
-aEff/aeff.md:- 27/02/22 - 324* the voice fr _12{2} cutie pie _1{1} cupids last wish _1{0} rpdr _14{17} forcebook show real _1{1} earthmix space _1{119} the voice no _7{100} the voice finland _12{45} cherry blossoms after winter _1{0} 
-aEff/aeff.md:- 28/02/22 - 347* the voice finland _12{47} the voice fr _12{2} cutie pie _1{1} cupids last wish _1{2} rpdr _14{18} forcebook show real _1{1} earthmix space _1{121} 
-apercu/apercu22.md:- mois 01-03-2022 -> American idol _20x2(1) The voice finland _12x11(8) The voice fr _12x4(3) Cutie pie _1x3(2) Cupids last wish _1x3(2) Rpdr _14x9(4) Forcebook show real _1x3(2) Earthmix space _1x13(2) The voice no _7x17(8) Cherry blossoms after winter _1x2(1) Pekin express _15x4(3) Top chef _13x3(2) Koh-lanta _28x2(1) The voice be _10x10(4) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
-apercu/apercu22.md:- sem 21-03-2022 -> American idol _20x5(2) The voice finland _12x17(2) The voice kids ger _10x4(1) The voice fr _12x7(1) Cutie pie _1x6(1) Cupids last wish _1x5(2) Rpdr _14x12(1) The voice no _7x23(2) Earthmix space _1x14(1) Forcebook show real _1x6(1) Pekin express _15x7(1) Domino masters us _1x3(2) The masked singer _7x3(1) Top chef _13x6(1) The voice be _10x13(1) Koh-lanta _28x5(1) 
-apercu/apercu22.md:- sem 28-02-2022 -> The voice finland _12x11(2) The voice fr _12x4(1) Cutie pie _1x3(1) Cupids last wish _1x3(2) Rpdr _14x9(1) Forcebook show real _1x3(1) Earthmix space _1x13(1) The voice no _7x17(2) Cherry blossoms after winter _1x2(1) Pekin express _15x4(1) Top chef _13x3(1) Koh-lanta _28x2(1) The voice be _10x10(1) 
-apercu/apercu22.md:* conclu 01/03/22 = The voice no _7 > 8; The voice finland _12 > 5; Earthmix space _1 > 4; Cupids last wish _1 > 2; 
-apercu/apercu22.md:* conclu 02/03/22 = The voice no _7 > 7; Earthmix space _1 > 4; The voice finland _12 > 4; Cupids last wish _1 > 1; 
-apercu/apercu22.md:* conclu 20/03/22 = The voice no _7 > 11; The voice finland _12 > 7; Cupids last wish _1 > 3; Earthmix space _1 > 2; 
-apercu/apercu22.md:* conclu 21/03/22 = The voice finland _12 > 9; The voice no _7 > 8; American idol _20 > 3; Earthmix space _1 > 2; Cupids last wish _1 > 1; 
-apercu/apercu22.md:* conclu 27/02/22 = The voice no _7 > 11; Earthmix space _1 > 4; The voice finland _12 > 3; Cupids last wish _1 > 3; 
-apercu/apercu22.md:* conclu 28/02/22 = The voice no _7 > 7; Earthmix space _1 > 4; The voice finland _12 > 4; Cupids last wish _1 > 1; 
-apercu/apercu22.md:* concluBis 01/03/22 = The voice no _7 > 16; The voice finland _12 > 13; Earthmix space _1 > 8; Cupids last wish _1 > 4; 
-apercu/apercu22.md:* concluBis 02/03/22 = The voice no _7 > 15; The voice finland _12 > 10; Earthmix space _1 > 8; The voice be _10 > 5; Cupids last wish _1 > 3; 
-apercu/apercu22.md:* concluBis 20/03/22 = The voice no _7 > 19; The voice finland _12 > 15; Earthmix space _1 > 6; Cupids last wish _1 > 5; The voice be _10 > 2; Rpdr _14 > 2; The voice fr _12 > 2; Domino masters us _1 > 2; 
-apercu/apercu22.md:* concluBis 21/03/22 = The voice finland _12 > 17; The voice no _7 > 16; Earthmix space _1 > 6; American idol _20 > 5; The voice be _10 > 4; Cupids last wish _1 > 3; Rpdr _14 > 2; The voice fr _12 > 1; Domino masters us _1 > 1; 
-apercu/apercu22.md:* concluBis 22/03/22 = The voice finland _12 > 16; The voice no _7 > 15; Earthmix space _1 > 6; The voice be _10 > 4; American idol _20 > 4; The voice fr _12 > 3; Cutie pie _1 > 2; Cupids last wish _1 > 2; 
-apercu/apercu22.md:* concluBis 23/03/22 = The voice finland _12 > 16; The voice no _7 > 15; The voice be _10 > 8; American idol _20 > 7; Earthmix space _1 > 4; Cupids last wish _1 > 2; Koh-lanta _28 > 1; 
-apercu/apercu22.md:* concluBis 27/02/22 = The voice no _7 > 19; Earthmix space _1 > 8; The voice finland _12 > 8; Cupids last wish _1 > 5; Rpdr _14 > 1; Forever knight _1 > 1; 
-apercu/apercu22.md:* concluBis 28/02/22 = The voice no _7 > 15; The voice finland _12 > 10; Earthmix space _1 > 8; Cupids last wish _1 > 3; 
+aEff/aeff.md:- 01/03/22 - 344* cutie pie _1{2} cupids last wish _1{5} earthmix space _1{124} 
+aEff/aeff.md:- 02/03/22 - 241* koh-lanta _28{2} cutie pie _1{3} cupids last wish _1{8} 
+aEff/aeff.md:- 18/03/22 - 424* earthmix space _1{148} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} 
+aEff/aeff.md:- 19/03/22 - 481* earthmix space _1{150} cupids last wish _1{10} top chef _13{6} 
+aEff/aeff.md:- 20/03/22 - 517* cutie pie _1{5} cupids last wish _1{10} earthmix space _1{152} 
+aEff/aeff.md:- 21/03/22 - 525* cutie pie _1{5} cupids last wish _1{12} earthmix space _1{154} 
+aEff/aeff.md:- 21/03/22 (eff) - earthmix space _1{154} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
+aEff/aeff.md:- 22/03/22 - 394* cutie pie _1{6} cupids last wish _1{15} 
+aEff/aeff.md:- 22/03/22 (eff) - earthmix space _1{157} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
+aEff/aeff.md:- 23/03/22 - 248* koh-lanta _28{5} cutie pie _1{7} cupids last wish _1{16} 
+aEff/aeff.md:- 23/03/22 (eff) - earthmix space _1{159} f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} 
+aEff/aeff.md:- 24/02/22 - 154* top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} the voice ukr _12{9} 
+aEff/aeff.md:- 25/02/22 - 136* cherry blossoms after winter _1{0} top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} 
+aEff/aeff.md:- 27/02/22 - 324* cutie pie _1{1} cupids last wish _1{0} earthmix space _1{119} cherry blossoms after winter _1{0} 
+aEff/aeff.md:- 28/02/22 - 347* cutie pie _1{1} cupids last wish _1{2} earthmix space _1{121} 
+apercu/apercu22.md:- mois 01-03-2022 -> Cutie pie _1x3(2) Cupids last wish _1x3(2) Earthmix space _1x13(2) Cherry blossoms after winter _1x2(1) Top chef _13x3(2) Koh-lanta _28x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercu22.md:- sem 21-03-2022 -> Cutie pie _1x6(1) Cupids last wish _1x5(2) Earthmix space _1x14(1) Top chef _13x6(1) Koh-lanta _28x5(1) 
+apercu/apercu22.md:- sem 28-02-2022 -> Cutie pie _1x3(1) Cupids last wish _1x3(2) Earthmix space _1x13(1) Cherry blossoms after winter _1x2(1) Top chef _13x3(1) Koh-lanta _28x2(1) 
+apercu/apercu22.md:* conclu 01/03/22 = Earthmix space _1 > 4; Cupids last wish _1 > 2; 
+apercu/apercu22.md:* conclu 02/03/22 = Earthmix space _1 > 4; Cupids last wish _1 > 1; 
+apercu/apercu22.md:* conclu 20/03/22 = Cupids last wish _1 > 3; Earthmix space _1 > 2; 
+apercu/apercu22.md:* conclu 21/03/22 = Earthmix space _1 > 2; Cupids last wish _1 > 1; 
+apercu/apercu22.md:* conclu 27/02/22 = Earthmix space _1 > 4; Cupids last wish _1 > 3; 
+apercu/apercu22.md:* conclu 28/02/22 = Earthmix space _1 > 4; Cupids last wish _1 > 1; 
+apercu/apercu22.md:* concluBis 01/03/22 = Earthmix space _1 > 8; Cupids last wish _1 > 4; 
+apercu/apercu22.md:* concluBis 02/03/22 = Earthmix space _1 > 8; Cupids last wish _1 > 3; 
+apercu/apercu22.md:* concluBis 20/03/22 = Earthmix space _1 > 6; Cupids last wish _1 > 5; 
+apercu/apercu22.md:* concluBis 21/03/22 = Earthmix space _1 > 6; Cupids last wish _1 > 3; 
+apercu/apercu22.md:* concluBis 22/03/22 = Earthmix space _1 > 6; Cutie pie _1 > 2; Cupids last wish _1 > 2; 
+apercu/apercu22.md:* concluBis 23/03/22 = Earthmix space _1 > 4; Cupids last wish _1 > 2; Koh-lanta _28 > 1; 
+apercu/apercu22.md:* concluBis 27/02/22 = Earthmix space _1 > 8; Cupids last wish _1 > 5; Forever knight _1 > 1; 
+apercu/apercu22.md:* concluBis 28/02/22 = Earthmix space _1 > 8; Cupids last wish _1 > 3; 
 apercuTer/apercuTer.md:* Cupids last wish _1
 index.html:            cupids last wish _1<br>
 index.html:          <td>cupids last wish _1<br>

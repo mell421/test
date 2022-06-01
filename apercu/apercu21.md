@@ -37,13 +37,13 @@
 - sem 07-06-2021 Vincenzo _1x3(2) 
 - sem 21-06-2021 Elite _4x4(3) Dark blue kiss _1x3(1) 
 - sem 28-06-2021 Siew sum noi _1x2(1) 
-- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Young royals _1x2(1) Camping paradis _12x2(1) 
-- sem 19-07-2021 /46 days _1x5(2) Good singers _1x4(1) Camping paradis _12x3(1) 
-- sem 26-07-2021 /46 days _1x7(2) Camping paradis _12x4(1) 
-- sem 09-08-2021 Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+- sem 12-07-2021 Glow up _2x2(1) /46 days _1x3(2) Zombie detective _1x3(1) Young royals _1x2(1) 
+- sem 19-07-2021 /46 days _1x5(2) 
+- sem 26-07-2021 /46 days _1x7(2) 
+- sem 09-08-2021 Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - sem 23-08-2021 From dusk till dawn _2x5(1) 
 - sem 30-08-2021 Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
-- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) 7project _1x2(1) Camping paradis _12x5(1) 
+- sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) 7project _1x2(1) 
 - sem 13-09-2021 Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) 
 - sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) 7project _1x4(1) 
 - sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
@@ -56,9 +56,9 @@
 - sem 22-11-2021 -> Les engages _3x2(1) The case study of vanitas _1x3(2) 
 - sem 29-11-2021 -> Earthmix space _1x7(1) Baker boys _1x3(2) 
 - sem 06-12-2021 -> District z _2x2(1) Baker boys _1x4(1) 
-- sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) Camping paradis _12x6(1) 
+- sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) 
 - sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
-- sem 27-12-2021 -> The player _1x3(2) You are my sunshine _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1) 
+- sem 27-12-2021 -> The player _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1) 
 
 
 
@@ -74,8 +74,8 @@
 - mois 01-05-2021 I can see your voice fr _1x2(1) Mr lipstick _1x3(2) 
 - mois 01-06-2021 Dark blue kiss _1x2(1) An eye for an eye _1x2(1) I can see your voice fr _1x3(1) 
 - mois 01-07-2021 Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
-- mois 01-08-2021 /46 days _1x7(6) Camping paradis _12x4(3) Good singers _1x4(1) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
-- mois 01-09-2021 7project _1x2(1) Camping paradis _12x5(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Good singers _1x5(1) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+- mois 01-08-2021 /46 days _1x7(6) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
+- mois 01-09-2021 7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 - mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 - mois 01-12-2021 -> Earthmix space _1x7(2) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
@@ -164,7 +164,6 @@
 * conclu 18/12/21 = Earthmix space _1 > 2; 
 * conclu 19/12/21 = Earthmix space _1 > 2; District z _2 > 1; 
 * conclu 22/12/21 = The player _1 > 1; 
-* conclu 23/12/21 = You are my sunshine _1 > 1; 
 * conclu 27/12/21 = The player _1 > 1; 
 
 
@@ -195,7 +194,6 @@
 * concluBis 31/01/21 > Be love _1 > 1; 
 * concluBis 01/02/21 > Be love _1 > 1; 
 * concluBis 02/02/21 > You never eat alone _1 > 2; Slam dance _1 > 1; 
-* concluBis 08/02/21 > 
 * concluBis 10/02/21 > The harvest season _1 > 4; Wabi show _1 > 3; 
 * concluBis 11/02/21 > The harvest season _1 > 5; Wabi show _1 > 2; 
 * concluBis 12/02/21 > The harvest season _1 > 5; Wabi show _1 > 3; 
@@ -211,7 +209,6 @@
 * concluBis 22/02/21 > My vampire boyfriend _1 > 5; 
 * concluBis 23/02/21 > My vampire boyfriend _1 > 2; 
 * concluBis 24/02/21 > My vampire boyfriend _1 > 3; 
-* concluBis 02/03/21 > 
 * concluBis 19/03/21 > Bt21 vlog _1 > 2; 
 * concluBis 20/03/21 > Bt21 vlog _1 > 2; 
 * concluBis 21/03/21 > Bt21 vlog _1 > 2; 
@@ -244,14 +241,14 @@
 * concluBis 03/07/21 = Forever knight _1 > 1; 
 * concluBis 04/07/21 = Forever knight _1 > 1; 
 * concluBis 05/07/21 = Forever knight _1 > 1; 
-* concluBis 06/07/21 = Young royals _1 > 3; Camping paradis _12 > 2; Forever knight _1 > 1; 
+* concluBis 06/07/21 = Young royals _1 > 3; Forever knight _1 > 1; 
 * concluBis 07/07/21 = Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 08/07/21 = Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 09/07/21 = Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 10/07/21 = /46 days _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 11/07/21 = /46 days _1 > 3; Forever knight _1 > 2; Glow up _2 > 1; Imortal _1 > 1; 
 * concluBis 12/07/21 = /46 days _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 13/07/21 = /46 days _1 > 4; Camping paradis _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 13/07/21 = /46 days _1 > 4; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 14/07/21 = /46 days _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 15/07/21 = /46 days _1 > 4; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 16/07/21 = Forever knight _1 > 3; Imortal _1 > 2; /46 days _1 > 1; 
@@ -328,13 +325,13 @@
 * concluBis 20/12/21 = Earthmix space _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 21/12/21 = Earthmix space _1 > 1; Forever knight _1 > 1; 
 * concluBis 22/12/21 = The player _1 > 3; Earthmix space _1 > 2; Forever knight _1 > 1; 
-* concluBis 23/12/21 = You are my sunshine _1 > 3; Earthmix space _1 > 2; The player _1 > 2; Forever knight _1 > 1; 
+* concluBis 23/12/21 = Earthmix space _1 > 2; The player _1 > 2; Forever knight _1 > 1; 
 * concluBis 24/12/21 = Earthmix space _1 > 2; Forever knight _1 > 1; 
 * concluBis 25/12/21 = Earthmix space _1 > 3; Forever knight _1 > 1; 
 * concluBis 26/12/21 = Earthmix space _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
-* concluBis 27/12/21 = The player _1 > 3; Earthmix space _1 > 2; You are my sunshine _1 > 2; Forever knight _1 > 1; 
-* concluBis 28/12/21 = The player _1 > 2; Earthmix space _1 > 1; You are my sunshine _1 > 1; Forever knight _1 > 1; 
-* concluBis 29/12/21 = You are my sunshine _1 > 2; Forever knight _1 > 1; 
+* concluBis 27/12/21 = The player _1 > 3; Earthmix space _1 > 2; Forever knight _1 > 1; 
+* concluBis 28/12/21 = The player _1 > 2; Earthmix space _1 > 1; Forever knight _1 > 1; 
+* concluBis 29/12/21 = Forever knight _1 > 1; 
 * concluBis 30/12/21 = Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 * concluBis 31/12/21 = Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
 

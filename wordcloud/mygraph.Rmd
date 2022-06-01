@@ -5,6 +5,7 @@ output:
     df_print: paged
     toc: false
 ---
+
 ```{r setup, include = FALSE}
 # INSTALL
 # knitr::opts_chunk$set(cache = TRUE)
@@ -18,34 +19,43 @@ begin_time<-Sys.time()
 
 ```
 
-
-[retour](./../index.html)  
+[retour](./../index.html)
 
 <!-- -->
 
-||||  
-|---|---|---|  
-|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)|[graph](./mygraph.html)|  
-|[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
+|                             |                               |                             |
+|-----------------------------|-------------------------------|-----------------------------|
+| [allListe](./allListe.html) | [wordcloud](./wordcloud.html) | [graph](./mygraph.html)     |
+| [sumup](./sumup.html)       | [summary](./summary.html)     | [sumUpAll](./sumUpAll.html) |
 
----
+------------------------------------------------------------------------
+
+### hhmm
+
+```{r saiep, echo = FALSE}
+CopyS <-data.frame(aLD())
+  tab3 <-table(CopyS$hh,CopyS$minute)
+  tab3
+  rowSums(tab3)
+  chisq.test(tab3)
+```
 
 ### nb duree
+
 ```{r nbDuree, echo = FALSE}
 CopyS <-data.frame(aListes())
   plot(CopyS$nb.jour,main="nb d'ep par jour",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
-  #lines(CopyS$nb.jour,type = "l",col="red")
   
   plot(CopyS$nb.sem,main="nb d'ep par semaine",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
-  #lines(CopyS$nb.sem,type = "l",col="red")
-  
+
   plot(CopyS$nb.mois,main="nb d'ep par mois",type = "l",col="red",xlab = "date",ylab = "nb ep",xlim=c(0,36))
 ```
 
 ### conclu
+
 ```{r concluG, echo = FALSE}
 CopyS <-data.frame(copy.conclu())
-dataC <- data.frame(CopyS$nbCarConclu,CopyS$nbCarConcluBis,CopyS$jour_1,CopyS$date)
+#dataC <- data.frame(CopyS$nbCarConclu,CopyS$nbCarConcluBis,CopyS$jour_1,CopyS$date)
   
   plot(CopyS$nbCarConcluBis,main="nb de caracteres conclu",type = "l",col="red",xlab = "date",ylab = "nb car")
   lines(CopyS$nbCarConclu,type = "l",col="blue")
@@ -55,6 +65,7 @@ dataC <- data.frame(CopyS$nbCarConclu,CopyS$nbCarConcluBis,CopyS$jour_1,CopyS$da
 ```
 
 ### max
+
 ```{r max2, echo = FALSE}
 CopyS <- data.frame(copy.max())
 main <- function(){
@@ -67,13 +78,11 @@ suppressWarnings(main())
 ```
 
 ### nb tisaep duree
+
 ```{r pars, echo = FALSE}
 CopyS <-data.frame(aPARS())
   
-  plot(CopyS$incJ,main="nb de tisaep",type = "l",col="red",xlab = "date",ylab = "nb",ylim=c(0,30*1.1) )
-  lines(CopyS$incS,type = "l",col="navy blue")
-  lines(CopyS$incM,type = "l",col="purple")
-  lines(CopyS$j,type = "l",col="orange")
+  plot(CopyS$j,main="nb de tisaep",type = "l",col="red",xlab = "date",ylab = "nb",ylim=c(0,30*1.1) )
   lines(CopyS$s,type = "l",col="blue")
   lines(CopyS$m,type = "l",col="violet")
   box()
@@ -81,6 +90,7 @@ CopyS <-data.frame(aPARS())
 ```
 
 ### calendar
+
 ```{r cal2, echo=FALSE}
 
 print("cal21")
@@ -249,6 +259,7 @@ box()
 ```
 
 ### reste
+
 ```{r reste, echo=FALSE}
 df <- data.frame(aReste())
 
@@ -274,7 +285,6 @@ box()
 # max(table(df$sem1))*1.1
 ```
 
-
 ```{r regress0, eval=FALSE, include=FALSE}
 ### regression max
 Prestige <- copy.max()
@@ -294,7 +304,6 @@ plot(prest.lm1, 3)
 plot(prest.lm1,1)
 # influenceIndexPlot(prest.lm1)
 ```
-
 
 ```{r regress1, echo = FALSE, include=FALSE}
 ### regression1 nbCarConclu~nbCarConcluBis
@@ -325,7 +334,6 @@ plot(prest.lm1,1)
 # influenceIndexPlot(prest.lm1)
 ```
 
-
 ```{r regress2, echo = FALSE, include=FALSE}
 ### regression2 nc~ncb
 # install.packages("car")
@@ -347,7 +355,6 @@ plot(prest.lm1, 3)
 # ncvTest(prest.lm1)
 plot(prest.lm1,1)
 ```
-
 
 ```{r regress3, echo = FALSE, include=FALSE}
 ### regression3 nbCarConclu~nc
@@ -371,7 +378,6 @@ plot(prest.lm1, 3)
 plot(prest.lm1,1)
 ```
 
-
 ```{r regress4, echo = FALSE, include=FALSE}
 ### regression4 nbCarConcluBis~ncb
 # install.packages("car")
@@ -393,13 +399,15 @@ plot(prest.lm1, 3)
 # ncvTest(prest.lm1)
 plot(prest.lm1,1)
 ```
----
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+------------------------------------------------------------------------
+
+::: {style="page-break-after: always; visibility: hidden"}
+\pagebreak
+:::
 
 ### en cours
+
 ```{r ecocc, echo=FALSE}
 CopyS <- data.frame(aECocc())
 CopyS <- data.frame(CopyS[1:6])
@@ -468,6 +476,7 @@ suppressWarnings(main())
 ```
 
 ### termine
+
 ```{r terocc, echo=FALSE}
 CopyS <- data.frame(aECocc())
 CopyS <- data.frame(CopyS[7:12])
@@ -529,10 +538,10 @@ suppressWarnings(main())
 ```
 
 ### temps
+
 ```{r temps, echo=FALSE}
 
-df <- data.frame(accueil())
-layout(matrix(1:4,2,2))
+df <- data.frame(aLD())
 
 # print("heures")
 barplot(table(df$hh),
@@ -556,9 +565,10 @@ box()
 ```
 
 ### accueil
+
 ```{r acc, echo=FALSE}
 
-df <- data.frame(accueil())
+df <- data.frame(aLD())
 layout(matrix(1:4,2,2))
 # print("saison")
 barplot(table(df$saison),
@@ -587,19 +597,12 @@ barplot(table(df$status),
         ylim=c(0,max(table(df$status))*1.1)
         )
 box()
-# print("indice")
-barplot(table(df$indice),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="indice",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df$indice))*1.1)
-        )
-box()
+
 
 ```
 
 ### copy
+
 ```{r copy2, echo=FALSE}
 
 df <- data.frame(aCopyScript())
@@ -662,11 +665,12 @@ barplot(table(df$ncb),
         )
 box()
 ```
----
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+------------------------------------------------------------------------
+
+::: {style="page-break-after: always; visibility: hidden"}
+\pagebreak
+:::
 
 ## NETWORKS
 
@@ -728,18 +732,16 @@ netw(10)
 #dev.print(device = png, file = "network1_2.png", width = 600)
 ```
 
-
 ```{r corr , echo=FALSE}
 ### corr
 
 ```
 
-
 ### timing
+
 ```{r timing , echo=FALSE}
 end_time<-Sys.time()
 total_time <- end_time - begin_time
 print(total_time)
 begin_time2 <-Sys.time()
 ```
-

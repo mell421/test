@@ -44,7 +44,8 @@ sumup2 <- function(i){
 
 ### 0
 ```{r stats0, echo=FALSE}
-for (i in 1:9) {
+sumup2(1)
+for (i in 3:9) {
   sumup2(i)
 }
 ```
@@ -61,6 +62,9 @@ for (i in 10:19) {
 for (i in 20:26) {
   sumup2(i)
 }
+for (i in 28:29) {
+  sumup2(i)
+}
 #sumup2(29)
 
 ```
@@ -68,17 +72,14 @@ for (i in 20:26) {
 ### 3
 ```{r stats3, echo=FALSE}
 sumup2(30)
-sumup2(31)
-sumup2(32)
-sumup2(33)
-for (i in 36:39) {
+for (i in 32:39) {
   sumup2(i)
 }
 ```
 
 ### 4
 ```{r stats4, echo=FALSE}
-for (i in 40:42) {
+for (i in 40:43) {
   sumup2(i)
 }
 for (i in 44:49) {
@@ -88,10 +89,10 @@ for (i in 44:49) {
 
 ### 5
 ```{r stats5, echo=FALSE}
-for (i in 50:56) {
+for (i in 50:55) {
   sumup2(i)
 }
-sumup2(59)
+#sumup2(59)
 ```
 
 

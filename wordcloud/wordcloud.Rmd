@@ -85,10 +85,10 @@ tm <- function(text){
 suppressWarnings(tm(text))
 ```
 
-<!-- accueil -->
+<!-- LD -->
 ### recent
 ```{r recent0, echo=FALSE}
-recent <- data.frame(aAccueil())
+recent <- data.frame(aLD())
 text <- recent$Titre_1
 
 tm <- function(text){
@@ -266,28 +266,6 @@ suppressWarnings(main(text))
 ```
 
 
-### conclu-bis-eff
-```{r conclubiseff, echo=FALSE}
-text2 <- data.frame(aTestConcluAllEff())
-text <- text2[2]
-main <- function(text){
-  
-  dtm_d <- wc(text)
-  # Display the top 20 most frequent words
-  head(dtm_d, 30)
-
-  # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 conclu-bis-eff")
-  
-
-  #generate word cloud
-  wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"conclubiseff_3.png",delayW)
-}
-
-suppressWarnings(main(text))
-```
-
 
 <!-- copy 63 -->
 ### sem
@@ -330,30 +308,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"mois_3.png",delayW)
-
-}
-
-suppressWarnings(main(text))
-```
-
-<!-- copy 68 -->
-### mois-sem
-```{r moissem, echo=FALSE}
-text2 <- data.frame(aTestMS())
-text <- text2[2]
-main <- function(text){
-  
-  dtm_d <- wc(text)
-  # Display the top 20 most frequent words
-  head(dtm_d, 30)
-
-  # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 mois-sem")
-  
-
-  #generate word cloud
-  wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"moissem_3.png",delayW)
 
 }
 
@@ -411,7 +365,7 @@ suppressWarnings(main(text))
 
 ### Page app
 ```{r pa, echo=FALSE}
-text <- data.frame(PA())
+text <- data.frame(aPA())
 main <- function(text){
   dtm_d <- wc(text)
   # Display the top 20 most frequent words
@@ -430,8 +384,9 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+
+```{r resume, eval=FALSE, include=FALSE}
 ### resume
-```{r resume, echo=FALSE}
 text2 <- data.frame(aResume())
 text <- text2[2]
 main <- function(text){
@@ -454,7 +409,7 @@ suppressWarnings(main(text))
 
 ### aff odd
 ```{r affodd, echo=FALSE}
-text <- data.frame(affodd())
+text <- data.frame(aAffODD())
 main <- function(text){
   dtm_d <- wc(text)
   # Display the top 20 most frequent words

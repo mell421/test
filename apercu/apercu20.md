@@ -133,7 +133,7 @@ Young dracula _1x7(2) The untamed _1x2(1)
 The untamed _1x3(1) 
 #### sem 13-07-2020 
 #### sem 20-07-2020 
-Long khong _1x2(1) Himym _6x2(1) Good singers _1x2(1) 
+Long khong _1x2(1) Himym _6x2(1) 
 #### sem 27-07-2020 
 Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) 
 #### sem 03-08-2020 
@@ -143,7 +143,7 @@ Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1)
 #### sem 17-08-2020 
 The office _1x5(2) You _1x3(1) 
 #### sem 24-08-2020 
-Good singers _1x3(1) So much in love _1x2(1) 
+So much in love _1x2(1) 
 #### sem 31-08-2020 
 So much in love _1x3(1) Blacklist series _1x2(1) 
 #### sem 07-09-2020 
@@ -198,9 +198,9 @@ Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les 
 #### mois 01-07-2020 
 Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
 #### mois 01-08-2020 
-Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) Good singers _1x2(1) The untamed _1x3(1) 
+Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) The untamed _1x3(1) 
 #### mois 01-09-2020 
-So much in love _1x3(2) Blacklist series _1x2(1) Good singers _1x3(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
+So much in love _1x3(2) Blacklist series _1x2(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 #### mois 01-10-2020 
 Friend forever _1x2(1) My day _1x2(1) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
 #### mois 01-11-2020 

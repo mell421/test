@@ -129,6 +129,13 @@
     - [sem 04-04-2022](#sem-04-04-2022)
     - [sem 11-04-2022](#sem-11-04-2022)
     - [sem 18-04-2022](#sem-18-04-2022)
+    - [sem 25-04-2022](#sem-25-04-2022)
+    - [sem 02-05-2022](#sem-02-05-2022)
+    - [sem 09-05-2022](#sem-09-05-2022)
+    - [sem 16-05-2022](#sem-16-05-2022)
+    - [sem 23-05-2022](#sem-23-05-2022)
+    - [sem 30-05-2022](#sem-30-05-2022)
+    - [sem 06-06-2022](#sem-06-06-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -813,7 +820,49 @@
 * Survivor au _9
 ### sem 18-04-2022 
 * *insererici*
-
+* Pekin express _15
+* Survivor _26
+* Queen stars brazil _1
+* The voice be _10
+* Clem _12
+### sem 25-04-2022 
+* *insererici*
+* The voice kids poland _5
+* Rpdr _14
+* Forcebook show real _1
+### sem 02-05-2022 
+* *insererici*
+* The masked singer ger _6
+* The voice finland _12
+* Heartstopper _1
+* Camping paradis _12
+### sem 09-05-2022 
+* *insererici*
+* The voice kids ger _10
+### sem 16-05-2022 
+* *insererici*
+* The masked singer fr _3
+* Survivor _27
+* Domino masters us _1
+* Asc _1
+### sem 23-05-2022 
+* *insererici*
+* The voice fr _12
+* Love death & robots _3
+* The masked singer _7
+* Cgt _2
+* Vampire in the garden _1
+### sem 30-05-2022 
+* *insererici*
+* The voice au _11
+* The voice kids vv _6
+* Star in my mind _1
+* Survivor _28
+* Survivor _42
+* American idol _20
+### sem 06-06-2022 
+* *insererici*
+* The voice no _7
 
 
 <div style="page-break-after: always; visibility: hidden"> 
@@ -829,50 +878,32 @@
 * Bgt _15
 * Unforgotten night _1
 * 
-* Survivor _26
-* Survivor _27
-* Survivor _28
 * 
 * 
 * $ a classer $
 * Unbag _1 (23/12/21)
+* You are my sunshine _1(26/12/21)
+* Good singers _1(7/8/21)
+* I can see your voice fr _1(13/5/21)
 * 
 * $ order $
 * 
-* The voice kids poland _5
-* The voice kids ger _10
-* The voice fr _12
+* 
 * Trivia quest _1
 * Cutie pie _1
-* Rpdr _14
-* The voice no _7
-* The voice finland _12
-* The voice kids vv _6
-* The masked singer fr _3
-* The masked singer _7
-* Forcebook show real _1
+* 
 * Earthmix space _1
-* Star in my mind _1
-* Pekin express _15
-* Queen stars brazil _1
-* Asc _1
 * Top chef _13
 * Dear doctor _1
-* The voice be _10
 * Koh-lanta _28
-* American idol _20
-* Clem _12
-* Domino masters us _1
 * Drag race esp _2
 * Kinnporsche _1
 * Name that tune _2
 * Enchante _1
 * Quaranthings _2
 * Ohmnanon upvel _1
-* The masked singer ger _6
 * Cupids last wish _1
 * Drag i love you _1
-* Survivor _42
 * The tuxedo _1
 * Cherry blossom after winter _1
 * The voice ukr _12
@@ -889,11 +920,9 @@
 * Young sheldon _5
 * 5515 never too late _1
 * The player _1
-* You are my sunshine _1
 * District z _2
 * Unlocked _1
 * Aggretsuko _4
-* Camping paradis _12
 * Baker boys _1
 * Les engagés _3
 * The case study of vanitas _1
@@ -918,7 +947,6 @@
 * Qforce _1
 * The yearbook _1
 * From dusk till dawn _2
-* Good singers _1
 * Control z _2
 * 46 days _1
 * Glow up _2
@@ -929,7 +957,6 @@
 * Dark blue kiss _1
 * Vincenzo _1
 * An eye for an eye _1
-* I can see your voice fr _1
 * Mr lipstick _1
 * Bt21 vlog _1
 * You never eat alone _1
@@ -1006,9 +1033,9 @@
 #### mois 01-04-2022 
 *insererici Absolute bl _2 Dancing on ice uk _14 Survivor _25 Semantic error _1 Is it cake _1 Not me _1 The masked singer vv _2 Skam france _9 Survivor _24 Agt extreme _1 The voice generations lithu _1 Icsyv _2 Survivor sa _7 Rpdrukvstheworld _1 The voice poland _12 Next level chef _1*
 #### mois 01-05-2022 
-*insererici Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
+*insererici The masked singer ger _6 The voice finland _12 Heartstopper _1 Camping paradis _12 The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
-*insererici*
+*insererici The voice no _7 The voice au _11 The voice kids vv _6 Star in my mind _1 Survivor _28 Survivor _42 American idol _20 The voice fr _12 Love death & robots _3 The masked singer _7 Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
 
 
 

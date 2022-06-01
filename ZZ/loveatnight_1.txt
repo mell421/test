@@ -1,12 +1,12 @@
-aEff/aeff.md:- 25/01/22 - 97* love at night _1{0} the voice ukr _12{3} f4 thailand _1{7} rpdr _14{6} the voice no _7{29} 
-aEff/aeff.md:- 26/01/22 - 78* the voice ph _1{0} the voice be _10{9} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} rpdr _14{6} 
-aEff/aeff.md:- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} the voice be _10{11} love at night _1{3} the voice ukr _12{4} f4 thailand _1{7} 
-aEff/aeff.md:- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} the voice be _10{12} love at night _1{3} the voice ukr _12{4} 
-apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) The voice finland _12x3(2) F4 thailand _1x7(4) Rpdr _14x5(4) The voice no _7x9(8) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) The voice be _10x6(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
-apercu/apercu22.md:- sem 31-01-2022 -> The voice ukr _12x3(1) The voice finland _12x3(2) F4 thailand _1x7(2) Rpdr _14x5(1) The voice no _7x9(2) Enchante _1x2(1) Something in my room _1x3(1) The voice ph _1x5(4) The voice be _10x6(1) Love at night _1x2(1) 
-apercu/apercu22.md:* conclu 25/01/22 = The voice no _7 > 4; Earthmix space _1 > 2; Love at night _1 > 1; 
-apercu/apercu22.md:* concluBis 25/01/22 = The voice no _7 > 8; Earthmix space _1 > 6; Love at night _1 > 3; The voice ukr _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-apercu/apercu22.md:* concluBis 26/01/22 = The voice no _7 > 8; The voice be _10 > 5; The voice ph _1 > 4; Earthmix space _1 > 3; Forever knight _1 > 2; Love at night _1 > 1; Imortal _1 > 1; 
+aEff/aeff.md:- 25/01/22 - 97* love at night _1{0} the voice ukr _12{3} f4 thailand _1{7} 
+aEff/aeff.md:- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} 
+aEff/aeff.md:- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} love at night _1{3} the voice ukr _12{4} f4 thailand _1{7} 
+aEff/aeff.md:- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} love at night _1{3} the voice ukr _12{4} 
+apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
+apercu/apercu22.md:- sem 31-01-2022 -> The voice ukr _12x3(1) F4 thailand _1x7(2) Enchante _1x2(1) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
+apercu/apercu22.md:* conclu 25/01/22 = Earthmix space _1 > 2; Love at night _1 > 1; 
+apercu/apercu22.md:* concluBis 25/01/22 = Earthmix space _1 > 6; Love at night _1 > 3; The voice ukr _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercu22.md:* concluBis 26/01/22 = The voice ph _1 > 4; Earthmix space _1 > 3; Forever knight _1 > 2; Love at night _1 > 1; Imortal _1 > 1; 
 apercuTer/apercuTer.md:* Love at night _1
 apercuTer/apercuTer.md:*Josephine ange gardien _23 Offgun fun night _2 Wish you _1 Cherry magic _1 From dusk till dawn _1 The voice senior it _1 The voice germany _10 Strictly come dancing _18 Why r u _2 Fais pas ci fais pas ça _9 Discipline _2 The masked singer _4 Oh mando _1 The voice us _19 Incroyable talent _15 I can see your voice _1 Calculating love _1 The voice senior vv _2 Drag race thailand _2 Taking the stands _1 Oxygen _1 Boyband love _1 Koh-lanta _25 Better days _1 Safe haven _1*
 apercuTer/apercuTer.md:*The masked singer ger _5 The love that dare not speak its name _1 Dals _11 Dwts _30 Bite sisters _1 The voice senior th _1 Survivor _10 The voice senior th _2 Munch _4 Midnight mass _1 Survivor _9 Survivor _8*
