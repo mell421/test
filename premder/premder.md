@@ -51,7 +51,6 @@ Bgt 15x6
 * The voice kids portugal 3x1
 * Skam france 10x1
 The circle us 4x5
-Name that tune 2x7
 Ohmnanon upvel 1x4
 * Close friend 2x1
 * Clik clak clok 1x1
@@ -67,7 +66,6 @@ Cutie pie 1x9
 Trivia quest 1x6
 * Trivia quest 1x1
 * Kinnporsche 1x1
-* Name that tune 2x1
 Enchante 1x5
 * Quaranthings 2x1
 * Ohmnanon upvel 1x1

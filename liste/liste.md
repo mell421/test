@@ -587,6 +587,7 @@
 |Survivor 28||14|||<!-- 26/5 -->
 |star in my mind 1||8|||<!-- 8/4 - 27/5 -->
 |the voice kids vv 6||10|||<!-- 26/3 - 27/5 -->
+|Name that tune 2||10|||<!-- 1/4 - 28/5 -->
 |the voice au 11||14|||<!-- 18/4 -29/5 -->
 |the voice no 7||40|||<!-- 6/1/22 - 31/5 -->
 ||||||<!--  -->
@@ -777,7 +778,6 @@
 |drag race esp 2||12|||6|<!-- 27/3 -->
 |ohmnanon upvel 1|||||0|<!-- 31/3 -->
 |quaranthings 2||8|||1|<!-- 1/4 -->
-|Name that tune 2|||||7|<!-- 1/4 -->
 |kinnporsche 1||?|||3|<!-- 2/4 -->
 |trivia quest 1|||||0|<!-- 9/4 -->
 |call me mother 1|||||0|<!-- 15/4 -->
