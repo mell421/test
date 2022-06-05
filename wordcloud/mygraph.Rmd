@@ -272,14 +272,8 @@ barplot(table(df$pays),
         )
 box()
 
-barplot(table(df$rest),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="rest",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df$rest))*1.1)
-        )
-box()
+#barplot(table(df$rest),las = 2,col =brewer.pal(8, "Dark2"), main ="rest",ylab = "nb ep",ylim=c(0,max(table(df$rest))*1.1))
+#box()
 
 
 # max(table(df$sem1))*1.1
