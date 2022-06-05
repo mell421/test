@@ -10,9 +10,9 @@ mot   :  2368 ZZ/5515nevertoolate_1.txt
 carac :  15743 ZZ/5515nevertoolate_1.txt
 
 i = F4 thailand _1
-ligne :  128 ZZ/F4thailand_1.txt
-mot   :  2512 ZZ/F4thailand_1.txt
-carac :  15855 ZZ/F4thailand_1.txt
+ligne :  127 ZZ/F4thailand_1.txt
+mot   :  2508 ZZ/F4thailand_1.txt
+carac :  15812 ZZ/F4thailand_1.txt
 
 i = The voice ph _1
 ligne :  52 ZZ/Thevoiceph_1.txt
@@ -35,14 +35,14 @@ mot   :  592 ZZ/Cupidslastwish_1.txt
 carac :  3862 ZZ/Cupidslastwish_1.txt
 
 i = Cutie pie _1
-ligne :  29 ZZ/Cutiepie_1.txt
-mot   :  452 ZZ/Cutiepie_1.txt
-carac :  3074 ZZ/Cutiepie_1.txt
+ligne :  28 ZZ/Cutiepie_1.txt
+mot   :  448 ZZ/Cutiepie_1.txt
+carac :  3031 ZZ/Cutiepie_1.txt
 
 i = The voice ukr _12
-ligne :  34 ZZ/Thevoiceukr_12.txt
-mot   :  713 ZZ/Thevoiceukr_12.txt
-carac :  4457 ZZ/Thevoiceukr_12.txt
+ligne :  33 ZZ/Thevoiceukr_12.txt
+mot   :  708 ZZ/Thevoiceukr_12.txt
+carac :  4410 ZZ/Thevoiceukr_12.txt
 
 i = Top chef _13
 ligne :  22 ZZ/Topchef_13.txt
@@ -192,7 +192,7 @@ carac :  1280 ZZ/Goblin_1.txt
 i = Cherry blossoms after winter _1
 ligne :  6 ZZ/Cherryblossomsafterwinter_1.txt
 mot   :  135 ZZ/Cherryblossomsafterwinter_1.txt
-carac :  961 ZZ/Cherryblossomsafterwinter_1.txt
+carac :  959 ZZ/Cherryblossomsafterwinter_1.txt
 
 i = Color rush _2
 ligne :  5 ZZ/Colorrush_2.txt
@@ -218,11 +218,6 @@ i = Alice in borderland _1
 ligne :  8 ZZ/Aliceinborderland_1.txt
 mot   :  140 ZZ/Aliceinborderland_1.txt
 carac :  1095 ZZ/Aliceinborderland_1.txt
-
-i = Drag race esp _2
-ligne :  4 ZZ/Dragraceesp_2.txt
-mot   :  250 ZZ/Dragraceesp_2.txt
-carac :  1355 ZZ/Dragraceesp_2.txt
 
 i = Dear doctor _1
 ligne :  1 ZZ/Deardoctor_1.txt

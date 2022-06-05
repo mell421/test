@@ -31,4 +31,3 @@ apercu/apercu22.md:* conclu 24/01/22 = Earthmix space _1 > 4; The voice ukr _12 
 apercu/apercu22.md:* concluBis 24/01/22 = Earthmix space _1 > 8; The voice ukr _12 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercu22.md:* concluBis 25/01/22 = Earthmix space _1 > 6; Love at night _1 > 3; The voice ukr _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 apercuTer/apercuTer.md:* The voice ukr _12
-index.html:            the voice ukr _12</td>

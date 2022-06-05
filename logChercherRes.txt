@@ -12,12 +12,11 @@ carac :  1280 ZZ/Goblin_1.txt
 carac :  1280 ZZ/Thebigleap_1.txt
 carac :  1311 ZZ/Bangkoklovestoriesinnocence_1.txt
 carac :  1325 ZZ/Youngroyals_1.txt
-carac :  1355 ZZ/Dragraceesp_2.txt
 carac :  1406 ZZ/Insiders_1.txt
 carac :  1419 ZZ/Tienbromance_1.txt
 carac :  1497 ZZ/Slamdance_1.txt
 carac :  15743 ZZ/5515nevertoolate_1.txt
-carac :  15855 ZZ/F4thailand_1.txt
+carac :  15812 ZZ/F4thailand_1.txt
 carac :  1615 ZZ/Lovearea_1.txt
 carac :  1840 ZZ/Bt21vlog_1.txt
 carac :  1900 ZZ/Bakerboys_1.txt
@@ -43,7 +42,7 @@ carac :  2734 ZZ/Biteme_1.txt
 carac :  2785 ZZ/Theuntamed_1.txt
 carac :  2865 ZZ/Lucifer_4.txt
 carac :  3020 ZZ/Aokivuanpaianonayami_1.txt
-carac :  3074 ZZ/Cutiepie_1.txt
+carac :  3031 ZZ/Cutiepie_1.txt
 carac :  3220 ZZ/Tokyoghoul_3.txt
 carac :  3339 ZZ/Younevereatalone_1.txt
 carac :  3344 ZZ/Wabishow_1.txt
@@ -58,7 +57,7 @@ carac :  3862 ZZ/Cupidslastwish_1.txt
 carac :  39223 ZZ/Earthmixspace_1.txt
 carac :  41 ZZ/Deardoctor_1.txt
 carac :  4377 ZZ/Koishiteakuma_1.txt
-carac :  4457 ZZ/Thevoiceukr_12.txt
+carac :  4410 ZZ/Thevoiceukr_12.txt
 carac :  4838 ZZ//9-1-1_5.txt
 carac :  530 ZZ/Thetuxedo_1.txt
 carac :  5761 ZZ/Elite_4.txt
@@ -71,7 +70,7 @@ carac :  8561 ZZ/Tbbt_11.txt
 carac :  9305 ZZ/Youngsheldon_5.txt
 carac :  942 ZZ/Colorrush_2.txt
 carac :  956 ZZ/Lesengages_3.txt
-carac :  961 ZZ/Cherryblossomsafterwinter_1.txt
+carac :  959 ZZ/Cherryblossomsafterwinter_1.txt
 carac :  9959 ZZ/Theharvestseason_1.txt
 i = /9-1-1 _5
 i = /9-1-1 lone star _3
@@ -101,7 +100,6 @@ i = Dark blue kiss _1
 i = Dear doctor _1
 i = District z _2
 i = Drag i love you _1
-i = Drag race esp _2
 i = Earthmix space _1
 i = Elite _4
 i = Enchante _1
@@ -160,7 +158,7 @@ ligne :  11 ZZ/Theyearbook_1.txt
 ligne :  12 ZZ/Loveatnight_1.txt
 ligne :  12 ZZ/Qforce_1.txt
 ligne :  12 ZZ/Slamdance_1.txt
-ligne :  128 ZZ/F4thailand_1.txt
+ligne :  127 ZZ/F4thailand_1.txt
 ligne :  128 ZZ/Vincenzo_1.txt
 ligne :  13 ZZ/Dragiloveyou_1.txt
 ligne :  13 ZZ/Tienbromance_1.txt
@@ -193,19 +191,18 @@ ligne :  259 ZZ/Myvampireboyfriend_1.txt
 ligne :  26 ZZ/Controlz_2.txt
 ligne :  26 ZZ/Unlocked_1.txt
 ligne :  28 ZZ/Aokivuanpaianonayami_1.txt
+ligne :  28 ZZ/Cutiepie_1.txt
 ligne :  29 ZZ//9-1-1lonestar_3.txt
 ligne :  29 ZZ/Bt21vlog_1.txt
-ligne :  29 ZZ/Cutiepie_1.txt
 ligne :  29 ZZ/Tokyoghoul_3.txt
 ligne :  31 ZZ/Wabishow_1.txt
 ligne :  32 ZZ/Theshipper_1.txt
 ligne :  33 ZZ/Theplayer_1.txt
+ligne :  33 ZZ/Thevoiceukr_12.txt
 ligne :  33 ZZ/Younevereatalone_1.txt
-ligne :  34 ZZ/Thevoiceukr_12.txt
 ligne :  35 ZZ/Cupidslastwish_1.txt
 ligne :  36 ZZ/7project_1.txt
 ligne :  364 ZZ/Earthmixspace_1.txt
-ligne :  4 ZZ/Dragraceesp_2.txt
 ligne :  42 ZZ//9-1-1_5.txt
 ligne :  5 ZZ/Colorrush_2.txt
 ligne :  52 ZZ/Thevoiceph_1.txt
@@ -249,8 +246,7 @@ mot   :  222 ZZ/Lovearea_1.txt
 mot   :  2368 ZZ/5515nevertoolate_1.txt
 mot   :  244 ZZ/Bt21vlog_1.txt
 mot   :  245 ZZ/Bakerboys_1.txt
-mot   :  250 ZZ/Dragraceesp_2.txt
-mot   :  2512 ZZ/F4thailand_1.txt
+mot   :  2508 ZZ/F4thailand_1.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
 mot   :  280 ZZ/Buffy_1.txt
 mot   :  301 ZZ/Benxjim_1.txt
@@ -275,7 +271,7 @@ mot   :  412 ZZ/Glowup_2.txt
 mot   :  423 ZZ/Aokivuanpaianonayami_1.txt
 mot   :  443 ZZ/Dragiloveyou_1.txt
 mot   :  447 ZZ/Tokyoghoul_3.txt
-mot   :  452 ZZ/Cutiepie_1.txt
+mot   :  448 ZZ/Cutiepie_1.txt
 mot   :  452 ZZ/Unlocked_1.txt
 mot   :  456 ZZ/Younevereatalone_1.txt
 mot   :  472 ZZ/7project_1.txt
@@ -289,7 +285,7 @@ mot   :  592 ZZ/Cupidslastwish_1.txt
 mot   :  6060 ZZ/Earthmixspace_1.txt
 mot   :  657 ZZ/Meetmyangel_2.txt
 mot   :  678 ZZ//9-1-1_5.txt
-mot   :  713 ZZ/Thevoiceukr_12.txt
+mot   :  708 ZZ/Thevoiceukr_12.txt
 mot   :  77 ZZ/Thetuxedo_1.txt
 mot   :  828 ZZ/Elite_4.txt
 mot   :  89 ZZ/Bananafish_1.txt
