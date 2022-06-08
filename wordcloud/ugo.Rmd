@@ -73,6 +73,14 @@ dfCommNeg
 CommAll <- read.csv(file = "ugoComments.csv")
 dfCommAll <- data.frame(CommAll)
 dfCommAll
+
+SsCommAll <- read.csv(file = "ugoSsComments.csv")
+dfSsCommAll <- data.frame(SsCommAll)
+dfSsCommAll
+
+All <- read.csv(file = "ugo.csv")
+dfAll <- data.frame(All)
+dfAll
 ```
 
 ```{r a2 , echo=FALSE}
@@ -235,4 +243,36 @@ tm <- function(text){
 }
 
 suppressWarnings(tm(text))
+```
+
+### AUTRES GRAPHIQUES
+#### barplot comments
+```{r g1 , echo=FALSE}
+barplot(table(dfCommAll$ratingUser),
+        las = 2,
+        col =brewer.pal(8, "Dark2"), 
+        main ="rating user",
+        ylab = "nb commentaire")
+        
+box()
+
+barplot(table(dfCommAll$ratingText),
+        las = 2,
+        col =brewer.pal(8, "Dark2"), 
+        main ="rating text",
+        ylab = "nb commentaire")
+        
+box()
+
+pie(table(dfCommAll$ratingUser),label=paste(names(table(dfCommAll$ratingUser)),table(dfCommAll$ratingUser),sep="-"), edges=10)
+title("distribution des notes utilisateur avec comm")
+box()
+
+pie(table(dfSsCommAll$ratingUser),label=paste(names(table(dfSsCommAll$ratingUser)),table(dfSsCommAll$ratingUser),sep="-"), edges=10)
+title("distribution des notes utilisateur sans comm")
+box()
+
+pie(table(dfAll$ratingUser),label=paste(names(table(dfAll$ratingUser)),table(dfAll$ratingUser),sep="-"), edges=10)
+title("distribution des notes utilisateur")
+box()
 ```

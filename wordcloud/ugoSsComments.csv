@@ -1,0 +1,501 @@
+,client,content,ratingUser,polarityNote,scoreText,polarityText,ratingText,trad,scoreEngCom,scoreEngNeg,scoreEngNeu,scoreEngPos,tradFr,scoreText2,Positivity,id
+22,Valérie Heger,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+28,Emeline Morin,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+88,cedric Blogger,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+109,Gervais Piroux,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+124,Galou,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+140,bautain jacques,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,1
+141,Jonathan Henry,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+144,Nadia moon,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,2
+145,Florence MATEUS,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+149,JOSSE Anaelle,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+150,Murielle Burellier,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,3
+151,Ray Be,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+152,Olivier Dubuis,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+155,Fred Deneaux,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+157,Martine Bonnefoy,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+159,FREDERIQUE MONCENIS,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+165,ludovic papillon,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+167,Sandrine Plantier Petit,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+168,carole loisy,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+169,Alexandre,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+171,Tony Dii,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+173,Clément RICOL,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+176,Maria Maria,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+177,stacy boulanger (Dragnir Natsu),,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+178,Odile Gérard,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+180,Severine Meunier (“Sessé01”),,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+181,ZCM,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+183,Michel Zangari,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+184,Elise SARTINI,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+186,Tristan Desayes,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+189,Jules Masnada,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+190,Dominique Brulin,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,3
+194,Christophe MARGUIRON,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+197,Nicolas Charvet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+198,Cécile Liébaud,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+199,John Lamoureux,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+200,Malou,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+201,Fred Cordier,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+206,françois pommier,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+208,Jean-Philippe Chatail,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+209,Ka' PG,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+211,Frederic Bon,,2,neg,0.0,abs,2,,0.0,0.0,0.0,0.0,,0.0,0,1
+212,Lati Plushie,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+213,gina souf,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+214,Jose Hieng,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+215,Gaelle Luciathe,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+217,Frederique.jourdan0201@orange.fr Jourdan,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+218,Quentin Noizet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+219,Patrick,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+223,Angelique Petitjean,,2,neg,0.0,abs,2,,0.0,0.0,0.0,0.0,,0.0,0,3
+224,Lionel Moraz,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+225,Loïc Dubois,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+226,Sylvain Bally,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+227,Henri Dallard,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+228,Stephane Masson,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+229,Louis Bruffin,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+231,alexis bouilloux,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+233,Jean-Claude Bernard,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+234,Claire Joubert,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+236,Doriane Surace,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+237,Michel Paul,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+238,jerome averan,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+240,Alison Berthet,,2,neg,0.0,abs,2,,0.0,0.0,0.0,0.0,,0.0,0,2
+241,Alice Gallet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+242,Christele Perret,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+245,Gaetan Rubin,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+248,Camille CLERC-RENAUD,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+249,Pascal Michel,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+250,JS MOTORS PERFORMANCE,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+251,René LEVRAT,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+253,Christophe Apert,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+254,Arnaud Echallon,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+255,Pascal Michel,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+256,Jean louis mochon,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+258,Monnon Estpersonne,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+260,Jimmy marchand,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+261,Dominique Bernatowicz,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+262,Gerald Morel,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+263,P O,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+264,Éric LAFARIE,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+266,Русская в Рон Альп Русская в Рон Альп,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+267,Valentin Guilloux,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+268,Asterix Obelix,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+269,Julien Calmus,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+270,Sylvain FB,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+271,corinne dubois,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+272,francisca KBALAKUMU,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+273,Sébastien C,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+275,Richard Leglise,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+277,mathieu olivier,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+279,Catherine desmaris,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+280,Cédric M,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+282,FERNANDEZ Maxime,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,1
+283,Floriane Piegay,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+284,Frédéric Bon,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+285,Vanille R,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+286,Sylvie chassard,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+287,Ghislaine Halimi,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+288,philippe charmette,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+289,Michel Dubreuil,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+290,Bunly Ung,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+291,Mickael Fournier,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,1
+292,Charlélie TUMOLO,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+293,JL LULU,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+294,David Juillet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+299,Marcelle CARON,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,1
+301,Arnaud Chavanel,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+302,Stephanie Colmard,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+304,Maly,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+305,Laure Della-vecchia,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+306,Thierry Lorion,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,1
+307,Geneviève Pelletier,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+310,Marie Zaccagnino,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+311,Emilie Franchon,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+312,sc kraaken,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+313,Joseph TUMOLO,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+314,christophe flour,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+315,TheNinho001,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,1
+317,Fredieric Deneaux,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+318,Michel Roland,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+319,JC JC,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+320,Jeff Mounier,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,3
+321,Koro DURAND,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+322,Philippe Ballet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+323,Anne-Sophie CAMBEUR,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+324,Dom Dom,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+325,HODIEUX DANIELLE,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+328,christophe GUGUEN,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+329,Emmanuel SPERI,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+330,Gérard ARNAVON,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+333,Corinne Durand,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+334,Sylvain M,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+335,Annie NATAF,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+337,gérard Combaz,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+338,Liliane Vanlierde,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+339,Cyril Lombard,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+341,Stéphanie Lafforgue,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+344,Jean Bernard,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+346,Emanuel Alvarez,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+349,Marcel Curt,,2,neg,0.0,abs,2,,0.0,0.0,0.0,0.0,,0.0,0,2
+350,sezai Sahin,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+351,Xavier Cuvelier,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+352,Stéphane BLONDEL,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+353,Greg01,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+354,kbor01,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+356,Donatien Duditlieu-Allais,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+357,Gael Chouso,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+358,Mauro RG,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+368,Chelsea Daria,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+369,Coraline Bagnon,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+370,Prof. Tilo Staudenrausch,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+371,Pierre Bignon,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+372,Pierre A B,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+373,Frédéric Pidoux,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+374,Tshayt Andco,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+375,Emmanuel Cardot,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+376,Diane Tourres,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+377,Dylan Barbet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+378,shadi dallah,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+379,FreZ Bxo,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+380,Fabien Charnet,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+381,Laura Savey,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+382,Géraldine Larcher,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+383,Jean-Yves Foraison,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+384,Lali Di Meo,,2,neg,0.0,abs,2,,0.0,0.0,0.0,0.0,,0.0,0,2
+385,m m,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+386,Tom Thevenet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+387,loic brevet,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+388,NicoStrazza,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+389,isabelle charbonnier,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+390,Marie Gros,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+391,Stephane Vaucansson,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+392,Imane BARGHOUTI,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,3
+393,Farrah Bosco,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+394,Chrys,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+395,Christine Ricol,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+396,marjorie dijoux,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+397,Jeje Pillon,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+398,Arnaud BRIDAY,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+399,Lionel Dupont,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+400,Sofiane Switch,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+401,david pomathios,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+402,Cendrine Bertin,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+403,Julia Rbr,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+404,Victor Martin,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+405,françoise amoretti,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+406,vanessa gruchot,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+407,Ahmet Top,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+408,JEAN LUC TILLIER,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+409,Eric Coppo,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+410,M M,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+411,fabienne callon,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+412,10leptik,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+413,angel soupe,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+414,Makash Mekouye,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+415,Emmanuel Broyer,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+416,Elodie Soubeyrand,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+417,nono Vella (Nono),,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+418,Michel Dumoulin,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+419,S. Gaudt,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+420,Patrick Fieujean,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+421,Elodie Salleron,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+422,Lexus Sg,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+423,Bastien Migliorati,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+424,Paul Sarkees,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+425,Elie Michaille,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+426,Sandrine Poupon,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+427,LUDIVINE RAFFIN,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+428,zanetta océane,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+429,Quentin Defrasne,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,3
+430,Benjamin Duron,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+431,Sanasuka,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+432,Claude,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+433,Aurelien Eps,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+434,Veronique Duclos,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+435,Tommy Jaillet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+436,Julien Antunes,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+437,Marylene BARBIN,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+438,Karim G,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,1
+439,Aurelien Eps,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+440,Nicolas JAMET,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+441,Alain Valls,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+442,Prescillia Ducatel,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+443,Guy Laferrière,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+444,jerome Brazier,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+445,Marie Guilbert,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+446,David,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+447,Fanny Debruyne,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+448,Laetitia Montre,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+449,Jérôme SCHANNE,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+450,Loïc Roberto,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+451,Dario S.,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+452,Alexandre Videlo,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+453,Filfy Le Prevost,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+454,David Q,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+455,Eric Areguian,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+456,Anaïs Dindelli,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+457,Teo La,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+458,Philippe ZELINDRE,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+459,Dionys' Artistes,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+460,Marie Noelle PRUDENT,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+461,nadegecognar@ cognar,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+462,Lou-Ann Mercier,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+463,Herve Jaillet,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+464,eric gros,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+465,Julien Michaud,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+466,Théo MEYER,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+467,Cyril Delpouve,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+468,Fabien Gentner,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+469,Carla (Carla),,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+470,franck masper,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+471,Eddy Razafindralay,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+472,Laurent Nougaret,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+473,Maryline Rigaud,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,1
+474,Charlène DADIER,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+475,Eric Guyennon,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+476,J.j Vi,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+477,drevon thomas,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+478,Dominique Roux Dit Riche,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+479,Jeremy Masseteau,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+480,Chalva Gourouli,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+481,Miguy Perrichon,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+482,Qtn Dvl,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+483,anne-cé CVT,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+484,Rémy Auliac,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+485,Florent Novembre,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+486,Sylvie Isola,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+487,Christophe Bouchard,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+488,benjamin brazier (wendjeide),,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+489,Linda Cribel,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,1
+490,Novy Hangätr AL,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+491,Laure CHARLES,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+492,Laura Tartarin,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+493,Alexandra CLÉMENT,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+494,Charline Fathouni,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+495,Monique Morizot,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+496,Loris Page,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+497,Pierre-Luc Baty,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+498,Kévin Chanel,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+499,Bertrand rioult,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+500,Chris JOSS,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+501,Séverine Cochet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+502,TheMomojim,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+503,Jean Marc Chevelu,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+504,Dan Bene,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+505,Thierry Liotard,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+506,Alexandre Pachot,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+507,anthony poulet,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+508,Benoît FLAMAND,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+509,ERIC FUHRICH,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+510,Damien Boidard,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+511,DooM,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+512,Felix Ruiz,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+513,Jacinto Oliveira,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+514,Tatiana Thiebaut,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+515,Hom Straight,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+516,Christelle Aubert,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+517,ALLIANCE ADESSE,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+518,theoferme leger,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+519,Maxime Bertrand (MR XAM),,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+520,Francois Benetti,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+521,Ain Services Auto Nicolas,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+522,Jean-jacques Mayonobe,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+523,Bruno Creuza,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+524,Serge Berthier,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+525,Jean Louis FOREY,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+526,Julien J,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+527,djloulou3,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+528,Quentin Defrasne,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,2
+529,benn Oliveira (Olv_benn),,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+530,Nadia Baitiche,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+531,Loic Cancelotti,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+532,Christine Curt,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+533,Florian Vichot,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+534,Cendrine Bertin,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+535,Didier Renevier,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+536,Severine Pont - Bronzina,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+537,Daniele Raynaud,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+538,Rv Nico,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+539,Fanny 71,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+540,Coline RIBOT,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+541,Maxence Boyat,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+542,Sylvie Fares-Folliat,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+543,Christophe Montandrau,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+544,Pierre-Edouard CONVERT,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+545,Yoon Lise Pelletier,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+546,Akkaoui Fouad,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+547,Valerie Philippe,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+548,Rodolphe Knezovics,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+549,Christophe Durante,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+550,Marie Josee Sarkees,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+551,christophe Boyat,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+552,Ikko McGregor,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+553,Louis LANG,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+554,Stephane Jourdan,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+555,Pierre-Yves LECCA,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+556,Nicolas Teixido,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+557,JoeyAirsoft,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+558,Marjorie Cornut,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+559,Stéphane GOYARD,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+560,Aurélie Dubois,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+561,Olivier Perret,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+562,Maggie Bourgoin,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+563,Jean Pierre CHEVAT,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+564,Patricia JEANNY,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+565,Sebastien Blanc,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+566,Herve Debrenne,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+567,Philippe Gissinger,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,1
+568,Louis MARCHAND THIBERT,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+569,JlNX ONCE,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+570,Celine Seris,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+571,Laetitia Nicolas,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+572,David Fernandes,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+573,Ottotinne,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+574,Léo COLIN,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+575,Benoit Alex,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+576,Dominique Avenel,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+577,Claudine PAUGET,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+578,Thomas Galland,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+579,Lilian,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+580,nicolas ruffier,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+581,Romain Gillet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+582,Mathis Gruel,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+583,victor de almeida,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+584,Catherine Chossat,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+585,Maeva CLERC,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+586,Valentin Merieux,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,3
+587,Emilien SCIACCA,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+588,Emilie PICAUD,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+589,cindy coulon,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+590,Tommy Lambert,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+591,Patrice teppe,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+592,Aurélie C,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+593,Florentin Clavieres,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+594,Jessica Bnr,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+595,Patrick VERNOUX,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+596,Jonathan Marion,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+597,Ludivine Champonnois,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+598,Sadefo Serge,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+599,Ini Viviane Granger,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+600,Nicolas Perdrix,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+601,Sandra Dumas,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+602,ARTHUR DE PALMA,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+603,MOT01851,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+604,Emilie GAUGE,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+605,Maxime Douvre,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+606,taam jean-paul,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+607,Luc GOYATTON,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+608,Arragon Laura,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+609,Gilles Arnould,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+610,Liliane Velon,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,1
+611,Johan Dehout,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+612,Lucas Chapellon (I-Méthodes),,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+613,Virginie Janin,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+614,Yolande gotsiridze,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+615,Josiane Garlel,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+616,Maho Jnn,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+617,Romain Caro,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+618,Damien Facchin,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+619,Alexx Equi,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+620,Saer ben Houmadi,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+621,karine cussonneau,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+622,Cyril Cayrol,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+623,David Giraudo (Dawwid),,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+624,// ŁŪŇƏ //,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+625,Mathilde Mathez,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+626,roux corinne,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+627,Martine Merminod,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+628,Gael Loup,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+629,Olivier Pennisi,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+630,jose rodrigues,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+631,Amandine Rossel,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+632,Remi Boucly,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+633,jonathann marquis,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+634,Nicolas Mariller,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+635,Sonia Hamadou,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+636,Valérie Colly,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,2
+637,Loan Labia,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+638,AGFS 01 Plomberie - Chauffage,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+639,Charles,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+640,GG MM,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+641,lou nic,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+642,Ol Martin,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+643,Yves Daujat,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+644,Frederic Bathias,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+645,Valentina Montparlier,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+646,Caroline Bouchard,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+647,Gerald Dargaud,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,1
+648,Annie PERTUIZET,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+649,Russe Kov,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+650,Moninx Le Lynx,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+651,Nicolas VINCENT,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+652,Flo,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+653,philippe mottion,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+654,Jonathan Fetet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+655,Quentin Bernard,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+656,Just OnMyOwn,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+657,Julien Duez,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+658,eric mercado,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+659,Vacher Corinne,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+660,thierry dubost,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+661,Severine Venet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+662,Robelin Sylvie (Vivi),,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+663,Majid Shaity,,1,neg,0.0,abs,1,,0.0,0.0,0.0,0.0,,0.0,0,2
+664,Yannick,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+665,Landry,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+666,Thibaud MARS (tetris3d),,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+667,Gaetan Bouchard,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+668,Sandra Costa Da Silva,,3,neu,0.0,abs,3,,0.0,0.0,0.0,0.0,,0.0,0,3
+669,Arnaud Crost,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+670,wilo gameur01,,2,neg,0.0,abs,2,,0.0,0.0,0.0,0.0,,0.0,0,2
+671,anne marie mazuir,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+672,yohan grapin,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+673,Céline Girardi,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+674,Jérôme Daumal,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+675,Amandine Masseteau,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+676,julien moliere,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+677,George Copaescu,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+678,Lucas Barrier,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+679,Elodie Gomes,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+680,Karine Plion,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+681,François KIM,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+682,Daniel PERDRIX,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+683,adam lerich,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+684,ShelterCmoi,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+685,Cyril Jaby (SabCyr69),,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+686,Sandy,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+687,jean-marie Ganneval,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+688,Pascal Garressus,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+689,Richard Tremblay,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,2
+690,Thibaut Chossat,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+691,Haudiquet Mahé,,2,neg,0.0,abs,2,,0.0,0.0,0.0,0.0,,0.0,0,1
+692,Cedric Ponthieu,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+693,Pony Panzer,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+694,Alexandry Perrot,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+695,Tony Seris,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+696,Olivier Bonnefin,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+697,Fred Marret,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+698,Cindy Jiner,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+699,dylan thepharath,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+700,Dorian Carlet,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+701,Wim Van Den Neste,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,1
+702,Samuel Cottet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+703,Fred Blache,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,2
+704,Max,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+705,Roger Javin,,2,neg,0.0,abs,2,,0.0,0.0,0.0,0.0,,0.0,0,3
+706,Sofia ROGOVA,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+707,Evann POINSOT,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+708,Sebastien CHARNAY,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+709,Olivier BARDIC (CA0156),,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+710,Julie Cappy,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,1
+711,Mathilde Conde,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+712,Lisa Raymond,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+713,Loic Sibelle,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+714,Gambier Alice,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+715,rom ain,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+716,fanny glevarec,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+717,jice grandjean,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
+718,Rodrigue Poncet,,5,pos,0.0,abs,5,,0.0,0.0,0.0,0.0,,0.0,1,3
+719,Alexis,,4,pos,0.0,abs,4,,0.0,0.0,0.0,0.0,,0.0,1,3
