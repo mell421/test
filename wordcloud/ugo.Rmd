@@ -5,6 +5,7 @@ output:
     df_print: paged
     toc: false
 ---
+
 ```{r setup, include = FALSE}
 suppressWarnings(source("./R/sources.R"))
 library("tm")
@@ -51,7 +52,7 @@ wcLemme <- function(text){
 }
 ```
 
----
+------------------------------------------------------------------------
 
 ```{r a1 , echo=FALSE}
 # Give the input file name to the function.
@@ -77,25 +78,28 @@ dfCommAll
 ```{r a2 , echo=FALSE}
 
 ```
+
 ### all
+
 ```{r all1, echo=FALSE}
 text <- dfCommAll$tradFr
-
+print("origine")
 tm <- function(text){
   dtm_d <- wc(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
   # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 all")
   
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,"circle","UgoAll.png",delayW)
+  wcDouble(dtm_d,"circle","UgoAll1.png",delayW)
 
 }
 
 suppressWarnings(tm(text))
+print("après stemmer")
 
 tm <- function(text){
   dtm_d <- wcLemme(text)
@@ -103,11 +107,11 @@ tm <- function(text){
   head(dtm_d, 30)
 
   # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 all")
   
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,"circle","UgoAll.png",delayW)
+  wcDouble(dtm_d,"circle","UgoAll2.png",delayW)
 
 }
 
@@ -115,8 +119,10 @@ suppressWarnings(tm(text))
 ```
 
 ### pos
+
 ```{r pos1, echo=FALSE}
 text <- data.frame(dfCommPos$tradFr)
+print("origine")
 
 tm <- function(text){
   dtm_d <- wc(text)
@@ -124,26 +130,28 @@ tm <- function(text){
   head(dtm_d, 30)
 
   # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 pos")
   
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,"circle","UgoPos.png",delayW)
+  wcDouble(dtm_d,"circle","UgoPos1.png",delayW)
 
 }
 
 suppressWarnings(tm(text))
+print("après stemmer")
+
 tm <- function(text){
   dtm_d <- wcLemme(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
   # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 pos")
   
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,"circle","UgoPos.png",delayW)
+  wcDouble(dtm_d,"circle","UgoPos2.png",delayW)
 
 }
 
@@ -151,8 +159,10 @@ suppressWarnings(tm(text))
 ```
 
 ### neu
+
 ```{r neu1, echo=FALSE}
 text <- data.frame(dfCommNeu$tradFr)
+print("origine")
 
 tm <- function(text){
   dtm_d <- wc(text)
@@ -160,36 +170,39 @@ tm <- function(text){
   head(dtm_d, 30)
 
   # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 neu")
   
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,"circle","UgoNeu.png",delayW)
+  wcDouble(dtm_d,"circle","UgoNeu1.png",delayW)
 
 }
 
 suppressWarnings(tm(text))
+print("après stemmer")
+
 tm <- function(text){
   dtm_d <- wcLemme(text)
   # Display the top 20 most frequent words
   head(dtm_d, 30)
 
   # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 neu")
   
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,"circle","UgoNeu.png",delayW)
+  wcDouble(dtm_d,"circle","UgoNeu2.png",delayW)
 
 }
 
 suppressWarnings(tm(text))
 ```
-
 
 ### neg
+
 ```{r neg1, echo=FALSE}
 text <- data.frame(dfCommNeg$tradFr)
+print("origine")
 
 tm <- function(text){
   dtm_d <- wc(text)
@@ -197,13 +210,14 @@ tm <- function(text){
   head(dtm_d, 30)
 
   # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 neg")
   
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,"circle","UgoNeg.png",delayW)
+  wcDouble(dtm_d,"circle","UgoNeg1.png",delayW)
 
 }
+print("après stemmer")
 
 suppressWarnings(tm(text))
 tm <- function(text){
@@ -212,19 +226,13 @@ tm <- function(text){
   head(dtm_d, 30)
 
   # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 neg")
   
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,"circle","UgoNeg.png",delayW)
+  wcDouble(dtm_d,"circle","UgoNeg2.png",delayW)
 
 }
 
 suppressWarnings(tm(text))
 ```
-
-
-
-
-
-
