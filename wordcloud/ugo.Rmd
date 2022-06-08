@@ -30,10 +30,8 @@ wcLemme <- function(text){
   TextDoc <- tm_map(TextDoc, stripWhitespace)
   TextDoc <- tm_map(TextDoc, removeNumbers)
   TextDoc <- tm_map(TextDoc, removeWords, stopwords("french"))
-  #TextDoc <- tm_map(TextDoc, lemmatize_strings())
-  
-  TextDoc <- tm_map(TextDoc,lemmatize_words)
-  TextDoc <- tm_map(TextDoc, stemDocument)
+  TextDoc <- tm_map(TextDoc, lemmatize_strings)
+  #TextDoc <- tm_map(TextDoc, stemDocument)
 
 
   # Build a term-document matrix
@@ -225,9 +223,10 @@ tm <- function(text){
   wcDouble(dtm_d,"circle","UgoNeg1.png",delayW)
 
 }
-print("après stemmer")
+
 
 suppressWarnings(tm(text))
+print("après stemmer")
 tm <- function(text){
   dtm_d <- wcLemme(text)
   # Display the top 20 most frequent words
