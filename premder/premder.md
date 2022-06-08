@@ -42,7 +42,6 @@ The voice chile 3x7
 * The voice chile 3x1
 The voice kids portugal 3x2
 Top chef 13x14
-Dear doctor 1x9
 Koh-lanta 28x12
 Kinnporsche 1x6
 Triage 1x5
@@ -68,7 +67,6 @@ Trivia quest 1x6
 Enchante 1x5
 * Quaranthings 2x1
 * Ohmnanon upvel 1x1
-* Dear doctor 1x1
 Cupids last wish 1x4
 Drag i love you 1x2
 * The tuxedo 1x1

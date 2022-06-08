@@ -592,6 +592,7 @@
 |the voice no 7||40|||<!-- 6/1/22 - 31/5 -->
 |floor is lava 2||5|||<!-- 3/6 -->
 |drag race esp 2||11|||<!-- 27/3 - 5/6 -->
+|dear doctor 1||12|||<!-- 26/3 - 8/6 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -776,7 +777,6 @@
 |cherry blossoms after winter 1|||||1|<!-- 24/2 -->
 |drag I love you 1|||||1|<!-- 2/3 -->
 |the tuxedo 1|||||1|<!-- 5/3 -->
-|dear doctor 1|||||6|<!-- 26/3 -->
 |ohmnanon upvel 1|||||0|<!-- 31/3 -->
 |quaranthings 2||8|||1|<!-- 1/4 -->
 |kinnporsche 1||?|||3|<!-- 2/4 -->

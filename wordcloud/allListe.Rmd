@@ -24,51 +24,36 @@ library(vtable)
 
 ---
 
-
-```{r stats3, eval=FALSE, include=FALSE}
-# SUMMARY
-
-# stats
-
-#by(data, data$category, summary)
-#Hmisc::describe(data)
-#a2 <- (st(data))
-#a2
-accue <- data.frame(accueil())
-moy <- mean(accue[3])
-print(moy)
-moy <- mean(accue[4])
-print(moy)
-#---
-```
-
 ## HISTORIQUE ET PREMDER
 
 ### hist
 ```{r hist, echo=FALSE}
 data <- data.frame(listDesc.desc())
-data %>% select(tisaep,Horodateur,status)
+
+data %>% select(tisaep,Horodateur...1,status...5)
 ```
 
 ### premder ec
 ```{r premDerEc, echo=FALSE}
 data <- data.frame(premder.ec())
-data %>% filter(tisaep.all_2 != "")  %>% select(tisaep.all_2
-,date.premder.all_2) 
+
+data %>% filter(tisaep.all...30 != "")  %>% select(tisaep.all...30
+,date.premder.all...31) 
 ```
 
 ### premder
 ```{r premder, echo=FALSE}
 data <- data.frame(premder.premder())
-data %>% filter(tisaep.all_1 != "") %>% select(tisaep.all_1,date.premder.all_1,status.all_1) 
+data
+data %>% filter(tisaep.all...25 != "") %>% select(tisaep.all...25,date.premder.all...26,status.all...27) 
 ```
 
 ### prem der
 ```{r premDer, echo=FALSE}
 
 data <- data.frame(premder.prem.der())
-data %>% filter(tisaep.all != "")  %>% select(tisaep.all
-,date.premder.all,status.all) 
+data %>% filter(tisaep.all...21 != "")  %>% select(tisaep.all...21
+,date.premder.all...22,status.all...23) 
 ```
 
 ---
@@ -80,12 +65,9 @@ data %>% filter(tisaep.all != "")  %>% select(tisaep.all
 ## PAGE TESTS
 
 ```{r testConcl, eval=FALSE, include=FALSE}
-### concl
-#tab <- st(aConcl())
-#tab
 
 data <- data.frame(aConcl())
-data %>% filter(nc >= 1) %>% select(-date,-nc,-nbTotal,-graph,-vide,-titre)
+data %>% filter(nc >= 1) %>% select(-date,-nc,-nbTotal,-graph,-vide,-conclucompi....)
 ```
 
 
@@ -99,7 +81,7 @@ data %>% filter(nc >= 1) %>% select(-date,-nc,-nbTotal,-graph,-vide,-titre)
 ### debut
 ```{r lettre, echo=FALSE}
 data <- data.frame(listDesc.desc())
-data %>% filter(episode == 1,status=="en cours") %>% select(tisaep,Horodateur) 
+data %>% filter(episode...4 == 1,status...5=="en cours") %>% select(tisaep,Horodateur...1) 
 
 ```
 
@@ -108,7 +90,7 @@ data %>% filter(episode == 1,status=="en cours") %>% select(tisaep,Horodateur)
 
 data <- data.frame(listDesc.desc())
 max <- 100
-data %>% filter(status == "en cours") %>% sample_n(max) %>% group_by(tisa) %>% summarise(pc = n()) %>% arrange(desc(pc)) %>% filter(pc >= 3)
+data %>% filter(status...5 == "en cours") %>% sample_n(max) %>% group_by(tisa) %>% summarise(pc = n()) %>% arrange(desc(pc)) %>% filter(pc >= 3)
 ```
 
 ### liste EC : Titre
@@ -118,32 +100,27 @@ data <- data.frame(listDesc.desc())
 data <- distinct(data)
 # titre = readline()
 titre = df[1,2]
-data %>% filter(Titre == titre) %>% select(tisaep,Horodateur) 
+data %>% filter(Titre...2 == titre) %>% select(tisaep,Horodateur...1) 
 if(data[2,2] == data[1,2]){
   titre = df[3,2]
 } else {
   titre = df[2,2]
 }
-data %>% filter(Titre == titre) %>% select(tisaep,Horodateur) 
+data %>% filter(Titre...2 == titre) %>% select(tisaep,Horodateur...1) 
 ```
 
 ### liste EC
 ```{r ec, echo=FALSE}
 data <- data.frame(listDesc.desc())
-data %>% filter(status == "en cours") %>% select(tisaep,Horodateur) 
+data %>% filter(status...5 == "en cours") %>% select(tisaep,Horodateur...1) 
 ```
 
 
-```{r ter, eval=FALSE, include=FALSE}
-### liste TER
-data <- data.frame(listDesc.desc())
-data %>% filter(status == "terminée") %>% select(tisaep,Horodateur) 
-```
 
 ### liste film
 ```{r film, echo=FALSE}
 data <- data.frame(listDesc.desc())
-data %>% filter(status == "film") %>% select(tisaep,Horodateur) 
+data %>% filter(status...5 == "film") %>% select(tisaep,Horodateur...1) 
 ```
 
 ---
@@ -157,7 +134,7 @@ data %>% filter(status == "film") %>% select(tisaep,Horodateur)
 ### nb (large)
 ```{r nb2, echo=FALSE}
 data <- data.frame(aSmra())
-        data %>% filter(titre_1 != "") %>% mutate(sum=nbDeLignes+nbPage) %>% rename("nb"=nbDeLignes,"nbBis"=nbPage) %>% select(titre,nb,titre_1,nbBis,sum)
+        data %>% filter(titre != "") %>% mutate(sum=nbDeLignes+nbPage) %>% rename("nb"=nbDeLignes,"nbBis"=nbPage) %>% select(titre,nb,titre_1,nbBis,sum)
 ```
 
 ---

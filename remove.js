@@ -46,6 +46,6 @@ const files = fs.readdirSync(dir)
 
 for (const file of files) {
   console.log(file)
-  remove(page,'')
+  remove(dir+file,'')
 }
 

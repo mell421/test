@@ -6,21 +6,54 @@ output:
     toc: false
 ---
 ```{r setup, include = FALSE}
-install.packages("rjson")
-library("rjson")
+suppressWarnings(source("./R/sources.R"))
+delayW <- 5
 ```
 
 ---
 
 ```{r a1 , echo=FALSE}
 # Give the input file name to the function.
-result <- fromJSON(file = "out.json")
+CommPos <- read.csv(file = "dfCommPos.csv")
+dfCommPos <- data.frame(CommPos)
+dfCommPos
+#print(dfCommPos)
 
-# Convert JSON file to a data frame.
-json_data_frame <- as.data.frame(result)
+CommNeu <- read.csv(file = "dfCommNeu.csv")
+dfCommNeu <- data.frame(CommNeu)
+dfCommNeu
+#print(dfCommNeu)
 
-print(json_data_frame)
+CommNeg <- read.csv(file = "dfCommNeg.csv")
+dfCommNeg <- data.frame(CommNeg)
+dfCommNeg
+
+CommAll <- read.csv(file = "ugoComments.csv")
+dfCommAll <- data.frame(CommAll)
+dfCommAll
 ```
 
+```{r a2 , echo=FALSE}
 
+```
+### all
+```{r all1, echo=FALSE}
+recent <- dfCommAll
+text <- recent$tradFr
 
+tm <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,"circle","recent_3.png",delayW)
+
+}
+
+suppressWarnings(tm(text))
+```

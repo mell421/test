@@ -7,26 +7,27 @@
 # nb bis
 list99=( 
 # >= 100
-"Earthmix space _1" "5515 never too late _1" "F4 thailand _1" 
+"Earthmix space _1" "5515 never too late _1" "F4 thailand _1" "Top chef _13" "Cupids last wish _1" "The voice ph _1" "Koh-lanta _28" 
 # 99-50
-"The voice ph _1" "Young sheldon _5" "Tbbt _11" 
+"Bgt _15" "Kinnporsche _1" "Triage _1" "Cutie pie _1" "Trivia quest _1" "The voice chile _3" "Young sheldon _5" "Tbbt _11" 
 # 49-40
+"The circle us _4" 
 # 39-30
-"Cupids last wish _1" "Cutie pie _1" "The voice ukr _12" 
+"Ohmnanon upvel _1" "The voice ukr _12" 
 # 29-20
-"Top chef _13" "/9-1-1 lone star _3" "Koh-lanta _28" "Meet my angel _2" "Something in my room _1" "The player _1" "7project _1" "/9-1-1 _5" 
+"The voice kids portugal _3" "Beat shazam _2" "/9-1-1 lone star _3" "Skam france _10" "/9-1-1 _5" "Meet my angel _2" "Something in my room _1" "The voice senior finland _1" "Two pints of lager _3" "The player _1" "7project _1" "Enchante _1" 
 # 19-15
-"Enchante _1" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
+"Druck _8" "Sytycd _17" "Love stage 2022 _1" "Dont forget the lyrics _1" "Survivor _29" "Unlocked _1" "The shipper _1" 
 # 14-10
-"All of us are dead _1" "District z _2" "Baker boys _1" "The voice nl _12" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"The voice kids esp _7" "All of us are dead _1" "Beat shazam _5" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
-"Love at night _1" "Drag i love you _1" 
+"Drag i love you _1" "Love at night _1" "Agt _17" 
 # 7-6
-"The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
+"Bullshit the game show _1" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
 # 5-4
-"Cherry blossoms after winter _1" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
+"Want to see you _1" "Sky in your heart _1" "Rpdrasu _7" "Close friend _2" "Clik clak clok _1" "Call me mother _1" "Cherry blossoms after winter _1" "Rpdras _7" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
-"Dear doctor _1" "Banana fish _1" 
+"Quaranthings _2" "Banana fish _1" 
 # 0-1
 # other
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
@@ -39,13 +40,18 @@ list99=(
 
 listAsc=( 
 # 1
-"Cutie pie _1" 
+"The voice arg _4" "Dont forget the lyrics _1" "Beat shazam _5" "Koh-lanta _28" "Le flambeau _1" 
+"The voice chile _3" "Triage _1" "Omhnanon upvel _1" "The voice kids portugal _3" "Want to see you _1" 
+"Kinnporsche _1" "Earthmix space _1" "The voice kids esp _7" "Bgt _15" "The voice senior finland _1" 
+"Skam france _10" "Agt _17" "Sky in your heart _1" "Sytycd _17" "Top chef _13"  
 # 2
-"Dear doctor _1" 
+"Survivor _29" "Druck _8" "Beat shazam _2" "/9-1-1 _5" 
+"Two pints of lager _3" "Rpdrasu _7" "Rpdras _7" "The circle us _4" "Close friend _2" 
+
 # 3
-"Top chef _13" "Koh-lanta _28" "Cupids last wish _1" 
+
 # 4
-"Earthmix space _1" "Drag i love you _1" "The tuxedo _1" 
+"Cutie pie _1" "Cupids last wish _1" "Drag i love you _1" "The tuxedo _1" 
 # 5
 "Cherry blossoms after winter _1" "The voice ukr _12" "Enchante _1" "Something in my room _1" "F4 thailand _1" 
 # 6
@@ -63,7 +69,7 @@ listAsc=(
 # 12
 "Banana fish _1" "Tbbt _11" "Aoki vuanpaia no nayami _1" "My sweet dear _1" "Insiders _1" 
 # 13
-"Age of the living dead _1" "/9-1-1 _5" "Love area _1" "The shipper _1" "Goblin _1" 
+"Age of the living dead _1" "Love area _1" "The shipper _1" "Goblin _1" 
 # 14
 "7project _1" "The big leap _1" "Post mortem _1" "Alice in borderland _1" "Buffy _1" 
 # 15

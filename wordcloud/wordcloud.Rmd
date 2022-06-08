@@ -89,7 +89,7 @@ suppressWarnings(tm(text))
 ### recent
 ```{r recent0, echo=FALSE}
 recent <- data.frame(aLD())
-text <- recent$Titre_1
+text <- recent$Titre...24
 
 tm <- function(text){
   dtm_d <- wc(text)
