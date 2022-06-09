@@ -3,7 +3,7 @@ title: "ugo"
 output:
   html_document:
     df_print: paged
-    toc: false
+    toc: true
 ---
 
 ```{r setup, include = FALSE}
@@ -37,7 +37,7 @@ wcLemme <- function(text){
   # Build a term-document matrix
   TextDoc_dtm <- TermDocumentMatrix(TextDoc)
   dtm_m <- as.matrix(TextDoc_dtm)
-  # Sort by descearing value of frequency
+  # Sort by decreasing value of frequency
   dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
   dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
 
@@ -263,15 +263,15 @@ barplot(table(dfCommAll$ratingText),
         
 box()
 
-pie(table(dfCommAll$ratingUser),label=paste(names(table(dfCommAll$ratingUser)),table(dfCommAll$ratingUser),sep="-"), edges=10)
+pie(table(dfCommAll$ratingUser),label=paste(names(table(dfCommAll$ratingUser)),table(dfCommAll$ratingUser),sep="-"))
 title("distribution des notes utilisateur avec comm")
 box()
 
-pie(table(dfSsCommAll$ratingUser),label=paste(names(table(dfSsCommAll$ratingUser)),table(dfSsCommAll$ratingUser),sep="-"), edges=10)
+pie(table(dfSsCommAll$ratingUser),label=paste(names(table(dfSsCommAll$ratingUser)),table(dfSsCommAll$ratingUser),sep="-"))
 title("distribution des notes utilisateur sans comm")
 box()
 
-pie(table(dfAll$ratingUser),label=paste(names(table(dfAll$ratingUser)),table(dfAll$ratingUser),sep="-"), edges=10)
+pie(table(dfAll$ratingUser),label=paste(names(table(dfAll$ratingUser)),table(dfAll$ratingUser),sep="-"))
 title("distribution des notes utilisateur")
 box()
 ```
