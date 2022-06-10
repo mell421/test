@@ -555,12 +555,12 @@ barplot(table(df$nrs),
         )
 box()
 # print("nb caractere sem")
-barplot(table(df$nbCar...21),
+barplot(table(df$nbCarSem),
         las = 2,
         col =brewer.pal(8, "Dark2"), 
         main ="nb caractere sem",
         ylab = "nb sem with x car",
-        ylim=c(0,max(table(df$nbCar...21))*1.1)
+        ylim=c(0,max(table(df$nbCarSem))*1.1)
         )
 box()
 # print("nb titre mois")
@@ -574,12 +574,12 @@ barplot(table(df$nrm),
 box()
 
 # print("nb caractere mois")
-barplot(table(df$nbCar...28),
+barplot(table(df$nbCarMois),
         las = 2,
         col =brewer.pal(8, "Dark2"), 
         main ="nb caractere mois",
         ylab = "nb mois with x car",
-        ylim=c(0,max(table(df$nbCar...28))*1.1)
+        ylim=c(0,max(table(df$nbCarMois))*1.1)
         )
 box()
 layout(matrix(1:2,1,2))

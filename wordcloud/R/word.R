@@ -95,4 +95,8 @@ wcDouble <- function(data,forme,titreImg,delayW){
   saveWidget(my_graph,"tmp.html",selfcontained = F)
   webshot("tmp.html",titreImg, delay =delayW, vwidth = 700, vheight=700)
 }
-
+wcLettre <- function(data,word,titreImg,delayW){
+  my_graph <- letterCloud(data = data, word = word, color='random-light' , backgroundColor="black")
+  saveWidget(my_graph,"tmp.html",selfcontained = F)
+  webshot("tmp.html",titreImg, delay =delayW, vwidth = 700, vheight=700)
+}
