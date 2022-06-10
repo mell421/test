@@ -100,3 +100,17 @@ wcLettre <- function(data,word,titreImg,delayW){
   saveWidget(my_graph,"tmp.html",selfcontained = F)
   webshot("tmp.html",titreImg, delay =delayW, vwidth = 700, vheight=700)
 }
+
+
+tm_ <- function(text,titreBarplot,forme,titreImgCircle,delayW){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,titreBarplot)
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,titreImgCircle,delayW)
+}

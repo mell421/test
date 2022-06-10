@@ -50,7 +50,6 @@ carac :  2489 ZZ/Dragiloveyou_1.txt
 carac :  2501 ZZ/Postmortem_1.txt
 carac :  2531 ZZ/Enchante_1.txt
 carac :  2605 ZZ/Controlz_2.txt
-carac :  261 ZZ/Thevoiceseniorfinland_1.txt
 carac :  2728 ZZ/Glowup_2.txt
 carac :  2734 ZZ/Biteme_1.txt
 carac :  2785 ZZ/Theuntamed_1.txt
@@ -183,7 +182,6 @@ i = The voice kids esp _7
 i = The voice kids portugal _3
 i = The voice nl _12
 i = The voice ph _1
-i = The voice senior finland _1
 i = The voice ukr _12
 i = The yearbook _1
 i = Tien bromance _1
@@ -223,7 +221,6 @@ ligne :  1 ZZ/Kinnporsche_1.txt
 ligne :  1 ZZ/Ohmnanonupvel_1.txt
 ligne :  1 ZZ/Skamfrance_10.txt
 ligne :  1 ZZ/Thecircleus_4.txt
-ligne :  1 ZZ/Thevoiceseniorfinland_1.txt
 ligne :  1 ZZ/Triviaquest_1.txt
 ligne :  10 ZZ/Lesengages_3.txt
 ligne :  10 ZZ/Siewsumnoi_1.txt
@@ -376,7 +373,6 @@ mot   :  452 ZZ/Unlocked_1.txt
 mot   :  456 ZZ/Younevereatalone_1.txt
 mot   :  472 ZZ/7project_1.txt
 mot   :  486 ZZ/Theshipper_1.txt
-mot   :  49 ZZ/Thevoiceseniorfinland_1.txt
 mot   :  505 ZZ/Wabishow_1.txt
 mot   :  510 ZZ/Theplayer_1.txt
 mot   :  532 ZZ//9-1-1lonestar_3.txt

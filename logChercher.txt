@@ -124,11 +124,6 @@ ligne :  24 ZZ/Somethinginmyroom_1.txt
 mot   :  559 ZZ/Somethinginmyroom_1.txt
 carac :  3442 ZZ/Somethinginmyroom_1.txt
 
-i = The voice senior finland _1
-ligne :  1 ZZ/Thevoiceseniorfinland_1.txt
-mot   :  49 ZZ/Thevoiceseniorfinland_1.txt
-carac :  261 ZZ/Thevoiceseniorfinland_1.txt
-
 i = Two pints of lager _3
 ligne :  8 ZZ/Twopintsoflager_3.txt
 mot   :  158 ZZ/Twopintsoflager_3.txt
