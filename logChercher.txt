@@ -34,7 +34,6 @@ ligne :  121 ZZ/Koh-lanta_28.txt
 mot   :  3646 ZZ/Koh-lanta_28.txt
 carac :  23025 ZZ/Koh-lanta_28.txt
 
-i = Bgt _15
 ligne :  109 ZZ/Bgt_15.txt
 mot   :  3397 ZZ/Bgt_15.txt
 carac :  20227 ZZ/Bgt_15.txt

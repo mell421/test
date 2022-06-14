@@ -45,7 +45,6 @@ Top chef 13x14
 Koh-lanta 28x12
 Kinnporsche 1x6
 Triage 1x5
-Bgt 15x6
 * The voice kids portugal 3x1
 * Skam france 10x1
 The circle us 4x5
@@ -59,7 +58,6 @@ Earthmix space 1x16
 Bullshit the game show 1x2
 * Bullshit the game show 1x1
 Cutie pie 1x9
-* Bgt 15x1
 * Call me mother 1x1
 Trivia quest 1x6
 * Trivia quest 1x1
