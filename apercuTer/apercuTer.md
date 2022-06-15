@@ -875,6 +875,7 @@
 * Dear doctor _1
 ### sem 20-06-2022 
 * *insererici*
+* Love victor _3
 * Bgt _15
 
 <div style="page-break-after: always; visibility: hidden"> 
@@ -1046,7 +1047,7 @@
 #### mois 01-06-2022 
 *insererici The voice no _7 The voice au _11 Name that tune _2 The voice kids vv _6 Star in my mind _1 Survivor _28 Survivor _42 American idol _20 The voice fr _12 Love death & robots _3 The masked singer _7 Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
 #### mois 01-07-2022 
-*insererici Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
+*insererici Love victor _3 Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
 
 
 
