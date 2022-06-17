@@ -413,71 +413,71 @@
 - 07/04/22 (eff) - earthmix space _1{177} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
 - 08/04/22 (eff) - earthmix space _1{178} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
 - 09/04/22 (eff) - earthmix space _1{179} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 10/04/22 (eff) - earthmix space _1{181} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} top chef _13{14} 
-- 11/04/22 (eff) - earthmix space _1{183} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} top chef _13{14} 
-- 12/04/22 (eff) - earthmix space _1{186} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} top chef _13{15} 
-- 13/04/22 (eff) - earthmix space _1{188} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} top chef _13{15} cutie pie _1{13} 
-- 14/04/22 (eff) - earthmix space _1{190} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} top chef _13{15} cutie pie _1{13} 
-- 15/04/22 (eff) - earthmix space _1{192} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} top chef _13{15} cutie pie _1{13} meet my angel _2{12} 
-- 16/04/22 (eff) - earthmix space _1{194} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} top chef _13{15} trivia quest _1{13} cutie pie _1{13} 
-- 17/04/22 (eff) - earthmix space _1{196} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} top chef _13{15} trivia quest _1{15} cutie pie _1{13} 
-- 18/04/22 (eff) - earthmix space _1{197} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{16} the voice ph _1{16} top chef _13{15} cutie pie _1{13} 
-- 19/04/22 (eff) - earthmix space _1{198} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} top chef _13{16} the voice ph _1{16} cutie pie _1{13} 
-- 20/04/22 (eff) - earthmix space _1{199} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} top chef _13{16} the voice ph _1{16} 
-- 21/04/22 (eff) - earthmix space _1{200} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} top chef _13{16} the voice ph _1{16} 
-- 22/04/22 (eff) - earthmix space _1{201} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} top chef _13{16} the voice ph _1{16} 
-- 23/04/22 (eff) - earthmix space _1{202} f4 thailand _1{35} cupids last wish _1{19} top chef _13{17} trivia quest _1{17} the voice ph _1{16} 
-- 24/04/22 (eff) - Earthmix space _1{203} F4 thailand _1{35} Cupids last wish _1{19} Top chef _13{17} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{13} 
-- 25/04/22 (eff) - Earthmix space _1{205} F4 thailand _1{35} Cupids last wish _1{19} Top chef _13{18} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{13} 
-- 26/04/22 (eff) - Earthmix space _1{207} F4 thailand _1{35} Top chef _13{20} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
-- 27/04/22 (eff) - Earthmix space _1{209} F4 thailand _1{35} Top chef _13{21} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-- 28/04/22 (eff) - Earthmix space _1{210} F4 thailand _1{35} Top chef _13{22} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
-- 29/04/22 (eff) - Earthmix space _1{211} F4 thailand _1{35} Top chef _13{23} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
-- 30/04/22 (eff) - Earthmix space _1{212} F4 thailand _1{35} Top chef _13{24} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
-- 01/05/22 (eff) - Earthmix space _1{214} F4 thailand _1{35} Top chef _13{25} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
-- 02/05/22 (eff) - Earthmix space _1{217} F4 thailand _1{35} Top chef _13{27} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Cutie pie _1{15} 
-- 03/05/22 (eff) - Earthmix space _1{220} F4 thailand _1{35} Top chef _13{29} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Cutie pie _1{15} 
-- 04/05/22 (eff) - Earthmix space _1{222} F4 thailand _1{35} Top chef _13{30} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 05/05/22 (eff) - Earthmix space _1{224} F4 thailand _1{35} Top chef _13{31} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 06/05/22 (eff) - Earthmix space _1{226} F4 thailand _1{35} Top chef _13{32} Cupids last wish _1{19} Trivia quest _1{18} Cutie pie _1{15} 
-- 07/05/22 (eff) - Earthmix space _1{228} F4 thailand _1{35} Top chef _13{33} Cupids last wish _1{19} Trivia quest _1{18} Cutie pie _1{15} 
-- 08/05/22 (eff) - Earthmix space _1{230} F4 thailand _1{35} Top chef _13{34} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Cutie pie _1{15} 
-- 09/05/22 (eff) - Earthmix space _1{232} Top chef _13{35} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Cutie pie _1{15} 
-- 10/05/22 (eff) - Earthmix space _1{234} Top chef _13{37} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 11/05/22 (eff) - Earthmix space _1{236} Top chef _13{38} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Triage _1{15} 
-- 12/05/22 (eff) - Earthmix space _1{238} Top chef _13{39} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
-- 13/05/22 (eff) - Earthmix space _1{240} Top chef _13{40} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 14/05/22 (eff) - Earthmix space _1{242} Top chef _13{41} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
-- 15/05/22 (eff) - Earthmix space _1{244} Top chef _13{42} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 16/05/22 (eff) - Earthmix space _1{246} Top chef _13{43} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 17/05/22 (eff) - Earthmix space _1{248} Top chef _13{45} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{16} 
-- 18/05/22 (eff) - Earthmix space _1{250} Top chef _13{46} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{17} 
-- 19/05/22 (eff) - Earthmix space _1{252} Top chef _13{47} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Koh-lanta _28{17} Triage _1{17} 
-- 20/05/22 (eff) - Earthmix space _1{254} Top chef _13{49} F4 thailand _1{35} Cupids last wish _1{19} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} The circle us _4{16} 
-- 21/05/22 (eff) - Earthmix space _1{256} Top chef _13{50} F4 thailand _1{35} Cupids last wish _1{19} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} The circle us _4{16} 
-- 22/05/22 (eff) - Earthmix space _1{258} Top chef _13{52} F4 thailand _1{35} Cupids last wish _1{19} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} Kinnporsche _1{16} The circle us _4{16} 
-- 23/05/22 (eff) - Earthmix space _1{260} Top chef _13{53} F4 thailand _1{35} Cupids last wish _1{19} Kinnporsche _1{18} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} 
-- 24/05/22 (eff) - Earthmix space _1{263} Top chef _13{55} F4 thailand _1{35} Kinnporsche _1{20} Koh-lanta _28{19} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} 
-- 25/05/22 (eff) - Earthmix space _1{265} Top chef _13{57} F4 thailand _1{35} Kinnporsche _1{20} Koh-lanta _28{19} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} 
-- 26/05/22 (eff) - Earthmix space _1{267} Top chef _13{59} F4 thailand _1{35} Koh-lanta _28{20} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
-- 27/05/22 (eff) - Earthmix space _1{269} Top chef _13{60} F4 thailand _1{35} Koh-lanta _28{21} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
-- 28/05/22 (eff) - Earthmix space _1{271} Top chef _13{61} F4 thailand _1{35} Koh-lanta _28{22} Kinnporsche _1{20} Triage _1{19} Cupids last wish _1{19} Trivia quest _1{18} The voice chile _3{17} The circle us _4{16} 
-- 29/05/22 (eff) - Earthmix space _1{273} Top chef _13{62} F4 thailand _1{35} Koh-lanta _28{23} Kinnporsche _1{20} Triage _1{20} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
-- 30/05/22 (eff) - Earthmix space _1{275} Top chef _13{63} F4 thailand _1{35} Koh-lanta _28{24} The voice chile _3{21} Triage _1{21} Kinnporsche _1{20} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
-- 31/05/22 (eff) - Earthmix space _1{277} Top chef _13{65} F4 thailand _1{35} Koh-lanta _28{26} Triage _1{24} The voice chile _3{24} Kinnporsche _1{22} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
-- 01/06/22 (eff) - Earthmix space _1{279} Top chef _13{66} F4 thailand _1{35} Koh-lanta _28{27} Triage _1{26} The voice chile _3{26} Kinnporsche _1{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} Cutie pie _1{15} 
-- 02/06/22 (eff) - Earthmix space _1{282} Top chef _13{69} F4 thailand _1{35} Koh-lanta _28{29} Triage _1{29} The voice chile _3{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
-- 03/06/22 (eff) - Earthmix space _1{284} Top chef _13{71} F4 thailand _1{35} The voice chile _3{31} Koh-lanta _28{30} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
-- 04/06/22 (eff) - Earthmix space _1{286} Top chef _13{73} F4 thailand _1{35} The voice chile _3{33} Koh-lanta _28{31} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} 
-- 05/06/22 (eff) - Earthmix space _1{288} Top chef _13{75} The voice chile _3{35} F4 thailand _1{35} Koh-lanta _28{32} Triage _1{29} Kinnporsche _1{25} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} 
-- 06/06/22 (eff) - Earthmix space _1{290} Top chef _13{77} The voice chile _3{37} F4 thailand _1{35} Koh-lanta _28{33} Triage _1{29} Kinnporsche _1{27} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
-- 07/06/22 (eff) - Earthmix space _1{293} Top chef _13{80} The voice chile _3{40} Koh-lanta _28{35} F4 thailand _1{35} Triage _1{30} Kinnporsche _1{30} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
-- 08/06/22 (eff) - Earthmix space _1{295} Top chef _13{82} The voice chile _3{42} Koh-lanta _28{36} F4 thailand _1{35} Kinnporsche _1{32} Triage _1{31} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
-- 09/06/22 (eff) - Earthmix space _1{297} Top chef _13{84} The voice chile _3{44} Koh-lanta _28{37} F4 thailand _1{35} Kinnporsche _1{34} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{13} Two pints of lager _3{13} 
-- 10/06/22 (eff) - Earthmix space _1{299} Top chef _13{86} The voice chile _3{46} Koh-lanta _28{38} Kinnporsche _1{36} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-- 11/06/22 (eff) - Earthmix space _1{301} Top chef _13{88} The voice chile _3{48} Koh-lanta _28{39} Kinnporsche _1{38} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-- 12/06/22 (eff) - Earthmix space _1{303} Top chef _13{90} The voice chile _3{50} Kinnporsche _1{40} Koh-lanta _28{40} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-- 13/06/22 (eff) - Earthmix space _1{305} Top chef _13{92} The voice chile _3{52} Kinnporsche _1{42} Koh-lanta _28{41} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
+- 10/04/22 (eff) - earthmix space _1{181} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 11/04/22 (eff) - earthmix space _1{183} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 12/04/22 (eff) - earthmix space _1{186} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 13/04/22 (eff) - earthmix space _1{188} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} cutie pie _1{13} 
+- 14/04/22 (eff) - earthmix space _1{190} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} cutie pie _1{13} 
+- 15/04/22 (eff) - earthmix space _1{192} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} cutie pie _1{13} meet my angel _2{12} 
+- 16/04/22 (eff) - earthmix space _1{194} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} trivia quest _1{13} cutie pie _1{13} 
+- 17/04/22 (eff) - earthmix space _1{196} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} trivia quest _1{15} cutie pie _1{13} 
+- 18/04/22 (eff) - earthmix space _1{197} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{16} the voice ph _1{16} cutie pie _1{13} 
+- 19/04/22 (eff) - earthmix space _1{198} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} cutie pie _1{13} 
+- 20/04/22 (eff) - earthmix space _1{199} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
+- 21/04/22 (eff) - earthmix space _1{200} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
+- 22/04/22 (eff) - earthmix space _1{201} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
+- 23/04/22 (eff) - earthmix space _1{202} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
+- 24/04/22 (eff) - Earthmix space _1{203} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{13} 
+- 25/04/22 (eff) - Earthmix space _1{205} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{13} 
+- 26/04/22 (eff) - Earthmix space _1{207} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
+- 27/04/22 (eff) - Earthmix space _1{209} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
+- 28/04/22 (eff) - Earthmix space _1{210} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
+- 29/04/22 (eff) - Earthmix space _1{211} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
+- 30/04/22 (eff) - Earthmix space _1{212} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
+- 01/05/22 (eff) - Earthmix space _1{214} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} Cutie pie _1{14} 
+- 02/05/22 (eff) - Earthmix space _1{217} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Cutie pie _1{15} 
+- 03/05/22 (eff) - Earthmix space _1{220} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Cutie pie _1{15} 
+- 04/05/22 (eff) - Earthmix space _1{222} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 05/05/22 (eff) - Earthmix space _1{224} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 06/05/22 (eff) - Earthmix space _1{226} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Cutie pie _1{15} 
+- 07/05/22 (eff) - Earthmix space _1{228} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Cutie pie _1{15} 
+- 08/05/22 (eff) - Earthmix space _1{230} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Cutie pie _1{15} 
+- 09/05/22 (eff) - Earthmix space _1{232} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Cutie pie _1{15} 
+- 10/05/22 (eff) - Earthmix space _1{234} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 11/05/22 (eff) - Earthmix space _1{236} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} Triage _1{15} 
+- 12/05/22 (eff) - Earthmix space _1{238} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
+- 13/05/22 (eff) - Earthmix space _1{240} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 14/05/22 (eff) - Earthmix space _1{242} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
+- 15/05/22 (eff) - Earthmix space _1{244} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 16/05/22 (eff) - Earthmix space _1{246} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 17/05/22 (eff) - Earthmix space _1{248} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{16} 
+- 18/05/22 (eff) - Earthmix space _1{250} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{17} 
+- 19/05/22 (eff) - Earthmix space _1{252} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Koh-lanta _28{17} Triage _1{17} 
+- 20/05/22 (eff) - Earthmix space _1{254} F4 thailand _1{35} Cupids last wish _1{19} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} The circle us _4{16} 
+- 21/05/22 (eff) - Earthmix space _1{256} F4 thailand _1{35} Cupids last wish _1{19} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} The circle us _4{16} 
+- 22/05/22 (eff) - Earthmix space _1{258} F4 thailand _1{35} Cupids last wish _1{19} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} Kinnporsche _1{16} The circle us _4{16} 
+- 23/05/22 (eff) - Earthmix space _1{260} F4 thailand _1{35} Cupids last wish _1{19} Kinnporsche _1{18} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} 
+- 24/05/22 (eff) - Earthmix space _1{263} F4 thailand _1{35} Kinnporsche _1{20} Koh-lanta _28{19} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} 
+- 25/05/22 (eff) - Earthmix space _1{265} F4 thailand _1{35} Kinnporsche _1{20} Koh-lanta _28{19} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} 
+- 26/05/22 (eff) - Earthmix space _1{267} F4 thailand _1{35} Koh-lanta _28{20} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
+- 27/05/22 (eff) - Earthmix space _1{269} F4 thailand _1{35} Koh-lanta _28{21} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
+- 28/05/22 (eff) - Earthmix space _1{271} F4 thailand _1{35} Koh-lanta _28{22} Kinnporsche _1{20} Triage _1{19} Cupids last wish _1{19} Trivia quest _1{18} The voice chile _3{17} The circle us _4{16} 
+- 29/05/22 (eff) - Earthmix space _1{273} F4 thailand _1{35} Koh-lanta _28{23} Kinnporsche _1{20} Triage _1{20} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
+- 30/05/22 (eff) - Earthmix space _1{275} F4 thailand _1{35} Koh-lanta _28{24} The voice chile _3{21} Triage _1{21} Kinnporsche _1{20} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
+- 31/05/22 (eff) - Earthmix space _1{277} F4 thailand _1{35} Koh-lanta _28{26} Triage _1{24} The voice chile _3{24} Kinnporsche _1{22} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
+- 01/06/22 (eff) - Earthmix space _1{279} F4 thailand _1{35} Koh-lanta _28{27} Triage _1{26} The voice chile _3{26} Kinnporsche _1{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} Cutie pie _1{15} 
+- 02/06/22 (eff) - Earthmix space _1{282} F4 thailand _1{35} Koh-lanta _28{29} Triage _1{29} The voice chile _3{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+- 03/06/22 (eff) - Earthmix space _1{284} F4 thailand _1{35} The voice chile _3{31} Koh-lanta _28{30} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+- 04/06/22 (eff) - Earthmix space _1{286} F4 thailand _1{35} The voice chile _3{33} Koh-lanta _28{31} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} 
+- 05/06/22 (eff) - Earthmix space _1{288} The voice chile _3{35} F4 thailand _1{35} Koh-lanta _28{32} Triage _1{29} Kinnporsche _1{25} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} 
+- 06/06/22 (eff) - Earthmix space _1{290} The voice chile _3{37} F4 thailand _1{35} Koh-lanta _28{33} Triage _1{29} Kinnporsche _1{27} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
+- 07/06/22 (eff) - Earthmix space _1{293} The voice chile _3{40} Koh-lanta _28{35} F4 thailand _1{35} Triage _1{30} Kinnporsche _1{30} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
+- 08/06/22 (eff) - Earthmix space _1{295} The voice chile _3{42} Koh-lanta _28{36} F4 thailand _1{35} Kinnporsche _1{32} Triage _1{31} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
+- 09/06/22 (eff) - Earthmix space _1{297} The voice chile _3{44} Koh-lanta _28{37} F4 thailand _1{35} Kinnporsche _1{34} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{13} Two pints of lager _3{13} 
+- 10/06/22 (eff) - Earthmix space _1{299} The voice chile _3{46} Koh-lanta _28{38} Kinnporsche _1{36} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+- 11/06/22 (eff) - Earthmix space _1{301} The voice chile _3{48} Koh-lanta _28{39} Kinnporsche _1{38} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+- 12/06/22 (eff) - Earthmix space _1{303} The voice chile _3{50} Kinnporsche _1{40} Koh-lanta _28{40} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+- 13/06/22 (eff) - Earthmix space _1{305} The voice chile _3{52} Kinnporsche _1{42} Koh-lanta _28{41} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
 
 
 
@@ -813,121 +813,121 @@
 - 14/02/22 - 317* the voice ukr _12{7} earthmix space _1{92} all of us are dead _1{2} f4 thailand _1{22} 
 - 15/02/22 - 273* the voice ukr _12{8} earthmix space _1{95} all of us are dead _1{5} f4 thailand _1{24} 
 - 16/02/22 - 282* love stage 2022 _1{4} the voice ukr _12{8} earthmix space _1{97} all of us are dead _1{7} 
-- 17/02/22 - 203* top chef _13{0} love stage 2022 _1{6} the voice ukr _12{8} 
-- 18/02/22 - 156* top chef _13{0} love stage 2022 _1{6} 
-- 19/02/22 - 243* top chef _13{0} 
+- 17/02/22 - 203* love stage 2022 _1{6} the voice ukr _12{8} 
+- 18/02/22 - 156* love stage 2022 _1{6} 
+- 19/02/22 - 243* 
 - 20/02/22 - 199* enchante _1{4} cutie pie _1{0} something in my room _1{8} f4 thailand _1{25} 
 - 21/02/22 - 190* the voice ukr _12{8} enchante _1{4} cutie pie _1{0} something in my room _1{8} f4 thailand _1{27} 
 - 22/02/22 - 196* the voice ukr _12{9} enchante _1{5} cutie pie _1{1} something in my room _1{9} 
 - 23/02/22 - 201* koh-lanta _28{0} the voice ukr _12{9} enchante _1{5} cutie pie _1{1} 
-- 24/02/22 - 154* top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} the voice ukr _12{9} 
-- 25/02/22 - 136* cherry blossoms after winter _1{0} top chef _13{1} cupids last wish _1{0} koh-lanta _28{0} 
+- 24/02/22 - 154* cupids last wish _1{0} koh-lanta _28{0} the voice ukr _12{9} 
+- 25/02/22 - 136* cherry blossoms after winter _1{0} cupids last wish _1{0} koh-lanta _28{0} 
 - 26/02/22 - 414* earthmix space _1{117} cherry blossoms after winter _1{0} 
 - 27/02/22 - 324* cutie pie _1{1} cupids last wish _1{0} earthmix space _1{119} cherry blossoms after winter _1{0} 
 - 28/02/22 - 347* cutie pie _1{1} cupids last wish _1{2} earthmix space _1{121} 
 - 01/03/22 - 344* cutie pie _1{2} cupids last wish _1{5} earthmix space _1{124} 
 - 02/03/22 - 241* koh-lanta _28{2} cutie pie _1{3} cupids last wish _1{8} 
-- 03/03/22 - 160* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} 
-- 04/03/22 - 111* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} 
-- 05/03/22 - 298* top chef _13{3} drag i love you _1{0} koh-lanta _28{2} 
+- 03/03/22 - 160* drag i love you _1{0} koh-lanta _28{2} 
+- 04/03/22 - 111* drag i love you _1{0} koh-lanta _28{2} 
+- 05/03/22 - 298* drag i love you _1{0} koh-lanta _28{2} 
 - 06/03/22 - 291* the tuxedo _1{0} cutie pie _1{3} 
 - 07/03/22 - 332* the tuxedo _1{1} cutie pie _1{3} 
 - 08/03/22 - 279* the tuxedo _1{2} cutie pie _1{4} 
 - 09/03/22 - 313* koh-lanta _28{3} the tuxedo _1{2} 
-- 10/03/22 - 206* top chef _13{4} koh-lanta _28{3} 
-- 11/03/22 - 152* drag i love you _1{1} top chef _13{4} koh-lanta _28{3} 
+- 10/03/22 - 206* koh-lanta _28{3} 
+- 11/03/22 - 152* drag i love you _1{1} koh-lanta _28{3} 
 - 12/03/22 - 302* drag i love you _1{1} 
 - 13/03/22 - 316* cutie pie _1{4} drag i love you _1{1} 
 - 14/03/22 - 413* cutie pie _1{4} 
 - 15/03/22 - 434* cutie pie _1{5} 
 - 16/03/22 - 482* koh-lanta _28{4} cutie pie _1{5} 
-- 17/03/22 - 340* top chef _13{5} koh-lanta _28{4} cutie pie _1{5} 
-- 18/03/22 - 424* earthmix space _1{148} cupids last wish _1{10} top chef _13{6} koh-lanta _28{4} 
-- 19/03/22 - 481* earthmix space _1{150} cupids last wish _1{10} top chef _13{6} 
+- 17/03/22 - 340* koh-lanta _28{4} cutie pie _1{5} 
+- 18/03/22 - 424* earthmix space _1{148} cupids last wish _1{10} koh-lanta _28{4} 
+- 19/03/22 - 481* earthmix space _1{150} cupids last wish _1{10} 
 - 20/03/22 - 517* cutie pie _1{5} cupids last wish _1{10} earthmix space _1{152} 
 - 21/03/22 - 525* cutie pie _1{5} cupids last wish _1{12} earthmix space _1{154} 
 - 22/03/22 - 394* cutie pie _1{6} cupids last wish _1{15} 
 - 23/03/22 - 248* koh-lanta _28{5} cutie pie _1{7} cupids last wish _1{16} 
-- 24/03/22 - 235* top chef _13{9} koh-lanta _28{6} cutie pie _1{7} cupids last wish _1{17} 
-- 25/03/22 - 211* top chef _13{9} koh-lanta _28{6} 
-- 26/03/22 - 387* top chef _13{10} 
+- 24/03/22 - 235* koh-lanta _28{6} cutie pie _1{7} cupids last wish _1{17} 
+- 25/03/22 - 211* koh-lanta _28{6} 
+- 26/03/22 - 387* 
 - 27/03/22 - 387* cutie pie _1{7} 
 - 28/03/22 - 221* cutie pie _1{8} 
 - 29/03/22 - 300* cutie pie _1{10} 
 - 30/03/22 - 297* cutie pie _1{10} 
-- 31/03/22 - 278* top chef _13{11} cutie pie _1{10} 
-- 01/04/22 - 333* ohmnanon upvel _1{0} earthmix space _1{168} top chef _13{11} 
+- 31/03/22 - 278* cutie pie _1{10} 
+- 01/04/22 - 333* ohmnanon upvel _1{0} earthmix space _1{168} 
 - 02/04/22 - 363* enchante _1{6} quaranthings _2{0} ohmnanon upvel _1{1} 
 - 03/04/22 - 456* kinnporsche _1{0} cutie pie _1{11} 
 - 04/04/22 - 479* kinnporsche _1{0} cutie pie _1{11} 
 - 05/04/22 - 315* kinnporsche _1{1} cutie pie _1{12} 
 - 06/04/22 - 396* koh-lanta _28{8} kinnporsche _1{1} 
-- 07/04/22 - 374* top chef _13{13} koh-lanta _28{8} 
-- 08/04/22 - 346* top chef _13{14} koh-lanta _28{8} 
+- 07/04/22 - 374* koh-lanta _28{8} 
+- 08/04/22 - 346* koh-lanta _28{8} 
 - 09/04/22 - 609* earthmix space _1{179} 
 - 10/04/22 - 447* trivia quest _1{0} cutie pie _1{12} 
 - 11/04/22 - 465* kinnporsche _1{0} trivia quest _1{2} cutie pie _1{12} 
 - 12/04/22 - 134* ohmnanon upvel _1{2} kinnporsche _1{1} trivia quest _1{5} 
 - 13/04/22 - 143* koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
-- 14/04/22 - 110* top chef _13{15} koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
-- 15/04/22 - 118* top chef _13{15} koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
-- 16/04/22 - 208* call me mother _1{0} top chef _13{15} 
-- 17/04/22 - 263* call me mother _1{0} top chef _13{15} 
+- 14/04/22 - 110* koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
+- 15/04/22 - 118* koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
+- 16/04/22 - 208* call me mother _1{0} 
+- 17/04/22 - 263* call me mother _1{0} 
 - 18/04/22 - 292* call me mother _1{0} 
 - 19/04/22 - 216* 
 - 20/04/22 - 191* koh-lanta _28{10} 
 - 21/04/22 - 203* koh-lanta _28{10} 
-- 22/04/22 - 178* top chef _13{16} koh-lanta _28{10} 
-- 23/04/22 - 488* top chef _13{17} 
-- 24/04/22 - 511* Top chef _13{17} 
+- 22/04/22 - 178* koh-lanta _28{10} 
+- 23/04/22 - 488* 
+- 24/04/22 - 511* 
 - 25/04/22 - 479* Kinnporsche _1{2} Cutie pie _1{13} 
 - 26/04/22 - 192* Kinnporsche _1{3} Cutie pie _1{14} 
 - 27/04/22 - 167* Koh-lanta _28{11} Ohmnanon upvel _1{3} Kinnporsche _1{3} Cutie pie _1{14} 
-- 28/04/22 - 182* Top chef _13{22} Bullshit the game show _1{0} Koh-lanta _28{11} Ohmnanon upvel _1{3} 
-- 29/04/22 - 187* Top chef _13{23} Bullshit the game show _1{1} Koh-lanta _28{11} Ohmnanon upvel _1{3} 
-- 30/04/22 - 357* Earthmix space _1{212} Top chef _13{24} 
+- 28/04/22 - 182* Bullshit the game show _1{0} Koh-lanta _28{11} Ohmnanon upvel _1{3} 
+- 29/04/22 - 187* Bullshit the game show _1{1} Koh-lanta _28{11} Ohmnanon upvel _1{3} 
+- 30/04/22 - 357* Earthmix space _1{212} 
 - 01/05/22 - 583* Druck _8{0} Earthmix space _1{214} 
 - 02/05/22 - 639* Triage _1{0} Druck _8{1} Earthmix space _1{217} 
 - 03/05/22 - 661* Triage _1{2} Druck _8{2} Earthmix space _1{220} 
 - 04/05/22 - 466* Koh-lanta _28{13} Triage _1{3} Druck _8{2} 
-- 05/05/22 - 492* Top chef _13{31} The circle us _4{0} Koh-lanta _28{13} Triage _1{5} Druck _8{2} 
-- 06/05/22 - 226* Close friend _2{0} Clik clak clok _1{0} Top chef _13{32} The circle us _4{2} Koh-lanta _28{13} Triage _1{7} 
-- 07/05/22 - 164* Close friend _2{0} Clik clak clok _1{0} Top chef _13{33} The circle us _4{4} 
+- 05/05/22 - 492* The circle us _4{0} Koh-lanta _28{13} Triage _1{5} Druck _8{2} 
+- 06/05/22 - 226* Close friend _2{0} Clik clak clok _1{0} The circle us _4{2} Koh-lanta _28{13} Triage _1{7} 
+- 07/05/22 - 164* Close friend _2{0} Clik clak clok _1{0} The circle us _4{4} 
 - 08/05/22 - 396* Close friend _2{0} Clik clak clok _1{0} 
 - 09/05/22 - 465* 
 - 10/05/22 - 553* Ohmnanon upvel _1{5} Triage _1{14} 
 - 11/05/22 - 572* Koh-lanta _28{14} Ohmnanon upvel _1{5} Triage _1{15} 
-- 12/05/22 - 300* The circle us _4{15} Top chef _13{39} Koh-lanta _28{15} Ohmnanon upvel _1{5} Triage _1{15} 
-- 13/05/22 - 317* The circle us _4{15} Top chef _13{40} Koh-lanta _28{15} Ohmnanon upvel _1{5} Triage _1{15} 
-- 14/05/22 - 294* Skam france _10{0} The circle us _4{15} Top chef _13{41} Koh-lanta _28{15} Ohmnanon upvel _1{5} Triage _1{15} 
-- 15/05/22 - 449* The voice kids portugal _3{0} Skam france _10{1} The circle us _4{15} Top chef _13{42} 
+- 12/05/22 - 300* The circle us _4{15} Koh-lanta _28{15} Ohmnanon upvel _1{5} Triage _1{15} 
+- 13/05/22 - 317* The circle us _4{15} Koh-lanta _28{15} Ohmnanon upvel _1{5} Triage _1{15} 
+- 14/05/22 - 294* Skam france _10{0} The circle us _4{15} Koh-lanta _28{15} Ohmnanon upvel _1{5} Triage _1{15} 
+- 15/05/22 - 449* The voice kids portugal _3{0} Skam france _10{1} The circle us _4{15} 
 - 16/05/22 - 479* Kinnporsche _1{4} The voice kids portugal _3{1} Skam france _10{1} 
 - 17/05/22 - 616* Kinnporsche _1{7} Triage _1{16} The voice kids portugal _3{2} 
 - 18/05/22 - 635* Koh-lanta _28{16} Kinnporsche _1{9} Triage _1{17} 
-- 19/05/22 - 436* Top chef _13{47} Koh-lanta _28{17} Kinnporsche _1{11} Triage _1{17} 
-- 20/05/22 - 346* The voice chile _3{0} The voice kids portugal _3{2} Top chef _13{49} Koh-lanta _28{18} Kinnporsche _1{13} Triage _1{17} 
-- 21/05/22 - 162* Rpdras _7{0} The voice chile _3{2} The voice kids portugal _3{3} Top chef _13{50} Koh-lanta _28{18} Kinnporsche _1{15} 
+- 19/05/22 - 436* Koh-lanta _28{17} Kinnporsche _1{11} Triage _1{17} 
+- 20/05/22 - 346* The voice chile _3{0} The voice kids portugal _3{2} Koh-lanta _28{18} Kinnporsche _1{13} Triage _1{17} 
+- 21/05/22 - 162* Rpdras _7{0} The voice chile _3{2} The voice kids portugal _3{3} Koh-lanta _28{18} Kinnporsche _1{15} 
 - 22/05/22 - 625* Kinnporsche _1{16} The voice chile _3{4} Sytycd _17{0} Two pints of lager _3{3} Earthmix space _1{258} Rpdras _7{0} 
 - 23/05/22 - 688* Rpdrasu _7{0} Kinnporsche _1{18} The voice chile _3{6} Sytycd _17{0} Two pints of lager _3{3} Earthmix space _1{260} 
 - 24/05/22 - 701* Ohmnanon upvel _1{6} Two pints of lager _3{4} Triage _1{18} Rpdrasu _7{1} Kinnporsche _1{20} The voice chile _3{9} Sytycd _17{1} Earthmix space _1{263} 
 - 25/05/22 - 171* Beat shazam _2{0} Koh-lanta _28{19} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{5} Triage _1{18} Rpdrasu _7{1} Kinnporsche _1{20} 
-- 26/05/22 - 148* Sytycd _17{1} Top chef _13{59} The voice chile _3{13} Beat shazam _2{0} Beat shazam _5{0} Koh-lanta _28{20} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{6} Triage _1{18} 
-- 27/05/22 - 134* Survivor _29{0} Druck _8{2} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} Top chef _13{60} The voice chile _3{15} Beat shazam _2{2} Beat shazam _5{0} Koh-lanta _28{21} /9-1-1 _5{7} 
-- 28/05/22 - 128* Dont forget the lyrics _1{0} The voice chile _3{17} The voice kids esp _7{0} Survivor _29{1} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} Top chef _13{61} 
-- 29/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{19} The voice kids esp _7{0} Survivor _29{2} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} Top chef _13{62} 
-- 30/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{21} The voice kids esp _7{0} Survivor _29{3} Druck _8{4} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} Top chef _13{63} 
+- 26/05/22 - 148* Sytycd _17{1} The voice chile _3{13} Beat shazam _2{0} Beat shazam _5{0} Koh-lanta _28{20} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{6} Triage _1{18} 
+- 27/05/22 - 134* Survivor _29{0} Druck _8{2} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} The voice chile _3{15} Beat shazam _2{2} Beat shazam _5{0} Koh-lanta _28{21} /9-1-1 _5{7} 
+- 28/05/22 - 128* Dont forget the lyrics _1{0} The voice chile _3{17} The voice kids esp _7{0} Survivor _29{1} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
+- 29/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{19} The voice kids esp _7{0} Survivor _29{2} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
+- 30/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{21} The voice kids esp _7{0} Survivor _29{3} Druck _8{4} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
 - 31/05/22 - 116* Triage _1{24} Kinnporsche _1{22} Dont forget the lyrics _1{1} The voice chile _3{24} The voice kids esp _7{1} Survivor _29{5} Druck _8{6} Skam france _10{3} The voice kids portugal _3{5} Sytycd _17{3} 
 - 01/06/22 - 171* Koh-lanta _28{27} Beat shazam _5{1} Dont forget the lyrics _1{1} Triage _1{26} Kinnporsche _1{23} The voice chile _3{26} The voice kids esp _7{1} Survivor _29{6} Druck _8{7} 
-- 02/06/22 - 269* The voice kids portugal _3{6} Top chef _13{69} Koh-lanta _28{29} Beat shazam _5{4} Dont forget the lyrics _1{3} Triage _1{29} Kinnporsche _1{24} The voice chile _3{29} The voice kids esp _7{2} 
-- 03/06/22 - 262* The voice chile _3{31} Skam france _10{4} Sytycd _17{4} The voice kids portugal _3{8} Top chef _13{71} Koh-lanta _28{30} Beat shazam _5{4} Dont forget the lyrics _1{4} Triage _1{29} 
-- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} The voice chile _3{33} Skam france _10{5} Sytycd _17{5} The voice kids portugal _3{8} Top chef _13{73} Koh-lanta _28{31} Beat shazam _5{4} Dont forget the lyrics _1{6} 
+- 02/06/22 - 269* The voice kids portugal _3{6} Koh-lanta _28{29} Beat shazam _5{4} Dont forget the lyrics _1{3} Triage _1{29} Kinnporsche _1{24} The voice chile _3{29} The voice kids esp _7{2} 
+- 03/06/22 - 262* The voice chile _3{31} Skam france _10{4} Sytycd _17{4} The voice kids portugal _3{8} Koh-lanta _28{30} Beat shazam _5{4} Dont forget the lyrics _1{4} Triage _1{29} 
+- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} The voice chile _3{33} Skam france _10{5} Sytycd _17{5} The voice kids portugal _3{8} Koh-lanta _28{31} Beat shazam _5{4} Dont forget the lyrics _1{6} 
 - 05/06/22 - 426* Kinnporsche _1{25} Earthmix space _1{288} Ohmnanon upvel _1{8} The voice kids esp _7{2} The voice chile _3{35} Skam france _10{6} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} The voice kids portugal _3{8} 
 - 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Kinnporsche _1{27} Earthmix space _1{290} Ohmnanon upvel _1{8} The voice kids esp _7{2} The voice chile _3{37} Skam france _10{8} Agt _17{2} Sky in your heart _1{1} 
 - 07/06/22 - 483* Triage _1{30} Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} Kinnporsche _1{30} Earthmix space _1{293} The voice kids esp _7{3} The voice chile _3{40} Skam france _10{10} Agt _17{3} 
 - 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{36} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Triage _1{31} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} Kinnporsche _1{32} Earthmix space _1{295} 
-- 09/06/22 - 272* Top chef _13{84} The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{37} Le flambeau _1{2} Triage _1{32} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} Kinnporsche _1{34} 
-- 10/06/22 - 255* Survivor _29{9} /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} The voice chile _3{46} Sytycd _17{6} The voice arg _4{2} Top chef _13{86} Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{38} Triage _1{32} 
-- 11/06/22 - 237* The voice chile _3{48} The voice arg _4{4} The voice kids esp _7{3} Survivor _29{10} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Sytycd _17{6} Top chef _13{88} Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{39} 
-- 12/06/22 - 248* Kinnporsche _1{40} The voice chile _3{50} The voice arg _4{6} The voice kids esp _7{4} Survivor _29{11} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Sytycd _17{6} Top chef _13{90} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+- 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{37} Le flambeau _1{2} Triage _1{32} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} Kinnporsche _1{34} 
+- 10/06/22 - 255* Survivor _29{9} /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} The voice chile _3{46} Sytycd _17{6} The voice arg _4{2} Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{38} Triage _1{32} 
+- 11/06/22 - 237* The voice chile _3{48} The voice arg _4{4} The voice kids esp _7{3} Survivor _29{10} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{39} 
+- 12/06/22 - 248* Kinnporsche _1{40} The voice chile _3{50} The voice arg _4{6} The voice kids esp _7{4} Survivor _29{11} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
 - 13/06/22 - 167* Skam france _10{11} Dancing with myself _1{0} Mama gogo _1{0} Kinnporsche _1{42} The voice chile _3{52} The voice arg _4{8} The voice kids esp _7{4} Survivor _29{12} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} Sytycd _17{6} 
 

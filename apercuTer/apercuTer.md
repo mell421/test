@@ -138,6 +138,7 @@
     - [sem 06-06-2022](#sem-06-06-2022)
     - [sem 13-06-2022](#sem-13-06-2022)
     - [sem 20-06-2022](#sem-20-06-2022)
+    - [sem 27-06-2022](#sem-27-06-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -725,7 +726,6 @@
 * Incroyable talent _16
 * Dragula _4
 ### sem 03-01-2022 
-* *insererici*
 * Druck _7
 * The voice nl _9
 * The voice ru _10
@@ -734,14 +734,12 @@
 * The voice kids uk _5
 * Josephine ange gardien _24
 ### sem 10-01-2022 
-* *insererici*
 * Drag race it _1
 * Rpdruk _3
 * Dexter _9
 * The voice alb _6
 * Friend or lover _1
 ### sem 17-01-2022 
-* *insererici*
 * Tinted with you _1
 * Do seu lado _1
 * Cheer _2
@@ -750,7 +748,6 @@
 * Dont say no _1
 * Lego masters fr _2
 ### sem 24-01-2022 
-* *insererici*
 * Survivor _15
 * Survivor _14
 * The voice senior it _2
@@ -760,45 +757,37 @@
 * Mr cinderella _1
 * Survivor _13
 ### sem 31-01-2022 
-* *insererici*
 * Bt21 original story _1
 * The voice senior esp _3
 * Survivor _17
 * Survivor _16
 ### sem 07-02-2022 
-* *insererici*
 * The voice portugal _9
 * Survivor _19
 * The masked dancer ger _1
 * The voice generations au _1
 * Survivor _18
 ### sem 14-02-2022 
-* *insererici*
 * The masked singer uk _3
 * Ninja warrior _6
 * Paint with love _1
 ### sem 21-02-2022 
-* *insererici*
 * Kieta hatsukoi _1
 * Survivor _22
 * Survivor _21
 * Survivor _20
 ### sem 28-02-2022 
-* *insererici*
 * Kissable lips _1
 * The voice lithu _8
 ### sem 07-03-2022 
-* *insererici*
 * The voice poland _12
 * Next level chef _1
 * Survivor _23
 ### sem 14-03-2022 
-* *insererici*
 * Icsyv _2
 * Survivor sa _7
 * Rpdrukvstheworld _1
 ### sem 21-03-2022 
-* *insererici*
 * Not me _1
 * The masked singer vv _2
 * Skam france _9
@@ -806,57 +795,47 @@
 * Agt extreme _1
 * The voice generations lithu _1
 ### sem 28-03-2022 
-* *insererici*
 * Survivor _25
 * Semantic error _1
 * Is it cake _1
 ### sem 04-04-2022 
-* *insererici*
 * Absolute bl _2
 * Dancing on ice uk _14
 ### sem 11-04-2022 
-* *insererici*
 * Lol fr _2
 * Lol fr _1
 * Peach of time _1
 * Rpdru _14
 * Survivor au _9
 ### sem 18-04-2022 
-* *insererici*
 * Pekin express _15
 * Survivor _26
 * Queen stars brazil _1
 * The voice be _10
 * Clem _12
 ### sem 25-04-2022 
-* *insererici*
 * The voice kids poland _5
 * Rpdr _14
 * Forcebook show real _1
 ### sem 02-05-2022 
-* *insererici*
 * The masked singer ger _6
 * The voice finland _12
 * Heartstopper _1
 * Camping paradis _12
 ### sem 09-05-2022 
-* *insererici*
 * The voice kids ger _10
 ### sem 16-05-2022 
-* *insererici*
 * The masked singer fr _3
 * Survivor _27
 * Domino masters us _1
 * Asc _1
 ### sem 23-05-2022 
-* *insererici*
 * The voice fr _12
 * Love death & robots _3
 * The masked singer _7
 * Cgt _2
 * Vampire in the garden _1
 ### sem 30-05-2022 
-* *insererici*
 * The voice au _11
 * Name that tune _2
 * The voice kids vv _6
@@ -865,18 +844,19 @@
 * Survivor _42
 * American idol _20
 ### sem 06-06-2022 
-* *insererici*
 * Drag race esp _2
 * Floor is lava _2
 * The voice no _7
 ### sem 13-06-2022 
-* *insererici*
 * The voice senior finland _1
 * Dear doctor _1
 ### sem 20-06-2022 
 * *insererici*
+* Top chef _13
 * Love victor _3
 * Bgt _15
+### sem 27-06-2022 
+* *insererici*
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -888,7 +868,6 @@
 * The good doctor _5
 * Nilundon _1
 * First love again _1
-* 
 * Unforgotten night _1
 * 
 * 
@@ -904,10 +883,8 @@
 * Trivia quest _1
 * Cutie pie _1
 * Earthmix space _1
-* Top chef _13
 * 
 * Koh-lanta _28
-* 
 * Kinnporsche _1
 * Enchante _1
 * Quaranthings _2
@@ -1047,7 +1024,7 @@
 #### mois 01-06-2022 
 *insererici The voice no _7 The voice au _11 Name that tune _2 The voice kids vv _6 Star in my mind _1 Survivor _28 Survivor _42 American idol _20 The voice fr _12 Love death & robots _3 The masked singer _7 Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
 #### mois 01-07-2022 
-*insererici Love victor _3 Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
+*insererici Top chef _13 Love victor _3 Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
 
 
 

@@ -41,7 +41,6 @@ _
 The voice chile 3x7
 * The voice chile 3x1
 The voice kids portugal 3x2
-Top chef 13x14
 Koh-lanta 28x12
 Kinnporsche 1x6
 Triage 1x5
@@ -76,7 +75,6 @@ The voice ukr 12x5
 * Cutie pie 1x1
 Something in my room 1x4
 F4 thailand 1x9
-* Top chef 13x1
 Love stage 2022 1x3
 All of us are dead 1x2
 * All of us are dead 1x1

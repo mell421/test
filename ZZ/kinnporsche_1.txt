@@ -1,103 +1,103 @@
 aEff/aeff.md:- 01/06/22 - 171* Koh-lanta _28{27} Beat shazam _5{1} Dont forget the lyrics _1{1} Triage _1{26} Kinnporsche _1{23} The voice chile _3{26} The voice kids esp _7{1} Survivor _29{6} Druck _8{7} 
-aEff/aeff.md:- 01/06/22 (eff) - Earthmix space _1{279} Top chef _13{66} F4 thailand _1{35} Koh-lanta _28{27} Triage _1{26} The voice chile _3{26} Kinnporsche _1{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} Cutie pie _1{15} 
-aEff/aeff.md:- 02/06/22 - 269* The voice kids portugal _3{6} Top chef _13{69} Koh-lanta _28{29} Beat shazam _5{4} Dont forget the lyrics _1{3} Triage _1{29} Kinnporsche _1{24} The voice chile _3{29} The voice kids esp _7{2} 
-aEff/aeff.md:- 02/06/22 (eff) - Earthmix space _1{282} Top chef _13{69} F4 thailand _1{35} Koh-lanta _28{29} Triage _1{29} The voice chile _3{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+aEff/aeff.md:- 01/06/22 (eff) - Earthmix space _1{279} F4 thailand _1{35} Koh-lanta _28{27} Triage _1{26} The voice chile _3{26} Kinnporsche _1{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} Cutie pie _1{15} 
+aEff/aeff.md:- 02/06/22 - 269* The voice kids portugal _3{6} Koh-lanta _28{29} Beat shazam _5{4} Dont forget the lyrics _1{3} Triage _1{29} Kinnporsche _1{24} The voice chile _3{29} The voice kids esp _7{2} 
+aEff/aeff.md:- 02/06/22 (eff) - Earthmix space _1{282} F4 thailand _1{35} Koh-lanta _28{29} Triage _1{29} The voice chile _3{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
 aEff/aeff.md:- 03/04/22 - 456* kinnporsche _1{0} cutie pie _1{11} 
-aEff/aeff.md:- 03/06/22 (eff) - Earthmix space _1{284} Top chef _13{71} F4 thailand _1{35} The voice chile _3{31} Koh-lanta _28{30} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+aEff/aeff.md:- 03/06/22 (eff) - Earthmix space _1{284} F4 thailand _1{35} The voice chile _3{31} Koh-lanta _28{30} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
 aEff/aeff.md:- 04/04/22 - 479* kinnporsche _1{0} cutie pie _1{11} 
-aEff/aeff.md:- 04/06/22 (eff) - Earthmix space _1{286} Top chef _13{73} F4 thailand _1{35} The voice chile _3{33} Koh-lanta _28{31} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} 
+aEff/aeff.md:- 04/06/22 (eff) - Earthmix space _1{286} F4 thailand _1{35} The voice chile _3{33} Koh-lanta _28{31} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} 
 aEff/aeff.md:- 05/04/22 - 315* kinnporsche _1{1} cutie pie _1{12} 
 aEff/aeff.md:- 05/06/22 - 426* Kinnporsche _1{25} Earthmix space _1{288} Ohmnanon upvel _1{8} The voice kids esp _7{2} The voice chile _3{35} Skam france _10{6} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} The voice kids portugal _3{8} 
-aEff/aeff.md:- 05/06/22 (eff) - Earthmix space _1{288} Top chef _13{75} The voice chile _3{35} F4 thailand _1{35} Koh-lanta _28{32} Triage _1{29} Kinnporsche _1{25} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} 
+aEff/aeff.md:- 05/06/22 (eff) - Earthmix space _1{288} The voice chile _3{35} F4 thailand _1{35} Koh-lanta _28{32} Triage _1{29} Kinnporsche _1{25} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} 
 aEff/aeff.md:- 06/04/22 - 396* koh-lanta _28{8} kinnporsche _1{1} 
 aEff/aeff.md:- 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Kinnporsche _1{27} Earthmix space _1{290} Ohmnanon upvel _1{8} The voice kids esp _7{2} The voice chile _3{37} Skam france _10{8} Agt _17{2} Sky in your heart _1{1} 
-aEff/aeff.md:- 06/06/22 (eff) - Earthmix space _1{290} Top chef _13{77} The voice chile _3{37} F4 thailand _1{35} Koh-lanta _28{33} Triage _1{29} Kinnporsche _1{27} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
+aEff/aeff.md:- 06/06/22 (eff) - Earthmix space _1{290} The voice chile _3{37} F4 thailand _1{35} Koh-lanta _28{33} Triage _1{29} Kinnporsche _1{27} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
 aEff/aeff.md:- 07/06/22 - 483* Triage _1{30} Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} Kinnporsche _1{30} Earthmix space _1{293} The voice kids esp _7{3} The voice chile _3{40} Skam france _10{10} Agt _17{3} 
-aEff/aeff.md:- 07/06/22 (eff) - Earthmix space _1{293} Top chef _13{80} The voice chile _3{40} Koh-lanta _28{35} F4 thailand _1{35} Triage _1{30} Kinnporsche _1{30} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
+aEff/aeff.md:- 07/06/22 (eff) - Earthmix space _1{293} The voice chile _3{40} Koh-lanta _28{35} F4 thailand _1{35} Triage _1{30} Kinnporsche _1{30} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
 aEff/aeff.md:- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{36} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Triage _1{31} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} Kinnporsche _1{32} Earthmix space _1{295} 
-aEff/aeff.md:- 08/06/22 (eff) - Earthmix space _1{295} Top chef _13{82} The voice chile _3{42} Koh-lanta _28{36} F4 thailand _1{35} Kinnporsche _1{32} Triage _1{31} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
-aEff/aeff.md:- 09/06/22 - 272* Top chef _13{84} The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{37} Le flambeau _1{2} Triage _1{32} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} Kinnporsche _1{34} 
-aEff/aeff.md:- 09/06/22 (eff) - Earthmix space _1{297} Top chef _13{84} The voice chile _3{44} Koh-lanta _28{37} F4 thailand _1{35} Kinnporsche _1{34} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{13} Two pints of lager _3{13} 
-aEff/aeff.md:- 10/06/22 (eff) - Earthmix space _1{299} Top chef _13{86} The voice chile _3{46} Koh-lanta _28{38} Kinnporsche _1{36} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+aEff/aeff.md:- 08/06/22 (eff) - Earthmix space _1{295} The voice chile _3{42} Koh-lanta _28{36} F4 thailand _1{35} Kinnporsche _1{32} Triage _1{31} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Two pints of lager _3{13} 
+aEff/aeff.md:- 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{37} Le flambeau _1{2} Triage _1{32} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} Kinnporsche _1{34} 
+aEff/aeff.md:- 09/06/22 (eff) - Earthmix space _1{297} The voice chile _3{44} Koh-lanta _28{37} F4 thailand _1{35} Kinnporsche _1{34} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{13} Two pints of lager _3{13} 
+aEff/aeff.md:- 10/06/22 (eff) - Earthmix space _1{299} The voice chile _3{46} Koh-lanta _28{38} Kinnporsche _1{36} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
 aEff/aeff.md:- 11/04/22 - 465* kinnporsche _1{0} trivia quest _1{2} cutie pie _1{12} 
-aEff/aeff.md:- 11/06/22 (eff) - Earthmix space _1{301} Top chef _13{88} The voice chile _3{48} Koh-lanta _28{39} Kinnporsche _1{38} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+aEff/aeff.md:- 11/06/22 (eff) - Earthmix space _1{301} The voice chile _3{48} Koh-lanta _28{39} Kinnporsche _1{38} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
 aEff/aeff.md:- 12/04/22 - 134* ohmnanon upvel _1{2} kinnporsche _1{1} trivia quest _1{5} 
-aEff/aeff.md:- 12/06/22 - 248* Kinnporsche _1{40} The voice chile _3{50} The voice arg _4{6} The voice kids esp _7{4} Survivor _29{11} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Sytycd _17{6} Top chef _13{90} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-aEff/aeff.md:- 12/06/22 (eff) - Earthmix space _1{303} Top chef _13{90} The voice chile _3{50} Kinnporsche _1{40} Koh-lanta _28{40} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+aEff/aeff.md:- 12/06/22 - 248* Kinnporsche _1{40} The voice chile _3{50} The voice arg _4{6} The voice kids esp _7{4} Survivor _29{11} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+aEff/aeff.md:- 12/06/22 (eff) - Earthmix space _1{303} The voice chile _3{50} Kinnporsche _1{40} Koh-lanta _28{40} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
 aEff/aeff.md:- 13/04/22 - 143* koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
 aEff/aeff.md:- 13/06/22 - 167* Skam france _10{11} Dancing with myself _1{0} Mama gogo _1{0} Kinnporsche _1{42} The voice chile _3{52} The voice arg _4{8} The voice kids esp _7{4} Survivor _29{12} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} Sytycd _17{6} 
-aEff/aeff.md:- 13/06/22 (eff) - Earthmix space _1{305} Top chef _13{92} The voice chile _3{52} Kinnporsche _1{42} Koh-lanta _28{41} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
-aEff/aeff.md:- 14/04/22 - 110* top chef _13{15} koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
-aEff/aeff.md:- 15/04/22 - 118* top chef _13{15} koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
+aEff/aeff.md:- 13/06/22 (eff) - Earthmix space _1{305} The voice chile _3{52} Kinnporsche _1{42} Koh-lanta _28{41} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 14/04/22 - 110* koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
+aEff/aeff.md:- 15/04/22 - 118* koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
 aEff/aeff.md:- 16/05/22 - 479* Kinnporsche _1{4} The voice kids portugal _3{1} Skam france _10{1} 
 aEff/aeff.md:- 17/05/22 - 616* Kinnporsche _1{7} Triage _1{16} The voice kids portugal _3{2} 
 aEff/aeff.md:- 18/05/22 - 635* Koh-lanta _28{16} Kinnporsche _1{9} Triage _1{17} 
-aEff/aeff.md:- 19/05/22 - 436* Top chef _13{47} Koh-lanta _28{17} Kinnporsche _1{11} Triage _1{17} 
-aEff/aeff.md:- 20/05/22 - 346* The voice chile _3{0} The voice kids portugal _3{2} Top chef _13{49} Koh-lanta _28{18} Kinnporsche _1{13} Triage _1{17} 
-aEff/aeff.md:- 21/05/22 - 162* Rpdras _7{0} The voice chile _3{2} The voice kids portugal _3{3} Top chef _13{50} Koh-lanta _28{18} Kinnporsche _1{15} 
+aEff/aeff.md:- 19/05/22 - 436* Koh-lanta _28{17} Kinnporsche _1{11} Triage _1{17} 
+aEff/aeff.md:- 20/05/22 - 346* The voice chile _3{0} The voice kids portugal _3{2} Koh-lanta _28{18} Kinnporsche _1{13} Triage _1{17} 
+aEff/aeff.md:- 21/05/22 - 162* Rpdras _7{0} The voice chile _3{2} The voice kids portugal _3{3} Koh-lanta _28{18} Kinnporsche _1{15} 
 aEff/aeff.md:- 22/05/22 - 625* Kinnporsche _1{16} The voice chile _3{4} Sytycd _17{0} Two pints of lager _3{3} Earthmix space _1{258} Rpdras _7{0} 
-aEff/aeff.md:- 22/05/22 (eff) - Earthmix space _1{258} Top chef _13{52} F4 thailand _1{35} Cupids last wish _1{19} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} Kinnporsche _1{16} The circle us _4{16} 
+aEff/aeff.md:- 22/05/22 (eff) - Earthmix space _1{258} F4 thailand _1{35} Cupids last wish _1{19} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} Kinnporsche _1{16} The circle us _4{16} 
 aEff/aeff.md:- 23/05/22 - 688* Rpdrasu _7{0} Kinnporsche _1{18} The voice chile _3{6} Sytycd _17{0} Two pints of lager _3{3} Earthmix space _1{260} 
-aEff/aeff.md:- 23/05/22 (eff) - Earthmix space _1{260} Top chef _13{53} F4 thailand _1{35} Cupids last wish _1{19} Kinnporsche _1{18} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} 
+aEff/aeff.md:- 23/05/22 (eff) - Earthmix space _1{260} F4 thailand _1{35} Cupids last wish _1{19} Kinnporsche _1{18} Koh-lanta _28{18} Trivia quest _1{18} Triage _1{17} 
 aEff/aeff.md:- 24/05/22 - 701* Ohmnanon upvel _1{6} Two pints of lager _3{4} Triage _1{18} Rpdrasu _7{1} Kinnporsche _1{20} The voice chile _3{9} Sytycd _17{1} Earthmix space _1{263} 
-aEff/aeff.md:- 24/05/22 (eff) - Earthmix space _1{263} Top chef _13{55} F4 thailand _1{35} Kinnporsche _1{20} Koh-lanta _28{19} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} 
+aEff/aeff.md:- 24/05/22 (eff) - Earthmix space _1{263} F4 thailand _1{35} Kinnporsche _1{20} Koh-lanta _28{19} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} 
 aEff/aeff.md:- 25/04/22 - 479* Kinnporsche _1{2} Cutie pie _1{13} 
 aEff/aeff.md:- 25/05/22 - 171* Beat shazam _2{0} Koh-lanta _28{19} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{5} Triage _1{18} Rpdrasu _7{1} Kinnporsche _1{20} 
-aEff/aeff.md:- 25/05/22 (eff) - Earthmix space _1{265} Top chef _13{57} F4 thailand _1{35} Kinnporsche _1{20} Koh-lanta _28{19} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} 
+aEff/aeff.md:- 25/05/22 (eff) - Earthmix space _1{265} F4 thailand _1{35} Kinnporsche _1{20} Koh-lanta _28{19} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} 
 aEff/aeff.md:- 26/04/22 - 192* Kinnporsche _1{3} Cutie pie _1{14} 
-aEff/aeff.md:- 26/05/22 (eff) - Earthmix space _1{267} Top chef _13{59} F4 thailand _1{35} Koh-lanta _28{20} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:- 26/05/22 (eff) - Earthmix space _1{267} F4 thailand _1{35} Koh-lanta _28{20} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
 aEff/aeff.md:- 27/04/22 - 167* Koh-lanta _28{11} Ohmnanon upvel _1{3} Kinnporsche _1{3} Cutie pie _1{14} 
-aEff/aeff.md:- 27/05/22 (eff) - Earthmix space _1{269} Top chef _13{60} F4 thailand _1{35} Koh-lanta _28{21} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:- 28/05/22 (eff) - Earthmix space _1{271} Top chef _13{61} F4 thailand _1{35} Koh-lanta _28{22} Kinnporsche _1{20} Triage _1{19} Cupids last wish _1{19} Trivia quest _1{18} The voice chile _3{17} The circle us _4{16} 
-aEff/aeff.md:- 29/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{19} The voice kids esp _7{0} Survivor _29{2} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} Top chef _13{62} 
-aEff/aeff.md:- 29/05/22 (eff) - Earthmix space _1{273} Top chef _13{62} F4 thailand _1{35} Koh-lanta _28{23} Kinnporsche _1{20} Triage _1{20} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
-aEff/aeff.md:- 30/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{21} The voice kids esp _7{0} Survivor _29{3} Druck _8{4} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} Top chef _13{63} 
-aEff/aeff.md:- 30/05/22 (eff) - Earthmix space _1{275} Top chef _13{63} F4 thailand _1{35} Koh-lanta _28{24} The voice chile _3{21} Triage _1{21} Kinnporsche _1{20} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
+aEff/aeff.md:- 27/05/22 (eff) - Earthmix space _1{269} F4 thailand _1{35} Koh-lanta _28{21} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:- 28/05/22 (eff) - Earthmix space _1{271} F4 thailand _1{35} Koh-lanta _28{22} Kinnporsche _1{20} Triage _1{19} Cupids last wish _1{19} Trivia quest _1{18} The voice chile _3{17} The circle us _4{16} 
+aEff/aeff.md:- 29/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{19} The voice kids esp _7{0} Survivor _29{2} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
+aEff/aeff.md:- 29/05/22 (eff) - Earthmix space _1{273} F4 thailand _1{35} Koh-lanta _28{23} Kinnporsche _1{20} Triage _1{20} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
+aEff/aeff.md:- 30/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{21} The voice kids esp _7{0} Survivor _29{3} Druck _8{4} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
+aEff/aeff.md:- 30/05/22 (eff) - Earthmix space _1{275} F4 thailand _1{35} Koh-lanta _28{24} The voice chile _3{21} Triage _1{21} Kinnporsche _1{20} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
 aEff/aeff.md:- 31/05/22 - 116* Triage _1{24} Kinnporsche _1{22} Dont forget the lyrics _1{1} The voice chile _3{24} The voice kids esp _7{1} Survivor _29{5} Druck _8{6} Skam france _10{3} The voice kids portugal _3{5} Sytycd _17{3} 
-aEff/aeff.md:- 31/05/22 (eff) - Earthmix space _1{277} Top chef _13{65} F4 thailand _1{35} Koh-lanta _28{26} Triage _1{24} The voice chile _3{24} Kinnporsche _1{22} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
-apercu/apercu22.md:- mois 01-05-2022 -> Druck _8x2(1) Earthmix space _1x17(2) Top chef _13x12(4) Bullshit the game show _1x3(2) Koh-lanta _28x10(4) Ohmnanon upvel _1x4(2) Kinnporsche _1x4(3) Cutie pie _1x10(3) Call me mother _1x2(1) Trivia quest _1x7(6) Enchante _1x6(1) Quaranthings _2x2(1) 
-apercu/apercu22.md:- mois 01-06-2022 -> Koh-lanta _28x15(5) Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) Kinnporsche _1x9(5) The voice chile _3x20(19) The voice kids esp _7x2(1) Survivor _29x3(2) Druck _8x4(2) Skam france _10x3(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Top chef _13x16(4) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
-apercu/apercu22.md:- sem 04-04-2022 -> Kinnporsche _1x2(1) Cutie pie _1x8(1) Enchante _1x6(1) Quaranthings _2x2(1) Ohmnanon upvel _1x2(1) Earthmix space _1x15(1) Top chef _13x8(1) 
-apercu/apercu22.md:- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Kinnporsche _1x10(1) Earthmix space _1x19(1) Ohmnanon upvel _1x7(1) The voice kids esp _7x3(1) The voice chile _3x25(5) Skam france _10x5(2) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Top chef _13x17(1) Koh-lanta _28x15(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) Triage _1x8(1) 
-apercu/apercu22.md:- sem 11-04-2022 -> Kinnporsche _1x3(1) Trivia quest _1x7(6) Cutie pie _1x9(1) Earthmix space _1x16(1) Top chef _13x9(1) Koh-lanta _28x7(1) 
-apercu/apercu22.md:- sem 13-06-2022 -> Skam france _10x7(2) Dancing with myself _1x2(1) Mama gogo _1x2(1) Kinnporsche _1x11(1) The voice chile _3x30(5) The voice arg _4x6(5) The voice kids esp _7x4(1) Survivor _29x5(2) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Sytycd _17x5(1) Top chef _13x18(1) Dont forget the lyrics _1x4(1) Beat shazam _5x4(1) Koh-lanta _28x16(1) Triage _1x9(1) Ohmnanon upvel _1x8(1) 
-apercu/apercu22.md:- sem 16-05-2022 -> Kinnporsche _1x6(2) The voice kids portugal _3x2(1) Skam france _10x2(1) The circle us _4x6(1) Top chef _13x14(1) Koh-lanta _28x12(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
-apercu/apercu22.md:- sem 23-05-2022 -> Rpdrasu _7x2(1) Kinnporsche _1x8(2) The voice chile _3x12(11) Sytycd _17x2(1) Two pints of lager _3x5(2) Earthmix space _1x18(1) Rpdras _7x2(1) The voice kids portugal _3x3(1) Top chef _13x15(1) Koh-lanta _28x13(1) Triage _1x6(1) 
-apercu/apercu22.md:- sem 25-04-2022 -> Kinnporsche _1x4(1) Cutie pie _1x10(1) Top chef _13x11(1) Koh-lanta _28x9(1) 
-apercu/apercu22.md:- sem 30-05-2022 -> Kinnporsche _1x9(1) Dont forget the lyrics _1x2(1) The voice chile _3x20(8) The voice kids esp _7x2(1) Survivor _29x3(2) Druck _8x4(2) Skam france _10x3(1) The voice kids portugal _3x4(1) Sytycd _17x3(1) Top chef _13x16(1) Beat shazam _2x5(4) Beat shazam _5x2(1) Koh-lanta _28x14(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) Triage _1x7(1) 
-apercu/apercu22.md:* conclu 05/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Top chef _13 > 2; Kinnporsche _1 > 1; Skam france _10 > 1; 
-apercu/apercu22.md:* conclu 06/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Top chef _13 > 2; Kinnporsche _1 > 1; The voice kids portugal _3 > 1; 
-apercu/apercu22.md:* conclu 07/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Top chef _13 > 2; Kinnporsche _1 > 1; Ohmnanon upvel _1 > 1; 
-apercu/apercu22.md:* conclu 08/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Top chef _13 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
-apercu/apercu22.md:* conclu 09/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Top chef _13 > 2; The voice arg _4 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
-apercu/apercu22.md:* conclu 10/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Top chef _13 > 2; The voice arg _4 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
-apercu/apercu22.md:* conclu 11/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Top chef _13 > 2; The voice arg _4 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
-apercu/apercu22.md:* conclu 12/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Top chef _13 > 2; Kinnporsche _1 > 2; The voice arg _4 > 2; Le flambeau _1 > 1; 
-apercu/apercu22.md:* conclu 13/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Top chef _13 > 2; Kinnporsche _1 > 2; The voice arg _4 > 2; Le flambeau _1 > 1; 
+aEff/aeff.md:- 31/05/22 (eff) - Earthmix space _1{277} F4 thailand _1{35} Koh-lanta _28{26} Triage _1{24} The voice chile _3{24} Kinnporsche _1{22} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
+apercu/apercu22.md:- mois 01-05-2022 -> Druck _8x2(1) Earthmix space _1x17(2) Bullshit the game show _1x3(2) Koh-lanta _28x10(4) Ohmnanon upvel _1x4(2) Kinnporsche _1x4(3) Cutie pie _1x10(3) Call me mother _1x2(1) Trivia quest _1x7(6) Enchante _1x6(1) Quaranthings _2x2(1) 
+apercu/apercu22.md:- mois 01-06-2022 -> Koh-lanta _28x15(5) Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) Kinnporsche _1x9(5) The voice chile _3x20(19) The voice kids esp _7x2(1) Survivor _29x3(2) Druck _8x4(2) Skam france _10x3(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+apercu/apercu22.md:- sem 04-04-2022 -> Kinnporsche _1x2(1) Cutie pie _1x8(1) Enchante _1x6(1) Quaranthings _2x2(1) Ohmnanon upvel _1x2(1) Earthmix space _1x15(1) 
+apercu/apercu22.md:- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Kinnporsche _1x10(1) Earthmix space _1x19(1) Ohmnanon upvel _1x7(1) The voice kids esp _7x3(1) The voice chile _3x25(5) Skam france _10x5(2) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Koh-lanta _28x15(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) Triage _1x8(1) 
+apercu/apercu22.md:- sem 11-04-2022 -> Kinnporsche _1x3(1) Trivia quest _1x7(6) Cutie pie _1x9(1) Earthmix space _1x16(1) Koh-lanta _28x7(1) 
+apercu/apercu22.md:- sem 13-06-2022 -> Skam france _10x7(2) Dancing with myself _1x2(1) Mama gogo _1x2(1) Kinnporsche _1x11(1) The voice chile _3x30(5) The voice arg _4x6(5) The voice kids esp _7x4(1) Survivor _29x5(2) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Sytycd _17x5(1) Dont forget the lyrics _1x4(1) Beat shazam _5x4(1) Koh-lanta _28x16(1) Triage _1x9(1) Ohmnanon upvel _1x8(1) 
+apercu/apercu22.md:- sem 16-05-2022 -> Kinnporsche _1x6(2) The voice kids portugal _3x2(1) Skam france _10x2(1) The circle us _4x6(1) Koh-lanta _28x12(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
+apercu/apercu22.md:- sem 23-05-2022 -> Rpdrasu _7x2(1) Kinnporsche _1x8(2) The voice chile _3x12(11) Sytycd _17x2(1) Two pints of lager _3x5(2) Earthmix space _1x18(1) Rpdras _7x2(1) The voice kids portugal _3x3(1) Koh-lanta _28x13(1) Triage _1x6(1) 
+apercu/apercu22.md:- sem 25-04-2022 -> Kinnporsche _1x4(1) Cutie pie _1x10(1) Koh-lanta _28x9(1) 
+apercu/apercu22.md:- sem 30-05-2022 -> Kinnporsche _1x9(1) Dont forget the lyrics _1x2(1) The voice chile _3x20(8) The voice kids esp _7x2(1) Survivor _29x3(2) Druck _8x4(2) Skam france _10x3(1) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) Koh-lanta _28x14(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) Triage _1x7(1) 
+apercu/apercu22.md:* conclu 05/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 1; Skam france _10 > 1; 
+apercu/apercu22.md:* conclu 06/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 1; The voice kids portugal _3 > 1; 
+apercu/apercu22.md:* conclu 07/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 1; Ohmnanon upvel _1 > 1; 
+apercu/apercu22.md:* conclu 08/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
+apercu/apercu22.md:* conclu 09/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
+apercu/apercu22.md:* conclu 10/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
+apercu/apercu22.md:* conclu 11/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
+apercu/apercu22.md:* conclu 12/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 2; The voice arg _4 > 2; Le flambeau _1 > 1; 
+apercu/apercu22.md:* conclu 13/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 2; The voice arg _4 > 2; Le flambeau _1 > 1; 
 apercu/apercu22.md:* conclu 16/05/22 = Kinnporsche _1 > 3; Earthmix space _1 > 1; 
 apercu/apercu22.md:* conclu 17/05/22 = Kinnporsche _1 > 3; Earthmix space _1 > 1; 
 apercu/apercu22.md:* conclu 18/05/22 = Kinnporsche _1 > 2; Earthmix space _1 > 1; 
-apercu/apercu22.md:* conclu 19/05/22 = Kinnporsche _1 > 2; Top chef _13 > 1; Earthmix space _1 > 1; 
+apercu/apercu22.md:* conclu 19/05/22 = Kinnporsche _1 > 2; Earthmix space _1 > 1; 
 apercu/apercu22.md:* conclu 20/05/22 = The voice chile _3 > 3; Earthmix space _1 > 2; Kinnporsche _1 > 1; 
 apercu/apercu22.md:* conclu 22/05/22 = The voice chile _3 > 6; Earthmix space _1 > 2; Kinnporsche _1 > 1; 
-apercu/apercu22.md:concluBis 04/06/22 = The voice chile _3 > 20; Top chef _13 > 9; Earthmix space _1 > 8; Koh-lanta _28 > 4; Agt _17 > 3; Sky in your heart _1 > 2; Kinnporsche _1 > 1; Skam france _10 > 1; 
-apercu/apercu22.md:concluBis 05/06/22 = The voice chile _3 > 20; Earthmix space _1 > 9; Top chef _13 > 6; Kinnporsche _1 > 5; Koh-lanta _28 > 4; Skam france _10 > 4; 
-apercu/apercu22.md:concluBis 06/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Top chef _13 > 6; The voice kids portugal _3 > 5; Koh-lanta _28 > 4; Kinnporsche _1 > 3; Skam france _10 > 3; Want to see you _1 > 1; 
-apercu/apercu22.md:concluBis 07/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Top chef _13 > 6; Koh-lanta _28 > 4; Kinnporsche _1 > 3; The voice kids portugal _3 > 3; Ohmnanon upvel _1 > 3; Triage _1 > 2; Skam france _10 > 1; 
-apercu/apercu22.md:concluBis 08/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Top chef _13 > 6; Koh-lanta _28 > 6; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; Triage _1 > 1; The voice kids portugal _3 > 1; 
-apercu/apercu22.md:concluBis 09/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Top chef _13 > 8; Koh-lanta _28 > 5; The voice arg _4 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; 
-apercu/apercu22.md:concluBis 10/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Top chef _13 > 8; Koh-lanta _28 > 5; The voice arg _4 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; Survivor _29 > 2; /9-1-1 _5 > 1; 
-apercu/apercu22.md:concluBis 11/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Top chef _13 > 7; The voice arg _4 > 6; Koh-lanta _28 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; The voice kids esp _7 > 2; Survivor _29 > 1; 
-apercu/apercu22.md:concluBis 12/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Top chef _13 > 6; Kinnporsche _1 > 6; The voice arg _4 > 6; Koh-lanta _28 > 4; Le flambeau _1 > 3; Survivor _29 > 2; The voice kids portugal _3 > 1; /9-1-1 _5 > 1; 
-apercu/apercu22.md:concluBis 13/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Top chef _13 > 6; Kinnporsche _1 > 6; The voice arg _4 > 5; Koh-lanta _28 > 4; Skam france _10 > 4; Le flambeau _1 > 3; Survivor _29 > 1; 
-apercu/apercu22.md:concluBis 16/05/22 = Kinnporsche _1 > 5; Top chef _13 > 3; Earthmix space _1 > 3; 
-apercu/apercu22.md:concluBis 17/05/22 = Kinnporsche _1 > 5; Top chef _13 > 3; Triage _1 > 3; Earthmix space _1 > 3; 
-apercu/apercu22.md:concluBis 18/05/22 = Kinnporsche _1 > 4; Top chef _13 > 3; Earthmix space _1 > 3; Koh-lanta _28 > 2; 
-apercu/apercu22.md:concluBis 19/05/22 = Top chef _13 > 7; Kinnporsche _1 > 4; Earthmix space _1 > 3; Koh-lanta _28 > 1; 
-apercu/apercu22.md:concluBis 20/05/22 = The voice chile _3 > 7; Earthmix space _1 > 6; Top chef _13 > 4; Kinnporsche _1 > 3; The voice kids portugal _3 > 2; 
-apercu/apercu22.md:concluBis 21/05/22 = The voice chile _3 > 6; Top chef _13 > 5; Earthmix space _1 > 3; Kinnporsche _1 > 2; 
-apercu/apercu22.md:concluBis 22/05/22 = The voice chile _3 > 10; Earthmix space _1 > 6; Top chef _13 > 4; Kinnporsche _1 > 3; 
-apercu/apercu22.md:concluBis 23/05/22 = The voice chile _3 > 10; Earthmix space _1 > 6; Top chef _13 > 4; Kinnporsche _1 > 2; 
-apercu/apercu22.md:concluBis 30/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Top chef _13 > 4; Beat shazam _2 > 4; Triage _1 > 3; Koh-lanta _28 > 2; Survivor _29 > 2; Kinnporsche _1 > 1; Druck _8 > 1; 
-apercu/apercu22.md:concluBis 31/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Top chef _13 > 4; Beat shazam _2 > 4; Triage _1 > 3; Koh-lanta _28 > 2; Survivor _29 > 2; Kinnporsche _1 > 1; Druck _8 > 1; 
+apercu/apercu22.md:concluBis 04/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Koh-lanta _28 > 4; Agt _17 > 3; Sky in your heart _1 > 2; Kinnporsche _1 > 1; Skam france _10 > 1; 
+apercu/apercu22.md:concluBis 05/06/22 = The voice chile _3 > 20; Earthmix space _1 > 9; Kinnporsche _1 > 5; Koh-lanta _28 > 4; Skam france _10 > 4; 
+apercu/apercu22.md:concluBis 06/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice kids portugal _3 > 5; Koh-lanta _28 > 4; Kinnporsche _1 > 3; Skam france _10 > 3; Want to see you _1 > 1; 
+apercu/apercu22.md:concluBis 07/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Koh-lanta _28 > 4; Kinnporsche _1 > 3; The voice kids portugal _3 > 3; Ohmnanon upvel _1 > 3; Triage _1 > 2; Skam france _10 > 1; 
+apercu/apercu22.md:concluBis 08/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Koh-lanta _28 > 6; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; Triage _1 > 1; The voice kids portugal _3 > 1; 
+apercu/apercu22.md:concluBis 09/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Koh-lanta _28 > 5; The voice arg _4 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; 
+apercu/apercu22.md:concluBis 10/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Koh-lanta _28 > 5; The voice arg _4 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; Survivor _29 > 2; /9-1-1 _5 > 1; 
+apercu/apercu22.md:concluBis 11/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 6; Koh-lanta _28 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; The voice kids esp _7 > 2; Survivor _29 > 1; 
+apercu/apercu22.md:concluBis 12/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Kinnporsche _1 > 6; The voice arg _4 > 6; Koh-lanta _28 > 4; Le flambeau _1 > 3; Survivor _29 > 2; The voice kids portugal _3 > 1; /9-1-1 _5 > 1; 
+apercu/apercu22.md:concluBis 13/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Kinnporsche _1 > 6; The voice arg _4 > 5; Koh-lanta _28 > 4; Skam france _10 > 4; Le flambeau _1 > 3; Survivor _29 > 1; 
+apercu/apercu22.md:concluBis 16/05/22 = Kinnporsche _1 > 5; Earthmix space _1 > 3; 
+apercu/apercu22.md:concluBis 17/05/22 = Kinnporsche _1 > 5; Triage _1 > 3; Earthmix space _1 > 3; 
+apercu/apercu22.md:concluBis 18/05/22 = Kinnporsche _1 > 4; Earthmix space _1 > 3; Koh-lanta _28 > 2; 
+apercu/apercu22.md:concluBis 19/05/22 = Kinnporsche _1 > 4; Earthmix space _1 > 3; Koh-lanta _28 > 1; 
+apercu/apercu22.md:concluBis 20/05/22 = The voice chile _3 > 7; Earthmix space _1 > 6; Kinnporsche _1 > 3; The voice kids portugal _3 > 2; 
+apercu/apercu22.md:concluBis 21/05/22 = The voice chile _3 > 6; Earthmix space _1 > 3; Kinnporsche _1 > 2; 
+apercu/apercu22.md:concluBis 22/05/22 = The voice chile _3 > 10; Earthmix space _1 > 6; Kinnporsche _1 > 3; 
+apercu/apercu22.md:concluBis 23/05/22 = The voice chile _3 > 10; Earthmix space _1 > 6; Kinnporsche _1 > 2; 
+apercu/apercu22.md:concluBis 30/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Beat shazam _2 > 4; Triage _1 > 3; Koh-lanta _28 > 2; Survivor _29 > 2; Kinnporsche _1 > 1; Druck _8 > 1; 
+apercu/apercu22.md:concluBis 31/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Beat shazam _2 > 4; Triage _1 > 3; Koh-lanta _28 > 2; Survivor _29 > 2; Kinnporsche _1 > 1; Druck _8 > 1; 
 apercuTer/apercuTer.md:* Kinnporsche _1
