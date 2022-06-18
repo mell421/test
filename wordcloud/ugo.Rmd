@@ -13,7 +13,7 @@ library(textstem)
 
 delayW <- 5
 myRemoveListU <- c("les", "la")
-myToSpaceListU <- c("@","\\|","'<'","\\'","/")
+myToSpaceListU <- c("@","\\|","'<'","\\'","/","\'")
 toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
 removeAccentE <- content_transformer(function (x , pattern ) gsub(pattern, "e", x))
 removeAccentA <- content_transformer(function (x , pattern ) gsub(pattern, "a", x))
@@ -31,7 +31,7 @@ wcLemme <- function(text){
   TextDoc <- tm_map(TextDoc, removeNumbers)
   TextDoc <- tm_map(TextDoc, removeWords, stopwords("french"))
   TextDoc <- tm_map(TextDoc, lemmatize_strings)
-  #TextDoc <- tm_map(TextDoc, stemDocument)
+  TextDoc <- tm_map(TextDoc, lemmatisation(TextDoc))
 
 
   # Build a term-document matrix
@@ -41,12 +41,21 @@ wcLemme <- function(text){
   dtm_v <- sort(rowSums(dtm_m),decreasing=TRUE)
   dtm_d <- data.frame(word = names(dtm_v),freq=dtm_v)
 
-  Zipf_plot(TextDoc_dtm)
-  print("Zipf")
-
-
-
   return(dtm_d)
+}
+
+require(koRpus)
+
+lemmatisation <- function(my.df){
+  ##my.df est un objet Corpus issu de du chargement du corpus avec tm
+  print(my.df)
+  dictionnaire <- data.frame()
+  for(i in 1 : length(my.df)){
+    lemma <- treetag(corp[[i]][[1]], treetagger = "manual", format = "obj", TT.tknz = FALSE, 
+                     lang = "fr", TT.options = list(path = "treetagger", preset = "fr-utf8"))
+    dictionnaire <- rbind(dictionnaire, lemma@TT.res )
+  }
+  return(unique(dictionnaire))
 }
 ```
 
