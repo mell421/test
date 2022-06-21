@@ -3,39 +3,39 @@ aEff/aeff.md:- 02/04/22 - 363* enchante _1{6} quaranthings _2{0} ohmnanon upvel 
 aEff/aeff.md:- 05/06/22 - 426* Kinnporsche _1{25} Earthmix space _1{288} Ohmnanon upvel _1{8} The voice kids esp _7{2} The voice chile _3{35} Skam france _10{6} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} The voice kids portugal _3{8} 
 aEff/aeff.md:- 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Kinnporsche _1{27} Earthmix space _1{290} Ohmnanon upvel _1{8} The voice kids esp _7{2} The voice chile _3{37} Skam france _10{8} Agt _17{2} Sky in your heart _1{1} 
 aEff/aeff.md:- 07/06/22 - 483* Triage _1{30} Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} Kinnporsche _1{30} Earthmix space _1{293} The voice kids esp _7{3} The voice chile _3{40} Skam france _10{10} Agt _17{3} 
-aEff/aeff.md:- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{36} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Triage _1{31} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} Kinnporsche _1{32} Earthmix space _1{295} 
-aEff/aeff.md:- 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Koh-lanta _28{37} Le flambeau _1{2} Triage _1{32} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} Kinnporsche _1{34} 
+aEff/aeff.md:- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Triage _1{31} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} Kinnporsche _1{32} Earthmix space _1{295} 
+aEff/aeff.md:- 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Triage _1{32} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} Kinnporsche _1{34} 
 aEff/aeff.md:- 10/05/22 - 553* Ohmnanon upvel _1{5} Triage _1{14} 
-aEff/aeff.md:- 10/06/22 (eff) - Earthmix space _1{299} The voice chile _3{46} Koh-lanta _28{38} Kinnporsche _1{36} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-aEff/aeff.md:- 11/05/22 - 572* Koh-lanta _28{14} Ohmnanon upvel _1{5} Triage _1{15} 
-aEff/aeff.md:- 11/06/22 (eff) - Earthmix space _1{301} The voice chile _3{48} Koh-lanta _28{39} Kinnporsche _1{38} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+aEff/aeff.md:- 10/06/22 (eff) - Earthmix space _1{299} The voice chile _3{46} Kinnporsche _1{36} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+aEff/aeff.md:- 11/05/22 - 572* Ohmnanon upvel _1{5} Triage _1{15} 
+aEff/aeff.md:- 11/06/22 (eff) - Earthmix space _1{301} The voice chile _3{48} Kinnporsche _1{38} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
 aEff/aeff.md:- 12/04/22 - 134* ohmnanon upvel _1{2} kinnporsche _1{1} trivia quest _1{5} 
-aEff/aeff.md:- 12/05/22 - 300* The circle us _4{15} Koh-lanta _28{15} Ohmnanon upvel _1{5} Triage _1{15} 
-aEff/aeff.md:- 12/06/22 (eff) - Earthmix space _1{303} The voice chile _3{50} Kinnporsche _1{40} Koh-lanta _28{40} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-aEff/aeff.md:- 13/04/22 - 143* koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
-aEff/aeff.md:- 13/05/22 - 317* The circle us _4{15} Koh-lanta _28{15} Ohmnanon upvel _1{5} Triage _1{15} 
-aEff/aeff.md:- 13/06/22 (eff) - Earthmix space _1{305} The voice chile _3{52} Kinnporsche _1{42} Koh-lanta _28{41} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
-aEff/aeff.md:- 14/04/22 - 110* koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
-aEff/aeff.md:- 14/05/22 - 294* Skam france _10{0} The circle us _4{15} Koh-lanta _28{15} Ohmnanon upvel _1{5} Triage _1{15} 
-aEff/aeff.md:- 15/04/22 - 118* koh-lanta _28{9} ohmnanon upvel _1{2} kinnporsche _1{2} 
+aEff/aeff.md:- 12/05/22 - 300* The circle us _4{15} Ohmnanon upvel _1{5} Triage _1{15} 
+aEff/aeff.md:- 12/06/22 (eff) - Earthmix space _1{303} The voice chile _3{50} Kinnporsche _1{40} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+aEff/aeff.md:- 13/04/22 - 143* ohmnanon upvel _1{2} kinnporsche _1{2} 
+aEff/aeff.md:- 13/05/22 - 317* The circle us _4{15} Ohmnanon upvel _1{5} Triage _1{15} 
+aEff/aeff.md:- 13/06/22 (eff) - Earthmix space _1{305} The voice chile _3{52} Kinnporsche _1{42} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 14/04/22 - 110* ohmnanon upvel _1{2} kinnporsche _1{2} 
+aEff/aeff.md:- 14/05/22 - 294* Skam france _10{0} The circle us _4{15} Ohmnanon upvel _1{5} Triage _1{15} 
+aEff/aeff.md:- 15/04/22 - 118* ohmnanon upvel _1{2} kinnporsche _1{2} 
 aEff/aeff.md:- 24/05/22 - 701* Ohmnanon upvel _1{6} Two pints of lager _3{4} Triage _1{18} Rpdrasu _7{1} Kinnporsche _1{20} The voice chile _3{9} Sytycd _17{1} Earthmix space _1{263} 
-aEff/aeff.md:- 25/05/22 - 171* Beat shazam _2{0} Koh-lanta _28{19} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{5} Triage _1{18} Rpdrasu _7{1} Kinnporsche _1{20} 
-aEff/aeff.md:- 26/05/22 - 148* Sytycd _17{1} The voice chile _3{13} Beat shazam _2{0} Beat shazam _5{0} Koh-lanta _28{20} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{6} Triage _1{18} 
-aEff/aeff.md:- 27/04/22 - 167* Koh-lanta _28{11} Ohmnanon upvel _1{3} Kinnporsche _1{3} Cutie pie _1{14} 
-aEff/aeff.md:- 28/04/22 - 182* Bullshit the game show _1{0} Koh-lanta _28{11} Ohmnanon upvel _1{3} 
-aEff/aeff.md:- 29/04/22 - 187* Bullshit the game show _1{1} Koh-lanta _28{11} Ohmnanon upvel _1{3} 
-apercu/apercu22.md:- mois 01-04-2022 -> Ohmnanon upvel _1x2(1) Earthmix space _1x15(2) Cutie pie _1x7(4) Koh-lanta _28x6(4) Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
-apercu/apercu22.md:- mois 01-05-2022 -> Druck _8x2(1) Earthmix space _1x17(2) Bullshit the game show _1x3(2) Koh-lanta _28x10(4) Ohmnanon upvel _1x4(2) Kinnporsche _1x4(3) Cutie pie _1x10(3) Call me mother _1x2(1) Trivia quest _1x7(6) Enchante _1x6(1) Quaranthings _2x2(1) 
-apercu/apercu22.md:- mois 01-06-2022 -> Koh-lanta _28x15(5) Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) Kinnporsche _1x9(5) The voice chile _3x20(19) The voice kids esp _7x2(1) Survivor _29x3(2) Druck _8x4(2) Skam france _10x3(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
-apercu/apercu22.md:- sem 02-05-2022 -> Triage _1x3(2) Druck _8x2(1) Earthmix space _1x17(1) Bullshit the game show _1x3(2) Koh-lanta _28x10(1) Ohmnanon upvel _1x4(1) 
+aEff/aeff.md:- 25/05/22 - 171* Beat shazam _2{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{5} Triage _1{18} Rpdrasu _7{1} Kinnporsche _1{20} 
+aEff/aeff.md:- 26/05/22 - 148* Sytycd _17{1} The voice chile _3{13} Beat shazam _2{0} Beat shazam _5{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{6} Triage _1{18} 
+aEff/aeff.md:- 27/04/22 - 167* Ohmnanon upvel _1{3} Kinnporsche _1{3} Cutie pie _1{14} 
+aEff/aeff.md:- 28/04/22 - 182* Bullshit the game show _1{0} Ohmnanon upvel _1{3} 
+aEff/aeff.md:- 29/04/22 - 187* Bullshit the game show _1{1} Ohmnanon upvel _1{3} 
+apercu/apercu22.md:- mois 01-04-2022 -> Ohmnanon upvel _1x2(1) Earthmix space _1x15(2) Cutie pie _1x7(4) Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
+apercu/apercu22.md:- mois 01-05-2022 -> Druck _8x2(1) Earthmix space _1x17(2) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(2) Kinnporsche _1x4(3) Cutie pie _1x10(3) Call me mother _1x2(1) Trivia quest _1x7(6) Enchante _1x6(1) Quaranthings _2x2(1) 
+apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) Kinnporsche _1x9(5) The voice chile _3x20(19) The voice kids esp _7x2(1) Survivor _29x3(2) Druck _8x4(2) Skam france _10x3(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+apercu/apercu22.md:- sem 02-05-2022 -> Triage _1x3(2) Druck _8x2(1) Earthmix space _1x17(1) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(1) 
 apercu/apercu22.md:- sem 04-04-2022 -> Kinnporsche _1x2(1) Cutie pie _1x8(1) Enchante _1x6(1) Quaranthings _2x2(1) Ohmnanon upvel _1x2(1) Earthmix space _1x15(1) 
-apercu/apercu22.md:- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Kinnporsche _1x10(1) Earthmix space _1x19(1) Ohmnanon upvel _1x7(1) The voice kids esp _7x3(1) The voice chile _3x25(5) Skam france _10x5(2) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Koh-lanta _28x15(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) Triage _1x8(1) 
-apercu/apercu22.md:- sem 13-06-2022 -> Skam france _10x7(2) Dancing with myself _1x2(1) Mama gogo _1x2(1) Kinnporsche _1x11(1) The voice chile _3x30(5) The voice arg _4x6(5) The voice kids esp _7x4(1) Survivor _29x5(2) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Sytycd _17x5(1) Dont forget the lyrics _1x4(1) Beat shazam _5x4(1) Koh-lanta _28x16(1) Triage _1x9(1) Ohmnanon upvel _1x8(1) 
-apercu/apercu22.md:- sem 16-05-2022 -> Kinnporsche _1x6(2) The voice kids portugal _3x2(1) Skam france _10x2(1) The circle us _4x6(1) Koh-lanta _28x12(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
-apercu/apercu22.md:- sem 18-04-2022 -> Call me mother _1x2(1) Koh-lanta _28x8(1) Ohmnanon upvel _1x3(1) 
-apercu/apercu22.md:- sem 30-05-2022 -> Kinnporsche _1x9(1) Dont forget the lyrics _1x2(1) The voice chile _3x20(8) The voice kids esp _7x2(1) Survivor _29x3(2) Druck _8x4(2) Skam france _10x3(1) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) Koh-lanta _28x14(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) Triage _1x7(1) 
+apercu/apercu22.md:- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Kinnporsche _1x10(1) Earthmix space _1x19(1) Ohmnanon upvel _1x7(1) The voice kids esp _7x3(1) The voice chile _3x25(5) Skam france _10x5(2) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) Triage _1x8(1) 
+apercu/apercu22.md:- sem 13-06-2022 -> Skam france _10x7(2) Dancing with myself _1x2(1) Mama gogo _1x2(1) Kinnporsche _1x11(1) The voice chile _3x30(5) The voice arg _4x6(5) The voice kids esp _7x4(1) Survivor _29x5(2) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Sytycd _17x5(1) Dont forget the lyrics _1x4(1) Beat shazam _5x4(1) Triage _1x9(1) Ohmnanon upvel _1x8(1) 
+apercu/apercu22.md:- sem 16-05-2022 -> Kinnporsche _1x6(2) The voice kids portugal _3x2(1) Skam france _10x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
+apercu/apercu22.md:- sem 18-04-2022 -> Call me mother _1x2(1) Ohmnanon upvel _1x3(1) 
+apercu/apercu22.md:- sem 30-05-2022 -> Kinnporsche _1x9(1) Dont forget the lyrics _1x2(1) The voice chile _3x20(8) The voice kids esp _7x2(1) Survivor _29x3(2) Druck _8x4(2) Skam france _10x3(1) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) Triage _1x7(1) 
 apercu/apercu22.md:* conclu 07/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 1; Ohmnanon upvel _1 > 1; 
-apercu/apercu22.md:concluBis 07/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Koh-lanta _28 > 4; Kinnporsche _1 > 3; The voice kids portugal _3 > 3; Ohmnanon upvel _1 > 3; Triage _1 > 2; Skam france _10 > 1; 
-apercu/apercu22.md:concluBis 08/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Koh-lanta _28 > 6; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; Triage _1 > 1; The voice kids portugal _3 > 1; 
-apercu/apercu22.md:concluBis 09/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Koh-lanta _28 > 5; The voice arg _4 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; 
+apercu/apercu22.md:concluBis 07/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Kinnporsche _1 > 3; The voice kids portugal _3 > 3; Ohmnanon upvel _1 > 3; Triage _1 > 2; Skam france _10 > 1; 
+apercu/apercu22.md:concluBis 08/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; Triage _1 > 1; The voice kids portugal _3 > 1; 
+apercu/apercu22.md:concluBis 09/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; 
 apercuTer/apercuTer.md:* Ohmnanon upvel _1

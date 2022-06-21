@@ -41,7 +41,6 @@ _
 The voice chile 3x7
 * The voice chile 3x1
 The voice kids portugal 3x2
-Koh-lanta 28x12
 Kinnporsche 1x6
 Triage 1x5
 * The voice kids portugal 3x1
@@ -70,7 +69,6 @@ Drag i love you 1x2
 * Drag i love you 1x1
 * Cherry blossoms after winter 1x1
 * Cupids last wish 1x1
-* Koh-lanta 28x1
 The voice ukr 12x5
 * Cutie pie 1x1
 Something in my room 1x4

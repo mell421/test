@@ -10,7 +10,7 @@ output:
 suppressWarnings(source("./R/sources.R"))
 library("tm")
 library(textstem)
-
+require(koRpus)
 delayW <- 5
 myRemoveListU <- c("les", "la")
 myToSpaceListU <- c("@","\\|","'<'","\\'","/","\'")
@@ -31,7 +31,7 @@ wcLemme <- function(text){
   TextDoc <- tm_map(TextDoc, removeNumbers)
   TextDoc <- tm_map(TextDoc, removeWords, stopwords("french"))
   TextDoc <- tm_map(TextDoc, lemmatize_strings)
-  TextDoc <- tm_map(TextDoc, lemmatisation(TextDoc))
+  TextDoc <- tm_map(TextDoc, lemmatisation)
 
 
   # Build a term-document matrix
@@ -44,14 +44,14 @@ wcLemme <- function(text){
   return(dtm_d)
 }
 
-require(koRpus)
 
-lemmatisation <- function(my.df){
+
+lemmatisation <- function(TextDoc){
   ##my.df est un objet Corpus issu de du chargement du corpus avec tm
-  print(my.df)
+  #print(TextDoc)
   dictionnaire <- data.frame()
-  for(i in 1 : length(my.df)){
-    lemma <- treetag(corp[[i]][[1]], treetagger = "manual", format = "obj", TT.tknz = FALSE, 
+  for(i in 1 : length(TextDoc)){
+    lemma <- treetag(TextDoc[[i]][[1]], treetagger = "manual", format = "obj", TT.tknz = FALSE, 
                      lang = "fr", TT.options = list(path = "treetagger", preset = "fr-utf8"))
     dictionnaire <- rbind(dictionnaire, lemma@TT.res )
   }

@@ -24,7 +24,6 @@ ligne :  107 ZZ/Thevoiceph_1.txt
 mot   :  2561 ZZ/Thevoiceph_1.txt
 carac :  15964 ZZ/Thevoiceph_1.txt
 
-i = Koh-lanta _28
 ligne :  121 ZZ/Koh-lanta_28.txt
 mot   :  3140 ZZ/Koh-lanta_28.txt
 carac :  20493 ZZ/Koh-lanta_28.txt

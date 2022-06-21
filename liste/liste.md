@@ -598,6 +598,7 @@
 |love victor 3||8|||<!-- 15/6 -->
 |top chef 13||18|||<!-- 16/2 - 16/6-->
 |The challenge 1||5|||<!-- 18/6 -->
+|koh-lanta 28||17|||<!-- 22/2 - 21/06 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -775,7 +776,6 @@
 |love stage 2022 1|||||0|<!-- 3/2/22 -->
 |All of us are dead 1|||||0|<!-- 12/2 -->
 |cutie pie 1|||||0|<!-- 19/2 -->
-|koh-lanta 28|||||0|<!-- 22/2 -->
 |cupids last wish 1||10|serie|thailande|0|<!-- 23/2 -->
 |cherry blossoms after winter 1|||||1|<!-- 24/2 -->
 |drag I love you 1|||||1|<!-- 2/3 -->
