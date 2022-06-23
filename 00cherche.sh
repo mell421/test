@@ -17,7 +17,7 @@ list99=(
 # 29-20
 "The voice kids portugal _3" "Beat shazam _2" "/9-1-1 lone star _3" "Skam france _10" "/9-1-1 _5" "Meet my angel _2" "Something in my room _1" "Two pints of lager _3" "The player _1" "7project _1" "Enchante _1" 
 # 19-15
-"Druck _8" "Sytycd _17" "Love stage 2022 _1" "Dont forget the lyrics _1" "Survivor _29" "Unlocked _1" "The shipper _1" 
+"Druck _8" "Sytycd _17" "Love stage 2022 _1" "Dont forget the lyrics _1" "Unlocked _1" "The shipper _1" 
 # 14-10
 "The voice kids esp _7" "All of us are dead _1" "Beat shazam _5" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
@@ -45,7 +45,7 @@ listAsc=(
 "Kinnporsche _1" "Earthmix space _1" "The voice kids esp _7" 
 "Skam france _10" "Agt _17" "Sky in your heart _1" "Sytycd _17" 
 # 2
-"Survivor _29" "Druck _8" "Beat shazam _2" "/9-1-1 _5" 
+"Druck _8" "Beat shazam _2" "/9-1-1 _5" 
 "Two pints of lager _3" "Rpdrasu _7" "Rpdras _7" "The circle us _4" "Close friend _2" 
 
 # 3

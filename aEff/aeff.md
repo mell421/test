@@ -912,12 +912,12 @@
 - 24/05/22 - 701* Ohmnanon upvel _1{6} Two pints of lager _3{4} Triage _1{18} Rpdrasu _7{1} Kinnporsche _1{20} The voice chile _3{9} Sytycd _17{1} Earthmix space _1{263} 
 - 25/05/22 - 171* Beat shazam _2{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{5} Triage _1{18} Rpdrasu _7{1} Kinnporsche _1{20} 
 - 26/05/22 - 148* Sytycd _17{1} The voice chile _3{13} Beat shazam _2{0} Beat shazam _5{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{6} Triage _1{18} 
-- 27/05/22 - 134* Survivor _29{0} Druck _8{2} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} The voice chile _3{15} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
-- 28/05/22 - 128* Dont forget the lyrics _1{0} The voice chile _3{17} The voice kids esp _7{0} Survivor _29{1} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
-- 29/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{19} The voice kids esp _7{0} Survivor _29{2} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
-- 30/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{21} The voice kids esp _7{0} Survivor _29{3} Druck _8{4} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
-- 31/05/22 - 116* Triage _1{24} Kinnporsche _1{22} Dont forget the lyrics _1{1} The voice chile _3{24} The voice kids esp _7{1} Survivor _29{5} Druck _8{6} Skam france _10{3} The voice kids portugal _3{5} Sytycd _17{3} 
-- 01/06/22 - 171* Beat shazam _5{1} Dont forget the lyrics _1{1} Triage _1{26} Kinnporsche _1{23} The voice chile _3{26} The voice kids esp _7{1} Survivor _29{6} Druck _8{7} 
+- 27/05/22 - 134* Druck _8{2} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} The voice chile _3{15} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
+- 28/05/22 - 128* Dont forget the lyrics _1{0} The voice chile _3{17} The voice kids esp _7{0} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
+- 29/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{19} The voice kids esp _7{0} Druck _8{3} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
+- 30/05/22 - 136* Kinnporsche _1{20} Dont forget the lyrics _1{0} The voice chile _3{21} The voice kids esp _7{0} Druck _8{4} Skam france _10{2} The voice kids portugal _3{4} Sytycd _17{2} 
+- 31/05/22 - 116* Triage _1{24} Kinnporsche _1{22} Dont forget the lyrics _1{1} The voice chile _3{24} The voice kids esp _7{1} Druck _8{6} Skam france _10{3} The voice kids portugal _3{5} Sytycd _17{3} 
+- 01/06/22 - 171* Beat shazam _5{1} Dont forget the lyrics _1{1} Triage _1{26} Kinnporsche _1{23} The voice chile _3{26} The voice kids esp _7{1} Druck _8{7} 
 - 02/06/22 - 269* The voice kids portugal _3{6} Beat shazam _5{4} Dont forget the lyrics _1{3} Triage _1{29} Kinnporsche _1{24} The voice chile _3{29} The voice kids esp _7{2} 
 - 03/06/22 - 262* The voice chile _3{31} Skam france _10{4} Sytycd _17{4} The voice kids portugal _3{8} Beat shazam _5{4} Dont forget the lyrics _1{4} Triage _1{29} 
 - 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} The voice chile _3{33} Skam france _10{5} Sytycd _17{5} The voice kids portugal _3{8} Beat shazam _5{4} Dont forget the lyrics _1{6} 
@@ -926,8 +926,8 @@
 - 07/06/22 - 483* Triage _1{30} Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} Kinnporsche _1{30} Earthmix space _1{293} The voice kids esp _7{3} The voice chile _3{40} Skam france _10{10} Agt _17{3} 
 - 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Triage _1{31} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} Kinnporsche _1{32} Earthmix space _1{295} 
 - 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Triage _1{32} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} Kinnporsche _1{34} 
-- 10/06/22 - 255* Survivor _29{9} /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} The voice chile _3{46} Sytycd _17{6} The voice arg _4{2} Dont forget the lyrics _1{7} Beat shazam _5{5} Triage _1{32} 
-- 11/06/22 - 237* The voice chile _3{48} The voice arg _4{4} The voice kids esp _7{3} Survivor _29{10} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-- 12/06/22 - 248* Kinnporsche _1{40} The voice chile _3{50} The voice arg _4{6} The voice kids esp _7{4} Survivor _29{11} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-- 13/06/22 - 167* Skam france _10{11} Dancing with myself _1{0} Mama gogo _1{0} Kinnporsche _1{42} The voice chile _3{52} The voice arg _4{8} The voice kids esp _7{4} Survivor _29{12} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} Sytycd _17{6} 
+- 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} The voice chile _3{46} Sytycd _17{6} The voice arg _4{2} Dont forget the lyrics _1{7} Beat shazam _5{5} Triage _1{32} 
+- 11/06/22 - 237* The voice chile _3{48} The voice arg _4{4} The voice kids esp _7{3} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+- 12/06/22 - 248* Kinnporsche _1{40} The voice chile _3{50} The voice arg _4{6} The voice kids esp _7{4} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+- 13/06/22 - 167* Skam france _10{11} Dancing with myself _1{0} Mama gogo _1{0} Kinnporsche _1{42} The voice chile _3{52} The voice arg _4{8} The voice kids esp _7{4} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} Sytycd _17{6} 
 
