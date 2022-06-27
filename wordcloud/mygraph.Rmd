@@ -499,6 +499,15 @@ box()
 ```
 
 ### accueil
+```{r acc0, echo=FALSE}
+df <- data.frame(aLD())
+
+plot(df$episode...4~factor(df$status...5),xlab="status",ylab="Ep",col="#FCD203")
+
+plot(df$saison...3~factor(df$status...5),xlab="status",ylab="Saison",col="#FCD203")
+
+plot(df$episode...4~factor(df$saison...3),xlab="saison",ylab="Ep",col="#FCD203")
+```
 
 ```{r acc, echo=FALSE}
 
