@@ -239,8 +239,8 @@
 |forcebook show real 1|forcebook show real 1|10|show|thailande|
 |heartstopper 1||8|show|uk|<!--  -->
 |star in my mind 1|star in my mind|8|show|thailand|
-|dear doctor 1||12|||<!-- 26/3 - 8/6 -->
-|love victor 3||8|||<!--  -->
+|dear doctor 1|dear doctor|12|serie|thailand|<!-- 26/3 - 8/6 -->
+|love victor 3|love victor 3|8|serie|us|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 |you are my sunshine||2|serie|vietnam|<!--  -->
@@ -296,7 +296,7 @@
 |baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
 |F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
-|the player|the player|16|serie(*)|thailande|0|<!-- -->
+|the player|the player|16|serie(*)|thailande|1|<!-- -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

@@ -10,6 +10,8 @@ output:
 suppressWarnings(source("./R/sources.R"))
 library("tm")
 library(textstem)
+#install.koRpus.lang("fr")
+library("koRpus.lang.fr")
 require(koRpus)
 delayW <- 5
 myRemoveListU <- c("les", "la")
@@ -31,7 +33,7 @@ wcLemme <- function(text){
   TextDoc <- tm_map(TextDoc, removeNumbers)
   TextDoc <- tm_map(TextDoc, removeWords, stopwords("french"))
   TextDoc <- tm_map(TextDoc, lemmatize_strings)
-  #TextDoc <- tm_map(TextDoc, lemmatisation)
+  TextDoc <- tm_map(TextDoc, lemmatisation)
 
 
   # Build a term-document matrix
@@ -134,6 +136,15 @@ opar <- par(mfrow = c(1, 2))
 plot(hcity.D,  hang=-1)
 plot(hcity.D2, hang=-1)
 par(opar)
+
+
+
+```
+
+```{r all1, echo=FALSE}
+install.packages("VennDiagram")
+library("VennDiagram")
+draw.triple.venn(area1 = 65,area2 = 75,area3 = 85,n12 = 35,n23 = 15,n13 = 25,n123 = 5,category = c("Qualité", "Sécurité", "Environnement"))
 ```
 
 ### all
