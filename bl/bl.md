@@ -295,8 +295,33 @@
 |my sweet dear|my sweet dear|8|serie|corée|2|                   <!-- 46 -->
 |baker boys|baker boys|12|serie(*)|thailande|3|                <!-- 48 -->
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
-|F4 thailand|F4 thailand|?|serie(**)|thailande|1|<!-- -->
+|F4 thailand|F4 thailand|16|serie(**)|thailande|9|<!-- -->
 |the player|the player|16|serie(*)|thailande|1|<!-- -->
+|something in my room 1|simr|10|serie||4|<!--  -->
+|meet my angel 2|meet my angel 2|9|serie|philippines|3|<!-- -->
+|color rush 2|color rush 2|8|serie|corée|1|<!--  -->
+|love at night 1|||serie(non)||1|<!--  -->
+|enchante 1|enchante|10|serie|thailande|5|<!-- -->
+|love stage 2022|love stage|?|serie|thailande|3|<!--  -->
+|all of us are dead 1||||corée|2|<!--  -->
+|cutie pie|cutie pie|12|serie|thailande|10|<!--  -->
+|cupids last wish|cupids last wish|?|serie|thailande|4|<!--  -->
+|cherry blossoms after winter 1|||serie|corée|1|<!--  -->
+|drag I love you|drag I love you|?|serie(**)|thailande|2|<!-- -->
+|the tuxedo|the tuxedo|?|serie|thailande|0|<!--  -->
+|ohmnanon upvel 1|||show|thailande|9|<!--  -->
+|quaranthings 2|||serie||1|<!--  -->
+|kinnporsche|kinnporsche|14|serie|thailande|12|<!-- -->
+|triage|triage|13|serie|thailande|11|<!--  -->
+|clik clak clok 1|||serie||1|<!--  -->
+|close friend 2||6|serie|thailande|3|<!--  -->
+|sky in your heart 1||8|serie|thailande||<!--  -->
+|want to see you 1||14|serie|||<!--  -->
+|mama gogo 1||10||thailande||<!--  -->
+|love mechanics 1||12|serie|thailande|1|<!--  -->
+|bulgasal 1|||serie(non)|corée|4|<!--  -->
+|unforgotten night 1|||serie|thailande|1|<!--  -->
+|||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -311,9 +336,16 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
+|even sun|even sun|?|serie|thailande|0|<!--  -->
+|oh my sunshine night|love at 9||||0|<!--  -->
+|vice versa|vice versa|?|serie|thailande|0|<!--  -->
+|my only 12 pc||?|||0|<!--  -->
+|hemp rope|between us|?|serie|thailande|0|<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
+|||||||<!--  -->
 |gameboys movie|gameboys movie|1|film|philippines|0|<!-- 30/7 -->
 |checkout|checkout|?|serie|thailande|0|<!--  -->
-|quaranthings 2|quaranthings 2|8|serie|philippines|0|<!-- -->
 |||||||<!--  -->
 |||||||<!--  -->
 |deja sorti|---|---||||<!--  -->
@@ -336,17 +368,13 @@
 |||||||<!--  -->
 |????|---|---||||<!--  -->
 |tell the world i love you|tell the world i love you|1|film|thailande|0|<!-- 04/03 -->
-|love mechanics|love mechanics|16|serie|thailande|0|<!-- ??/05 -->
-|hemp rope|between us|?|serie|thailande|0|<!-- juin/juillet -->
 |||||||<!--  -->
 |SUITE|---|---||||
 |sea him 2|sea him 2|?|serie|vietnam|0|<!-- -->
 |yyy 2|yyy 2|?|serie|thailande|0|<!-- -->
 |my engineer 2|my engineer 2|?|serie|thailande|0|<!-- -->
 |cheat 2|cheat 2|?|serie|philippines|0|<!-- -->
-|meet my angel 2||?|serie|philippines|0|<!-- -->
 |my extraordinary 2|a kiss 2 remember|12|serie|philippines|0|<!-- -->
-|color rush 2|color rush 2|?|serie|corée|0|<!--  -->
 |wheel of love 2||?|serie|philippines|0|<!--  -->
 |my lascivious boss 2||?|serie|vietnam|0|<!--  -->
 |history 4.2||10|serie|taiwan|0|<!--  -->
@@ -362,20 +390,15 @@
 |||||||<!--  -->
 |THAILANDE|---|---||||<!--  -->
 |GMMTV|--|--||||<!-- -->
-|drag I love you|drag I love you|?|serie(**)|thailande|0|<!-- -->
-|enchante|enchante|?|serie|thailande|0|<!-- -->
 |war of the flowers|war of the flowers|?|serie(**)|thailande|0|<!--  -->
 |UMG|UMG|?|serie(**)|thailande|0|<!--  -->
 |home school|home school|?|serie(**)|thailande|0|<!--  -->
 |midnight motel|midnight motel|?|serie(**)|thailande|0|<!--  -->
 |dirty laundry|dirty laundry|?|serie(**)|thailande|0|<!--  -->
 |my precious|my precious|1|film(**)|thailande|0|<!--  -->
-|star & sky|star & sky|?|serie|thailande|0|<!--  -->
-|cupids last wish|cupids last wish|?|serie|thailande|0|<!--  -->
 |the eclipse|the eclipse|?|serie|thailande|0|<!--  -->
 |never let me go|never let me go|?|serie|thailande|0|<!--  -->
 |moonlight chicken|moonlight chicken|?|serie|thailande|0|<!--  -->
-|vice versa|vice versa|?|serie|thailande|0|<!--  -->
 |my school president|my school president|?|serie|thailande|0|<!--  -->
 |you are my favorite|you are my favorite|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
@@ -386,14 +409,9 @@
 |COPYABANGKOK|--|--|||| <!--  -->
 |||||||<!--  -->
 |OTHER THAI|--|--||||<!--  -->
-|cutie pie|cutie pie|?|serie|thailande|0|<!--  -->
 |bittersweet|bittersweet|8|serie|thailande|0|<!-- ploy-->
-|kinnporshe|kinnporshe|?|serie|thailande|0|<!-- jeff-->
 |middle love|middle love|?|serie|thailande|0|<!-- MII2 -->
-|love stage|love stage|?|serie|thailande|0|<!-- kaowbo -->
-|mr tuxedo|mr tuxedo|?|serie|thailande|0|<!--  -->
 |make a wish|make a wish|?|serie|thailande|0|<!--  -->
-|triage|triage|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
 |PINOY|---|---||||
 |turbulance|turbulance|?|serie|philippines|0|<!--  -->
