@@ -81,6 +81,22 @@
       </table>
     </p>
 
+    
+      <!-- Add Sheetsu Web Client script to the head -->
+      <script src='//script.sheetsu.com/'></script>
+  
+  
+  
+      <script>
+          // Print out data to the console
+          function successFunc(data) {
+              console.log(data);
+          }
+          var options = {}
+          Sheetsu.read('https://sheetsu.com/apis/v1.0qw/06f71ab1ae8c', options, successFunc);
+      </script>
+  
+
     <!-- Read first two rows from sheet "Sheet1" -->
     <div sheetsu="https://sheetsu.com/apis/v1.0bu/06f71ab1ae8c" sheetsu-limit="2" sheetsu-sheet="LD">
       <p>titre: {{titre}}</p>
