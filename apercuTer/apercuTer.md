@@ -136,6 +136,13 @@
     - [sem 23-05-2022](#sem-23-05-2022)
     - [sem 30-05-2022](#sem-30-05-2022)
     - [sem 06-06-2022](#sem-06-06-2022)
+    - [sem 13-06-2022](#sem-13-06-2022)
+    - [sem 20-06-2022](#sem-20-06-2022)
+    - [sem 27-06-2022](#sem-27-06-2022)
+    - [sem 04-07-2022](#sem-04-07-2022)
+    - [sem 11-07-2022](#sem-11-07-2022)
+    - [sem 18-07-2022](#sem-18-07-2022)
+    - [sem 25-07-2022](#sem-25-07-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -168,6 +175,7 @@
       - [mois 01-04-2022](#mois-01-04-2022)
       - [mois 01-05-2022](#mois-01-05-2022)
       - [mois 01-06-2022](#mois-01-06-2022)
+      - [mois 01-07-2022](#mois-01-07-2022)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -722,7 +730,6 @@
 * Incroyable talent _16
 * Dragula _4
 ### sem 03-01-2022 
-* *insererici*
 * Druck _7
 * The voice nl _9
 * The voice ru _10
@@ -731,14 +738,12 @@
 * The voice kids uk _5
 * Josephine ange gardien _24
 ### sem 10-01-2022 
-* *insererici*
 * Drag race it _1
 * Rpdruk _3
 * Dexter _9
 * The voice alb _6
 * Friend or lover _1
 ### sem 17-01-2022 
-* *insererici*
 * Tinted with you _1
 * Do seu lado _1
 * Cheer _2
@@ -747,7 +752,6 @@
 * Dont say no _1
 * Lego masters fr _2
 ### sem 24-01-2022 
-* *insererici*
 * Survivor _15
 * Survivor _14
 * The voice senior it _2
@@ -757,45 +761,37 @@
 * Mr cinderella _1
 * Survivor _13
 ### sem 31-01-2022 
-* *insererici*
 * Bt21 original story _1
 * The voice senior esp _3
 * Survivor _17
 * Survivor _16
 ### sem 07-02-2022 
-* *insererici*
 * The voice portugal _9
 * Survivor _19
 * The masked dancer ger _1
 * The voice generations au _1
 * Survivor _18
 ### sem 14-02-2022 
-* *insererici*
 * The masked singer uk _3
 * Ninja warrior _6
 * Paint with love _1
 ### sem 21-02-2022 
-* *insererici*
 * Kieta hatsukoi _1
 * Survivor _22
 * Survivor _21
 * Survivor _20
 ### sem 28-02-2022 
-* *insererici*
 * Kissable lips _1
 * The voice lithu _8
 ### sem 07-03-2022 
-* *insererici*
 * The voice poland _12
 * Next level chef _1
 * Survivor _23
 ### sem 14-03-2022 
-* *insererici*
 * Icsyv _2
 * Survivor sa _7
 * Rpdrukvstheworld _1
 ### sem 21-03-2022 
-* *insererici*
 * Not me _1
 * The masked singer vv _2
 * Skam france _9
@@ -803,66 +799,84 @@
 * Agt extreme _1
 * The voice generations lithu _1
 ### sem 28-03-2022 
-* *insererici*
 * Survivor _25
 * Semantic error _1
 * Is it cake _1
 ### sem 04-04-2022 
-* *insererici*
 * Absolute bl _2
 * Dancing on ice uk _14
 ### sem 11-04-2022 
-* *insererici*
 * Lol fr _2
 * Lol fr _1
 * Peach of time _1
 * Rpdru _14
 * Survivor au _9
 ### sem 18-04-2022 
-* *insererici*
 * Pekin express _15
 * Survivor _26
 * Queen stars brazil _1
 * The voice be _10
 * Clem _12
 ### sem 25-04-2022 
-* *insererici*
 * The voice kids poland _5
 * Rpdr _14
 * Forcebook show real _1
 ### sem 02-05-2022 
-* *insererici*
 * The masked singer ger _6
 * The voice finland _12
 * Heartstopper _1
 * Camping paradis _12
 ### sem 09-05-2022 
-* *insererici*
 * The voice kids ger _10
 ### sem 16-05-2022 
-* *insererici*
 * The masked singer fr _3
 * Survivor _27
 * Domino masters us _1
 * Asc _1
 ### sem 23-05-2022 
-* *insererici*
 * The voice fr _12
 * Love death & robots _3
 * The masked singer _7
 * Cgt _2
 * Vampire in the garden _1
 ### sem 30-05-2022 
-* *insererici*
 * The voice au _11
+* Name that tune _2
 * The voice kids vv _6
 * Star in my mind _1
 * Survivor _28
 * Survivor _42
 * American idol _20
 ### sem 06-06-2022 
-* *insererici*
+* Drag race esp _2
+* Floor is lava _2
 * The voice no _7
+### sem 13-06-2022 
+* The voice senior finland _1
+* Dear doctor _1
+### sem 20-06-2022 
+* *insererici*
+* The challenge _1
+* Top chef _13
+* Love victor _3
+* Bgt _15
+### sem 27-06-2022 
+* *insererici*
+* The challenge _2
+* The challenge all stars _2
+* Survivor _29
+* Koh-lanta _28
+### sem 04-07-2022 
+* *insererici*
+* Drag tots _2
+* The challenge _3
+### sem 11-07-2022 
+* *insererici*
+### sem 18-07-2022 
+* *insererici*
+### sem 25-07-2022 
+* *insererici*
+
 
 
 <div style="page-break-after: always; visibility: hidden"> 
@@ -875,9 +889,7 @@
 * The good doctor _5
 * Nilundon _1
 * First love again _1
-* Bgt _15
-* Unforgotten night _1
-* 
+* The challenge _4
 * 
 * 
 * $ a classer $
@@ -885,23 +897,54 @@
 * You are my sunshine _1(26/12/21)
 * Good singers _1(7/8/21)
 * I can see your voice fr _1(13/5/21)
+* Marble mania _1 (19/8/21)
+* Schools out lets date now _1 (18/3/21)
 * 
 * $ order $
-* 
-* 
-* Trivia quest _1
+* The voice arg _4
+* The voice chile _3
 * Cutie pie _1
-* 
-* Earthmix space _1
-* Top chef _13
-* Dear doctor _1
-* Koh-lanta _28
-* Drag race esp _2
+* Close friend _2
+* Ohmnanon upvel _1
+* Dont forget the lyrics _1
+* Survivor _30
+* Camping paradis _13
+* Triage _1
+* The voice dominicana _2
+* The voice kids portugal _3
+* Rpdrasu _7
+* Rpdras _7
+* The voice kids esp _7
+* The voice indonesia _5
 * Kinnporsche _1
-* Name that tune _2
+* Drag race fr _1
+* Skam france _10
+* Bulgasal _1
+* Sytycd _17
+* Dancing with myself _1
+* Unforgotten night _1
+* The challenge all stars _3
+* The voice kids indonesia _4
+* Love mechanics _1
+* Earthmix space _1
+* Beat shazam _5
+* Mama gogo _1
+* /9-1-1 lone star _3
+* /9-1-1 _5
+* Le flambeau _1
+* Want to see you _1
+* Agt _17
+* Sky in your heart _1
+* Druck _8
+* Beat shazam _2
+* Two pints of lager _3
+* The circle us _4
+* Clik clak clok _1
+* Bullshit the game show _1
+* Call me mother _1
+* Trivia quest _1
 * Enchante _1
 * Quaranthings _2
-* Ohmnanon upvel _1
 * Cupids last wish _1
 * Drag i love you _1
 * The tuxedo _1
@@ -911,7 +954,6 @@
 * F4 thailand _1
 * Love stage 2022 _1
 * All of us are dead _1
-* /9-1-1 lone star _3
 * Meet my angel _2
 * The voice ph _1
 * Love at night _1
@@ -932,7 +974,6 @@
 * My sweet dear _1
 * Insiders _1
 * Age of the living dead _1
-* /9-1-1 _5
 * Love area _1
 * The shipper _1
 * Goblin _1
@@ -962,13 +1003,6 @@
 * You never eat alone _1
 * My vampire boyfriend _1
 * Tokyo ghoul _3
-* 
-* 
-* $ nbPcTps $
-* Marble mania _1 (19/8/21)
-* Schools out lets date now _1 (18/3/21)
-* 
-
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -1035,8 +1069,9 @@
 #### mois 01-05-2022 
 *insererici The masked singer ger _6 The voice finland _12 Heartstopper _1 Camping paradis _12 The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
 #### mois 01-06-2022 
-*insererici The voice no _7 The voice au _11 The voice kids vv _6 Star in my mind _1 Survivor _28 Survivor _42 American idol _20 The voice fr _12 Love death & robots _3 The masked singer _7 Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
-
+*insererici The voice no _7 The voice au _11 Name that tune _2 The voice kids vv _6 Star in my mind _1 Survivor _28 Survivor _42 American idol _20 The voice fr _12 Love death & robots _3 The masked singer _7 Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
+#### mois 01-07-2022 
+*insererici Drag tots _2 The challenge _3 The challenge _2 The challenge all stars _2 Survivor _29 Koh-lanta _28 The challenge _1 Top chef _13 Love victor _3 Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
 
 
 

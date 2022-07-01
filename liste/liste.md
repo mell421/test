@@ -587,10 +587,23 @@
 |Survivor 28||14|||<!-- 26/5 -->
 |star in my mind 1||8|||<!-- 8/4 - 27/5 -->
 |the voice kids vv 6||10|||<!-- 26/3 - 27/5 -->
+|Name that tune 2||10|||<!-- 1/4 - 28/5 -->
 |the voice au 11||14|||<!-- 18/4 -29/5 -->
 |the voice no 7||40|||<!-- 6/1/22 - 31/5 -->
-||||||<!--  -->
-||||||<!--  -->
+|floor is lava 2||5|||<!-- 3/6 -->
+|drag race esp 2||11|||<!-- 27/3 - 5/6 -->
+|dear doctor 1||12|||<!-- 26/3 - 8/6 -->
+|the voice senior finland 1||4|||<!-- 10/6 -->
+|Bgt 15||14|||<!-- 14/6 -->
+|love victor 3||8|||<!-- 15/6 -->
+|top chef 13||18|||<!-- 16/2 - 16/6-->
+|The challenge 1||5|||<!-- 18/6 -->
+|koh-lanta 28||17|||<!-- 22/2 - 21/06 -->
+|survivor 29||15|||<!-- 22/6 -->
+|The challenge all stars 2||10|||<!-- 23/6 -->
+|The challenge 2||6|||<!--  -->
+|The challenge 3||11|||<!--  -->
+|Drag tots 2||1|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -766,22 +779,16 @@
 |enchante 1|||||0|<!-- 28/1/22 -->
 |love stage 2022 1|||||0|<!-- 3/2/22 -->
 |All of us are dead 1|||||0|<!-- 12/2 -->
-|top chef 13|||||0|<!-- 16/2 -->
 |cutie pie 1|||||0|<!-- 19/2 -->
-|koh-lanta 28|||||0|<!-- 22/2 -->
 |cupids last wish 1||10|serie|thailande|0|<!-- 23/2 -->
 |cherry blossoms after winter 1|||||1|<!-- 24/2 -->
 |drag I love you 1|||||1|<!-- 2/3 -->
 |the tuxedo 1|||||1|<!-- 5/3 -->
-|dear doctor 1|||||6|<!-- 26/3 -->
-|drag race esp 2||12|||6|<!-- 27/3 -->
 |ohmnanon upvel 1|||||0|<!-- 31/3 -->
 |quaranthings 2||8|||1|<!-- 1/4 -->
-|Name that tune 2|||||7|<!-- 1/4 -->
 |kinnporsche 1||?|||3|<!-- 2/4 -->
 |trivia quest 1|||||0|<!-- 9/4 -->
 |call me mother 1|||||0|<!-- 15/4 -->
-|Bgt 15|||||4|<!-- 17/4 -->
 |Bullshit the game show 1|||||0|<!-- 27/4 -->
 |druck 8|||||0|<!-- 30/4 -->
 |triage 1|||||0|<!-- 1/5 -->
@@ -806,7 +813,6 @@
 | --- | --- | :---: | --- | --- | --- |
 |skam france 10|||||0|<!--  -->
 |sytycd 17|||||0|<!--  -->
-|the voice senior finland 1|||||0|<!--  -->
 |rpdras 7|||||0|<!--  -->
 |gameboys 2|||||0|<!--  -->
 |beat shazam 5|||||0|<!--  -->
@@ -815,7 +821,6 @@
 |lego masters 3|||||0|<!--  -->
 |check out 1|||||0|<!--  -->
 |first kill 1|||||0|<!--  -->
-|love victor 3|||||0|<!-- 15/6 -->
 |unforgotten night 1|||||0|<!-- 22/6 -->
 |my only 12pc 1|||||0|<!-- 12/8 -->
 |between us 1||?|||0|<!-- 18/11 -->
@@ -825,7 +830,7 @@
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
-|Survivor 29|||||0|<!--  -->
+|Survivor 30|||||0|<!--  -->
 |rainbow prince 1|||||0|<!--  -->
 |nilundon 1|||||0|<!--  -->
 ||||||0|<!--  -->

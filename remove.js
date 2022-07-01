@@ -7,7 +7,7 @@ function remove(someFile,replacement){
         if (err) {
           return console.log(err);
         }
-        var regex=/The voice no _7({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
+        var regex=/survivor _29({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
         var result = data.replace(regex, replacement);
         
       
@@ -16,6 +16,7 @@ function remove(someFile,replacement){
         });
     });
 }
+
 var aEff ='./aEff/aeff.md'
 var appAll ='./apercu/apAll.txt'
 var app20 ='./apercu/apercu20.md'
@@ -45,6 +46,6 @@ const files = fs.readdirSync(dir)
 
 for (const file of files) {
   console.log(file)
-  remove(page,'')
+  remove(dir+file,'')
 }
 

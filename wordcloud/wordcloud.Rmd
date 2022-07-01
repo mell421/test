@@ -40,7 +40,7 @@ forme <- "circle"
 
 <!-- accueil 10 -->
 ### accueil
-```{r accueil, echo=FALSE}
+```{r accueil_, echo=FALSE, eval=FALSE}
 text <- data.frame(accueil())
 text <- text[2]
 
@@ -55,12 +55,19 @@ tm <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"accueil_3.png",delayW)
-    
+  wcDouble(dtm_d,forme2,"accueil_4.png",delayW) 
 }
 suppressWarnings(tm(text))
 ```
 
+```{r accueil, echo=FALSE}
+text <- data.frame(accueil())
+text <- text[2]
+suppressWarnings(tm_(text,titreBarplot="Top 20 accueil",forme,titreImgCircle="accueil_3.png",delayW))
+print("_")
+```
 <!-- listDesc 15 -->
+
 ### en cours
 ```{r encours, echo=FALSE}
 text <- data.frame(listDesc.ec())
@@ -77,7 +84,6 @@ tm <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"encours_3.png",delayW)
-
   #dev.print(device = png, file = "encours_2.png", width = 600)
   # 
 }
@@ -89,7 +95,7 @@ suppressWarnings(tm(text))
 ### recent
 ```{r recent0, echo=FALSE}
 recent <- data.frame(aLD())
-text <- recent$Titre_1
+text <- recent$Titre...24
 
 tm <- function(text){
   dtm_d <- wc(text)
@@ -102,7 +108,6 @@ tm <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"recent_3.png",delayW)
-
 }
 
 suppressWarnings(tm(text))
@@ -126,7 +131,6 @@ tm <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"termine_3.png",delayW)
-
 }
 
 suppressWarnings(tm(text))
@@ -147,7 +151,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"copy_3.png",delayW)
-
 }
 
 suppressWarnings(main(text))
@@ -190,7 +193,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   suppressWarnings(wcDouble(dtm_d,forme,"pageappressup_3.png",delayW))
-
 }
 
 suppressWarnings(main(text))
@@ -212,7 +214,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"pars2_3.png",delayW)
-
 }
 
 suppressWarnings(main(text))
@@ -236,7 +237,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"conclu_3.png",delayW)
-
 }
 
 suppressWarnings(main(text))
@@ -284,7 +284,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"sem_3.png",delayW)
-
 }
 
 suppressWarnings(main(text))
@@ -308,7 +307,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"mois_3.png",delayW)
-
 }
 
 suppressWarnings(main(text))
@@ -331,7 +329,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"max_3.png",delayW)
-
 }
 
 suppressWarnings(main(text))
@@ -357,11 +354,31 @@ main <- function(text){
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"eff_3.png",delayW)
 
-
 }
 
 suppressWarnings(main(text))
 ```
+
+### test2
+```{r TEST2, echo=FALSE}
+text <- data.frame(aTest2())
+main <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 test2")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"test2_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
 
 ### Page app
 ```{r pa, echo=FALSE}
@@ -435,3 +452,4 @@ total_time <- end_time - begin_time
 print(total_time)
 begin_time2 <-Sys.time()
 ```
+
