@@ -89,11 +89,6 @@ ligne :  34 ZZ//9-1-1lonestar_3.txt
 mot   :  727 ZZ//9-1-1lonestar_3.txt
 carac :  4650 ZZ//9-1-1lonestar_3.txt
 
-i = Skam france _10
-ligne :  28 ZZ/Skamfrance_10.txt
-mot   :  970 ZZ/Skamfrance_10.txt
-carac :  5985 ZZ/Skamfrance_10.txt
-
 i = /9-1-1 _5
 ligne :  54 ZZ//9-1-1_5.txt
 mot   :  1148 ZZ//9-1-1_5.txt

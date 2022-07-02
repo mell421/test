@@ -176,6 +176,7 @@
       - [mois 01-05-2022](#mois-01-05-2022)
       - [mois 01-06-2022](#mois-01-06-2022)
       - [mois 01-07-2022](#mois-01-07-2022)
+      - [mois 01-08-2022](#mois-01-08-2022)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -868,6 +869,7 @@
 * Koh-lanta _28
 ### sem 04-07-2022 
 * *insererici*
+* Skam france _10
 * Drag tots _2
 * The challenge _3
 ### sem 11-07-2022 
@@ -918,7 +920,7 @@
 * The voice indonesia _5
 * Kinnporsche _1
 * Drag race fr _1
-* Skam france _10
+* 
 * Bulgasal _1
 * Sytycd _17
 * Dancing with myself _1
@@ -1072,7 +1074,7 @@
 *insererici The voice no _7 The voice au _11 Name that tune _2 The voice kids vv _6 Star in my mind _1 Survivor _28 Survivor _42 American idol _20 The voice fr _12 Love death & robots _3 The masked singer _7 Cgt _2 Vampire in the garden _1 The masked singer fr _3 Survivor _27 Domino masters us _1 Asc _1 The voice kids ger _10*
 #### mois 01-07-2022 
 *insererici Drag tots _2 The challenge _3 The challenge _2 The challenge all stars _2 Survivor _29 Koh-lanta _28 The challenge _1 Top chef _13 Love victor _3 Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
-
-
+#### mois 01-08-2022 
+*insererici Skam france _10*
 
 [retour](./../index.html)

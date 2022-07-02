@@ -15,7 +15,7 @@ list99=(
 # 39-30
 "Ohmnanon upvel _1" "The voice ukr _12" 
 # 29-20
-"The voice kids portugal _3" "Beat shazam _2" "/9-1-1 lone star _3" "Skam france _10" "/9-1-1 _5" "Meet my angel _2" "Something in my room _1" "Two pints of lager _3" "The player _1" "7project _1" "Enchante _1" 
+"The voice kids portugal _3" "Beat shazam _2" "/9-1-1 lone star _3" "/9-1-1 _5" "Meet my angel _2" "Something in my room _1" "Two pints of lager _3" "The player _1" "7project _1" "Enchante _1" 
 # 19-15
 "Druck _8" "Sytycd _17" "Love stage 2022 _1" "Dont forget the lyrics _1" "Unlocked _1" "The shipper _1" 
 # 14-10
@@ -43,7 +43,7 @@ listAsc=(
 "The voice arg _4" "Dont forget the lyrics _1" "Beat shazam _5" "Le flambeau _1" 
 "The voice chile _3" "Triage _1" "Omhnanon upvel _1" "The voice kids portugal _3" "Want to see you _1" 
 "Kinnporsche _1" "Earthmix space _1" "The voice kids esp _7" 
-"Skam france _10" "Agt _17" "Sky in your heart _1" "Sytycd _17" 
+"Agt _17" "Sky in your heart _1" "Sytycd _17" 
 # 2
 "Druck _8" "Beat shazam _2" "/9-1-1 _5" 
 "Two pints of lager _3" "Rpdrasu _7" "Rpdras _7" "The circle us _4" "Close friend _2" 

@@ -604,6 +604,7 @@
 |The challenge 2||6|||<!--  -->
 |The challenge 3||11|||<!--  -->
 |Drag tots 2||1|||<!--  -->
+|skam france 10||10|||<!-- 2/7 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -811,7 +812,6 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|skam france 10|||||0|<!--  -->
 |sytycd 17|||||0|<!--  -->
 |rpdras 7|||||0|<!--  -->
 |gameboys 2|||||0|<!--  -->

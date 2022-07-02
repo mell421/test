@@ -17,9 +17,9 @@ aEff/aeff.md:- 12/05/22 (eff) - Earthmix space _1{238} F4 thailand _1{35} Cupids
 aEff/aeff.md:- 12/06/22 (eff) - Earthmix space _1{303} The voice chile _3{50} Kinnporsche _1{40} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
 aEff/aeff.md:- 13/05/22 - 317* The circle us _4{15} Ohmnanon upvel _1{5} Triage _1{15} 
 aEff/aeff.md:- 13/06/22 (eff) - Earthmix space _1{305} The voice chile _3{52} Kinnporsche _1{42} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Cutie pie _1{15} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
-aEff/aeff.md:- 14/05/22 - 294* Skam france _10{0} The circle us _4{15} Ohmnanon upvel _1{5} Triage _1{15} 
+aEff/aeff.md:- 14/05/22 - 294* The circle us _4{15} Ohmnanon upvel _1{5} Triage _1{15} 
 aEff/aeff.md:- 14/05/22 (eff) - Earthmix space _1{242} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
-aEff/aeff.md:- 15/05/22 - 449* The voice kids portugal _3{0} Skam france _10{1} The circle us _4{15} 
+aEff/aeff.md:- 15/05/22 - 449* The voice kids portugal _3{0} The circle us _4{15} 
 aEff/aeff.md:- 20/05/22 (eff) - Earthmix space _1{254} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{17} The circle us _4{16} 
 aEff/aeff.md:- 21/05/22 (eff) - Earthmix space _1{256} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{17} The circle us _4{16} 
 aEff/aeff.md:- 22/05/22 (eff) - Earthmix space _1{258} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{17} Kinnporsche _1{16} The circle us _4{16} 
@@ -29,9 +29,9 @@ aEff/aeff.md:- 28/05/22 (eff) - Earthmix space _1{271} F4 thailand _1{35} Kinnpo
 aEff/aeff.md:- 29/05/22 (eff) - Earthmix space _1{273} F4 thailand _1{35} Kinnporsche _1{20} Triage _1{20} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
 aEff/aeff.md:- 30/05/22 (eff) - Earthmix space _1{275} F4 thailand _1{35} The voice chile _3{21} Triage _1{21} Kinnporsche _1{20} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
 aEff/aeff.md:- 31/05/22 (eff) - Earthmix space _1{277} F4 thailand _1{35} Triage _1{24} The voice chile _3{24} Kinnporsche _1{22} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} Cutie pie _1{15} 
-apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) Kinnporsche _1x9(5) The voice chile _3x20(19) The voice kids esp _7x2(1) Druck _8x4(2) Skam france _10x3(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) Kinnporsche _1x9(5) The voice chile _3x20(19) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 apercu/apercu22.md:- sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) Triage _1x4(1) 
-apercu/apercu22.md:- sem 16-05-2022 -> Kinnporsche _1x6(2) The voice kids portugal _3x2(1) Skam france _10x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
+apercu/apercu22.md:- sem 16-05-2022 -> Kinnporsche _1x6(2) The voice kids portugal _3x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
 apercu/apercu22.md:* conclu 05/05/22 = Earthmix space _1 > 2; The circle us _4 > 2; Triage _1 > 1; 
 apercu/apercu22.md:* conclu 06/05/22 = Earthmix space _1 > 2; The circle us _4 > 2; Triage _1 > 1; 
 apercu/apercu22.md:* conclu 07/05/22 = Earthmix space _1 > 2; The circle us _4 > 2; Triage _1 > 1; 
