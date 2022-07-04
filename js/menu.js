@@ -19,6 +19,7 @@ document.write(`
       <li><a href="lda_10.html">LDA10</a></li>
       <li><a href="lda_5.html">LDA5</a></li>
       <li><a href="lda_4.html">LDA4</a></li>
+      <li><a href="lda_3.html">LDA3</a></li>
     </ul>
   </li>
   <li><a href="#">series</a>
