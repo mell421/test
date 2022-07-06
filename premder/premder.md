@@ -57,14 +57,12 @@ Sytycd 17x6
 Dancing with myself 1x2
 Survivor 30x1
 Unforgotten night 1x1
-The challenge all stars 3x8
 Bulgasal 1x1
 The voice dominicana 2x1
 Camping paradis 13x1
 The voice kids indonesia 4x2
 The voice kids indonesia 4x1
 Love mechanics 1x1
-The challenge all stars 3x1
 The voice indonesia 5x1
 Earthmix space 1x19
 Beat shazam 5x4
