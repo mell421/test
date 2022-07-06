@@ -468,7 +468,7 @@
 |DWTS 30||11|||<!-- 23/11 -->
 |dals 11||11|||<!-- 26/11 -->
 |The love that dare not speak its name||6|||<!-- 27/11 -->
-|the masked singer ger 5|||||<!-- 27/11 -->
+|the masked singer ger 5||6|||<!-- 27/11 -->
 |TV th 7||15|||<!-- 4/12 -->
 |survivor 11||15|||<!-- 8/12 -->
 |alter ego 1||11|||<!-- 8/12 -->
@@ -526,7 +526,7 @@
 |Survivor 18||15|||<!-- 31/1/22 -->
 |The voice generations au 1||3|||<!-- 2/2/22 -->
 |The masked dancer ger 1||4|||<!-- 5/2 -->
-|Survivor 19||16|||0|<!-- 5/2/22 -->
+|Survivor 19||16|||<!-- 5/2/22 -->
 |the voice portugal 9||16|||<!-- 6/2 -->
 |paint with love 1||12|||<!-- 28/11/21 - 11/2 -->
 |ninja warrior 6||5|||<!-- 7/1/22 - 11/2 -->
@@ -536,14 +536,14 @@
 |Survivor 22||15|||<!-- 18/2 -->
 |kieta hatsukoi 1||10|||<!-- 19/2 -->
 |The voice lithu 8||11|||<!-- 22/2 -->
-|kissable lips 1|||||<!-- 3/2/22 - 26/2-->
-|survivor 23|||||<!-- 20/2 - 28/2 -->
+|kissable lips 1||8|||<!-- 3/2/22 - 26/2-->
+|survivor 23||16|||<!-- 20/2 - 28/2 -->
 |next level chef 1||11|||<!-- 5/1/22 - 3/3 -->
 |the voice poland 12||18|||<!-- 5/3 -->
 |rpdr uk vs world 1||6|||<!-- 8/3 -->
 |survivor sa 7||18|||<!-- 8/1/22 - 8/3 -->
 |ICSYV 2||10+1|||<!-- 9/3 -->
-|the voice generations lithu 1|||||<!-- 2/2/22 - 14/3-->
+|the voice generations lithu 1||11|||<!-- 2/2/22 - 14/3-->
 |AGT extreme 1||4|||<!-- 23/2 - 15/3 -->
 |Survivor 24||15|||<!-- 15/3 -->
 |skam france 9||10|||<!-- 14/1/22 - 18/3 -->
@@ -572,13 +572,13 @@
 |heartstopper 1||8|show|uk|<!-- 28/4 -->
 |the voice finland 12||24|||<!-- 28/1/22 - 29/4 -->
 |the masked singer ger 6||6|||<!-- 30/4 -->
-|The voice kids ger 10|||||<!-- 4/3 - 7/5-->
+|The voice kids ger 10||10|||<!-- 4/3 - 7/5-->
 |ASC 1||8|||<!-- 22/3 - 11/5-->
 |domino masters us 1||10|||<!-- 16/3 - 12/5 -->
 |Survivor 27||15|||<!-- 26/4 - 13/5-->
 |The masked singer fr 3||7|||<!-- 1/4 - 13/5 -->
 |vampire in the garden 1||5|||<!-- 16/5 - 16/5 -->
-|cgt 2|||||<!-- 11/4 - 19/5 -->
+|cgt 2||9|||<!-- 11/4 - 19/5 -->
 |The masked singer 7||11|||<!-- 9/3 - 19/5 -->
 |love death & robots 3||9|||<!-- 20/5 -20/5 -->
 |The voice 12||15|||<!-- 12/2 - 21/5 -->
@@ -770,7 +770,7 @@
 |aggretsuko 4||10|||1|<!--  -->
 |F4 thailand||16|||1|<!--  -->
 |the player|the player|16|serie(*)|thailande|0|<!-- 21/12/21 -->
-|/9-1-1 lone star 3|||||0|<!-- 3/1/22 -->
+|/9-1-1 lone star 3||18|||0|<!-- 3/1/22 -->
 |The voice nl 12|||||0|<!-- 7/1/22 -->
 |Something in my room 1|||||0|<!-- 20/1/22 -->
 |Meet my angel 2|||||0|<!-- 20/1/22 -->
@@ -778,25 +778,57 @@
 |the voice ukr 12|||||0|<!-- 23/1/22 -->
 |love at night 1|||||0|<!-- 24/1/22 -->
 |the voice ph 1|||||0|<!-- 25/1/22 -->
-|enchante 1|||||0|<!-- 28/1/22 -->
+|enchante 1||10|||0|<!-- 28/1/22 -->
 |love stage 2022 1|||||0|<!-- 3/2/22 -->
 |All of us are dead 1|||||0|<!-- 12/2 -->
-|cutie pie 1|||||0|<!-- 19/2 -->
+|cutie pie 1||12|||0|<!-- 19/2 -->
 |cupids last wish 1||10|serie|thailande|0|<!-- 23/2 -->
 |cherry blossoms after winter 1|||||1|<!-- 24/2 -->
-|drag I love you 1|||||1|<!-- 2/3 -->
-|the tuxedo 1|||||1|<!-- 5/3 -->
-|ohmnanon upvel 1|||||0|<!-- 31/3 -->
+|drag I love you 1||22|||1|<!-- 2/3 -->
+|the tuxedo 1||8|||1|<!-- 5/3 -->
+|ohmnanon upvel 1||?|||0|<!-- 31/3 -->
 |quaranthings 2||8|||1|<!-- 1/4 -->
-|kinnporsche 1||?|||3|<!-- 2/4 -->
-|trivia quest 1|||||0|<!-- 9/4 -->
-|call me mother 1|||||0|<!-- 15/4 -->
-|Bullshit the game show 1|||||0|<!-- 27/4 -->
-|druck 8|||||0|<!-- 30/4 -->
-|triage 1|||||0|<!-- 1/5 -->
-|the circle us 4|||||0|<!-- 4/5 -->
+|kinnporsche 1||14|||3|<!-- 2/4 -->
+|trivia quest 1||30|||0|<!-- 9/4 -->
+|call me mother 1||8|||0|<!-- 15/4 -->
+|Bullshit the game show 1||10|||0|<!-- 27/4 -->
+|druck 8||10|||0|<!-- 30/4 -->
+|triage 1||13|||0|<!-- 1/5 -->
+|the circle us 4||13|||0|<!-- 4/5 -->
 |clik clak clok 1|||||0|<!-- 5/5 -->
-|close friend 2|||||0|<!-- 5/5 -->
+|close friend 2||6|||0|<!-- 5/5 -->
+|the voice kids portugal 3|||||0|<!--  -->
+|the voice chile 3|||||0|<!--  -->
+|rpdras 7|||||0|<!--  -->
+|sytycd 17|||||0|<!--  -->
+|rpdrasu 7|||||0|<!--  -->
+|beat shazam 2|||||0|<!--  -->
+|beat shazam 5|||||0|<!--  -->
+|the voice kids esp 7|||||0|<!--  -->
+|dont forget the lyrics 1|||||0|<!--  -->
+|sky in your heart 1|||||0|<!--  -->
+|agt 17|||||0|<!--  -->
+|want to see you 1|||||0|<!--  -->
+|the voice arg 4|||||0|<!--  -->
+|le flambeau 1|||||0|<!--  -->
+|mama gogo 1|||||0|<!--  -->
+|dancing with myself 1|||||0|<!--  -->
+|the voice indonesia 5|||||0|<!--  -->
+|love mechanics 1|||||0|<!--  -->
+|the voice kids indonesia 4|||||0|<!--  -->
+|camping paradis 13|||||0|<!--  -->
+|the voice dominicana 2|||||0|<!--  -->
+|bulgasal 1|||||0|<!--  -->
+|unforgotten night 1|||||0|<!-- 22/6 -->
+|Survivor 30|||||0|<!--  -->
+|drag race fr 1|||||0|<!--  -->
+|even sun 1|||||0|<!--  -->
+|rose in da house 1|||||0|<!--  -->
+|the challenge all stars 1|||||0|<!--  -->
+|the challenge 4|||||0|<!--  -->
+|karaoke club drag edition 1|||||0|<!--  -->
+|the voice peru 5|||||0|<!--  -->
+||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -813,36 +845,44 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|sytycd 17|||||0|<!--  -->
-|rpdras 7|||||0|<!--  -->
-|gameboys 2|||||0|<!--  -->
-|beat shazam 5|||||0|<!--  -->
-|the voice kids esp 7|||||0|<!--  -->
-|agt 17|||||0|<!--  -->
-|lego masters 3|||||0|<!--  -->
 |check out 1|||||0|<!--  -->
 |first kill 1|||||0|<!--  -->
-|unforgotten night 1|||||0|<!-- 22/6 -->
+|oh my sunshine night 1|||||0|<!--  -->
+|pekin express 16|||||0|<!--  -->
+|the challenge usa 1|||||0|<!--  -->
+|drag race ca 3|||||0|<!--  -->
+|game of talents fr 2|||||0|<!--  -->
+|vice versa||?|serie|thailande|0|<!--  -->
+|the voice thailand 9|||||0|<!--  -->
+|survivor sa 9|||||0|<!--  -->
+|ahss 2|||||0|<!--  -->
+|rpdrdu 2|||||0|<!--  -->
 |my only 12pc 1|||||0|<!-- 12/8 -->
+|drag race ph 1|||||0|<!--  -->
+|skam italia 5|||||0|<!--  -->
+|the voice us 22|||||0|<!--  -->
+|lego masters 3|||||0|<!--  -->
+|survivor 43|||||0|<!--  -->
+|the amazing race 34|||||0|<!--  -->
+|the masked singer 8|||||0|<!--  -->
+|ahs 11|||||0|<!--  -->
+|next in fashion 2|||||0|<!--  -->
 |between us 1||?|||0|<!-- 18/11 -->
+|rpdr 15|||||0|<!--  -->
+|rpdru 15|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
-|Survivor 30|||||0|<!--  -->
+||||||0|<!--  -->
+|Survivor 31|||||0|<!--  -->
 |rainbow prince 1|||||0|<!--  -->
 |nilundon 1|||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
 |papa and daddy||?|||0|<!-- 23/4 -->
 |top secret together||?|||0|<!-- 14/5 -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
-|||||||<!--  -->
 |date future ASIE||||||<!--  -->
 |cheat 2||?|||0|<!--  -->
 |gameboys 2||?|||0|<!--  -->
@@ -851,18 +891,15 @@
 |my engineer 2||?|||0|<!--  -->
 |yyy 2||?|||0|<!--  -->
 |sea him 2||?|||0|<!--  -->
-|mama gogo 1|||||0|<!--  -->
 |my extraordinary 2|||||0|<!--  -->
 |UMG||?||thailande|0|<!--  -->
 |home school||?||thailande|0|<!--  -->
 |midnight motel||?||thailande|0|<!--  -->
 |dirty laundry||?||thailande|0|<!--  -->
 |my precious||1||thailande|0|<!--  -->
-|star & sky||?|serie|thailande|0|<!--  -->
 |the eclipse||?|serie|thailande|0|<!--  -->
 |never let me go||?|serie|thailande|0|<!--  -->
 |moonlight chicken||?|serie|thailande|0|<!--  -->
-|vice versa||?|serie|thailande|0|<!--  -->
 |my school president||?|serie|thailande|0|<!--  -->
 |you are my favorite||?|serie|thailande|0|<!--  -->
 ||||||0|<!--  -->
