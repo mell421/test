@@ -606,6 +606,7 @@
 |Drag tots 2||1|||<!--  -->
 |skam france 10||10|||<!-- 2/7 -->
 |The challenge all stars 3||10|||<!-- 6/7 -->
+|The challenge all stars 1||10|||<!-- 7/7 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -824,7 +825,6 @@
 |drag race fr 1|||||0|<!--  -->
 |even sun 1|||||0|<!--  -->
 |rose in da house 1|||||0|<!--  -->
-|the challenge all stars 1|||||0|<!--  -->
 |the challenge 4|||||0|<!--  -->
 |karaoke club drag edition 1|||||0|<!--  -->
 |the voice peru 5|||||0|<!--  -->
