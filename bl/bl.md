@@ -241,6 +241,7 @@
 |star in my mind 1|star in my mind|8|show|thailand|
 |dear doctor 1|dear doctor|12|serie|thailand|<!-- 26/3 - 8/6 -->
 |love victor 3|love victor 3|8|serie|us|<!--  -->
+|cutie pie|cutie pie|12|serie|thailande|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 |you are my sunshine||2|serie|vietnam|<!--  -->
@@ -304,7 +305,6 @@
 |enchante 1|enchante|10|serie|thailande|5|<!-- -->
 |love stage 2022|love stage|?|serie|thailande|3|<!--  -->
 |all of us are dead 1||||corée|2|<!--  -->
-|cutie pie|cutie pie|12|serie|thailande|10|<!--  -->
 |cupids last wish|cupids last wish|?|serie|thailande|4|<!--  -->
 |cherry blossoms after winter 1|||serie|corée|1|<!--  -->
 |drag I love you|drag I love you|?|serie(**)|thailande|2|<!-- -->

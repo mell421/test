@@ -874,6 +874,7 @@
 * The challenge _3
 ### sem 11-07-2022 
 * *insererici*
+* Cutie pie _1
 * The challenge all stars _1
 * The challenge all stars _3
 ### sem 18-07-2022 
@@ -907,7 +908,7 @@
 * $ order $
 * The voice arg _4
 * The voice chile _3
-* Cutie pie _1
+* 
 * Close friend _2
 * Ohmnanon upvel _1
 * Dont forget the lyrics _1
@@ -1077,6 +1078,6 @@
 #### mois 01-07-2022 
 *insererici Drag tots _2 The challenge _3 The challenge _2 The challenge all stars _2 Survivor _29 Koh-lanta _28 The challenge _1 Top chef _13 Love victor _3 Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
 #### mois 01-08-2022 
-*insererici The challenge all stars _1 The challenge all stars _3 Skam france _10*
+*insererici Cutie pie _1 The challenge all stars _1 The challenge all stars _3 Skam france _10*
 
 [retour](./../index.html)

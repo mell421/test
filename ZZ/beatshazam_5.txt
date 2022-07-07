@@ -16,4 +16,6 @@ apercu/apercu22.md:- sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x
 apercu/apercu22.md:- sem 30-05-2022 -> Kinnporsche _1x9(1) Dont forget the lyrics _1x2(1) The voice chile _3x20(8) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) Triage _1x7(1) 
 apercu/apercu22.md:* conclu 01/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Triage _1 > 2; Beat shazam _2 > 2; Beat shazam _5 > 1; 
 apercu/apercu22.md:concluBis 01/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Triage _1 > 4; Beat shazam _2 > 4; Beat shazam _5 > 3; Dont forget the lyrics _1 > 2; 
+apercuTer/apercuTer.md:* Beat shazam _5
 apercuTer/apercuTer.md:*Survivor _5 Drop _1 We are not human _1 Survivor _4 Koh-lanta _4 Koh-lanta _3 Koh-lanta _1 Rpdu _1 Survivor _3 Given 2021 _1 Beat shazam _4 Dragula _3 Marble mania _1 Light on me _1 Ahss _1 Survivor _2 Dragula _2 Drag tots _1 Golden blood _1 Survivor _1 La mas draga _3 Dragula _1 Rpdr out of the closet _2 Rpdr out of the closet _1*
+index.html:            beat shazam _5<br>

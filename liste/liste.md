@@ -607,6 +607,7 @@
 |skam france 10||10|||<!-- 2/7 -->
 |The challenge all stars 3||10|||<!-- 6/7 -->
 |The challenge all stars 1||10|||<!-- 7/7 -->
+|cutie pie 1||12|||<!-- 19/2 - 7/7 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -782,7 +783,6 @@
 |enchante 1||10|||0|<!-- 28/1/22 -->
 |love stage 2022 1|||||0|<!-- 3/2/22 -->
 |All of us are dead 1|||||0|<!-- 12/2 -->
-|cutie pie 1||12|||0|<!-- 19/2 -->
 |cupids last wish 1||10|serie|thailande|0|<!-- 23/2 -->
 |cherry blossoms after winter 1|||||1|<!-- 24/2 -->
 |drag I love you 1||22|||1|<!-- 2/3 -->

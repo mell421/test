@@ -21,3 +21,5 @@ apercu/apercu22.md:- sem 23-05-2022 -> Rpdrasu _7x2(1) Kinnporsche _1x8(2) The v
 apercu/apercu22.md:- sem 30-05-2022 -> Kinnporsche _1x9(1) Dont forget the lyrics _1x2(1) The voice chile _3x20(8) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) Triage _1x7(1) 
 apercu/apercu22.md:concluBis 03/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Dont forget the lyrics _1 > 3; Sytycd _17 > 1; 
 apercu/apercu22.md:concluBis 26/05/22 = The voice chile _3 > 16; Earthmix space _1 > 8; Beat shazam _2 > 3; Two pints of lager _3 > 2; Sytycd _17 > 1; 
+apercuTer/apercuTer.md:* Sytycd _17
+index.html:            sytycd _17<br>

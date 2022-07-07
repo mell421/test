@@ -9,7 +9,7 @@ list99=(
 # >= 100
 "Earthmix space _1" "5515 never too late _1" "F4 thailand _1" "Cupids last wish _1" "The voice ph _1" 
 # 99-50
-"Kinnporsche _1" "Triage _1" "Cutie pie _1" "Trivia quest _1" "The voice chile _3" "Young sheldon _5" "Tbbt _11" 
+"Kinnporsche _1" "Triage _1" "Trivia quest _1" "The voice chile _3" "Young sheldon _5" "Tbbt _11" 
 # 49-40
 "The circle us _4" 
 # 39-30
@@ -51,7 +51,7 @@ listAsc=(
 # 3
 
 # 4
-"Cutie pie _1" "Cupids last wish _1" "Drag i love you _1" "The tuxedo _1" 
+"Cupids last wish _1" "Drag i love you _1" "The tuxedo _1" 
 # 5
 "Cherry blossoms after winter _1" "The voice ukr _12" "Enchante _1" "Something in my room _1" "F4 thailand _1" 
 # 6
