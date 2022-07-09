@@ -24,11 +24,6 @@ ligne :  108 ZZ/Thevoiceph_1.txt
 mot   :  9239 ZZ/Thevoiceph_1.txt
 carac :  93186 ZZ/Thevoiceph_1.txt
 
-i = Kinnporsche _1
-ligne :  105 ZZ/Kinnporsche_1.txt
-mot   :  9333 ZZ/Kinnporsche_1.txt
-carac :  94218 ZZ/Kinnporsche_1.txt
-
 i = Triage _1
 ligne :  90 ZZ/Triage_1.txt
 mot   :  8981 ZZ/Triage_1.txt

@@ -31,17 +31,17 @@
 - sem 14-03-2022 -> Drag i love you _1x3(1) 
 - sem 21-03-2022 -> Cupids last wish _1x5(2) Earthmix space _1x14(1) 
 - sem 28-03-2022 -> 
-- sem 04-04-2022 -> Kinnporsche _1x2(1) Enchante _1x6(1) Quaranthings _2x2(1) Ohmnanon upvel _1x2(1) Earthmix space _1x15(1) 
-- sem 11-04-2022 -> Kinnporsche _1x3(1) Trivia quest _1x7(6) Earthmix space _1x16(1) 
+- sem 04-04-2022 -> Enchante _1x6(1) Quaranthings _2x2(1) Ohmnanon upvel _1x2(1) Earthmix space _1x15(1) 
+- sem 11-04-2022 -> Trivia quest _1x7(6) Earthmix space _1x16(1) 
 - sem 18-04-2022 -> Call me mother _1x2(1) Ohmnanon upvel _1x3(1) 
-- sem 25-04-2022 -> Kinnporsche _1x4(1) 
+- sem 25-04-2022 -> 
 - sem 02-05-2022 -> Triage _1x3(2) Druck _8x2(1) Earthmix space _1x17(1) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(1) 
 - sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) Triage _1x4(1) 
-- sem 16-05-2022 -> Kinnporsche _1x6(2) The voice kids portugal _3x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
-- sem 23-05-2022 -> Rpdrasu _7x2(1) Kinnporsche _1x8(2) The voice chile _3x12(11) Sytycd _17x2(1) Two pints of lager _3x5(2) Earthmix space _1x18(1) Rpdras _7x2(1) The voice kids portugal _3x3(1) Triage _1x6(1) 
-- sem 30-05-2022 -> Kinnporsche _1x9(1) Dont forget the lyrics _1x2(1) The voice chile _3x20(8) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) Triage _1x7(1) 
-- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Kinnporsche _1x10(1) Earthmix space _1x19(1) Ohmnanon upvel _1x7(1) The voice kids esp _7x3(1) The voice chile _3x25(5) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) Triage _1x8(1) 
-- sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) Kinnporsche _1x11(1) The voice chile _3x30(5) The voice arg _4x6(5) The voice kids esp _7x4(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Sytycd _17x5(1) Dont forget the lyrics _1x4(1) Beat shazam _5x4(1) Triage _1x9(1) Ohmnanon upvel _1x8(1) 
+- sem 16-05-2022 -> The voice kids portugal _3x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
+- sem 23-05-2022 -> Rpdrasu _7x2(1) The voice chile _3x12(11) Sytycd _17x2(1) Two pints of lager _3x5(2) Earthmix space _1x18(1) Rpdras _7x2(1) The voice kids portugal _3x3(1) Triage _1x6(1) 
+- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) The voice chile _3x20(8) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) Triage _1x7(1) 
+- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Earthmix space _1x19(1) Ohmnanon upvel _1x7(1) The voice kids esp _7x3(1) The voice chile _3x25(5) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) Triage _1x8(1) 
+- sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) The voice chile _3x30(5) The voice arg _4x6(5) The voice kids esp _7x4(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Sytycd _17x5(1) Dont forget the lyrics _1x4(1) Beat shazam _5x4(1) Triage _1x9(1) Ohmnanon upvel _1x8(1) 
 
 
 
@@ -56,8 +56,8 @@
 - mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
 - mois 01-03-2022 -> Cupids last wish _1x3(2) Earthmix space _1x13(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 - mois 01-04-2022 -> Ohmnanon upvel _1x2(1) Earthmix space _1x15(2) Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
-- mois 01-05-2022 -> Druck _8x2(1) Earthmix space _1x17(2) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(2) Kinnporsche _1x4(3) Call me mother _1x2(1) Trivia quest _1x7(6) Enchante _1x6(1) Quaranthings _2x2(1) 
-- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) Kinnporsche _1x9(5) The voice chile _3x20(19) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+- mois 01-05-2022 -> Druck _8x2(1) Earthmix space _1x17(2) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(2) Call me mother _1x2(1) Trivia quest _1x7(6) Enchante _1x6(1) Quaranthings _2x2(1) 
+- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) The voice chile _3x20(19) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 
 
 
@@ -153,13 +153,13 @@
 * conclu 13/05/22 = Earthmix space _1 > 2; 
 * conclu 14/05/22 = Earthmix space _1 > 2; 
 * conclu 15/05/22 = Earthmix space _1 > 2; 
-* conclu 16/05/22 = Kinnporsche _1 > 3; Earthmix space _1 > 1; 
-* conclu 17/05/22 = Kinnporsche _1 > 3; Earthmix space _1 > 1; 
-* conclu 18/05/22 = Kinnporsche _1 > 2; Earthmix space _1 > 1; 
-* conclu 19/05/22 = Kinnporsche _1 > 2; Earthmix space _1 > 1; 
-* conclu 20/05/22 = The voice chile _3 > 3; Earthmix space _1 > 2; Kinnporsche _1 > 1; 
+* conclu 16/05/22 = Earthmix space _1 > 1; 
+* conclu 17/05/22 = Earthmix space _1 > 1; 
+* conclu 18/05/22 = Earthmix space _1 > 1; 
+* conclu 19/05/22 = Earthmix space _1 > 1; 
+* conclu 20/05/22 = The voice chile _3 > 3; Earthmix space _1 > 2; 
 * conclu 21/05/22 = The voice chile _3 > 2; Earthmix space _1 > 1; 
-* conclu 22/05/22 = The voice chile _3 > 6; Earthmix space _1 > 2; Kinnporsche _1 > 1; 
+* conclu 22/05/22 = The voice chile _3 > 6; Earthmix space _1 > 2; 
 * conclu 23/05/22 = The voice chile _3 > 6; Earthmix space _1 > 2; 
 * conclu 24/05/22 = The voice chile _3 > 6; Earthmix space _1 > 4; 
 * conclu 25/05/22 = The voice chile _3 > 6; Earthmix space _1 > 4; 
@@ -173,15 +173,15 @@
 * conclu 02/06/22 = The voice chile _3 > 11; Earthmix space _1 > 4; The voice kids portugal _3 > 1; 
 * conclu 03/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Dont forget the lyrics _1 > 1; 
 * conclu 04/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Agt _17 > 1; 
-* conclu 05/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 1; 
-* conclu 06/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 1; The voice kids portugal _3 > 1; 
-* conclu 07/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 1; Ohmnanon upvel _1 > 1; 
-* conclu 08/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
-* conclu 09/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
-* conclu 10/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
-* conclu 11/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Kinnporsche _1 > 1; Le flambeau _1 > 1; 
-* conclu 12/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 2; The voice arg _4 > 2; Le flambeau _1 > 1; 
-* conclu 13/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Kinnporsche _1 > 2; The voice arg _4 > 2; Le flambeau _1 > 1; 
+* conclu 05/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; 
+* conclu 06/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice kids portugal _3 > 1; 
+* conclu 07/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Ohmnanon upvel _1 > 1; 
+* conclu 08/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; Le flambeau _1 > 1; 
+* conclu 09/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Le flambeau _1 > 1; 
+* conclu 10/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Le flambeau _1 > 1; 
+* conclu 11/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Le flambeau _1 > 1; 
+* conclu 12/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Le flambeau _1 > 1; 
+* conclu 13/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice arg _4 > 2; Le flambeau _1 > 1; 
 
 
 
@@ -324,35 +324,35 @@ concluBis 12/05/22 = Earthmix space _1 > 6;
 concluBis 13/05/22 = Earthmix space _1 > 6; 
 concluBis 14/05/22 = Earthmix space _1 > 6; 
 concluBis 15/05/22 = Earthmix space _1 > 6; The voice kids portugal _3 > 1; 
-concluBis 16/05/22 = Kinnporsche _1 > 5; Earthmix space _1 > 3; 
-concluBis 17/05/22 = Kinnporsche _1 > 5; Triage _1 > 3; Earthmix space _1 > 3; 
-concluBis 18/05/22 = Kinnporsche _1 > 4; Earthmix space _1 > 3; 
-concluBis 19/05/22 = Kinnporsche _1 > 4; Earthmix space _1 > 3; 
-concluBis 20/05/22 = The voice chile _3 > 7; Earthmix space _1 > 6; Kinnporsche _1 > 3; The voice kids portugal _3 > 2; 
-concluBis 21/05/22 = The voice chile _3 > 6; Earthmix space _1 > 3; Kinnporsche _1 > 2; 
-concluBis 22/05/22 = The voice chile _3 > 10; Earthmix space _1 > 6; Kinnporsche _1 > 3; 
-concluBis 23/05/22 = The voice chile _3 > 10; Earthmix space _1 > 6; Kinnporsche _1 > 2; 
+concluBis 16/05/22 = Earthmix space _1 > 3; 
+concluBis 17/05/22 = Triage _1 > 3; Earthmix space _1 > 3; 
+concluBis 18/05/22 = Earthmix space _1 > 3; 
+concluBis 19/05/22 = Earthmix space _1 > 3; 
+concluBis 20/05/22 = The voice chile _3 > 7; Earthmix space _1 > 6; The voice kids portugal _3 > 2; 
+concluBis 21/05/22 = The voice chile _3 > 6; Earthmix space _1 > 3; 
+concluBis 22/05/22 = The voice chile _3 > 10; Earthmix space _1 > 6; 
+concluBis 23/05/22 = The voice chile _3 > 10; Earthmix space _1 > 6; 
 concluBis 24/05/22 = The voice chile _3 > 10; Earthmix space _1 > 8; Two pints of lager _3 > 2; 
 concluBis 25/05/22 = The voice chile _3 > 10; Earthmix space _1 > 8; Two pints of lager _3 > 2; 
 concluBis 26/05/22 = The voice chile _3 > 16; Earthmix space _1 > 8; Beat shazam _2 > 3; Two pints of lager _3 > 2; Sytycd _17 > 1; 
 concluBis 27/05/22 = The voice chile _3 > 16; Earthmix space _1 > 8; Beat shazam _2 > 4; Two pints of lager _3 > 3; Triage _1 > 1; Druck _8 > 1; 
 concluBis 28/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Beat shazam _2 > 4; Two pints of lager _3 > 3; Triage _1 > 1; 
 concluBis 29/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Beat shazam _2 > 4; Triage _1 > 1; Druck _8 > 1; 
-concluBis 30/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Beat shazam _2 > 4; Triage _1 > 3; Kinnporsche _1 > 1; Druck _8 > 1; 
-concluBis 31/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Beat shazam _2 > 4; Triage _1 > 3; Kinnporsche _1 > 1; Druck _8 > 1; 
+concluBis 30/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Beat shazam _2 > 4; Triage _1 > 3; Druck _8 > 1; 
+concluBis 31/05/22 = The voice chile _3 > 18; Earthmix space _1 > 6; Beat shazam _2 > 4; Triage _1 > 3; Druck _8 > 1; 
 concluBis 01/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Triage _1 > 4; Beat shazam _2 > 4; Beat shazam _5 > 3; Dont forget the lyrics _1 > 2; 
 concluBis 02/06/22 = The voice chile _3 > 19; Earthmix space _1 > 8; The voice kids portugal _3 > 3; Dont forget the lyrics _1 > 2; 
 concluBis 03/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Dont forget the lyrics _1 > 3; Sytycd _17 > 1; 
-concluBis 04/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Agt _17 > 3; Sky in your heart _1 > 2; Kinnporsche _1 > 1; 
-concluBis 05/06/22 = The voice chile _3 > 20; Earthmix space _1 > 9; Kinnporsche _1 > 5; 
-concluBis 06/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice kids portugal _3 > 5; Kinnporsche _1 > 3; Want to see you _1 > 1; 
-concluBis 07/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Kinnporsche _1 > 3; The voice kids portugal _3 > 3; Ohmnanon upvel _1 > 3; Triage _1 > 2; 
-concluBis 08/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; Triage _1 > 1; The voice kids portugal _3 > 1; 
-concluBis 09/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; 
-concluBis 10/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 4; Kinnporsche _1 > 3; Le flambeau _1 > 3; /9-1-1 _5 > 1; 
-concluBis 11/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 6; Kinnporsche _1 > 3; Le flambeau _1 > 3; The voice kids esp _7 > 2; 
-concluBis 12/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Kinnporsche _1 > 6; The voice arg _4 > 6; Le flambeau _1 > 3; The voice kids portugal _3 > 1; /9-1-1 _5 > 1; 
-concluBis 13/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Kinnporsche _1 > 6; The voice arg _4 > 5; Le flambeau _1 > 3; 
+concluBis 04/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Agt _17 > 3; Sky in your heart _1 > 2; 
+concluBis 05/06/22 = The voice chile _3 > 20; Earthmix space _1 > 9; 
+concluBis 06/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice kids portugal _3 > 5; Want to see you _1 > 1; 
+concluBis 07/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice kids portugal _3 > 3; Ohmnanon upvel _1 > 3; Triage _1 > 2; 
+concluBis 08/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; Triage _1 > 1; The voice kids portugal _3 > 1; 
+concluBis 09/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 4; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; 
+concluBis 10/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 4; Le flambeau _1 > 3; /9-1-1 _5 > 1; 
+concluBis 11/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 6; Le flambeau _1 > 3; The voice kids esp _7 > 2; 
+concluBis 12/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 6; Le flambeau _1 > 3; The voice kids portugal _3 > 1; /9-1-1 _5 > 1; 
+concluBis 13/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice arg _4 > 5; Le flambeau _1 > 3; 
 
 
 

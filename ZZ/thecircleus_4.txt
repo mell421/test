@@ -1,37 +1,37 @@
-aEff/aeff.md:- 01/06/22 (eff) - Earthmix space _1{279} F4 thailand _1{35} Triage _1{26} The voice chile _3{26} Kinnporsche _1{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} 
-aEff/aeff.md:- 02/06/22 (eff) - Earthmix space _1{282} F4 thailand _1{35} Triage _1{29} The voice chile _3{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
-aEff/aeff.md:- 03/06/22 (eff) - Earthmix space _1{284} F4 thailand _1{35} The voice chile _3{31} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
-aEff/aeff.md:- 04/06/22 (eff) - Earthmix space _1{286} F4 thailand _1{35} The voice chile _3{33} Triage _1{29} Kinnporsche _1{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
+aEff/aeff.md:- 01/06/22 (eff) - Earthmix space _1{279} F4 thailand _1{35} Triage _1{26} The voice chile _3{26} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} 
+aEff/aeff.md:- 02/06/22 (eff) - Earthmix space _1{282} F4 thailand _1{35} Triage _1{29} The voice chile _3{29} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+aEff/aeff.md:- 03/06/22 (eff) - Earthmix space _1{284} F4 thailand _1{35} The voice chile _3{31} Triage _1{29} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+aEff/aeff.md:- 04/06/22 (eff) - Earthmix space _1{286} F4 thailand _1{35} The voice chile _3{33} Triage _1{29} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 aEff/aeff.md:- 05/05/22 - 492* The circle us _4{0} Triage _1{5} Druck _8{2} 
-aEff/aeff.md:- 05/06/22 (eff) - Earthmix space _1{288} The voice chile _3{35} F4 thailand _1{35} Triage _1{29} Kinnporsche _1{25} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
+aEff/aeff.md:- 05/06/22 (eff) - Earthmix space _1{288} The voice chile _3{35} F4 thailand _1{35} Triage _1{29} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 aEff/aeff.md:- 06/05/22 - 226* Close friend _2{0} Clik clak clok _1{0} The circle us _4{2} Triage _1{7} 
-aEff/aeff.md:- 06/06/22 (eff) - Earthmix space _1{290} The voice chile _3{37} F4 thailand _1{35} Triage _1{29} Kinnporsche _1{27} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+aEff/aeff.md:- 06/06/22 (eff) - Earthmix space _1{290} The voice chile _3{37} F4 thailand _1{35} Triage _1{29} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
 aEff/aeff.md:- 07/05/22 - 164* Close friend _2{0} Clik clak clok _1{0} The circle us _4{4} 
-aEff/aeff.md:- 07/06/22 (eff) - Earthmix space _1{293} The voice chile _3{40} F4 thailand _1{35} Triage _1{30} Kinnporsche _1{30} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
-aEff/aeff.md:- 08/06/22 (eff) - Earthmix space _1{295} The voice chile _3{42} F4 thailand _1{35} Kinnporsche _1{32} Triage _1{31} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
-aEff/aeff.md:- 09/06/22 (eff) - Earthmix space _1{297} The voice chile _3{44} F4 thailand _1{35} Kinnporsche _1{34} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{13} Two pints of lager _3{13} 
-aEff/aeff.md:- 10/06/22 (eff) - Earthmix space _1{299} The voice chile _3{46} Kinnporsche _1{36} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-aEff/aeff.md:- 11/06/22 (eff) - Earthmix space _1{301} The voice chile _3{48} Kinnporsche _1{38} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+aEff/aeff.md:- 07/06/22 (eff) - Earthmix space _1{293} The voice chile _3{40} F4 thailand _1{35} Triage _1{30} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+aEff/aeff.md:- 08/06/22 (eff) - Earthmix space _1{295} The voice chile _3{42} F4 thailand _1{35} Triage _1{31} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+aEff/aeff.md:- 09/06/22 (eff) - Earthmix space _1{297} The voice chile _3{44} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{13} Two pints of lager _3{13} 
+aEff/aeff.md:- 10/06/22 (eff) - Earthmix space _1{299} The voice chile _3{46} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+aEff/aeff.md:- 11/06/22 (eff) - Earthmix space _1{301} The voice chile _3{48} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
 aEff/aeff.md:- 12/05/22 - 300* The circle us _4{15} Ohmnanon upvel _1{5} Triage _1{15} 
 aEff/aeff.md:- 12/05/22 (eff) - Earthmix space _1{238} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
-aEff/aeff.md:- 12/06/22 (eff) - Earthmix space _1{303} The voice chile _3{50} Kinnporsche _1{40} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+aEff/aeff.md:- 12/06/22 (eff) - Earthmix space _1{303} The voice chile _3{50} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
 aEff/aeff.md:- 13/05/22 - 317* The circle us _4{15} Ohmnanon upvel _1{5} Triage _1{15} 
-aEff/aeff.md:- 13/06/22 (eff) - Earthmix space _1{305} The voice chile _3{52} Kinnporsche _1{42} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 13/06/22 (eff) - Earthmix space _1{305} The voice chile _3{52} F4 thailand _1{35} Triage _1{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
 aEff/aeff.md:- 14/05/22 - 294* The circle us _4{15} Ohmnanon upvel _1{5} Triage _1{15} 
 aEff/aeff.md:- 14/05/22 (eff) - Earthmix space _1{242} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
 aEff/aeff.md:- 15/05/22 - 449* The voice kids portugal _3{0} The circle us _4{15} 
 aEff/aeff.md:- 20/05/22 (eff) - Earthmix space _1{254} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{17} The circle us _4{16} 
 aEff/aeff.md:- 21/05/22 (eff) - Earthmix space _1{256} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{17} The circle us _4{16} 
-aEff/aeff.md:- 22/05/22 (eff) - Earthmix space _1{258} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{17} Kinnporsche _1{16} The circle us _4{16} 
-aEff/aeff.md:- 26/05/22 (eff) - Earthmix space _1{267} F4 thailand _1{35} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:- 27/05/22 (eff) - Earthmix space _1{269} F4 thailand _1{35} Kinnporsche _1{20} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:- 28/05/22 (eff) - Earthmix space _1{271} F4 thailand _1{35} Kinnporsche _1{20} Triage _1{19} Cupids last wish _1{19} Trivia quest _1{18} The voice chile _3{17} The circle us _4{16} 
-aEff/aeff.md:- 29/05/22 (eff) - Earthmix space _1{273} F4 thailand _1{35} Kinnporsche _1{20} Triage _1{20} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:- 30/05/22 (eff) - Earthmix space _1{275} F4 thailand _1{35} The voice chile _3{21} Triage _1{21} Kinnporsche _1{20} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:- 31/05/22 (eff) - Earthmix space _1{277} F4 thailand _1{35} Triage _1{24} The voice chile _3{24} Kinnporsche _1{22} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) Kinnporsche _1x9(5) The voice chile _3x20(19) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+aEff/aeff.md:- 22/05/22 (eff) - Earthmix space _1{258} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} Triage _1{17} The circle us _4{16} 
+aEff/aeff.md:- 26/05/22 (eff) - Earthmix space _1{267} F4 thailand _1{35} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:- 27/05/22 (eff) - Earthmix space _1{269} F4 thailand _1{35} Cupids last wish _1{19} Triage _1{18} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:- 28/05/22 (eff) - Earthmix space _1{271} F4 thailand _1{35} Triage _1{19} Cupids last wish _1{19} Trivia quest _1{18} The voice chile _3{17} The circle us _4{16} 
+aEff/aeff.md:- 29/05/22 (eff) - Earthmix space _1{273} F4 thailand _1{35} Triage _1{20} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:- 30/05/22 (eff) - Earthmix space _1{275} F4 thailand _1{35} The voice chile _3{21} Triage _1{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:- 31/05/22 (eff) - Earthmix space _1{277} F4 thailand _1{35} Triage _1{24} The voice chile _3{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Triage _1x8(7) The voice chile _3x20(19) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 apercu/apercu22.md:- sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) Triage _1x4(1) 
-apercu/apercu22.md:- sem 16-05-2022 -> Kinnporsche _1x6(2) The voice kids portugal _3x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
+apercu/apercu22.md:- sem 16-05-2022 -> The voice kids portugal _3x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) Triage _1x5(1) 
 apercu/apercu22.md:* conclu 05/05/22 = Earthmix space _1 > 2; The circle us _4 > 2; Triage _1 > 1; 
 apercu/apercu22.md:* conclu 06/05/22 = Earthmix space _1 > 2; The circle us _4 > 2; Triage _1 > 1; 
 apercu/apercu22.md:* conclu 07/05/22 = Earthmix space _1 > 2; The circle us _4 > 2; Triage _1 > 1; 

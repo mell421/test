@@ -135,7 +135,6 @@ i = From dusk till dawn _2
 i = Glow up _2
 i = Goblin _1
 i = Insiders _1
-i = Kinnporsche _1
 i = Koishite akuma _1
 i = Les engages _3
 i = Love area _1
