@@ -41,7 +41,6 @@ Dont forget the lyrics 1x6
 The voice arg 4x17
 Survivor 30x5
 Camping paradis 13x2
-Triage 1x11
 The voice dominicana 2x3
 The voice kids portugal 3x7
 Rpdrasu 7x2
@@ -90,7 +89,6 @@ The circle us 4x5
 Close friend 2x1
 Clik clak clok 1x1
 The circle us 4x1
-Triage 1x1
 Druck 8x1
 Bullshit the game show 1x2
 Bullshit the game show 1x1

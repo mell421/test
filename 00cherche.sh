@@ -9,7 +9,7 @@ list99=(
 # >= 100
 "Earthmix space _1" "5515 never too late _1" "F4 thailand _1" "Cupids last wish _1" "The voice ph _1" 
 # 99-50
-"Triage _1" "Trivia quest _1" "The voice chile _3" "Young sheldon _5" "Tbbt _11" 
+"Trivia quest _1" "The voice chile _3" "Young sheldon _5" "Tbbt _11" 
 # 49-40
 "The circle us _4" 
 # 39-30
@@ -41,7 +41,7 @@ list99=(
 listAsc=( 
 # 1
 "The voice arg _4" "Dont forget the lyrics _1" "Beat shazam _5" "Le flambeau _1" 
-"The voice chile _3" "Triage _1" "Omhnanon upvel _1" "The voice kids portugal _3" "Want to see you _1" 
+"The voice chile _3" "Omhnanon upvel _1" "The voice kids portugal _3" "Want to see you _1" 
 "Earthmix space _1" "The voice kids esp _7" 
 "Agt _17" "Sky in your heart _1" "Sytycd _17" 
 # 2
