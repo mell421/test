@@ -39,7 +39,6 @@ Close friend 2x3
 Ohmnanon upvel 1x9
 Dont forget the lyrics 1x6
 The voice arg 4x17
-Survivor 30x5
 Camping paradis 13x2
 The voice dominicana 2x3
 The voice kids portugal 3x7
@@ -52,7 +51,6 @@ Bulgasal 1x4
 The voice chile 3x37
 Sytycd 17x6
 Dancing with myself 1x2
-Survivor 30x1
 Unforgotten night 1x1
 Bulgasal 1x1
 The voice dominicana 2x1
