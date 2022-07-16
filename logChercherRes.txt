@@ -47,7 +47,6 @@ carac :  2728 ZZ/Glowup_2.txt
 carac :  2734 ZZ/Biteme_1.txt
 carac :  27849 ZZ/F4thailand_1.txt
 carac :  2785 ZZ/Theuntamed_1.txt
-carac :  2789 ZZ/Enchante_1.txt
 carac :  2865 ZZ/Lucifer_4.txt
 carac :  3020 ZZ/Aokivuanpaianonayami_1.txt
 carac :  3220 ZZ/Tokyoghoul_3.txt
@@ -127,7 +126,6 @@ i = Drag i love you _1
 i = Druck _8
 i = Earthmix space _1
 i = Elite _4
-i = Enchante _1
 i = F4 thailand _1
 i = From dusk till dawn _2
 i = Glow up _2
@@ -213,7 +211,6 @@ ligne :  209 ZZ/F4thailand_1.txt
 ligne :  21 ZZ/Beatshazam_5.txt
 ligne :  21 ZZ/Biteme_1.txt
 ligne :  21 ZZ/Buffy_1.txt
-ligne :  21 ZZ/Enchante_1.txt
 ligne :  21 ZZ/Lucifer_4.txt
 ligne :  21 ZZ/Postmortem_1.txt
 ligne :  21 ZZ/Thevoicekidsesp_7.txt
@@ -331,7 +328,6 @@ mot   :  371 ZZ/Loveatnight_1.txt
 mot   :  371 ZZ/Thevoicenl_12.txt
 mot   :  372 ZZ/Lucifer_4.txt
 mot   :  379 ZZ/Biteme_1.txt
-mot   :  405 ZZ/Enchante_1.txt
 mot   :  412 ZZ/Controlz_2.txt
 mot   :  412 ZZ/Glowup_2.txt
 mot   :  423 ZZ/Aokivuanpaianonayami_1.txt

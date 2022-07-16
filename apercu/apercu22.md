@@ -22,16 +22,16 @@
 - sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) 
 - sem 17-01-2022 -> The voice nl _12x3(1) Earthmix space _1x11(1) /9-1-1 lone star _3x3(1) 
 - sem 24-01-2022 -> The voice ukr _12x2(1) F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
-- sem 31-01-2022 -> The voice ukr _12x3(1) F4 thailand _1x7(2) Enchante _1x2(1) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
-- sem 07-02-2022 -> The voice ukr _12x4(1) Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Enchante _1x3(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
-- sem 14-02-2022 -> The voice ukr _12x5(1) Earthmix space _1x12(1) All of us are dead _1x3(2) F4 thailand _1x9(1) Enchante _1x4(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
-- sem 21-02-2022 -> The voice ukr _12x6(1) Enchante _1x5(1) Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) 
+- sem 31-01-2022 -> The voice ukr _12x3(1) F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
+- sem 07-02-2022 -> The voice ukr _12x4(1) Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
+- sem 14-02-2022 -> The voice ukr _12x5(1) Earthmix space _1x12(1) All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
+- sem 21-02-2022 -> The voice ukr _12x6(1) Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) 
 - sem 28-02-2022 -> Cupids last wish _1x3(2) Earthmix space _1x13(1) Cherry blossoms after winter _1x2(1) 
 - sem 07-03-2022 -> The tuxedo _1x2(1) Drag i love you _1x2(1) 
 - sem 14-03-2022 -> Drag i love you _1x3(1) 
 - sem 21-03-2022 -> Cupids last wish _1x5(2) Earthmix space _1x14(1) 
 - sem 28-03-2022 -> 
-- sem 04-04-2022 -> Enchante _1x6(1) Quaranthings _2x2(1) Ohmnanon upvel _1x2(1) Earthmix space _1x15(1) 
+- sem 04-04-2022 -> Quaranthings _2x2(1) Ohmnanon upvel _1x2(1) Earthmix space _1x15(1) 
 - sem 11-04-2022 -> Trivia quest _1x7(6) Earthmix space _1x16(1) 
 - sem 18-04-2022 -> Call me mother _1x2(1) Ohmnanon upvel _1x3(1) 
 - sem 25-04-2022 -> 
@@ -53,10 +53,10 @@
 
 ## apercu mois
 - mois 01-01-2022 -> 5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) Earthmix space _1x10(3) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Baker boys _1x4(1) 
-- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Enchante _1x2(1) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
-- mois 01-03-2022 -> Cupids last wish _1x3(2) Earthmix space _1x13(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Earthmix space _1x11(1) Young sheldon _5x6(2) 
+- mois 01-03-2022 -> Cupids last wish _1x3(2) Earthmix space _1x13(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 - mois 01-04-2022 -> Ohmnanon upvel _1x2(1) Earthmix space _1x15(2) Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
-- mois 01-05-2022 -> Druck _8x2(1) Earthmix space _1x17(2) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(2) Call me mother _1x2(1) Trivia quest _1x7(6) Enchante _1x6(1) Quaranthings _2x2(1) 
+- mois 01-05-2022 -> Druck _8x2(1) Earthmix space _1x17(2) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(2) Call me mother _1x2(1) Trivia quest _1x7(6) Quaranthings _2x2(1) 
 - mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) The voice chile _3x20(19) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 
 

@@ -244,6 +244,7 @@
 |cutie pie|cutie pie|12|serie|thailande|<!--  -->
 |kinnporsche|kinnporsche|14|serie|thailande|<!-- -->
 |triage|triage|13|serie|thailande|<!--  -->
+|enchante 1|enchante|10|serie|thailande|<!-- -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -305,7 +306,6 @@
 |meet my angel 2|meet my angel 2|9|serie|philippines|3|<!-- -->
 |color rush 2|color rush 2|8|serie|corée|1|<!--  -->
 |love at night 1|||serie(non)||1|<!--  -->
-|enchante 1|enchante|10|serie|thailande|5|<!-- -->
 |love stage 2022|love stage|?|serie|thailande|3|<!--  -->
 |all of us are dead 1||||corée|2|<!--  -->
 |cupids last wish|cupids last wish|?|serie|thailande|4|<!--  -->

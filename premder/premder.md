@@ -95,7 +95,6 @@ Bullshit the game show 1x1
 Call me mother 1x1
 Trivia quest 1x6
 Trivia quest 1x1
-Enchante 1x5
 Quaranthings 2x1
 Ohmnanon upvel 1x1
 Cupids last wish 1x4
@@ -112,7 +111,6 @@ All of us are dead 1x2
 All of us are dead 1x1
 Meet my angel 2x3
 Love stage 2022 1x1
-Enchante 1x1
 The voice ph 1x4
 The voice ph 1x1
 Love at night 1x1

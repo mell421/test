@@ -1,15 +1,15 @@
 aEff/aeff.md:- 04/02/22 - 101* love stage 2022 _1{0} /9-1-1 lone star _3{7} 
-aEff/aeff.md:- 05/02/22 - 146* enchante _1{2} love stage 2022 _1{0} 
+aEff/aeff.md:- 05/02/22 - 146* love stage 2022 _1{0} 
 aEff/aeff.md:- 10/02/22 - 147* love stage 2022 _1{1} /9-1-1 lone star _3{9} the voice ukr _12{7} meet my angel _2{8} 
 aEff/aeff.md:- 11/02/22 - 156* love stage 2022 _1{3} /9-1-1 lone star _3{9} the voice ukr _12{7} 
-aEff/aeff.md:- 12/02/22 - 216* enchante _1{3} love stage 2022 _1{3} 
+aEff/aeff.md:- 12/02/22 - 216* love stage 2022 _1{3} 
 aEff/aeff.md:- 16/02/22 - 282* love stage 2022 _1{4} the voice ukr _12{8} earthmix space _1{97} all of us are dead _1{7} 
 aEff/aeff.md:- 17/02/22 - 203* love stage 2022 _1{6} the voice ukr _12{8} 
 aEff/aeff.md:- 18/02/22 - 156* love stage 2022 _1{6} 
-apercu/apercu22.md:- mois 01-03-2022 -> Cupids last wish _1x3(2) Earthmix space _1x13(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Enchante _1x5(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
-apercu/apercu22.md:- sem 07-02-2022 -> The voice ukr _12x4(1) Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Enchante _1x3(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
-apercu/apercu22.md:- sem 14-02-2022 -> The voice ukr _12x5(1) Earthmix space _1x12(1) All of us are dead _1x3(2) F4 thailand _1x9(1) Enchante _1x4(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
-apercu/apercu22.md:- sem 21-02-2022 -> The voice ukr _12x6(1) Enchante _1x5(1) Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) 
+apercu/apercu22.md:- mois 01-03-2022 -> Cupids last wish _1x3(2) Earthmix space _1x13(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercu22.md:- sem 07-02-2022 -> The voice ukr _12x4(1) Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
+apercu/apercu22.md:- sem 14-02-2022 -> The voice ukr _12x5(1) Earthmix space _1x12(1) All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
+apercu/apercu22.md:- sem 21-02-2022 -> The voice ukr _12x6(1) Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) 
 apercu/apercu22.md:* conclu 10/02/22 = Love stage 2022 _1 > 2; Earthmix space _1 > 1; 
 apercu/apercu22.md:* conclu 16/02/22 = Earthmix space _1 > 4; Love stage 2022 _1 > 1; Forever knight _1 > 1; 
 apercu/apercu22.md:* concluBis 10/02/22 = Love stage 2022 _1 > 4; Earthmix space _1 > 3; Meet my angel _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 

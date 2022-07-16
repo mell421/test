@@ -15,7 +15,7 @@ list99=(
 # 39-30
 "Ohmnanon upvel _1" "The voice ukr _12" 
 # 29-20
-"The voice kids portugal _3" "Beat shazam _2" "/9-1-1 lone star _3" "/9-1-1 _5" "Meet my angel _2" "Something in my room _1" "Two pints of lager _3" "The player _1" "7project _1" "Enchante _1" 
+"The voice kids portugal _3" "Beat shazam _2" "/9-1-1 lone star _3" "/9-1-1 _5" "Meet my angel _2" "Something in my room _1" "Two pints of lager _3" "The player _1" "7project _1" 
 # 19-15
 "Druck _8" "Sytycd _17" "Love stage 2022 _1" "Dont forget the lyrics _1" "Unlocked _1" "The shipper _1" 
 # 14-10
@@ -53,7 +53,7 @@ listAsc=(
 # 4
 "Cupids last wish _1" "Drag i love you _1" "The tuxedo _1" 
 # 5
-"Cherry blossoms after winter _1" "The voice ukr _12" "Enchante _1" "Something in my room _1" "F4 thailand _1" 
+"Cherry blossoms after winter _1" "The voice ukr _12" "Something in my room _1" "F4 thailand _1" 
 # 6
 "Love stage 2022 _1" "All of us are dead _1" "/9-1-1 lone star _3" "Meet my angel _2" "The voice ph _1" 
 # 7
