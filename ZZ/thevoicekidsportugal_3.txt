@@ -1,9 +1,9 @@
-aEff/aeff.md:- 02/06/22 - 269* The voice kids portugal _3{6} Beat shazam _5{4} Dont forget the lyrics _1{3} The voice chile _3{29} The voice kids esp _7{2} 
+aEff/aeff.md:- 02/06/22 - 269* The voice kids portugal _3{6} Beat shazam _5{4} Dont forget the lyrics _1{3} The voice chile _3{29} 
 aEff/aeff.md:- 03/06/22 - 262* The voice chile _3{31} Sytycd _17{4} The voice kids portugal _3{8} Beat shazam _5{4} Dont forget the lyrics _1{4} 
 aEff/aeff.md:- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} The voice chile _3{33} Sytycd _17{5} The voice kids portugal _3{8} Beat shazam _5{4} Dont forget the lyrics _1{6} 
-aEff/aeff.md:- 05/06/22 - 426* Earthmix space _1{288} Ohmnanon upvel _1{8} The voice kids esp _7{2} The voice chile _3{35} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} The voice kids portugal _3{8} 
-aEff/aeff.md:- 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Earthmix space _1{290} Ohmnanon upvel _1{8} The voice kids esp _7{2} The voice chile _3{37} Agt _17{2} Sky in your heart _1{1} 
-aEff/aeff.md:- 07/06/22 - 483* Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} Earthmix space _1{293} The voice kids esp _7{3} The voice chile _3{40} Agt _17{3} 
+aEff/aeff.md:- 05/06/22 - 426* Earthmix space _1{288} Ohmnanon upvel _1{8} The voice chile _3{35} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} The voice kids portugal _3{8} 
+aEff/aeff.md:- 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Earthmix space _1{290} Ohmnanon upvel _1{8} The voice chile _3{37} Agt _17{2} Sky in your heart _1{1} 
+aEff/aeff.md:- 07/06/22 - 483* Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} Earthmix space _1{293} The voice chile _3{40} Agt _17{3} 
 aEff/aeff.md:- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} Earthmix space _1{295} 
 aEff/aeff.md:- 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} 
 aEff/aeff.md:- 09/06/22 (eff) - Earthmix space _1{297} The voice chile _3{44} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{13} Two pints of lager _3{13} 
@@ -17,15 +17,15 @@ aEff/aeff.md:- 17/05/22 - 616* The voice kids portugal _3{2}
 aEff/aeff.md:- 20/05/22 - 346* The voice chile _3{0} The voice kids portugal _3{2} 
 aEff/aeff.md:- 21/05/22 - 162* Rpdras _7{0} The voice chile _3{2} The voice kids portugal _3{3} 
 aEff/aeff.md:- 27/05/22 - 134* Druck _8{2} The voice kids portugal _3{4} Sytycd _17{2} The voice chile _3{15} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
-aEff/aeff.md:- 28/05/22 - 128* Dont forget the lyrics _1{0} The voice chile _3{17} The voice kids esp _7{0} Druck _8{3} The voice kids portugal _3{4} Sytycd _17{2} 
-aEff/aeff.md:- 29/05/22 - 136* Dont forget the lyrics _1{0} The voice chile _3{19} The voice kids esp _7{0} Druck _8{3} The voice kids portugal _3{4} Sytycd _17{2} 
-aEff/aeff.md:- 30/05/22 - 136* Dont forget the lyrics _1{0} The voice chile _3{21} The voice kids esp _7{0} Druck _8{4} The voice kids portugal _3{4} Sytycd _17{2} 
-aEff/aeff.md:- 31/05/22 - 116* Dont forget the lyrics _1{1} The voice chile _3{24} The voice kids esp _7{1} Druck _8{6} The voice kids portugal _3{5} Sytycd _17{3} 
-apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) The voice chile _3x20(19) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
-apercu/apercu22.md:- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Earthmix space _1x19(1) Ohmnanon upvel _1x7(1) The voice kids esp _7x3(1) The voice chile _3x25(5) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) 
+aEff/aeff.md:- 28/05/22 - 128* Dont forget the lyrics _1{0} The voice chile _3{17} Druck _8{3} The voice kids portugal _3{4} Sytycd _17{2} 
+aEff/aeff.md:- 29/05/22 - 136* Dont forget the lyrics _1{0} The voice chile _3{19} Druck _8{3} The voice kids portugal _3{4} Sytycd _17{2} 
+aEff/aeff.md:- 30/05/22 - 136* Dont forget the lyrics _1{0} The voice chile _3{21} Druck _8{4} The voice kids portugal _3{4} Sytycd _17{2} 
+aEff/aeff.md:- 31/05/22 - 116* Dont forget the lyrics _1{1} The voice chile _3{24} Druck _8{6} The voice kids portugal _3{5} Sytycd _17{3} 
+apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) The voice chile _3x20(19) Druck _8x4(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Earthmix space _1x18(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+apercu/apercu22.md:- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Earthmix space _1x19(1) Ohmnanon upvel _1x7(1) The voice chile _3x25(5) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) 
 apercu/apercu22.md:- sem 16-05-2022 -> The voice kids portugal _3x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) 
 apercu/apercu22.md:- sem 23-05-2022 -> Rpdrasu _7x2(1) The voice chile _3x12(11) Sytycd _17x2(1) Two pints of lager _3x5(2) Earthmix space _1x18(1) Rpdras _7x2(1) The voice kids portugal _3x3(1) 
-apercu/apercu22.md:- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) The voice chile _3x20(8) The voice kids esp _7x2(1) Druck _8x4(2) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) 
+apercu/apercu22.md:- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) The voice chile _3x20(8) Druck _8x4(2) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) 
 apercu/apercu22.md:* conclu 02/06/22 = The voice chile _3 > 11; Earthmix space _1 > 4; The voice kids portugal _3 > 1; 
 apercu/apercu22.md:* conclu 06/06/22 = The voice chile _3 > 12; Earthmix space _1 > 4; The voice kids portugal _3 > 1; 
 apercu/apercu22.md:concluBis 02/06/22 = The voice chile _3 > 19; Earthmix space _1 > 8; The voice kids portugal _3 > 3; Dont forget the lyrics _1 > 2; 

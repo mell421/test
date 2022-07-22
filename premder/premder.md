@@ -44,7 +44,6 @@ The voice dominicana 2x3
 The voice kids portugal 3x7
 Rpdrasu 7x2
 Rpdras 7x2
-The voice kids esp 7x5
 The voice indonesia 5x2
 Drag race fr 1x1
 Bulgasal 1x4
@@ -72,7 +71,6 @@ Want to see you 1x1
 Agt 17x1
 Sky in your heart 1x1
 Dont forget the lyrics 1x1
-The voice kids esp 7x1
 Druck 8x3
 Beat shazam 2x4
 Beat shazam 5x1

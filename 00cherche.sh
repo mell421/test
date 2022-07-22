@@ -19,7 +19,7 @@ list99=(
 # 19-15
 "Druck _8" "Sytycd _17" "Love stage 2022 _1" "Dont forget the lyrics _1" "Unlocked _1" "The shipper _1" 
 # 14-10
-"The voice kids esp _7" "All of us are dead _1" "Beat shazam _5" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"All of us are dead _1" "Beat shazam _5" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
 "Drag i love you _1" "Love at night _1" "Agt _17" 
 # 7-6
@@ -42,7 +42,7 @@ listAsc=(
 # 1
 "The voice arg _4" "Dont forget the lyrics _1" "Beat shazam _5" "Le flambeau _1" 
 "The voice chile _3" "Omhnanon upvel _1" "The voice kids portugal _3" "Want to see you _1" 
-"Earthmix space _1" "The voice kids esp _7" 
+"Earthmix space _1" 
 "Agt _17" "Sky in your heart _1" "Sytycd _17" 
 # 2
 "Druck _8" "Beat shazam _2" "/9-1-1 _5" 

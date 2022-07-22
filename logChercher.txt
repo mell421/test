@@ -134,11 +134,6 @@ ligne :  32 ZZ/Theshipper_1.txt
 mot   :  486 ZZ/Theshipper_1.txt
 carac :  3657 ZZ/Theshipper_1.txt
 
-i = The voice kids esp _7
-ligne :  21 ZZ/Thevoicekidsesp_7.txt
-mot   :  785 ZZ/Thevoicekidsesp_7.txt
-carac :  4773 ZZ/Thevoicekidsesp_7.txt
-
 i = All of us are dead _1
 ligne : 
 mot   : 
