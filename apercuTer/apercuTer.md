@@ -886,6 +886,7 @@
 ### sem 25-07-2022 
 * *insererici*
 * The voice kids esp _7
+* In relationship _1
 
 
 
@@ -913,18 +914,14 @@
 * $ order $
 * The voice arg _4
 * The voice chile _3
-* 
 * Close friend _2
 * Ohmnanon upvel _1
 * Dont forget the lyrics _1
-* 
 * Camping paradis _13
-* 
 * The voice dominicana _2
 * The voice kids portugal _3
 * Rpdrasu _7
 * Rpdras _7
-* 
 * The voice indonesia _5
 * Drag race fr _1
 * Bulgasal _1
@@ -950,7 +947,6 @@
 * Bullshit the game show _1
 * Call me mother _1
 * Trivia quest _1
-* 
 * Quaranthings _2
 * Cupids last wish _1
 * Drag i love you _1
@@ -1080,6 +1076,6 @@
 #### mois 01-07-2022 
 *insererici Drag tots _2 The challenge _3 The challenge _2 The challenge all stars _2 Survivor _29 Koh-lanta _28 The challenge _1 Top chef _13 Love victor _3 Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
 #### mois 01-08-2022 
-*insererici The voice kids esp _7 Survivor _30 Enchante _1 Triage _1 Kinnporsche _1 Cutie pie _1 The challenge all stars _1 The challenge all stars _3 Skam france _10*
+*insererici In relationship _1 The voice kids esp _7 Survivor _30 Enchante _1 Triage _1 Kinnporsche _1 Cutie pie _1 The challenge all stars _1 The challenge all stars _3 Skam france _10*
 
 [retour](./../index.html)
