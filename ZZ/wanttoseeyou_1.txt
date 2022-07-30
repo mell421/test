@@ -1,8 +1,8 @@
-aEff/aeff.md:- 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Earthmix space _1{290} Ohmnanon upvel _1{8} The voice chile _3{37} Agt _17{2} Sky in your heart _1{1} 
-aEff/aeff.md:- 07/06/22 - 483* Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} Earthmix space _1{293} The voice chile _3{40} Agt _17{3} 
-aEff/aeff.md:- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} Earthmix space _1{295} 
+aEff/aeff.md:- 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Ohmnanon upvel _1{8} The voice chile _3{37} Agt _17{2} Sky in your heart _1{1} 
+aEff/aeff.md:- 07/06/22 - 483* Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} The voice chile _3{40} Agt _17{3} 
+aEff/aeff.md:- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} 
 aEff/aeff.md:- 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} 
-apercu/apercu22.md:- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Earthmix space _1x19(1) Ohmnanon upvel _1x7(1) The voice chile _3x25(5) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) 
-apercu/apercu22.md:concluBis 06/06/22 = The voice chile _3 > 20; Earthmix space _1 > 8; The voice kids portugal _3 > 5; Want to see you _1 > 1; 
+apercu/apercu22.md:- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Ohmnanon upvel _1x7(1) The voice chile _3x25(5) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) 
+apercu/apercu22.md:concluBis 06/06/22 = The voice chile _3 > 20; The voice kids portugal _3 > 5; Want to see you _1 > 1; 
 apercuTer/apercuTer.md:* Want to see you _1
 index.html:            want to see you _1<br>

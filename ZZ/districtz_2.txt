@@ -1,22 +1,22 @@
 aEff/aeff.md:- 05/12/21 - 324* district z _2{0} 
 aEff/aeff.md:- 06/12/21 - 420* district z _2{0} 
-aEff/aeff.md:- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} unlocked _1{4} earthmix space _1{12} aggretsuko _4{1} 
-aEff/aeff.md:- 20/12/21 - 62* district z _2{3} f4 thailand _1{1} unlocked _1{4} earthmix space _1{14} 
+aEff/aeff.md:- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} unlocked _1{4} aggretsuko _4{1} 
+aEff/aeff.md:- 20/12/21 - 62* district z _2{3} f4 thailand _1{1} unlocked _1{4} 
 aEff/aeff.md:- 21/12/21 - 72* district z _2{4} f4 thailand _1{2} unlocked _1{5} 
 aEff/aeff.md:- 22/12/21 - 73* the player _1{0} district z _2{4} f4 thailand _1{2} unlocked _1{5} 
 aEff/aeff.md:- 23/12/21 - 78* the player _1{2} district z _2{4} f4 thailand _1{2} 
 apercu/apercu21.md:- sem 06-12-2021 -> District z _2x2(1) Baker boys _1x4(1) 
-apercu/apercu21.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
-apercu/apercu21.md:* conclu 19/12/21 = Earthmix space _1 > 2; District z _2 > 1; 
-apercu/apercu21.md:* concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
-apercu/apercu22.md:- mois 01-01-2022 -> 5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) Earthmix space _1x10(3) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Baker boys _1x4(1) 
+apercu/apercu21.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Aggretsuko _4x2(1) 
+apercu/apercu21.md:* conclu 19/12/21 = District z _2 > 1; 
+apercu/apercu21.md:* concluBis 19/12/21 = District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
+apercu/apercu22.md:- mois 01-01-2022 -> 5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Baker boys _1x4(1) 
 apercu/apercuglobal.md:- sem 06-12-2021 -> District z _2x2(1) Baker boys _1x4(1) 
-apercu/apercuglobal.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
-apercu/apercuglobal.md:* conclu 19/12/21 = Earthmix space _1 > 2; District z _2 > 1; 
-apercu/apercuglobal.md:* concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Aggretsuko _4x2(1) 
+apercu/apercuglobal.md:* conclu 19/12/21 = District z _2 > 1; 
+apercu/apercuglobal.md:* concluBis 19/12/21 = District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
 apercuTer/apercuTer.md:* District z _2
 apercuTer/apercuTer.md:*Ninja warrior _5 Friend.ship with kristsingto _1 Bonding _2 Sweet home _1 Tonhon chonlathee _1 Color rush _1 Follow my sunshine _1 Cheat _1 Interested in _1 My extraordinary _1 Lego masters fr _1 Gameboys _1 The voice vv _6 Ingredients _1 District z _1 Bt21 universe _1 Meet me outside _1*
-tab2021.html:    <td class="conclu">Earthmix space _1 > 2; District z _2 > 1; </td>
-tab2021.html:    <td class="conclubis">Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; </td>
+tab2021.html:    <td class="conclu">District z _2 > 1; </td>
+tab2021.html:    <td class="conclubis">District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; </td>
 tab2021.html:    <td class="resumesem">District z _2x2(1) Baker boys _1x4(1) </td>
-tab2021.html:    <td class="resumesem">District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) </td>
+tab2021.html:    <td class="resumesem">District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Aggretsuko _4x2(1) </td>

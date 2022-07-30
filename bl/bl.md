@@ -246,6 +246,7 @@
 |triage|triage|13|serie|thailande|<!--  -->
 |enchante 1|enchante|10|serie|thailande|<!-- -->
 |In relationship 1|In relationship|20|serie|thailande|<!--  -->
+|EMS|earth mix space|21|show|thailande|                        <!-- 40 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -293,7 +294,6 @@
 |the yearbook|the yearbook|8|serie|thailande|1|                 <!-- 36 -->
 |bite me|bite me|?|serie|thailande|2|                           <!-- 37 -->
 |7 project|7project|7|serie(bl/gl/het)|thailande|4|             <!-- 39 -->
-|EMS|earth mix space|?|show|thailande|8|                        <!-- 40 -->
 |Alice in borderland|alice in borderland|8|serie(**)|japon|1|   <!-- 41 -->
 |goblin|goblin|16|serie(***)|corée|1|                           <!-- 42 -->
 |love area|love area|8|serie|thailande|2|                       <!-- 43 -->

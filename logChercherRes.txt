@@ -124,7 +124,6 @@ i = District z _2
 i = Dont forget the lyrics _1
 i = Drag i love you _1
 i = Druck _8
-i = Earthmix space _1
 i = Elite _4
 i = F4 thailand _1
 i = From dusk till dawn _2

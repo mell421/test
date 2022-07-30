@@ -301,183 +301,183 @@
 - 16/12/21 (eff) - tbbt _11{13} 
 - 17/12/21 (eff) - tbbt _11{13} 
 - 18/12/21 (eff) - tbbt _11{13} 
-- 19/12/21 (eff) - tbbt _11{13} earthmix space _1{12} 5515 never too late _1{12} 
-- 20/12/21 (eff) - earthmix space _1{14} tbbt _11{13} 5515 never too late _1{12} 
-- 21/12/21 (eff) - earthmix space _1{16} tbbt _11{13} 5515 never too late _1{12} 
-- 22/12/21 (eff) - earthmix space _1{17} tbbt _11{13} 5515 never too late _1{12} 
-- 23/12/21 (eff) - earthmix space _1{18} tbbt _11{13} 5515 never too late _1{12} 
-- 24/12/21 (eff) - earthmix space _1{19} tbbt _11{13} 5515 never too late _1{12} 
-- 25/12/21 (eff) - earthmix space _1{20} tbbt _11{13} 5515 never too late _1{12} 
-- 26/12/21 (eff) - earthmix space _1{21} tbbt _11{13} 
-- 27/12/21 (eff) - earthmix space _1{22} tbbt _11{13} 5515 never too late _1{12} 
-- 28/12/21 (eff) - earthmix space _1{24} tbbt _11{13} 5515 never too late _1{12} 
-- 29/12/21 (eff) - earthmix space _1{25} tbbt _11{13} 5515 never too late _1{12} 
-- 30/12/21 (eff) - earthmix space _1{25} tbbt _11{13} 5515 never too late _1{12} 
-- 31/12/21 (eff) - earthmix space _1{26} 5515 never too late _1{13} tbbt _11{13} 
-- 01/01/22 (eff) - earthmix space _1{27} 5515 never too late _1{14} tbbt _11{13} 
-- 02/01/22 (eff) - earthmix space _1{30} 5515 never too late _1{16} 
-- 03/01/22 (eff) - earthmix space _1{32} 5515 never too late _1{17} 
-- 04/01/22 (eff) - earthmix space _1{33} 5515 never too late _1{18} 
-- 05/01/22 (eff) - earthmix space _1{34} 5515 never too late _1{18} 
-- 06/01/22 (eff) - earthmix space _1{35} 5515 never too late _1{18} 
-- 07/01/22 (eff) - earthmix space _1{36} 5515 never too late _1{18} 
-- 08/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
-- 09/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
-- 10/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} tbbt _11{13} 
-- 11/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
-- 12/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
-- 13/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} 
-- 14/01/22 (eff) - earthmix space _1{37} 5515 never too late _1{18} tbbt _11{13} 
-- 15/01/22 (eff) - earthmix space _1{38} 5515 never too late _1{18} tbbt _11{13} 
-- 16/01/22 (eff) - earthmix space _1{40} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-- 17/01/22 (eff) - earthmix space _1{42} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-- 18/01/22 (eff) - earthmix space _1{44} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-- 19/01/22 (eff) - earthmix space _1{45} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-- 20/01/22 (eff) - earthmix space _1{46} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-- 21/01/22 (eff) - earthmix space _1{47} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-- 22/01/22 (eff) - earthmix space _1{49} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-- 23/01/22 (eff) - earthmix space _1{51} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
-- 24/01/22 (eff) - earthmix space _1{53} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
-- 25/01/22 (eff) - earthmix space _1{55} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
-- 26/01/22 (eff) - earthmix space _1{57} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
-- 27/01/22 (eff) - earthmix space _1{59} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
-- 28/01/22 (eff) - earthmix space _1{61} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-- 29/01/22 (eff) - earthmix space _1{63} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
-- 30/01/22 (eff) - earthmix space _1{65} 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} f4 thailand _1{10} 
-- 31/01/22 (eff) - earthmix space _1{67} 5515 never too late _1{18} tbbt _11{13} f4 thailand _1{12} young sheldon _5{11} 
-- 01/02/22 (eff) - earthmix space _1{68} 5515 never too late _1{18} f4 thailand _1{14} the voice ph _1{13} tbbt _11{13} 
-- 02/02/22 (eff) - earthmix space _1{71} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-- 03/02/22 (eff) - earthmix space _1{73} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-- 04/02/22 (eff) - earthmix space _1{75} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-- 05/02/22 (eff) - earthmix space _1{76} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-- 06/02/22 (eff) - earthmix space _1{77} 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
-- 07/02/22 (eff) - earthmix space _1{78} 5515 never too late _1{18} f4 thailand _1{17} the voice ph _1{16} young sheldon _5{12} 
-- 08/02/22 (eff) - earthmix space _1{80} f4 thailand _1{19} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-- 09/02/22 (eff) - earthmix space _1{82} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
-- 10/02/22 (eff) - earthmix space _1{84} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
-- 11/02/22 (eff) - earthmix space _1{86} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
-- 12/02/22 (eff) - earthmix space _1{88} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
-- 13/02/22 (eff) - earthmix space _1{90} f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
-- 14/02/22 (eff) - earthmix space _1{92} f4 thailand _1{22} 5515 never too late _1{18} the voice ph _1{16} 
-- 15/02/22 (eff) - earthmix space _1{95} f4 thailand _1{24} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-- 16/02/22 (eff) - earthmix space _1{97} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-- 17/02/22 (eff) - earthmix space _1{99} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-- 18/02/22 (eff) - earthmix space _1{101} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-- 19/02/22 (eff) - earthmix space _1{103} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
-- 20/02/22 (eff) - earthmix space _1{105} f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} 
-- 21/02/22 (eff) - earthmix space _1{107} f4 thailand _1{27} 5515 never too late _1{18} the voice ph _1{16} 
-- 22/02/22 (eff) - earthmix space _1{109} f4 thailand _1{30} 5515 never too late _1{18} 
-- 23/02/22 (eff) - earthmix space _1{111} f4 thailand _1{32} 5515 never too late _1{18} 
-- 24/02/22 (eff) - earthmix space _1{113} f4 thailand _1{33} 5515 never too late _1{18} 
-- 25/02/22 (eff) - earthmix space _1{115} f4 thailand _1{34} 5515 never too late _1{18} 
-- 26/02/22 (eff) - earthmix space _1{117} f4 thailand _1{34} 5515 never too late _1{18} 
-- 27/02/22 (eff) - earthmix space _1{119} f4 thailand _1{34} 5515 never too late _1{18} 
-- 28/02/22 (eff) - earthmix space _1{121} f4 thailand _1{34} 5515 never too late _1{18} 
-- 01/03/22 (eff) - earthmix space _1{124} f4 thailand _1{34} 5515 never too late _1{18} 
-- 02/03/22 (eff) - earthmix space _1{127} f4 thailand _1{35} 5515 never too late _1{18} 
-- 03/03/22 (eff) - earthmix space _1{129} f4 thailand _1{35} 5515 never too late _1{18} 
-- 04/03/22 (eff) - earthmix space _1{131} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
-- 05/03/22 (eff) - earthmix space _1{133} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
-- 06/03/22 (eff) - earthmix space _1{135} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
-- 07/03/22 (eff) - earthmix space _1{137} f4 thailand _1{35} 5515 never too late _1{18} 
-- 08/03/22 (eff) - earthmix space _1{138} f4 thailand _1{35} 5515 never too late _1{18} 
-- 09/03/22 (eff) - earthmix space _1{139} f4 thailand _1{35} 5515 never too late _1{18} 
-- 10/03/22 (eff) - earthmix space _1{140} f4 thailand _1{35} 5515 never too late _1{18} 
-- 11/03/22 (eff) - earthmix space _1{141} f4 thailand _1{35} 5515 never too late _1{18} 
-- 12/03/22 (eff) - earthmix space _1{142} f4 thailand _1{35} 5515 never too late _1{18} 
-- 13/03/22 (eff) - earthmix space _1{143} f4 thailand _1{35} 5515 never too late _1{18} 
-- 14/03/22 (eff) - earthmix space _1{144} f4 thailand _1{35} 5515 never too late _1{18} 
-- 15/03/22 (eff) - earthmix space _1{145} f4 thailand _1{35} 5515 never too late _1{18} 
-- 16/03/22 (eff) - earthmix space _1{146} f4 thailand _1{35} 5515 never too late _1{18} 
-- 17/03/22 (eff) - earthmix space _1{147} f4 thailand _1{35} 5515 never too late _1{18} 
-- 18/03/22 (eff) - earthmix space _1{148} f4 thailand _1{35} 5515 never too late _1{18} 
-- 19/03/22 (eff) - earthmix space _1{150} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12} 
-- 20/03/22 (eff) - earthmix space _1{152} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
-- 21/03/22 (eff) - earthmix space _1{154} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
-- 22/03/22 (eff) - earthmix space _1{157} f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
-- 23/03/22 (eff) - earthmix space _1{159} f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} 
-- 24/03/22 (eff) - earthmix space _1{160} f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{17} the voice ph _1{16} 
-- 25/03/22 (eff) - earthmix space _1{161} f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
-- 26/03/22 (eff) - earthmix space _1{162} f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
-- 27/03/22 (eff) - earthmix space _1{163} f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
-- 28/03/22 (eff) - earthmix space _1{164} f4 thailand _1{35} cupids last wish _1{18} the voice ph _1{16} 
-- 29/03/22 (eff) - earthmix space _1{165} f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
-- 30/03/22 (eff) - earthmix space _1{166} f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
-- 31/03/22 (eff) - earthmix space _1{167} f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
-- 01/04/22 (eff) - earthmix space _1{168} f4 thailand _1{35} cupids last wish _1{18} the voice ph _1{16} 
-- 02/04/22 (eff) - earthmix space _1{170} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 03/04/22 (eff) - earthmix space _1{171} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 04/04/22 (eff) - earthmix space _1{172} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 05/04/22 (eff) - earthmix space _1{174} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 06/04/22 (eff) - earthmix space _1{176} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 07/04/22 (eff) - earthmix space _1{177} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 08/04/22 (eff) - earthmix space _1{178} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 09/04/22 (eff) - earthmix space _1{179} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 10/04/22 (eff) - earthmix space _1{181} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 11/04/22 (eff) - earthmix space _1{183} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 12/04/22 (eff) - earthmix space _1{186} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 13/04/22 (eff) - earthmix space _1{188} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 14/04/22 (eff) - earthmix space _1{190} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
-- 15/04/22 (eff) - earthmix space _1{192} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} meet my angel _2{12} 
-- 16/04/22 (eff) - earthmix space _1{194} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} trivia quest _1{13} 
-- 17/04/22 (eff) - earthmix space _1{196} f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} trivia quest _1{15} 
-- 18/04/22 (eff) - earthmix space _1{197} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{16} the voice ph _1{16} 
-- 19/04/22 (eff) - earthmix space _1{198} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
-- 20/04/22 (eff) - earthmix space _1{199} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
-- 21/04/22 (eff) - earthmix space _1{200} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
-- 22/04/22 (eff) - earthmix space _1{201} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
-- 23/04/22 (eff) - earthmix space _1{202} f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
-- 24/04/22 (eff) - Earthmix space _1{203} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-- 25/04/22 (eff) - Earthmix space _1{205} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-- 26/04/22 (eff) - Earthmix space _1{207} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-- 27/04/22 (eff) - Earthmix space _1{209} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-- 28/04/22 (eff) - Earthmix space _1{210} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-- 29/04/22 (eff) - Earthmix space _1{211} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-- 30/04/22 (eff) - Earthmix space _1{212} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-- 01/05/22 (eff) - Earthmix space _1{214} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-- 02/05/22 (eff) - Earthmix space _1{217} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 03/05/22 (eff) - Earthmix space _1{220} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 04/05/22 (eff) - Earthmix space _1{222} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 05/05/22 (eff) - Earthmix space _1{224} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 06/05/22 (eff) - Earthmix space _1{226} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
-- 07/05/22 (eff) - Earthmix space _1{228} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
-- 08/05/22 (eff) - Earthmix space _1{230} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 09/05/22 (eff) - Earthmix space _1{232} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 10/05/22 (eff) - Earthmix space _1{234} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 11/05/22 (eff) - Earthmix space _1{236} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 12/05/22 (eff) - Earthmix space _1{238} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
-- 13/05/22 (eff) - Earthmix space _1{240} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 14/05/22 (eff) - Earthmix space _1{242} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
-- 15/05/22 (eff) - Earthmix space _1{244} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 16/05/22 (eff) - Earthmix space _1{246} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-- 17/05/22 (eff) - Earthmix space _1{248} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
-- 18/05/22 (eff) - Earthmix space _1{250} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
-- 19/05/22 (eff) - Earthmix space _1{252} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
-- 20/05/22 (eff) - Earthmix space _1{254} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-- 21/05/22 (eff) - Earthmix space _1{256} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-- 22/05/22 (eff) - Earthmix space _1{258} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-- 23/05/22 (eff) - Earthmix space _1{260} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
-- 24/05/22 (eff) - Earthmix space _1{263} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
-- 25/05/22 (eff) - Earthmix space _1{265} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
-- 26/05/22 (eff) - Earthmix space _1{267} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-- 27/05/22 (eff) - Earthmix space _1{269} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-- 28/05/22 (eff) - Earthmix space _1{271} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice chile _3{17} The circle us _4{16} 
-- 29/05/22 (eff) - Earthmix space _1{273} F4 thailand _1{35} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-- 30/05/22 (eff) - Earthmix space _1{275} F4 thailand _1{35} The voice chile _3{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-- 31/05/22 (eff) - Earthmix space _1{277} F4 thailand _1{35} The voice chile _3{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-- 01/06/22 (eff) - Earthmix space _1{279} F4 thailand _1{35} The voice chile _3{26} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} 
-- 02/06/22 (eff) - Earthmix space _1{282} F4 thailand _1{35} The voice chile _3{29} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
-- 03/06/22 (eff) - Earthmix space _1{284} F4 thailand _1{35} The voice chile _3{31} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
-- 04/06/22 (eff) - Earthmix space _1{286} F4 thailand _1{35} The voice chile _3{33} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
-- 05/06/22 (eff) - Earthmix space _1{288} The voice chile _3{35} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
-- 06/06/22 (eff) - Earthmix space _1{290} The voice chile _3{37} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
-- 07/06/22 (eff) - Earthmix space _1{293} The voice chile _3{40} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
-- 08/06/22 (eff) - Earthmix space _1{295} The voice chile _3{42} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
-- 09/06/22 (eff) - Earthmix space _1{297} The voice chile _3{44} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{13} Two pints of lager _3{13} 
-- 10/06/22 (eff) - Earthmix space _1{299} The voice chile _3{46} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-- 11/06/22 (eff) - Earthmix space _1{301} The voice chile _3{48} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-- 12/06/22 (eff) - Earthmix space _1{303} The voice chile _3{50} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-- 13/06/22 (eff) - Earthmix space _1{305} The voice chile _3{52} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
+- 19/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 20/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 21/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 22/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 23/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 24/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 25/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 26/12/21 (eff) - tbbt _11{13} 
+- 27/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 28/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 29/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 30/12/21 (eff) - tbbt _11{13} 5515 never too late _1{12} 
+- 31/12/21 (eff) - 5515 never too late _1{13} tbbt _11{13} 
+- 01/01/22 (eff) - 5515 never too late _1{14} tbbt _11{13} 
+- 02/01/22 (eff) - 5515 never too late _1{16} 
+- 03/01/22 (eff) - 5515 never too late _1{17} 
+- 04/01/22 (eff) - 5515 never too late _1{18} 
+- 05/01/22 (eff) - 5515 never too late _1{18} 
+- 06/01/22 (eff) - 5515 never too late _1{18} 
+- 07/01/22 (eff) - 5515 never too late _1{18} 
+- 08/01/22 (eff) - 5515 never too late _1{18} 
+- 09/01/22 (eff) - 5515 never too late _1{18} 
+- 10/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} 
+- 11/01/22 (eff) - 5515 never too late _1{18} 
+- 12/01/22 (eff) - 5515 never too late _1{18} 
+- 13/01/22 (eff) - 5515 never too late _1{18} 
+- 14/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} 
+- 15/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} 
+- 16/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 17/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 18/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 19/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 20/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 21/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 22/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 23/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
+- 24/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
+- 25/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
+- 26/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
+- 27/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} the player _1{8} 
+- 28/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 29/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} 
+- 30/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} young sheldon _5{11} f4 thailand _1{10} 
+- 31/01/22 (eff) - 5515 never too late _1{18} tbbt _11{13} f4 thailand _1{12} young sheldon _5{11} 
+- 01/02/22 (eff) - 5515 never too late _1{18} f4 thailand _1{14} the voice ph _1{13} tbbt _11{13} 
+- 02/02/22 (eff) - 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+- 03/02/22 (eff) - 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+- 04/02/22 (eff) - 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+- 05/02/22 (eff) - 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+- 06/02/22 (eff) - 5515 never too late _1{18} f4 thailand _1{16} the voice ph _1{16} young sheldon _5{12} 
+- 07/02/22 (eff) - 5515 never too late _1{18} f4 thailand _1{17} the voice ph _1{16} young sheldon _5{12} 
+- 08/02/22 (eff) - f4 thailand _1{19} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+- 09/02/22 (eff) - f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
+- 10/02/22 (eff) - f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
+- 11/02/22 (eff) - f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
+- 12/02/22 (eff) - f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
+- 13/02/22 (eff) - f4 thailand _1{20} 5515 never too late _1{18} the voice ph _1{16} 
+- 14/02/22 (eff) - f4 thailand _1{22} 5515 never too late _1{18} the voice ph _1{16} 
+- 15/02/22 (eff) - f4 thailand _1{24} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+- 16/02/22 (eff) - f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+- 17/02/22 (eff) - f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+- 18/02/22 (eff) - f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+- 19/02/22 (eff) - f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} young sheldon _5{12} 
+- 20/02/22 (eff) - f4 thailand _1{25} 5515 never too late _1{18} the voice ph _1{16} 
+- 21/02/22 (eff) - f4 thailand _1{27} 5515 never too late _1{18} the voice ph _1{16} 
+- 22/02/22 (eff) - f4 thailand _1{30} 5515 never too late _1{18} 
+- 23/02/22 (eff) - f4 thailand _1{32} 5515 never too late _1{18} 
+- 24/02/22 (eff) - f4 thailand _1{33} 5515 never too late _1{18} 
+- 25/02/22 (eff) - f4 thailand _1{34} 5515 never too late _1{18} 
+- 26/02/22 (eff) - f4 thailand _1{34} 5515 never too late _1{18} 
+- 27/02/22 (eff) - f4 thailand _1{34} 5515 never too late _1{18} 
+- 28/02/22 (eff) - f4 thailand _1{34} 5515 never too late _1{18} 
+- 01/03/22 (eff) - f4 thailand _1{34} 5515 never too late _1{18} 
+- 02/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 03/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 04/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
+- 05/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
+- 06/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} 
+- 07/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 08/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 09/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 10/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 11/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 12/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 13/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 14/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 15/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 16/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 17/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 18/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} 
+- 19/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12} 
+- 20/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
+- 21/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{12} meet my angel _2{12} 
+- 22/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
+- 23/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} 
+- 24/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{17} the voice ph _1{16} 
+- 25/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
+- 26/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
+- 27/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
+- 28/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} the voice ph _1{16} 
+- 29/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
+- 30/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
+- 31/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
+- 01/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} the voice ph _1{16} 
+- 02/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 03/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 04/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 05/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 06/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 07/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 08/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 09/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 10/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 11/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 12/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 13/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 14/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
+- 15/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} meet my angel _2{12} 
+- 16/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} trivia quest _1{13} 
+- 17/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} trivia quest _1{15} 
+- 18/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{16} the voice ph _1{16} 
+- 19/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
+- 20/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
+- 21/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
+- 22/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
+- 23/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
+- 24/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
+- 25/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
+- 26/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
+- 27/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
+- 28/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
+- 29/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
+- 30/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
+- 01/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
+- 02/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 03/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 04/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 05/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 06/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
+- 07/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
+- 08/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 09/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 10/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 11/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 12/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
+- 13/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 14/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
+- 15/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 16/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
+- 17/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
+- 18/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
+- 19/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
+- 20/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+- 21/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+- 22/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+- 23/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
+- 24/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
+- 25/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
+- 26/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+- 27/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+- 28/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice chile _3{17} The circle us _4{16} 
+- 29/05/22 (eff) - F4 thailand _1{35} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+- 30/05/22 (eff) - F4 thailand _1{35} The voice chile _3{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+- 31/05/22 (eff) - F4 thailand _1{35} The voice chile _3{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+- 01/06/22 (eff) - F4 thailand _1{35} The voice chile _3{26} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} 
+- 02/06/22 (eff) - F4 thailand _1{35} The voice chile _3{29} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+- 03/06/22 (eff) - F4 thailand _1{35} The voice chile _3{31} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+- 04/06/22 (eff) - F4 thailand _1{35} The voice chile _3{33} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
+- 05/06/22 (eff) - The voice chile _3{35} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
+- 06/06/22 (eff) - The voice chile _3{37} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+- 07/06/22 (eff) - The voice chile _3{40} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+- 08/06/22 (eff) - The voice chile _3{42} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+- 09/06/22 (eff) - The voice chile _3{44} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{13} Two pints of lager _3{13} 
+- 10/06/22 (eff) - The voice chile _3{46} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+- 11/06/22 (eff) - The voice chile _3{48} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+- 12/06/22 (eff) - The voice chile _3{50} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
+- 13/06/22 (eff) - The voice chile _3{52} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
 
 
 
@@ -676,10 +676,10 @@
 - 08/09/21 - 789* 7project _1{2} vwars _1{8} qforce _1{1} 
 - 09/09/21 - 247* 7project _1{2} vwars _1{8} qforce _1{1} 
 - 10/09/21 - 300* bite me _1{2} 7project _1{2} vwars _1{8} 
-- 11/09/21 - 303* earthmix space _1{0} lucifer _4{4} bite me _1{2} 
-- 12/09/21 - 306* earthmix space _1{0} lucifer _4{4} bite me _1{2} 
-- 13/09/21 - 211* buffy _1{1} earthmix space _1{1} lucifer _4{5} bite me _1{3} 
-- 14/09/21 - 115* 7project _1{3} buffy _1{3} earthmix space _1{1} lucifer _4{5} 
+- 11/09/21 - 303* lucifer _4{4} bite me _1{2} 
+- 12/09/21 - 306* lucifer _4{4} bite me _1{2} 
+- 13/09/21 - 211* buffy _1{1} lucifer _4{5} bite me _1{3} 
+- 14/09/21 - 115* 7project _1{3} buffy _1{3} lucifer _4{5} 
 - 15/09/21 - 225* 7project _1{4} buffy _1{3} 
 - 16/09/21 - 191* 7project _1{4} buffy _1{3} 
 - 17/09/21 - 643* 7project _1{4} buffy _1{3} 
@@ -688,8 +688,8 @@
 - 21/09/21 - 54* /9-1-1 _5{0} post mortem _1{4} 
 - 22/09/21 - 32* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
 - 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
-- 25/09/21 - 96* earthmix space _1{1} 
-- 26/09/21 - 56* earthmix space _1{1} 
+- 25/09/21 - 96* 
+- 26/09/21 - 56* 
 - 27/09/21 - 94* goblin _1{1} 
 - 28/09/21 - 102* goblin _1{1} 
 - 29/09/21 - 69* goblin _1{1} 
@@ -702,11 +702,11 @@
 - 06/10/21 - 232* the shipper _1{6} 
 - 09/10/21 - 183* young sheldon _5{0} 
 - 10/10/21 - 701* love area _1{0} young sheldon _5{0} 
-- 11/10/21 - 287* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
-- 12/10/21 - 236* /9-1-1 _5{6} earthmix space _1{4} love area _1{1} 
-- 13/10/21 - 204* /9-1-1 _5{6} earthmix space _1{4} love area _1{2} 
-- 14/10/21 - 284* /9-1-1 _5{6} earthmix space _1{4} 
-- 15/10/21 - 180* /9-1-1 _5{6} earthmix space _1{4} 
+- 11/10/21 - 287* /9-1-1 _5{6} love area _1{1} 
+- 12/10/21 - 236* /9-1-1 _5{6} love area _1{1} 
+- 13/10/21 - 204* /9-1-1 _5{6} love area _1{2} 
+- 14/10/21 - 284* /9-1-1 _5{6} 
+- 15/10/21 - 180* /9-1-1 _5{6} 
 - 16/10/21 - 148* /9-1-1 _5{6} 
 - 17/10/21 - 118* aoki vuanpaia no nayami _1{0} 
 - 18/10/21 - 214* aoki vuanpaia no nayami _1{3} 
@@ -714,14 +714,14 @@
 - 20/10/21 - 224* age of the living dead _1{0} 
 - 21/10/21 - 219* age of the living dead _1{0} 
 - 22/10/21 - 677* insiders _1{0} age of the living dead _1{0} 
-- 23/10/21 - 687* earthmix space _1{4} insiders _1{0} 
-- 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} earthmix space _1{4} 
+- 23/10/21 - 687* insiders _1{0} 
+- 24/10/21 - 724* young sheldon _5{1} my sweet dear _1{0} 
 - 25/10/21 - 139* aoki vuanpaia no nayami _1{6} young sheldon _5{4} my sweet dear _1{2} 
 - 26/10/21 - 133* tbbt _11{2} aoki vuanpaia no nayami _1{6} young sheldon _5{5} my sweet dear _1{3} 
 - 27/10/21 - 206* tbbt _11{4} aoki vuanpaia no nayami _1{6} young sheldon _5{6} 
 - 28/10/21 - 213* tbbt _11{6} aoki vuanpaia no nayami _1{6} 
 - 29/10/21 - 831* tbbt _11{8} 
-- 06/11/21 - 748* earthmix space _1{6} 
+- 06/11/21 - 748* 
 - 07/11/21 - 186* banana fish _1{0} 
 - 16/11/21 - 292* the case study of vanitas _1{0} 
 - 17/11/21 - 386* the case study of vanitas _1{2} 
@@ -735,9 +735,9 @@
 - 26/11/21 - 248* baker boys _1{0} 
 - 27/11/21 - 213* baker boys _1{1} 
 - 28/11/21 - 1026* baker boys _1{2} 
-- 29/11/21 - 1071* earthmix space _1{7} 
-- 30/11/21 - 381* earthmix space _1{8} 
-- 01/12/21 - 546* earthmix space _1{8} 
+- 29/11/21 - 1071* 
+- 30/11/21 - 381* 
+- 01/12/21 - 546* 
 - 03/12/21 - 267* baker boys _1{4} 
 - 04/12/21 - 222* baker boys _1{4} 
 - 05/12/21 - 324* district z _2{0} 
@@ -747,22 +747,22 @@
 - 09/12/21 - 508* 5515 never too late _1{0} 
 - 10/12/21 - 289* 5515 never too late _1{2} 
 - 11/12/21 - 257* 5515 never too late _1{3} 
-- 13/12/21 - 1168* 5515 never too late _1{6} earthmix space _1{9} 
-- 14/12/21 - 1190* 5515 never too late _1{9} earthmix space _1{10} 
-- 15/12/21 - 623* 5515 never too late _1{11} earthmix space _1{10} 
-- 16/12/21 - 500* 5515 never too late _1{12} earthmix space _1{10} 
+- 13/12/21 - 1168* 5515 never too late _1{6} 
+- 14/12/21 - 1190* 5515 never too late _1{9} 
+- 15/12/21 - 623* 5515 never too late _1{11} 
+- 16/12/21 - 500* 5515 never too late _1{12} 
 - 17/12/21 - 485* aggretsuko _4{0} 5515 never too late _1{12} 
-- 18/12/21 - 356* unlocked _1{4} earthmix space _1{10} aggretsuko _4{1} 
-- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} unlocked _1{4} earthmix space _1{12} aggretsuko _4{1} 
-- 20/12/21 - 62* district z _2{3} f4 thailand _1{1} unlocked _1{4} earthmix space _1{14} 
+- 18/12/21 - 356* unlocked _1{4} aggretsuko _4{1} 
+- 19/12/21 - 238* district z _2{1} f4 thailand _1{0} unlocked _1{4} aggretsuko _4{1} 
+- 20/12/21 - 62* district z _2{3} f4 thailand _1{1} unlocked _1{4} 
 - 21/12/21 - 72* district z _2{4} f4 thailand _1{2} unlocked _1{5} 
 - 22/12/21 - 73* the player _1{0} district z _2{4} f4 thailand _1{2} unlocked _1{5} 
 - 23/12/21 - 78* the player _1{2} district z _2{4} f4 thailand _1{2} 
 - 24/12/21 - 842* the player _1{3} 
-- 25/12/21 - 851* earthmix space _1{20} 
-- 26/12/21 - 865* f4 thailand _1{2} earthmix space _1{21} 
-- 27/12/21 - 120* the player _1{3} f4 thailand _1{3} earthmix space _1{22} 
-- 28/12/21 - 137* 5515 never too late _1{12} the player _1{6} f4 thailand _1{4} earthmix space _1{24} 
+- 25/12/21 - 851* 
+- 26/12/21 - 865* f4 thailand _1{2} 
+- 27/12/21 - 120* the player _1{3} f4 thailand _1{3} 
+- 28/12/21 - 137* 5515 never too late _1{12} the player _1{6} f4 thailand _1{4} 
 - 29/12/21 - 129* 5515 never too late _1{12} the player _1{7} 
 - 30/12/21 - 122* 5515 never too late _1{12} the player _1{7} 
 - 31/12/21 - 114* 5515 never too late _1{13} 
@@ -780,8 +780,8 @@
 - 12/01/22 - 196* /9-1-1 lone star _3{1} f4 thailand _1{6} 
 - 13/01/22 - 167* /9-1-1 lone star _3{1} 
 - 14/01/22 - 174* /9-1-1 lone star _3{1} 
-- 15/01/22 - 121* the voice nl _12{1} earthmix space _1{38} 
-- 16/01/22 - 112* the voice nl _12{1} earthmix space _1{40} 
+- 15/01/22 - 121* the voice nl _12{1} 
+- 16/01/22 - 112* the voice nl _12{1} 
 - 17/01/22 - 232* the voice nl _12{1} 
 - 18/01/22 - 231* the voice nl _12{2} 
 - 19/01/22 - 243* the voice nl _12{2} 
@@ -810,9 +810,9 @@
 - 11/02/22 - 156* love stage 2022 _1{3} /9-1-1 lone star _3{9} the voice ukr _12{7} 
 - 12/02/22 - 216* love stage 2022 _1{3} 
 - 13/02/22 - 210* all of us are dead _1{0} f4 thailand _1{20} 
-- 14/02/22 - 317* the voice ukr _12{7} earthmix space _1{92} all of us are dead _1{2} f4 thailand _1{22} 
-- 15/02/22 - 273* the voice ukr _12{8} earthmix space _1{95} all of us are dead _1{5} f4 thailand _1{24} 
-- 16/02/22 - 282* love stage 2022 _1{4} the voice ukr _12{8} earthmix space _1{97} all of us are dead _1{7} 
+- 14/02/22 - 317* the voice ukr _12{7} all of us are dead _1{2} f4 thailand _1{22} 
+- 15/02/22 - 273* the voice ukr _12{8} all of us are dead _1{5} f4 thailand _1{24} 
+- 16/02/22 - 282* love stage 2022 _1{4} the voice ukr _12{8} all of us are dead _1{7} 
 - 17/02/22 - 203* love stage 2022 _1{6} the voice ukr _12{8} 
 - 18/02/22 - 156* love stage 2022 _1{6} 
 - 19/02/22 - 243* 
@@ -822,10 +822,10 @@
 - 23/02/22 - 201* the voice ukr _12{9} 
 - 24/02/22 - 154* cupids last wish _1{0} the voice ukr _12{9} 
 - 25/02/22 - 136* cherry blossoms after winter _1{0} cupids last wish _1{0} 
-- 26/02/22 - 414* earthmix space _1{117} cherry blossoms after winter _1{0} 
-- 27/02/22 - 324* cupids last wish _1{0} earthmix space _1{119} cherry blossoms after winter _1{0} 
-- 28/02/22 - 347* cupids last wish _1{2} earthmix space _1{121} 
-- 01/03/22 - 344* cupids last wish _1{5} earthmix space _1{124} 
+- 26/02/22 - 414* cherry blossoms after winter _1{0} 
+- 27/02/22 - 324* cupids last wish _1{0} cherry blossoms after winter _1{0} 
+- 28/02/22 - 347* cupids last wish _1{2} 
+- 01/03/22 - 344* cupids last wish _1{5} 
 - 02/03/22 - 241* cupids last wish _1{8} 
 - 03/03/22 - 160* drag i love you _1{0} 
 - 04/03/22 - 111* drag i love you _1{0} 
@@ -842,10 +842,10 @@
 - 15/03/22 - 434* 
 - 16/03/22 - 482* 
 - 17/03/22 - 340* 
-- 18/03/22 - 424* earthmix space _1{148} cupids last wish _1{10} 
-- 19/03/22 - 481* earthmix space _1{150} cupids last wish _1{10} 
-- 20/03/22 - 517* cupids last wish _1{10} earthmix space _1{152} 
-- 21/03/22 - 525* cupids last wish _1{12} earthmix space _1{154} 
+- 18/03/22 - 424* cupids last wish _1{10} 
+- 19/03/22 - 481* cupids last wish _1{10} 
+- 20/03/22 - 517* cupids last wish _1{10} 
+- 21/03/22 - 525* cupids last wish _1{12} 
 - 22/03/22 - 394* cupids last wish _1{15} 
 - 23/03/22 - 248* cupids last wish _1{16} 
 - 24/03/22 - 235* cupids last wish _1{17} 
@@ -856,7 +856,7 @@
 - 29/03/22 - 300* 
 - 30/03/22 - 297* 
 - 31/03/22 - 278* 
-- 01/04/22 - 333* ohmnanon upvel _1{0} earthmix space _1{168} 
+- 01/04/22 - 333* ohmnanon upvel _1{0} 
 - 02/04/22 - 363* quaranthings _2{0} ohmnanon upvel _1{1} 
 - 03/04/22 - 456* 
 - 04/04/22 - 479* 
@@ -864,7 +864,7 @@
 - 06/04/22 - 396* 
 - 07/04/22 - 374* 
 - 08/04/22 - 346* 
-- 09/04/22 - 609* earthmix space _1{179} 
+- 09/04/22 - 609* 
 - 10/04/22 - 447* trivia quest _1{0} 
 - 11/04/22 - 465* trivia quest _1{2} 
 - 12/04/22 - 134* ohmnanon upvel _1{2} trivia quest _1{5} 
@@ -885,10 +885,10 @@
 - 27/04/22 - 167* Ohmnanon upvel _1{3} 
 - 28/04/22 - 182* Bullshit the game show _1{0} Ohmnanon upvel _1{3} 
 - 29/04/22 - 187* Bullshit the game show _1{1} Ohmnanon upvel _1{3} 
-- 30/04/22 - 357* Earthmix space _1{212} 
-- 01/05/22 - 583* Druck _8{0} Earthmix space _1{214} 
-- 02/05/22 - 639* Druck _8{1} Earthmix space _1{217} 
-- 03/05/22 - 661* Druck _8{2} Earthmix space _1{220} 
+- 30/04/22 - 357* 
+- 01/05/22 - 583* Druck _8{0} 
+- 02/05/22 - 639* Druck _8{1} 
+- 03/05/22 - 661* Druck _8{2} 
 - 04/05/22 - 466* Druck _8{2} 
 - 05/05/22 - 492* The circle us _4{0} Druck _8{2} 
 - 06/05/22 - 226* Close friend _2{0} Clik clak clok _1{0} The circle us _4{2} 
@@ -907,9 +907,9 @@
 - 19/05/22 - 436* 
 - 20/05/22 - 346* The voice chile _3{0} The voice kids portugal _3{2} 
 - 21/05/22 - 162* Rpdras _7{0} The voice chile _3{2} The voice kids portugal _3{3} 
-- 22/05/22 - 625* The voice chile _3{4} Sytycd _17{0} Two pints of lager _3{3} Earthmix space _1{258} Rpdras _7{0} 
-- 23/05/22 - 688* Rpdrasu _7{0} The voice chile _3{6} Sytycd _17{0} Two pints of lager _3{3} Earthmix space _1{260} 
-- 24/05/22 - 701* Ohmnanon upvel _1{6} Two pints of lager _3{4} Rpdrasu _7{1} The voice chile _3{9} Sytycd _17{1} Earthmix space _1{263} 
+- 22/05/22 - 625* The voice chile _3{4} Sytycd _17{0} Two pints of lager _3{3} Rpdras _7{0} 
+- 23/05/22 - 688* Rpdrasu _7{0} The voice chile _3{6} Sytycd _17{0} Two pints of lager _3{3} 
+- 24/05/22 - 701* Ohmnanon upvel _1{6} Two pints of lager _3{4} Rpdrasu _7{1} The voice chile _3{9} Sytycd _17{1} 
 - 25/05/22 - 171* Beat shazam _2{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{5} Rpdrasu _7{1} 
 - 26/05/22 - 148* Sytycd _17{1} The voice chile _3{13} Beat shazam _2{0} Beat shazam _5{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{6} 
 - 27/05/22 - 134* Druck _8{2} The voice kids portugal _3{4} Sytycd _17{2} The voice chile _3{15} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
@@ -921,10 +921,10 @@
 - 02/06/22 - 269* The voice kids portugal _3{6} Beat shazam _5{4} Dont forget the lyrics _1{3} The voice chile _3{29} 
 - 03/06/22 - 262* The voice chile _3{31} Sytycd _17{4} The voice kids portugal _3{8} Beat shazam _5{4} Dont forget the lyrics _1{4} 
 - 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} The voice chile _3{33} Sytycd _17{5} The voice kids portugal _3{8} Beat shazam _5{4} Dont forget the lyrics _1{6} 
-- 05/06/22 - 426* Earthmix space _1{288} Ohmnanon upvel _1{8} The voice chile _3{35} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} The voice kids portugal _3{8} 
-- 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Earthmix space _1{290} Ohmnanon upvel _1{8} The voice chile _3{37} Agt _17{2} Sky in your heart _1{1} 
-- 07/06/22 - 483* Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} Earthmix space _1{293} The voice chile _3{40} Agt _17{3} 
-- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} Earthmix space _1{295} 
+- 05/06/22 - 426* Ohmnanon upvel _1{8} The voice chile _3{35} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} The voice kids portugal _3{8} 
+- 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Ohmnanon upvel _1{8} The voice chile _3{37} Agt _17{2} Sky in your heart _1{1} 
+- 07/06/22 - 483* Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} The voice chile _3{40} Agt _17{3} 
+- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} 
 - 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} 
 - 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} The voice chile _3{46} Sytycd _17{6} The voice arg _4{2} Dont forget the lyrics _1{7} Beat shazam _5{5} 
 - 11/06/22 - 237* The voice chile _3{48} The voice arg _4{4} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 

@@ -1,9 +1,4 @@
 
-i = Earthmix space _1
-ligne :  606 ZZ/Earthmixspace_1.txt
-mot   :  10399 ZZ/Earthmixspace_1.txt
-carac :  66989 ZZ/Earthmixspace_1.txt
-
 i = 5515 never too late _1
 ligne :  161 ZZ/5515nevertoolate_1.txt
 mot   :  2529 ZZ/5515nevertoolate_1.txt

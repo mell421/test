@@ -58,7 +58,6 @@ The voice kids indonesia 4x2
 The voice kids indonesia 4x1
 Love mechanics 1x1
 The voice indonesia 5x1
-Earthmix space 1x19
 Beat shazam 5x4
 Dancing with myself 1x1
 Mama gogo 1x1
@@ -152,7 +151,6 @@ The big leap 1x1
 Post mortem 1x3
 Alice in borderland 1x1
 Buffy 1x7
-Earthmix space 1x1
 Lucifer 4x4
 Bite me 1x2
 Vwars 1x7
