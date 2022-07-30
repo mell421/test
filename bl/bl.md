@@ -174,8 +174,7 @@
 |absolute BL|absolute bl|8|serie|japon|                         <!-- 31/3 -->
 |1000 stars|a tales of 1000 stars|12|serie|thailande|           <!-- 2/4 -->
 |meet my angel|meet my angel|8|serie|philippines|               <!-- 3/4 -->
-|roommate 2|roommate 2 soulmate|2|serie|thailande|
-<!-- 14/4 -->
+|roommate 2|roommate 2 soulmate|2|serie|thailande| <!-- 14/4 -->
 |we best love 2|fighting mister 2nd|6|serie|taiwan| <!-- 16/4 -->
 |wabi vlog|wabi vlog|15|show|thailande| <!-- 27/04 -->
 |bad roommate|bad roommate|30|serie|thailande| <!-- 28/4 -->
