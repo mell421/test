@@ -144,6 +144,10 @@
     - [sem 18-07-2022](#sem-18-07-2022)
     - [sem 25-07-2022](#sem-25-07-2022)
     - [sem 01-08-2022](#sem-01-08-2022)
+    - [sem 08-08-2022](#sem-08-08-2022)
+    - [sem 15-08-2022](#sem-15-08-2022)
+    - [sem 22-08-2022](#sem-22-08-2022)
+    - [sem 29-08-2022](#sem-29-08-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -178,6 +182,9 @@
       - [mois 01-06-2022](#mois-01-06-2022)
       - [mois 01-07-2022](#mois-01-07-2022)
       - [mois 01-08-2022](#mois-01-08-2022)
+      - [mois 01-09-2022](#mois-01-09-2022)
+      - [mois 01-10-2022](#mois-01-10-2022)
+      - [mois 01-11-2022](#mois-01-11-2022)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -857,35 +864,29 @@
 * The voice senior finland _1
 * Dear doctor _1
 ### sem 20-06-2022 
-* *insererici*
 * The challenge _1
 * Top chef _13
 * Love victor _3
 * Bgt _15
 ### sem 27-06-2022 
-* *insererici*
 * The challenge _2
 * The challenge all stars _2
 * Survivor _29
 * Koh-lanta _28
 ### sem 04-07-2022 
-* *insererici*
 * Skam france _10
 * Drag tots _2
 * The challenge _3
 ### sem 11-07-2022 
-* *insererici*
 * Kinnporsche _1
 * Cutie pie _1
 * The challenge all stars _1
 * The challenge all stars _3
 ### sem 18-07-2022 
-* *insererici*
 * Survivor _30
 * Enchante _1
 * Triage _1
 ### sem 25-07-2022 
-* *insererici*
 * The voice kids esp _7
 * In relationship _1
 ### sem 01-08-2022 
@@ -893,6 +894,15 @@
 * Earthmix space _1
 * The masked singer jap _1
 * Rpdr out of the closet _4
+### sem 08-08-2022 
+* *insererici*
+### sem 15-08-2022 
+* *insererici*
+### sem 22-08-2022 
+* *insererici*
+### sem 29-08-2022 
+* *insererici*
+
 
 
 
@@ -936,7 +946,6 @@
 * Unforgotten night _1
 * The voice kids indonesia _4
 * Love mechanics _1
-* 
 * Beat shazam _5
 * Mama gogo _1
 * /9-1-1 lone star _3
@@ -1083,5 +1092,11 @@
 *insererici Drag tots _2 The challenge _3 The challenge _2 The challenge all stars _2 Survivor _29 Koh-lanta _28 The challenge _1 Top chef _13 Love victor _3 Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
 #### mois 01-08-2022 
 *insererici Earthmix space _1 The masked singer jap _1 Rpdr out of the closet _4 In relationship _1 The voice kids esp _7 Survivor _30 Enchante _1 Triage _1 Kinnporsche _1 Cutie pie _1 The challenge all stars _1 The challenge all stars _3 Skam france _10*
+#### mois 01-09-2022 
+*insererici*
+#### mois 01-10-2022 
+*insererici*
+#### mois 01-11-2022 
+*insererici*
 
 [retour](./../index.html)

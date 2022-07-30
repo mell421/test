@@ -130,11 +130,9 @@ sem 28-02-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1)
 sem 07-03-2022 -> The tuxedo _1x2(1) Drag i love you _1x2(1) 
 sem 14-03-2022 -> Drag i love you _1x3(1) 
 sem 21-03-2022 -> Cupids last wish _1x5(2) 
-sem 28-03-2022 -> 
 sem 04-04-2022 -> Quaranthings _2x2(1) Ohmnanon upvel _1x2(1) 
 sem 11-04-2022 -> Trivia quest _1x7(6) 
 sem 18-04-2022 -> Call me mother _1x2(1) Ohmnanon upvel _1x3(1) 
-sem 25-04-2022 -> 
 sem 02-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(1) 
 sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) 
 sem 16-05-2022 -> The voice kids portugal _3x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) 
@@ -276,15 +274,10 @@ conclu 09/12/21 = 5515 never too late _1 > 1;
 conclu 11/12/21 = 5515 never too late _1 > 1; 
 conclu 13/12/21 = 5515 never too late _1 > 3; 
 conclu 14/12/21 = 5515 never too late _1 > 1; 
-conclu 18/12/21 = 
 conclu 19/12/21 = District z _2 > 1; 
 conclu 22/12/21 = The player _1 > 1; 
 conclu 27/12/21 = The player _1 > 1; 
-conclu 01/01/22 = 
-conclu 02/01/22 = 
 conclu 14/01/22 = Forever knight _1 > 1; 
-conclu 15/01/22 = 
-conclu 16/01/22 = 
 conclu 21/01/22 = Meet my angel _2 > 2; Something in my room _1 > 1; 
 conclu 22/01/22 = Forever knight _1 > 1; 
 conclu 23/01/22 = Forever knight _1 > 1; 
@@ -297,13 +290,7 @@ conclu 29/01/22 = The voice ph _1 > 2; Forever knight _1 > 1;
 conclu 30/01/22 = The voice ph _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
 conclu 31/01/22 = The voice ph _1 > 2; 
 conclu 01/02/22 = The voice ph _1 > 3; /9-1-1 lone star _3 > 2; 
-conclu 02/02/22 = 
-conclu 03/02/22 = 
-conclu 07/02/22 = 
-conclu 08/02/22 = 
-conclu 09/02/22 = 
 conclu 10/02/22 = Love stage 2022 _1 > 2; 
-conclu 11/02/22 = 
 conclu 12/02/22 = Forever knight _1 > 1; 
 conclu 13/02/22 = F4 thailand _1 > 2; All of us are dead _1 > 2; Forever knight _1 > 1; 
 conclu 14/02/22 = All of us are dead _1 > 1; Forever knight _1 > 1; 
@@ -315,26 +302,12 @@ conclu 19/02/22 = Forever knight _1 > 1;
 conclu 20/02/22 = F4 thailand _1 > 1; Forever knight _1 > 1; 
 conclu 21/02/22 = F4 thailand _1 > 1; 
 conclu 22/02/22 = F4 thailand _1 > 1; 
-conclu 23/02/22 = 
-conclu 24/02/22 = 
-conclu 25/02/22 = 
-conclu 26/02/22 = 
 conclu 27/02/22 = Cupids last wish _1 > 3; 
 conclu 28/02/22 = Cupids last wish _1 > 1; 
 conclu 01/03/22 = Cupids last wish _1 > 2; 
 conclu 02/03/22 = Cupids last wish _1 > 1; 
-conclu 03/03/22 = 
-conclu 04/03/22 = 
-conclu 05/03/22 = 
-conclu 06/03/22 = 
-conclu 18/03/22 = 
-conclu 19/03/22 = 
 conclu 20/03/22 = Cupids last wish _1 > 3; 
 conclu 21/03/22 = Cupids last wish _1 > 1; 
-conclu 22/03/22 = 
-conclu 24/03/22 = 
-conclu 05/04/22 = 
-conclu 09/04/22 = 
 conclu 10/04/22 = Trivia quest _1 > 3; 
 conclu 11/04/22 = Trivia quest _1 > 3; 
 conclu 12/04/22 = Trivia quest _1 > 3; 
@@ -342,15 +315,6 @@ conclu 13/04/22 = Trivia quest _1 > 3;
 conclu 14/04/22 = Trivia quest _1 > 3; 
 conclu 15/04/22 = Trivia quest _1 > 3; 
 conclu 16/04/22 = Trivia quest _1 > 3; 
-conclu 18/04/22 = 
-conclu 24/04/22 = 
-conclu 25/04/22 = 
-conclu 26/04/22 = 
-conclu 30/04/22 = 
-conclu 01/05/22 = 
-conclu 02/05/22 = 
-conclu 03/05/22 = 
-conclu 04/05/22 = 
 conclu 05/05/22 = The circle us _4 > 2; 
 conclu 06/05/22 = The circle us _4 > 2; 
 conclu 07/05/22 = The circle us _4 > 2; 
@@ -358,14 +322,6 @@ conclu 08/05/22 = The circle us _4 > 2;
 conclu 09/05/22 = The circle us _4 > 1; 
 conclu 10/05/22 = The circle us _4 > 2; 
 conclu 11/05/22 = The circle us _4 > 2; 
-conclu 12/05/22 = 
-conclu 13/05/22 = 
-conclu 14/05/22 = 
-conclu 15/05/22 = 
-conclu 16/05/22 = 
-conclu 17/05/22 = 
-conclu 18/05/22 = 
-conclu 19/05/22 = 
 conclu 20/05/22 = The voice chile _3 > 3; 
 conclu 21/05/22 = The voice chile _3 > 2; 
 conclu 22/05/22 = The voice chile _3 > 6; 
@@ -457,7 +413,6 @@ conclu 13/06/22 = The voice chile _3 > 12; The voice arg _4 > 2; Le flambeau _1 
 * concluBis 22/02/21 > My vampire boyfriend _1 > 5; 
 * concluBis 23/02/21 > My vampire boyfriend _1 > 2; 
 * concluBis 24/02/21 > My vampire boyfriend _1 > 3; 
-* concluBis 02/03/21 > 
 * concluBis 19/03/21 > Bt21 vlog _1 > 2; 
 * concluBis 20/03/21 > Bt21 vlog _1 > 2; 
 * concluBis 21/03/21 > Bt21 vlog _1 > 2; 
@@ -569,7 +524,6 @@ concluBis 13/12/21 = 5515 never too late _1 > 5;
 concluBis 14/12/21 = 5515 never too late _1 > 3; 
 concluBis 15/12/21 = 5515 never too late _1 > 2; 
 concluBis 17/12/21 = Aggretsuko _4 > 2; 
-concluBis 18/12/21 = 
 concluBis 19/12/21 = District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
 concluBis 20/12/21 = Forever knight _1 > 2; Imortal _1 > 1; 
 concluBis 21/12/21 = Forever knight _1 > 1; 
@@ -614,7 +568,6 @@ concluBis 01/02/22 = /9-1-1 lone star _3 > 5; The voice ph _1 > 5; Forever knigh
 concluBis 02/02/22 = /9-1-1 lone star _3 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 concluBis 03/02/22 = Forever knight _1 > 2; /9-1-1 lone star _3 > 1; Imortal _1 > 1; 
 concluBis 04/02/22 = /9-1-1 lone star _3 > 1; Forever knight _1 > 1; 
-concluBis 05/02/22 = 
 concluBis 06/02/22 = F4 thailand _1 > 2; Forever knight _1 > 1; 
 concluBis 07/02/22 = Meet my angel _2 > 2; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; 
 concluBis 08/02/22 = F4 thailand _1 > 2; Meet my angel _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
@@ -640,44 +593,12 @@ concluBis 27/02/22 = Cupids last wish _1 > 5; Forever knight _1 > 1;
 concluBis 28/02/22 = Cupids last wish _1 > 3; 
 concluBis 01/03/22 = Cupids last wish _1 > 4; 
 concluBis 02/03/22 = Cupids last wish _1 > 3; 
-concluBis 03/03/22 = 
-concluBis 04/03/22 = 
-concluBis 05/03/22 = 
 concluBis 06/03/22 = The tuxedo _1 > 1; 
-concluBis 07/03/22 = 
-concluBis 08/03/22 = 
-concluBis 09/03/22 = 
-concluBis 10/03/22 = 
-concluBis 11/03/22 = 
-concluBis 12/03/22 = 
-concluBis 13/03/22 = 
-concluBis 14/03/22 = 
-concluBis 15/03/22 = 
-concluBis 16/03/22 = 
-concluBis 17/03/22 = 
-concluBis 18/03/22 = 
-concluBis 19/03/22 = 
 concluBis 20/03/22 = Cupids last wish _1 > 5; 
 concluBis 21/03/22 = Cupids last wish _1 > 3; 
 concluBis 22/03/22 = Cupids last wish _1 > 2; 
 concluBis 23/03/22 = Cupids last wish _1 > 2; 
 concluBis 24/03/22 = Cupids last wish _1 > 2; 
-concluBis 25/03/22 = 
-concluBis 26/03/22 = 
-concluBis 27/03/22 = 
-concluBis 28/03/22 = 
-concluBis 29/03/22 = 
-concluBis 30/03/22 = 
-concluBis 31/03/22 = 
-concluBis 01/04/22 = 
-concluBis 02/04/22 = 
-concluBis 03/04/22 = 
-concluBis 04/04/22 = 
-concluBis 05/04/22 = 
-concluBis 06/04/22 = 
-concluBis 07/04/22 = 
-concluBis 08/04/22 = 
-concluBis 09/04/22 = 
 concluBis 10/04/22 = Trivia quest _1 > 5; 
 concluBis 11/04/22 = Trivia quest _1 > 5; 
 concluBis 12/04/22 = Trivia quest _1 > 5; 
@@ -687,22 +608,9 @@ concluBis 15/04/22 = Trivia quest _1 > 6;
 concluBis 16/04/22 = Trivia quest _1 > 6; 
 concluBis 17/04/22 = Trivia quest _1 > 2; 
 concluBis 18/04/22 = Trivia quest _1 > 1; 
-concluBis 19/04/22 = 
-concluBis 20/04/22 = 
-concluBis 21/04/22 = 
-concluBis 22/04/22 = 
-concluBis 23/04/22 = 
-concluBis 24/04/22 = 
-concluBis 25/04/22 = 
-concluBis 26/04/22 = 
-concluBis 27/04/22 = 
 concluBis 28/04/22 = Bullshit the game show _1 > 1; 
 concluBis 29/04/22 = Bullshit the game show _1 > 2; 
 concluBis 30/04/22 = Bullshit the game show _1 > 1; 
-concluBis 01/05/22 = 
-concluBis 02/05/22 = 
-concluBis 03/05/22 = 
-concluBis 04/05/22 = 
 concluBis 05/05/22 = The circle us _4 > 4; 
 concluBis 06/05/22 = The circle us _4 > 4; 
 concluBis 07/05/22 = The circle us _4 > 4; 
@@ -710,14 +618,7 @@ concluBis 08/05/22 = The circle us _4 > 4;
 concluBis 09/05/22 = The circle us _4 > 3; 
 concluBis 10/05/22 = The circle us _4 > 4; 
 concluBis 11/05/22 = The circle us _4 > 4; 
-concluBis 12/05/22 = 
-concluBis 13/05/22 = 
-concluBis 14/05/22 = 
 concluBis 15/05/22 = The voice kids portugal _3 > 1; 
-concluBis 16/05/22 = 
-concluBis 17/05/22 = 
-concluBis 18/05/22 = 
-concluBis 19/05/22 = 
 concluBis 20/05/22 = The voice chile _3 > 7; The voice kids portugal _3 > 2; 
 concluBis 21/05/22 = The voice chile _3 > 6; 
 concluBis 22/05/22 = The voice chile _3 > 10; 
@@ -1404,8 +1305,6 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 21/09/21 - /9-1-1 _5{0} post mortem _1{4} 
 22/09/21 - 7project _1{5} the big leap _1{0} /9-1-1 _5{0} post mortem _1{4} 
 23/09/21 - 7project _1{5} the big leap _1{0} /9-1-1 _5{0} 
-25/09/21 - 
-26/09/21 - 
 27/09/21 - goblin _1{1} 
 28/09/21 - goblin _1{1} 
 29/09/21 - goblin _1{1} 
@@ -1437,7 +1336,6 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 27/10/21 - tbbt _11{4} aoki vuanpaia no nayami _1{6} young sheldon _5{6} 
 28/10/21 - tbbt _11{6} aoki vuanpaia no nayami _1{6} 
 29/10/21 - tbbt _11{8} 
-06/11/21 - 
 07/11/21 - banana fish _1{0} 
 16/11/21 - the case study of vanitas _1{0} 
 17/11/21 - the case study of vanitas _1{2} 
@@ -1451,9 +1349,6 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 26/11/21 - baker boys _1{0} 
 27/11/21 - baker boys _1{1} 
 28/11/21 - baker boys _1{2} 
-29/11/21 - 
-30/11/21 - 
-01/12/21 - 
 03/12/21 - baker boys _1{4} 
 04/12/21 - baker boys _1{4} 
 05/12/21 - district z _2{0} 
@@ -1475,7 +1370,6 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 22/12/21 - the player _1{0} district z _2{4} f4 thailand _1{2} unlocked _1{5} 
 23/12/21 - the player _1{2} district z _2{4} f4 thailand _1{2} 
 24/12/21 - the player _1{3} 
-25/12/21 - 
 26/12/21 - f4 thailand _1{2} 
 27/12/21 - the player _1{3} f4 thailand _1{3} 
 28/12/21 - 5515 never too late _1{12} the player _1{6} f4 thailand _1{4} 
@@ -1531,7 +1425,6 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 16/02/22 - 282* love stage 2022 _1{4} the voice ukr _12{8} all of us are dead _1{7} 
 17/02/22 - 203* love stage 2022 _1{6} the voice ukr _12{8} 
 18/02/22 - 156* love stage 2022 _1{6} 
-19/02/22 - 243* 
 20/02/22 - 199* something in my room _1{8} f4 thailand _1{25} 
 21/02/22 - 190* the voice ukr _12{8} something in my room _1{8} f4 thailand _1{27} 
 22/02/22 - 196* the voice ukr _12{9} something in my room _1{9} 
@@ -1550,14 +1443,9 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 07/03/22 - 332* the tuxedo _1{1} 
 08/03/22 - 279* the tuxedo _1{2} 
 09/03/22 - 313* the tuxedo _1{2} 
-10/03/22 - 206* 
 11/03/22 - 152* drag i love you _1{1} 
 12/03/22 - 302* drag i love you _1{1} 
 13/03/22 - 316* drag i love you _1{1} 
-14/03/22 - 413* 
-15/03/22 - 434* 
-16/03/22 - 482* 
-17/03/22 - 340* 
 18/03/22 - 424* cupids last wish _1{10} 
 19/03/22 - 481* cupids last wish _1{10} 
 20/03/22 - 529* cupids last wish _1{12} 
@@ -1565,22 +1453,8 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 22/03/22 - 394* cupids last wish _1{15} 
 23/03/22 - 248* cupids last wish _1{16} 
 24/03/22 - 235* cupids last wish _1{17} 
-25/03/22 - 211* 
-26/03/22 - 387* 
-27/03/22 - 387* 
-28/03/22 - 221* 
-29/03/22 - 300* 
-30/03/22 - 297* 
-31/03/22 - 278* 
 01/04/22 - 333* ohmnanon upvel _1{0} 
 02/04/22 - 363* quaranthings _2{0} ohmnanon upvel _1{1} 
-03/04/22 - 456* 
-04/04/22 - 479* 
-05/04/22 - 315* 
-06/04/22 - 396* 
-07/04/22 - 374* 
-08/04/22 - 346* 
-09/04/22 - 609* 
 10/04/22 - 447* trivia quest _1{0} 
 11/04/22 - 465* trivia quest _1{2} 
 12/04/22 - 134* ohmnanon upvel _1{2} trivia quest _1{5} 
@@ -1590,18 +1464,9 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 16/04/22 - 208* call me mother _1{0} 
 17/04/22 - 263* call me mother _1{0} 
 18/04/22 - 292* call me mother _1{0} 
-19/04/22 - 216* 
-20/04/22 - 191* 
-21/04/22 - 203* 
-22/04/22 - 178* 
-23/04/22 - 488* 
-24/04/22 - 511* 
-25/04/22 - 479* 
-26/04/22 - 192* 
 27/04/22 - 167* Ohmnanon upvel _1{3} 
 28/04/22 - 182* Bullshit the game show _1{0} Ohmnanon upvel _1{3} 
 29/04/22 - 187* Bullshit the game show _1{1} Ohmnanon upvel _1{3} 
-30/04/22 - 357* 
 01/05/22 - 583* Druck _8{0} 
 02/05/22 - 639* Druck _8{1} 
 03/05/22 - 661* Druck _8{2} 
@@ -1610,7 +1475,6 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 06/05/22 - 226* Close friend _2{0} Clik clak clok _1{0} The circle us _4{2} 
 07/05/22 - 164* Close friend _2{0} Clik clak clok _1{0} The circle us _4{4} 
 08/05/22 - 396* Close friend _2{0} Clik clak clok _1{0} 
-09/05/22 - 465* 
 10/05/22 - 553* Ohmnanon upvel _1{5} 
 11/05/22 - 572* Ohmnanon upvel _1{5} 
 12/05/22 - 300* The circle us _4{15} Ohmnanon upvel _1{5} 
@@ -1619,8 +1483,6 @@ concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau 
 15/05/22 - 449* The voice kids portugal _3{0} The circle us _4{15} 
 16/05/22 - 479* The voice kids portugal _3{1} 
 17/05/22 - 616* The voice kids portugal _3{2} 
-18/05/22 - 635* 
-19/05/22 - 436* 
 20/05/22 - 346* The voice chile _3{0} The voice kids portugal _3{2} 
 21/05/22 - 162* Rpdras _7{0} The voice chile _3{2} The voice kids portugal _3{3} 
 22/05/22 - 625* The voice chile _3{4} Sytycd _17{0} Two pints of lager _3{3} Rpdras _7{0} 

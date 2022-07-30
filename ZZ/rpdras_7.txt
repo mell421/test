@@ -9,5 +9,3 @@ apercuTer/apercuTer.md:* Rpdras _7
 apercuTer/apercuTer.md:* Rpdrasu _7
 apercuTer/apercuTer.md:*The circle us _3 Next in fashion _1 Drag race nl _2 Aggretsuko _3 Squid game _1 Survivor sa _8 Agt _16 Nailed it _6 Lego masters _2 Survivor au _8 The voice au _10 The masked singer nz _1 Survivor _7 Game of talents fr _1 The cube _1 Rpdrasu _6 Rpdras _6 Survivor _6*
 apercuTer/apercuTer.md:*Ultimate tag _1 Sotus _1 Cheerleaders _8 Sing on esp _1 Rpdrasu _2 Rpdras _5 Why r u _1 Boca a boca _1 The voice au _9 The order _1 Tales of the city _1 Incroyable talent la bataille du jury _1 Queering _2 Skam italia _4 Floor is lava _1 Camping paradis _11 Cheerleaders _7 Odaat _4*
-index.html:            rpdras _7<br>
-index.html:            rpdrasu _7<br>

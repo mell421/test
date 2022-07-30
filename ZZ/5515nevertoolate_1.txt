@@ -154,8 +154,8 @@ apercuTer/apercuTer.md:* 5515 never too late _1
 tab2021.html:    <td class="conclu">5515 never too late _1 > 1; </td>
 tab2021.html:    <td class="conclu">5515 never too late _1 > 3; </td>
 tab2021.html:    <td class="conclubis">5515 never too late _1 > 1; </td>
+tab2021.html:    <td class="conclubis">5515 never too late _1 > 1; Forever knight _1 > 1; </td>
 tab2021.html:    <td class="conclubis">5515 never too late _1 > 2; </td>
 tab2021.html:    <td class="conclubis">5515 never too late _1 > 3; </td>
 tab2021.html:    <td class="conclubis">5515 never too late _1 > 5; </td>
-tab2021.html:    <td class="conclubis">5515 never too late _1 > 1; Forever knight _1 > 1; </td>
 tab2021.html:    <td class="resumesem">5515 never too late _1x4(3) </td>
