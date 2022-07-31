@@ -158,16 +158,16 @@
 |ultimate tag 1||10||us|
 |he she it 1|he she it|3|serie|thailande|  <!-- 5 -->
 |skin wars fresh paint 1||9||us|
-|sotus 2|sotus s|13|serie|thailande|       <!-- 6 -->
-|reminderS 1|reminderS|3|serie|thailande|   <!-- 7 -->
+|sotus 2|sotus s|13|serie|thailande| <!-- 6 -->
+|reminderS 1|reminderS|3|serie|thailande| <!-- 7 -->
 |awake 1||8|||
 |KUWTK 2||11|||
 |la course des champions 1||4||france|
 |sing on ger 1||7|||
 |the titan games 2||12|||
 |the order 2||10|||
-|the moment 2|the moment since|5|serie|thailande|       <!-- 8 -->
-|the moment 1|the moment I need you|4|serie|thailande|    <!-- 9 -->
+|the moment 2|the moment since|5|serie|thailande| <!-- 8 -->
+|the moment 1|the moment I need you|4|serie|thailande|  <!-- 9 -->
 |world of dance 4||12|||
 |UNHhhh 2||33|||
 |alyssa's secret 3||32|||
@@ -176,45 +176,45 @@
 |alyssa's secret 5||7|||
 |alyssa's secret 6||10|||
 |KUWTK 3||12|||
-|2gether 1|2gether|13|serie|thailande|                    <!-- 10 -->
-|the gifted 1|the gifted|13||thailande|           <!-- 11 -->
+|2gether 1|2gether|13|serie|thailande|  <!-- 10 -->
+|the gifted 1|the gifted|13||thailande| <!-- 11 -->
 |adventure time 3||26|||
-|roommate 1|roommate|5|serie|thailande|                   <!-- 12 -->
+|roommate 1|roommate|5|serie|thailande| <!-- 12 -->
 |TVK UK 4||8|||
 |TV TH 8||15|||
 |TBBT 10||24|||
 |DR CA 1||10|||
-|love by chance 1|love by chance|14|serie|thailande|      <!-- 13 -->
+|love by chance 1|love by chance|14|serie|thailande|  <!-- 13 -->
 |TVK TH 7||8|||
-|2gether 1.5|still 2gether|5|serie|thailande|           <!-- 15 -->
+|2gether 1.5|still 2gether|5|serie|thailande| <!-- 15 -->
 |TVK VV 5||10|||
-|my engineer 1|my engineer|14|serie|thailande|            <!-- 16 -->
+|my engineer 1|my engineer|14|serie|thailande|  <!-- 16 -->
 |SCD 16||25|||
 |TMS AU 2||11|||
 |sing on 1||8|||
-|yyy 1|yyy|6|serie|thailande|                             <!-- 17 -->
+|yyy 1|yyy|6|serie|thailande| <!-- 17 -->
 |TVS NL 3||4|||
-|my friendship 1|my friendship|2|serie|thailande|         <!-- 18 -->
-|history1.1|history1 my hero|4|serie|taiwan|            <!-- 19 -->
-|2wish 1|2wish|2|serie|thailande|                         <!-- 20 -->
+|my friendship 1|my friendship|2|serie|thailande| <!-- 18 -->
+|history1.1|history1 my hero|4|serie|taiwan| <!-- 19 -->
+|2wish 1|2wish|2|serie|thailande| <!-- 20 -->
 |AGT 15||25|||
-|where your eyes linger 1|where your eyes linger|8|serie|corée|  <!-- 21 -->
+|where your eyes linger 1|where your eyes linger|8|serie|corée| <!-- 21 -->
 |grand hotel 1||8||france|
 |RPDR vegas revue 1||6|||
 |my engineer summer trip 1|my engineer summer trip|3|show|thailande| <!-- 22 -->
 |until we meet again 1|until we meet again|18|serie|thailande| <!-- 23 -->
 |clem 10||6||france|
 |history1.3|history1 stay away from me|4|serie|taiwan|
-|mr heart 1|mr heart|8|serie|corée|             <!-- 25 -->
-|en of love 1|en of love tossara|4|serie|thailande|              <!-- 26 -->
-|history1.2|history1 obsessed|4|serie|taiwan|    <!-- 24 -->
+|mr heart 1|mr heart|8|serie|corée| <!-- 25 -->
+|en of love 1|en of love tossara|4|serie|thailande| <!-- 26 -->
+|history1.2|history1 obsessed|4|serie|taiwan| <!-- 24 -->
 |TVK 7||8||france|
 |discipline|discipline|6|serie(*)|corée|
 |en of love 2|en of love love mechanics|4|serie|thailande|
 |yyy 1.5|yyy special|3|serie|thailande|
 |offgun fun night|offgun fun night|9+1|show|thailande|
 |en of love 3|en of love this is love|3|serie|thailande|
-|theory of love|theory of love|12+1|serie|thailande|   
+|theory of love|theory of love|12+1|serie|thailande| 
 |the boy next door|the boy next door|15|serie|corée| 
 |the good doctor 3||20|||
 |skam espana 4||8|||
@@ -243,208 +243,213 @@
 |long time no see|long time no see|5|serie|corée|
 |druck 5||10|||
 |TMS FR 2||6||france|
-|the gifted 2|the gifted graduation|13||thailande|
-|cheerleaders new jersey 1||30|||
-|safe haven|safe haven|15|serie|philippines|
-|better days|better days|6|serie|philippines|
-|KL 25||15|||
-|boyband love|boyband love|9|serie|philippines|
-|oxygen|oxygen|13|serie|thailande|
-|taking the stands 1||10|||
-|DR TH 2||13|||
-|TVS VV 2||4|||
-|calculating love|calculating love|6|serie|thailande|
-|ICSYV 1||10|||
-|incroyable talent 15||8||france|
-|TV US 19||18|||
-|oh mando|oh mando|6|serie|philippines|
-|TMS 4||13|||
-|discipline 2|discipline z : vampire|6|serie|corée|
-|FPCFPC 9(spe)||1||france|
-|why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 58 -->
-|SCD 18||17|||
-|TV GER 10||19|||
-|TVS IT 1||5|||
-|FDTD 1||10|||
-|cherry magic|cherry magic|12+2|serie|japon|<!--  -->
-|wish you|wish you|8+1|serie|corée|<!--  -->
+|the gifted 2|the gifted graduation|13||thailande|<!-- 29/11 -->
+|cheerleaders new jersey 1||30|||<!-- 30/11 -->
+|safe haven|safe haven|15|serie|philippines|<!-- 1/12 -->
+|better days|better days|6|serie|philippines|<!-- 4/12 -->
+|KL 25||15|||<!-- 4/12 -->
+|boyband love|boyband love|9|serie|philippines|<!-- 5/12 -->
+|oxygen|oxygen|13|serie|thailande|<!-- 5/12 -->
+|taking the stands 1||10|||<!-- 7/12 -->
+|DR TH 2||13|||<!-- 11/12 -->
+|TVS VV 2||4|||<!-- 11/12 -->
+|calculating love|calculating love|6|serie|thailande|<!-- 12/12 -->
+|ICSYV 1||10|||<!-- 14/12 -->
+|incroyable talent 15||8||france|<!-- 15/12 -->
+|TV US 19||18|||<!-- 15/12 -->
+|oh mando|oh mando|6|serie|philippines|<!-- 16/12 -->
+|TMS 4||13|||<!-- 17/12 -->
+|discipline 2|discipline z : vampire|6|serie|corée|<!-- 18/12 -->
+|FPCFPC 9(spe)||1||france|<!-- 18/12 -->
+|why r u 2|why r u saifahzon story|3|serie|thailande|<!-- 19/12 -->
+|SCD 18||17|||<!-- 19/12 -->
+|TV GER 10||19|||<!-- 20/12 -->
+|TVS IT 1||5|||<!-- 21/12 -->
+|FDTD 1||10|||<!-- 23/12 -->
+|cherry magic|cherry magic|12+2|serie|japon|<!-- 24/12 -->
+|wish you|wish you|8+1|serie|corée|<!-- 25/12 -->
 |josephine ange gardien 23||4|||<!-- 29/12/20  -->
-|meet me outside|meet me outside|6|serie|philippines|<!-- 68 -->
-|BT21 universe 1||13|||
-|district z 1||5||france|
-|ingredients|ingredients|21+1|serie|thailande|<!--  -->
-|TV VV 6||16|||
-|gameboys|gameboys|13+1|serie|philippines|<!-- 11 -->
-|lego masters fr 1||4||france|
-|my extraordinary|my extraordinary|8|serie|philippines|<!-- -->
-|interested in 1||5|||
-|cheat|cheat|6|serie|philippines|<!-- 26 -->
-|follow my sunshine|sau vat nang|5|serie|vietnam|4|<!-- 29 -->
-|color rush|color rush|8|serie|corée|<!-- 32 -->
-|thonhon chonlathee|thonhon chonlathee|10|serie|thailande|<!-- 23 -->
-|sweet home 1||10|||<!--  -->
-|bonding 2||8|||
-|friend.ship with krist-singto|friend.ship with krist-singto|6+3|show|thailande|<!-- 34 -->
-|ninja warrior 5||5||france|<!--  -->
-|to my star 1||9|||<!--  -->
-|we best love|we best love no1 for you|6+1|serie|taiwan|<!--  -->
-|fools 1||4|||<!--  -->
-|love stage 2014 1||10|||<!--  -->
-|TMS UK 2||8|||<!--  -->
-|history2.1|history2 right or wrong|8|serie|taiwan|<!-- 24 -->
-|TMD 1||9|||<!--  -->
-|nation's brother|anh trai quoc dan|6|serie|vietnam|<!-- 36 -->
-|druck 6||10|||<!--  -->
-|history2.2|history2 crossing the line|8|serie|taiwan|<!--  -->
-|manner of death|manner of death|14|serie|thailande|<!-- 27 -->
-|you are ma boy|em la chang trai cua anh|6|serie|vietnam|<!-- 27 -->
-|dancing on ice uk 12||10|||<!--  -->
-|name that tune 1||10|||<!--  -->
-|evening cafe|evening cafe|4|serie|thailande|
-|bt21 universe 2||11|||
-|happenstance|happenstance|9|serie|philippines|<!-- 23 -->
-|dancing on ice uk 13||8|||<!--  -->
-|survivor au 7||25|||<!--  -->
-|sea him|uoc hen lang chai|10|serie|vietnam|<!-- 19 -->
-|Bt21 universe 3||9|||
-|girl2k|girl2k|10||thailande|<!-- 41 -->
-|RPDRUK 2||10|||<!--  -->
-|you make me dance|you make me dance|8|serie|corée|<!-- 45 -->
-|skam france 7||10|||<!--  -->
-|TV UK 10||12|||<!--  -->
-|our memory|our memory|4|serie|taiwan|<!-- 91 -->
-|survivor au 1||13|||<!--  -->
-|TV NL 11||17|||<!--  -->
-|mako ventures|mako ventures|12|show|philippines|             <!-- 23 -->
-|nailed it 5||6|||
-|survivor au 2||12|||<!--  -->
-|TMS DE 4||6|||
-|absolute BL 1||8|||<!--  -->
-|1000 stars 1||10|||<!--  -->
-|meet my angel 1|meet my angel|8|serie|philippines|<!-- 38 -->
-|we best love 2|fighting mister 2nd|6|serie|taiwan|<!-- 39 -->
-|RPDRU 13||14|||<!--  -->
-|woodward cheer girls 1||10|||<!--  -->
-|TV BE 9||16|||<!--  -->
-|roommate 2|roommate 2 soulmate|2|serie|thailande|<!-- 22 -->
-|the circle france 1||12|||<!--  -->
-|nailed it holiday 2||6|||<!--  -->
-|survivor au 3||26|||<!--  -->
-|DR NL 1||8|||<!--  -->
-|RPDR 13||16|||<!--  -->
-|wabi vlog|wabi vlog|15|show|thailande|                       <!-- 27/04 !!! -->
-|PE 14||10|||<!--  -->
-|tvk ger 9||10|||<!--  -->
-|bad roommate|bad roommate|30|||<!--  -->
-|why are you like this||6|||<!--  -->
-|my superboss||30|||<!--  -->
-|clem 11||6|||<!--  -->
-|the circle us 2||13|||<!-- 14/04 -->
-|the circle br 1||12|||<!--  -->
-|nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée| <!-- 50 -->
-|the sweet blood|the sweet blood|15|serie(***)|corée|           <!-- 54 -->
-|lovely writer|lovely writer|12|serie|thailande|              <!-- 38 -->
-|love death & robots 2||8|||<!--  -->
-|young sheldon 4||18|||<!--  -->
-|TV FR 10||15|||<!--  -->
-|history4.1|history4 close to you|10|serie|taiwan|            <!-- 40 -->
-|911 4||14|||<!--  -->
-|911 lone star 2||14|||<!--  -->
-|given 1||11|||<!--  -->
-|plan b 1||6|||<!--  -->
-|game of talents 1||10|||<!--  -->
-|TV US 20||18|||<!--  -->
-|TMS 5||12|||<!--  -->
-|close friend|close friend|6|serie|thailande|                 <!-- 52 -->
-|kiss me again peteKao cut||3|||<!--  -->
-|the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|  <!-- 46 -->
-|TV VV 7||17|||<!--  -->
-|TV NO 6||21|||<!--  -->
-|LLS 1||185|||<!--  -->
-|KL 26||13|||<!--  -->
-|TVK NL 10||10|||<!--  -->
-|skinship 2||3|||<!-- 24/4 -->
-|The masked dancer uk||7|||<!--  -->
-|my lascivious boss 1||10|||<!--  -->
-|history3.1|history3 trapped|20|serie|taiwan|                 <!-- 37 -->
-|top chef 12||18|||<!--  -->
-|Love victor 2|Love victor 2|10|serie|us|<!--  -->
-|history3.2|history3 modc|10|serie|taiwan|                    <!-- 53 -->
-|wheel of love|weekend to remember|8|||<!-- 18/4 -->
-|SFU 5||12|||<!--  -->
-|special 2||8|||<!-- 20/5 -->
-|elite short 1||4x3|||<!--  -->
-|RPDRDU 1||8|||<!-- 22/5 -->
-|he's coming to me|he's coming to me|8|serie|thailande|       <!-- 6 -->
-|kaamelott 5||50|||<!--  -->
-|life senjou no bokura|life senjou no bokura|4|serie|japon|   <!-- 39 -->
-|fish upon the sky|fish upon the sky|12|serie|thailande|     <!-- 38 -->
-|wtfock 5||10|||<!--  -->
-|precise shot|precise shot|20|serie|taiwan|                   <!-- 35 -->
-|tharnType 2|tharnType 7 years of love|13|serie|thailande|    <!-- 18 -->
-|mortel 2||6|||<!--  -->
-|ydestiny|ydestiny|15|serie|thailande|                       <!-- 36 -->
-|glow up 1||8|||<!--  -->
-|pearl next door|pearl next door|8|serie(gl)|philippines|     <!-- 24 -->
-|skam france 8||10|||<!--  -->
-|nitiman|nitiman|10|serie|thailande|                          <!-- 40 -->
-|God shave the queens||8|||<!--  -->
-|love in time 1||9|||<!--  -->
-|surv au 4||27|||<!--  -->
-|domino challenge 1||4|||<!--  -->
-|mental 1||10|||<!--  -->
-|queen of drags 1||6|||<!--  -->
-|la mas draga 1||7|||<!--  -->
-|la mas draga 2||9|||<!--  -->
-|RPDRU 9||12|||<!--  -->
-|crime scene kitchen||9|||<!--  -->
-|the best story|the best story|3|serie|thailande|<!--  -->
-|drag race esp||9|||<!--  -->
-|kaamelott 6||9|||<!--  -->
-|survivor 40||14|||<!--  -->
-|stuck on you|stuck on you|8|serie|philippines|               <!-- 35 -->
-|Rpdr out of the closet 1||6|||<!--  -->
-|Rpdr out of the closet 2||6|||<!--  -->
-|dragula 1||7|||<!--  -->
-|la mas draga 3||11|||<!--  -->
-|survivor 1||14|||<!--  -->
-|golden blood 1||8|||<!--  -->
-|drag tots 1||8|||<!--  -->
-|dragula 2||10|||<!--  -->
-|survivor 2||17|||<!--  -->
-|AHSS 1||7|||<!--  -->
-|light on me 1||16|||<!--  -->
+|meet me outside|meet me outside|6|serie|philippines|<!-- 1/1/21 -->
+|BT21 universe 1||13|||<!-- 7/1 -->
+|district z 1||5||france|<!-- 8/1 -->
+|ingredients|ingredients|21+1|serie|thailande|<!-- 9/1 -->
+|TV VV 6||16|||<!-- 11/1 -->
+|gameboys|gameboys|13+1|serie|philippines|<!-- 11/1 -->
+|lego masters fr 1||4||france|<!-- 12/1 -->
+|my extraordinary|my extraordinary|8|serie|philippines|<!-- 14/1 -->
+|interested in 1||5|||<!-- 17/1 -->
+|cheat|cheat|6|serie|philippines|<!-- 19/1 -->
+|follow my sunshine|sau vat nang|5|serie|vietnam|4|<!-- 20/1 -->
+|color rush|color rush|8|serie|corée|<!-- 21/1 -->
+|thonhon chonlathee|thonhon chonlathee|10|serie|thailande|<!-- 22/1 -->
+|sweet home 1||10|||<!-- 26/1 -->
+|bonding 2||8|||<!-- 28/1 -->
+|ninja warrior 5||5||france|<!-- 30/1 -->
+|to my star 1||9|||<!-- 5/2 -->
+|friend.ship with krist-singto|friend.ship with krist-singto|6+3|show|thailande|<!-- 5/2 -->
+|fools 1||4|||<!-- 7/2 -->
+|love stage 2014 1||10|||<!-- 11/2 -->
+|TMS UK 2||8|||<!-- 13/2 -->
+|history2.1|history2 right or wrong|8|serie|taiwan|<!-- 14/2 -->
+|TMD 1||9|||<!-- 17/2 -->
+|we best love|we best love no1 for you|6+1|serie|taiwan|<!-- 19/2 -->
+|nation's brother|anh trai quoc dan|6|serie|vietnam|<!-- 20/2 -->
+|druck 6||10|||<!-- 20/2 -->
+|history2.2|history2 crossing the line|8|serie|taiwan|<!-- 21/2 -->
+|manner of death|manner of death|14|serie|thailande|<!-- 22/2 -->
+|you are ma boy|em la chang trai cua anh|6|serie|vietnam|<!-- 23/2 -->
+|dancing on ice uk 12||10|||<!-- 28/2 -->
+|name that tune 1||10|||<!-- 3/3 -->
+|evening cafe|evening cafe|4|serie|thailande|<!-- 7/3 -->
+|bt21 universe 2||11|||<!-- 10/3 -->
+|happenstance|happenstance|9|serie|philippines|<!-- 11/3 -->
+|dancing on ice uk 13||8|||<!-- 14/3 -->
+|survivor au 7||25|||<!-- 14/3 -->
+|sea him|uoc hen lang chai|10|serie|vietnam|<!-- 15/3 -->
+|Bt21 universe 3||9|||<!-- 16/3 -->
+|girl2k|girl2k|10||thailande|<!-- 18/3 -->
+|RPDRUK 2||10|||<!-- 18/3 -->
+|schools out lets date now||5|||  <!-- 18/3/21 -->
+|you make me dance|you make me dance|8|serie|corée|<!-- 19/3 -->
+|skam france 7||10|||<!-- 19/3 -->
+|TV UK 10||12|||<!-- 20/3 -->
+|our memory|our memory|4|serie|taiwan|<!-- 21/3 -->
+|survivor au 1||13|||<!-- 23/3 -->
+|TV NL 11||17|||<!-- 26/3 -->
+|mako ventures|mako ventures|12|show|philippines| <!-- 27/3 -->
+|nailed it 5||6|||<!-- 27/3 -->
+|survivor au 2||12|||<!-- 30/3 -->
+|TMS DE 4||6|||<!-- 31/3 -->
+|absolute BL 1||8|||<!-- 31/3 -->
+|1000 stars 1||10|||<!-- 2/4 -->
+|meet my angel 1|meet my angel|8|serie|philippines|<!-- 3/4 -->
+|RPDRU 13||14|||<!-- 9/4 -->
+|woodward cheer girls 1||10|||<!-- 12/4 -->
+|TV BE 9||16|||<!-- 13/4 -->
+|roommate 2|roommate 2 soulmate|2|serie|thailande|<!-- 14/4 -->
+|the circle france 1||12|||<!-- 15/4 -->
+|we best love 2|fighting mister 2nd|6+1|serie|taiwan|<!-- 7/4 -->
+|nailed it holiday 2||6|||<!-- 16/4 -->
+|survivor au 3||26|||<!-- 19/4 -->
+|DR NL 1||8|||<!-- 22/4 -->
+|RPDR 13||16|||<!-- 23/4 -->
+|wabi vlog|wabi vlog|15|show|thailande| <!-- 27/04 -->
+|PE 14||10|||<!-- 27/4 -->
+|tvk ger 9||10|||<!-- 28/4 -->
+|bad roommate|bad roommate|30|||<!-- 28/4 -->
+|why are you like this||6|||<!-- 29/4 -->
+|my superboss||30|||<!-- 30/4 -->
+|clem 11||6|||<!-- 2/5 -->
+|the circle us 2||13|||<!-- 14/04-5/5 -->
+|the circle br 1||12|||<!-- 5/5 -->
+|nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée| <!-- 6/5 -->
+|the sweet blood|the sweet blood|15|serie(***)|corée| <!-- 12/5 -->
+|ICSYV FR 1||2|||<!-- 13/5/21 -->
+|love death & robots 2||8|||<!-- 14/5 -->
+|young sheldon 4||18|||<!-- 14/5 -->
+|TV FR 10||15|||<!-- 15/5 -->
+|history4.1|history4 close to you|10|serie|taiwan|  <!-- 16/5 -->
+|911 4||14|||<!-- 24/5 -->
+|911 lone star 2||14|||<!-- 24/5 -->
+|given 1||11|||<!-- 25/5 -->
+|plan b 1||6|||<!-- 25/5 -->
+|game of talents 1||10|||<!-- 25/5 -->
+|TV US 20||18|||<!-- 26/5 -->
+|TMS 5||12|||<!-- 26/5 -->
+|close friend|close friend|6|serie|thailande| <!-- 27/5 -->
+|kiss me again peteKao cut||3|||<!-- 28/5 -->
+|the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|  <!-- 28/5 -->
+|TV VV 7||17|||<!-- 28/5 -->
+|TV NO 6||21|||<!-- 31/5 -->
+|LLS 1||185|||<!-- 2/6 -->
+|KL 26||13|||<!-- 4/6 -->
+|TVK NL 10||10|||<!-- 4/6 -->
+|skinship 2||3|||<!-- 24/4-5/6 -->
+|The masked dancer uk||7|||<!-- 5/6 -->
+|my lascivious boss 1||10|||<!-- 6/6 -->
+|history3.1|history3 trapped|20|serie|taiwan| <!-- 7/6 -->
+|lovely writer|lovely writer|12+1|serie|thailande|  <!-- 9/6 -->
+|top chef 12||18|||<!-- 9/6 -->
+|Love victor 2|Love victor 2|10|serie|us|<!-- 11/6 -->
+|history3.2|history3 modc|10|serie|taiwan|  <!-- 12/6 -->
+|wheel of love|weekend to remember|8|||<!-- 18/4-13/6 -->
+|SFU 5||12|||<!-- 15/6 -->
+|special 2||8|||<!-- 20/5-16/6 -->
+|elite short 1||4x3|||<!-- 17/6 -->
+|RPDRDU 1||8|||<!-- 22/5-19/6 -->
+|he's coming to me|he's coming to me|8|serie|thailande| <!-- 20/6 -->
+|kaamelott 5||50|||<!-- 20/6 -->
+|life senjou no bokura|life senjou no bokura|4|serie|japon| <!-- 24/6 -->
+|fish upon the sky|fish upon the sky|12|serie|thailande| <!-- 25/6 -->
+|wtfock 5||10|||<!-- 25/6 -->
+|precise shot|precise shot|20|serie|taiwan| <!-- 26/6 -->
+|tharnType 2|tharnType 7 years of love|13|serie|thailande|  <!-- 2/7 -->
+|mortel 2||6|||<!-- 2/7 -->
+|ydestiny|ydestiny|15|serie|thailande| <!-- 6/7 -->
+|glow up 1||8|||<!-- 6/7 -->
+|pearl next door|pearl next door|8|serie(gl)|philippines| <!-- 8/7 -->
+|skam france 8||10|||<!-- 9/7 -->
+|nitiman|nitiman|10|serie|thailande|  <!-- 9/7 -->
+|God shave the queens||8|||<!-- 10/7 -->
+|love in time 1||9|||<!-- 12/7 -->
+|surv au 4||27|||<!-- 15/7 -->
+|domino challenge 1||4|||<!-- 15/7 -->
+|mental 1||10|||<!-- 16/7 -->
+|queen of drags 1||6|||<!-- 17/7 -->
+|la mas draga 1||7|||<!-- 18/7 -->
+|la mas draga 2||9|||<!-- 19/7 -->
+|RPDRU 9||12|||<!-- 20/7 -->
+|crime scene kitchen||9|||<!-- 21/7 -->
+|the best story|the best story|3|serie|thailande|<!-- 24/7 -->
+|kaamelott 6||9|||<!-- 27/7 -->
+|survivor 40||14|||<!-- 30/7 -->
+|stuck on you|stuck on you|8|serie|philippines| <!-- 31/7 -->
+|drag race esp||9+1|||<!-- 1/8 -->
+|Rpdr out of the closet 1||6|||<!-- 1/8 -->
+|Rpdr out of the closet 2||6|||<!-- 2/8 -->
+|dragula 1||7|||<!-- 7/8 -->
+|good singers 1||4|||<!-- 7/8/21 -->
+|la mas draga 3||11|||<!-- 8/8 -->
+|Rpdr out of the closet 3||6|||<!-- 8/8 -->
+|survivor 1||14|||<!-- 9/8 -->
+|golden blood 1||8|||<!-- 11/8 -->
+|drag tots 1||8|||<!-- 13/8 -->
+|dragula 2||10|||<!-- 17/8 -->
+|survivor 2||17|||<!-- 18/8 -->
+|AHSS 1||7|||<!-- 19/8 -->
+|light on me 1||16|||<!-- 19/8 -->
+|dragula 3||10|||<!-- 19/8 -->
 |marble mania 1||2|||<!-- 19/08/21 -->
-|dragula 3||10|||<!--  -->
-|beat shazam 4||10|||<!--  -->
-|given 2021||6|||<!--  -->
-|survivor 3||15|||<!--  -->
-|koh-lanta 1||13|||<!--  -->
-|koh-lanta 3||13|||<!--  -->
-|koh-lanta 4||13|||<!--  -->
-|Survivor 4||15|||<!--  -->
-|we are not human|we are not human|24|serie|chine|<!-- 1 -->
-|drop 1||8|||<!--  -->
-|Survivor 5||15|||<!--  -->
-|Survivor 6||15|||<!--  -->
-|RPDRAS 6||12|||<!-- 22/5 -->
-|RPDRASU 6||12|||<!-- 22/5 -->
-|the cube 1||8|||<!--  -->
-|game of talents fr 1||2|||<!--  -->
-|Survivor 7||15|||<!--  -->
-|The masked singer nz 1||11|||<!--  -->
-|TV au 10||13|||<!--  -->
-|survivor au 8||24|||<!--  -->
-|lego masters 2||12|||<!-- 2/6 -->
-|nailed it 6||6|||<!--  -->
-|AGT 16||20|||<!--  -->
-|survivor sa 8||16|||<!--  -->
-|Squid game 1||9|serie|corée|<!--  -->
-|aggretsuko 3||10|||<!--  -->
-|drag race nl 2||8|||<!--  -->
-|next in fashion 1||10|||<!--  -->
-|the circle us 3||13|||<!--  -->
-|TV finland 11||5|||<!--  -->
+|beat shazam 4||10|||<!-- 20/8 -->
+|given 2021||6|||<!-- 20/8 -->
+|survivor 3||15|||<!-- 23/8 -->
+|rupaul drag u 1||8|||<!-- 24/8 -->
+|koh-lanta 1||13|||<!-- 26/8 -->
+|koh-lanta 3||13|||<!-- 28/8 -->
+|koh-lanta 4||13|||<!-- 28/8 -->
+|Survivor 4||15|||<!-- 29/8 -->
+|we are not human|we are not human|24|serie|chine|<!-- 29/8 -->
+|drop 1||8|||<!-- 30/8 -->
+|Survivor 5||15|||<!-- 31/8 -->
+|Survivor 6||15|||<!-- 1/9 -->
+|RPDRAS 6||12|||<!-- 22/5 - 2/9 -->
+|RPDRASU 6||12|||<!-- 22/5 - 2/9 -->
+|the cube 1||8|||<!-- 3/9 -->
+|game of talents fr 1||2|||<!-- 3/9 -->
+|Survivor 7||15|||<!-- 4/9 -->
+|The masked singer nz 1||11|||<!-- 9/9 -->
+|TV au 10||13|||<!-- 12/9 -->
+|survivor au 8||24|||<!-- 12/9 -->
+|lego masters 2||12|||<!-- 14/9 -->
+|nailed it 6||6|||<!-- 15/9 -->
+|AGT 16||20|||<!-- 16/9 -->
+|survivor sa 8||16|||<!-- 16/9 -->
+|Squid game 1||9|serie|corée|<!-- 18/9 -->
+|aggretsuko 3||10|||<!-- 20/9 -->
+|drag race nl 2||8|||<!-- 24/9 -->
+|next in fashion 1||10|||<!-- 24/9 -->
+|the circle us 3||13|||<!-- 29/9 -->
+|TV finland 11||5|||<!-- 2/10 -->
 |the masked singer au 3||11|||<!-- 5/10 -->
 |Sytycd 15||14|||<!-- 9/10 -->
 |stalk 2||10|||<!-- 10/10 -->
@@ -499,7 +504,7 @@
 |the voice ru 10||13|||<!-- 30/12 -->
 |the voice nl 9||17|||<!-- 31/12 -->
 |druck 7||10|||<!-- 31/12 -->
-|friend or lover|friend or lover|7|serie|taiwan|              <!-- 3/1/22 -->
+|friend or lover|friend or lover|7|serie|taiwan|  <!-- 3/1/22 -->
 |The voice alb 6||17|||0|<!-- 3/1 -->
 |dexter 9||10|||<!-- 9/1 -->
 |rpdruk 3||10|||<!-- 9/1 -->
@@ -601,9 +606,9 @@
 |koh-lanta 28||17|||<!-- 22/2 - 21/06 -->
 |survivor 29||15|||<!-- 22/6 -->
 |The challenge all stars 2||10|||<!-- 23/6 -->
-|The challenge 2||6|||<!--  -->
-|The challenge 3||11|||<!--  -->
-|Drag tots 2||1|||<!--  -->
+|The challenge 2||6|||<!-- 23/6 -->
+|The challenge 3||11|||<!-- 30/6 -->
+|Drag tots 2||1|||<!-- 30/6 -->
 |skam france 10||10|||<!-- 2/7 -->
 |The challenge all stars 3||10|||<!-- 6/7 -->
 |The challenge all stars 1||10|||<!-- 7/7 -->
@@ -616,12 +621,13 @@
 |In relationship 1||20|||<!-- 24/7 -->
 |Rpdr out of the closet 4||6|||<!-- 26/7 -->
 |The masked singer jap 1||9|||<!-- 28/7 -->
-|EMS|earth mix space|21|show|thailande|                        <!-- 40 -->
+|EMS|earth mix space|21|show|thailande| <!-- 29/7 -->
 ||||||<!--  -->
 ||||||<!--  -->
-|ICSYV FR 1||2|||<!-- 13/5/21 -->
-|good singers 1||4|||<!-- 7/8/21 -->
-|schools out lets date now||5|||    <!-- 18/3/21 -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
 ||||||<!--  -->
 
 
@@ -830,11 +836,32 @@
 |the challenge 4|||||0|<!--  -->
 |karaoke club drag edition 1|||||0|<!--  -->
 |the voice peru 5|||||0|<!--  -->
+|pekin express 16|||||0|<!--  -->
+|second chance series 1|||||0|<!--  -->
+|the challenge usa 1|||||0|<!--  -->
+|big brother us 24|||||0|<!--  -->
+|big brother us 23|||||0|<!--  -->
+|drag race ca 3|||||0|<!--  -->
+|vice versa||?|serie|thailande|0|<!--  -->
+|survivor 31||15|||0|<!--  -->
+|game of talents fr 2|||||0|<!--  -->
+|vanjie 24 hours of love 1|||||0|<!--  -->
+|the voice th 9|||||0|<!--  -->
+|survivor sa 9|||||0|<!--  -->
+|ahss 2|||||0|<!--  -->
+|his man 1|||||0|<!--  -->
+|blueming 1|||||0|<!--  -->
+|the masked singer nz 2|||||0|<!--  -->
+|minatos laundromat 1|||||0|<!--  -->
+|the amazing race 32|||||0|<!--  -->
+|rpdrdu 2|||||0|<!--  -->
+|god shave the queens 2|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
+|the eclipse||?|serie|thailande|0|<!-- 12/8 -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -850,25 +877,24 @@
 |check out 1|||||0|<!--  -->
 |first kill 1|||||0|<!--  -->
 |oh my sunshine night 1|||||0|<!--  -->
-|pekin express 16|||||0|<!--  -->
-|the challenge usa 1|||||0|<!--  -->
-|drag race ca 3|||||0|<!--  -->
-|game of talents fr 2|||||0|<!--  -->
-|vice versa||?|serie|thailande|0|<!--  -->
-|the voice thailand 9|||||0|<!--  -->
-|survivor sa 9|||||0|<!--  -->
-|ahss 2|||||0|<!--  -->
-|rpdrdu 2|||||0|<!--  -->
+|war of y 1|||||0|<!-- 2/8 -->
+|the masked singer au 4|||||0|<!-- 7/8 -->
 |my only 12pc 1|||||0|<!-- 12/8 -->
-|drag race ph 1|||||0|<!--  -->
-|skam italia 5|||||0|<!--  -->
-|the voice us 22|||||0|<!--  -->
-|lego masters 3|||||0|<!--  -->
-|survivor 43|||||0|<!--  -->
-|the amazing race 34|||||0|<!--  -->
-|the masked singer 8|||||0|<!--  -->
-|ahs 11|||||0|<!--  -->
-|next in fashion 2|||||0|<!--  -->
+|scrpdr 2|||||0|<!-- 13/8 -->
+|drag race ph 1|||||0|<!-- 17/8 -->
+|love in the air 1|||||0|<!-- 18/8 -->
+|the voice germany 12|||||0|<!-- 18/8 -->
+|skam italia 5|||||0|<!-- 1/9 -->
+|vampire academy 1|||||0|<!-- 15/9 -->
+|the voice us 22|||||0|<!-- 20/9 -->
+|lego masters 3|||||0|<!-- 22/9 -->
+|survivor 43|||||0|<!-- 22/9 -->
+|the amazing race 34|||||0|<!-- 22/9 -->
+|the masked singer 8|||||0|<!-- 22/9 -->
+|interview with the vampire 1|||||0|<!-- 2/10 -->
+|reginald the vampire 1|||||0|<!-- 6/10 -->
+|ahs 11|||||0|<!-- 18/10 -->
+|next in fashion 2|||||0|<!-- 17/11 -->
 |between us 1||?|||0|<!-- 18/11 -->
 |rpdr 15|||||0|<!--  -->
 |rpdru 15|||||0|<!--  -->
@@ -879,7 +905,7 @@
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
-|Survivor 31|||||0|<!--  -->
+||||||0|<!--  -->
 |rainbow prince 1|||||0|<!--  -->
 |nilundon 1|||||0|<!--  -->
 |CIWYW 1||?|||0|<!-- 9/4 -->
@@ -899,7 +925,6 @@
 |midnight motel||?||thailande|0|<!--  -->
 |dirty laundry||?||thailande|0|<!--  -->
 |my precious||1||thailande|0|<!--  -->
-|the eclipse||?|serie|thailande|0|<!--  -->
 |never let me go||?|serie|thailande|0|<!--  -->
 |moonlight chicken||?|serie|thailande|0|<!--  -->
 |my school president||?|serie|thailande|0|<!--  -->
