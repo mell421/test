@@ -54,11 +54,6 @@ ligne :  33 ZZ/Thevoiceukr_12.txt
 mot   :  622 ZZ/Thevoiceukr_12.txt
 carac :  3836 ZZ/Thevoiceukr_12.txt
 
-i = The voice kids portugal _3
-ligne :  39 ZZ/Thevoicekidsportugal_3.txt
-mot   :  926 ZZ/Thevoicekidsportugal_3.txt
-carac :  5860 ZZ/Thevoicekidsportugal_3.txt
-
 i = Beat shazam _2
 ligne :  33 ZZ/Beatshazam_2.txt
 mot   :  873 ZZ/Beatshazam_2.txt

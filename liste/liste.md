@@ -622,6 +622,7 @@
 |Rpdr out of the closet 4||6|||<!-- 26/7 -->
 |The masked singer jap 1||9|||<!-- 28/7 -->
 |EMS|earth mix space|21|show|thailande| <!-- 29/7 -->
+|the voice kids portugal 3||12|||<!-- 31/7 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -808,7 +809,6 @@
 |the circle us 4||13|||0|<!-- 4/5 -->
 |clik clak clok 1|||||0|<!-- 5/5 -->
 |close friend 2||6|||0|<!-- 5/5 -->
-|the voice kids portugal 3|||||0|<!--  -->
 |the voice chile 3|||||0|<!--  -->
 |rpdras 7|||||0|<!--  -->
 |sytycd 17|||||0|<!--  -->

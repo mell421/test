@@ -159,7 +159,6 @@ i = The shipper _1
 i = The tuxedo _1
 i = The untamed _1
 i = The voice chile _3
-i = The voice kids portugal _3
 i = The voice nl _12
 i = The voice ph _1
 i = The voice ukr _12

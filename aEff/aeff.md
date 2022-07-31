@@ -473,11 +473,11 @@
 - 06/06/22 (eff) - The voice chile _3{37} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
 - 07/06/22 (eff) - The voice chile _3{40} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
 - 08/06/22 (eff) - The voice chile _3{42} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
-- 09/06/22 (eff) - The voice chile _3{44} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{13} Two pints of lager _3{13} 
-- 10/06/22 (eff) - The voice chile _3{46} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-- 11/06/22 (eff) - The voice chile _3{48} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-- 12/06/22 (eff) - The voice chile _3{50} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} The voice kids portugal _3{13} 
-- 13/06/22 (eff) - The voice chile _3{52} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice kids portugal _3{14} Ohmnanon upvel _1{13} 
+- 09/06/22 (eff) - The voice chile _3{44} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+- 10/06/22 (eff) - The voice chile _3{46} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+- 11/06/22 (eff) - The voice chile _3{48} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+- 12/06/22 (eff) - The voice chile _3{50} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+- 13/06/22 (eff) - The voice chile _3{52} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
 
 
 
@@ -863,30 +863,30 @@
 - 12/05/22 - 300* The circle us _4{15} Ohmnanon upvel _1{5} 
 - 13/05/22 - 317* The circle us _4{15} Ohmnanon upvel _1{5} 
 - 14/05/22 - 294* The circle us _4{15} Ohmnanon upvel _1{5} 
-- 15/05/22 - 449* The voice kids portugal _3{0} The circle us _4{15} 
-- 16/05/22 - 479* The voice kids portugal _3{1} 
-- 17/05/22 - 616* The voice kids portugal _3{2} 
-- 20/05/22 - 346* The voice chile _3{0} The voice kids portugal _3{2} 
-- 21/05/22 - 162* Rpdras _7{0} The voice chile _3{2} The voice kids portugal _3{3} 
+- 15/05/22 - 449* The circle us _4{15} 
+- 16/05/22 - 479* 
+- 17/05/22 - 616* 
+- 20/05/22 - 346* The voice chile _3{0} 
+- 21/05/22 - 162* Rpdras _7{0} The voice chile _3{2} 
 - 22/05/22 - 625* The voice chile _3{4} Sytycd _17{0} Two pints of lager _3{3} Rpdras _7{0} 
 - 23/05/22 - 688* Rpdrasu _7{0} The voice chile _3{6} Sytycd _17{0} Two pints of lager _3{3} 
 - 24/05/22 - 701* Ohmnanon upvel _1{6} Two pints of lager _3{4} Rpdrasu _7{1} The voice chile _3{9} Sytycd _17{1} 
 - 25/05/22 - 171* Beat shazam _2{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{5} Rpdrasu _7{1} 
 - 26/05/22 - 148* Sytycd _17{1} The voice chile _3{13} Beat shazam _2{0} Beat shazam _5{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{6} 
-- 27/05/22 - 134* Druck _8{2} The voice kids portugal _3{4} Sytycd _17{2} The voice chile _3{15} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
-- 28/05/22 - 128* Dont forget the lyrics _1{0} The voice chile _3{17} Druck _8{3} The voice kids portugal _3{4} Sytycd _17{2} 
-- 29/05/22 - 136* Dont forget the lyrics _1{0} The voice chile _3{19} Druck _8{3} The voice kids portugal _3{4} Sytycd _17{2} 
-- 30/05/22 - 136* Dont forget the lyrics _1{0} The voice chile _3{21} Druck _8{4} The voice kids portugal _3{4} Sytycd _17{2} 
-- 31/05/22 - 116* Dont forget the lyrics _1{1} The voice chile _3{24} Druck _8{6} The voice kids portugal _3{5} Sytycd _17{3} 
+- 27/05/22 - 134* Druck _8{2} Sytycd _17{2} The voice chile _3{15} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
+- 28/05/22 - 128* Dont forget the lyrics _1{0} The voice chile _3{17} Druck _8{3} Sytycd _17{2} 
+- 29/05/22 - 136* Dont forget the lyrics _1{0} The voice chile _3{19} Druck _8{3} Sytycd _17{2} 
+- 30/05/22 - 136* Dont forget the lyrics _1{0} The voice chile _3{21} Druck _8{4} Sytycd _17{2} 
+- 31/05/22 - 116* Dont forget the lyrics _1{1} The voice chile _3{24} Druck _8{6} Sytycd _17{3} 
 - 01/06/22 - 171* Beat shazam _5{1} Dont forget the lyrics _1{1} The voice chile _3{26} Druck _8{7} 
-- 02/06/22 - 269* The voice kids portugal _3{6} Beat shazam _5{4} Dont forget the lyrics _1{3} The voice chile _3{29} 
-- 03/06/22 - 262* The voice chile _3{31} Sytycd _17{4} The voice kids portugal _3{8} Beat shazam _5{4} Dont forget the lyrics _1{4} 
-- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} The voice chile _3{33} Sytycd _17{5} The voice kids portugal _3{8} Beat shazam _5{4} Dont forget the lyrics _1{6} 
-- 05/06/22 - 426* Ohmnanon upvel _1{8} The voice chile _3{35} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} The voice kids portugal _3{8} 
-- 06/06/22 - 431* The voice kids portugal _3{8} Want to see you _1{0} Ohmnanon upvel _1{8} The voice chile _3{37} Agt _17{2} Sky in your heart _1{1} 
-- 07/06/22 - 483* Ohmnanon upvel _1{9} The voice kids portugal _3{11} Want to see you _1{2} The voice chile _3{40} Agt _17{3} 
-- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Ohmnanon upvel _1{11} The voice kids portugal _3{12} Want to see you _1{2} 
-- 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Ohmnanon upvel _1{12} The voice kids portugal _3{13} Want to see you _1{2} 
+- 02/06/22 - 269* Beat shazam _5{4} Dont forget the lyrics _1{3} The voice chile _3{29} 
+- 03/06/22 - 262* The voice chile _3{31} Sytycd _17{4} Beat shazam _5{4} Dont forget the lyrics _1{4} 
+- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} The voice chile _3{33} Sytycd _17{5} Beat shazam _5{4} Dont forget the lyrics _1{6} 
+- 05/06/22 - 426* Ohmnanon upvel _1{8} The voice chile _3{35} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} 
+- 06/06/22 - 431* Want to see you _1{0} Ohmnanon upvel _1{8} The voice chile _3{37} Agt _17{2} Sky in your heart _1{1} 
+- 07/06/22 - 483* Ohmnanon upvel _1{9} Want to see you _1{2} The voice chile _3{40} Agt _17{3} 
+- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} The voice chile _3{42} Ohmnanon upvel _1{11} Want to see you _1{2} 
+- 09/06/22 - 272* The voice chile _3{44} The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Ohmnanon upvel _1{12} Want to see you _1{2} 
 - 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} The voice chile _3{46} Sytycd _17{6} The voice arg _4{2} Dont forget the lyrics _1{7} Beat shazam _5{5} 
 - 11/06/22 - 237* The voice chile _3{48} The voice arg _4{4} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
 - 12/06/22 - 248* The voice chile _3{50} The voice arg _4{6} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 

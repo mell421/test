@@ -37,10 +37,10 @@
 - sem 25-04-2022 -> 
 - sem 02-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(1) 
 - sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) 
-- sem 16-05-2022 -> The voice kids portugal _3x2(1) The circle us _4x6(1) Ohmnanon upvel _1x5(1) 
-- sem 23-05-2022 -> Rpdrasu _7x2(1) The voice chile _3x12(11) Sytycd _17x2(1) Two pints of lager _3x5(2) Rpdras _7x2(1) The voice kids portugal _3x3(1) 
-- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) The voice chile _3x20(8) Druck _8x4(2) The voice kids portugal _3x4(1) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) 
-- sem 06-06-2022 -> The voice kids portugal _3x6(2) Want to see you _1x2(1) Ohmnanon upvel _1x7(1) The voice chile _3x25(5) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) 
+- sem 16-05-2022 -> The circle us _4x6(1) Ohmnanon upvel _1x5(1) 
+- sem 23-05-2022 -> Rpdrasu _7x2(1) The voice chile _3x12(11) Sytycd _17x2(1) Two pints of lager _3x5(2) Rpdras _7x2(1) 
+- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) The voice chile _3x20(8) Druck _8x4(2) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) 
+- sem 06-06-2022 -> Want to see you _1x2(1) Ohmnanon upvel _1x7(1) The voice chile _3x25(5) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) 
 - sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) The voice chile _3x30(5) The voice arg _4x6(5) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Sytycd _17x5(1) Dont forget the lyrics _1x4(1) Beat shazam _5x4(1) Ohmnanon upvel _1x8(1) 
 
 
@@ -57,7 +57,7 @@
 - mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 - mois 01-04-2022 -> Ohmnanon upvel _1x2(1) Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
 - mois 01-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(2) Call me mother _1x2(1) Trivia quest _1x7(6) Quaranthings _2x2(1) 
-- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) The voice chile _3x20(19) Druck _8x4(2) The voice kids portugal _3x4(3) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) The voice chile _3x20(19) Druck _8x4(2) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 
 
 
@@ -129,11 +129,11 @@
 * conclu 30/05/22 = The voice chile _3 > 10; Beat shazam _2 > 2; 
 * conclu 31/05/22 = The voice chile _3 > 10; Beat shazam _2 > 2; 
 * conclu 01/06/22 = The voice chile _3 > 12; Beat shazam _2 > 2; Beat shazam _5 > 1; 
-* conclu 02/06/22 = The voice chile _3 > 11; The voice kids portugal _3 > 1; 
+* conclu 02/06/22 = The voice chile _3 > 11; 
 * conclu 03/06/22 = The voice chile _3 > 12; Dont forget the lyrics _1 > 1; 
 * conclu 04/06/22 = The voice chile _3 > 12; Agt _17 > 1; 
 * conclu 05/06/22 = The voice chile _3 > 12; 
-* conclu 06/06/22 = The voice chile _3 > 12; The voice kids portugal _3 > 1; 
+* conclu 06/06/22 = The voice chile _3 > 12; 
 * conclu 07/06/22 = The voice chile _3 > 12; Ohmnanon upvel _1 > 1; 
 * conclu 08/06/22 = The voice chile _3 > 12; Le flambeau _1 > 1; 
 * conclu 09/06/22 = The voice chile _3 > 12; The voice arg _4 > 2; Le flambeau _1 > 1; 
@@ -233,8 +233,8 @@ concluBis 08/05/22 = The circle us _4 > 4;
 concluBis 09/05/22 = The circle us _4 > 3; 
 concluBis 10/05/22 = The circle us _4 > 4; 
 concluBis 11/05/22 = The circle us _4 > 4; 
-concluBis 15/05/22 = The voice kids portugal _3 > 1; 
-concluBis 20/05/22 = The voice chile _3 > 7; The voice kids portugal _3 > 2; 
+concluBis 15/05/22 = 
+concluBis 20/05/22 = The voice chile _3 > 7; 
 concluBis 21/05/22 = The voice chile _3 > 6; 
 concluBis 22/05/22 = The voice chile _3 > 10; 
 concluBis 23/05/22 = The voice chile _3 > 10; 
@@ -247,17 +247,17 @@ concluBis 29/05/22 = The voice chile _3 > 18; Beat shazam _2 > 4; Druck _8 > 1;
 concluBis 30/05/22 = The voice chile _3 > 18; Beat shazam _2 > 4; Druck _8 > 1; 
 concluBis 31/05/22 = The voice chile _3 > 18; Beat shazam _2 > 4; Druck _8 > 1; 
 concluBis 01/06/22 = The voice chile _3 > 20; Beat shazam _2 > 4; Beat shazam _5 > 3; Dont forget the lyrics _1 > 2; 
-concluBis 02/06/22 = The voice chile _3 > 19; The voice kids portugal _3 > 3; Dont forget the lyrics _1 > 2; 
+concluBis 02/06/22 = The voice chile _3 > 19; Dont forget the lyrics _1 > 2; 
 concluBis 03/06/22 = The voice chile _3 > 20; Dont forget the lyrics _1 > 3; Sytycd _17 > 1; 
 concluBis 04/06/22 = The voice chile _3 > 20; Agt _17 > 3; Sky in your heart _1 > 2; 
 concluBis 05/06/22 = The voice chile _3 > 20; 
-concluBis 06/06/22 = The voice chile _3 > 20; The voice kids portugal _3 > 5; Want to see you _1 > 1; 
-concluBis 07/06/22 = The voice chile _3 > 20; The voice kids portugal _3 > 3; Ohmnanon upvel _1 > 3; 
-concluBis 08/06/22 = The voice chile _3 > 20; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; The voice kids portugal _3 > 1; 
+concluBis 06/06/22 = The voice chile _3 > 20; Want to see you _1 > 1; 
+concluBis 07/06/22 = The voice chile _3 > 20; Ohmnanon upvel _1 > 3; 
+concluBis 08/06/22 = The voice chile _3 > 20; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; 
 concluBis 09/06/22 = The voice chile _3 > 20; The voice arg _4 > 4; Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; 
 concluBis 10/06/22 = The voice chile _3 > 20; The voice arg _4 > 4; Le flambeau _1 > 3; /9-1-1 _5 > 1; 
 concluBis 11/06/22 = The voice chile _3 > 20; The voice arg _4 > 6; Le flambeau _1 > 3; 
-concluBis 12/06/22 = The voice chile _3 > 20; The voice arg _4 > 6; Le flambeau _1 > 3; The voice kids portugal _3 > 1; /9-1-1 _5 > 1; 
+concluBis 12/06/22 = The voice chile _3 > 20; The voice arg _4 > 6; Le flambeau _1 > 3; /9-1-1 _5 > 1; 
 concluBis 13/06/22 = The voice chile _3 > 20; The voice arg _4 > 5; Le flambeau _1 > 3; 
 
 

@@ -41,7 +41,6 @@ Dont forget the lyrics 1x6
 The voice arg 4x17
 Camping paradis 13x2
 The voice dominicana 2x3
-The voice kids portugal 3x7
 Rpdrasu 7x2
 Rpdras 7x2
 The voice indonesia 5x2
@@ -79,7 +78,6 @@ Rpdrasu 7x1
 Sytycd 17x1
 Rpdras 7x1
 The voice chile 3x1
-The voice kids portugal 3x1
 The circle us 4x5
 Close friend 2x1
 Clik clak clok 1x1
