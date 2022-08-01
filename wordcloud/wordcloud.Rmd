@@ -40,26 +40,6 @@ forme <- "circle"
 
 <!-- accueil 10 -->
 ### accueil
-```{r accueil_, echo=FALSE, eval=FALSE}
-text <- data.frame(accueil())
-text <- text[2]
-
-tm <- function(text){
-  dtm_d <- wc(text)
-  # Display the top 20 most frequent words
-  head(dtm_d, 30)
-
-  # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 accueil")
-
-  #generate word cloud
-  wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"accueil_3.png",delayW)
-  wcDouble(dtm_d,forme2,"accueil_4.png",delayW) 
-}
-suppressWarnings(tm(text))
-```
-
 ```{r accueil, echo=FALSE}
 text <- data.frame(accueil())
 text <- text[2]
