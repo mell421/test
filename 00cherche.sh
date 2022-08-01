@@ -7,87 +7,49 @@
 # nb bis
 list99=( 
 # >= 100
+"The voice chile _3" "The voice arg _4" "Ohmnanon upvel _1" 
 "5515 never too late _1" "F4 thailand _1" "Cupids last wish _1" "The voice ph _1" 
 # 99-50
-"Trivia quest _1" "The voice chile _3" "Young sheldon _5" "Tbbt _11" 
+"The voice peru _5" "Sytycd _17" "Dont forget the lyrics _1" "/9-1-1 _5" "Big brother us _23" "Two pints of lager _3" 
+"Trivia quest _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
+"The voice indonesia _5" "The voice dominicana _2" "Beat shazam _5" 
 "The circle us _4" 
 # 39-30
-"Ohmnanon upvel _1" "The voice ukr _12" 
+"/9-1-1 lone star _3" "Bulgasal _1" "Big brother us _24" 
+"The voice ukr _12" 
 # 29-20
-"Beat shazam _2" "/9-1-1 lone star _3" "/9-1-1 _5" "Meet my angel _2" "Something in my room _1" "Two pints of lager _3" "The player _1" "7project _1" 
+"Survivor sa _9" "Drag race fr _1" "Unforgotten night _1" "Tokyo ghoul _3" 
+"Beat shazam _2" "Meet my angel _2" "Something in my room _1" "The player _1" "7project _1" 
 # 19-15
-"Druck _8" "Sytycd _17" "Love stage 2022 _1" "Dont forget the lyrics _1" "Unlocked _1" "The shipper _1" 
+"Even sun _1" "The challenge _4" "Close friend _2" 
+"Druck _8" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
 # 14-10
-"All of us are dead _1" "Beat shazam _5" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"The challenge usa _1" "Pekin express _16" "Rpdrasu _7" "Karaoke club drag edition _1" "Agt _17" "Rpdras _7" "Minatos laundromat _1" "Dancing with myself _1" "Blueming _1" 
+"All of us are dead _1" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
-"Drag i love you _1" "Love at night _1" "Agt _17" 
+"Camping paradis _13" "The voice th _9" "Vice versa series _1" "Drag race ca _3" 
+"Drag i love you _1" "Love at night _1" 
 # 7-6
+"Mama gogo _1" "Game of talents fr _2" "The voice kids indonesia _4" "Love mechanics _1" 
 "Bullshit the game show _1" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
 # 5-4
-"Want to see you _1" "Sky in your heart _1" "Rpdrasu _7" "Close friend _2" "Clik clak clok _1" "Call me mother _1" "Cherry blossoms after winter _1" "Rpdras _7" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
+"Ahss _2" "Second chance series _1" "Rose in da house _1" "The masked singer nz _2" "His man _1" "Vanjie 24 hours of love _1" "Grimm _1" 
+"Want to see you _1" "Sky in your heart _1" "Clik clak clok _1" "Call me mother _1" "Cherry blossoms after winter _1" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
+"The amazing race _32" "Survivor _31" "Rpdrdu _2" 
 "Quaranthings _2" "Banana fish _1" 
 # 0-1
+"God shave the queens _2" 
 # other
 "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" "From dusk till dawn _2" 
 "Control z _2" "46 days _1" "Glow up _2" "Zombie detective _1" 
 "Young royals _1" "Siew sum noi _1" "Elite _4" "Dark blue kiss _1" "Vincenzo _1" 
 "An eye for an eye _1" "Mr lipstick _1" "Bt21 vlog _1" 
-"You never eat alone _1" "My vampire boyfriend _1" "Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" 
+"You never eat alone _1" "My vampire boyfriend _1" "Bangkok love stories innocence _1" "The harvest season _1" 
 "Wabi show _1" "The untamed _1" "Slam dance _1" "Be love _1" "Tien bromance _1" 
 "Ben x jim _1" "Koishite akuma _1" )
 
-listAsc=( 
-# 1
-"The voice arg _4" "Dont forget the lyrics _1" "Beat shazam _5" "Le flambeau _1" 
-"The voice chile _3" "Omhnanon upvel _1" "Want to see you _1" 
-"Agt _17" "Sky in your heart _1" "Sytycd _17" 
-# 2
-"Druck _8" "Beat shazam _2" "/9-1-1 _5" 
-"Two pints of lager _3" "Rpdrasu _7" "Rpdras _7" "The circle us _4" "Close friend _2" 
-
-# 3
-
-# 4
-"Cupids last wish _1" "Drag i love you _1" "The tuxedo _1" 
-# 5
-"Cherry blossoms after winter _1" "The voice ukr _12" "Something in my room _1" "F4 thailand _1" 
-# 6
-"Love stage 2022 _1" "All of us are dead _1" "/9-1-1 lone star _3" "Meet my angel _2" "The voice ph _1" 
-# 7
-
-# 8
-
-# 9
-"Love at night _1" "Color rush _2" "The voice nl _12" "Young sheldon _5" 
-# 10
-"5515 never too late _1" "The player _1" "District z _2" "Unlocked _1" 
-# 11
-"Aggretsuko _4" "Baker boys _1" "Les engages _3" "The case study of vanitas _1" 
-# 12
-"Banana fish _1" "Tbbt _11" "Aoki vuanpaia no nayami _1" "My sweet dear _1" "Insiders _1" 
-# 13
-"Age of the living dead _1" "Love area _1" "The shipper _1" "Goblin _1" 
-# 14
-"7project _1" "The big leap _1" "Post mortem _1" "Alice in borderland _1" "Buffy _1" 
-# 15
-"Lucifer _4" "Bite me _1" "Vwars _1" "Qforce _1" "The yearbook _1" 
-# 16
-"From dusk till dawn _2" "Control z _2" "46 days _1" "Glow up _2" 
-# 17
-"Zombie detective _1" "Young royals _1" "Siew sum noi _1" "Elite _4" "Dark blue kiss _1" 
-# 18
-"Vincenzo _1" "An eye for an eye _1" "Mr lipstick _1" "Bt21 vlog _1" 
-# 19
-"You never eat alone _1" "My vampire boyfriend _1" "Tokyo ghoul _3" "Bangkok love stories innocence _1" "The harvest season _1" 
-# 20
-"Wabi show _1" "The untamed _1" "Slam dance _1" "Be love _1" "Tien bromance _1" 
-# 21
-"Ben x jim _1" "Koishite akuma _1" "Warper series _1" "Romantic blue _1" "Friend zone _1" 
-# 22
-"Together with me _1" "Ghost runner _1" 
-)
 
 listAV=( 
 # jan

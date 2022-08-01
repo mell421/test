@@ -96,6 +96,21 @@ aEff/aeff.md:- 30/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivi
 aEff/aeff.md:- 30/05/22 (eff) - F4 thailand _1{35} The voice chile _3{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
 aEff/aeff.md:- 31/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 31/05/22 (eff) - F4 thailand _1{35} The voice chile _3{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:14/06/22 (eff) - The voice chile _3{55} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{14} 
+aEff/aeff.md:15/06/22 (eff) - The voice chile _3{57} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} Ohmnanon upvel _1{14} 
+aEff/aeff.md:16/06/22 (eff) - The voice chile _3{59} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice arg _4{15} Le flambeau _1{15} 
+aEff/aeff.md:17/06/22 (eff) - The voice chile _3{61} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice arg _4{17} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:18/06/22 (eff) - The voice chile _3{63} F4 thailand _1{35} The voice arg _4{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:19/06/22 (eff) - The voice chile _3{65} The voice arg _4{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} Ohmnanon upvel _1{14} 
+aEff/aeff.md:20/06/22 (eff) - The voice chile _3{67} The voice arg _4{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:21/06/22 (eff) - The voice chile _3{70} The voice arg _4{26} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:22/06/22 (eff) - The voice chile _3{72} The voice arg _4{28} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:24/06/22 (eff) - The voice chile _3{76} The voice arg _4{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
+aEff/aeff.md:25/06/22 (eff) - The voice chile _3{78} The voice arg _4{34} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:26/06/22 (eff) - The voice chile _3{80} The voice arg _4{36} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:27/06/22 (eff) - The voice chile _3{82} The voice arg _4{38} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:28/06/22 (eff) - The voice chile _3{85} The voice arg _4{41} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:29/06/22 (eff) - The voice chile _3{87} The voice arg _4{43} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
 apercu/apercu22.md:- mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 apercu/apercu22.md:- mois 01-04-2022 -> Ohmnanon upvel _1x2(1) Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
 apercu/apercu22.md:- sem 21-03-2022 -> Cupids last wish _1x5(2) 

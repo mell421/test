@@ -1,0 +1,8 @@
+aEff/aeff.md:22/06/22 - 240* Bulgasal _1{0} The voice chile _3{72} The voice arg _4{28} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} Love mechanics _1{1} 
+aEff/aeff.md:23/06/22 - 162* The voice arg _4{30} Unforgotten night _1{0} Bulgasal _1{0} The voice chile _3{74} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} 
+aEff/aeff.md:24/06/22 - 180* Dont forget the lyrics _1{10} Sytycd _17{9} The voice arg _4{32} The voice chile _3{76} Dancing with myself _1{1} Unforgotten night _1{0} Bulgasal _1{1} The voice dominicana _2{0} Camping paradis _13{0} 
+aEff/aeff.md:25/06/22 - 190* Bulgasal _1{2} The voice chile _3{78} The voice arg _4{34} Dont forget the lyrics _1{11} Sytycd _17{10} Dancing with myself _1{1} Unforgotten night _1{0} The voice dominicana _2{0} Camping paradis _13{0} 
+aEff/aeff.md:28/06/22 - 191* Camping paradis _13{1} The voice dominicana _2{4} The voice arg _4{41} Rpdrasu _7{3} Rpdras _7{3} The voice indonesia _5{2} Drag race fr _1{1} 
+aEff/aeff.md:29/06/22 - 168* Close friend _2{4} Ohmnanon upvel _1{15} Dont forget the lyrics _1{13} The voice arg _4{43} Camping paradis _13{1} The voice dominicana _2{5} Rpdrasu _7{3} Rpdras _7{3} 
+apercuTer/apercuTer.md:* Camping paradis _13
+index.html:          <td>camping paradis _13<br>

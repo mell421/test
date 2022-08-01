@@ -1,6 +1,12 @@
 aEff/aeff.md:- 06/05/22 - 226* Close friend _2{0} Clik clak clok _1{0} The circle us _4{2} 
 aEff/aeff.md:- 07/05/22 - 164* Close friend _2{0} Clik clak clok _1{0} The circle us _4{4} 
 aEff/aeff.md:- 08/05/22 - 396* Close friend _2{0} Clik clak clok _1{0} 
+aEff/aeff.md:15/06/22 - 241* Close friend _2{2} Dont forget the lyrics _1{8} The voice arg _4{13} Beat shazam _5{6} The voice chile _3{57} Ohmnanon upvel _1{14} Dancing with myself _1{1} Mama gogo _1{1} 
+aEff/aeff.md:16/06/22 - 251* The voice chile _3{59} The voice arg _4{15} Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Ohmnanon upvel _1{14} Dancing with myself _1{1} Mama gogo _1{1} 
+aEff/aeff.md:17/06/22 - 261* The voice arg _4{17} The voice chile _3{61} Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Ohmnanon upvel _1{14} Dancing with myself _1{1} Mama gogo _1{1} 
+aEff/aeff.md:18/06/22 - 496* Sytycd _17{7} The voice indonesia _5{0} The voice chile _3{63} The voice arg _4{19} Close friend _2{3} Dont forget the lyrics _1{9} Beat shazam _5{6} 
+aEff/aeff.md:29/06/22 - 168* Close friend _2{4} Ohmnanon upvel _1{15} Dont forget the lyrics _1{13} The voice arg _4{43} Camping paradis _13{1} The voice dominicana _2{5} Rpdrasu _7{3} Rpdras _7{3} 
+aEff/aeff.md:30/06/22 - 211* Unforgotten night _1{1} Rose in da house _1{0} Even sun _1{0} The voice arg _4{45} The voice chile _3{89} Close friend _2{4} Ohmnanon upvel _1{15} Dont forget the lyrics _1{15} 
 apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) The voice chile _3x20(19) Druck _8x4(2) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 apercu/apercu22.md:- sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) 
 apercuTer/apercuTer.md:* Close friend _2
