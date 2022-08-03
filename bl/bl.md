@@ -66,16 +66,16 @@
 |kingdom|kingdom|6|serie(***)|corée|  <!-- 17/8 -->
 |tokyo vampire hotel|tokyo vampire hotel|10|serie(***)|japon|  <!-- 11/9/19 -->
 |Blackpink diaries|blackpink diaries|16|show|corée| <!-- 26/10/19 -->
-|visible out on tv||5|doc|us|<!-- 12/4/20 -->
-|carmilla 4||36|serie|canada|<!-- 20/4 -->
-|will and grace 11||18|series|us|<!-- 23/4 -->
-|the outs 1||7|serie|us|<!-- 19/5 -->
+|visible out on tv|visible out on tv|5|doc|us|<!-- 12/4/20 -->
+|carmilla 4|carmilla 4|36|serie|canada|<!-- 20/4 -->
+|will and grace 11|will and grace 11|18|series|us|<!-- 23/4 -->
+|the outs 1|the outs 1|7|serie|us|<!-- 19/5 -->
 |tharnType|tharnType|13|serie|thailande|  <!-- 31/5 -->
-|queer eye 3||8|show|us|<!-- 11/6 -->
-|eastsiders 4||6|serie|us|<!-- 12/6 -->
+|queer eye 3|queer eye 3|8|show|us|<!-- 11/6 -->
+|eastsiders 4|eastsiders 4|6|serie|us|<!-- 12/6 -->
 |Love victor 1|Love victor 1|10|serie|us|<!-- 17/6 -->
-|queering 2||10|serie|us|<!-- 14/7 -->
-|tales of the city 1||6|serie|us|<!-- 15/7 -->
+|queering 2|queering 2|10|serie|us|<!-- 14/7 -->
+|tales of the city 1|tales of the city 1|6|serie|us|<!-- 15/7 -->
 |why r u|why r u|13|serie|thailande|  <!-- 22/7 -->
 |sotus|sotus|16|serie|thailande|  <!-- 28/7 -->
 |he she it|he she it|3|serie|thailande| <!-- 1/8 -->
@@ -145,17 +145,17 @@
 |gameboys|gameboys|13+1|serie|philippines|  <!-- 11/1 -->
 |enemy i love you|tinh dich anh yeu em|1|cm|vietnam|  <!-- 71 -->
 |my extraordinary|my extraordinary|8|serie|philippines| <!-- 14/1 -->
-|interested in 1||5|||<!-- 17/1 -->
+|interested in 1|interested in 1|5|serie|us|<!-- 17/1 -->
 |cheat|cheat|6|serie|philippines| <!-- 19/1 -->
 |follow my sunshine|sau vat nang|5|serie|vietnam| <!-- 20/1 -->
 |color rush|color rush|8|serie|corée| <!-- 21/1 -->
 |thonhon chonlathee|thonhon chonlathee|10|serie|thailande|  <!-- 22/1 -->
 |sweet home|sweet home|10|serie(***)|corée|  <!-- 26/1 -->
-|bonding 2||8|serie(*)||<!-- 28/1 -->
+|bonding 2|bonding 2|8|serie(*)|us|<!-- 28/1 -->
 |to my star|to my star|9|serie|corée| <!-- 5/2 -->
 |friend.ship with krist-singto|friend.ship with krist-singto|6+3|show|thailande|  <!-- 5/2 -->
 |fools|NHỮNG KẺ KHỜ|4|serie|vietnam|  <!-- 7/2 -->
-|love stage 2014 1||10|||<!-- 11/2 -->
+|love stage 2014 1|love stage 2014 1|10|anime|japon|<!-- 11/2 -->
 |history2.1|history2 right or wrong|8|serie|taiwan| <!-- 14/2 -->
 |we best love|we best love no1 for you|6+1|serie|taiwan|  <!-- 19/2 -->
 |nation's brother|anh trai quoc dan|6|serie|vietnam|  <!-- 20/2 -->
@@ -181,7 +181,7 @@
 |nobleman ryu's wedding|nobleman ryu's wedding|8|serie|corée| <!-- 6/5 -->
 |the sweet blood|the sweet blood|15|serie(***)|corée| <!-- 12/5 -->
 |history4.1|history4 close to you|10|serie|taiwan|  <!-- 16/5 -->
-|given anime 1||11|||<!-- 25/5 -->
+|given anime 1|given|11|anime|japon|<!-- 25/5 -->
 |close friend|close friend|6|serie|thailande| <!-- 27/5 -->
 |Kiss me again peteKao cut|Kiss me again peteKao cut|3|serie|thailande| <!-- 28/5 -->
 |the most peaceful place|NƠI BÌNH YÊN NHẤT LÀ VỀ BÊN EM|6|serie|vietnam|  <!-- 28/5 -->
@@ -193,7 +193,7 @@
 |Love victor 2|Love victor 2|10|serie|us|<!-- 11/6  -->
 |history3.2|history3 modc|10|serie|taiwan|  <!-- 12/6 -->
 |wheel of love 1|weekend to remember|8|serie|philippines| <!-- 13/6 -->
-|special 2||8|serie|us|<!-- 16/6 -->
+|special 2|special 2|8|serie|us|<!-- 16/6 -->
 |he's coming to me|he's coming to me|8|serie|thailande| <!-- 20/6 -->
 |life senjou no bokura|life senjou no bokura|4|serie|japon| <!-- 24/6 -->
 |fish upon the sky|fish upon the sky|12|serie|thailande|  <!-- 25/6 -->
@@ -234,12 +234,12 @@
 |paint with love|paint with love|12|serie|thailande|<!-- 11/2 -->
 |kieta hatsukoi|kieta hatsukoi|10|serie|japon| <!-- 19/2 -->
 |kissable lips|kissable lips|8|serie|corée|<!-- 25/2 -->
-|not me 1||14|||<!-- 20/3 -->
+|not me 1|not me|14|serie|thailande|<!-- 20/3 -->
 |semantic error|semantic error|8|serie|corée|<!-- 26/3 -->
 |absolute BL 2|absolute bl 2|6|serie|japon| <!-- 29/3 -->
 |peach of time|peach of time|10|serie|corée-thailande| <!-- 9/4 -->
 |forcebook show real 1|forcebook show real 1|10+1|show|thailande|<!-- 4/6 -->
-|heartstopper 1||8|show|uk|<!-- 28/4 -->
+|heartstopper 1|heartstopper|8|show|uk|<!-- 28/4 -->
 |star in my mind 1|star in my mind|8|show|thailand|<!-- 27/5 -->
 |dear doctor 1|dear doctor|12|serie|thailand|<!-- 8/6 -->
 |love victor 3|love victor 3|8|serie|us|<!-- 15/6 -->
@@ -303,32 +303,32 @@
 |5515 never too late|5515|12|serie(*)|thailande|3|<!--  -->
 |F4 thailand|F4 thailand|16|serie(**)|thailande|9|<!-- -->
 |the player|the player|16|serie(*)|thailande|1|<!-- -->
-|something in my room 1|simr|10|serie||4|<!--  -->
+|something in my room 1|simr|10|serie|thailande|4|<!--  -->
 |meet my angel 2|meet my angel 2|9|serie|philippines|3|<!-- -->
 |color rush 2|color rush 2|8|serie|corée|1|<!--  -->
-|love at night 1|||serie(non)||1|<!--  -->
+|love at night 1|love at night 1|20|serie(non)|taiwan|1|<!--  -->
 |love stage 2022|love stage|?|serie|thailande|3|<!--  -->
-|all of us are dead 1||||corée|2|<!--  -->
+|all of us are dead 1|all of us are dead 1|10|serie(non)|corée|2|<!--  -->
 |cupids last wish|cupids last wish|?|serie|thailande|4|<!--  -->
-|cherry blossoms after winter 1|||serie|corée|1|<!--  -->
+|cherry blossoms after winter 1|cherry blossoms after winter 1|?|serie|corée|1|<!--  -->
 |drag I love you|drag I love you|?|serie(**)|thailande|2|<!-- -->
 |the tuxedo|the tuxedo|?|serie|thailande|0|<!--  -->
-|ohmnanon upvel 1|||show|thailande|9|<!--  -->
-|quaranthings 2|||serie||1|<!--  -->
-|clik clak clok 1|||serie||1|<!--  -->
+|ohmnanon upvel 1|ohmnanon upvel 1|?|show|thailande|9|<!--  -->
+|quaranthings 2|||serie|philippines|1|<!--  -->
+|clik clak clok 1|||serie|philippines|1|<!--  -->
 |close friend 2||6|serie|thailande|3|<!--  -->
-|sky in your heart 1||8|serie|thailande||<!--  -->
-|want to see you 1||14|serie|||<!--  -->
-|mama gogo 1||10||thailande||<!--  -->
-|love mechanics 1||12|serie|thailande|1|<!--  -->
-|bulgasal 1|||serie(non)|corée|4|<!--  -->
-|unforgotten night 1|||serie|thailande|1|<!--  -->
-|Rose in da house 1||6|serie|thailande|1|<!--  -->
-|Second chance 1||6|serie|thailande|1|<!--  -->
-|vice versa|vice versa|12|serie|thailande|2|<!--  -->
-|his man 1|||show|corée|1|<!--  -->
-|blueming 1||11|serie|corée|3|<!--  -->
-|minatos laundromat 1||12|serie|japon|5|<!--  -->
+|sky in your heart 1||8|serie|thailande|1|<!--  -->
+|want to see you 1||14|serie|vietnam|1|<!--  -->
+|mama gogo 1|mama gogo 1|10|serie(**)|thailande|1|<!--  -->
+|love mechanics 1|love mechanics 1|12|serie|thailande|1|<!--  -->
+|bulgasal 1|bulgasal 1|16|serie(non)|corée|4|<!--  -->
+|unforgotten night 1|unforgotten night 1|12|serie|thailande|5|<!--  -->
+|Rose in da house 1|Rose in da house 1|6|serie|thailande|1|<!--  -->
+|Second chance 1|Second chance 1|6|serie|thailande|1|<!--  -->
+|vice versa|vice versa|12|serie|thailande|3|<!--  -->
+|his man 1|his man 1|12|show|corée|4|<!--  -->
+|blueming 1|blueming 1|11|serie|corée|4|<!--  -->
+|minatos laundromat 1|minatos laundromat 1|12|serie|japon|5|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
