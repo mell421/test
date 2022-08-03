@@ -167,7 +167,6 @@ i = Drag race ca _3
 i = Drag race fr _1
 i = Druck _8
 i = Elite _4
-i = Even sun _1
 i = F4 thailand _1
 i = From dusk till dawn _2
 i = Game of talents fr _2

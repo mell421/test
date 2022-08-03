@@ -623,6 +623,7 @@
 |The masked singer jap 1||9|||<!-- 28/7 -->
 |EMS|earth mix space|21|show|thailande| <!-- 29/7 -->
 |the voice kids portugal 3||12|||<!-- 31/7 -->
+|even sun|even sun|6|serie|thailande|<!-- 3/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -831,7 +832,6 @@
 |bulgasal 1|||||0|<!--  -->
 |unforgotten night 1|||||0|<!-- 22/6 -->
 |drag race fr 1|||||0|<!--  -->
-|even sun 1|||||0|<!--  -->
 |rose in da house 1|||||0|<!--  -->
 |the challenge 4|||||0|<!--  -->
 |karaoke club drag edition 1|||||0|<!--  -->

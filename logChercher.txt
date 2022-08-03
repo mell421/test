@@ -164,11 +164,6 @@ ligne :  36 ZZ/7project_1.txt
 mot   :  442 ZZ/7project_1.txt
 carac :  3500 ZZ/7project_1.txt
 
-i = Even sun _1
-ligne :  15 ZZ/Evensun_1.txt
-mot   :  532 ZZ/Evensun_1.txt
-carac :  3373 ZZ/Evensun_1.txt
-
 i = The challenge _4
 ligne :  20 ZZ/Thechallenge_4.txt
 mot   :  816 ZZ/Thechallenge_4.txt

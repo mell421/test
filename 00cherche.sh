@@ -22,7 +22,7 @@ list99=(
 "Survivor sa _9" "Drag race fr _1" "Unforgotten night _1" "Tokyo ghoul _3" 
 "Beat shazam _2" "Meet my angel _2" "Something in my room _1" "The player _1" "7project _1" 
 # 19-15
-"Even sun _1" "The challenge _4" "Close friend _2" 
+"The challenge _4" "Close friend _2" 
 "Druck _8" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
 # 14-10
 "The challenge usa _1" "Pekin express _16" "Rpdrasu _7" "Karaoke club drag edition _1" "Agt _17" "Rpdras _7" "Minatos laundromat _1" "Dancing with myself _1" "Blueming _1" 

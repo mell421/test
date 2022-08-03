@@ -249,6 +249,7 @@
 |enchante 1|enchante|10|serie|thailande|<!-- 15/7 -->
 |In relationship 1|In relationship|20|serie|thailande|<!-- 24/7 -->
 |EMS 1|earthmix space|21|show|thailande| <!-- 29/7 -->
+|even sun|even sun|6|serie|thailande|<!-- 3/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -322,7 +323,6 @@
 |love mechanics 1||12|serie|thailande|1|<!--  -->
 |bulgasal 1|||serie(non)|corée|4|<!--  -->
 |unforgotten night 1|||serie|thailande|1|<!--  -->
-|even sun|even sun|6|serie|thailande|5|<!--  -->
 |Rose in da house 1||6|serie|thailande|1|<!--  -->
 |Second chance 1||6|serie|thailande|1|<!--  -->
 |vice versa|vice versa|12|serie|thailande|2|<!--  -->
