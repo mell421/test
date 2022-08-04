@@ -1,9 +1,4 @@
 
-i = The voice chile _3
-ligne :  186 ZZ/Thevoicechile_3.txt
-mot   :  5193 ZZ/Thevoicechile_3.txt
-carac :  32722 ZZ/Thevoicechile_3.txt
-
 i = The voice arg _4
 ligne :  113 ZZ/Thevoicearg_4.txt
 mot   :  3898 ZZ/Thevoicearg_4.txt

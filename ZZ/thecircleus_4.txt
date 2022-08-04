@@ -1,22 +1,22 @@
-aEff/aeff.md:- 01/06/22 (eff) - F4 thailand _1{35} The voice chile _3{26} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} 
-aEff/aeff.md:- 02/06/22 (eff) - F4 thailand _1{35} The voice chile _3{29} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
-aEff/aeff.md:- 03/06/22 (eff) - F4 thailand _1{35} The voice chile _3{31} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
-aEff/aeff.md:- 04/06/22 (eff) - F4 thailand _1{35} The voice chile _3{33} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
+aEff/aeff.md:- 01/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} The voice ph _1{16} 
+aEff/aeff.md:- 02/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+aEff/aeff.md:- 03/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice ph _1{16} 
+aEff/aeff.md:- 04/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 aEff/aeff.md:- 05/05/22 - 492* The circle us _4{0} Druck _8{2} 
-aEff/aeff.md:- 05/06/22 (eff) - The voice chile _3{35} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
+aEff/aeff.md:- 05/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 aEff/aeff.md:- 06/05/22 - 226* Close friend _2{0} Clik clak clok _1{0} The circle us _4{2} 
-aEff/aeff.md:- 06/06/22 (eff) - The voice chile _3{37} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+aEff/aeff.md:- 06/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
 aEff/aeff.md:- 07/05/22 - 164* Close friend _2{0} Clik clak clok _1{0} The circle us _4{4} 
-aEff/aeff.md:- 07/06/22 (eff) - The voice chile _3{40} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
-aEff/aeff.md:- 08/06/22 (eff) - The voice chile _3{42} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
-aEff/aeff.md:- 09/06/22 (eff) - The voice chile _3{44} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
-aEff/aeff.md:- 10/06/22 (eff) - The voice chile _3{46} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
-aEff/aeff.md:- 11/06/22 (eff) - The voice chile _3{48} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 07/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+aEff/aeff.md:- 08/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+aEff/aeff.md:- 09/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
+aEff/aeff.md:- 10/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 11/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
 aEff/aeff.md:- 12/05/22 - 300* The circle us _4{15} Ohmnanon upvel _1{5} 
 aEff/aeff.md:- 12/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
-aEff/aeff.md:- 12/06/22 (eff) - The voice chile _3{50} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 12/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
 aEff/aeff.md:- 13/05/22 - 317* The circle us _4{15} Ohmnanon upvel _1{5} 
-aEff/aeff.md:- 13/06/22 (eff) - The voice chile _3{52} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 13/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
 aEff/aeff.md:- 14/05/22 - 294* The circle us _4{15} Ohmnanon upvel _1{5} 
 aEff/aeff.md:- 14/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
 aEff/aeff.md:- 15/05/22 - 449* The circle us _4{15} 
@@ -25,44 +25,44 @@ aEff/aeff.md:- 21/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivi
 aEff/aeff.md:- 22/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
 aEff/aeff.md:- 26/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
 aEff/aeff.md:- 27/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:- 28/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice chile _3{17} The circle us _4{16} 
-aEff/aeff.md:- 29/05/22 (eff) - F4 thailand _1{35} The voice chile _3{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:- 30/05/22 (eff) - F4 thailand _1{35} The voice chile _3{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:- 31/05/22 (eff) - F4 thailand _1{35} The voice chile _3{24} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:01/07/22 (eff) - The voice chile _3{91} The voice arg _4{47} The circle us _4{17} Dont forget the lyrics _1{16} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
-aEff/aeff.md:02/07/22 (eff) - The voice chile _3{94} The voice arg _4{50} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-aEff/aeff.md:03/07/22 (eff) - The voice chile _3{96} The voice arg _4{52} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Sytycd _17{14} 
-aEff/aeff.md:04/07/22 (eff) - The voice chile _3{98} The voice arg _4{54} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-aEff/aeff.md:05/07/22 (eff) - The voice chile _3{101} The voice arg _4{57} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} 
-aEff/aeff.md:06/07/22 (eff) - The voice chile _3{103} The voice arg _4{59} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
-aEff/aeff.md:07/07/22 (eff) - The voice chile _3{105} The voice arg _4{61} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} 
-aEff/aeff.md:08/07/22 (eff) - The voice chile _3{107} The voice arg _4{63} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} 
-aEff/aeff.md:09/07/22 (eff) - The voice chile _3{109} The voice arg _4{65} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} 
-aEff/aeff.md:10/07/22 (eff) - The voice chile _3{111} The voice arg _4{67} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{13} 
-aEff/aeff.md:11/07/22 (eff) - The voice chile _3{113} The voice arg _4{69} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{13} 
-aEff/aeff.md:12/07/22 (eff) - The voice chile _3{116} The voice arg _4{72} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
-aEff/aeff.md:13/07/22 (eff) - The voice chile _3{118} The voice arg _4{74} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
-aEff/aeff.md:14/06/22 (eff) - The voice chile _3{55} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{14} 
-aEff/aeff.md:14/07/22 (eff) - The voice chile _3{120} The voice arg _4{76} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} The voice peru _5{14} Two pints of lager _3{14} 
-aEff/aeff.md:15/06/22 (eff) - The voice chile _3{57} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} Ohmnanon upvel _1{14} 
-aEff/aeff.md:15/07/22 (eff) - The voice chile _3{122} The voice arg _4{78} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} The voice peru _5{16} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} 
-aEff/aeff.md:16/06/22 (eff) - The voice chile _3{59} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice arg _4{15} Le flambeau _1{15} 
-aEff/aeff.md:16/07/22 (eff) - The voice chile _3{124} The voice arg _4{80} The voice peru _5{18} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} 
-aEff/aeff.md:17/06/22 (eff) - The voice chile _3{61} F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice arg _4{17} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-aEff/aeff.md:18/06/22 (eff) - The voice chile _3{63} F4 thailand _1{35} The voice arg _4{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-aEff/aeff.md:19/06/22 (eff) - The voice chile _3{65} The voice arg _4{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} Ohmnanon upvel _1{14} 
-aEff/aeff.md:20/06/22 (eff) - The voice chile _3{67} The voice arg _4{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-aEff/aeff.md:21/06/22 (eff) - The voice chile _3{70} The voice arg _4{26} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:22/06/22 (eff) - The voice chile _3{72} The voice arg _4{28} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:23/06/22 (eff) - The voice chile _3{74} The voice arg _4{30} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} /9-1-1 _5{14} Two pints of lager _3{13} 
-aEff/aeff.md:24/06/22 (eff) - The voice chile _3{76} The voice arg _4{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
-aEff/aeff.md:25/06/22 (eff) - The voice chile _3{78} The voice arg _4{34} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:26/06/22 (eff) - The voice chile _3{80} The voice arg _4{36} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:27/06/22 (eff) - The voice chile _3{82} The voice arg _4{38} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:28/06/22 (eff) - The voice chile _3{85} The voice arg _4{41} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:29/06/22 (eff) - The voice chile _3{87} The voice arg _4{43} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:30/06/22 (eff) - The voice chile _3{89} The voice arg _4{45} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Dont forget the lyrics _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
-apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) The voice chile _3x20(19) Druck _8x4(2) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+aEff/aeff.md:- 28/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:- 29/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:- 30/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:- 31/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
+aEff/aeff.md:01/07/22 (eff) - The voice arg _4{47} The circle us _4{17} Dont forget the lyrics _1{16} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
+aEff/aeff.md:02/07/22 (eff) - The voice arg _4{50} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+aEff/aeff.md:03/07/22 (eff) - The voice arg _4{52} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Sytycd _17{14} 
+aEff/aeff.md:04/07/22 (eff) - The voice arg _4{54} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+aEff/aeff.md:05/07/22 (eff) - The voice arg _4{57} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} 
+aEff/aeff.md:06/07/22 (eff) - The voice arg _4{59} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
+aEff/aeff.md:07/07/22 (eff) - The voice arg _4{61} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} 
+aEff/aeff.md:08/07/22 (eff) - The voice arg _4{63} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} 
+aEff/aeff.md:09/07/22 (eff) - The voice arg _4{65} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} 
+aEff/aeff.md:10/07/22 (eff) - The voice arg _4{67} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{13} 
+aEff/aeff.md:11/07/22 (eff) - The voice arg _4{69} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{13} 
+aEff/aeff.md:12/07/22 (eff) - The voice arg _4{72} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
+aEff/aeff.md:13/07/22 (eff) - The voice arg _4{74} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
+aEff/aeff.md:14/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{14} 
+aEff/aeff.md:14/07/22 (eff) - The voice arg _4{76} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} The voice peru _5{14} Two pints of lager _3{14} 
+aEff/aeff.md:15/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} Ohmnanon upvel _1{14} 
+aEff/aeff.md:15/07/22 (eff) - The voice arg _4{78} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} The voice peru _5{16} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} 
+aEff/aeff.md:16/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice arg _4{15} Le flambeau _1{15} 
+aEff/aeff.md:16/07/22 (eff) - The voice arg _4{80} The voice peru _5{18} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} 
+aEff/aeff.md:17/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice arg _4{17} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:18/06/22 (eff) - F4 thailand _1{35} The voice arg _4{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:19/06/22 (eff) - The voice arg _4{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} Ohmnanon upvel _1{14} 
+aEff/aeff.md:20/06/22 (eff) - The voice arg _4{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:21/06/22 (eff) - The voice arg _4{26} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:22/06/22 (eff) - The voice arg _4{28} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:23/06/22 (eff) - The voice arg _4{30} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} /9-1-1 _5{14} Two pints of lager _3{13} 
+aEff/aeff.md:24/06/22 (eff) - The voice arg _4{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
+aEff/aeff.md:25/06/22 (eff) - The voice arg _4{34} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:26/06/22 (eff) - The voice arg _4{36} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:27/06/22 (eff) - The voice arg _4{38} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:28/06/22 (eff) - The voice arg _4{41} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:29/06/22 (eff) - The voice arg _4{43} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
+aEff/aeff.md:30/06/22 (eff) - The voice arg _4{45} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Dont forget the lyrics _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
+apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Druck _8x4(2) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 apercu/apercu22.md:- sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) 
 apercu/apercu22.md:- sem 16-05-2022 -> The circle us _4x6(1) Ohmnanon upvel _1x5(1) 
 apercu/apercu22.md:* conclu 05/05/22 = The circle us _4 > 2; 
