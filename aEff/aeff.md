@@ -912,9 +912,6 @@
 - 13/05/22 - 317* The circle us _4{15} Ohmnanon upvel _1{5} 
 - 14/05/22 - 294* The circle us _4{15} Ohmnanon upvel _1{5} 
 - 15/05/22 - 449* The circle us _4{15} 
-- 16/05/22 - 479* 
-- 17/05/22 - 616* 
-- 20/05/22 - 346* 
 - 21/05/22 - 162* Rpdras _7{0} 
 - 22/05/22 - 625* Sytycd _17{0} Two pints of lager _3{3} Rpdras _7{0} 
 - 23/05/22 - 688* Rpdrasu _7{0} Sytycd _17{0} Two pints of lager _3{3} 

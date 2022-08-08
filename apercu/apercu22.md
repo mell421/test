@@ -30,11 +30,9 @@
 - sem 07-03-2022 -> The tuxedo _1x2(1) Drag i love you _1x2(1) 
 - sem 14-03-2022 -> Drag i love you _1x3(1) 
 - sem 21-03-2022 -> Cupids last wish _1x5(2) 
-- sem 28-03-2022 -> 
 - sem 04-04-2022 -> Quaranthings _2x2(1) Ohmnanon upvel _1x2(1) 
 - sem 11-04-2022 -> Trivia quest _1x7(6) 
 - sem 18-04-2022 -> Call me mother _1x2(1) Ohmnanon upvel _1x3(1) 
-- sem 25-04-2022 -> 
 - sem 02-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(1) 
 - sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) 
 - sem 16-05-2022 -> The circle us _4x6(1) Ohmnanon upvel _1x5(1) 
@@ -116,12 +114,6 @@
 * conclu 09/05/22 = The circle us _4 > 1; 
 * conclu 10/05/22 = The circle us _4 > 2; 
 * conclu 11/05/22 = The circle us _4 > 2; 
-* conclu 20/05/22 = 
-* conclu 21/05/22 = 
-* conclu 22/05/22 = 
-* conclu 23/05/22 = 
-* conclu 24/05/22 = 
-* conclu 25/05/22 = 
 * conclu 26/05/22 = Beat shazam _2 > 1; 
 * conclu 27/05/22 = Beat shazam _2 > 2; Two pints of lager _3 > 1; 
 * conclu 28/05/22 = Beat shazam _2 > 2; Two pints of lager _3 > 1; 
@@ -129,11 +121,8 @@
 * conclu 30/05/22 = Beat shazam _2 > 2; 
 * conclu 31/05/22 = Beat shazam _2 > 2; 
 * conclu 01/06/22 = Beat shazam _2 > 2; Beat shazam _5 > 1; 
-* conclu 02/06/22 = 
 * conclu 03/06/22 = Dont forget the lyrics _1 > 1; 
 * conclu 04/06/22 = Agt _17 > 1; 
-* conclu 05/06/22 = 
-* conclu 06/06/22 = 
 * conclu 07/06/22 = Ohmnanon upvel _1 > 1; 
 * conclu 08/06/22 = Le flambeau _1 > 1; 
 * conclu 09/06/22 = The voice arg _4 > 2; Le flambeau _1 > 1; 
@@ -233,11 +222,6 @@ concluBis 08/05/22 = The circle us _4 > 4;
 concluBis 09/05/22 = The circle us _4 > 3; 
 concluBis 10/05/22 = The circle us _4 > 4; 
 concluBis 11/05/22 = The circle us _4 > 4; 
-concluBis 15/05/22 = 
-concluBis 20/05/22 = 
-concluBis 21/05/22 = 
-concluBis 22/05/22 = 
-concluBis 23/05/22 = 
 concluBis 24/05/22 = Two pints of lager _3 > 2; 
 concluBis 25/05/22 = Two pints of lager _3 > 2; 
 concluBis 26/05/22 = Beat shazam _2 > 3; Two pints of lager _3 > 2; Sytycd _17 > 1; 
@@ -250,7 +234,6 @@ concluBis 01/06/22 = Beat shazam _2 > 4; Beat shazam _5 > 3; Dont forget the lyr
 concluBis 02/06/22 = Dont forget the lyrics _1 > 2; 
 concluBis 03/06/22 = Dont forget the lyrics _1 > 3; Sytycd _17 > 1; 
 concluBis 04/06/22 = Agt _17 > 3; Sky in your heart _1 > 2; 
-concluBis 05/06/22 = 
 concluBis 06/06/22 = Want to see you _1 > 1; 
 concluBis 07/06/22 = Ohmnanon upvel _1 > 3; 
 concluBis 08/06/22 = Le flambeau _1 > 3; Ohmnanon upvel _1 > 2; 

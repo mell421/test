@@ -123,9 +123,13 @@
 | --- | --- | :---: | --- | --- | --- |
 |the voice nl 12|||||0|<!--  -->
 |the voice ukr 12|||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
+|the voice dominicana 2|||||0|<!--  -->
+|the voice arg 4|||||0|<!--  -->
+|the voice peru 5|||||0|<!--  -->
+|the voice kids colombia 6|||||0|<!--  -->
+|the voice th 9|||||0|<!--  -->
+|the voice generations portugal 1|||||0|<!--  -->
+|the voice indonesia 5|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

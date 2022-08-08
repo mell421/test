@@ -625,6 +625,7 @@
 |the voice kids portugal 3||12|||<!-- 31/7 -->
 |even sun|even sun|6|serie|thailande|<!-- 3/8 -->
 |the voice chile 3||59|||<!-- 4/8 -->
+|30 days of night blood trails _1||7|||<!-- 8/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

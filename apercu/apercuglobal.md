@@ -280,15 +280,10 @@
 * conclu 11/12/21 = 5515 never too late _1 > 1; 
 * conclu 13/12/21 = 5515 never too late _1 > 3; 
 * conclu 14/12/21 = 5515 never too late _1 > 1; 
-* conclu 18/12/21 = 
 * conclu 19/12/21 = District z _2 > 1; 
 * conclu 22/12/21 = The player _1 > 1; 
 * conclu 27/12/21 = The player _1 > 1; 
-* conclu 01/01/22 = 
-* conclu 02/01/22 = 
 * conclu 14/01/22 = Forever knight _1 > 1; 
-* conclu 15/01/22 = 
-* conclu 16/01/22 = 
 
 
 
