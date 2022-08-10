@@ -21,6 +21,7 @@ apercu/apercuglobal.md:* concluBis 12/02/21 > The harvest season _1 > 5; Wabi sh
 apercu/apercuglobal.md:* concluBis 13/02/21 > The harvest season _1 > 5; Wabi show _1 > 1; 
 apercu/apercuglobal.md:* concluBis 14/02/21 > The harvest season _1 > 5; Wabi show _1 > 1; 
 apercu/apercuglobal.md:* concluBis 15/02/21 > The harvest season _1 > 5; Wabi show _1 > 1; 
+bl/bl.md:|wabi vlog _1|wabi vlog|15|show|thailande| <!-- 27/04 -->
 tab2021.html:      Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) 
 tab2021.html:    <td class="conclu">The harvest season _1 > 2; Wabi show _1 > 1; </td>
 tab2021.html:    <td class="conclu">The harvest season _1 > 3; Wabi show _1 > 1; </td>

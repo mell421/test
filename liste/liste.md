@@ -627,6 +627,7 @@
 |the voice chile 3||59|||<!-- 4/8 -->
 |30 days of night blood trails _1||7|||<!-- 8/8 -->
 |30 days of night dust to dust _1||6|||<!-- 8/8 -->
+|pekin express 16||6|||<!-- 10/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -837,7 +838,6 @@
 |the challenge 4|||||0|<!--  -->
 |karaoke club drag edition 1|||||0|<!--  -->
 |the voice peru 5|||||0|<!--  -->
-|pekin express 16|||||0|<!--  -->
 |second chance series 1|||||0|<!--  -->
 |the challenge usa 1|||||0|<!--  -->
 |big brother us 24|||||0|<!--  -->

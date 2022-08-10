@@ -25,7 +25,7 @@ list99=(
 "The challenge _4" "Close friend _2" 
 "Druck _8" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
 # 14-10
-"The challenge usa _1" "Pekin express _16" "Rpdrasu _7" "Karaoke club drag edition _1" "Agt _17" "Rpdras _7" "Minatos laundromat _1" "Dancing with myself _1" "Blueming _1" 
+"The challenge usa _1" "Rpdrasu _7" "Karaoke club drag edition _1" "Agt _17" "Rpdras _7" "Minatos laundromat _1" "Dancing with myself _1" "Blueming _1" 
 "All of us are dead _1" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 # 9-8
 "Camping paradis _13" "The voice th _9" "Vice versa series _1" "Drag race ca _3" 
