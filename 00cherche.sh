@@ -10,7 +10,7 @@ list99=(
 "The voice arg _4" "Ohmnanon upvel _1" 
 "5515 never too late _1" "F4 thailand _1" "Cupids last wish _1" "The voice ph _1" 
 # 99-50
-"The voice peru _5" "Sytycd _17" "Dont forget the lyrics _1" "/9-1-1 _5" "Big brother us _23" "Two pints of lager _3" 
+"The voice peru _5" "Dont forget the lyrics _1" "/9-1-1 _5" "Big brother us _23" "Two pints of lager _3" 
 "Trivia quest _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
 "The voice indonesia _5" "The voice dominicana _2" "Beat shazam _5" 

@@ -4,15 +4,15 @@ aEff/aeff.md:- 02/05/22 - 639* Druck _8{1}
 aEff/aeff.md:- 03/05/22 - 661* Druck _8{2} 
 aEff/aeff.md:- 04/05/22 - 466* Druck _8{2} 
 aEff/aeff.md:- 05/05/22 - 492* The circle us _4{0} Druck _8{2} 
-aEff/aeff.md:- 27/05/22 - 134* Druck _8{2} Sytycd _17{2} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
-aEff/aeff.md:- 28/05/22 - 128* Dont forget the lyrics _1{0} Druck _8{3} Sytycd _17{2} 
-aEff/aeff.md:- 29/05/22 - 136* Dont forget the lyrics _1{0} Druck _8{3} Sytycd _17{2} 
-aEff/aeff.md:- 30/05/22 - 136* Dont forget the lyrics _1{0} Druck _8{4} Sytycd _17{2} 
-aEff/aeff.md:- 31/05/22 - 116* Dont forget the lyrics _1{1} Druck _8{6} Sytycd _17{3} 
+aEff/aeff.md:- 27/05/22 - 134* Druck _8{2} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
+aEff/aeff.md:- 28/05/22 - 128* Dont forget the lyrics _1{0} Druck _8{3} 
+aEff/aeff.md:- 29/05/22 - 136* Dont forget the lyrics _1{0} Druck _8{3} 
+aEff/aeff.md:- 30/05/22 - 136* Dont forget the lyrics _1{0} Druck _8{4} 
+aEff/aeff.md:- 31/05/22 - 116* Dont forget the lyrics _1{1} Druck _8{6} 
 apercu/apercu22.md:- mois 01-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(2) Call me mother _1x2(1) Trivia quest _1x7(6) Quaranthings _2x2(1) 
-apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Druck _8x4(2) Sytycd _17x3(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 apercu/apercu22.md:- sem 02-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Ohmnanon upvel _1x4(1) 
-apercu/apercu22.md:- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) Druck _8x4(2) Sytycd _17x3(1) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) 
+apercu/apercu22.md:- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) Druck _8x4(2) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(1) Two pints of lager _3x6(1) 
 apercu/apercu22.md:concluBis 27/05/22 = Beat shazam _2 > 4; Two pints of lager _3 > 3; Druck _8 > 1; 
 apercu/apercu22.md:concluBis 29/05/22 = Beat shazam _2 > 4; Druck _8 > 1; 
 apercu/apercu22.md:concluBis 30/05/22 = Beat shazam _2 > 4; Druck _8 > 1; 

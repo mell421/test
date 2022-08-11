@@ -1,13 +1,13 @@
 
 i = The voice arg _4
 ligne :  113 ZZ/Thevoicearg_4.txt
-mot   :  3401 ZZ/Thevoicearg_4.txt
-carac :  21850 ZZ/Thevoicearg_4.txt
+mot   :  3305 ZZ/Thevoicearg_4.txt
+carac :  21137 ZZ/Thevoicearg_4.txt
 
 i = Ohmnanon upvel _1
 ligne :  95 ZZ/Ohmnanonupvel_1.txt
-mot   :  2436 ZZ/Ohmnanonupvel_1.txt
-carac :  16162 ZZ/Ohmnanonupvel_1.txt
+mot   :  2362 ZZ/Ohmnanonupvel_1.txt
+carac :  15606 ZZ/Ohmnanonupvel_1.txt
 
 i = 5515 never too late _1
 ligne :  161 ZZ/5515nevertoolate_1.txt
@@ -31,33 +31,28 @@ carac :  13118 ZZ/Thevoiceph_1.txt
 
 i = The voice peru _5
 ligne :  43 ZZ/Thevoiceperu_5.txt
-mot   :  1595 ZZ/Thevoiceperu_5.txt
-carac :  10119 ZZ/Thevoiceperu_5.txt
-
-i = Sytycd _17
-ligne :  69 ZZ/Sytycd_17.txt
-mot   :  2041 ZZ/Sytycd_17.txt
-carac :  13383 ZZ/Sytycd_17.txt
+mot   :  1553 ZZ/Thevoiceperu_5.txt
+carac :  9804 ZZ/Thevoiceperu_5.txt
 
 i = Dont forget the lyrics _1
 ligne :  65 ZZ/Dontforgetthelyrics_1.txt
-mot   :  1918 ZZ/Dontforgetthelyrics_1.txt
-carac :  12543 ZZ/Dontforgetthelyrics_1.txt
+mot   :  1826 ZZ/Dontforgetthelyrics_1.txt
+carac :  11874 ZZ/Dontforgetthelyrics_1.txt
 
 i = /9-1-1 _5
 ligne :  76 ZZ//9-1-1_5.txt
-mot   :  1688 ZZ//9-1-1_5.txt
-carac :  11339 ZZ//9-1-1_5.txt
+mot   :  1638 ZZ//9-1-1_5.txt
+carac :  10967 ZZ//9-1-1_5.txt
 
 i = Big brother us _23
 ligne :  25 ZZ/Bigbrotherus_23.txt
-mot   :  967 ZZ/Bigbrotherus_23.txt
-carac :  6155 ZZ/Bigbrotherus_23.txt
+mot   :  937 ZZ/Bigbrotherus_23.txt
+carac :  5930 ZZ/Bigbrotherus_23.txt
 
 i = Two pints of lager _3
 ligne :  55 ZZ/Twopintsoflager_3.txt
-mot   :  1626 ZZ/Twopintsoflager_3.txt
-carac :  10602 ZZ/Twopintsoflager_3.txt
+mot   :  1564 ZZ/Twopintsoflager_3.txt
+carac :  10152 ZZ/Twopintsoflager_3.txt
 
 i = Trivia quest _1
 ligne :  97 ZZ/Triviaquest_1.txt
@@ -76,38 +71,38 @@ carac :  7761 ZZ/Tbbt_11.txt
 
 i = The voice indonesia _5
 ligne :  33 ZZ/Thevoiceindonesia_5.txt
-mot   :  1104 ZZ/Thevoiceindonesia_5.txt
-carac :  7091 ZZ/Thevoiceindonesia_5.txt
+mot   :  1066 ZZ/Thevoiceindonesia_5.txt
+carac :  6810 ZZ/Thevoiceindonesia_5.txt
 
 i = The voice dominicana _2
 ligne :  33 ZZ/Thevoicedominicana_2.txt
-mot   :  1134 ZZ/Thevoicedominicana_2.txt
-carac :  7399 ZZ/Thevoicedominicana_2.txt
+mot   :  1098 ZZ/Thevoicedominicana_2.txt
+carac :  7130 ZZ/Thevoicedominicana_2.txt
 
 i = Beat shazam _5
 ligne :  57 ZZ/Beatshazam_5.txt
-mot   :  1742 ZZ/Beatshazam_5.txt
-carac :  11233 ZZ/Beatshazam_5.txt
+mot   :  1668 ZZ/Beatshazam_5.txt
+carac :  10682 ZZ/Beatshazam_5.txt
 
 i = The circle us _4
 ligne :  83 ZZ/Thecircleus_4.txt
-mot   :  1844 ZZ/Thecircleus_4.txt
-carac :  11983 ZZ/Thecircleus_4.txt
+mot   :  1818 ZZ/Thecircleus_4.txt
+carac :  11787 ZZ/Thecircleus_4.txt
 
 i = /9-1-1 lone star _3
 ligne :  41 ZZ//9-1-1lonestar_3.txt
-mot   :  891 ZZ//9-1-1lonestar_3.txt
-carac :  5736 ZZ//9-1-1lonestar_3.txt
+mot   :  869 ZZ//9-1-1lonestar_3.txt
+carac :  5574 ZZ//9-1-1lonestar_3.txt
 
 i = Bulgasal _1
 ligne :  24 ZZ/Bulgasal_1.txt
-mot   :  896 ZZ/Bulgasal_1.txt
-carac :  5876 ZZ/Bulgasal_1.txt
+mot   :  856 ZZ/Bulgasal_1.txt
+carac :  5577 ZZ/Bulgasal_1.txt
 
 i = Big brother us _24
 ligne :  20 ZZ/Bigbrotherus_24.txt
-mot   :  698 ZZ/Bigbrotherus_24.txt
-carac :  4386 ZZ/Bigbrotherus_24.txt
+mot   :  684 ZZ/Bigbrotherus_24.txt
+carac :  4281 ZZ/Bigbrotherus_24.txt
 
 i = The voice ukr _12
 ligne :  33 ZZ/Thevoiceukr_12.txt
@@ -116,28 +111,28 @@ carac :  3836 ZZ/Thevoiceukr_12.txt
 
 i = Survivor sa _9
 ligne :  20 ZZ/Survivorsa_9.txt
-mot   :  808 ZZ/Survivorsa_9.txt
-carac :  5013 ZZ/Survivorsa_9.txt
+mot   :  792 ZZ/Survivorsa_9.txt
+carac :  4893 ZZ/Survivorsa_9.txt
 
 i = Drag race fr _1
 ligne :  25 ZZ/Dragracefr_1.txt
-mot   :  956 ZZ/Dragracefr_1.txt
-carac :  5693 ZZ/Dragracefr_1.txt
+mot   :  942 ZZ/Dragracefr_1.txt
+carac :  5588 ZZ/Dragracefr_1.txt
 
 i = Unforgotten night _1
 ligne :  19 ZZ/Unforgottennight_1.txt
-mot   :  536 ZZ/Unforgottennight_1.txt
-carac :  3533 ZZ/Unforgottennight_1.txt
+mot   :  524 ZZ/Unforgottennight_1.txt
+carac :  3444 ZZ/Unforgottennight_1.txt
 
 i = Tokyo ghoul _3
 ligne :  36 ZZ/Tokyoghoul_3.txt
-mot   :  742 ZZ/Tokyoghoul_3.txt
-carac :  5115 ZZ/Tokyoghoul_3.txt
+mot   :  732 ZZ/Tokyoghoul_3.txt
+carac :  5040 ZZ/Tokyoghoul_3.txt
 
 i = Beat shazam _2
 ligne :  82 ZZ/Beatshazam_2.txt
-mot   :  2244 ZZ/Beatshazam_2.txt
-carac :  14446 ZZ/Beatshazam_2.txt
+mot   :  2184 ZZ/Beatshazam_2.txt
+carac :  14011 ZZ/Beatshazam_2.txt
 
 i = Meet my angel _2
 ligne :  26 ZZ/Meetmyangel_2.txt
@@ -161,18 +156,18 @@ carac :  3500 ZZ/7project_1.txt
 
 i = The challenge _4
 ligne :  20 ZZ/Thechallenge_4.txt
-mot   :  708 ZZ/Thechallenge_4.txt
-carac :  4363 ZZ/Thechallenge_4.txt
+mot   :  700 ZZ/Thechallenge_4.txt
+carac :  4303 ZZ/Thechallenge_4.txt
 
 i = Close friend _2
 ligne :  13 ZZ/Closefriend_2.txt
-mot   :  345 ZZ/Closefriend_2.txt
-carac :  2190 ZZ/Closefriend_2.txt
+mot   :  341 ZZ/Closefriend_2.txt
+carac :  2160 ZZ/Closefriend_2.txt
 
 i = Druck _8
 ligne :  21 ZZ/Druck_8.txt
-mot   :  380 ZZ/Druck_8.txt
-carac :  2474 ZZ/Druck_8.txt
+mot   :  366 ZZ/Druck_8.txt
+carac :  2372 ZZ/Druck_8.txt
 
 i = Love stage 2022 _1
 ligne :  17 ZZ/Lovestage2022_1.txt
@@ -196,38 +191,38 @@ carac :  2207 ZZ/Thechallengeusa_1.txt
 
 i = Rpdrasu _7
 ligne :  13 ZZ/Rpdrasu_7.txt
-mot   :  385 ZZ/Rpdrasu_7.txt
-carac :  2405 ZZ/Rpdrasu_7.txt
+mot   :  377 ZZ/Rpdrasu_7.txt
+carac :  2345 ZZ/Rpdrasu_7.txt
 
 i = Karaoke club drag edition _1
 ligne :  10 ZZ/Karaokeclubdragedition_1.txt
-mot   :  302 ZZ/Karaokeclubdragedition_1.txt
-carac :  1937 ZZ/Karaokeclubdragedition_1.txt
+mot   :  292 ZZ/Karaokeclubdragedition_1.txt
+carac :  1862 ZZ/Karaokeclubdragedition_1.txt
 
 i = Agt _17
 ligne :  13 ZZ/Agt_17.txt
-mot   :  234 ZZ/Agt_17.txt
-carac :  1534 ZZ/Agt_17.txt
+mot   :  226 ZZ/Agt_17.txt
+carac :  1475 ZZ/Agt_17.txt
 
 i = Rpdras _7
 ligne :  16 ZZ/Rpdras_7.txt
-mot   :  407 ZZ/Rpdras_7.txt
-carac :  2572 ZZ/Rpdras_7.txt
+mot   :  397 ZZ/Rpdras_7.txt
+carac :  2498 ZZ/Rpdras_7.txt
 
 i = Minatos laundromat _1
 ligne :  4 ZZ/Minatoslaundromat_1.txt
-mot   :  97 ZZ/Minatoslaundromat_1.txt
-carac :  670 ZZ/Minatoslaundromat_1.txt
+mot   :  93 ZZ/Minatoslaundromat_1.txt
+carac :  640 ZZ/Minatoslaundromat_1.txt
 
 i = Dancing with myself _1
 ligne :  10 ZZ/Dancingwithmyself_1.txt
-mot   :  261 ZZ/Dancingwithmyself_1.txt
-carac :  1766 ZZ/Dancingwithmyself_1.txt
+mot   :  251 ZZ/Dancingwithmyself_1.txt
+carac :  1692 ZZ/Dancingwithmyself_1.txt
 
 i = Blueming _1
 ligne :  9 ZZ/Blueming_1.txt
-mot   :  297 ZZ/Blueming_1.txt
-carac :  1897 ZZ/Blueming_1.txt
+mot   :  287 ZZ/Blueming_1.txt
+carac :  1822 ZZ/Blueming_1.txt
 
 i = All of us are dead _1
 ligne : 
@@ -276,23 +271,23 @@ carac :  2666 ZZ/Lucifer_4.txt
 
 i = Camping paradis _13
 ligne :  8 ZZ/Campingparadis_13.txt
-mot   :  171 ZZ/Campingparadis_13.txt
-carac :  1234 ZZ/Campingparadis_13.txt
+mot   :  167 ZZ/Campingparadis_13.txt
+carac :  1205 ZZ/Campingparadis_13.txt
 
 i = The voice th _9
 ligne :  27 ZZ/Thevoiceth_9.txt
-mot   :  1297 ZZ/Thevoiceth_9.txt
-carac :  7650 ZZ/Thevoiceth_9.txt
+mot   :  1281 ZZ/Thevoiceth_9.txt
+carac :  7530 ZZ/Thevoiceth_9.txt
 
 i = Vice versa series _1
 ligne :  6 ZZ/Viceversaseries_1.txt
-mot   :  208 ZZ/Viceversaseries_1.txt
-carac :  1283 ZZ/Viceversaseries_1.txt
+mot   :  206 ZZ/Viceversaseries_1.txt
+carac :  1268 ZZ/Viceversaseries_1.txt
 
 i = Drag race ca _3
 ligne :  7 ZZ/Dragraceca_3.txt
-mot   :  286 ZZ/Dragraceca_3.txt
-carac :  1671 ZZ/Dragraceca_3.txt
+mot   :  282 ZZ/Dragraceca_3.txt
+carac :  1641 ZZ/Dragraceca_3.txt
 
 i = Drag i love you _1
 ligne :  14 ZZ/Dragiloveyou_1.txt
@@ -306,23 +301,23 @@ carac :  1994 ZZ/Loveatnight_1.txt
 
 i = Mama gogo _1
 ligne :  8 ZZ/Mamagogo_1.txt
-mot   :  176 ZZ/Mamagogo_1.txt
-carac :  1193 ZZ/Mamagogo_1.txt
+mot   :  172 ZZ/Mamagogo_1.txt
+carac :  1163 ZZ/Mamagogo_1.txt
 
 i = Game of talents fr _2
 ligne :  7 ZZ/Gameoftalentsfr_2.txt
-mot   :  306 ZZ/Gameoftalentsfr_2.txt
-carac :  1744 ZZ/Gameoftalentsfr_2.txt
+mot   :  304 ZZ/Gameoftalentsfr_2.txt
+carac :  1729 ZZ/Gameoftalentsfr_2.txt
 
 i = The voice kids indonesia _4
 ligne :  5 ZZ/Thevoicekidsindonesia_4.txt
-mot   :  92 ZZ/Thevoicekidsindonesia_4.txt
-carac :  662 ZZ/Thevoicekidsindonesia_4.txt
+mot   :  88 ZZ/Thevoicekidsindonesia_4.txt
+carac :  634 ZZ/Thevoicekidsindonesia_4.txt
 
 i = Love mechanics _1
 ligne :  6 ZZ/Lovemechanics_1.txt
-mot   :  86 ZZ/Lovemechanics_1.txt
-carac :  635 ZZ/Lovemechanics_1.txt
+mot   :  80 ZZ/Lovemechanics_1.txt
+carac :  593 ZZ/Lovemechanics_1.txt
 
 i = Bullshit the game show _1
 ligne :  8 ZZ/Bullshitthegameshow_1.txt
@@ -361,8 +356,8 @@ carac :  1142 ZZ/Goblin_1.txt
 
 i = Ahss _2
 ligne :  6 ZZ/Ahss_2.txt
-mot   :  213 ZZ/Ahss_2.txt
-carac :  1277 ZZ/Ahss_2.txt
+mot   :  211 ZZ/Ahss_2.txt
+carac :  1262 ZZ/Ahss_2.txt
 
 i = Second chance series _1
 ligne :  5 ZZ/Secondchanceseries_1.txt
@@ -371,18 +366,18 @@ carac :  861 ZZ/Secondchanceseries_1.txt
 
 i = Rose in da house _1
 ligne :  4 ZZ/Roseindahouse_1.txt
-mot   :  100 ZZ/Roseindahouse_1.txt
-carac :  648 ZZ/Roseindahouse_1.txt
+mot   :  96 ZZ/Roseindahouse_1.txt
+carac :  618 ZZ/Roseindahouse_1.txt
 
 i = The masked singer nz _2
 ligne :  4 ZZ/Themaskedsingernz_2.txt
-mot   :  144 ZZ/Themaskedsingernz_2.txt
-carac :  843 ZZ/Themaskedsingernz_2.txt
+mot   :  142 ZZ/Themaskedsingernz_2.txt
+carac :  828 ZZ/Themaskedsingernz_2.txt
 
 i = His man _1
 ligne :  5 ZZ/Hisman_1.txt
-mot   :  203 ZZ/Hisman_1.txt
-carac :  1181 ZZ/Hisman_1.txt
+mot   :  201 ZZ/Hisman_1.txt
+carac :  1166 ZZ/Hisman_1.txt
 
 i = Vanjie 24 hours of love _1
 ligne : 
@@ -396,18 +391,18 @@ carac :  780 ZZ/Grimm_1.txt
 
 i = Want to see you _1
 ligne :  8 ZZ/Wanttoseeyou_1.txt
-mot   :  138 ZZ/Wanttoseeyou_1.txt
-carac :  874 ZZ/Wanttoseeyou_1.txt
+mot   :  136 ZZ/Wanttoseeyou_1.txt
+carac :  858 ZZ/Wanttoseeyou_1.txt
 
 i = Sky in your heart _1
 ligne :  6 ZZ/Skyinyourheart_1.txt
-mot   :  105 ZZ/Skyinyourheart_1.txt
-carac :  665 ZZ/Skyinyourheart_1.txt
+mot   :  99 ZZ/Skyinyourheart_1.txt
+carac :  621 ZZ/Skyinyourheart_1.txt
 
 i = Clik clak clok _1
 ligne :  6 ZZ/Clikclakclok_1.txt
-mot   :  105 ZZ/Clikclakclok_1.txt
-carac :  715 ZZ/Clikclakclok_1.txt
+mot   :  103 ZZ/Clikclakclok_1.txt
+carac :  699 ZZ/Clikclakclok_1.txt
 
 i = Call me mother _1
 ligne :  6 ZZ/Callmemother_1.txt
@@ -441,176 +436,3 @@ carac :  1142 ZZ/Thebigleap_1.txt
 
 i = Alice in borderland _1
 ligne :  8 ZZ/Aliceinborderland_1.txt
-mot   :  134 ZZ/Aliceinborderland_1.txt
-carac :  1049 ZZ/Aliceinborderland_1.txt
-
-i = The amazing race _32
-ligne :  3 ZZ/Theamazingrace_32.txt
-mot   :  85 ZZ/Theamazingrace_32.txt
-carac :  543 ZZ/Theamazingrace_32.txt
-
-i = Survivor _31
-ligne :  3 ZZ/Survivor_31.txt
-mot   :  85 ZZ/Survivor_31.txt
-carac :  534 ZZ/Survivor_31.txt
-
-i = Rpdrdu _2
-ligne :  3 ZZ/Rpdrdu_2.txt
-mot   :  114 ZZ/Rpdrdu_2.txt
-carac :  666 ZZ/Rpdrdu_2.txt
-
-i = Quaranthings _2
-ligne :  5 ZZ/Quaranthings_2.txt
-mot   :  112 ZZ/Quaranthings_2.txt
-carac :  746 ZZ/Quaranthings_2.txt
-
-i = Banana fish _1
-ligne :  8 ZZ/Bananafish_1.txt
-mot   :  87 ZZ/Bananafish_1.txt
-carac :  698 ZZ/Bananafish_1.txt
-
-i = God shave the queens _2
-ligne :  3 ZZ/Godshavethequeens_2.txt
-mot   :  81 ZZ/Godshavethequeens_2.txt
-carac :  463 ZZ/Godshavethequeens_2.txt
-
-i = Bite me _1
-ligne :  21 ZZ/Biteme_1.txt
-mot   :  355 ZZ/Biteme_1.txt
-carac :  2556 ZZ/Biteme_1.txt
-
-i = Vwars _1
-ligne :  62 ZZ/Vwars_1.txt
-mot   :  947 ZZ/Vwars_1.txt
-carac :  6878 ZZ/Vwars_1.txt
-
-i = Qforce _1
-ligne :  12 ZZ/Qforce_1.txt
-mot   :  153 ZZ/Qforce_1.txt
-carac :  1216 ZZ/Qforce_1.txt
-
-i = The yearbook _1
-ligne :  11 ZZ/Theyearbook_1.txt
-mot   :  163 ZZ/Theyearbook_1.txt
-carac :  1191 ZZ/Theyearbook_1.txt
-
-i = From dusk till dawn _2
-ligne :  134 ZZ/Fromdusktilldawn_2.txt
-mot   :  1878 ZZ/Fromdusktilldawn_2.txt
-carac :  12570 ZZ/Fromdusktilldawn_2.txt
-
-i = Control z _2
-ligne :  26 ZZ/Controlz_2.txt
-mot   :  412 ZZ/Controlz_2.txt
-carac :  2605 ZZ/Controlz_2.txt
-
-i = 46 days _1
-ligne :  211 ZZ/46days_1.txt
-mot   :  3035 ZZ/46days_1.txt
-carac :  19498 ZZ/46days_1.txt
-
-i = Glow up _2
-ligne :  24 ZZ/Glowup_2.txt
-mot   :  412 ZZ/Glowup_2.txt
-carac :  2728 ZZ/Glowup_2.txt
-
-i = Zombie detective _1
-ligne :  21 ZZ/Zombiedetective_1.txt
-mot   :  321 ZZ/Zombiedetective_1.txt
-carac :  2422 ZZ/Zombiedetective_1.txt
-
-i = Young royals _1
-ligne :  16 ZZ/Youngroyals_1.txt
-mot   :  175 ZZ/Youngroyals_1.txt
-carac :  1325 ZZ/Youngroyals_1.txt
-
-i = Siew sum noi _1
-ligne :  10 ZZ/Siewsumnoi_1.txt
-mot   :  99 ZZ/Siewsumnoi_1.txt
-carac :  766 ZZ/Siewsumnoi_1.txt
-
-i = Elite _4
-ligne :  67 ZZ/Elite_4.txt
-mot   :  828 ZZ/Elite_4.txt
-carac :  5761 ZZ/Elite_4.txt
-
-i = Dark blue kiss _1
-ligne :  25 ZZ/Darkbluekiss_1.txt
-mot   :  267 ZZ/Darkbluekiss_1.txt
-carac :  1943 ZZ/Darkbluekiss_1.txt
-
-i = Vincenzo _1
-ligne :  128 ZZ/Vincenzo_1.txt
-mot   :  1554 ZZ/Vincenzo_1.txt
-carac :  11384 ZZ/Vincenzo_1.txt
-
-i = An eye for an eye _1
-ligne : 
-mot   : 
-carac : 
-
-i = Mr lipstick _1
-ligne :  19 ZZ/Mrlipstick_1.txt
-mot   :  162 ZZ/Mrlipstick_1.txt
-carac :  1259 ZZ/Mrlipstick_1.txt
-
-i = Bt21 vlog _1
-ligne :  29 ZZ/Bt21vlog_1.txt
-mot   :  244 ZZ/Bt21vlog_1.txt
-carac :  1840 ZZ/Bt21vlog_1.txt
-
-i = You never eat alone _1
-ligne :  33 ZZ/Younevereatalone_1.txt
-mot   :  456 ZZ/Younevereatalone_1.txt
-carac :  3339 ZZ/Younevereatalone_1.txt
-
-i = My vampire boyfriend _1
-ligne :  259 ZZ/Myvampireboyfriend_1.txt
-mot   :  3121 ZZ/Myvampireboyfriend_1.txt
-carac :  22800 ZZ/Myvampireboyfriend_1.txt
-
-i = Bangkok love stories innocence _1
-ligne :  8 ZZ/Bangkoklovestoriesinnocence_1.txt
-mot   :  171 ZZ/Bangkoklovestoriesinnocence_1.txt
-carac :  1311 ZZ/Bangkoklovestoriesinnocence_1.txt
-
-i = The harvest season _1
-ligne :  100 ZZ/Theharvestseason_1.txt
-mot   :  1422 ZZ/Theharvestseason_1.txt
-carac :  9959 ZZ/Theharvestseason_1.txt
-
-i = Wabi show _1
-ligne :  32 ZZ/Wabishow_1.txt
-mot   :  512 ZZ/Wabishow_1.txt
-carac :  3412 ZZ/Wabishow_1.txt
-
-i = The untamed _1
-ligne :  20 ZZ/Theuntamed_1.txt
-mot   :  368 ZZ/Theuntamed_1.txt
-carac :  2785 ZZ/Theuntamed_1.txt
-
-i = Slam dance _1
-ligne :  12 ZZ/Slamdance_1.txt
-mot   :  216 ZZ/Slamdance_1.txt
-carac :  1497 ZZ/Slamdance_1.txt
-
-i = Be love _1
-ligne :  65 ZZ/Belove_1.txt
-mot   :  1080 ZZ/Belove_1.txt
-carac :  7185 ZZ/Belove_1.txt
-
-i = Tien bromance _1
-ligne :  13 ZZ/Tienbromance_1.txt
-mot   :  194 ZZ/Tienbromance_1.txt
-carac :  1419 ZZ/Tienbromance_1.txt
-
-i = Ben x jim _1
-ligne :  17 ZZ/Benxjim_1.txt
-mot   :  301 ZZ/Benxjim_1.txt
-carac :  2169 ZZ/Benxjim_1.txt
-
-i = Koishite akuma _1
-ligne :  61 ZZ/Koishiteakuma_1.txt
-mot   :  567 ZZ/Koishiteakuma_1.txt
-carac :  4377 ZZ/Koishiteakuma_1.txt
-

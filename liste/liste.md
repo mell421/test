@@ -628,6 +628,7 @@
 |30 days of night blood trails _1||7|||<!-- 8/8 -->
 |30 days of night dust to dust _1||6|||<!-- 8/8 -->
 |pekin express 16||6|||<!-- 10/8 -->
+|sytycd 17||12|||<!-- 10/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -814,7 +815,6 @@
 |clik clak clok 1|||||0|<!-- 5/5 -->
 |close friend 2||6|||0|<!-- 5/5 -->
 |rpdras 7|||||0|<!--  -->
-|sytycd 17|||||0|<!--  -->
 |rpdrasu 7|||||0|<!--  -->
 |beat shazam 2|||||0|<!--  -->
 |beat shazam 5|||||0|<!--  -->

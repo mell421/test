@@ -202,7 +202,6 @@ i = Slam dance _1
 i = Something in my room _1
 i = Survivor _31
 i = Survivor sa _9
-i = Sytycd _17
 i = Tbbt _11
 i = The amazing race _32
 i = The big leap _1

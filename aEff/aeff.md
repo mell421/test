@@ -497,35 +497,35 @@
 30/06/22 (eff) - The voice arg _4{45} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Dont forget the lyrics _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
 01/07/22 (eff) - The voice arg _4{47} The circle us _4{17} Dont forget the lyrics _1{16} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
 02/07/22 (eff) - The voice arg _4{50} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-03/07/22 (eff) - The voice arg _4{52} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Sytycd _17{14} 
+03/07/22 (eff) - The voice arg _4{52} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
 04/07/22 (eff) - The voice arg _4{54} Dont forget the lyrics _1{17} The circle us _4{17} Ohmnanon upvel _1{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-05/07/22 (eff) - The voice arg _4{57} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} 
+05/07/22 (eff) - The voice arg _4{57} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
 06/07/22 (eff) - The voice arg _4{59} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
-07/07/22 (eff) - The voice arg _4{61} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} 
-08/07/22 (eff) - The voice arg _4{63} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} 
-09/07/22 (eff) - The voice arg _4{65} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} 
-10/07/22 (eff) - The voice arg _4{67} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{13} 
-11/07/22 (eff) - The voice arg _4{69} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{13} 
-12/07/22 (eff) - The voice arg _4{72} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
-13/07/22 (eff) - The voice arg _4{74} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
-14/07/22 (eff) - The voice arg _4{76} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} The voice peru _5{14} Two pints of lager _3{14} 
-15/07/22 (eff) - The voice arg _4{78} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} The voice peru _5{16} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} 
-16/07/22 (eff) - The voice arg _4{80} The voice peru _5{18} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} 
-17/07/22 (eff) - The voice arg _4{82} The voice peru _5{19} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Le flambeau _1{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{9} 
-18/07/22 (eff) - The voice arg _4{84} The voice peru _5{21} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Le flambeau _1{16} Sytycd _17{15} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{11} 
-19/07/22 (eff) - The voice arg _4{87} The voice peru _5{24} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Sytycd _17{15} /9-1-1 _5{15} Big brother us _23{14} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
-20/07/22 (eff) - The voice arg _4{89} The voice peru _5{26} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Big brother us _23{15} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
-21/07/22 (eff) - The voice arg _4{91} The voice peru _5{28} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Big brother us _23{16} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
-22/07/22 (eff) - The voice arg _4{93} The voice peru _5{30} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Big brother us _23{17} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} 
-23/07/22 (eff) - The voice arg _4{95} The voice peru _5{32} Big brother us _23{18} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} Beat shazam _5{9} 
-24/07/22 (eff) - The voice arg _4{97} The voice peru _5{34} Big brother us _23{19} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} The voice indonesia _5{8} 
-25/07/22 (eff) - The voice arg _4{99} The voice peru _5{36} Big brother us _23{20} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} The voice indonesia _5{8} Tokyo ghoul _3{8} 
-26/07/22 (eff) - The voice arg _4{102} The voice peru _5{39} Big brother us _23{22} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} The voice indonesia _5{9} Tokyo ghoul _3{9} Beat shazam _5{9} 
-27/07/22 (eff) - The voice arg _4{104} The voice peru _5{41} Big brother us _23{23} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} The voice indonesia _5{9} Tokyo ghoul _3{9} Beat shazam _5{9} 
-28/07/22 (eff) - The voice arg _4{106} The voice peru _5{43} Big brother us _23{24} Ohmnanon upvel _1{19} Dont forget the lyrics _1{18} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Survivor sa _9{9} The voice indonesia _5{9} Tokyo ghoul _3{9} 
-29/07/22 (eff) - The voice arg _4{108} The voice peru _5{45} Big brother us _23{25} Ohmnanon upvel _1{20} Dont forget the lyrics _1{18} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Survivor sa _9{9} The voice indonesia _5{9} Tokyo ghoul _3{9} 
-30/07/22 (eff) - The voice arg _4{110} The voice peru _5{47} Big brother us _23{26} Ohmnanon upvel _1{20} Dont forget the lyrics _1{18} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} Survivor sa _9{10} The voice dominicana _2{10} Big brother us _24{9} The voice indonesia _5{9} Beat shazam _5{9} 
-31/07/22 (eff) - The voice arg _4{112} The voice peru _5{49} Big brother us _23{27} Ohmnanon upvel _1{20} Dont forget the lyrics _1{18} Sytycd _17{15} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{10} Survivor sa _9{10} The voice dominicana _2{10} The voice indonesia _5{9} Beat shazam _5{9} 
+07/07/22 (eff) - The voice arg _4{61} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
+08/07/22 (eff) - The voice arg _4{63} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+09/07/22 (eff) - The voice arg _4{65} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+10/07/22 (eff) - The voice arg _4{67} Dont forget the lyrics _1{18} Ohmnanon upvel _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
+11/07/22 (eff) - The voice arg _4{69} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
+12/07/22 (eff) - The voice arg _4{72} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
+13/07/22 (eff) - The voice arg _4{74} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
+14/07/22 (eff) - The voice arg _4{76} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} The voice peru _5{14} Two pints of lager _3{14} 
+15/07/22 (eff) - The voice arg _4{78} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} The voice peru _5{16} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
+16/07/22 (eff) - The voice arg _4{80} The voice peru _5{18} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
+17/07/22 (eff) - The voice arg _4{82} The voice peru _5{19} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{9} 
+18/07/22 (eff) - The voice arg _4{84} The voice peru _5{21} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{11} 
+19/07/22 (eff) - The voice arg _4{87} The voice peru _5{24} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} /9-1-1 _5{15} Big brother us _23{14} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
+20/07/22 (eff) - The voice arg _4{89} The voice peru _5{26} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Big brother us _23{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
+21/07/22 (eff) - The voice arg _4{91} The voice peru _5{28} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Big brother us _23{16} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
+22/07/22 (eff) - The voice arg _4{93} The voice peru _5{30} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Big brother us _23{17} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} 
+23/07/22 (eff) - The voice arg _4{95} The voice peru _5{32} Big brother us _23{18} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} Beat shazam _5{9} 
+24/07/22 (eff) - The voice arg _4{97} The voice peru _5{34} Big brother us _23{19} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} The voice indonesia _5{8} 
+25/07/22 (eff) - The voice arg _4{99} The voice peru _5{36} Big brother us _23{20} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} The voice indonesia _5{8} Tokyo ghoul _3{8} 
+26/07/22 (eff) - The voice arg _4{102} The voice peru _5{39} Big brother us _23{22} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} The voice indonesia _5{9} Tokyo ghoul _3{9} Beat shazam _5{9} 
+27/07/22 (eff) - The voice arg _4{104} The voice peru _5{41} Big brother us _23{23} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} The voice indonesia _5{9} Tokyo ghoul _3{9} Beat shazam _5{9} 
+28/07/22 (eff) - The voice arg _4{106} The voice peru _5{43} Big brother us _23{24} Ohmnanon upvel _1{19} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Survivor sa _9{9} The voice indonesia _5{9} Tokyo ghoul _3{9} 
+29/07/22 (eff) - The voice arg _4{108} The voice peru _5{45} Big brother us _23{25} Ohmnanon upvel _1{20} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Survivor sa _9{9} The voice indonesia _5{9} Tokyo ghoul _3{9} 
+30/07/22 (eff) - The voice arg _4{110} The voice peru _5{47} Big brother us _23{26} Ohmnanon upvel _1{20} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Survivor sa _9{10} The voice dominicana _2{10} Big brother us _24{9} The voice indonesia _5{9} Beat shazam _5{9} 
+31/07/22 (eff) - The voice arg _4{112} The voice peru _5{49} Big brother us _23{27} Ohmnanon upvel _1{20} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{10} Survivor sa _9{10} The voice dominicana _2{10} The voice indonesia _5{9} Beat shazam _5{9} 
 
 
 
@@ -913,51 +913,51 @@
 - 14/05/22 - 294* The circle us _4{15} Ohmnanon upvel _1{5} 
 - 15/05/22 - 449* The circle us _4{15} 
 - 21/05/22 - 162* Rpdras _7{0} 
-- 22/05/22 - 625* Sytycd _17{0} Two pints of lager _3{3} Rpdras _7{0} 
-- 23/05/22 - 688* Rpdrasu _7{0} Sytycd _17{0} Two pints of lager _3{3} 
-- 24/05/22 - 701* Ohmnanon upvel _1{6} Two pints of lager _3{4} Rpdrasu _7{1} Sytycd _17{1} 
+- 22/05/22 - 625* Two pints of lager _3{3} Rpdras _7{0} 
+- 23/05/22 - 688* Rpdrasu _7{0} Two pints of lager _3{3} 
+- 24/05/22 - 701* Ohmnanon upvel _1{6} Two pints of lager _3{4} Rpdrasu _7{1} 
 - 25/05/22 - 171* Beat shazam _2{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{5} Rpdrasu _7{1} 
-- 26/05/22 - 148* Sytycd _17{1} Beat shazam _2{0} Beat shazam _5{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{6} 
-- 27/05/22 - 134* Druck _8{2} Sytycd _17{2} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
-- 28/05/22 - 128* Dont forget the lyrics _1{0} Druck _8{3} Sytycd _17{2} 
-- 29/05/22 - 136* Dont forget the lyrics _1{0} Druck _8{3} Sytycd _17{2} 
-- 30/05/22 - 136* Dont forget the lyrics _1{0} Druck _8{4} Sytycd _17{2} 
-- 31/05/22 - 116* Dont forget the lyrics _1{1} Druck _8{6} Sytycd _17{3} 
+- 26/05/22 - 148* Beat shazam _2{0} Beat shazam _5{0} /9-1-1 _5{7} Ohmnanon upvel _1{6} Two pints of lager _3{6} 
+- 27/05/22 - 134* Druck _8{2} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
+- 28/05/22 - 128* Dont forget the lyrics _1{0} Druck _8{3} 
+- 29/05/22 - 136* Dont forget the lyrics _1{0} Druck _8{3} 
+- 30/05/22 - 136* Dont forget the lyrics _1{0} Druck _8{4} 
+- 31/05/22 - 116* Dont forget the lyrics _1{1} Druck _8{6} 
 - 01/06/22 - 171* Beat shazam _5{1} Dont forget the lyrics _1{1} Druck _8{7} 
 - 02/06/22 - 269* Beat shazam _5{4} Dont forget the lyrics _1{3} 
-- 03/06/22 - 262* Sytycd _17{4} Beat shazam _5{4} Dont forget the lyrics _1{4} 
-- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} Sytycd _17{5} Beat shazam _5{4} Dont forget the lyrics _1{6} 
-- 05/06/22 - 426* Ohmnanon upvel _1{8} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} 
+- 03/06/22 - 262* Beat shazam _5{4} Dont forget the lyrics _1{4} 
+- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} Beat shazam _5{4} Dont forget the lyrics _1{6} 
+- 05/06/22 - 426* Ohmnanon upvel _1{8} Agt _17{2} Sky in your heart _1{1} 
 - 06/06/22 - 431* Want to see you _1{0} Ohmnanon upvel _1{8} Agt _17{2} Sky in your heart _1{1} 
 - 07/06/22 - 483* Ohmnanon upvel _1{9} Want to see you _1{2} Agt _17{3} 
 - 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} Ohmnanon upvel _1{11} Want to see you _1{2} 
 - 09/06/22 - 272* The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Ohmnanon upvel _1{12} Want to see you _1{2} 
-- 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} Sytycd _17{6} The voice arg _4{2} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-- 11/06/22 - 237* The voice arg _4{4} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-- 12/06/22 - 248* The voice arg _4{6} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Sytycd _17{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-- 13/06/22 - 167* Dancing with myself _1{0} Mama gogo _1{0} The voice arg _4{8} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} Sytycd _17{6} 
+- 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} The voice arg _4{2} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+- 11/06/22 - 237* The voice arg _4{4} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+- 12/06/22 - 248* The voice arg _4{6} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+- 13/06/22 - 167* Dancing with myself _1{0} Mama gogo _1{0} The voice arg _4{8} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} 
 14/06/22 - 260* Ohmnanon upvel _1{14} The voice arg _4{11} Dancing with myself _1{1} Mama gogo _1{1} /9-1-1 lone star _3{12} 
 15/06/22 - 241* Close friend _2{2} Dont forget the lyrics _1{8} The voice arg _4{13} Beat shazam _5{6} Ohmnanon upvel _1{14} Dancing with myself _1{1} Mama gogo _1{1} 
 16/06/22 - 251* The voice arg _4{15} Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Ohmnanon upvel _1{14} Dancing with myself _1{1} Mama gogo _1{1} 
 17/06/22 - 261* The voice arg _4{17} Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Ohmnanon upvel _1{14} Dancing with myself _1{1} Mama gogo _1{1} 
-18/06/22 - 496* Sytycd _17{7} The voice indonesia _5{0} The voice arg _4{19} Close friend _2{3} Dont forget the lyrics _1{9} Beat shazam _5{6} 
-19/06/22 - 509* Love mechanics _1{0} Sytycd _17{8} The voice indonesia _5{0} The voice arg _4{21} 
-20/06/22 - 446* The voice kids indonesia _4{0} Love mechanics _1{0} Sytycd _17{8} The voice indonesia _5{0} 
-21/06/22 - 185* The voice arg _4{26} The voice kids indonesia _4{1} Love mechanics _1{1} Sytycd _17{9} The voice indonesia _5{1} 
+18/06/22 - 496* The voice indonesia _5{0} The voice arg _4{19} Close friend _2{3} Dont forget the lyrics _1{9} Beat shazam _5{6} 
+19/06/22 - 509* Love mechanics _1{0} The voice indonesia _5{0} The voice arg _4{21} 
+20/06/22 - 446* The voice kids indonesia _4{0} Love mechanics _1{0} The voice indonesia _5{0} 
+21/06/22 - 185* The voice arg _4{26} The voice kids indonesia _4{1} Love mechanics _1{1} The voice indonesia _5{1} 
 22/06/22 - 240* Bulgasal _1{0} The voice arg _4{28} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} Love mechanics _1{1} 
 23/06/22 - 162* The voice arg _4{30} Unforgotten night _1{0} Bulgasal _1{0} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} 
-24/06/22 - 180* Dont forget the lyrics _1{10} Sytycd _17{9} The voice arg _4{32} Dancing with myself _1{1} Unforgotten night _1{0} Bulgasal _1{1} The voice dominicana _2{0} Camping paradis _13{0} 
-25/06/22 - 190* Bulgasal _1{2} The voice arg _4{34} Dont forget the lyrics _1{11} Sytycd _17{10} Dancing with myself _1{1} Unforgotten night _1{0} The voice dominicana _2{0} Camping paradis _13{0} 
-26/06/22 - 238* The voice indonesia _5{1} Drag race fr _1{0} Bulgasal _1{4} The voice arg _4{36} Dont forget the lyrics _1{12} Sytycd _17{10} Dancing with myself _1{1} 
+24/06/22 - 180* Dont forget the lyrics _1{10} The voice arg _4{32} Dancing with myself _1{1} Unforgotten night _1{0} Bulgasal _1{1} The voice dominicana _2{0} Camping paradis _13{0} 
+25/06/22 - 190* Bulgasal _1{2} The voice arg _4{34} Dont forget the lyrics _1{11} Dancing with myself _1{1} Unforgotten night _1{0} The voice dominicana _2{0} Camping paradis _13{0} 
+26/06/22 - 238* The voice indonesia _5{1} Drag race fr _1{0} Bulgasal _1{4} The voice arg _4{36} Dont forget the lyrics _1{12} Dancing with myself _1{1} 
 27/06/22 - 254* Rpdrasu _7{2} Rpdras _7{2} The voice indonesia _5{1} Drag race fr _1{0} Bulgasal _1{6} The voice arg _4{38} Dont forget the lyrics _1{12} 
 28/06/22 - 191* Camping paradis _13{1} The voice dominicana _2{4} The voice arg _4{41} Rpdrasu _7{3} Rpdras _7{3} The voice indonesia _5{2} Drag race fr _1{1} 
 29/06/22 - 168* Close friend _2{4} Ohmnanon upvel _1{15} Dont forget the lyrics _1{13} The voice arg _4{43} Camping paradis _13{1} The voice dominicana _2{5} Rpdrasu _7{3} Rpdras _7{3} 
 30/06/22 - 211* Unforgotten night _1{1} Rose in da house _1{0} The voice arg _4{45} Close friend _2{4} Ohmnanon upvel _1{15} Dont forget the lyrics _1{15} 
-01/07/22 - 186* Beat shazam _5{7} Sytycd _17{11} Karaoke club drag edition _1{0} Drag race fr _1{1} The challenge _4{0} Unforgotten night _1{1} Rose in da house _1{0} The voice arg _4{47} 
-02/07/22 - 179* The voice indonesia _5{3} The voice arg _4{50} Beat shazam _5{8} Sytycd _17{13} Karaoke club drag edition _1{1} Drag race fr _1{3} The challenge _4{2} Unforgotten night _1{2} Rose in da house _1{1} 
-03/07/22 - 268* The voice arg _4{52} The voice indonesia _5{4} Beat shazam _5{8} Sytycd _17{14} Karaoke club drag edition _1{1} Drag race fr _1{4} The challenge _4{2} Unforgotten night _1{2} 
-04/07/22 - 276* The voice arg _4{54} The voice indonesia _5{4} Beat shazam _5{8} Sytycd _17{14} Karaoke club drag edition _1{1} Drag race fr _1{4} The challenge _4{3} Unforgotten night _1{2} 
-05/07/22 - 361* Agt _17{4} The voice arg _4{57} The voice dominicana _2{7} The voice indonesia _5{5} Beat shazam _5{9} Sytycd _17{15} Karaoke club drag edition _1{2} 
+01/07/22 - 186* Beat shazam _5{7} Karaoke club drag edition _1{0} Drag race fr _1{1} The challenge _4{0} Unforgotten night _1{1} Rose in da house _1{0} The voice arg _4{47} 
+02/07/22 - 179* The voice indonesia _5{3} The voice arg _4{50} Beat shazam _5{8} Karaoke club drag edition _1{1} Drag race fr _1{3} The challenge _4{2} Unforgotten night _1{2} Rose in da house _1{1} 
+03/07/22 - 268* The voice arg _4{52} The voice indonesia _5{4} Beat shazam _5{8} Karaoke club drag edition _1{1} Drag race fr _1{4} The challenge _4{2} Unforgotten night _1{2} 
+04/07/22 - 276* The voice arg _4{54} The voice indonesia _5{4} Beat shazam _5{8} Karaoke club drag edition _1{1} Drag race fr _1{4} The challenge _4{3} Unforgotten night _1{2} 
+05/07/22 - 361* Agt _17{4} The voice arg _4{57} The voice dominicana _2{7} The voice indonesia _5{5} Beat shazam _5{9} Karaoke club drag edition _1{2} 
 06/07/22 - 355* The voice peru _5{0} The voice arg _4{59} Agt _17{4} The voice dominicana _2{7} The voice indonesia _5{5} Beat shazam _5{9} 
 07/07/22 - 265* Second chance series _1{0} Unforgotten night _1{3} The voice peru _5{0} The voice arg _4{61} Agt _17{4} The voice dominicana _2{7} 
 08/07/22 - 247* The challenge usa _1{0} Drag race fr _1{5} The voice peru _5{1} Second chance series _1{0} Unforgotten night _1{3} The voice arg _4{63} Agt _17{4} The voice dominicana _2{7} 
@@ -978,10 +978,10 @@
 23/07/22 - 299* The voice indonesia _5{8} The voice peru _5{32} The voice arg _4{95} Survivor sa _9{1} The challenge usa _1{3} Big brother us _24{3} Drag race fr _1{7} Ahss _2{0} Unforgotten night _1{5} 
 24/07/22 - 172* Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} Vice versa series _1{1} The voice peru _5{34} The voice indonesia _5{8} The voice arg _4{97} Survivor sa _9{2} The challenge usa _1{3} 
 25/07/22 - 177* The masked singer nz _2{0} The voice th _9{1} The voice peru _5{36} Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} Vice versa series _1{1} The voice indonesia _5{8} The voice arg _4{99} 
-26/07/22 - 225* Survivor sa _9{6} Ohmnanon upvel _1{18} Big brother us _24{5} Sytycd _17{15} The voice dominicana _2{10} The voice arg _4{102} The masked singer nz _2{1} The voice th _9{2} The voice peru _5{39} Blueming _1{1} His man _1{1} 
-27/07/22 - 377* Survivor sa _9{8} Blueming _1{1} Minatos laundromat _1{0} The voice peru _5{41} The voice arg _4{104} Ohmnanon upvel _1{18} Big brother us _24{6} Sytycd _17{15} The voice dominicana _2{10} 
-28/07/22 - 359* Minatos laundromat _1{0} The voice peru _5{43} The voice arg _4{106} Survivor sa _9{9} Blueming _1{1} Ohmnanon upvel _1{19} Big brother us _24{7} Sytycd _17{15} 
+26/07/22 - 225* Survivor sa _9{6} Ohmnanon upvel _1{18} Big brother us _24{5} The voice dominicana _2{10} The voice arg _4{102} The masked singer nz _2{1} The voice th _9{2} The voice peru _5{39} Blueming _1{1} His man _1{1} 
+27/07/22 - 377* Survivor sa _9{8} Blueming _1{1} Minatos laundromat _1{0} The voice peru _5{41} The voice arg _4{104} Ohmnanon upvel _1{18} Big brother us _24{6} The voice dominicana _2{10} 
+28/07/22 - 359* Minatos laundromat _1{0} The voice peru _5{43} The voice arg _4{106} Survivor sa _9{9} Blueming _1{1} Ohmnanon upvel _1{19} Big brother us _24{7} 
 29/07/22 - 356* Blueming _1{1} Survivor sa _9{10} Big brother us _24{8} Drag race fr _1{8} Ahss _2{1} The challenge usa _1{4} The voice peru _5{45} The voice arg _4{108} Minatos laundromat _1{2} 
-30/07/22 - 329* Big brother us _24{9} Drag race ca _3{2} The voice indonesia _5{9} The amazing race _32{0} Beat shazam _5{9} Sytycd _17{15} The voice arg _4{110} Blueming _1{2} Survivor sa _9{10} Drag race fr _1{8} Ahss _2{1} 
-31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Vice versa series _1{2} Big brother us _24{10} Drag race ca _3{2} The voice indonesia _5{9} Beat shazam _5{9} Sytycd _17{15} The voice arg _4{112} Blueming _1{2} 
+30/07/22 - 329* Big brother us _24{9} Drag race ca _3{2} The voice indonesia _5{9} The amazing race _32{0} Beat shazam _5{9} The voice arg _4{110} Blueming _1{2} Survivor sa _9{10} Drag race fr _1{8} Ahss _2{1} 
+31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Vice versa series _1{2} Big brother us _24{10} Drag race ca _3{2} The voice indonesia _5{9} Beat shazam _5{9} The voice arg _4{112} Blueming _1{2} 
 

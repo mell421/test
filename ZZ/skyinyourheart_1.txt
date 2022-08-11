@@ -1,6 +1,6 @@
-aEff/aeff.md:- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} Sytycd _17{5} Beat shazam _5{4} Dont forget the lyrics _1{6} 
-aEff/aeff.md:- 05/06/22 - 426* Ohmnanon upvel _1{8} Agt _17{2} Sky in your heart _1{1} Sytycd _17{5} 
+aEff/aeff.md:- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} Beat shazam _5{4} Dont forget the lyrics _1{6} 
+aEff/aeff.md:- 05/06/22 - 426* Ohmnanon upvel _1{8} Agt _17{2} Sky in your heart _1{1} 
 aEff/aeff.md:- 06/06/22 - 431* Want to see you _1{0} Ohmnanon upvel _1{8} Agt _17{2} Sky in your heart _1{1} 
-apercu/apercu22.md:- sem 06-06-2022 -> Want to see you _1x2(1) Ohmnanon upvel _1x7(1) Agt _17x2(1) Sky in your heart _1x2(1) Sytycd _17x4(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) 
+apercu/apercu22.md:- sem 06-06-2022 -> Want to see you _1x2(1) Ohmnanon upvel _1x7(1) Agt _17x2(1) Sky in your heart _1x2(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) 
 apercu/apercu22.md:concluBis 04/06/22 = Agt _17 > 3; Sky in your heart _1 > 2; 
 apercuTer/apercuTer.md:* Sky in your heart _1
