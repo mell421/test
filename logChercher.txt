@@ -189,11 +189,6 @@ ligne :  13 ZZ/Rpdrasu_7.txt
 mot   :  377 ZZ/Rpdrasu_7.txt
 carac :  2345 ZZ/Rpdrasu_7.txt
 
-i = Karaoke club drag edition _1
-ligne :  10 ZZ/Karaokeclubdragedition_1.txt
-mot   :  292 ZZ/Karaokeclubdragedition_1.txt
-carac :  1862 ZZ/Karaokeclubdragedition_1.txt
-
 i = Agt _17
 ligne :  13 ZZ/Agt_17.txt
 mot   :  226 ZZ/Agt_17.txt

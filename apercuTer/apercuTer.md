@@ -901,6 +901,7 @@
 * Even sun _1
 ### sem 15-08-2022 
 * *insererici*
+* Karaoke club drag edition _1
 * Drag race fr _1
 * Sytycd _17
 * Pekin express _16
@@ -970,7 +971,7 @@
 * Vanjie 24 hours of love _1
 * Grimm _1
 * Survivor _31
-* Karaoke club drag edition _1
+* 
 * Two pints of lager _3
 * Second chance series _1
 * Agt _17
@@ -1126,7 +1127,7 @@
 #### mois 01-08-2022 
 *insererici The voice kids portugal _3 Earthmix space _1 The masked singer jap _1 Rpdr out of the closet _4 In relationship _1 The voice kids esp _7 Survivor _30 Enchante _1 Triage _1 Kinnporsche _1 Cutie pie _1 The challenge all stars _1 The challenge all stars _3 Skam france _10*
 #### mois 01-09-2022 
-*insererici Drag race fr _1 Sytycd _17 Pekin express _16 30 days of night dust to dust _1 30 days of night blood trails _1 The voice chile _3 Even sun _1*
+*insererici Karaoke club drag edition _1 Drag race fr _1 Sytycd _17 Pekin express _16 30 days of night dust to dust _1 30 days of night blood trails _1 The voice chile _3 Even sun _1*
 #### mois 01-10-2022 
 *insererici*
 #### mois 01-11-2022 

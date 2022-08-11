@@ -171,7 +171,6 @@ i = God shave the queens _2
 i = Grimm _1
 i = His man _1
 i = Insiders _1
-i = Karaoke club drag edition _1
 i = Koishite akuma _1
 i = Les engages _3
 i = Love area _1

@@ -630,6 +630,7 @@
 |pekin express 16||6|||<!-- 10/8 -->
 |sytycd 17||12|||<!-- 10/8 -->
 |drag race fr 1||8|||<!-- 11/8 -->
+|karaoke club drag edition 1||6|||<!-- 11/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -836,7 +837,6 @@
 |unforgotten night 1|||||0|<!-- 22/6 -->
 |rose in da house 1|||||0|<!--  -->
 |the challenge 4|||||0|<!--  -->
-|karaoke club drag edition 1|||||0|<!--  -->
 |the voice peru 5|||||0|<!--  -->
 |second chance series 1|||||0|<!--  -->
 |the challenge usa 1|||||0|<!--  -->
