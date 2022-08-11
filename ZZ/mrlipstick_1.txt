@@ -1,0 +1,19 @@
+aEff/aeff.md:- 06/04/21 - 620* mr lipstick _1{0} 
+aEff/aeff.md:- 07/04/21 - 714* mr lipstick _1{1} 
+aEff/aeff.md:- 08/04/21 - 739* mr lipstick _1{2} 
+apercu/apercu21.md:- mois 01-05-2021 I can see your voice fr _1x2(1) Mr lipstick _1x3(2) 
+apercu/apercu21.md:- sem 12-04-2021 Mr lipstick _1x3(2) 
+apercu/apercu21.md:* concluBis 06/04/21 = Mr lipstick _1 > 1; 
+apercu/apercu21.md:* concluBis 07/04/21 = Mr lipstick _1 > 1; 
+apercu/apercu21.md:* concluBis 09/04/21 = Mr lipstick _1 > 1; 
+apercu/apercu21.md:* concluBis 10/04/21 = Mr lipstick _1 > 1; 
+apercu/apercuglobal.md:- mois 01-05-2021 I can see your voice fr _1x2(1) Mr lipstick _1x3(2) 
+apercu/apercuglobal.md:- sem 12-04-2021 Mr lipstick _1x3(2) 
+apercu/apercuglobal.md:* concluBis 06/04/21 > Mr lipstick _1 > 1; 
+apercu/apercuglobal.md:* concluBis 07/04/21 > Mr lipstick _1 > 1; 
+apercu/apercuglobal.md:* concluBis 09/04/21 = Mr lipstick _1 > 1; 
+apercu/apercuglobal.md:* concluBis 10/04/21 = Mr lipstick _1 > 1; 
+apercuTer/apercuTer.md:* Mr lipstick _1
+tab2021.html:    <td class="conclubis">Mr lipstick _1 > 1; </td>
+tab2021.html:    <td class="resumemois">I can see your voice fr _1x2(1) Mr lipstick _1x3(2) </td>
+tab2021.html:    <td class="resumesem">Mr lipstick _1x3(2) </td>

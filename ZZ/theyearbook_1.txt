@@ -1,0 +1,11 @@
+aEff/aeff.md:- 28/08/21 - 270* the yearbook _1{0} 
+aEff/aeff.md:- 29/08/21 - 316* the yearbook _1{0} 
+aEff/aeff.md:- 30/08/21 - 306* bite me _1{1} the yearbook _1{1} 
+aEff/aeff.md:- 31/08/21 - 239* bite me _1{1} the yearbook _1{1} 
+apercu/apercu21.md:- mois 01-09-2021 7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+apercu/apercu21.md:- sem 30-08-2021 Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
+apercu/apercuglobal.md:- mois 01-09-2021 7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
+apercu/apercuglobal.md:- sem 30-08-2021 Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
+apercuTer/apercuTer.md:* The yearbook _1
+tab2021.html:    <td class="resumemois">7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) 
+tab2021.html:    <td class="resumesem">Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) </td>
