@@ -629,6 +629,7 @@
 |30 days of night dust to dust _1||6|||<!-- 8/8 -->
 |pekin express 16||6|||<!-- 10/8 -->
 |sytycd 17||12|||<!-- 10/8 -->
+|drag race fr 1||8|||<!-- 11/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -833,7 +834,6 @@
 |the voice dominicana 2|||||0|<!--  -->
 |bulgasal 1|||||0|<!--  -->
 |unforgotten night 1|||||0|<!-- 22/6 -->
-|drag race fr 1|||||0|<!--  -->
 |rose in da house 1|||||0|<!--  -->
 |the challenge 4|||||0|<!--  -->
 |karaoke club drag edition 1|||||0|<!--  -->

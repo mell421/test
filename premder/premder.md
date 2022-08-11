@@ -44,7 +44,6 @@ The voice dominicana 2x3
 Rpdrasu 7x2
 Rpdras 7x2
 The voice indonesia 5x2
-Drag race fr 1x1
 Bulgasal 1x4
 Dancing with myself 1x2
 Unforgotten night 1x1

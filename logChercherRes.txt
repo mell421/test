@@ -160,7 +160,6 @@ i = District z _2
 i = Dont forget the lyrics _1
 i = Drag i love you _1
 i = Drag race ca _3
-i = Drag race fr _1
 i = Druck _8
 i = Elite _4
 i = F4 thailand _1

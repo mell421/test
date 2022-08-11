@@ -19,7 +19,7 @@ list99=(
 "/9-1-1 lone star _3" "Bulgasal _1" "Big brother us _24" 
 "The voice ukr _12" 
 # 29-20
-"Survivor sa _9" "Drag race fr _1" "Unforgotten night _1" "Tokyo ghoul _3" 
+"Survivor sa _9" "Unforgotten night _1" "Tokyo ghoul _3" 
 "Beat shazam _2" "Meet my angel _2" "Something in my room _1" "The player _1" "7project _1" 
 # 19-15
 "The challenge _4" "Close friend _2" 

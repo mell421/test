@@ -3,7 +3,7 @@ aEff/aeff.md:25/07/22 - 177* The masked singer nz _2{0} The voice th _9{1} The v
 aEff/aeff.md:26/07/22 - 225* Survivor sa _9{6} Ohmnanon upvel _1{18} Big brother us _24{5} The voice dominicana _2{10} The voice arg _4{102} The masked singer nz _2{1} The voice th _9{2} The voice peru _5{39} Blueming _1{1} His man _1{1} 
 aEff/aeff.md:27/07/22 - 377* Survivor sa _9{8} Blueming _1{1} Minatos laundromat _1{0} The voice peru _5{41} The voice arg _4{104} Ohmnanon upvel _1{18} Big brother us _24{6} The voice dominicana _2{10} 
 aEff/aeff.md:28/07/22 - 359* Minatos laundromat _1{0} The voice peru _5{43} The voice arg _4{106} Survivor sa _9{9} Blueming _1{1} Ohmnanon upvel _1{19} Big brother us _24{7} 
-aEff/aeff.md:29/07/22 - 356* Blueming _1{1} Survivor sa _9{10} Big brother us _24{8} Drag race fr _1{8} Ahss _2{1} The challenge usa _1{4} The voice peru _5{45} The voice arg _4{108} Minatos laundromat _1{2} 
-aEff/aeff.md:30/07/22 - 329* Big brother us _24{9} Drag race ca _3{2} The voice indonesia _5{9} The amazing race _32{0} Beat shazam _5{9} The voice arg _4{110} Blueming _1{2} Survivor sa _9{10} Drag race fr _1{8} Ahss _2{1} 
+aEff/aeff.md:29/07/22 - 356* Blueming _1{1} Survivor sa _9{10} Big brother us _24{8} Ahss _2{1} The challenge usa _1{4} The voice peru _5{45} The voice arg _4{108} Minatos laundromat _1{2} 
+aEff/aeff.md:30/07/22 - 329* Big brother us _24{9} Drag race ca _3{2} The voice indonesia _5{9} The amazing race _32{0} Beat shazam _5{9} The voice arg _4{110} Blueming _1{2} Survivor sa _9{10} Ahss _2{1} 
 aEff/aeff.md:31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Vice versa series _1{2} Big brother us _24{10} Drag race ca _3{2} The voice indonesia _5{9} Beat shazam _5{9} The voice arg _4{112} Blueming _1{2} 
 apercuTer/apercuTer.md:* Blueming _1

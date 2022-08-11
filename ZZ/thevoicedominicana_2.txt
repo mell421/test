@@ -1,7 +1,7 @@
 aEff/aeff.md:05/07/22 - 361* Agt _17{4} The voice arg _4{57} The voice dominicana _2{7} The voice indonesia _5{5} Beat shazam _5{9} Karaoke club drag edition _1{2} 
 aEff/aeff.md:06/07/22 - 355* The voice peru _5{0} The voice arg _4{59} Agt _17{4} The voice dominicana _2{7} The voice indonesia _5{5} Beat shazam _5{9} 
 aEff/aeff.md:07/07/22 - 265* Second chance series _1{0} Unforgotten night _1{3} The voice peru _5{0} The voice arg _4{61} Agt _17{4} The voice dominicana _2{7} 
-aEff/aeff.md:08/07/22 - 247* The challenge usa _1{0} Drag race fr _1{5} The voice peru _5{1} Second chance series _1{0} Unforgotten night _1{3} The voice arg _4{63} Agt _17{4} The voice dominicana _2{7} 
+aEff/aeff.md:08/07/22 - 247* The challenge usa _1{0} The voice peru _5{1} Second chance series _1{0} Unforgotten night _1{3} The voice arg _4{63} Agt _17{4} The voice dominicana _2{7} 
 aEff/aeff.md:12/07/22 - 304* Big brother us _23{0} Big brother us _24{0} The voice arg _4{72} The voice dominicana _2{8} The voice peru _5{10} Karaoke club drag edition _1{4} Two pints of lager _3{14} 
 aEff/aeff.md:13/07/22 - 316* Big brother us _23{1} The voice peru _5{12} The voice arg _4{74} Big brother us _24{0} The voice dominicana _2{8} Karaoke club drag edition _1{4} Two pints of lager _3{14} 
 aEff/aeff.md:14/07/22 - 279* Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{0} The voice peru _5{14} The voice arg _4{76} Big brother us _23{3} The voice dominicana _2{8} 
@@ -23,7 +23,7 @@ aEff/aeff.md:26/07/22 - 225* Survivor sa _9{6} Ohmnanon upvel _1{18} Big brother
 aEff/aeff.md:26/07/22 (eff) - The voice arg _4{102} The voice peru _5{39} Big brother us _23{22} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} The voice indonesia _5{9} Tokyo ghoul _3{9} Beat shazam _5{9} 
 aEff/aeff.md:27/07/22 - 377* Survivor sa _9{8} Blueming _1{1} Minatos laundromat _1{0} The voice peru _5{41} The voice arg _4{104} Ohmnanon upvel _1{18} Big brother us _24{6} The voice dominicana _2{10} 
 aEff/aeff.md:27/07/22 (eff) - The voice arg _4{104} The voice peru _5{41} Big brother us _23{23} Ohmnanon upvel _1{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} The voice indonesia _5{9} Tokyo ghoul _3{9} Beat shazam _5{9} 
-aEff/aeff.md:28/06/22 - 191* Camping paradis _13{1} The voice dominicana _2{4} The voice arg _4{41} Rpdrasu _7{3} Rpdras _7{3} The voice indonesia _5{2} Drag race fr _1{1} 
+aEff/aeff.md:28/06/22 - 191* Camping paradis _13{1} The voice dominicana _2{4} The voice arg _4{41} Rpdrasu _7{3} Rpdras _7{3} The voice indonesia _5{2} 
 aEff/aeff.md:28/07/22 (eff) - The voice arg _4{106} The voice peru _5{43} Big brother us _23{24} Ohmnanon upvel _1{19} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Survivor sa _9{9} The voice indonesia _5{9} Tokyo ghoul _3{9} 
 aEff/aeff.md:29/06/22 - 168* Close friend _2{4} Ohmnanon upvel _1{15} Dont forget the lyrics _1{13} The voice arg _4{43} Camping paradis _13{1} The voice dominicana _2{5} Rpdrasu _7{3} Rpdras _7{3} 
 aEff/aeff.md:29/07/22 (eff) - The voice arg _4{108} The voice peru _5{45} Big brother us _23{25} Ohmnanon upvel _1{20} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Survivor sa _9{9} The voice indonesia _5{9} Tokyo ghoul _3{9} 

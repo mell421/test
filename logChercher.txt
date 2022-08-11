@@ -114,11 +114,6 @@ ligne :  20 ZZ/Survivorsa_9.txt
 mot   :  792 ZZ/Survivorsa_9.txt
 carac :  4893 ZZ/Survivorsa_9.txt
 
-i = Drag race fr _1
-ligne :  25 ZZ/Dragracefr_1.txt
-mot   :  942 ZZ/Dragracefr_1.txt
-carac :  5588 ZZ/Dragracefr_1.txt
-
 i = Unforgotten night _1
 ligne :  19 ZZ/Unforgottennight_1.txt
 mot   :  524 ZZ/Unforgottennight_1.txt
