@@ -631,7 +631,7 @@
 |sytycd 17||12|||<!-- 10/8 -->
 |drag race fr 1||8|||<!-- 11/8 -->
 |karaoke club drag edition 1||6|||<!-- 11/8 -->
-||||||<!--  -->
+|The voice generations portugal _1||2|||<!-- 14/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

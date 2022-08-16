@@ -105,6 +105,7 @@
 |tvk esp 7||12|||<!-- 22/7 -->
 |tvk portugal 3||12|||<!-- 31/7 -->
 |tv chile 3||59|||<!-- 4/8 -->
+|tvg portugal 1||2|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -128,7 +129,6 @@
 |the voice peru 5|||||0|<!--  -->
 |the voice kids colombia 6|||||0|<!--  -->
 |the voice th 9|||||0|<!--  -->
-|the voice generations portugal 1|||||0|<!--  -->
 |the voice indonesia 5|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
