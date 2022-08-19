@@ -13,7 +13,7 @@ list99=(
 "The voice peru _5" "Dont forget the lyrics _1" "/9-1-1 _5" "Big brother us _23" "Two pints of lager _3" 
 "Trivia quest _1" "Young sheldon _5" "Tbbt _11" 
 # 49-40
-"The voice indonesia _5" "The voice dominicana _2" "Beat shazam _5" 
+"The voice dominicana _2" "Beat shazam _5" 
 "The circle us _4" 
 # 39-30
 "/9-1-1 lone star _3" "Bulgasal _1" "Big brother us _24" 

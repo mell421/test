@@ -69,11 +69,6 @@ ligne :  96 ZZ/Tbbt_11.txt
 mot   :  1087 ZZ/Tbbt_11.txt
 carac :  7761 ZZ/Tbbt_11.txt
 
-i = The voice indonesia _5
-ligne :  33 ZZ/Thevoiceindonesia_5.txt
-mot   :  1066 ZZ/Thevoiceindonesia_5.txt
-carac :  6810 ZZ/Thevoiceindonesia_5.txt
-
 i = The voice dominicana _2
 ligne :  33 ZZ/Thevoicedominicana_2.txt
 mot   :  1098 ZZ/Thevoicedominicana_2.txt

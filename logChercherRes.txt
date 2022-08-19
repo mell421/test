@@ -214,7 +214,6 @@ i = The tuxedo _1
 i = The untamed _1
 i = The voice arg _4
 i = The voice dominicana _2
-i = The voice indonesia _5
 i = The voice kids indonesia _4
 i = The voice nl _12
 i = The voice peru _5

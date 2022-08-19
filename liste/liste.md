@@ -632,6 +632,7 @@
 |drag race fr 1||8|||<!-- 11/8 -->
 |karaoke club drag edition 1||6|||<!-- 11/8 -->
 |The voice generations portugal _1||2|||<!-- 14/8 -->
+|the voice indonesia 5||10|||<!-- 19/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -828,7 +829,6 @@
 |le flambeau 1|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |dancing with myself 1|||||0|<!--  -->
-|the voice indonesia 5|||||0|<!--  -->
 |love mechanics 1|||||0|<!--  -->
 |the voice kids indonesia 4|||||0|<!--  -->
 |camping paradis 13|||||0|<!--  -->
