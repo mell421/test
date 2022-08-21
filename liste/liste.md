@@ -633,6 +633,7 @@
 |karaoke club drag edition 1||6|||<!-- 11/8 -->
 |The voice generations portugal _1||2|||<!-- 14/8 -->
 |the voice indonesia 5||10|||<!-- 19/8 -->
+|the voice peru 5||42|||<!-- 20/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -837,7 +838,6 @@
 |unforgotten night 1|||||0|<!-- 22/6 -->
 |rose in da house 1|||||0|<!--  -->
 |the challenge 4|||||0|<!--  -->
-|the voice peru 5|||||0|<!--  -->
 |second chance series 1|||||0|<!--  -->
 |the challenge usa 1|||||0|<!--  -->
 |big brother us 24|||||0|<!--  -->

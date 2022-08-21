@@ -216,7 +216,6 @@ i = The voice arg _4
 i = The voice dominicana _2
 i = The voice kids indonesia _4
 i = The voice nl _12
-i = The voice peru _5
 i = The voice ph _1
 i = The voice th _9
 i = The voice ukr _12

@@ -1,12 +1,12 @@
-aEff/aeff.md:08/07/22 - 247* The challenge usa _1{0} The voice peru _5{1} Second chance series _1{0} Unforgotten night _1{3} The voice arg _4{63} Agt _17{4} The voice dominicana _2{7} 
-aEff/aeff.md:09/07/22 - 608* The voice arg _4{65} The voice peru _5{3} The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
-aEff/aeff.md:10/07/22 - 596* The voice peru _5{5} Two pints of lager _3{13} The voice arg _4{67} The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
-aEff/aeff.md:11/07/22 - 629* The voice peru _5{7} Two pints of lager _3{13} The voice arg _4{69} The challenge usa _1{1} 
-aEff/aeff.md:14/07/22 - 279* Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{0} The voice peru _5{14} The voice arg _4{76} Big brother us _23{3} The voice dominicana _2{8} 
-aEff/aeff.md:15/07/22 - 266* Big brother us _23{5} The voice peru _5{16} The voice arg _4{78} Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{1} 
-aEff/aeff.md:22/07/22 - 301* Survivor sa _9{0} The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} The voice peru _5{30} The voice arg _4{93} Unforgotten night _1{5} Big brother us _23{17} 
-aEff/aeff.md:23/07/22 - 299* The voice peru _5{32} The voice arg _4{95} Survivor sa _9{1} The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} Unforgotten night _1{5} 
-aEff/aeff.md:24/07/22 - 172* Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} Vice versa series _1{1} The voice peru _5{34} The voice arg _4{97} Survivor sa _9{2} The challenge usa _1{3} 
-aEff/aeff.md:29/07/22 - 356* Blueming _1{1} Survivor sa _9{10} Big brother us _24{8} Ahss _2{1} The challenge usa _1{4} The voice peru _5{45} The voice arg _4{108} Minatos laundromat _1{2} 
+aEff/aeff.md:08/07/22 - 247* The challenge usa _1{0} Second chance series _1{0} Unforgotten night _1{3} The voice arg _4{63} Agt _17{4} The voice dominicana _2{7} 
+aEff/aeff.md:09/07/22 - 608* The voice arg _4{65} The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
+aEff/aeff.md:10/07/22 - 596* Two pints of lager _3{13} The voice arg _4{67} The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
+aEff/aeff.md:11/07/22 - 629* Two pints of lager _3{13} The voice arg _4{69} The challenge usa _1{1} 
+aEff/aeff.md:14/07/22 - 279* Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{0} The voice arg _4{76} Big brother us _23{3} The voice dominicana _2{8} 
+aEff/aeff.md:15/07/22 - 266* Big brother us _23{5} The voice arg _4{78} Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{1} 
+aEff/aeff.md:22/07/22 - 301* Survivor sa _9{0} The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} The voice arg _4{93} Unforgotten night _1{5} Big brother us _23{17} 
+aEff/aeff.md:23/07/22 - 299* The voice arg _4{95} Survivor sa _9{1} The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} Unforgotten night _1{5} 
+aEff/aeff.md:24/07/22 - 172* Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} Vice versa series _1{1} The voice arg _4{97} Survivor sa _9{2} The challenge usa _1{3} 
+aEff/aeff.md:29/07/22 - 356* Blueming _1{1} Survivor sa _9{10} Big brother us _24{8} Ahss _2{1} The challenge usa _1{4} The voice arg _4{108} Minatos laundromat _1{2} 
 apercuTer/apercuTer.md:* The challenge usa _1
 index.html:            the challenge usa _1<br>

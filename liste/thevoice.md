@@ -107,6 +107,7 @@
 |tv chile 3||59|||<!-- 4/8 -->
 |tvg portugal 1||2|||<!--  -->
 |tv indonesia 5||10|||<!-- 19/8 -->
+|tv peru 5||42|||<!-- 20/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -127,7 +128,6 @@
 |the voice ukr 12|||||0|<!--  -->
 |the voice dominicana 2|||||0|<!--  -->
 |the voice arg 4|||||0|<!--  -->
-|the voice peru 5|||||0|<!--  -->
 |the voice kids colombia 6|||||0|<!--  -->
 |the voice th 9|||||0|<!--  -->
 ||||||0|<!--  -->

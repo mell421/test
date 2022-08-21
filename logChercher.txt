@@ -29,11 +29,6 @@ ligne :  107 ZZ/Thevoiceph_1.txt
 mot   :  2146 ZZ/Thevoiceph_1.txt
 carac :  13118 ZZ/Thevoiceph_1.txt
 
-i = The voice peru _5
-ligne :  43 ZZ/Thevoiceperu_5.txt
-mot   :  1553 ZZ/Thevoiceperu_5.txt
-carac :  9804 ZZ/Thevoiceperu_5.txt
-
 i = Dont forget the lyrics _1
 ligne :  65 ZZ/Dontforgetthelyrics_1.txt
 mot   :  1826 ZZ/Dontforgetthelyrics_1.txt
