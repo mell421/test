@@ -79,6 +79,10 @@
 |rpdr 14||16|||<!--  -->
 |drag race esp 2||11|||<!--  -->
 |Drag tots 2||1|||<!--  -->
+|Rpdr out of the closet 4||6|||<!--  -->
+|drag race fr 1||8|||<!--  -->
+|karaoke club drag edition 1||6|||<!-- 11/8 -->
+|vanjie 24 hours of love 1||8|||<!-- 26/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -106,17 +110,16 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-||||||0|<!--  -->
-||||||0|<!--  -->
-||||||0|<!--  -->
+|rpscdr 2|||||0|<!--  -->
+|rpdrdu 2|||||0|<!--  -->
+|rpdras 8||12|||0|<!--  -->
 |drag race th 3|||||0|<!--  -->
-|drag race fr 1|||||0|<!--  -->
 |drag latina 1|||||0|<!--  -->
 |drag race ph 1||||||<!--  -->
 |drag den ph 1||||||<!--  -->
 |call me mother 1||||||<!--  -->
 |house of drags 1||||||<!--  -->
-|||||||<!--  -->
+|god shave the queens 2||12||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

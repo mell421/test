@@ -1,0 +1,11 @@
+aEff/aeff.md:22/06/22 - 240* Bulgasal _1{0} The voice arg _4{28} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} Love mechanics _1{1} 
+aEff/aeff.md:23/06/22 - 162* The voice arg _4{30} Unforgotten night _1{0} Bulgasal _1{0} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} 
+aEff/aeff.md:24/06/22 - 180* Dont forget the lyrics _1{10} The voice arg _4{32} Dancing with myself _1{1} Unforgotten night _1{0} Bulgasal _1{1} The voice dominicana _2{0} Camping paradis _13{0} 
+aEff/aeff.md:25/06/22 - 190* Bulgasal _1{2} The voice arg _4{34} Dont forget the lyrics _1{11} Dancing with myself _1{1} Unforgotten night _1{0} The voice dominicana _2{0} Camping paradis _13{0} 
+aEff/aeff.md:28/06/22 - 191* Camping paradis _13{1} The voice dominicana _2{4} The voice arg _4{41} Rpdrasu _7{3} Rpdras _7{3} 
+aEff/aeff.md:29/06/22 - 168* Close friend _2{4} Ohmnanon upvel _1{15} Dont forget the lyrics _1{13} The voice arg _4{43} Camping paradis _13{1} The voice dominicana _2{5} Rpdrasu _7{3} Rpdras _7{3} 
+apercu/apercu22.md:- mois 01-07-2022 -> Beat shazam _5x6(3) The challenge _4x3(2) Unforgotten night _1x3(2) Rose in da house _1x2(1) The voice arg _4x19(20) Close friend _2x4(2) Ohmnanon upvel _1x10(4) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) The voice dominicana _2x4(3) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+apercu/apercu22.md:- sem 04-07-2022 -> The voice arg _4x21(6) Beat shazam _5x6(1) The challenge _4x3(2) Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Ohmnanon upvel _1x10(1) Dont forget the lyrics _1x7(1) Camping paradis _13x3(1) The voice dominicana _2x4(1) 
+apercu/apercu22.md:- sem 27-06-2022 -> Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) The voice arg _4x16(6) Dont forget the lyrics _1x6(1) Dancing with myself _1x3(1) Unforgotten night _1x2(1) The voice dominicana _2x3(2) Camping paradis _13x2(1) 
+apercuTer/apercuTer.md:* Camping paradis _13
+index.html:          <td>camping paradis _13<br>

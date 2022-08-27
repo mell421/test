@@ -1,0 +1,26 @@
+M	00cherche.sh
+M	github.sh
+M	js/lastCommit.js
+M	logChercher.txt
+M	logChercherRes.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 270d2b40] update data
+ 21 files changed, 496 insertions(+), 137 deletions(-)
+ create mode 100644 ZZ/dragraceph_1.txt
+ create mode 100644 ZZ/juadjuad_1.txt
+ create mode 100644 ZZ/lestraitres_1.txt
+ create mode 100644 ZZ/loveintheair_1.txt
+ create mode 100644 ZZ/magicofzero_1.txt
+ create mode 100644 ZZ/mastercheffr_6.txt
+ create mode 100644 ZZ/qdals_1.txt
+ create mode 100644 ZZ/rpscdr_2.txt
+ create mode 100644 ZZ/theamskedsingerjap_2.txt
+ create mode 100644 ZZ/theeclipse_1.txt
+ create mode 100644 ZZ/themaskedsingerau_4.txt
+ create mode 100644 ZZ/themaskedsingerfr_4.txt
+ create mode 100644 ZZ/thevoiceger_12.txt
+ create mode 100644 ZZ/thevoicekidscolombia_6.txt
+ create mode 100644 ZZ/thevoicekidsfr_8.txt
+ create mode 100644 ZZ/thevoiceseniorperu_2.txt
+update data

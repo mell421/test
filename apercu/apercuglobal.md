@@ -120,21 +120,21 @@
 - sem 23-08-2021 From dusk till dawn _2x5(1) 
 - sem 30-08-2021 Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(1) 
 - sem 06-09-2021 Vwars _1x8(1) Qforce _1x2(1) 7project _1x2(1) 
-- sem 13-09-2021 Buffy _1x8(2) Earthmix space _1x2(1) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) 
+- sem 13-09-2021 Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) 
 - sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) 7project _1x4(1) 
-- sem 27-09-2021 Goblin _1x2(1) Earthmix space _1x3(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
+- sem 27-09-2021 Goblin _1x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 - sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
-- sem 11-10-2021 /9-1-1 _5x4(1) Earthmix space _1x4(1) Love area _1x3(2) Young sheldon _5x2(1) 
+- sem 11-10-2021 /9-1-1 _5x4(1) Love area _1x3(2) Young sheldon _5x2(1) 
 - sem 18-10-2021 Aoki vuanpaia no nayami _1x3(2) 
-- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Earthmix space _1x5(1) Insiders _1x2(1) Age of the living dead _1x2(1) 
+- sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) 
 - sem 01-11-2021 -> Tbbt _11x4(2) 
-- sem 08-11-2021 -> Banana fish _1x3(2) Earthmix space _1x6(1) 
+- sem 08-11-2021 -> Banana fish _1x3(2) 
 - sem 22-11-2021 -> Les engages _3x2(1) The case study of vanitas _1x3(2) 
-- sem 29-11-2021 -> Earthmix space _1x7(1) Baker boys _1x3(2) 
+- sem 29-11-2021 -> Baker boys _1x3(2) 
 - sem 06-12-2021 -> District z _2x2(1) Baker boys _1x4(1) 
-- sem 13-12-2021 -> 5515 never too late _1x4(3) Earthmix space _1x8(1) 
-- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Earthmix space _1x9(1) Aggretsuko _4x2(1) 
-- sem 27-12-2021 -> The player _1x3(2) F4 thailand _1x3(1) Earthmix space _1x10(1)
+- sem 13-12-2021 -> 5515 never too late _1x4(3) 
+- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Aggretsuko _4x2(1) 
+- sem 27-12-2021 -> The player _1x3(2) F4 thailand _1x3(1) 
 - sem 03-01-2022 -> Young sheldon _5x6(2) 5515 never too late _1x5(1) 
 - sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) 
 
@@ -179,9 +179,9 @@
 - mois 01-07-2021 Siew sum noi _1x2(1) Elite _4x4(3) Dark blue kiss _1x3(1) Vincenzo _1x3(2) 
 - mois 01-08-2021 /46 days _1x7(6) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 - mois 01-09-2021 7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
-- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) Earthmix space _1x3(2) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Earthmix space _1x5(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
-- mois 01-12-2021 -> Earthmix space _1x7(2) Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
+- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
+- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+- mois 01-12-2021 -> Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
 
 
@@ -280,15 +280,10 @@
 * conclu 11/12/21 = 5515 never too late _1 > 1; 
 * conclu 13/12/21 = 5515 never too late _1 > 3; 
 * conclu 14/12/21 = 5515 never too late _1 > 1; 
-* conclu 18/12/21 = Earthmix space _1 > 2; 
-* conclu 19/12/21 = Earthmix space _1 > 2; District z _2 > 1; 
+* conclu 19/12/21 = District z _2 > 1; 
 * conclu 22/12/21 = The player _1 > 1; 
 * conclu 27/12/21 = The player _1 > 1; 
-* conclu 01/01/22 = Earthmix space _1 > 1; 
-* conclu 02/01/22 = Earthmix space _1 > 1; 
 * conclu 14/01/22 = Forever knight _1 > 1; 
-* conclu 15/01/22 = Earthmix space _1 > 4; 
-* conclu 16/01/22 = Earthmix space _1 > 2; 
 
 
 
@@ -474,32 +469,32 @@
 * concluBis 14/12/21 = 5515 never too late _1 > 3; 
 * concluBis 15/12/21 = 5515 never too late _1 > 2; 
 * concluBis 17/12/21 = Aggretsuko _4 > 2; 
-* concluBis 18/12/21 = Earthmix space _1 > 4; 
-* concluBis 19/12/21 = Earthmix space _1 > 4; District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
-* concluBis 20/12/21 = Earthmix space _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 21/12/21 = Earthmix space _1 > 1; Forever knight _1 > 1; 
-* concluBis 22/12/21 = The player _1 > 3; Earthmix space _1 > 2; Forever knight _1 > 1; 
-* concluBis 23/12/21 = Earthmix space _1 > 2; The player _1 > 2; Forever knight _1 > 1; 
-* concluBis 24/12/21 = Earthmix space _1 > 2; Forever knight _1 > 1; 
-* concluBis 25/12/21 = Earthmix space _1 > 3; Forever knight _1 > 1; 
-* concluBis 26/12/21 = Earthmix space _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
-* concluBis 27/12/21 = The player _1 > 3; Earthmix space _1 > 2; Forever knight _1 > 1; 
-* concluBis 28/12/21 = The player _1 > 2; Earthmix space _1 > 1; Forever knight _1 > 1; 
+* concluBis 18/12/21 = 
+* concluBis 19/12/21 = District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
+* concluBis 20/12/21 = Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 21/12/21 = Forever knight _1 > 1; 
+* concluBis 22/12/21 = The player _1 > 3; Forever knight _1 > 1; 
+* concluBis 23/12/21 = The player _1 > 2; Forever knight _1 > 1; 
+* concluBis 24/12/21 = Forever knight _1 > 1; 
+* concluBis 25/12/21 = Forever knight _1 > 1; 
+* concluBis 26/12/21 = F4 thailand _1 > 1; Forever knight _1 > 1; 
+* concluBis 27/12/21 = The player _1 > 3; Forever knight _1 > 1; 
+* concluBis 28/12/21 = The player _1 > 2; Forever knight _1 > 1; 
 * concluBis 29/12/21 = Forever knight _1 > 1; 
-* concluBis 30/12/21 = Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
-* concluBis 31/12/21 = Earthmix space _1 > 1; 5515 never too late _1 > 1; Forever knight _1 > 1; 
-* concluBis 01/01/22 = Earthmix space _1 > 3; 5515 never too late _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 02/01/22 = Earthmix space _1 > 3; Forever knight _1 > 2; 5515 never too late _1 > 1; Imortal _1 > 1; 
-* concluBis 03/01/22 = Young sheldon _5 > 2; Earthmix space _1 > 1; Forever knight _1 > 1; 
-* concluBis 04/01/22 = Earthmix space _1 > 1; Young sheldon _5 > 1; Forever knight _1 > 1; 
-* concluBis 05/01/22 = Earthmix space _1 > 1; Forever knight _1 > 1; 
-* concluBis 06/01/22 = Earthmix space _1 > 1; Young sheldon _5 > 1; Forever knight _1 > 1; 
-* concluBis 07/01/22 = Earthmix space _1 > 2; Forever knight _1 > 1; 
+* concluBis 30/12/21 = 5515 never too late _1 > 1; Forever knight _1 > 1; 
+* concluBis 31/12/21 = 5515 never too late _1 > 1; Forever knight _1 > 1; 
+* concluBis 01/01/22 = 5515 never too late _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 02/01/22 = Forever knight _1 > 2; 5515 never too late _1 > 1; Imortal _1 > 1; 
+* concluBis 03/01/22 = Young sheldon _5 > 2; Forever knight _1 > 1; 
+* concluBis 04/01/22 = Young sheldon _5 > 1; Forever knight _1 > 1; 
+* concluBis 05/01/22 = Forever knight _1 > 1; 
+* concluBis 06/01/22 = Young sheldon _5 > 1; Forever knight _1 > 1; 
+* concluBis 07/01/22 = Forever knight _1 > 1; 
 * concluBis 12/01/22 = Forever knight _1 > 1; 
 * concluBis 13/01/22 = Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 14/01/22 = Forever knight _1 > 3; Imortal _1 > 2; Earthmix space _1 > 1; 
-* concluBis 15/01/22 = Earthmix space _1 > 8; Forever knight _1 > 2; Imortal _1 > 1; 
-* concluBis 16/01/22 = Earthmix space _1 > 6; Forever knight _1 > 1; 
+* concluBis 14/01/22 = Forever knight _1 > 3; Imortal _1 > 2; 
+* concluBis 15/01/22 = Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 16/01/22 = Forever knight _1 > 1; 
 
 
 
