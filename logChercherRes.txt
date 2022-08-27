@@ -1,6 +1,7 @@
 cat sep nb fichier
 
 carac : 
+carac :  0 ZZ/Theamskedsingerjap_2.txt
 carac :  1017 ZZ/Aggretsuko_4.txt
 carac :  1049 ZZ/Aliceinborderland_1.txt
 carac :  11070 ZZ//9-1-1_5.txt
@@ -8,6 +9,7 @@ carac :  11105 ZZ/Bulgasal_1.txt
 carac :  11384 ZZ/Vincenzo_1.txt
 carac :  1142 ZZ/Goblin_1.txt
 carac :  1142 ZZ/Thebigleap_1.txt
+carac :  1153 ZZ/Juadjuad_1.txt
 carac :  11568 ZZ/Triviaquest_1.txt
 carac :  11721 ZZ/Thecircleus_4.txt
 carac :  1191 ZZ/Theyearbook_1.txt
@@ -27,6 +29,7 @@ carac :  1419 ZZ/Tienbromance_1.txt
 carac :  1420 ZZ/Lovearea_1.txt
 carac :  1420 ZZ/Wanttoseeyou_1.txt
 carac :  1424 ZZ/Survivor_31.txt
+carac :  14895 ZZ/Themaskedsingerau_4.txt
 carac :  1497 ZZ/Slamdance_1.txt
 carac :  15307 ZZ/Cupidslastwish_1.txt
 carac :  1554 ZZ/Secondchanceseries_1.txt
@@ -35,13 +38,19 @@ carac :  16397 ZZ/Minatoslaundromat_1.txt
 carac :  1725 ZZ/Mamagogo_1.txt
 carac :  17491 ZZ/Twopintsoflager_3.txt
 carac :  1763 ZZ/Bakerboys_1.txt
+carac :  1763 ZZ/Magicofzero_1.txt
 carac :  18048 ZZ/Thechallenge_4.txt
+carac :  18169 ZZ/Thevoicekidscolombia_6.txt
+carac :  1818 ZZ/Dragraceph_1.txt
 carac :  1840 ZZ/Bt21vlog_1.txt
 carac :  1856 ZZ/Lovestage2022_1.txt
 carac :  1918 ZZ/Buffy_1.txt
 carac :  19225 ZZ/Bigbrotherus_23.txt
 carac :  1943 ZZ/Darkbluekiss_1.txt
+carac :  1945 ZZ/Loveintheair_1.txt
 carac :  19524 ZZ/46days_1.txt
+carac :  1960 ZZ/Thevoiceseniorperu_2.txt
+carac :  1995 ZZ/Rpscdr_2.txt
 carac :  2003 ZZ/Mysweetdear_1.txt
 carac :  2152 ZZ/Theamazingrace_32.txt
 carac :  2169 ZZ/Benxjim_1.txt
@@ -56,14 +65,17 @@ carac :  23797 ZZ/Dontforgetthelyrics_1.txt
 carac :  23834 ZZ/F4thailand_1.txt
 carac :  24067 ZZ/Survivorsa_9.txt
 carac :  2419 ZZ/Godshavethequeens_2.txt
+carac :  2431 ZZ/Thevoicekidsfr_8.txt
 carac :  2432 ZZ/Postmortem_1.txt
 carac :  2448 ZZ/Zombiedetective_1.txt
 carac :  2460 ZZ/Dancingwithmyself_1.txt
+carac :  2492 ZZ/Theeclipse_1.txt
 carac :  25216 ZZ/Thevoicedominicana_2.txt
 carac :  2556 ZZ/Biteme_1.txt
 carac :  2582 ZZ/Skyinyourheart_1.txt
 carac :  2605 ZZ/Controlz_2.txt
 carac :  2666 ZZ/Lucifer_4.txt
+carac :  2671 ZZ/Lestraitres_1.txt
 carac :  27045 ZZ/Beatshazam_2.txt
 carac :  27513 ZZ/Bigbrotherus_24.txt
 carac :  2754 ZZ/Glowup_2.txt
@@ -74,6 +86,7 @@ carac :  2877 ZZ/Loveatnight_1.txt
 carac :  2899 ZZ/Aokivuanpaianonayami_1.txt
 carac :  2949 ZZ/Somethinginmyroom_1.txt
 carac :  29768 ZZ/Thevoiceth_9.txt
+carac :  304 ZZ/Qdals_1.txt
 carac :  3321 ZZ/Unlocked_1.txt
 carac :  3338 ZZ/Closefriend_2.txt
 carac :  3339 ZZ/Younevereatalone_1.txt
@@ -82,6 +95,7 @@ carac :  3500 ZZ/7project_1.txt
 carac :  3547 ZZ/Gameoftalentsfr_2.txt
 carac :  3547 ZZ/Meetmyangel_2.txt
 carac :  3594 ZZ/Theshipper_1.txt
+carac :  3827 ZZ/Thevoiceger_12.txt
 carac :  3836 ZZ/Thevoiceukr_12.txt
 carac :  4085 ZZ/Rpdrasu_7.txt
 carac :  4238 ZZ/Rpdras_7.txt
@@ -91,6 +105,7 @@ carac :  4490 ZZ/Rpdrdu_2.txt
 carac :  468 ZZ/Callmemother_1.txt
 carac :  5058 ZZ/Ahss_2.txt
 carac :  520 ZZ/Thetuxedo_1.txt
+carac :  5532 ZZ/Themaskedsingerfr_4.txt
 carac :  55441 ZZ/Thevoicearg_4.txt
 carac :  5554 ZZ/Blueming_1.txt
 carac :  5761 ZZ/Elite_4.txt
@@ -113,6 +128,7 @@ carac :  8556 ZZ/Thechallengeusa_1.txt
 carac :  8729 ZZ/Tokyoghoul_3.txt
 carac :  901 ZZ/Colorrush_2.txt
 carac :  912 ZZ/Lesengages_3.txt
+carac :  968 ZZ/Mastercheffr_6.txt
 carac :  9959 ZZ/Theharvestseason_1.txt
 i = /9-1-1 _5
 i = /9-1-1 lone star _3
@@ -156,6 +172,7 @@ i = District z _2
 i = Dont forget the lyrics _1
 i = Drag i love you _1
 i = Drag race ca _3
+i = Drag race ph _1
 i = Druck _8
 i = Elite _4
 i = F4 thailand _1
@@ -167,14 +184,19 @@ i = God shave the queens _2
 i = Grimm _1
 i = His man _1
 i = Insiders _1
+i = Juad juad _1
 i = Koishite akuma _1
 i = Les engages _3
+i = Les traitres _1
 i = Love area _1
 i = Love at night _1
+i = Love in the air _1
 i = Love mechanics _1
 i = Love stage 2022 _1
 i = Lucifer _4
+i = Magic of zero _1
 i = Mama gogo _1
+i = Masterchef fr _6
 i = Meet my angel _2
 i = Minatos laundromat _1
 i = Mr lipstick _1
@@ -182,12 +204,14 @@ i = My sweet dear _1
 i = My vampire boyfriend _1
 i = Ohmnanon upvel _1
 i = Post mortem _1
+i = Qdals _1
 i = Qforce _1
 i = Quaranthings _2
 i = Rose in da house _1
 i = Rpdras _7
 i = Rpdrasu _7
 i = Rpdrdu _2
+i = Rpscdr _2
 i = Second chance series _1
 i = Siew sum noi _1
 i = Sky in your heart _1
@@ -197,12 +221,16 @@ i = Survivor _31
 i = Survivor sa _9
 i = Tbbt _11
 i = The amazing race _32
+i = The amsked singer jap _2
 i = The big leap _1
 i = The case study of vanitas _1
 i = The challenge _4
 i = The challenge usa _1
 i = The circle us _4
+i = The eclipse _1
 i = The harvest season _1
+i = The masked singer au _4
+i = The masked singer fr _4
 i = The masked singer nz _2
 i = The player _1
 i = The shipper _1
@@ -210,9 +238,13 @@ i = The tuxedo _1
 i = The untamed _1
 i = The voice arg _4
 i = The voice dominicana _2
+i = The voice ger _12
+i = The voice kids colombia _6
+i = The voice kids fr _8
 i = The voice kids indonesia _4
 i = The voice nl _12
 i = The voice ph _1
+i = The voice senior peru _2
 i = The voice th _9
 i = The voice ukr _12
 i = The yearbook _1
@@ -232,6 +264,8 @@ i = Young royals _1
 i = Young sheldon _5
 i = Zombie detective _1
 ligne : 
+ligne :  0 ZZ/Theamskedsingerjap_2.txt
+ligne :  1 ZZ/Qdals_1.txt
 ligne :  10 ZZ/Lesengages_3.txt
 ligne :  10 ZZ/Siewsumnoi_1.txt
 ligne :  100 ZZ/Theharvestseason_1.txt
@@ -248,6 +282,7 @@ ligne :  12 ZZ/Dancingwithmyself_1.txt
 ligne :  12 ZZ/Gameoftalentsfr_2.txt
 ligne :  12 ZZ/Qforce_1.txt
 ligne :  12 ZZ/Slamdance_1.txt
+ligne :  12 ZZ/Thevoiceger_12.txt
 ligne :  122 ZZ/Beatshazam_2.txt
 ligne :  128 ZZ/Vincenzo_1.txt
 ligne :  13 ZZ/Rpdrdu_2.txt
@@ -258,6 +293,7 @@ ligne :  134 ZZ/Ohmnanonupvel_1.txt
 ligne :  14 ZZ/Dragiloveyou_1.txt
 ligne :  14 ZZ/Lovearea_1.txt
 ligne :  14 ZZ/Loveatnight_1.txt
+ligne :  15 ZZ/Themaskedsingerfr_4.txt
 ligne :  16 ZZ/Mysweetdear_1.txt
 ligne :  16 ZZ/Youngroyals_1.txt
 ligne :  161 ZZ/5515nevertoolate_1.txt
@@ -294,6 +330,8 @@ ligne :  26 ZZ/Meetmyangel_2.txt
 ligne :  26 ZZ/Unlocked_1.txt
 ligne :  28 ZZ/Aokivuanpaianonayami_1.txt
 ligne :  29 ZZ/Bt21vlog_1.txt
+ligne :  3 ZZ/Juadjuad_1.txt
+ligne :  3 ZZ/Mastercheffr_6.txt
 ligne :  30 ZZ/Unforgottennight_1.txt
 ligne :  32 ZZ/Theplayer_1.txt
 ligne :  32 ZZ/Theshipper_1.txt
@@ -303,18 +341,23 @@ ligne :  33 ZZ/Thechallengeusa_1.txt
 ligne :  33 ZZ/Thevoiceukr_12.txt
 ligne :  33 ZZ/Younevereatalone_1.txt
 ligne :  36 ZZ/7project_1.txt
+ligne :  4 ZZ/Dragraceph_1.txt
 ligne :  42 ZZ//9-1-1lonestar_3.txt
 ligne :  43 ZZ/Hisman_1.txt
 ligne :  46 ZZ/Tokyoghoul_3.txt
 ligne :  5 ZZ/Colorrush_2.txt
+ligne :  5 ZZ/Magicofzero_1.txt
 ligne :  5 ZZ/Quaranthings_2.txt
 ligne :  5 ZZ/Survivor_31.txt
 ligne :  51 ZZ/Bulgasal_1.txt
+ligne :  51 ZZ/Themaskedsingerau_4.txt
 ligne :  6 ZZ/Callmemother_1.txt
 ligne :  6 ZZ/Cherryblossomsafterwinter_1.txt
 ligne :  6 ZZ/Clikclakclok_1.txt
 ligne :  6 ZZ/Grimm_1.txt
+ligne :  6 ZZ/Loveintheair_1.txt
 ligne :  6 ZZ/Roseindahouse_1.txt
+ligne :  6 ZZ/Rpscdr_2.txt
 ligne :  60 ZZ/Minatoslaundromat_1.txt
 ligne :  61 ZZ/Koishiteakuma_1.txt
 ligne :  62 ZZ/Vwars_1.txt
@@ -323,8 +366,12 @@ ligne :  67 ZZ/Elite_4.txt
 ligne :  68 ZZ/Thechallenge_4.txt
 ligne :  7 ZZ/Secondchanceseries_1.txt
 ligne :  7 ZZ/Theamazingrace_32.txt
+ligne :  7 ZZ/Theeclipse_1.txt
+ligne :  7 ZZ/Thevoicekidsfr_8.txt
 ligne :  7 ZZ/Thevoicekidsindonesia_4.txt
+ligne :  7 ZZ/Thevoiceseniorperu_2.txt
 ligne :  72 ZZ/Youngsheldon_5.txt
+ligne :  76 ZZ/Thevoicekidscolombia_6.txt
 ligne :  77 ZZ//9-1-1_5.txt
 ligne :  8 ZZ/Aliceinborderland_1.txt
 ligne :  8 ZZ/Bananafish_1.txt
@@ -337,6 +384,7 @@ ligne :  80 ZZ/Twopintsoflager_3.txt
 ligne :  83 ZZ/Thecircleus_4.txt
 ligne :  87 ZZ/Bigbrotherus_23.txt
 ligne :  9 ZZ/Insiders_1.txt
+ligne :  9 ZZ/Lestraitres_1.txt
 ligne :  9 ZZ/Mamagogo_1.txt
 ligne :  9 ZZ/Thebigleap_1.txt
 ligne :  9 ZZ/Wanttoseeyou_1.txt
@@ -346,6 +394,7 @@ ligne :  96 ZZ/Tbbt_11.txt
 ligne :  97 ZZ/Beatshazam_5.txt
 ligne :  97 ZZ/Triviaquest_1.txt
 mot   : 
+mot   :  0 ZZ/Theamskedsingerjap_2.txt
 mot   :  100 ZZ/Cherryblossomsafterwinter_1.txt
 mot   :  103 ZZ/Clikclakclok_1.txt
 mot   :  1080 ZZ/Belove_1.txt
@@ -365,12 +414,14 @@ mot   :  144 ZZ/Colorrush_2.txt
 mot   :  148 ZZ/Thebigleap_1.txt
 mot   :  153 ZZ/Qforce_1.txt
 mot   :  1554 ZZ/Vincenzo_1.txt
+mot   :  161 ZZ/Mastercheffr_6.txt
 mot   :  162 ZZ/Mrlipstick_1.txt
 mot   :  163 ZZ/Theyearbook_1.txt
 mot   :  1647 ZZ//9-1-1_5.txt
 mot   :  1694 ZZ/Bulgasal_1.txt
 mot   :  171 ZZ/Bangkoklovestoriesinnocence_1.txt
 mot   :  1740 ZZ/Triviaquest_1.txt
+mot   :  177 ZZ/Juadjuad_1.txt
 mot   :  179 ZZ/Insiders_1.txt
 mot   :  180 ZZ/Lovemechanics_1.txt
 mot   :  1806 ZZ/Thecircleus_4.txt
@@ -392,24 +443,31 @@ mot   :  2334 ZZ/Cupidslastwish_1.txt
 mot   :  244 ZZ/Bt21vlog_1.txt
 mot   :  245 ZZ/Grimm_1.txt
 mot   :  254 ZZ/Mamagogo_1.txt
+mot   :  2568 ZZ/Themaskedsingerau_4.txt
 mot   :  2582 ZZ/Minatoslaundromat_1.txt
 mot   :  259 ZZ/Buffy_1.txt
 mot   :  2661 ZZ/Twopintsoflager_3.txt
 mot   :  267 ZZ/Darkbluekiss_1.txt
 mot   :  2798 ZZ/Thechallenge_4.txt
+mot   :  296 ZZ/Magicofzero_1.txt
 mot   :  296 ZZ/Mysweetdear_1.txt
 mot   :  300 ZZ/Lovestage2022_1.txt
 mot   :  301 ZZ/Benxjim_1.txt
 mot   :  3039 ZZ/46days_1.txt
 mot   :  3088 ZZ/Bigbrotherus_23.txt
+mot   :  3116 ZZ/Thevoicekidscolombia_6.txt
 mot   :  3121 ZZ/Myvampireboyfriend_1.txt
 mot   :  313 ZZ/Districtz_2.txt
 mot   :  314 ZZ/Campingparadis_13.txt
+mot   :  320 ZZ/Dragraceph_1.txt
+mot   :  320 ZZ/Loveintheair_1.txt
 mot   :  322 ZZ/Postmortem_1.txt
 mot   :  325 ZZ/Zombiedetective_1.txt
+mot   :  331 ZZ/Rpscdr_2.txt
 mot   :  334 ZZ/Theamazingrace_32.txt
 mot   :  345 ZZ/Lucifer_4.txt
 mot   :  355 ZZ/Biteme_1.txt
+mot   :  355 ZZ/Thevoiceseniorperu_2.txt
 mot   :  357 ZZ/Thevoicenl_12.txt
 mot   :  358 ZZ/Dancingwithmyself_1.txt
 mot   :  3592 ZZ/Beatshazam_5.txt
@@ -421,15 +479,18 @@ mot   :  386 ZZ/Godshavethequeens_2.txt
 mot   :  3953 ZZ/Thevoicedominicana_2.txt
 mot   :  398 ZZ/Skyinyourheart_1.txt
 mot   :  3994 ZZ/Survivorsa_9.txt
+mot   :  400 ZZ/Theeclipse_1.txt
 mot   :  407 ZZ/Aokivuanpaianonayami_1.txt
 mot   :  409 ZZ/Theplayer_1.txt
 mot   :  412 ZZ/Controlz_2.txt
 mot   :  4156 ZZ/Beatshazam_2.txt
 mot   :  416 ZZ/Glowup_2.txt
+mot   :  418 ZZ/Thevoicekidsfr_8.txt
 mot   :  4227 ZZ/Ohmnanonupvel_1.txt
 mot   :  423 ZZ/Dragiloveyou_1.txt
 mot   :  431 ZZ/Unlocked_1.txt
 mot   :  442 ZZ/7project_1.txt
+mot   :  455 ZZ/Lestraitres_1.txt
 mot   :  456 ZZ/Younevereatalone_1.txt
 mot   :  4598 ZZ/Bigbrotherus_24.txt
 mot   :  478 ZZ/Theshipper_1.txt
@@ -438,6 +499,7 @@ mot   :  489 ZZ/Loveatnight_1.txt
 mot   :  4998 ZZ/Thevoiceth_9.txt
 mot   :  512 ZZ/Wabishow_1.txt
 mot   :  515 ZZ/Closefriend_2.txt
+mot   :  52 ZZ/Qdals_1.txt
 mot   :  567 ZZ/Koishiteakuma_1.txt
 mot   :  578 ZZ/Gameoftalentsfr_2.txt
 mot   :  604 ZZ/Meetmyangel_2.txt
@@ -446,6 +508,7 @@ mot   :  625 ZZ/Rpdrasu_7.txt
 mot   :  63 ZZ/Callmemother_1.txt
 mot   :  645 ZZ/Rpdras_7.txt
 mot   :  668 ZZ/Agt_17.txt
+mot   :  678 ZZ/Thevoiceger_12.txt
 mot   :  717 ZZ/Rpdrdu_2.txt
 mot   :  72 ZZ/Thetuxedo_1.txt
 mot   :  785 ZZ/Ahss_2.txt
@@ -454,6 +517,7 @@ mot   :  851 ZZ/Blueming_1.txt
 mot   :  87 ZZ/Bananafish_1.txt
 mot   :  8996 ZZ/Thevoicearg_4.txt
 mot   :  927 ZZ//9-1-1lonestar_3.txt
+mot   :  932 ZZ/Themaskedsingerfr_4.txt
 mot   :  947 ZZ/Vwars_1.txt
 mot   :  965 ZZ/Unforgottennight_1.txt
 mot   :  97 ZZ/Bullshitthegameshow_1.txt
