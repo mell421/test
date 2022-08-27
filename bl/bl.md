@@ -250,6 +250,7 @@
 |In relationship _1|In relationship|20|serie|thailande|<!-- 24/7 -->
 |earthmix space _1|earthmix space|21|show|thailande| <!-- 29/7 -->
 |even sun _1|even sun|6|serie|thailande|<!-- 3/8 -->
+|fiertes _1|fiertés|3|serie|france|<!-- 25/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

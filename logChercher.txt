@@ -359,11 +359,6 @@ ligne :  5 ZZ/Hisman_1.txt
 mot   :  201 ZZ/Hisman_1.txt
 carac :  1166 ZZ/Hisman_1.txt
 
-i = Vanjie 24 hours of love _1
-ligne : 
-mot   : 
-carac : 
-
 i = Grimm _1
 ligne :  4 ZZ/Grimm_1.txt
 mot   :  128 ZZ/Grimm_1.txt

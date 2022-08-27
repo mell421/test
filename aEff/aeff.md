@@ -969,9 +969,9 @@
 14/07/22 - 279* Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{0} The voice arg _4{76} Big brother us _23{3} The voice dominicana _2{8} 
 15/07/22 - 266* Big brother us _23{5} The voice arg _4{78} Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{1} 
 16/07/22 - 310* The challenge _4{7} The voice arg _4{80} Big brother us _24{1} Drag race ca _3{0} Big brother us _23{7} 
-17/07/22 - 273* Vanjie 24 hours of love _1{0} Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Vice versa series _1{0} The challenge _4{7} The voice arg _4{82} Big brother us _24{1} 
-18/07/22 - 173* The voice th _9{0} Vanjie 24 hours of love _1{0} Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Vice versa series _1{0} The challenge _4{7} The voice arg _4{84} 
-19/07/22 - 197* Survivor sa _9{0} The voice arg _4{87} The voice dominicana _2{9} Big brother us _23{14} Big brother us _24{2} The voice th _9{1} Vanjie 24 hours of love _1{1} Game of talents fr _2{1} Grimm _1{1} 
+17/07/22 - 273* Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Vice versa series _1{0} The challenge _4{7} The voice arg _4{82} Big brother us _24{1} 
+18/07/22 - 173* The voice th _9{0} Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Vice versa series _1{0} The challenge _4{7} The voice arg _4{84} 
+19/07/22 - 197* Survivor sa _9{0} The voice arg _4{87} The voice dominicana _2{9} Big brother us _23{14} Big brother us _24{2} The voice th _9{1} Game of talents fr _2{1} Grimm _1{1} 
 20/07/22 - 353* Big brother us _23{15} Tokyo ghoul _3{8} Survivor sa _9{0} The voice arg _4{89} The voice dominicana _2{9} Big brother us _24{3} The voice th _9{1} 
 21/07/22 - 314* Unforgotten night _1{5} The voice arg _4{91} Big brother us _23{16} Tokyo ghoul _3{8} Survivor sa _9{0} The voice dominicana _2{9} Big brother us _24{3} 
 22/07/22 - 301* Survivor sa _9{0} The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} The voice arg _4{93} Unforgotten night _1{5} Big brother us _23{17} 

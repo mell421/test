@@ -82,6 +82,7 @@
 |Rpdr out of the closet 4||6|||<!--  -->
 |drag race fr 1||8|||<!--  -->
 |karaoke club drag edition 1||6|||<!-- 11/8 -->
+|vanjie 24 hours of love 1||8|||<!-- 26/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

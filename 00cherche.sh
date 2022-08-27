@@ -34,7 +34,7 @@ list99=(
 "Mama gogo _1" "Game of talents fr _2" "The voice kids indonesia _4" "Love mechanics _1" 
 "Bullshit the game show _1" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
 # 5-4
-"Ahss _2" "Second chance series _1" "Rose in da house _1" "The masked singer nz _2" "His man _1" "Vanjie 24 hours of love _1" "Grimm _1" 
+"Ahss _2" "Second chance series _1" "Rose in da house _1" "The masked singer nz _2" "His man _1" "Grimm _1" 
 "Want to see you _1" "Sky in your heart _1" "Clik clak clok _1" "Call me mother _1" "Cherry blossoms after winter _1" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 
 # 3-2
 "The amazing race _32" "Survivor _31" "Rpdrdu _2" 

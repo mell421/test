@@ -226,7 +226,6 @@ i = Trivia quest _1
 i = Two pints of lager _3
 i = Unforgotten night _1
 i = Unlocked _1
-i = Vanjie 24 hours of love _1
 i = Vice versa series _1
 i = Vincenzo _1
 i = Vwars _1

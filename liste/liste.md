@@ -634,6 +634,8 @@
 |The voice generations portugal _1||2|||<!-- 14/8 -->
 |the voice indonesia 5||10|||<!-- 19/8 -->
 |the voice peru 5||42|||<!-- 20/8 -->
+|fiertes _1||3|serie|france|<!-- 25/8 -->
+|vanjie 24 hours of love 1||8|||<!-- 26/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -846,7 +848,6 @@
 |vice versa||?|serie|thailande|0|<!--  -->
 |survivor 31||15|||0|<!--  -->
 |game of talents fr 2|||||0|<!--  -->
-|vanjie 24 hours of love 1|||||0|<!--  -->
 |the voice th 9|||||0|<!--  -->
 |survivor sa 9|||||0|<!--  -->
 |ahss 2|||||0|<!--  -->
