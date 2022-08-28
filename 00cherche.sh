@@ -11,7 +11,7 @@ list99=(
 # 99-50
 "The voice dominicana _2" "Survivor sa _9" "Big brother us _23" "The voice kids colombia _6" "Beat shazam _5" "Two pints of lager _3" "Minatos laundromat _1" 
 # 49-40
-"The masked singer au _4" "His man _1" "The challenge _4" 
+"His man _1" "The challenge _4" 
 # 39-30
 "The challenge usa _1" "Tokyo ghoul _3" 
 # 29-20

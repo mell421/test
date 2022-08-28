@@ -636,6 +636,7 @@
 |the voice peru 5||42|||<!-- 20/8 -->
 |fiertes _1||3|serie|france|<!-- 25/8 -->
 |vanjie 24 hours of love 1||8|||<!-- 26/8 -->
+|the masked singer au 4||11|||<!-- 7/8 - 28/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -880,7 +881,6 @@
 |first kill 1|||||0|<!--  -->
 |oh my sunshine night 1|||||0|<!--  -->
 |war of y 1|||||0|<!-- 2/8 -->
-|the masked singer au 4|||||0|<!-- 7/8 -->
 |my only 12pc 1|||||0|<!-- 12/8 -->
 |scrpdr 2|||||0|<!-- 13/8 -->
 |drag race ph 1|||||0|<!-- 17/8 -->

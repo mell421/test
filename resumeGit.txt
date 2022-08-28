@@ -23,4 +23,182 @@ Your branch is up to date with 'origin/save'.
  create mode 100644 ZZ/thevoicekidscolombia_6.txt
  create mode 100644 ZZ/thevoicekidsfr_8.txt
  create mode 100644 ZZ/thevoiceseniorperu_2.txt
+ 
 update data
+M	00cherche.sh
+D	ZZ/46days_1.txt
+D	ZZ/bangkoklovestoriesinnocence_1.txt
+D	ZZ/belove_1.txt
+D	ZZ/benxjim_1.txt
+D	ZZ/biteme_1.txt
+D	ZZ/bt21vlog_1.txt
+D	ZZ/controlz_2.txt
+D	ZZ/darkbluekiss_1.txt
+D	ZZ/elite_4.txt
+D	ZZ/fromdusktilldawn_2.txt
+D	ZZ/glowup_2.txt
+D	ZZ/koishiteakuma_1.txt
+D	ZZ/mrlipstick_1.txt
+D	ZZ/myvampireboyfriend_1.txt
+D	ZZ/qforce_1.txt
+D	ZZ/siewsumnoi_1.txt
+D	ZZ/slamdance_1.txt
+D	ZZ/theharvestseason_1.txt
+D	ZZ/theuntamed_1.txt
+D	ZZ/theyearbook_1.txt
+D	ZZ/tienbromance_1.txt
+D	ZZ/vincenzo_1.txt
+D	ZZ/vwars_1.txt
+D	ZZ/wabishow_1.txt
+D	ZZ/younevereatalone_1.txt
+D	ZZ/youngroyals_1.txt
+D	ZZ/zombiedetective_1.txt
+M	github.sh
+M	js/lastCommit.js
+M	logChercher.txt
+M	logChercherRes.txt
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 29eb0616] update data
+ 33 files changed, 250 insertions(+), 1902 deletions(-)
+ delete mode 100644 ZZ/46days_1.txt
+ delete mode 100644 ZZ/bangkoklovestoriesinnocence_1.txt
+ delete mode 100644 ZZ/belove_1.txt
+ delete mode 100644 ZZ/benxjim_1.txt
+ delete mode 100644 ZZ/biteme_1.txt
+ delete mode 100644 ZZ/bt21vlog_1.txt
+ delete mode 100644 ZZ/controlz_2.txt
+ delete mode 100644 ZZ/darkbluekiss_1.txt
+ delete mode 100644 ZZ/elite_4.txt
+ delete mode 100644 ZZ/fromdusktilldawn_2.txt
+ delete mode 100644 ZZ/glowup_2.txt
+ delete mode 100644 ZZ/koishiteakuma_1.txt
+ delete mode 100644 ZZ/mrlipstick_1.txt
+ delete mode 100644 ZZ/myvampireboyfriend_1.txt
+ delete mode 100644 ZZ/qforce_1.txt
+ delete mode 100644 ZZ/siewsumnoi_1.txt
+ delete mode 100644 ZZ/slamdance_1.txt
+ delete mode 100644 ZZ/theharvestseason_1.txt
+ delete mode 100644 ZZ/theuntamed_1.txt
+ delete mode 100644 ZZ/theyearbook_1.txt
+ delete mode 100644 ZZ/tienbromance_1.txt
+ delete mode 100644 ZZ/vincenzo_1.txt
+ delete mode 100644 ZZ/vwars_1.txt
+ delete mode 100644 ZZ/wabishow_1.txt
+ delete mode 100644 ZZ/younevereatalone_1.txt
+ delete mode 100644 ZZ/youngroyals_1.txt
+ delete mode 100644 ZZ/zombiedetective_1.txt
+ 
+remove tms au _4
+M	00cherche.sh
+D	ZZ/7project_1.txt
+D	ZZ/9-1-1_5.txt
+D	ZZ/9-1-1lonestar_3.txt
+D	ZZ/aggretsuko_4.txt
+M	ZZ/agt_17.txt
+M	ZZ/ahss_2.txt
+D	ZZ/aliceinborderland_1.txt
+D	ZZ/aokivuanpaianonayami_1.txt
+D	ZZ/bakerboys_1.txt
+D	ZZ/bananafish_1.txt
+D	ZZ/beatshazam_2.txt
+M	ZZ/beatshazam_5.txt
+M	ZZ/bigbrotherus_23.txt
+M	ZZ/bigbrotherus_24.txt
+M	ZZ/blueming_1.txt
+D	ZZ/buffy_1.txt
+D	ZZ/bulgasal_1.txt
+D	ZZ/bullshitthegameshow_1.txt
+D	ZZ/callmemother_1.txt
+D	ZZ/campingparadis_13.txt
+D	ZZ/cherryblossomsafterwinter_1.txt
+D	ZZ/clikclakclok_1.txt
+D	ZZ/colorrush_2.txt
+D	ZZ/cupidslastwish_1.txt
+D	ZZ/dancingwithmyself_1.txt
+D	ZZ/districtz_2.txt
+M	ZZ/dontforgetthelyrics_1.txt
+D	ZZ/dragiloveyou_1.txt
+M	ZZ/dragraceca_3.txt
+M	ZZ/dragraceph_1.txt
+D	ZZ/druck_8.txt
+D	ZZ/goblin_1.txt
+M	ZZ/hisman_1.txt
+D	ZZ/insiders_1.txt
+M	ZZ/juadjuad_1.txt
+D	ZZ/lesengages_3.txt
+M	ZZ/lestraitres_1.txt
+D	ZZ/lovearea_1.txt
+D	ZZ/loveatnight_1.txt
+M	ZZ/loveintheair_1.txt
+D	ZZ/lovemechanics_1.txt
+D	ZZ/lovestage2022_1.txt
+D	ZZ/lucifer_4.txt
+M	ZZ/magicofzero_1.txt
+D	ZZ/mamagogo_1.txt
+M	ZZ/mastercheffr_6.txt
+D	ZZ/meetmyangel_2.txt
+M	ZZ/minatoslaundromat_1.txt
+D	ZZ/mysweetdear_1.txt
+M	ZZ/ohmnanonupvel_1.txt
+D	ZZ/postmortem_1.txt
+M	ZZ/qdals_1.txt
+D	ZZ/quaranthings_2.txt
+M	ZZ/rpdrdu_2.txt
+M	ZZ/rpscdr_2.txt
+M	ZZ/skyinyourheart_1.txt
+D	ZZ/somethinginmyroom_1.txt
+M	ZZ/survivorsa_9.txt
+D	ZZ/tbbt_11.txt
+D	ZZ/thebigleap_1.txt
+M	ZZ/thechallenge_4.txt
+M	ZZ/thechallengeusa_1.txt
+D	ZZ/thecircleus_4.txt
+M	ZZ/theeclipse_1.txt
+D	ZZ/themaskedsingerau_4.txt
+M	ZZ/themaskedsingerfr_4.txt
+M	ZZ/themaskedsingernz_2.txt
+D	ZZ/theplayer_1.txt
+D	ZZ/theshipper_1.txt
+D	ZZ/thetuxedo_1.txt
+M	ZZ/thevoicearg_4.txt
+M	ZZ/thevoicedominicana_2.txt
+M	ZZ/thevoiceger_12.txt
+M	ZZ/thevoicekidscolombia_6.txt
+M	ZZ/thevoicekidsfr_8.txt
+D	ZZ/thevoicekidsindonesia_4.txt
+D	ZZ/thevoicenl_12.txt
+D	ZZ/thevoiceph_1.txt
+M	ZZ/thevoiceseniorperu_2.txt
+M	ZZ/thevoiceth_9.txt
+D	ZZ/thevoiceukr_12.txt
+M	ZZ/tokyoghoul_3.txt
+D	ZZ/triviaquest_1.txt
+M	ZZ/twopintsoflager_3.txt
+M	ZZ/unforgottennight_1.txt
+D	ZZ/unlocked_1.txt
+M	ZZ/viceversaseries_1.txt
+D	ZZ/wanttoseeyou_1.txt
+D	ZZ/youngsheldon_5.txt
+M	aEff/aeff.html
+M	aEff/aeff.md
+M	apercu/apAll.txt
+M	apercu/apercu22.html
+M	apercu/apercu22.md
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	github.sh
+M	js/lastCommit.js
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+ 
+remove tms au _4 bis
