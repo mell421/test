@@ -637,6 +637,7 @@
 |fiertes _1||3|serie|france|<!-- 25/8 -->
 |vanjie 24 hours of love 1||8|||<!-- 26/8 -->
 |the masked singer au 4||11|||<!-- 7/8 - 28/8 -->
+|The masked singer jap 2||9|||<!-- 28/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

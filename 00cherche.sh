@@ -15,7 +15,7 @@ list99=(
 # 39-30
 "The challenge usa _1" "Tokyo ghoul _3" 
 # 29-20
-"The amsked singer jap _2" "Unforgotten night _1" "The voice th _9" "Vice versa series _1" 
+"Unforgotten night _1" "The voice th _9" "Vice versa series _1" 
 # 19-15
 "Drag race ca _3" "The masked singer nz _2" "Blueming _1" "Agt _17" "Ahss _2" "Close friend _2" 
 # 14-10
