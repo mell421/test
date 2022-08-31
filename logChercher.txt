@@ -134,11 +134,6 @@ ligne :  13 ZZ/Rpdrdu_2.txt
 mot   :  677 ZZ/Rpdrdu_2.txt
 carac :  4263 ZZ/Rpdrdu_2.txt
 
-i = Les traitres _1
-ligne :  9 ZZ/Lestraitres_1.txt
-mot   :  391 ZZ/Lestraitres_1.txt
-carac :  2331 ZZ/Lestraitres_1.txt
-
 i = Sky in your heart _1
 ligne :  11 ZZ/Skyinyourheart_1.txt
 mot   :  388 ZZ/Skyinyourheart_1.txt

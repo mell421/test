@@ -86,9 +86,9 @@ aEff/aeff.md:- 29/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivi
 aEff/aeff.md:- 30/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 30/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
 aEff/aeff.md:- 31/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
-aEff/aeff.md:18/08/22 - 312* Les traitres _1{0} His man _1{11} Ahss _2{4} Rpdrdu _2{3} Drag race ph _1{0} The voice arg _4{152} The voice kids colombia _6{22} The voice dominicana _2{14} The voice th _9{6} 
+aEff/aeff.md:18/08/22 - 312* His man _1{11} Ahss _2{4} Rpdrdu _2{3} Drag race ph _1{0} The voice arg _4{152} The voice kids colombia _6{22} The voice dominicana _2{14} The voice th _9{6} 
 apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
-apercu/apercu22.md:- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The voice th _9x7(1) Magic of zero _1x2(1) The voice kids fr _8x2(1) Vice versa series _1x7(1) The voice ger _12x3(2) The voice kids colombia _6x23(3) The eclipse _1x3(1) The voice arg _4x55(7) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) Minatos laundromat _1x9(1) Ahss _2x6(2) Les traitres _1x3(2) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+apercu/apercu22.md:- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The voice th _9x7(1) Magic of zero _1x2(1) The voice kids fr _8x2(1) Vice versa series _1x7(1) The voice ger _12x3(2) The voice kids colombia _6x23(3) The eclipse _1x3(1) The voice arg _4x55(7) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) Minatos laundromat _1x9(1) Ahss _2x6(2) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 apercu/apercu22.md:- sem 31-01-2022 -> The voice ukr _12x3(1) F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
 apercu/apercu22.md:* conclu 01/02/22 = The voice ph _1 > 3; /9-1-1 lone star _3 > 2; 
 apercu/apercu22.md:* conclu 26/01/22 = The voice ph _1 > 2; 

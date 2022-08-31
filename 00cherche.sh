@@ -19,7 +19,7 @@ list99=(
 # 19-15
 "Drag race ca _3" "The masked singer nz _2" "Blueming _1" "Agt _17" "Ahss _2" "Close friend _2" 
 # 14-10
-"Rpdrasu _7" "Rpdras _7" "Rpdrdu _2" "Les traitres _1" "Sky in your heart _1" 
+"Rpdrasu _7" "Rpdras _7" "Rpdrdu _2" "Sky in your heart _1" 
 # 9-8
 "The voice ger _12" "Game of talents fr _2" "The voice senior peru _2" 
 # 7-6

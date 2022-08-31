@@ -317,3 +317,71 @@ Your branch is up to date with 'origin/save'.
  rewrite wordcloud/tmp.html (69%)
  
 remove tms jap _2
+M	.gitignore
+M	00cherche.sh
+M	ZZ/agt_17.txt
+M	ZZ/ahss_2.txt
+M	ZZ/beatshazam_2.txt
+M	ZZ/beatshazam_5.txt
+M	ZZ/bigbrotherus_23.txt
+M	ZZ/bigbrotherus_24.txt
+M	ZZ/blueming_1.txt
+M	ZZ/dontforgetthelyrics_1.txt
+M	ZZ/dragraceca_3.txt
+M	ZZ/dragraceph_1.txt
+M	ZZ/hisman_1.txt
+M	ZZ/juadjuad_1.txt
+M	ZZ/lestraitres_1.txt
+M	ZZ/loveatnight_1.txt
+M	ZZ/loveintheair_1.txt
+M	ZZ/magicofzero_1.txt
+M	ZZ/mastercheffr_6.txt
+M	ZZ/minatoslaundromat_1.txt
+M	ZZ/ohmnanonupvel_1.txt
+M	ZZ/qdals_1.txt
+M	ZZ/rpdrdu_2.txt
+M	ZZ/rpscdr_2.txt
+M	ZZ/skyinyourheart_1.txt
+M	ZZ/survivorsa_9.txt
+D	ZZ/theamskedsingerjap_2.txt
+M	ZZ/thechallenge_4.txt
+M	ZZ/thechallengeusa_1.txt
+M	ZZ/theeclipse_1.txt
+M	ZZ/themaskedsingerfr_4.txt
+M	ZZ/themaskedsingernz_2.txt
+M	ZZ/thevoicearg_4.txt
+M	ZZ/thevoicedominicana_2.txt
+M	ZZ/thevoiceger_12.txt
+M	ZZ/thevoicekidscolombia_6.txt
+M	ZZ/thevoicekidsfr_8.txt
+M	ZZ/thevoiceph_1.txt
+M	ZZ/thevoiceseniorperu_2.txt
+M	ZZ/thevoiceth_9.txt
+M	ZZ/tokyoghoul_3.txt
+M	ZZ/unforgottennight_1.txt
+M	ZZ/viceversaseries_1.txt
+M	aEff/aeff.html
+M	aEff/aeff.md
+M	apercu/apAll.txt
+M	apercu/apercu22.html
+M	apercu/apercu22.md
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	github.sh
+M	js/lastCommit.js
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+M	wordcloud/mygraph.html
+Your branch is up to date with 'origin/save'.
+[save 8bbc1c69] remove tms jap _2
+ 60 files changed, 646 insertions(+), 599 deletions(-)
+ delete mode 100644 ZZ/theamskedsingerjap_2.txt
+ 
+remove Les traitres _1
