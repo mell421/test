@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 100
-"The voice arg _4" "Ohmnanon upvel _1" "Big brother us _24" "Dont forget the lyrics _1" 
+"The voice arg _4" "Big brother us _24" "Dont forget the lyrics _1" 
 # 99-50
 "The voice dominicana _2" "Survivor sa _9" "Big brother us _23" "The voice kids colombia _6" "Beat shazam _5" "Two pints of lager _3" "Minatos laundromat _1" 
 # 49-40

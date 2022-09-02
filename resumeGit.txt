@@ -436,3 +436,38 @@ Your branch is up to date with 'origin/save'.
  delete mode 100644 ZZ/lestraitres_1.txt
  
 remove Qdals _1
+M	00cherche.sh
+M	ZZ/dragraceca_3.txt
+M	ZZ/loveatnight_1.txt
+M	ZZ/loveintheair_1.txt
+D	ZZ/qdals_1.txt
+M	ZZ/survivorsa_9.txt
+M	ZZ/thechallenge_4.txt
+M	ZZ/thechallengeusa_1.txt
+M	ZZ/themaskedsingerfr_4.txt
+M	ZZ/thevoicearg_4.txt
+M	ZZ/thevoiceger_12.txt
+M	ZZ/thevoicekidscolombia_6.txt
+M	ZZ/thevoiceseniorperu_2.txt
+M	ZZ/thevoiceth_9.txt
+M	aEff/aeff.html
+M	aEff/aeff.md
+M	apercu/apAll.txt
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	js/lastCommit.js
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save aeebcd4e] remove Qdals _1
+ 28 files changed, 180 insertions(+), 140 deletions(-)
+ delete mode 100644 ZZ/qdals_1.txt
+ 
+remove Ohmnanon upvel _1

@@ -919,6 +919,7 @@
 * The voice indonesia _5
 ### sem 29-08-2022 
 * *insererici*
+* Ohmnanon upvel _1
 * Qdals _1
 * Les traitres _1
 ### sem 05-09-2022 
@@ -972,7 +973,7 @@
 * 
 * Minatos laundromat _1
 * 
-* Ohmnanon upvel _1
+* 
 * The voice dominicana _2
 * His man _1
 * Rpdrasu _7
@@ -1141,7 +1142,7 @@
 #### mois 01-09-2022 
 *insererici Les traitres _1 The masked singer jap _2 The masked singer au _4 Vanjie 24 hours of love _1 Fiertes _1 The voice peru _5 The voice indonesia _5 The voice generations portugal _1 Karaoke club drag edition _1 Drag race fr _1 Sytycd _17 Pekin express _16 30 days of night dust to dust _1 30 days of night blood trails _1 The voice chile _3 Even sun _1*
 #### mois 01-10-2022 
-*insererici Qdals _1*
+*insererici Ohmnanon upvel _1 Qdals _1*
 #### mois 01-11-2022 
 *insererici*
 
