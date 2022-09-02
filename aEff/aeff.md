@@ -1038,5 +1038,5 @@
 24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice kids colombia _6{35} The voice arg _4{165} The voice senior peru _2{0} The voice dominicana _2{17} The masked singer nz _2{5} The voice th _9{7} Magic of zero _1{1} The voice kids fr _8{1} 
 25/08/22 - 291* The voice kids colombia _6{37} Survivor sa _9{37} The voice senior peru _2{0} The voice arg _4{167} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{18} The masked singer nz _2{5} 
 26/08/22 - 304* Love in the air _1{1} The voice arg _4{169} The voice senior peru _2{0} The challenge usa _1{9} The voice kids colombia _6{39} Survivor sa _9{38} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{19} 
-27/08/22 - 302* The voice kids colombia _6{41} The voice senior peru _2{1} The voice arg _4{171} The voice ger _12{3} Drag race ca _3{5} Qdals _1{0} Love in the air _1{1} The challenge usa _1{9} Survivor sa _9{39} 
+27/08/22 - 302* The voice kids colombia _6{41} The voice senior peru _2{1} The voice arg _4{171} The voice ger _12{3} Drag race ca _3{5} Love in the air _1{1} The challenge usa _1{9} Survivor sa _9{39} 
 

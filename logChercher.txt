@@ -1,8 +1,8 @@
 
 i = The voice arg _4
 ligne :  327 ZZ/Thevoicearg_4.txt
-mot   :  8609 ZZ/Thevoicearg_4.txt
-carac :  53532 ZZ/Thevoicearg_4.txt
+mot   :  8576 ZZ/Thevoicearg_4.txt
+carac :  53343 ZZ/Thevoicearg_4.txt
 
 i = Ohmnanon upvel _1
 ligne :  134 ZZ/Ohmnanonupvel_1.txt
@@ -11,8 +11,8 @@ carac :  27467 ZZ/Ohmnanonupvel_1.txt
 
 i = Big brother us _24
 ligne :  118 ZZ/Bigbrotherus_24.txt
-mot   :  4316 ZZ/Bigbrotherus_24.txt
-carac :  26186 ZZ/Bigbrotherus_24.txt
+mot   :  4297 ZZ/Bigbrotherus_24.txt
+carac :  26085 ZZ/Bigbrotherus_24.txt
 
 i = Dont forget the lyrics _1
 ligne :  109 ZZ/Dontforgetthelyrics_1.txt
@@ -21,13 +21,13 @@ carac :  23488 ZZ/Dontforgetthelyrics_1.txt
 
 i = The voice dominicana _2
 ligne :  94 ZZ/Thevoicedominicana_2.txt
-mot   :  3732 ZZ/Thevoicedominicana_2.txt
-carac :  24055 ZZ/Thevoicedominicana_2.txt
+mot   :  3715 ZZ/Thevoicedominicana_2.txt
+carac :  23956 ZZ/Thevoicedominicana_2.txt
 
 i = Survivor sa _9
 ligne :  96 ZZ/Survivorsa_9.txt
-mot   :  3754 ZZ/Survivorsa_9.txt
-carac :  22918 ZZ/Survivorsa_9.txt
+mot   :  3733 ZZ/Survivorsa_9.txt
+carac :  22807 ZZ/Survivorsa_9.txt
 
 i = Big brother us _23
 ligne :  87 ZZ/Bigbrotherus_23.txt
@@ -36,8 +36,8 @@ carac :  18942 ZZ/Bigbrotherus_23.txt
 
 i = The voice kids colombia _6
 ligne :  76 ZZ/Thevoicekidscolombia_6.txt
-mot   :  2756 ZZ/Thevoicekidscolombia_6.txt
-carac :  16400 ZZ/Thevoicekidscolombia_6.txt
+mot   :  2723 ZZ/Thevoicekidscolombia_6.txt
+carac :  16211 ZZ/Thevoicekidscolombia_6.txt
 
 i = Beat shazam _5
 ligne :  97 ZZ/Beatshazam_5.txt
@@ -51,23 +51,23 @@ carac :  17408 ZZ/Twopintsoflager_3.txt
 
 i = Minatos laundromat _1
 ligne :  60 ZZ/Minatoslaundromat_1.txt
-mot   :  2457 ZZ/Minatoslaundromat_1.txt
-carac :  15740 ZZ/Minatoslaundromat_1.txt
+mot   :  2448 ZZ/Minatoslaundromat_1.txt
+carac :  15681 ZZ/Minatoslaundromat_1.txt
 
 i = His man _1
 ligne :  43 ZZ/Hisman_1.txt
-mot   :  1901 ZZ/Hisman_1.txt
-carac :  11876 ZZ/Hisman_1.txt
+mot   :  1892 ZZ/Hisman_1.txt
+carac :  11817 ZZ/Hisman_1.txt
 
 i = The challenge _4
 ligne :  68 ZZ/Thechallenge_4.txt
-mot   :  2688 ZZ/Thechallenge_4.txt
-carac :  17425 ZZ/Thechallenge_4.txt
+mot   :  2671 ZZ/Thechallenge_4.txt
+carac :  17316 ZZ/Thechallenge_4.txt
 
 i = The challenge usa _1
 ligne :  33 ZZ/Thechallengeusa_1.txt
-mot   :  1244 ZZ/Thechallengeusa_1.txt
-carac :  8156 ZZ/Thechallengeusa_1.txt
+mot   :  1227 ZZ/Thechallengeusa_1.txt
+carac :  8047 ZZ/Thechallengeusa_1.txt
 
 i = Tokyo ghoul _3
 ligne :  46 ZZ/Tokyoghoul_3.txt
@@ -81,23 +81,23 @@ carac :  6505 ZZ/Unforgottennight_1.txt
 
 i = The voice th _9
 ligne :  112 ZZ/Thevoiceth_9.txt
-mot   :  4668 ZZ/Thevoiceth_9.txt
-carac :  28118 ZZ/Thevoiceth_9.txt
+mot   :  4644 ZZ/Thevoiceth_9.txt
+carac :  27986 ZZ/Thevoiceth_9.txt
 
 i = Vice versa series _1
 ligne :  24 ZZ/Viceversaseries_1.txt
-mot   :  1066 ZZ/Viceversaseries_1.txt
-carac :  6795 ZZ/Viceversaseries_1.txt
+mot   :  1063 ZZ/Viceversaseries_1.txt
+carac :  6774 ZZ/Viceversaseries_1.txt
 
 i = Drag race ca _3
 ligne :  20 ZZ/Dragraceca_3.txt
-mot   :  911 ZZ/Dragraceca_3.txt
-carac :  5686 ZZ/Dragraceca_3.txt
+mot   :  906 ZZ/Dragraceca_3.txt
+carac :  5655 ZZ/Dragraceca_3.txt
 
 i = The masked singer nz _2
 ligne :  21 ZZ/Themaskedsingernz_2.txt
-mot   :  990 ZZ/Themaskedsingernz_2.txt
-carac :  6172 ZZ/Themaskedsingernz_2.txt
+mot   :  984 ZZ/Themaskedsingernz_2.txt
+carac :  6132 ZZ/Themaskedsingernz_2.txt
 
 i = Blueming _1
 ligne :  20 ZZ/Blueming_1.txt
@@ -111,8 +111,8 @@ carac :  4137 ZZ/Agt_17.txt
 
 i = Ahss _2
 ligne :  17 ZZ/Ahss_2.txt
-mot   :  745 ZZ/Ahss_2.txt
-carac :  4829 ZZ/Ahss_2.txt
+mot   :  733 ZZ/Ahss_2.txt
+carac :  4751 ZZ/Ahss_2.txt
 
 i = Close friend _2
 ligne :  17 ZZ/Closefriend_2.txt
@@ -131,8 +131,8 @@ carac :  4238 ZZ/Rpdras_7.txt
 
 i = Rpdrdu _2
 ligne :  13 ZZ/Rpdrdu_2.txt
-mot   :  677 ZZ/Rpdrdu_2.txt
-carac :  4263 ZZ/Rpdrdu_2.txt
+mot   :  668 ZZ/Rpdrdu_2.txt
+carac :  4204 ZZ/Rpdrdu_2.txt
 
 i = Sky in your heart _1
 ligne :  11 ZZ/Skyinyourheart_1.txt
@@ -141,8 +141,8 @@ carac :  2523 ZZ/Skyinyourheart_1.txt
 
 i = The voice ger _12
 ligne :  12 ZZ/Thevoiceger_12.txt
-mot   :  612 ZZ/Thevoiceger_12.txt
-carac :  3484 ZZ/Thevoiceger_12.txt
+mot   :  601 ZZ/Thevoiceger_12.txt
+carac :  3413 ZZ/Thevoiceger_12.txt
 
 i = Game of talents fr _2
 ligne :  12 ZZ/Gameoftalentsfr_2.txt
@@ -151,23 +151,23 @@ carac :  3547 ZZ/Gameoftalentsfr_2.txt
 
 i = The voice senior peru _2
 ligne :  7 ZZ/Thevoiceseniorperu_2.txt
-mot   :  287 ZZ/Thevoiceseniorperu_2.txt
-carac :  1619 ZZ/Thevoiceseniorperu_2.txt
+mot   :  271 ZZ/Thevoiceseniorperu_2.txt
+carac :  1529 ZZ/Thevoiceseniorperu_2.txt
 
 i = Love in the air _1
 ligne :  6 ZZ/Loveintheair_1.txt
-mot   :  285 ZZ/Loveintheair_1.txt
-carac :  1746 ZZ/Loveintheair_1.txt
+mot   :  268 ZZ/Loveintheair_1.txt
+carac :  1637 ZZ/Loveintheair_1.txt
 
 i = The eclipse _1
 ligne :  7 ZZ/Theeclipse_1.txt
-mot   :  365 ZZ/Theeclipse_1.txt
-carac :  2290 ZZ/Theeclipse_1.txt
+mot   :  359 ZZ/Theeclipse_1.txt
+carac :  2250 ZZ/Theeclipse_1.txt
 
 i = The voice kids fr _8
 ligne :  7 ZZ/Thevoicekidsfr_8.txt
-mot   :  373 ZZ/Thevoicekidsfr_8.txt
-carac :  2176 ZZ/Thevoicekidsfr_8.txt
+mot   :  370 ZZ/Thevoicekidsfr_8.txt
+carac :  2155 ZZ/Thevoicekidsfr_8.txt
 
 i = The amazing race _32
 ligne :  7 ZZ/Theamazingrace_32.txt
@@ -181,8 +181,8 @@ carac :  1554 ZZ/Secondchanceseries_1.txt
 
 i = Magic of zero _1
 ligne :  5 ZZ/Magicofzero_1.txt
-mot   :  251 ZZ/Magicofzero_1.txt
-carac :  1508 ZZ/Magicofzero_1.txt
+mot   :  248 ZZ/Magicofzero_1.txt
+carac :  1487 ZZ/Magicofzero_1.txt
 
 i = Rpscdr _2
 ligne :  6 ZZ/Rpscdr_2.txt
@@ -211,28 +211,23 @@ carac :  1424 ZZ/Survivor_31.txt
 
 i = The masked singer fr _4
 ligne :  14 ZZ/Themaskedsingerfr_4.txt
-mot   :  849 ZZ/Themaskedsingerfr_4.txt
-carac :  5033 ZZ/Themaskedsingerfr_4.txt
+mot   :  843 ZZ/Themaskedsingerfr_4.txt
+carac :  4990 ZZ/Themaskedsingerfr_4.txt
 
 i = Masterchef fr _6
 ligne :  3 ZZ/Mastercheffr_6.txt
-mot   :  131 ZZ/Mastercheffr_6.txt
-carac :  800 ZZ/Mastercheffr_6.txt
+mot   :  125 ZZ/Mastercheffr_6.txt
+carac :  762 ZZ/Mastercheffr_6.txt
 
 i = Juad juad _1
 ligne :  3 ZZ/Juadjuad_1.txt
 mot   :  167 ZZ/Juadjuad_1.txt
 carac :  1094 ZZ/Juadjuad_1.txt
 
-i = Qdals _1
-ligne :  1 ZZ/Qdals_1.txt
-mot   :  42 ZZ/Qdals_1.txt
-carac :  248 ZZ/Qdals_1.txt
-
 i = Drag race ph _1
 ligne :  4 ZZ/Dragraceph_1.txt
-mot   :  300 ZZ/Dragraceph_1.txt
-carac :  1704 ZZ/Dragraceph_1.txt
+mot   :  294 ZZ/Dragraceph_1.txt
+carac :  1664 ZZ/Dragraceph_1.txt
 
 i = 5515 never too late _1
 ligne :  161 ZZ/5515nevertoolate_1.txt
@@ -251,8 +246,8 @@ carac :  15307 ZZ/Cupidslastwish_1.txt
 
 i = The voice ph _1
 ligne :  109 ZZ/Thevoiceph_1.txt
-mot   :  2256 ZZ/Thevoiceph_1.txt
-carac :  13808 ZZ/Thevoiceph_1.txt
+mot   :  2250 ZZ/Thevoiceph_1.txt
+carac :  13768 ZZ/Thevoiceph_1.txt
 
 i = /9-1-1 _5
 ligne :  77 ZZ//9-1-1_5.txt
@@ -401,8 +396,8 @@ carac :  2364 ZZ/Dragiloveyou_1.txt
 
 i = Love at night _1
 ligne :  14 ZZ/Loveatnight_1.txt
-mot   :  499 ZZ/Loveatnight_1.txt
-carac :  2926 ZZ/Loveatnight_1.txt
+mot   :  502 ZZ/Loveatnight_1.txt
+carac :  2942 ZZ/Loveatnight_1.txt
 
 i = Mama gogo _1
 ligne :  9 ZZ/Mamagogo_1.txt

@@ -27,7 +27,7 @@ list99=(
 # 5-4
 "Magic of zero _1" "Rpscdr _2" "God shave the queens _2" "Grimm _1" "Rose in da house _1" "Survivor _31" 
 # 3-2
-"The masked singer fr _4" "Masterchef fr _6" "Juad juad _1" "Qdals _1" "Drag race ph _1" 
+"The masked singer fr _4" "Masterchef fr _6" "Juad juad _1" "Drag race ph _1" 
 # 0-1
 # other
 "5515 never too late _1" "F4 thailand _1" "Cupids last wish _1" "The voice ph _1" 
