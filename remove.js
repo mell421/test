@@ -7,7 +7,7 @@ function remove(someFile,replacement){
         if (err) {
           return console.log(err);
         }
-        var regex=/Survivor sa _9({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
+        var regex=/The voice kids colombia _6({\d+} ?| > \d+; ?| &gt; \d+; ?|x\d+; ?|x\d+\(\d+\) ?)/ig;
         var result = data.replace(regex, replacement);
         
       

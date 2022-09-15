@@ -566,3 +566,95 @@ Your branch is up to date with 'origin/save'.
  rewrite ZZ/wanttoseeyou_1.txt (70%)
  
 remove Survivor sa _9
+M	.gitignore
+M	00cherche.sh
+M	ZZ/9-1-1_5.txt
+M	ZZ/agt_17.txt
+M	ZZ/ahss_2.txt
+M	ZZ/beatshazam_2.txt
+M	ZZ/beatshazam_5.txt
+M	ZZ/bigbrotherus_23.txt
+M	ZZ/bigbrotherus_24.txt
+M	ZZ/blueming_1.txt
+M	ZZ/bulgasal_1.txt
+M	ZZ/closefriend_2.txt
+M	ZZ/colorrush_2.txt
+M	ZZ/districtz_2.txt
+M	ZZ/dontforgetthelyrics_1.txt
+M	ZZ/dragiloveyou_1.txt
+M	ZZ/dragraceca_3.txt
+M	ZZ/dragraceph_1.txt
+M	ZZ/gameoftalentsfr_2.txt
+M	ZZ/godshavethequeens_2.txt
+M	ZZ/grimm_1.txt
+M	ZZ/hisman_1.txt
+M	ZZ/juadjuad_1.txt
+M	ZZ/loveatnight_1.txt
+M	ZZ/loveintheair_1.txt
+M	ZZ/mastercheffr_6.txt
+M	ZZ/meetmyangel_2.txt
+M	ZZ/minatoslaundromat_1.txt
+M	ZZ/quaranthings_2.txt
+M	ZZ/rpdras_7.txt
+M	ZZ/rpdrasu_7.txt
+M	ZZ/rpdrdu_2.txt
+M	ZZ/rpscdr_2.txt
+M	ZZ/secondchanceseries_1.txt
+M	ZZ/skyinyourheart_1.txt
+M	ZZ/survivor_31.txt
+D	ZZ/survivorsa_9.txt
+M	ZZ/theamazingrace_32.txt
+M	ZZ/thechallenge_4.txt
+M	ZZ/thechallengeusa_1.txt
+M	ZZ/thecircleus_4.txt
+M	ZZ/theeclipse_1.txt
+M	ZZ/themaskedsingerfr_4.txt
+M	ZZ/themaskedsingernz_2.txt
+M	ZZ/thevoicearg_4.txt
+M	ZZ/thevoicedominicana_2.txt
+M	ZZ/thevoiceger_12.txt
+M	ZZ/thevoicekidscolombia_6.txt
+M	ZZ/thevoicekidsfr_8.txt
+M	ZZ/thevoicenl_12.txt
+M	ZZ/thevoiceph_1.txt
+M	ZZ/thevoiceseniorperu_2.txt
+M	ZZ/thevoiceth_9.txt
+M	ZZ/tokyoghoul_3.txt
+M	ZZ/twopintsoflager_3.txt
+M	ZZ/unforgottennight_1.txt
+M	ZZ/viceversaseries_1.txt
+M	ZZ/youngsheldon_5.txt
+M	aEff/aeff.html
+M	aEff/aeff.md
+M	apercu/apAll.txt
+M	apercu/apercu22.html
+M	apercu/apercu22.md
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	js/lastCommit.js
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/survivor.html
+M	liste/survivor.md
+M	liste/survivor.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 74aca6e1] remove Survivor sa _9
+ 79 files changed, 3141 insertions(+), 3874 deletions(-)
+ delete mode 100644 ZZ/survivorsa_9.txt
+ rewrite apercuTer/apercuTer.md (67%)
+ rewrite apercuTer/apercuTer.pdf (84%)
+ create mode 100644 apercuTer/past/apercuTerPast.html
+ copy apercuTer/{apercuTer.md => past/apercuTerPast.md} (68%)
+ create mode 100644 apercuTer/past/apercuTerPast.pdf
+ 
+remove The voice kids colombia _6

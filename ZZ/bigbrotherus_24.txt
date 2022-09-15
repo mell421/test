@@ -12,47 +12,47 @@ aEff/aeff.md:06/08/22 - 287* Beat shazam _5{11} His man _1{4} The voice arg _4{1
 aEff/aeff.md:06/08/22 (eff) - The voice arg _4{126} Big brother us _23{32} Big brother us _24{21} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
 aEff/aeff.md:07/08/22 - 277* Vice versa series _1{4} Beat shazam _5{11} His man _1{6} The voice arg _4{128} Big brother us _24{23} Minatos laundromat _1{14} Ahss _2{3} Unforgotten night _1{7} The challenge usa _1{6} 
 aEff/aeff.md:07/08/22 (eff) - The voice arg _4{128} Big brother us _23{33} Big brother us _24{23} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
-aEff/aeff.md:08/08/22 - 275* The voice kids colombia _6{0} The voice th _9{4} Vice versa series _1{4} Beat shazam _5{11} His man _1{8} The voice arg _4{130} Big brother us _24{25} Minatos laundromat _1{14} 
+aEff/aeff.md:08/08/22 - 275* The voice th _9{4} Vice versa series _1{4} Beat shazam _5{11} His man _1{8} The voice arg _4{130} Big brother us _24{25} Minatos laundromat _1{14} 
 aEff/aeff.md:08/08/22 (eff) - The voice arg _4{130} Big brother us _23{34} Big brother us _24{25} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
 aEff/aeff.md:09/08/22 (eff) - The voice arg _4{133} Big brother us _23{35} Big brother us _24{28} Dont forget the lyrics _1{18} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} 
 aEff/aeff.md:10/08/22 (eff) - The voice arg _4{135} Big brother us _23{35} Big brother us _24{29} Dont forget the lyrics _1{18} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} 
-aEff/aeff.md:11/08/22 - 322* The challenge usa _1{7} Big brother us _24{30} Beat shazam _5{12} Dont forget the lyrics _1{18} The voice arg _4{137} The voice kids colombia _6{7} Rpdrdu _2{2} Drag race ca _3{4} Agt _17{7} 
+aEff/aeff.md:11/08/22 - 322* The challenge usa _1{7} Big brother us _24{30} Beat shazam _5{12} Dont forget the lyrics _1{18} The voice arg _4{137} Rpdrdu _2{2} Drag race ca _3{4} Agt _17{7} 
 aEff/aeff.md:11/08/22 (eff) - The voice arg _4{137} Big brother us _23{35} Big brother us _24{30} Dont forget the lyrics _1{18} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
 aEff/aeff.md:12/07/22 - 304* Big brother us _23{0} Big brother us _24{0} The voice arg _4{72} The voice dominicana _2{8} Two pints of lager _3{14} 
-aEff/aeff.md:12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Minatos laundromat _1{15} Blueming _1{5} Juad juad _1{0} The voice arg _4{139} The voice kids colombia _6{9} The challenge usa _1{7} Beat shazam _5{12} Dont forget the lyrics _1{19} 
+aEff/aeff.md:12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Minatos laundromat _1{15} Blueming _1{5} Juad juad _1{0} The voice arg _4{139} The challenge usa _1{7} Beat shazam _5{12} Dont forget the lyrics _1{19} 
 aEff/aeff.md:12/08/22 (eff) - The voice arg _4{139} Big brother us _23{35} Big brother us _24{31} Dont forget the lyrics _1{19} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} His man _1{10} 
 aEff/aeff.md:13/07/22 - 316* Big brother us _23{1} The voice arg _4{74} Big brother us _24{0} The voice dominicana _2{8} Two pints of lager _3{14} 
-aEff/aeff.md:13/08/22 - 326* The voice arg _4{141} The voice kids colombia _6{11} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{32} Minatos laundromat _1{15} Blueming _1{5} Juad juad _1{0} The challenge usa _1{7} Beat shazam _5{12} 
-aEff/aeff.md:13/08/22 (eff) - The voice arg _4{141} Big brother us _23{35} Big brother us _24{32} Dont forget the lyrics _1{20} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The voice kids colombia _6{11} The challenge _4{11} 
+aEff/aeff.md:13/08/22 - 326* The voice arg _4{141} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{32} Minatos laundromat _1{15} Blueming _1{5} Juad juad _1{0} The challenge usa _1{7} Beat shazam _5{12} 
+aEff/aeff.md:13/08/22 (eff) - The voice arg _4{141} Big brother us _23{35} Big brother us _24{32} Dont forget the lyrics _1{20} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
 aEff/aeff.md:14/07/22 - 279* Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{0} The voice arg _4{76} Big brother us _23{3} The voice dominicana _2{8} 
-aEff/aeff.md:14/08/22 - 318* His man _1{10} Vice versa series _1{5} Drag race ca _3{4} Rpscdr _2{0} The voice kids colombia _6{13} The voice arg _4{143} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{33} Minatos laundromat _1{15} 
-aEff/aeff.md:14/08/22 (eff) - The voice arg _4{143} Big brother us _23{35} Big brother us _24{33} Dont forget the lyrics _1{21} Minatos laundromat _1{15} Two pints of lager _3{15} The voice kids colombia _6{13} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} His man _1{10} 
+aEff/aeff.md:14/08/22 - 318* His man _1{10} Vice versa series _1{5} Drag race ca _3{4} Rpscdr _2{0} The voice arg _4{143} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{33} Minatos laundromat _1{15} 
+aEff/aeff.md:14/08/22 (eff) - The voice arg _4{143} Big brother us _23{35} Big brother us _24{33} Dont forget the lyrics _1{21} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} His man _1{10} 
 aEff/aeff.md:15/07/22 - 266* Big brother us _23{5} The voice arg _4{78} Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{1} 
-aEff/aeff.md:15/08/22 (eff) - The voice arg _4{145} Big brother us _23{35} Big brother us _24{34} Dont forget the lyrics _1{22} The voice kids colombia _6{15} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
+aEff/aeff.md:15/08/22 (eff) - The voice arg _4{145} Big brother us _23{35} Big brother us _24{34} Dont forget the lyrics _1{22} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
 aEff/aeff.md:16/07/22 - 310* The challenge _4{7} The voice arg _4{80} Big brother us _24{1} Drag race ca _3{0} Big brother us _23{7} 
-aEff/aeff.md:16/08/22 (eff) - The voice arg _4{148} Big brother us _24{36} Big brother us _23{35} Dont forget the lyrics _1{23} The voice kids colombia _6{18} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} Bulgasal _1{13} His man _1{11} 
+aEff/aeff.md:16/08/22 (eff) - The voice arg _4{148} Big brother us _24{36} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} Bulgasal _1{13} His man _1{11} 
 aEff/aeff.md:17/07/22 - 273* Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Vice versa series _1{0} The challenge _4{7} The voice arg _4{82} Big brother us _24{1} 
-aEff/aeff.md:17/08/22 (eff) - The voice arg _4{150} Big brother us _24{37} Big brother us _23{35} Dont forget the lyrics _1{23} The voice kids colombia _6{20} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} Bulgasal _1{13} His man _1{11} 
-aEff/aeff.md:18/08/22 (eff) - The voice arg _4{152} Big brother us _24{38} Big brother us _23{35} Dont forget the lyrics _1{23} The voice kids colombia _6{22} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} 
+aEff/aeff.md:17/08/22 (eff) - The voice arg _4{150} Big brother us _24{37} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} Bulgasal _1{13} His man _1{11} 
+aEff/aeff.md:18/08/22 (eff) - The voice arg _4{152} Big brother us _24{38} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} 
 aEff/aeff.md:19/07/22 - 197* The voice arg _4{87} The voice dominicana _2{9} Big brother us _23{14} Big brother us _24{2} The voice th _9{1} Game of talents fr _2{1} Grimm _1{1} 
-aEff/aeff.md:19/08/22 - 353* The voice arg _4{154} The voice kids colombia _6{24} The challenge usa _1{8} Big brother us _24{39} Love in the air _1{0} Minatos laundromat _1{16} Ahss _2{4} His man _1{11} Rpdrdu _2{3} 
-aEff/aeff.md:19/08/22 (eff) - The voice arg _4{154} Big brother us _24{39} Big brother us _23{35} The voice kids colombia _6{24} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} 
+aEff/aeff.md:19/08/22 - 353* The voice arg _4{154} The challenge usa _1{8} Big brother us _24{39} Love in the air _1{0} Minatos laundromat _1{16} Ahss _2{4} His man _1{11} Rpdrdu _2{3} 
+aEff/aeff.md:19/08/22 (eff) - The voice arg _4{154} Big brother us _24{39} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} 
 aEff/aeff.md:20/07/22 - 353* Big brother us _23{15} Tokyo ghoul _3{8} The voice arg _4{89} The voice dominicana _2{9} Big brother us _24{3} The voice th _9{1} 
-aEff/aeff.md:20/08/22 - 349* The eclipse _1{1} The voice arg _4{156} The voice ger _12{0} The voice kids colombia _6{26} The challenge usa _1{8} Big brother us _24{40} Love in the air _1{0} Minatos laundromat _1{17} Ahss _2{4} 
-aEff/aeff.md:20/08/22 (eff) - The voice arg _4{156} Big brother us _24{40} Big brother us _23{35} The voice kids colombia _6{26} Dont forget the lyrics _1{23} Minatos laundromat _1{17} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:20/08/22 - 349* The eclipse _1{1} The voice arg _4{156} The voice ger _12{0} The challenge usa _1{8} Big brother us _24{40} Love in the air _1{0} Minatos laundromat _1{17} Ahss _2{4} 
+aEff/aeff.md:20/08/22 (eff) - The voice arg _4{156} Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{17} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:21/07/22 - 314* Unforgotten night _1{5} The voice arg _4{91} Big brother us _23{16} Tokyo ghoul _3{8} The voice dominicana _2{9} Big brother us _24{3} 
-aEff/aeff.md:21/08/22 - 252* Magic of zero _1{0} The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The voice kids colombia _6{28} The eclipse _1{1} The voice arg _4{158} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
-aEff/aeff.md:21/08/22 (eff) - The voice arg _4{158} Big brother us _24{41} Big brother us _23{35} The voice kids colombia _6{28} Dont forget the lyrics _1{23} Minatos laundromat _1{18} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:21/08/22 - 252* Magic of zero _1{0} The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} The voice arg _4{158} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
+aEff/aeff.md:21/08/22 (eff) - The voice arg _4{158} Big brother us _24{41} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{18} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:22/07/22 - 301* The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} The voice arg _4{93} Unforgotten night _1{5} Big brother us _23{17} 
-aEff/aeff.md:22/08/22 (eff) - The voice arg _4{160} Big brother us _24{43} Big brother us _23{35} The voice kids colombia _6{30} Dont forget the lyrics _1{23} Minatos laundromat _1{19} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:22/08/22 (eff) - The voice arg _4{160} Big brother us _24{43} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{19} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:23/07/22 - 299* The voice arg _4{95} The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} Unforgotten night _1{5} 
-aEff/aeff.md:23/08/22 (eff) - The voice arg _4{163} Big brother us _24{46} Big brother us _23{35} The voice kids colombia _6{33} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{16} Two pints of lager _3{15} Beat shazam _5{13} His man _1{12} The challenge _4{11} 
-aEff/aeff.md:24/08/22 (eff) - The voice arg _4{165} Big brother us _24{48} The voice kids colombia _6{35} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{17} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
-aEff/aeff.md:25/08/22 (eff) - The voice arg _4{167} Big brother us _24{50} The voice kids colombia _6{37} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{18} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:23/08/22 (eff) - The voice arg _4{163} Big brother us _24{46} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{16} Two pints of lager _3{15} Beat shazam _5{13} His man _1{12} The challenge _4{11} 
+aEff/aeff.md:24/08/22 (eff) - The voice arg _4{165} Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{17} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:25/08/22 (eff) - The voice arg _4{167} Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{18} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:26/07/22 - 225* Big brother us _24{5} The voice dominicana _2{10} The voice arg _4{102} The masked singer nz _2{1} The voice th _9{2} Blueming _1{1} His man _1{1} 
-aEff/aeff.md:26/08/22 (eff) - The voice arg _4{169} Big brother us _24{52} The voice kids colombia _6{39} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{19} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:26/08/22 (eff) - The voice arg _4{169} Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{19} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:27/07/22 - 377* Blueming _1{1} Minatos laundromat _1{0} The voice arg _4{104} Big brother us _24{6} The voice dominicana _2{10} 
-aEff/aeff.md:27/08/22 (eff) - The voice arg _4{171} Big brother us _24{54} The voice kids colombia _6{41} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{20} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:27/08/22 (eff) - The voice arg _4{171} Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{20} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:28/07/22 - 359* Minatos laundromat _1{0} The voice arg _4{106} Blueming _1{1} Big brother us _24{7} 
 aEff/aeff.md:29/07/22 - 356* Blueming _1{1} Big brother us _24{8} Ahss _2{1} The challenge usa _1{4} The voice arg _4{108} Minatos laundromat _1{2} 
 aEff/aeff.md:30/07/22 - 329* Big brother us _24{9} Drag race ca _3{2} The amazing race _32{0} Beat shazam _5{9} The voice arg _4{110} Blueming _1{2} Ahss _2{1} 
@@ -61,23 +61,23 @@ aEff/aeff.md:31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talent
 aEff/aeff.md:31/07/22 (eff) - The voice arg _4{112} Big brother us _23{27} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{10} The voice dominicana _2{10} Beat shazam _5{9} 
 apercu/apercu22.md:- mois 01-08-2022 -> The masked singer nz _2x3(2) The voice th _9x4(3) The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(2) Vice versa series _1x4(3) Big brother us _24x11(10) Drag race ca _3x4(3) Beat shazam _5x8(2) The voice arg _4x40(25) Blueming _1x4(3) Ahss _2x3(2) The challenge usa _1x5(4) Minatos laundromat _1x6(5) The voice dominicana _2x8(4) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
 apercu/apercu22.md:- sem 01-08-2022 -> The masked singer nz _2x3(1) The voice th _9x4(1) The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(1) Vice versa series _1x4(1) Big brother us _24x11(4) Drag race ca _3x4(1) Beat shazam _5x8(2) The voice arg _4x40(6) Blueming _1x4(2) Ahss _2x3(1) The challenge usa _1x5(1) Minatos laundromat _1x6(5) The voice dominicana _2x8(1) 
-apercu/apercu22.md:- sem 08-08-2022 -> The voice kids colombia _6x8(7) The voice th _9x5(1) Vice versa series _1x5(1) Beat shazam _5x9(1) His man _1x6(4) The voice arg _4x45(6) Big brother us _24x14(3) Minatos laundromat _1x7(1) Ahss _2x4(1) Unforgotten night _1x7(1) The challenge usa _1x6(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
-apercu/apercu22.md:- sem 15-08-2022 -> The voice th _9x6(1) The masked singer nz _2x5(2) His man _1x7(1) Vice versa series _1x6(1) Drag race ca _3x6(2) Rpscdr _2x2(1) The voice kids colombia _6x20(12) The voice arg _4x50(6) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Minatos laundromat _1x8(1) Blueming _1x6(1) Juad juad _1x2(1) The challenge usa _1x7(1) Beat shazam _5x10(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) The voice dominicana _2x10(1) 
+apercu/apercu22.md:- sem 08-08-2022 -> The voice th _9x5(1) Vice versa series _1x5(1) Beat shazam _5x9(1) His man _1x6(4) The voice arg _4x45(6) Big brother us _24x14(3) Minatos laundromat _1x7(1) Ahss _2x4(1) Unforgotten night _1x7(1) The challenge usa _1x6(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
+apercu/apercu22.md:- sem 15-08-2022 -> The voice th _9x6(1) The masked singer nz _2x5(2) His man _1x7(1) Vice versa series _1x6(1) Drag race ca _3x6(2) Rpscdr _2x2(1) The voice arg _4x50(6) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Minatos laundromat _1x8(1) Blueming _1x6(1) Juad juad _1x2(1) The challenge usa _1x7(1) Beat shazam _5x10(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) The voice dominicana _2x10(1) 
 apercu/apercu22.md:- sem 18-07-2022 -> The voice th _9x2(1) Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) Vice versa series _1x2(1) The challenge _4x4(1) The voice arg _4x30(6) Big brother us _24x5(4) Drag race ca _3x2(1) Big brother us _23x8(7) Unforgotten night _1x5(1) The challenge usa _1x3(1) The voice dominicana _2x6(1) 
-apercu/apercu22.md:- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The voice th _9x7(1) Magic of zero _1x2(1) The voice kids fr _8x2(1) Vice versa series _1x7(1) The voice ger _12x3(2) The voice kids colombia _6x23(3) The eclipse _1x3(1) The voice arg _4x55(7) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) Minatos laundromat _1x9(1) Ahss _2x6(2) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+apercu/apercu22.md:- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The voice th _9x7(1) Magic of zero _1x2(1) The voice kids fr _8x2(1) Vice versa series _1x7(1) The voice ger _12x3(2) The eclipse _1x3(1) The voice arg _4x55(7) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) Minatos laundromat _1x9(1) Ahss _2x6(2) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 apercu/apercu22.md:- sem 25-07-2022 -> The masked singer nz _2x2(1) The voice th _9x3(1) Blueming _1x2(1) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Drag race ca _3x3(1) Vice versa series _1x3(1) The voice arg _4x35(6) The challenge usa _1x4(1) Big brother us _24x7(2) Ahss _2x2(1) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) The voice dominicana _2x7(1) 
 apercu/apercu22.md:conclu 04/08/22 = The voice arg _4 > 8; Big brother us _24 > 1; 
 apercu/apercu22.md:conclu 05/08/22 = The voice arg _4 > 10; Big brother us _24 > 4; 
 apercu/apercu22.md:conclu 06/08/22 = The voice arg _4 > 10; Big brother us _24 > 3; His man _1 > 1; 
 apercu/apercu22.md:conclu 07/08/22 = The voice arg _4 > 10; Big brother us _24 > 3; His man _1 > 1; 
-apercu/apercu22.md:conclu 08/08/22 = The voice arg _4 > 9; Big brother us _24 > 3; The voice kids colombia _6 > 3; 
-apercu/apercu22.md:conclu 21/08/22 = The voice arg _4 > 12; The voice kids colombia _6 > 6; Big brother us _24 > 3; 
-apercu/apercu22.md:conclu 22/08/22 = The voice arg _4 > 11; The voice kids colombia _6 > 7; Big brother us _24 > 3; 
-apercu/apercu22.md:conclu 23/08/22 = The voice arg _4 > 12; The voice kids colombia _6 > 6; Big brother us _24 > 3; 
-apercu/apercu22.md:conclu 24/08/22 = The voice arg _4 > 12; The voice kids colombia _6 > 8; Big brother us _24 > 3; 
-apercu/apercu22.md:conclu 25/08/22 = The voice arg _4 > 11; The voice kids colombia _6 > 9; Big brother us _24 > 2; 
-apercu/apercu22.md:conclu 26/08/22 = The voice arg _4 > 12; The voice kids colombia _6 > 8; Big brother us _24 > 2; 
-apercu/apercu22.md:conclu 27/08/22 = The voice arg _4 > 11; The voice kids colombia _6 > 9; Big brother us _24 > 2; The voice senior peru _2 > 1; 
+apercu/apercu22.md:conclu 08/08/22 = The voice arg _4 > 9; Big brother us _24 > 3; 
+apercu/apercu22.md:conclu 21/08/22 = The voice arg _4 > 12; Big brother us _24 > 3; 
+apercu/apercu22.md:conclu 22/08/22 = The voice arg _4 > 11; Big brother us _24 > 3; 
+apercu/apercu22.md:conclu 23/08/22 = The voice arg _4 > 12; Big brother us _24 > 3; 
+apercu/apercu22.md:conclu 24/08/22 = The voice arg _4 > 12; Big brother us _24 > 3; 
+apercu/apercu22.md:conclu 25/08/22 = The voice arg _4 > 11; Big brother us _24 > 2; 
+apercu/apercu22.md:conclu 26/08/22 = The voice arg _4 > 12; Big brother us _24 > 2; 
+apercu/apercu22.md:conclu 27/08/22 = The voice arg _4 > 11; Big brother us _24 > 2; The voice senior peru _2 > 1; 
 apercu/apercu22.md:conclu 31/07/22 = The voice arg _4 > 10; Minatos laundromat _1 > 2; Big brother us _24 > 1; 
 apercu/apercu22.md:concluBis 01/08/22 = The voice arg _4 > 18; Big brother us _24 > 8; Minatos laundromat _1 > 3; Big brother us _23 > 1; 
 apercu/apercu22.md:concluBis 02/08/22 = The voice arg _4 > 18; Big brother us _24 > 8; Minatos laundromat _1 > 3; Big brother us _23 > 1; 
@@ -86,31 +86,31 @@ apercu/apercu22.md:concluBis 04/08/22 = The voice arg _4 > 16; Big brother us _2
 apercu/apercu22.md:concluBis 05/08/22 = The voice arg _4 > 18; Big brother us _24 > 12; Big brother us _23 > 1; His man _1 > 1; 
 apercu/apercu22.md:concluBis 06/08/22 = The voice arg _4 > 18; Big brother us _24 > 11; His man _1 > 3; Big brother us _23 > 1; 
 apercu/apercu22.md:concluBis 07/08/22 = The voice arg _4 > 18; Big brother us _24 > 10; His man _1 > 3; Big brother us _23 > 1; 
-apercu/apercu22.md:concluBis 08/08/22 = The voice arg _4 > 17; Big brother us _24 > 9; The voice kids colombia _6 > 5; His man _1 > 2; Big brother us _23 > 1; 
-apercu/apercu22.md:concluBis 09/08/22 = The voice arg _4 > 19; The voice kids colombia _6 > 14; Big brother us _24 > 6; Agt _17 > 2; 
-apercu/apercu22.md:concluBis 10/08/22 = The voice arg _4 > 17; The voice kids colombia _6 > 14; Big brother us _24 > 5; 
-apercu/apercu22.md:concluBis 11/08/22 = The voice arg _4 > 19; The voice kids colombia _6 > 14; Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
-apercu/apercu22.md:concluBis 12/08/22 = The voice arg _4 > 17; The voice kids colombia _6 > 14; Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
-apercu/apercu22.md:concluBis 13/08/22 = The voice arg _4 > 19; The voice kids colombia _6 > 14; Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
+apercu/apercu22.md:concluBis 08/08/22 = The voice arg _4 > 17; Big brother us _24 > 9; His man _1 > 2; Big brother us _23 > 1; 
+apercu/apercu22.md:concluBis 09/08/22 = The voice arg _4 > 19; Big brother us _24 > 6; Agt _17 > 2; 
+apercu/apercu22.md:concluBis 10/08/22 = The voice arg _4 > 17; Big brother us _24 > 5; 
+apercu/apercu22.md:concluBis 11/08/22 = The voice arg _4 > 19; Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
+apercu/apercu22.md:concluBis 12/08/22 = The voice arg _4 > 17; Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
+apercu/apercu22.md:concluBis 13/08/22 = The voice arg _4 > 19; Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
 apercu/apercu22.md:concluBis 14/07/22 = The voice arg _4 > 17; Big brother us _23 > 3; Big brother us _24 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-apercu/apercu22.md:concluBis 14/08/22 = The voice arg _4 > 17; The voice kids colombia _6 > 14; Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
-apercu/apercu22.md:concluBis 15/08/22 = The voice arg _4 > 17; The voice kids colombia _6 > 14; Big brother us _24 > 6; 
-apercu/apercu22.md:concluBis 16/08/22 = The voice arg _4 > 20; The voice kids colombia _6 > 12; Big brother us _24 > 7; 
-apercu/apercu22.md:concluBis 17/08/22 = The voice arg _4 > 18; The voice kids colombia _6 > 12; Big brother us _24 > 7; 
-apercu/apercu22.md:concluBis 18/08/22 = The voice arg _4 > 18; The voice kids colombia _6 > 12; Big brother us _24 > 6; 
+apercu/apercu22.md:concluBis 14/08/22 = The voice arg _4 > 17; Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
+apercu/apercu22.md:concluBis 15/08/22 = The voice arg _4 > 17; Big brother us _24 > 6; 
+apercu/apercu22.md:concluBis 16/08/22 = The voice arg _4 > 20; Big brother us _24 > 7; 
+apercu/apercu22.md:concluBis 17/08/22 = The voice arg _4 > 18; Big brother us _24 > 7; 
+apercu/apercu22.md:concluBis 18/08/22 = The voice arg _4 > 18; Big brother us _24 > 6; 
 apercu/apercu22.md:concluBis 19/07/22 = The voice arg _4 > 17; Big brother us _23 > 3; Big brother us _24 > 1; 
-apercu/apercu22.md:concluBis 19/08/22 = The voice arg _4 > 19; The voice kids colombia _6 > 12; Big brother us _24 > 6; Minatos laundromat _1 > 1; 
-apercu/apercu22.md:concluBis 20/08/22 = The voice arg _4 > 20; The voice kids colombia _6 > 11; Big brother us _24 > 6; Minatos laundromat _1 > 1; 
-apercu/apercu22.md:concluBis 21/08/22 = The voice arg _4 > 20; The voice kids colombia _6 > 14; Big brother us _24 > 9; Minatos laundromat _1 > 2; 
-apercu/apercu22.md:concluBis 22/08/22 = The voice arg _4 > 19; The voice kids colombia _6 > 15; Big brother us _24 > 9; The voice dominicana _2 > 3; Minatos laundromat _1 > 2; 
-apercu/apercu22.md:concluBis 23/08/22 = The voice arg _4 > 20; The voice kids colombia _6 > 14; Big brother us _24 > 9; The voice dominicana _2 > 2; The voice ger _12 > 1; 
-apercu/apercu22.md:concluBis 24/08/22 = The voice arg _4 > 20; The voice kids colombia _6 > 16; Big brother us _24 > 9; The voice dominicana _2 > 2; The voice ger _12 > 1; 
+apercu/apercu22.md:concluBis 19/08/22 = The voice arg _4 > 19; Big brother us _24 > 6; Minatos laundromat _1 > 1; 
+apercu/apercu22.md:concluBis 20/08/22 = The voice arg _4 > 20; Big brother us _24 > 6; Minatos laundromat _1 > 1; 
+apercu/apercu22.md:concluBis 21/08/22 = The voice arg _4 > 20; Big brother us _24 > 9; Minatos laundromat _1 > 2; 
+apercu/apercu22.md:concluBis 22/08/22 = The voice arg _4 > 19; Big brother us _24 > 9; The voice dominicana _2 > 3; Minatos laundromat _1 > 2; 
+apercu/apercu22.md:concluBis 23/08/22 = The voice arg _4 > 20; Big brother us _24 > 9; The voice dominicana _2 > 2; The voice ger _12 > 1; 
+apercu/apercu22.md:concluBis 24/08/22 = The voice arg _4 > 20; Big brother us _24 > 9; The voice dominicana _2 > 2; The voice ger _12 > 1; 
 apercu/apercu22.md:concluBis 25/07/22 = The voice arg _4 > 17; Big brother us _23 > 2; Big brother us _24 > 2; 
-apercu/apercu22.md:concluBis 25/08/22 = The voice arg _4 > 19; The voice kids colombia _6 > 17; Big brother us _24 > 8; The voice dominicana _2 > 2; 
+apercu/apercu22.md:concluBis 25/08/22 = The voice arg _4 > 19; Big brother us _24 > 8; The voice dominicana _2 > 2; 
 apercu/apercu22.md:concluBis 26/07/22 = The voice arg _4 > 18; Big brother us _23 > 2; Big brother us _24 > 2; 
-apercu/apercu22.md:concluBis 26/08/22 = The voice arg _4 > 20; The voice kids colombia _6 > 16; Big brother us _24 > 8; The voice dominicana _2 > 2; The voice senior peru _2 > 2; 
+apercu/apercu22.md:concluBis 26/08/22 = The voice arg _4 > 20; Big brother us _24 > 8; The voice dominicana _2 > 2; The voice senior peru _2 > 2; 
 apercu/apercu22.md:concluBis 27/07/22 = The voice arg _4 > 17; Big brother us _23 > 2; Big brother us _24 > 1; 
-apercu/apercu22.md:concluBis 27/08/22 = The voice arg _4 > 19; The voice kids colombia _6 > 17; Big brother us _24 > 7; The voice senior peru _2 > 3; The voice dominicana _2 > 2; 
+apercu/apercu22.md:concluBis 27/08/22 = The voice arg _4 > 19; Big brother us _24 > 7; The voice senior peru _2 > 3; The voice dominicana _2 > 2; 
 apercu/apercu22.md:concluBis 28/07/22 = The voice arg _4 > 17; Minatos laundromat _1 > 3; Big brother us _23 > 2; Big brother us _24 > 1; 
 apercu/apercu22.md:concluBis 29/07/22 = The voice arg _4 > 18; Minatos laundromat _1 > 3; Big brother us _24 > 2; Big brother us _23 > 1; Blueming _1 > 1; 
 apercu/apercu22.md:concluBis 30/07/22 = The voice arg _4 > 18; Big brother us _24 > 6; Minatos laundromat _1 > 3; Big brother us _23 > 1; 

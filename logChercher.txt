@@ -24,11 +24,6 @@ ligne :  87 ZZ/Bigbrotherus_23.txt
 mot   :  2895 ZZ/Bigbrotherus_23.txt
 carac :  17948 ZZ/Bigbrotherus_23.txt
 
-i = The voice kids colombia _6
-ligne :  76 ZZ/Thevoicekidscolombia_6.txt
-mot   :  2664 ZZ/Thevoicekidscolombia_6.txt
-carac :  15790 ZZ/Thevoicekidscolombia_6.txt
-
 i = Beat shazam _5
 ligne :  96 ZZ/Beatshazam_5.txt
 mot   :  3229 ZZ/Beatshazam_5.txt
