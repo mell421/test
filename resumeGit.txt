@@ -729,3 +729,130 @@ Your branch is up to date with 'origin/save'.
  rewrite ZZ/thevoiceseniorperu_2.txt (86%)
  
 remove The voice arg _4
+M	.gitignore
+M	00cherche.sh
+M	ZZ/9-1-1_5.txt
+M	ZZ/9-1-1lonestar_3.txt
+M	ZZ/agt_17.txt
+M	ZZ/ahss_2.txt
+M	ZZ/beatshazam_2.txt
+M	ZZ/beatshazam_5.txt
+M	ZZ/bigbrotherus_23.txt
+M	ZZ/bigbrotherus_24.txt
+M	ZZ/blueming_1.txt
+M	ZZ/bulgasal_1.txt
+M	ZZ/campingparadis_13.txt
+M	ZZ/closefriend_2.txt
+M	ZZ/cupidslastwish_1.txt
+M	ZZ/dancingwithmyself_1.txt
+M	ZZ/dontforgetthelyrics_1.txt
+M	ZZ/dragraceca_3.txt
+M	ZZ/dragraceph_1.txt
+M	ZZ/f4thailand_1.txt
+M	ZZ/gameoftalentsfr_2.txt
+M	ZZ/godshavethequeens_2.txt
+M	ZZ/grimm_1.txt
+M	ZZ/hisman_1.txt
+M	ZZ/juadjuad_1.txt
+M	ZZ/loveatnight_1.txt
+M	ZZ/loveintheair_1.txt
+M	ZZ/lovemechanics_1.txt
+M	ZZ/magicofzero_1.txt
+M	ZZ/mamagogo_1.txt
+M	ZZ/mastercheffr_6.txt
+M	ZZ/minatoslaundromat_1.txt
+M	ZZ/roseindahouse_1.txt
+M	ZZ/rpdras_7.txt
+M	ZZ/rpdrasu_7.txt
+M	ZZ/rpdrdu_2.txt
+M	ZZ/rpscdr_2.txt
+M	ZZ/secondchanceseries_1.txt
+M	ZZ/skyinyourheart_1.txt
+M	ZZ/survivor_31.txt
+M	ZZ/theamazingrace_32.txt
+M	ZZ/thechallenge_4.txt
+M	ZZ/thechallengeusa_1.txt
+M	ZZ/thecircleus_4.txt
+M	ZZ/theeclipse_1.txt
+M	ZZ/themaskedsingerfr_4.txt
+M	ZZ/themaskedsingernz_2.txt
+M	ZZ/thevoicearg_4.txt
+M	ZZ/thevoicedominicana_2.txt
+M	ZZ/thevoiceger_12.txt
+M	ZZ/thevoicekidscolombia_6.txt
+M	ZZ/thevoicekidsfr_8.txt
+M	ZZ/thevoicekidsindonesia_4.txt
+M	ZZ/thevoiceph_1.txt
+M	ZZ/thevoiceseniorperu_2.txt
+M	ZZ/thevoiceth_9.txt
+M	ZZ/tokyoghoul_3.txt
+M	ZZ/triviaquest_1.txt
+M	ZZ/twopintsoflager_3.txt
+M	ZZ/unforgottennight_1.txt
+M	ZZ/viceversaseries_1.txt
+M	ZZ/wanttoseeyou_1.txt
+M	aEff/aeff.html
+M	aEff/aeff.md
+M	apercu/apAll.txt
+M	apercu/apercu22.html
+M	apercu/apercu22.md
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 9def2808] remove The voice arg _4
+ 83 files changed, 2994 insertions(+), 2938 deletions(-)
+ rewrite ZZ/ahss_2.txt (65%)
+ rewrite ZZ/beatshazam_2.txt (75%)
+ rewrite ZZ/beatshazam_5.txt (82%)
+ rewrite ZZ/bigbrotherus_23.txt (94%)
+ rewrite ZZ/bigbrotherus_24.txt (85%)
+ rewrite ZZ/blueming_1.txt (60%)
+ rewrite ZZ/bulgasal_1.txt (96%)
+ rewrite ZZ/campingparadis_13.txt (81%)
+ rewrite ZZ/closefriend_2.txt (61%)
+ rewrite ZZ/dancingwithmyself_1.txt (81%)
+ rewrite ZZ/dontforgetthelyrics_1.txt (86%)
+ rewrite ZZ/grimm_1.txt (60%)
+ rewrite ZZ/hisman_1.txt (81%)
+ rewrite ZZ/juadjuad_1.txt (71%)
+ rewrite ZZ/loveintheair_1.txt (72%)
+ rewrite ZZ/lovemechanics_1.txt (71%)
+ rewrite ZZ/mamagogo_1.txt (74%)
+ rewrite ZZ/mastercheffr_6.txt (89%)
+ rewrite ZZ/minatoslaundromat_1.txt (88%)
+ rewrite ZZ/roseindahouse_1.txt (76%)
+ rewrite ZZ/rpscdr_2.txt (74%)
+ rewrite ZZ/secondchanceseries_1.txt (66%)
+ rewrite ZZ/thechallenge_4.txt (77%)
+ rewrite ZZ/thechallengeusa_1.txt (67%)
+ rewrite ZZ/theeclipse_1.txt (63%)
+ rewrite ZZ/themaskedsingernz_2.txt (60%)
+ rewrite ZZ/thevoicearg_4.txt (88%)
+ rewrite ZZ/thevoicedominicana_2.txt (86%)
+ rewrite ZZ/thevoicekidscolombia_6.txt (87%)
+ rewrite ZZ/thevoicekidsindonesia_4.txt (74%)
+ rewrite ZZ/thevoiceseniorperu_2.txt (89%)
+ rewrite ZZ/thevoiceth_9.txt (78%)
+ rewrite ZZ/twopintsoflager_3.txt (75%)
+ rewrite ZZ/unforgottennight_1.txt (75%)
+ 
+remove Ahss _2

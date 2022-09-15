@@ -644,6 +644,7 @@
 |survivor sa 9||24|||<!-- 9/9 -->
 |The voice kids colombia _6||37|||<!--  -->
 |the voice arg 4||71|||<!--  -->
+|ahss 2||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -853,7 +854,6 @@
 |survivor 31||15|||0|<!--  -->
 |game of talents fr 2|||||0|<!--  -->
 |the voice th 9|||||0|<!--  -->
-|ahss 2|||||0|<!--  -->
 |his man 1|||||0|<!--  -->
 |blueming 1|||||0|<!--  -->
 |the masked singer nz 2|||||0|<!--  -->
