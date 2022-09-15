@@ -480,79 +480,79 @@
 - 13/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 14/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 15/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-16/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice arg _4{15} Le flambeau _1{15} 
-17/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice arg _4{17} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-18/06/22 (eff) - F4 thailand _1{35} The voice arg _4{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-19/06/22 (eff) - The voice arg _4{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-20/06/22 (eff) - The voice arg _4{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-21/06/22 (eff) - The voice arg _4{26} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-22/06/22 (eff) - The voice arg _4{28} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-23/06/22 (eff) - The voice arg _4{30} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} Two pints of lager _3{13} 
-24/06/22 (eff) - The voice arg _4{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} 
-25/06/22 (eff) - The voice arg _4{34} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-26/06/22 (eff) - The voice arg _4{36} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-27/06/22 (eff) - The voice arg _4{38} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-28/06/22 (eff) - The voice arg _4{41} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-29/06/22 (eff) - The voice arg _4{43} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-30/06/22 (eff) - The voice arg _4{45} The circle us _4{17} Beat shazam _2{16} Dont forget the lyrics _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
-01/07/22 (eff) - The voice arg _4{47} The circle us _4{17} Dont forget the lyrics _1{16} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} 
-02/07/22 (eff) - The voice arg _4{50} Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-03/07/22 (eff) - The voice arg _4{52} Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-04/07/22 (eff) - The voice arg _4{54} Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-05/07/22 (eff) - The voice arg _4{57} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
-06/07/22 (eff) - The voice arg _4{59} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
-07/07/22 (eff) - The voice arg _4{61} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
-08/07/22 (eff) - The voice arg _4{63} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-09/07/22 (eff) - The voice arg _4{65} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-10/07/22 (eff) - The voice arg _4{67} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
-11/07/22 (eff) - The voice arg _4{69} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
-12/07/22 (eff) - The voice arg _4{72} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
-13/07/22 (eff) - The voice arg _4{74} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
-14/07/22 (eff) - The voice arg _4{76} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
-15/07/22 (eff) - The voice arg _4{78} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
-16/07/22 (eff) - The voice arg _4{80} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
-17/07/22 (eff) - The voice arg _4{82} Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{9} 
-18/07/22 (eff) - The voice arg _4{84} Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{11} 
-19/07/22 (eff) - The voice arg _4{87} Dont forget the lyrics _1{18} /9-1-1 _5{15} Big brother us _23{14} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
-20/07/22 (eff) - The voice arg _4{89} Dont forget the lyrics _1{18} Big brother us _23{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
-21/07/22 (eff) - The voice arg _4{91} Dont forget the lyrics _1{18} Big brother us _23{16} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
-22/07/22 (eff) - The voice arg _4{93} Dont forget the lyrics _1{18} Big brother us _23{17} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} 
-23/07/22 (eff) - The voice arg _4{95} Big brother us _23{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} Beat shazam _5{9} 
-24/07/22 (eff) - The voice arg _4{97} Big brother us _23{19} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} 
-25/07/22 (eff) - The voice arg _4{99} Big brother us _23{20} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} Tokyo ghoul _3{8} 
-26/07/22 (eff) - The voice arg _4{102} Big brother us _23{22} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} Beat shazam _5{9} 
-27/07/22 (eff) - The voice arg _4{104} Big brother us _23{23} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} Beat shazam _5{9} 
-28/07/22 (eff) - The voice arg _4{106} Big brother us _23{24} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} 
-29/07/22 (eff) - The voice arg _4{108} Big brother us _23{25} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} 
-30/07/22 (eff) - The voice arg _4{110} Big brother us _23{26} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Big brother us _24{9} Beat shazam _5{9} 
-31/07/22 (eff) - The voice arg _4{112} Big brother us _23{27} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{10} The voice dominicana _2{10} Beat shazam _5{9} 
-01/08/22 (eff) - The voice arg _4{114} Big brother us _23{28} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{12} The voice dominicana _2{10} Beat shazam _5{9} Tokyo ghoul _3{9} 
-02/08/22 (eff) - The voice arg _4{118} Big brother us _23{30} Dont forget the lyrics _1{18} Big brother us _24{15} Two pints of lager _3{15} Bulgasal _1{13} The voice dominicana _2{12} Minatos laundromat _1{12} Beat shazam _5{11} 
-03/08/22 (eff) - The voice arg _4{120} Big brother us _23{31} Dont forget the lyrics _1{18} Big brother us _24{16} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
-04/08/22 (eff) - The voice arg _4{122} Big brother us _23{31} Dont forget the lyrics _1{18} Big brother us _24{17} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
-05/08/22 (eff) - The voice arg _4{124} Big brother us _23{31} Big brother us _24{19} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
-06/08/22 (eff) - The voice arg _4{126} Big brother us _23{32} Big brother us _24{21} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
-07/08/22 (eff) - The voice arg _4{128} Big brother us _23{33} Big brother us _24{23} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
-08/08/22 (eff) - The voice arg _4{130} Big brother us _23{34} Big brother us _24{25} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
-09/08/22 (eff) - The voice arg _4{133} Big brother us _23{35} Big brother us _24{28} Dont forget the lyrics _1{18} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} 
-10/08/22 (eff) - The voice arg _4{135} Big brother us _23{35} Big brother us _24{29} Dont forget the lyrics _1{18} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} 
-11/08/22 (eff) - The voice arg _4{137} Big brother us _23{35} Big brother us _24{30} Dont forget the lyrics _1{18} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
-12/08/22 (eff) - The voice arg _4{139} Big brother us _23{35} Big brother us _24{31} Dont forget the lyrics _1{19} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} His man _1{10} 
-13/08/22 (eff) - The voice arg _4{141} Big brother us _23{35} Big brother us _24{32} Dont forget the lyrics _1{20} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
-14/08/22 (eff) - The voice arg _4{143} Big brother us _23{35} Big brother us _24{33} Dont forget the lyrics _1{21} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} His man _1{10} 
-15/08/22 (eff) - The voice arg _4{145} Big brother us _23{35} Big brother us _24{34} Dont forget the lyrics _1{22} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
-16/08/22 (eff) - The voice arg _4{148} Big brother us _24{36} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} Bulgasal _1{13} His man _1{11} 
-17/08/22 (eff) - The voice arg _4{150} Big brother us _24{37} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} Bulgasal _1{13} His man _1{11} 
-18/08/22 (eff) - The voice arg _4{152} Big brother us _24{38} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} 
-19/08/22 (eff) - The voice arg _4{154} Big brother us _24{39} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} 
-20/08/22 (eff) - The voice arg _4{156} Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{17} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
-21/08/22 (eff) - The voice arg _4{158} Big brother us _24{41} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{18} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
-22/08/22 (eff) - The voice arg _4{160} Big brother us _24{43} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{19} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
-23/08/22 (eff) - The voice arg _4{163} Big brother us _24{46} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{16} Two pints of lager _3{15} Beat shazam _5{13} His man _1{12} The challenge _4{11} 
-24/08/22 (eff) - The voice arg _4{165} Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{17} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
-25/08/22 (eff) - The voice arg _4{167} Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{18} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
-26/08/22 (eff) - The voice arg _4{169} Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{19} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
-27/08/22 (eff) - The voice arg _4{171} Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{20} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+16/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+17/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+18/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+19/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+20/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+21/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+22/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+23/06/22 (eff) - Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} Two pints of lager _3{13} 
+24/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} 
+25/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+26/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+27/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+28/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+29/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+30/06/22 (eff) - The circle us _4{17} Beat shazam _2{16} Dont forget the lyrics _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
+01/07/22 (eff) - The circle us _4{17} Dont forget the lyrics _1{16} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} 
+02/07/22 (eff) - Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+03/07/22 (eff) - Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+04/07/22 (eff) - Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+05/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
+06/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
+07/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} 
+08/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+09/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+10/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
+11/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
+12/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
+13/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
+14/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
+15/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
+16/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
+17/07/22 (eff) - Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{9} 
+18/07/22 (eff) - Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{11} 
+19/07/22 (eff) - Dont forget the lyrics _1{18} /9-1-1 _5{15} Big brother us _23{14} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
+20/07/22 (eff) - Dont forget the lyrics _1{18} Big brother us _23{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
+21/07/22 (eff) - Dont forget the lyrics _1{18} Big brother us _23{16} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
+22/07/22 (eff) - Dont forget the lyrics _1{18} Big brother us _23{17} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} 
+23/07/22 (eff) - Big brother us _23{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} Beat shazam _5{9} 
+24/07/22 (eff) - Big brother us _23{19} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} 
+25/07/22 (eff) - Big brother us _23{20} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} Tokyo ghoul _3{8} 
+26/07/22 (eff) - Big brother us _23{22} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} Beat shazam _5{9} 
+27/07/22 (eff) - Big brother us _23{23} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} Beat shazam _5{9} 
+28/07/22 (eff) - Big brother us _23{24} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} 
+29/07/22 (eff) - Big brother us _23{25} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} 
+30/07/22 (eff) - Big brother us _23{26} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Big brother us _24{9} Beat shazam _5{9} 
+31/07/22 (eff) - Big brother us _23{27} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{10} The voice dominicana _2{10} Beat shazam _5{9} 
+01/08/22 (eff) - Big brother us _23{28} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{12} The voice dominicana _2{10} Beat shazam _5{9} Tokyo ghoul _3{9} 
+02/08/22 (eff) - Big brother us _23{30} Dont forget the lyrics _1{18} Big brother us _24{15} Two pints of lager _3{15} Bulgasal _1{13} The voice dominicana _2{12} Minatos laundromat _1{12} Beat shazam _5{11} 
+03/08/22 (eff) - Big brother us _23{31} Dont forget the lyrics _1{18} Big brother us _24{16} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
+04/08/22 (eff) - Big brother us _23{31} Dont forget the lyrics _1{18} Big brother us _24{17} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
+05/08/22 (eff) - Big brother us _23{31} Big brother us _24{19} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
+06/08/22 (eff) - Big brother us _23{32} Big brother us _24{21} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
+07/08/22 (eff) - Big brother us _23{33} Big brother us _24{23} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
+08/08/22 (eff) - Big brother us _23{34} Big brother us _24{25} Dont forget the lyrics _1{18} Two pints of lager _3{15} Minatos laundromat _1{14} Bulgasal _1{13} The voice dominicana _2{12} Beat shazam _5{11} 
+09/08/22 (eff) - Big brother us _23{35} Big brother us _24{28} Dont forget the lyrics _1{18} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} 
+10/08/22 (eff) - Big brother us _23{35} Big brother us _24{29} Dont forget the lyrics _1{18} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} 
+11/08/22 (eff) - Big brother us _23{35} Big brother us _24{30} Dont forget the lyrics _1{18} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
+12/08/22 (eff) - Big brother us _23{35} Big brother us _24{31} Dont forget the lyrics _1{19} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} His man _1{10} 
+13/08/22 (eff) - Big brother us _23{35} Big brother us _24{32} Dont forget the lyrics _1{20} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
+14/08/22 (eff) - Big brother us _23{35} Big brother us _24{33} Dont forget the lyrics _1{21} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Beat shazam _5{12} The challenge _4{11} His man _1{10} 
+15/08/22 (eff) - Big brother us _23{35} Big brother us _24{34} Dont forget the lyrics _1{22} Minatos laundromat _1{15} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} Beat shazam _5{12} The challenge _4{11} 
+16/08/22 (eff) - Big brother us _24{36} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} Bulgasal _1{13} His man _1{11} 
+17/08/22 (eff) - Big brother us _24{37} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} Bulgasal _1{13} His man _1{11} 
+18/08/22 (eff) - Big brother us _24{38} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} 
+19/08/22 (eff) - Big brother us _24{39} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{16} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} 
+20/08/22 (eff) - Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{17} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
+21/08/22 (eff) - Big brother us _24{41} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{18} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
+22/08/22 (eff) - Big brother us _24{43} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{19} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
+23/08/22 (eff) - Big brother us _24{46} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{16} Two pints of lager _3{15} Beat shazam _5{13} His man _1{12} The challenge _4{11} 
+24/08/22 (eff) - Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{17} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+25/08/22 (eff) - Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{18} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{19} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} Minatos laundromat _1{21} The voice dominicana _2{20} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 
 
 
@@ -957,86 +957,86 @@
 - 05/06/22 - 426* Agt _17{2} Sky in your heart _1{1} 
 - 06/06/22 - 431* Want to see you _1{0} Agt _17{2} Sky in your heart _1{1} 
 - 07/06/22 - 483* Want to see you _1{2} Agt _17{3} 
-- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} The voice arg _4{0} Want to see you _1{2} 
-- 09/06/22 - 272* The voice arg _4{0} Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Want to see you _1{2} 
-- 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} The voice arg _4{2} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-- 11/06/22 - 237* The voice arg _4{4} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-- 12/06/22 - 248* The voice arg _4{6} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-- 13/06/22 - 167* Dancing with myself _1{0} Mama gogo _1{0} The voice arg _4{8} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} 
-14/06/22 - 260* The voice arg _4{11} Dancing with myself _1{1} Mama gogo _1{1} /9-1-1 lone star _3{12} 
-15/06/22 - 241* Close friend _2{2} Dont forget the lyrics _1{8} The voice arg _4{13} Beat shazam _5{6} Dancing with myself _1{1} Mama gogo _1{1} 
-16/06/22 - 251* The voice arg _4{15} Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Dancing with myself _1{1} Mama gogo _1{1} 
-17/06/22 - 261* The voice arg _4{17} Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Dancing with myself _1{1} Mama gogo _1{1} 
-18/06/22 - 496* The voice arg _4{19} Close friend _2{3} Dont forget the lyrics _1{9} Beat shazam _5{6} 
-19/06/22 - 509* Love mechanics _1{0} The voice arg _4{21} 
+- 08/06/22 - 473* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{0} Want to see you _1{2} 
+- 09/06/22 - 272* Dont forget the lyrics _1{7} Beat shazam _5{5} Le flambeau _1{2} Want to see you _1{2} 
+- 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+- 11/06/22 - 237* /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+- 12/06/22 - 248* /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+- 13/06/22 - 167* Dancing with myself _1{0} Mama gogo _1{0} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} 
+14/06/22 - 260* Dancing with myself _1{1} Mama gogo _1{1} /9-1-1 lone star _3{12} 
+15/06/22 - 241* Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Dancing with myself _1{1} Mama gogo _1{1} 
+16/06/22 - 251* Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Dancing with myself _1{1} Mama gogo _1{1} 
+17/06/22 - 261* Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Dancing with myself _1{1} Mama gogo _1{1} 
+18/06/22 - 496* Close friend _2{3} Dont forget the lyrics _1{9} Beat shazam _5{6} 
+19/06/22 - 509* Love mechanics _1{0} 
 20/06/22 - 446* The voice kids indonesia _4{0} Love mechanics _1{0} 
-21/06/22 - 185* The voice arg _4{26} The voice kids indonesia _4{1} Love mechanics _1{1} 
-22/06/22 - 240* Bulgasal _1{0} The voice arg _4{28} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} Love mechanics _1{1} 
-23/06/22 - 162* The voice arg _4{30} Unforgotten night _1{0} Bulgasal _1{0} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} 
-24/06/22 - 180* Dont forget the lyrics _1{10} The voice arg _4{32} Dancing with myself _1{1} Unforgotten night _1{0} Bulgasal _1{1} The voice dominicana _2{0} Camping paradis _13{0} 
-25/06/22 - 190* Bulgasal _1{2} The voice arg _4{34} Dont forget the lyrics _1{11} Dancing with myself _1{1} Unforgotten night _1{0} The voice dominicana _2{0} Camping paradis _13{0} 
-26/06/22 - 238* Bulgasal _1{4} The voice arg _4{36} Dont forget the lyrics _1{12} Dancing with myself _1{1} 
-27/06/22 - 254* Rpdrasu _7{2} Rpdras _7{2} Bulgasal _1{6} The voice arg _4{38} Dont forget the lyrics _1{12} 
-28/06/22 - 191* Camping paradis _13{1} The voice dominicana _2{4} The voice arg _4{41} Rpdrasu _7{3} Rpdras _7{3} 
-29/06/22 - 168* Close friend _2{4} Dont forget the lyrics _1{13} The voice arg _4{43} Camping paradis _13{1} The voice dominicana _2{5} Rpdrasu _7{3} Rpdras _7{3} 
-30/06/22 - 211* Unforgotten night _1{1} Rose in da house _1{0} The voice arg _4{45} Close friend _2{4} Dont forget the lyrics _1{15} 
-01/07/22 - 186* Beat shazam _5{7} The challenge _4{0} Unforgotten night _1{1} Rose in da house _1{0} The voice arg _4{47} 
-02/07/22 - 179* The voice arg _4{50} Beat shazam _5{8} The challenge _4{2} Unforgotten night _1{2} Rose in da house _1{1} 
-03/07/22 - 268* The voice arg _4{52} Beat shazam _5{8} The challenge _4{2} Unforgotten night _1{2} 
-04/07/22 - 276* The voice arg _4{54} Beat shazam _5{8} The challenge _4{3} Unforgotten night _1{2} 
-05/07/22 - 361* Agt _17{4} The voice arg _4{57} The voice dominicana _2{7} Beat shazam _5{9} 
-06/07/22 - 355* The voice arg _4{59} Agt _17{4} The voice dominicana _2{7} Beat shazam _5{9} 
-07/07/22 - 265* Second chance series _1{0} Unforgotten night _1{3} The voice arg _4{61} Agt _17{4} The voice dominicana _2{7} 
-08/07/22 - 247* The challenge usa _1{0} Second chance series _1{0} Unforgotten night _1{3} The voice arg _4{63} Agt _17{4} The voice dominicana _2{7} 
-09/07/22 - 608* The voice arg _4{65} The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
-10/07/22 - 596* Two pints of lager _3{13} The voice arg _4{67} The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
-11/07/22 - 629* Two pints of lager _3{13} The voice arg _4{69} The challenge usa _1{1} 
-12/07/22 - 304* Big brother us _23{0} Big brother us _24{0} The voice arg _4{72} The voice dominicana _2{8} Two pints of lager _3{14} 
-13/07/22 - 316* Big brother us _23{1} The voice arg _4{74} Big brother us _24{0} The voice dominicana _2{8} Two pints of lager _3{14} 
-14/07/22 - 279* Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{0} The voice arg _4{76} Big brother us _23{3} The voice dominicana _2{8} 
-15/07/22 - 266* Big brother us _23{5} The voice arg _4{78} Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{1} 
-16/07/22 - 310* The challenge _4{7} The voice arg _4{80} Big brother us _24{1} Drag race ca _3{0} Big brother us _23{7} 
-17/07/22 - 273* Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Vice versa series _1{0} The challenge _4{7} The voice arg _4{82} Big brother us _24{1} 
-18/07/22 - 173* The voice th _9{0} Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Vice versa series _1{0} The challenge _4{7} The voice arg _4{84} 
-19/07/22 - 197* The voice arg _4{87} The voice dominicana _2{9} Big brother us _23{14} Big brother us _24{2} The voice th _9{1} Game of talents fr _2{1} Grimm _1{1} 
-20/07/22 - 353* Big brother us _23{15} Tokyo ghoul _3{8} The voice arg _4{89} The voice dominicana _2{9} Big brother us _24{3} The voice th _9{1} 
-21/07/22 - 314* Unforgotten night _1{5} The voice arg _4{91} Big brother us _23{16} Tokyo ghoul _3{8} The voice dominicana _2{9} Big brother us _24{3} 
-22/07/22 - 301* The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} The voice arg _4{93} Unforgotten night _1{5} Big brother us _23{17} 
-23/07/22 - 299* The voice arg _4{95} The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} Unforgotten night _1{5} 
-24/07/22 - 172* Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} Vice versa series _1{1} The voice arg _4{97} The challenge usa _1{3} 
-25/07/22 - 177* The masked singer nz _2{0} The voice th _9{1} Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} Vice versa series _1{1} The voice arg _4{99} 
-26/07/22 - 225* Big brother us _24{5} The voice dominicana _2{10} The voice arg _4{102} The masked singer nz _2{1} The voice th _9{2} Blueming _1{1} His man _1{1} 
-27/07/22 - 377* Blueming _1{1} Minatos laundromat _1{0} The voice arg _4{104} Big brother us _24{6} The voice dominicana _2{10} 
-28/07/22 - 359* Minatos laundromat _1{0} The voice arg _4{106} Blueming _1{1} Big brother us _24{7} 
-29/07/22 - 356* Blueming _1{1} Big brother us _24{8} Ahss _2{1} The challenge usa _1{4} The voice arg _4{108} Minatos laundromat _1{2} 
-30/07/22 - 329* Big brother us _24{9} Drag race ca _3{2} The amazing race _32{0} Beat shazam _5{9} The voice arg _4{110} Blueming _1{2} Ahss _2{1} 
-31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Vice versa series _1{2} Big brother us _24{10} Drag race ca _3{2} Beat shazam _5{9} The voice arg _4{112} Blueming _1{2} 
-31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Vice versa series _1{2} Big brother us _24{10} Drag race ca _3{2} Beat shazam _5{9} The voice arg _4{112} Blueming _1{2} 
+21/06/22 - 185* The voice kids indonesia _4{1} Love mechanics _1{1} 
+22/06/22 - 240* Bulgasal _1{0} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} Love mechanics _1{1} 
+23/06/22 - 162* Unforgotten night _1{0} Bulgasal _1{0} The voice dominicana _2{0} Camping paradis _13{0} The voice kids indonesia _4{1} 
+24/06/22 - 180* Dont forget the lyrics _1{10} Dancing with myself _1{1} Unforgotten night _1{0} Bulgasal _1{1} The voice dominicana _2{0} Camping paradis _13{0} 
+25/06/22 - 190* Bulgasal _1{2} Dont forget the lyrics _1{11} Dancing with myself _1{1} Unforgotten night _1{0} The voice dominicana _2{0} Camping paradis _13{0} 
+26/06/22 - 238* Bulgasal _1{4} Dont forget the lyrics _1{12} Dancing with myself _1{1} 
+27/06/22 - 254* Rpdrasu _7{2} Rpdras _7{2} Bulgasal _1{6} Dont forget the lyrics _1{12} 
+28/06/22 - 191* Camping paradis _13{1} The voice dominicana _2{4} Rpdrasu _7{3} Rpdras _7{3} 
+29/06/22 - 168* Close friend _2{4} Dont forget the lyrics _1{13} Camping paradis _13{1} The voice dominicana _2{5} Rpdrasu _7{3} Rpdras _7{3} 
+30/06/22 - 211* Unforgotten night _1{1} Rose in da house _1{0} Close friend _2{4} Dont forget the lyrics _1{15} 
+01/07/22 - 186* Beat shazam _5{7} The challenge _4{0} Unforgotten night _1{1} Rose in da house _1{0} 
+02/07/22 - 179* Beat shazam _5{8} The challenge _4{2} Unforgotten night _1{2} Rose in da house _1{1} 
+03/07/22 - 268* Beat shazam _5{8} The challenge _4{2} Unforgotten night _1{2} 
+04/07/22 - 276* Beat shazam _5{8} The challenge _4{3} Unforgotten night _1{2} 
+05/07/22 - 361* Agt _17{4} The voice dominicana _2{7} Beat shazam _5{9} 
+06/07/22 - 355* Agt _17{4} The voice dominicana _2{7} Beat shazam _5{9} 
+07/07/22 - 265* Second chance series _1{0} Unforgotten night _1{3} Agt _17{4} The voice dominicana _2{7} 
+08/07/22 - 247* The challenge usa _1{0} Second chance series _1{0} Unforgotten night _1{3} Agt _17{4} The voice dominicana _2{7} 
+09/07/22 - 608* The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
+10/07/22 - 596* Two pints of lager _3{13} The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
+11/07/22 - 629* Two pints of lager _3{13} The challenge usa _1{1} 
+12/07/22 - 304* Big brother us _23{0} Big brother us _24{0} The voice dominicana _2{8} Two pints of lager _3{14} 
+13/07/22 - 316* Big brother us _23{1} Big brother us _24{0} The voice dominicana _2{8} Two pints of lager _3{14} 
+14/07/22 - 279* Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{0} Big brother us _23{3} The voice dominicana _2{8} 
+15/07/22 - 266* Big brother us _23{5} Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{1} 
+16/07/22 - 310* The challenge _4{7} Big brother us _24{1} Drag race ca _3{0} Big brother us _23{7} 
+17/07/22 - 273* Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Vice versa series _1{0} The challenge _4{7} Big brother us _24{1} 
+18/07/22 - 173* The voice th _9{0} Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Vice versa series _1{0} The challenge _4{7} 
+19/07/22 - 197* The voice dominicana _2{9} Big brother us _23{14} Big brother us _24{2} The voice th _9{1} Game of talents fr _2{1} Grimm _1{1} 
+20/07/22 - 353* Big brother us _23{15} Tokyo ghoul _3{8} The voice dominicana _2{9} Big brother us _24{3} The voice th _9{1} 
+21/07/22 - 314* Unforgotten night _1{5} Big brother us _23{16} Tokyo ghoul _3{8} The voice dominicana _2{9} Big brother us _24{3} 
+22/07/22 - 301* The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} Unforgotten night _1{5} Big brother us _23{17} 
+23/07/22 - 299* The challenge usa _1{3} Big brother us _24{3} Ahss _2{0} Unforgotten night _1{5} 
+24/07/22 - 172* Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} Vice versa series _1{1} The challenge usa _1{3} 
+25/07/22 - 177* The masked singer nz _2{0} The voice th _9{1} Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} Vice versa series _1{1} 
+26/07/22 - 225* Big brother us _24{5} The voice dominicana _2{10} The masked singer nz _2{1} The voice th _9{2} Blueming _1{1} His man _1{1} 
+27/07/22 - 377* Blueming _1{1} Minatos laundromat _1{0} Big brother us _24{6} The voice dominicana _2{10} 
+28/07/22 - 359* Minatos laundromat _1{0} Blueming _1{1} Big brother us _24{7} 
+29/07/22 - 356* Blueming _1{1} Big brother us _24{8} Ahss _2{1} The challenge usa _1{4} Minatos laundromat _1{2} 
+30/07/22 - 329* Big brother us _24{9} Drag race ca _3{2} The amazing race _32{0} Beat shazam _5{9} Blueming _1{2} Ahss _2{1} 
+31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Vice versa series _1{2} Big brother us _24{10} Drag race ca _3{2} Beat shazam _5{9} Blueming _1{2} 
+31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Vice versa series _1{2} Big brother us _24{10} Drag race ca _3{2} Beat shazam _5{9} Blueming _1{2} 
 01/08/22 - 28* The masked singer nz _2{1} The voice th _9{2} The challenge _4{8} God shave the queens _2{0} Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Vice versa series _1{2} Big brother us _24{12} Drag race ca _3{2} 
-02/08/22 - 228* The voice dominicana _2{12} His man _1{2} Big brother us _24{15} The challenge _4{10} The voice arg _4{118} The masked singer nz _2{3} The voice th _9{4} God shave the queens _2{2} Rpdrdu _2{2} The amazing race _32{2} Game of talents fr _2{3} 
-03/08/22 - 407* Blueming _1{4} His man _1{2} The voice arg _4{120} The voice dominicana _2{12} Big brother us _24{16} The challenge _4{10} The masked singer nz _2{3} The voice th _9{4} God shave the queens _2{2} 
-04/08/22 - 438* The challenge usa _1{6} Big brother us _24{17} The voice arg _4{122} Blueming _1{4} His man _1{3} The voice dominicana _2{12} The challenge _4{10} 
-05/08/22 - 289* Big brother us _24{19} Minatos laundromat _1{14} Ahss _2{3} Unforgotten night _1{7} The voice arg _4{124} The challenge usa _1{6} Blueming _1{4} 
-06/08/22 - 287* Beat shazam _5{11} His man _1{4} The voice arg _4{126} Big brother us _24{21} Minatos laundromat _1{14} Ahss _2{3} Unforgotten night _1{7} The challenge usa _1{6} 
-07/08/22 - 277* Vice versa series _1{4} Beat shazam _5{11} His man _1{6} The voice arg _4{128} Big brother us _24{23} Minatos laundromat _1{14} Ahss _2{3} Unforgotten night _1{7} The challenge usa _1{6} 
-08/08/22 - 275* The voice th _9{4} Vice versa series _1{4} Beat shazam _5{11} His man _1{8} The voice arg _4{130} Big brother us _24{25} Minatos laundromat _1{14} 
-09/08/22 - 254* Agt _17{6} The voice dominicana _2{13} The voice arg _4{133} The masked singer nz _2{3} The voice th _9{5} Vice versa series _1{5} 
-10/08/22 - 268* Rpdrdu _2{2} Drag race ca _3{4} The voice arg _4{135} Agt _17{7} The voice dominicana _2{13} The masked singer nz _2{3} The voice th _9{5} 
-11/08/22 - 322* The challenge usa _1{7} Big brother us _24{30} Beat shazam _5{12} Dont forget the lyrics _1{18} The voice arg _4{137} Rpdrdu _2{2} Drag race ca _3{4} Agt _17{7} 
-12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Minatos laundromat _1{15} Blueming _1{5} Juad juad _1{0} The voice arg _4{139} The challenge usa _1{7} Beat shazam _5{12} Dont forget the lyrics _1{19} 
-13/08/22 - 326* The voice arg _4{141} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{32} Minatos laundromat _1{15} Blueming _1{5} Juad juad _1{0} The challenge usa _1{7} Beat shazam _5{12} 
-14/08/22 - 318* His man _1{10} Vice versa series _1{5} Drag race ca _3{4} Rpscdr _2{0} The voice arg _4{143} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{33} Minatos laundromat _1{15} 
-15/08/22 - 287* The voice th _9{5} The masked singer nz _2{3} His man _1{10} Vice versa series _1{5} Drag race ca _3{4} Rpscdr _2{0} The voice arg _4{145} 
-16/08/22 - 302* The voice arg _4{148} The voice dominicana _2{14} The voice th _9{6} The masked singer nz _2{4} His man _1{11} Vice versa series _1{6} Drag race ca _3{5} Rpscdr _2{1} 
-17/08/22 - 307* The voice arg _4{150} The voice dominicana _2{14} The voice th _9{6} The masked singer nz _2{4} His man _1{11} Vice versa series _1{6} Drag race ca _3{5} Rpscdr _2{1} 
-18/08/22 - 312* His man _1{11} Ahss _2{4} Rpdrdu _2{3} Drag race ph _1{0} The voice arg _4{152} The voice dominicana _2{14} The voice th _9{6} 
-19/08/22 - 353* The voice arg _4{154} The challenge usa _1{8} Big brother us _24{39} Love in the air _1{0} Minatos laundromat _1{16} Ahss _2{4} His man _1{11} Rpdrdu _2{3} 
-20/08/22 - 349* The eclipse _1{1} The voice arg _4{156} The voice ger _12{0} The challenge usa _1{8} Big brother us _24{40} Love in the air _1{0} Minatos laundromat _1{17} Ahss _2{4} 
-21/08/22 - 252* Magic of zero _1{0} The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} The voice arg _4{158} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
+02/08/22 - 228* The voice dominicana _2{12} His man _1{2} Big brother us _24{15} The challenge _4{10} The masked singer nz _2{3} The voice th _9{4} God shave the queens _2{2} Rpdrdu _2{2} The amazing race _32{2} Game of talents fr _2{3} 
+03/08/22 - 407* Blueming _1{4} His man _1{2} The voice dominicana _2{12} Big brother us _24{16} The challenge _4{10} The masked singer nz _2{3} The voice th _9{4} God shave the queens _2{2} 
+04/08/22 - 438* The challenge usa _1{6} Big brother us _24{17} Blueming _1{4} His man _1{3} The voice dominicana _2{12} The challenge _4{10} 
+05/08/22 - 289* Big brother us _24{19} Minatos laundromat _1{14} Ahss _2{3} Unforgotten night _1{7} The challenge usa _1{6} Blueming _1{4} 
+06/08/22 - 287* Beat shazam _5{11} His man _1{4} Big brother us _24{21} Minatos laundromat _1{14} Ahss _2{3} Unforgotten night _1{7} The challenge usa _1{6} 
+07/08/22 - 277* Vice versa series _1{4} Beat shazam _5{11} His man _1{6} Big brother us _24{23} Minatos laundromat _1{14} Ahss _2{3} Unforgotten night _1{7} The challenge usa _1{6} 
+08/08/22 - 275* The voice th _9{4} Vice versa series _1{4} Beat shazam _5{11} His man _1{8} Big brother us _24{25} Minatos laundromat _1{14} 
+09/08/22 - 254* Agt _17{6} The voice dominicana _2{13} The masked singer nz _2{3} The voice th _9{5} Vice versa series _1{5} 
+10/08/22 - 268* Rpdrdu _2{2} Drag race ca _3{4} Agt _17{7} The voice dominicana _2{13} The masked singer nz _2{3} The voice th _9{5} 
+11/08/22 - 322* The challenge usa _1{7} Big brother us _24{30} Beat shazam _5{12} Dont forget the lyrics _1{18} Rpdrdu _2{2} Drag race ca _3{4} Agt _17{7} 
+12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Minatos laundromat _1{15} Blueming _1{5} Juad juad _1{0} The challenge usa _1{7} Beat shazam _5{12} Dont forget the lyrics _1{19} 
+13/08/22 - 326* The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{32} Minatos laundromat _1{15} Blueming _1{5} Juad juad _1{0} The challenge usa _1{7} Beat shazam _5{12} 
+14/08/22 - 318* His man _1{10} Vice versa series _1{5} Drag race ca _3{4} Rpscdr _2{0} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{33} Minatos laundromat _1{15} 
+15/08/22 - 287* The voice th _9{5} The masked singer nz _2{3} His man _1{10} Vice versa series _1{5} Drag race ca _3{4} Rpscdr _2{0} 
+16/08/22 - 302* The voice dominicana _2{14} The voice th _9{6} The masked singer nz _2{4} His man _1{11} Vice versa series _1{6} Drag race ca _3{5} Rpscdr _2{1} 
+17/08/22 - 307* The voice dominicana _2{14} The voice th _9{6} The masked singer nz _2{4} His man _1{11} Vice versa series _1{6} Drag race ca _3{5} Rpscdr _2{1} 
+18/08/22 - 312* His man _1{11} Ahss _2{4} Rpdrdu _2{3} Drag race ph _1{0} The voice dominicana _2{14} The voice th _9{6} 
+19/08/22 - 353* The challenge usa _1{8} Big brother us _24{39} Love in the air _1{0} Minatos laundromat _1{16} Ahss _2{4} His man _1{11} Rpdrdu _2{3} 
+20/08/22 - 349* The eclipse _1{1} The voice ger _12{0} The challenge usa _1{8} Big brother us _24{40} Love in the air _1{0} Minatos laundromat _1{17} Ahss _2{4} 
+21/08/22 - 252* Magic of zero _1{0} The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
 22/08/22 - 85* The voice dominicana _2{14} The masked singer nz _2{4} The voice th _9{6} Magic of zero _1{0} The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} 
-23/08/22 - 265* The voice arg _4{163} The voice dominicana _2{16} The masked singer nz _2{5} The voice th _9{7} Magic of zero _1{1} The voice kids fr _8{1} Vice versa series _1{7} The voice ger _12{1} 
-24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice arg _4{165} The voice senior peru _2{0} The voice dominicana _2{17} The masked singer nz _2{5} The voice th _9{7} Magic of zero _1{1} The voice kids fr _8{1} 
-25/08/22 - 291* The voice senior peru _2{0} The voice arg _4{167} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{18} The masked singer nz _2{5} 
-26/08/22 - 304* Love in the air _1{1} The voice arg _4{169} The voice senior peru _2{0} The challenge usa _1{9} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{19} 
-27/08/22 - 302* The voice senior peru _2{1} The voice arg _4{171} The voice ger _12{3} Drag race ca _3{5} Love in the air _1{1} The challenge usa _1{9} 
+23/08/22 - 265* The voice dominicana _2{16} The masked singer nz _2{5} The voice th _9{7} Magic of zero _1{1} The voice kids fr _8{1} Vice versa series _1{7} The voice ger _12{1} 
+24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The masked singer nz _2{5} The voice th _9{7} Magic of zero _1{1} The voice kids fr _8{1} 
+25/08/22 - 291* The voice senior peru _2{0} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{18} The masked singer nz _2{5} 
+26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} The challenge usa _1{9} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{19} 
+27/08/22 - 302* The voice senior peru _2{1} The voice ger _12{3} Drag race ca _3{5} Love in the air _1{1} The challenge usa _1{9} 
 

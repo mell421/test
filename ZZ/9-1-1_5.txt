@@ -6,12 +6,12 @@ aEff/aeff.md:- 04/10/21 - 124* the shipper _1{6} /9-1-1 _5{5}
 aEff/aeff.md:- 05/01/22 - 159*  /9-1-1 lone star _3{0} young sheldon _5{10} 
 aEff/aeff.md:- 06/01/22 - 156* /9-1-1 lone star _3{0} young sheldon _5{10} 
 aEff/aeff.md:- 07/01/22 - 141* /9-1-1 lone star _3{0} young sheldon _5{11} 
-aEff/aeff.md:- 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} The voice arg _4{2} Dont forget the lyrics _1{7} Beat shazam _5{5} 
-aEff/aeff.md:- 11/06/22 - 237* The voice arg _4{4} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+aEff/aeff.md:- 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+aEff/aeff.md:- 11/06/22 - 237* /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Dont forget the lyrics _1{7} Beat shazam _5{5} 
 aEff/aeff.md:- 11/10/21 - 287* /9-1-1 _5{6} love area _1{1} 
-aEff/aeff.md:- 12/06/22 - 248* The voice arg _4{6} /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Dont forget the lyrics _1{7} Beat shazam _5{5} 
+aEff/aeff.md:- 12/06/22 - 248* /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Dont forget the lyrics _1{7} Beat shazam _5{5} 
 aEff/aeff.md:- 12/10/21 - 236* /9-1-1 _5{6} love area _1{1} 
-aEff/aeff.md:- 13/06/22 - 167* Dancing with myself _1{0} Mama gogo _1{0} The voice arg _4{8} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} 
+aEff/aeff.md:- 13/06/22 - 167* Dancing with myself _1{0} Mama gogo _1{0} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} 
 aEff/aeff.md:- 13/10/21 - 204* /9-1-1 _5{6} love area _1{2} 
 aEff/aeff.md:- 14/10/21 - 284* /9-1-1 _5{6} 
 aEff/aeff.md:- 15/10/21 - 180* /9-1-1 _5{6} 
@@ -22,26 +22,26 @@ aEff/aeff.md:- 23/09/21 - 87* 7project _1{5} the big leap _1{0} /9-1-1 _5{0}
 aEff/aeff.md:- 25/05/22 - 171* Beat shazam _2{0} /9-1-1 _5{7} Two pints of lager _3{5} Rpdrasu _7{1} 
 aEff/aeff.md:- 26/05/22 - 148* Beat shazam _2{0} Beat shazam _5{0} /9-1-1 _5{7} Two pints of lager _3{6} 
 aEff/aeff.md:- 27/05/22 - 134* Druck _8{2} Beat shazam _2{2} Beat shazam _5{0} /9-1-1 _5{7} 
-aEff/aeff.md:01/07/22 (eff) - The voice arg _4{47} The circle us _4{17} Dont forget the lyrics _1{16} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} 
-aEff/aeff.md:02/07/22 (eff) - The voice arg _4{50} Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-aEff/aeff.md:03/07/22 (eff) - The voice arg _4{52} Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-aEff/aeff.md:04/07/22 (eff) - The voice arg _4{54} Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-aEff/aeff.md:08/07/22 (eff) - The voice arg _4{63} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-aEff/aeff.md:09/07/22 (eff) - The voice arg _4{65} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
-aEff/aeff.md:10/07/22 (eff) - The voice arg _4{67} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
-aEff/aeff.md:11/07/22 (eff) - The voice arg _4{69} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
-aEff/aeff.md:12/07/22 (eff) - The voice arg _4{72} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
-aEff/aeff.md:13/07/22 (eff) - The voice arg _4{74} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
-aEff/aeff.md:14/07/22 (eff) - The voice arg _4{76} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
-aEff/aeff.md:15/07/22 (eff) - The voice arg _4{78} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
-aEff/aeff.md:16/07/22 (eff) - The voice arg _4{80} Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
-aEff/aeff.md:17/07/22 (eff) - The voice arg _4{82} Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{9} 
-aEff/aeff.md:18/07/22 (eff) - The voice arg _4{84} Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{11} 
-aEff/aeff.md:19/07/22 (eff) - The voice arg _4{87} Dont forget the lyrics _1{18} /9-1-1 _5{15} Big brother us _23{14} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
-aEff/aeff.md:23/06/22 (eff) - The voice arg _4{30} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} Two pints of lager _3{13} 
-aEff/aeff.md:23/07/22 (eff) - The voice arg _4{95} Big brother us _23{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} Beat shazam _5{9} 
-aEff/aeff.md:24/06/22 (eff) - The voice arg _4{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} 
-aEff/aeff.md:30/06/22 (eff) - The voice arg _4{45} The circle us _4{17} Beat shazam _2{16} Dont forget the lyrics _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
+aEff/aeff.md:01/07/22 (eff) - The circle us _4{17} Dont forget the lyrics _1{16} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} 
+aEff/aeff.md:02/07/22 (eff) - Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+aEff/aeff.md:03/07/22 (eff) - Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+aEff/aeff.md:04/07/22 (eff) - Dont forget the lyrics _1{17} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+aEff/aeff.md:08/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+aEff/aeff.md:09/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} 
+aEff/aeff.md:10/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
+aEff/aeff.md:11/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
+aEff/aeff.md:12/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
+aEff/aeff.md:13/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
+aEff/aeff.md:14/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
+aEff/aeff.md:15/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
+aEff/aeff.md:16/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} 
+aEff/aeff.md:17/07/22 (eff) - Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{9} 
+aEff/aeff.md:18/07/22 (eff) - Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{11} 
+aEff/aeff.md:19/07/22 (eff) - Dont forget the lyrics _1{18} /9-1-1 _5{15} Big brother us _23{14} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} 
+aEff/aeff.md:23/06/22 (eff) - Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} Two pints of lager _3{13} 
+aEff/aeff.md:23/07/22 (eff) - Big brother us _23{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} The voice dominicana _2{9} Beat shazam _5{9} 
+aEff/aeff.md:24/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} 
+aEff/aeff.md:30/06/22 (eff) - The circle us _4{17} Beat shazam _2{16} Dont forget the lyrics _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
 apercu/apercu21.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 apercu/apercu21.md:- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercu21.md:- sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
@@ -51,13 +51,13 @@ apercu/apercu21.md:* conclu 01/10/21 = /9-1-1 _5 > 2;
 apercu/apercu21.md:* concluBis 01/10/21 = /9-1-1 _5 > 4; 
 apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
 apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
-apercu/apercu22.md:- mois 01-07-2022 -> Beat shazam _5x6(3) The challenge _4x3(2) Unforgotten night _1x3(2) Rose in da house _1x2(1) The voice arg _4x19(20) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) The voice dominicana _2x4(3) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
-apercu/apercu22.md:- sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) The voice arg _4x6(5) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Dont forget the lyrics _1x4(1) Beat shazam _5x4(1) 
+apercu/apercu22.md:- mois 01-07-2022 -> Beat shazam _5x6(3) The challenge _4x3(2) Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) The voice dominicana _2x4(3) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+apercu/apercu22.md:- sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Dont forget the lyrics _1x4(1) Beat shazam _5x4(1) 
 apercu/apercu22.md:- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) Druck _8x4(2) Beat shazam _2x5(4) Beat shazam _5x2(1) /9-1-1 _5x5(1) Two pints of lager _3x6(1) 
-apercu/apercu22.md:concluBis 10/06/22 = The voice arg _4 > 4; Le flambeau _1 > 3; /9-1-1 _5 > 1; 
-apercu/apercu22.md:concluBis 12/06/22 = The voice arg _4 > 6; Le flambeau _1 > 3; /9-1-1 _5 > 1; 
-apercu/apercu22.md:concluBis 15/06/22 = The voice arg _4 > 9; /9-1-1 _5 > 1; 
-apercu/apercu22.md:concluBis 16/06/22 = The voice arg _4 > 8; /9-1-1 _5 > 1; Forever knight _1 > 1; 
+apercu/apercu22.md:concluBis 10/06/22 = Le flambeau _1 > 3; /9-1-1 _5 > 1; 
+apercu/apercu22.md:concluBis 12/06/22 = Le flambeau _1 > 3; /9-1-1 _5 > 1; 
+apercu/apercu22.md:concluBis 15/06/22 = /9-1-1 _5 > 1; 
+apercu/apercu22.md:concluBis 16/06/22 = /9-1-1 _5 > 1; Forever knight _1 > 1; 
 apercu/apercuglobal.md:- mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
 apercu/apercuglobal.md:- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
 apercu/apercuglobal.md:- sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 

@@ -642,7 +642,8 @@
 |Qdals _1||8|||<!-- 1/9 -->
 |ohmnanon upvel 1||12|||<!-- 31/3 - 2/9 -->
 |survivor sa 9||24|||<!-- 9/9 -->
-||||||<!--  -->
+|The voice kids colombia _6||37|||<!--  -->
+|the voice arg 4||71|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -832,7 +833,6 @@
 |sky in your heart 1|||||0|<!--  -->
 |agt 17|||||0|<!--  -->
 |want to see you 1|||||0|<!--  -->
-|the voice arg 4|||||0|<!--  -->
 |le flambeau 1|||||0|<!--  -->
 |mama gogo 1|||||0|<!--  -->
 |dancing with myself 1|||||0|<!--  -->

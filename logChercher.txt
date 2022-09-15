@@ -1,9 +1,4 @@
 
-i = The voice arg _4
-ligne :  327 ZZ/Thevoicearg_4.txt
-mot   :  8284 ZZ/Thevoicearg_4.txt
-carac :  51258 ZZ/Thevoicearg_4.txt
-
 i = Big brother us _24
 ligne :  118 ZZ/Bigbrotherus_24.txt
 mot   :  4171 ZZ/Bigbrotherus_24.txt
