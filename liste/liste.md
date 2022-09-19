@@ -645,6 +645,7 @@
 |The voice kids colombia _6||37|||<!--  -->
 |the voice arg 4||71|||<!--  -->
 |ahss 2||8|||<!--  -->
+|minatos laundromat 1|minatos laundromat 1|12|serie|japon|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -857,7 +858,6 @@
 |his man 1|||||0|<!--  -->
 |blueming 1|||||0|<!--  -->
 |the masked singer nz 2|||||0|<!--  -->
-|minatos laundromat 1|||||0|<!--  -->
 |the amazing race 32|||||0|<!--  -->
 |rpdrdu 2|||||0|<!--  -->
 |god shave the queens 2|||||0|<!--  -->

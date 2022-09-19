@@ -252,6 +252,7 @@
 |even sun _1|even sun|6|serie|thailande|<!-- 3/8 -->
 |fiertes _1|fiertés|3|serie|france|<!-- 25/8 -->
 |ohmnanon upvel 1|ohmnanon upvel 1|12|show|thailande|<!-- 2/9 -->
+|minatos laundromat 1|minatos laundromat 1|12|serie|japon|<!-- 19/9 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -329,7 +330,6 @@
 |vice versa|vice versa|12|serie|thailande|3|<!--  -->
 |his man 1|his man 1|12|show|corée|4|<!--  -->
 |blueming 1|blueming 1|11|serie|corée|4|<!--  -->
-|minatos laundromat 1|minatos laundromat 1|12|serie|japon|5|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
