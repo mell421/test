@@ -49,7 +49,7 @@
 - sem 01-08-2022 -> The masked singer nz _2x3(1) The voice th _9x4(1) The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(1) Vice versa series _1x4(1) Big brother us _24x11(4) Drag race ca _3x4(1) Beat shazam _5x8(2) Blueming _1x4(2) The challenge usa _1x5(1) The voice dominicana _2x8(1) 
 - sem 08-08-2022 -> The voice th _9x5(1) Vice versa series _1x5(1) Beat shazam _5x9(1) His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) The challenge usa _1x6(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
 - sem 15-08-2022 -> The voice th _9x6(1) The masked singer nz _2x5(2) His man _1x7(1) Vice versa series _1x6(1) Drag race ca _3x6(2) Rpscdr _2x2(1) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) The challenge usa _1x7(1) Beat shazam _5x10(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) The voice dominicana _2x10(1) 
-- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The voice th _9x7(1) Magic of zero _1x2(1) The voice kids fr _8x2(1) Vice versa series _1x7(1) The voice ger _12x3(2) The eclipse _1x3(1) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The voice th _9x7(1) The voice kids fr _8x2(1) Vice versa series _1x7(1) The voice ger _12x3(2) The eclipse _1x3(1) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 
 
 
@@ -135,7 +135,6 @@
 * conclu 01/06/22 = Beat shazam _2 > 2; Beat shazam _5 > 1; 
 * conclu 03/06/22 = Dont forget the lyrics _1 > 1; 
 * conclu 04/06/22 = Agt _17 > 1; 
-* conclu 07/06/22 = 
 * conclu 08/06/22 = Le flambeau _1 > 1; 
 * conclu 09/06/22 = Le flambeau _1 > 1; 
 * conclu 10/06/22 = Le flambeau _1 > 1; 
@@ -143,79 +142,22 @@
 * conclu 12/06/22 = Le flambeau _1 > 1; 
 * conclu 13/06/22 = Le flambeau _1 > 1; 
 conclu 14/06/22 = Le flambeau _1 > 1; 
-conclu 15/06/22 = 
-conclu 16/06/22 = 
-conclu 17/06/22 = 
-conclu 18/06/22 = 
-conclu 19/06/22 = 
-conclu 20/06/22 = 
-conclu 21/06/22 = 
-conclu 22/06/22 = 
-conclu 23/06/22 = 
-conclu 24/06/22 = 
 conclu 25/06/22 = Bulgasal _1 > 2; 
 conclu 26/06/22 = Bulgasal _1 > 2; 
 conclu 27/06/22 = Bulgasal _1 > 2; 
 conclu 28/06/22 = Bulgasal _1 > 1; 
 conclu 29/06/22 = Dont forget the lyrics _1 > 1; 
-conclu 30/06/22 = 
-conclu 01/07/22 = 
-conclu 02/07/22 = 
-conclu 03/07/22 = 
-conclu 04/07/22 = 
-conclu 05/07/22 = 
-conclu 06/07/22 = 
-conclu 07/07/22 = 
-conclu 08/07/22 = 
-conclu 09/07/22 = 
-conclu 10/07/22 = 
-conclu 11/07/22 = 
-conclu 12/07/22 = 
 conclu 13/07/22 = Big brother us _23 > 2; 
 conclu 14/07/22 = Big brother us _23 > 1; 
 conclu 15/07/22 = Big brother us _23 > 2; 
 conclu 16/07/22 = Big brother us _23 > 1; 
 conclu 17/07/22 = Big brother us _23 > 2; 
 conclu 18/07/22 = Big brother us _23 > 2; 
-conclu 19/07/22 = 
-conclu 20/07/22 = 
-conclu 21/07/22 = 
-conclu 22/07/22 = 
-conclu 23/07/22 = 
-conclu 24/07/22 = 
-conclu 25/07/22 = 
-conclu 26/07/22 = 
-conclu 27/07/22 = 
-conclu 28/07/22 = 
-conclu 29/07/22 = 
-conclu 30/07/22 = 
 conclu 31/07/22 = Big brother us _24 > 1; 
-conclu 01/08/22 = 
-conclu 02/08/22 = 
-conclu 03/08/22 = 
 conclu 04/08/22 = Big brother us _24 > 1; 
 conclu 05/08/22 = Big brother us _24 > 4; 
 conclu 06/08/22 = Big brother us _24 > 3; His man _1 > 1; 
 conclu 07/08/22 = Big brother us _24 > 3; His man _1 > 1; 
-conclu 08/08/22 = Big brother us _24 > 3; 
-conclu 09/08/22 = 
-conclu 10/08/22 = 
-conclu 11/08/22 = 
-conclu 12/08/22 = 
-conclu 13/08/22 = 
-conclu 14/08/22 = 
-conclu 15/08/22 = 
-conclu 16/08/22 = 
-conclu 17/08/22 = 
-conclu 18/08/22 = 
-conclu 19/08/22 = 
-conclu 20/08/22 = 
-conclu 21/08/22 = Big brother us _24 > 3; 
-conclu 22/08/22 = Big brother us _24 > 3; 
-conclu 23/08/22 = Big brother us _24 > 3; 
-conclu 24/08/22 = Big brother us _24 > 3; 
-conclu 25/08/22 = Big brother us _24 > 2; 
-conclu 26/08/22 = Big brother us _24 > 2; 
 conclu 27/08/22 = Big brother us _24 > 2; The voice senior peru _2 > 1; 
 
 
@@ -322,7 +264,6 @@ concluBis 02/06/22 = Dont forget the lyrics _1 > 2;
 concluBis 03/06/22 = Dont forget the lyrics _1 > 3; 
 concluBis 04/06/22 = Agt _17 > 3; Sky in your heart _1 > 2; 
 concluBis 06/06/22 = Want to see you _1 > 1; 
-concluBis 07/06/22 = 
 concluBis 08/06/22 = Le flambeau _1 > 3; 
 concluBis 09/06/22 = Le flambeau _1 > 3; 
 concluBis 10/06/22 = Le flambeau _1 > 3; /9-1-1 _5 > 1; 
@@ -333,11 +274,6 @@ concluBis 14/06/22 = Le flambeau _1 > 3;
 concluBis 15/06/22 = /9-1-1 _5 > 1; 
 concluBis 16/06/22 = /9-1-1 _5 > 1; Forever knight _1 > 1; 
 concluBis 17/06/22 = Dont forget the lyrics _1 > 1; Close friend _2 > 1; Forever knight _1 > 1; 
-concluBis 18/06/22 = 
-concluBis 19/06/22 = 
-concluBis 20/06/22 = 
-concluBis 21/06/22 = 
-concluBis 22/06/22 = 
 concluBis 23/06/22 = Bulgasal _1 > 2; 
 concluBis 24/06/22 = Bulgasal _1 > 2; Dont forget the lyrics _1 > 1; 
 concluBis 25/06/22 = Bulgasal _1 > 4; Dont forget the lyrics _1 > 1; The voice dominicana _2 > 1; 
@@ -347,14 +283,11 @@ concluBis 28/06/22 = Bulgasal _1 > 3; The voice dominicana _2 > 2;
 concluBis 29/06/22 = Dont forget the lyrics _1 > 4; Bulgasal _1 > 2; 
 concluBis 30/06/22 = Dont forget the lyrics _1 > 1; 
 concluBis 01/07/22 = The challenge _4 > 1; 
-concluBis 02/07/22 = 
 concluBis 03/07/22 = The challenge _4 > 2; 
 concluBis 04/07/22 = The challenge _4 > 1; 
 concluBis 05/07/22 = The challenge _4 > 2; 
 concluBis 06/07/22 = The challenge _4 > 1; 
-concluBis 07/07/22 = 
 concluBis 08/07/22 = The challenge usa _1 > 1; 
-concluBis 09/07/22 = 
 concluBis 10/07/22 = Forever knight _1 > 1; 
 concluBis 11/07/22 = Forever knight _1 > 1; 
 concluBis 12/07/22 = Forever knight _1 > 2; Big brother us _23 > 1; Imortal _1 > 1; 

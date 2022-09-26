@@ -911,18 +911,13 @@
 - 22/03/22 - 394* cupids last wish _1{15} 
 - 23/03/22 - 248* cupids last wish _1{16} 
 - 24/03/22 - 235* cupids last wish _1{17} 
-- 01/04/22 - 333* 
 - 02/04/22 - 363* quaranthings _2{0} 
 - 10/04/22 - 447* trivia quest _1{0} 
 - 11/04/22 - 465* trivia quest _1{2} 
 - 12/04/22 - 134* trivia quest _1{5} 
-- 13/04/22 - 143* 
-- 14/04/22 - 110* 
-- 15/04/22 - 118* 
 - 16/04/22 - 208* call me mother _1{0} 
 - 17/04/22 - 263* call me mother _1{0} 
 - 18/04/22 - 292* call me mother _1{0} 
-- 27/04/22 - 167* 
 - 28/04/22 - 182* Bullshit the game show _1{0} 
 - 29/04/22 - 187* Bullshit the game show _1{1} 
 - 01/05/22 - 583* Druck _8{0} 
@@ -933,8 +928,6 @@
 - 06/05/22 - 226* Close friend _2{0} Clik clak clok _1{0} The circle us _4{2} 
 - 07/05/22 - 164* Close friend _2{0} Clik clak clok _1{0} The circle us _4{4} 
 - 08/05/22 - 396* Close friend _2{0} Clik clak clok _1{0} 
-- 10/05/22 - 553* 
-- 11/05/22 - 572* 
 - 12/05/22 - 300* The circle us _4{15} 
 - 13/05/22 - 317* The circle us _4{15} 
 - 14/05/22 - 294* The circle us _4{15} 
@@ -1032,10 +1025,10 @@
 18/08/22 - 312* His man _1{11} Rpdrdu _2{3} Drag race ph _1{0} The voice dominicana _2{14} The voice th _9{6} 
 19/08/22 - 353* The challenge usa _1{8} Big brother us _24{39} Love in the air _1{0} His man _1{11} Rpdrdu _2{3} 
 20/08/22 - 349* The eclipse _1{1} The voice ger _12{0} The challenge usa _1{8} Big brother us _24{40} Love in the air _1{0} 
-21/08/22 - 252* Magic of zero _1{0} The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
-22/08/22 - 85* The voice dominicana _2{14} The masked singer nz _2{4} The voice th _9{6} Magic of zero _1{0} The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} 
-23/08/22 - 265* The voice dominicana _2{16} The masked singer nz _2{5} The voice th _9{7} Magic of zero _1{1} The voice kids fr _8{1} Vice versa series _1{7} The voice ger _12{1} 
-24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The masked singer nz _2{5} The voice th _9{7} Magic of zero _1{1} The voice kids fr _8{1} 
+21/08/22 - 252* The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
+22/08/22 - 85* The voice dominicana _2{14} The masked singer nz _2{4} The voice th _9{6} The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} 
+23/08/22 - 265* The voice dominicana _2{16} The masked singer nz _2{5} The voice th _9{7} The voice kids fr _8{1} Vice versa series _1{7} The voice ger _12{1} 
+24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The masked singer nz _2{5} The voice th _9{7} The voice kids fr _8{1} 
 25/08/22 - 291* The voice senior peru _2{0} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{18} The masked singer nz _2{5} 
 26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} The challenge usa _1{9} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{19} 
 27/08/22 - 302* The voice senior peru _2{1} The voice ger _12{3} Drag race ca _3{5} Love in the air _1{1} The challenge usa _1{9} 

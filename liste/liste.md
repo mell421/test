@@ -646,6 +646,7 @@
 |the voice arg 4||71|||<!--  -->
 |ahss 2||8|||<!--  -->
 |minatos laundromat 1|minatos laundromat 1|12|serie|japon|<!--  -->
+|magic of zero 1||3|serie|thailande|<!-- 25/9 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

@@ -41,7 +41,7 @@ aEff/aeff.md:20/07/22 - 353* Big brother us _23{15} Tokyo ghoul _3{8} The voice 
 aEff/aeff.md:20/08/22 - 349* The eclipse _1{1} The voice ger _12{0} The challenge usa _1{8} Big brother us _24{40} Love in the air _1{0} 
 aEff/aeff.md:20/08/22 (eff) - Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:21/07/22 - 314* Unforgotten night _1{5} Big brother us _23{16} Tokyo ghoul _3{8} The voice dominicana _2{9} Big brother us _24{3} 
-aEff/aeff.md:21/08/22 - 252* Magic of zero _1{0} The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
+aEff/aeff.md:21/08/22 - 252* The voice kids fr _8{0} Vice versa series _1{6} The voice ger _12{0} The eclipse _1{1} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
 aEff/aeff.md:21/08/22 (eff) - Big brother us _24{41} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:22/07/22 - 301* The challenge usa _1{3} Big brother us _24{3} Unforgotten night _1{5} Big brother us _23{17} 
 aEff/aeff.md:22/08/22 (eff) - Big brother us _24{43} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} The voice dominicana _2{14} Beat shazam _5{13} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
@@ -64,19 +64,12 @@ apercu/apercu22.md:- sem 01-08-2022 -> The masked singer nz _2x3(1) The voice th
 apercu/apercu22.md:- sem 08-08-2022 -> The voice th _9x5(1) Vice versa series _1x5(1) Beat shazam _5x9(1) His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) The challenge usa _1x6(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
 apercu/apercu22.md:- sem 15-08-2022 -> The voice th _9x6(1) The masked singer nz _2x5(2) His man _1x7(1) Vice versa series _1x6(1) Drag race ca _3x6(2) Rpscdr _2x2(1) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) The challenge usa _1x7(1) Beat shazam _5x10(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) The voice dominicana _2x10(1) 
 apercu/apercu22.md:- sem 18-07-2022 -> The voice th _9x2(1) Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) Vice versa series _1x2(1) The challenge _4x4(1) Big brother us _24x5(4) Drag race ca _3x2(1) Big brother us _23x8(7) Unforgotten night _1x5(1) The challenge usa _1x3(1) The voice dominicana _2x6(1) 
-apercu/apercu22.md:- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The voice th _9x7(1) Magic of zero _1x2(1) The voice kids fr _8x2(1) Vice versa series _1x7(1) The voice ger _12x3(2) The eclipse _1x3(1) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+apercu/apercu22.md:- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The voice th _9x7(1) The voice kids fr _8x2(1) Vice versa series _1x7(1) The voice ger _12x3(2) The eclipse _1x3(1) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 apercu/apercu22.md:- sem 25-07-2022 -> The masked singer nz _2x2(1) The voice th _9x3(1) Blueming _1x2(1) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Drag race ca _3x3(1) Vice versa series _1x3(1) The challenge usa _1x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) The voice dominicana _2x7(1) 
 apercu/apercu22.md:conclu 04/08/22 = Big brother us _24 > 1; 
 apercu/apercu22.md:conclu 05/08/22 = Big brother us _24 > 4; 
 apercu/apercu22.md:conclu 06/08/22 = Big brother us _24 > 3; His man _1 > 1; 
 apercu/apercu22.md:conclu 07/08/22 = Big brother us _24 > 3; His man _1 > 1; 
-apercu/apercu22.md:conclu 08/08/22 = Big brother us _24 > 3; 
-apercu/apercu22.md:conclu 21/08/22 = Big brother us _24 > 3; 
-apercu/apercu22.md:conclu 22/08/22 = Big brother us _24 > 3; 
-apercu/apercu22.md:conclu 23/08/22 = Big brother us _24 > 3; 
-apercu/apercu22.md:conclu 24/08/22 = Big brother us _24 > 3; 
-apercu/apercu22.md:conclu 25/08/22 = Big brother us _24 > 2; 
-apercu/apercu22.md:conclu 26/08/22 = Big brother us _24 > 2; 
 apercu/apercu22.md:conclu 27/08/22 = Big brother us _24 > 2; The voice senior peru _2 > 1; 
 apercu/apercu22.md:conclu 31/07/22 = Big brother us _24 > 1; 
 apercu/apercu22.md:concluBis 01/08/22 = Big brother us _24 > 8; Big brother us _23 > 1; 

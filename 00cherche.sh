@@ -25,7 +25,7 @@ list99=(
 # 7-6
 "Love in the air _1" "The eclipse _1" "The voice kids fr _8" "The amazing race _32" "Second chance series _1" 
 # 5-4
-"Magic of zero _1" "Rpscdr _2" "God shave the queens _2" "Grimm _1" "Rose in da house _1" "Survivor _31" 
+"Rpscdr _2" "God shave the queens _2" "Grimm _1" "Rose in da house _1" "Survivor _31" 
 # 3-2
 "The masked singer fr _4" "Masterchef fr _6" "Juad juad _1" "Drag race ph _1" 
 # 0-1
