@@ -647,6 +647,7 @@
 |ahss 2||8|||<!--  -->
 |minatos laundromat 1|minatos laundromat 1|12|serie|japon|<!--  -->
 |magic of zero 1||3|serie|thailande|<!-- 25/9 -->
+|vice versa|vice versa|12|serie|thailande|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -852,7 +853,6 @@
 |big brother us 24|||||0|<!--  -->
 |big brother us 23|||||0|<!--  -->
 |drag race ca 3|||||0|<!--  -->
-|vice versa||?|serie|thailande|0|<!--  -->
 |survivor 31||15|||0|<!--  -->
 |game of talents fr 2|||||0|<!--  -->
 |the voice th 9|||||0|<!--  -->

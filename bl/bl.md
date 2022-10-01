@@ -254,6 +254,7 @@
 |ohmnanon upvel 1|ohmnanon upvel 1|12|show|thailande|<!-- 2/9 -->
 |minatos laundromat 1|minatos laundromat 1|12|serie|japon|<!-- 19/9 -->
 |magic of zero 1||3|serie|thailande|<!-- 25/9 -->
+|vice versa|vice versa|12|serie|thailande|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -328,7 +329,6 @@
 |unforgotten night 1|unforgotten night 1|12|serie|thailande|5|<!--  -->
 |Rose in da house 1|Rose in da house 1|6|serie|thailande|1|<!--  -->
 |Second chance 1|Second chance 1|6|serie|thailande|1|<!--  -->
-|vice versa|vice versa|12|serie|thailande|3|<!--  -->
 |his man 1|his man 1|12|show|corée|4|<!--  -->
 |blueming 1|blueming 1|11|serie|corée|4|<!--  -->
 |||||||<!--  -->
