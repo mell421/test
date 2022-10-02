@@ -980,56 +980,56 @@
 05/07/22 - 361* Agt _17{4} The voice dominicana _2{7} Beat shazam _5{9} 
 06/07/22 - 355* Agt _17{4} The voice dominicana _2{7} Beat shazam _5{9} 
 07/07/22 - 265* Second chance series _1{0} Unforgotten night _1{3} Agt _17{4} The voice dominicana _2{7} 
-08/07/22 - 247* The challenge usa _1{0} Second chance series _1{0} Unforgotten night _1{3} Agt _17{4} The voice dominicana _2{7} 
-09/07/22 - 608* The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
-10/07/22 - 596* Two pints of lager _3{13} The challenge usa _1{1} Second chance series _1{0} Unforgotten night _1{3} 
-11/07/22 - 629* Two pints of lager _3{13} The challenge usa _1{1} 
+08/07/22 - 247* Second chance series _1{0} Unforgotten night _1{3} Agt _17{4} The voice dominicana _2{7} 
+09/07/22 - 608* Second chance series _1{0} Unforgotten night _1{3} 
+10/07/22 - 596* Two pints of lager _3{13} Second chance series _1{0} Unforgotten night _1{3} 
+11/07/22 - 629* Two pints of lager _3{13} 
 12/07/22 - 304* Big brother us _23{0} Big brother us _24{0} The voice dominicana _2{8} Two pints of lager _3{14} 
 13/07/22 - 316* Big brother us _23{1} Big brother us _24{0} The voice dominicana _2{8} Two pints of lager _3{14} 
-14/07/22 - 279* Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{0} Big brother us _23{3} The voice dominicana _2{8} 
-15/07/22 - 266* Big brother us _23{5} Unforgotten night _1{4} The challenge usa _1{2} Big brother us _24{1} 
+14/07/22 - 279* Unforgotten night _1{4} Big brother us _24{0} Big brother us _23{3} The voice dominicana _2{8} 
+15/07/22 - 266* Big brother us _23{5} Unforgotten night _1{4} Big brother us _24{1} 
 16/07/22 - 310* The challenge _4{7} Big brother us _24{1} Drag race ca _3{0} Big brother us _23{7} 
 17/07/22 - 273* Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} The challenge _4{7} Big brother us _24{1} 
 18/07/22 - 173* The voice th _9{0} Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} The challenge _4{7} 
 19/07/22 - 197* The voice dominicana _2{9} Big brother us _23{14} Big brother us _24{2} The voice th _9{1} Game of talents fr _2{1} Grimm _1{1} 
 20/07/22 - 353* Big brother us _23{15} Tokyo ghoul _3{8} The voice dominicana _2{9} Big brother us _24{3} The voice th _9{1} 
 21/07/22 - 314* Unforgotten night _1{5} Big brother us _23{16} Tokyo ghoul _3{8} The voice dominicana _2{9} Big brother us _24{3} 
-22/07/22 - 301* The challenge usa _1{3} Big brother us _24{3} Unforgotten night _1{5} Big brother us _23{17} 
-23/07/22 - 299* The challenge usa _1{3} Big brother us _24{3} Unforgotten night _1{5} 
-24/07/22 - 172* Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} The challenge usa _1{3} 
+22/07/22 - 301* Big brother us _24{3} Unforgotten night _1{5} Big brother us _23{17} 
+23/07/22 - 299* Big brother us _24{3} Unforgotten night _1{5} 
+24/07/22 - 172* Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} 
 25/07/22 - 177* The voice th _9{1} Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} Drag race ca _3{1} 
 26/07/22 - 225* Big brother us _24{5} The voice dominicana _2{10} The voice th _9{2} Blueming _1{1} His man _1{1} 
 27/07/22 - 377* Blueming _1{1} Big brother us _24{6} The voice dominicana _2{10} 
 28/07/22 - 359* Blueming _1{1} Big brother us _24{7} 
-29/07/22 - 356* Blueming _1{1} Big brother us _24{8} The challenge usa _1{4} 
+29/07/22 - 356* Blueming _1{1} Big brother us _24{8} 
 30/07/22 - 329* Big brother us _24{9} Drag race ca _3{2} The amazing race _32{0} Beat shazam _5{9} Blueming _1{2} 
 31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{10} Drag race ca _3{2} Beat shazam _5{9} Blueming _1{2} 
 31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{10} Drag race ca _3{2} Beat shazam _5{9} Blueming _1{2} 
 01/08/22 - 28* The voice th _9{2} The challenge _4{8} God shave the queens _2{0} Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{12} Drag race ca _3{2} 
 02/08/22 - 228* The voice dominicana _2{12} His man _1{2} Big brother us _24{15} The challenge _4{10} The voice th _9{4} God shave the queens _2{2} Rpdrdu _2{2} The amazing race _32{2} Game of talents fr _2{3} 
 03/08/22 - 407* Blueming _1{4} His man _1{2} The voice dominicana _2{12} Big brother us _24{16} The challenge _4{10} The voice th _9{4} God shave the queens _2{2} 
-04/08/22 - 438* The challenge usa _1{6} Big brother us _24{17} Blueming _1{4} His man _1{3} The voice dominicana _2{12} The challenge _4{10} 
-05/08/22 - 289* Big brother us _24{19} Unforgotten night _1{7} The challenge usa _1{6} Blueming _1{4} 
-06/08/22 - 287* Beat shazam _5{11} His man _1{4} Big brother us _24{21} Unforgotten night _1{7} The challenge usa _1{6} 
-07/08/22 - 277* Beat shazam _5{11} His man _1{6} Big brother us _24{23} Unforgotten night _1{7} The challenge usa _1{6} 
+04/08/22 - 438* Big brother us _24{17} Blueming _1{4} His man _1{3} The voice dominicana _2{12} The challenge _4{10} 
+05/08/22 - 289* Big brother us _24{19} Unforgotten night _1{7} Blueming _1{4} 
+06/08/22 - 287* Beat shazam _5{11} His man _1{4} Big brother us _24{21} Unforgotten night _1{7} 
+07/08/22 - 277* Beat shazam _5{11} His man _1{6} Big brother us _24{23} Unforgotten night _1{7} 
 08/08/22 - 275* The voice th _9{4} Beat shazam _5{11} His man _1{8} Big brother us _24{25} 
 09/08/22 - 254* Agt _17{6} The voice dominicana _2{13} The voice th _9{5} 
 10/08/22 - 268* Rpdrdu _2{2} Drag race ca _3{4} Agt _17{7} The voice dominicana _2{13} The voice th _9{5} 
-11/08/22 - 322* The challenge usa _1{7} Big brother us _24{30} Beat shazam _5{12} Dont forget the lyrics _1{18} Rpdrdu _2{2} Drag race ca _3{4} Agt _17{7} 
-12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Blueming _1{5} Juad juad _1{0} The challenge usa _1{7} Beat shazam _5{12} Dont forget the lyrics _1{19} 
-13/08/22 - 326* The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{32} Blueming _1{5} Juad juad _1{0} The challenge usa _1{7} Beat shazam _5{12} 
+11/08/22 - 322* Big brother us _24{30} Beat shazam _5{12} Dont forget the lyrics _1{18} Rpdrdu _2{2} Drag race ca _3{4} Agt _17{7} 
+12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Blueming _1{5} Juad juad _1{0} Beat shazam _5{12} Dont forget the lyrics _1{19} 
+13/08/22 - 326* The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{32} Blueming _1{5} Juad juad _1{0} Beat shazam _5{12} 
 14/08/22 - 318* His man _1{10} Drag race ca _3{4} Rpscdr _2{0} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{33} 
 15/08/22 - 287* The voice th _9{5} His man _1{10} Drag race ca _3{4} Rpscdr _2{0} 
 16/08/22 - 302* The voice dominicana _2{14} The voice th _9{6} His man _1{11} Drag race ca _3{5} Rpscdr _2{1} 
 17/08/22 - 307* The voice dominicana _2{14} The voice th _9{6} His man _1{11} Drag race ca _3{5} Rpscdr _2{1} 
 18/08/22 - 312* His man _1{11} Rpdrdu _2{3} Drag race ph _1{0} The voice dominicana _2{14} The voice th _9{6} 
-19/08/22 - 353* The challenge usa _1{8} Big brother us _24{39} Love in the air _1{0} His man _1{11} Rpdrdu _2{3} 
-20/08/22 - 349* The eclipse _1{1} The voice ger _12{0} The challenge usa _1{8} Big brother us _24{40} Love in the air _1{0} 
-21/08/22 - 252* The voice kids fr _8{0} The voice ger _12{0} The eclipse _1{1} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
+19/08/22 - 353* Big brother us _24{39} Love in the air _1{0} His man _1{11} Rpdrdu _2{3} 
+20/08/22 - 349* The eclipse _1{1} The voice ger _12{0} Big brother us _24{40} Love in the air _1{0} 
+21/08/22 - 252* The voice kids fr _8{0} The voice ger _12{0} The eclipse _1{1} Big brother us _24{41} Love in the air _1{0} 
 22/08/22 - 85* The voice dominicana _2{14} The voice th _9{6} The voice kids fr _8{0} The voice ger _12{0} The eclipse _1{1} 
 23/08/22 - 265* The voice dominicana _2{16} The voice th _9{7} The voice kids fr _8{1} The voice ger _12{1} 
 24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The voice th _9{7} The voice kids fr _8{1} 
 25/08/22 - 291* The voice senior peru _2{0} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{18} 
-26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} The challenge usa _1{9} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{19} 
-27/08/22 - 302* The voice senior peru _2{1} The voice ger _12{3} Drag race ca _3{5} Love in the air _1{1} The challenge usa _1{9} 
+26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{19} 
+27/08/22 - 302* The voice senior peru _2{1} The voice ger _12{3} Drag race ca _3{5} Love in the air _1{1} 
 

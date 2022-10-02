@@ -43,13 +43,13 @@
 - sem 20-06-2022 -> The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Close friend _2x3(1) Dont forget the lyrics _1x5(1) Beat shazam _5x5(1) 
 - sem 27-06-2022 -> Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dont forget the lyrics _1x6(1) Dancing with myself _1x3(1) Unforgotten night _1x2(1) The voice dominicana _2x3(2) Camping paradis _13x2(1) 
 - sem 04-07-2022 -> Beat shazam _5x6(1) The challenge _4x3(2) Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Dont forget the lyrics _1x7(1) Camping paradis _13x3(1) The voice dominicana _2x4(1) 
-- sem 11-07-2022 -> Two pints of lager _3x7(1) The challenge usa _1x2(1) Second chance series _1x2(1) Unforgotten night _1x4(1) Agt _17x3(1) The voice dominicana _2x5(1) 
-- sem 18-07-2022 -> The voice th _9x2(1) Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) The challenge _4x4(1) Big brother us _24x5(4) Drag race ca _3x2(1) Big brother us _23x8(7) Unforgotten night _1x5(1) The challenge usa _1x3(1) The voice dominicana _2x6(1) 
-- sem 25-07-2022 -> The voice th _9x3(1) Blueming _1x2(1) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Drag race ca _3x3(1) The challenge usa _1x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) The voice dominicana _2x7(1) 
-- sem 01-08-2022 -> The voice th _9x4(1) The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(1) Big brother us _24x11(4) Drag race ca _3x4(1) Beat shazam _5x8(2) Blueming _1x4(2) The challenge usa _1x5(1) The voice dominicana _2x8(1) 
-- sem 08-08-2022 -> The voice th _9x5(1) Beat shazam _5x9(1) His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) The challenge usa _1x6(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
-- sem 15-08-2022 -> The voice th _9x6(1) His man _1x7(1) Drag race ca _3x6(2) Rpscdr _2x2(1) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) The challenge usa _1x7(1) Beat shazam _5x10(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) The voice dominicana _2x10(1) 
-- sem 22-08-2022 -> The voice dominicana _2x12(2) The voice th _9x7(1) The voice kids fr _8x2(1) The voice ger _12x3(2) The eclipse _1x3(1) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+- sem 11-07-2022 -> Two pints of lager _3x7(1) Second chance series _1x2(1) Unforgotten night _1x4(1) Agt _17x3(1) The voice dominicana _2x5(1) 
+- sem 18-07-2022 -> The voice th _9x2(1) Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) The challenge _4x4(1) Big brother us _24x5(4) Drag race ca _3x2(1) Big brother us _23x8(7) Unforgotten night _1x5(1) The voice dominicana _2x6(1) 
+- sem 25-07-2022 -> The voice th _9x3(1) Blueming _1x2(1) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Drag race ca _3x3(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) The voice dominicana _2x7(1) 
+- sem 01-08-2022 -> The voice th _9x4(1) The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(1) Big brother us _24x11(4) Drag race ca _3x4(1) Beat shazam _5x8(2) Blueming _1x4(2) The voice dominicana _2x8(1) 
+- sem 08-08-2022 -> The voice th _9x5(1) Beat shazam _5x9(1) His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
+- sem 15-08-2022 -> The voice th _9x6(1) His man _1x7(1) Drag race ca _3x6(2) Rpscdr _2x2(1) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Beat shazam _5x10(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) The voice dominicana _2x10(1) 
+- sem 22-08-2022 -> The voice dominicana _2x12(2) The voice th _9x7(1) The voice kids fr _8x2(1) The voice ger _12x3(2) The eclipse _1x3(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 
 
 
@@ -67,7 +67,7 @@
 - mois 01-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Call me mother _1x2(1) Trivia quest _1x7(6) Quaranthings _2x2(1) 
 - mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 - mois 01-07-2022 -> Beat shazam _5x6(3) The challenge _4x3(2) Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) The voice dominicana _2x4(3) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
-- mois 01-08-2022 -> The voice th _9x4(3) The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(2) Big brother us _24x11(10) Drag race ca _3x4(3) Beat shazam _5x8(2) Blueming _1x4(3) The challenge usa _1x5(4) The voice dominicana _2x8(4) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+- mois 01-08-2022 -> The voice th _9x4(3) The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(2) Big brother us _24x11(10) Drag race ca _3x4(3) Beat shazam _5x8(2) Blueming _1x4(3) The voice dominicana _2x8(4) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
 
 
 
@@ -287,7 +287,7 @@ concluBis 03/07/22 = The challenge _4 > 2;
 concluBis 04/07/22 = The challenge _4 > 1; 
 concluBis 05/07/22 = The challenge _4 > 2; 
 concluBis 06/07/22 = The challenge _4 > 1; 
-concluBis 08/07/22 = The challenge usa _1 > 1; 
+concluBis 08/07/22 = 
 concluBis 10/07/22 = Forever knight _1 > 1; 
 concluBis 11/07/22 = Forever knight _1 > 1; 
 concluBis 12/07/22 = Forever knight _1 > 2; Big brother us _23 > 1; Imortal _1 > 1; 

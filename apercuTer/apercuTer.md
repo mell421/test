@@ -38,6 +38,7 @@
 * Minatos laundromat _1
 ### sem 26-09-2022 
 * *insererici*
+* The challenge usa _1
 * The masked singer nz _2
 * Vice versa series _1
 ### sem 03-10-2022 
@@ -73,7 +74,7 @@
 * Drag race ca _3
 * Beat shazam _5
 * Blueming _1
-* The challenge usa _1
+* 
 * The voice dominicana _2
 * His man _1
 * Rpdrasu _7
@@ -178,7 +179,7 @@
 #### mois 01-10-2022 
 *insererici Magic of zero _1 Minatos laundromat _1 Ahss _2 The voice arg _4 The voice kids colombia _6 Survivor sa _9 Ohmnanon upvel _1 Qdals _1*
 #### mois 01-11-2022 
-*insererici The masked singer nz _2 Vice versa series _1*
+*insererici The challenge usa _1 The masked singer nz _2 Vice versa series _1*
 #### mois 01-12-2022 
 *insererici*
 

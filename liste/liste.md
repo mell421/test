@@ -649,6 +649,7 @@
 |magic of zero 1||3|serie|thailande|<!-- 25/9 -->
 |vice versa|vice versa|12|serie|thailande|<!--  -->
 |the masked singer nz 2||11|||<!--  -->
+|the challenge usa 1||11|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -850,7 +851,6 @@
 |rose in da house 1|||||0|<!--  -->
 |the challenge 4|||||0|<!--  -->
 |second chance series 1|||||0|<!--  -->
-|the challenge usa 1|||||0|<!--  -->
 |big brother us 24|||||0|<!--  -->
 |big brother us 23|||||0|<!--  -->
 |drag race ca 3|||||0|<!--  -->

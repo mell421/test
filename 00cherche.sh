@@ -13,7 +13,7 @@ list99=(
 # 49-40
 "His man _1" "The challenge _4" 
 # 39-30
-"The challenge usa _1" "Tokyo ghoul _3" 
+"Tokyo ghoul _3" 
 # 29-20
 "Unforgotten night _1" "The voice th _9" 
 # 19-15
