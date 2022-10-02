@@ -1,5 +1,5 @@
 aEff/aeff.md:21/08/22 - 252* The voice kids fr _8{0} The voice ger _12{0} The eclipse _1{1} The challenge usa _1{8} Big brother us _24{41} Love in the air _1{0} 
-aEff/aeff.md:22/08/22 - 85* The voice dominicana _2{14} The masked singer nz _2{4} The voice th _9{6} The voice kids fr _8{0} The voice ger _12{0} The eclipse _1{1} 
-aEff/aeff.md:23/08/22 - 265* The voice dominicana _2{16} The masked singer nz _2{5} The voice th _9{7} The voice kids fr _8{1} The voice ger _12{1} 
-aEff/aeff.md:24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The masked singer nz _2{5} The voice th _9{7} The voice kids fr _8{1} 
-apercu/apercu22.md:- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The voice th _9x7(1) The voice kids fr _8x2(1) The voice ger _12x3(2) The eclipse _1x3(1) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+aEff/aeff.md:22/08/22 - 85* The voice dominicana _2{14} The voice th _9{6} The voice kids fr _8{0} The voice ger _12{0} The eclipse _1{1} 
+aEff/aeff.md:23/08/22 - 265* The voice dominicana _2{16} The voice th _9{7} The voice kids fr _8{1} The voice ger _12{1} 
+aEff/aeff.md:24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The voice th _9{7} The voice kids fr _8{1} 
+apercu/apercu22.md:- sem 22-08-2022 -> The voice dominicana _2x12(2) The voice th _9x7(1) The voice kids fr _8x2(1) The voice ger _12x3(2) The eclipse _1x3(1) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 

@@ -17,7 +17,7 @@ list99=(
 # 29-20
 "Unforgotten night _1" "The voice th _9" 
 # 19-15
-"Drag race ca _3" "The masked singer nz _2" "Blueming _1" "Agt _17" "Close friend _2" 
+"Drag race ca _3" "Blueming _1" "Agt _17" "Close friend _2" 
 # 14-10
 "Rpdrasu _7" "Rpdras _7" "Rpdrdu _2" "Sky in your heart _1" 
 # 9-8

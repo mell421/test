@@ -648,6 +648,7 @@
 |minatos laundromat 1|minatos laundromat 1|12|serie|japon|<!--  -->
 |magic of zero 1||3|serie|thailande|<!-- 25/9 -->
 |vice versa|vice versa|12|serie|thailande|<!--  -->
+|the masked singer nz 2||11|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -858,7 +859,6 @@
 |the voice th 9|||||0|<!--  -->
 |his man 1|||||0|<!--  -->
 |blueming 1|||||0|<!--  -->
-|the masked singer nz 2|||||0|<!--  -->
 |the amazing race 32|||||0|<!--  -->
 |rpdrdu 2|||||0|<!--  -->
 |god shave the queens 2|||||0|<!--  -->
