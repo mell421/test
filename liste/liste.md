@@ -650,6 +650,7 @@
 |vice versa|vice versa|12|serie|thailande|<!--  -->
 |the masked singer nz 2||11|||<!--  -->
 |the challenge usa 1||11|||<!--  -->
+|floor is lava 3||5|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -862,12 +863,54 @@
 |the amazing race 32|||||0|<!--  -->
 |rpdrdu 2|||||0|<!--  -->
 |god shave the queens 2|||||0|<!--  -->
+|the eclipse||12|serie|thailande|0|<!-- 12/8 -->
+|juad juad 1|||||0|<!--  -->
+|rpscdr 2||8|||0|<!-- 13/8 -->
+|drag race ph 1|||||0|<!-- 17/8 -->
+|love in the air 1||12|||0|<!-- 18/8 -->
+|the voice germany 12|||||0|<!-- 18/8 -->
+|the voice kids fr 8|||||0|<!--  -->
+|the voice senior peru 2|||||0|<!--  -->
+|Masterchef fr 6|||||0|<!--  -->
+|the masked singer fr 4|||||0|<!--  -->
+|bt21 original story 2|||||0|<!--  -->
+|my only 12pc 1|||||0|<!-- 12/8 -->
+|the good doctor 5|||||0|<!--  -->
+|skam italia 5||10|||0|<!-- 1/9 -->
+|little big world with pond phuwin 1|||||0|<!--  -->
+|the masked dancer uk 2|||||0|<!--  -->
+|the voice poland 13|||||0|<!--  -->
+|the voice uk 11|||||0|<!--  -->
+|les cinquante 1|||||0|<!--  -->
+|un dos tres 3|||||0|<!--  -->
+|the voice bulgarie 9|||||0|<!--  -->
+|dals 12|||||0|<!--  -->
+|the voice romania 10|||||0|<!--  -->
+|the masked singer arg 1|||||0|<!--  -->
+|the voice senior colombia 2|||||0|<!--  -->
+|vampire academy 1|||||0|<!-- 15/9 -->
+|the voice us 22|||||0|<!-- 20/9 -->
+|dwts 31|||||0|<!--  -->
+|lego masters 3|||||0|<!-- 22/9 -->
+|the amazing race 34|||||0|<!-- 22/9 -->
+|the masked singer 8|||||0|<!-- 22/9 -->
+|strictly come dancing 20|||||0|<!--  -->
+|ai long nhai 1|||||0|<!--  -->
+|the voice esp 9|||||0|<!--  -->
+|la mas draga 5|||||0|<!--  -->
+|the voice portugal 10|||||0|<!--  -->
+|the voice nepal 4|||||0|<!--  -->
+|the voice vv 8|||||0|<!--  -->
+|the voice kids cambodia 3|||||0|<!--  -->
+|the masked singer ger 7|||||0|<!--  -->
+|interview with the vampire 1|||||0|<!-- 2/10 -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
-|the eclipse||?|serie|thailande|0|<!-- 12/8 -->
+||||||0|<!--  -->
+||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -884,19 +927,14 @@
 |first kill 1|||||0|<!--  -->
 |oh my sunshine night 1|||||0|<!--  -->
 |war of y 1|||||0|<!-- 2/8 -->
-|my only 12pc 1|||||0|<!-- 12/8 -->
-|scrpdr 2|||||0|<!-- 13/8 -->
-|drag race ph 1|||||0|<!-- 17/8 -->
-|love in the air 1|||||0|<!-- 18/8 -->
-|the voice germany 12|||||0|<!-- 18/8 -->
-|skam italia 5|||||0|<!-- 1/9 -->
-|vampire academy 1|||||0|<!-- 15/9 -->
-|the voice us 22|||||0|<!-- 20/9 -->
-|lego masters 3|||||0|<!-- 22/9 -->
+|the voice greece 9|||||0|<!--  -->
+|nailed it 7|||||0|<!--  -->
+|the voice kids malta 1|||||0|<!--  -->
+|star academy 10|||||0|<!--  -->
+|drag latina 1|||||0|<!--  -->
+|drag race ca vs world 1|||||0|<!--  -->
+|dragula titans 1|||||0|<!--  -->
 |survivor 43|||||0|<!-- 22/9 -->
-|the amazing race 34|||||0|<!-- 22/9 -->
-|the masked singer 8|||||0|<!-- 22/9 -->
-|interview with the vampire 1|||||0|<!-- 2/10 -->
 |reginald the vampire 1|||||0|<!-- 6/10 -->
 |ahs 11|||||0|<!-- 18/10 -->
 |next in fashion 2|||||0|<!-- 17/11 -->
