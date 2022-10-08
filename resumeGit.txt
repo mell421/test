@@ -1298,3 +1298,21 @@ Your branch is up to date with 'origin/save'.
  rewrite ZZ/secondchanceseries_1.txt (61%)
  
 remove Floor is lava _3
+M	.gitignore
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save a04e193a] remove Floor is lava _3
+ 8 files changed, 471 insertions(+), 54 deletions(-)
+ 
+remove the voice kids fr 8

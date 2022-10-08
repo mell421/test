@@ -651,6 +651,7 @@
 |the masked singer nz 2||11|||<!--  -->
 |the challenge usa 1||11|||<!--  -->
 |floor is lava 3||5|||<!--  -->
+|the voice kids fr 8||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -869,7 +870,6 @@
 |drag race ph 1|||||0|<!-- 17/8 -->
 |love in the air 1||12|||0|<!-- 18/8 -->
 |the voice germany 12|||||0|<!-- 18/8 -->
-|the voice kids fr 8|||||0|<!--  -->
 |the voice senior peru 2|||||0|<!--  -->
 |Masterchef fr 6|||||0|<!--  -->
 |the masked singer fr 4|||||0|<!--  -->

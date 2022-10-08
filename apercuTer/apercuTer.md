@@ -66,19 +66,16 @@
 * $ order $
 * 
 * The good doctor _5
-* 
 * The voice th _9
 * The challenge _4
 * God shave the queens _2
 * Rpdrdu _2
 * The amazing race _32
 * Game of talents fr _2
-* 
 * Big brother us _24
 * Drag race ca _3
 * Beat shazam _5
 * Blueming _1
-* 
 * The voice dominicana _2
 * His man _1
 * Rpdrasu _7

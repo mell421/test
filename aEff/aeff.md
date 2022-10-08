@@ -1025,10 +1025,10 @@
 18/08/22 - 312* His man _1{11} Rpdrdu _2{3} Drag race ph _1{0} The voice dominicana _2{14} The voice th _9{6} 
 19/08/22 - 353* Big brother us _24{39} Love in the air _1{0} His man _1{11} Rpdrdu _2{3} 
 20/08/22 - 349* The eclipse _1{1} The voice ger _12{0} Big brother us _24{40} Love in the air _1{0} 
-21/08/22 - 252* The voice kids fr _8{0} The voice ger _12{0} The eclipse _1{1} Big brother us _24{41} Love in the air _1{0} 
-22/08/22 - 85* The voice dominicana _2{14} The voice th _9{6} The voice kids fr _8{0} The voice ger _12{0} The eclipse _1{1} 
-23/08/22 - 265* The voice dominicana _2{16} The voice th _9{7} The voice kids fr _8{1} The voice ger _12{1} 
-24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The voice th _9{7} The voice kids fr _8{1} 
+21/08/22 - 252* The voice ger _12{0} The eclipse _1{1} Big brother us _24{41} Love in the air _1{0} 
+22/08/22 - 85* The voice dominicana _2{14} The voice th _9{6} The voice ger _12{0} The eclipse _1{1} 
+23/08/22 - 265* The voice dominicana _2{16} The voice th _9{7} The voice ger _12{1} 
+24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The voice th _9{7} 
 25/08/22 - 291* The voice senior peru _2{0} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{18} 
 26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{19} 
 27/08/22 - 302* The voice senior peru _2{1} The voice ger _12{3} Drag race ca _3{5} Love in the air _1{1} 

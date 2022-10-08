@@ -49,7 +49,7 @@
 - sem 01-08-2022 -> The voice th _9x4(1) The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(1) Big brother us _24x11(4) Drag race ca _3x4(1) Beat shazam _5x8(2) Blueming _1x4(2) The voice dominicana _2x8(1) 
 - sem 08-08-2022 -> The voice th _9x5(1) Beat shazam _5x9(1) His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
 - sem 15-08-2022 -> The voice th _9x6(1) His man _1x7(1) Drag race ca _3x6(2) Rpscdr _2x2(1) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Beat shazam _5x10(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) The voice dominicana _2x10(1) 
-- sem 22-08-2022 -> The voice dominicana _2x12(2) The voice th _9x7(1) The voice kids fr _8x2(1) The voice ger _12x3(2) The eclipse _1x3(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+- sem 22-08-2022 -> The voice dominicana _2x12(2) The voice th _9x7(1) The voice ger _12x3(2) The eclipse _1x3(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 
 
 

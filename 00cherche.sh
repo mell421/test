@@ -23,7 +23,7 @@ list99=(
 # 9-8
 "The voice ger _12" "Game of talents fr _2" "The voice senior peru _2" 
 # 7-6
-"Love in the air _1" "The eclipse _1" "The voice kids fr _8" "The amazing race _32" "Second chance series _1" 
+"Love in the air _1" "The eclipse _1" "The amazing race _32" "Second chance series _1" 
 # 5-4
 "Rpscdr _2" "God shave the queens _2" "Grimm _1" "Rose in da house _1" "Survivor _31" 
 # 3-2
