@@ -46,6 +46,7 @@
 * The challenge usa _1
 ### sem 10-10-2022 
 * *insererici*
+* The voice kids fr _8
 * Floor is lava _3
 
 
@@ -180,7 +181,7 @@
 #### mois 01-10-2022 
 *insererici Magic of zero _1 Minatos laundromat _1 Ahss _2 The voice arg _4 The voice kids colombia _6 Survivor sa _9 Ohmnanon upvel _1 Qdals _1*
 #### mois 01-11-2022 
-*insererici Floor is lava _3 The challenge usa _1 The masked singer nz _2 Vice versa series _1*
+*insererici The voice kids fr _8 Floor is lava _3 The challenge usa _1 The masked singer nz _2 Vice versa series _1*
 #### mois 01-12-2022 
 *insererici*
 
