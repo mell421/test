@@ -50,15 +50,15 @@ aEff/aeff.md:23/08/22 - 265* The voice dominicana _2{16} The voice th _9{7} The 
 aEff/aeff.md:23/08/22 (eff) - Big brother us _24{46} Big brother us _23{35} Dont forget the lyrics _1{23} The voice dominicana _2{16} Two pints of lager _3{15} Beat shazam _5{13} His man _1{12} The challenge _4{11} 
 aEff/aeff.md:24/06/22 - 180* Dont forget the lyrics _1{10} Dancing with myself _1{1} Unforgotten night _1{0} Bulgasal _1{1} The voice dominicana _2{0} Camping paradis _13{0} 
 aEff/aeff.md:24/07/22 (eff) - Big brother us _23{19} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} 
-aEff/aeff.md:24/08/22 - 254* The masked singer fr _4{0} Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The voice th _9{7} 
+aEff/aeff.md:24/08/22 - 254* Masterchef fr _6{0} The voice senior peru _2{0} The voice dominicana _2{17} The voice th _9{7} 
 aEff/aeff.md:24/08/22 (eff) - Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} The voice dominicana _2{17} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:25/06/22 - 190* Bulgasal _1{2} Dont forget the lyrics _1{11} Dancing with myself _1{1} Unforgotten night _1{0} The voice dominicana _2{0} Camping paradis _13{0} 
 aEff/aeff.md:25/07/22 (eff) - Big brother us _23{20} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{9} Beat shazam _5{9} Tokyo ghoul _3{8} 
-aEff/aeff.md:25/08/22 - 291* The voice senior peru _2{0} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{18} 
+aEff/aeff.md:25/08/22 - 291* The voice senior peru _2{0} Masterchef fr _6{0} The voice dominicana _2{18} 
 aEff/aeff.md:25/08/22 (eff) - Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} The voice dominicana _2{18} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:26/07/22 - 225* Big brother us _24{5} The voice dominicana _2{10} The voice th _9{2} Blueming _1{1} His man _1{1} 
 aEff/aeff.md:26/07/22 (eff) - Big brother us _23{22} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} Beat shazam _5{9} 
-aEff/aeff.md:26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} The masked singer fr _4{0} Masterchef fr _6{0} The voice dominicana _2{19} 
+aEff/aeff.md:26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} Masterchef fr _6{0} The voice dominicana _2{19} 
 aEff/aeff.md:26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} The voice dominicana _2{19} Beat shazam _5{13} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:27/07/22 - 377* Blueming _1{1} Big brother us _24{6} The voice dominicana _2{10} 
 aEff/aeff.md:27/07/22 (eff) - Big brother us _23{23} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} Beat shazam _5{9} 

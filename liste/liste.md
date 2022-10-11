@@ -652,6 +652,7 @@
 |the challenge usa 1||11|||<!--  -->
 |floor is lava 3||5|||<!--  -->
 |the voice kids fr 8||8|||<!--  -->
+|the masked singer fr 4||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -872,7 +873,6 @@
 |the voice germany 12|||||0|<!-- 18/8 -->
 |the voice senior peru 2|||||0|<!--  -->
 |Masterchef fr 6|||||0|<!--  -->
-|the masked singer fr 4|||||0|<!--  -->
 |bt21 original story 2|||||0|<!--  -->
 |my only 12pc 1|||||0|<!-- 12/8 -->
 |the good doctor 5|||||0|<!--  -->

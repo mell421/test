@@ -41,7 +41,6 @@ The masked singer arg _1x18
 The masked singer _8x3
 The shipper _1x7
 Nailed it _7x1
-The masked singer fr _4x7
 Lego masters _3x2
 Strictly come dancing _20x4
 Ai long nhai _1x2
@@ -110,7 +109,6 @@ My only 12pc _1x1
 Bt21 original story _2x1
 Drag race ca _3x7
 His man _1x9
-The masked singer fr _4x1
 Masterchef fr _6x1
 The voice senior peru _2x1
 The voice ger _12x1

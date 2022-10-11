@@ -1365,3 +1365,18 @@ Your branch is up to date with 'origin/save'.
  rewrite premder/premder.md (90%)
  
 remove the voice kids fr 8
+M	.gitignore
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save cb531036] remove the voice kids fr 8
+ 4 files changed, 53 insertions(+), 2 deletions(-)
+ rewrite apercuTer/apercuTer.pdf (60%)
+ 
+remove the masked singer fr 4

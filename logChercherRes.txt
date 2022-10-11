@@ -164,7 +164,6 @@ i = The case study of vanitas _1
 i = The challenge _4
 i = The circle us _4
 i = The eclipse _1
-i = The masked singer fr _4
 i = The player _1
 i = The shipper _1
 i = The tuxedo _1
