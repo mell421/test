@@ -1380,3 +1380,40 @@ Your branch is up to date with 'origin/save'.
  rewrite apercuTer/apercuTer.pdf (60%)
  
 remove the masked singer fr 4
+M	.gitignore
+M	00cherche.sh
+M	ZZ/loveintheair_1.txt
+M	ZZ/mastercheffr_6.txt
+M	ZZ/thechallenge_4.txt
+M	ZZ/thechallengeusa_1.txt
+M	ZZ/themaskedsingerfr_4.txt
+M	ZZ/themaskedsingernz_2.txt
+M	ZZ/thevoicedominicana_2.txt
+M	ZZ/thevoicekidsfr_8.txt
+M	ZZ/thevoiceseniorperu_2.txt
+M	ZZ/thevoiceth_9.txt
+M	aEff/aeff.html
+M	aEff/aeff.md
+M	apercu/apAll.txt
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 5333ca3d] remove the masked singer fr 4
+ 26 files changed, 65 insertions(+), 49 deletions(-)
+ rewrite ZZ/mastercheffr_6.txt (85%)
+ 
+remove Beat shazam 5

@@ -62,7 +62,7 @@ aEff/aeff.md:27/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The ci
 aEff/aeff.md:28/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
 aEff/aeff.md:29/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
 aEff/aeff.md:30/06/22 (eff) - The circle us _4{17} Beat shazam _2{16} Dont forget the lyrics _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
-apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+apercu/apercu22.md:- mois 01-06-2022 -> Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 apercu/apercu22.md:- sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) 
 apercu/apercu22.md:- sem 16-05-2022 -> The circle us _4x6(1) 
 apercu/apercu22.md:* conclu 05/05/22 = The circle us _4 > 2; 

@@ -653,6 +653,7 @@
 |floor is lava 3||5|||<!--  -->
 |the voice kids fr 8||8|||<!--  -->
 |the masked singer fr 4||8|||<!--  -->
+|beat shazam 5||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -837,7 +838,6 @@
 |rpdras 7|||||0|<!--  -->
 |rpdrasu 7|||||0|<!--  -->
 |beat shazam 2|||||0|<!--  -->
-|beat shazam 5|||||0|<!--  -->
 |dont forget the lyrics 1|||||0|<!--  -->
 |sky in your heart 1|||||0|<!--  -->
 |agt 17|||||0|<!--  -->

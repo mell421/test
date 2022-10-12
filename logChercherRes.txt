@@ -106,7 +106,6 @@ i = Aoki vuanpaia no nayami _1
 i = Baker boys _1
 i = Banana fish _1
 i = Beat shazam _2
-i = Beat shazam _5
 i = Big brother us _23
 i = Big brother us _24
 i = Blueming _1
