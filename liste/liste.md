@@ -654,7 +654,7 @@
 |the voice kids fr 8||8|||<!--  -->
 |the masked singer fr 4||8|||<!--  -->
 |beat shazam 5||12|||<!--  -->
-||||||<!--  -->
+|Lays on cruise 1||3|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 

@@ -254,8 +254,8 @@
 |ohmnanon upvel 1|ohmnanon upvel 1|12|show|thailande|<!-- 2/9 -->
 |minatos laundromat 1|minatos laundromat 1|12|serie|japon|<!-- 19/9 -->
 |magic of zero 1||3|serie|thailande|<!-- 25/9 -->
-|vice versa|vice versa|12|serie|thailande|<!--  -->
-||||||<!--  -->
+|vice versa 1|vice versa|12|serie|thailande|<!--  -->
+|Lays on cruise 1||3|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
