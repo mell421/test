@@ -37,7 +37,6 @@ Clik clak clok 1x2
 _$-
 The voice us _22x5
 La mas draga _5x2
-The masked singer arg _1x18
 The masked singer _8x3
 The shipper _1x7
 Nailed it _7x1
@@ -86,7 +85,6 @@ Les cinquante _1x11
 Sky in your heart _1x4
 Vampire academy _1x1
 The voice senior colombia _2x1
-The masked singer arg _1x1
 The voice romania _10x1
 Dals _12x1
 The good doctor _5x4

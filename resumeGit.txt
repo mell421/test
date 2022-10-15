@@ -1494,3 +1494,24 @@ Your branch is up to date with 'origin/save'.
  rewrite ZZ/wanttoseeyou_1.txt (69%)
  
 remove Lays on cruise _1
+M	.gitignore
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	bl/bl.html
+M	bl/bl.md
+M	bl/bl.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save c33b9e7d] remove Lays on cruise _1
+ 11 files changed, 89 insertions(+), 197 deletions(-)
+ 
+remove The masked singer arg _1

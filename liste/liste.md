@@ -655,6 +655,9 @@
 |the masked singer fr 4||8|||<!--  -->
 |beat shazam 5||12|||<!--  -->
 |Lays on cruise 1||3|||<!--  -->
+|the masked singer arg 1||24|||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -886,7 +889,6 @@
 |the voice bulgarie 9|||||0|<!--  -->
 |dals 12|||||0|<!--  -->
 |the voice romania 10|||||0|<!--  -->
-|the masked singer arg 1|||||0|<!--  -->
 |the voice senior colombia 2|||||0|<!--  -->
 |vampire academy 1|||||0|<!-- 15/9 -->
 |the voice us 22|||||0|<!-- 20/9 -->
