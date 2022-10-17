@@ -44,11 +44,6 @@ ligne :  30 ZZ/Unforgottennight_1.txt
 mot   :  744 ZZ/Unforgottennight_1.txt
 carac :  5282 ZZ/Unforgottennight_1.txt
 
-i = Drag race ca _3
-ligne :  19 ZZ/Dragraceca_3.txt
-mot   :  613 ZZ/Dragraceca_3.txt
-carac :  3920 ZZ/Dragraceca_3.txt
-
 i = Blueming _1
 ligne :  20 ZZ/Blueming_1.txt
 mot   :  581 ZZ/Blueming_1.txt

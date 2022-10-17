@@ -103,7 +103,6 @@ Le flambeau _1x5
 Camping paradis _13x3
 My only 12pc _1x1
 Bt21 original story _2x1
-Drag race ca _3x7
 His man _1x9
 Masterchef fr _6x1
 The voice senior peru _2x1
@@ -135,7 +134,6 @@ Game of talents fr _2x1
 Grimm _1x2
 Grimm _1x1
 Survivor _31x1
-Drag race ca _3x1
 Big brother us _23x1
 Big brother us _24x1
 Two pints of lager _3x6

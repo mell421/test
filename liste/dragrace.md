@@ -83,6 +83,7 @@
 |drag race fr 1||8|||<!--  -->
 |karaoke club drag edition 1||6|||<!-- 11/8 -->
 |vanjie 24 hours of love 1||8|||<!-- 26/8 -->
+|drag race ca 3||9|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

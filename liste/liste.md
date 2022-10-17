@@ -657,6 +657,7 @@
 |Lays on cruise 1||3|||<!--  -->
 |the masked singer arg 1||24|||<!--  -->
 |the voice th 9||13|||<!--  -->
+|drag race ca 3||9|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -860,7 +861,6 @@
 |second chance series 1|||||0|<!--  -->
 |big brother us 24|||||0|<!--  -->
 |big brother us 23|||||0|<!--  -->
-|drag race ca 3|||||0|<!--  -->
 |survivor 31||15|||0|<!--  -->
 |game of talents fr 2|||||0|<!--  -->
 |his man 1|||||0|<!--  -->

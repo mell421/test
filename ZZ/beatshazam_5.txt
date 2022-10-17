@@ -37,7 +37,7 @@ aEff/aeff.md:09/08/22 (eff) - Big brother us _23{35} Big brother us _24{28} Dont
 aEff/aeff.md:10/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
 aEff/aeff.md:10/08/22 (eff) - Big brother us _23{35} Big brother us _24{29} Dont forget the lyrics _1{18} Two pints of lager _3{15} The voice dominicana _2{13} The challenge _4{11} 
 aEff/aeff.md:11/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{13} 
-aEff/aeff.md:11/08/22 - 322* Big brother us _24{30} Dont forget the lyrics _1{18} Rpdrdu _2{2} Drag race ca _3{4} Agt _17{7} 
+aEff/aeff.md:11/08/22 - 322* Big brother us _24{30} Dont forget the lyrics _1{18} Rpdrdu _2{2} Agt _17{7} 
 aEff/aeff.md:11/08/22 (eff) - Big brother us _23{35} Big brother us _24{30} Dont forget the lyrics _1{18} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} The challenge _4{11} 
 aEff/aeff.md:12/07/22 (eff) - Dont forget the lyrics _1{18} The circle us _4{17} Le flambeau _1{16} Beat shazam _2{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} 
 aEff/aeff.md:12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Blueming _1{5} Juad juad _1{0} Dont forget the lyrics _1{19} 
@@ -75,19 +75,19 @@ aEff/aeff.md:26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont
 aEff/aeff.md:27/07/22 (eff) - Big brother us _23{23} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Tokyo ghoul _3{9} 
 aEff/aeff.md:27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} The voice dominicana _2{20} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:30/06/22 (eff) - The circle us _4{17} Beat shazam _2{16} Dont forget the lyrics _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
-aEff/aeff.md:30/07/22 - 329* Big brother us _24{9} Drag race ca _3{2} The amazing race _32{0} Blueming _1{2} 
+aEff/aeff.md:30/07/22 - 329* Big brother us _24{9} The amazing race _32{0} Blueming _1{2} 
 aEff/aeff.md:30/07/22 (eff) - Big brother us _23{26} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} The voice dominicana _2{10} Big brother us _24{9} 
-aEff/aeff.md:31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{10} Drag race ca _3{2} Blueming _1{2} 
+aEff/aeff.md:31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
 aEff/aeff.md:31/07/22 (eff) - Big brother us _23{27} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{10} The voice dominicana _2{10} 
 apercu/apercu22.md:- mois 01-06-2022 -> Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 apercu/apercu22.md:- mois 01-07-2022 -> The challenge _4x3(2) Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) The voice dominicana _2x4(3) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
-apercu/apercu22.md:- mois 01-08-2022 -> The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(2) Big brother us _24x11(10) Drag race ca _3x4(3) Blueming _1x4(3) The voice dominicana _2x8(4) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
-apercu/apercu22.md:- sem 01-08-2022 -> The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(1) Big brother us _24x11(4) Drag race ca _3x4(1) Blueming _1x4(2) The voice dominicana _2x8(1) 
+apercu/apercu22.md:- mois 01-08-2022 -> The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(2) Big brother us _24x11(10) Blueming _1x4(3) The voice dominicana _2x8(4) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercu22.md:- sem 01-08-2022 -> The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(1) Big brother us _24x11(4) Blueming _1x4(2) The voice dominicana _2x8(1) 
 apercu/apercu22.md:- sem 04-07-2022 -> The challenge _4x3(2) Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Dont forget the lyrics _1x7(1) Camping paradis _13x3(1) The voice dominicana _2x4(1) 
 apercu/apercu22.md:- sem 06-06-2022 -> Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) Dont forget the lyrics _1x3(1) 
 apercu/apercu22.md:- sem 08-08-2022 -> His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
 apercu/apercu22.md:- sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Dont forget the lyrics _1x4(1) 
-apercu/apercu22.md:- sem 15-08-2022 -> His man _1x7(1) Drag race ca _3x6(2) Rpscdr _2x2(1) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) The voice dominicana _2x10(1) 
+apercu/apercu22.md:- sem 15-08-2022 -> His man _1x7(1) Rpscdr _2x2(1) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) The voice dominicana _2x10(1) 
 apercu/apercu22.md:- sem 20-06-2022 -> The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Close friend _2x3(1) Dont forget the lyrics _1x5(1) 
 apercu/apercu22.md:- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(1) 
 apercu/apercu22.md:* conclu 01/06/22 = Beat shazam _2 > 2; 
