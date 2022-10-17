@@ -656,6 +656,7 @@
 |beat shazam 5||12|||<!--  -->
 |Lays on cruise 1||3|||<!--  -->
 |the masked singer arg 1||24|||<!--  -->
+|the voice th 9||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -862,7 +863,6 @@
 |drag race ca 3|||||0|<!--  -->
 |survivor 31||15|||0|<!--  -->
 |game of talents fr 2|||||0|<!--  -->
-|the voice th 9|||||0|<!--  -->
 |his man 1|||||0|<!--  -->
 |blueming 1|||||0|<!--  -->
 |the amazing race 32|||||0|<!--  -->

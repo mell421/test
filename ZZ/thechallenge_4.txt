@@ -1,9 +1,9 @@
 aEff/aeff.md:01/07/22 - 186* The challenge _4{0} Unforgotten night _1{1} Rose in da house _1{0} 
-aEff/aeff.md:01/08/22 - 28* The voice th _9{2} The challenge _4{8} God shave the queens _2{0} Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{12} Drag race ca _3{2} 
+aEff/aeff.md:01/08/22 - 28* The challenge _4{8} God shave the queens _2{0} Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{12} Drag race ca _3{2} 
 aEff/aeff.md:02/07/22 - 179* The challenge _4{2} Unforgotten night _1{2} Rose in da house _1{1} 
-aEff/aeff.md:02/08/22 - 228* The voice dominicana _2{12} His man _1{2} Big brother us _24{15} The challenge _4{10} The voice th _9{4} God shave the queens _2{2} Rpdrdu _2{2} The amazing race _32{2} Game of talents fr _2{3} 
+aEff/aeff.md:02/08/22 - 228* The voice dominicana _2{12} His man _1{2} Big brother us _24{15} The challenge _4{10} God shave the queens _2{2} Rpdrdu _2{2} The amazing race _32{2} Game of talents fr _2{3} 
 aEff/aeff.md:03/07/22 - 268* The challenge _4{2} Unforgotten night _1{2} 
-aEff/aeff.md:03/08/22 - 407* Blueming _1{4} His man _1{2} The voice dominicana _2{12} Big brother us _24{16} The challenge _4{10} The voice th _9{4} God shave the queens _2{2} 
+aEff/aeff.md:03/08/22 - 407* Blueming _1{4} His man _1{2} The voice dominicana _2{12} Big brother us _24{16} The challenge _4{10} God shave the queens _2{2} 
 aEff/aeff.md:04/07/22 - 276* The challenge _4{3} Unforgotten night _1{2} 
 aEff/aeff.md:04/08/22 - 438* Big brother us _24{17} Blueming _1{4} His man _1{3} The voice dominicana _2{12} The challenge _4{10} 
 aEff/aeff.md:09/08/22 (eff) - Big brother us _23{35} Big brother us _24{28} Dont forget the lyrics _1{18} Two pints of lager _3{15} The voice dominicana _2{13} The challenge _4{11} 
@@ -15,7 +15,7 @@ aEff/aeff.md:14/08/22 (eff) - Big brother us _23{35} Big brother us _24{33} Dont
 aEff/aeff.md:15/08/22 (eff) - Big brother us _23{35} Big brother us _24{34} Dont forget the lyrics _1{22} Two pints of lager _3{15} The voice dominicana _2{13} Bulgasal _1{13} The challenge _4{11} 
 aEff/aeff.md:16/07/22 - 310* The challenge _4{7} Big brother us _24{1} Drag race ca _3{0} Big brother us _23{7} 
 aEff/aeff.md:17/07/22 - 273* Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} The challenge _4{7} Big brother us _24{1} 
-aEff/aeff.md:18/07/22 - 173* The voice th _9{0} Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} The challenge _4{7} 
+aEff/aeff.md:18/07/22 - 173* Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} The challenge _4{7} 
 aEff/aeff.md:18/08/22 (eff) - Big brother us _24{38} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} The voice dominicana _2{14} His man _1{11} The challenge _4{11} 
 aEff/aeff.md:19/08/22 (eff) - Big brother us _24{39} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} The voice dominicana _2{14} His man _1{11} The challenge _4{11} 
 aEff/aeff.md:20/08/22 (eff) - Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} The voice dominicana _2{14} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
@@ -28,11 +28,11 @@ aEff/aeff.md:26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} M
 aEff/aeff.md:26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} The voice dominicana _2{19} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} The voice dominicana _2{20} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 apercu/apercu22.md:- mois 01-07-2022 -> The challenge _4x3(2) Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) The voice dominicana _2x4(3) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
-apercu/apercu22.md:- mois 01-08-2022 -> The voice th _9x4(3) The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(2) Big brother us _24x11(10) Drag race ca _3x4(3) Blueming _1x4(3) The voice dominicana _2x8(4) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
-apercu/apercu22.md:- sem 01-08-2022 -> The voice th _9x4(1) The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(1) Big brother us _24x11(4) Drag race ca _3x4(1) Blueming _1x4(2) The voice dominicana _2x8(1) 
+apercu/apercu22.md:- mois 01-08-2022 -> The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(2) Big brother us _24x11(10) Drag race ca _3x4(3) Blueming _1x4(3) The voice dominicana _2x8(4) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercu22.md:- sem 01-08-2022 -> The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(1) Big brother us _24x11(4) Drag race ca _3x4(1) Blueming _1x4(2) The voice dominicana _2x8(1) 
 apercu/apercu22.md:- sem 04-07-2022 -> The challenge _4x3(2) Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Dont forget the lyrics _1x7(1) Camping paradis _13x3(1) The voice dominicana _2x4(1) 
-apercu/apercu22.md:- sem 08-08-2022 -> The voice th _9x5(1) His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
-apercu/apercu22.md:- sem 18-07-2022 -> The voice th _9x2(1) Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) The challenge _4x4(1) Big brother us _24x5(4) Drag race ca _3x2(1) Big brother us _23x8(7) Unforgotten night _1x5(1) The voice dominicana _2x6(1) 
+apercu/apercu22.md:- sem 08-08-2022 -> His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) Blueming _1x5(1) The voice dominicana _2x9(1) The challenge _4x7(2) 
+apercu/apercu22.md:- sem 18-07-2022 -> Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) The challenge _4x4(1) Big brother us _24x5(4) Drag race ca _3x2(1) Big brother us _23x8(7) Unforgotten night _1x5(1) The voice dominicana _2x6(1) 
 apercu/apercu22.md:concluBis 01/07/22 = The challenge _4 > 1; 
 apercu/apercu22.md:concluBis 03/07/22 = The challenge _4 > 2; 
 apercu/apercu22.md:concluBis 04/07/22 = The challenge _4 > 1; 

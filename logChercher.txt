@@ -44,11 +44,6 @@ ligne :  30 ZZ/Unforgottennight_1.txt
 mot   :  744 ZZ/Unforgottennight_1.txt
 carac :  5282 ZZ/Unforgottennight_1.txt
 
-i = The voice th _9
-ligne :  26 ZZ/Thevoiceth_9.txt
-mot   :  846 ZZ/Thevoiceth_9.txt
-carac :  5384 ZZ/Thevoiceth_9.txt
-
 i = Drag race ca _3
 ligne :  19 ZZ/Dragraceca_3.txt
 mot   :  613 ZZ/Dragraceca_3.txt

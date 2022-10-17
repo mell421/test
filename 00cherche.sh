@@ -15,7 +15,7 @@ list99=(
 # 39-30
 "Tokyo ghoul _3" 
 # 29-20
-"Unforgotten night _1" "The voice th _9" 
+"Unforgotten night _1" 
 # 19-15
 "Drag race ca _3" "Blueming _1" "Agt _17" "Close friend _2" 
 # 14-10
