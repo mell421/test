@@ -1685,3 +1685,15 @@ Your branch is up to date with 'origin/save'.
  rewrite ZZ/rpscdr_2.txt (82%)
  
 add mdl widget
+M	.gitignore
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	index.html
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save d4166f04] add mdl widget
+ 2 files changed, 164 insertions(+)
+ 
+add mdl widget
