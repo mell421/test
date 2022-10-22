@@ -339,27 +339,6 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-### test2
-```{r TEST2, echo=FALSE}
-text <- data.frame(aTest2())
-main <- function(text){
-  dtm_d <- wc(text)
-  # Display the top 20 most frequent words
-  head(dtm_d, 30)
-
-  # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 test2")
-  
-
-  #generate word cloud
-  wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"test2_3.png",delayW)
-}
-
-suppressWarnings(main(text))
-```
-
-
 ### Page app
 ```{r pa, echo=FALSE}
 text <- data.frame(aPA())
@@ -375,29 +354,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"pa_3.png",delayW)
-
-}
-
-suppressWarnings(main(text))
-```
-
-
-```{r resume, eval=FALSE, include=FALSE}
-### resume
-text2 <- data.frame(aResume())
-text <- text2[2]
-main <- function(text){
-  dtm_d <- wc(text)
-  # Display the top 20 most frequent words
-  head(dtm_d, 30)
-
-  # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 resume")
-  
-
-  #generate word cloud
-  wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"resume_3.png",delayW)
 
 }
 
