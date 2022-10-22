@@ -1709,3 +1709,15 @@ Your branch is up to date with 'origin/save'.
  2 files changed, 12 insertions(+), 6 deletions(-)
  
 add mdl widget
+M	.gitignore
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	index.html
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save d90713b3] add mdl widget
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+ 
+add mdl widget
