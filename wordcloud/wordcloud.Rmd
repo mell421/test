@@ -7,8 +7,6 @@ output:
 ---
 ```{r setup, include = FALSE}
 # INSTALL
-# knitr::opts_chunk$set(cache = TRUE)
-
 # LOAD
 suppressWarnings(source("./R/sources.R"))
 
