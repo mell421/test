@@ -1746,3 +1746,15 @@ Your branch is up to date with 'origin/save'.
  3 files changed, 26 insertions(+), 50 deletions(-)
  
 modify calendar
+M	.gitignore
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	index.html
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 6a1ee90f] modify calendar
+ 2 files changed, 67 insertions(+), 17 deletions(-)
+ 
+modify widget
