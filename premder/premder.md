@@ -48,7 +48,6 @@ The voice greece _9x1
 The voice vv _8x2
 Interview with the vampire _1x2
 Interview with the vampire _1x1
-The masked dancer uk _2x5
 The masked singer ger _7x1
 The voice bulgarie _9x5
 The voice uk _11x5
@@ -93,7 +92,6 @@ Un dos tres _3x1
 Les cinquante _1x1
 The voice uk _11x1
 The voice poland _13x1
-The masked dancer uk _2x1
 Little big world with pond phuwin _1x1
 Skam italia _5x2
 Skam italia _5x1

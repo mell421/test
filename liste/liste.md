@@ -658,6 +658,7 @@
 |the masked singer arg 1||24|||<!--  -->
 |the voice th 9||13|||<!--  -->
 |drag race ca 3||9|||<!--  -->
+|the masked dancer uk 2||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -881,7 +882,6 @@
 |the good doctor 5|||||0|<!--  -->
 |skam italia 5||10|||0|<!-- 1/9 -->
 |little big world with pond phuwin 1|||||0|<!--  -->
-|the masked dancer uk 2|||||0|<!--  -->
 |the voice poland 13|||||0|<!--  -->
 |the voice uk 11|||||0|<!--  -->
 |les cinquante 1|||||0|<!--  -->
