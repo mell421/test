@@ -1817,3 +1817,25 @@ Your branch is up to date with 'origin/save'.
  rewrite wordcloud/tmp.html (68%)
  
 remove The masked dancer uk _2
+M	.gitignore
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 6bae6865] remove The masked dancer uk _2
+ 12 files changed, 68 insertions(+), 19 deletions(-)
+ 
+remove the amazing race 32

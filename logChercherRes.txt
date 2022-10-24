@@ -156,7 +156,6 @@ i = Sky in your heart _1
 i = Something in my room _1
 i = Survivor _31
 i = Tbbt _11
-i = The amazing race _32
 i = The big leap _1
 i = The case study of vanitas _1
 i = The challenge _4

@@ -1002,11 +1002,11 @@
 27/07/22 - 377* Blueming _1{1} Big brother us _24{6} The voice dominicana _2{10} 
 28/07/22 - 359* Blueming _1{1} Big brother us _24{7} 
 29/07/22 - 356* Blueming _1{1} Big brother us _24{8} 
-30/07/22 - 329* Big brother us _24{9} The amazing race _32{0} Blueming _1{2} 
-31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
-31/07/22 - 318* Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
-01/08/22 - 28* The challenge _4{8} God shave the queens _2{0} Rpdrdu _2{0} The amazing race _32{0} Game of talents fr _2{1} Big brother us _24{12} 
-02/08/22 - 228* The voice dominicana _2{12} His man _1{2} Big brother us _24{15} The challenge _4{10} God shave the queens _2{2} Rpdrdu _2{2} The amazing race _32{2} Game of talents fr _2{3} 
+30/07/22 - 329* Big brother us _24{9} Blueming _1{2} 
+31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
+31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
+01/08/22 - 28* The challenge _4{8} God shave the queens _2{0} Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{12} 
+02/08/22 - 228* The voice dominicana _2{12} His man _1{2} Big brother us _24{15} The challenge _4{10} God shave the queens _2{2} Rpdrdu _2{2} Game of talents fr _2{3} 
 03/08/22 - 407* Blueming _1{4} His man _1{2} The voice dominicana _2{12} Big brother us _24{16} The challenge _4{10} God shave the queens _2{2} 
 04/08/22 - 438* Big brother us _24{17} Blueming _1{4} His man _1{3} The voice dominicana _2{12} The challenge _4{10} 
 05/08/22 - 289* Big brother us _24{19} Unforgotten night _1{7} Blueming _1{4} 

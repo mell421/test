@@ -659,6 +659,7 @@
 |the voice th 9||13|||<!--  -->
 |drag race ca 3||9|||<!--  -->
 |the masked dancer uk 2||8|||<!--  -->
+|the amazing race 32||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -866,7 +867,6 @@
 |game of talents fr 2|||||0|<!--  -->
 |his man 1|||||0|<!--  -->
 |blueming 1|||||0|<!--  -->
-|the amazing race 32|||||0|<!--  -->
 |rpdrdu 2|||||0|<!--  -->
 |god shave the queens 2|||||0|<!--  -->
 |the eclipse||12|serie|thailande|0|<!-- 12/8 -->

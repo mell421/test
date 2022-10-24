@@ -76,7 +76,6 @@ Rpscdr _2x5
 The masked singer _8x1
 The amazing race _34x1
 Lego masters _3x1
-The amazing race _32x7
 Dwts _31x1
 The voice us _22x1
 Les cinquante _1x11
@@ -121,7 +120,6 @@ God shave the queens _2x2
 God shave the queens _2x1
 Rpdrdu _2x1
 Game of talents fr _2x2
-The amazing race _32x1
 Blueming _1x1
 His man _1x1
 Rpdrasu _7x3
