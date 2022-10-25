@@ -164,7 +164,6 @@ i = The eclipse _1
 i = The player _1
 i = The shipper _1
 i = The tuxedo _1
-i = The voice dominicana _2
 i = The voice ger _12
 i = The voice kids indonesia _4
 i = The voice nl _12

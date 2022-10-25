@@ -1839,3 +1839,59 @@ Your branch is up to date with 'origin/save'.
  12 files changed, 68 insertions(+), 19 deletions(-)
  
 remove the amazing race 32
+M	.gitignore
+M	00cherche.sh
+M	ZZ/agt_17.txt
+M	ZZ/beatshazam_2.txt
+M	ZZ/beatshazam_5.txt
+M	ZZ/bigbrotherus_23.txt
+M	ZZ/bigbrotherus_24.txt
+M	ZZ/blueming_1.txt
+M	ZZ/dragraceca_3.txt
+M	ZZ/gameoftalentsfr_2.txt
+M	ZZ/godshavethequeens_2.txt
+M	ZZ/grimm_1.txt
+M	ZZ/hisman_1.txt
+M	ZZ/rpdras_7.txt
+M	ZZ/rpdrasu_7.txt
+M	ZZ/rpdrdu_2.txt
+M	ZZ/secondchanceseries_1.txt
+M	ZZ/survivor_31.txt
+M	ZZ/theamazingrace_32.txt
+M	ZZ/thechallenge_4.txt
+M	ZZ/thechallengeusa_1.txt
+M	ZZ/themaskedsingerfr_4.txt
+M	ZZ/themaskedsingernz_2.txt
+M	ZZ/thevoicedominicana_2.txt
+M	ZZ/thevoiceth_9.txt
+M	ZZ/tokyoghoul_3.txt
+M	ZZ/twopintsoflager_3.txt
+M	ZZ/unforgottennight_1.txt
+M	aEff/aeff.html
+M	aEff/aeff.md
+M	apercu/apAll.txt
+M	apercu/apercu22.html
+M	apercu/apercu22.md
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save f22f02e3] remove the amazing race 32
+ 45 files changed, 143 insertions(+), 122 deletions(-)
+ rewrite ZZ/theamazingrace_32.txt (72%)
+ 
+remove The voice dominicana _2

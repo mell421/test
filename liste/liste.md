@@ -660,6 +660,7 @@
 |drag race ca 3||9|||<!--  -->
 |the masked dancer uk 2||8|||<!--  -->
 |the amazing race 32||12|||<!--  -->
+|the voice dominicana 2||19|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -855,7 +856,6 @@
 |love mechanics 1|||||0|<!--  -->
 |the voice kids indonesia 4|||||0|<!--  -->
 |camping paradis 13|||||0|<!--  -->
-|the voice dominicana 2|||||0|<!--  -->
 |bulgasal 1|||||0|<!--  -->
 |unforgotten night 1|||||0|<!-- 22/6 -->
 |rose in da house 1|||||0|<!--  -->

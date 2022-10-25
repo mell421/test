@@ -9,11 +9,6 @@ ligne :  109 ZZ/Dontforgetthelyrics_1.txt
 mot   :  2677 ZZ/Dontforgetthelyrics_1.txt
 carac :  17680 ZZ/Dontforgetthelyrics_1.txt
 
-i = The voice dominicana _2
-ligne :  94 ZZ/Thevoicedominicana_2.txt
-mot   :  2670 ZZ/Thevoicedominicana_2.txt
-carac :  17563 ZZ/Thevoicedominicana_2.txt
-
 i = Big brother us _23
 ligne :  87 ZZ/Bigbrotherus_23.txt
 mot   :  2105 ZZ/Bigbrotherus_23.txt

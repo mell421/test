@@ -65,7 +65,6 @@ The amazing race _34x2
 Love in the air _1x5
 The voice nepal _4x2
 The voice nepal _4x1
-The voice dominicana _2x16
 The voice portugal _10x1
 La mas draga _5x1
 Dwts _31x2
@@ -141,7 +140,6 @@ Bulgasal _1x4
 Dancing with myself _1x2
 Unforgotten night _1x1
 Bulgasal _1x1
-The voice dominicana _2x1
 Camping paradis _13x1
 The voice kids indonesia _4x2
 The voice kids indonesia _4x1
