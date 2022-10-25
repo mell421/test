@@ -235,18 +235,6 @@ aListeCompl <- function(){
 }
 
 #37
-aAnalyseR <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1470233433')))
-  na.omit(table)
-  return(table)
-}
-
-# 38
-aAnalyseR2 <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1348628472')))
-  na.omit(table)
-  return(table)
-}
 #39
 aPremDer <- function(){
   table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1010487981')))
@@ -376,7 +364,11 @@ aOrdreDate <- function(){
   return(table)
 }
 
-
+aTracker <- function(){
+  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1166635742')))
+  na.omit(table)
+  return(table)
+}
 
 
 # -----------------------------------------------------

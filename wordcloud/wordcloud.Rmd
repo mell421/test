@@ -243,6 +243,27 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+### 2022
+```{r 2022, echo=FALSE}
+text2 <- data.frame(aRewind())
+text <- text2[2]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 2022")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"rewind22_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
 
 
 <!-- copy 63 -->
