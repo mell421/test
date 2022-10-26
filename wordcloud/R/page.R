@@ -338,7 +338,14 @@ aURLBIS <- function(){
   na.omit(table)
   return(table)
 }
-#56
+#56 REWIND
+aRew <- function(){
+  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=509939744')))
+  na.omit(table)
+  return(table)
+}
+
+#56 2022
 aRewind <- function(){
   table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=2019782408')))
   na.omit(table)
