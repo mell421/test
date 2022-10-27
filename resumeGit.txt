@@ -2054,3 +2054,45 @@ Your branch is up to date with 'origin/save'.
  rewrite wordcloud/tmp.html (68%)
  
 remove The good doctor 5
+M	.gitignore
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	premder/premder.md
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+M	wordcloud/accueil_3.png
+M	wordcloud/conclu_3.png
+M	wordcloud/conclubis_3.png
+M	wordcloud/copy_3.png
+M	wordcloud/encours_3.png
+M	wordcloud/pageappres_3.png
+M	wordcloud/pageappressup_3.png
+M	wordcloud/pars2_3.png
+M	wordcloud/recent_3.png
+M	wordcloud/termine_3.png
+M	wordcloud/tmp.html
+M	wordcloud/wordcloud.Rmd
+Your branch is up to date with 'origin/save'.
+[save ab1ee812] remove The good doctor 5
+ 21 files changed, 62 insertions(+), 39 deletions(-)
+ rewrite wordcloud/accueil_3.png (98%)
+ rewrite wordcloud/conclu_3.png (99%)
+ rewrite wordcloud/conclubis_3.png (99%)
+ rewrite wordcloud/copy_3.png (97%)
+ rewrite wordcloud/encours_3.png (99%)
+ rewrite wordcloud/pageappres_3.png (98%)
+ rewrite wordcloud/pageappressup_3.png (98%)
+ rewrite wordcloud/pars2_3.png (98%)
+ rewrite wordcloud/recent_3.png (97%)
+ rewrite wordcloud/termine_3.png (98%)
+ rewrite wordcloud/tmp.html (83%)
+ 
+maj md
