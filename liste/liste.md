@@ -661,6 +661,7 @@
 |the masked dancer uk 2||8|||<!--  -->
 |the amazing race 32||12|||<!--  -->
 |the voice dominicana 2||19|||<!--  -->
+|the good doctor 5||18|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -879,7 +880,6 @@
 |Masterchef fr 6|||||0|<!--  -->
 |bt21 original story 2|||||0|<!--  -->
 |my only 12pc 1|||||0|<!-- 12/8 -->
-|the good doctor 5|||||0|<!--  -->
 |skam italia 5||10|||0|<!-- 1/9 -->
 |little big world with pond phuwin 1|||||0|<!--  -->
 |the voice poland 13|||||0|<!--  -->

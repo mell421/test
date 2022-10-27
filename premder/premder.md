@@ -83,7 +83,6 @@ Vampire academy _1x1
 The voice senior colombia _2x1
 The voice romania _10x1
 Dals _12x1
-The good doctor _5x4
 Masterchef fr _6x3
 The voice bulgarie _9x1
 Un dos tres _3x1
@@ -94,7 +93,6 @@ Little big world with pond phuwin _1x1
 Skam italia _5x2
 Skam italia _5x1
 The challenge _4x11
-The good doctor _5x1
 Le flambeau _1x5
 Camping paradis _13x3
 My only 12pc _1x1

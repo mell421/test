@@ -2033,3 +2033,24 @@ Your branch is up to date with 'origin/save'.
  rewrite wordcloud/tmp.html (69%)
  
 maj wordcloud
+M	.gitignore
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	index.html
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+M	wordcloud/R/page.R
+M	wordcloud/rewind22_3.png
+M	wordcloud/tmp.html
+M	wordcloud/wordcloud.Rmd
+Your branch is up to date with 'origin/save'.
+[save e070de1a] maj wordcloud
+ 9 files changed, 155 insertions(+), 22 deletions(-)
+ create mode 100644 wordcloud/rewind19_3.png
+ create mode 100644 wordcloud/rewind20_3.png
+ create mode 100644 wordcloud/rewind21_3.png
+ rewrite wordcloud/rewind22_3.png (98%)
+ rewrite wordcloud/tmp.html (68%)
+ 
+remove The good doctor 5

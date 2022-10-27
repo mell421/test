@@ -243,8 +243,9 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+
+```{r 2019, eval=FALSE, include=FALSE}
 ### 2019
-```{r 2019, echo=FALSE}
 text2 <- data.frame(aRew())
 text <- text2[2]
 main <- function(text){
@@ -265,8 +266,9 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+
+```{r 2020, eval=FALSE, include=FALSE}
 ### 2020
-```{r 2020, echo=FALSE}
 text2 <- data.frame(aRew())
 text <- text2[11]
 main <- function(text){
@@ -287,8 +289,9 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+
+```{r 2021, eval=FALSE, include=FALSE}
 ### 2021
-```{r 2021, echo=FALSE}
 text2 <- data.frame(aRew())
 text <- text2[20]
 main <- function(text){
