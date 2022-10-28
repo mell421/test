@@ -60,7 +60,6 @@ The voice ger _12x14
 The voice senior colombia _2x13
 The voice senior peru _2x29
 Dals _12x4
-The eclipse _1x8
 The amazing race _34x2
 Love in the air _1x5
 The voice nepal _4x2
@@ -111,7 +110,6 @@ Blueming _1x5
 Juad juad _1x1
 Dont forget the lyrics _1x9
 Agt _17x5
-The eclipse _1x0
 Unforgotten night _1x6
 God shave the queens _2x2
 God shave the queens _2x1

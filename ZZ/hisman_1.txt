@@ -5,7 +5,7 @@ aEff/aeff.md:06/08/22 - 287* His man _1{4} Big brother us _24{21} Unforgotten ni
 aEff/aeff.md:07/08/22 - 277* His man _1{6} Big brother us _24{23} Unforgotten night _1{7} 
 aEff/aeff.md:08/08/22 - 275* His man _1{8} Big brother us _24{25} 
 aEff/aeff.md:12/08/22 (eff) - Big brother us _23{35} Big brother us _24{31} Dont forget the lyrics _1{19} Two pints of lager _3{15} Bulgasal _1{13} The challenge _4{11} His man _1{10} 
-aEff/aeff.md:14/08/22 - 318* His man _1{10} Rpscdr _2{0} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{33} 
+aEff/aeff.md:14/08/22 - 318* His man _1{10} Rpscdr _2{0} Sky in your heart _1{3} Big brother us _24{33} 
 aEff/aeff.md:14/08/22 (eff) - Big brother us _23{35} Big brother us _24{33} Dont forget the lyrics _1{21} Two pints of lager _3{15} The challenge _4{11} His man _1{10} 
 aEff/aeff.md:15/08/22 - 287* His man _1{10} Rpscdr _2{0} 
 aEff/aeff.md:16/08/22 - 302* His man _1{11} Rpscdr _2{1} 
@@ -29,8 +29,8 @@ aEff/aeff.md:26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont
 aEff/aeff.md:27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 apercu/apercu22.md:- mois 01-08-2022 -> The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Blueming _1x4(3) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
 apercu/apercu22.md:- sem 08-08-2022 -> His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) Blueming _1x5(1) The challenge _4x7(2) 
-apercu/apercu22.md:- sem 15-08-2022 -> His man _1x7(1) Rpscdr _2x2(1) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
-apercu/apercu22.md:- sem 22-08-2022 -> The voice ger _12x3(2) The eclipse _1x3(1) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+apercu/apercu22.md:- sem 15-08-2022 -> His man _1x7(1) Rpscdr _2x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
+apercu/apercu22.md:- sem 22-08-2022 -> The voice ger _12x3(2) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 apercu/apercu22.md:- sem 25-07-2022 -> Blueming _1x2(1) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
 apercu/apercu22.md:conclu 06/08/22 = Big brother us _24 > 3; His man _1 > 1; 
 apercu/apercu22.md:conclu 07/08/22 = Big brother us _24 > 3; His man _1 > 1; 

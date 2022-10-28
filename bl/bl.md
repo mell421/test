@@ -256,6 +256,7 @@
 |magic of zero _1|magic of zero|3|serie|thailande|<!-- 25/9 -->
 |vice versa _1|vice versa|12|serie|thailande|<!--  -->
 |Lays on cruise _1|Lays on cruise|3|show|thailande|<!--  -->
+|the eclipse _1|the eclipse|12|serie|thailande|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -342,7 +343,6 @@
 |my roommate _1||32||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
-|the eclipse _1|the eclipse|12|serie|thailande|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

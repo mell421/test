@@ -1017,16 +1017,16 @@
 10/08/22 - 268* Rpdrdu _2{2} Agt _17{7} 
 11/08/22 - 322* Big brother us _24{30} Dont forget the lyrics _1{18} Rpdrdu _2{2} Agt _17{7} 
 12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Blueming _1{5} Juad juad _1{0} Dont forget the lyrics _1{19} 
-13/08/22 - 326* The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{32} Blueming _1{5} Juad juad _1{0} 
-14/08/22 - 318* His man _1{10} Rpscdr _2{0} The eclipse _1{0} Sky in your heart _1{3} Big brother us _24{33} 
+13/08/22 - 326* Sky in your heart _1{3} Big brother us _24{32} Blueming _1{5} Juad juad _1{0} 
+14/08/22 - 318* His man _1{10} Rpscdr _2{0} Sky in your heart _1{3} Big brother us _24{33} 
 15/08/22 - 287* His man _1{10} Rpscdr _2{0} 
 16/08/22 - 302* His man _1{11} Rpscdr _2{1} 
 17/08/22 - 307* His man _1{11} Rpscdr _2{1} 
 18/08/22 - 312* His man _1{11} Rpdrdu _2{3} Drag race ph _1{0} 
 19/08/22 - 353* Big brother us _24{39} Love in the air _1{0} His man _1{11} Rpdrdu _2{3} 
-20/08/22 - 349* The eclipse _1{1} The voice ger _12{0} Big brother us _24{40} Love in the air _1{0} 
-21/08/22 - 252* The voice ger _12{0} The eclipse _1{1} Big brother us _24{41} Love in the air _1{0} 
-22/08/22 - 85* The voice ger _12{0} The eclipse _1{1} 
+20/08/22 - 349* The voice ger _12{0} Big brother us _24{40} Love in the air _1{0} 
+21/08/22 - 252* The voice ger _12{0} Big brother us _24{41} Love in the air _1{0} 
+22/08/22 - 85* The voice ger _12{0} 
 23/08/22 - 265* The voice ger _12{1} 
 24/08/22 - 254* Masterchef fr _6{0} The voice senior peru _2{0} 
 25/08/22 - 291* The voice senior peru _2{0} Masterchef fr _6{0} 

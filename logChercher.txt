@@ -94,11 +94,6 @@ ligne :  6 ZZ/Loveintheair_1.txt
 mot   :  177 ZZ/Loveintheair_1.txt
 carac :  1072 ZZ/Loveintheair_1.txt
 
-i = The eclipse _1
-ligne :  7 ZZ/Theeclipse_1.txt
-mot   :  240 ZZ/Theeclipse_1.txt
-carac :  1485 ZZ/Theeclipse_1.txt
-
 i = Second chance series _1
 ligne :  7 ZZ/Secondchanceseries_1.txt
 mot   :  185 ZZ/Secondchanceseries_1.txt

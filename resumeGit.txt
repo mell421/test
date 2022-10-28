@@ -2096,3 +2096,28 @@ Your branch is up to date with 'origin/save'.
  rewrite wordcloud/tmp.html (83%)
  
 maj md
+M	.gitignore
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	bl/bl.html
+M	bl/bl.md
+M	bl/bl.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 7da70334] maj md
+ 13 files changed, 2495 insertions(+), 2173 deletions(-)
+ rewrite liste/liste.md (75%)
+ rewrite liste/thevoice.pdf (69%)
+ 
+remove The eclipse _1
