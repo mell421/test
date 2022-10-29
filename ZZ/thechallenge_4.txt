@@ -24,7 +24,6 @@ aEff/aeff.md:22/08/22 (eff) - Big brother us _24{43} Big brother us _23{35} Dont
 aEff/aeff.md:23/08/22 (eff) - Big brother us _24{46} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{12} The challenge _4{11} 
 aEff/aeff.md:24/08/22 (eff) - Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:25/08/22 (eff) - Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
-aEff/aeff.md:26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} Masterchef fr _6{0} 
 aEff/aeff.md:26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
 apercu/apercu22.md:- mois 01-07-2022 -> The challenge _4x3(2) Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
@@ -39,3 +38,7 @@ apercu/apercu22.md:concluBis 04/07/22 = The challenge _4 > 1;
 apercu/apercu22.md:concluBis 05/07/22 = The challenge _4 > 2; 
 apercu/apercu22.md:concluBis 06/07/22 = The challenge _4 > 1; 
 apercuTer/apercuTer.md:* The challenge _4
+apercuTer/apercuTer.md:*insererici The eclipse _1 The good doctor _5 The voice dominicana _2 The amazing race _32 The masked dancer uk _2 Drag race ca _3 The voice th _9 The masked singer arg _1 Lays on cruise _1 Beat shazam _5 The masked singer fr _4 The voice kids fr _8 Floor is lava _3 The challenge usa _1 The masked singer nz _2 Vice versa series _1*
+liste/liste.md:|the challenge _4|||||0|<!--  -->
+premder/premder.md:The challenge _4x1
+premder/premder.md:The challenge _4x11

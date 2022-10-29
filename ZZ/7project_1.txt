@@ -27,6 +27,9 @@ apercu/apercuglobal.md:- sem 20-09-2021 Post mortem _1x4(1) Alice in borderland 
 apercu/apercuglobal.md:- sem 27-09-2021 Goblin _1x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
 apercu/apercuglobal.md:* concluBis 14/09/21 = 7project _1 > 1; 
 apercuTer/apercuTer.md:* 7project _1
+bl/bl.md:|7 project _1|7project|7|serie(bl/gl)|thailande|4| <!-- 39 -->
+premder/premder.md:7project _1x1
+premder/premder.md:7project _1x4
 tab2021.html:    <td class="conclubis">7project _1 > 1; </td>
 tab2021.html:    <td class="resumemois">/9-1-1 _5x3(2) Goblin _1x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) 
 tab2021.html:    <td class="resumemois">7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) 

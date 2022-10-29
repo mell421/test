@@ -7,35 +7,39 @@
 # nb bis
 list99=( 
 # >= 100
-"Big brother us _24" "Dont forget the lyrics _1" 
+"Big brother us _24" "The voice ger _12" "The voice senior colombia _2" "The voice poland _13" "The challenge _4" "Les cinquante _1" 
 # 99-50
-"Big brother us _23" "Two pints of lager _3" 
+"Love in the air _1" "The voice ukr _12" "The voice us _22" 
 # 49-40
-"His man _1" "The challenge _4" 
+"The shipper _1" "The voice vv _8" "My roommate _1" 
 # 39-30
-"Tokyo ghoul _3" 
+"Strictly come dancing _20" "The voice bulgarie _9" "The mole _1" "The voice uk _11" "Star academy _10" 
 # 29-20
-"Unforgotten night _1" 
+"Dals _12" "The voice portugal _10" 
 # 19-15
-"Blueming _1" "Agt _17" "Close friend _2" 
+"The voice romania _10" "The voice greece _9" "The amazing race _34" "Ai long nhai _1" "The masked singer _8" "Little big world with pond phuwin _1" "Rpscdr _2" "Sky in your heart _1" "Masterchef fr _6" 
 # 14-10
-"Rpdrasu _7" "Rpdras _7" "Rpdrdu _2" "Sky in your heart _1" 
+"The masked singer ger _7" "The voice esp _9" "Dwts _31" "Interviex with the vampire _1" "Lego masters _3" 
 # 9-8
-"The voice ger _12" "Game of talents fr _2" "The voice senior peru _2" 
+"The voice kids cambodia _3" "The voice kids malta _1" "Reginald the vampire _1" "La mas draga _5" "The voice nepal _4" 
 # 7-6
-"Love in the air _1" "Second chance series _1" 
+"Un dos tres _3" 
 # 5-4
-"Rpscdr _2" "God shave the queens _2" "Grimm _1" "Rose in da house _1" "Survivor _31" 
+"Juad juad _1" "The challenge _38" "Lego masters fr _3" "Incroyable talent _17" "Let the right one in _1" "Vampire academy _1" 
 # 3-2
-"Masterchef fr _6" "Juad juad _1" "Drag race ph _1" 
+"Check in do amor _1" "Nailed it _7" "The voice kids peru _5" "Ahs _11" 
 # 0-1
 # other
-"5515 never too late _1" "F4 thailand _1" "Cupids last wish _1" "The voice ph _1" 
+"Dont forget the lyrics _1" "Big brother us _23" "Two pints of lager _3" "His man _1" 
+"Tokyo ghoul _3" "Unforgotten night _1" "Blueming _1" "Agt _17" "Close friend _2" 
+"Rpdrasu _7" "Rpdras _7" "Rpdrdu _2" "Game of talents fr _2" "Second chance series _1" 
+"God shave the queens _2" "Grimm _1" "Rose in da house _1" "Survivor _31" "Drag race ph _1" 
+"Skam italia _5" "5515 never too late _1" "F4 thailand _1" "Cupids last wish _1" "The voice ph _1" 
 "/9-1-1 _5" "Trivia quest _1" "Young sheldon _5" "Tbbt _11" 
 "The circle us _4" 
-"/9-1-1 lone star _3" "Bulgasal _1" "The voice ukr _12" 
+"/9-1-1 lone star _3" "Bulgasal _1" 
 "Beat shazam _2" "Meet my angel _2" "Something in my room _1" "The player _1" "7project _1" 
-"Druck _8" "Love stage 2022 _1" "Unlocked _1" "The shipper _1" 
+"Druck _8" "Love stage 2022 _1" "Unlocked _1" 
 "Dancing with myself _1" "All of us are dead _1" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 "Camping paradis _13" "Drag i love you _1" "Love at night _1" 
 "Mama gogo _1" "The voice kids indonesia _4" "Love mechanics _1" "Bullshit the game show _1" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
@@ -52,15 +56,11 @@ listOld=(
 "Tien bromance _1" "Ben x jim _1" "Koishite akuma _1")
 
 listAV=( 
-# jan
-"Drag latina _1" "Rainbow prince _1" 
-# fev
-# mar
-# avr
-"Skam italia _5" "The voice poland _13" "The voice bulgarie _9" "Dals _12" "Vampire academy _1" 
-"Strictly come dancing _20" "Dwts _31" "The voice us _22" "Lego masters _3" "Survivor _43" 
-"The amazing race _34" "The masked singer _8" "Interviex with the vampire _1" "The voice portugal _10" "Nailed it _7" 
-"Reginald the vampire _1" "Ahs _11" "Drag race ca vs world _1" "Next in fashion _2" "Between us _1" 
+# already
+"Drag latina _1" "Survivor _43" 
+# soon
+"Drag race ca vs world _1" "Next in fashion _2" 
+"Between us _1" 
 "" "" "" "" "" )
 
 listOld=( "Capture lover _1" "Lakan _1" "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" 

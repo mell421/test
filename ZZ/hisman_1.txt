@@ -40,3 +40,7 @@ apercu/apercu22.md:concluBis 06/08/22 = Big brother us _24 > 11; His man _1 > 3;
 apercu/apercu22.md:concluBis 07/08/22 = Big brother us _24 > 10; His man _1 > 3; Big brother us _23 > 1; 
 apercu/apercu22.md:concluBis 08/08/22 = Big brother us _24 > 9; His man _1 > 2; Big brother us _23 > 1; 
 apercuTer/apercuTer.md:* His man _1
+bl/bl.md:|his man _1|his man _1|12|show|corée|4|<!--  -->
+liste/liste.md:|his man _1|||||0|<!--  -->
+premder/premder.md:His man _1x1
+premder/premder.md:His man _1x9

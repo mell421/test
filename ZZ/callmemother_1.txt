@@ -4,3 +4,5 @@ aEff/aeff.md:- 18/04/22 - 292* call me mother _1{0}
 apercu/apercu22.md:- mois 01-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Call me mother _1x2(1) Trivia quest _1x7(6) Quaranthings _2x2(1) 
 apercu/apercu22.md:- sem 18-04-2022 -> Call me mother _1x2(1) 
 apercuTer/apercuTer.md:* Call me mother _1
+liste/liste.md:|call me mother _1||8|||0|<!-- 15/4 -->
+premder/premder.md:Call me mother _1x1

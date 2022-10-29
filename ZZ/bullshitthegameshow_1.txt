@@ -6,3 +6,6 @@ apercu/apercu22.md:concluBis 28/04/22 = Bullshit the game show _1 > 1;
 apercu/apercu22.md:concluBis 29/04/22 = Bullshit the game show _1 > 2; 
 apercu/apercu22.md:concluBis 30/04/22 = Bullshit the game show _1 > 1; 
 apercuTer/apercuTer.md:* Bullshit the game show _1
+liste/liste.md:|Bullshit the game show _1||10|||0|<!-- 27/4 -->
+premder/premder.md:Bullshit the game show _1x1
+premder/premder.md:Bullshit the game show _1x2

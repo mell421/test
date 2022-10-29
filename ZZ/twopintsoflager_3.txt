@@ -78,3 +78,6 @@ apercu/apercuglobal.md:- mois 01-12-2019 Ga _2x15(2) New amsterdam _1x4(1) Hsmtm
 apercu/apercuglobal.md:- sem 04-11-2019 Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1) 
 apercu/apercuglobal.md:- sem 07-10-2019 Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) The politician _1x4(1) Two pints of lager _3x2(1) Dawson _1x2(1) 
 apercuTer/apercuTer.md:* Two pints of lager _3
+liste/liste.md:|two pints of lager _3|||||2|<!--  -->
+premder/premder.md:Two pints of lager _3x1
+premder/premder.md:Two pints of lager _3x6

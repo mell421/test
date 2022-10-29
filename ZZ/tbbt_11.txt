@@ -85,6 +85,8 @@ apercu/apercuglobal.md:* concluBis 28/10/21 = Tbbt _11 > 3;
 apercu/apercuglobal.md:* concluBis 29/10/21 = Tbbt _11 > 3; 
 apercu/apercuglobal.md:* concluBis 30/10/21 = Tbbt _11 > 1; 
 apercuTer/apercuTer.md:* Tbbt _11
+premder/premder.md:Tbbt _11x1
+premder/premder.md:Tbbt _11x3
 tab2021.html:      Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) 
 tab2021.html:    <td class="conclu">Tbbt _11 > 1; </td>
 tab2021.html:    <td class="conclu">Tbbt _11 > 2; </td>

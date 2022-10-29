@@ -662,7 +662,8 @@
 |the amazing race _32||12|||<!--  -->
 |the voice dominicana _2||19|||<!--  -->
 |the good doctor _5||18|||<!--  -->
-||||||<!--  -->
+|the eclipse _1||12|serie|thailande|<!-- 12/8 -->
+|the voice senior peru _2||49|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -870,13 +871,11 @@
 |blueming _1|||||0|<!--  -->
 |rpdrdu _2|||||0|<!--  -->
 |god shave the queens _2|||||0|<!--  -->
-|the eclipse||12|serie|thailande|0|<!-- 12/8 -->
 |juad juad _1|||||0|<!--  -->
 |rpscdr _2||8|||0|<!-- 13/8 -->
 |drag race ph _1|||||0|<!-- 17/8 -->
 |love in the air _1||12|||0|<!-- 18/8 -->
 |the voice germany _12|||||0|<!-- 18/8 -->
-|the voice senior peru _2|||||0|<!--  -->
 |Masterchef fr _6|||||0|<!--  -->
 |bt21 original story _2|||||0|<!--  -->
 |my only _12pc _1|||||0|<!-- 12/8 -->

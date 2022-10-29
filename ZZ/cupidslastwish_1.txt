@@ -131,4 +131,7 @@ apercu/apercu22.md:* concluBis 27/02/22 = Cupids last wish _1 > 5; Forever knigh
 apercu/apercu22.md:* concluBis 28/02/22 = Cupids last wish _1 > 3; 
 apercu/apercu22.md:concluBis 24/03/22 = Cupids last wish _1 > 2; 
 apercuTer/apercuTer.md:* Cupids last wish _1
-index.html:            cupids last wish _1<br>
+bl/bl.md:|cupids last wish _1|cupids last wish|?|serie|thailande|4|<!--  -->
+liste/liste.md:|cupids last wish _1||10|serie|thailande|0|<!-- 23/2 -->
+premder/premder.md:Cupids last wish _1x1
+premder/premder.md:Cupids last wish _1x4

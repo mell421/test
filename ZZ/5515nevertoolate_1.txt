@@ -151,6 +151,10 @@ apercu/apercuglobal.md:* concluBis 15/12/21 = 5515 never too late _1 > 2;
 apercu/apercuglobal.md:* concluBis 30/12/21 = 5515 never too late _1 > 1; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 31/12/21 = 5515 never too late _1 > 1; Forever knight _1 > 1; 
 apercuTer/apercuTer.md:* 5515 never too late _1
+bl/bl.md:|5515 never too late _1|5515|12|serie(*)|thailande|3|<!--  -->
+liste/liste.md:|5515 never too late _1||12|||3|<!--  -->
+premder/premder.md:5515 never too late _1x1
+premder/premder.md:5515 never too late _1x4
 tab2021.html:    <td class="conclu">5515 never too late _1 > 1; </td>
 tab2021.html:    <td class="conclu">5515 never too late _1 > 3; </td>
 tab2021.html:    <td class="conclubis">5515 never too late _1 > 1; </td>

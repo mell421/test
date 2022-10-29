@@ -8,3 +8,6 @@ apercu/apercu22.md:- mois 01-08-2022 -> The challenge _4x5(2) God shave the quee
 apercu/apercu22.md:- sem 01-08-2022 -> The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(1) Big brother us _24x11(4) Blueming _1x4(2) 
 apercu/apercu22.md:- sem 18-07-2022 -> Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) The challenge _4x4(1) Big brother us _24x5(4) Big brother us _23x8(7) Unforgotten night _1x5(1) 
 apercuTer/apercuTer.md:* Game of talents fr _2
+liste/liste.md:|game of talents fr _2|||||0|<!--  -->
+premder/premder.md:Game of talents fr _2x1
+premder/premder.md:Game of talents fr _2x2

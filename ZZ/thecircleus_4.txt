@@ -80,3 +80,6 @@ apercu/apercu22.md:concluBis 09/05/22 = The circle us _4 > 3;
 apercu/apercu22.md:concluBis 10/05/22 = The circle us _4 > 4; 
 apercu/apercu22.md:concluBis 11/05/22 = The circle us _4 > 4; 
 apercuTer/apercuTer.md:* The circle us _4
+liste/liste.md:|the circle us _4||13|||0|<!-- 4/5 -->
+premder/premder.md:The circle us _4x1
+premder/premder.md:The circle us _4x5

@@ -23,6 +23,9 @@ apercu/apercuglobal.md:- sem 04-01-2021 Together with me _1x2(1) The shipper _1x
 apercu/apercuglobal.md:- sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
 apercu/apercuglobal.md:- sem 27-07-2020 Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) 
 apercuTer/apercuTer.md:* The shipper _1
+bl/bl.md:|the shipper _1|the shipper|12|serie|thailande|4|  <!-- 3 -->
+premder/premder.md:The shipper _1x1
+premder/premder.md:The shipper _1x7
 tab2020.html:      The shipper _1x3(2) Himym _6x2(1) The untamed _1x3(1) </td>
 tab2020.html:    <td class="resumesem">Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) </td>
 tab2021.html:      Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) The shipper _1x6(1) </td>

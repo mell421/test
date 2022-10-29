@@ -61,6 +61,9 @@ apercu/apercuglobal.md:* concluBis 24/10/21 = Young sheldon _5 > 3; My sweet dea
 apercu/apercuglobal.md:* concluBis 25/10/21 = Young sheldon _5 > 2; My sweet dear _1 > 1; 
 apercu/apercuglobal.md:* concluBis 26/10/21 = Tbbt _11 > 4; Young sheldon _5 > 1; 
 apercuTer/apercuTer.md:* Young sheldon _5
+liste/liste.md:|young sheldon _5||?|||3|<!--  -->
+premder/premder.md:Young sheldon _5x1
+premder/premder.md:Young sheldon _5x5
 tab2021.html:    <td class="conclu">Young sheldon _5 > 1; </td>
 tab2021.html:    <td class="conclubis">Tbbt _11 > 4; Young sheldon _5 > 1; </td>
 tab2021.html:    <td class="conclubis">Young sheldon _5 > 2; My sweet dear _1 > 1; </td>

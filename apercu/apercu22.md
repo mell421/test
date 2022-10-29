@@ -158,7 +158,7 @@ conclu 04/08/22 = Big brother us _24 > 1;
 conclu 05/08/22 = Big brother us _24 > 4; 
 conclu 06/08/22 = Big brother us _24 > 3; His man _1 > 1; 
 conclu 07/08/22 = Big brother us _24 > 3; His man _1 > 1; 
-conclu 27/08/22 = Big brother us _24 > 2; The voice senior peru _2 > 1; 
+conclu 27/08/22 = Big brother us _24 > 2; 
 
 
 
@@ -335,8 +335,8 @@ concluBis 22/08/22 = Big brother us _24 > 9;
 concluBis 23/08/22 = Big brother us _24 > 9; The voice ger _12 > 1; 
 concluBis 24/08/22 = Big brother us _24 > 9; The voice ger _12 > 1; 
 concluBis 25/08/22 = Big brother us _24 > 8; 
-concluBis 26/08/22 = Big brother us _24 > 8; The voice senior peru _2 > 2; 
-concluBis 27/08/22 = Big brother us _24 > 7; The voice senior peru _2 > 3; 
+concluBis 26/08/22 = Big brother us _24 > 8; 
+concluBis 27/08/22 = Big brother us _24 > 7; 
 
 
 

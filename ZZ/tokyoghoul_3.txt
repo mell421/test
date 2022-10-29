@@ -36,6 +36,7 @@ apercu/apercuglobal.md:* concluBis 17/02/21 > Tokyo ghoul _3 > 3; My vampire boy
 apercu/apercuglobal.md:* concluBis 18/02/21 > My vampire boyfriend _1 > 8; Tokyo ghoul _3 > 2; 
 apercu/apercuglobal.md:* concluBis 19/02/21 > My vampire boyfriend _1 > 6; Tokyo ghoul _3 > 2; 
 apercuTer/apercuTer.md:* Tokyo ghoul _3
+premder/premder.md:Tokyo ghoul _3x17
 tab2021.html:    <td class="conclu">Tokyo ghoul _3 > 1; </td>
 tab2021.html:    <td class="conclubis">My vampire boyfriend _1 > 6; Tokyo ghoul _3 > 2; </td>
 tab2021.html:    <td class="conclubis">My vampire boyfriend _1 > 8; Tokyo ghoul _3 > 2; </td>

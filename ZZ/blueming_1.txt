@@ -18,3 +18,7 @@ apercu/apercu22.md:- sem 15-08-2022 -> His man _1x7(1) Rpscdr _2x2(1) Sky in you
 apercu/apercu22.md:- sem 25-07-2022 -> Blueming _1x2(1) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
 apercu/apercu22.md:concluBis 29/07/22 = Big brother us _24 > 2; Big brother us _23 > 1; Blueming _1 > 1; 
 apercuTer/apercuTer.md:* Blueming _1
+bl/bl.md:|blueming _1|blueming _1|11|serie|corée|4|<!--  -->
+liste/liste.md:|blueming _1|||||0|<!--  -->
+premder/premder.md:Blueming _1x1
+premder/premder.md:Blueming _1x5

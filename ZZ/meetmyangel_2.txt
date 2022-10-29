@@ -23,3 +23,7 @@ apercu/apercu22.md:* concluBis 11/02/22 = Meet my angel _2 > 2; Forever knight _
 apercu/apercu22.md:* concluBis 12/02/22 = Forever knight _1 > 3; Imortal _1 > 2; Meet my angel _2 > 1; 
 apercu/apercu22.md:* concluBis 21/01/22 = Meet my angel _2 > 4; Something in my room _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 apercuTer/apercuTer.md:* Meet my angel _2
+bl/bl.md:|meet my angel _2|meet my angel _2|9|serie|philippines|3|<!-- -->
+liste/liste.md:|Meet my angel _2|||||0|<!-- 20/1/22 -->
+premder/premder.md:Meet my angel _2x1
+premder/premder.md:Meet my angel _2x3

@@ -373,7 +373,7 @@ conclu 23/08/22 = Big brother us _24 > 3;
 conclu 24/08/22 = Big brother us _24 > 3; 
 conclu 25/08/22 = Big brother us _24 > 2; 
 conclu 26/08/22 = Big brother us _24 > 2; 
-conclu 27/08/22 = Big brother us _24 > 2; The voice senior peru _2 > 1; 
+conclu 27/08/22 = Big brother us _24 > 2; 
 
 </doc>
 
@@ -729,8 +729,8 @@ concluBis 22/08/22 = Big brother us _24 > 9;
 concluBis 23/08/22 = Big brother us _24 > 9; The voice ger _12 > 1; 
 concluBis 24/08/22 = Big brother us _24 > 9; The voice ger _12 > 1; 
 concluBis 25/08/22 = Big brother us _24 > 8; 
-concluBis 26/08/22 = Big brother us _24 > 8; The voice senior peru _2 > 2; 
-concluBis 27/08/22 = Big brother us _24 > 7; The voice senior peru _2 > 3; 
+concluBis 26/08/22 = Big brother us _24 > 8; 
+concluBis 27/08/22 = Big brother us _24 > 7; 
 
 </doc>
 
@@ -1731,9 +1731,9 @@ concluBis 27/08/22 = Big brother us _24 > 7; The voice senior peru _2 > 3;
 21/08/22 - 252* The voice ger _12{0} Big brother us _24{41} Love in the air _1{0} 
 22/08/22 - 85* The voice ger _12{0} 
 23/08/22 - 265* The voice ger _12{1} 
-24/08/22 - 254* Masterchef fr _6{0} The voice senior peru _2{0} 
-25/08/22 - 291* The voice senior peru _2{0} Masterchef fr _6{0} 
-26/08/22 - 304* Love in the air _1{1} The voice senior peru _2{0} Masterchef fr _6{0} 
-27/08/22 - 302* The voice senior peru _2{1} The voice ger _12{3} Love in the air _1{1} 
+24/08/22 - 254* Masterchef fr _6{0} 
+25/08/22 - 291* Masterchef fr _6{0} 
+26/08/22 - 304* Love in the air _1{1} Masterchef fr _6{0} 
+27/08/22 - 302* The voice ger _12{3} Love in the air _1{1} 
 
 </doc>

@@ -106,4 +106,6 @@ apercu/apercu22.md:concluBis 25/06/22 = Bulgasal _1 > 4; Dont forget the lyrics 
 apercu/apercu22.md:concluBis 29/06/22 = Dont forget the lyrics _1 > 4; Bulgasal _1 > 2; 
 apercu/apercu22.md:concluBis 30/06/22 = Dont forget the lyrics _1 > 1; 
 apercuTer/apercuTer.md:* Dont forget the lyrics _1
-index.html:            dont forget the lyrics _1<br>
+liste/liste.md:|dont forget the lyrics _1|||||0|<!--  -->
+premder/premder.md:Dont forget the lyrics _1x1
+premder/premder.md:Dont forget the lyrics _1x9

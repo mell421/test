@@ -49,3 +49,7 @@ apercu/apercu22.md:concluBis 27/06/22 = Bulgasal _1 > 4;
 apercu/apercu22.md:concluBis 28/06/22 = Bulgasal _1 > 3; 
 apercu/apercu22.md:concluBis 29/06/22 = Dont forget the lyrics _1 > 4; Bulgasal _1 > 2; 
 apercuTer/apercuTer.md:* Bulgasal _1
+bl/bl.md:|bulgasal _1|bulgasal _1|16|serie(non)|corée|4|<!--  -->
+liste/liste.md:|bulgasal _1|||||0|<!--  -->
+premder/premder.md:Bulgasal _1x1
+premder/premder.md:Bulgasal _1x4

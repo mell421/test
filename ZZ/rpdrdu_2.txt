@@ -10,3 +10,6 @@ apercu/apercu22.md:- sem 01-08-2022 -> The challenge _4x5(1) God shave the queen
 apercu/apercu22.md:- sem 15-08-2022 -> His man _1x7(1) Rpscdr _2x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
 apercu/apercu22.md:- sem 22-08-2022 -> The voice ger _12x3(2) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 apercuTer/apercuTer.md:* Rpdrdu _2
+liste/liste.md:|rpdrdu _2|||||0|<!--  -->
+premder/premder.md:Rpdrdu _2x1
+premder/premder.md:Rpdrdu _2x3

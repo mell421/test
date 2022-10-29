@@ -70,7 +70,7 @@ apercu/apercu22.md:conclu 04/08/22 = Big brother us _24 > 1;
 apercu/apercu22.md:conclu 05/08/22 = Big brother us _24 > 4; 
 apercu/apercu22.md:conclu 06/08/22 = Big brother us _24 > 3; His man _1 > 1; 
 apercu/apercu22.md:conclu 07/08/22 = Big brother us _24 > 3; His man _1 > 1; 
-apercu/apercu22.md:conclu 27/08/22 = Big brother us _24 > 2; The voice senior peru _2 > 1; 
+apercu/apercu22.md:conclu 27/08/22 = Big brother us _24 > 2; 
 apercu/apercu22.md:conclu 31/07/22 = Big brother us _24 > 1; 
 apercu/apercu22.md:concluBis 01/08/22 = Big brother us _24 > 8; Big brother us _23 > 1; 
 apercu/apercu22.md:concluBis 02/08/22 = Big brother us _24 > 8; Big brother us _23 > 1; 
@@ -101,11 +101,14 @@ apercu/apercu22.md:concluBis 24/08/22 = Big brother us _24 > 9; The voice ger _1
 apercu/apercu22.md:concluBis 25/07/22 = Big brother us _23 > 2; Big brother us _24 > 2; 
 apercu/apercu22.md:concluBis 25/08/22 = Big brother us _24 > 8; 
 apercu/apercu22.md:concluBis 26/07/22 = Big brother us _23 > 2; Big brother us _24 > 2; 
-apercu/apercu22.md:concluBis 26/08/22 = Big brother us _24 > 8; The voice senior peru _2 > 2; 
+apercu/apercu22.md:concluBis 26/08/22 = Big brother us _24 > 8; 
 apercu/apercu22.md:concluBis 27/07/22 = Big brother us _23 > 2; Big brother us _24 > 1; 
-apercu/apercu22.md:concluBis 27/08/22 = Big brother us _24 > 7; The voice senior peru _2 > 3; 
+apercu/apercu22.md:concluBis 27/08/22 = Big brother us _24 > 7; 
 apercu/apercu22.md:concluBis 28/07/22 = Big brother us _23 > 2; Big brother us _24 > 1; 
 apercu/apercu22.md:concluBis 29/07/22 = Big brother us _24 > 2; Big brother us _23 > 1; Blueming _1 > 1; 
 apercu/apercu22.md:concluBis 30/07/22 = Big brother us _24 > 6; Big brother us _23 > 1; 
 apercu/apercu22.md:concluBis 31/07/22 = Big brother us _24 > 7; Big brother us _23 > 1; 
 apercuTer/apercuTer.md:* Big brother us _24
+liste/liste.md:|big brother us _24|||||0|<!--  -->
+premder/premder.md:Big brother us _24x1
+premder/premder.md:Big brother us _24x17

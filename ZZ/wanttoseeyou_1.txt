@@ -6,4 +6,6 @@ apercu/apercu22.md:- mois 01-07-2022 -> The challenge _4x3(2) Unforgotten night 
 apercu/apercu22.md:- sem 06-06-2022 -> Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) Dont forget the lyrics _1x3(1) 
 apercu/apercu22.md:concluBis 06/06/22 = Want to see you _1 > 1; 
 apercuTer/apercuTer.md:* Want to see you _1
-index.html:            want to see you _1<br>
+bl/bl.md:|want to see you _1||14|serie|vietnam|1|<!--  -->
+liste/liste.md:|want to see you _1|||||0|<!--  -->
+premder/premder.md:Want to see you _1x1

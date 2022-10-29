@@ -8,4 +8,6 @@ apercu/apercu22.md:- mois 01-07-2022 -> The challenge _4x3(2) Unforgotten night 
 apercu/apercu22.md:- sem 04-07-2022 -> The challenge _4x3(2) Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Dont forget the lyrics _1x7(1) Camping paradis _13x3(1) 
 apercu/apercu22.md:- sem 27-06-2022 -> Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dont forget the lyrics _1x6(1) Dancing with myself _1x3(1) Unforgotten night _1x2(1) Camping paradis _13x2(1) 
 apercuTer/apercuTer.md:* Camping paradis _13
-index.html:          <td>camping paradis _13<br>
+liste/liste.md:|camping paradis _13|||||0|<!--  -->
+premder/premder.md:Camping paradis _13x1
+premder/premder.md:Camping paradis _13x3

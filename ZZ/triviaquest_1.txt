@@ -95,3 +95,6 @@ apercu/apercu22.md:concluBis 16/04/22 = Trivia quest _1 > 6;
 apercu/apercu22.md:concluBis 17/04/22 = Trivia quest _1 > 2; 
 apercu/apercu22.md:concluBis 18/04/22 = Trivia quest _1 > 1; 
 apercuTer/apercuTer.md:* Trivia quest _1
+liste/liste.md:|trivia quest _1||30|||0|<!-- 9/4 -->
+premder/premder.md:Trivia quest _1x1
+premder/premder.md:Trivia quest _1x6
