@@ -665,6 +665,7 @@
 |the eclipse _1||12|serie|thailande|<!-- 12/8 -->
 |the voice senior peru _2||49|||<!--  -->
 |my roommate _1||32|||<!--  -->
+|the voice uk _11||9|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -883,7 +884,6 @@
 |skam italia _5||10|||0|<!-- 1/9 -->
 |little big world with pond phuwin _1|||||0|<!--  -->
 |the voice poland _13|||||0|<!--  -->
-|the voice uk _11|||||0|<!--  -->
 |les cinquante _1|||||0|<!--  -->
 |un dos tres _3|||||0|<!--  -->
 |the voice bulgarie _9|||||0|<!--  -->

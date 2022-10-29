@@ -113,6 +113,7 @@
 |tv th 9||13|||<!--  -->
 |tv dominicana 2||19|||<!--  -->
 |tvs peru _2||49|||<!--  -->
+|tv uk _11||9|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -143,7 +144,6 @@
 |the voice senior colombia _2|||||0|<!--  -->
 |the voice romania _10|||||0|<!--  -->
 |the voice bulgarie _9|||||0|<!--  -->
-|the voice uk _11|||||0|<!--  -->
 |the voice poland _13|||||0|<!--  -->
 |the voice ger _12|||||0|<!--  -->
 ||||||0|<!--  -->

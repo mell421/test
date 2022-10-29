@@ -50,7 +50,6 @@ Interview with the vampire _1x2
 Interview with the vampire _1x1
 The masked singer ger _7x1
 The voice bulgarie _9x5
-The voice uk _11x5
 The voice poland _13x12
 The voice kids cambodia _3x1
 The voice romania _10x4
@@ -85,7 +84,6 @@ Masterchef fr _6x3
 The voice bulgarie _9x1
 Un dos tres _3x1
 Les cinquante _1x1
-The voice uk _11x1
 The voice poland _13x1
 Little big world with pond phuwin _1x1
 Skam italia _5x2
