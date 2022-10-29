@@ -11,7 +11,7 @@ list99=(
 # 99-50
 "Love in the air _1" "The voice ukr _12" "The voice us _22" 
 # 49-40
-"The shipper _1" "The voice vv _8" "My roommate _1" 
+"The shipper _1" "The voice vv _8" 
 # 39-30
 "Strictly come dancing _20" "The voice bulgarie _9" "The mole _1" "The voice uk _11" "Star academy _10" 
 # 29-20

@@ -664,6 +664,7 @@
 |the good doctor _5||18|||<!--  -->
 |the eclipse _1||12|serie|thailande|<!-- 12/8 -->
 |the voice senior peru _2||49|||<!--  -->
+|my roommate _1||32|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -915,7 +916,6 @@
 |the mole _1|||||0|<!--  -->
 |star academy _10|||||0|<!--  -->
 |incroyable talent _17|||||0|<!--  -->
-|my roommate _1|||||0|<!--  -->
 |ahs _11|||||0|<!-- 18/10 -->
 |the voice kids peru _5|||||0|<!--  -->
 |lego masters fr _3|||||0|<!--  -->

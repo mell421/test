@@ -54,11 +54,6 @@ ligne :  6 ZZ/Thevoicevv_8.txt
 mot   :  28 ZZ/Thevoicevv_8.txt
 carac :  263 ZZ/Thevoicevv_8.txt
 
-i = My roommate _1
-ligne :  3 ZZ/Myroommate_1.txt
-mot   :  12 ZZ/Myroommate_1.txt
-carac :  132 ZZ/Myroommate_1.txt
-
 i = Strictly come dancing _20
 ligne :  5 ZZ/Strictlycomedancing_20.txt
 mot   :  23 ZZ/Strictlycomedancing_20.txt
