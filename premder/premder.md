@@ -56,7 +56,6 @@ The voice romania _10x4
 The voice esp _9x2
 The voice vv _8x1
 The voice ger _12x14
-The voice senior colombia _2x13
 Dals _12x4
 The amazing race _34x2
 Love in the air _1x5
@@ -77,7 +76,6 @@ The voice us _22x1
 Les cinquante _1x11
 Sky in your heart _1x4
 Vampire academy _1x1
-The voice senior colombia _2x1
 The voice romania _10x1
 Dals _12x1
 Masterchef fr _6x3

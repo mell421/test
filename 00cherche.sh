@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 100
-"Big brother us _24" "The voice ger _12" "The voice senior colombia _2" "The voice poland _13" "The challenge _4" "Les cinquante _1" 
+"Big brother us _24" "The voice ger _12" "The voice poland _13" "The challenge _4" "Les cinquante _1" 
 # 99-50
 "Love in the air _1" "The voice ukr _12" "The voice us _22" 
 # 49-40

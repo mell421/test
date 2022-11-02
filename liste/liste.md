@@ -666,6 +666,7 @@
 |the voice senior peru _2||49|||<!--  -->
 |my roommate _1||32|||<!--  -->
 |the voice uk _11||9|||<!--  -->
+|the voice senior colombia _2||33|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -889,7 +890,6 @@
 |the voice bulgarie _9|||||0|<!--  -->
 |dals _12|||||0|<!--  -->
 |the voice romania _10|||||0|<!--  -->
-|the voice senior colombia _2|||||0|<!--  -->
 |vampire academy _1|||||0|<!-- 15/9 -->
 |the voice us _22|||||0|<!-- 20/9 -->
 |dwts _31|||||0|<!--  -->

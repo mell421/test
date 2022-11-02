@@ -227,7 +227,6 @@ i = The voice ph _1
 i = The voice poland _13
 i = The voice portugal _10
 i = The voice romania _10
-i = The voice senior colombia _2
 i = The voice ukr _12
 i = The voice us _22
 i = The voice vv _8
