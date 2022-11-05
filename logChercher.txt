@@ -4,11 +4,6 @@ ligne :  114 ZZ/Bigbrotherus_24.txt
 mot   :  2031 ZZ/Bigbrotherus_24.txt
 carac :  13210 ZZ/Bigbrotherus_24.txt
 
-i = The voice ger _12
-ligne :  14 ZZ/Thevoiceger_12.txt
-mot   :  148 ZZ/Thevoiceger_12.txt
-carac :  1026 ZZ/Thevoiceger_12.txt
-
 i = The voice poland _13
 ligne :  6 ZZ/Thevoicepoland_13.txt
 mot   :  28 ZZ/Thevoicepoland_13.txt

@@ -55,7 +55,6 @@ The voice kids cambodia _3x1
 The voice romania _10x4
 The voice esp _9x2
 The voice vv _8x1
-The voice ger _12x14
 Dals _12x4
 The amazing race _34x2
 Love in the air _1x5
@@ -93,7 +92,6 @@ My only 12pc _1x1
 Bt21 original story _2x1
 His man _1x9
 Masterchef fr _6x1
-The voice ger _12x1
 Big brother us _24x17
 Love in the air _1x1
 Rpdrdu _2x3

@@ -49,7 +49,7 @@
 - sem 01-08-2022 -> The challenge _4x5(1) God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(1) Big brother us _24x11(4) Blueming _1x4(2) 
 - sem 08-08-2022 -> His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) Blueming _1x5(1) The challenge _4x7(2) 
 - sem 15-08-2022 -> His man _1x7(1) Rpscdr _2x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
-- sem 22-08-2022 -> The voice ger _12x3(2) Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+- sem 22-08-2022 -> Big brother us _24x18(1) Love in the air _1x2(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 
 
 
@@ -332,8 +332,8 @@ concluBis 19/08/22 = Big brother us _24 > 6;
 concluBis 20/08/22 = Big brother us _24 > 6; 
 concluBis 21/08/22 = Big brother us _24 > 9; 
 concluBis 22/08/22 = Big brother us _24 > 9; 
-concluBis 23/08/22 = Big brother us _24 > 9; The voice ger _12 > 1; 
-concluBis 24/08/22 = Big brother us _24 > 9; The voice ger _12 > 1; 
+concluBis 23/08/22 = Big brother us _24 > 9; 
+concluBis 24/08/22 = Big brother us _24 > 9; 
 concluBis 25/08/22 = Big brother us _24 > 8; 
 concluBis 26/08/22 = Big brother us _24 > 8; 
 concluBis 27/08/22 = Big brother us _24 > 7; 

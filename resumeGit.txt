@@ -2403,3 +2403,30 @@ Your branch is up to date with 'origin/save'.
  18 files changed, 48 insertions(+), 35 deletions(-)
  
 remove The voice senior colombia _2
+M	.gitignore
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 1c52e517] remove The voice senior colombia _2
+ 17 files changed, 60 insertions(+), 34 deletions(-)
+ 
+remove The voice ger _12

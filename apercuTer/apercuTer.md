@@ -74,6 +74,7 @@
 * The amazing race _32
 ### sem 07-11-2022 
 * *insererici*
+* The voice ger _12
 * The voice senior colombia _2
 
 <div style="page-break-after: always; visibility: hidden"> 
@@ -112,7 +113,7 @@
 * Little big world with pond phuwin _1
 * 
 * Incroyable talent _17
-* The voice ger _12
+* 
 * The voice esp _9
 * The voice kids malta _1
 * Dals _12
@@ -250,6 +251,6 @@
 #### mois 01-11-2022 
 *insererici The voice uk _11 My roommate _1 The voice senior peru _2 The eclipse _1 The good doctor _5 The voice dominicana _2 The amazing race _32 The masked dancer uk _2 Drag race ca _3 The voice th _9 The masked singer arg _1 Lays on cruise _1 Beat shazam _5 The masked singer fr _4 The voice kids fr _8 Floor is lava _3 The challenge usa _1 The masked singer nz _2 Vice versa series _1*
 #### mois 01-12-2022 
-*insererici The voice senior colombia _2*
+*insererici The voice ger _12 The voice senior colombia _2*
 
 [retour](./../index.html)

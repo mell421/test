@@ -215,7 +215,6 @@ i = The shipper _1
 i = The tuxedo _1
 i = The voice bulgarie _9
 i = The voice esp _9
-i = The voice ger _12
 i = The voice greece _9
 i = The voice kids cambodia _3
 i = The voice kids indonesia _4
