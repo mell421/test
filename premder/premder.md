@@ -46,8 +46,6 @@ Ai long nhai _1x2
 The voice portugal _10x2
 The voice greece _9x1
 The voice vv _8x2
-Interview with the vampire _1x2
-Interview with the vampire _1x1
 The voice bulgarie _9x5
 The voice poland _13x12
 The voice kids cambodia _3x1

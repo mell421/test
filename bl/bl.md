@@ -258,6 +258,7 @@
 |Lays on cruise _1|Lays on cruise|3|show|thailande|<!--  -->
 |the eclipse _1|the eclipse|12|serie|thailande|<!--  -->
 |my roommate _1|my roommate|32|serie|thailande|<!--  -->
+|interview with the vampire _1|interview with the vampire|7|serie|usa|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

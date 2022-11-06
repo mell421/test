@@ -668,7 +668,8 @@
 |the voice uk _11||9|||<!--  -->
 |the voice senior colombia _2||33|||<!--  -->
 |the voice ger _12||19|||<!--  -->
-|the masked singer ger _7||7|||<!--  -->
+|the masked singer ger _7||6|||<!--  -->
+|interview with the vampire _1||7|||<!-- 2/10 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -906,7 +907,6 @@
 |the voice nepal _4|||||0|<!--  -->
 |the voice vv _8|||||0|<!--  -->
 |the voice kids cambodia _3|||||0|<!--  -->
-|interview with the vampire _1|||||0|<!-- 2/10 -->
 |the voice greece _9|||||0|<!--  -->
 |nailed it _7|||||0|<!--  -->
 |reginald the vampire _1|||||0|<!-- 6/10 -->
