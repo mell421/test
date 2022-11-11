@@ -176,7 +176,6 @@ i = Let the right one in _1
 i = Little big world with pond phuwin _1
 i = Love area _1
 i = Love at night _1
-i = Love in the air _1
 i = Love mechanics _1
 i = Love stage 2022 _1
 i = Lucifer _4

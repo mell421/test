@@ -2496,3 +2496,28 @@ Your branch is up to date with 'origin/save'.
  15 files changed, 57 insertions(+), 24 deletions(-)
  
 remove Interview with the vampire _1
+M	.gitignore
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	bl/bl.html
+M	bl/bl.md
+M	bl/bl.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 510c2535] remove Interview with the vampire _1
+ 15 files changed, 49 insertions(+), 20 deletions(-)
+ 
+remove Love in the air _1

@@ -20,6 +20,7 @@
     - [sem 24-10-2022](#sem-24-10-2022)
     - [sem 31-10-2022](#sem-31-10-2022)
     - [sem 07-11-2022](#sem-07-11-2022)
+    - [sem 14-11-2022](#sem-14-11-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-09-2022](#mois-01-09-2022)
@@ -78,6 +79,9 @@
 * The masked singer ger _7
 * The voice ger _12
 * The voice senior colombia _2
+### sem 14-11-2022 
+* *insererici*
+* Love in the air _1
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -120,7 +124,7 @@
 * The voice kids malta _1
 * Dals _12
 * The voice kids peru _5
-* Love in the air _11
+* 
 * The amazing race _34
 * Reginald the vampire _1
 * The challenge _38
@@ -253,6 +257,6 @@
 #### mois 01-11-2022 
 *insererici The voice uk _11 My roommate _1 The voice senior peru _2 The eclipse _1 The good doctor _5 The voice dominicana _2 The amazing race _32 The masked dancer uk _2 Drag race ca _3 The voice th _9 The masked singer arg _1 Lays on cruise _1 Beat shazam _5 The masked singer fr _4 The voice kids fr _8 Floor is lava _3 The challenge usa _1 The masked singer nz _2 Vice versa series _1*
 #### mois 01-12-2022 
-*insererici Interview with the vampire _1 The masked singer ger _7 The voice ger _12 The voice senior colombia _2*
+*insererici Love in the air _1 Interview with the vampire _1 The masked singer ger _7 The voice ger _12 The voice senior colombia _2*
 
 [retour](./../index.html)

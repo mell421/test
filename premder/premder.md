@@ -54,7 +54,6 @@ The voice esp _9x2
 The voice vv _8x1
 Dals _12x4
 The amazing race _34x2
-Love in the air _1x5
 The voice nepal _4x2
 The voice nepal _4x1
 The voice portugal _10x1
@@ -90,7 +89,6 @@ Bt21 original story _2x1
 His man _1x9
 Masterchef fr _6x1
 Big brother us _24x17
-Love in the air _1x1
 Rpdrdu _2x3
 Drag race ph _1x2
 Drag race ph _1x1
