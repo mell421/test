@@ -171,7 +171,7 @@
 |our memory _1|our memory|4|serie|taiwan|  <!-- 21/3 -->
 |mako ventures _1|mako ventures|12|show|philippines| <!-- 27/3 -->
 |absolute BL _1|absolute bl|8|serie|japon| <!-- 31/3 -->
-|1000 stars _1|a tales of _1000 stars|12|serie|thailande| <!-- 2/4 -->
+|1000 stars _1|a tales of 1000 stars|12|serie|thailande| <!-- 2/4 -->
 |meet my angel _1|meet my angel|8|serie|philippines| <!-- 3/4 -->
 |roommate _2|roommate _2 soulmate|2|serie|thailande| <!-- 14/4 -->
 |we best love _2|fighting mister _2nd|6|serie|taiwan| <!-- 16/4 -->
@@ -215,7 +215,7 @@
 |the tasty florida _1|the tasty florida|8|serie|corée|<!-- 15/10 -->
 |Love is science bl cut _1|Love is science bl cut|20|series|taiwan|<!--  -->
 |bite sisters _1|bite sisters|10|series(***)|corée|<!-- 22/11 -->
-|boy meets boy _2008 _0|boy meets boy _2008|1|cm|corée|<!--  -->
+|boy meets boy 2008 _0|boy meets boy 2008|1|cm|corée|<!--  -->
 |Sisak _2017 _0|sisak _2017|1|cm|inde|<!--  -->
 |The right man because I love you _0|The right man because I love you|1|cm|thailande|<!--  -->
 |my personnal trainer _0|my personnal trainer|1|cm|corée|<!--  -->

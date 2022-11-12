@@ -52,7 +52,6 @@ The voice kids cambodia _3x1
 The voice romania _10x4
 The voice esp _9x2
 The voice vv _8x1
-Dals _12x4
 The amazing race _34x2
 The voice nepal _4x2
 The voice nepal _4x1
@@ -72,7 +71,6 @@ Les cinquante _1x11
 Sky in your heart _1x4
 Vampire academy _1x1
 The voice romania _10x1
-Dals _12x1
 Masterchef fr _6x3
 The voice bulgarie _9x1
 Un dos tres _3x1

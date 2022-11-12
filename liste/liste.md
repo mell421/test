@@ -671,6 +671,7 @@
 |the masked singer ger _7||6|||<!--  -->
 |interview with the vampire _1||7|||<!-- 2/10 -->
 |love in the air _1||13|||<!-- 18/8 -->
+|dals _12||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -890,7 +891,6 @@
 |les cinquante _1|||||0|<!--  -->
 |un dos tres _3|||||0|<!--  -->
 |the voice bulgarie _9|||||0|<!--  -->
-|dals _12|||||0|<!--  -->
 |the voice romania _10|||||0|<!--  -->
 |vampire academy _1|||||0|<!-- 15/9 -->
 |the voice us _22|||||0|<!-- 20/9 -->

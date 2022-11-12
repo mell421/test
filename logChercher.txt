@@ -59,11 +59,6 @@ ligne :  3 ZZ/Staracademy_10.txt
 mot   :  12 ZZ/Staracademy_10.txt
 carac :  138 ZZ/Staracademy_10.txt
 
-i = Dals _12
-ligne :  5 ZZ/Dals_12.txt
-mot   :  13 ZZ/Dals_12.txt
-carac :  176 ZZ/Dals_12.txt
-
 i = The voice portugal _10
 ligne :  6 ZZ/Thevoiceportugal_10.txt
 mot   :  28 ZZ/Thevoiceportugal_10.txt

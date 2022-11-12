@@ -15,7 +15,7 @@ list99=(
 # 39-30
 "Strictly come dancing _20" "The voice bulgarie _9" "The mole _1" "Star academy _10" 
 # 29-20
-"Dals _12" "The voice portugal _10" 
+"The voice portugal _10" 
 # 19-15
 "The voice romania _10" "The voice greece _9" "The amazing race _34" "Ai long nhai _1" "The masked singer _8" "Little big world with pond phuwin _1" "Rpscdr _2" "Sky in your heart _1" "Masterchef fr _6" 
 # 14-10

@@ -2521,3 +2521,45 @@ Your branch is up to date with 'origin/save'.
  15 files changed, 49 insertions(+), 20 deletions(-)
  
 remove Love in the air _1
+M	.gitignore
+M	00cherche.sh
+M	ZZ/bigbrotherus_24.txt
+M	ZZ/dragraceph_1.txt
+M	ZZ/hisman_1.txt
+M	ZZ/loveintheair_1.txt
+M	ZZ/mastercheffr_6.txt
+M	ZZ/rpdrdu_2.txt
+M	ZZ/thevoiceger_12.txt
+M	ZZ/thevoiceph_1.txt
+M	ZZ/thevoiceseniorperu_2.txt
+M	aEff/aeff.html
+M	aEff/aeff.md
+M	apercu/apAll.txt
+M	apercu/apercu22.html
+M	apercu/apercu22.md
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	bl/bl.html
+M	bl/bl.md
+M	bl/bl.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save b391b314] remove Love in the air _1
+ 32 files changed, 98 insertions(+), 85 deletions(-)
+ 
+remove Dals _12

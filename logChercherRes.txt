@@ -40,7 +40,6 @@ carac :  168 ZZ/Skamitalia_5.txt
 carac :  1703 ZZ/Gameoftalentsfr_2.txt
 carac :  172 ZZ/Lescinquante_1.txt
 carac :  1758 ZZ/Skyinyourheart_1.txt
-carac :  176 ZZ/Dals_12.txt
 carac :  176 ZZ/Dwts_31.txt
 carac :  1792 ZZ/Campingparadis_13.txt
 carac :  1799 ZZ/Druck_8.txt
@@ -149,7 +148,6 @@ i = Clik clak clok _1
 i = Close friend _2
 i = Color rush _2
 i = Cupids last wish _1
-i = Dals _12
 i = Dancing with myself _1
 i = District z _2
 i = Dont forget the lyrics _1
@@ -312,7 +310,6 @@ ligne :  44 ZZ//9-1-1lonestar_3.txt
 ligne :  44 ZZ/Thechallenge_4.txt
 ligne :  46 ZZ/Hisman_1.txt
 ligne :  47 ZZ/Tokyoghoul_3.txt
-ligne :  5 ZZ/Dals_12.txt
 ligne :  5 ZZ/Dwts_31.txt
 ligne :  5 ZZ/Lamasdraga_5.txt
 ligne :  5 ZZ/Strictlycomedancing_20.txt
@@ -376,7 +373,6 @@ mot   :  123 ZZ/Dragiloveyou_1.txt
 mot   :  125 ZZ/Lesengages_3.txt
 mot   :  126 ZZ/Survivor_31.txt
 mot   :  1275 ZZ//9-1-1_5.txt
-mot   :  13 ZZ/Dals_12.txt
 mot   :  13 ZZ/Dwts_31.txt
 mot   :  130 ZZ/Aggretsuko_4.txt
 mot   :  131 ZZ/Thevoiceseniorperu_2.txt
