@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 100
-"Big brother us _24" "The voice poland _13" "The challenge _4" "Les cinquante _1" 
+"Big brother us _24" "The voice poland _13" "Les cinquante _1" 
 # 99-50
 "The voice ukr _12" "The voice us _22" 
 # 49-40

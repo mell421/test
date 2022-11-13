@@ -9,11 +9,6 @@ ligne :  6 ZZ/Thevoicepoland_13.txt
 mot   :  28 ZZ/Thevoicepoland_13.txt
 carac :  294 ZZ/Thevoicepoland_13.txt
 
-i = The challenge _4
-ligne :  44 ZZ/Thechallenge_4.txt
-mot   :  973 ZZ/Thechallenge_4.txt
-carac :  6529 ZZ/Thechallenge_4.txt
-
 i = Les cinquante _1
 ligne :  4 ZZ/Lescinquante_1.txt
 mot   :  14 ZZ/Lescinquante_1.txt

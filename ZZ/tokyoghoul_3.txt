@@ -4,17 +4,17 @@ aEff/aeff.md:- 16/02/21 - 175* tokyo ghoul _3{1} my vampire boyfriend _1{9} bang
 aEff/aeff.md:- 17/02/21 - 199* you never eat alone _1{2} tokyo ghoul _3{2} my vampire boyfriend _1{9} 
 aEff/aeff.md:01/08/22 (eff) - Big brother us _23{28} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{12} Tokyo ghoul _3{9} 
 aEff/aeff.md:20/07/22 - 353* Big brother us _23{15} Tokyo ghoul _3{8} Big brother us _24{3} 
-aEff/aeff.md:20/08/22 (eff) - Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:20/08/22 (eff) - Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} Tokyo ghoul _3{10} 
 aEff/aeff.md:21/07/22 - 314* Unforgotten night _1{5} Big brother us _23{16} Tokyo ghoul _3{8} Big brother us _24{3} 
-aEff/aeff.md:21/08/22 (eff) - Big brother us _24{41} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
-aEff/aeff.md:22/08/22 (eff) - Big brother us _24{43} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} The challenge _4{11} Tokyo ghoul _3{10} 
-aEff/aeff.md:24/08/22 (eff) - Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:21/08/22 (eff) - Big brother us _24{41} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:22/08/22 (eff) - Big brother us _24{43} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:24/08/22 (eff) - Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} Tokyo ghoul _3{10} 
 aEff/aeff.md:25/07/22 (eff) - Big brother us _23{20} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Tokyo ghoul _3{8} 
-aEff/aeff.md:25/08/22 (eff) - Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:25/08/22 (eff) - Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} Tokyo ghoul _3{10} 
 aEff/aeff.md:26/07/22 (eff) - Big brother us _23{22} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Tokyo ghoul _3{9} 
-aEff/aeff.md:26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} Tokyo ghoul _3{10} 
 aEff/aeff.md:27/07/22 (eff) - Big brother us _23{23} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Tokyo ghoul _3{9} 
-aEff/aeff.md:27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} The challenge _4{11} Tokyo ghoul _3{10} 
+aEff/aeff.md:27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} Tokyo ghoul _3{10} 
 aEff/aeff.md:28/07/22 (eff) - Big brother us _23{24} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Tokyo ghoul _3{9} 
 aEff/aeff.md:29/07/22 (eff) - Big brother us _23{25} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Tokyo ghoul _3{9} 
 apercu/apercu21.md:- mois 01-03-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
@@ -25,7 +25,7 @@ apercu/apercu21.md:* concluBis 16/02/21 > The harvest season _1 > 3; Tokyo ghoul
 apercu/apercu21.md:* concluBis 17/02/21 > Tokyo ghoul _3 > 3; My vampire boyfriend _1 > 1; 
 apercu/apercu21.md:* concluBis 18/02/21 > My vampire boyfriend _1 > 8; Tokyo ghoul _3 > 2; 
 apercu/apercu21.md:* concluBis 19/02/21 > My vampire boyfriend _1 > 6; Tokyo ghoul _3 > 2; 
-apercu/apercu22.md:- mois 01-08-2022 -> The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Blueming _1x4(3) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercu22.md:- mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Blueming _1x4(3) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
 apercu/apercu22.md:- sem 25-07-2022 -> Blueming _1x2(1) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
 apercu/apercuglobal.md:- mois 01-03-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
 apercu/apercuglobal.md:- sem 15-02-2021 Bangkok love stories innocence _1x2(1) Tokyo ghoul _3x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 

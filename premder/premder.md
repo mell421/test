@@ -79,7 +79,6 @@ The voice poland _13x1
 Little big world with pond phuwin _1x1
 Skam italia _5x2
 Skam italia _5x1
-The challenge _4x11
 Le flambeau _1x5
 Camping paradis _13x3
 My only 12pc _1x1
@@ -114,7 +113,6 @@ Big brother us _23x1
 Big brother us _24x1
 Two pints of lager _3x6
 Second chance series _1x1
-The challenge _4x1
 Rose in da house _1x1
 Close friend _2x3
 Bulgasal _1x4

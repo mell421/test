@@ -672,6 +672,7 @@
 |interview with the vampire _1||7|||<!-- 2/10 -->
 |love in the air _1||13|||<!-- 18/8 -->
 |dals _12||10|||<!--  -->
+|the challenge _4||17|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -869,7 +870,6 @@
 |bulgasal _1|||||0|<!--  -->
 |unforgotten night _1|||||0|<!-- 22/6 -->
 |rose in da house _1|||||0|<!--  -->
-|the challenge _4|||||0|<!--  -->
 |second chance series _1|||||0|<!--  -->
 |big brother us _24|||||0|<!--  -->
 |big brother us _23|||||0|<!--  -->
