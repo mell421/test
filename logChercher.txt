@@ -184,11 +184,6 @@ ligne :  3 ZZ/Vampireacademy_1.txt
 mot   :  12 ZZ/Vampireacademy_1.txt
 carac :  142 ZZ/Vampireacademy_1.txt
 
-i = Check in do amor _1
-ligne :  3 ZZ/Checkindoamor_1.txt
-mot   :  18 ZZ/Checkindoamor_1.txt
-carac :  145 ZZ/Checkindoamor_1.txt
-
 i = Nailed it _7
 ligne :  3 ZZ/Nailedit_7.txt
 mot   :  11 ZZ/Nailedit_7.txt

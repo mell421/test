@@ -142,7 +142,6 @@ i = Bulgasal _1
 i = Bullshit the game show _1
 i = Call me mother _1
 i = Camping paradis _13
-i = Check in do amor _1
 i = Cherry blossoms after winter _1
 i = Clik clak clok _1
 i = Close friend _2

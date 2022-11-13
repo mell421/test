@@ -673,6 +673,7 @@
 |love in the air _1||13|||<!-- 18/8 -->
 |dals _12||10|||<!--  -->
 |the challenge _4||17|||<!--  -->
+|check in do amor _1||4|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -912,7 +913,6 @@
 |the voice kids malta _1|||||0|<!--  -->
 |let the right one in _1|||||0|<!--  -->
 |the challenge _38|||||0|<!--  -->
-|check in do amor _1|||||0|<!--  -->
 |the mole _1|||||0|<!--  -->
 |star academy _10|||||0|<!--  -->
 |incroyable talent _17|||||0|<!--  -->
