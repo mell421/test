@@ -675,6 +675,7 @@
 |the challenge _4||17|||<!--  -->
 |check in do amor _1||4|||<!--  -->
 |lego masters fr _3||4|||<!--  -->
+|the mole _1||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -914,7 +915,6 @@
 |the voice kids malta _1|||||0|<!--  -->
 |let the right one in _1|||||0|<!--  -->
 |the challenge _38|||||0|<!--  -->
-|the mole _1|||||0|<!--  -->
 |star academy _10|||||0|<!--  -->
 |incroyable talent _17|||||0|<!--  -->
 |ahs _11|||||0|<!-- 18/10 -->

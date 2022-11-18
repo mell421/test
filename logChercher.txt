@@ -44,11 +44,6 @@ ligne :  6 ZZ/Thevoicebulgarie_9.txt
 mot   :  28 ZZ/Thevoicebulgarie_9.txt
 carac :  299 ZZ/Thevoicebulgarie_9.txt
 
-i = The mole _1
-ligne :  2 ZZ/Themole_1.txt
-mot   :  8 ZZ/Themole_1.txt
-carac :  83 ZZ/Themole_1.txt
-
 i = Star academy _10
 ligne :  3 ZZ/Staracademy_10.txt
 mot   :  12 ZZ/Staracademy_10.txt
