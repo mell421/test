@@ -164,11 +164,6 @@ ligne :  3 ZZ/Thechallenge_38.txt
 mot   :  12 ZZ/Thechallenge_38.txt
 carac :  141 ZZ/Thechallenge_38.txt
 
-i = Lego masters fr _3
-ligne :  2 ZZ/Legomastersfr_3.txt
-mot   :  10 ZZ/Legomastersfr_3.txt
-carac :  97 ZZ/Legomastersfr_3.txt
-
 i = Incroyable talent _17
 ligne :  3 ZZ/Incroyabletalent_17.txt
 mot   :  12 ZZ/Incroyabletalent_17.txt

@@ -30,7 +30,7 @@ forme <- "circle"
 ||||  
 |---|---|---|  
 |[allListe](./allListe.html)|[wordcloud](./wordcloud.html)|[graph](./mygraph.html)|  
-|[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
+||[summary](./summary.html)||
 
 ---
 
@@ -200,8 +200,8 @@ suppressWarnings(main(text))
 <!-- test conclu 53 -->
 ### conclu
 ```{r conclu, echo=FALSE}
-text <- data.frame(aConcl())
-text <- text[2]
+text <- data.frame(aCps())
+text <- text[1]
 main <- function(text){
   
   dtm_d <- wc(text)

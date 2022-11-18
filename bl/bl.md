@@ -274,7 +274,7 @@
 |the shipper _1|the shipper|12|serie|thailande|4|  <!-- 3 -->
 |so much in love _1|so much in love|12|serie|thailande|2|  <!-- 4 -->
 |blacklist _1|blacklist|13|serie(**)|thailande|1|  <!-- 5 -->
-|my dear loser edge of _17 _1|my dear loser edge of _17|9|serie|thailande|1| <!-- 7 -->
+|my dear loser edge of 17 _1|my dear loser edge of 17|9|serie|thailande|1| <!-- 7 -->
 |my day _1|my day|12|serie|philippines|1|  <!-- 8 -->
 |friend forever _1|friend forever|12|serie|thailande|3|  <!-- 9 -->
 |capture lover _1|capture lover|?|serie|chine|2| <!-- 10 -->
@@ -317,7 +317,7 @@
 |meet my angel _2|meet my angel _2|9|serie|philippines|3|<!-- -->
 |color rush _2|color rush _2|8|serie|corée|1|<!--  -->
 |love at night _1|love at night _1|20|serie(non)|taiwan|1|<!--  -->
-|love stage _2022 _1|love stage|?|serie|thailande|3|<!--  -->
+|love stage 2022 _1|love stage|?|serie|thailande|3|<!--  -->
 |all of us are dead _1|all of us are dead _1|10|serie(non)|corée|2|<!--  -->
 |cupids last wish _1|cupids last wish|?|serie|thailande|4|<!--  -->
 |cherry blossoms after winter _1|cherry blossoms after winter _1|?|serie|corée|1|<!--  -->
@@ -339,7 +339,7 @@
 |||||||<!--  -->
 |juad juad _1||||||<!--  -->
 |bt21 original story _2||||||<!--  -->
-|my only_12 pc _1||?|||0|<!--  -->
+|my only 12 pc _1||?|||0|<!--  -->
 |little big world with pond phuwin _1||||||<!--  -->
 |ai long nhai _1||||||<!--  -->
 |||||||<!--  -->
