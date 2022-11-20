@@ -857,37 +857,37 @@
 - 21/01/22 - 192* meet my angel _2{0} something in my room _1{0} 
 - 22/01/22 - 85* color rush _2{0} meet my angel _2{2} something in my room _1{2} 
 - 23/01/22 - 99* color rush _2{0} meet my angel _2{2} 
-- 24/01/22 - 77* the voice ukr _12{0} f4 thailand _1{6} 
-- 25/01/22 - 97* love at night _1{0} the voice ukr _12{3} f4 thailand _1{7} 
-- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} 
-- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} love at night _1{3} the voice ukr _12{4} f4 thailand _1{7} 
-- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} love at night _1{3} the voice ukr _12{4} 
+- 24/01/22 - 77* f4 thailand _1{6} 
+- 25/01/22 - 97* love at night _1{0} f4 thailand _1{7} 
+- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} f4 thailand _1{7} 
+- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} love at night _1{3} f4 thailand _1{7} 
+- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} love at night _1{3} 
 - 29/01/22 - 136* f4 thailand _1{9} something in my room _1{5} the voice ph _1{6} 
 - 30/01/22 - 154* f4 thailand _1{10} 
-- 31/01/22 - 177* the voice ukr _12{4} f4 thailand _1{12} 
-- 01/02/22 - 143* /9-1-1 lone star _3{2} the voice ukr _12{5} f4 thailand _1{14} 
-- 02/02/22 - 97* /9-1-1 lone star _3{5} the voice ukr _12{6} 
-- 03/02/22 - 104* /9-1-1 lone star _3{6} the voice ukr _12{6} 
+- 31/01/22 - 177* f4 thailand _1{12} 
+- 01/02/22 - 143* /9-1-1 lone star _3{2} f4 thailand _1{14} 
+- 02/02/22 - 97* /9-1-1 lone star _3{5} 
+- 03/02/22 - 104* /9-1-1 lone star _3{6} 
 - 04/02/22 - 101* love stage 2022 _1{0} /9-1-1 lone star _3{7} 
 - 05/02/22 - 146* love stage 2022 _1{0} 
 - 06/02/22 - 208* something in my room _1{7} f4 thailand _1{16} 
-- 07/02/22 - 204* the voice ukr _12{6} meet my angel _2{4} something in my room _1{7} f4 thailand _1{17} 
-- 08/02/22 - 231* the voice ukr _12{7} meet my angel _2{6} something in my room _1{8} f4 thailand _1{19} 
-- 09/02/22 - 142* /9-1-1 lone star _3{9} the voice ukr _12{7} meet my angel _2{7} something in my room _1{8} 
-- 10/02/22 - 147* love stage 2022 _1{1} /9-1-1 lone star _3{9} the voice ukr _12{7} meet my angel _2{8} 
-- 11/02/22 - 156* love stage 2022 _1{3} /9-1-1 lone star _3{9} the voice ukr _12{7} 
+- 07/02/22 - 204* meet my angel _2{4} something in my room _1{7} f4 thailand _1{17} 
+- 08/02/22 - 231* meet my angel _2{6} something in my room _1{8} f4 thailand _1{19} 
+- 09/02/22 - 142* /9-1-1 lone star _3{9} meet my angel _2{7} something in my room _1{8} 
+- 10/02/22 - 147* love stage 2022 _1{1} /9-1-1 lone star _3{9} meet my angel _2{8} 
+- 11/02/22 - 156* love stage 2022 _1{3} /9-1-1 lone star _3{9} 
 - 12/02/22 - 216* love stage 2022 _1{3} 
 - 13/02/22 - 210* all of us are dead _1{0} f4 thailand _1{20} 
-- 14/02/22 - 317* the voice ukr _12{7} all of us are dead _1{2} f4 thailand _1{22} 
-- 15/02/22 - 273* the voice ukr _12{8} all of us are dead _1{5} f4 thailand _1{24} 
-- 16/02/22 - 282* love stage 2022 _1{4} the voice ukr _12{8} all of us are dead _1{7} 
-- 17/02/22 - 203* love stage 2022 _1{6} the voice ukr _12{8} 
+- 14/02/22 - 317* all of us are dead _1{2} f4 thailand _1{22} 
+- 15/02/22 - 273* all of us are dead _1{5} f4 thailand _1{24} 
+- 16/02/22 - 282* love stage 2022 _1{4} all of us are dead _1{7} 
+- 17/02/22 - 203* love stage 2022 _1{6} 
 - 18/02/22 - 156* love stage 2022 _1{6} 
 - 20/02/22 - 199* something in my room _1{8} f4 thailand _1{25} 
-- 21/02/22 - 190* the voice ukr _12{8} something in my room _1{8} f4 thailand _1{27} 
-- 22/02/22 - 196* the voice ukr _12{9} something in my room _1{9} 
-- 23/02/22 - 201* the voice ukr _12{9} 
-- 24/02/22 - 154* cupids last wish _1{0} the voice ukr _12{9} 
+- 21/02/22 - 190* something in my room _1{8} f4 thailand _1{27} 
+- 22/02/22 - 196* something in my room _1{9} 
+- 23/02/22 - 201* 
+- 24/02/22 - 154* cupids last wish _1{0} 
 - 25/02/22 - 136* cherry blossoms after winter _1{0} cupids last wish _1{0} 
 - 26/02/22 - 414* cherry blossoms after winter _1{0} 
 - 27/02/22 - 324* cupids last wish _1{0} cherry blossoms after winter _1{0} 

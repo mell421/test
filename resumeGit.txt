@@ -2753,3 +2753,5 @@ D	ugo/ldavis_prepared_4.html
 Your branch is up to date with 'origin/save'.
 [save 41b2f7c4] remove The voice poland _13
  18 files changed, 45 insertions(+), 35 deletions(-)
+ 
+remove The voice ukr _12

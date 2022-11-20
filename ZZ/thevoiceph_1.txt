@@ -71,13 +71,13 @@ aEff/aeff.md:- 24/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} cu
 aEff/aeff.md:- 24/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
 aEff/aeff.md:- 25/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 25/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-aEff/aeff.md:- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} 
+aEff/aeff.md:- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} f4 thailand _1{7} 
 aEff/aeff.md:- 26/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 26/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-aEff/aeff.md:- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} love at night _1{3} the voice ukr _12{4} f4 thailand _1{7} 
+aEff/aeff.md:- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} love at night _1{3} f4 thailand _1{7} 
 aEff/aeff.md:- 27/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 27/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-aEff/aeff.md:- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} love at night _1{3} the voice ukr _12{4} 
+aEff/aeff.md:- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} love at night _1{3} 
 aEff/aeff.md:- 28/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 28/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
 aEff/aeff.md:- 29/01/22 - 136* f4 thailand _1{9} something in my room _1{5} the voice ph _1{6} 
@@ -86,9 +86,9 @@ aEff/aeff.md:- 29/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivi
 aEff/aeff.md:- 30/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 30/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
 aEff/aeff.md:- 31/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
-apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
 apercu/apercu22.md:- sem 22-08-2022 -> Big brother us _24x18(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
-apercu/apercu22.md:- sem 31-01-2022 -> The voice ukr _12x3(1) F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
+apercu/apercu22.md:- sem 31-01-2022 -> F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
 apercu/apercu22.md:* conclu 01/02/22 = The voice ph _1 > 3; /9-1-1 lone star _3 > 2; 
 apercu/apercu22.md:* conclu 26/01/22 = The voice ph _1 > 2; 
 apercu/apercu22.md:* conclu 27/01/22 = The voice ph _1 > 3; Something in my room _1 > 2; Forever knight _1 > 1; 

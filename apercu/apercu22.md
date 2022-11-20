@@ -21,11 +21,11 @@
 - sem 03-01-2022 -> Young sheldon _5x6(2) 5515 never too late _1x5(1) 
 - sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) 
 - sem 17-01-2022 -> The voice nl _12x3(1) /9-1-1 lone star _3x3(1) 
-- sem 24-01-2022 -> The voice ukr _12x2(1) F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
-- sem 31-01-2022 -> The voice ukr _12x3(1) F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
-- sem 07-02-2022 -> The voice ukr _12x4(1) Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
-- sem 14-02-2022 -> The voice ukr _12x5(1) All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
-- sem 21-02-2022 -> The voice ukr _12x6(1) Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) 
+- sem 24-01-2022 -> F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
+- sem 31-01-2022 -> F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
+- sem 07-02-2022 -> Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
+- sem 14-02-2022 -> All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
+- sem 21-02-2022 -> Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) 
 - sem 28-02-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) 
 - sem 07-03-2022 -> The tuxedo _1x2(1) Drag i love you _1x2(1) 
 - sem 14-03-2022 -> Drag i love you _1x3(1) 
@@ -61,8 +61,8 @@
 
 ## apercu mois
 - mois 01-01-2022 -> 5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Baker boys _1x4(1) 
-- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
-- mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+- mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 - mois 01-04-2022 -> Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
 - mois 01-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Call me mother _1x2(1) Trivia quest _1x7(6) Quaranthings _2x2(1) 
 - mois 01-06-2022 -> Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
@@ -85,7 +85,7 @@
 * conclu 21/01/22 = Meet my angel _2 > 2; Something in my room _1 > 1; 
 * conclu 22/01/22 = Forever knight _1 > 1; 
 * conclu 23/01/22 = Forever knight _1 > 1; 
-* conclu 24/01/22 = The voice ukr _12 > 1; Forever knight _1 > 1; 
+* conclu 24/01/22 = Forever knight _1 > 1; 
 * conclu 25/01/22 = Love at night _1 > 1; 
 * conclu 26/01/22 = The voice ph _1 > 2; 
 * conclu 27/01/22 = The voice ph _1 > 3; Something in my room _1 > 2; Forever knight _1 > 1; 
@@ -189,8 +189,8 @@ conclu 27/08/22 = Big brother us _24 > 2;
 * concluBis 21/01/22 = Meet my angel _2 > 4; Something in my room _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 22/01/22 = Forever knight _1 > 3; Imortal _1 > 2; 
 * concluBis 23/01/22 = Forever knight _1 > 3; Imortal _1 > 2; 
-* concluBis 24/01/22 = The voice ukr _12 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
-* concluBis 25/01/22 = Love at night _1 > 3; The voice ukr _12 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+* concluBis 24/01/22 = Forever knight _1 > 3; Imortal _1 > 2; 
+* concluBis 25/01/22 = Love at night _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 26/01/22 = The voice ph _1 > 4; Forever knight _1 > 2; Love at night _1 > 1; Imortal _1 > 1; 
 * concluBis 27/01/22 = The voice ph _1 > 5; Something in my room _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; 
 * concluBis 28/01/22 = The voice ph _1 > 5; F4 thailand _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; 

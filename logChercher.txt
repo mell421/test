@@ -9,11 +9,6 @@ ligne :  4 ZZ/Lescinquante_1.txt
 mot   :  14 ZZ/Lescinquante_1.txt
 carac :  172 ZZ/Lescinquante_1.txt
 
-i = The voice ukr _12
-ligne :  38 ZZ/Thevoiceukr_12.txt
-mot   :  646 ZZ/Thevoiceukr_12.txt
-carac :  4074 ZZ/Thevoiceukr_12.txt
-
 i = The voice us _22
 ligne :  6 ZZ/Thevoiceus_22.txt
 mot   :  29 ZZ/Thevoiceus_22.txt

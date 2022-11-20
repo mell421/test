@@ -117,6 +117,7 @@
 |tvs colombia _2||33|||<!--  -->
 |tv ger _12||19|||<!--  -->
 |tv poland _13||26|||<!--  -->
+|tv ukr _12||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -134,7 +135,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the voice nl 12|||||0|<!--  -->
-|the voice ukr _12|||||0|<!--  -->
 |the voice kids peru _5|||||0|<!--  -->
 |the voice kids malta _1|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
