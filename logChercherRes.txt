@@ -215,7 +215,6 @@ i = The voice kids peru _5
 i = The voice nepal _4
 i = The voice nl _12
 i = The voice ph _1
-i = The voice poland _13
 i = The voice portugal _10
 i = The voice romania _10
 i = The voice ukr _12

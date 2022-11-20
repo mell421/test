@@ -2706,3 +2706,24 @@ Your branch is up to date with 'origin/save'.
  17 files changed, 707 insertions(+), 209 deletions(-)
  
 remove |the mole _1||10|||<!--  -->
+M	.gitignore
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+D	freq_apercuAll.txt
+D	freq_code.txt
+D	freq_wordle.txt
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	remove.js
+M	resumeGit.txt
+D	ugo/ldavis_prepared_4.html
+Your branch is up to date with 'origin/save'.
+[save 36b701cf] remove |the mole _1||10|||<!--  -->
+ 11 files changed, 43 insertions(+), 21 deletions(-)
+ 
+remove The voice poland _13

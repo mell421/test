@@ -47,7 +47,6 @@ The voice portugal _10x2
 The voice greece _9x1
 The voice vv _8x2
 The voice bulgarie _9x5
-The voice poland _13x12
 The voice kids cambodia _3x1
 The voice romania _10x4
 The voice esp _9x2
@@ -75,7 +74,6 @@ Masterchef fr _6x3
 The voice bulgarie _9x1
 Un dos tres _3x1
 Les cinquante _1x1
-The voice poland _13x1
 Little big world with pond phuwin _1x1
 Skam italia _5x2
 Skam italia _5x1

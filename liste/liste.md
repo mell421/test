@@ -676,6 +676,7 @@
 |check in do amor _1||4|||<!--  -->
 |lego masters fr _3||4|||<!--  -->
 |the mole _1||10|||<!--  -->
+|the voice poland _13||26|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -890,7 +891,6 @@
 |my only _12pc _1|||||0|<!-- 12/8 -->
 |skam italia _5||10|||0|<!-- 1/9 -->
 |little big world with pond phuwin _1|||||0|<!--  -->
-|the voice poland _13|||||0|<!--  -->
 |les cinquante _1|||||0|<!--  -->
 |un dos tres _3|||||0|<!--  -->
 |the voice bulgarie _9|||||0|<!--  -->
