@@ -17,7 +17,7 @@ list99=(
 # 29-20
 "The voice portugal _10" 
 # 19-15
-"The voice romania _10" "The voice greece _9" "The amazing race _34" "Ai long nhai _1" "The masked singer _8" "Little big world with pond phuwin _1" "Rpscdr _2" "Sky in your heart _1" "Masterchef fr _6" 
+"The voice romania _10" "The voice greece _9" "The amazing race _34" "Ai long nhai _1" "The masked singer _8" "Little big world with pond phuwin _1" "Sky in your heart _1" "Masterchef fr _6" 
 # 14-10
 "The voice esp _9" "Dwts _31" "Interviex with the vampire _1" "Lego masters _3" 
 # 9-8

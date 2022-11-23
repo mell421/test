@@ -74,11 +74,6 @@ ligne :
 mot   : 
 carac : 
 
-i = Rpscdr _2
-ligne :  9 ZZ/Rpscdr_2.txt
-mot   :  84 ZZ/Rpscdr_2.txt
-carac :  649 ZZ/Rpscdr_2.txt
-
 i = Sky in your heart _1
 ligne :  15 ZZ/Skyinyourheart_1.txt
 mot   :  262 ZZ/Skyinyourheart_1.txt

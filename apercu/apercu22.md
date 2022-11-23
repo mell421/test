@@ -48,7 +48,7 @@
 - sem 25-07-2022 -> Blueming _1x2(1) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
 - sem 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(1) Big brother us _24x11(4) Blueming _1x4(2) 
 - sem 08-08-2022 -> His man _1x6(4) Big brother us _24x14(3) Unforgotten night _1x7(1) Blueming _1x5(1) 
-- sem 15-08-2022 -> His man _1x7(1) Rpscdr _2x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
+- sem 15-08-2022 -> His man _1x7(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
 - sem 22-08-2022 -> Big brother us _24x18(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 
 

@@ -60,7 +60,6 @@ Dwts _31x2
 The voice esp _9x1
 Ai long nhai _1x1
 Strictly come dancing _20x1
-Rpscdr _2x5
 The masked singer _8x1
 The amazing race _34x1
 Lego masters _3x1
@@ -87,7 +86,6 @@ Big brother us _24x17
 Rpdrdu _2x3
 Drag race ph _1x2
 Drag race ph _1x1
-Rpscdr _2x1
 Blueming _1x5
 Juad juad _1x1
 Dont forget the lyrics _1x9

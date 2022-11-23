@@ -84,6 +84,7 @@
 |karaoke club drag edition 1||6|||<!-- 11/8 -->
 |vanjie 24 hours of love 1||8|||<!-- 26/8 -->
 |drag race ca 3||9|||<!--  -->
+|rpscdr _2||8|||<!-- 13/8 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -111,7 +112,6 @@
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
-|rpscdr 2|||||0|<!--  -->
 |rpdrdu 2|||||0|<!--  -->
 |rpdras 8||12|||0|<!--  -->
 |drag race th 3|||||0|<!--  -->

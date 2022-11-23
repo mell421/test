@@ -1018,10 +1018,10 @@
 11/08/22 - 322* Big brother us _24{30} Dont forget the lyrics _1{18} Rpdrdu _2{2} Agt _17{7} 
 12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Blueming _1{5} Juad juad _1{0} Dont forget the lyrics _1{19} 
 13/08/22 - 326* Sky in your heart _1{3} Big brother us _24{32} Blueming _1{5} Juad juad _1{0} 
-14/08/22 - 318* His man _1{10} Rpscdr _2{0} Sky in your heart _1{3} Big brother us _24{33} 
-15/08/22 - 287* His man _1{10} Rpscdr _2{0} 
-16/08/22 - 302* His man _1{11} Rpscdr _2{1} 
-17/08/22 - 307* His man _1{11} Rpscdr _2{1} 
+14/08/22 - 318* His man _1{10} Sky in your heart _1{3} Big brother us _24{33} 
+15/08/22 - 287* His man _1{10} 
+16/08/22 - 302* His man _1{11} 
+17/08/22 - 307* His man _1{11} 
 18/08/22 - 312* His man _1{11} Rpdrdu _2{3} Drag race ph _1{0} 
 19/08/22 - 353* Big brother us _24{39} His man _1{11} Rpdrdu _2{3} 
 20/08/22 - 349* Big brother us _24{40} 

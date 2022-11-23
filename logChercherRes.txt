@@ -97,7 +97,6 @@ carac :  5780 ZZ/Hisman_1.txt
 carac :  598 ZZ/Themaskedsinger_8.txt
 carac :  6181 ZZ/Tokyoghoul_3.txt
 carac :  625 ZZ/Juadjuad_1.txt
-carac :  649 ZZ/Rpscdr_2.txt
 carac :  650 ZZ/Thetuxedo_1.txt
 carac :  6529 ZZ/Thechallenge_4.txt
 carac :  7225 ZZ/Bulgasal_1.txt
@@ -187,7 +186,6 @@ i = Rose in da house _1
 i = Rpdras _7
 i = Rpdrasu _7
 i = Rpdrdu _2
-i = Rpscdr _2
 i = Second chance series _1
 i = Skam italia _5
 i = Sky in your heart _1
@@ -342,7 +340,6 @@ ligne :  85 ZZ/Thecircleus_4.txt
 ligne :  9 ZZ/Clikclakclok_1.txt
 ligne :  9 ZZ/Godshavethequeens_2.txt
 ligne :  9 ZZ/Roseindahouse_1.txt
-ligne :  9 ZZ/Rpscdr_2.txt
 ligne :  9 ZZ/Secondchanceseries_1.txt
 ligne :  90 ZZ/Bigbrotherus_23.txt
 ligne :  98 ZZ/Tbbt_11.txt
@@ -457,7 +454,6 @@ mot   :  67 ZZ/Callmemother_1.txt
 mot   :  8 ZZ/Themole_1.txt
 mot   :  819 ZZ//9-1-1lonestar_3.txt
 mot   :  82 ZZ/Thetuxedo_1.txt
-mot   :  84 ZZ/Rpscdr_2.txt
 mot   :  86 ZZ/Juadjuad_1.txt
 mot   :  884 ZZ/Hisman_1.txt
 mot   :  891 ZZ/Tokyoghoul_3.txt
