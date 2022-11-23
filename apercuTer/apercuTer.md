@@ -32,30 +32,23 @@
 ## Aperçu semaine
 
 ### sem 05-09-2022 
-* *insererici*
 * Survivor sa _9
 ### sem 12-09-2022 
-* *insererici*
 * Ahss _2
 * The voice arg _4
 * The voice kids colombia _6
 ### sem 19-09-2022 
-* *insererici*
 * Magic of zero _1
 * Minatos laundromat _1
 ### sem 26-09-2022 
-* *insererici*
 * The masked singer nz _2
 * Vice versa series _1
 ### sem 03-10-2022 
-* *insererici*
 * The challenge usa _1
 ### sem 10-10-2022 
-* *insererici*
 * The voice kids fr _8
 * Floor is lava _3
 ### sem 17-10-2022 
-* *insererici*
 * Drag race ca _3
 * The voice th _9
 * The masked singer arg _1
@@ -63,10 +56,8 @@
 * Beat shazam _5
 * The masked singer fr _4
 ### sem 24-10-2022 
-* *insererici*
 * The masked dancer uk _2
 ### sem 31-10-2022 
-* *insererici*
 * The voice uk _11
 * My roommate _1
 * The voice senior peru _2
@@ -75,13 +66,11 @@
 * The voice dominicana _2
 * The amazing race _32
 ### sem 07-11-2022 
-* *insererici*
 * Interview with the vampire _1
 * The masked singer ger _7
 * The voice ger _12
 * The voice senior colombia _2
 ### sem 14-11-2022 
-* *insererici*
 * Check in do amor _1
 * The challenge _4
 * Dals _12
@@ -109,15 +98,12 @@
 * The voice us _22
 * The masked singer _8
 * Star academy _10
-* 
 * Big brother us _24
 * Ai long nhai _1
 * The voice portugal _10
 * The voice greece _9
-* 
 * The voice bulgarie _9
 * The voice vv _8
-* 
 * The voice romania _10
 * Little big world with pond phuwin _1
 * Incroyable talent _17
@@ -131,7 +117,6 @@
 * The shipper _1
 * Les cinquante _1
 * The voice kids cambodia _3
-* 
 * Dwts _31
 * La mas draga _5
 * Let the right one in _1
