@@ -679,6 +679,7 @@
 |the voice poland _13||26|||<!--  -->
 |the voice ukr _12||12|||<!-- 23/1/22 -->
 |rpscdr _2||8|||<!-- 13/8 -->
+|star academy _10||42|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -915,7 +916,6 @@
 |the voice kids malta _1|||||0|<!--  -->
 |let the right one in _1|||||0|<!--  -->
 |the challenge _38|||||0|<!--  -->
-|star academy _10|||||0|<!--  -->
 |incroyable talent _17|||||0|<!--  -->
 |ahs _11|||||0|<!-- 18/10 -->
 |the voice kids peru _5|||||0|<!--  -->

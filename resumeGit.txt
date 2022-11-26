@@ -2801,3 +2801,41 @@ Your branch is up to date with 'origin/save'.
  rewrite ZZ/thevoiceukr_12.txt (78%)
  
 remove Rpscdr _2
+M	00cherche.sh
+M	ZZ/agt_17.txt
+M	ZZ/bigbrotherus_24.txt
+M	ZZ/blueming_1.txt
+M	ZZ/dontforgetthelyrics_1.txt
+M	ZZ/hisman_1.txt
+M	ZZ/juadjuad_1.txt
+M	ZZ/rpdrdu_2.txt
+D	ZZ/rpscdr_2.txt
+M	ZZ/skyinyourheart_1.txt
+M	aEff/aeff.html
+M	aEff/aeff.md
+M	apercu/apAll.txt
+M	apercu/apercu22.html
+M	apercu/apercu22.md
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	liste/dragrace.html
+M	liste/dragrace.md
+M	liste/dragrace.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save c417802d] remove Rpscdr _2
+ 31 files changed, 105 insertions(+), 90 deletions(-)
+ delete mode 100644 ZZ/rpscdr_2.txt
+ rewrite liste/dragrace.pdf (67%)
+ 
+remove Star academy _10

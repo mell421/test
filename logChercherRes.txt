@@ -190,7 +190,6 @@ i = Second chance series _1
 i = Skam italia _5
 i = Sky in your heart _1
 i = Something in my room _1
-i = Star academy _10
 i = Strictly come dancing _20
 i = Survivor _31
 i = Tbbt _11

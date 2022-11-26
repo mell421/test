@@ -34,11 +34,6 @@ ligne :  6 ZZ/Thevoicebulgarie_9.txt
 mot   :  28 ZZ/Thevoicebulgarie_9.txt
 carac :  299 ZZ/Thevoicebulgarie_9.txt
 
-i = Star academy _10
-ligne :  3 ZZ/Staracademy_10.txt
-mot   :  12 ZZ/Staracademy_10.txt
-carac :  138 ZZ/Staracademy_10.txt
-
 i = The voice portugal _10
 ligne :  6 ZZ/Thevoiceportugal_10.txt
 mot   :  28 ZZ/Thevoiceportugal_10.txt
