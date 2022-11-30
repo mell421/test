@@ -2839,3 +2839,20 @@ Your branch is up to date with 'origin/save'.
  rewrite liste/dragrace.pdf (67%)
  
 remove Star academy _10
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save f6c6e5e5] remove Star academy _10
+ 12 files changed, 52 insertions(+), 27 deletions(-)
+ 
+maj wirdcloud and list
