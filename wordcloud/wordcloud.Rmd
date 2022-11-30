@@ -7,8 +7,6 @@ output:
 ---
 ```{r setup, include = FALSE}
 # INSTALL
-# knitr::opts_chunk$set(cache = TRUE)
-
 # LOAD
 suppressWarnings(source("./R/sources.R"))
 
@@ -32,7 +30,7 @@ forme <- "circle"
 ||||  
 |---|---|---|  
 |[allListe](./allListe.html)|[wordcloud](./wordcloud.html)|[graph](./mygraph.html)|  
-|[sumup](./sumup.html)|[summary](./summary.html)|[sumUpAll](./sumUpAll.html)|
+||[summary](./summary.html)||
 
 ---
 
@@ -202,8 +200,8 @@ suppressWarnings(main(text))
 <!-- test conclu 53 -->
 ### conclu
 ```{r conclu, echo=FALSE}
-text <- data.frame(aConcl())
-text <- text[2]
+text <- data.frame(aCps())
+text <- text[1]
 main <- function(text){
   
   dtm_d <- wc(text)
@@ -245,6 +243,96 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
+
+```{r 2019, eval=FALSE, include=FALSE}
+### 2019
+text2 <- data.frame(aRew())
+text <- text2[2]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 2019")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"rewind19_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+
+```{r 2020, eval=FALSE, include=FALSE}
+### 2020
+text2 <- data.frame(aRew())
+text <- text2[11]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 2020")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"rewind20_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+
+```{r 2021, eval=FALSE, include=FALSE}
+### 2021
+text2 <- data.frame(aRew())
+text <- text2[20]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 2021")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"rewind21_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+### 2022
+```{r 2022, echo=FALSE}
+text2 <- data.frame(aRewind())
+text <- text2[2]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 2022")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"rewind22_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
 
 
 <!-- copy 63 -->
@@ -339,27 +427,6 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-### test2
-```{r TEST2, echo=FALSE}
-text <- data.frame(aTest2())
-main <- function(text){
-  dtm_d <- wc(text)
-  # Display the top 20 most frequent words
-  head(dtm_d, 30)
-
-  # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 test2")
-  
-
-  #generate word cloud
-  wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"test2_3.png",delayW)
-}
-
-suppressWarnings(main(text))
-```
-
-
 ### Page app
 ```{r pa, echo=FALSE}
 text <- data.frame(aPA())
@@ -375,29 +442,6 @@ main <- function(text){
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
   wcDouble(dtm_d,forme,"pa_3.png",delayW)
-
-}
-
-suppressWarnings(main(text))
-```
-
-
-```{r resume, eval=FALSE, include=FALSE}
-### resume
-text2 <- data.frame(aResume())
-text <- text2[2]
-main <- function(text){
-  dtm_d <- wc(text)
-  # Display the top 20 most frequent words
-  head(dtm_d, 30)
-
-  # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 resume")
-  
-
-  #generate word cloud
-  wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"resume_3.png",delayW)
 
 }
 

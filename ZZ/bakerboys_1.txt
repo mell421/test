@@ -16,6 +16,10 @@ apercu/apercuglobal.md:- sem 29-11-2021 -> Baker boys _1x3(2)
 apercu/apercuglobal.md:* concluBis 26/11/21 = Baker boys _1 > 2; 
 apercu/apercuglobal.md:* concluBis 27/11/21 = Baker boys _1 > 1; 
 apercuTer/apercuTer.md:* Baker boys _1
+bl/bl.md:|baker boys _1|baker boys|12|serie(*)|thailande|3|  <!-- 48 -->
+liste/liste.md:|baker boys _1||12|||3|<!--  -->
+premder/premder.md:Baker boys _1x1
+premder/premder.md:Baker boys _1x3
 tab2021.html:    <td class="conclubis">Baker boys _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Baker boys _1 > 2; </td>
 tab2021.html:    <td class="resumemois">Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) </td>

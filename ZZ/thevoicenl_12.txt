@@ -6,12 +6,10 @@ aEff/aeff.md:- 17/01/22 - 232* the voice nl _12{1}
 aEff/aeff.md:- 18/01/22 - 231* the voice nl _12{2} 
 aEff/aeff.md:- 19/01/22 - 243* the voice nl _12{2} 
 aEff/aeff.md:- 20/01/22 - 221* the voice nl _12{2} 
-apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
 apercu/apercu22.md:- sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) 
 apercu/apercu22.md:- sem 17-01-2022 -> The voice nl _12x3(1) /9-1-1 lone star _3x3(1) 
 apercu/apercuglobal.md:- sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) 
-apercuTer/apercuTer.md:* The voice finland _12
 apercuTer/apercuTer.md:* The voice nl _12
-apercuTer/apercuTer.md:*insererici The masked singer ger _6 The voice finland _12 Heartstopper _1 Camping paradis _12 The voice kids poland _5 Rpdr _14 Forcebook show real _1 Pekin express _15 Survivor _26 Queen stars brazil _1 The voice be _10 Clem _12 Lol fr _2 Lol fr _1 Peach of time _1 Rpdru _14 Survivor au _9*
-apercuTer/apercuTer.md:*Precise shot _1 Wtfock _5 Fish upon the sky _1 Life senjou no bokura _1 Kaamelott _5 Hes coming to me _1 Rpdrdu _1 Elite _3.5 Special _2 Sfu _5 Weekend to remember _1 History3 modc _1 Love victor _2 Top chef _12 History3 trapped _1 My lascivious boss _1 The masked dancer uk _1 Skinship _2 The voice kids nl _10 Koh-lanta _26 Lls _1 The voice no _6*
-apercuTer/apercuTer.md:*TharnType _1 Rpdr _12 Cheerleaders champions league _1 Alyssas secret _2 Control z _1 Cheerleaders _3 The voice kids nl _1 The masked singer _3 The voice us _18 The outs _1 Cheerleaders _2 Cheerhab _1 The voice senior nl _2 Rpdru _12 Rpscdr _1 The voice senior nl _1 /9-1-1 _3 The voice uk _8 The voice nl _6 Tbbt _9 The voice senior vv _1 Amours solitaires _1*
+liste/liste.md:|the voice finland _12||24|||<!-- 28/1/22 - _29/4 -->
+liste/liste.md:|The voice nl _12|||||0|<!-- 7/1/22 -->

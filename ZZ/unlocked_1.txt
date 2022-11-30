@@ -19,6 +19,10 @@ apercu/apercuglobal.md:- sem 11-01-2021 Romantic blue _1x2(1) Unlocked _1x2(1) F
 apercu/apercuglobal.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Aggretsuko _4x2(1) 
 apercu/apercuglobal.md:- sem 22-02-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) 
 apercuTer/apercuTer.md:* Unlocked _1
+bl/bl.md:|unlocked _1|unlocked|9|serie|philippines|2| <!-- 20 -->
+liste/liste.md:|unlocked _1|unlocked|9|serie|philippines|2|<!--  -->
+premder/premder.md:Unlocked _1x1
+premder/premder.md:Unlocked _1x3
 tab2021.html:      Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) </td>
 tab2021.html:    <td class="resumemois">Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) 
 tab2021.html:    <td class="resumesem">District z _2x3(1) F4 thailand _1x2(1) Unlocked _1x4(1) Aggretsuko _4x2(1) </td>

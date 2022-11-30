@@ -29,16 +29,16 @@ aEff/aeff.md:- 09/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivi
 aEff/aeff.md:- 09/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Two pints of lager _3{13} 
 aEff/aeff.md:- 10/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
 aEff/aeff.md:- 10/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-aEff/aeff.md:- 10/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 10/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 aEff/aeff.md:- 11/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
 aEff/aeff.md:- 11/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-aEff/aeff.md:- 11/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 11/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 aEff/aeff.md:- 12/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
 aEff/aeff.md:- 12/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
-aEff/aeff.md:- 12/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 12/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 aEff/aeff.md:- 13/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
 aEff/aeff.md:- 13/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} 
-aEff/aeff.md:- 13/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{13} 
+aEff/aeff.md:- 13/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
 aEff/aeff.md:- 14/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} 
 aEff/aeff.md:- 14/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice ph _1{16} The circle us _4{15} 
 aEff/aeff.md:- 15/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} meet my angel _2{12} 
@@ -68,7 +68,7 @@ aEff/aeff.md:- 23/03/22 - 248* cupids last wish _1{16}
 aEff/aeff.md:- 23/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{16} the voice ph _1{16} 
 aEff/aeff.md:- 23/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} trivia quest _1{17} the voice ph _1{16} 
 aEff/aeff.md:- 23/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} 
-aEff/aeff.md:- 24/02/22 - 154* cupids last wish _1{0} the voice ukr _12{9} 
+aEff/aeff.md:- 24/02/22 - 154* cupids last wish _1{0} 
 aEff/aeff.md:- 24/03/22 - 235* cupids last wish _1{17} 
 aEff/aeff.md:- 24/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} cupids last wish _1{17} the voice ph _1{16} 
 aEff/aeff.md:- 24/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
@@ -96,23 +96,23 @@ aEff/aeff.md:- 30/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivi
 aEff/aeff.md:- 30/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
 aEff/aeff.md:- 31/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 31/05/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{16} 
-aEff/aeff.md:14/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{14} 
-aEff/aeff.md:15/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} Ohmnanon upvel _1{14} 
-aEff/aeff.md:16/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} The voice arg _4{15} Le flambeau _1{15} 
-aEff/aeff.md:17/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The voice arg _4{17} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-aEff/aeff.md:18/06/22 (eff) - F4 thailand _1{35} The voice arg _4{19} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-aEff/aeff.md:19/06/22 (eff) - The voice arg _4{21} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} Ohmnanon upvel _1{14} 
-aEff/aeff.md:20/06/22 (eff) - The voice arg _4{23} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
-aEff/aeff.md:21/06/22 (eff) - The voice arg _4{26} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:22/06/22 (eff) - The voice arg _4{28} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:24/06/22 (eff) - The voice arg _4{32} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} /9-1-1 _5{14} 
-aEff/aeff.md:25/06/22 (eff) - The voice arg _4{34} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:26/06/22 (eff) - The voice arg _4{36} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:27/06/22 (eff) - The voice arg _4{38} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:28/06/22 (eff) - The voice arg _4{41} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-aEff/aeff.md:29/06/22 (eff) - The voice arg _4{43} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Ohmnanon upvel _1{15} Le flambeau _1{15} 
-apercu/apercu22.md:- mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
-apercu/apercu22.md:- mois 01-04-2022 -> Ohmnanon upvel _1x2(1) Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
+aEff/aeff.md:14/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} 
+aEff/aeff.md:15/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:16/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:17/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:18/06/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:19/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:20/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:21/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:22/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:24/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} /9-1-1 _5{14} 
+aEff/aeff.md:25/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:26/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:27/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:28/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+aEff/aeff.md:29/06/22 (eff) - Cupids last wish _1{19} Trivia quest _1{18} The circle us _4{17} Beat shazam _2{16} Le flambeau _1{15} 
+apercu/apercu22.md:- mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercu22.md:- mois 01-04-2022 -> Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
 apercu/apercu22.md:- sem 21-03-2022 -> Cupids last wish _1x5(2) 
 apercu/apercu22.md:- sem 28-02-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) 
 apercu/apercu22.md:* conclu 01/03/22 = Cupids last wish _1 > 2; 
@@ -131,4 +131,7 @@ apercu/apercu22.md:* concluBis 27/02/22 = Cupids last wish _1 > 5; Forever knigh
 apercu/apercu22.md:* concluBis 28/02/22 = Cupids last wish _1 > 3; 
 apercu/apercu22.md:concluBis 24/03/22 = Cupids last wish _1 > 2; 
 apercuTer/apercuTer.md:* Cupids last wish _1
-index.html:            cupids last wish _1<br>
+bl/bl.md:|cupids last wish _1|cupids last wish|?|serie|thailande|4|<!--  -->
+liste/liste.md:|cupids last wish _1||10|serie|thailande|0|<!-- 23/2 -->
+premder/premder.md:Cupids last wish _1x1
+premder/premder.md:Cupids last wish _1x4

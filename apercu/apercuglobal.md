@@ -469,7 +469,6 @@
 * concluBis 14/12/21 = 5515 never too late _1 > 3; 
 * concluBis 15/12/21 = 5515 never too late _1 > 2; 
 * concluBis 17/12/21 = Aggretsuko _4 > 2; 
-* concluBis 18/12/21 = 
 * concluBis 19/12/21 = District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
 * concluBis 20/12/21 = Forever knight _1 > 2; Imortal _1 > 1; 
 * concluBis 21/12/21 = Forever knight _1 > 1; 

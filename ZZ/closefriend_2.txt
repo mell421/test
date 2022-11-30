@@ -1,17 +1,20 @@
 aEff/aeff.md:- 06/05/22 - 226* Close friend _2{0} Clik clak clok _1{0} The circle us _4{2} 
 aEff/aeff.md:- 07/05/22 - 164* Close friend _2{0} Clik clak clok _1{0} The circle us _4{4} 
 aEff/aeff.md:- 08/05/22 - 396* Close friend _2{0} Clik clak clok _1{0} 
-aEff/aeff.md:15/06/22 - 241* Close friend _2{2} Dont forget the lyrics _1{8} The voice arg _4{13} Beat shazam _5{6} Ohmnanon upvel _1{14} Dancing with myself _1{1} Mama gogo _1{1} 
-aEff/aeff.md:16/06/22 - 251* The voice arg _4{15} Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Ohmnanon upvel _1{14} Dancing with myself _1{1} Mama gogo _1{1} 
-aEff/aeff.md:17/06/22 - 261* The voice arg _4{17} Close friend _2{2} Dont forget the lyrics _1{8} Beat shazam _5{6} Ohmnanon upvel _1{14} Dancing with myself _1{1} Mama gogo _1{1} 
-aEff/aeff.md:18/06/22 - 496* The voice arg _4{19} Close friend _2{3} Dont forget the lyrics _1{9} Beat shazam _5{6} 
-aEff/aeff.md:29/06/22 - 168* Close friend _2{4} Ohmnanon upvel _1{15} Dont forget the lyrics _1{13} The voice arg _4{43} Camping paradis _13{1} The voice dominicana _2{5} Rpdrasu _7{3} Rpdras _7{3} 
-aEff/aeff.md:30/06/22 - 211* Unforgotten night _1{1} Rose in da house _1{0} The voice arg _4{45} Close friend _2{4} Ohmnanon upvel _1{15} Dont forget the lyrics _1{15} 
-apercu/apercu22.md:- mois 01-06-2022 -> Beat shazam _5x3(2) Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Ohmnanon upvel _1x6(2) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
-apercu/apercu22.md:- mois 01-07-2022 -> Beat shazam _5x6(3) The challenge _4x3(2) Unforgotten night _1x3(2) Rose in da house _1x2(1) The voice arg _4x19(20) Close friend _2x4(2) Ohmnanon upvel _1x10(4) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) The voice dominicana _2x4(3) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
-apercu/apercu22.md:- sem 04-07-2022 -> The voice arg _4x21(6) Beat shazam _5x6(1) The challenge _4x3(2) Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Ohmnanon upvel _1x10(1) Dont forget the lyrics _1x7(1) Camping paradis _13x3(1) The voice dominicana _2x4(1) 
+aEff/aeff.md:15/06/22 - 241* Close friend _2{2} Dont forget the lyrics _1{8} Dancing with myself _1{1} Mama gogo _1{1} 
+aEff/aeff.md:16/06/22 - 251* Close friend _2{2} Dont forget the lyrics _1{8} Dancing with myself _1{1} Mama gogo _1{1} 
+aEff/aeff.md:17/06/22 - 261* Close friend _2{2} Dont forget the lyrics _1{8} Dancing with myself _1{1} Mama gogo _1{1} 
+aEff/aeff.md:18/06/22 - 496* Close friend _2{3} Dont forget the lyrics _1{9} 
+aEff/aeff.md:29/06/22 - 168* Close friend _2{4} Dont forget the lyrics _1{13} Camping paradis _13{1} Rpdrasu _7{3} Rpdras _7{3} 
+aEff/aeff.md:30/06/22 - 211* Unforgotten night _1{1} Rose in da house _1{0} Close friend _2{4} Dont forget the lyrics _1{15} 
+apercu/apercu22.md:- mois 01-06-2022 -> Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+apercu/apercu22.md:- mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+apercu/apercu22.md:- sem 04-07-2022 -> Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Dont forget the lyrics _1x7(1) Camping paradis _13x3(1) 
 apercu/apercu22.md:- sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) 
-apercu/apercu22.md:- sem 20-06-2022 -> The voice kids indonesia _4x3(2) Love mechanics _1x2(1) The voice arg _4x11(5) Close friend _2x3(1) Dont forget the lyrics _1x5(1) Beat shazam _5x5(1) Ohmnanon upvel _1x9(1) 
-apercu/apercu22.md:concluBis 17/06/22 = The voice arg _4 > 10; Dont forget the lyrics _1 > 1; Close friend _2 > 1; Forever knight _1 > 1; 
+apercu/apercu22.md:- sem 20-06-2022 -> The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Close friend _2x3(1) Dont forget the lyrics _1x5(1) 
+apercu/apercu22.md:concluBis 17/06/22 = Dont forget the lyrics _1 > 1; Close friend _2 > 1; Forever knight _1 > 1; 
 apercuTer/apercuTer.md:* Close friend _2
-apercuTer/apercuTer.md:*The voice vv _7 The most peaceful place _1 Kiss me again peteKao cut _1 Close friend _1 The masked singer _5 The voice us _20 Game of talents _1 Plan b _1 Given _1 /9-1-1 lone star _2 /9-1-1 _4 History4 close to you _1 The voice _10 Young sheldon _4 Love death & robots _2 Lovely writer _1 The sweet blood _1 Nobleman ryus wedding _1 The circle br _1 The circle us _2 Clem _11*
+bl/bl.md:|close friend _2||6|serie|thailande|3|<!--  -->
+liste/liste.md:|close friend _2||6|||0|<!-- 5/5 -->
+premder/premder.md:Close friend _2x1
+premder/premder.md:Close friend _2x3

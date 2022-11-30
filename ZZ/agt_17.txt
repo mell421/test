@@ -1,21 +1,23 @@
-aEff/aeff.md:- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} Beat shazam _5{4} Dont forget the lyrics _1{6} 
-aEff/aeff.md:- 05/06/22 - 426* Ohmnanon upvel _1{8} Agt _17{2} Sky in your heart _1{1} 
-aEff/aeff.md:- 06/06/22 - 431* Want to see you _1{0} Ohmnanon upvel _1{8} Agt _17{2} Sky in your heart _1{1} 
-aEff/aeff.md:- 07/06/22 - 483* Ohmnanon upvel _1{9} Want to see you _1{2} Agt _17{3} 
-aEff/aeff.md:05/07/22 - 361* Agt _17{4} The voice arg _4{57} The voice dominicana _2{7} Beat shazam _5{9} 
-aEff/aeff.md:06/07/22 - 355* The voice arg _4{59} Agt _17{4} The voice dominicana _2{7} Beat shazam _5{9} 
-aEff/aeff.md:07/07/22 - 265* Second chance series _1{0} Unforgotten night _1{3} The voice arg _4{61} Agt _17{4} The voice dominicana _2{7} 
-aEff/aeff.md:08/07/22 - 247* The challenge usa _1{0} Second chance series _1{0} Unforgotten night _1{3} The voice arg _4{63} Agt _17{4} The voice dominicana _2{7} 
-aEff/aeff.md:09/08/22 - 254* The voice kids colombia _6{3} Agt _17{6} The voice dominicana _2{13} The masked singer au _4{1} The voice arg _4{133} The masked singer nz _2{3} The voice th _9{5} The masked singer jap _2{3} Vice versa series _1{5} 
-aEff/aeff.md:10/08/22 - 268* Rpdrdu _2{2} Drag race ca _3{4} Survivor sa _9{21} The masked singer au _4{1} The voice arg _4{135} The voice kids colombia _6{5} Agt _17{7} The voice dominicana _2{13} The masked singer nz _2{3} The voice th _9{5} 
-aEff/aeff.md:11/08/22 - 322* The challenge usa _1{7} Big brother us _24{30} Beat shazam _5{12} Dont forget the lyrics _1{18} The voice arg _4{137} The voice kids colombia _6{7} Rpdrdu _2{2} Drag race ca _3{4} Survivor sa _9{22} The masked singer au _4{2} Agt _17{7} 
-apercu/apercu22.md:- mois 01-07-2022 -> Beat shazam _5x6(3) The challenge _4x3(2) Unforgotten night _1x3(2) Rose in da house _1x2(1) The voice arg _4x19(20) Close friend _2x4(2) Ohmnanon upvel _1x10(4) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) The voice dominicana _2x4(3) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
-apercu/apercu22.md:- mois 01-08-2022 -> The masked singer nz _2x3(2) The voice th _9x4(3) The challenge _4x5(2) God shave the queens _2x3(2) Rpdrdu _2x2(1) The amazing race _32x3(2) Game of talents fr _2x3(2) Vice versa series _1x4(3) Big brother us _24x11(10) Drag race ca _3x4(3) Beat shazam _5x8(2) The voice arg _4x40(25) Blueming _1x4(3) Survivor sa _9x9(8) Ahss _2x3(2) The challenge usa _1x5(4) Minatos laundromat _1x6(5) Ohmnanon upvel _1x11(1) The voice dominicana _2x8(4) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
-apercu/apercu22.md:- sem 06-06-2022 -> Want to see you _1x2(1) Ohmnanon upvel _1x7(1) Agt _17x2(1) Sky in your heart _1x2(1) Beat shazam _5x3(1) Dont forget the lyrics _1x3(1) 
-apercu/apercu22.md:- sem 11-07-2022 -> Two pints of lager _3x7(1) The voice arg _4x25(5) The challenge usa _1x2(1) Second chance series _1x2(1) Unforgotten night _1x4(1) Agt _17x3(1) The voice dominicana _2x5(1) 
-apercu/apercu22.md:- sem 15-08-2022 -> The masked singer jap _2x6(2) The voice th _9x6(1) The masked singer nz _2x5(2) The masked singer au _4x5(3) His man _1x7(1) Vice versa series _1x6(1) Drag race ca _3x6(2) Rpscdr _2x2(1) The voice kids colombia _6x20(12) The voice arg _4x50(6) The eclipse _1x2(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Minatos laundromat _1x8(1) Blueming _1x6(1) Ohmnanon upvel _1x12(1) Juad juad _1x2(1) The challenge usa _1x7(1) Beat shazam _5x10(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Survivor sa _9x13(1) Agt _17x6(3) The voice dominicana _2x10(1) 
+aEff/aeff.md:- 04/06/22 - 226* Agt _17{0} Sky in your heart _1{0} Dont forget the lyrics _1{6} 
+aEff/aeff.md:- 05/06/22 - 426* Agt _17{2} Sky in your heart _1{1} 
+aEff/aeff.md:- 06/06/22 - 431* Want to see you _1{0} Agt _17{2} Sky in your heart _1{1} 
+aEff/aeff.md:- 07/06/22 - 483* Want to see you _1{2} Agt _17{3} 
+aEff/aeff.md:05/07/22 - 361* Agt _17{4} 
+aEff/aeff.md:06/07/22 - 355* Agt _17{4} 
+aEff/aeff.md:07/07/22 - 265* Second chance series _1{0} Unforgotten night _1{3} Agt _17{4} 
+aEff/aeff.md:08/07/22 - 247* Second chance series _1{0} Unforgotten night _1{3} Agt _17{4} 
+aEff/aeff.md:09/08/22 - 254* Agt _17{6} 
+aEff/aeff.md:10/08/22 - 268* Rpdrdu _2{2} Agt _17{7} 
+aEff/aeff.md:11/08/22 - 322* Big brother us _24{30} Dont forget the lyrics _1{18} Rpdrdu _2{2} Agt _17{7} 
+apercu/apercu22.md:- mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+apercu/apercu22.md:- mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Blueming _1x4(3) His man _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercu22.md:- sem 06-06-2022 -> Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) Dont forget the lyrics _1x3(1) 
+apercu/apercu22.md:- sem 11-07-2022 -> Two pints of lager _3x7(1) Second chance series _1x2(1) Unforgotten night _1x4(1) Agt _17x3(1) 
+apercu/apercu22.md:- sem 15-08-2022 -> His man _1x7(1) Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
 apercu/apercu22.md:* conclu 04/06/22 = Agt _17 > 1; 
 apercu/apercu22.md:concluBis 04/06/22 = Agt _17 > 3; Sky in your heart _1 > 2; 
-apercu/apercu22.md:concluBis 09/08/22 = The voice arg _4 > 19; The voice kids colombia _6 > 14; Big brother us _24 > 6; Agt _17 > 2; Survivor sa _9 > 1; The masked singer jap _2 > 1; 
+apercu/apercu22.md:concluBis 09/08/22 = Big brother us _24 > 6; Agt _17 > 2; 
 apercuTer/apercuTer.md:* Agt _17
-index.html:          <td>agt _17<br>
+liste/liste.md:|agt _17|||||0|<!--  -->
+premder/premder.md:Agt _17x1
+premder/premder.md:Agt _17x5

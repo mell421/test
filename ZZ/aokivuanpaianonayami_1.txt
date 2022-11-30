@@ -20,6 +20,10 @@ apercu/apercuglobal.md:* concluBis 17/10/21 = Aoki vuanpaia no nayami _1 > 3; Fo
 apercu/apercuglobal.md:* concluBis 18/10/21 = Aoki vuanpaia no nayami _1 > 1; 
 apercu/apercuglobal.md:* concluBis 19/10/21 = Aoki vuanpaia no nayami _1 > 1; 
 apercuTer/apercuTer.md:* Aoki vuanpaia no nayami _1
+bl/bl.md:|aoki vuanpaia no nayami _1|aoki vuanpaia no nayami|8|serie(**)|japon|2| <!-- 45 -->
+liste/liste.md:|aoki vuanpaia no nayami _1|||||2|<!--  -->
+premder/premder.md:Aoki vuanpaia no nayami _1x1
+premder/premder.md:Aoki vuanpaia no nayami _1x3
 tab2021.html:    <td class="conclu">Aoki vuanpaia no nayami _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Aoki vuanpaia no nayami _1 > 1; </td>
 tab2021.html:    <td class="conclubis">Aoki vuanpaia no nayami _1 > 3; Forever knight _1 > 1; </td>

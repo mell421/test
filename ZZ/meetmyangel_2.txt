@@ -1,7 +1,7 @@
-aEff/aeff.md:- 07/02/22 - 204* the voice ukr _12{6} meet my angel _2{4} something in my room _1{7} f4 thailand _1{17} 
-aEff/aeff.md:- 08/02/22 - 231* the voice ukr _12{7} meet my angel _2{6} something in my room _1{8} f4 thailand _1{19} 
-aEff/aeff.md:- 09/02/22 - 142* /9-1-1 lone star _3{9} the voice ukr _12{7} meet my angel _2{7} something in my room _1{8} 
-aEff/aeff.md:- 10/02/22 - 147* love stage 2022 _1{1} /9-1-1 lone star _3{9} the voice ukr _12{7} meet my angel _2{8} 
+aEff/aeff.md:- 07/02/22 - 204* meet my angel _2{4} something in my room _1{7} f4 thailand _1{17} 
+aEff/aeff.md:- 08/02/22 - 231* meet my angel _2{6} something in my room _1{8} f4 thailand _1{19} 
+aEff/aeff.md:- 09/02/22 - 142* /9-1-1 lone star _3{9} meet my angel _2{7} something in my room _1{8} 
+aEff/aeff.md:- 10/02/22 - 147* love stage 2022 _1{1} /9-1-1 lone star _3{9} meet my angel _2{8} 
 aEff/aeff.md:- 15/04/22 (eff) - f4 thailand _1{35} cupids last wish _1{19} the voice ph _1{16} meet my angel _2{12} 
 aEff/aeff.md:- 19/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12} 
 aEff/aeff.md:- 20/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} meet my angel _2{12}
@@ -10,10 +10,10 @@ aEff/aeff.md:- 21/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} th
 aEff/aeff.md:- 22/01/22 - 85* color rush _2{0} meet my angel _2{2} something in my room _1{2} 
 aEff/aeff.md:- 22/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} the voice ph _1{16} cupids last wish _1{15} meet my angel _2{12} 
 aEff/aeff.md:- 23/01/22 - 99* color rush _2{0} meet my angel _2{2} 
-apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
-apercu/apercu22.md:- mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) The voice ukr _12x6(3) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
-apercu/apercu22.md:- sem 07-02-2022 -> The voice ukr _12x4(1) Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
-apercu/apercu22.md:- sem 24-01-2022 -> The voice ukr _12x2(1) F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
+apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+apercu/apercu22.md:- mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercu22.md:- sem 07-02-2022 -> Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
+apercu/apercu22.md:- sem 24-01-2022 -> F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
 apercu/apercu22.md:* conclu 21/01/22 = Meet my angel _2 > 2; Something in my room _1 > 1; 
 apercu/apercu22.md:* concluBis 07/02/22 = Meet my angel _2 > 2; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 08/02/22 = F4 thailand _1 > 2; Meet my angel _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
@@ -23,4 +23,7 @@ apercu/apercu22.md:* concluBis 11/02/22 = Meet my angel _2 > 2; Forever knight _
 apercu/apercu22.md:* concluBis 12/02/22 = Forever knight _1 > 3; Imortal _1 > 2; Meet my angel _2 > 1; 
 apercu/apercu22.md:* concluBis 21/01/22 = Meet my angel _2 > 4; Something in my room _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 apercuTer/apercuTer.md:* Meet my angel _2
-apercuTer/apercuTer.md:*My superboss _1 Why are you like this _1 Bad roommate _1 The voice kids ger _9 Pekin express _14 Wabi vlog _1 Rpdr _13 Drag race holland _1 Survivor au _3 Nailed it holiday _2 The circle france _1 Roommate _2 The voice be _9 Woodward cheer girls _1 Rpdru _13 We best love _2 Meet my angel _1 Atots _1*
+bl/bl.md:|meet my angel _2|meet my angel _2|9|serie|philippines|3|<!-- -->
+liste/liste.md:|Meet my angel _2|||||0|<!-- 20/1/22 -->
+premder/premder.md:Meet my angel _2x1
+premder/premder.md:Meet my angel _2x3

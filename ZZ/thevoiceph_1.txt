@@ -71,13 +71,13 @@ aEff/aeff.md:- 24/03/22 (eff) - f4 thailand _1{35} 5515 never too late _1{18} cu
 aEff/aeff.md:- 24/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
 aEff/aeff.md:- 25/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 25/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-aEff/aeff.md:- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} the voice ukr _12{4} f4 thailand _1{7} 
+aEff/aeff.md:- 26/01/22 - 78* the voice ph _1{0} love at night _1{2} f4 thailand _1{7} 
 aEff/aeff.md:- 26/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 26/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-aEff/aeff.md:- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} love at night _1{3} the voice ukr _12{4} f4 thailand _1{7} 
+aEff/aeff.md:- 27/01/22 - 104* something in my room _1{3} the voice ph _1{2} love at night _1{3} f4 thailand _1{7} 
 aEff/aeff.md:- 27/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 27/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
-aEff/aeff.md:- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} love at night _1{3} the voice ukr _12{4} 
+aEff/aeff.md:- 28/01/22 - 121* f4 thailand _1{7} something in my room _1{5} the voice ph _1{4} love at night _1{3} 
 aEff/aeff.md:- 28/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 28/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
 aEff/aeff.md:- 29/01/22 - 136* f4 thailand _1{9} something in my room _1{5} the voice ph _1{6} 
@@ -86,10 +86,9 @@ aEff/aeff.md:- 29/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivi
 aEff/aeff.md:- 30/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 aEff/aeff.md:- 30/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
 aEff/aeff.md:- 31/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
-aEff/aeff.md:18/08/22 - 312* Les traitres _1{0} His man _1{11} Ahss _2{4} Rpdrdu _2{3} Drag race ph _1{0} The voice arg _4{152} The voice kids colombia _6{22} The masked singer au _4{6} The voice dominicana _2{14} The masked singer jap _2{5} The voice th _9{6} 
-apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) The voice ukr _12x3(2) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
-apercu/apercu22.md:- sem 22-08-2022 -> The voice dominicana _2x12(2) The masked singer nz _2x6(1) The masked singer au _4x8(3) The voice th _9x7(1) Magic of zero _1x2(1) The voice kids fr _8x2(1) The masked singer jap _2x7(1) Vice versa series _1x7(1) The voice ger _12x3(2) The voice kids colombia _6x23(3) The eclipse _1x3(1) The voice arg _4x55(7) The challenge usa _1x8(1) Big brother us _24x18(1) Love in the air _1x2(1) Minatos laundromat _1x9(1) Ahss _2x6(2) Les traitres _1x3(2) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
-apercu/apercu22.md:- sem 31-01-2022 -> The voice ukr _12x3(1) F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
+apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+apercu/apercu22.md:- sem 22-08-2022 -> Big brother us _24x18(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+apercu/apercu22.md:- sem 31-01-2022 -> F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
 apercu/apercu22.md:* conclu 01/02/22 = The voice ph _1 > 3; /9-1-1 lone star _3 > 2; 
 apercu/apercu22.md:* conclu 26/01/22 = The voice ph _1 > 2; 
 apercu/apercu22.md:* conclu 27/01/22 = The voice ph _1 > 3; Something in my room _1 > 2; Forever knight _1 > 1; 
@@ -105,5 +104,6 @@ apercu/apercu22.md:* concluBis 29/01/22 = The voice ph _1 > 4; F4 thailand _1 > 
 apercu/apercu22.md:* concluBis 30/01/22 = The voice ph _1 > 4; F4 thailand _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
 apercu/apercu22.md:* concluBis 31/01/22 = The voice ph _1 > 4; F4 thailand _1 > 2; Forever knight _1 > 1; 
 apercuTer/apercuTer.md:* The voice ph _1
-apercuTer/apercuTer.md:*insererici Druck _7 The voice nl _9 The voice ru _10 Queen of the universe _1 Survivor 12 The voice kids uk _5 Josephine ange gardien _24 The voice greece _7 Incroyable talent _16 Dragula _4 The voice ger _11 The voice greece _8 The voice esp _8 Strictly come dancing _19 Drag race ca _2 Deadwater fell _1 The masked singer _6 Survivor _41 The voice us _21 Koh-lanta _27 Between us special _1 The voice bulgarie _8 The voice th _6 La mas draga _4 Alter ego _1 Survivor _11 The voice th _7*
-apercuTer/apercuTer.md:*Josephine ange gardien _23 Offgun fun night _2 Wish you _1 Cherry magic _1 From dusk till dawn _1 The voice senior it _1 The voice germany _10 Strictly come dancing _18 Why r u _2 Fais pas ci fais pas ça _9 Discipline _2 The masked singer _4 Oh mando _1 The voice us _19 Incroyable talent _15 I can see your voice _1 Calculating love _1 The voice senior vv _2 Drag race thailand _2 Taking the stands _1 Oxygen _1 Boyband love _1 Koh-lanta _25 Better days _1 Safe haven _1*
+liste/liste.md:|the voice ph _1|||||0|<!-- 25/1/22 -->
+premder/premder.md:The voice ph _1x1
+premder/premder.md:The voice ph _1x4

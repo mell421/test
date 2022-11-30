@@ -10,7 +10,6 @@
   - [sommaire](#sommaire)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
-  - [a venir](#a-venir)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -108,6 +107,17 @@
 |tvg portugal 1||2|||<!--  -->
 |tv indonesia 5||10|||<!-- 19/8 -->
 |tv peru 5||42|||<!-- 20/8 -->
+|tvk colombia 6||37|||<!--  -->
+|tv arg 4||71|||<!--  -->
+|tvk fr 8||8|||<!--  -->
+|tv th 9||13|||<!--  -->
+|tv dominicana 2||19|||<!--  -->
+|tvs peru _2||49|||<!--  -->
+|tv uk _11||9|||<!--  -->
+|tvs colombia _2||33|||<!--  -->
+|tv ger _12||19|||<!--  -->
+|tv poland _13||26|||<!--  -->
+|tv ukr _12||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -125,22 +135,22 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the voice nl 12|||||0|<!--  -->
-|the voice ukr 12|||||0|<!--  -->
-|the voice dominicana 2|||||0|<!--  -->
-|the voice arg 4|||||0|<!--  -->
-|the voice kids colombia 6|||||0|<!--  -->
-|the voice th 9|||||0|<!--  -->
+|the voice kids peru _5|||||0|<!--  -->
+|the voice kids malta _1|||||0|<!--  -->
+|the voice greece _9|||||0|<!--  -->
+|the voice kids cambodia _3|||||0|<!--  -->
+|the voice vv _8|||||0|<!--  -->
+|the voice nepal _4|||||0|<!--  -->
+|the voice portugal _10|||||0|<!--  -->
+|the voice esp _9|||||0|<!--  -->
+|the voice us _22|||||0|<!--  -->
+|the voice romania _10|||||0|<!--  -->
+|the voice bulgarie _9|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
-
-
-## a venir
- 
-|titre|titre officiel|nb ep|categorie|pays|nb vu|
-| --- | --- | :---: | --- | --- | --- |
-||||||0|<!--  -->
+|a venir|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
