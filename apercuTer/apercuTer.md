@@ -237,11 +237,11 @@
 ## apercu mois
 
 #### mois 01-09-2022 
-*insererici Les traitres _1 The masked singer jap _2 The masked singer au _4 Vanjie 24 hours of love _1 Fiertes _1 The voice peru _5 The voice indonesia _5 The voice generations portugal _1 Karaoke club drag edition _1 Drag race fr _1 Sytycd _17 Pekin express _16 30 days of night dust to dust _1 30 days of night blood trails _1 The voice chile _3 Even sun _1*
+*Les traitres _1 The masked singer jap _2 The masked singer au _4 Vanjie 24 hours of love _1 Fiertes _1 The voice peru _5 The voice indonesia _5 The voice generations portugal _1 Karaoke club drag edition _1 Drag race fr _1 Sytycd _17 Pekin express _16 30 days of night dust to dust _1 30 days of night blood trails _1 The voice chile _3 Even sun _1*
 #### mois 01-10-2022 
-*insererici Magic of zero _1 Minatos laundromat _1 Ahss _2 The voice arg _4 The voice kids colombia _6 Survivor sa _9 Ohmnanon upvel _1 Qdals _1*
+*Magic of zero _1 Minatos laundromat _1 Ahss _2 The voice arg _4 The voice kids colombia _6 Survivor sa _9 Ohmnanon upvel _1 Qdals _1*
 #### mois 01-11-2022 
-*insererici The voice uk _11 My roommate _1 The voice senior peru _2 The eclipse _1 The good doctor _5 The voice dominicana _2 The amazing race _32 The masked dancer uk _2 Drag race ca _3 The voice th _9 The masked singer arg _1 Lays on cruise _1 Beat shazam _5 The masked singer fr _4 The voice kids fr _8 Floor is lava _3 The challenge usa _1 The masked singer nz _2 Vice versa series _1*
+*The voice uk _11 My roommate _1 The voice senior peru _2 The eclipse _1 The good doctor _5 The voice dominicana _2 The amazing race _32 The masked dancer uk _2 Drag race ca _3 The voice th _9 The masked singer arg _1 Lays on cruise _1 Beat shazam _5 The masked singer fr _4 The voice kids fr _8 Floor is lava _3 The challenge usa _1 The masked singer nz _2 Vice versa series _1*
 #### mois 01-12-2022 
 *insererici Star academy _10 Rpscdr _2 The voice ukr _12 The voice poland _13 The mole _1 Lego masters fr _3 Check in do amor _1 The challenge _4 Dals _12 Love in the air _1 Interview with the vampire _1 The masked singer ger _7 The voice ger _12 The voice senior colombia _2*
 
