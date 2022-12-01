@@ -198,7 +198,6 @@ i = The big leap _1
 i = The case study of vanitas _1
 i = The challenge _38
 i = The circle us _4
-i = The masked singer _8
 i = The player _1
 i = The shipper _1
 i = The tuxedo _1

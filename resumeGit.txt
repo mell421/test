@@ -2856,3 +2856,49 @@ Your branch is up to date with 'origin/save'.
  12 files changed, 52 insertions(+), 27 deletions(-)
  
 maj wirdcloud and list
+M	resumeGit.txt
+M	wordcloud/accueil_3.png
+M	wordcloud/affodd_3.png
+M	wordcloud/conclu_3.png
+M	wordcloud/conclubis_3.png
+M	wordcloud/copy_3.png
+M	wordcloud/eff_3.png
+M	wordcloud/encours_3.png
+M	wordcloud/max_3.png
+M	wordcloud/mois_3.png
+M	wordcloud/mygraph.Rmd
+M	wordcloud/mygraph.html
+M	wordcloud/pa_3.png
+M	wordcloud/pageappres_3.png
+M	wordcloud/pageappressup_3.png
+M	wordcloud/pars2_3.png
+M	wordcloud/recent_3.png
+M	wordcloud/rewind22_3.png
+M	wordcloud/sem_3.png
+M	wordcloud/termine_3.png
+M	wordcloud/tmp.html
+M	wordcloud/wordcloud.Rmd
+M	wordcloud/wordcloud.html
+Your branch is up to date with 'origin/save'.
+[save 5703171d] maj wirdcloud and list
+ 23 files changed, 273 insertions(+), 555 deletions(-)
+ rewrite wordcloud/accueil_3.png (98%)
+ rewrite wordcloud/affodd_3.png (99%)
+ rewrite wordcloud/conclu_3.png (99%)
+ rewrite wordcloud/conclubis_3.png (98%)
+ rewrite wordcloud/copy_3.png (98%)
+ rewrite wordcloud/eff_3.png (97%)
+ rewrite wordcloud/encours_3.png (99%)
+ rewrite wordcloud/max_3.png (98%)
+ rewrite wordcloud/mois_3.png (96%)
+ rewrite wordcloud/pa_3.png (99%)
+ rewrite wordcloud/pageappres_3.png (98%)
+ rewrite wordcloud/pageappressup_3.png (98%)
+ rewrite wordcloud/pars2_3.png (98%)
+ rewrite wordcloud/recent_3.png (99%)
+ rewrite wordcloud/rewind22_3.png (98%)
+ rewrite wordcloud/sem_3.png (97%)
+ rewrite wordcloud/termine_3.png (99%)
+ rewrite wordcloud/tmp.html (76%)
+ 
+remove The masked singer _8

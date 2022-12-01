@@ -37,7 +37,6 @@ Clik clak clok 1x2
 _$-
 The voice us _22x5
 La mas draga _5x2
-The masked singer _8x3
 The shipper _1x7
 Nailed it _7x1
 Lego masters _3x2
@@ -60,7 +59,6 @@ Dwts _31x2
 The voice esp _9x1
 Ai long nhai _1x1
 Strictly come dancing _20x1
-The masked singer _8x1
 The amazing race _34x1
 Lego masters _3x1
 Dwts _31x1

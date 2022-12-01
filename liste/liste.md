@@ -680,6 +680,7 @@
 |the voice ukr _12||12|||<!-- 23/1/22 -->
 |rpscdr _2||8|||<!-- 13/8 -->
 |star academy _10||42|||<!--  -->
+|the masked singer _8||11|||<!-- 22/9 -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -901,7 +902,6 @@
 |dwts _31|||||0|<!--  -->
 |lego masters _3|||||0|<!-- 22/9 -->
 |the amazing race _34|||||0|<!-- 22/9 -->
-|the masked singer _8|||||0|<!-- 22/9 -->
 |strictly come dancing _20|||||0|<!--  -->
 |ai long nhai _1|||||0|<!--  -->
 |the voice esp _9|||||0|<!--  -->
