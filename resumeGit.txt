@@ -2902,3 +2902,27 @@ Your branch is up to date with 'origin/save'.
  rewrite wordcloud/tmp.html (76%)
  
 remove The masked singer _8
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+M	wordcloud/.RData
+M	wordcloud/.Rhistory
+Your branch is ahead of 'origin/save' by 2 commits.
+  (use "git push" to publish your local commits)
+[save 7dadde9b] remove The masked singer _8
+ 17 files changed, 144 insertions(+), 29 deletions(-)
+ rewrite wordcloud/.RData (93%)
+ 
+remove Love in the air special ep
