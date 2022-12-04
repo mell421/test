@@ -2926,3 +2926,15 @@ Your branch is ahead of 'origin/save' by 2 commits.
  rewrite wordcloud/.RData (93%)
  
 remove Love in the air special ep
+M	bl/bl.html
+M	bl/bl.md
+M	bl/bl.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 77f31c83] remove Love in the air special ep
+ 7 files changed, 28 insertions(+), 4 deletions(-)
+ 
+remove |the voice bulgarie _9||14|||<!--  -->

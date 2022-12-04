@@ -681,6 +681,7 @@
 |rpscdr _2||8|||<!-- 13/8 -->
 |star academy _10||42|||<!--  -->
 |the masked singer _8||11|||<!-- 22/9 -->
+|the voice bulgarie _9||14|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -895,7 +896,6 @@
 |little big world with pond phuwin _1|||||0|<!--  -->
 |les cinquante _1|||||0|<!--  -->
 |un dos tres _3|||||0|<!--  -->
-|the voice bulgarie _9|||||0|<!--  -->
 |the voice romania _10|||||0|<!--  -->
 |vampire academy _1|||||0|<!-- 15/9 -->
 |the voice us _22|||||0|<!-- 20/9 -->
