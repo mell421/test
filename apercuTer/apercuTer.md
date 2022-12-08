@@ -24,13 +24,14 @@
     - [sem 21-11-2022](#sem-21-11-2022)
     - [sem 28-11-2022](#sem-28-11-2022)
     - [sem 05-12-2022](#sem-05-12-2022)
+    - [sem 12-12-2022](#sem-12-12-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-09-2022](#mois-01-09-2022)
       - [mois 01-10-2022](#mois-01-10-2022)
       - [mois 01-11-2022](#mois-01-11-2022)
       - [mois 01-12-2022](#mois-01-12-2022)
-      - [mois 01-12-2022](#mois-01-12-2022-1)
+      - [mois 01-01-2023](#mois-01-01-2023)
 
 ## Aperçu semaine
 
@@ -92,6 +93,9 @@
 * *insererici*
 * The voice bulgarie _9
 * The masked singer _8
+### sem 12-12-2022 
+* *insererici*
+* the voice kids peru _5
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -107,19 +111,18 @@
 * 
 * $ order $
 * The voice us _22
-* 
+* The masked singer _8
 * Big brother us _24
 * Ai long nhai _1
 * The voice portugal _10
 * The voice greece _9
-* 
+* The voice bulgarie _9
 * The voice vv _8
 * The voice romania _10
 * Little big world with pond phuwin _1
 * Incroyable talent _17
 * The voice esp _9
 * The voice kids malta _1
-* The voice kids peru _5
 * The amazing race _34
 * Reginald the vampire _1
 * The challenge _38
@@ -249,8 +252,8 @@
 #### mois 01-11-2022 
 *The voice uk _11 My roommate _1 The voice senior peru _2 The eclipse _1 The good doctor _5 The voice dominicana _2 The amazing race _32 The masked dancer uk _2 Drag race ca _3 The voice th _9 The masked singer arg _1 Lays on cruise _1 Beat shazam _5 The masked singer fr _4 The voice kids fr _8 Floor is lava _3 The challenge usa _1 The masked singer nz _2 Vice versa series _1*
 #### mois 01-12-2022 
-*Star academy _10 Rpscdr _2 The voice ukr _12 The voice poland _13 The mole _1 Lego masters fr _3 Check in do amor _1 The challenge _4 Dals _12 Love in the air _1 Interview with the vampire _1 The masked singer ger _7 The voice ger _12 The voice senior colombia _2*
-#### mois 01-12-2022 
-*insererici The voice bulgarie _9 The masked singer _8*
+*insererici Star academy _10 Rpscdr _2 The voice ukr _12 The voice poland _13 The mole _1 Lego masters fr _3 Check in do amor _1 The challenge _4 Dals _12 Love in the air _1 Interview with the vampire _1 The masked singer ger _7 The voice ger _12 The voice senior colombia _2*
+#### mois 01-01-2023
+*insererici The voice kids peru _5*
 
 [retour](./../index.html)

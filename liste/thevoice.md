@@ -119,6 +119,7 @@
 |tv poland _13||26|||<!--  -->
 |tv ukr _12||12|||<!--  -->
 |tv bulgarie _9||14|||<!--  -->
+|tvk peru _5||41|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -136,7 +137,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the voice nl 12|||||0|<!--  -->
-|the voice kids peru _5|||||0|<!--  -->
 |the voice kids malta _1|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
 |the voice kids cambodia _3|||||0|<!--  -->

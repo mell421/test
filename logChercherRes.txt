@@ -206,7 +206,6 @@ i = The voice greece _9
 i = The voice kids cambodia _3
 i = The voice kids indonesia _4
 i = The voice kids malta _1
-i = The voice kids peru _5
 i = The voice nepal _4
 i = The voice nl _12
 i = The voice ph _1

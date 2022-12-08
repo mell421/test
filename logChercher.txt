@@ -149,11 +149,6 @@ ligne :  3 ZZ/Nailedit_7.txt
 mot   :  11 ZZ/Nailedit_7.txt
 carac :  120 ZZ/Nailedit_7.txt
 
-i = The voice kids peru _5
-ligne :  4 ZZ/Thevoicekidsperu_5.txt
-mot   :  24 ZZ/Thevoicekidsperu_5.txt
-carac :  215 ZZ/Thevoicekidsperu_5.txt
-
 i = Ahs _11
 ligne :  3 ZZ/Ahs_11.txt
 mot   :  10 ZZ/Ahs_11.txt
