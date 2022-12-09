@@ -44,6 +44,15 @@
     - [sem 15-08-2022](#sem-15-08-2022)
     - [sem 22-08-2022](#sem-22-08-2022)
     - [sem 29-08-2022](#sem-29-08-2022)
+    - [sem 05-09-2022](#sem-05-09-2022)
+    - [sem 12-09-2022](#sem-12-09-2022)
+    - [sem 19-09-2022](#sem-19-09-2022)
+    - [sem 26-09-2022](#sem-26-09-2022)
+    - [sem 03-10-2022](#sem-03-10-2022)
+    - [sem 10-10-2022](#sem-10-10-2022)
+    - [sem 17-10-2022](#sem-17-10-2022)
+    - [sem 24-10-2022](#sem-24-10-2022)
+    - [sem 31-10-2022](#sem-31-10-2022)
   - [a classer](#a-classer)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -268,7 +277,40 @@
 * Ohmnanon upvel _1
 * Qdals _1
 * Les traitres _1
-
+### sem 05-09-2022 
+* Survivor sa _9
+### sem 12-09-2022 
+* Ahss _2
+* The voice arg _4
+* The voice kids colombia _6
+### sem 19-09-2022 
+* Magic of zero _1
+* Minatos laundromat _1
+### sem 26-09-2022 
+* The masked singer nz _2
+* Vice versa series _1
+### sem 03-10-2022 
+* The challenge usa _1
+### sem 10-10-2022 
+* The voice kids fr _8
+* Floor is lava _3
+### sem 17-10-2022 
+* Drag race ca _3
+* The voice th _9
+* The masked singer arg _1
+* Lays on cruise _1
+* Beat shazam _5
+* The masked singer fr _4
+### sem 24-10-2022 
+* The masked dancer uk _2
+### sem 31-10-2022 
+* The voice uk _11
+* My roommate _1
+* The voice senior peru _2
+* The eclipse _1
+* The good doctor _5
+* The voice dominicana _2
+* The amazing race _32
 
 
 

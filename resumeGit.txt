@@ -2961,3 +2961,15 @@ Your branch is up to date with 'origin/save'.
  18 files changed, 36 insertions(+), 35 deletions(-)
  
 clean
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.pdf
+M	apercuTer/past/apercuTerPast.html
+M	apercuTer/past/apercuTerPast.md
+M	apercuTer/past/apercuTerPast.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 6a10b2c2] clean
+ 5 files changed, 23 insertions(+), 1504 deletions(-)
+ rewrite apercuTer/past/apercuTerPast.pdf (76%)
+ 
+clean
