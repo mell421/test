@@ -2938,3 +2938,26 @@ Your branch is up to date with 'origin/save'.
  7 files changed, 28 insertions(+), 4 deletions(-)
  
 remove |the voice bulgarie _9||14|||<!--  -->
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 7154ebab] remove |the voice bulgarie _9||14|||<!--  -->
+ 18 files changed, 36 insertions(+), 35 deletions(-)
+ 
+clean
