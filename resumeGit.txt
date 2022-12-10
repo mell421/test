@@ -2985,3 +2985,23 @@ Your branch is up to date with 'origin/save'.
  7 files changed, 117 insertions(+), 105 deletions(-)
  
 remove The amazing race _34
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save cff369c9] remove The amazing race _34
+ 15 files changed, 28 insertions(+), 26 deletions(-)
+ 
+remove Drag save the queen _1
