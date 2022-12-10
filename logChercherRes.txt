@@ -193,7 +193,6 @@ i = Something in my room _1
 i = Strictly come dancing _20
 i = Survivor _31
 i = Tbbt _11
-i = The amazing race _34
 i = The big leap _1
 i = The case study of vanitas _1
 i = The challenge _38

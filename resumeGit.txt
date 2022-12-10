@@ -2973,3 +2973,15 @@ Your branch is up to date with 'origin/save'.
  rewrite apercuTer/past/apercuTerPast.pdf (76%)
  
 clean
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	apercuTer/past/apercuTerPast.html
+M	apercuTer/past/apercuTerPast.md
+M	apercuTer/past/apercuTerPast.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 42dd8194] clean
+ 7 files changed, 117 insertions(+), 105 deletions(-)
+ 
+remove The amazing race _34
