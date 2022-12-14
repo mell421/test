@@ -1,5 +1,0 @@
-apercuTer/apercuTer.md:* Dals _12
-index.html:            Dals _12<br>
-liste/liste.md:|dals _12|||||0|<!--  -->
-premder/premder.md:Dals _12x1
-premder/premder.md:Dals _12x4

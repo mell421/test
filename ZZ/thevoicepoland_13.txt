@@ -1,6 +1,0 @@
-apercuTer/apercuTer.md:* The voice poland _13
-index.html:            The voice poland _13<br>
-liste/liste.md:|the voice poland _13|||||0|<!--  -->
-liste/thevoice.md:|the voice poland _13|||||0|<!--  -->
-premder/premder.md:The voice poland _13x1
-premder/premder.md:The voice poland _13x12

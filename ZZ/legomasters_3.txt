@@ -1,7 +1,8 @@
 apercuTer/apercuTer.md:* Lego masters _3
 apercuTer/apercuTer.md:* Lego masters fr _3
+apercuTer/apercuTer.md:*Star academy _10 Rpscdr _2 The voice ukr _12 The voice poland _13 The mole _1 Lego masters fr _3 Check in do amor _1 The challenge _4 Dals _12 Love in the air _1 Interview with the vampire _1 The masked singer ger _7 The voice ger _12 The voice senior colombia _2*
 index.html:            Lego masters _3<br>
 liste/liste.md:|lego masters _3|||||0|<!-- 22/9 -->
-liste/liste.md:|lego masters fr _3|||||0|<!--  -->
+liste/liste.md:|lego masters fr _3||4|||<!--  -->
 premder/premder.md:Lego masters _3x1
 premder/premder.md:Lego masters _3x2

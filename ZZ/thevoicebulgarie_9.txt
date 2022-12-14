@@ -1,6 +1,0 @@
-apercuTer/apercuTer.md:* The voice bulgarie _9
-index.html:            The voice bulgarie _9<br>
-liste/liste.md:|the voice bulgarie _9|||||0|<!--  -->
-liste/thevoice.md:|the voice bulgarie _9|||||0|<!--  -->
-premder/premder.md:The voice bulgarie _9x1
-premder/premder.md:The voice bulgarie _9x5

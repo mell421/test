@@ -1,5 +1,0 @@
-apercuTer/apercuTer.md:* The amazing race _34
-index.html:            The amazing race _34<br>
-liste/liste.md:|the amazing race _34|||||0|<!-- 22/9 -->
-premder/premder.md:The amazing race _34x1
-premder/premder.md:The amazing race _34x2

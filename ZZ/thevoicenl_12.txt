@@ -13,3 +13,6 @@ apercu/apercuglobal.md:- sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x
 apercuTer/apercuTer.md:* The voice nl _12
 liste/liste.md:|the voice finland _12||24|||<!-- 28/1/22 - _29/4 -->
 liste/liste.md:|The voice nl _12|||||0|<!-- 7/1/22 -->
+tab2022.html:    <td class="resumemois">/9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) </td>
+tab2022.html:    <td class="resumesem">sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) </td>
+tab2022.html:    <td class="resumesem">The voice nl _12x3(1) /9-1-1 lone star _3x3(1) </td>

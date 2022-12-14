@@ -1,6 +1,5 @@
 apercuTer/apercuTer.md:* Ai long nhai _1
 bl/bl.md:|ai long nhai _1||||||<!--  -->
-index.html:            Ai long nhai _1<br>
 liste/liste.md:|ai long nhai _1|||||0|<!--  -->
 premder/premder.md:Ai long nhai _1x1
 premder/premder.md:Ai long nhai _1x2

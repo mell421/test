@@ -1,3 +1,2 @@
 apercuTer/apercuTer.md:* Ahs _11
-index.html:            Ahs _11<br>
 liste/liste.md:|ahs _11|||||0|<!-- 18/10 -->

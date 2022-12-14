@@ -1,3 +1,0 @@
-apercuTer/apercuTer.md:* My roommate _1
-bl/bl.md:|my roommate _1||32||||<!--  -->
-liste/liste.md:|my roommate _1|||||0|<!--  -->

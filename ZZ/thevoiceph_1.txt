@@ -87,7 +87,6 @@ aEff/aeff.md:- 30/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 
 aEff/aeff.md:- 30/04/22 (eff) - F4 thailand _1{35} Cupids last wish _1{19} Trivia quest _1{17} The voice ph _1{16} 
 aEff/aeff.md:- 31/03/22 (eff) - f4 thailand _1{35} cupids last wish _1{18} 5515 never too late _1{18} the voice ph _1{16} 
 apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
-apercu/apercu22.md:- sem 22-08-2022 -> Big brother us _24x18(1) His man _1x8(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 apercu/apercu22.md:- sem 31-01-2022 -> F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
 apercu/apercu22.md:* conclu 01/02/22 = The voice ph _1 > 3; /9-1-1 lone star _3 > 2; 
 apercu/apercu22.md:* conclu 26/01/22 = The voice ph _1 > 2; 
@@ -107,3 +106,17 @@ apercuTer/apercuTer.md:* The voice ph _1
 liste/liste.md:|the voice ph _1|||||0|<!-- 25/1/22 -->
 premder/premder.md:The voice ph _1x1
 premder/premder.md:The voice ph _1x4
+tab2022.html:    <td class="conclu">The voice ph _1 > 2; </td>
+tab2022.html:    <td class="conclu">The voice ph _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; </td>
+tab2022.html:    <td class="conclu">The voice ph _1 > 2; Forever knight _1 > 1; </td>
+tab2022.html:    <td class="conclu">The voice ph _1 > 3; /9-1-1 lone star _3 > 2; </td>
+tab2022.html:    <td class="conclu">The voice ph _1 > 3; F4 thailand _1 > 1; Forever knight _1 > 1; </td>
+tab2022.html:    <td class="conclu">The voice ph _1 > 3; Something in my room _1 > 2; Forever knight _1 > 1; </td>
+tab2022.html:    <td class="conclubis">/9-1-1 lone star _3 > 5; The voice ph _1 > 5; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; </td>
+tab2022.html:    <td class="conclubis">The voice ph _1 > 4; F4 thailand _1 > 2; Forever knight _1 > 1; </td>
+tab2022.html:    <td class="conclubis">The voice ph _1 > 4; F4 thailand _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; </td>
+tab2022.html:    <td class="conclubis">The voice ph _1 > 4; Forever knight _1 > 2; Love at night _1 > 1; Imortal _1 > 1; </td>
+tab2022.html:    <td class="conclubis">The voice ph _1 > 5; F4 thailand _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; </td>
+tab2022.html:    <td class="conclubis">The voice ph _1 > 5; Something in my room _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; </td>
+tab2022.html:    <td class="resumemois">/9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) </td>
+tab2022.html:    <td class="resumesem">F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) </td>

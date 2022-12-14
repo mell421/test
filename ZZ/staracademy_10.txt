@@ -1,3 +1,0 @@
-apercuTer/apercuTer.md:* Star academy _10
-index.html:            Star academy _10<br>
-liste/liste.md:|star academy _10|||||0|<!--  -->
