@@ -685,6 +685,7 @@
 |the voice kids peru _5||41|||<!--  -->
 |the amazing race _34||12|||<!-- 22/9 -->
 |Drag save the queen _1||4|||<!--  -->
+|the voice us _22||25|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -900,7 +901,6 @@
 |un dos tres _3|||||0|<!--  -->
 |the voice romania _10|||||0|<!--  -->
 |vampire academy _1|||||0|<!-- 15/9 -->
-|the voice us _22|||||0|<!-- 20/9 -->
 |dwts _31|||||0|<!--  -->
 |lego masters _3|||||0|<!-- 22/9 -->
 |strictly come dancing _20|||||0|<!--  -->

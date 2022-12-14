@@ -16,6 +16,7 @@
     - [sem 28-11-2022](#sem-28-11-2022)
     - [sem 05-12-2022](#sem-05-12-2022)
     - [sem 12-12-2022](#sem-12-12-2022)
+    - [sem 19-12-2022](#sem-19-12-2022)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-09-2022](#mois-01-09-2022)
@@ -49,10 +50,12 @@
 * The voice bulgarie _9
 * The masked singer _8
 ### sem 12-12-2022 
-* *insererici*
 * Drag save the queen _1
 * The amazing race _34
 * the voice kids peru _5
+### sem 19-12-2022
+* *insererici*
+* The voice us _22
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -65,7 +68,7 @@
 * First love again _1
 * 
 * $ order $
-* The voice us _22
+* 
 * The masked singer _8
 * Big brother us _24
 * Ai long nhai _1
@@ -208,6 +211,6 @@
 #### mois 01-12-2022 
 *Star academy _10 Rpscdr _2 The voice ukr _12 The voice poland _13 The mole _1 Lego masters fr _3 Check in do amor _1 The challenge _4 Dals _12 Love in the air _1 Interview with the vampire _1 The masked singer ger _7 The voice ger _12 The voice senior colombia _2*
 #### mois 01-01-2023
-*insererici Drag save the queen _1 The amazing race _34 The voice kids peru _5 The voice bulgarie _9 The masked singer _8*
+*insererici The voice us _22 Drag save the queen _1 The amazing race _34 The voice kids peru _5 The voice bulgarie _9 The masked singer _8*
 
 [retour](./../index.html)

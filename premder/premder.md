@@ -35,7 +35,6 @@ Clik clak clok 1x2
 ### tisaep all
 * ici
 _$-
-The voice us _22x5
 La mas draga _5x2
 The shipper _1x7
 Nailed it _7x1
@@ -59,7 +58,6 @@ Ai long nhai _1x1
 Strictly come dancing _20x1
 Lego masters _3x1
 Dwts _31x1
-The voice us _22x1
 Les cinquante _1x11
 Sky in your heart _1x4
 Vampire academy _1x1

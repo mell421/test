@@ -9,11 +9,6 @@ ligne :  4 ZZ/Lescinquante_1.txt
 mot   :  14 ZZ/Lescinquante_1.txt
 carac :  172 ZZ/Lescinquante_1.txt
 
-i = The voice us _22
-ligne :  6 ZZ/Thevoiceus_22.txt
-mot   :  29 ZZ/Thevoiceus_22.txt
-carac :  273 ZZ/Thevoiceus_22.txt
-
 i = The shipper _1
 ligne :  35 ZZ/Theshipper_1.txt
 mot   :  491 ZZ/Theshipper_1.txt

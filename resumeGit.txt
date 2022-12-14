@@ -3005,3 +3005,18 @@ Your branch is up to date with 'origin/save'.
  15 files changed, 28 insertions(+), 26 deletions(-)
  
 remove Drag save the queen _1
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	liste/dragrace.html
+M	liste/dragrace.md
+M	liste/dragrace.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save fce2adbf] remove Drag save the queen _1
+ 10 files changed, 30 insertions(+), 8 deletions(-)
+ 
+remove The voice us _22
