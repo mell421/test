@@ -58,13 +58,11 @@ Ai long nhai _1x1
 Strictly come dancing _20x1
 Lego masters _3x1
 Dwts _31x1
-Les cinquante _1x11
 Sky in your heart _1x4
 Vampire academy _1x1
 The voice romania _10x1
 Masterchef fr _6x3
 Un dos tres _3x1
-Les cinquante _1x1
 Little big world with pond phuwin _1x1
 Skam italia _5x2
 Skam italia _5x1

@@ -4,11 +4,6 @@ ligne :  114 ZZ/Bigbrotherus_24.txt
 mot   :  1881 ZZ/Bigbrotherus_24.txt
 carac :  12323 ZZ/Bigbrotherus_24.txt
 
-i = Les cinquante _1
-ligne :  4 ZZ/Lescinquante_1.txt
-mot   :  14 ZZ/Lescinquante_1.txt
-carac :  172 ZZ/Lescinquante_1.txt
-
 i = The shipper _1
 ligne :  35 ZZ/Theshipper_1.txt
 mot   :  491 ZZ/Theshipper_1.txt

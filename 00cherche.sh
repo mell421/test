@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 100
-"Big brother us _24" "Les cinquante _1" 
+"Big brother us _24" 
 # 99-50
 # 49-40
 "The shipper _1" "The voice vv _8" 

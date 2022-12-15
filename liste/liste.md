@@ -686,6 +686,7 @@
 |the amazing race _34||12|||<!-- 22/9 -->
 |Drag save the queen _1||4|||<!--  -->
 |the voice us _22||25|||<!--  -->
+|les cinquante _1||51|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -897,7 +898,6 @@
 |my only _12pc _1|||||0|<!-- 12/8 -->
 |skam italia _5||10|||0|<!-- 1/9 -->
 |little big world with pond phuwin _1|||||0|<!--  -->
-|les cinquante _1|||||0|<!--  -->
 |un dos tres _3|||||0|<!--  -->
 |the voice romania _10|||||0|<!--  -->
 |vampire academy _1|||||0|<!-- 15/9 -->

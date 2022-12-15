@@ -3043,3 +3043,79 @@ Your branch is up to date with 'origin/save'.
  18 files changed, 46 insertions(+), 44 deletions(-)
  
 search treatment
+M	ZZ/5515nevertoolate_1.txt
+M	ZZ/9-1-1_5.txt
+M	ZZ/9-1-1lonestar_3.txt
+M	ZZ/aggretsuko_4.txt
+M	ZZ/ahs_11.txt
+M	ZZ/ailongnhai_1.txt
+M	ZZ/bakerboys_1.txt
+M	ZZ/beatshazam_2.txt
+D	ZZ/checkindoamor_1.txt
+M	ZZ/cherryblossomsafterwinter_1.txt
+M	ZZ/colorrush_2.txt
+M	ZZ/cupidslastwish_1.txt
+D	ZZ/dals_12.txt
+M	ZZ/districtz_2.txt
+M	ZZ/dwts_31.txt
+M	ZZ/f4thailand_1.txt
+M	ZZ/lamasdraga_5.txt
+M	ZZ/legomasters_3.txt
+D	ZZ/legomastersfr_3.txt
+M	ZZ/loveatnight_1.txt
+D	ZZ/loveintheair_1.txt
+M	ZZ/lovestage2022_1.txt
+M	ZZ/meetmyangel_2.txt
+D	ZZ/myroommate_1.txt
+M	ZZ/reginaldthevampire_1.txt
+M	ZZ/somethinginmyroom_1.txt
+D	ZZ/staracademy_10.txt
+D	ZZ/theamazingrace_34.txt
+D	ZZ/thechallenge_4.txt
+D	ZZ/themaskedsinger_8.txt
+D	ZZ/themaskedsingerger_7.txt
+D	ZZ/themole_1.txt
+M	ZZ/theplayer_1.txt
+D	ZZ/thevoicebulgarie_9.txt
+D	ZZ/thevoiceger_12.txt
+D	ZZ/thevoicekidsperu_5.txt
+M	ZZ/thevoicenl_12.txt
+M	ZZ/thevoiceph_1.txt
+D	ZZ/thevoicepoland_13.txt
+D	ZZ/thevoiceseniorcolombia_2.txt
+D	ZZ/thevoiceseniorperu_2.txt
+D	ZZ/thevoiceuk_11.txt
+D	ZZ/thevoiceukr_12.txt
+D	ZZ/thevoiceus_22.txt
+M	ZZ/unlocked_1.txt
+M	ZZ/vampireacademy_1.txt
+M	ZZ/youngsheldon_5.txt
+M	js/lastCommit.js
+M	logChercher.txt
+M	logChercherRes.txt
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 7937209a] search treatment
+ 51 files changed, 416 insertions(+), 535 deletions(-)
+ delete mode 100644 ZZ/checkindoamor_1.txt
+ delete mode 100644 ZZ/dals_12.txt
+ delete mode 100644 ZZ/legomastersfr_3.txt
+ delete mode 100644 ZZ/loveintheair_1.txt
+ delete mode 100644 ZZ/myroommate_1.txt
+ delete mode 100644 ZZ/staracademy_10.txt
+ delete mode 100644 ZZ/theamazingrace_34.txt
+ delete mode 100644 ZZ/thechallenge_4.txt
+ delete mode 100644 ZZ/themaskedsinger_8.txt
+ delete mode 100644 ZZ/themaskedsingerger_7.txt
+ delete mode 100644 ZZ/themole_1.txt
+ delete mode 100644 ZZ/thevoicebulgarie_9.txt
+ delete mode 100644 ZZ/thevoiceger_12.txt
+ delete mode 100644 ZZ/thevoicekidsperu_5.txt
+ delete mode 100644 ZZ/thevoicepoland_13.txt
+ delete mode 100644 ZZ/thevoiceseniorcolombia_2.txt
+ delete mode 100644 ZZ/thevoiceseniorperu_2.txt
+ delete mode 100644 ZZ/thevoiceuk_11.txt
+ delete mode 100644 ZZ/thevoiceukr_12.txt
+ delete mode 100644 ZZ/thevoiceus_22.txt
+ 
+remove Les cinquante _1
