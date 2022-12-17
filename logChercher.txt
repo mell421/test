@@ -54,11 +54,6 @@ ligne :  7 ZZ/Mastercheffr_6.txt
 mot   :  32 ZZ/Mastercheffr_6.txt
 carac :  324 ZZ/Mastercheffr_6.txt
 
-i = The voice esp _9
-ligne :  6 ZZ/Thevoiceesp_9.txt
-mot   :  28 ZZ/Thevoiceesp_9.txt
-carac :  269 ZZ/Thevoiceesp_9.txt
-
 i = Dwts _31
 ligne :  4 ZZ/Dwts_31.txt
 mot   :  10 ZZ/Dwts_31.txt

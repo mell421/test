@@ -3119,3 +3119,22 @@ Your branch is up to date with 'origin/save'.
  delete mode 100644 ZZ/thevoiceus_22.txt
  
 remove Les cinquante _1
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 5496d3bb] remove Les cinquante _1
+ 14 files changed, 92 insertions(+), 25 deletions(-)
+ 
+remove The voice esp _9

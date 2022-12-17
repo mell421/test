@@ -687,6 +687,7 @@
 |Drag save the queen _1||4|||<!--  -->
 |the voice us _22||25|||<!--  -->
 |les cinquante _1||51|||<!--  -->
+|the voice esp _9||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -905,7 +906,6 @@
 |lego masters _3|||||0|<!-- 22/9 -->
 |strictly come dancing _20|||||0|<!--  -->
 |ai long nhai _1|||||0|<!--  -->
-|the voice esp _9|||||0|<!--  -->
 |la mas draga _5|||||0|<!--  -->
 |the voice portugal _10|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->

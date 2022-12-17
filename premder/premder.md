@@ -46,14 +46,12 @@ The voice greece _9x1
 The voice vv _8x2
 The voice kids cambodia _3x1
 The voice romania _10x4
-The voice esp _9x2
 The voice vv _8x1
 The voice nepal _4x2
 The voice nepal _4x1
 The voice portugal _10x1
 La mas draga _5x1
 Dwts _31x2
-The voice esp _9x1
 Ai long nhai _1x1
 Strictly come dancing _20x1
 Lego masters _3x1
