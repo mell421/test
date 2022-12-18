@@ -85,7 +85,7 @@
 |vanjie 24 hours of love 1||8|||<!-- 26/8 -->
 |drag race ca 3||9|||<!--  -->
 |rpscdr _2||8|||<!-- 13/8 -->
-|Drag save the queen _1||4|||<!--  -->
+|Drag save the queen _2||4|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -120,7 +120,7 @@
 |drag den ph 1||||||<!--  -->
 |call me mother 1||||||<!--  -->
 |house of drags 1||||||<!--  -->
-|god shave the queens 2||12||||<!--  -->
+|god shave the queens 2||4||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

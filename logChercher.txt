@@ -14,11 +14,6 @@ ligne :  6 ZZ/Thevoicevv_8.txt
 mot   :  28 ZZ/Thevoicevv_8.txt
 carac :  263 ZZ/Thevoicevv_8.txt
 
-i = Strictly come dancing _20
-ligne :  5 ZZ/Strictlycomedancing_20.txt
-mot   :  23 ZZ/Strictlycomedancing_20.txt
-carac :  261 ZZ/Strictlycomedancing_20.txt
-
 i = The voice portugal _10
 ligne :  6 ZZ/Thevoiceportugal_10.txt
 mot   :  28 ZZ/Thevoiceportugal_10.txt

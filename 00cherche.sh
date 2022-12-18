@@ -12,7 +12,6 @@ list99=(
 # 49-40
 "The shipper _1" "The voice vv _8" 
 # 39-30
-"Strictly come dancing _20" 
 # 29-20
 "The voice portugal _10" 
 # 19-15

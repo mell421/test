@@ -688,6 +688,7 @@
 |the voice us _22||25|||<!--  -->
 |les cinquante _1||51|||<!--  -->
 |the voice esp _9||13|||<!--  -->
+|strictly come dancing _20||25|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -904,7 +905,6 @@
 |vampire academy _1|||||0|<!-- 15/9 -->
 |dwts _31|||||0|<!--  -->
 |lego masters _3|||||0|<!-- 22/9 -->
-|strictly come dancing _20|||||0|<!--  -->
 |ai long nhai _1|||||0|<!--  -->
 |la mas draga _5|||||0|<!--  -->
 |the voice portugal _10|||||0|<!--  -->

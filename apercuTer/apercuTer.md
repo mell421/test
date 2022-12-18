@@ -55,6 +55,7 @@
 * the voice kids peru _5
 ### sem 19-12-2022
 * *insererici*
+* Strictly come dancing _20
 * The voice esp _9
 * Les cinquante _1
 * The voice us _22
@@ -70,7 +71,6 @@
 * First love again _1
 * 
 * $ order $
-* 
 * The masked singer _8
 * Big brother us _24
 * Ai long nhai _1
@@ -81,19 +81,15 @@
 * The voice romania _10
 * Little big world with pond phuwin _1
 * Incroyable talent _17
-* 
 * The voice kids malta _1
-* 
 * Reginald the vampire _1
 * The challenge _38
 * Ahs _11
 * The shipper _1
-* 
 * The voice kids cambodia _3
 * Dwts _31
 * La mas draga _5
 * Let the right one in _1
-* Strictly come dancing _20
 * The voice nepal _4
 * Lego masters _3
 * Nailed it _7
@@ -213,6 +209,6 @@
 #### mois 01-12-2022 
 *Star academy _10 Rpscdr _2 The voice ukr _12 The voice poland _13 The mole _1 Lego masters fr _3 Check in do amor _1 The challenge _4 Dals _12 Love in the air _1 Interview with the vampire _1 The masked singer ger _7 The voice ger _12 The voice senior colombia _2*
 #### mois 01-01-2023
-*insererici The voice esp _9 Les cinquante _1 The voice us _22 Drag save the queen _1 The amazing race _34 The voice kids peru _5 The voice bulgarie _9 The masked singer _8*
+*insererici Strictly come dancing _20 The voice esp _9 Les cinquante _1 The voice us _22 Drag save the queen _1 The amazing race _34 The voice kids peru _5 The voice bulgarie _9 The masked singer _8*
 
 [retour](./../index.html)
