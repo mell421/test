@@ -3168,3 +3168,27 @@ Your branch is up to date with 'origin/save'.
  2 files changed, 23 insertions(+)
  
 remove Strictly come dancing _20
+M	00cherche.sh
+M	ZZ/strictlycomedancing_20.txt
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/dragrace.html
+M	liste/dragrace.md
+M	liste/dragrace.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 9c11c9e5] remove Strictly come dancing _20
+ 19 files changed, 24 insertions(+), 43 deletions(-)
+ 
+remove incroyable talent _17

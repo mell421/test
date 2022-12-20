@@ -23,7 +23,7 @@ list99=(
 # 7-6
 "Un dos tres _3" 
 # 5-4
-"Juad juad _1" "The challenge _38" "Incroyable talent _17" "Let the right one in _1" "Vampire academy _1" 
+"Juad juad _1" "The challenge _38" "Let the right one in _1" "Vampire academy _1" 
 # 3-2
 "Nailed it _7" "Ahs _11" 
 # 0-1

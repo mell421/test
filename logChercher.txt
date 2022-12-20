@@ -104,11 +104,6 @@ ligne :  3 ZZ/Thechallenge_38.txt
 mot   :  12 ZZ/Thechallenge_38.txt
 carac :  141 ZZ/Thechallenge_38.txt
 
-i = Incroyable talent _17
-ligne :  3 ZZ/Incroyabletalent_17.txt
-mot   :  12 ZZ/Incroyabletalent_17.txt
-carac :  153 ZZ/Incroyabletalent_17.txt
-
 i = Let the right one in _1
 ligne : 
 mot   : 
