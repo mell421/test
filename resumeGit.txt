@@ -3192,3 +3192,20 @@ Your branch is up to date with 'origin/save'.
  19 files changed, 24 insertions(+), 43 deletions(-)
  
 remove incroyable talent _17
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save d30f9cf8] remove incroyable talent _17
+ 12 files changed, 48 insertions(+), 24 deletions(-)
+ 
+wordcloud
