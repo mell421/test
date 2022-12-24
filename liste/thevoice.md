@@ -122,6 +122,7 @@
 |tvk peru _5||41|||<!--  -->
 |tv us _22||25|||<!--  -->
 |tv esp _9||13|||<!--  -->
+|tv vv _8||20|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -142,7 +143,6 @@
 |the voice kids malta _1|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
 |the voice kids cambodia _3|||||0|<!--  -->
-|the voice vv _8|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
 |the voice portugal _10|||||0|<!--  -->
 |the voice romania _10|||||0|<!--  -->

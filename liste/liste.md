@@ -690,6 +690,7 @@
 |the voice esp _9||13|||<!--  -->
 |strictly come dancing _20||25|||<!--  -->
 |incroyable talent _17||9|||<!--  -->
+|the voice vv _8||20|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -910,7 +911,6 @@
 |la mas draga _5|||||0|<!--  -->
 |the voice portugal _10|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
-|the voice vv _8|||||0|<!--  -->
 |the voice kids cambodia _3|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
 |nailed it _7|||||0|<!--  -->

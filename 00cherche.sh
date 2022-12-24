@@ -10,7 +10,7 @@ list99=(
 "Big brother us _24" 
 # 99-50
 # 49-40
-"The shipper _1" "The voice vv _8" 
+"The shipper _1" 
 # 39-30
 # 29-20
 "The voice portugal _10" 
