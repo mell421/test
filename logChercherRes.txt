@@ -186,7 +186,6 @@ i = The voice nepal _4
 i = The voice nl _12
 i = The voice ph _1
 i = The voice portugal _10
-i = The voice romania _10
 i = Tokyo ghoul _3
 i = Trivia quest _1
 i = Two pints of lager _3

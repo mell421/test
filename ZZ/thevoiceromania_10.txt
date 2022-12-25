@@ -1,6 +1,1 @@
 apercuTer/apercuTer.md:* The voice romania _10
-index.html:            The voice romania _10<br>
-liste/liste.md:|the voice romania _10|||||0|<!--  -->
-liste/thevoice.md:|the voice romania _10|||||0|<!--  -->
-premder/premder.md:The voice romania _10x1
-premder/premder.md:The voice romania _10x4

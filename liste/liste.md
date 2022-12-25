@@ -691,6 +691,7 @@
 |strictly come dancing _20||25|||<!--  -->
 |incroyable talent _17||9|||<!--  -->
 |the voice vv _8||20|||<!--  -->
+|the voice romania _10||16|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -903,7 +904,6 @@
 |skam italia _5||10|||0|<!-- 1/9 -->
 |little big world with pond phuwin _1|||||0|<!--  -->
 |un dos tres _3|||||0|<!--  -->
-|the voice romania _10|||||0|<!--  -->
 |vampire academy _1|||||0|<!-- 15/9 -->
 |dwts _31|||||0|<!--  -->
 |lego masters _3|||||0|<!-- 22/9 -->

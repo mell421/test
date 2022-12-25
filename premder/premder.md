@@ -43,7 +43,6 @@ Ai long nhai _1x2
 The voice portugal _10x2
 The voice greece _9x1
 The voice kids cambodia _3x1
-The voice romania _10x4
 The voice nepal _4x2
 The voice nepal _4x1
 The voice portugal _10x1
@@ -54,7 +53,6 @@ Lego masters _3x1
 Dwts _31x1
 Sky in your heart _1x4
 Vampire academy _1x1
-The voice romania _10x1
 Masterchef fr _6x3
 Un dos tres _3x1
 Little big world with pond phuwin _1x1
