@@ -18,6 +18,7 @@
     - [sem 12-12-2022](#sem-12-12-2022)
     - [sem 19-12-2022](#sem-19-12-2022)
     - [sem 26-12-2022](#sem-26-12-2022)
+    - [sem 02-01-2023](#sem-02-01-2023)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-09-2022](#mois-01-09-2022)
@@ -64,6 +65,9 @@
 * The voice romania _10
 * The voice vv _8
 * Incroyable talent _17
+### sem 02-01-2023
+* *insererici*
+* The voice kids cambodia _3
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -91,7 +95,7 @@
 * The challenge _38
 * Ahs _11
 * The shipper _1
-* The voice kids cambodia _3
+* 
 * Dwts _31
 * La mas draga _5
 * Let the right one in _1
@@ -214,6 +218,6 @@
 #### mois 01-12-2022 
 *Star academy _10 Rpscdr _2 The voice ukr _12 The voice poland _13 The mole _1 Lego masters fr _3 Check in do amor _1 The challenge _4 Dals _12 Love in the air _1 Interview with the vampire _1 The masked singer ger _7 The voice ger _12 The voice senior colombia _2*
 #### mois 01-01-2023
-*insererici The voice romania _10 The voice vv _8 Incroyable talent _17 Strictly come dancing _20 The voice esp _9 Les cinquante _1 The voice us _22 Drag save the queen _1 The amazing race _34 The voice kids peru _5 The voice bulgarie _9 The masked singer _8*
+*insererici The voice kids cambodia _3 The voice romania _10 The voice vv _8 Incroyable talent _17 Strictly come dancing _20 The voice esp _9 Les cinquante _1 The voice us _22 Drag save the queen _1 The amazing race _34 The voice kids peru _5 The voice bulgarie _9 The masked singer _8*
 
 [retour](./../index.html)

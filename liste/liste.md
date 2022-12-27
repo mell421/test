@@ -692,6 +692,7 @@
 |incroyable talent _17||9|||<!--  -->
 |the voice vv _8||20|||<!--  -->
 |the voice romania _10||16|||<!--  -->
+|the voice kids cambodia _3||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -911,7 +912,6 @@
 |la mas draga _5|||||0|<!--  -->
 |the voice portugal _10|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
-|the voice kids cambodia _3|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
 |nailed it _7|||||0|<!--  -->
 |reginald the vampire _1|||||0|<!-- 6/10 -->

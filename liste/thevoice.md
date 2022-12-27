@@ -124,6 +124,7 @@
 |tv esp _9||13|||<!--  -->
 |tv vv _8||20|||<!--  -->
 |tV romania _10||16|||<!--  -->
+|tvk cambodia _3||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -143,7 +144,6 @@
 |the voice nl 12|||||0|<!--  -->
 |the voice kids malta _1|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
-|the voice kids cambodia _3|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
 |the voice portugal _10|||||0|<!--  -->
 ||||||0|<!--  -->

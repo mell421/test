@@ -19,7 +19,7 @@ list99=(
 # 14-10
 "Dwts _31" "Interviex with the vampire _1" "Lego masters _3" 
 # 9-8
-"The voice kids cambodia _3" "The voice kids malta _1" "Reginald the vampire _1" "La mas draga _5" "The voice nepal _4" 
+"The voice kids malta _1" "Reginald the vampire _1" "La mas draga _5" "The voice nepal _4" 
 # 7-6
 "Un dos tres _3" 
 # 5-4

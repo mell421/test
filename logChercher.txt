@@ -54,11 +54,6 @@ ligne :  8 ZZ/Legomasters_3.txt
 mot   :  83 ZZ/Legomasters_3.txt
 carac :  601 ZZ/Legomasters_3.txt
 
-i = The voice kids cambodia _3
-ligne :  5 ZZ/Thevoicekidscambodia_3.txt
-mot   :  29 ZZ/Thevoicekidscambodia_3.txt
-carac :  280 ZZ/Thevoicekidscambodia_3.txt
-
 i = The voice kids malta _1
 ligne :  4 ZZ/Thevoicekidsmalta_1.txt
 mot   :  24 ZZ/Thevoicekidsmalta_1.txt
