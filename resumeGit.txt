@@ -2839,3 +2839,461 @@ Your branch is up to date with 'origin/save'.
  rewrite liste/dragrace.pdf (67%)
  
 remove Star academy _10
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save f6c6e5e5] remove Star academy _10
+ 12 files changed, 52 insertions(+), 27 deletions(-)
+ 
+maj wirdcloud and list
+M	resumeGit.txt
+M	wordcloud/accueil_3.png
+M	wordcloud/affodd_3.png
+M	wordcloud/conclu_3.png
+M	wordcloud/conclubis_3.png
+M	wordcloud/copy_3.png
+M	wordcloud/eff_3.png
+M	wordcloud/encours_3.png
+M	wordcloud/max_3.png
+M	wordcloud/mois_3.png
+M	wordcloud/mygraph.Rmd
+M	wordcloud/mygraph.html
+M	wordcloud/pa_3.png
+M	wordcloud/pageappres_3.png
+M	wordcloud/pageappressup_3.png
+M	wordcloud/pars2_3.png
+M	wordcloud/recent_3.png
+M	wordcloud/rewind22_3.png
+M	wordcloud/sem_3.png
+M	wordcloud/termine_3.png
+M	wordcloud/tmp.html
+M	wordcloud/wordcloud.Rmd
+M	wordcloud/wordcloud.html
+Your branch is up to date with 'origin/save'.
+[save 5703171d] maj wirdcloud and list
+ 23 files changed, 273 insertions(+), 555 deletions(-)
+ rewrite wordcloud/accueil_3.png (98%)
+ rewrite wordcloud/affodd_3.png (99%)
+ rewrite wordcloud/conclu_3.png (99%)
+ rewrite wordcloud/conclubis_3.png (98%)
+ rewrite wordcloud/copy_3.png (98%)
+ rewrite wordcloud/eff_3.png (97%)
+ rewrite wordcloud/encours_3.png (99%)
+ rewrite wordcloud/max_3.png (98%)
+ rewrite wordcloud/mois_3.png (96%)
+ rewrite wordcloud/pa_3.png (99%)
+ rewrite wordcloud/pageappres_3.png (98%)
+ rewrite wordcloud/pageappressup_3.png (98%)
+ rewrite wordcloud/pars2_3.png (98%)
+ rewrite wordcloud/recent_3.png (99%)
+ rewrite wordcloud/rewind22_3.png (98%)
+ rewrite wordcloud/sem_3.png (97%)
+ rewrite wordcloud/termine_3.png (99%)
+ rewrite wordcloud/tmp.html (76%)
+ 
+remove The masked singer _8
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+M	wordcloud/.RData
+M	wordcloud/.Rhistory
+Your branch is ahead of 'origin/save' by 2 commits.
+  (use "git push" to publish your local commits)
+[save 7dadde9b] remove The masked singer _8
+ 17 files changed, 144 insertions(+), 29 deletions(-)
+ rewrite wordcloud/.RData (93%)
+ 
+remove Love in the air special ep
+M	bl/bl.html
+M	bl/bl.md
+M	bl/bl.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 77f31c83] remove Love in the air special ep
+ 7 files changed, 28 insertions(+), 4 deletions(-)
+ 
+remove |the voice bulgarie _9||14|||<!--  -->
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 7154ebab] remove |the voice bulgarie _9||14|||<!--  -->
+ 18 files changed, 36 insertions(+), 35 deletions(-)
+ 
+clean
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.pdf
+M	apercuTer/past/apercuTerPast.html
+M	apercuTer/past/apercuTerPast.md
+M	apercuTer/past/apercuTerPast.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 6a10b2c2] clean
+ 5 files changed, 23 insertions(+), 1504 deletions(-)
+ rewrite apercuTer/past/apercuTerPast.pdf (76%)
+ 
+clean
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	apercuTer/past/apercuTerPast.html
+M	apercuTer/past/apercuTerPast.md
+M	apercuTer/past/apercuTerPast.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 42dd8194] clean
+ 7 files changed, 117 insertions(+), 105 deletions(-)
+ 
+remove The amazing race _34
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save cff369c9] remove The amazing race _34
+ 15 files changed, 28 insertions(+), 26 deletions(-)
+ 
+remove Drag save the queen _1
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	liste/dragrace.html
+M	liste/dragrace.md
+M	liste/dragrace.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save fce2adbf] remove Drag save the queen _1
+ 10 files changed, 30 insertions(+), 8 deletions(-)
+ 
+remove The voice us _22
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 3356d9df] remove The voice us _22
+ 18 files changed, 46 insertions(+), 44 deletions(-)
+ 
+search treatment
+M	ZZ/5515nevertoolate_1.txt
+M	ZZ/9-1-1_5.txt
+M	ZZ/9-1-1lonestar_3.txt
+M	ZZ/aggretsuko_4.txt
+M	ZZ/ahs_11.txt
+M	ZZ/ailongnhai_1.txt
+M	ZZ/bakerboys_1.txt
+M	ZZ/beatshazam_2.txt
+D	ZZ/checkindoamor_1.txt
+M	ZZ/cherryblossomsafterwinter_1.txt
+M	ZZ/colorrush_2.txt
+M	ZZ/cupidslastwish_1.txt
+D	ZZ/dals_12.txt
+M	ZZ/districtz_2.txt
+M	ZZ/dwts_31.txt
+M	ZZ/f4thailand_1.txt
+M	ZZ/lamasdraga_5.txt
+M	ZZ/legomasters_3.txt
+D	ZZ/legomastersfr_3.txt
+M	ZZ/loveatnight_1.txt
+D	ZZ/loveintheair_1.txt
+M	ZZ/lovestage2022_1.txt
+M	ZZ/meetmyangel_2.txt
+D	ZZ/myroommate_1.txt
+M	ZZ/reginaldthevampire_1.txt
+M	ZZ/somethinginmyroom_1.txt
+D	ZZ/staracademy_10.txt
+D	ZZ/theamazingrace_34.txt
+D	ZZ/thechallenge_4.txt
+D	ZZ/themaskedsinger_8.txt
+D	ZZ/themaskedsingerger_7.txt
+D	ZZ/themole_1.txt
+M	ZZ/theplayer_1.txt
+D	ZZ/thevoicebulgarie_9.txt
+D	ZZ/thevoiceger_12.txt
+D	ZZ/thevoicekidsperu_5.txt
+M	ZZ/thevoicenl_12.txt
+M	ZZ/thevoiceph_1.txt
+D	ZZ/thevoicepoland_13.txt
+D	ZZ/thevoiceseniorcolombia_2.txt
+D	ZZ/thevoiceseniorperu_2.txt
+D	ZZ/thevoiceuk_11.txt
+D	ZZ/thevoiceukr_12.txt
+D	ZZ/thevoiceus_22.txt
+M	ZZ/unlocked_1.txt
+M	ZZ/vampireacademy_1.txt
+M	ZZ/youngsheldon_5.txt
+M	js/lastCommit.js
+M	logChercher.txt
+M	logChercherRes.txt
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 7937209a] search treatment
+ 51 files changed, 416 insertions(+), 535 deletions(-)
+ delete mode 100644 ZZ/checkindoamor_1.txt
+ delete mode 100644 ZZ/dals_12.txt
+ delete mode 100644 ZZ/legomastersfr_3.txt
+ delete mode 100644 ZZ/loveintheair_1.txt
+ delete mode 100644 ZZ/myroommate_1.txt
+ delete mode 100644 ZZ/staracademy_10.txt
+ delete mode 100644 ZZ/theamazingrace_34.txt
+ delete mode 100644 ZZ/thechallenge_4.txt
+ delete mode 100644 ZZ/themaskedsinger_8.txt
+ delete mode 100644 ZZ/themaskedsingerger_7.txt
+ delete mode 100644 ZZ/themole_1.txt
+ delete mode 100644 ZZ/thevoicebulgarie_9.txt
+ delete mode 100644 ZZ/thevoiceger_12.txt
+ delete mode 100644 ZZ/thevoicekidsperu_5.txt
+ delete mode 100644 ZZ/thevoicepoland_13.txt
+ delete mode 100644 ZZ/thevoiceseniorcolombia_2.txt
+ delete mode 100644 ZZ/thevoiceseniorperu_2.txt
+ delete mode 100644 ZZ/thevoiceuk_11.txt
+ delete mode 100644 ZZ/thevoiceukr_12.txt
+ delete mode 100644 ZZ/thevoiceus_22.txt
+ 
+remove Les cinquante _1
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 5496d3bb] remove Les cinquante _1
+ 14 files changed, 92 insertions(+), 25 deletions(-)
+ 
+remove The voice esp _9
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 44afc9be] remove The voice esp _9
+ 18 files changed, 43 insertions(+), 35 deletions(-)
+ 
+add 1 pdf
+M	bl/bl.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 8f30cd95] add 1 pdf
+ 2 files changed, 23 insertions(+)
+ 
+remove Strictly come dancing _20
+M	00cherche.sh
+M	ZZ/strictlycomedancing_20.txt
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/dragrace.html
+M	liste/dragrace.md
+M	liste/dragrace.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 9c11c9e5] remove Strictly come dancing _20
+ 19 files changed, 24 insertions(+), 43 deletions(-)
+ 
+remove incroyable talent _17
+M	00cherche.sh
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save d30f9cf8] remove incroyable talent _17
+ 12 files changed, 48 insertions(+), 24 deletions(-)
+ 
+wordcloud
+M	resumeGit.txt
+M	wordcloud/accueil_3.png
+M	wordcloud/affodd_3.png
+M	wordcloud/conclu_3.png
+M	wordcloud/conclubis_3.png
+M	wordcloud/copy_3.png
+M	wordcloud/eff_3.png
+M	wordcloud/encours_3.png
+M	wordcloud/max_3.png
+M	wordcloud/mois_3.png
+M	wordcloud/mygraph.html
+M	wordcloud/pa_3.png
+M	wordcloud/pars2_3.png
+M	wordcloud/recent_3.png
+M	wordcloud/rewind22_3.png
+M	wordcloud/sem_3.png
+M	wordcloud/termine_3.png
+M	wordcloud/tmp.html
+M	wordcloud/wordcloud.html
+Your branch is up to date with 'origin/save'.
+[save ccb28ffa] wordcloud
+ 19 files changed, 123 insertions(+), 240 deletions(-)
+ rewrite wordcloud/accueil_3.png (97%)
+ rewrite wordcloud/affodd_3.png (99%)
+ rewrite wordcloud/conclu_3.png (98%)
+ rewrite wordcloud/conclubis_3.png (98%)
+ rewrite wordcloud/copy_3.png (98%)
+ rewrite wordcloud/eff_3.png (98%)
+ rewrite wordcloud/encours_3.png (98%)
+ rewrite wordcloud/max_3.png (98%)
+ rewrite wordcloud/mois_3.png (96%)
+ rewrite wordcloud/pa_3.png (98%)
+ rewrite wordcloud/pars2_3.png (99%)
+ rewrite wordcloud/recent_3.png (99%)
+ rewrite wordcloud/rewind22_3.png (98%)
+ rewrite wordcloud/sem_3.png (98%)
+ rewrite wordcloud/termine_3.png (98%)
+ rewrite wordcloud/tmp.html (66%)
+ 
+remove The voice vv _8
+M	00cherche.sh
+M	ZZ/thevoicevv_8.txt
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save cd5daf6a] remove The voice vv _8
+ 19 files changed, 64 insertions(+), 42 deletions(-)
+ 
+remove The voice romania _10
+M	00cherche.sh
+M	ZZ/thevoiceromania_10.txt
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	remove.js
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 570accd4] remove The voice romania _10
+ 19 files changed, 49 insertions(+), 41 deletions(-)
+ 
+remove The voice kids cambodia _3

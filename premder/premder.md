@@ -35,44 +35,25 @@ Clik clak clok 1x2
 ### tisaep all
 * ici
 _$-
-The voice us _22x5
 La mas draga _5x2
-The masked singer _8x3
 The shipper _1x7
 Nailed it _7x1
 Lego masters _3x2
-Strictly come dancing _20x4
 Ai long nhai _1x2
 The voice portugal _10x2
 The voice greece _9x1
-The voice vv _8x2
-The voice bulgarie _9x5
-The voice kids cambodia _3x1
-The voice romania _10x4
-The voice esp _9x2
-The voice vv _8x1
-The amazing race _34x2
 The voice nepal _4x2
 The voice nepal _4x1
 The voice portugal _10x1
 La mas draga _5x1
 Dwts _31x2
-The voice esp _9x1
 Ai long nhai _1x1
-Strictly come dancing _20x1
-The masked singer _8x1
-The amazing race _34x1
 Lego masters _3x1
 Dwts _31x1
-The voice us _22x1
-Les cinquante _1x11
 Sky in your heart _1x4
 Vampire academy _1x1
-The voice romania _10x1
 Masterchef fr _6x3
-The voice bulgarie _9x1
 Un dos tres _3x1
-Les cinquante _1x1
 Little big world with pond phuwin _1x1
 Skam italia _5x2
 Skam italia _5x1

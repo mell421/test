@@ -7,27 +7,25 @@
 # nb bis
 list99=( 
 # >= 100
-"Big brother us _24" "Les cinquante _1" 
+"Big brother us _24" 
 # 99-50
-"The voice us _22" 
 # 49-40
-"The shipper _1" "The voice vv _8" 
+"The shipper _1" 
 # 39-30
-"Strictly come dancing _20" "The voice bulgarie _9" 
 # 29-20
 "The voice portugal _10" 
 # 19-15
-"The voice romania _10" "The voice greece _9" "The amazing race _34" "Ai long nhai _1" "The masked singer _8" "Little big world with pond phuwin _1" "Sky in your heart _1" "Masterchef fr _6" 
+"The voice greece _9" "Ai long nhai _1" "Little big world with pond phuwin _1" "Sky in your heart _1" "Masterchef fr _6" 
 # 14-10
-"The voice esp _9" "Dwts _31" "Interviex with the vampire _1" "Lego masters _3" 
+"Dwts _31" "Interviex with the vampire _1" "Lego masters _3" 
 # 9-8
-"The voice kids cambodia _3" "The voice kids malta _1" "Reginald the vampire _1" "La mas draga _5" "The voice nepal _4" 
+"The voice kids malta _1" "Reginald the vampire _1" "La mas draga _5" "The voice nepal _4" 
 # 7-6
 "Un dos tres _3" 
 # 5-4
-"Juad juad _1" "The challenge _38" "Incroyable talent _17" "Let the right one in _1" "Vampire academy _1" 
+"Juad juad _1" "The challenge _38" "Let the right one in _1" "Vampire academy _1" 
 # 3-2
-"Nailed it _7" "The voice kids peru _5" "Ahs _11" 
+"Nailed it _7" "Ahs _11" 
 # 0-1
 # other
 "Dont forget the lyrics _1" "Big brother us _23" "Two pints of lager _3" "His man _1" 

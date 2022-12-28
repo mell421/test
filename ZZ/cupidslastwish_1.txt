@@ -135,3 +135,8 @@ bl/bl.md:|cupids last wish _1|cupids last wish|?|serie|thailande|4|<!--  -->
 liste/liste.md:|cupids last wish _1||10|serie|thailande|0|<!-- 23/2 -->
 premder/premder.md:Cupids last wish _1x1
 premder/premder.md:Cupids last wish _1x4
+tab2022.html:    <td class="conclu">Cupids last wish _1 > 1; </td>
+tab2022.html:    <td class="conclu">Cupids last wish _1 > 3; </td>
+tab2022.html:    <td class="conclubis">Cupids last wish _1 > 3; </td>
+tab2022.html:    <td class="conclubis">Cupids last wish _1 > 5; Forever knight _1 > 1; </td>
+tab2022.html:    <td class="resumesem">Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) </td>

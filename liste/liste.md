@@ -670,7 +670,7 @@
 |the voice ger _12||19|||<!--  -->
 |the masked singer ger _7||6|||<!--  -->
 |interview with the vampire _1||7|||<!-- 2/10 -->
-|love in the air _1||13|||<!-- 18/8 -->
+|love in the air _1||13+1|||<!-- 18/8 -->
 |dals _12||10|||<!--  -->
 |the challenge _4||17|||<!--  -->
 |check in do amor _1||4|||<!--  -->
@@ -680,7 +680,19 @@
 |the voice ukr _12||12|||<!-- 23/1/22 -->
 |rpscdr _2||8|||<!-- 13/8 -->
 |star academy _10||42|||<!--  -->
-||||||<!--  -->
+|the masked singer _8||11|||<!-- 22/9 -->
+|the voice bulgarie _9||14|||<!--  -->
+|the voice kids peru _5||41|||<!--  -->
+|the amazing race _34||12|||<!-- 22/9 -->
+|Drag save the queen _1||4|||<!--  -->
+|the voice us _22||25|||<!--  -->
+|les cinquante _1||51|||<!--  -->
+|the voice esp _9||13|||<!--  -->
+|strictly come dancing _20||25|||<!--  -->
+|incroyable talent _17||9|||<!--  -->
+|the voice vv _8||20|||<!--  -->
+|the voice romania _10||16|||<!--  -->
+|the voice kids cambodia _3||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -892,33 +904,21 @@
 |my only _12pc _1|||||0|<!-- 12/8 -->
 |skam italia _5||10|||0|<!-- 1/9 -->
 |little big world with pond phuwin _1|||||0|<!--  -->
-|les cinquante _1|||||0|<!--  -->
 |un dos tres _3|||||0|<!--  -->
-|the voice bulgarie _9|||||0|<!--  -->
-|the voice romania _10|||||0|<!--  -->
 |vampire academy _1|||||0|<!-- 15/9 -->
-|the voice us _22|||||0|<!-- 20/9 -->
 |dwts _31|||||0|<!--  -->
 |lego masters _3|||||0|<!-- 22/9 -->
-|the amazing race _34|||||0|<!-- 22/9 -->
-|the masked singer _8|||||0|<!-- 22/9 -->
-|strictly come dancing _20|||||0|<!--  -->
 |ai long nhai _1|||||0|<!--  -->
-|the voice esp _9|||||0|<!--  -->
 |la mas draga _5|||||0|<!--  -->
 |the voice portugal _10|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
-|the voice vv _8|||||0|<!--  -->
-|the voice kids cambodia _3|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
 |nailed it _7|||||0|<!--  -->
 |reginald the vampire _1|||||0|<!-- 6/10 -->
 |the voice kids malta _1|||||0|<!--  -->
 |let the right one in _1|||||0|<!--  -->
 |the challenge _38|||||0|<!--  -->
-|incroyable talent _17|||||0|<!--  -->
 |ahs _11|||||0|<!-- 18/10 -->
-|the voice kids peru _5|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

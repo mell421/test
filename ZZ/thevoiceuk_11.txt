@@ -1,6 +1,0 @@
-apercuTer/apercuTer.md:* The voice uk _11
-index.html:            The voice uk _11<br>
-liste/liste.md:|the voice uk _11|||||0|<!--  -->
-liste/thevoice.md:|the voice uk _11|||||0|<!--  -->
-premder/premder.md:The voice uk _11x1
-premder/premder.md:The voice uk _11x5

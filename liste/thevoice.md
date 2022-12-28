@@ -118,6 +118,13 @@
 |tv ger _12||19|||<!--  -->
 |tv poland _13||26|||<!--  -->
 |tv ukr _12||12|||<!--  -->
+|tv bulgarie _9||14|||<!--  -->
+|tvk peru _5||41|||<!--  -->
+|tv us _22||25|||<!--  -->
+|tv esp _9||13|||<!--  -->
+|tv vv _8||20|||<!--  -->
+|tV romania _10||16|||<!--  -->
+|tvk cambodia _3||13|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -135,17 +142,10 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the voice nl 12|||||0|<!--  -->
-|the voice kids peru _5|||||0|<!--  -->
 |the voice kids malta _1|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
-|the voice kids cambodia _3|||||0|<!--  -->
-|the voice vv _8|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
 |the voice portugal _10|||||0|<!--  -->
-|the voice esp _9|||||0|<!--  -->
-|the voice us _22|||||0|<!--  -->
-|the voice romania _10|||||0|<!--  -->
-|the voice bulgarie _9|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

@@ -7,14 +7,10 @@ output:
 ---
 
 ```{r setup, include = FALSE}
-# INSTALL
-# knitr::opts_chunk$set(cache = TRUE)
-
 # LOAD
 suppressWarnings(source("./R/sources.R"))
 # variables globales
 begin_time<-Sys.time()
-
 # FCTS
 
 ```
@@ -26,7 +22,7 @@ begin_time<-Sys.time()
 |                             |                               |                             |
 |-----------------------------|-------------------------------|-----------------------------|
 | [allListe](./allListe.html) | [wordcloud](./wordcloud.html) | [graph](./mygraph.html)     |
-| [sumup](./sumup.html)       | [summary](./summary.html)     | [sumUpAll](./sumUpAll.html) |
+
 
 ------------------------------------------------------------------------
 
@@ -132,47 +128,6 @@ barplot(table(df$sem4),
         ylim=c(0,max(table(df$sem4))*1.1)
         )
 box()
-
-print("calEc")
-
-df2 <- data.frame(aCalEc())
-
-barplot(table(df2$sem1),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="ep per week (recent)",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df2$sem1))*1.1)
-        )
-box()
-
-barplot(table(df2$sem2),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="ep per week (recent) fin",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df2$sem2))*1.1)
-        )
-box()
-
-barplot(table(df2$sem3),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="ep per week (recent) debut",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df2$sem3))*1.1)
-        )
-box()
-
-barplot(table(df2$pays),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="ep per week (recent) pays",
-        ylab = "nb pays",
-        ylim=c(0,max(table(df2$pays))*1.1)
-        )
-box()
-
 # max(table(df$sem1))*1.1
 ```
 
@@ -216,45 +171,6 @@ barplot(table(df$sem4),
         ylim=c(0,max(table(df$sem4))*1.1)
         )
 box()
-
-df2 <- data.frame(aCalEc())
-
-barplot(table(df2$sem1),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="ep per week (recent)",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df2$sem1))*1.1)
-        )
-box()
-
-barplot(table(df2$sem2),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="ep per week (recent) fin",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df2$sem2))*1.1)
-        )
-box()
-
-barplot(table(df2$sem3),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="ep per week (recent) debut",
-        ylab = "nb ep",
-        ylim=c(0,max(table(df2$sem3))*1.1)
-        )
-box()
-
-barplot(table(df2$pays),
-        las = 2,
-        col =brewer.pal(8, "Dark2"), 
-        main ="ep per week (recent) pays",
-        ylab = "nb pays",
-        ylim=c(0,max(table(df2$pays))*1.1)
-        )
-box()
-
 # max(table(df$sem1))*1.1
 ```
 
@@ -297,101 +213,6 @@ plot(prest.lm1, 3)
 # ncvTest(prest.lm1)
 plot(prest.lm1,1)
 # influenceIndexPlot(prest.lm1)
-```
-
-```{r regress1, echo = FALSE, include=FALSE}
-### regression1 nbCarConclu~nbCarConcluBis
-# install.packages("car")
-Prestige <- copy.conclu()
-    Prestige <- as_tibble(Prestige)
-
-    # as.tibble(Prestige)
-     layout(matrix(1:4,2,2))
-    # 1
-scatterplot(nbCarConclu~nbCarConcluBis
-, data=Prestige)
-# 2
-# scatterplot(nc~ncb, data=Prestige)
-# 3
-# scatterplot(nbCarConclu~nc, data=Prestige)
-# 4
-# scatterplot(nbCarConcluBis~ncb, data=Prestige)
-
-prest.lm1 <- lm(nbCarConclu~nbCarConcluBis, data=Prestige)
-acf(residuals(prest.lm1), main="prest.lm1")
-# durbinWatsonTest (prest.lm1)
-plot(prest.lm1,2)
-# shapiro.test(residuals(prest.lm1))
-plot(prest.lm1, 3)
-# ncvTest(prest.lm1)
-plot(prest.lm1,1)
-# influenceIndexPlot(prest.lm1)
-```
-
-```{r regress2, echo = FALSE, include=FALSE}
-### regression2 nc~ncb
-# install.packages("car")
-Prestige <- copy.conclu()
-    Prestige <- as_tibble(Prestige)
-
-    # as.tibble(Prestige)
-    layout(matrix(1:4,2,2))
-# 2
-scatterplot(nc~ncb
-, data=Prestige)
-
-prest.lm1 <- lm(nc~ncb, data=Prestige)
-acf(residuals(prest.lm1), main="prest.lm1")
-# durbinWatsonTest (prest.lm1)
-plot(prest.lm1,2)
-# shapiro.test(residuals(prest.lm1))
-plot(prest.lm1, 3)
-# ncvTest(prest.lm1)
-plot(prest.lm1,1)
-```
-
-```{r regress3, echo = FALSE, include=FALSE}
-### regression3 nbCarConclu~nc
-# install.packages("car")
-Prestige <- copy.conclu()
-    Prestige <- as_tibble(Prestige)
-
-    # as.tibble(Prestige)
-    layout(matrix(1:4,2,2))
-# 3
-scatterplot(nbCarConclu~nc
-, data=Prestige)
-
-prest.lm1 <- lm(nbCarConclu~nc, data=Prestige)
-acf(residuals(prest.lm1), main="prest.lm1")
-# durbinWatsonTest (prest.lm1)
-plot(prest.lm1,2)
-# shapiro.test(residuals(prest.lm1))
-plot(prest.lm1, 3)
-# ncvTest(prest.lm1)
-plot(prest.lm1,1)
-```
-
-```{r regress4, echo = FALSE, include=FALSE}
-### regression4 nbCarConcluBis~ncb
-# install.packages("car")
-Prestige <- copy.conclu()
-    Prestige <- as_tibble(Prestige)
-
-    # as.tibble(Prestige)
-  layout(matrix(1:4,2,2))
-# 4
-scatterplot(nbCarConcluBis~ncb
-, data=Prestige)
-
-prest.lm1 <- lm(nbCarConcluBis~ncb, data=Prestige)
-acf(residuals(prest.lm1), main="prest.lm1")
-# durbinWatsonTest (prest.lm1)
-plot(prest.lm1,2)
-# shapiro.test(residuals(prest.lm1))
-plot(prest.lm1, 3)
-# ncvTest(prest.lm1)
-plot(prest.lm1,1)
 ```
 
 ------------------------------------------------------------------------

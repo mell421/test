@@ -1,3 +1,2 @@
 apercuTer/apercuTer.md:* Reginald the vampire _1
-index.html:            Reginald the vampire _1<br>
 liste/liste.md:|reginald the vampire _1|||||0|<!-- 6/10 -->
