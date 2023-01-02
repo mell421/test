@@ -3321,3 +3321,49 @@ Your branch is up to date with 'origin/save'.
  19 files changed, 57 insertions(+), 38 deletions(-)
  
 remove The voice kids uk _6
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 657f7bef] remove The voice kids uk _6
+ 10 files changed, 39 insertions(+), 5 deletions(-)
+ 
+wordclouds
+ 
+wordclouds
+ 
+wordcloud
+M	resumeGit.txt
+M	wordcloud/R/page.R
+M	wordcloud/accueil_3.png
+M	wordcloud/affodd_3.png
+M	wordcloud/conclu_3.png
+M	wordcloud/conclubis_3.png
+M	wordcloud/copy_3.png
+M	wordcloud/eff_3.png
+M	wordcloud/encours_3.png
+M	wordcloud/max_3.png
+M	wordcloud/mois_3.png
+M	wordcloud/pa_3.png
+M	wordcloud/pars2_3.png
+M	wordcloud/recent_3.png
+M	wordcloud/rewind22_3.png
+M	wordcloud/sem_3.png
+M	wordcloud/termine_3.png
+M	wordcloud/tmp.html
+M	wordcloud/wordcloud.Rmd
+M	wordcloud/wordcloud.html
+Your branch is up to date with 'origin/save'.
+ 
+add wordcloud
+ 
+add wordcloud
+ 
+add wordcloud
