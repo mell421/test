@@ -180,7 +180,6 @@ i = The shipper _1
 i = The tuxedo _1
 i = The voice greece _9
 i = The voice kids indonesia _4
-i = The voice kids malta _1
 i = The voice nepal _4
 i = The voice nl _12
 i = The voice ph _1

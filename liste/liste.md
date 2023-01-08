@@ -694,6 +694,7 @@
 |the voice romania _10||16|||<!--  -->
 |the voice kids cambodia _3||13|||<!--  -->
 |The voice kids uk _6||3|||<!--  -->
+|the voice kids malta _1||10|||<!--  -->
 ||||||<!--  -->
 
 
@@ -915,7 +916,6 @@
 |the voice greece _9|||||0|<!--  -->
 |nailed it _7|||||0|<!--  -->
 |reginald the vampire _1|||||0|<!-- 6/10 -->
-|the voice kids malta _1|||||0|<!--  -->
 |let the right one in _1|||||0|<!--  -->
 |the challenge _38|||||0|<!--  -->
 |ahs _11|||||0|<!-- 18/10 -->

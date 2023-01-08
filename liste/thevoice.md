@@ -126,6 +126,7 @@
 |tV romania _10||16|||<!--  -->
 |tvk cambodia _3||13|||<!--  -->
 |tvk uk _6||3|||<!--  -->
+|tvk malta _1||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -143,7 +144,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the voice nl 12|||||0|<!--  -->
-|the voice kids malta _1|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
 |the voice portugal _10|||||0|<!--  -->
