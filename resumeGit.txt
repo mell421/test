@@ -3431,3 +3431,190 @@ Your branch is up to date with 'origin/save'.
  2 files changed, 8 insertions(+), 1 deletion(-)
  
 remove tvk malta _1
+M	00cherche.sh
+D	ZZ/5515nevertoolate_1.txt
+D	ZZ/7project_1.txt
+D	ZZ/9-1-1_5.txt
+D	ZZ/9-1-1lonestar_3.txt
+D	ZZ/aggretsuko_4.txt
+D	ZZ/agt_17.txt
+D	ZZ/ahs_11.txt
+D	ZZ/aliceinborderland_1.txt
+D	ZZ/aokivuanpaianonayami_1.txt
+D	ZZ/bakerboys_1.txt
+D	ZZ/bananafish_1.txt
+D	ZZ/beatshazam_2.txt
+D	ZZ/bigbrotherus_23.txt
+D	ZZ/blueming_1.txt
+D	ZZ/buffy_1.txt
+D	ZZ/bulgasal_1.txt
+D	ZZ/bullshitthegameshow_1.txt
+D	ZZ/callmemother_1.txt
+D	ZZ/campingparadis_13.txt
+D	ZZ/cherryblossomsafterwinter_1.txt
+D	ZZ/clikclakclok_1.txt
+D	ZZ/closefriend_2.txt
+D	ZZ/colorrush_2.txt
+D	ZZ/cupidslastwish_1.txt
+D	ZZ/dancingwithmyself_1.txt
+D	ZZ/districtz_2.txt
+D	ZZ/dontforgetthelyrics_1.txt
+D	ZZ/dragiloveyou_1.txt
+D	ZZ/dragraceph_1.txt
+D	ZZ/druck_8.txt
+D	ZZ/f4thailand_1.txt
+D	ZZ/gameoftalentsfr_2.txt
+D	ZZ/goblin_1.txt
+D	ZZ/godshavethequeens_2.txt
+D	ZZ/grimm_1.txt
+D	ZZ/hisman_1.txt
+D	ZZ/incroyabletalent_17.txt
+D	ZZ/insiders_1.txt
+D	ZZ/juadjuad_1.txt
+D	ZZ/lescinquante_1.txt
+D	ZZ/lesengages_3.txt
+D	ZZ/lovearea_1.txt
+D	ZZ/loveatnight_1.txt
+D	ZZ/lovemechanics_1.txt
+D	ZZ/lovestage2022_1.txt
+D	ZZ/lucifer_4.txt
+D	ZZ/mamagogo_1.txt
+D	ZZ/meetmyangel_2.txt
+D	ZZ/mysweetdear_1.txt
+D	ZZ/nailedit_7.txt
+D	ZZ/postmortem_1.txt
+D	ZZ/quaranthings_2.txt
+D	ZZ/roseindahouse_1.txt
+D	ZZ/rpdras_7.txt
+D	ZZ/rpdrasu_7.txt
+D	ZZ/rpdrdu_2.txt
+D	ZZ/secondchanceseries_1.txt
+D	ZZ/skamitalia_5.txt
+D	ZZ/somethinginmyroom_1.txt
+D	ZZ/strictlycomedancing_20.txt
+D	ZZ/survivor_31.txt
+D	ZZ/tbbt_11.txt
+D	ZZ/thebigleap_1.txt
+D	ZZ/thechallenge_38.txt
+D	ZZ/thecircleus_4.txt
+D	ZZ/theplayer_1.txt
+D	ZZ/thetuxedo_1.txt
+D	ZZ/thevoiceesp_9.txt
+D	ZZ/thevoicekidscambodia_3.txt
+D	ZZ/thevoicekidsindonesia_4.txt
+D	ZZ/thevoicekidsmalta_1.txt
+D	ZZ/thevoicenl_12.txt
+D	ZZ/thevoiceph_1.txt
+D	ZZ/thevoiceromania_10.txt
+D	ZZ/thevoicevv_8.txt
+D	ZZ/tokyoghoul_3.txt
+D	ZZ/triviaquest_1.txt
+D	ZZ/twopintsoflager_3.txt
+D	ZZ/unforgottennight_1.txt
+D	ZZ/unlocked_1.txt
+D	ZZ/vampireacademy_1.txt
+D	ZZ/wanttoseeyou_1.txt
+D	ZZ/youngsheldon_5.txt
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	js/lastCommit.js
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save daef84e6] remove tvk malta _1
+ 98 files changed, 115 insertions(+), 3126 deletions(-)
+ delete mode 100644 ZZ/5515nevertoolate_1.txt
+ delete mode 100644 ZZ/7project_1.txt
+ delete mode 100644 ZZ/9-1-1_5.txt
+ delete mode 100644 ZZ/9-1-1lonestar_3.txt
+ delete mode 100644 ZZ/aggretsuko_4.txt
+ delete mode 100644 ZZ/agt_17.txt
+ delete mode 100644 ZZ/ahs_11.txt
+ delete mode 100644 ZZ/aliceinborderland_1.txt
+ delete mode 100644 ZZ/aokivuanpaianonayami_1.txt
+ delete mode 100644 ZZ/bakerboys_1.txt
+ delete mode 100644 ZZ/bananafish_1.txt
+ delete mode 100644 ZZ/beatshazam_2.txt
+ delete mode 100644 ZZ/bigbrotherus_23.txt
+ delete mode 100644 ZZ/blueming_1.txt
+ delete mode 100644 ZZ/buffy_1.txt
+ delete mode 100644 ZZ/bulgasal_1.txt
+ delete mode 100644 ZZ/bullshitthegameshow_1.txt
+ delete mode 100644 ZZ/callmemother_1.txt
+ delete mode 100644 ZZ/campingparadis_13.txt
+ delete mode 100644 ZZ/cherryblossomsafterwinter_1.txt
+ delete mode 100644 ZZ/clikclakclok_1.txt
+ delete mode 100644 ZZ/closefriend_2.txt
+ delete mode 100644 ZZ/colorrush_2.txt
+ delete mode 100644 ZZ/cupidslastwish_1.txt
+ delete mode 100644 ZZ/dancingwithmyself_1.txt
+ delete mode 100644 ZZ/districtz_2.txt
+ delete mode 100644 ZZ/dontforgetthelyrics_1.txt
+ delete mode 100644 ZZ/dragiloveyou_1.txt
+ delete mode 100644 ZZ/dragraceph_1.txt
+ delete mode 100644 ZZ/druck_8.txt
+ delete mode 100644 ZZ/f4thailand_1.txt
+ delete mode 100644 ZZ/gameoftalentsfr_2.txt
+ delete mode 100644 ZZ/goblin_1.txt
+ delete mode 100644 ZZ/godshavethequeens_2.txt
+ delete mode 100644 ZZ/grimm_1.txt
+ delete mode 100644 ZZ/hisman_1.txt
+ delete mode 100644 ZZ/incroyabletalent_17.txt
+ delete mode 100644 ZZ/insiders_1.txt
+ delete mode 100644 ZZ/juadjuad_1.txt
+ delete mode 100644 ZZ/lescinquante_1.txt
+ delete mode 100644 ZZ/lesengages_3.txt
+ delete mode 100644 ZZ/lovearea_1.txt
+ delete mode 100644 ZZ/loveatnight_1.txt
+ delete mode 100644 ZZ/lovemechanics_1.txt
+ delete mode 100644 ZZ/lovestage2022_1.txt
+ delete mode 100644 ZZ/lucifer_4.txt
+ delete mode 100644 ZZ/mamagogo_1.txt
+ delete mode 100644 ZZ/meetmyangel_2.txt
+ delete mode 100644 ZZ/mysweetdear_1.txt
+ delete mode 100644 ZZ/nailedit_7.txt
+ delete mode 100644 ZZ/postmortem_1.txt
+ delete mode 100644 ZZ/quaranthings_2.txt
+ delete mode 100644 ZZ/roseindahouse_1.txt
+ delete mode 100644 ZZ/rpdras_7.txt
+ delete mode 100644 ZZ/rpdrasu_7.txt
+ delete mode 100644 ZZ/rpdrdu_2.txt
+ delete mode 100644 ZZ/secondchanceseries_1.txt
+ delete mode 100644 ZZ/skamitalia_5.txt
+ delete mode 100644 ZZ/somethinginmyroom_1.txt
+ delete mode 100644 ZZ/strictlycomedancing_20.txt
+ delete mode 100644 ZZ/survivor_31.txt
+ delete mode 100644 ZZ/tbbt_11.txt
+ delete mode 100644 ZZ/thebigleap_1.txt
+ delete mode 100644 ZZ/thechallenge_38.txt
+ delete mode 100644 ZZ/thecircleus_4.txt
+ delete mode 100644 ZZ/theplayer_1.txt
+ delete mode 100644 ZZ/thetuxedo_1.txt
+ delete mode 100644 ZZ/thevoiceesp_9.txt
+ delete mode 100644 ZZ/thevoicekidscambodia_3.txt
+ delete mode 100644 ZZ/thevoicekidsindonesia_4.txt
+ delete mode 100644 ZZ/thevoicekidsmalta_1.txt
+ delete mode 100644 ZZ/thevoicenl_12.txt
+ delete mode 100644 ZZ/thevoiceph_1.txt
+ delete mode 100644 ZZ/thevoiceromania_10.txt
+ delete mode 100644 ZZ/thevoicevv_8.txt
+ delete mode 100644 ZZ/tokyoghoul_3.txt
+ delete mode 100644 ZZ/triviaquest_1.txt
+ delete mode 100644 ZZ/twopintsoflager_3.txt
+ delete mode 100644 ZZ/unforgottennight_1.txt
+ delete mode 100644 ZZ/unlocked_1.txt
+ delete mode 100644 ZZ/vampireacademy_1.txt
+ delete mode 100644 ZZ/wanttoseeyou_1.txt
+ delete mode 100644 ZZ/youngsheldon_5.txt
+ rewrite logChercher.txt (84%)
+ 
+remove tvk malta _1 bis

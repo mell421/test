@@ -1,0 +1,11 @@
+aEff/aeff.md:- 20/11/21 - 236* les engages _3{0} 
+aEff/aeff.md:- 21/11/21 - 331* les engages _3{0} 
+aEff/aeff.md:- 22/11/21 - 328* les engages _3{0} 
+aEff/aeff.md:- 23/11/21 - 327* les engages _3{1} 
+apercu/apercu21.md:- mois 01-12-2021 -> Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
+apercu/apercu21.md:- sem 22-11-2021 -> Les engages _3x2(1) The case study of vanitas _1x3(2) 
+apercu/apercuglobal.md:- mois 01-12-2021 -> Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
+apercu/apercuglobal.md:- sem 22-11-2021 -> Les engages _3x2(1) The case study of vanitas _1x3(2) 
+premder/premder.md:Les engages _3x1
+tab2021.html:    <td class="resumemois">Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) </td>
+tab2021.html:    <td class="resumesem">Les engages _3x2(1) The case study of vanitas _1x3(2) </td>

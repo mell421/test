@@ -1,0 +1,54 @@
+aEff/aeff.md:- 01/02/22 - 143* /9-1-1 lone star _3{2} f4 thailand _1{14} 
+aEff/aeff.md:- 02/02/22 - 97* /9-1-1 lone star _3{5} 
+aEff/aeff.md:- 03/02/22 - 104* /9-1-1 lone star _3{6} 
+aEff/aeff.md:- 04/01/22 - 173* /9-1-1 lone star _3{0} young sheldon _5{9} 
+aEff/aeff.md:- 04/02/22 - 101* love stage 2022 _1{0} /9-1-1 lone star _3{7} 
+aEff/aeff.md:- 05/01/22 - 159*  /9-1-1 lone star _3{0} young sheldon _5{10} 
+aEff/aeff.md:- 06/01/22 - 156* /9-1-1 lone star _3{0} young sheldon _5{10} 
+aEff/aeff.md:- 07/01/22 - 141* /9-1-1 lone star _3{0} young sheldon _5{11} 
+aEff/aeff.md:- 09/02/22 - 142* /9-1-1 lone star _3{9} meet my angel _2{7} something in my room _1{8} 
+aEff/aeff.md:- 10/02/22 - 147* love stage 2022 _1{1} /9-1-1 lone star _3{9} meet my angel _2{8} 
+aEff/aeff.md:- 10/06/22 - 255* /9-1-1 lone star _3{11} /9-1-1 _5{9} Le flambeau _1{4} Dont forget the lyrics _1{7} 
+aEff/aeff.md:- 11/01/22 - 318* /9-1-1 lone star _3{1} f4 thailand _1{6} 
+aEff/aeff.md:- 11/02/22 - 156* love stage 2022 _1{3} /9-1-1 lone star _3{9} 
+aEff/aeff.md:- 11/06/22 - 237* /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{6} Dont forget the lyrics _1{7} 
+aEff/aeff.md:- 12/01/22 - 196* /9-1-1 lone star _3{1} f4 thailand _1{6} 
+aEff/aeff.md:- 12/06/22 - 248* /9-1-1 lone star _3{11} /9-1-1 _5{10} Le flambeau _1{8} Dont forget the lyrics _1{7} 
+aEff/aeff.md:- 13/01/22 - 167* /9-1-1 lone star _3{1} 
+aEff/aeff.md:- 13/06/22 - 167* Dancing with myself _1{0} Mama gogo _1{0} /9-1-1 lone star _3{11} /9-1-1 _5{11} Le flambeau _1{10} 
+aEff/aeff.md:- 14/01/22 - 174* /9-1-1 lone star _3{1} 
+aEff/aeff.md:14/06/22 - 260* Dancing with myself _1{1} Mama gogo _1{1} /9-1-1 lone star _3{12} 
+aEff/aeff.md:17/07/22 (eff) - Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{9} 
+aEff/aeff.md:18/07/22 (eff) - Dont forget the lyrics _1{18} Le flambeau _1{16} /9-1-1 _5{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} Big brother us _23{11} 
+aEff/aeff.md:19/07/22 (eff) - Dont forget the lyrics _1{18} /9-1-1 _5{15} Big brother us _23{14} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} 
+aEff/aeff.md:20/07/22 (eff) - Dont forget the lyrics _1{18} Big brother us _23{15} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} 
+aEff/aeff.md:21/07/22 (eff) - Dont forget the lyrics _1{18} Big brother us _23{16} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} 
+aEff/aeff.md:23/07/22 (eff) - Big brother us _23{18} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} /9-1-1 lone star _3{13} 
+apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+apercu/apercu22.md:- mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercu22.md:- mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+apercu/apercu22.md:- sem 07-02-2022 -> Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
+apercu/apercu22.md:- sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) 
+apercu/apercu22.md:- sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Dont forget the lyrics _1x4(1) 
+apercu/apercu22.md:- sem 14-02-2022 -> All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
+apercu/apercu22.md:- sem 17-01-2022 -> The voice nl _12x3(1) /9-1-1 lone star _3x3(1) 
+apercu/apercu22.md:* conclu 01/02/22 = The voice ph _1 > 3; /9-1-1 lone star _3 > 2; 
+apercu/apercu22.md:* concluBis 01/02/22 = /9-1-1 lone star _3 > 5; The voice ph _1 > 5; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; 
+apercu/apercu22.md:* concluBis 02/02/22 = /9-1-1 lone star _3 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercu22.md:* concluBis 03/02/22 = Forever knight _1 > 2; /9-1-1 lone star _3 > 1; Imortal _1 > 1; 
+apercu/apercu22.md:* concluBis 04/02/22 = /9-1-1 lone star _3 > 1; Forever knight _1 > 1; 
+apercu/apercuglobal.md:- sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) 
+apercuTer/apercuTer.md:* /9-1-1 lone star _3
+liste/liste.md:|/9-1-1 lone star _3||18|||0|<!-- 3/1/22 -->
+premder/premder.md:/9-1-1 lone star _3x1
+premder/premder.md:/9-1-1 lone star _3x6
+tab2022.html:    <td class="conclu">The voice ph _1 > 3; /9-1-1 lone star _3 > 2; </td>
+tab2022.html:    <td class="conclubis">/9-1-1 lone star _3 > 1; Forever knight _1 > 1; </td>
+tab2022.html:    <td class="conclubis">/9-1-1 lone star _3 > 2; Forever knight _1 > 2; Imortal _1 > 1; </td>
+tab2022.html:    <td class="conclubis">/9-1-1 lone star _3 > 5; The voice ph _1 > 5; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; </td>
+tab2022.html:    <td class="conclubis">Forever knight _1 > 2; /9-1-1 lone star _3 > 1; Imortal _1 > 1; </td>
+tab2022.html:    <td class="resumemois">/9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) </td>
+tab2022.html:    <td class="resumesem">All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) </td>
+tab2022.html:    <td class="resumesem">Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) </td>
+tab2022.html:    <td class="resumesem">sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) </td>
+tab2022.html:    <td class="resumesem">The voice nl _12x3(1) /9-1-1 lone star _3x3(1) </td>
