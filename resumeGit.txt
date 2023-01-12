@@ -3708,3 +3708,15 @@ Your branch is up to date with 'origin/save'.
  2 files changed, 83 insertions(+), 1 deletion(-)
  
 remove Annee zero _1
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 0c0ebf7b] remove Annee zero _1
+ 7 files changed, 43 insertions(+), 3 deletions(-)
+ 
+maj forms
