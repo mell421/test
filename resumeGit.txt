@@ -3728,3 +3728,25 @@ Your branch is behind 'origin/save' by 2 commits, and can be fast-forwarded.
  2 files changed, 13 insertions(+), 1 deletion(-)
  
 remove The voice generations peru _1
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	apercuTer/past/apercuTerPast.html
+M	apercuTer/past/apercuTerPast.md
+M	apercuTer/past/apercuTerPast.pdf
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	resumeGit.txt
+Your branch and 'origin/save' have diverged,
+and have 1 and 2 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+[save 6bb729e4] remove The voice generations peru _1
+ 13 files changed, 176 insertions(+), 125 deletions(-)
+ rewrite apercuTer/apercuTer.pdf (75%)
+ 
+rebase
+form.html: needs merge
