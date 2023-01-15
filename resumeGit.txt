@@ -3720,3 +3720,11 @@ Your branch is up to date with 'origin/save'.
  7 files changed, 43 insertions(+), 3 deletions(-)
  
 maj forms
+M	form.html
+M	resumeGit.txt
+Your branch is behind 'origin/save' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+[save d3449a0b] maj forms
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+ 
+remove The voice generations peru _1
