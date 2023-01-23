@@ -698,6 +698,7 @@
 |Annee zero _1||4|||<!--  -->
 |The voice generations peru _1||29|||<!--  -->
 |Vortex _1||6|||<!--  -->
+|the voice portugal _10||18|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -916,7 +917,6 @@
 |lego masters _3|||||0|<!-- 22/9 -->
 |ai long nhai _1|||||0|<!--  -->
 |la mas draga _5|||||0|<!--  -->
-|the voice portugal _10|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
 |the voice greece _9|||||0|<!--  -->
 |nailed it _7|||||0|<!--  -->

@@ -12,8 +12,7 @@ list99=(
 # 49-40
 "The shipper _1" 
 # 39-30
-# 29-20
-"The voice portugal _10" 
+# 29-20 
 # 19-15
 "The voice greece _9" "Ai long nhai _1" "Little big world with pond phuwin _1" "Sky in your heart _1" "Masterchef fr _6" 
 # 14-10

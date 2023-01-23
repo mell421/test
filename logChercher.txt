@@ -9,11 +9,6 @@ ligne :  35 ZZ/Theshipper_1.txt
 mot   :  491 ZZ/Theshipper_1.txt
 carac :  3740 ZZ/Theshipper_1.txt
 
-i = The voice portugal _10
-ligne :  6 ZZ/Thevoiceportugal_10.txt
-mot   :  28 ZZ/Thevoiceportugal_10.txt
-carac :  305 ZZ/Thevoiceportugal_10.txt
-
 i = The voice greece _9
 ligne :  5 ZZ/Thevoicegreece_9.txt
 mot   :  24 ZZ/Thevoicegreece_9.txt

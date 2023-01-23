@@ -40,11 +40,9 @@ The shipper _1x7
 Nailed it _7x1
 Lego masters _3x2
 Ai long nhai _1x2
-The voice portugal _10x2
 The voice greece _9x1
 The voice nepal _4x2
 The voice nepal _4x1
-The voice portugal _10x1
 La mas draga _5x1
 Dwts _31x2
 Ai long nhai _1x1
