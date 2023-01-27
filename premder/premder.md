@@ -52,7 +52,6 @@ Sky in your heart _1x4
 Vampire academy _1x1
 Masterchef fr _6x3
 Un dos tres _3x1
-Little big world with pond phuwin _1x1
 Skam italia _5x2
 Skam italia _5x1
 Le flambeau _1x5

@@ -19,7 +19,6 @@ ligne :  5 ZZ/Ailongnhai_1.txt
 mot   :  23 ZZ/Ailongnhai_1.txt
 carac :  209 ZZ/Ailongnhai_1.txt
 
-i = Little big world with pond phuwin _1
 ligne : 
 mot   : 
 carac : 
