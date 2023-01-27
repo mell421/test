@@ -3759,3 +3759,24 @@ Your branch is up to date with 'origin/save'.
  2 files changed, 2 insertions(+), 1 deletion(-)
  
 remove the voice portugal _10
+M	00cherche.sh
+M	ZZ/thevoiceportugal_10.txt
+M	apercuTer/apercuTer.html
+M	apercuTer/apercuTer.md
+M	apercuTer/apercuTer.pdf
+M	index.html
+M	liste/liste.html
+M	liste/liste.md
+M	liste/liste.pdf
+M	liste/thevoice.html
+M	liste/thevoice.md
+M	liste/thevoice.pdf
+M	logChercher.txt
+M	logChercherRes.txt
+M	premder/premder.html
+M	premder/premder.md
+M	premder/premder.pdf
+M	resumeGit.txt
+Your branch is up to date with 'origin/save'.
+[save 04676696] remove the voice portugal _10
+ 18 files changed, 25 insertions(+), 41 deletions(-)
