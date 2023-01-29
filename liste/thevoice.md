@@ -46,62 +46,62 @@
 |TVK NL 9||13||nl|
 |TV 9||17||france|
 |TV AU 9||21||australie|
-|TVK UK 4||8|||
-|TV TH 8||15|||
-|TVK TH 7||8|||
-|TVK VV 5||10|||
-|TVS NL 3||4|||
+|TVK UK 4||8||uk|
+|TV TH 8||15||th|
+|TVK TH 7||8||th|
+|TVK VV 5||10||vv|
+|TVS NL 3||4||nl|
 |TVK 7||8||france|
-|TV UK 9||14|||
-|TVS VV 2||4|||
-|TV US 19||18|||
-|TV GER 10||19|||
-|TVS IT 1||5|||
-|TV VV 6||16|||
-|TV UK 10||12|||<!--  -->
-|TV NL 11||17|||<!--  -->
-|TV BE 9||16|||<!--  -->
-|TVK ger 9||10|||<!--  -->
-|TV FR 10||15|||<!--  -->
-|TV US 20||18|||<!--  -->
-|TV VV 7||17|||<!--  -->
-|TV NO 6||21|||<!--  -->
-|TVK NL 10||10|||<!--  -->
-|TV au 10||13|||<!--  -->
-|TV finland 11||5|||<!--  -->
-|TVS nl 4||7|||<!--  -->
-|TV 11||7|||<!--  -->
-|TVS th 2||7|||<!--  -->
-|TVS th 1||4|||<!--  -->
-|TV th 7||15|||<!--  -->
-|TV th 6||15|||<!--  -->
-|TV bulgarie 8||14|||<!--  -->
-|TV us 21||26|||<!--  -->
-|TV esp 8||13|||<!--  -->
-|TV greece 8||28|||<!--  -->
-|TV ger 11||19|||<!--  -->
-|TV greece 7||22|||<!--  -->
-|TVK uk 5||3|||<!--  -->
-|TV ru 10||13|||<!--  -->
-|TV nl 9||17|||<!--  -->
-|TV alb 6||17|||<!--  -->
-|TVS it 2||8|||<!--  -->
-|TVS ESP 3||4|||<!--  -->
-|TVG au 1||3|||<!--  -->
-|TV portugal 9||16|||<!--  -->
+|TV UK 9||14||uk|
+|TVS VV 2||4||vv|
+|TV US 19||18||us|
+|TV GER 10||19||allemagne|
+|TVS IT 1||5||it|
+|TV VV 6||16||vv|
+|TV UK 10||12||uk|<!--  -->
+|TV NL 11||17||nl|<!--  -->
+|TV BE 9||16||belgique|<!--  -->
+|TVK ger 9||10||allemagne|<!--  -->
+|TV FR 10||15||france|<!--  -->
+|TV US 20||18||us|<!--  -->
+|TV VV 7||17||vv|<!--  -->
+|TV NO 6||21||no|<!--  -->
+|TVK NL 10||10||nl|<!--  -->
+|TV au 10||13||australie|<!--  -->
+|TV finland 11||5||finlande|<!--  -->
+|TVS nl 4||7||nl|<!--  -->
+|TV 11||7||france|<!--  -->
+|TVS th 2||7||th|<!--  -->
+|TVS th 1||4||th|<!--  -->
+|TV th 7||15||th|<!--  -->
+|TV th 6||15||th|<!--  -->
+|TV bulgarie 8||14||bulgarie|<!--  -->
+|TV us 21||26||us|<!--  -->
+|TV esp 8||13||esp|<!--  -->
+|TV greece 8||28||greece|<!--  -->
+|TV ger 11||19||allemagne|<!--  -->
+|TV greece 7||22||greece|<!--  -->
+|TVK uk 5||3||uk|<!--  -->
+|TV ru 10||13||ru|<!--  -->
+|TV nl 9||17||nl|<!--  -->
+|TV alb 6||17||alb|<!--  -->
+|TVS it 2||8||it|<!--  -->
+|TVS ESP 3||4||esp|<!--  -->
+|TVG au 1||3||australie|<!--  -->
+|TV portugal 9||16||portugal|<!--  -->
 |TV lithu 8||11|||<!--  -->
 |TV poland 12||18|||<!--  -->
 |TVG lithu 1||11|||<!-- 2/2/22 - 14/3-->
-|the voice be 10||16|||<!--  -->
+|the voice be 10||16||belgique|<!--  -->
 |tvk poland 5||18|||<!--  -->
-|tv finland 12||24|||<!-- 28/1/22 - 29/4 -->
-|tvk ger 10||10|||<!-- 4/3 - 7/5-->
-|tv fr 12||15|||<!-- 12/2 - 21/5 -->
-|tvk vv 6||10|||<!--  -->
-|tv au 11||14|||<!-- 18/4 -29/5 -->
-|tv no 7||40|||<!-- 6/1/22 - 31/5 -->
-|tvs finland 1||4|||<!--  -->
-|tvk esp 7||12|||<!-- 22/7 -->
+|tv finland 12||24||finlande|<!-- 28/1/22 - 29/4 -->
+|tvk ger 10||10||allemagne|<!-- 4/3 - 7/5-->
+|tv fr 12||15||france|<!-- 12/2 - 21/5 -->
+|tvk vv 6||10||vv|<!--  -->
+|tv au 11||14||australie|<!-- 18/4 -29/5 -->
+|tv no 7||40||no|<!-- 6/1/22 - 31/5 -->
+|tvs finland 1||4||finlande|<!--  -->
+|tvk esp 7||12||esp|<!-- 22/7 -->
 |tvk portugal 3||12|||<!-- 31/7 -->
 |tv chile 3||59|||<!-- 4/8 -->
 |tvg portugal 1||2|||<!--  -->
@@ -113,7 +113,7 @@
 |tv th 9||13|||<!--  -->
 |tv dominicana 2||19|||<!--  -->
 |tvs peru _2||49|||<!--  -->
-|tv uk _11||9|||<!--  -->
+|tv uk _11||9||uk|<!--  -->
 |tvs colombia _2||33|||<!--  -->
 |tv ger _12||19|||<!--  -->
 |tv poland _13||26|||<!--  -->
@@ -122,10 +122,10 @@
 |tvk peru _5||41|||<!--  -->
 |tv us _22||25|||<!--  -->
 |tv esp _9||13|||<!--  -->
-|tv vv _8||20|||<!--  -->
+|tv vv _8||20||vv|<!--  -->
 |tV romania _10||16|||<!--  -->
 |tvk cambodia _3||13|||<!--  -->
-|tvk uk _6||3|||<!--  -->
+|tvk uk _6||3||uk|<!--  -->
 |tvk malta _1||10|||<!--  -->
 |Tvg peru _1||29|||<!--  -->
 |tv portugal _10||18|||<!--  -->
