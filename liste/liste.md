@@ -700,6 +700,7 @@
 |Vortex _1||6|||<!--  -->
 |the voice portugal _10||18|||<!--  -->
 |little big world with pond phuwin _1||12|||<!--  -->
+|his man _1||11|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -901,7 +902,6 @@
 |big brother us _23|||||0|<!--  -->
 |survivor _31||15|||0|<!--  -->
 |game of talents fr _2|||||0|<!--  -->
-|his man _1|||||0|<!--  -->
 |blueming _1|||||0|<!--  -->
 |rpdrdu _2|||||0|<!--  -->
 |god shave the queens _2|||||0|<!--  -->

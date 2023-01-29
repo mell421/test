@@ -113,11 +113,6 @@ ligne :  83 ZZ/Twopintsoflager_3.txt
 mot   :  1744 ZZ/Twopintsoflager_3.txt
 carac :  11507 ZZ/Twopintsoflager_3.txt
 
-i = His man _1
-ligne :  46 ZZ/Hisman_1.txt
-mot   :  809 ZZ/Hisman_1.txt
-carac :  5285 ZZ/Hisman_1.txt
-
 i = Tokyo ghoul _3
 ligne :  47 ZZ/Tokyoghoul_3.txt
 mot   :  867 ZZ/Tokyoghoul_3.txt

@@ -262,6 +262,7 @@
 |love in the air _1|Love in the air _1|13+1|serie|thailande|<!--  -->
 |check in do amor _1|check in do amor|4|serie|bresil|<!--  -->
 |little big world with pond phuwin _1||12|show|thailande|<!--  -->
+|his man _1|his man _1|11|show|corée|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -335,7 +336,6 @@
 |unforgotten night _1|unforgotten night _1|12|serie|thailande|5|<!--  -->
 |Rose in da house _1|Rose in da house _1|6|serie|thailande|1|<!--  -->
 |Second chance _1|Second chance _1|6|serie|thailande|1|<!--  -->
-|his man _1|his man _1|12|show|corée|4|<!--  -->
 |blueming _1|blueming _1|11|serie|corée|4|<!--  -->
 |||||||<!--  -->
 |juad juad _1||||||<!--  -->

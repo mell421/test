@@ -537,22 +537,22 @@
 09/08/22 (eff) - Big brother us _23{35} Big brother us _24{28} Dont forget the lyrics _1{18} Two pints of lager _3{15} 
 10/08/22 (eff) - Big brother us _23{35} Big brother us _24{29} Dont forget the lyrics _1{18} Two pints of lager _3{15} 
 11/08/22 (eff) - Big brother us _23{35} Big brother us _24{30} Dont forget the lyrics _1{18} Two pints of lager _3{15} Bulgasal _1{13} 
-12/08/22 (eff) - Big brother us _23{35} Big brother us _24{31} Dont forget the lyrics _1{19} Two pints of lager _3{15} Bulgasal _1{13} His man _1{10} 
+12/08/22 (eff) - Big brother us _23{35} Big brother us _24{31} Dont forget the lyrics _1{19} Two pints of lager _3{15} Bulgasal _1{13} 
 13/08/22 (eff) - Big brother us _23{35} Big brother us _24{32} Dont forget the lyrics _1{20} Two pints of lager _3{15} Bulgasal _1{13} 
-14/08/22 (eff) - Big brother us _23{35} Big brother us _24{33} Dont forget the lyrics _1{21} Two pints of lager _3{15} His man _1{10} 
+14/08/22 (eff) - Big brother us _23{35} Big brother us _24{33} Dont forget the lyrics _1{21} Two pints of lager _3{15} 
 15/08/22 (eff) - Big brother us _23{35} Big brother us _24{34} Dont forget the lyrics _1{22} Two pints of lager _3{15} Bulgasal _1{13} 
-16/08/22 (eff) - Big brother us _24{36} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Bulgasal _1{13} His man _1{11} 
-17/08/22 (eff) - Big brother us _24{37} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Bulgasal _1{13} His man _1{11} 
-18/08/22 (eff) - Big brother us _24{38} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} 
-19/08/22 (eff) - Big brother us _24{39} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} 
-20/08/22 (eff) - Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} Tokyo ghoul _3{10} 
-21/08/22 (eff) - Big brother us _24{41} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} Tokyo ghoul _3{10} 
-22/08/22 (eff) - Big brother us _24{43} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{11} Tokyo ghoul _3{10} 
-23/08/22 (eff) - Big brother us _24{46} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} His man _1{12} 
-24/08/22 (eff) - Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} Tokyo ghoul _3{10} 
-25/08/22 (eff) - Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} Tokyo ghoul _3{10} 
-26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} Tokyo ghoul _3{10} 
-27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} His man _1{12} Tokyo ghoul _3{10} 
+16/08/22 (eff) - Big brother us _24{36} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Bulgasal _1{13} 
+17/08/22 (eff) - Big brother us _24{37} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Bulgasal _1{13} 
+18/08/22 (eff) - Big brother us _24{38} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} 
+19/08/22 (eff) - Big brother us _24{39} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} 
+20/08/22 (eff) - Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Tokyo ghoul _3{10} 
+21/08/22 (eff) - Big brother us _24{41} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Tokyo ghoul _3{10} 
+22/08/22 (eff) - Big brother us _24{43} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Tokyo ghoul _3{10} 
+23/08/22 (eff) - Big brother us _24{46} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} 
+24/08/22 (eff) - Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
+25/08/22 (eff) - Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
+26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
+27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
 
 
 
@@ -996,9 +996,9 @@
 21/07/22 - 314* Unforgotten night _1{5} Big brother us _23{16} Tokyo ghoul _3{8} Big brother us _24{3} 
 22/07/22 - 301* Big brother us _24{3} Unforgotten night _1{5} Big brother us _23{17} 
 23/07/22 - 299* Big brother us _24{3} Unforgotten night _1{5} 
-24/07/22 - 172* Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} 
-25/07/22 - 177* Blueming _1{0} His man _1{0} Rpdrasu _7{4} Rpdras _7{4} 
-26/07/22 - 225* Big brother us _24{5} Blueming _1{1} His man _1{1} 
+24/07/22 - 172* Blueming _1{0} Rpdrasu _7{4} Rpdras _7{4} 
+25/07/22 - 177* Blueming _1{0} Rpdrasu _7{4} Rpdras _7{4} 
+26/07/22 - 225* Big brother us _24{5} Blueming _1{1} 
 27/07/22 - 377* Blueming _1{1} Big brother us _24{6} 
 28/07/22 - 359* Blueming _1{1} Big brother us _24{7} 
 29/07/22 - 356* Blueming _1{1} Big brother us _24{8} 
@@ -1006,24 +1006,24 @@
 31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
 31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
 01/08/22 - 28* God shave the queens _2{0} Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{12} 
-02/08/22 - 228* His man _1{2} Big brother us _24{15} God shave the queens _2{2} Rpdrdu _2{2} Game of talents fr _2{3} 
-03/08/22 - 407* Blueming _1{4} His man _1{2} Big brother us _24{16} God shave the queens _2{2} 
-04/08/22 - 438* Big brother us _24{17} Blueming _1{4} His man _1{3} 
+02/08/22 - 228* Big brother us _24{15} God shave the queens _2{2} Rpdrdu _2{2} Game of talents fr _2{3} 
+03/08/22 - 407* Blueming _1{4} Big brother us _24{16} God shave the queens _2{2} 
+04/08/22 - 438* Big brother us _24{17} Blueming _1{4} 
 05/08/22 - 289* Big brother us _24{19} Unforgotten night _1{7} Blueming _1{4} 
-06/08/22 - 287* His man _1{4} Big brother us _24{21} Unforgotten night _1{7} 
-07/08/22 - 277* His man _1{6} Big brother us _24{23} Unforgotten night _1{7} 
-08/08/22 - 275* His man _1{8} Big brother us _24{25} 
+06/08/22 - 287* Big brother us _24{21} Unforgotten night _1{7} 
+07/08/22 - 277* Big brother us _24{23} Unforgotten night _1{7} 
+08/08/22 - 275* Big brother us _24{25} 
 09/08/22 - 254* Agt _17{6} 
 10/08/22 - 268* Rpdrdu _2{2} Agt _17{7} 
 11/08/22 - 322* Big brother us _24{30} Dont forget the lyrics _1{18} Rpdrdu _2{2} Agt _17{7} 
 12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Blueming _1{5} Juad juad _1{0} Dont forget the lyrics _1{19} 
 13/08/22 - 326* Sky in your heart _1{3} Big brother us _24{32} Blueming _1{5} Juad juad _1{0} 
-14/08/22 - 318* His man _1{10} Sky in your heart _1{3} Big brother us _24{33} 
-15/08/22 - 287* His man _1{10} 
-16/08/22 - 302* His man _1{11} 
-17/08/22 - 307* His man _1{11} 
-18/08/22 - 312* His man _1{11} Rpdrdu _2{3} Drag race ph _1{0} 
-19/08/22 - 353* Big brother us _24{39} His man _1{11} Rpdrdu _2{3} 
+14/08/22 - 318* Sky in your heart _1{3} Big brother us _24{33} 
+15/08/22 - 287* 
+16/08/22 - 302* 
+17/08/22 - 307* 
+18/08/22 - 312* Rpdrdu _2{3} Drag race ph _1{0} 
+19/08/22 - 353* Big brother us _24{39} Rpdrdu _2{3} 
 20/08/22 - 349* Big brother us _24{40} 
 21/08/22 - 252* Big brother us _24{41} 
 22/08/22 - 85* 
