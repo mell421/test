@@ -57,7 +57,6 @@ listAV=(
 "Drag latina _1" "Survivor _43" 
 # soon
 "Drag race ca vs world _1" "Next in fashion _2" 
-"Between us _1" 
 "" "" "" "" "" )
 
 listOld=( "Capture lover _1" "Lakan _1" "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" 
