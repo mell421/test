@@ -3,10 +3,8 @@
 #git log > gitLog.txt
 if (( $# == 1 ))
 then
-    echo " " >> resumeGit.txt;
-    echo "$1" >> resumeGit.txt;
     git checkout;
-    (git checkout && git add * && git commit -m "$1") >> resumeGit.txt;
+    git add * && git commit -m "$1";
     git push;
 else
     echo "error";
