@@ -159,7 +159,7 @@ suppressWarnings(main(text))
 <!-- test conclu bis 58 -->
 ### conclubis
 ```{r conclubis, echo=FALSE}
-text2 <- data.frame(aConclBis())
+text2 <- data.frame(aCps())
 text <- text2[2]
 main <- function(text){
   
@@ -205,8 +205,8 @@ suppressWarnings(main(text))
 <!-- copy 63 -->
 ### sem
 ```{r sem, echo=FALSE}
-text2 <- data.frame(copy.sem())
-text <- text2[2]
+text2 <- data.frame(aCps())
+text <- text2[3]
 main <- function(text){
   dtm_d <- wc(text)
   # Display the top 20 most frequent words
@@ -227,8 +227,8 @@ suppressWarnings(main(text))
 <!-- copy 68 -->
 ### mois
 ```{r mois, echo=FALSE}
-text2 <- data.frame(copy.mois())
-text <- text2[2]
+text2 <- data.frame(aCps())
+text <- text2[4]
 main <- function(text){
   
   dtm_d <- wc(text)
@@ -251,8 +251,8 @@ suppressWarnings(main(text))
 <!-- copy 74 -->
 ### max
 ```{r max, echo=FALSE}
-text2 <- copy.max()
-text <- text2[2]
+text2 <- aCps()
+text <- text2[5]
 main <- function(text){
   dtm_d <- wc(text)
   # Display the top 20 most frequent words
@@ -272,8 +272,8 @@ suppressWarnings(main(text))
 <!-- eff 79 -->
 ### eff
 ```{r eff, echo=FALSE}
-text2 <- aEff()
-text <- text2[2]
+text2 <- aCps()
+text <- text2[6]
 main <- function(text){
   
   
