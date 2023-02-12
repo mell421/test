@@ -15,9 +15,9 @@
     - [sem 16-01-2023](#sem-16-01-2023)
     - [sem 23-01-2023](#sem-23-01-2023)
     - [sem 30-01-2023](#sem-30-01-2023)
-    - [sem 05-02-2023](#sem-05-02-2023)
-    - [sem 12-02-2023](#sem-12-02-2023)
-    - [sem 19-02-2023](#sem-19-02-2023)
+    - [sem 06-02-2023](#sem-06-02-2023)
+    - [sem 13-02-2023](#sem-13-02-2023)
+    - [sem 20-02-2023](#sem-20-02-2023)
   - [bientot](#bientot)
   - [apercu mois](#apercu-mois)
       - [mois 01-12-2022](#mois-01-12-2022)
@@ -50,11 +50,12 @@
 * His man _1
 * Little big world with pond phuwin _1
 * The voice portugal _10
-### sem 05-02-2023
+### sem 06-02-2023
 * *insererici*
-### sem 12-02-2023
+### sem 13-02-2023
 * *insererici*
-### sem 19-02-2023
+* Ninja warrior _7
+### sem 20-02-2023
 * *insererici*
 
 <div style="page-break-after: always; visibility: hidden"> 
@@ -195,7 +196,7 @@
 #### mois 01-02-2023
 *insererici Between us _1 His man _1 Little big world with pond phuwin _1 The voice portugal _10 Vortex _1 Annee zero _1 The voice kids malta _1* 
 #### mois 01-03-2023
-*insererici*
+*insererici Ninja warrior _7*
 #### mois 01-04-2023
 *insererici*
 #### mois 01-05-2023
