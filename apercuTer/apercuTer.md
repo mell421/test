@@ -60,6 +60,7 @@
 * The masked singer uk _4
 ### sem 27-02-2023
 * *insererici*
+* The voice senior poland _4
 * The challenge uk _1
 * My school president _1
 ### sem 06-03-2023
@@ -211,7 +212,7 @@
 #### mois 01-02-2023
 *insererici Between us _1 His man _1 Little big world with pond phuwin _1 The voice portugal _10 Vortex _1 Annee zero _1 The voice kids malta _1* 
 #### mois 01-03-2023
-*insererici The challenge uk _1 My school president _1 The masked singer uk _4 Ninja warrior _7*
+*insererici The voice senior poland _4 The challenge uk _1 My school president _1 The masked singer uk _4 Ninja warrior _7*
 #### mois 01-04-2023
 *insererici*
 #### mois 01-05-2023
