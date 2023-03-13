@@ -168,7 +168,6 @@ i = The circle us _4
 i = The player _1
 i = The shipper _1
 i = The tuxedo _1
-i = The voice greece _9
 i = The voice kids indonesia _4
 i = The voice nepal _4
 i = The voice nl _12

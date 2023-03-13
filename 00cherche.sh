@@ -14,7 +14,7 @@ list99=(
 # 39-30
 # 29-20 
 # 19-15
-"The voice greece _9" "Ai long nhai _1" "Sky in your heart _1" "Masterchef fr _6" 
+"Ai long nhai _1" "Sky in your heart _1" "Masterchef fr _6" 
 # 14-10
 "Dwts _31" "Interviex with the vampire _1" "Lego masters _3" 
 # 9-8

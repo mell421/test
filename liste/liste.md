@@ -708,6 +708,7 @@
 |The challenge uk _1||5|||<!--  -->
 |The voice senior poland _4||7|||<!--  -->
 |The voice senior it _3||7|||<!--  -->
+|the voice greece _9||22|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -925,7 +926,6 @@
 |ai long nhai _1|||||0|<!--  -->
 |la mas draga _5|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
-|the voice greece _9|||||0|<!--  -->
 |nailed it _7|||||0|<!--  -->
 |reginald the vampire _1|||||0|<!-- 6/10 -->
 |let the right one in _1|||||0|<!--  -->

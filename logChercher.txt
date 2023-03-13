@@ -9,11 +9,6 @@ ligne :  35 ZZ/Theshipper_1.txt
 mot   :  491 ZZ/Theshipper_1.txt
 carac :  3740 ZZ/Theshipper_1.txt
 
-i = The voice greece _9
-ligne :  5 ZZ/Thevoicegreece_9.txt
-mot   :  24 ZZ/Thevoicegreece_9.txt
-carac :  245 ZZ/Thevoicegreece_9.txt
-
 i = Ai long nhai _1
 ligne :  5 ZZ/Ailongnhai_1.txt
 mot   :  23 ZZ/Ailongnhai_1.txt
