@@ -64,18 +64,20 @@
 * The challenge uk _1
 * My school president _1
 ### sem 06-03-2023
-* *insererici The voice senior it _3*
+* *insererici*
+* The voice senior it _3
 ### sem 13-03-2023
 * *insererici*
 ### sem 20-03-2023
 * *insererici*
+* The voice kids it _1
 * Dancing on ice uk _15 
 * Our winter _1 
 * Lol fr _3 
 * Drag den ph _1 
 * Wolf pack _1 
 * History5 litf _1 
-* The voice greece _9*
+* The voice greece _9
 ### sem 27-03-2023
 * *insererici*
 
@@ -220,7 +222,7 @@
 #### mois 01-03-2023
 *insererici The voice senior poland _4 The challenge uk _1 My school president _1 The masked singer uk _4 Ninja warrior _7*
 #### mois 01-04-2023
-*insererici Dancing on ice uk _15 Our winter _1 Lol fr _3 Drag den ph _1 Wolf pack _1 History5 litf _1 The voice greece _9 The voice senior it _3*
+*insererici The voice kids it _1 Dancing on ice uk _15 Our winter _1 Lol fr _3 Drag den ph _1 Wolf pack _1 History5 litf _1 The voice greece _9 The voice senior it _3*
 #### mois 01-05-2023
 *insererici*
 
