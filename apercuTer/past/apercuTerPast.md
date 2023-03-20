@@ -53,6 +53,14 @@
     - [sem 17-10-2022](#sem-17-10-2022)
     - [sem 24-10-2022](#sem-24-10-2022)
     - [sem 31-10-2022](#sem-31-10-2022)
+    - [sem 07-11-2022](#sem-07-11-2022)
+    - [sem 14-11-2022](#sem-14-11-2022)
+    - [sem 21-11-2022](#sem-21-11-2022)
+    - [sem 28-11-2022](#sem-28-11-2022)
+    - [sem 05-12-2022](#sem-05-12-2022)
+    - [sem 12-12-2022](#sem-12-12-2022)
+    - [sem 19-12-2022](#sem-19-12-2022)
+    - [sem 26-12-2022](#sem-26-12-2022)
   - [a classer](#a-classer)
   - [apercu mois](#apercu-mois)
       - [mois 01-01-2020](#mois-01-01-2020)
@@ -87,6 +95,9 @@
       - [mois 01-06-2022](#mois-01-06-2022)
       - [mois 01-07-2022](#mois-01-07-2022)
       - [mois 01-08-2022](#mois-01-08-2022)
+      - [mois 01-09-2022](#mois-01-09-2022)
+      - [mois 01-10-2022](#mois-01-10-2022)
+      - [mois 01-11-2022](#mois-01-11-2022)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -311,6 +322,41 @@
 * The good doctor _5
 * The voice dominicana _2
 * The amazing race _32
+### sem 07-11-2022 
+* Interview with the vampire _1
+* The masked singer ger _7
+* The voice ger _12
+* The voice senior colombia _2
+### sem 14-11-2022 
+* Check in do amor _1
+* The challenge _4
+* Dals _12
+* Love in the air _1
+### sem 21-11-2022 
+* The voice ukr _12
+* The voice poland _13
+* The mole _1
+* Lego masters fr _3
+### sem 28-11-2022 
+* Star academy _10
+* Rpscdr _2
+### sem 05-12-2022 
+* The voice bulgarie _9
+* The masked singer _8
+### sem 12-12-2022 
+* Drag save the queen _1
+* The amazing race _34
+* the voice kids peru _5
+### sem 19-12-2022
+* Strictly come dancing _20
+* The voice esp _9
+* Les cinquante _1
+* The voice us _22
+### sem 26-12-2022
+* *insererici*
+* The voice romania _10
+* The voice vv _8
+* Incroyable talent _17
 
 
 
@@ -399,6 +445,13 @@
 *insererici Drag tots _2 The challenge _3 The challenge _2 The challenge all stars _2 Survivor _29 Koh-lanta _28 The challenge _1 Top chef _13 Love victor _3 Bgt _15 The voice senior finland _1 Dear doctor _1 Drag race esp _2 Floor is lava _2*
 #### mois 01-08-2022 
 *insererici The voice kids portugal _3 Earthmix space _1 The masked singer jap _1 Rpdr out of the closet _4 In relationship _1 The voice kids esp _7 Survivor _30 Enchante _1 Triage _1 Kinnporsche _1 Cutie pie _1 The challenge all stars _1 The challenge all stars _3 Skam france _10*
+#### mois 01-09-2022 
+*Les traitres _1 The masked singer jap _2 The masked singer au _4 Vanjie 24 hours of love _1 Fiertes _1 The voice peru _5 The voice indonesia _5 The voice generations portugal _1 Karaoke club drag edition _1 Drag race fr _1 Sytycd _17 Pekin express _16 30 days of night dust to dust _1 30 days of night blood trails _1 The voice chile _3 Even sun _1*
+#### mois 01-10-2022 
+*Magic of zero _1 Minatos laundromat _1 Ahss _2 The voice arg _4 The voice kids colombia _6 Survivor sa _9 Ohmnanon upvel _1 Qdals _1*
+#### mois 01-11-2022 
+*The voice uk _11 My roommate _1 The voice senior peru _2 The eclipse _1 The good doctor _5 The voice dominicana _2 The amazing race _32 The masked dancer uk _2 Drag race ca _3 The voice th _9 The masked singer arg _1 Lays on cruise _1 Beat shazam _5 The masked singer fr _4 The voice kids fr _8 Floor is lava _3 The challenge usa _1 The masked singer nz _2 Vice versa series _1*
+
 
 
 [retour](./../index.html)

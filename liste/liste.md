@@ -693,9 +693,37 @@
 |the voice vv _8||20|||<!--  -->
 |the voice romania _10||16|||<!--  -->
 |the voice kids cambodia _3||13|||<!--  -->
+|The voice kids uk _6||3|||<!--  -->
+|the voice kids malta _1||10|||<!--  -->
+|Annee zero _1||4|||<!--  -->
+|The voice generations peru _1||29|||<!--  -->
+|Vortex _1||6|||<!--  -->
+|the voice portugal _10||18|||<!--  -->
+|little big world with pond phuwin _1||12|||<!--  -->
+|his man _1||11|||<!--  -->
+|between us _1||12|||<!-- 06/11 -->
+|Ninja warrior _7||6|||<!--  -->
+|The masked singer uk _4||8|||<!--  -->
+|My school president _1||12|||<!--  -->
+|The challenge uk _1||5|||<!--  -->
+|The voice senior poland _4||7|||<!--  -->
+|The voice senior it _3||7|||<!--  -->
+|the voice greece _9||22|||<!--  -->
+|History5 litf _1||20|||<!--  -->
+|Wolf pack _1||8|||<!--  -->
+|Drag den ph _1||8|||<!--  -->
+|Lol fr _3||7|||<!--  -->
+|Our winter _1||14|||<!--  -->
+|Dancing on ice uk _15||9|||<!--  -->
+|The voice kids it _1||2|||<!--  -->
+|blueming _1||11|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
-
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
+||||||<!--  -->
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -893,8 +921,6 @@
 |big brother us _23|||||0|<!--  -->
 |survivor _31||15|||0|<!--  -->
 |game of talents fr _2|||||0|<!--  -->
-|his man _1|||||0|<!--  -->
-|blueming _1|||||0|<!--  -->
 |rpdrdu _2|||||0|<!--  -->
 |god shave the queens _2|||||0|<!--  -->
 |juad juad _1|||||0|<!--  -->
@@ -903,19 +929,15 @@
 |bt21 original story _2|||||0|<!--  -->
 |my only _12pc _1|||||0|<!-- 12/8 -->
 |skam italia _5||10|||0|<!-- 1/9 -->
-|little big world with pond phuwin _1|||||0|<!--  -->
 |un dos tres _3|||||0|<!--  -->
 |vampire academy _1|||||0|<!-- 15/9 -->
 |dwts _31|||||0|<!--  -->
 |lego masters _3|||||0|<!-- 22/9 -->
 |ai long nhai _1|||||0|<!--  -->
 |la mas draga _5|||||0|<!--  -->
-|the voice portugal _10|||||0|<!--  -->
 |the voice nepal _4|||||0|<!--  -->
-|the voice greece _9|||||0|<!--  -->
 |nailed it _7|||||0|<!--  -->
 |reginald the vampire _1|||||0|<!-- 6/10 -->
-|the voice kids malta _1|||||0|<!--  -->
 |let the right one in _1|||||0|<!--  -->
 |the challenge _38|||||0|<!--  -->
 |ahs _11|||||0|<!-- 18/10 -->
@@ -943,7 +965,6 @@
 |dragula titans _1|||||0|<!--  -->
 |survivor _43|||||0|<!-- 22/9 -->
 |next in fashion _2|||||0|<!-- 17/11 -->
-|between us _1||?|||0|<!-- 06/11 -->
 |rpdr _15|||||0|<!--  -->
 |rpdru _15|||||0|<!--  -->
 ||||||0|<!--  -->

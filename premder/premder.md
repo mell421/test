@@ -40,11 +40,8 @@ The shipper _1x7
 Nailed it _7x1
 Lego masters _3x2
 Ai long nhai _1x2
-The voice portugal _10x2
-The voice greece _9x1
 The voice nepal _4x2
 The voice nepal _4x1
-The voice portugal _10x1
 La mas draga _5x1
 Dwts _31x2
 Ai long nhai _1x1
@@ -54,20 +51,17 @@ Sky in your heart _1x4
 Vampire academy _1x1
 Masterchef fr _6x3
 Un dos tres _3x1
-Little big world with pond phuwin _1x1
 Skam italia _5x2
 Skam italia _5x1
 Le flambeau _1x5
 Camping paradis _13x3
 My only 12pc _1x1
 Bt21 original story _2x1
-His man _1x9
 Masterchef fr _6x1
 Big brother us _24x17
 Rpdrdu _2x3
 Drag race ph _1x2
 Drag race ph _1x1
-Blueming _1x5
 Juad juad _1x1
 Dont forget the lyrics _1x9
 Agt _17x5
@@ -76,8 +70,6 @@ God shave the queens _2x2
 God shave the queens _2x1
 Rpdrdu _2x1
 Game of talents fr _2x2
-Blueming _1x1
-His man _1x1
 Rpdrasu _7x3
 Rpdras _7x3
 Big brother us _23x9

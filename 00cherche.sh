@@ -12,14 +12,13 @@ list99=(
 # 49-40
 "The shipper _1" 
 # 39-30
-# 29-20
-"The voice portugal _10" 
+# 29-20 
 # 19-15
-"The voice greece _9" "Ai long nhai _1" "Little big world with pond phuwin _1" "Sky in your heart _1" "Masterchef fr _6" 
+"Ai long nhai _1" "Sky in your heart _1" "Masterchef fr _6" 
 # 14-10
 "Dwts _31" "Interviex with the vampire _1" "Lego masters _3" 
 # 9-8
-"The voice kids malta _1" "Reginald the vampire _1" "La mas draga _5" "The voice nepal _4" 
+"Reginald the vampire _1" "La mas draga _5" "The voice nepal _4" 
 # 7-6
 "Un dos tres _3" 
 # 5-4
@@ -28,8 +27,8 @@ list99=(
 "Nailed it _7" "Ahs _11" 
 # 0-1
 # other
-"Dont forget the lyrics _1" "Big brother us _23" "Two pints of lager _3" "His man _1" 
-"Tokyo ghoul _3" "Unforgotten night _1" "Blueming _1" "Agt _17" "Close friend _2" 
+"Dont forget the lyrics _1" "Big brother us _23" "Two pints of lager _3" 
+"Tokyo ghoul _3" "Unforgotten night _1" "Agt _17" "Close friend _2" 
 "Rpdrasu _7" "Rpdras _7" "Rpdrdu _2" "Game of talents fr _2" "Second chance series _1" 
 "God shave the queens _2" "Grimm _1" "Rose in da house _1" "Survivor _31" "Drag race ph _1" 
 "Skam italia _5" "5515 never too late _1" "F4 thailand _1" "Cupids last wish _1" "The voice ph _1" 
@@ -58,7 +57,6 @@ listAV=(
 "Drag latina _1" "Survivor _43" 
 # soon
 "Drag race ca vs world _1" "Next in fashion _2" 
-"Between us _1" 
 "" "" "" "" "" )
 
 listOld=( "Capture lover _1" "Lakan _1" "A queen is born _1" "Tale of the nine tailed _1" "Pogi lang hanap _1" 

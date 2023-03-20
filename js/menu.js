@@ -11,6 +11,7 @@ document.write(`
       <li><a href="wordcloud/summary.html">summary</a></li>
       <li><a href="form.html"></a></li>
       <li><a href="regles.html">r</a></li>
+      <li><a href="expenses.html">expenses</a></li>
       
     </ul>
   </li>

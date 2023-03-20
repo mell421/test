@@ -133,26 +133,6 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-### pageappressup2
-```{r pars2, echo=FALSE}
-text <- data.frame(pars2())
-main <- function(text){
-  dtm_d <- wc(text)
-  # Display the top 20 most frequent words
-  head(dtm_d, 30)
-
-  # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 pars2")
-  
-
-  #generate word cloud
-  wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"pars2_3.png",delayW)
-}
-
-suppressWarnings(main(text))
-```
-
 <!-- test conclu 53 -->
 ### conclu
 ```{r conclu, echo=FALSE}
@@ -179,7 +159,7 @@ suppressWarnings(main(text))
 <!-- test conclu bis 58 -->
 ### conclubis
 ```{r conclubis, echo=FALSE}
-text2 <- data.frame(aConclBis())
+text2 <- data.frame(aCps())
 text <- text2[2]
 main <- function(text){
   
@@ -199,9 +179,9 @@ main <- function(text){
 suppressWarnings(main(text))
 ```
 
-### 2022
-```{r 2022, echo=FALSE}
-text2 <- data.frame(aRewind())
+### 2023
+```{r 2023, echo=FALSE}
+text2 <- data.frame(aRewind23())
 text <- text2[2]
 main <- function(text){
   
@@ -210,12 +190,12 @@ main <- function(text){
   head(dtm_d, 30)
 
   # Plot the most frequent words
-  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 2022")
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 2023")
   
 
   #generate word cloud
   wcSimple(dtm_d$word,dtm_d$freq)
-  wcDouble(dtm_d,forme,"rewind22_3.png",delayW)
+  wcDouble(dtm_d,forme,"rewind23_3.png",delayW)
 }
 
 suppressWarnings(main(text))
@@ -225,8 +205,8 @@ suppressWarnings(main(text))
 <!-- copy 63 -->
 ### sem
 ```{r sem, echo=FALSE}
-text2 <- data.frame(copy.sem())
-text <- text2[2]
+text2 <- data.frame(aCps())
+text <- text2[3]
 main <- function(text){
   dtm_d <- wc(text)
   # Display the top 20 most frequent words
@@ -247,8 +227,8 @@ suppressWarnings(main(text))
 <!-- copy 68 -->
 ### mois
 ```{r mois, echo=FALSE}
-text2 <- data.frame(copy.mois())
-text <- text2[2]
+text2 <- data.frame(aCps())
+text <- text2[4]
 main <- function(text){
   
   dtm_d <- wc(text)
@@ -271,8 +251,8 @@ suppressWarnings(main(text))
 <!-- copy 74 -->
 ### max
 ```{r max, echo=FALSE}
-text2 <- copy.max()
-text <- text2[2]
+text2 <- aCps()
+text <- text2[5]
 main <- function(text){
   dtm_d <- wc(text)
   # Display the top 20 most frequent words
@@ -292,8 +272,8 @@ suppressWarnings(main(text))
 <!-- eff 79 -->
 ### eff
 ```{r eff, echo=FALSE}
-text2 <- aEff()
-text <- text2[2]
+text2 <- aCps()
+text <- text2[6]
 main <- function(text){
   
   

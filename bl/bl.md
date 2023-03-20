@@ -261,6 +261,13 @@
 |interview with the vampire _1|interview with the vampire|7|serie|usa|<!--  -->
 |love in the air _1|Love in the air _1|13+1|serie|thailande|<!--  -->
 |check in do amor _1|check in do amor|4|serie|bresil|<!--  -->
+|little big world with pond phuwin _1||12|show|thailande|<!--  -->
+|his man _1|his man _1|11|show|corée|<!--  -->
+|between us _1|between us|12|serie|thailande|<!--  -->
+|My school president _1|My school president|12|serie|thailande|<!--  -->
+|History5 litf _1||20|serie|taiwan|<!--  -->
+|Our winter _1||14|||<!--  -->
+|blueming _1|blueming _1|11|serie|corée|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -334,13 +341,10 @@
 |unforgotten night _1|unforgotten night _1|12|serie|thailande|5|<!--  -->
 |Rose in da house _1|Rose in da house _1|6|serie|thailande|1|<!--  -->
 |Second chance _1|Second chance _1|6|serie|thailande|1|<!--  -->
-|his man _1|his man _1|12|show|corée|4|<!--  -->
-|blueming _1|blueming _1|11|serie|corée|4|<!--  -->
 |||||||<!--  -->
 |juad juad _1||||||<!--  -->
 |bt21 original story _2||||||<!--  -->
 |my only 12 pc _1||?|||0|<!--  -->
-|little big world with pond phuwin _1||||||<!--  -->
 |ai long nhai _1||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
@@ -357,7 +361,6 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |oh my sunshine night _1|love at _9||||0|<!--  -->
-|between us _1|between us|?|serie|thailande|0|<!--  -->
 |war of y _1|war of y|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->

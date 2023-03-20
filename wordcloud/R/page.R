@@ -97,24 +97,6 @@ aPAt <- function(){
   na.omit(table)
   return(table)
 }
-#PAR0
-aPAR0 <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1597358116')))
-  na.omit(table)
-  return(table)
-}
-#PARS0
-aPARS0 <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=499443320')))
-  na.omit(table)
-  return(table)
-}
-#PAR
-aPAR <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=1218394326')))
-  na.omit(table)
-  return(table)
-}
 #PARS
 aPARS <- function(){
   table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=357008918')))
@@ -323,9 +305,9 @@ aRew <- function(){
   na.omit(table)
   return(table)
 }
-#rewind22
-aRewind <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=2019782408')))
+#rewind23
+aRewind23 <- function(){
+  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=517402246')))
   na.omit(table)
   return(table)
 }

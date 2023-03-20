@@ -9,22 +9,11 @@ ligne :  35 ZZ/Theshipper_1.txt
 mot   :  491 ZZ/Theshipper_1.txt
 carac :  3740 ZZ/Theshipper_1.txt
 
-i = The voice portugal _10
-ligne :  6 ZZ/Thevoiceportugal_10.txt
-mot   :  28 ZZ/Thevoiceportugal_10.txt
-carac :  305 ZZ/Thevoiceportugal_10.txt
-
-i = The voice greece _9
-ligne :  5 ZZ/Thevoicegreece_9.txt
-mot   :  24 ZZ/Thevoicegreece_9.txt
-carac :  245 ZZ/Thevoicegreece_9.txt
-
 i = Ai long nhai _1
 ligne :  5 ZZ/Ailongnhai_1.txt
 mot   :  23 ZZ/Ailongnhai_1.txt
 carac :  209 ZZ/Ailongnhai_1.txt
 
-i = Little big world with pond phuwin _1
 ligne : 
 mot   : 
 carac : 
@@ -53,11 +42,6 @@ i = Lego masters _3
 ligne :  8 ZZ/Legomasters_3.txt
 mot   :  83 ZZ/Legomasters_3.txt
 carac :  601 ZZ/Legomasters_3.txt
-
-i = The voice kids malta _1
-ligne :  4 ZZ/Thevoicekidsmalta_1.txt
-mot   :  24 ZZ/Thevoicekidsmalta_1.txt
-carac :  219 ZZ/Thevoicekidsmalta_1.txt
 
 i = Reginald the vampire _1
 ligne :  2 ZZ/Reginaldthevampire_1.txt
@@ -124,11 +108,6 @@ ligne :  83 ZZ/Twopintsoflager_3.txt
 mot   :  1744 ZZ/Twopintsoflager_3.txt
 carac :  11507 ZZ/Twopintsoflager_3.txt
 
-i = His man _1
-ligne :  46 ZZ/Hisman_1.txt
-mot   :  809 ZZ/Hisman_1.txt
-carac :  5285 ZZ/Hisman_1.txt
-
 i = Tokyo ghoul _3
 ligne :  47 ZZ/Tokyoghoul_3.txt
 mot   :  867 ZZ/Tokyoghoul_3.txt
@@ -138,11 +117,6 @@ i = Unforgotten night _1
 ligne :  33 ZZ/Unforgottennight_1.txt
 mot   :  538 ZZ/Unforgottennight_1.txt
 carac :  4059 ZZ/Unforgottennight_1.txt
-
-i = Blueming _1
-ligne :  24 ZZ/Blueming_1.txt
-mot   :  350 ZZ/Blueming_1.txt
-carac :  2549 ZZ/Blueming_1.txt
 
 i = Agt _17
 ligne :  23 ZZ/Agt_17.txt

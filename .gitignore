@@ -14,3 +14,9 @@ ugo/ldavis_prepared_4.html
 freq_apercuAll.txt
 freq_code.txt
 freq_wordle.txt
+
+idea/modules/*
+ajout/.gradle/*/*
+ajout/.gradle/*
+ajout/*.gradle
+idea/*
