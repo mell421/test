@@ -118,11 +118,6 @@ ligne :  33 ZZ/Unforgottennight_1.txt
 mot   :  538 ZZ/Unforgottennight_1.txt
 carac :  4059 ZZ/Unforgottennight_1.txt
 
-i = Blueming _1
-ligne :  24 ZZ/Blueming_1.txt
-mot   :  350 ZZ/Blueming_1.txt
-carac :  2549 ZZ/Blueming_1.txt
-
 i = Agt _17
 ligne :  23 ZZ/Agt_17.txt
 mot   :  349 ZZ/Agt_17.txt

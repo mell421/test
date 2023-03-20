@@ -49,7 +49,6 @@ carac :  2418 ZZ/Closefriend_2.txt
 carac :  2438 ZZ/Agt_17.txt
 carac :  2446 ZZ/Rpdrasu_7.txt
 carac :  245 ZZ/Thevoicegreece_9.txt
-carac :  2549 ZZ/Blueming_1.txt
 carac :  2554 ZZ/Postmortem_1.txt
 carac :  26658 ZZ/F4thailand_1.txt
 carac :  2706 ZZ/Rpdras_7.txt
@@ -108,7 +107,6 @@ i = Banana fish _1
 i = Beat shazam _2
 i = Big brother us _23
 i = Big brother us _24
-i = Blueming _1
 i = Buffy _1
 i = Bulgasal _1
 i = Bullshit the game show _1
@@ -220,7 +218,6 @@ ligne :  22 ZZ/Buffy_1.txt
 ligne :  23 ZZ/Agt_17.txt
 ligne :  23 ZZ/Districtz_2.txt
 ligne :  23 ZZ/Druck_8.txt
-ligne :  24 ZZ/Blueming_1.txt
 ligne :  24 ZZ/Lucifer_4.txt
 ligne :  24 ZZ/Postmortem_1.txt
 ligne :  24 ZZ/Rpdras_7.txt
@@ -335,7 +332,6 @@ mot   :  332 ZZ/Postmortem_1.txt
 mot   :  334 ZZ/Rpdrasu_7.txt
 mot   :  341 ZZ/Closefriend_2.txt
 mot   :  349 ZZ/Agt_17.txt
-mot   :  350 ZZ/Blueming_1.txt
 mot   :  352 ZZ/Lucifer_4.txt
 mot   :  361 ZZ/Rpdras_7.txt
 mot   :  386 ZZ/Loveatnight_1.txt

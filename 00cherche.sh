@@ -28,7 +28,7 @@ list99=(
 # 0-1
 # other
 "Dont forget the lyrics _1" "Big brother us _23" "Two pints of lager _3" 
-"Tokyo ghoul _3" "Unforgotten night _1" "Blueming _1" "Agt _17" "Close friend _2" 
+"Tokyo ghoul _3" "Unforgotten night _1" "Agt _17" "Close friend _2" 
 "Rpdrasu _7" "Rpdras _7" "Rpdrdu _2" "Game of talents fr _2" "Second chance series _1" 
 "God shave the queens _2" "Grimm _1" "Rose in da house _1" "Survivor _31" "Drag race ph _1" 
 "Skam italia _5" "5515 never too late _1" "F4 thailand _1" "Cupids last wish _1" "The voice ph _1" 

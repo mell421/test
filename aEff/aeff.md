@@ -996,28 +996,28 @@
 21/07/22 - 314* Unforgotten night _1{5} Big brother us _23{16} Tokyo ghoul _3{8} Big brother us _24{3} 
 22/07/22 - 301* Big brother us _24{3} Unforgotten night _1{5} Big brother us _23{17} 
 23/07/22 - 299* Big brother us _24{3} Unforgotten night _1{5} 
-24/07/22 - 172* Blueming _1{0} Rpdrasu _7{4} Rpdras _7{4} 
-25/07/22 - 177* Blueming _1{0} Rpdrasu _7{4} Rpdras _7{4} 
-26/07/22 - 225* Big brother us _24{5} Blueming _1{1} 
-27/07/22 - 377* Blueming _1{1} Big brother us _24{6} 
-28/07/22 - 359* Blueming _1{1} Big brother us _24{7} 
-29/07/22 - 356* Blueming _1{1} Big brother us _24{8} 
-30/07/22 - 329* Big brother us _24{9} Blueming _1{2} 
-31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
-31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
+24/07/22 - 172* Rpdrasu _7{4} Rpdras _7{4} 
+25/07/22 - 177* Rpdrasu _7{4} Rpdras _7{4} 
+26/07/22 - 225* Big brother us _24{5} 
+27/07/22 - 377* Big brother us _24{6} 
+28/07/22 - 359* Big brother us _24{7} 
+29/07/22 - 356* Big brother us _24{8} 
+30/07/22 - 329* Big brother us _24{9} 
+31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} 
+31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} 
 01/08/22 - 28* God shave the queens _2{0} Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{12} 
 02/08/22 - 228* Big brother us _24{15} God shave the queens _2{2} Rpdrdu _2{2} Game of talents fr _2{3} 
-03/08/22 - 407* Blueming _1{4} Big brother us _24{16} God shave the queens _2{2} 
-04/08/22 - 438* Big brother us _24{17} Blueming _1{4} 
-05/08/22 - 289* Big brother us _24{19} Unforgotten night _1{7} Blueming _1{4} 
+03/08/22 - 407* Big brother us _24{16} God shave the queens _2{2} 
+04/08/22 - 438* Big brother us _24{17} 
+05/08/22 - 289* Big brother us _24{19} Unforgotten night _1{7} 
 06/08/22 - 287* Big brother us _24{21} Unforgotten night _1{7} 
 07/08/22 - 277* Big brother us _24{23} Unforgotten night _1{7} 
 08/08/22 - 275* Big brother us _24{25} 
 09/08/22 - 254* Agt _17{6} 
 10/08/22 - 268* Rpdrdu _2{2} Agt _17{7} 
 11/08/22 - 322* Big brother us _24{30} Dont forget the lyrics _1{18} Rpdrdu _2{2} Agt _17{7} 
-12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Blueming _1{5} Juad juad _1{0} Dont forget the lyrics _1{19} 
-13/08/22 - 326* Sky in your heart _1{3} Big brother us _24{32} Blueming _1{5} Juad juad _1{0} 
+12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Juad juad _1{0} Dont forget the lyrics _1{19} 
+13/08/22 - 326* Sky in your heart _1{3} Big brother us _24{32} Juad juad _1{0} 
 14/08/22 - 318* Sky in your heart _1{3} Big brother us _24{33} 
 15/08/22 - 287* 
 16/08/22 - 302* 

@@ -62,7 +62,6 @@ Big brother us _24x17
 Rpdrdu _2x3
 Drag race ph _1x2
 Drag race ph _1x1
-Blueming _1x5
 Juad juad _1x1
 Dont forget the lyrics _1x9
 Agt _17x5
@@ -71,7 +70,6 @@ God shave the queens _2x2
 God shave the queens _2x1
 Rpdrdu _2x1
 Game of talents fr _2x2
-Blueming _1x1
 Rpdrasu _7x3
 Rpdras _7x3
 Big brother us _23x9

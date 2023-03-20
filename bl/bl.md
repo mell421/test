@@ -267,6 +267,7 @@
 |My school president _1|My school president|12|serie|thailande|<!--  -->
 |History5 litf _1||20|serie|taiwan|<!--  -->
 |Our winter _1||14|||<!--  -->
+|blueming _1|blueming _1|11|serie|corée|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -340,7 +341,6 @@
 |unforgotten night _1|unforgotten night _1|12|serie|thailande|5|<!--  -->
 |Rose in da house _1|Rose in da house _1|6|serie|thailande|1|<!--  -->
 |Second chance _1|Second chance _1|6|serie|thailande|1|<!--  -->
-|blueming _1|blueming _1|11|serie|corée|4|<!--  -->
 |||||||<!--  -->
 |juad juad _1||||||<!--  -->
 |bt21 original story _2||||||<!--  -->
