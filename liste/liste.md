@@ -717,7 +717,7 @@
 |Dancing on ice uk _15||9|||<!--  -->
 |The voice kids it _1||2|||<!--  -->
 |blueming _1||11|||<!--  -->
-||||||<!--  -->
+|Moonlight chicken _1||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -995,8 +995,6 @@
 |dirty laundry||?||thailande|0|<!--  -->
 |my precious||1||thailande|0|<!--  -->
 |never let me go||?|serie|thailande|0|<!--  -->
-|moonlight chicken||?|serie|thailande|0|<!--  -->
-|my school president||?|serie|thailande|0|<!--  -->
 |you are my favorite||?|serie|thailande|0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

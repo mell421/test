@@ -268,7 +268,7 @@
 |History5 litf _1||20|serie|taiwan|<!--  -->
 |Our winter _1||14|||<!--  -->
 |blueming _1|blueming _1|11|serie|corée|<!--  -->
-||||||<!--  -->
+|Moonlight chicken _1||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 
@@ -351,6 +351,8 @@
 |||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
+|UMG|UMG|10|serie(**)|thailande|0|<!--  -->
+
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -411,14 +413,11 @@
 |||||||<!--  -->
 |THAILANDE|---|---||||<!--  -->
 |war of the flowers|war of the flowers|?|serie(**)|thailande|0|<!--  -->
-|UMG|UMG|?|serie(**)|thailande|0|<!--  -->
 |home school|home school|?|serie(**)|thailande|0|<!--  -->
 |midnight motel|midnight motel|?|serie(**)|thailande|0|<!--  -->
 |dirty laundry|dirty laundry|?|serie(**)|thailande|0|<!--  -->
 |my precious|my precious|1|film(**)|thailande|0|<!--  -->
 |never let me go|never let me go|?|serie|thailande|0|<!--  -->
-|moonlight chicken|moonlight chicken|?|serie|thailande|0|<!--  -->
-|my school president|my school president|?|serie|thailande|0|<!--  -->
 |you are my favorite|you are my favorite|?|serie|thailande|0|<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
