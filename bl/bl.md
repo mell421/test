@@ -270,7 +270,7 @@
 |blueming _1|blueming _1|11|serie|corée|<!--  -->
 |Moonlight chicken _1||8|||<!--  -->
 |Our dating sim _1||8|||<!--  -->
-||||||<!--  -->
+|Crush on you _1||7|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
