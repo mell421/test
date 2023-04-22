@@ -7,26 +7,31 @@
 # nb bis
 list99=( 
 # >= 100
-"Big brother us _24" 
+"Big brother us _24" "The voice sri lanka _2" "The voice no _8" "The voice finland _13" "Le flambeau _1" "The voice lithu _9" "The shipper _1" "The voice kids ph _5" 
 # 99-50
+"The masked singer vv _3" "Lego masters _3" "The masked singer _9" "Physical 100 _1" "The voice us _23" "Agt _17" "The voice chile _4" 
 # 49-40
-"The shipper _1" 
+"The voice kids poland _6" "The voice fr _13" "Koh-lanta _29" "Choco milk shake _1" 
 # 39-30
+"The voice kids uruguay _1" "The voice kids ger _11" "Top chef _14" 
 # 29-20 
+"Past senger _1" "A boss and a babe _1" "Earthmix space _2" "Reginald the vampire _1" 
 # 19-15
-"Ai long nhai _1" "Sky in your heart _1" "Masterchef fr _6" 
+"American idol _21" "The voice kids portugal _4" "The masked singer ger _8" "Drag race be _1" "Midnight museum _1" 
 # 14-10
-"Dwts _31" "Interviex with the vampire _1" "Lego masters _3" 
+"Umg _1" "Bed friend _1" "Next level chef _2" "Me my husband and my husbands boyfriend _1" 
 # 9-8
-"Reginald the vampire _1" "La mas draga _5" "The voice nepal _4" 
+"The masked singer th _12" 
 # 7-6
-"Un dos tres _3" 
+"The eight sense _1" "Double savage _1" "The voice kids esp _8" "Devils line _1" "Queer as folk _1" "Drag race sweden _1" 
 # 5-4
-"Juad juad _1" "The challenge _38" "Let the right one in _1" "Vampire academy _1" 
+"The voice japan _1" "Cheat netflix _1" "The masked singer fr _5" "Make a wish _1" "Dance 100 _1" "Cutie pie _2" "The night beyond the tricornered window _1" "Skam france _11" 
 # 3-2
-"Nailed it _7" "Ahs _11" 
 # 0-1
 # other
+"Ai long nhai _1" "Sky in your heart _1" "Masterchef fr _6" "Dwts _31" 
+"La mas draga _5" "The voice nepal _4" "Un dos tres _3" "Juad juad _1" "The challenge _38" "Let the right one in _1" "Vampire academy _1" 
+"Nailed it _7" "Ahs _11" 
 "Dont forget the lyrics _1" "Big brother us _23" "Two pints of lager _3" 
 "Tokyo ghoul _3" "Unforgotten night _1" "Agt _17" "Close friend _2" 
 "Rpdrasu _7" "Rpdras _7" "Rpdrdu _2" "Game of talents fr _2" "Second chance series _1" 
@@ -76,8 +81,8 @@ do
         echo "" >> logChercher.txt
     
 done
-echo "cat sep nb fichier" > logChercherRes.txt
-sort -n logChercher.txt | uniq >> logChercherRes.txt
+# echo "cat sep nb fichier" > logChercherRes.txt
+# sort -n logChercher.txt | uniq >> logChercherRes.txt
 
 # for i in "${list99[@]}"
 # do
