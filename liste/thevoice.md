@@ -148,7 +148,25 @@
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the voice nl 12|||||0|<!--  -->
-|the voice nepal _4|||||0|<!--  -->
+|The voice ger _1|||||0|<!--  -->
+|The voice ph _1|||||0|<!--  -->
+|The voice kids indonesia _4|||||0|<!--  -->
+|The voice nepal _4|||||0|<!--  -->
+|The voice us _23|||||0|<!--  -->
+|The voice chile _4|||||0|<!--  -->
+|The voice finland _13|||||0|<!--  -->
+|The voice no _8|||||0|<!--  -->
+|The voice kids poland _6|||||0|<!--  -->
+|The voice fr _13|||||0|<!--  -->
+|The voice sri lanka _2|||||0|<!--  -->
+|The voice kids ph _5|||||0|<!--  -->
+|The voice kids esp _8|||||0|<!--  -->
+|The voice lithu _9|||||0|<!--  -->
+|The voice kids portugal _4|||||0|<!--  -->
+|The voice kids ger _11|||||0|<!--  -->
+|The voice kids uruguay _1|||||0|<!--  -->
+|The voice japan _1|||||0|<!--  -->
+||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

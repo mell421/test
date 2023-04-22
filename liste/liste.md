@@ -946,6 +946,70 @@
 |let the right one in _1|||||0|<!--  -->
 |the challenge _38|||||0|<!--  -->
 |ahs _11|||||0|<!-- 18/10 -->
+|La brea _1|||||0|<!--  -->
+|Run for the money _1|||||0|<!--  -->
+|The challenge au _1|||||0|<!--  -->
+|/1899 _1|||||0|<!--  -->
+|dragula titans _1|||||0|<!--  -->
+|/609 bedtime story _1|||||0|<!--  -->
+|Never let me go _1|||||0|<!--  -->
+|Midnight motel _1|||||0|<!--  -->
+|Rpdr _15|||||0|<!--  -->
+|Dirty laundry _1|||||0|<!--  -->
+|Agt as _1|||||0|<!--  -->
+|Mako ventures _2|||||0|<!--  -->
+|Survivor au _10|||||0|<!--  -->
+|Painted with raven _2|||||0|<!--  -->
+|Tongue thaid _1|||||0|<!--  -->
+|Drag race sweden _1|||||0|<!--  -->
+|Cheat netflix _1|||||0|<!--  -->
+|Physical 100 _1|||||0|<!--  -->
+|Drag race be _1|||||0|<!--  -->
+|Skam france _11|||||0|<!--  -->
+|The night beyond the tricornered window _1|||||0|<!--  -->
+|Cutie pie _2|||||0|<!--  -->
+|Dance 100 _1|||||0|<!--  -->
+|Next level chef _2|||||0|<!--  -->
+|The voice us _23|||||0|<!--  -->
+|Choco milk shake _1|||||0|<!--  -->
+|Umg _1|||||0|<!--  -->
+|Queer as folk _1|||||0|<!--  -->
+|The masked singer th _12|||||0|<!--  -->
+|Midnight museum _1|||||0|<!--  -->
+|Earthmix space _2|||||0|<!--  -->
+|Devils line _1|||||0|<!--  -->
+|Me my husband and my husbands boyfriend _1|||||0|<!--  -->
+|Make a wish _1|||||0|<!--  -->
+|The eight sense _1|||||0|<!--  -->
+|The voice chile _4|||||0|<!--  -->
+|The masked singer ger _8|||||0|<!--  -->
+|The voice finland _13|||||0|<!--  -->
+|The masked singer vv _3|||||0|<!--  -->
+|The masked singer _9|||||0|<!--  -->
+|The voice no _8|||||0|<!--  -->
+|The voice kids poland _6|||||0|<!--  -->
+|The voice fr _13|||||0|<!--  -->
+|Bed friend _1|||||0|<!--  -->
+|The voice sri lanka _2|||||0|<!--  -->
+|The voice kids ph _5|||||0|<!--  -->
+|The voice kids esp _8|||||0|<!--  -->
+|The voice lithu _9|||||0|<!--  -->
+|The voice kids portugal _4|||||0|<!--  -->
+|The voice kids ger _11|||||0|<!--  -->
+|American idol _21|||||0|<!--  -->
+|Double savage _1|||||0|<!--  -->
+|Koh-lanta _29|||||0|<!--  -->
+|Top chef _14|||||0|<!--  -->
+|Past senger _1|||||0|<!--  -->
+|A boss and a babe _1|||||0|<!--  -->
+|The masked singer fr _5|||||0|<!--  -->
+|The voice kids uruguay _1|||||0|<!--  -->
+|The voice japan _1|||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
+||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -967,10 +1031,8 @@
 |war of y _1|||||0|<!-- 2/8 -->
 |drag latina _1|||||0|<!--  -->
 |drag race ca vs world _1|||||0|<!--  -->
-|dragula titans _1|||||0|<!--  -->
 |survivor _43|||||0|<!-- 22/9 -->
 |next in fashion _2|||||0|<!-- 17/11 -->
-|rpdr _15|||||0|<!--  -->
 |rpdru _15|||||0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->
@@ -994,12 +1056,8 @@
 |yyy _2||?|||0|<!--  -->
 |sea him _2||?|||0|<!--  -->
 |my extraordinary _2|||||0|<!--  -->
-|UMG||?||thailande|0|<!--  -->
 |home school||?||thailande|0|<!--  -->
-|midnight motel||?||thailande|0|<!--  -->
-|dirty laundry||?||thailande|0|<!--  -->
 |my precious||1||thailande|0|<!--  -->
-|never let me go||?|serie|thailande|0|<!--  -->
 |you are my favorite||?|serie|thailande|0|<!--  -->
 ||||||0|<!--  -->
 ||||||0|<!--  -->

@@ -29,47 +29,34 @@
 
 ## Aperçu semaine
 
-
 ### sem 02-01-2023
-* *insererici*
 * The voice kids uk _6
 * The voice kids cambodia _3
 ### sem 09-01-2023
-* *insererici*
 * The voice kids malta _1
 ### sem 16-01-2023
-* *insererici*
 * The voice generations peru _1
 * Annee zero _1
 ### sem 23-01-2023
-* *insererici*
 * Vortex _1
 ### sem 30-01-2023
-* *insererici*
 * Between us _1
 * His man _1
 * Little big world with pond phuwin _1
 * The voice portugal _10
 ### sem 06-02-2023
-* *insererici*
 ### sem 13-02-2023
-* *insererici*
 * Ninja warrior _7
 ### sem 20-02-2023
-* *insererici*
 * The masked singer uk _4
 ### sem 27-02-2023
-* *insererici*
 * The voice senior poland _4
 * The challenge uk _1
 * My school president _1
 ### sem 06-03-2023
-* *insererici*
 * The voice senior it _3
 ### sem 13-03-2023
-* *insererici*
 ### sem 20-03-2023
-* *insererici*
 * Blueming _1
 * The voice kids it _1
 * Dancing on ice uk _15 
@@ -80,11 +67,9 @@
 * History5 litf _1 
 * The voice greece _9
 ### sem 27-03-2023
-* *insererici*
 * The challenge arg _1
 * Moonlight chicken _1
 ### sem 03-04-2023
-* *insererici*
 * Our dating sim _1
 ### sem 10-04-2023
 ### sem 17-04-2023
@@ -93,6 +78,10 @@
 * Pekin express _17
 * The voice peru _6
 ### sem 01-05-2023
+### sem 08-05-2023
+### sem 15-05-2023
+### sem 22-05-2023
+### sem 29-05-2023
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -105,10 +94,62 @@
 * First love again _1
 * 
 * $ order $
-* The masked singer _8
-* Big brother us _24
-* Ai long nhai _1
+* The voice japan _1
+* The voice kids uruguay _1
+* The masked singer fr _5
+* A boss and a babe _1
+* Past senger _1
+* Top chef _14
+* Koh-lanta _29
+* Double savage _1
+* American idol _21
+* The voice kids ger _11
+* The voice kids portugal _4
+* The voice lithu _9
+* The voice kids esp _8
+* The voice kids ph _5
+* The voice sri lanka _2
+* Bed friend _1
+* The voice fr _13
+* The voice kids poland _6
+* The voice no _8
+* The masked singer _9
+* The masked singer vv _3
+* The voice finland _13
+* The masked singer ger _8
+* The voice chile _4
+* TRhe eight sense _1
+* Make a wish _1
+* Me my husband and my husbands boyfriend _1
+* Devils line _1
+* Earthmix space _2
+* Midnight museum _1
+* The masked singer th _12
+* Queer as folk _1
+* Umg _1
+* Choco milk shake _1
+* The voice us _23
 * Reginald the vampire _1
+* Next level chef _2
+* Big brother us _24
+* Le flambeau _1
+* Dance 100 _1
+* Cutie pie _2
+* The night beyond the tricornered window _1
+* Skam france _11
+* Drag race be _1
+* Physical 100 _1
+* Cheat netflix _1
+* Drag race sweden _1
+* ...
+* Tongue thaid _1
+* Survivor au _10
+* Mako ventures _2
+* Dirty laundry _1
+* Rpdr _15
+* Agt as _1
+* ...
+* Ai long nhai _1
 * The challenge _38
 * Ahs _11
 * The shipper _1
@@ -123,13 +164,11 @@
 * Masterchef fr _6
 * Un dos tres _3
 * Skam italia _5
-* Le flambeau _1
 * Camping paradis _13
 * My only 12pc _1
 * Bt21 original story _2
 * Rpdrdu _2
 * Drag race ph _1
-* 
 * Juad juad _1
 * Dont forget the lyrics _1
 * Agt _17
