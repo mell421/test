@@ -20,3 +20,12 @@ ajout/.gradle/*/*
 ajout/.gradle/*
 ajout/*.gradle
 idea/*
+
+package-lock.json
+package.json
+yarn.lock
+yarn.lock
+node_modules/*
+node_modules/*/*
+yarn.lock
+yarn.lock

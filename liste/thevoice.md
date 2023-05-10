@@ -6,17 +6,18 @@
 # the voice
 
 ## sommaire
+
 - [the voice](#the-voice)
   - [sommaire](#sommaire)
   - [terminé](#terminé)
   - [en cours, a jour](#en-cours-a-jour)
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
 </div>
 
 ## terminé
- 
+
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
 |TV US 16||23||us|
@@ -140,13 +141,12 @@
 ||||||<!--  -->
 ||||||<!--  -->
 
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak  
 </div>
 
 ## en cours, a jour
- 
+
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
 |the voice nl 12|||||0|<!--  -->
