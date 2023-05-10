@@ -127,14 +127,7 @@ aCalAsie <- function(){
   na.omit(table)
   return(table)
 }
-#calTest
 
-#cal3
-aCal3 <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=855661173')))
-  na.omit(table)
-  return(table)
-}
 #reste
 aReste <- function(){
   table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=56639949')))
@@ -311,13 +304,6 @@ aRewind23 <- function(){
   na.omit(table)
   return(table)
 }
-#tv
-aTv <- function(){
-  table <- data.frame(suppressWarnings(gsheet2tbl('https://docs.google.com/spreadsheets/d/1HZydd6qo-GcQVqnwQnerHHnMEyR6faJXKN7Egkuqp4I/edit#gid=134074616')))
-  na.omit(table)
-  return(table)
-}
-#emtv
 
 #list finished
 aListFinished <- function(){

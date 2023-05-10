@@ -52,6 +52,7 @@ loadMesPackages <- function(){
   require("webshot")
   require(vtable)
   require(devtools)
+  require(usethis)
 }
 
 loadMesPackages()

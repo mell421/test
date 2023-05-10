@@ -1,0 +1,346 @@
+---
+title: "Wordclouds"
+output:
+  html_document:
+    df_print: paged
+    toc: false
+---
+```{r setup, include = FALSE}
+# INSTALL
+# LOAD
+suppressWarnings(source("./R/sources.R"))
+
+# variables globales
+begin_time<-Sys.time()
+# wordcloud
+## delay webshot
+delayW <- 5
+## circle, cardioid, diamond, triangle-forward, triangle, pentagon
+forme <- "pentagon"
+
+# FCTS
+```
+
+
+[retour](./../index.html)  
+
+<!-- -->
+
+||||  
+|---|---|---|  
+|[allListe](./allListe.html)|[wordcloud](./wordcloud.html)|[graph](./mygraph.html)|
+||[summary](./summary.html)||
+
+---
+
+## WORDCLOUD
+
+<!-- accueil 10 -->
+### accueil
+```{r accueil, echo=FALSE}
+text <- data.frame(accueil())
+text <- text[2]
+suppressWarnings(tm_(text,titreBarplot="Top 20 accueil",forme,titreImgCircle="accueil_3.png",delayW))
+print("_")
+```
+<!-- listDesc 15 -->
+
+### en cours
+```{r encours, echo=FALSE}
+text <- data.frame(listDesc.ec())
+text <- text[2]
+
+tm <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 en cours")
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"encours_3.png",delayW)
+  #dev.print(device = png, file = "encours_2.png", width = 600)
+  # 
+}
+
+suppressWarnings(tm(text))
+```
+
+<!-- LD -->
+### recent
+```{r recent0, echo=FALSE}
+recent <- data.frame(aLD())
+text <- recent$Titre...24
+
+tm <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 recent")
+  
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"recent_3.png",delayW)
+}
+
+suppressWarnings(tm(text))
+```
+
+<!-- listDesc -->
+### termine
+```{r termine, echo=FALSE}
+text <- data.frame(listDesc.ter())
+text <- text[2]
+
+tm <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 termine")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"termine_3.png",delayW)
+}
+
+suppressWarnings(tm(text))
+```
+
+<!-- copy -->
+### copy
+```{r copy, echo=FALSE}
+text <- data.frame(copy())
+main <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 copy")
+  
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"copy_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+<!-- test conclu 53 -->
+### conclu
+```{r conclu, echo=FALSE}
+text <- data.frame(aCps())
+text <- text[1]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 conclu")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"conclu_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+<!-- test conclu bis 58 -->
+### conclubis
+```{r conclubis, echo=FALSE}
+text2 <- data.frame(aCps())
+text <- text2[2]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 conclubis")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"conclubis_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+### 2023
+```{r 2023, echo=FALSE}
+text2 <- data.frame(aRewind23())
+text <- text2[2]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 2023")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"rewind23_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+
+<!-- copy 63 -->
+### sem
+```{r sem, echo=FALSE}
+text2 <- data.frame(aCps())
+text <- text2[3]
+main <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 sem")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"sem_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+<!-- copy 68 -->
+### mois
+```{r mois, echo=FALSE}
+text2 <- data.frame(aCps())
+text <- text2[4]
+main <- function(text){
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 mois")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"mois_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+
+<!-- copy 74 -->
+### max
+```{r max, echo=FALSE}
+text2 <- aCps()
+text <- text2[5]
+main <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 max")
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"max_3.png",delayW)
+}
+
+suppressWarnings(main(text))
+```
+
+<!-- eff 79 -->
+### eff
+```{r eff, echo=FALSE}
+text2 <- aCps()
+text <- text2[6]
+main <- function(text){
+  
+  
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 eff")
+  
+  #generate word cloud
+  # set.seed(1234)
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"eff_3.png",delayW)
+
+}
+
+suppressWarnings(main(text))
+```
+
+### Page app
+```{r pa, echo=FALSE}
+text <- data.frame(aPA())
+main <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 PA")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"pa_3.png",delayW)
+
+}
+
+suppressWarnings(main(text))
+```
+
+### aff odd
+```{r affodd, echo=FALSE}
+text <- data.frame(aAffODD())
+main <- function(text){
+  dtm_d <- wc(text)
+  # Display the top 20 most frequent words
+  head(dtm_d, 30)
+
+  # Plot the most frequent words
+  barplotSimple(dtm_d[1:20,]$freq,dtm_d[1:20,]$word,"Top 20 affODD")
+  
+
+  #generate word cloud
+  wcSimple(dtm_d$word,dtm_d$freq)
+  wcDouble(dtm_d,forme,"affodd_3.png",delayW)
+
+}
+
+suppressWarnings(main(text))
+```
+
+### timing
+```{r timing1 , echo=FALSE}
+end_time<-Sys.time()
+total_time <- end_time - begin_time
+print(total_time)
+begin_time2 <-Sys.time()
+```
+
