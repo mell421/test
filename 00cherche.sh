@@ -7,7 +7,7 @@
 # nb bis
 list99=( 
 # >= 100
-"Big brother us _24" "The voice sri lanka _2" "The voice no _8" "Le flambeau _1" "The voice lithu _9" "The shipper _1" "The voice kids ph _5" 
+"Big brother us _24" "The voice sri lanka _2" "The voice no _8" "Le flambeau _1" "The shipper _1" "The voice kids ph _5" 
 # 99-50
 "Lego masters _3" "The masked singer _9" "Physical 100 _1" "The voice us _23" "Agt _17" "The voice chile _4" 
 # 49-40

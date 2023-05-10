@@ -725,6 +725,7 @@
 |Crush on you _1||7|||<!--  -->
 |The voice finland _13||24|||<!--  -->
 |The masked singer vv _3||12|||<!--  -->
+|The voice lithu _9||18|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -993,7 +994,6 @@
 |The voice sri lanka _2|||||0|<!--  -->
 |The voice kids ph _5|||||0|<!--  -->
 |The voice kids esp _8|||||0|<!--  -->
-|The voice lithu _9|||||0|<!--  -->
 |The voice kids portugal _4|||||0|<!--  -->
 |The voice kids ger _11|||||0|<!--  -->
 |American idol _21|||||0|<!--  -->
