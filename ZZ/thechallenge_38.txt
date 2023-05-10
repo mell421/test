@@ -1,3 +1,16 @@
+aEff/aeff.md:04/11/22 - 5* The challenge _38{3} La brea _1{2} 
+aEff/aeff.md:05/11/22 - 12* Reginald the vampire _1{4} The challenge _38{4} La brea _1{4} 
+aEff/aeff.md:06/11/22 - 15* Reginald the vampire _1{5} The challenge _38{4} La brea _1{6} 
+aEff/aeff.md:13/10/22 - 3* La mas draga _5{3} The challenge _38{0} Let the right one in _1{0} 
+aEff/aeff.md:14/10/22 - 6* Dwts _31{5} Reginald the vampire _1{1} The challenge _38{0} 
+aEff/aeff.md:21/10/22 - 6* Reginald the vampire _1{2} The challenge _38{1} Ahs _11{0} Ai long nhai _1{3} 
+apercu/apercuglobal.md:concluBis 04/11/22 = Big brother us _24 > 4; La brea _1 > 3; The challenge _38 > 1; 
+apercu/apercuglobal.md:mois 01-11-2022 -> Juad juad _1x3(1) Big brother us _24x19(1) Ai long nhai _1x5(3) Reginald the vampire _1x4(3) The challenge _38x3(3) Ahs _11x2(1) The shipper _1x9(3) Dwts _31x4(1) La mas draga _5x4(2) Let the right one in _1x2(1) The voice nepal _4x4(1) Lego masters _3x4(2) Nailed it _7x2(1) 
+apercu/apercuglobal.md:mois 01-12-2022 -> The voice sri lanka _2x5(4) /1899 _1x2(1) The challenge au _1x3(2) Painted with raven _2x2(1) Run for the money _1x2(1) Reginald the vampire _1x6(2) The challenge _38x5(2) La brea _1x4(3) 
+apercu/apercuglobal.md:sem 07-11-2022 -> Reginald the vampire _1x6(2) The challenge _38x5(2) La brea _1x4(3) 
+apercu/apercuglobal.md:sem 17-10-2022 -> Dwts _31x4(1) Reginald the vampire _1x3(1) The challenge _38x2(2) La mas draga _5x4(1) Let the right one in _1x2(1) 
+apercu/apercuglobal.md:sem 24-10-2022 -> Reginald the vampire _1x4(1) The challenge _38x3(1) Ahs _11x2(1) Ai long nhai _1x4(1) The shipper _1x9(1) 
 apercuTer/apercuTer.md:* The challenge _38
-index.html:            The challenge _38<br>
 liste/liste.md:|the challenge _38|||||0|<!--  -->
+premder/premder.md:The challenge _38x0
+premder/premder.md:The challenge _38x4

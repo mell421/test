@@ -1,71 +1,289 @@
+aEff/aeff.md:01/01/23 (eff) - Big brother us _24{248} The voice sri lanka _2{37} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:01/02/23 (eff) - Big brother us _24{311} The voice sri lanka _2{103} The voice no _8{42} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:01/03/23 (eff) - Big brother us _24{368} The voice sri lanka _2{163} The voice no _8{84} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} Lego masters _3{15} The shipper _1{15} 
+aEff/aeff.md:01/04/23 (eff) - Big brother us _24{413} The voice sri lanka _2{230} The voice no _8{146} Le flambeau _1{22} The voice kids ph _5{20} Tongue thaid _1{18} The voice us _23{17} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} Agt _17{11} The masked singer _9{10} 
 aEff/aeff.md:01/08/22 - 28* God shave the queens _2{0} Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{12} 
 aEff/aeff.md:01/08/22 (eff) - Big brother us _23{28} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{12} Tokyo ghoul _3{9} 
+aEff/aeff.md:01/09/22 (eff) - Big brother us _24{64} Big brother us _23{35} Dont forget the lyrics _1{23} Le flambeau _1{16} 
+aEff/aeff.md:01/11/22 (eff) - Big brother us _24{161} The shipper _1{11} 
+aEff/aeff.md:01/12/22 (eff) - Big brother us _24{201} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:02/01/23 (eff) - Big brother us _24{250} The voice sri lanka _2{40} La mas draga _5{18} Le flambeau _1{18} /609 bedtime story _1{17} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:02/02/23 (eff) - Big brother us _24{314} The voice sri lanka _2{106} The voice no _8{45} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:02/03/23 (eff) - Big brother us _24{370} The voice sri lanka _2{166} The voice no _8{87} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:02/04/23 (eff) - Big brother us _24{416} The voice sri lanka _2{233} The voice no _8{149} Le flambeau _1{23} The voice kids ph _5{22} The voice us _23{20} Tongue thaid _1{18} Physical 100 _1{16} Lego masters _3{16} The shipper _1{16} Choco milk shake _1{13} The masked singer _9{11} 
 aEff/aeff.md:02/08/22 - 228* Big brother us _24{15} God shave the queens _2{2} Rpdrdu _2{2} Game of talents fr _2{3} 
 aEff/aeff.md:02/08/22 (eff) - Big brother us _23{30} Dont forget the lyrics _1{18} Big brother us _24{15} Two pints of lager _3{15} Bulgasal _1{13} 
-aEff/aeff.md:03/08/22 - 407* Blueming _1{4} Big brother us _24{16} God shave the queens _2{2} 
+aEff/aeff.md:02/09/22 (eff) - Big brother us _24{67} Big brother us _23{35} Dont forget the lyrics _1{24} Le flambeau _1{17} 
+aEff/aeff.md:02/11/22 (eff) - Big brother us _24{163} The shipper _1{12} 
+aEff/aeff.md:02/12/22 (eff) - Big brother us _24{202} Le flambeau _1{18} La brea _1{16} 
+aEff/aeff.md:03/01/23 (eff) - Big brother us _24{252} The voice sri lanka _2{42} La mas draga _5{18} Le flambeau _1{18} /609 bedtime story _1{17} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:03/02/23 (eff) - Big brother us _24{316} The voice sri lanka _2{108} The voice no _8{47} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:03/03/23 (eff) - Big brother us _24{372} The voice sri lanka _2{168} The voice no _8{89} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:03/04/23 (eff) - Big brother us _24{418} The voice sri lanka _2{235} The voice no _8{151} The voice kids ph _5{23} Le flambeau _1{23} The voice us _23{20} Tongue thaid _1{18} Physical 100 _1{16} Lego masters _3{16} The shipper _1{16} Choco milk shake _1{15} The masked singer _9{11} 
+aEff/aeff.md:03/08/22 - 407* Big brother us _24{16} God shave the queens _2{2} 
 aEff/aeff.md:03/08/22 (eff) - Big brother us _23{31} Dont forget the lyrics _1{18} Big brother us _24{16} Two pints of lager _3{15} Bulgasal _1{13} 
-aEff/aeff.md:04/08/22 - 438* Big brother us _24{17} Blueming _1{4} 
+aEff/aeff.md:03/09/22 (eff) - Big brother us _24{69} Big brother us _23{35} Dont forget the lyrics _1{24} Le flambeau _1{17} 
+aEff/aeff.md:03/11/22 (eff) - Big brother us _24{164} The shipper _1{12} 
+aEff/aeff.md:03/12/22 (eff) - Big brother us _24{203} Le flambeau _1{18} La brea _1{16} 
+aEff/aeff.md:04/01/23 (eff) - Big brother us _24{254} The voice sri lanka _2{44} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:04/02/23 (eff) - Big brother us _24{318} The voice sri lanka _2{110} The voice no _8{49} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:04/03/23 (eff) - Big brother us _24{374} The voice sri lanka _2{170} The voice no _8{91} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:04/04/23 (eff) - Big brother us _24{419} The voice sri lanka _2{238} The voice no _8{154} The voice kids ph _5{25} Le flambeau _1{23} The voice us _23{20} Tongue thaid _1{18} Physical 100 _1{16} Lego masters _3{16} The shipper _1{16} Choco milk shake _1{15} The masked singer _9{12} 
+aEff/aeff.md:04/08/22 - 438* Big brother us _24{17} 
 aEff/aeff.md:04/08/22 (eff) - Big brother us _23{31} Dont forget the lyrics _1{18} Big brother us _24{17} Two pints of lager _3{15} Bulgasal _1{13} 
-aEff/aeff.md:05/08/22 - 289* Big brother us _24{19} Unforgotten night _1{7} Blueming _1{4} 
+aEff/aeff.md:04/09/22 (eff) - Big brother us _24{71} Dont forget the lyrics _1{24} Le flambeau _1{17} Agt _17{9} 
+aEff/aeff.md:04/11/22 (eff) - Big brother us _24{165} The shipper _1{12} 
+aEff/aeff.md:04/12/22 (eff) - Big brother us _24{204} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:05/01/23 (eff) - Big brother us _24{256} The voice sri lanka _2{46} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:05/02/23 (eff) - Big brother us _24{320} The voice sri lanka _2{112} The voice no _8{51} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:05/03/23 (eff) - Big brother us _24{376} The voice sri lanka _2{172} The voice no _8{93} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:05/04/23 (eff) - Big brother us _24{420} The voice sri lanka _2{240} The voice no _8{156} The voice kids ph _5{27} Le flambeau _1{23} The voice us _23{20} Tongue thaid _1{18} Physical 100 _1{16} Lego masters _3{16} The shipper _1{16} Choco milk shake _1{15} The masked singer _9{12} 
+aEff/aeff.md:05/08/22 - 289* Big brother us _24{19} Unforgotten night _1{7} 
 aEff/aeff.md:05/08/22 (eff) - Big brother us _23{31} Big brother us _24{19} Dont forget the lyrics _1{18} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:05/09/22 (eff) - Big brother us _24{73} Dont forget the lyrics _1{24} Le flambeau _1{17} Agt _17{9} 
+aEff/aeff.md:05/11/22 (eff) - Big brother us _24{166} The shipper _1{12} 
+aEff/aeff.md:05/12/22 (eff) - Big brother us _24{205} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:06/01/23 (eff) - Big brother us _24{258} The voice sri lanka _2{48} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:06/02/23 (eff) - Big brother us _24{322} The voice sri lanka _2{114} The voice no _8{53} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:06/03/23 (eff) - Big brother us _24{378} The voice sri lanka _2{174} The voice no _8{95} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:06/04/23 (eff) - Big brother us _24{421} The voice sri lanka _2{242} The voice no _8{158} The voice kids ph _5{29} Le flambeau _1{23} The voice us _23{21} Tongue thaid _1{18} Physical 100 _1{16} Lego masters _3{16} The shipper _1{16} Choco milk shake _1{15} The voice chile _4{13} The masked singer _9{12} 
 aEff/aeff.md:06/08/22 - 287* Big brother us _24{21} Unforgotten night _1{7} 
 aEff/aeff.md:06/08/22 (eff) - Big brother us _23{32} Big brother us _24{21} Dont forget the lyrics _1{18} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:06/09/22 (eff) - Big brother us _24{75} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:06/11/22 (eff) - Big brother us _24{167} The shipper _1{12} 
+aEff/aeff.md:06/12/22 (eff) - Big brother us _24{206} Le flambeau _1{18} La brea _1{16} 
+aEff/aeff.md:07/01/23 (eff) - Big brother us _24{260} The voice sri lanka _2{50} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:07/02/23 (eff) - Big brother us _24{324} The voice sri lanka _2{117} The voice no _8{56} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:07/03/23 (eff) - Big brother us _24{380} The voice sri lanka _2{177} The voice no _8{98} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:07/04/23 (eff) - Big brother us _24{422} The voice sri lanka _2{244} The voice no _8{160} The voice kids ph _5{30} Le flambeau _1{23} The voice us _23{22} Tongue thaid _1{18} Physical 100 _1{16} Lego masters _3{16} The shipper _1{16} The voice chile _4{15} Choco milk shake _1{15} The masked singer _9{12} 
 aEff/aeff.md:07/08/22 - 277* Big brother us _24{23} Unforgotten night _1{7} 
 aEff/aeff.md:07/08/22 (eff) - Big brother us _23{33} Big brother us _24{23} Dont forget the lyrics _1{18} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:07/09/22 (eff) - Big brother us _24{77} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:07/11/22 (eff) - Big brother us _24{169} The shipper _1{12} 
+aEff/aeff.md:07/12/22 (eff) - Big brother us _24{207} Le flambeau _1{18} La brea _1{16} 
+aEff/aeff.md:08/01/23 (eff) - Big brother us _24{262} The voice sri lanka _2{52} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:08/02/23 (eff) - Big brother us _24{326} The voice sri lanka _2{119} The voice no _8{57} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:08/03/23 (eff) - Big brother us _24{382} The voice sri lanka _2{179} The voice no _8{100} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:08/04/23 (eff) - Big brother us _24{423} The voice sri lanka _2{246} The voice no _8{162} The voice kids ph _5{32} Le flambeau _1{23} The voice us _23{22} The voice chile _4{17} Physical 100 _1{16} Lego masters _3{16} Choco milk shake _1{15} The masked singer _9{13} 
 aEff/aeff.md:08/08/22 - 275* Big brother us _24{25} 
 aEff/aeff.md:08/08/22 (eff) - Big brother us _23{34} Big brother us _24{25} Dont forget the lyrics _1{18} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:08/09/22 (eff) - Big brother us _24{79} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:08/11/22 (eff) - Big brother us _24{171} The shipper _1{12} 
+aEff/aeff.md:08/12/22 (eff) - Big brother us _24{208} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:09/01/23 (eff) - Big brother us _24{264} The voice sri lanka _2{54} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:09/02/23 (eff) - Big brother us _24{328} The voice sri lanka _2{121} The voice no _8{58} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:09/03/23 (eff) - Big brother us _24{383} The voice sri lanka _2{181} The voice no _8{101} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:09/04/23 (eff) - Big brother us _24{424} The voice sri lanka _2{248} The voice no _8{164} The voice kids ph _5{33} Le flambeau _1{23} The voice us _23{22} The voice chile _4{17} Physical 100 _1{16} Lego masters _3{16} Choco milk shake _1{15} The masked singer _9{13} 
 aEff/aeff.md:09/08/22 (eff) - Big brother us _23{35} Big brother us _24{28} Dont forget the lyrics _1{18} Two pints of lager _3{15} 
+aEff/aeff.md:09/09/22 (eff) - Big brother us _24{80} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:09/11/22 (eff) - Big brother us _24{173} La brea _1{13} The shipper _1{12} 
+aEff/aeff.md:09/12/22 (eff) - Big brother us _24{209} Le flambeau _1{18} La brea _1{16} 
+aEff/aeff.md:10/01/23 (eff) - Big brother us _24{266} The voice sri lanka _2{57} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:10/02/23 (eff) - Big brother us _24{330} The voice sri lanka _2{123} The voice no _8{59} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:10/03/23 (eff) - Big brother us _24{384} The voice sri lanka _2{183} The voice no _8{102} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} 
+aEff/aeff.md:10/04/23 (eff) - Big brother us _24{425} The voice sri lanka _2{250} The voice no _8{166} The voice kids ph _5{34} Le flambeau _1{23} The voice us _23{22} The voice chile _4{17} Physical 100 _1{16} Choco milk shake _1{15} The masked singer _9{13} The voice kids poland _6{11} 
 aEff/aeff.md:10/08/22 (eff) - Big brother us _23{35} Big brother us _24{29} Dont forget the lyrics _1{18} Two pints of lager _3{15} 
+aEff/aeff.md:10/09/22 (eff) - Big brother us _24{81} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:10/11/22 (eff) - Big brother us _24{175} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:10/12/22 (eff) - Big brother us _24{210} Le flambeau _1{18} La brea _1{16} 
+aEff/aeff.md:11/01/23 (eff) - Big brother us _24{268} The voice sri lanka _2{59} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:11/02/23 (eff) - Big brother us _24{332} The voice sri lanka _2{125} The voice no _8{60} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:11/03/23 (eff) - Big brother us _24{385} The voice sri lanka _2{185} The voice no _8{103} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:11/04/23 (eff) - Big brother us _24{426} The voice sri lanka _2{253} The voice no _8{168} The voice kids ph _5{37} Le flambeau _1{23} The voice us _23{22} The voice chile _4{17} Physical 100 _1{16} Choco milk shake _1{15} The masked singer _9{14} The voice kids poland _6{11} 
 aEff/aeff.md:11/08/22 - 322* Big brother us _24{30} Dont forget the lyrics _1{18} Rpdrdu _2{2} Agt _17{7} 
 aEff/aeff.md:11/08/22 (eff) - Big brother us _23{35} Big brother us _24{30} Dont forget the lyrics _1{18} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:11/09/22 (eff) - Big brother us _24{83} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:11/11/22 (eff) - Big brother us _24{177} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:11/12/22 (eff) - Big brother us _24{211} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:12/01/23 (eff) - Big brother us _24{270} The voice sri lanka _2{61} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:12/02/23 (eff) - Big brother us _24{334} The voice sri lanka _2{127} The voice no _8{61} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:12/03/23 (eff) - Big brother us _24{386} The voice sri lanka _2{187} The voice no _8{105} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:12/04/23 (eff) - Big brother us _24{427} The voice sri lanka _2{255} The voice no _8{170} The voice kids ph _5{39} Le flambeau _1{23} The voice us _23{22} The voice chile _4{18} Physical 100 _1{16} Choco milk shake _1{15} The masked singer _9{14} The voice kids poland _6{11} 
 aEff/aeff.md:12/07/22 - 304* Big brother us _23{0} Big brother us _24{0} Two pints of lager _3{14} 
-aEff/aeff.md:12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Blueming _1{5} Juad juad _1{0} Dont forget the lyrics _1{19} 
+aEff/aeff.md:12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Juad juad _1{0} Dont forget the lyrics _1{19} 
 aEff/aeff.md:12/08/22 (eff) - Big brother us _23{35} Big brother us _24{31} Dont forget the lyrics _1{19} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:12/09/22 (eff) - Big brother us _24{85} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:12/11/22 (eff) - Big brother us _24{179} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:12/12/22 (eff) - Big brother us _24{212} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:13/01/23 (eff) - Big brother us _24{272} The voice sri lanka _2{63} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:13/02/23 (eff) - Big brother us _24{336} The voice sri lanka _2{129} The voice no _8{62} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:13/04/23 (eff) - Big brother us _24{428} The voice sri lanka _2{257} The voice no _8{172} The voice kids ph _5{41} Le flambeau _1{23} The voice us _23{22} The voice chile _4{19} Physical 100 _1{16} Choco milk shake _1{15} The masked singer _9{14} The voice kids poland _6{11} 
 aEff/aeff.md:13/07/22 - 316* Big brother us _23{1} Big brother us _24{0} Two pints of lager _3{14} 
-aEff/aeff.md:13/08/22 - 326* Sky in your heart _1{3} Big brother us _24{32} Blueming _1{5} Juad juad _1{0} 
+aEff/aeff.md:13/08/22 - 326* Sky in your heart _1{3} Big brother us _24{32} Juad juad _1{0} 
 aEff/aeff.md:13/08/22 (eff) - Big brother us _23{35} Big brother us _24{32} Dont forget the lyrics _1{20} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:13/09/22 (eff) - Big brother us _24{86} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:13/11/22 (eff) - Big brother us _24{181} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:13/12/22 (eff) - Big brother us _24{213} Le flambeau _1{18} La brea _1{16} /609 bedtime story _1{13} 
+aEff/aeff.md:14/01/23 (eff) - Big brother us _24{274} The voice sri lanka _2{65} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:14/02/23 (eff) - Big brother us _24{338} The voice sri lanka _2{131} The voice no _8{63} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:14/03/23 (eff) - Big brother us _24{388} The voice sri lanka _2{192} The voice no _8{108} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} 
+aEff/aeff.md:14/04/23 (eff) - Big brother us _24{429} The voice sri lanka _2{259} The voice no _8{174} The voice kids ph _5{43} Le flambeau _1{23} The voice us _23{22} The voice chile _4{20} Physical 100 _1{16} Choco milk shake _1{15} The masked singer _9{14} 
 aEff/aeff.md:14/07/22 - 279* Unforgotten night _1{4} Big brother us _24{0} Big brother us _23{3} 
-aEff/aeff.md:14/08/22 - 318* Sky in your heart _1{3} Big brother us _24{33} 
+aEff/aeff.md:14/08/22 - 36* Sky in your heart _1{3} Big brother us _24{33} 
 aEff/aeff.md:14/08/22 (eff) - Big brother us _23{35} Big brother us _24{33} Dont forget the lyrics _1{21} Two pints of lager _3{15} 
+aEff/aeff.md:14/09/22 (eff) - Big brother us _24{87} Dont forget the lyrics _1{24} Le flambeau _1{18} Agt _17{9} 
+aEff/aeff.md:14/11/22 (eff) - Big brother us _24{182} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:14/12/22 (eff) - Big brother us _24{214} La brea _1{16} /609 bedtime story _1{13} The shipper _1{12} 
+aEff/aeff.md:15/01/23 (eff) - Big brother us _24{276} The voice sri lanka _2{67} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} The voice no _8{11} 
+aEff/aeff.md:15/02/23 (eff) - Big brother us _24{340} The voice sri lanka _2{133} The voice no _8{64} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:15/03/23 (eff) - Big brother us _24{389} The voice sri lanka _2{194} The voice no _8{110} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} 
+aEff/aeff.md:15/04/23 (eff) - Big brother us _24{430} The voice sri lanka _2{261} The voice no _8{176} The voice kids ph _5{45} Le flambeau _1{23} The voice us _23{22} The voice chile _4{20} Physical 100 _1{16} Choco milk shake _1{15} The masked singer _9{14} 
 aEff/aeff.md:15/07/22 - 266* Big brother us _23{5} Unforgotten night _1{4} Big brother us _24{1} 
 aEff/aeff.md:15/08/22 (eff) - Big brother us _23{35} Big brother us _24{34} Dont forget the lyrics _1{22} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:15/09/22 (eff) - Big brother us _24{89} Dont forget the lyrics _1{24} Le flambeau _1{18} Agt _17{9} 
+aEff/aeff.md:15/11/22 (eff) - Big brother us _24{183} Le flambeau _1{18} La brea _1{15} 
+aEff/aeff.md:15/12/22 (eff) - Big brother us _24{215} Le flambeau _1{18} La brea _1{16} /609 bedtime story _1{13} La mas draga _5{12} 
+aEff/aeff.md:16/01/23 - 544* The voice sri lanka _2{69} Big brother us _24{278} The voice no _8{12} 
+aEff/aeff.md:16/01/23 (eff) - Big brother us _24{278} The voice sri lanka _2{69} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The voice no _8{12} The shipper _1{12} 
+aEff/aeff.md:16/02/23 (eff) - Big brother us _24{342} The voice sri lanka _2{135} The voice no _8{65} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{13} 
+aEff/aeff.md:16/04/23 (eff) - Big brother us _24{431} The voice sri lanka _2{263} The voice no _8{178} The voice kids ph _5{47} Le flambeau _1{23} The voice us _23{22} The voice chile _4{20} Physical 100 _1{16} Choco milk shake _1{15} The masked singer _9{14} 
 aEff/aeff.md:16/07/22 - 310* Big brother us _24{1} Big brother us _23{7} 
 aEff/aeff.md:16/08/22 (eff) - Big brother us _24{36} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:16/09/22 (eff) - Big brother us _24{91} Dont forget the lyrics _1{24} Le flambeau _1{18} Agt _17{9} 
+aEff/aeff.md:16/11/22 (eff) - Big brother us _24{184} Le flambeau _1{18} La brea _1{15} 
+aEff/aeff.md:16/12/22 (eff) - Big brother us _24{216} Le flambeau _1{18} La brea _1{16} La mas draga _5{13} /609 bedtime story _1{13} The shipper _1{12} 
+aEff/aeff.md:17/01/23 - 566* The voice sri lanka _2{72} Big brother us _24{281} The voice no _8{13} 
+aEff/aeff.md:17/01/23 (eff) - Big brother us _24{281} The voice sri lanka _2{72} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The voice no _8{13} The shipper _1{12} Midnight motel _1{9} 
+aEff/aeff.md:17/02/23 (eff) - Big brother us _24{344} The voice sri lanka _2{137} The voice no _8{66} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} 
+aEff/aeff.md:17/04/23 (eff) - Big brother us _24{432} The voice sri lanka _2{265} The voice no _8{180} The voice kids ph _5{49} Le flambeau _1{23} The voice us _23{22} The voice chile _4{20} Choco milk shake _1{15} The masked singer _9{14} The voice kids poland _6{13} 
 aEff/aeff.md:17/07/22 - 273* Game of talents fr _2{0} Grimm _1{0} Survivor _31{0} Big brother us _24{1} 
 aEff/aeff.md:17/08/22 (eff) - Big brother us _24{37} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Bulgasal _1{13} 
+aEff/aeff.md:17/09/22 (eff) - Big brother us _24{93} Dont forget the lyrics _1{24} Le flambeau _1{18} Agt _17{9} 
+aEff/aeff.md:17/11/22 (eff) - Big brother us _24{185} Le flambeau _1{18} La brea _1{15} 
+aEff/aeff.md:17/12/22 (eff) - Big brother us _24{218} Le flambeau _1{18} La brea _1{16} La mas draga _5{14} /609 bedtime story _1{13} The shipper _1{12} 
+aEff/aeff.md:18/01/23 - 528* Agt as _1{3} Earthmix space _2{0} The voice sri lanka _2{74} Big brother us _24{283} 
+aEff/aeff.md:18/01/23 (eff) - Big brother us _24{283} The voice sri lanka _2{74} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The voice no _8{14} The shipper _1{12} Midnight motel _1{9}
+aEff/aeff.md:18/02/23 (eff) - Big brother us _24{346} The voice sri lanka _2{139} The voice no _8{67} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} 
+aEff/aeff.md:18/04/23 (eff) - Big brother us _24{433} The voice sri lanka _2{268} The voice no _8{183} The voice kids ph _5{52} Le flambeau _1{23} The voice us _23{22} The voice chile _4{21} The masked singer _9{15} Choco milk shake _1{15} The voice kids poland _6{14} 
 aEff/aeff.md:18/08/22 (eff) - Big brother us _24{38} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} 
+aEff/aeff.md:18/09/22 (eff) - Big brother us _24{95} Dont forget the lyrics _1{24} Le flambeau _1{18} Agt _17{9} 
+aEff/aeff.md:18/11/22 (eff) - Big brother us _24{186} Le flambeau _1{18} La brea _1{15} 
+aEff/aeff.md:18/12/22 (eff) - Big brother us _24{220} Le flambeau _1{18} La brea _1{16} La mas draga _5{15} /609 bedtime story _1{13} The shipper _1{12} 
+aEff/aeff.md:19/01/23 - 524* Dirty laundry _1{0} Agt as _1{3} Earthmix space _2{0} The voice sri lanka _2{76} Big brother us _24{285} 
+aEff/aeff.md:19/01/23 (eff) - Big brother us _24{285} The voice sri lanka _2{76} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The voice no _8{15} The shipper _1{12} Midnight motel _1{9} 
+aEff/aeff.md:19/02/23 (eff) - Big brother us _24{348} The voice sri lanka _2{141} The voice no _8{68} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} Tongue thaid _1{13} 
+aEff/aeff.md:19/03/23 - 925* Big brother us _24{393} The voice fr _13{4} Le flambeau _1{18} Dance 100 _1{0} The voice kids ger _11{1} American idol _21{0} The voice no _8{118} The voice sri lanka _2{202} A boss and a babe _1{2} 
+aEff/aeff.md:19/03/23 (eff) - Big brother us _24{393} The voice sri lanka _2{202} The voice no _8{118} Le flambeau _1{18} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} 
+aEff/aeff.md:19/04/23 (eff) - Big brother us _24{434} The voice sri lanka _2{270} The voice no _8{185} The voice kids ph _5{54} Le flambeau _1{23} The voice us _23{22} The voice chile _4{21} The masked singer _9{15} Choco milk shake _1{15} The voice kids poland _6{14} 
 aEff/aeff.md:19/07/22 - 197* Big brother us _23{14} Big brother us _24{2} Game of talents fr _2{1} Grimm _1{1} 
-aEff/aeff.md:19/08/22 - 353* Big brother us _24{39} Rpdrdu _2{3} 
+aEff/aeff.md:19/08/22 - 42* Big brother us _24{39} Rpdrdu _2{3} 
 aEff/aeff.md:19/08/22 (eff) - Big brother us _24{39} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} 
+aEff/aeff.md:19/09/22 (eff) - Big brother us _24{97} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:19/11/22 (eff) - Big brother us _24{187} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:19/12/22 (eff) - Big brother us _24{222} Le flambeau _1{18} La mas draga _5{17} La brea _1{16} /609 bedtime story _1{14} The shipper _1{12} The voice sri lanka _2{11} 
+aEff/aeff.md:20/01/23 - 533* Dirty laundry _1{1} Agt as _1{3} Earthmix space _2{0} The voice sri lanka _2{78} Big brother us _24{287} 
+aEff/aeff.md:20/01/23 (eff) - Big brother us _24{287} The voice sri lanka _2{78} /609 bedtime story _1{18} La mas draga _5{18} The voice no _8{17} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:20/02/23 (eff) - Big brother us _24{350} The voice sri lanka _2{143} The voice no _8{70} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{15} The shipper _1{14} Physical 100 _1{13} 
+aEff/aeff.md:20/03/23 - 750* The voice kids uruguay _1{0} The masked singer _9{4} The voice sri lanka _2{204} Umg _1{1} The voice kids poland _6{5} Big brother us _24{394} The voice fr _13{4} Le flambeau _1{20} Dance 100 _1{0} The voice kids ger _11{1} American idol _21{0} 
+aEff/aeff.md:20/03/23 (eff) - Big brother us _24{394} The voice sri lanka _2{204} The voice no _8{120} Le flambeau _1{20} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} Agt _17{11} 
+aEff/aeff.md:20/04/23 (eff) - Big brother us _24{435} The voice sri lanka _2{272} The voice no _8{187} The voice kids ph _5{56} Le flambeau _1{23} The voice us _23{22} The voice chile _4{21} The masked singer _9{15} Choco milk shake _1{15} The voice kids poland _6{14} The voice kids uruguay _1{13} 
 aEff/aeff.md:20/07/22 - 353* Big brother us _23{15} Tokyo ghoul _3{8} Big brother us _24{3} 
-aEff/aeff.md:20/08/22 - 349* Big brother us _24{40} 
+aEff/aeff.md:20/08/22 - 40* Big brother us _24{40} 
 aEff/aeff.md:20/08/22 (eff) - Big brother us _24{40} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Tokyo ghoul _3{10} 
+aEff/aeff.md:20/09/22 (eff) - Big brother us _24{99} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:20/11/22 (eff) - Big brother us _24{188} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:20/12/22 (eff) - Big brother us _24{224} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The voice sri lanka _2{14} The shipper _1{12} 
+aEff/aeff.md:21/01/23 - 542* Dirty laundry _1{2} Agt as _1{3} Earthmix space _2{0} The voice sri lanka _2{80} Big brother us _24{289} 
+aEff/aeff.md:21/01/23 (eff) - Big brother us _24{289} The voice sri lanka _2{80} The voice no _8{19} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:21/02/23 (eff) - Big brother us _24{352} The voice sri lanka _2{146} The voice no _8{73} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} Physical 100 _1{13} 
+aEff/aeff.md:21/03/23 - 777* Past senger _1{1} Reginald the vampire _1{8} Next level chef _2{1} The voice kids uruguay _1{3} The masked singer _9{6} The voice sri lanka _2{207} Umg _1{2} The voice kids poland _6{6} Big brother us _24{396} The voice fr _13{5} Le flambeau _1{22} 
+aEff/aeff.md:21/03/23 (eff) - Big brother us _24{396} The voice sri lanka _2{207} The voice no _8{123} Le flambeau _1{22} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} Agt _17{11} 
+aEff/aeff.md:21/04/23 (eff) - Big brother us _24{436} The voice sri lanka _2{274} The voice no _8{189} The voice kids ph _5{58} Le flambeau _1{23} The voice us _23{22} The voice chile _4{21} The masked singer _9{15} Choco milk shake _1{15} The voice kids poland _6{14} The voice kids uruguay _1{13} 
 aEff/aeff.md:21/07/22 - 314* Unforgotten night _1{5} Big brother us _23{16} Tokyo ghoul _3{8} Big brother us _24{3} 
-aEff/aeff.md:21/08/22 - 252* Big brother us _24{41} 
+aEff/aeff.md:21/08/22 - 41* Big brother us _24{41} 
 aEff/aeff.md:21/08/22 (eff) - Big brother us _24{41} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Tokyo ghoul _3{10} 
+aEff/aeff.md:21/09/22 (eff) - Big brother us _24{101} Dont forget the lyrics _1{24} Le flambeau _1{18} 
+aEff/aeff.md:21/11/22 (eff) - Big brother us _24{190} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:21/12/22 (eff) - Big brother us _24{226} Le flambeau _1{18} La mas draga _5{17} The voice sri lanka _2{16} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:22/01/23 (eff) - Big brother us _24{291} The voice sri lanka _2{82} The voice no _8{20} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:22/02/23 (eff) - Big brother us _24{354} The voice sri lanka _2{148} The voice no _8{75} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
+aEff/aeff.md:22/03/23 (eff) - Big brother us _24{397} The voice sri lanka _2{209} The voice no _8{125} Le flambeau _1{22} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} Agt _17{11} 
+aEff/aeff.md:22/04/23 (eff) - Big brother us _24{437} The voice sri lanka _2{276} The voice no _8{191} The voice kids ph _5{60} Le flambeau _1{23} The voice us _23{22} The voice chile _4{21} The masked singer _9{15} Choco milk shake _1{15} The voice kids poland _6{14} The voice kids uruguay _1{13} 
 aEff/aeff.md:22/07/22 - 301* Big brother us _24{3} Unforgotten night _1{5} Big brother us _23{17} 
 aEff/aeff.md:22/08/22 (eff) - Big brother us _24{43} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} Tokyo ghoul _3{10} 
+aEff/aeff.md:22/09/22 (eff) - Big brother us _24{103} Le flambeau _1{18} 
+aEff/aeff.md:22/11/22 (eff) - Big brother us _24{192} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:22/12/22 (eff) - Big brother us _24{228} The voice sri lanka _2{18} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:23/01/23 (eff) - Big brother us _24{293} The voice sri lanka _2{84} The voice no _8{22} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:23/02/23 (eff) - Big brother us _24{356} The voice sri lanka _2{150} The voice no _8{76} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
+aEff/aeff.md:23/03/23 (eff) - Big brother us _24{398} The voice sri lanka _2{211} The voice no _8{127} Le flambeau _1{22} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} Agt _17{11} Ai long nhai _1{9} 
 aEff/aeff.md:23/07/22 - 299* Big brother us _24{3} Unforgotten night _1{5} 
 aEff/aeff.md:23/08/22 (eff) - Big brother us _24{46} Big brother us _23{35} Dont forget the lyrics _1{23} Two pints of lager _3{15} 
+aEff/aeff.md:23/09/22 (eff) - Big brother us _24{105} Le flambeau _1{18} 
+aEff/aeff.md:23/11/22 (eff) - Big brother us _24{193} Le flambeau _1{18} La brea _1{15} 
+aEff/aeff.md:23/12/22 (eff) - Big brother us _24{230} The voice sri lanka _2{20} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:24/01/23 (eff) - Big brother us _24{295} The voice sri lanka _2{86} The voice no _8{25} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:24/02/23 (eff) - Big brother us _24{358} The voice sri lanka _2{152} The voice no _8{77} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
+aEff/aeff.md:24/03/23 (eff) - Big brother us _24{399} The voice sri lanka _2{213} The voice no _8{129} Le flambeau _1{22} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} Agt _17{11} Ai long nhai _1{9} 
 aEff/aeff.md:24/08/22 (eff) - Big brother us _24{48} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
+aEff/aeff.md:24/09/22 (eff) - Big brother us _24{107} Le flambeau _1{18} 
+aEff/aeff.md:24/11/22 (eff) - Big brother us _24{194} Le flambeau _1{18} La brea _1{15} 
+aEff/aeff.md:24/12/22 (eff) - Big brother us _24{232} The voice sri lanka _2{22} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:25/01/23 (eff) - Big brother us _24{297} The voice sri lanka _2{88} The voice no _8{27} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:25/02/23 (eff) - Big brother us _24{360} The voice sri lanka _2{154} The voice no _8{78} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
+aEff/aeff.md:25/03/23 (eff) - Big brother us _24{400} The voice sri lanka _2{215} The voice no _8{131} Le flambeau _1{22} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} Agt _17{11} Ai long nhai _1{9} Agt as _1{9} 
 aEff/aeff.md:25/08/22 (eff) - Big brother us _24{50} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
-aEff/aeff.md:26/07/22 - 225* Big brother us _24{5} Blueming _1{1} 
+aEff/aeff.md:25/09/22 (eff) - Big brother us _24{109} Le flambeau _1{18} 
+aEff/aeff.md:25/11/22 (eff) - Big brother us _24{195} Le flambeau _1{18} La brea _1{15} 
+aEff/aeff.md:25/12/22 (eff) - Big brother us _24{234} The voice sri lanka _2{24} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:26/01/23 (eff) - Big brother us _24{299} The voice sri lanka _2{90} The voice no _8{29} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:26/02/23 (eff) - Big brother us _24{362} The voice sri lanka _2{156} The voice no _8{78} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
+aEff/aeff.md:26/03/23 (eff) - Big brother us _24{401} The voice sri lanka _2{217} The voice no _8{133} Le flambeau _1{22} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} Agt _17{11} Ai long nhai _1{9} Agt as _1{9} The masked singer _9{8} 
+aEff/aeff.md:26/07/22 - 225* Big brother us _24{5} 
 aEff/aeff.md:26/08/22 (eff) - Big brother us _24{52} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
-aEff/aeff.md:27/07/22 - 377* Blueming _1{1} Big brother us _24{6} 
+aEff/aeff.md:26/09/22 (eff) - Big brother us _24{111} Le flambeau _1{18} 
+aEff/aeff.md:26/10/22 - 157* Big brother us _24{152} Ai long nhai _1{5} 
+aEff/aeff.md:26/10/22 (eff) - Big brother us _24{152} The shipper _1{11} 
+aEff/aeff.md:26/11/22 (eff) - Big brother us _24{196} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:26/12/22 (eff) - Big brother us _24{236} The voice sri lanka _2{26} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:27/01/23 (eff) - Big brother us _24{301} The voice sri lanka _2{92} The voice no _8{31} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:27/02/23 (eff) - Big brother us _24{364} The voice sri lanka _2{158} The voice no _8{79} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} Lego masters _3{14} 
+aEff/aeff.md:27/03/23 (eff) - Big brother us _24{403} The voice sri lanka _2{219} The voice no _8{135} Le flambeau _1{22} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} Agt _17{11} The voice kids ph _5{9} The masked singer _9{9} Ai long nhai _1{9} 
+aEff/aeff.md:27/07/22 - 377* Big brother us _24{6} 
 aEff/aeff.md:27/08/22 (eff) - Big brother us _24{54} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
-aEff/aeff.md:28/07/22 - 359* Blueming _1{1} Big brother us _24{7} 
-aEff/aeff.md:29/07/22 - 356* Blueming _1{1} Big brother us _24{8} 
-aEff/aeff.md:30/07/22 - 329* Big brother us _24{9} Blueming _1{2} 
+aEff/aeff.md:27/09/22 (eff) - Big brother us _24{113} Le flambeau _1{18} 
+aEff/aeff.md:27/10/22 - 158* Big brother us _24{153} Ai long nhai _1{5} 
+aEff/aeff.md:27/10/22 (eff) - Big brother us _24{153} 
+aEff/aeff.md:27/11/22 (eff) - Big brother us _24{197} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:27/12/22 (eff) - Big brother us _24{238} The voice sri lanka _2{28} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:28/01/23 (eff) - Big brother us _24{303} The voice sri lanka _2{94} The voice no _8{33} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:28/02/23 (eff) - Big brother us _24{366} The voice sri lanka _2{161} The voice no _8{82} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} Lego masters _3{15} The shipper _1{15} 
+aEff/aeff.md:28/03/23 (eff) - Big brother us _24{405} The voice sri lanka _2{222} The voice no _8{138} Le flambeau _1{22} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} The voice kids ph _5{12} Agt _17{11} The masked singer _9{10} The voice us _23{9} 
+aEff/aeff.md:28/07/22 - 359* Big brother us _24{7} 
+aEff/aeff.md:28/08/22 (eff) - Big brother us _24{56} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
+aEff/aeff.md:28/10/22 - 159* Big brother us _24{154} Ai long nhai _1{5} 
+aEff/aeff.md:28/10/22 (eff) - Big brother us _24{154} 
+aEff/aeff.md:28/11/22 (eff) - Big brother us _24{198} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:28/12/22 (eff) - Big brother us _24{240} The voice sri lanka _2{29} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:29/01/23 (eff) - Big brother us _24{305} The voice sri lanka _2{96} The voice no _8{35} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:29/03/23 (eff) - Big brother us _24{407} The voice sri lanka _2{224} The voice no _8{140} Le flambeau _1{22} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} The voice kids ph _5{14} The voice us _23{11} Agt _17{11} The masked singer _9{10} 
+aEff/aeff.md:29/07/22 - 356* Big brother us _24{8} 
+aEff/aeff.md:29/08/22 (eff) - Big brother us _24{58} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} Agt _17{8} 
+aEff/aeff.md:29/10/22 (eff) - Big brother us _24{155} The shipper _1{11} 
+aEff/aeff.md:29/11/22 (eff) - Big brother us _24{199} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:29/12/22 (eff) - Big brother us _24{242} The voice sri lanka _2{31} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:30/01/23 (eff) - Big brother us _24{307} The voice sri lanka _2{98} The voice no _8{37} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:30/03/23 (eff) - Big brother us _24{409} The voice sri lanka _2{226} The voice no _8{142} Le flambeau _1{22} Tongue thaid _1{18} The voice kids ph _5{16} Lego masters _3{16} The shipper _1{16} Physical 100 _1{15} The voice us _23{13} Agt _17{11} The masked singer _9{10} 
+aEff/aeff.md:30/07/22 - 329* Big brother us _24{9} 
 aEff/aeff.md:30/07/22 (eff) - Big brother us _23{26} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{9} 
-aEff/aeff.md:31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} Blueming _1{2} 
+aEff/aeff.md:30/08/22 (eff) - Big brother us _24{60} Big brother us _23{35} Dont forget the lyrics _1{23} Tokyo ghoul _3{10} 
+aEff/aeff.md:30/10/22 (eff) - Big brother us _24{157} The shipper _1{11} 
+aEff/aeff.md:30/11/22 (eff) - Big brother us _24{200} Le flambeau _1{18} La brea _1{15} The shipper _1{12} 
+aEff/aeff.md:30/12/22 (eff) - Big brother us _24{244} The voice sri lanka _2{33} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:31/01/23 (eff) - Big brother us _24{309} The voice sri lanka _2{101} The voice no _8{40} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:31/03/23 (eff) - Big brother us _24{411} The voice sri lanka _2{228} The voice no _8{144} Le flambeau _1{22} The voice kids ph _5{18} Tongue thaid _1{18} Lego masters _3{16} The shipper _1{16} The voice us _23{15} Physical 100 _1{15} Agt _17{11} The masked singer _9{10} 
+aEff/aeff.md:31/07/22 - 318* Rpdrdu _2{0} Game of talents fr _2{1} Big brother us _24{10} 
 aEff/aeff.md:31/07/22 (eff) - Big brother us _23{27} Dont forget the lyrics _1{18} Two pints of lager _3{14} Bulgasal _1{13} Big brother us _24{10} 
-apercu/apercu22.md:- mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Blueming _1x4(3) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
-apercu/apercu22.md:- sem 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(1) Big brother us _24x11(4) Blueming _1x4(2) 
-apercu/apercu22.md:- sem 08-08-2022 -> Big brother us _24x14(3) Unforgotten night _1x7(1) Blueming _1x5(1) 
-apercu/apercu22.md:- sem 15-08-2022 -> Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
+aEff/aeff.md:31/08/22 (eff) - Big brother us _24{62} Big brother us _23{35} Dont forget the lyrics _1{23} Le flambeau _1{16} 
+aEff/aeff.md:31/10/22 (eff) - Big brother us _24{159} The shipper _1{11} 
+aEff/aeff.md:31/12/22 (eff) - Big brother us _24{246} The voice sri lanka _2{35} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+apercu/apercu22.md:- mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercu22.md:- sem 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(1) Big brother us _24x11(4) 
+apercu/apercu22.md:- sem 08-08-2022 -> Big brother us _24x14(3) Unforgotten night _1x7(1) 
+apercu/apercu22.md:- sem 15-08-2022 -> Sky in your heart _1x4(2) Big brother us _24x17(3) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
 apercu/apercu22.md:- sem 18-07-2022 -> Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) Big brother us _24x5(4) Big brother us _23x8(7) Unforgotten night _1x5(1) 
 apercu/apercu22.md:- sem 22-08-2022 -> Big brother us _24x18(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
-apercu/apercu22.md:- sem 25-07-2022 -> Blueming _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
+apercu/apercu22.md:- sem 25-07-2022 -> Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
 apercu/apercu22.md:conclu 04/08/22 = Big brother us _24 > 1; 
 apercu/apercu22.md:conclu 05/08/22 = Big brother us _24 > 4; 
 apercu/apercu22.md:conclu 06/08/22 = Big brother us _24 > 3; 
@@ -105,10 +323,448 @@ apercu/apercu22.md:concluBis 26/08/22 = Big brother us _24 > 8;
 apercu/apercu22.md:concluBis 27/07/22 = Big brother us _23 > 2; Big brother us _24 > 1; 
 apercu/apercu22.md:concluBis 27/08/22 = Big brother us _24 > 7; 
 apercu/apercu22.md:concluBis 28/07/22 = Big brother us _23 > 2; Big brother us _24 > 1; 
-apercu/apercu22.md:concluBis 29/07/22 = Big brother us _24 > 2; Big brother us _23 > 1; Blueming _1 > 1; 
+apercu/apercu22.md:concluBis 29/07/22 = Big brother us _24 > 2; Big brother us _23 > 1; 
 apercu/apercu22.md:concluBis 30/07/22 = Big brother us _24 > 6; Big brother us _23 > 1; 
 apercu/apercu22.md:concluBis 31/07/22 = Big brother us _24 > 7; Big brother us _23 > 1; 
+apercu/apercuglobal.md:conclu 01/01/23 = Big brother us _24 > 6; The voice sri lanka _2 > 1; Midnight motel _1 > 1; 
+apercu/apercuglobal.md:conclu 01/02/23 = The voice sri lanka _2 > 9; The voice no _8 > 5; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 01/03/23 = The voice sri lanka _2 > 10; The voice no _8 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 01/04/23 = The voice sri lanka _2 > 9; The voice no _8 > 5; The voice us _23 > 3; Big brother us _24 > 2; The voice chile _4 > 2; Choco milk shake _1 > 1; 
+apercu/apercuglobal.md:conclu 01/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 01/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 02/01/23 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:conclu 02/02/23 = The voice sri lanka _2 > 10; The voice no _8 > 5; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 02/03/23 = The voice sri lanka _2 > 10; The voice no _8 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 02/04/23 = The voice sri lanka _2 > 9; The voice no _8 > 5; The voice chile _4 > 3; Big brother us _24 > 2; Choco milk shake _1 > 2; 
+apercu/apercuglobal.md:conclu 02/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 02/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 03/01/23 = Big brother us _24 > 6; The voice sri lanka _2 > 1; 
+apercu/apercuglobal.md:conclu 03/02/23 = The voice sri lanka _2 > 10; The voice no _8 > 5; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 03/03/23 = The voice sri lanka _2 > 10; The voice no _8 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 03/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 03/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 04/01/23 = Big brother us _24 > 6; The voice sri lanka _2 > 1; 
+apercu/apercuglobal.md:conclu 04/02/23 = The voice sri lanka _2 > 8; The voice no _8 > 6; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 04/03/23 = The voice sri lanka _2 > 9; The voice no _8 > 6; Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 04/08/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 04/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 04/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 05/01/23 = Big brother us _24 > 6; The voice sri lanka _2 > 1; 
+apercu/apercuglobal.md:conclu 05/02/23 = The voice sri lanka _2 > 11; Big brother us _24 > 4; The voice no _8 > 3; 
+apercu/apercuglobal.md:conclu 05/03/23 = The voice sri lanka _2 > 8; The voice no _8 > 4; Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 05/08/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 05/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 05/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 06/01/23 = Big brother us _24 > 6; The voice sri lanka _2 > 1; 
+apercu/apercuglobal.md:conclu 06/02/23 = The voice sri lanka _2 > 9; Big brother us _24 > 4; The voice no _8 > 1; 
+apercu/apercuglobal.md:conclu 06/03/23 = The voice sri lanka _2 > 10; The voice no _8 > 1; The voice kids poland _6 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 06/08/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:conclu 06/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 06/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 06/11/22 = Big brother us _24 > 2; La brea _1 > 1; 
+apercu/apercuglobal.md:conclu 07/01/23 = The voice sri lanka _2 > 11; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 07/02/23 = The voice sri lanka _2 > 7; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 07/03/23 = The voice sri lanka _2 > 10; The voice no _8 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 07/08/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:conclu 07/09/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 07/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 07/11/22 = Big brother us _24 > 2; La brea _1 > 1; 
+apercu/apercuglobal.md:conclu 08/01/23 = The voice sri lanka _2 > 8; Big brother us _24 > 4; The voice no _8 > 1; 
+apercu/apercuglobal.md:conclu 08/02/23 = The voice sri lanka _2 > 7; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 08/08/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:conclu 08/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 08/11/22 = Big brother us _24 > 2; La brea _1 > 1; 
+apercu/apercuglobal.md:conclu 09/01/23 = The voice sri lanka _2 > 8; Big brother us _24 > 4; The voice no _8 > 1; 
+apercu/apercuglobal.md:conclu 09/02/23 = The voice sri lanka _2 > 7; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 09/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 09/11/22 = Big brother us _24 > 2; La brea _1 > 2; 
+apercu/apercuglobal.md:conclu 10/01/23 = The voice sri lanka _2 > 8; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 10/02/23 = The voice sri lanka _2 > 7; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 10/09/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 10/11/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 11/01/23 = The voice sri lanka _2 > 8; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 11/02/23 = The voice sri lanka _2 > 7; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 11/09/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 11/11/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 12/01/23 = The voice sri lanka _2 > 8; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 12/02/23 = The voice sri lanka _2 > 8; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 12/11/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 13/01/23 = The voice sri lanka _2 > 6; Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 13/02/23 = The voice sri lanka _2 > 8; Big brother us _24 > 4; Tongue thaid _1 > 2; Physical 100 _1 > 1; 
+apercu/apercuglobal.md:conclu 14/01/23 = The voice sri lanka _2 > 6; Big brother us _24 > 2; The voice no _8 > 1; 
+apercu/apercuglobal.md:conclu 14/02/23 = The voice sri lanka _2 > 8; Big brother us _24 > 4; Tongue thaid _1 > 3; Physical 100 _1 > 2; 
+apercu/apercuglobal.md:conclu 14/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 15/01/23 = The voice sri lanka _2 > 7; Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 15/02/23 = The voice sri lanka _2 > 7; Big brother us _24 > 4; Tongue thaid _1 > 3; Physical 100 _1 > 2; 
+apercu/apercuglobal.md:conclu 15/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 16/01/23 = The voice sri lanka _2 > 12; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 16/02/23 = The voice sri lanka _2 > 7; Big brother us _24 > 4; Tongue thaid _1 > 2; Physical 100 _1 > 1; 
+apercu/apercuglobal.md:conclu 16/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 16/12/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 17/01/23 = The voice sri lanka _2 > 12; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 17/02/23 = The voice sri lanka _2 > 7; Big brother us _24 > 4; Tongue thaid _1 > 2; Physical 100 _1 > 1; 
+apercu/apercuglobal.md:conclu 17/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 17/12/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 18/01/23 = The voice sri lanka _2 > 12; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 18/02/23 = The voice sri lanka _2 > 6; Big brother us _24 > 4; Tongue thaid _1 > 2; 
+apercu/apercuglobal.md:conclu 18/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 18/12/22 = Big brother us _24 > 2; La mas draga _5 > 1; 
+apercu/apercuglobal.md:conclu 19/01/23 = The voice sri lanka _2 > 12; Big brother us _24 > 4; The voice no _8 > 1; 
+apercu/apercuglobal.md:conclu 19/02/23 = The voice sri lanka _2 > 6; The voice no _8 > 3; Big brother us _24 > 2; Tongue thaid _1 > 2; 
+apercu/apercuglobal.md:conclu 19/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 19/12/22 = Big brother us _24 > 4; The voice sri lanka _2 > 2; 
+apercu/apercuglobal.md:conclu 20/01/23 = The voice sri lanka _2 > 12; Big brother us _24 > 4; The voice no _8 > 1; 
+apercu/apercuglobal.md:conclu 20/02/23 = The voice sri lanka _2 > 6; Big brother us _24 > 2; The voice no _8 > 2; 
+apercu/apercuglobal.md:conclu 20/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 20/11/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 20/12/22 = Big brother us _24 > 4; The voice sri lanka _2 > 3; 
+apercu/apercuglobal.md:conclu 21/01/23 = The voice sri lanka _2 > 12; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 21/02/23 = The voice sri lanka _2 > 6; Big brother us _24 > 2; The voice no _8 > 2; 
+apercu/apercuglobal.md:conclu 21/08/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:conclu 21/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 21/11/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 21/12/22 = Big brother us _24 > 4; The voice sri lanka _2 > 3; Never let me go _1 > 1; 
+apercu/apercuglobal.md:conclu 22/01/23 = The voice sri lanka _2 > 9; The voice no _8 > 5; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 22/02/23 = The voice sri lanka _2 > 8; Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 22/08/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:conclu 22/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 22/12/22 = The voice sri lanka _2 > 6; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 23/01/23 = The voice sri lanka _2 > 9; Big brother us _24 > 4; The voice no _8 > 3; Agt as _1 > 2; 
+apercu/apercuglobal.md:conclu 23/02/23 = The voice sri lanka _2 > 9; Big brother us _24 > 2; Lego masters _3 > 1; 
+apercu/apercuglobal.md:conclu 23/08/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:conclu 23/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 23/12/22 = The voice sri lanka _2 > 6; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 24/01/23 = The voice sri lanka _2 > 9; Big brother us _24 > 4; The voice no _8 > 3; Agt as _1 > 2; 
+apercu/apercuglobal.md:conclu 24/02/23 = The voice sri lanka _2 > 9; Big brother us _24 > 2; Lego masters _3 > 1; 
+apercu/apercuglobal.md:conclu 24/08/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:conclu 24/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 24/12/22 = The voice sri lanka _2 > 6; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 25/01/23 = The voice sri lanka _2 > 11; Big brother us _24 > 4; The voice no _8 > 3; 
+apercu/apercuglobal.md:conclu 25/02/23 = The voice sri lanka _2 > 7; Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 25/08/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 25/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 25/12/22 = Big brother us _24 > 6; The voice sri lanka _2 > 4; 
+apercu/apercuglobal.md:conclu 26/01/23 = The voice sri lanka _2 > 11; Big brother us _24 > 4; The voice no _8 > 3; 
+apercu/apercuglobal.md:conclu 26/02/23 = The voice sri lanka _2 > 6; Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 26/03/23 = The voice sri lanka _2 > 10; The voice no _8 > 6; The voice kids ph _5 > 3; Big brother us _24 > 2; The voice us _23 > 2; 
+apercu/apercuglobal.md:conclu 26/08/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 26/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 26/12/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:conclu 27/01/23 = The voice sri lanka _2 > 10; Big brother us _24 > 4; The voice no _8 > 1; 
+apercu/apercuglobal.md:conclu 27/02/23 = The voice sri lanka _2 > 6; The voice no _8 > 5; Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 27/03/23 = The voice sri lanka _2 > 9; The voice no _8 > 6; The voice kids ph _5 > 3; Big brother us _24 > 2; The voice us _23 > 2; Choco milk shake _1 > 1; 
+apercu/apercuglobal.md:conclu 27/08/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 27/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 27/12/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:conclu 28/01/23 = The voice sri lanka _2 > 10; Big brother us _24 > 4; The voice no _8 > 1; 
+apercu/apercuglobal.md:conclu 28/02/23 = The voice sri lanka _2 > 7; The voice no _8 > 5; Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 28/03/23 = The voice sri lanka _2 > 9; The voice no _8 > 5; The voice kids ph _5 > 3; Big brother us _24 > 2; The voice us _23 > 2; 
+apercu/apercuglobal.md:conclu 28/08/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 28/09/22 = Big brother us _24 > 2; Dwts _31 > 1; 
+apercu/apercuglobal.md:conclu 28/12/22 = Big brother us _24 > 6; The voice sri lanka _2 > 3; 
+apercu/apercuglobal.md:conclu 29/01/23 = The voice sri lanka _2 > 9; Big brother us _24 > 4; The voice no _8 > 4; 
+apercu/apercuglobal.md:conclu 29/03/23 = The voice sri lanka _2 > 9; The voice no _8 > 5; The voice kids ph _5 > 3; Big brother us _24 > 2; The voice us _23 > 2; Choco milk shake _1 > 1; 
+apercu/apercuglobal.md:conclu 29/08/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 29/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 29/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 29/12/22 = Big brother us _24 > 6; The voice sri lanka _2 > 2; 
+apercu/apercuglobal.md:conclu 30/01/23 = The voice sri lanka _2 > 10; The voice no _8 > 5; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 30/03/23 = The voice sri lanka _2 > 9; The voice kids ph _5 > 5; The voice no _8 > 4; Big brother us _24 > 2; The voice us _23 > 2; Choco milk shake _1 > 1; 
+apercu/apercuglobal.md:conclu 30/08/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 30/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 30/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 30/12/22 = Big brother us _24 > 6; The voice sri lanka _2 > 2; Midnight motel _1 > 1; 
+apercu/apercuglobal.md:conclu 31/01/23 = The voice sri lanka _2 > 9; The voice no _8 > 5; Big brother us _24 > 4; 
+apercu/apercuglobal.md:conclu 31/03/23 = The voice sri lanka _2 > 9; The voice kids ph _5 > 5; The voice no _8 > 4; Big brother us _24 > 2; The voice us _23 > 2; Choco milk shake _1 > 1; 
+apercu/apercuglobal.md:conclu 31/07/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:conclu 31/08/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:conclu 31/12/22 = Big brother us _24 > 6; The voice sri lanka _2 > 1; Midnight motel _1 > 1; 
+apercu/apercuglobal.md:concluBis 01/01/23 = Big brother us _24 > 10; The voice sri lanka _2 > 5; Midnight motel _1 > 3; Forever knight _1 > 1; 
+apercu/apercuglobal.md:concluBis 01/02/23 = The voice sri lanka _2 > 15; The voice no _8 > 10; Big brother us _24 > 8; Earthmix space _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 01/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 9; Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 01/04/23 = The voice sri lanka _2 > 15; The voice no _8 > 12; Big brother us _24 > 6; The voice us _23 > 5; The voice chile _4 > 4; Choco milk shake _1 > 3; The voice kids ph _5 > 2; 
+apercu/apercuglobal.md:concluBis 01/08/22 = Big brother us _24 > 8; Big brother us _23 > 1; 
+apercu/apercuglobal.md:concluBis 01/09/22 = Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 01/10/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 01/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 01/12/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 02/01/23 = Big brother us _24 > 10; The voice sri lanka _2 > 2; 
+apercu/apercuglobal.md:concluBis 02/02/23 = The voice sri lanka _2 > 18; The voice no _8 > 10; Big brother us _24 > 8; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 02/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 9; Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 02/04/23 = The voice sri lanka _2 > 15; The voice no _8 > 13; Big brother us _24 > 6; The voice chile _4 > 5; Choco milk shake _1 > 4; The voice kids ph _5 > 2; Earthmix space _2 > 1; 
+apercu/apercuglobal.md:concluBis 02/08/22 = Big brother us _24 > 8; Big brother us _23 > 1; 
+apercu/apercuglobal.md:concluBis 02/09/22 = Big brother us _24 > 6; Skam italia _5 > 1; 
+apercu/apercuglobal.md:concluBis 02/10/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 02/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 02/12/22 = Big brother us _24 > 2; The voice sri lanka _2 > 1; 
+apercu/apercuglobal.md:concluBis 03/01/23 = Big brother us _24 > 10; The voice sri lanka _2 > 3; /609 bedtime story _1 > 1; 
+apercu/apercuglobal.md:concluBis 03/02/23 = The voice sri lanka _2 > 18; The voice no _8 > 10; Big brother us _24 > 8; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 03/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 9; Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 03/04/23 = The voice sri lanka _2 > 17; The voice no _8 > 9; The voice chile _4 > 5; Big brother us _24 > 2; The voice kids ph _5 > 2; The voice kids poland _6 > 2; 
+apercu/apercuglobal.md:concluBis 03/08/22 = Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 03/09/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 03/10/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 03/11/22 = Big brother us _24 > 4; La brea _1 > 3; 
+apercu/apercuglobal.md:concluBis 03/12/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 04/01/23 = Big brother us _24 > 10; The voice sri lanka _2 > 3; 
+apercu/apercuglobal.md:concluBis 04/02/23 = The voice sri lanka _2 > 16; The voice no _8 > 14; Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 04/03/23 = The voice sri lanka _2 > 17; The voice no _8 > 14; Big brother us _24 > 3; 
+apercu/apercuglobal.md:concluBis 04/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 8; The voice chile _4 > 5; The voice kids ph _5 > 3; Big brother us _24 > 2; The voice kids poland _6 > 2; 
+apercu/apercuglobal.md:concluBis 04/08/22 = Big brother us _24 > 9; 
+apercu/apercuglobal.md:concluBis 04/09/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 04/10/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 04/11/22 = Big brother us _24 > 4; La brea _1 > 3; The challenge _38 > 1; 
+apercu/apercuglobal.md:concluBis 04/12/22 = Big brother us _24 > 2; /609 bedtime story _1 > 2; 
+apercu/apercuglobal.md:concluBis 05/01/23 = Big brother us _24 > 10; The voice sri lanka _2 > 3; 
+apercu/apercuglobal.md:concluBis 05/02/23 = The voice sri lanka _2 > 19; The voice no _8 > 11; Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 05/03/23 = The voice sri lanka _2 > 16; The voice no _8 > 12; Big brother us _24 > 3; 
+apercu/apercuglobal.md:concluBis 05/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 8; The voice chile _4 > 5; The voice kids ph _5 > 3; Big brother us _24 > 2; The voice us _23 > 1; The voice kids poland _6 > 1; 
+apercu/apercuglobal.md:concluBis 05/08/22 = Big brother us _24 > 12; Big brother us _23 > 1; 
+apercu/apercuglobal.md:concluBis 05/09/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 05/10/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 05/11/22 = Big brother us _24 > 4; La brea _1 > 3; Reginald the vampire _1 > 2; 
+apercu/apercuglobal.md:concluBis 05/12/22 = Big brother us _24 > 2; /609 bedtime story _1 > 1; 
+apercu/apercuglobal.md:concluBis 06/01/23 = Big brother us _24 > 10; The voice sri lanka _2 > 3; Agt as _1 > 2; 
+apercu/apercuglobal.md:concluBis 06/02/23 = The voice sri lanka _2 > 17; Big brother us _24 > 8; The voice no _8 > 5; 
+apercu/apercuglobal.md:concluBis 06/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 6; The voice kids poland _6 > 3; Big brother us _24 > 3; The voice kids ph _5 > 2; 
+apercu/apercuglobal.md:concluBis 06/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 9; The voice chile _4 > 5; Big brother us _24 > 2; The voice kids ph _5 > 2; Devils line _1 > 2; The voice us _23 > 1; 
+apercu/apercuglobal.md:concluBis 06/08/22 = Big brother us _24 > 11; Big brother us _23 > 1; 
+apercu/apercuglobal.md:concluBis 06/09/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 06/10/22 = Big brother us _24 > 4; The shipper _1 > 2; 
+apercu/apercuglobal.md:concluBis 06/11/22 = Big brother us _24 > 6; La brea _1 > 3; Reginald the vampire _1 > 1; 
+apercu/apercuglobal.md:concluBis 06/12/22 = Big brother us _24 > 2; /609 bedtime story _1 > 1; 
+apercu/apercuglobal.md:concluBis 07/01/23 = The voice sri lanka _2 > 19; Big brother us _24 > 8; Agt as _1 > 1; 
+apercu/apercuglobal.md:concluBis 07/02/23 = The voice sri lanka _2 > 15; Big brother us _24 > 8; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 07/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 6; Big brother us _24 > 3; The voice kids poland _6 > 2; The voice kids ph _5 > 1; 
+apercu/apercuglobal.md:concluBis 07/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 7; The voice kids ph _5 > 4; The voice chile _4 > 3; Big brother us _24 > 2; The masked singer _9 > 2; The voice kids uruguay _1 > 1; 
+apercu/apercuglobal.md:concluBis 07/08/22 = Big brother us _24 > 10; Big brother us _23 > 1; 
+apercu/apercuglobal.md:concluBis 07/09/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:concluBis 07/10/22 = Big brother us _24 > 3; Lego masters _3 > 2; The shipper _1 > 1; 
+apercu/apercuglobal.md:concluBis 07/11/22 = Big brother us _24 > 6; La brea _1 > 3; 
+apercu/apercuglobal.md:concluBis 07/12/22 = Big brother us _24 > 2; /609 bedtime story _1 > 1; 
+apercu/apercuglobal.md:concluBis 08/01/23 = The voice sri lanka _2 > 16; Big brother us _24 > 8; The voice no _8 > 3; 
+apercu/apercuglobal.md:concluBis 08/02/23 = The voice sri lanka _2 > 15; Big brother us _24 > 8; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 08/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 4; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 08/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 7; Big brother us _24 > 2; The voice kids ph _5 > 2; Me my husband and my husbands boyfriend _1 > 2; 
+apercu/apercuglobal.md:concluBis 08/08/22 = Big brother us _24 > 9; Big brother us _23 > 1; 
+apercu/apercuglobal.md:concluBis 08/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 08/10/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:concluBis 08/11/22 = Big brother us _24 > 6; La brea _1 > 3; 
+apercu/apercuglobal.md:concluBis 08/12/22 = Big brother us _24 > 4; /609 bedtime story _1 > 2; 
+apercu/apercuglobal.md:concluBis 09/01/23 = The voice sri lanka _2 > 16; Big brother us _24 > 8; The voice no _8 > 3; 
+apercu/apercuglobal.md:concluBis 09/02/23 = The voice sri lanka _2 > 15; Big brother us _24 > 8; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 09/03/23 = The voice sri lanka _2 > 19; The voice no _8 > 5; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 09/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 7; The voice kids ger _11 > 3; Big brother us _24 > 2; The voice kids ph _5 > 2; 
+apercu/apercuglobal.md:concluBis 09/08/22 = Big brother us _24 > 6; Agt _17 > 2; 
+apercu/apercuglobal.md:concluBis 09/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 09/10/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:concluBis 09/11/22 = Big brother us _24 > 6; La brea _1 > 4; 
+apercu/apercuglobal.md:concluBis 09/12/22 = Big brother us _24 > 4; /609 bedtime story _1 > 2; 
+apercu/apercuglobal.md:concluBis 10/01/23 = The voice sri lanka _2 > 15; Big brother us _24 > 8; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 10/02/23 = The voice sri lanka _2 > 15; Big brother us _24 > 8; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 10/03/23 = The voice sri lanka _2 > 19; The voice no _8 > 5; Big brother us _24 > 2; Cheat netflix _1 > 1; 
+apercu/apercuglobal.md:concluBis 10/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 7; The voice kids ph _5 > 5; Devils line _1 > 2; Bed friend _1 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 10/08/22 = Big brother us _24 > 5; 
+apercu/apercuglobal.md:concluBis 10/09/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:concluBis 10/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 10/11/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 10/12/22 = /609 bedtime story _1 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 11/01/23 = The voice sri lanka _2 > 15; Big brother us _24 > 8; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 11/02/23 = The voice sri lanka _2 > 15; Big brother us _24 > 8; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 11/03/23 = The voice sri lanka _2 > 16; The voice no _8 > 8; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 11/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 6; The voice kids ph _5 > 5; The voice chile _4 > 1; Devils line _1 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 11/08/22 = Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
+apercu/apercuglobal.md:concluBis 11/09/22 = Big brother us _24 > 3; 
+apercu/apercuglobal.md:concluBis 11/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 11/11/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 11/12/22 = /609 bedtime story _1 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 12/01/23 = The voice sri lanka _2 > 15; Big brother us _24 > 8; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 12/02/23 = The voice sri lanka _2 > 14; Big brother us _24 > 8; The voice no _8 > 2; Physical 100 _1 > 1; 
+apercu/apercuglobal.md:concluBis 12/03/23 = The voice sri lanka _2 > 19; The voice no _8 > 8; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 12/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 6; The voice kids ph _5 > 4; The masked singer ger _8 > 3; The voice chile _4 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 12/08/22 = Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
+apercu/apercuglobal.md:concluBis 12/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 12/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 12/11/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 12/12/22 = La mas draga _5 > 4; Big brother us _24 > 2; /609 bedtime story _1 > 1; 
+apercu/apercuglobal.md:concluBis 13/01/23 = The voice sri lanka _2 > 13; Big brother us _24 > 6; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 13/02/23 = The voice sri lanka _2 > 14; Big brother us _24 > 8; Tongue thaid _1 > 4; Physical 100 _1 > 3; The voice no _8 > 2; 
+apercu/apercuglobal.md:concluBis 13/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 5; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 13/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 6; The voice kids ph _5 > 4; The masked singer ger _8 > 3; The voice chile _4 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 13/08/22 = Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
+apercu/apercuglobal.md:concluBis 13/09/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 13/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 13/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 13/12/22 = La mas draga _5 > 4; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 14/01/23 = The voice sri lanka _2 > 12; Big brother us _24 > 6; The voice no _8 > 4; 
+apercu/apercuglobal.md:concluBis 14/02/23 = The voice sri lanka _2 > 14; Big brother us _24 > 8; Tongue thaid _1 > 5; Physical 100 _1 > 4; The voice no _8 > 2; Painted with raven _2 > 1; 
+apercu/apercuglobal.md:concluBis 14/03/23 = The voice sri lanka _2 > 17; The voice no _8 > 7; Big brother us _24 > 2; The voice us _23 > 1; 
+apercu/apercuglobal.md:concluBis 14/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 6; The masked singer ger _8 > 5; The voice kids ph _5 > 3; Past senger _1 > 2; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 14/07/22 = Big brother us _23 > 3; Big brother us _24 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 14/08/22 = Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
+apercu/apercuglobal.md:concluBis 14/09/22 = Big brother us _24 > 8; Forever knight _1 > 1; 
+apercu/apercuglobal.md:concluBis 14/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 14/11/22 = Big brother us _24 > 4; The voice sri lanka _2 > 2; 
+apercu/apercuglobal.md:concluBis 14/12/22 = La mas draga _5 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 15/01/23 = The voice sri lanka _2 > 15; Big brother us _24 > 6; The voice no _8 > 1; 
+apercu/apercuglobal.md:concluBis 15/02/23 = The voice sri lanka _2 > 13; Big brother us _24 > 8; Tongue thaid _1 > 5; Physical 100 _1 > 4; The voice no _8 > 2; The shipper _1 > 1; 
+apercu/apercuglobal.md:concluBis 15/03/23 = The voice sri lanka _2 > 17; The voice no _8 > 8; Midnight museum _1 > 2; Big brother us _24 > 2; The voice us _23 > 1; 
+apercu/apercuglobal.md:concluBis 15/04/23 = The voice sri lanka _2 > 20; The voice no _8 > 6; The voice kids ph _5 > 3; The masked singer ger _8 > 3; Past senger _1 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 15/08/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 15/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 15/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 15/11/22 = Big brother us _24 > 4; The voice sri lanka _2 > 2; 
+apercu/apercuglobal.md:concluBis 15/12/22 = Big brother us _24 > 4; La mas draga _5 > 2; 
+apercu/apercuglobal.md:concluBis 16/01/23 = The voice sri lanka _2 > 20; Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 16/02/23 = The voice sri lanka _2 > 13; Big brother us _24 > 8; Tongue thaid _1 > 4; Physical 100 _1 > 3; The voice no _8 > 2; The shipper _1 > 2; 
+apercu/apercuglobal.md:concluBis 16/03/23 = The voice sri lanka _2 > 16; The voice no _8 > 8; Big brother us _24 > 2; Midnight museum _1 > 1; 
+apercu/apercuglobal.md:concluBis 16/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 10; The voice kids ph _5 > 3; The voice kids poland _6 > 3; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 16/08/22 = Big brother us _24 > 7; 
+apercu/apercuglobal.md:concluBis 16/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 16/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 16/11/22 = Big brother us _24 > 4; The voice sri lanka _2 > 1; 
+apercu/apercuglobal.md:concluBis 16/12/22 = Big brother us _24 > 6; La mas draga _5 > 2; 
+apercu/apercuglobal.md:concluBis 17/01/23 = The voice sri lanka _2 > 20; Big brother us _24 > 8; The voice no _8 > 3; 
+apercu/apercuglobal.md:concluBis 17/02/23 = The voice sri lanka _2 > 13; Big brother us _24 > 8; Tongue thaid _1 > 4; Physical 100 _1 > 3; The voice no _8 > 2; Drag race be _1 > 1; 
+apercu/apercuglobal.md:concluBis 17/03/23 = The voice sri lanka _2 > 15; The voice no _8 > 8; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 17/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 8; The voice kids ph _5 > 6; The voice kids portugal _4 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 17/08/22 = Big brother us _24 > 7; 
+apercu/apercuglobal.md:concluBis 17/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 17/10/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 17/11/22 = Big brother us _24 > 4; The voice sri lanka _2 > 1; 
+apercu/apercuglobal.md:concluBis 17/12/22 = Big brother us _24 > 6; La mas draga _5 > 2; 
+apercu/apercuglobal.md:concluBis 18/01/23 = The voice sri lanka _2 > 20; Big brother us _24 > 8; The voice no _8 > 3; 
+apercu/apercuglobal.md:concluBis 18/02/23 = The voice sri lanka _2 > 12; Big brother us _24 > 8; Tongue thaid _1 > 4; Physical 100 _1 > 2; The voice no _8 > 1; 
+apercu/apercuglobal.md:concluBis 18/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 10; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 18/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 6; The voice kids ph _5 > 6; The voice kids portugal _4 > 2; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 18/08/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 18/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 18/10/22 = Big brother us _24 > 1;
+apercu/apercuglobal.md:concluBis 18/11/22 = Big brother us _24 > 4; The voice sri lanka _2 > 1; 
+apercu/apercuglobal.md:concluBis 18/12/22 = Big brother us _24 > 6; /609 bedtime story _1 > 3; La mas draga _5 > 3; 
+apercu/apercuglobal.md:concluBis 19/01/23 = The voice sri lanka _2 > 20; Big brother us _24 > 8; The voice no _8 > 5; Dirty laundry _1 > 1; 
+apercu/apercuglobal.md:concluBis 19/02/23 = The voice sri lanka _2 > 12; The voice no _8 > 7; Big brother us _24 > 6; Tongue thaid _1 > 4; 
+apercu/apercuglobal.md:concluBis 19/03/23 = The voice sri lanka _2 > 15; The voice no _8 > 11; Big brother us _24 > 4; Le flambeau _1 > 3; 
+apercu/apercuglobal.md:concluBis 19/04/23 = The voice sri lanka _2 > 20; The voice kids ph _5 > 9; The voice no _8 > 8; The voice kids portugal _4 > 3; Big brother us _24 > 2; The voice kids uruguay _1 > 1; 
+apercu/apercuglobal.md:concluBis 19/07/22 = Big brother us _23 > 3; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 19/08/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 19/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 19/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 19/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 19/12/22 = Big brother us _24 > 8; The voice sri lanka _2 > 4; /609 bedtime story _1 > 3; 
+apercu/apercuglobal.md:concluBis 20/01/23 = The voice sri lanka _2 > 20; Big brother us _24 > 8; The voice no _8 > 5; Dirty laundry _1 > 1; 
+apercu/apercuglobal.md:concluBis 20/02/23 = The voice sri lanka _2 > 12; Big brother us _24 > 6; The voice no _8 > 6; Tongue thaid _1 > 1; 
+apercu/apercuglobal.md:concluBis 20/03/23 = The voice sri lanka _2 > 17; The voice no _8 > 10; Big brother us _24 > 4; The voice kids uruguay _1 > 4; Le flambeau _1 > 2; The masked singer _9 > 1; 
+apercu/apercuglobal.md:concluBis 20/04/23 = The voice sri lanka _2 > 20; The voice no _8 > 9; The voice kids ph _5 > 9; The voice kids portugal _4 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 20/08/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 20/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 20/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 20/11/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 20/12/22 = Big brother us _24 > 8; The voice sri lanka _2 > 5; 
+apercu/apercuglobal.md:concluBis 21/01/23 = The voice sri lanka _2 > 20; Big brother us _24 > 8; The voice no _8 > 2; Dirty laundry _1 > 2; 
+apercu/apercuglobal.md:concluBis 21/02/23 = The voice sri lanka _2 > 12; Big brother us _24 > 6; The voice no _8 > 6; Lego masters _3 > 1; 
+apercu/apercuglobal.md:concluBis 21/03/23 = The voice sri lanka _2 > 15; The voice no _8 > 9; Big brother us _24 > 4; Past senger _1 > 4; Next level chef _2 > 3; The voice kids uruguay _1 > 2; The masked singer _9 > 1; 
+apercu/apercuglobal.md:concluBis 21/04/23 = The voice sri lanka _2 > 20; The voice no _8 > 9; The voice kids ph _5 > 9; The voice kids portugal _4 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 21/08/22 = Big brother us _24 > 9; 
+apercu/apercuglobal.md:concluBis 21/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 21/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 21/11/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 21/12/22 = Big brother us _24 > 8; The voice sri lanka _2 > 5; Never let me go _1 > 3; 
+apercu/apercuglobal.md:concluBis 22/01/23 = The voice sri lanka _2 > 15; The voice no _8 > 9; Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 22/02/23 = The voice sri lanka _2 > 16; Big brother us _24 > 6; Lego masters _3 > 2; The voice no _8 > 1; 
+apercu/apercuglobal.md:concluBis 22/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 8; Big brother us _24 > 4; Past senger _1 > 1; 
+apercu/apercuglobal.md:concluBis 22/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 11; The voice kids ph _5 > 11; The voice kids uruguay _1 > 3; The voice kids portugal _4 > 2; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 22/08/22 = Big brother us _24 > 9; 
+apercu/apercuglobal.md:concluBis 22/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 22/10/22 = Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 22/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 22/12/22 = The voice sri lanka _2 > 10; Big brother us _24 > 8; Never let me go _1 > 2; 
+apercu/apercuglobal.md:concluBis 23/01/23 = The voice sri lanka _2 > 15; Big brother us _24 > 8; The voice no _8 > 7; Agt as _1 > 4; 
+apercu/apercuglobal.md:concluBis 23/02/23 = The voice sri lanka _2 > 17; Big brother us _24 > 6; Lego masters _3 > 3; The voice no _8 > 1; 
+apercu/apercuglobal.md:concluBis 23/03/23 = The voice sri lanka _2 > 17; The voice no _8 > 8; Big brother us _24 > 4; Past senger _1 > 1; 
+apercu/apercuglobal.md:concluBis 23/08/22 = Big brother us _24 > 9; 
+apercu/apercuglobal.md:concluBis 23/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 23/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 23/12/22 = The voice sri lanka _2 > 10; Big brother us _24 > 8; Never let me go _1 > 1; 
+apercu/apercuglobal.md:concluBis 24/01/23 = The voice sri lanka _2 > 16; Big brother us _24 > 8; The voice no _8 > 7; Agt as _1 > 4; 
+apercu/apercuglobal.md:concluBis 24/02/23 = The voice sri lanka _2 > 17; Big brother us _24 > 6; Lego masters _3 > 3; The voice no _8 > 1; 
+apercu/apercuglobal.md:concluBis 24/03/23 = The voice sri lanka _2 > 17; The voice no _8 > 8; Big brother us _24 > 4; Past senger _1 > 2; 
+apercu/apercuglobal.md:concluBis 24/08/22 = Big brother us _24 > 9; 
+apercu/apercuglobal.md:concluBis 24/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 24/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 24/12/22 = The voice sri lanka _2 > 10; Big brother us _24 > 8; Never let me go _1 > 1; 
+apercu/apercuglobal.md:concluBis 25/01/23 = The voice sri lanka _2 > 19; Big brother us _24 > 8; The voice no _8 > 7; 
+apercu/apercuglobal.md:concluBis 25/02/23 = The voice sri lanka _2 > 15; Big brother us _24 > 6; Lego masters _3 > 2; 
+apercu/apercuglobal.md:concluBis 25/03/23 = The voice sri lanka _2 > 17; The voice no _8 > 9; The voice kids ph _5 > 5; Big brother us _24 > 4; The voice kids uruguay _1 > 2; The masked singer _9 > 1; 
+apercu/apercuglobal.md:concluBis 25/07/22 = Big brother us _23 > 2; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 25/08/22 = Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 25/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 25/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 25/12/22 = Big brother us _24 > 10; The voice sri lanka _2 > 8; 
+apercu/apercuglobal.md:concluBis 26/01/23 = The voice sri lanka _2 > 19; Big brother us _24 > 8; The voice no _8 > 7; 
+apercu/apercuglobal.md:concluBis 26/02/23 = The voice sri lanka _2 > 12; Big brother us _24 > 3; The voice no _8 > 1; Lego masters _3 > 1; 
+apercu/apercuglobal.md:concluBis 26/03/23 = The voice sri lanka _2 > 18; The voice no _8 > 12; The voice kids ph _5 > 7; Big brother us _24 > 6; The voice us _23 > 5; The voice kids uruguay _1 > 2; The masked singer _9 > 1; 
+apercu/apercuglobal.md:concluBis 26/07/22 = Big brother us _23 > 2; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 26/08/22 = Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 26/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 26/10/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 26/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 26/12/22 = Big brother us _24 > 10; The voice sri lanka _2 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:concluBis 27/01/23 = The voice sri lanka _2 > 18; Big brother us _24 > 8; The voice no _8 > 5; 
+apercu/apercuglobal.md:concluBis 27/02/23 = The voice sri lanka _2 > 13; The voice no _8 > 11; Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 27/03/23 = The voice sri lanka _2 > 17; The voice no _8 > 12; The voice kids ph _5 > 7; Big brother us _24 > 6; The voice us _23 > 5; Choco milk shake _1 > 3; 
+apercu/apercuglobal.md:concluBis 27/07/22 = Big brother us _23 > 2; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 27/08/22 = Big brother us _24 > 7; 
+apercu/apercuglobal.md:concluBis 27/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 27/10/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 27/11/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 27/12/22 = Big brother us _24 > 10; The voice sri lanka _2 > 1; Forever knight _1 > 1; 
+apercu/apercuglobal.md:concluBis 28/01/23 = The voice sri lanka _2 > 18; Big brother us _24 > 8; The voice no _8 > 5; 
+apercu/apercuglobal.md:concluBis 28/02/23 = The voice sri lanka _2 > 15; The voice no _8 > 11; Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 28/03/23 = The voice sri lanka _2 > 15; The voice no _8 > 11; The voice kids ph _5 > 7; Big brother us _24 > 6; The voice us _23 > 4; Choco milk shake _1 > 2; 
+apercu/apercuglobal.md:concluBis 28/07/22 = Big brother us _23 > 2; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 28/08/22 = Big brother us _24 > 7; 
+apercu/apercuglobal.md:concluBis 28/09/22 = Big brother us _24 > 4; Dwts _31 > 3; 
+apercu/apercuglobal.md:concluBis 28/10/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 28/11/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 28/12/22 = Big brother us _24 > 10; The voice sri lanka _2 > 7; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 29/01/23 = The voice sri lanka _2 > 17; Big brother us _24 > 8; The voice no _8 > 8; 
+apercu/apercuglobal.md:concluBis 29/03/23 = The voice sri lanka _2 > 15; The voice no _8 > 11; The voice kids ph _5 > 7; Big brother us _24 > 6; The voice us _23 > 4; Choco milk shake _1 > 3; Earthmix space _2 > 2; 
+apercu/apercuglobal.md:concluBis 29/07/22 = Big brother us _24 > 2; Big brother us _23 > 1; 
+apercu/apercuglobal.md:concluBis 29/08/22 = Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 29/09/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 29/10/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 29/11/22 = Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 29/12/22 = Big brother us _24 > 10; The voice sri lanka _2 > 5; Midnight motel _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 30/01/23 = The voice sri lanka _2 > 18; The voice no _8 > 10; Big brother us _24 > 8; Forever knight _1 > 2; Mako ventures _2 > 1; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 30/03/23 = The voice sri lanka _2 > 15; The voice no _8 > 10; The voice kids ph _5 > 9; Big brother us _24 > 6; The voice us _23 > 4; Choco milk shake _1 > 3; Earthmix space _2 > 2; 
+apercu/apercuglobal.md:concluBis 30/07/22 = Big brother us _24 > 6; Big brother us _23 > 1; 
+apercu/apercuglobal.md:concluBis 30/08/22 = Big brother us _24 > 7; 
+apercu/apercuglobal.md:concluBis 30/09/22 = Big brother us _24 > 4; The voice nepal _4 > 2; 
+apercu/apercuglobal.md:concluBis 30/10/22 = Big brother us _24 > 6; 
+apercu/apercuglobal.md:concluBis 30/11/22 = Big brother us _24 > 2; The voice sri lanka _2 > 1; 
+apercu/apercuglobal.md:concluBis 30/12/22 = Big brother us _24 > 10; The voice sri lanka _2 > 6; Midnight motel _1 > 3; Forever knight _1 > 1; 
+apercu/apercuglobal.md:concluBis 31/01/23 = The voice sri lanka _2 > 15; The voice no _8 > 10; Big brother us _24 > 8; Survivor au _10 > 2; Forever knight _1 > 2; Mako ventures _2 > 1; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 31/03/23 = The voice sri lanka _2 > 15; The voice no _8 > 10; The voice kids ph _5 > 9; Big brother us _24 > 6; The voice us _23 > 4; Choco milk shake _1 > 3; The voice chile _4 > 2; Earthmix space _2 > 1; 
+apercu/apercuglobal.md:concluBis 31/07/22 = Big brother us _24 > 7; Big brother us _23 > 1; 
+apercu/apercuglobal.md:concluBis 31/08/22 = Big brother us _24 > 8; 
+apercu/apercuglobal.md:concluBis 31/10/22 = Big brother us _24 > 4; 
+apercu/apercuglobal.md:concluBis 31/12/22 = Big brother us _24 > 10; The voice sri lanka _2 > 5; Midnight motel _1 > 3; Forever knight _1 > 1; 
+apercu/apercuglobal.md:mois 01-02-2023 -> Earthmix space _2x3(2) Survivor au _10x2(1) Mako ventures _2x2(1) The voice no _8x9(8) The voice sri lanka _2x26(9) Agt as _1x4(3) Dirty laundry _1x2(1) Big brother us _24x20(1) Rpdr _15x2(1) 
+apercu/apercuglobal.md:mois 01-04-2023 -> The voice chile _4x4(3) The voice kids poland _6x6(5) The masked singer _9x8(5) The voice no _8x27(10) A boss and a babe _1x6(5) Past senger _1x5(4) Top chef _14x6(5) Koh-lanta _29x7(4) Earthmix space _2x5(2) Midnight museum _1x6(5) The masked singer th _12x3(2) The voice kids ph _5x11(9) Queer as folk _1x3(2) Umg _1x4(3) Choco milk shake _1x4(3) The voice fr _13x6(4) The voice kids ger _11x4(3) American idol _21x3(2) The voice us _23x7(6) The voice sri lanka _2x46(11) The voice kids uruguay _1x4(3) Reginald the vampire _1x7(1) Next level chef _2x3(2) Big brother us _24x21(1) Le flambeau _1x8(2) Dance 100 _1x2(1) Cutie pie _2x2(1) The night beyond the tricornered window _1x2(1) Skam france _11x2(1) Drag race be _1x5(2) Physical 100 _1x4(1) Cheat netflix _1x3(2) Drag race sweden _1x2(1) 
+apercu/apercuglobal.md:mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercuglobal.md:mois 01-09-2022 -> Masterchef fr _6x3(2) Le flambeau _1x6(2) Camping paradis _13x4(1) My only 12pc _1x2(1) Bt21 original story _2x2(1) Big brother us _24x18(7) Rpdrdu _2x4(2) Drag race ph _1x3(2) Sky in your heart _1x4(2) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Agt _17x6(3) Unforgotten night _1x7(1)  
+apercu/apercuglobal.md:mois 01-11-2022 -> Juad juad _1x3(1) Big brother us _24x19(1) Ai long nhai _1x5(3) Reginald the vampire _1x4(3) The challenge _38x3(3) Ahs _11x2(1) The shipper _1x9(3) Dwts _31x4(1) La mas draga _5x4(2) Let the right one in _1x2(1) The voice nepal _4x4(1) Lego masters _3x4(2) Nailed it _7x2(1) 
+apercu/apercuglobal.md:sem 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(1) Big brother us _24x11(4) 
+apercu/apercuglobal.md:sem 08-08-2022 -> Big brother us _24x14(3) Unforgotten night _1x7(1) 
+apercu/apercuglobal.md:sem 15-08-2022 -> Sky in your heart _1x4(2) Big brother us _24x17(3) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
+apercu/apercuglobal.md:sem 16-01-2023 -> The voice sri lanka _2x24(5) Big brother us _24x20(1) The voice no _8x5(2) 
+apercu/apercuglobal.md:sem 18-07-2022 -> Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) Big brother us _24x5(4) Big brother us _23x8(7) Unforgotten night _1x5(1) 
+apercu/apercuglobal.md:sem 20-03-2023 -> The voice kids uruguay _1x3(2) The masked singer _9x6(1) The voice sri lanka _2x44(2) Umg _1x3(1) The voice kids poland _6x5(1) Big brother us _24x21(1) The voice fr _13x5(1) Le flambeau _1x8(2) Dance 100 _1x2(1) The voice kids ger _11x3(1) American idol _21x2(1) The voice no _8x23(2) A boss and a babe _1x4(1) Past senger _1x2(1) Top chef _14x4(1) Cutie pie _2x2(1) The masked singer th _12x2(1) Next level chef _2x2(1) Koh-lanta _29x5(1) Midnight museum _1x5(2) The voice us _23x3(1) 
+apercu/apercuglobal.md:sem 22-08-2022 -> Big brother us _24x18(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+apercu/apercuglobal.md:sem 25-07-2022 -> Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
+apercu/apercuglobal.md:sem 31-10-2022 -> Juad juad _1x3(1) Big brother us _24x19(1) Ai long nhai _1x5(1) 
 apercuTer/apercuTer.md:* Big brother us _24
 liste/liste.md:|big brother us _24|||||0|<!--  -->
 premder/premder.md:Big brother us _24x1
-premder/premder.md:Big brother us _24x17
+premder/premder.md:Big brother us _24x20

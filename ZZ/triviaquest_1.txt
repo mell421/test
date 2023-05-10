@@ -94,6 +94,24 @@ apercu/apercu22.md:concluBis 15/04/22 = Trivia quest _1 > 6;
 apercu/apercu22.md:concluBis 16/04/22 = Trivia quest _1 > 6; 
 apercu/apercu22.md:concluBis 17/04/22 = Trivia quest _1 > 2; 
 apercu/apercu22.md:concluBis 18/04/22 = Trivia quest _1 > 1; 
+apercu/apercuglobal.md:conclu 10/04/22 = Trivia quest _1 > 3; 
+apercu/apercuglobal.md:conclu 11/04/22 = Trivia quest _1 > 3; 
+apercu/apercuglobal.md:conclu 12/04/22 = Trivia quest _1 > 3; 
+apercu/apercuglobal.md:conclu 13/04/22 = Trivia quest _1 > 3; 
+apercu/apercuglobal.md:conclu 14/04/22 = Trivia quest _1 > 3; 
+apercu/apercuglobal.md:conclu 15/04/22 = Trivia quest _1 > 3; 
+apercu/apercuglobal.md:conclu 16/04/22 = Trivia quest _1 > 3; 
+apercu/apercuglobal.md:concluBis 10/04/22 = Trivia quest _1 > 5; 
+apercu/apercuglobal.md:concluBis 11/04/22 = Trivia quest _1 > 5; 
+apercu/apercuglobal.md:concluBis 12/04/22 = Trivia quest _1 > 5; 
+apercu/apercuglobal.md:concluBis 13/04/22 = Trivia quest _1 > 5; 
+apercu/apercuglobal.md:concluBis 14/04/22 = Trivia quest _1 > 5; 
+apercu/apercuglobal.md:concluBis 15/04/22 = Trivia quest _1 > 6; 
+apercu/apercuglobal.md:concluBis 16/04/22 = Trivia quest _1 > 6; 
+apercu/apercuglobal.md:concluBis 17/04/22 = Trivia quest _1 > 2; 
+apercu/apercuglobal.md:concluBis 18/04/22 = Trivia quest _1 > 1; 
+apercu/apercuglobal.md:mois 01-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Call me mother _1x2(1) Trivia quest _1x7(6) Quaranthings _2x2(1) 
+apercu/apercuglobal.md:sem 11-04-2022 -> Trivia quest _1x7(6) 
 apercuTer/apercuTer.md:* Trivia quest _1
 liste/liste.md:|trivia quest _1||30|||0|<!-- 9/4 -->
 premder/premder.md:Trivia quest _1x1

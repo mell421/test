@@ -130,6 +130,25 @@ apercu/apercu22.md:* concluBis 23/03/22 = Cupids last wish _1 > 2;
 apercu/apercu22.md:* concluBis 27/02/22 = Cupids last wish _1 > 5; Forever knight _1 > 1; 
 apercu/apercu22.md:* concluBis 28/02/22 = Cupids last wish _1 > 3; 
 apercu/apercu22.md:concluBis 24/03/22 = Cupids last wish _1 > 2; 
+apercu/apercuglobal.md:conclu 01/03/22 = Cupids last wish _1 > 2; 
+apercu/apercuglobal.md:conclu 02/03/22 = Cupids last wish _1 > 1; 
+apercu/apercuglobal.md:conclu 20/03/22 = Cupids last wish _1 > 3; 
+apercu/apercuglobal.md:conclu 21/03/22 = Cupids last wish _1 > 1; 
+apercu/apercuglobal.md:conclu 27/02/22 = Cupids last wish _1 > 3; 
+apercu/apercuglobal.md:conclu 28/02/22 = Cupids last wish _1 > 1; 
+apercu/apercuglobal.md:concluBis 01/03/22 = Cupids last wish _1 > 4; 
+apercu/apercuglobal.md:concluBis 02/03/22 = Cupids last wish _1 > 3; 
+apercu/apercuglobal.md:concluBis 20/03/22 = Cupids last wish _1 > 5; 
+apercu/apercuglobal.md:concluBis 21/03/22 = Cupids last wish _1 > 3; 
+apercu/apercuglobal.md:concluBis 22/03/22 = Cupids last wish _1 > 2; 
+apercu/apercuglobal.md:concluBis 23/03/22 = Cupids last wish _1 > 2; 
+apercu/apercuglobal.md:concluBis 24/03/22 = Cupids last wish _1 > 2; 
+apercu/apercuglobal.md:concluBis 27/02/22 = Cupids last wish _1 > 5; Forever knight _1 > 1; 
+apercu/apercuglobal.md:concluBis 28/02/22 = Cupids last wish _1 > 3; 
+apercu/apercuglobal.md:mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercuglobal.md:mois 01-04-2022 -> Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
+apercu/apercuglobal.md:sem 21-03-2022 -> Cupids last wish _1x5(2) 
+apercu/apercuglobal.md:sem 28-02-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) 
 apercuTer/apercuTer.md:* Cupids last wish _1
 bl/bl.md:|cupids last wish _1|cupids last wish|?|serie|thailande|4|<!--  -->
 liste/liste.md:|cupids last wish _1||10|serie|thailande|0|<!-- 23/2 -->

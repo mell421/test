@@ -3,22 +3,37 @@ aEff/aeff.md:- 22/05/22 - 625* Two pints of lager _3{3} Rpdras _7{0}
 aEff/aeff.md:- 23/05/22 - 688* Rpdrasu _7{0} Two pints of lager _3{3} 
 aEff/aeff.md:- 24/05/22 - 701* Two pints of lager _3{4} Rpdrasu _7{1} 
 aEff/aeff.md:- 25/05/22 - 171* Beat shazam _2{0} /9-1-1 _5{7} Two pints of lager _3{5} Rpdrasu _7{1} 
-aEff/aeff.md:24/07/22 - 172* Blueming _1{0} Rpdrasu _7{4} Rpdras _7{4} 
-aEff/aeff.md:25/07/22 - 177* Blueming _1{0} Rpdrasu _7{4} Rpdras _7{4} 
+aEff/aeff.md:04/12/22 - 317* Rpdrasu _7{6} Rpdras _7{6} Dragula titans _1{0} /609 bedtime story _1{0} 
+aEff/aeff.md:05/12/22 - 250* Rpdrasu _7{6} Rpdras _7{6} Dragula titans _1{0} /609 bedtime story _1{1} 
+aEff/aeff.md:06/12/22 - 382* Rpdrasu _7{7} Rpdras _7{7} Dragula titans _1{1} /609 bedtime story _1{3} 
+aEff/aeff.md:07/12/22 - 392* Rpdrasu _7{7} Rpdras _7{7} Dragula titans _1{1} /609 bedtime story _1{4} 
+aEff/aeff.md:08/12/22 - 333* Rpdrasu _7{7} Rpdras _7{7} Dragula titans _1{1} /609 bedtime story _1{5} 
+aEff/aeff.md:09/12/22 - 326* Dwts _31{7} Rpdrasu _7{7} Rpdras _7{7} Dragula titans _1{1} 
+aEff/aeff.md:10/12/22 - 404* Dwts _31{7} Rpdrasu _7{7} 
+aEff/aeff.md:24/07/22 - 172* Rpdrasu _7{4} Rpdras _7{4} 
+aEff/aeff.md:25/07/22 - 177* Rpdrasu _7{4} Rpdras _7{4} 
 aEff/aeff.md:27/06/22 - 254* Rpdrasu _7{2} Rpdras _7{2} Bulgasal _1{6} Dont forget the lyrics _1{12} 
 aEff/aeff.md:28/06/22 - 191* Camping paradis _13{1} Rpdrasu _7{3} Rpdras _7{3} 
 aEff/aeff.md:29/06/22 - 168* Close friend _2{4} Dont forget the lyrics _1{13} Camping paradis _13{1} Rpdrasu _7{3} Rpdras _7{3} 
 apercu/apercu22.md:- mois 01-06-2022 -> Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
 apercu/apercu22.md:- mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
-apercu/apercu22.md:- mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Blueming _1x4(3) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercu22.md:- mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
 apercu/apercu22.md:- sem 23-05-2022 -> Rpdrasu _7x2(1) Two pints of lager _3x5(2) Rpdras _7x2(1) 
-apercu/apercu22.md:- sem 25-07-2022 -> Blueming _1x2(1) Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
+apercu/apercu22.md:- sem 25-07-2022 -> Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
 apercu/apercu22.md:- sem 27-06-2022 -> Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dont forget the lyrics _1x6(1) Dancing with myself _1x3(1) Unforgotten night _1x2(1) Camping paradis _13x2(1) 
+apercu/apercuglobal.md:mois 01-01-2023 -> Midnight motel _1x2(1) The voice sri lanka _2x9(4) Never let me go _1x3(2) /609 bedtime story _1x5(4) La mas draga _5x6(2) Dwts _31x5(1) Rpdrasu _7x5(1) Rpdras _7x5(1) Dragula titans _1x2(1) 
+apercu/apercuglobal.md:mois 01-06-2022 -> Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+apercu/apercuglobal.md:mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+apercu/apercuglobal.md:mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercuglobal.md:sem 05-12-2022 -> Rpdrasu _7x5(1) Rpdras _7x5(1) Dragula titans _1x2(1) /609 bedtime story _1x3(2) The voice sri lanka _2x5(1) 
+apercu/apercuglobal.md:sem 23-05-2022 -> Rpdrasu _7x2(1) Two pints of lager _3x5(2) Rpdras _7x2(1) 
+apercu/apercuglobal.md:sem 25-07-2022 -> Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
+apercu/apercuglobal.md:sem 27-06-2022 -> Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dont forget the lyrics _1x6(1) Dancing with myself _1x3(1) Unforgotten night _1x2(1) Camping paradis _13x2(1) 
 apercuTer/apercuTer.md:* Rpdras _7
 apercuTer/apercuTer.md:* Rpdrasu _7
 liste/liste.md:|rpdras _7|||||0|<!--  -->
 liste/liste.md:|rpdrasu _7|||||0|<!--  -->
 premder/premder.md:Rpdras _7x1
-premder/premder.md:Rpdras _7x3
+premder/premder.md:Rpdras _7x4
 premder/premder.md:Rpdrasu _7x1
-premder/premder.md:Rpdrasu _7x3
+premder/premder.md:Rpdrasu _7x4

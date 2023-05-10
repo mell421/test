@@ -20,6 +20,16 @@ apercu/apercu22.md:* conclu 21/01/22 = Meet my angel _2 > 2; Something in my roo
 apercu/apercu22.md:* conclu 27/01/22 = The voice ph _1 > 3; Something in my room _1 > 2; Forever knight _1 > 1; 
 apercu/apercu22.md:* concluBis 21/01/22 = Meet my angel _2 > 4; Something in my room _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 27/01/22 = The voice ph _1 > 5; Something in my room _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; 
+apercu/apercuglobal.md:conclu 21/01/22 = Meet my angel _2 > 2; Something in my room _1 > 1; 
+apercu/apercuglobal.md:conclu 27/01/22 = The voice ph _1 > 3; Something in my room _1 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:concluBis 21/01/22 = Meet my angel _2 > 4; Something in my room _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 27/01/22 = The voice ph _1 > 5; Something in my room _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; 
+apercu/apercuglobal.md:mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+apercu/apercuglobal.md:mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercuglobal.md:sem 07-02-2022 -> Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
+apercu/apercuglobal.md:sem 21-02-2022 -> Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) 
+apercu/apercuglobal.md:sem 24-01-2022 -> F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
+apercu/apercuglobal.md:sem 31-01-2022 -> F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
 apercuTer/apercuTer.md:* Something in my room _1
 bl/bl.md:|something in my room _1|simr|10|serie|thailande|4|<!--  -->
 liste/liste.md:|Something in my room _1|||||0|<!-- 20/1/22 -->

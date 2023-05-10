@@ -62,7 +62,7 @@ apercu/apercu2019.md:Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) The politi
 apercu/apercu2019.md:Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1) 
 apercu/apercu2019.md:Two pints of lager _3x3(2) Ga _2x14(1) Malcolm _2x15(1) The politician _1x5(2) Skam vsg _1x5(1) Prodigal son _1x3(1) Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) Dawson _1x2(1) 
 apercu/apercu22.md:- mois 01-06-2022 -> Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
-apercu/apercu22.md:- mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Blueming _1x4(3) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercu22.md:- mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
 apercu/apercu22.md:- sem 11-07-2022 -> Two pints of lager _3x7(1) Second chance series _1x2(1) Unforgotten night _1x4(1) Agt _17x3(1) 
 apercu/apercu22.md:- sem 23-05-2022 -> Rpdrasu _7x2(1) Two pints of lager _3x5(2) Rpdras _7x2(1) 
 apercu/apercu22.md:- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(1) 
@@ -77,6 +77,18 @@ apercu/apercuglobal.md:- mois 01-11-2019 Two pints of lager _3x3(2) Ga _2x14(1) 
 apercu/apercuglobal.md:- mois 01-12-2019 Ga _2x15(2) New amsterdam _1x4(1) Hsmtmts _1x3(2) Teotfw _2x4(3) The l word _1x5(1) Two pints of lager _3x3(1) 
 apercu/apercuglobal.md:- sem 04-11-2019 Two pints of lager _3x3(1) Ga _2x14(1) Malcolm _2x15(1) 
 apercu/apercuglobal.md:- sem 07-10-2019 Sam & cat _1x20(1) Community _1x2(1) Ahs _9x4(1) The politician _1x4(1) Two pints of lager _3x2(1) Dawson _1x2(1) 
+apercu/apercuglobal.md:conclu 27/05/22 = Beat shazam _2 > 2; Two pints of lager _3 > 1; 
+apercu/apercuglobal.md:conclu 28/05/22 = Beat shazam _2 > 2; Two pints of lager _3 > 1; 
+apercu/apercuglobal.md:concluBis 24/05/22 = Two pints of lager _3 > 2; 
+apercu/apercuglobal.md:concluBis 25/05/22 = Two pints of lager _3 > 2; 
+apercu/apercuglobal.md:concluBis 26/05/22 = Beat shazam _2 > 3; Two pints of lager _3 > 2; 
+apercu/apercuglobal.md:concluBis 27/05/22 = Beat shazam _2 > 4; Two pints of lager _3 > 3; Druck _8 > 1; 
+apercu/apercuglobal.md:concluBis 28/05/22 = Beat shazam _2 > 4; Two pints of lager _3 > 3; 
+apercu/apercuglobal.md:mois 01-06-2022 -> Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+apercu/apercuglobal.md:mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+apercu/apercuglobal.md:sem 11-07-2022 -> Two pints of lager _3x7(1) Second chance series _1x2(1) Unforgotten night _1x4(1) Agt _17x3(1) 
+apercu/apercuglobal.md:sem 23-05-2022 -> Rpdrasu _7x2(1) Two pints of lager _3x5(2) Rpdras _7x2(1) 
+apercu/apercuglobal.md:sem 30-05-2022 -> Dont forget the lyrics _1x2(1) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(1) 
 apercuTer/apercuTer.md:* Two pints of lager _3
 liste/liste.md:|two pints of lager _3|||||2|<!--  -->
 premder/premder.md:Two pints of lager _3x1

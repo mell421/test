@@ -1,7 +1,14 @@
-aEff/aeff.md:12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Blueming _1{5} Juad juad _1{0} Dont forget the lyrics _1{19} 
-aEff/aeff.md:13/08/22 - 326* Sky in your heart _1{3} Big brother us _24{32} Blueming _1{5} Juad juad _1{0} 
-apercu/apercu22.md:- sem 15-08-2022 -> Sky in your heart _1x4(2) Big brother us _24x17(3) Blueming _1x6(1) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
+aEff/aeff.md:12/08/22 - 338* Sky in your heart _1{3} Big brother us _24{31} Juad juad _1{0} Dont forget the lyrics _1{19} 
+aEff/aeff.md:13/08/22 - 326* Sky in your heart _1{3} Big brother us _24{32} Juad juad _1{0} 
+aEff/aeff.md:29/10/22 - 2* Juad juad _1{2} 
+aEff/aeff.md:30/10/22 - 2* Juad juad _1{2} 
+apercu/apercu22.md:- sem 15-08-2022 -> Sky in your heart _1x4(2) Big brother us _24x17(3) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
+apercu/apercuglobal.md:mois 01-09-2022 -> Masterchef fr _6x3(2) Le flambeau _1x6(2) Camping paradis _13x4(1) My only 12pc _1x2(1) Bt21 original story _2x2(1) Big brother us _24x18(7) Rpdrdu _2x4(2) Drag race ph _1x3(2) Sky in your heart _1x4(2) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Agt _17x6(3) Unforgotten night _1x7(1)  
+apercu/apercuglobal.md:mois 01-11-2022 -> Juad juad _1x3(1) Big brother us _24x19(1) Ai long nhai _1x5(3) Reginald the vampire _1x4(3) The challenge _38x3(3) Ahs _11x2(1) The shipper _1x9(3) Dwts _31x4(1) La mas draga _5x4(2) Let the right one in _1x2(1) The voice nepal _4x4(1) Lego masters _3x4(2) Nailed it _7x2(1) 
+apercu/apercuglobal.md:sem 15-08-2022 -> Sky in your heart _1x4(2) Big brother us _24x17(3) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
+apercu/apercuglobal.md:sem 31-10-2022 -> Juad juad _1x3(1) Big brother us _24x19(1) Ai long nhai _1x5(1) 
 apercuTer/apercuTer.md:* Juad juad _1
 bl/bl.md:|juad juad _1||||||<!--  -->
 liste/liste.md:|juad juad _1|||||0|<!--  -->
 premder/premder.md:Juad juad _1x1
+premder/premder.md:Juad juad _1x2

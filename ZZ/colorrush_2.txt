@@ -2,6 +2,8 @@ aEff/aeff.md:- 22/01/22 - 85* color rush _2{0} meet my angel _2{2} something in 
 aEff/aeff.md:- 23/01/22 - 99* color rush _2{0} meet my angel _2{2} 
 apercu/apercu22.md:- mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
 apercu/apercu22.md:- sem 24-01-2022 -> F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
+apercu/apercuglobal.md:mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+apercu/apercuglobal.md:sem 24-01-2022 -> F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
 bl/bl.md:|color rush _2|color rush _2|8|serie|corée|1|<!--  -->
 liste/liste.md:|color rush _2|||||0|<!-- 21/1/22 -->
 premder/premder.md:Color rush _2x1

@@ -48,6 +48,19 @@ apercu/apercu22.md:concluBis 26/06/22 = Bulgasal _1 > 4;
 apercu/apercu22.md:concluBis 27/06/22 = Bulgasal _1 > 4; 
 apercu/apercu22.md:concluBis 28/06/22 = Bulgasal _1 > 3; 
 apercu/apercu22.md:concluBis 29/06/22 = Dont forget the lyrics _1 > 4; Bulgasal _1 > 2; 
+apercu/apercuglobal.md:conclu 25/06/22 = Bulgasal _1 > 2; 
+apercu/apercuglobal.md:conclu 26/06/22 = Bulgasal _1 > 2; 
+apercu/apercuglobal.md:conclu 27/06/22 = Bulgasal _1 > 2; 
+apercu/apercuglobal.md:conclu 28/06/22 = Bulgasal _1 > 1; 
+apercu/apercuglobal.md:concluBis 23/06/22 = Bulgasal _1 > 2; 
+apercu/apercuglobal.md:concluBis 24/06/22 = Bulgasal _1 > 2; Dont forget the lyrics _1 > 1; 
+apercu/apercuglobal.md:concluBis 25/06/22 = Bulgasal _1 > 4; Dont forget the lyrics _1 > 1; 
+apercu/apercuglobal.md:concluBis 26/06/22 = Bulgasal _1 > 4; 
+apercu/apercuglobal.md:concluBis 27/06/22 = Bulgasal _1 > 4; 
+apercu/apercuglobal.md:concluBis 28/06/22 = Bulgasal _1 > 3; 
+apercu/apercuglobal.md:concluBis 29/06/22 = Dont forget the lyrics _1 > 4; Bulgasal _1 > 2; 
+apercu/apercuglobal.md:mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+apercu/apercuglobal.md:sem 27-06-2022 -> Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dont forget the lyrics _1x6(1) Dancing with myself _1x3(1) Unforgotten night _1x2(1) Camping paradis _13x2(1) 
 apercuTer/apercuTer.md:* Bulgasal _1
 bl/bl.md:|bulgasal _1|bulgasal _1|16|serie(non)|corée|4|<!--  -->
 liste/liste.md:|bulgasal _1|||||0|<!--  -->

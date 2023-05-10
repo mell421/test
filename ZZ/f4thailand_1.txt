@@ -207,6 +207,36 @@ apercu/apercuglobal.md:- sem 20-12-2021 -> District z _2x3(1) F4 thailand _1x2(1
 apercu/apercuglobal.md:- sem 27-12-2021 -> The player _1x3(2) F4 thailand _1x3(1) 
 apercu/apercuglobal.md:* concluBis 19/12/21 = District z _2 > 3; F4 thailand _1 > 2; Forever knight _1 > 1; 
 apercu/apercuglobal.md:* concluBis 26/12/21 = F4 thailand _1 > 1; Forever knight _1 > 1; 
+apercu/apercuglobal.md:conclu 13/02/22 = F4 thailand _1 > 2; All of us are dead _1 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:conclu 20/02/22 = F4 thailand _1 > 1; Forever knight _1 > 1; 
+apercu/apercuglobal.md:conclu 21/02/22 = F4 thailand _1 > 1; 
+apercu/apercuglobal.md:conclu 22/02/22 = F4 thailand _1 > 1; 
+apercu/apercuglobal.md:conclu 28/01/22 = The voice ph _1 > 3; F4 thailand _1 > 1; Forever knight _1 > 1; 
+apercu/apercuglobal.md:conclu 30/01/22 = The voice ph _1 > 2; F4 thailand _1 > 1; Forever knight _1 > 1; 
+apercu/apercuglobal.md:concluBis 01/02/22 = /9-1-1 lone star _3 > 5; The voice ph _1 > 5; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 06/02/22 = F4 thailand _1 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:concluBis 07/02/22 = Meet my angel _2 > 2; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 08/02/22 = F4 thailand _1 > 2; Meet my angel _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 13/02/22 = F4 thailand _1 > 7; All of us are dead _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; 
+apercu/apercuglobal.md:concluBis 14/02/22 = All of us are dead _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; F4 thailand _1 > 1; 
+apercu/apercuglobal.md:concluBis 15/02/22 = All of us are dead _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; F4 thailand _1 > 1; 
+apercu/apercuglobal.md:concluBis 20/02/22 = F4 thailand _1 > 5; Forever knight _1 > 3; Imortal _1 > 2; 
+apercu/apercuglobal.md:concluBis 21/02/22 = F4 thailand _1 > 4; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 22/02/22 = F4 thailand _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 23/02/22 = F4 thailand _1 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 24/02/22 = F4 thailand _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 28/01/22 = The voice ph _1 > 5; F4 thailand _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
+apercu/apercuglobal.md:concluBis 29/01/22 = The voice ph _1 > 4; F4 thailand _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
+apercu/apercuglobal.md:concluBis 30/01/22 = The voice ph _1 > 4; F4 thailand _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
+apercu/apercuglobal.md:concluBis 31/01/22 = The voice ph _1 > 4; F4 thailand _1 > 2; Forever knight _1 > 1; 
+apercu/apercuglobal.md:mois 01-01-2022 -> /5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Baker boys _1x4(1) 
+apercu/apercuglobal.md:mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+apercu/apercuglobal.md:mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercuglobal.md:sem 07-02-2022 -> Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
+apercu/apercuglobal.md:sem 14-02-2022 -> All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
+apercu/apercuglobal.md:sem 21-02-2022 -> Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) 
+apercu/apercuglobal.md:sem 24-01-2022 -> F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
+apercu/apercuglobal.md:sem 31-01-2022 -> F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
 apercuTer/apercuTer.md:* F4 thailand _1
 bl/bl.md:|F4 thailand _1|F4 thailand|16|serie(**)|thailande|9|<!-- -->
 premder/premder.md:F4 thailand _1x1
@@ -236,8 +266,8 @@ tab2022.html:    <td class="conclubis">The voice ph _1 > 5; F4 thailand _1 > 3; 
 tab2022.html:    <td class="resumemois">/9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) </td>
 tab2022.html:    <td class="resumemois">5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Baker boys _1x4(1) </td>
 tab2022.html:    <td class="resumesem">All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) </td>
+tab2022.html:    <td class="resumesem">F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) </td>
 tab2022.html:    <td class="resumesem">F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) </td>
 tab2022.html:    <td class="resumesem">F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) </td>
 tab2022.html:    <td class="resumesem">Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) </td>
-tab2022.html:    <td class="resumesem">sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) </td>
 tab2022.html:    <td class="resumesem">Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) </td>

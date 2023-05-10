@@ -1,3 +1,0 @@
-apercuTer/apercuTer.md:* His man _1
-bl/bl.md:|his man _1|his man _1|12|show|corée|4|<!--  -->
-liste/liste.md:|his man _1|||||0|<!--  -->

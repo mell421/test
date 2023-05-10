@@ -38,6 +38,18 @@ apercu/apercu22.md:* concluBis 02/02/22 = /9-1-1 lone star _3 > 2; Forever knigh
 apercu/apercu22.md:* concluBis 03/02/22 = Forever knight _1 > 2; /9-1-1 lone star _3 > 1; Imortal _1 > 1; 
 apercu/apercu22.md:* concluBis 04/02/22 = /9-1-1 lone star _3 > 1; Forever knight _1 > 1; 
 apercu/apercuglobal.md:- sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) 
+apercu/apercuglobal.md:conclu 01/02/22 = The voice ph _1 > 3; /9-1-1 lone star _3 > 2; 
+apercu/apercuglobal.md:concluBis 01/02/22 = /9-1-1 lone star _3 > 5; The voice ph _1 > 5; Forever knight _1 > 2; F4 thailand _1 > 1; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 02/02/22 = /9-1-1 lone star _3 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 03/02/22 = Forever knight _1 > 2; /9-1-1 lone star _3 > 1; Imortal _1 > 1; 
+apercu/apercuglobal.md:concluBis 04/02/22 = /9-1-1 lone star _3 > 1; Forever knight _1 > 1; 
+apercu/apercuglobal.md:mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
+apercu/apercuglobal.md:mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+apercu/apercuglobal.md:mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+apercu/apercuglobal.md:sem 07-02-2022 -> Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
+apercu/apercuglobal.md:sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Dont forget the lyrics _1x4(1) 
+apercu/apercuglobal.md:sem 14-02-2022 -> All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
+apercu/apercuglobal.md:sem 17-01-2022 -> The voice nl _12x3(1) /9-1-1 lone star _3x3(1) 
 apercuTer/apercuTer.md:* /9-1-1 lone star _3
 liste/liste.md:|/9-1-1 lone star _3||18|||0|<!-- 3/1/22 -->
 premder/premder.md:/9-1-1 lone star _3x1
@@ -49,6 +61,6 @@ tab2022.html:    <td class="conclubis">/9-1-1 lone star _3 > 5; The voice ph _1 
 tab2022.html:    <td class="conclubis">Forever knight _1 > 2; /9-1-1 lone star _3 > 1; Imortal _1 > 1; </td>
 tab2022.html:    <td class="resumemois">/9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) </td>
 tab2022.html:    <td class="resumesem">All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) </td>
+tab2022.html:    <td class="resumesem">F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) </td>
 tab2022.html:    <td class="resumesem">Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) </td>
-tab2022.html:    <td class="resumesem">sem 10-01-2022 -> F4 thailand _1x4(1) The voice nl _12x2(1) /9-1-1 lone star _3x2(1) </td>
 tab2022.html:    <td class="resumesem">The voice nl _12x3(1) /9-1-1 lone star _3x3(1) </td>
