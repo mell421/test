@@ -723,7 +723,8 @@
 |The voice peru _6||56|||<!--  -->
 |Pekin express _17||10|||<!--  -->
 |Crush on you _1||7|||<!--  -->
-|The voice finland _13||24|||0|<!--  -->
+|The voice finland _13||24|||<!--  -->
+|The masked singer vv _3||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -984,7 +985,6 @@
 |The eight sense _1|||||0|<!--  -->
 |The voice chile _4|||||0|<!--  -->
 |The masked singer ger _8|||||0|<!--  -->
-|The masked singer vv _3|||||0|<!--  -->
 |The masked singer _9|||||0|<!--  -->
 |The voice no _8|||||0|<!--  -->
 |The voice kids poland _6|||||0|<!--  -->
