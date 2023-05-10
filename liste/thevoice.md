@@ -134,6 +134,7 @@
 |tv greece _9||22|||<!--  -->
 |Tvk it _1||2|||<!--  -->
 |Tv peru _6||56|||<!--  -->
+|Tv finland _13||24|||0|<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -154,7 +155,6 @@
 |The voice nepal _4|||||0|<!--  -->
 |The voice us _23|||||0|<!--  -->
 |The voice chile _4|||||0|<!--  -->
-|The voice finland _13|||||0|<!--  -->
 |The voice no _8|||||0|<!--  -->
 |The voice kids poland _6|||||0|<!--  -->
 |The voice fr _13|||||0|<!--  -->
