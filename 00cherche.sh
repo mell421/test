@@ -11,7 +11,7 @@ list99=(
 # 99-50
 "Lego masters _3" "The masked singer _9" "Physical 100 _1" "The voice us _23" "Agt _17" "The voice chile _4" 
 # 49-40
-"The voice kids poland _6" "The voice fr _13" "Koh-lanta _29" "Choco milk shake _1" 
+"The voice fr _13" "Koh-lanta _29" "Choco milk shake _1" 
 # 39-30
 "The voice kids uruguay _1" "The voice kids ger _11" "Top chef _14" 
 # 29-20 

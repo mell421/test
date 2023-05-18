@@ -59,11 +59,6 @@ ligne :  54 ZZ/Thevoicechile_4.txt
 mot   :  2275 ZZ/Thevoicechile_4.txt
 carac :  13044 ZZ/Thevoicechile_4.txt
 
-i = The voice kids poland _6
-ligne :  52 ZZ/Thevoicekidspoland_6.txt
-mot   :  2150 ZZ/Thevoicekidspoland_6.txt
-carac :  12853 ZZ/Thevoicekidspoland_6.txt
-
 i = The voice fr _13
 ligne :  53 ZZ/Thevoicefr_13.txt
 mot   :  2249 ZZ/Thevoicefr_13.txt

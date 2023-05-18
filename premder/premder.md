@@ -52,7 +52,6 @@ The voice kids ph _5x15
 The voice sri lanka _2x56
 Bed friend _1x2
 The voice fr _13x8
-The voice kids poland _6x8
 The voice no _8x28
 The masked singer _9x9
 The voice japan _1x1
@@ -97,7 +96,6 @@ Cheat netflix _1x1
 The voice us _23x1
 Midnight museum _1x1
 Drag race sweden _1x1
-The voice kids poland _6x1
 A boss and a babe _1x1
 Top chef _14x1
 The voice fr _13x1
