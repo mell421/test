@@ -57,11 +57,9 @@ The voice no _8x28
 The masked singer _9x9
 The voice japan _1x1
 The masked singer fr _5x1
-The masked singer ger _8x2
 The voice chile _4x6
 Bed friend _1x1
 The eight sense _1x1
-The masked singer ger _8x1
 Make a wish _1x1
 Me my husband and my husbands boyfriend _1x2
 Devils line _1x2

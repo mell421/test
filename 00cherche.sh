@@ -17,7 +17,7 @@ list99=(
 # 29-20 
 "Past senger _1" "A boss and a babe _1" "Earthmix space _2" "Reginald the vampire _1" 
 # 19-15
-"American idol _21" "The voice kids portugal _4" "The masked singer ger _8" "Drag race be _1" "Midnight museum _1" 
+"American idol _21" "The voice kids portugal _4" "Drag race be _1" "Midnight museum _1" 
 # 14-10
 "Umg _1" "Bed friend _1" "Next level chef _2" "Me my husband and my husbands boyfriend _1" 
 # 9-8

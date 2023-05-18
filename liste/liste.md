@@ -726,6 +726,7 @@
 |The voice finland _13||24|||<!--  -->
 |The masked singer vv _3||12|||<!--  -->
 |The voice lithu _9||18|||<!--  -->
+|The masked singer ger _8||6|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -985,7 +986,6 @@
 |Make a wish _1|||||0|<!--  -->
 |The eight sense _1|||||0|<!--  -->
 |The voice chile _4|||||0|<!--  -->
-|The masked singer ger _8|||||0|<!--  -->
 |The masked singer _9|||||0|<!--  -->
 |The voice no _8|||||0|<!--  -->
 |The voice kids poland _6|||||0|<!--  -->

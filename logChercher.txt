@@ -124,11 +124,6 @@ ligne :  21 ZZ/Thevoicekidsportugal_4.txt
 mot   :  694 ZZ/Thevoicekidsportugal_4.txt
 carac :  3965 ZZ/Thevoicekidsportugal_4.txt
 
-i = The masked singer ger _8
-ligne :  80 ZZ/Themaskedsingerger_8.txt
-mot   :  3439 ZZ/Themaskedsingerger_8.txt
-carac :  20460 ZZ/Themaskedsingerger_8.txt
-
 i = Drag race be _1
 ligne :  22 ZZ/Dragracebe_1.txt
 mot   :  698 ZZ/Dragracebe_1.txt
