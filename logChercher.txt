@@ -34,11 +34,6 @@ ligne :  78 ZZ/Legomasters_3.txt
 mot   :  2288 ZZ/Legomasters_3.txt
 carac :  14513 ZZ/Legomasters_3.txt
 
-i = The masked singer _9
-ligne :  74 ZZ/Themaskedsinger_9.txt
-mot   :  3205 ZZ/Themaskedsinger_9.txt
-carac :  19459 ZZ/Themaskedsinger_9.txt
-
 i = Physical 100 _1
 ligne :  64 ZZ/Physical100_1.txt
 mot   :  2266 ZZ/Physical100_1.txt

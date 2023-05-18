@@ -53,7 +53,6 @@ The voice sri lanka _2x56
 Bed friend _1x2
 The voice fr _13x8
 The voice no _8x28
-The masked singer _9x9
 The voice japan _1x1
 The masked singer fr _5x1
 The voice chile _4x6
@@ -103,7 +102,6 @@ The voice kids ph _5x1
 Koh-lanta _29x1
 Lego masters _3x5
 Agt _17x6
-The masked singer _9x1
 Drag race be _1x1
 The shipper _1x9
 Tongue thaid _1x4

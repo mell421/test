@@ -9,7 +9,7 @@ list99=(
 # >= 100
 "Big brother us _24" "The voice sri lanka _2" "The voice no _8" "Le flambeau _1" "The shipper _1" "The voice kids ph _5" 
 # 99-50
-"Lego masters _3" "The masked singer _9" "Physical 100 _1" "The voice us _23" "Agt _17" "The voice chile _4" 
+"Lego masters _3" "Physical 100 _1" "The voice us _23" "Agt _17" "The voice chile _4" 
 # 49-40
 "The voice fr _13" "Koh-lanta _29" "Choco milk shake _1" 
 # 39-30
