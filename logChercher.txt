@@ -74,11 +74,6 @@ ligne :  37 ZZ/Thevoicekidsuruguay_1.txt
 mot   :  1645 ZZ/Thevoicekidsuruguay_1.txt
 carac :  9731 ZZ/Thevoicekidsuruguay_1.txt
 
-i = The voice kids ger _11
-ligne :  37 ZZ/Thevoicekidsger_11.txt
-mot   :  1659 ZZ/Thevoicekidsger_11.txt
-carac :  10090 ZZ/Thevoicekidsger_11.txt
-
 i = Top chef _14
 ligne :  33 ZZ/Topchef_14.txt
 mot   :  1375 ZZ/Topchef_14.txt

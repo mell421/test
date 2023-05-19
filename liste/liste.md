@@ -729,6 +729,7 @@
 |The masked singer ger _8||6|||<!--  -->
 |The voice kids poland _6||10|||<!--  -->
 |The masked singer _9||14|||<!--  -->
+|The voice kids ger _11||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -995,7 +996,6 @@
 |The voice kids ph _5|||||0|<!--  -->
 |The voice kids esp _8|||||0|<!--  -->
 |The voice kids portugal _4|||||0|<!--  -->
-|The voice kids ger _11|||||0|<!--  -->
 |American idol _21|||||0|<!--  -->
 |Double savage _1|||||0|<!--  -->
 |Koh-lanta _29|||||0|<!--  -->

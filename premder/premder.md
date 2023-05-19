@@ -44,7 +44,6 @@ Top chef _14x8
 Koh-lanta _29x9
 Double savage _1x1
 American idol _21x3
-The voice kids ger _11x6
 The voice kids portugal _4x2
 The voice kids esp _8x1
 The voice kids portugal _4x1
@@ -86,7 +85,6 @@ The masked singer th _12x1
 Next level chef _2x1
 Umg _1x1
 The night beyond the tricornered window _1x1
-The voice kids ger _11x1
 Skam france _11x1
 Drag race be _1x4
 Physical 100 _1x3

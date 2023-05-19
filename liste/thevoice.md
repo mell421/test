@@ -138,6 +138,7 @@
 |Tv finland _13||24|||0|<!--  -->
 |Tv lithu _9||18|||<!--  -->
 |Tvk poland _6||10|||<!--  -->
+|Tvk ger _11||10|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -164,7 +165,6 @@
 |The voice kids esp _8|||||0|<!--  -->
 |The voice lithu _9|||||0|<!--  -->
 |The voice kids portugal _4|||||0|<!--  -->
-|The voice kids ger _11|||||0|<!--  -->
 |The voice kids uruguay _1|||||0|<!--  -->
 |The voice japan _1|||||0|<!--  -->
 ||||||0|<!--  -->
