@@ -84,11 +84,6 @@ ligne :  33 ZZ/Pastsenger_1.txt
 mot   :  1313 ZZ/Pastsenger_1.txt
 carac :  7938 ZZ/Pastsenger_1.txt
 
-i = A boss and a babe _1
-ligne : 
-mot   : 
-carac : 
-
 i = Earthmix space _2
 ligne :  28 ZZ/Earthmixspace_2.txt
 mot   :  819 ZZ/Earthmixspace_2.txt

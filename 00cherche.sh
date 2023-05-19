@@ -15,7 +15,7 @@ list99=(
 # 39-30
 "The voice kids uruguay _1" "Top chef _14" 
 # 29-20 
-"Past senger _1" "A boss and a babe _1" "Earthmix space _2" "Reginald the vampire _1" 
+"Past senger _1" "Earthmix space _2" "Reginald the vampire _1" 
 # 19-15
 "American idol _21" "The voice kids portugal _4" "Drag race be _1" "Midnight museum _1" 
 # 14-10

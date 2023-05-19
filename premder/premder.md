@@ -38,7 +38,6 @@ _$-
 The voice japan _1x2
 The voice kids uruguay _1x7
 The masked singer fr _5x2
-A boss and a babe _1x8
 Past senger _1x7
 Top chef _14x8
 Koh-lanta _29x9
@@ -93,7 +92,6 @@ Cheat netflix _1x1
 The voice us _23x1
 Midnight museum _1x1
 Drag race sweden _1x1
-A boss and a babe _1x1
 Top chef _14x1
 The voice fr _13x1
 The voice kids ph _5x1

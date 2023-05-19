@@ -730,6 +730,7 @@
 |The voice kids poland _6||10|||<!--  -->
 |The masked singer _9||14|||<!--  -->
 |The voice kids ger _11||10|||<!--  -->
+|A boss and a babe _1||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -1001,7 +1002,6 @@
 |Koh-lanta _29|||||0|<!--  -->
 |Top chef _14|||||0|<!--  -->
 |Past senger _1|||||0|<!--  -->
-|A boss and a babe _1|||||0|<!--  -->
 |The masked singer fr _5|||||0|<!--  -->
 |The voice kids uruguay _1|||||0|<!--  -->
 |The voice japan _1|||||0|<!--  -->
