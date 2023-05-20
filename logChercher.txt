@@ -274,11 +274,6 @@ ligne :  6 ZZ/Ahs_11.txt
 mot   :  92 ZZ/Ahs_11.txt
 carac :  686 ZZ/Ahs_11.txt
 
-i = Dont forget the lyrics _1
-ligne :  160 ZZ/Dontforgetthelyrics_1.txt
-mot   :  3084 ZZ/Dontforgetthelyrics_1.txt
-carac :  20799 ZZ/Dontforgetthelyrics_1.txt
-
 i = Big brother us _23
 ligne :  178 ZZ/Bigbrotherus_23.txt
 mot   :  4433 ZZ/Bigbrotherus_23.txt

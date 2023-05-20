@@ -158,7 +158,6 @@ Rpdrdu _2x3
 Drag race ph _1x2
 Drag race ph _1x1
 Juad juad _1x1
-Dont forget the lyrics _1x9
 Unforgotten night _1x6
 God shave the queens _2x2
 God shave the queens _2x1
@@ -192,7 +191,6 @@ Le flambeau _1x1
 Want to see you _1x1
 Agt _17x1
 Sky in your heart _1x1
-Dont forget the lyrics _1x1
 Druck _8x3
 Beat shazam _2x4
 Beat shazam _2x1

@@ -32,7 +32,7 @@ list99=(
 "Ai long nhai _1" "Sky in your heart _1" "Masterchef fr _6" "Dwts _31" 
 "La mas draga _5" "The voice nepal _4" "Un dos tres _3" "Juad juad _1" "The challenge _38" "Let the right one in _1" "Vampire academy _1" 
 "Nailed it _7" "Ahs _11" 
-"Dont forget the lyrics _1" "Big brother us _23" "Two pints of lager _3" 
+"Big brother us _23" "Two pints of lager _3" 
 "Tokyo ghoul _3" "Unforgotten night _1" "Agt _17" "Close friend _2" 
 "Rpdrasu _7" "Rpdras _7" "Rpdrdu _2" "Game of talents fr _2" "Second chance series _1" 
 "God shave the queens _2" "Grimm _1" "Rose in da house _1" "Survivor _31" "Drag race ph _1" 

@@ -731,6 +731,7 @@
 |The masked singer _9||14|||<!--  -->
 |The voice kids ger _11||10|||<!--  -->
 |A boss and a babe _1||12|||<!--  -->
+|dont forget the lyrics _1||12|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -916,7 +917,6 @@
 |rpdras _7|||||0|<!--  -->
 |rpdrasu _7|||||0|<!--  -->
 |beat shazam _2|||||0|<!--  -->
-|dont forget the lyrics _1|||||0|<!--  -->
 |sky in your heart _1|||||0|<!--  -->
 |agt _17|||||0|<!--  -->
 |want to see you _1|||||0|<!--  -->

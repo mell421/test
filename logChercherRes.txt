@@ -119,7 +119,6 @@ i = Color rush _2
 i = Cupids last wish _1
 i = Dancing with myself _1
 i = District z _2
-i = Dont forget the lyrics _1
 i = Drag i love you _1
 i = Drag race ph _1
 i = Druck _8
