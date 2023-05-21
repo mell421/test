@@ -4,11 +4,6 @@ ligne :  770 ZZ/Bigbrotherus_24.txt
 mot   :  15660 ZZ/Bigbrotherus_24.txt
 carac :  95819 ZZ/Bigbrotherus_24.txt
 
-i = The voice sri lanka _2
-ligne :  522 ZZ/Thevoicesrilanka_2.txt
-mot   :  14279 ZZ/Thevoicesrilanka_2.txt
-carac :  82994 ZZ/Thevoicesrilanka_2.txt
-
 i = The voice no _8
 ligne :  341 ZZ/Thevoiceno_8.txt
 mot   :  10316 ZZ/Thevoiceno_8.txt

@@ -139,6 +139,7 @@
 |Tv lithu _9||18|||<!--  -->
 |Tvk poland _6||10|||<!--  -->
 |Tvk ger _11||10|||<!--  -->
+|Tv sri lanka _2||63|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -160,7 +161,6 @@
 |The voice chile _4|||||0|<!--  -->
 |The voice no _8|||||0|<!--  -->
 |The voice fr _13|||||0|<!--  -->
-|The voice sri lanka _2|||||0|<!--  -->
 |The voice kids ph _5|||||0|<!--  -->
 |The voice kids esp _8|||||0|<!--  -->
 |The voice lithu _9|||||0|<!--  -->

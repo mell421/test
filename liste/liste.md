@@ -732,6 +732,7 @@
 |The voice kids ger _11||10|||<!--  -->
 |A boss and a babe _1||12|||<!--  -->
 |dont forget the lyrics _1||12|||<!--  -->
+|The voice sri lanka _2||63|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -993,7 +994,6 @@
 |The voice no _8|||||0|<!--  -->
 |The voice fr _13|||||0|<!--  -->
 |Bed friend _1|||||0|<!--  -->
-|The voice sri lanka _2|||||0|<!--  -->
 |The voice kids ph _5|||||0|<!--  -->
 |The voice kids esp _8|||||0|<!--  -->
 |The voice kids portugal _4|||||0|<!--  -->
