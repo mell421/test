@@ -35,23 +35,13 @@ Clik clak clok 1x2
 ### tisaep all
 * ici
 _$-
-The voice japan _1x2
-The voice kids uruguay _1x7
-The masked singer fr _5x2
-Past senger _1x7
-Top chef _14x8
 Koh-lanta _29x9
 Double savage _1x1
 American idol _21x3
 The voice kids portugal _4x2
 The voice kids esp _8x1
 The voice kids portugal _4x1
-The voice kids ph _5x15
 Bed friend _1x2
-The voice fr _13x8
-The voice no _8x28
-The voice japan _1x1
-The masked singer fr _5x1
 The voice chile _4x6
 Bed friend _1x1
 The eight sense _1x1
@@ -69,15 +59,12 @@ Queer as folk _1x1
 Umg _1x3
 Choco milk shake _1x3
 Choco milk shake _1x1
-The voice us _23x6
 Reginald the vampire _1x6
 Next level chef _2x2
-The voice kids uruguay _1x1
 Big brother us _24x20
 Le flambeau _1x7
 Dance 100 _1x1
 American idol _21x1
-Past senger _1x1
 Cutie pie _2x1
 The masked singer th _12x1
 Next level chef _2x1
@@ -88,19 +75,13 @@ Drag race be _1x4
 Physical 100 _1x3
 Cheat netflix _1x2
 Cheat netflix _1x1
-The voice us _23x1
 Midnight museum _1x1
 Drag race sweden _1x1
-Top chef _14x1
-The voice fr _13x1
-The voice kids ph _5x1
 Koh-lanta _29x1
 Lego masters _3x5
 Agt _17x6
 Drag race be _1x1
 The shipper _1x9
-Tongue thaid _1x4
-Tongue thaid _1x1
 Painted with raven _2x2
 Physical 100 _1x1
 Ai long nhai _1x5
@@ -110,7 +91,6 @@ Agt as _1x3
 Dirty laundry _1x1
 Earthmix space _2x1
 Rpdr _15x1
-The voice no _8x1
 Agt as _1x1
 Midnight motel _1x1
 Never let me go _1x2

@@ -37,18 +37,18 @@
 - sem 09-05-2022 -> Close friend _2x2(1) Clik clak clok _1x2(1) The circle us _4x5(4) 
 - sem 16-05-2022 -> The circle us _4x6(1) 
 - sem 23-05-2022 -> Rpdrasu _7x2(1) Two pints of lager _3x5(2) Rpdras _7x2(1) 
-- sem 30-05-2022 -> Dont forget the lyrics _1x2(1) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(1) 
-- sem 06-06-2022 -> Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) Dont forget the lyrics _1x3(1) 
-- sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Dont forget the lyrics _1x4(1) 
-- sem 20-06-2022 -> The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Close friend _2x3(1) Dont forget the lyrics _1x5(1) 
-- sem 27-06-2022 -> Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dont forget the lyrics _1x6(1) Dancing with myself _1x3(1) Unforgotten night _1x2(1) Camping paradis _13x2(1) 
-- sem 04-07-2022 -> Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Dont forget the lyrics _1x7(1) Camping paradis _13x3(1) 
+- sem 30-05-2022 -> Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(1) 
+- sem 06-06-2022 -> Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+- sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) 
+- sem 20-06-2022 -> The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Close friend _2x3(1) 
+- sem 27-06-2022 -> Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(1) Unforgotten night _1x2(1) Camping paradis _13x2(1) 
+- sem 04-07-2022 -> Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Camping paradis _13x3(1) 
 - sem 11-07-2022 -> Two pints of lager _3x7(1) Second chance series _1x2(1) Unforgotten night _1x4(1) Agt _17x3(1) 
 - sem 18-07-2022 -> Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) Big brother us _24x5(4) Big brother us _23x8(7) Unforgotten night _1x5(1) 
 - sem 25-07-2022 -> Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
 - sem 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(1) Big brother us _24x11(4) 
 - sem 08-08-2022 -> Big brother us _24x14(3) Unforgotten night _1x7(1) 
-- sem 15-08-2022 -> Sky in your heart _1x4(2) Big brother us _24x17(3) Juad juad _1x2(1) Dont forget the lyrics _1x10(3) Rpdrdu _2x3(1) Agt _17x6(3) 
+- sem 15-08-2022 -> Sky in your heart _1x4(2) Big brother us _24x17(3) Juad juad _1x2(1) Rpdrdu _2x3(1) Agt _17x6(3) 
 - sem 22-08-2022 -> Big brother us _24x18(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 
 
@@ -65,8 +65,8 @@
 - mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 - mois 01-04-2022 -> Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
 - mois 01-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Call me mother _1x2(1) Trivia quest _1x7(6) Quaranthings _2x2(1) 
-- mois 01-06-2022 -> Dont forget the lyrics _1x3(2) Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
-- mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Dont forget the lyrics _1x7(4) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+- mois 01-06-2022 -> Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
+- mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
 - mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
 
 
@@ -133,7 +133,6 @@
 * conclu 30/05/22 = Beat shazam _2 > 2; 
 * conclu 31/05/22 = Beat shazam _2 > 2; 
 * conclu 01/06/22 = Beat shazam _2 > 2; 
-* conclu 03/06/22 = Dont forget the lyrics _1 > 1; 
 * conclu 04/06/22 = Agt _17 > 1; 
 * conclu 08/06/22 = Le flambeau _1 > 1; 
 * conclu 09/06/22 = Le flambeau _1 > 1; 
@@ -146,7 +145,6 @@ conclu 25/06/22 = Bulgasal _1 > 2;
 conclu 26/06/22 = Bulgasal _1 > 2; 
 conclu 27/06/22 = Bulgasal _1 > 2; 
 conclu 28/06/22 = Bulgasal _1 > 1; 
-conclu 29/06/22 = Dont forget the lyrics _1 > 1; 
 conclu 13/07/22 = Big brother us _23 > 2; 
 conclu 14/07/22 = Big brother us _23 > 1; 
 conclu 15/07/22 = Big brother us _23 > 2; 
@@ -259,9 +257,7 @@ concluBis 28/05/22 = Beat shazam _2 > 4; Two pints of lager _3 > 3;
 concluBis 29/05/22 = Beat shazam _2 > 4; Druck _8 > 1; 
 concluBis 30/05/22 = Beat shazam _2 > 4; Druck _8 > 1; 
 concluBis 31/05/22 = Beat shazam _2 > 4; Druck _8 > 1; 
-concluBis 01/06/22 = Beat shazam _2 > 4; Dont forget the lyrics _1 > 2; 
-concluBis 02/06/22 = Dont forget the lyrics _1 > 2; 
-concluBis 03/06/22 = Dont forget the lyrics _1 > 3; 
+concluBis 01/06/22 = Beat shazam _2 > 4; 
 concluBis 04/06/22 = Agt _17 > 3; Sky in your heart _1 > 2; 
 concluBis 06/06/22 = Want to see you _1 > 1; 
 concluBis 08/06/22 = Le flambeau _1 > 3; 
@@ -273,21 +269,14 @@ concluBis 13/06/22 = Le flambeau _1 > 3;
 concluBis 14/06/22 = Le flambeau _1 > 3; 
 concluBis 15/06/22 = /9-1-1 _5 > 1; 
 concluBis 16/06/22 = /9-1-1 _5 > 1; Forever knight _1 > 1; 
-concluBis 17/06/22 = Dont forget the lyrics _1 > 1; Close friend _2 > 1; Forever knight _1 > 1; 
+concluBis 17/06/22 = Close friend _2 > 1; Forever knight _1 > 1; 
 concluBis 23/06/22 = Bulgasal _1 > 2; 
-concluBis 24/06/22 = Bulgasal _1 > 2; Dont forget the lyrics _1 > 1; 
-concluBis 25/06/22 = Bulgasal _1 > 4; Dont forget the lyrics _1 > 1; 
+concluBis 24/06/22 = Bulgasal _1 > 2; 
+concluBis 25/06/22 = Bulgasal _1 > 4; 
 concluBis 26/06/22 = Bulgasal _1 > 4; 
 concluBis 27/06/22 = Bulgasal _1 > 4; 
 concluBis 28/06/22 = Bulgasal _1 > 3; 
-concluBis 29/06/22 = Dont forget the lyrics _1 > 4; Bulgasal _1 > 2; 
-concluBis 30/06/22 = Dont forget the lyrics _1 > 1; 
-concluBis 01/07/22 = 
-concluBis 03/07/22 = 
-concluBis 04/07/22 = 
-concluBis 05/07/22 = 
-concluBis 06/07/22 = 
-concluBis 08/07/22 = 
+concluBis 29/06/22 = Bulgasal _1 > 2; 
 concluBis 10/07/22 = Forever knight _1 > 1; 
 concluBis 11/07/22 = Forever knight _1 > 1; 
 concluBis 12/07/22 = Forever knight _1 > 2; Big brother us _23 > 1; Imortal _1 > 1; 
@@ -320,10 +309,10 @@ concluBis 07/08/22 = Big brother us _24 > 10; Big brother us _23 > 1;
 concluBis 08/08/22 = Big brother us _24 > 9; Big brother us _23 > 1; 
 concluBis 09/08/22 = Big brother us _24 > 6; Agt _17 > 2; 
 concluBis 10/08/22 = Big brother us _24 > 5; 
-concluBis 11/08/22 = Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
-concluBis 12/08/22 = Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
-concluBis 13/08/22 = Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
-concluBis 14/08/22 = Big brother us _24 > 8; Dont forget the lyrics _1 > 1; 
+concluBis 11/08/22 = Big brother us _24 > 8; 
+concluBis 12/08/22 = Big brother us _24 > 8; 
+concluBis 13/08/22 = Big brother us _24 > 8; 
+concluBis 14/08/22 = Big brother us _24 > 8; 
 concluBis 15/08/22 = Big brother us _24 > 6; 
 concluBis 16/08/22 = Big brother us _24 > 7; 
 concluBis 17/08/22 = Big brother us _24 > 7; 

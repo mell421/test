@@ -1,99 +1,99 @@
-aEff/aeff.md:01/01/23 (eff) - Big brother us _24{248} The voice sri lanka _2{37} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:01/02/23 (eff) - Big brother us _24{311} The voice sri lanka _2{103} The voice no _8{42} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:01/03/23 (eff) - Big brother us _24{368} The voice sri lanka _2{163} The voice no _8{84} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} Lego masters _3{15} The shipper _1{15} 
-aEff/aeff.md:02/01/23 (eff) - Big brother us _24{250} The voice sri lanka _2{40} La mas draga _5{18} Le flambeau _1{18} /609 bedtime story _1{17} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:02/02/23 (eff) - Big brother us _24{314} The voice sri lanka _2{106} The voice no _8{45} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:02/03/23 (eff) - Big brother us _24{370} The voice sri lanka _2{166} The voice no _8{87} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
-aEff/aeff.md:03/01/23 (eff) - Big brother us _24{252} The voice sri lanka _2{42} La mas draga _5{18} Le flambeau _1{18} /609 bedtime story _1{17} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:03/02/23 (eff) - Big brother us _24{316} The voice sri lanka _2{108} The voice no _8{47} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:03/03/23 (eff) - Big brother us _24{372} The voice sri lanka _2{168} The voice no _8{89} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
-aEff/aeff.md:04/01/23 (eff) - Big brother us _24{254} The voice sri lanka _2{44} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:04/02/23 (eff) - Big brother us _24{318} The voice sri lanka _2{110} The voice no _8{49} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:04/03/23 (eff) - Big brother us _24{374} The voice sri lanka _2{170} The voice no _8{91} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
-aEff/aeff.md:05/01/23 (eff) - Big brother us _24{256} The voice sri lanka _2{46} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:05/02/23 (eff) - Big brother us _24{320} The voice sri lanka _2{112} The voice no _8{51} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:05/03/23 (eff) - Big brother us _24{376} The voice sri lanka _2{172} The voice no _8{93} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
-aEff/aeff.md:06/01/23 (eff) - Big brother us _24{258} The voice sri lanka _2{48} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:06/02/23 (eff) - Big brother us _24{322} The voice sri lanka _2{114} The voice no _8{53} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:06/03/23 (eff) - Big brother us _24{378} The voice sri lanka _2{174} The voice no _8{95} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
-aEff/aeff.md:07/01/23 (eff) - Big brother us _24{260} The voice sri lanka _2{50} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:07/02/23 (eff) - Big brother us _24{324} The voice sri lanka _2{117} The voice no _8{56} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:07/03/23 (eff) - Big brother us _24{380} The voice sri lanka _2{177} The voice no _8{98} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:01/01/23 (eff) - Big brother us _24{248} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:01/02/23 (eff) - Big brother us _24{311} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:01/03/23 (eff) - Big brother us _24{368} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{15} The shipper _1{15} 
+aEff/aeff.md:02/01/23 (eff) - Big brother us _24{250} La mas draga _5{18} Le flambeau _1{18} /609 bedtime story _1{17} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:02/02/23 (eff) - Big brother us _24{314} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:02/03/23 (eff) - Big brother us _24{370} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:03/01/23 (eff) - Big brother us _24{252} La mas draga _5{18} Le flambeau _1{18} /609 bedtime story _1{17} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:03/02/23 (eff) - Big brother us _24{316} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:03/03/23 (eff) - Big brother us _24{372} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:04/01/23 (eff) - Big brother us _24{254} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:04/02/23 (eff) - Big brother us _24{318} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:04/03/23 (eff) - Big brother us _24{374} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:05/01/23 (eff) - Big brother us _24{256} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:05/02/23 (eff) - Big brother us _24{320} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:05/03/23 (eff) - Big brother us _24{376} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:06/01/23 (eff) - Big brother us _24{258} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:06/02/23 (eff) - Big brother us _24{322} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:06/03/23 (eff) - Big brother us _24{378} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:07/01/23 (eff) - Big brother us _24{260} /609 bedtime story _1{18} La mas draga _5{18} Le flambeau _1{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:07/02/23 (eff) - Big brother us _24{324} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:07/03/23 (eff) - Big brother us _24{380} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
 aEff/aeff.md:07/10/22 - 14* Lego masters _3{2} Reginald the vampire _1{0} La mas draga _5{2} The shipper _1{8} Nailed it _7{0} Ai long nhai _1{2} 
-aEff/aeff.md:08/01/23 (eff) - Big brother us _24{262} The voice sri lanka _2{52} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:08/02/23 (eff) - Big brother us _24{326} The voice sri lanka _2{119} The voice no _8{57} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:08/03/23 (eff) - Big brother us _24{382} The voice sri lanka _2{179} The voice no _8{100} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
-aEff/aeff.md:09/01/23 (eff) - Big brother us _24{264} The voice sri lanka _2{54} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:09/02/23 (eff) - Big brother us _24{328} The voice sri lanka _2{121} The voice no _8{58} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:09/03/23 (eff) - Big brother us _24{383} The voice sri lanka _2{181} The voice no _8{101} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
-aEff/aeff.md:10/01/23 (eff) - Big brother us _24{266} The voice sri lanka _2{57} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:10/02/23 (eff) - Big brother us _24{330} The voice sri lanka _2{123} The voice no _8{59} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:10/03/23 (eff) - Big brother us _24{384} The voice sri lanka _2{183} The voice no _8{102} Tongue thaid _1{18} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} 
-aEff/aeff.md:11/01/23 (eff) - Big brother us _24{268} The voice sri lanka _2{59} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:11/02/23 (eff) - Big brother us _24{332} The voice sri lanka _2{125} The voice no _8{60} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:12/01/23 (eff) - Big brother us _24{270} The voice sri lanka _2{61} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:12/02/23 (eff) - Big brother us _24{334} The voice sri lanka _2{127} The voice no _8{61} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:08/01/23 (eff) - Big brother us _24{262} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:08/02/23 (eff) - Big brother us _24{326} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:08/03/23 (eff) - Big brother us _24{382} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:09/01/23 (eff) - Big brother us _24{264} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:09/02/23 (eff) - Big brother us _24{328} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:09/03/23 (eff) - Big brother us _24{383} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} The shipper _1{16} 
+aEff/aeff.md:10/01/23 (eff) - Big brother us _24{266} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:10/02/23 (eff) - Big brother us _24{330} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:10/03/23 (eff) - Big brother us _24{384} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{16} 
+aEff/aeff.md:11/01/23 (eff) - Big brother us _24{268} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:11/02/23 (eff) - Big brother us _24{332} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:12/01/23 (eff) - Big brother us _24{270} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:12/02/23 (eff) - Big brother us _24{334} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
 aEff/aeff.md:12/12/22 - 237* La mas draga _5{5} /609 bedtime story _1{11} Dwts _31{7} 
-aEff/aeff.md:13/01/23 (eff) - Big brother us _24{272} The voice sri lanka _2{63} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:13/02/23 (eff) - Big brother us _24{336} The voice sri lanka _2{129} The voice no _8{62} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:13/01/23 (eff) - Big brother us _24{272} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:13/02/23 (eff) - Big brother us _24{336} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
 aEff/aeff.md:13/10/22 - 3* La mas draga _5{3} The challenge _38{0} Let the right one in _1{0} 
 aEff/aeff.md:13/12/22 - 238* La mas draga _5{8} /609 bedtime story _1{13} Dwts _31{8} 
-aEff/aeff.md:14/01/23 (eff) - Big brother us _24{274} The voice sri lanka _2{65} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:14/02/23 (eff) - Big brother us _24{338} The voice sri lanka _2{131} The voice no _8{63} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:14/01/23 (eff) - Big brother us _24{274} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:14/02/23 (eff) - Big brother us _24{338} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
 aEff/aeff.md:14/12/22 - 272* Never let me go _1{0} La mas draga _5{10} /609 bedtime story _1{13} 
-aEff/aeff.md:15/01/23 (eff) - Big brother us _24{276} The voice sri lanka _2{67} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} The voice no _8{11} 
-aEff/aeff.md:15/02/23 (eff) - Big brother us _24{340} The voice sri lanka _2{133} The voice no _8{64} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:15/01/23 (eff) - Big brother us _24{276} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:15/02/23 (eff) - Big brother us _24{340} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
 aEff/aeff.md:15/12/22 - 281* Never let me go _1{0} La mas draga _5{12} /609 bedtime story _1{13} 
 aEff/aeff.md:15/12/22 (eff) - Big brother us _24{215} Le flambeau _1{18} La brea _1{16} /609 bedtime story _1{13} La mas draga _5{12} 
-aEff/aeff.md:16/01/23 (eff) - Big brother us _24{278} The voice sri lanka _2{69} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The voice no _8{12} The shipper _1{12} 
-aEff/aeff.md:16/02/23 (eff) - Big brother us _24{342} The voice sri lanka _2{135} The voice no _8{65} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{13} 
+aEff/aeff.md:16/01/23 (eff) - Big brother us _24{278} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:16/02/23 (eff) - Big brother us _24{342} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{13} 
 aEff/aeff.md:16/12/22 - 212* Never let me go _1{0} La mas draga _5{13} /609 bedtime story _1{13} 
 aEff/aeff.md:16/12/22 (eff) - Big brother us _24{216} Le flambeau _1{18} La brea _1{16} La mas draga _5{13} /609 bedtime story _1{13} The shipper _1{12} 
-aEff/aeff.md:17/01/23 (eff) - Big brother us _24{281} The voice sri lanka _2{72} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The voice no _8{13} The shipper _1{12} Midnight motel _1{9} 
-aEff/aeff.md:17/02/23 (eff) - Big brother us _24{344} The voice sri lanka _2{137} The voice no _8{66} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} 
+aEff/aeff.md:17/01/23 (eff) - Big brother us _24{281} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} Midnight motel _1{9} 
+aEff/aeff.md:17/02/23 (eff) - Big brother us _24{344} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} 
 aEff/aeff.md:17/12/22 - 291* Never let me go _1{0} La mas draga _5{14} 
 aEff/aeff.md:17/12/22 (eff) - Big brother us _24{218} Le flambeau _1{18} La brea _1{16} La mas draga _5{14} /609 bedtime story _1{13} The shipper _1{12} 
-aEff/aeff.md:18/01/23 (eff) - Big brother us _24{283} The voice sri lanka _2{74} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The voice no _8{14} The shipper _1{12} Midnight motel _1{9}
-aEff/aeff.md:18/02/23 (eff) - Big brother us _24{346} The voice sri lanka _2{139} The voice no _8{67} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} 
+aEff/aeff.md:18/01/23 (eff) - Big brother us _24{283} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} Midnight motel _1{9}
+aEff/aeff.md:18/02/23 (eff) - Big brother us _24{346} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} 
 aEff/aeff.md:18/12/22 (eff) - Big brother us _24{220} Le flambeau _1{18} La brea _1{16} La mas draga _5{15} /609 bedtime story _1{13} The shipper _1{12} 
-aEff/aeff.md:19/01/23 (eff) - Big brother us _24{285} The voice sri lanka _2{76} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The voice no _8{15} The shipper _1{12} Midnight motel _1{9} 
-aEff/aeff.md:19/02/23 (eff) - Big brother us _24{348} The voice sri lanka _2{141} The voice no _8{68} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} Tongue thaid _1{13} 
-aEff/aeff.md:19/12/22 (eff) - Big brother us _24{222} Le flambeau _1{18} La mas draga _5{17} La brea _1{16} /609 bedtime story _1{14} The shipper _1{12} The voice sri lanka _2{11} 
-aEff/aeff.md:20/01/23 (eff) - Big brother us _24{287} The voice sri lanka _2{78} /609 bedtime story _1{18} La mas draga _5{18} The voice no _8{17} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:20/02/23 (eff) - Big brother us _24{350} The voice sri lanka _2{143} The voice no _8{70} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{15} The shipper _1{14} Physical 100 _1{13} 
-aEff/aeff.md:20/12/22 (eff) - Big brother us _24{224} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The voice sri lanka _2{14} The shipper _1{12} 
-aEff/aeff.md:21/01/23 (eff) - Big brother us _24{289} The voice sri lanka _2{80} The voice no _8{19} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:21/02/23 (eff) - Big brother us _24{352} The voice sri lanka _2{146} The voice no _8{73} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} Physical 100 _1{13} 
-aEff/aeff.md:21/12/22 (eff) - Big brother us _24{226} Le flambeau _1{18} La mas draga _5{17} The voice sri lanka _2{16} /609 bedtime story _1{16} La brea _1{16} 
-aEff/aeff.md:22/01/23 (eff) - Big brother us _24{291} The voice sri lanka _2{82} The voice no _8{20} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:22/02/23 (eff) - Big brother us _24{354} The voice sri lanka _2{148} The voice no _8{75} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
-aEff/aeff.md:22/12/22 (eff) - Big brother us _24{228} The voice sri lanka _2{18} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
-aEff/aeff.md:23/01/23 (eff) - Big brother us _24{293} The voice sri lanka _2{84} The voice no _8{22} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
-aEff/aeff.md:23/02/23 (eff) - Big brother us _24{356} The voice sri lanka _2{150} The voice no _8{76} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
-aEff/aeff.md:23/12/22 (eff) - Big brother us _24{230} The voice sri lanka _2{20} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
-aEff/aeff.md:24/01/23 (eff) - Big brother us _24{295} The voice sri lanka _2{86} The voice no _8{25} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:24/02/23 (eff) - Big brother us _24{358} The voice sri lanka _2{152} The voice no _8{77} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
-aEff/aeff.md:24/12/22 (eff) - Big brother us _24{232} The voice sri lanka _2{22} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
-aEff/aeff.md:25/01/23 (eff) - Big brother us _24{297} The voice sri lanka _2{88} The voice no _8{27} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:25/02/23 (eff) - Big brother us _24{360} The voice sri lanka _2{154} The voice no _8{78} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
-aEff/aeff.md:25/12/22 (eff) - Big brother us _24{234} The voice sri lanka _2{24} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
-aEff/aeff.md:26/01/23 (eff) - Big brother us _24{299} The voice sri lanka _2{90} The voice no _8{29} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:26/02/23 (eff) - Big brother us _24{362} The voice sri lanka _2{156} The voice no _8{78} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} 
-aEff/aeff.md:26/12/22 (eff) - Big brother us _24{236} The voice sri lanka _2{26} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:27/01/23 (eff) - Big brother us _24{301} The voice sri lanka _2{92} The voice no _8{31} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
-aEff/aeff.md:27/02/23 (eff) - Big brother us _24{364} The voice sri lanka _2{158} The voice no _8{79} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} The shipper _1{15} Lego masters _3{14} 
-aEff/aeff.md:27/12/22 (eff) - Big brother us _24{238} The voice sri lanka _2{28} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:28/01/23 (eff) - Big brother us _24{303} The voice sri lanka _2{94} The voice no _8{33} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:28/02/23 (eff) - Big brother us _24{366} The voice sri lanka _2{161} The voice no _8{82} /609 bedtime story _1{18} La mas draga _5{18} Tongue thaid _1{17} Lego masters _3{15} The shipper _1{15} 
-aEff/aeff.md:28/12/22 (eff) - Big brother us _24{240} The voice sri lanka _2{29} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:29/01/23 (eff) - Big brother us _24{305} The voice sri lanka _2{96} The voice no _8{35} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:19/01/23 (eff) - Big brother us _24{285} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} Midnight motel _1{9} 
+aEff/aeff.md:19/02/23 (eff) - Big brother us _24{348} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} 
+aEff/aeff.md:19/12/22 (eff) - Big brother us _24{222} Le flambeau _1{18} La mas draga _5{17} La brea _1{16} /609 bedtime story _1{14} The shipper _1{12} 
+aEff/aeff.md:20/01/23 (eff) - Big brother us _24{287} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:20/02/23 (eff) - Big brother us _24{350} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{14} Physical 100 _1{13} 
+aEff/aeff.md:20/12/22 (eff) - Big brother us _24{224} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:21/01/23 (eff) - Big brother us _24{289} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:21/02/23 (eff) - Big brother us _24{352} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{15} Physical 100 _1{13} 
+aEff/aeff.md:21/12/22 (eff) - Big brother us _24{226} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:22/01/23 (eff) - Big brother us _24{291} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:22/02/23 (eff) - Big brother us _24{354} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{15} 
+aEff/aeff.md:22/12/22 (eff) - Big brother us _24{228} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:23/01/23 (eff) - Big brother us _24{293} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:23/02/23 (eff) - Big brother us _24{356} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{15} 
+aEff/aeff.md:23/12/22 (eff) - Big brother us _24{230} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:24/01/23 (eff) - Big brother us _24{295} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:24/02/23 (eff) - Big brother us _24{358} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{15} 
+aEff/aeff.md:24/12/22 (eff) - Big brother us _24{232} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:25/01/23 (eff) - Big brother us _24{297} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:25/02/23 (eff) - Big brother us _24{360} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{15} 
+aEff/aeff.md:25/12/22 (eff) - Big brother us _24{234} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} 
+aEff/aeff.md:26/01/23 (eff) - Big brother us _24{299} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:26/02/23 (eff) - Big brother us _24{362} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{15} 
+aEff/aeff.md:26/12/22 (eff) - Big brother us _24{236} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:27/01/23 (eff) - Big brother us _24{301} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
+aEff/aeff.md:27/02/23 (eff) - Big brother us _24{364} /609 bedtime story _1{18} La mas draga _5{18} The shipper _1{15} Lego masters _3{14} 
+aEff/aeff.md:27/12/22 (eff) - Big brother us _24{238} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:28/01/23 (eff) - Big brother us _24{303} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:28/02/23 (eff) - Big brother us _24{366} /609 bedtime story _1{18} La mas draga _5{18} Lego masters _3{15} The shipper _1{15} 
+aEff/aeff.md:28/12/22 (eff) - Big brother us _24{240} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:29/01/23 (eff) - Big brother us _24{305} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} 
 aEff/aeff.md:29/09/22 - 3* La mas draga _5{0} Dwts _31{3} 
-aEff/aeff.md:29/12/22 (eff) - Big brother us _24{242} The voice sri lanka _2{31} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:30/01/23 (eff) - Big brother us _24{307} The voice sri lanka _2{98} The voice no _8{37} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:29/12/22 (eff) - Big brother us _24{242} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:30/01/23 (eff) - Big brother us _24{307} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
 aEff/aeff.md:30/09/22 - 0* The voice nepal _4{0} La mas draga _5{0} 
-aEff/aeff.md:30/12/22 (eff) - Big brother us _24{244} The voice sri lanka _2{33} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:31/01/23 (eff) - Big brother us _24{309} The voice sri lanka _2{101} The voice no _8{40} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
-aEff/aeff.md:31/12/22 (eff) - Big brother us _24{246} The voice sri lanka _2{35} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:30/12/22 (eff) - Big brother us _24{244} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:31/01/23 (eff) - Big brother us _24{309} /609 bedtime story _1{18} La mas draga _5{18} La brea _1{16} The shipper _1{12} 
+aEff/aeff.md:31/12/22 (eff) - Big brother us _24{246} Le flambeau _1{18} La mas draga _5{17} /609 bedtime story _1{16} La brea _1{16} The shipper _1{12} 
 apercu/apercuglobal.md:conclu 12/12/22 = La mas draga _5 > 2; 
 apercu/apercuglobal.md:conclu 13/12/22 = La mas draga _5 > 2; 
 apercu/apercuglobal.md:conclu 14/12/22 = La mas draga _5 > 1; 
@@ -105,7 +105,7 @@ apercu/apercuglobal.md:concluBis 15/12/22 = Big brother us _24 > 4; La mas draga
 apercu/apercuglobal.md:concluBis 16/12/22 = Big brother us _24 > 6; La mas draga _5 > 2; 
 apercu/apercuglobal.md:concluBis 17/12/22 = Big brother us _24 > 6; La mas draga _5 > 2; 
 apercu/apercuglobal.md:concluBis 18/12/22 = Big brother us _24 > 6; /609 bedtime story _1 > 3; La mas draga _5 > 3; 
-apercu/apercuglobal.md:mois 01-01-2023 -> Midnight motel _1x2(1) The voice sri lanka _2x9(4) Never let me go _1x3(2) /609 bedtime story _1x5(4) La mas draga _5x6(2) Dwts _31x5(1) Rpdrasu _7x5(1) Rpdras _7x5(1) Dragula titans _1x2(1) 
+apercu/apercuglobal.md:mois 01-01-2023 -> Midnight motel _1x2(1) Never let me go _1x3(2) /609 bedtime story _1x5(4) La mas draga _5x6(2) Dwts _31x5(1) Rpdrasu _7x5(1) Rpdras _7x5(1) Dragula titans _1x2(1) 
 apercu/apercuglobal.md:mois 01-10-2022 -> The voice nepal _4x3(2) La mas draga _5x2(1) Dwts _31x3(2) Ai long nhai _1x2(1) Lego masters _3x2(1) Sky in your heart _1x5(1) Vampire academy _1x2(1) Masterchef fr _6x4(1) Un dos tres _3x2(1) Skam italia _5x3(2) 
 apercu/apercuglobal.md:mois 01-11-2022 -> Juad juad _1x3(1) Big brother us _24x19(1) Ai long nhai _1x5(3) Reginald the vampire _1x4(3) The challenge _38x3(3) Ahs _11x2(1) The shipper _1x9(3) Dwts _31x4(1) La mas draga _5x4(2) Let the right one in _1x2(1) The voice nepal _4x4(1) Lego masters _3x4(2) Nailed it _7x2(1) 
 apercu/apercuglobal.md:sem 03-10-2022 -> The voice nepal _4x3(2) La mas draga _5x2(1) Dwts _31x3(1) Ai long nhai _1x2(1) 

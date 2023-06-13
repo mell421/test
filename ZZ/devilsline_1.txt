@@ -1,9 +1,9 @@
-aEff/aeff.md:06/04/23 - 410* Top chef _14{6} Devils line _1{0} Koh-lanta _29{8} The voice kids poland _6{11} The voice kids ger _11{5} The voice kids uruguay _1{9} The voice chile _4{13} The voice sri lanka _2{242} The voice fr _13{8} 
-aEff/aeff.md:07/04/23 - 477* Past senger _1{9} The masked singer _9{12} The voice kids uruguay _1{9} The voice sri lanka _2{244} The voice kids ph _5{30} Top chef _14{6} Devils line _1{1} Koh-lanta _29{8} 
-apercu/apercuglobal.md:concluBis 06/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 9; The voice chile _4 > 5; Big brother us _24 > 2; The voice kids ph _5 > 2; Devils line _1 > 2; The voice us _23 > 1; 
-apercu/apercuglobal.md:concluBis 10/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 7; The voice kids ph _5 > 5; Devils line _1 > 2; Bed friend _1 > 1; Big brother us _24 > 1; 
-apercu/apercuglobal.md:concluBis 11/04/23 = The voice sri lanka _2 > 19; The voice no _8 > 6; The voice kids ph _5 > 5; The voice chile _4 > 1; Devils line _1 > 1; Big brother us _24 > 1; 
-apercu/apercuglobal.md:sem 10-04-2023 -> Bed friend _1x2(1) The eight sense _1x2(1) The voice fr _13x8(1) The voice kids ger _11x6(1) The masked singer ger _8x2(1) Make a wish _1x2(1) Me my husband and my husbands boyfriend _1x3(1) A boss and a babe _1x7(1) The voice sri lanka _2x52(3) Past senger _1x6(1) The masked singer _9x9(1) The voice kids uruguay _1x6(1) The voice kids ph _5x13(2) Top chef _14x7(1) Devils line _1x3(2) Koh-lanta _29x8(1) 
+aEff/aeff.md:06/04/23 - 410* Devils line _1{0} Koh-lanta _29{8} The voice chile _4{13} 
+aEff/aeff.md:07/04/23 - 477* Devils line _1{1} Koh-lanta _29{8} 
+apercu/apercuglobal.md:concluBis 06/04/23 = The voice chile _4 > 5; Big brother us _24 > 2; Devils line _1 > 2; 
+apercu/apercuglobal.md:concluBis 10/04/23 = Devils line _1 > 2; Bed friend _1 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 11/04/23 = The voice chile _4 > 1; Devils line _1 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:sem 10-04-2023 -> Bed friend _1x2(1) The eight sense _1x2(1) Make a wish _1x2(1) Me my husband and my husbands boyfriend _1x3(1) Devils line _1x3(2) Koh-lanta _29x8(1) 
 apercuTer/apercuTer.md:* Devils line _1
 liste/liste.md:|Devils line _1|||||0|<!--  -->
 premder/premder.md:Devils line _1x1

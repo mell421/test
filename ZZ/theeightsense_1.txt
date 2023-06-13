@@ -1,10 +1,10 @@
-aEff/aeff.md:09/04/23 - 401* The eight sense _1{0} The voice fr _13{8} The voice kids ger _11{5} The masked singer ger _8{0} Make a wish _1{0} Me my husband and my husbands boyfriend _1{2} A boss and a babe _1{6} The voice sri lanka _2{248} 
-aEff/aeff.md:10/04/23 - 160* Bed friend _1{0} The eight sense _1{0} The voice fr _13{8} The voice kids ger _11{7} The masked singer ger _8{0} Make a wish _1{0} Me my husband and my husbands boyfriend _1{2} A boss and a babe _1{6} 
-aEff/aeff.md:11/04/23 - 447* The voice sri lanka _2{253} The voice kids poland _6{11} The voice chile _4{17} Bed friend _1{2} The eight sense _1{1} The voice fr _13{9} The voice kids ger _11{8} The masked singer ger _8{1} 
-aEff/aeff.md:12/04/23 - 354* Koh-lanta _29{9} The masked singer ger _8{1} The voice sri lanka _2{255} The voice kids poland _6{11} The voice chile _4{18} Bed friend _1{2} The eight sense _1{1} The voice fr _13{9} The voice kids ger _11{8} 
-aEff/aeff.md:13/04/23 - 356* Top chef _14{7} Koh-lanta _29{9} The masked singer ger _8{3} The voice sri lanka _2{257} The voice kids poland _6{11} The voice chile _4{19} Bed friend _1{2} The eight sense _1{1} The voice fr _13{9} The voice kids ger _11{8} 
-aEff/aeff.md:14/04/23 - 353* Past senger _1{10} Top chef _14{7} Koh-lanta _29{9} The masked singer ger _8{5} The voice sri lanka _2{259} The voice kids poland _6{11} The voice chile _4{20} Bed friend _1{2} The eight sense _1{1} The voice fr _13{9} 
-apercu/apercuglobal.md:sem 10-04-2023 -> Bed friend _1x2(1) The eight sense _1x2(1) The voice fr _13x8(1) The voice kids ger _11x6(1) The masked singer ger _8x2(1) Make a wish _1x2(1) Me my husband and my husbands boyfriend _1x3(1) A boss and a babe _1x7(1) The voice sri lanka _2x52(3) Past senger _1x6(1) The masked singer _9x9(1) The voice kids uruguay _1x6(1) The voice kids ph _5x13(2) Top chef _14x7(1) Devils line _1x3(2) Koh-lanta _29x8(1) 
+aEff/aeff.md:09/04/23 - 401* The eight sense _1{0} Make a wish _1{0} Me my husband and my husbands boyfriend _1{2} 
+aEff/aeff.md:10/04/23 - 160* Bed friend _1{0} The eight sense _1{0} Make a wish _1{0} Me my husband and my husbands boyfriend _1{2} 
+aEff/aeff.md:11/04/23 - 447* The voice chile _4{17} Bed friend _1{2} The eight sense _1{1} 
+aEff/aeff.md:12/04/23 - 354* Koh-lanta _29{9} The voice chile _4{18} Bed friend _1{2} The eight sense _1{1} 
+aEff/aeff.md:13/04/23 - 356* Koh-lanta _29{9} The voice chile _4{19} Bed friend _1{2} The eight sense _1{1} 
+aEff/aeff.md:14/04/23 - 353* Koh-lanta _29{9} The voice chile _4{20} Bed friend _1{2} The eight sense _1{1} 
+apercu/apercuglobal.md:sem 10-04-2023 -> Bed friend _1x2(1) The eight sense _1x2(1) Make a wish _1x2(1) Me my husband and my husbands boyfriend _1x3(1) Devils line _1x3(2) Koh-lanta _29x8(1) 
 bl/bl.md:|The eight sense _1||||||<!--  -->
 liste/liste.md:|The eight sense _1|||||0|<!--  -->
 premder/premder.md:The eight sense _1x1

@@ -1,19 +1,19 @@
-aEff/aeff.md:17/04/23 - 439* American idol _21{3} The voice kids ger _11{8} The voice kids portugal _4{0} The voice kids esp _8{0} The voice kids ph _5{49} The voice sri lanka _2{265} Bed friend _1{2} The voice fr _13{9} The voice kids poland _6{13} 
-aEff/aeff.md:18/04/23 - 446* Double savage _1{0} American idol _21{4} The voice kids ger _11{9} The voice kids portugal _4{2} The voice kids esp _8{1} The voice kids ph _5{52} The voice sri lanka _2{268} Bed friend _1{3} The voice fr _13{10} 
-aEff/aeff.md:19/04/23 - 430* Koh-lanta _29{10} Double savage _1{0} American idol _21{4} The voice kids ger _11{9} The voice kids portugal _4{3} The voice kids esp _8{1} The voice kids ph _5{54} The voice sri lanka _2{270} Bed friend _1{3} The voice fr _13{10} 
-aEff/aeff.md:20/04/23 - 436* Top chef _14{8} Koh-lanta _29{10} Double savage _1{0} American idol _21{4} The voice kids ger _11{9} The voice kids portugal _4{5} The voice kids esp _8{1} The voice kids ph _5{56} The voice sri lanka _2{272} Bed friend _1{3} 
-aEff/aeff.md:21/04/23 - 444* Top chef _14{8} Koh-lanta _29{10} Double savage _1{0} American idol _21{4} The voice kids ger _11{9} The voice kids portugal _4{7} The voice kids esp _8{1} The voice kids ph _5{58} The voice sri lanka _2{274} Bed friend _1{3} 
-aEff/aeff.md:22/04/23 - 128* The voice japan _1{1} The voice kids uruguay _1{13} The masked singer fr _5{1} A boss and a babe _1{8} Past senger _1{13} Top chef _14{8} Koh-lanta _29{10} Double savage _1{0} American idol _21{4} The voice kids ger _11{9} The voice kids portugal _4{9} 
-apercu/apercuglobal.md:conclu 19/04/23 = The voice sri lanka _2 > 12; The voice no _8 > 4; The voice kids ph _5 > 4; The voice kids portugal _4 > 1; 
-apercu/apercuglobal.md:conclu 20/04/23 = The voice sri lanka _2 > 12; The voice no _8 > 4; The voice kids ph _5 > 4; The voice kids portugal _4 > 1; 
-apercu/apercuglobal.md:conclu 21/04/23 = The voice sri lanka _2 > 12; The voice no _8 > 4; The voice kids ph _5 > 4; The voice kids portugal _4 > 1; 
-apercu/apercuglobal.md:concluBis 17/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 8; The voice kids ph _5 > 6; The voice kids portugal _4 > 1; Big brother us _24 > 1; 
-apercu/apercuglobal.md:concluBis 18/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 6; The voice kids ph _5 > 6; The voice kids portugal _4 > 2; Big brother us _24 > 1; 
-apercu/apercuglobal.md:concluBis 19/04/23 = The voice sri lanka _2 > 20; The voice kids ph _5 > 9; The voice no _8 > 8; The voice kids portugal _4 > 3; Big brother us _24 > 2; The voice kids uruguay _1 > 1; 
-apercu/apercuglobal.md:concluBis 20/04/23 = The voice sri lanka _2 > 20; The voice no _8 > 9; The voice kids ph _5 > 9; The voice kids portugal _4 > 3; Big brother us _24 > 2; 
-apercu/apercuglobal.md:concluBis 21/04/23 = The voice sri lanka _2 > 20; The voice no _8 > 9; The voice kids ph _5 > 9; The voice kids portugal _4 > 3; Big brother us _24 > 2; 
-apercu/apercuglobal.md:concluBis 22/04/23 = The voice sri lanka _2 > 18; The voice no _8 > 11; The voice kids ph _5 > 11; The voice kids uruguay _1 > 3; The voice kids portugal _4 > 2; Big brother us _24 > 2; 
-apercu/apercuglobal.md:sem 17-04-2023 -> American idol _21x4(1) The voice kids ger _11x7(1) The voice kids portugal _4x3(2) The voice kids esp _8x2(1) The voice kids ph _5x16(3) The voice sri lanka _2x57(5) Bed friend _1x3(1) The voice fr _13x9(1) The voice kids poland _6x9(2) The voice kids uruguay _1x7(1) The voice no _8x29(2) The masked singer _9x10(1) The voice japan _1x2(1) The masked singer fr _5x2(1) A boss and a babe _1x8(1) Past senger _1x7(1) Top chef _14x8(1) Koh-lanta _29x9(1) The masked singer ger _8x3(1) The voice chile _4x7(1) 
+aEff/aeff.md:17/04/23 - 439* American idol _21{3} The voice kids portugal _4{0} The voice kids esp _8{0} Bed friend _1{2} 
+aEff/aeff.md:18/04/23 - 446* Double savage _1{0} American idol _21{4} The voice kids portugal _4{2} The voice kids esp _8{1} Bed friend _1{3} 
+aEff/aeff.md:19/04/23 - 430* Koh-lanta _29{10} Double savage _1{0} American idol _21{4} The voice kids portugal _4{3} The voice kids esp _8{1} Bed friend _1{3} 
+aEff/aeff.md:20/04/23 - 436* Koh-lanta _29{10} Double savage _1{0} American idol _21{4} The voice kids portugal _4{5} The voice kids esp _8{1} Bed friend _1{3} 
+aEff/aeff.md:21/04/23 - 444* Koh-lanta _29{10} Double savage _1{0} American idol _21{4} The voice kids portugal _4{7} The voice kids esp _8{1} Bed friend _1{3} 
+aEff/aeff.md:22/04/23 - 128* Koh-lanta _29{10} Double savage _1{0} American idol _21{4} The voice kids portugal _4{9} 
+apercu/apercuglobal.md:conclu 19/04/23 = The voice kids portugal _4 > 1; 
+apercu/apercuglobal.md:conclu 20/04/23 = The voice kids portugal _4 > 1; 
+apercu/apercuglobal.md:conclu 21/04/23 = The voice kids portugal _4 > 1; 
+apercu/apercuglobal.md:concluBis 17/04/23 = The voice kids portugal _4 > 1; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 18/04/23 = The voice kids portugal _4 > 2; Big brother us _24 > 1; 
+apercu/apercuglobal.md:concluBis 19/04/23 = The voice kids portugal _4 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 20/04/23 = The voice kids portugal _4 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 21/04/23 = The voice kids portugal _4 > 3; Big brother us _24 > 2; 
+apercu/apercuglobal.md:concluBis 22/04/23 = The voice kids portugal _4 > 2; Big brother us _24 > 2; 
+apercu/apercuglobal.md:sem 17-04-2023 -> American idol _21x4(1) The voice kids portugal _4x3(2) The voice kids esp _8x2(1) Bed friend _1x3(1) Koh-lanta _29x9(1) The voice chile _4x7(1) 
 apercuTer/apercuTer.md:* The voice kids portugal _4
 liste/liste.md:|The voice kids portugal _4|||||0|<!--  -->
 liste/thevoice.md:|The voice kids portugal _4|||||0|<!--  -->

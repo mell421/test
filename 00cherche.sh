@@ -7,15 +7,15 @@
 # nb bis
 list99=( 
 # >= 100
-"Big brother us _24" "The voice no _8" "Le flambeau _1" "The shipper _1" "The voice kids ph _5" 
+"Big brother us _24" "Le flambeau _1" "The shipper _1" 
 # 99-50
-"Lego masters _3" "Physical 100 _1" "The voice us _23" "Agt _17" "The voice chile _4" 
+"Lego masters _3" "Physical 100 _1" "Agt _17" "The voice chile _4" 
 # 49-40
-"The voice fr _13" "Koh-lanta _29" "Choco milk shake _1" 
+"Koh-lanta _29" "Choco milk shake _1" 
 # 39-30
-"The voice kids uruguay _1" "Top chef _14" 
+"Top chef _14" 
 # 29-20 
-"Past senger _1" "Earthmix space _2" "Reginald the vampire _1" 
+"Earthmix space _2" "Reginald the vampire _1" 
 # 19-15
 "American idol _21" "The voice kids portugal _4" "Drag race be _1" "Midnight museum _1" 
 # 14-10
@@ -25,7 +25,7 @@ list99=(
 # 7-6
 "The eight sense _1" "Double savage _1" "The voice kids esp _8" "Devils line _1" "Queer as folk _1" "Drag race sweden _1" 
 # 5-4
-"The voice japan _1" "Cheat netflix _1" "The masked singer fr _5" "Make a wish _1" "Dance 100 _1" "Cutie pie _2" "The night beyond the tricornered window _1" "Skam france _11" 
+"Cheat netflix _1" "Make a wish _1" "Dance 100 _1" "Cutie pie _2" "The night beyond the tricornered window _1" "Skam france _11" 
 # 3-2
 # 0-1
 # other
