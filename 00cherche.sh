@@ -13,7 +13,6 @@ list99=(
 # 49-40
 "Koh-lanta _29" "Choco milk shake _1" 
 # 39-30
-"Top chef _14" 
 # 29-20 
 "Earthmix space _2" "Reginald the vampire _1" 
 # 19-15

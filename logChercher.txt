@@ -44,11 +44,6 @@ ligne :  45 ZZ/Chocomilkshake_1.txt
 mot   :  897 ZZ/Chocomilkshake_1.txt
 carac :  5949 ZZ/Chocomilkshake_1.txt
 
-i = Top chef _14
-ligne :  2 ZZ/Topchef_14.txt
-mot   :  8 ZZ/Topchef_14.txt
-carac :  85 ZZ/Topchef_14.txt
-
 i = Earthmix space _2
 ligne :  28 ZZ/Earthmixspace_2.txt
 mot   :  491 ZZ/Earthmixspace_2.txt
