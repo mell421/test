@@ -18,11 +18,11 @@
 </div>
 
 ## Aperçu semaine
-- sem 04-01-2021 Together with me _1x2(1) The shipper _1x4(1) Ghost runner _1x5(1) Friend zone _1x3(1) 
+- sem 04-01-2021 Together with me _1x2(1) Ghost runner _1x5(1) Friend zone _1x3(1) 
 - sem 11-01-2021 Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) 
 - sem 18-01-2021 Koishite akuma _1x4(3) Warper series _1x2(1) 
 - sem 25-01-2021 Tien bromance _1x2(1) Ben x jim _1x3(1) 
-- sem 01-02-2021 Be love _1x4(1) The shipper _1x5(1) 
+- sem 01-02-2021 Be love _1x4(1) 
 - sem 08-02-2021 Tbbt _11x2(1) The untamed _1x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) 
 - sem 15-02-2021 Bangkok love stories innocence _1x2(1) Tokyo ghoul _3x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
 - sem 22-02-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) 
@@ -47,7 +47,7 @@
 - sem 13-09-2021 Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) 
 - sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) 7project _1x4(1) 
 - sem 27-09-2021 Goblin _1x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
-- sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
+- sem 04-10-2021 /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) Young sheldon _5x2(1) 
 - sem 18-10-2021 Aoki vuanpaia no nayami _1x3(2) 
 - sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) 
@@ -68,7 +68,7 @@
 
 ## apercu mois
 - mois 01-01-2021 Ghost runner _1x5(4) Friend zone _1x3(1) Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) 
-- mois 01-02-2021 Be love _1x4(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
+- mois 01-02-2021 Be love _1x4(1) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
 - mois 01-03-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
 - mois 01-04-2021 Bt21 vlog _1x4(3) You never eat alone _1x5(2) 
 - mois 01-05-2021 I can see your voice fr _1x2(1) Mr lipstick _1x3(2) 
@@ -77,7 +77,7 @@
 - mois 01-08-2021 /46 days _1x7(6) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 - mois 01-09-2021 7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) 
 - mois 01-12-2021 -> Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 
 

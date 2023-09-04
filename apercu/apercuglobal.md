@@ -74,7 +74,7 @@
 - sem 29-06-2020 Young dracula _1x7(2) The untamed _1x2(1) 
 - sem 06-07-2020 The untamed _1x3(1) 
 - sem 20-07-2020 Long khong _1x2(1) Himym _6x2(1) 
-- sem 27-07-2020 Forever knight _1x11(1) Long khong _1x3(1) The shipper _1x3(2) 
+- sem 27-07-2020 Forever knight _1x11(1) Long khong _1x3(1) 
 - sem 03-08-2020 Lucifer _4x4(1) Long khong _1x4(1) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) 
 - sem 10-08-2020 Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) 
 - sem 17-08-2020 The office _1x5(2) You _1x3(1) 
@@ -94,11 +94,11 @@
 - sem 14-12-2020 A queen is born _1x2(1) Tale of the nine tailed _1x2(1)
 - sem 21-12-2020 Ghost runner _1x4(2) 
 - sem 28-12-2020 Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) 
-- sem 04-01-2021 Together with me _1x2(1) The shipper _1x4(1) Ghost runner _1x5(1) Friend zone _1x3(1) 
+- sem 04-01-2021 Together with me _1x2(1) Ghost runner _1x5(1) Friend zone _1x3(1) 
 - sem 11-01-2021 Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) 
 - sem 18-01-2021 Koishite akuma _1x4(3) Warper series _1x2(1) 
 - sem 25-01-2021 Tien bromance _1x2(1) Ben x jim _1x3(1) 
-- sem 01-02-2021 Be love _1x4(1) The shipper _1x5(1) 
+- sem 01-02-2021 Be love _1x4(1) 
 - sem 08-02-2021 Tbbt _11x2(1) The untamed _1x4(1) You never eat alone _1x2(1) Slam dance _1x2(1) 
 - sem 15-02-2021 Bangkok love stories innocence _1x2(1) Tokyo ghoul _3x16(1) The harvest season _1x5(4) Wabi show _1x3(2) 
 - sem 22-02-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(1) Tokyo ghoul _3x17(1) 
@@ -123,7 +123,7 @@
 - sem 13-09-2021 Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) 7project _1x3(1) 
 - sem 20-09-2021 Post mortem _1x4(1) Alice in borderland _1x2(1) 7project _1x4(1) 
 - sem 27-09-2021 Goblin _1x2(1) 7project _1x5(1) The big leap _1x2(1) /9-1-1 _5x2(1) 
-- sem 04-10-2021 The shipper _1x6(1) /9-1-1 _5x3(1) 
+- sem 04-10-2021 /9-1-1 _5x3(1) 
 - sem 11-10-2021 /9-1-1 _5x4(1) Love area _1x3(2) Young sheldon _5x2(1) 
 - sem 18-10-2021 Aoki vuanpaia no nayami _1x3(2) 
 - sem 25-10-2021 -> Aoki vuanpaia no nayami _1x4(1) Young sheldon _5x4(2) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) 
@@ -141,7 +141,7 @@ sem 17-01-2022 -> The voice nl _12x3(1) /9-1-1 lone star _3x3(1)
 sem 24-01-2022 -> F4 thailand _1x5(1) Color rush _2x2(1) Meet my angel _2x2(1) Something in my room _1x2(1) 
 sem 31-01-2022 -> F4 thailand _1x7(2) Something in my room _1x3(1) The voice ph _1x5(4) Love at night _1x2(1) 
 sem 07-02-2022 -> Meet my angel _2x4(2) Something in my room _1x4(1) F4 thailand _1x8(1) Love stage 2022 _1x2(1) /9-1-1 lone star _3x5(2) 
-sem 14-02-2022 -> All of us are dead _1x3(2) F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
+sem 14-02-2022 -> F4 thailand _1x9(1) Love stage 2022 _1x3(1) /9-1-1 lone star _3x6(1) 
 sem 21-02-2022 -> Something in my room _1x5(1) F4 thailand _1x10(1) Love stage 2022 _1x4(1) 
 sem 28-02-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) 
 sem 07-03-2022 -> The tuxedo _1x2(1) Drag i love you _1x2(1) 
@@ -156,52 +156,49 @@ sem 16-05-2022 -> The circle us _4x6(1)
 sem 23-05-2022 -> Rpdrasu _7x2(1) Two pints of lager _3x5(2) Rpdras _7x2(1) 
 sem 30-05-2022 -> Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(1) 
 sem 06-06-2022 -> Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
-sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) 
+sem 13-06-2022 -> Dancing with myself _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) 
 sem 20-06-2022 -> The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Close friend _2x3(1) 
 sem 27-06-2022 -> Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(1) Unforgotten night _1x2(1) Camping paradis _13x2(1) 
 sem 04-07-2022 -> Unforgotten night _1x3(1) Rose in da house _1x2(1) Close friend _2x4(1) Camping paradis _13x3(1) 
 sem 11-07-2022 -> Two pints of lager _3x7(1) Second chance series _1x2(1) Unforgotten night _1x4(1) Agt _17x3(1) 
-sem 18-07-2022 -> Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) Big brother us _24x5(4) Big brother us _23x8(7) Unforgotten night _1x5(1) 
-sem 25-07-2022 -> Rpdrasu _7x4(1) Rpdras _7x4(1) Big brother us _24x7(2) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
-sem 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(1) Big brother us _24x11(4) 
-sem 08-08-2022 -> Big brother us _24x14(3) Unforgotten night _1x7(1) 
-sem 15-08-2022 -> Sky in your heart _1x4(2) Big brother us _24x17(3) Juad juad _1x2(1) Rpdrdu _2x3(1) Agt _17x6(3) 
-sem 22-08-2022 -> Big brother us _24x18(1) Rpdrdu _2x4(1) Drag race ph _1x3(2) 
+sem 18-07-2022 -> Game of talents fr _2x2(1) Grimm _1x3(2) Survivor _31x2(1) Big brother us _23x8(7) Unforgotten night _1x5(1) 
+sem 25-07-2022 -> Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(1) Big brother us _23x10(2) Tokyo ghoul _3x18(1) 
+sem 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(1) 
+sem 08-08-2022 -> Unforgotten night _1x7(1) 
+sem 15-08-2022 -> Sky in your heart _1x4(2) Juad juad _1x2(1) Rpdrdu _2x3(1) Agt _17x6(3) 
+sem 22-08-2022 -> Rpdrdu _2x4(1) Drag race ph _1x3(2) 
 sem 29-08-2022 -> Bt21 original story _2x2(1) Masterchef fr _6x2(1) 
-sem 05-09-2022 -> Un dos tres _3x2(1) Skam italia _5x3(2) Masterchef fr _6x3(1) Le flambeau _1x6(2) Camping paradis _13x4(1) My only 12pc _1x2(1) 
+sem 05-09-2022 -> Un dos tres _3x2(1) Skam italia _5x3(2) Masterchef fr _6x3(1) Camping paradis _13x4(1) My only 12pc _1x2(1) 
 sem 12-09-2022 -> Masterchef fr _6x4(1) 
 sem 19-09-2022 -> Sky in your heart _1x5(1) Vampire academy _1x2(1) 
 sem 26-09-2022 -> Lego masters _3x2(1) Dwts _31x2(1) 
-sem 03-10-2022 -> The voice nepal _4x3(2) La mas draga _5x2(1) Dwts _31x3(1) Ai long nhai _1x2(1) 
-sem 10-10-2022 -> The voice nepal _4x4(1) Lego masters _3x4(2) Reginald the vampire _1x2(1) La mas draga _5x3(1) The shipper _1x8(2) Nailed it _7x2(1) Ai long nhai _1x3(1) 
-sem 17-10-2022 -> Dwts _31x4(1) Reginald the vampire _1x3(1) The challenge _38x2(2) La mas draga _5x4(1) Let the right one in _1x2(1) 
-sem 24-10-2022 -> Reginald the vampire _1x4(1) The challenge _38x3(1) Ahs _11x2(1) Ai long nhai _1x4(1) The shipper _1x9(1) 
-sem 31-10-2022 -> Juad juad _1x3(1) Big brother us _24x19(1) Ai long nhai _1x5(1) 
+sem 03-10-2022 -> The voice nepal _4x3(2) Dwts _31x3(1) Ai long nhai _1x2(1) 
+sem 10-10-2022 -> The voice nepal _4x4(1) Lego masters _3x4(2) Reginald the vampire _1x2(1) Nailed it _7x2(1) Ai long nhai _1x3(1) 
+sem 17-10-2022 -> Dwts _31x4(1) Reginald the vampire _1x3(1) The challenge _38x2(2) Let the right one in _1x2(1) 
+sem 24-10-2022 -> Reginald the vampire _1x4(1) The challenge _38x3(1) Ahs _11x2(1) Ai long nhai _1x4(1) 
+sem 31-10-2022 -> Juad juad _1x3(1) Ai long nhai _1x5(1) 
 sem 07-11-2022 -> Reginald the vampire _1x6(2) The challenge _38x5(2) La brea _1x4(3) 
-sem 14-11-2022 -> The challenge au _1x2(1) 
 sem 21-11-2022 -> Run for the money _1x2(1) 
-sem 28-11-2022 -> /1899 _1x2(1) The challenge au _1x3(1) Painted with raven _2x2(1) 
+sem 28-11-2022 -> /1899 _1x2(1) 
 sem 05-12-2022 -> Rpdrasu _7x5(1) Rpdras _7x5(1) Dragula titans _1x2(1) /609 bedtime story _1x3(2) 
-sem 12-12-2022 -> La mas draga _5x6(2) /609 bedtime story _1x4(1) Dwts _31x5(1) 
+sem 12-12-2022 -> /609 bedtime story _1x4(1) Dwts _31x5(1) 
 sem 19-12-2022 -> /609 bedtime story _1x5(1) Never let me go _1x2(1) 
 sem 26-12-2022 -> Never let me go _1x3(1) 
 sem 02-01-2023 -> Midnight motel _1x2(1) 
 sem 09-01-2023 -> Rpdr _15x2(1) Agt as _1x2(1) 
-sem 16-01-2023 -> Big brother us _24x20(1) 
 sem 23-01-2023 -> Agt as _1x4(2) Dirty laundry _1x2(1) Earthmix space _2x2(1) 
 sem 30-01-2023 -> Mako ventures _2x2(1) 
 sem 06-02-2023 -> Earthmix space _2x3(1) Survivor au _10x2(1) 
-sem 13-02-2023 -> Painted with raven _2x3(1) Physical 100 _1x3(2) Ai long nhai _1x6(1) 
-sem 20-02-2023 -> Lego masters _3x5(1) Agt _17x7(1) Drag race be _1x2(1) The shipper _1x10(1) 
-sem 27-02-2023 -> Drag race be _1x3(1) Koh-lanta _29x2(1) Lego masters _3x6(1) 
-sem 06-03-2023 -> Drag race sweden _1x2(1) Drag race be _1x4(1) Koh-lanta _29x3(1) 
-sem 13-03-2023 -> Umg _1x2(1) The night beyond the tricornered window _1x2(1) Skam france _11x2(1) Drag race be _1x5(1) Physical 100 _1x4(1) Cheat netflix _1x3(2) Koh-lanta _29x4(1) Midnight museum _1x3(2) 
-sem 20-03-2023 -> Umg _1x3(1) Big brother us _24x21(1) Le flambeau _1x8(2) Dance 100 _1x2(1) American idol _21x2(1) Cutie pie _2x2(1) The masked singer th _12x2(1) Next level chef _2x2(1) Koh-lanta _29x5(1) Midnight museum _1x5(2) 
-sem 27-03-2023 -> Umg _1x4(1) Choco milk shake _1x4(3) American idol _21x3(1) Koh-lanta _29x6(1) Reginald the vampire _1x7(1) Next level chef _2x3(1) 
-sem 03-04-2023 -> The voice chile _4x6(5) Me my husband and my husbands boyfriend _1x2(1) Koh-lanta _29x7(1) Earthmix space _2x5(2) Midnight museum _1x6(1) The masked singer th _12x3(1) Queer as folk _1x3(2) 
-sem 10-04-2023 -> Bed friend _1x2(1) The eight sense _1x2(1) Make a wish _1x2(1) Me my husband and my husbands boyfriend _1x3(1) Devils line _1x3(2) Koh-lanta _29x8(1) 
-sem 17-04-2023 -> American idol _21x4(1) The voice kids portugal _4x3(2) The voice kids esp _8x2(1) Bed friend _1x3(1) Koh-lanta _29x9(1) The voice chile _4x7(1) 
-
+sem 13-02-2023 -> Physical 100 _1x3(2) Ai long nhai _1x6(1) 
+sem 20-02-2023 -> Lego masters _3x5(1) Agt _17x7(1) 
+sem 27-02-2023 -> Lego masters _3x6(1) 
+sem 06-03-2023 -> Drag race sweden _1x2(1) 
+sem 13-03-2023 -> Umg _1x2(1) The night beyond the tricornered window _1x2(1) Physical 100 _1x4(1) Cheat netflix _1x3(2) Midnight museum _1x3(2) 
+sem 20-03-2023 -> Umg _1x3(1) Dance 100 _1x2(1) Cutie pie _2x2(1) The masked singer th _12x2(1) Next level chef _2x2(1) Midnight museum _1x5(2) 
+sem 27-03-2023 -> Umg _1x4(1) Choco milk shake _1x4(3) Reginald the vampire _1x7(1) Next level chef _2x3(1) 
+sem 03-04-2023 -> Me my husband and my husbands boyfriend _1x2(1) Earthmix space _2x5(2) Midnight museum _1x6(1) The masked singer th _12x3(1) 
+sem 10-04-2023 -> The eight sense _1x2(1) Make a wish _1x2(1) Me my husband and my husbands boyfriend _1x3(1) Devils line _1x3(2) 
+sem 17-04-2023 -> 
 
 
 
@@ -229,13 +226,13 @@ sem 17-04-2023 -> American idol _21x4(1) The voice kids portugal _4x3(2) The voi
 - mois 01-05-2020 Penny dreadful city of angels _1x2(1) Vwars _1x7(1) Dark _1x8(2) Ga _2x16(1) Magic for humans _2x3(1) Port charles _1x2(1) Ninja warrior junior us _2x8(1) Forever knight _1x10(1) Les ratz _1x5(3) Les zinzins de lespace _1x5(4) Mental samourai _1x2(1) Hsmtmts _1x4(1) Only connect _15x25(1) Bloodride _1x2(1) Ahs _9x5(1) Why women kill _1x4(1) The office _1x3(2) Community _1x3(1) 
 - mois 01-06-2020 Young dracula _1x5(1) Phineas & ferb _1x31(4) Lot _1x8(1) Hollywood _1x3(2) Les simpson _3x5(4) 
 - mois 01-07-2020 Young dracula _1x7(2) The untamed _1x2(1) Blank _1x5(1) Arrow _7x2(1) Top chef us _1x2(1) La casa de papel _4x2(1) Tf _4x14(1) Heirs of the night _1x4(3) Modern family _1x15(1) 1rw _3x5(1) Penny dreadful city of angels _1x3(1) Liar _2x2(1) The sinner _3x2(1) 
-- mois 01-08-2020 Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) The shipper _1x3(2) Himym _6x2(1) The untamed _1x3(1) 
+- mois 01-08-2020 Long khong _1x4(3) Alta mar _1x2(1) Into the night _1x2(1) Nailed it ger _1x2(1) Forever knight _1x11(1) Himym _6x2(1) The untamed _1x3(1) 
 - mois 01-09-2020 So much in love _1x3(2) Blacklist series _1x2(1) The office _1x5(2) You _1x3(1) Long khong _1x5(1) Love alarm _1x2(1) Phineas & ferb _1x33(1) Lucifer _4x4(1) 
 - mois 01-10-2020 Friend forever _1x2(1) My day _1x2(1) Baby _3x2(1) My dear loser edge of 17 _1x2(1) 
 - mois 01-11-2020 Swap test _1x3(2) The stranded _1x2(1) Pogi lang hanap _1x3(2) Lakan _1x2(1) Friend forever _1x4(2) Boys lockdown _1x3(2) Quien es la mascara _2x3(2) Ben x jim _1x2(1) Friend zone _1x2(1) Capture lover _1x2(1) Zombie detective _1x2(1) 
 - mois 01-12-2020 Be love _1x3(2) Pogi lang hanap _1x5(2) My vampire boyfriend _1x3(2) Lakan _1x3(1) Blood _1x17(1) 
 - mois 01-01-2021 Ghost runner _1x5(4) Friend zone _1x3(1) Capture lover _1x3(1) From dusk till dawn _2x4(3) Lakan _1x5(2) A queen is born _1x2(1) Tale of the nine tailed _1x2(1) 
-- mois 01-02-2021 Be love _1x4(1) The shipper _1x5(2) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
+- mois 01-02-2021 Be love _1x4(1) Tien bromance _1x2(1) Ben x jim _1x3(1) Koishite akuma _1x4(3) Warper series _1x2(1) Romantic blue _1x2(1) Unlocked _1x2(1) Friend zone _1x4(1) Together with me _1x2(1) 
 - mois 01-03-2021 Unlocked _1x3(1) My vampire boyfriend _1x7(4) You never eat alone _1x3(2) Tokyo ghoul _3x17(2) Bangkok love stories innocence _1x2(1) The harvest season _1x5(4) Wabi show _1x3(2) Tbbt _11x2(1) The untamed _1x4(1) Slam dance _1x2(1) 
 - mois 01-04-2021 Bt21 vlog _1x4(3) You never eat alone _1x5(2) 
 - mois 01-05-2021 I can see your voice fr _1x2(1) Mr lipstick _1x3(2) 
@@ -244,24 +241,24 @@ sem 17-04-2023 -> American idol _21x4(1) The voice kids portugal _4x3(2) The voi
 - mois 01-08-2021 /46 days _1x7(6) Glow up _2x2(1) Zombie detective _1x3(1) Young royals _1x2(1) 
 - mois 01-09-2021 7project _1x2(1) Bite me _1x2(1) The yearbook _1x2(1) Post mortem _1x3(2) From dusk till dawn _2x6(2) Control z _2x3(2) /46 days _1x8(1) Glow up _2x3(1) 
 - mois 01-10-2021 /9-1-1 _5x3(2) Goblin _1x2(1) 7project _1x5(3) The big leap _1x2(1) Post mortem _1x4(1) Alice in borderland _1x2(1) Buffy _1x8(2) Lucifer _4x5(1) Bite me _1x3(1) Vwars _1x8(1) Qforce _1x2(1) 
-- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) The shipper _1x6(1) 
+- mois 01-11-2021 -> Tbbt _11x4(2) Aoki vuanpaia no nayami _1x4(3) Young sheldon _5x4(3) My sweet dear _1x3(2) Insiders _1x2(1) Age of the living dead _1x2(1) /9-1-1 _5x4(1) Love area _1x3(2) Dont say no _1x11(2) 
 - mois 01-12-2021 -> Baker boys _1x3(2) Les engages _3x2(1) The case study of vanitas _1x3(2) Banana fish _1x3(2) 
 mois 01-01-2022 -> /5515 never too late _1x5(4) The player _1x3(2) F4 thailand _1x3(2) District z _2x3(2) Unlocked _1x4(1) Aggretsuko _4x2(1) Baker boys _1x4(1) 
 mois 01-02-2022 -> /9-1-1 lone star _3x5(4) F4 thailand _1x7(4) Something in my room _1x3(2) The voice ph _1x5(4) Love at night _1x2(1) Color rush _2x2(1) Meet my angel _2x2(1) The voice nl _12x3(2) Young sheldon _5x6(2) 
-mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) All of us are dead _1x3(2) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
+mois 01-03-2022 -> Cupids last wish _1x3(2) Cherry blossoms after winter _1x2(1) Something in my room _1x5(2) F4 thailand _1x10(3) Love stage 2022 _1x4(3) /9-1-1 lone star _3x6(1) Meet my angel _2x4(2) 
 mois 01-04-2022 -> Cupids last wish _1x5(2) Drag i love you _1x3(2) The tuxedo _1x2(1) 
 mois 01-05-2022 -> Druck _8x2(1) Bullshit the game show _1x3(2) Call me mother _1x2(1) Trivia quest _1x7(6) Quaranthings _2x2(1) 
 mois 01-06-2022 -> Druck _8x4(2) Beat shazam _2x5(4) /9-1-1 _5x5(1) Two pints of lager _3x6(3) Rpdrasu _7x2(1) Rpdras _7x2(1) The circle us _4x6(5) Close friend _2x2(1) Clik clak clok _1x2(1) 
-mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Le flambeau _1x4(3) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
-mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Big brother us _24x11(10) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
-mois 01-09-2022 -> Masterchef fr _6x3(2) Le flambeau _1x6(2) Camping paradis _13x4(1) My only 12pc _1x2(1) Bt21 original story _2x2(1) Big brother us _24x18(7) Rpdrdu _2x4(2) Drag race ph _1x3(2) Sky in your heart _1x4(2) Juad juad _1x2(1) Agt _17x6(3) Unforgotten night _1x7(1)  
-mois 01-10-2022 -> The voice nepal _4x3(2) La mas draga _5x2(1) Dwts _31x3(2) Ai long nhai _1x2(1) Lego masters _3x2(1) Sky in your heart _1x5(1) Vampire academy _1x2(1) Masterchef fr _6x4(1) Un dos tres _3x2(1) Skam italia _5x3(2) 
-mois 01-11-2022 -> Juad juad _1x3(1) Big brother us _24x19(1) Ai long nhai _1x5(3) Reginald the vampire _1x4(3) The challenge _38x3(3) Ahs _11x2(1) The shipper _1x9(3) Dwts _31x4(1) La mas draga _5x4(2) Let the right one in _1x2(1) The voice nepal _4x4(1) Lego masters _3x4(2) Nailed it _7x2(1) 
-mois 01-12-2022 -> /1899 _1x2(1) The challenge au _1x3(2) Painted with raven _2x2(1) Run for the money _1x2(1) Reginald the vampire _1x6(2) The challenge _38x5(2) La brea _1x4(3) 
-mois 01-01-2023 -> Midnight motel _1x2(1) Never let me go _1x3(2) /609 bedtime story _1x5(4) La mas draga _5x6(2) Dwts _31x5(1) Rpdrasu _7x5(1) Rpdras _7x5(1) Dragula titans _1x2(1) 
-mois 01-02-2023 -> Earthmix space _2x3(2) Survivor au _10x2(1) Mako ventures _2x2(1) Agt as _1x4(3) Dirty laundry _1x2(1) Big brother us _24x20(1) Rpdr _15x2(1) 
-mois 01-03-2023 -> Koh-lanta _29x3(2) Drag race be _1x3(2) Lego masters _3x6(2) Agt _17x7(1) The shipper _1x10(1) Painted with raven _2x3(1) Physical 100 _1x3(2) Ai long nhai _1x6(1) 
-mois 01-04-2023 -> The voice chile _4x4(3) Koh-lanta _29x7(4) Earthmix space _2x5(2) Midnight museum _1x6(5) The masked singer th _12x3(2) Queer as folk _1x3(2) Umg _1x4(3) Choco milk shake _1x4(3) American idol _21x3(2) Reginald the vampire _1x7(1) Next level chef _2x3(2) Big brother us _24x21(1) Le flambeau _1x8(2) Dance 100 _1x2(1) Cutie pie _2x2(1) The night beyond the tricornered window _1x2(1) Skam france _11x2(1) Drag race be _1x5(2) Physical 100 _1x4(1) Cheat netflix _1x3(2) Drag race sweden _1x2(1) 
+mois 01-07-2022 -> Unforgotten night _1x3(2) Rose in da house _1x2(1) Close friend _2x4(2) Camping paradis _13x3(2) Rpdrasu _7x3(1) Rpdras _7x3(1) Bulgasal _1x5(4) Dancing with myself _1x3(2) The voice kids indonesia _4x3(2) Love mechanics _1x2(1) Mama gogo _1x2(1) /9-1-1 lone star _3x7(1) /9-1-1 _5x7(2) Want to see you _1x2(1) Agt _17x2(1) Sky in your heart _1x2(1) 
+mois 01-08-2022 -> God shave the queens _2x3(2) Rpdrdu _2x2(1) Game of talents fr _2x3(2) Rpdrasu _7x4(1) Rpdras _7x4(1) Unforgotten night _1x6(3) Big brother us _23x10(9) Tokyo ghoul _3x18(1) Grimm _1x3(2) Survivor _31x2(1) Two pints of lager _3x7(1) Second chance series _1x2(1) Agt _17x3(1) 
+mois 01-09-2022 -> Masterchef fr _6x3(2) Camping paradis _13x4(1) My only 12pc _1x2(1) Bt21 original story _2x2(1) Rpdrdu _2x4(2) Drag race ph _1x3(2) Sky in your heart _1x4(2) Juad juad _1x2(1) Agt _17x6(3) Unforgotten night _1x7(1)  
+mois 01-10-2022 -> The voice nepal _4x3(2) Dwts _31x3(2) Ai long nhai _1x2(1) Lego masters _3x2(1) Sky in your heart _1x5(1) Vampire academy _1x2(1) Masterchef fr _6x4(1) Un dos tres _3x2(1) Skam italia _5x3(2) 
+mois 01-11-2022 -> Juad juad _1x3(1) Ai long nhai _1x5(3) Reginald the vampire _1x4(3) The challenge _38x3(3) Ahs _11x2(1) Dwts _31x4(1) Let the right one in _1x2(1) The voice nepal _4x4(1) Lego masters _3x4(2) Nailed it _7x2(1) 
+mois 01-12-2022 -> /1899 _1x2(1) Run for the money _1x2(1) Reginald the vampire _1x6(2) The challenge _38x5(2) La brea _1x4(3) 
+mois 01-01-2023 -> Midnight motel _1x2(1) Never let me go _1x3(2) /609 bedtime story _1x5(4) Dwts _31x5(1) Rpdrasu _7x5(1) Rpdras _7x5(1) Dragula titans _1x2(1) 
+mois 01-02-2023 -> Earthmix space _2x3(2) Survivor au _10x2(1) Mako ventures _2x2(1) Agt as _1x4(3) Dirty laundry _1x2(1) Rpdr _15x2(1) 
+mois 01-03-2023 -> Lego masters _3x6(2) Agt _17x7(1) Physical 100 _1x3(2) Ai long nhai _1x6(1) 
+mois 01-04-2023 -> Earthmix space _2x5(2) Midnight museum _1x6(5) The masked singer th _12x3(2) Umg _1x4(3) Choco milk shake _1x4(3) Reginald the vampire _1x7(1) Next level chef _2x3(2) Dance 100 _1x2(1) Cutie pie _2x2(1) The night beyond the tricornered window _1x2(1) Physical 100 _1x4(1) Cheat netflix _1x3(2) Drag race sweden _1x2(1) 
 
 
 
@@ -378,9 +375,9 @@ conclu 31/01/22 = The voice ph _1 > 2;
 conclu 01/02/22 = The voice ph _1 > 3; /9-1-1 lone star _3 > 2; 
 conclu 10/02/22 = Love stage 2022 _1 > 2; 
 conclu 12/02/22 = Forever knight _1 > 1; 
-conclu 13/02/22 = F4 thailand _1 > 2; All of us are dead _1 > 2; Forever knight _1 > 1; 
-conclu 14/02/22 = All of us are dead _1 > 1; Forever knight _1 > 1; 
-conclu 15/02/22 = All of us are dead _1 > 1; Forever knight _1 > 1; 
+conclu 13/02/22 = F4 thailand _1 > 2; Forever knight _1 > 1; 
+conclu 14/02/22 = Forever knight _1 > 1; 
+conclu 15/02/22 = Forever knight _1 > 1; 
 conclu 16/02/22 = Love stage 2022 _1 > 1; Forever knight _1 > 1; 
 conclu 17/02/22 = Forever knight _1 > 1; 
 conclu 18/02/22 = Forever knight _1 > 1; 
@@ -416,13 +413,6 @@ conclu 30/05/22 = Beat shazam _2 > 2;
 conclu 31/05/22 = Beat shazam _2 > 2; 
 conclu 01/06/22 = Beat shazam _2 > 2; 
 conclu 04/06/22 = Agt _17 > 1; 
-conclu 08/06/22 = Le flambeau _1 > 1; 
-conclu 09/06/22 = Le flambeau _1 > 1; 
-conclu 10/06/22 = Le flambeau _1 > 1; 
-conclu 11/06/22 = Le flambeau _1 > 1; 
-conclu 12/06/22 = Le flambeau _1 > 1; 
-conclu 13/06/22 = Le flambeau _1 > 1; 
-conclu 14/06/22 = Le flambeau _1 > 1; 
 conclu 25/06/22 = Bulgasal _1 > 2; 
 conclu 26/06/22 = Bulgasal _1 > 2; 
 conclu 27/06/22 = Bulgasal _1 > 2; 
@@ -433,177 +423,36 @@ conclu 15/07/22 = Big brother us _23 > 2;
 conclu 16/07/22 = Big brother us _23 > 1; 
 conclu 17/07/22 = Big brother us _23 > 2; 
 conclu 18/07/22 = Big brother us _23 > 2; 
-conclu 31/07/22 = Big brother us _24 > 1; 
-conclu 04/08/22 = Big brother us _24 > 1; 
-conclu 05/08/22 = Big brother us _24 > 4; 
-conclu 06/08/22 = Big brother us _24 > 3; 
-conclu 07/08/22 = Big brother us _24 > 3; 
-conclu 08/08/22 = Big brother us _24 > 3; 
-conclu 21/08/22 = Big brother us _24 > 3; 
-conclu 22/08/22 = Big brother us _24 > 3; 
-conclu 23/08/22 = Big brother us _24 > 3; 
-conclu 24/08/22 = Big brother us _24 > 3; 
-conclu 25/08/22 = Big brother us _24 > 2; 
-conclu 26/08/22 = Big brother us _24 > 2; 
-conclu 27/08/22 = Big brother us _24 > 2; 
-conclu 28/08/22 = Big brother us _24 > 2; 
-conclu 29/08/22 = Big brother us _24 > 2; 
-conclu 30/08/22 = Big brother us _24 > 2; 
-conclu 31/08/22 = Big brother us _24 > 2; 
-conclu 01/09/22 = Big brother us _24 > 2; 
-conclu 02/09/22 = Big brother us _24 > 2; 
-conclu 03/09/22 = Big brother us _24 > 2; 
-conclu 04/09/22 = Big brother us _24 > 2; 
-conclu 05/09/22 = Big brother us _24 > 2; 
-conclu 06/09/22 = Big brother us _24 > 2; 
-conclu 07/09/22 = Big brother us _24 > 1; 
-conclu 10/09/22 = Big brother us _24 > 1; 
-conclu 11/09/22 = Big brother us _24 > 1; 
-conclu 14/09/22 = Big brother us _24 > 4; 
-conclu 15/09/22 = Big brother us _24 > 2; 
-conclu 16/09/22 = Big brother us _24 > 2; 
-conclu 17/09/22 = Big brother us _24 > 2; 
-conclu 18/09/22 = Big brother us _24 > 2; 
-conclu 19/09/22 = Big brother us _24 > 2; 
-conclu 20/09/22 = Big brother us _24 > 2; 
-conclu 21/09/22 = Big brother us _24 > 2; 
-conclu 22/09/22 = Big brother us _24 > 2; 
-conclu 23/09/22 = Big brother us _24 > 2; 
-conclu 24/09/22 = Big brother us _24 > 2; 
-conclu 25/09/22 = Big brother us _24 > 2; 
-conclu 26/09/22 = Big brother us _24 > 2; 
-conclu 27/09/22 = Big brother us _24 > 2; 
-conclu 28/09/22 = Big brother us _24 > 2; Dwts _31 > 1; 
-conclu 29/09/22 = Big brother us _24 > 2; 
-conclu 30/09/22 = Big brother us _24 > 2; 
-conclu 01/10/22 = Big brother us _24 > 2; 
-conclu 02/10/22 = Big brother us _24 > 2; 
-conclu 03/10/22 = Big brother us _24 > 2; 
-conclu 04/10/22 = Big brother us _24 > 2; 
-conclu 05/10/22 = Big brother us _24 > 2; 
-conclu 06/10/22 = Big brother us _24 > 2; 
-conclu 07/10/22 = Big brother us _24 > 1; 
-conclu 08/10/22 = Big brother us _24 > 1; 
-conclu 09/10/22 = Big brother us _24 > 1; 
-conclu 29/10/22 = Big brother us _24 > 2; 
-conclu 30/10/22 = Big brother us _24 > 2; 
+conclu 28/09/22 = Dwts _31 > 1; 
 conclu 03/11/22 = La brea _1 > 1; 
 conclu 04/11/22 = La brea _1 > 1; 
 conclu 05/11/22 = La brea _1 > 1; 
-conclu 06/11/22 = Big brother us _24 > 2; La brea _1 > 1; 
-conclu 07/11/22 = Big brother us _24 > 2; La brea _1 > 1; 
-conclu 08/11/22 = Big brother us _24 > 2; La brea _1 > 1; 
-conclu 09/11/22 = Big brother us _24 > 2; La brea _1 > 2; 
-conclu 10/11/22 = Big brother us _24 > 2; 
-conclu 11/11/22 = Big brother us _24 > 2; 
-conclu 12/11/22 = Big brother us _24 > 2; 
-conclu 20/11/22 = Big brother us _24 > 2; 
-conclu 21/11/22 = Big brother us _24 > 2; 
+conclu 06/11/22 = La brea _1 > 1; 
+conclu 07/11/22 = La brea _1 > 1; 
+conclu 08/11/22 = La brea _1 > 1; 
+conclu 09/11/22 = La brea _1 > 2; 
 conclu 10/12/22 = /609 bedtime story _1 > 1; 
 conclu 11/12/22 = /609 bedtime story _1 > 1; 
-conclu 12/12/22 = La mas draga _5 > 2; 
-conclu 13/12/22 = La mas draga _5 > 2; 
-conclu 14/12/22 = La mas draga _5 > 1; 
-conclu 16/12/22 = Big brother us _24 > 2; 
-conclu 17/12/22 = Big brother us _24 > 2; 
-conclu 18/12/22 = Big brother us _24 > 2; La mas draga _5 > 1; 
-conclu 19/12/22 = Big brother us _24 > 4; 
-conclu 20/12/22 = Big brother us _24 > 4; 
-conclu 21/12/22 = Big brother us _24 > 4; Never let me go _1 > 1; 
-conclu 22/12/22 = Big brother us _24 > 4; 
-conclu 23/12/22 = Big brother us _24 > 4; 
-conclu 24/12/22 = Big brother us _24 > 4; 
-conclu 25/12/22 = Big brother us _24 > 6; 
-conclu 26/12/22 = Big brother us _24 > 6; 
-conclu 27/12/22 = Big brother us _24 > 6; 
-conclu 28/12/22 = Big brother us _24 > 6; 
-conclu 29/12/22 = Big brother us _24 > 6; 
-conclu 30/12/22 = Big brother us _24 > 6; Midnight motel _1 > 1; 
-conclu 31/12/22 = Big brother us _24 > 6; Midnight motel _1 > 1; 
-conclu 01/01/23 = Big brother us _24 > 6; Midnight motel _1 > 1; 
-conclu 02/01/23 = Big brother us _24 > 6; 
-conclu 03/01/23 = Big brother us _24 > 6; 
-conclu 04/01/23 = Big brother us _24 > 6; 
-conclu 05/01/23 = Big brother us _24 > 6; 
-conclu 06/01/23 = Big brother us _24 > 6; 
-conclu 07/01/23 = Big brother us _24 > 4; 
-conclu 08/01/23 = Big brother us _24 > 4; 
-conclu 09/01/23 = Big brother us _24 > 4; 
-conclu 10/01/23 = Big brother us _24 > 4; 
-conclu 11/01/23 = Big brother us _24 > 4; 
-conclu 12/01/23 = Big brother us _24 > 4; 
-conclu 13/01/23 = Big brother us _24 > 2; 
-conclu 14/01/23 = Big brother us _24 > 2; 
-conclu 15/01/23 = Big brother us _24 > 2; 
-conclu 16/01/23 = Big brother us _24 > 4; 
-conclu 17/01/23 = Big brother us _24 > 4; 
-conclu 18/01/23 = Big brother us _24 > 4; 
-conclu 19/01/23 = Big brother us _24 > 4; 
-conclu 20/01/23 = Big brother us _24 > 4; 
-conclu 21/01/23 = Big brother us _24 > 4; 
-conclu 22/01/23 = Big brother us _24 > 4; 
-conclu 23/01/23 = Big brother us _24 > 4; Agt as _1 > 2; 
-conclu 24/01/23 = Big brother us _24 > 4; Agt as _1 > 2; 
-conclu 25/01/23 = Big brother us _24 > 4; 
-conclu 26/01/23 = Big brother us _24 > 4; 
-conclu 27/01/23 = Big brother us _24 > 4; 
-conclu 28/01/23 = Big brother us _24 > 4; 
-conclu 29/01/23 = Big brother us _24 > 4; 
-conclu 30/01/23 = Big brother us _24 > 4; 
-conclu 31/01/23 = Big brother us _24 > 4; 
-conclu 01/02/23 = Big brother us _24 > 4; 
-conclu 02/02/23 = Big brother us _24 > 4; 
-conclu 03/02/23 = Big brother us _24 > 4; 
-conclu 04/02/23 = Big brother us _24 > 4; 
-conclu 05/02/23 = Big brother us _24 > 4; 
-conclu 06/02/23 = Big brother us _24 > 4; 
-conclu 07/02/23 = Big brother us _24 > 4; 
-conclu 08/02/23 = Big brother us _24 > 4; 
-conclu 09/02/23 = Big brother us _24 > 4; 
-conclu 10/02/23 = Big brother us _24 > 4; 
-conclu 11/02/23 = Big brother us _24 > 4; 
-conclu 12/02/23 = Big brother us _24 > 4; 
-conclu 13/02/23 = Big brother us _24 > 4; Physical 100 _1 > 1; 
-conclu 14/02/23 = Big brother us _24 > 4; Physical 100 _1 > 2; 
-conclu 15/02/23 = Big brother us _24 > 4; Physical 100 _1 > 2; 
-conclu 16/02/23 = Big brother us _24 > 4; Physical 100 _1 > 1; 
-conclu 17/02/23 = Big brother us _24 > 4; Physical 100 _1 > 1; 
-conclu 18/02/23 = Big brother us _24 > 4; 
-conclu 19/02/23 = Big brother us _24 > 2; 
-conclu 20/02/23 = Big brother us _24 > 2; 
-conclu 21/02/23 = Big brother us _24 > 2; 
-conclu 22/02/23 = Big brother us _24 > 2; 
-conclu 23/02/23 = Big brother us _24 > 2; Lego masters _3 > 1; 
-conclu 24/02/23 = Big brother us _24 > 2; Lego masters _3 > 1; 
-conclu 25/02/23 = Big brother us _24 > 2; 
-conclu 26/02/23 = Big brother us _24 > 1; 
-conclu 27/02/23 = Big brother us _24 > 2; 
-conclu 28/02/23 = Big brother us _24 > 2; 
-conclu 01/03/23 = Big brother us _24 > 2; 
-conclu 02/03/23 = Big brother us _24 > 2; 
-conclu 03/03/23 = Big brother us _24 > 2; 
-conclu 04/03/23 = Big brother us _24 > 1; 
-conclu 05/03/23 = Big brother us _24 > 1; 
-conclu 06/03/23 = Big brother us _24 > 1; 
-conclu 07/03/23 = Big brother us _24 > 1; 
-conclu 19/03/23 = Le flambeau _1 > 1; 
+conclu 21/12/22 = Never let me go _1 > 1; 
+conclu 30/12/22 = Midnight motel _1 > 1; 
+conclu 31/12/22 = Midnight motel _1 > 1; 
+conclu 01/01/23 = Midnight motel _1 > 1; 
+conclu 23/01/23 = Agt as _1 > 2; 
+conclu 24/01/23 = Agt as _1 > 2; 
+conclu 13/02/23 = Physical 100 _1 > 1; 
+conclu 14/02/23 = Physical 100 _1 > 2; 
+conclu 15/02/23 = Physical 100 _1 > 2; 
+conclu 16/02/23 = Physical 100 _1 > 1; 
+conclu 17/02/23 = Physical 100 _1 > 1; 
+conclu 23/02/23 = Lego masters _3 > 1; 
+conclu 24/02/23 = Lego masters _3 > 1; 
 conclu 21/03/23 = Next level chef _2 > 1; 
-conclu 26/03/23 = Big brother us _24 > 2; 
-conclu 27/03/23 = Big brother us _24 > 2; Choco milk shake _1 > 1; 
-conclu 28/03/23 = Big brother us _24 > 2; 
-conclu 29/03/23 = Big brother us _24 > 2; Choco milk shake _1 > 1; 
-conclu 30/03/23 = Big brother us _24 > 2; Choco milk shake _1 > 1; 
-conclu 31/03/23 = Big brother us _24 > 2; Choco milk shake _1 > 1; 
-conclu 01/04/23 = Big brother us _24 > 2; The voice chile _4 > 2; Choco milk shake _1 > 1; 
-conclu 02/04/23 = The voice chile _4 > 3; Big brother us _24 > 2; Choco milk shake _1 > 2; 
-conclu 03/04/23 = The voice chile _4 > 3; 
-conclu 04/04/23 = The voice chile _4 > 3; 
-conclu 05/04/23 = The voice chile _4 > 3; 
-conclu 06/04/23 = The voice chile _4 > 3; 
-conclu 07/04/23 = The voice chile _4 > 1; 
-conclu 19/04/23 = The voice kids portugal _4 > 1; 
-conclu 20/04/23 = The voice kids portugal _4 > 1; 
-conclu 21/04/23 = The voice kids portugal _4 > 1; 
+conclu 27/03/23 = Choco milk shake _1 > 1; 
+conclu 29/03/23 = Choco milk shake _1 > 1; 
+conclu 30/03/23 = Choco milk shake _1 > 1; 
+conclu 31/03/23 = Choco milk shake _1 > 1; 
+conclu 01/04/23 = Choco milk shake _1 > 1; 
+conclu 02/04/23 = Choco milk shake _1 > 2; 
 
 
 
@@ -840,10 +689,10 @@ concluBis 09/02/22 = Meet my angel _2 > 2; Forever knight _1 > 2; Imortal _1 > 1
 concluBis 10/02/22 = Love stage 2022 _1 > 4; Meet my angel _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 concluBis 11/02/22 = Meet my angel _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
 concluBis 12/02/22 = Forever knight _1 > 3; Imortal _1 > 2; Meet my angel _2 > 1; 
-concluBis 13/02/22 = F4 thailand _1 > 7; All of us are dead _1 > 4; Forever knight _1 > 3; Imortal _1 > 2; 
-concluBis 14/02/22 = All of us are dead _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; F4 thailand _1 > 1; 
-concluBis 15/02/22 = All of us are dead _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; F4 thailand _1 > 1; 
-concluBis 16/02/22 = Love stage 2022 _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; All of us are dead _1 > 1; 
+concluBis 13/02/22 = F4 thailand _1 > 7; Forever knight _1 > 3; Imortal _1 > 2; 
+concluBis 14/02/22 = Forever knight _1 > 3; Imortal _1 > 2; F4 thailand _1 > 1; 
+concluBis 15/02/22 = Forever knight _1 > 3; Imortal _1 > 2; F4 thailand _1 > 1; 
+concluBis 16/02/22 = Love stage 2022 _1 > 3; Forever knight _1 > 3; Imortal _1 > 2; 
 concluBis 17/02/22 = Forever knight _1 > 3; Imortal _1 > 2; 
 concluBis 18/02/22 = Forever knight _1 > 3; Imortal _1 > 2; 
 concluBis 19/02/22 = Forever knight _1 > 3; Imortal _1 > 2; 
@@ -894,13 +743,8 @@ concluBis 31/05/22 = Beat shazam _2 > 4; Druck _8 > 1;
 concluBis 01/06/22 = Beat shazam _2 > 4; 
 concluBis 04/06/22 = Agt _17 > 3; Sky in your heart _1 > 2; 
 concluBis 06/06/22 = Want to see you _1 > 1; 
-concluBis 08/06/22 = Le flambeau _1 > 3; 
-concluBis 09/06/22 = Le flambeau _1 > 3; 
-concluBis 10/06/22 = Le flambeau _1 > 3; /9-1-1 _5 > 1; 
-concluBis 11/06/22 = Le flambeau _1 > 3; 
-concluBis 12/06/22 = Le flambeau _1 > 3; /9-1-1 _5 > 1; 
-concluBis 13/06/22 = Le flambeau _1 > 3; 
-concluBis 14/06/22 = Le flambeau _1 > 3; 
+concluBis 10/06/22 = /9-1-1 _5 > 1; 
+concluBis 12/06/22 = /9-1-1 _5 > 1; 
 concluBis 15/06/22 = /9-1-1 _5 > 1; 
 concluBis 16/06/22 = /9-1-1 _5 > 1; Forever knight _1 > 1; 
 concluBis 17/06/22 = Close friend _2 > 1; Forever knight _1 > 1; 
@@ -915,287 +759,107 @@ concluBis 10/07/22 = Forever knight _1 > 1;
 concluBis 11/07/22 = Forever knight _1 > 1; 
 concluBis 12/07/22 = Forever knight _1 > 2; Big brother us _23 > 1; Imortal _1 > 1; 
 concluBis 13/07/22 = Big brother us _23 > 4; Forever knight _1 > 2; Imortal _1 > 1; 
-concluBis 14/07/22 = Big brother us _23 > 3; Big brother us _24 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+concluBis 14/07/22 = Big brother us _23 > 3; Forever knight _1 > 2; Imortal _1 > 1; 
 concluBis 15/07/22 = Big brother us _23 > 5; Forever knight _1 > 2; Imortal _1 > 1; 
 concluBis 16/07/22 = Big brother us _23 > 3; 
 concluBis 17/07/22 = Big brother us _23 > 4; 
 concluBis 18/07/22 = Big brother us _23 > 4; 
-concluBis 19/07/22 = Big brother us _23 > 3; Big brother us _24 > 1; 
+concluBis 19/07/22 = Big brother us _23 > 3; 
 concluBis 20/07/22 = Big brother us _23 > 3; 
 concluBis 21/07/22 = Big brother us _23 > 2; 
 concluBis 22/07/22 = Big brother us _23 > 1; 
 concluBis 23/07/22 = Big brother us _23 > 1; 
 concluBis 24/07/22 = Big brother us _23 > 1; 
-concluBis 25/07/22 = Big brother us _23 > 2; Big brother us _24 > 2; 
-concluBis 26/07/22 = Big brother us _23 > 2; Big brother us _24 > 2; 
-concluBis 27/07/22 = Big brother us _23 > 2; Big brother us _24 > 1; 
-concluBis 28/07/22 = Big brother us _23 > 2; Big brother us _24 > 1; 
-concluBis 29/07/22 = Big brother us _24 > 2; Big brother us _23 > 1; 
-concluBis 30/07/22 = Big brother us _24 > 6; Big brother us _23 > 1; 
-concluBis 31/07/22 = Big brother us _24 > 7; Big brother us _23 > 1; 
-concluBis 01/08/22 = Big brother us _24 > 8; Big brother us _23 > 1; 
-concluBis 02/08/22 = Big brother us _24 > 8; Big brother us _23 > 1; 
-concluBis 03/08/22 = Big brother us _24 > 8; 
-concluBis 04/08/22 = Big brother us _24 > 9; 
-concluBis 05/08/22 = Big brother us _24 > 12; Big brother us _23 > 1; 
-concluBis 06/08/22 = Big brother us _24 > 11; Big brother us _23 > 1; 
-concluBis 07/08/22 = Big brother us _24 > 10; Big brother us _23 > 1; 
-concluBis 08/08/22 = Big brother us _24 > 9; Big brother us _23 > 1; 
-concluBis 09/08/22 = Big brother us _24 > 6; Agt _17 > 2; 
-concluBis 10/08/22 = Big brother us _24 > 5; 
-concluBis 11/08/22 = Big brother us _24 > 8; 
-concluBis 12/08/22 = Big brother us _24 > 8; 
-concluBis 13/08/22 = Big brother us _24 > 8; 
-concluBis 14/08/22 = Big brother us _24 > 8; 
-concluBis 15/08/22 = Big brother us _24 > 6; 
-concluBis 16/08/22 = Big brother us _24 > 7; 
-concluBis 17/08/22 = Big brother us _24 > 7; 
-concluBis 18/08/22 = Big brother us _24 > 6; 
-concluBis 19/08/22 = Big brother us _24 > 6; 
-concluBis 20/08/22 = Big brother us _24 > 6; 
-concluBis 21/08/22 = Big brother us _24 > 9; 
-concluBis 22/08/22 = Big brother us _24 > 9; 
-concluBis 23/08/22 = Big brother us _24 > 9; 
-concluBis 24/08/22 = Big brother us _24 > 9; 
-concluBis 25/08/22 = Big brother us _24 > 8; 
-concluBis 26/08/22 = Big brother us _24 > 8; 
-concluBis 27/08/22 = Big brother us _24 > 7; 
-concluBis 28/08/22 = Big brother us _24 > 7; 
-concluBis 29/08/22 = Big brother us _24 > 8; 
-concluBis 30/08/22 = Big brother us _24 > 7; 
-concluBis 31/08/22 = Big brother us _24 > 8; 
-concluBis 01/09/22 = Big brother us _24 > 8; 
-concluBis 02/09/22 = Big brother us _24 > 6; Skam italia _5 > 1; 
-concluBis 03/09/22 = Big brother us _24 > 6; 
-concluBis 04/09/22 = Big brother us _24 > 6; 
-concluBis 05/09/22 = Big brother us _24 > 6; 
-concluBis 06/09/22 = Big brother us _24 > 6; 
-concluBis 07/09/22 = Big brother us _24 > 3; 
-concluBis 08/09/22 = Big brother us _24 > 2; 
-concluBis 09/09/22 = Big brother us _24 > 2; 
-concluBis 10/09/22 = Big brother us _24 > 3; 
-concluBis 11/09/22 = Big brother us _24 > 3; 
-concluBis 12/09/22 = Big brother us _24 > 2; 
-concluBis 13/09/22 = Big brother us _24 > 2; 
-concluBis 14/09/22 = Big brother us _24 > 8; Forever knight _1 > 1; 
-concluBis 15/09/22 = Big brother us _24 > 4; 
-concluBis 16/09/22 = Big brother us _24 > 4; 
-concluBis 17/09/22 = Big brother us _24 > 4; 
-concluBis 18/09/22 = Big brother us _24 > 4; 
-concluBis 19/09/22 = Big brother us _24 > 4; 
-concluBis 20/09/22 = Big brother us _24 > 4; 
-concluBis 21/09/22 = Big brother us _24 > 4; 
-concluBis 22/09/22 = Big brother us _24 > 4; 
-concluBis 23/09/22 = Big brother us _24 > 4; 
-concluBis 24/09/22 = Big brother us _24 > 4; 
-concluBis 25/09/22 = Big brother us _24 > 4; 
-concluBis 26/09/22 = Big brother us _24 > 4; 
-concluBis 27/09/22 = Big brother us _24 > 4; 
-concluBis 28/09/22 = Big brother us _24 > 4; Dwts _31 > 3; 
-concluBis 29/09/22 = Big brother us _24 > 4; 
-concluBis 30/09/22 = Big brother us _24 > 4; The voice nepal _4 > 2; 
-concluBis 01/10/22 = Big brother us _24 > 4; 
-concluBis 02/10/22 = Big brother us _24 > 4; 
-concluBis 03/10/22 = Big brother us _24 > 4; 
-concluBis 04/10/22 = Big brother us _24 > 4; 
-concluBis 05/10/22 = Big brother us _24 > 4; 
-concluBis 06/10/22 = Big brother us _24 > 4; The shipper _1 > 2; 
-concluBis 07/10/22 = Big brother us _24 > 3; Lego masters _3 > 2; The shipper _1 > 1; 
-concluBis 08/10/22 = Big brother us _24 > 3; 
-concluBis 09/10/22 = Big brother us _24 > 3; 
-concluBis 10/10/22 = Big brother us _24 > 2; 
-concluBis 11/10/22 = Big brother us _24 > 2; 
-concluBis 12/10/22 = Big brother us _24 > 1; 
-concluBis 13/10/22 = Big brother us _24 > 1; 
-concluBis 14/10/22 = Big brother us _24 > 1; 
-concluBis 15/10/22 = Big brother us _24 > 1; 
-concluBis 16/10/22 = Big brother us _24 > 2; 
-concluBis 17/10/22 = Big brother us _24 > 2; 
-concluBis 18/10/22 = Big brother us _24 > 1;
-concluBis 19/10/22 = Big brother us _24 > 1; 
-concluBis 20/10/22 = Big brother us _24 > 1; 
-concluBis 21/10/22 = Big brother us _24 > 1; 
-concluBis 22/10/22 = Big brother us _24 > 1; 
+concluBis 25/07/22 = Big brother us _23 > 2; 
+concluBis 26/07/22 = Big brother us _23 > 2; 
+concluBis 27/07/22 = Big brother us _23 > 2; 
+concluBis 28/07/22 = Big brother us _23 > 2; 
+concluBis 29/07/22 = Big brother us _23 > 1; 
+concluBis 30/07/22 = Big brother us _23 > 1; 
+concluBis 31/07/22 = Big brother us _23 > 1; 
+concluBis 01/08/22 = Big brother us _23 > 1; 
+concluBis 02/08/22 = Big brother us _23 > 1; 
+concluBis 05/08/22 = Big brother us _23 > 1; 
+concluBis 06/08/22 = Big brother us _23 > 1; 
+concluBis 07/08/22 = Big brother us _23 > 1; 
+concluBis 08/08/22 = Big brother us _23 > 1; 
+concluBis 09/08/22 = Agt _17 > 2; 
+concluBis 02/09/22 = Skam italia _5 > 1; 
+concluBis 14/09/22 = Forever knight _1 > 1; 
+concluBis 28/09/22 = Dwts _31 > 3; 
+concluBis 30/09/22 = The voice nepal _4 > 2; 
+concluBis 07/10/22 = Lego masters _3 > 2; 
 concluBis 25/10/22 = Ai long nhai _1 > 1; 
-concluBis 26/10/22 = Big brother us _24 > 4; 
-concluBis 27/10/22 = Big brother us _24 > 4; 
-concluBis 28/10/22 = Big brother us _24 > 4; 
-concluBis 29/10/22 = Big brother us _24 > 6; 
-concluBis 30/10/22 = Big brother us _24 > 6; 
-concluBis 31/10/22 = Big brother us _24 > 4; 
-concluBis 01/11/22 = Big brother us _24 > 4; 
-concluBis 02/11/22 = Big brother us _24 > 4; 
-concluBis 03/11/22 = Big brother us _24 > 4; La brea _1 > 3; 
-concluBis 04/11/22 = Big brother us _24 > 4; La brea _1 > 3; The challenge _38 > 1; 
-concluBis 05/11/22 = Big brother us _24 > 4; La brea _1 > 3; Reginald the vampire _1 > 2; 
-concluBis 06/11/22 = Big brother us _24 > 6; La brea _1 > 3; Reginald the vampire _1 > 1; 
-concluBis 07/11/22 = Big brother us _24 > 6; La brea _1 > 3; 
-concluBis 08/11/22 = Big brother us _24 > 6; La brea _1 > 3; 
-concluBis 09/11/22 = Big brother us _24 > 6; La brea _1 > 4; 
-concluBis 10/11/22 = Big brother us _24 > 6; 
-concluBis 11/11/22 = Big brother us _24 > 6; 
-concluBis 12/11/22 = Big brother us _24 > 6; 
-concluBis 13/11/22 = Big brother us _24 > 4; 
-concluBis 14/11/22 = Big brother us _24 > 4; 
-concluBis 15/11/22 = Big brother us _24 > 4; 
-concluBis 16/11/22 = Big brother us _24 > 4; 
-concluBis 17/11/22 = Big brother us _24 > 4; 
-concluBis 18/11/22 = Big brother us _24 > 4; 
-concluBis 19/11/22 = Big brother us _24 > 4; 
-concluBis 20/11/22 = Big brother us _24 > 6; 
-concluBis 21/11/22 = Big brother us _24 > 6; 
-concluBis 22/11/22 = Big brother us _24 > 4; 
-concluBis 23/11/22 = Big brother us _24 > 4; 
-concluBis 24/11/22 = Big brother us _24 > 4; 
-concluBis 25/11/22 = Big brother us _24 > 4; 
-concluBis 26/11/22 = Big brother us _24 > 4; 
-concluBis 27/11/22 = Big brother us _24 > 4; 
-concluBis 28/11/22 = Big brother us _24 > 2; 
-concluBis 29/11/22 = Big brother us _24 > 2; 
-concluBis 30/11/22 = Big brother us _24 > 2; 
-concluBis 01/12/22 = Big brother us _24 > 2; 
-concluBis 02/12/22 = Big brother us _24 > 2; 
-concluBis 03/12/22 = Big brother us _24 > 2; 
-concluBis 04/12/22 = Big brother us _24 > 2; /609 bedtime story _1 > 2; 
-concluBis 05/12/22 = Big brother us _24 > 2; /609 bedtime story _1 > 1; 
-concluBis 06/12/22 = Big brother us _24 > 2; /609 bedtime story _1 > 1; 
-concluBis 07/12/22 = Big brother us _24 > 2; /609 bedtime story _1 > 1; 
-concluBis 08/12/22 = Big brother us _24 > 4; /609 bedtime story _1 > 2; 
-concluBis 09/12/22 = Big brother us _24 > 4; /609 bedtime story _1 > 2; 
-concluBis 10/12/22 = /609 bedtime story _1 > 3; Big brother us _24 > 2; 
-concluBis 11/12/22 = /609 bedtime story _1 > 3; Big brother us _24 > 2; 
-concluBis 12/12/22 = La mas draga _5 > 4; Big brother us _24 > 2; /609 bedtime story _1 > 1; 
-concluBis 13/12/22 = La mas draga _5 > 4; Big brother us _24 > 2; 
-concluBis 14/12/22 = La mas draga _5 > 3; Big brother us _24 > 2; 
-concluBis 15/12/22 = Big brother us _24 > 4; La mas draga _5 > 2; 
-concluBis 16/12/22 = Big brother us _24 > 6; La mas draga _5 > 2; 
-concluBis 17/12/22 = Big brother us _24 > 6; La mas draga _5 > 2; 
-concluBis 18/12/22 = Big brother us _24 > 6; /609 bedtime story _1 > 3; La mas draga _5 > 3; 
-concluBis 19/12/22 = Big brother us _24 > 8; /609 bedtime story _1 > 3; 
-concluBis 20/12/22 = Big brother us _24 > 8; 
-concluBis 21/12/22 = Big brother us _24 > 8; Never let me go _1 > 3; 
-concluBis 22/12/22 = Big brother us _24 > 8; Never let me go _1 > 2; 
-concluBis 23/12/22 = Big brother us _24 > 8; Never let me go _1 > 1; 
-concluBis 24/12/22 = Big brother us _24 > 8; Never let me go _1 > 1; 
-concluBis 25/12/22 = Big brother us _24 > 10; 
-concluBis 26/12/22 = Big brother us _24 > 10; Forever knight _1 > 1; 
-concluBis 27/12/22 = Big brother us _24 > 10; Forever knight _1 > 1; 
-concluBis 28/12/22 = Big brother us _24 > 10; Forever knight _1 > 2; Imortal _1 > 1; 
-concluBis 29/12/22 = Big brother us _24 > 10; Midnight motel _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-concluBis 30/12/22 = Big brother us _24 > 10; Midnight motel _1 > 3; Forever knight _1 > 1; 
-concluBis 31/12/22 = Big brother us _24 > 10; Midnight motel _1 > 3; Forever knight _1 > 1; 
-concluBis 01/01/23 = Big brother us _24 > 10; Midnight motel _1 > 3; Forever knight _1 > 1; 
-concluBis 02/01/23 = Big brother us _24 > 10; 
-concluBis 03/01/23 = Big brother us _24 > 10; /609 bedtime story _1 > 1; 
-concluBis 04/01/23 = Big brother us _24 > 10; 
-concluBis 05/01/23 = Big brother us _24 > 10; 
-concluBis 06/01/23 = Big brother us _24 > 10; Agt as _1 > 2; 
-concluBis 07/01/23 = Big brother us _24 > 8; Agt as _1 > 1; 
-concluBis 08/01/23 = Big brother us _24 > 8; 
-concluBis 09/01/23 = Big brother us _24 > 8; 
-concluBis 10/01/23 = Big brother us _24 > 8; 
-concluBis 11/01/23 = Big brother us _24 > 8; 
-concluBis 12/01/23 = Big brother us _24 > 8; 
-concluBis 13/01/23 = Big brother us _24 > 6; 
-concluBis 14/01/23 = Big brother us _24 > 6; 
-concluBis 15/01/23 = Big brother us _24 > 6; 
-concluBis 16/01/23 = Big brother us _24 > 8; 
-concluBis 17/01/23 = Big brother us _24 > 8; 
-concluBis 18/01/23 = Big brother us _24 > 8; 
-concluBis 19/01/23 = Big brother us _24 > 8; Dirty laundry _1 > 1; 
-concluBis 20/01/23 = Big brother us _24 > 8; Dirty laundry _1 > 1; 
-concluBis 21/01/23 = Big brother us _24 > 8; Dirty laundry _1 > 2; 
-concluBis 22/01/23 = Big brother us _24 > 8; 
-concluBis 23/01/23 = Big brother us _24 > 8; Agt as _1 > 4; 
-concluBis 24/01/23 = Big brother us _24 > 8; Agt as _1 > 4; 
-concluBis 25/01/23 = Big brother us _24 > 8; 
-concluBis 26/01/23 = Big brother us _24 > 8; 
-concluBis 27/01/23 = Big brother us _24 > 8; 
-concluBis 28/01/23 = Big brother us _24 > 8; 
-concluBis 29/01/23 = Big brother us _24 > 8; 
-concluBis 30/01/23 = Big brother us _24 > 8; Forever knight _1 > 2; Mako ventures _2 > 1; Imortal _1 > 1; 
-concluBis 31/01/23 = Big brother us _24 > 8; Survivor au _10 > 2; Forever knight _1 > 2; Mako ventures _2 > 1; Imortal _1 > 1; 
-concluBis 01/02/23 = Big brother us _24 > 8; Earthmix space _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
-concluBis 02/02/23 = Big brother us _24 > 8; Forever knight _1 > 2; Imortal _1 > 1; 
-concluBis 03/02/23 = Big brother us _24 > 8; Forever knight _1 > 2; Imortal _1 > 1; 
-concluBis 04/02/23 = Big brother us _24 > 8; 
-concluBis 05/02/23 = Big brother us _24 > 8; 
-concluBis 06/02/23 = Big brother us _24 > 8; 
-concluBis 07/02/23 = Big brother us _24 > 8; 
-concluBis 08/02/23 = Big brother us _24 > 8; 
-concluBis 09/02/23 = Big brother us _24 > 8; 
-concluBis 10/02/23 = Big brother us _24 > 8; 
-concluBis 11/02/23 = Big brother us _24 > 8; 
-concluBis 12/02/23 = Big brother us _24 > 8; Physical 100 _1 > 1; 
-concluBis 13/02/23 = Big brother us _24 > 8; Physical 100 _1 > 3; 
-concluBis 14/02/23 = Big brother us _24 > 8; Physical 100 _1 > 4; Painted with raven _2 > 1; 
-concluBis 15/02/23 = Big brother us _24 > 8; Physical 100 _1 > 4; The shipper _1 > 1; 
-concluBis 16/02/23 = Big brother us _24 > 8; Physical 100 _1 > 3; The shipper _1 > 2; 
-concluBis 17/02/23 = Big brother us _24 > 8; Physical 100 _1 > 3; Drag race be _1 > 1; 
-concluBis 18/02/23 = Big brother us _24 > 8; Physical 100 _1 > 2; 
-concluBis 19/02/23 = Big brother us _24 > 6; 
-concluBis 20/02/23 = Big brother us _24 > 6; 
-concluBis 21/02/23 = Big brother us _24 > 6; Lego masters _3 > 1; 
-concluBis 22/02/23 = Big brother us _24 > 6; Lego masters _3 > 2; 
-concluBis 23/02/23 = Big brother us _24 > 6; Lego masters _3 > 3; 
-concluBis 24/02/23 = Big brother us _24 > 6; Lego masters _3 > 3; 
-concluBis 25/02/23 = Big brother us _24 > 6; Lego masters _3 > 2; 
-concluBis 26/02/23 = Big brother us _24 > 3; Lego masters _3 > 1; 
-concluBis 27/02/23 = Big brother us _24 > 6; 
-concluBis 28/02/23 = Big brother us _24 > 6; 
-concluBis 01/03/23 = Big brother us _24 > 6; 
-concluBis 02/03/23 = Big brother us _24 > 6; 
-concluBis 03/03/23 = Big brother us _24 > 6; 
-concluBis 04/03/23 = Big brother us _24 > 3; 
-concluBis 05/03/23 = Big brother us _24 > 3; 
-concluBis 06/03/23 = Big brother us _24 > 3; 
-concluBis 07/03/23 = Big brother us _24 > 3; 
-concluBis 08/03/23 = Big brother us _24 > 2; 
-concluBis 09/03/23 = Big brother us _24 > 2; 
-concluBis 10/03/23 = Big brother us _24 > 2; Cheat netflix _1 > 1; 
-concluBis 11/03/23 = Big brother us _24 > 1; 
-concluBis 12/03/23 = Big brother us _24 > 1; 
-concluBis 13/03/23 = Big brother us _24 > 1; 
-concluBis 14/03/23 = Big brother us _24 > 2; 
-concluBis 15/03/23 = Midnight museum _1 > 2; Big brother us _24 > 2; 
-concluBis 16/03/23 = Big brother us _24 > 2; Midnight museum _1 > 1; 
-concluBis 17/03/23 = Big brother us _24 > 2; 
-concluBis 18/03/23 = Big brother us _24 > 2; 
-concluBis 19/03/23 = Big brother us _24 > 4; Le flambeau _1 > 3; 
-concluBis 20/03/23 = Big brother us _24 > 4; Le flambeau _1 > 2; 
-concluBis 21/03/23 = Big brother us _24 > 4; Next level chef _2 > 3; 
-concluBis 22/03/23 = Big brother us _24 > 4; 
-concluBis 23/03/23 = Big brother us _24 > 4; 
-concluBis 24/03/23 = Big brother us _24 > 4; 
-concluBis 25/03/23 = Big brother us _24 > 4; 
-concluBis 26/03/23 = Big brother us _24 > 6; 
-concluBis 27/03/23 = Big brother us _24 > 6; Choco milk shake _1 > 3; 
-concluBis 28/03/23 = Big brother us _24 > 6; Choco milk shake _1 > 2; 
-concluBis 29/03/23 = Big brother us _24 > 6; Choco milk shake _1 > 3; Earthmix space _2 > 2; 
-concluBis 30/03/23 = Big brother us _24 > 6; Choco milk shake _1 > 3; Earthmix space _2 > 2; 
-concluBis 31/03/23 = Big brother us _24 > 6; Choco milk shake _1 > 3; The voice chile _4 > 2; Earthmix space _2 > 1; 
-concluBis 01/04/23 = Big brother us _24 > 6; The voice chile _4 > 4; Choco milk shake _1 > 3; 
-concluBis 02/04/23 = Big brother us _24 > 6; The voice chile _4 > 5; Choco milk shake _1 > 4; Earthmix space _2 > 1; 
-concluBis 03/04/23 = The voice chile _4 > 5; Big brother us _24 > 2; 
-concluBis 04/04/23 = The voice chile _4 > 5; Big brother us _24 > 2; 
-concluBis 05/04/23 = The voice chile _4 > 5; Big brother us _24 > 2; 
-concluBis 06/04/23 = The voice chile _4 > 5; Big brother us _24 > 2; Devils line _1 > 2; 
-concluBis 07/04/23 = The voice chile _4 > 3; Big brother us _24 > 2; 
-concluBis 08/04/23 = Big brother us _24 > 2; Me my husband and my husbands boyfriend _1 > 2; 
-concluBis 09/04/23 = Big brother us _24 > 2; 
-concluBis 10/04/23 = Devils line _1 > 2; Bed friend _1 > 1; Big brother us _24 > 1; 
-concluBis 11/04/23 = The voice chile _4 > 1; Devils line _1 > 1; Big brother us _24 > 1; 
-concluBis 12/04/23 = The voice chile _4 > 1; Big brother us _24 > 1; 
-concluBis 13/04/23 = The voice chile _4 > 1; Big brother us _24 > 1; 
-concluBis 14/04/23 = Big brother us _24 > 1; 
-concluBis 15/04/23 = Big brother us _24 > 1; 
-concluBis 16/04/23 = Big brother us _24 > 1; 
-concluBis 17/04/23 = The voice kids portugal _4 > 1; Big brother us _24 > 1; 
-concluBis 18/04/23 = The voice kids portugal _4 > 2; Big brother us _24 > 1; 
-concluBis 19/04/23 = The voice kids portugal _4 > 3; Big brother us _24 > 2; 
-concluBis 20/04/23 = The voice kids portugal _4 > 3; Big brother us _24 > 2; 
-concluBis 21/04/23 = The voice kids portugal _4 > 3; Big brother us _24 > 2; 
-concluBis 22/04/23 = The voice kids portugal _4 > 2; Big brother us _24 > 2; 
+concluBis 03/11/22 = La brea _1 > 3; 
+concluBis 04/11/22 = La brea _1 > 3; The challenge _38 > 1; 
+concluBis 05/11/22 = La brea _1 > 3; Reginald the vampire _1 > 2; 
+concluBis 06/11/22 = La brea _1 > 3; Reginald the vampire _1 > 1; 
+concluBis 07/11/22 = La brea _1 > 3; 
+concluBis 08/11/22 = La brea _1 > 3; 
+concluBis 09/11/22 = La brea _1 > 4; 
+concluBis 04/12/22 = /609 bedtime story _1 > 2; 
+concluBis 05/12/22 = /609 bedtime story _1 > 1; 
+concluBis 06/12/22 = /609 bedtime story _1 > 1; 
+concluBis 07/12/22 = /609 bedtime story _1 > 1; 
+concluBis 08/12/22 = /609 bedtime story _1 > 2; 
+concluBis 09/12/22 = /609 bedtime story _1 > 2; 
+concluBis 10/12/22 = /609 bedtime story _1 > 3; 
+concluBis 11/12/22 = /609 bedtime story _1 > 3; 
+concluBis 12/12/22 = /609 bedtime story _1 > 1; 
+concluBis 18/12/22 = /609 bedtime story _1 > 3; 
+concluBis 19/12/22 = /609 bedtime story _1 > 3; 
+concluBis 21/12/22 = Never let me go _1 > 3; 
+concluBis 22/12/22 = Never let me go _1 > 2; 
+concluBis 23/12/22 = Never let me go _1 > 1; 
+concluBis 24/12/22 = Never let me go _1 > 1; 
+concluBis 26/12/22 = Forever knight _1 > 1; 
+concluBis 27/12/22 = Forever knight _1 > 1; 
+concluBis 28/12/22 = Forever knight _1 > 2; Imortal _1 > 1; 
+concluBis 29/12/22 = Midnight motel _1 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+concluBis 30/12/22 = Midnight motel _1 > 3; Forever knight _1 > 1; 
+concluBis 31/12/22 = Midnight motel _1 > 3; Forever knight _1 > 1; 
+concluBis 01/01/23 = Midnight motel _1 > 3; Forever knight _1 > 1; 
+concluBis 03/01/23 = /609 bedtime story _1 > 1; 
+concluBis 06/01/23 = Agt as _1 > 2; 
+concluBis 07/01/23 = Agt as _1 > 1; 
+concluBis 19/01/23 = Dirty laundry _1 > 1; 
+concluBis 20/01/23 = Dirty laundry _1 > 1; 
+concluBis 21/01/23 = Dirty laundry _1 > 2; 
+concluBis 23/01/23 = Agt as _1 > 4; 
+concluBis 24/01/23 = Agt as _1 > 4; 
+concluBis 30/01/23 = Forever knight _1 > 2; Mako ventures _2 > 1; Imortal _1 > 1; 
+concluBis 31/01/23 = Survivor au _10 > 2; Forever knight _1 > 2; Mako ventures _2 > 1; Imortal _1 > 1; 
+concluBis 01/02/23 = Earthmix space _2 > 2; Forever knight _1 > 2; Imortal _1 > 1; 
+concluBis 02/02/23 = Forever knight _1 > 2; Imortal _1 > 1; 
+concluBis 03/02/23 = Forever knight _1 > 2; Imortal _1 > 1; 
+concluBis 12/02/23 = Physical 100 _1 > 1; 
+concluBis 13/02/23 = Physical 100 _1 > 3; 
+concluBis 14/02/23 = Physical 100 _1 > 4; 
+concluBis 15/02/23 = Physical 100 _1 > 4; 
+concluBis 16/02/23 = Physical 100 _1 > 3; 
+concluBis 17/02/23 = Physical 100 _1 > 3; 
+concluBis 18/02/23 = Physical 100 _1 > 2; 
+concluBis 21/02/23 = Lego masters _3 > 1; 
+concluBis 22/02/23 = Lego masters _3 > 2; 
+concluBis 23/02/23 = Lego masters _3 > 3; 
+concluBis 24/02/23 = Lego masters _3 > 3; 
+concluBis 25/02/23 = Lego masters _3 > 2; 
+concluBis 26/02/23 = Lego masters _3 > 1; 
+concluBis 10/03/23 = Cheat netflix _1 > 1; 
+concluBis 15/03/23 = Midnight museum _1 > 2; 
+concluBis 16/03/23 = Midnight museum _1 > 1; 
+concluBis 21/03/23 = Next level chef _2 > 3; 
+concluBis 27/03/23 = Choco milk shake _1 > 3; 
+concluBis 28/03/23 = Choco milk shake _1 > 2; 
+concluBis 29/03/23 = Choco milk shake _1 > 3; Earthmix space _2 > 2; 
+concluBis 30/03/23 = Choco milk shake _1 > 3; Earthmix space _2 > 2; 
+concluBis 31/03/23 = Choco milk shake _1 > 3; Earthmix space _2 > 1; 
+concluBis 01/04/23 = Choco milk shake _1 > 3; 
+concluBis 02/04/23 = Choco milk shake _1 > 4; Earthmix space _2 > 1; 
+concluBis 06/04/23 = Devils line _1 > 2; 
+concluBis 08/04/23 = Me my husband and my husbands boyfriend _1 > 2; 
+concluBis 10/04/23 = Devils line _1 > 2; 
+concluBis 11/04/23 = Devils line _1 > 1; 
 
 
 

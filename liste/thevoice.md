@@ -146,6 +146,12 @@
 |Tv us _23||19|||<!--  -->
 |Tvk uruguay _1||13|||<!--  -->
 |Tv fr _13||15|||<!--  -->
+|Tv chile _4||68|||<!--  -->
+|The voice kids portugal _4||12|||<!--  -->
+|The voice kids esp _8||12|||<!--  -->
+|The voice kids uk _7||3|||<!--  -->
+|The voice generations portugal _2||4|||<!--  -->
+|The voice kids fr _9||9|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -164,7 +170,6 @@
 |The voice kids indonesia _4|||||0|<!--  -->
 |The voice nepal _4|||||0|<!--  -->
 |The voice chile _4|||||0|<!--  -->
-|The voice kids esp _8|||||0|<!--  -->
 |The voice lithu _9|||||0|<!--  -->
 |The voice kids portugal _4|||||0|<!--  -->
 ||||||0|<!--  -->

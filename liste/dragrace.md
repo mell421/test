@@ -88,8 +88,13 @@
 |Drag save the queen _2||4|||<!--  -->
 |Drag den ph _1||8|||<!--  -->
 |Tongue thaid _1||8|||<!--  -->
-||||||<!--  -->
-||||||<!--  -->
+|Queen of the universe _2||8|||<!--  -->
+|Alyssas secret the reboot _1||8|||<!--  -->
+|Drag race be _1||8|||<!--  -->
+|Rupaul drag race out of the closet _5||6|||<!--  -->
+|La mas draga _5||12|||<!--  -->
+|Drag race fr _2||9|||<!--  -->
+|Painted with raven _2||8|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

@@ -7,29 +7,28 @@
 # nb bis
 list99=( 
 # >= 100
-"Big brother us _24" "Le flambeau _1" "The shipper _1" 
 # 99-50
-"Lego masters _3" "Physical 100 _1" "Agt _17" "The voice chile _4" 
+"Lego masters _3" "Physical 100 _1" "Agt _17" 
 # 49-40
-"Koh-lanta _29" "Choco milk shake _1" 
+"Choco milk shake _1" 
 # 39-30
 # 29-20 
 "Earthmix space _2" "Reginald the vampire _1" 
 # 19-15
-"American idol _21" "The voice kids portugal _4" "Drag race be _1" "Midnight museum _1" 
+"Midnight museum _1" 
 # 14-10
-"Umg _1" "Bed friend _1" "Next level chef _2" "Me my husband and my husbands boyfriend _1" 
+"Umg _1" "Next level chef _2" "Me my husband and my husbands boyfriend _1" 
 # 9-8
 "The masked singer th _12" 
 # 7-6
-"The eight sense _1" "Double savage _1" "The voice kids esp _8" "Devils line _1" "Queer as folk _1" "Drag race sweden _1" 
+"The eight sense _1" "Double savage _1" "Devils line _1" "Drag race sweden _1" 
 # 5-4
-"Cheat netflix _1" "Make a wish _1" "Dance 100 _1" "Cutie pie _2" "The night beyond the tricornered window _1" "Skam france _11" 
+"Cheat netflix _1" "Make a wish _1" "Dance 100 _1" "Cutie pie _2" "The night beyond the tricornered window _1" 
 # 3-2
 # 0-1
 # other
 "Ai long nhai _1" "Sky in your heart _1" "Masterchef fr _6" "Dwts _31" 
-"La mas draga _5" "The voice nepal _4" "Un dos tres _3" "Juad juad _1" "The challenge _38" "Let the right one in _1" "Vampire academy _1" 
+"The voice nepal _4" "Un dos tres _3" "Juad juad _1" "The challenge _38" "Let the right one in _1" "Vampire academy _1" 
 "Nailed it _7" "Ahs _11" 
 "Big brother us _23" "Two pints of lager _3" 
 "Tokyo ghoul _3" "Unforgotten night _1" "Agt _17" "Close friend _2" 
@@ -41,7 +40,7 @@ list99=(
 "/9-1-1 lone star _3" "Bulgasal _1" 
 "Beat shazam _2" "Meet my angel _2" "Something in my room _1" "The player _1" "7project _1" 
 "Druck _8" "Love stage 2022 _1" "Unlocked _1" 
-"Dancing with myself _1" "All of us are dead _1" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
+"Dancing with myself _1" "The voice nl _12" "District z _2" "Baker boys _1" "Aoki vuanpaia no nayami _1" "The case study of vanitas _1" "Post mortem _1" "Buffy _1" "Lucifer _4" 
 "Camping paradis _13" "Drag i love you _1" "Love at night _1" 
 "Mama gogo _1" "The voice kids indonesia _4" "Love mechanics _1" "Bullshit the game show _1" "The tuxedo _1" "Aggretsuko _4" "Les engages _3" "My sweet dear _1" "Love area _1" "Goblin _1" 
 "Want to see you _1" "Clik clak clok _1" "Call me mother _1" "Cherry blossoms after winter _1" "Color rush _2" "Age of the living dead _1" "Insiders _1" "The big leap _1" "Alice in borderland _1" 

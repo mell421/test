@@ -743,7 +743,47 @@
 |The voice fr _13||15|||<!--  -->
 |Tongue thaid _1||8|||<!--  -->
 |Top chef _14||15|||<!--  -->
-||||||<!--  -->
+|Koh-lanta _29||17|||<!--  -->
+|Skam france _11||10|||<!--  -->
+|The voice chile _4||68|||<!--  -->
+|The challenge au _1||10|||<!--  -->
+|Le flambeau _1||10|||<!--  -->
+|The shipper _1||12|||<!--  -->
+|Queen of the universe _2||8|||<!--  -->
+|Bed friend _1||10|||<!--  -->
+|The voice kids portugal _4||12|||<!--  -->
+|Ships in the night _1||15|||<!--  -->
+|All of us are dead _1||12|||<!--  -->
+|Big brother us _24||35|||<!--  -->
+|Alyssas secret the reboot _1||8|||<!--  -->
+|Step by step _1||12|||<!--  -->
+|Skam france _12||10|||<!--  -->
+|Drag race be _1||8|||<!--  -->
+|The voice kids esp _8||12|||<!--  -->
+|Stupid genius _1||6|||<!--  -->
+|The voice kids uk _7||3|||<!--  -->
+|Tie the not _1||8|||<!--  -->
+|Rupaul drag race out of the closet _5||6|||<!--  -->
+|Queer as folk _1||22|||<!--  -->
+|La pluie _1||12|||<!--  -->
+|Soldados o zombies _1||8|||<!--  -->
+|The voice generations portugal _2||4|||<!--  -->
+|Rush au _1||9|||<!--  -->
+|Heartstopper _2||8|||<!--  -->
+|Les traitres _2||11|||<!--  -->
+|Be my favorite _1||12|||<!--  -->
+|Ninja warrior _8||6|||<!--  -->
+|La mas draga _5||12|||<!--  -->
+|Mignon _1||12|||<!--  -->
+|Crime scene kitchen _2||10|||<!--  -->
+|Count abdulla _1||6|||<!--  -->
+|Drag race fr _2||9|||<!--  -->
+|Papa what is love _1||6|||<!--  -->
+|American idol _21||20|||<!--  -->
+|Painted with raven _2||8|||<!--  -->
+|The voice kids fr _9||9|||<!--  -->
+|Low frequency _1||8|||<!--  -->
+|Wedding plan _1||7|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->

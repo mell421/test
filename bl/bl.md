@@ -23,7 +23,7 @@
  
 |titre|pays|nb saisons terminées|
 | --- | --- | :---: | 
-|skam france|france|10|
+|skam france|france|12|
 |druck|allemagne|8+|
 |skam|norvège|4|
 |skam espana|espagne|4|
@@ -273,6 +273,20 @@
 |Crush on you _1||7|||<!--  -->
 |A boss and a babe _1||12|||<!--  -->
 |Past senger _1||12|||<!--  -->
+|The shipper _1||12|||<!--  -->
+|Bed friend _1||10|||<!--  -->
+|Ships in the night _1||15|||<!--  -->
+|Step by step _1||12|||<!--  -->
+|Stupid genius _1||6|||<!--  -->
+|Tie the not _1||8|||<!--  -->
+|Queer as folk _1||22|||<!--  -->
+|La pluie _1||12|||<!--  -->
+|Heartstopper _2||8|||<!--  -->
+|Be my favorite _1||12|||<!--  -->
+|Mignon _1||12|||<!--  -->
+|Papa what is love _1||6|||<!--  -->
+|Low frequency _1||8|||<!--  -->
+|Wedding plan _1||7|||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
 ||||||<!--  -->
@@ -332,7 +346,6 @@
 |color rush _2|color rush _2|8|serie|corée|1|<!--  -->
 |love at night _1|love at night _1|20|serie(non)|taiwan|1|<!--  -->
 |love stage 2022 _1|love stage|?|serie|thailande|3|<!--  -->
-|all of us are dead _1|all of us are dead _1|10|serie(non)|corée|2|<!--  -->
 |cupids last wish _1|cupids last wish|?|serie|thailande|4|<!--  -->
 |cherry blossoms after winter _1|cherry blossoms after winter _1|?|serie|corée|1|<!--  -->
 |drag I love you _1|drag I love you|?|serie(**)|thailande|2|<!-- -->
@@ -361,13 +374,11 @@
 |Cutie pie _2||||||<!--  -->
 |Choco milk shake _1||||||<!--  -->
 |UMG|UMG|10|serie(**)|thailande|0|<!--  -->
-|Queer as folk _1||||||<!--  -->
 |Midnight museum _1||||||<!--  -->
 |Earthmix space _2||||||<!--  -->
 |Me my husband and my husbands boyfriend _1||||||<!--  -->
 |Make a wish _1||||||<!--  -->
 |The eight sense _1||||||<!--  -->
-|Bed friend _1||||||<!--  -->
 |Double savage _1||||||<!--  -->
 |||||||<!--  -->
 |||||||<!--  -->
