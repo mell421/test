@@ -3,17 +3,17 @@
 [PDF](./bl.pdf) [MD](./bl.md) 
 
 
-# liste de bl
+# list of bl
 
-## sommaire
-- [liste de bl](#liste-de-bl)
-  - [sommaire](#sommaire)
+## sommary
+- [list of bl](#list-of-bl)
+  - [sommary](#sommary)
   - [SKAM REMAKES](#skam-remakes)
   - [to sort](#to-sort)
   - [asia+occident](#asiaoccident)
-  - [terminé](#terminé)
-  - [en cours, a jour](#en-cours-a-jour)
-  - [non commencée, a venir](#non-commencée-a-venir)
+  - [finished](#finished)
+  - [ongoing, up-to-date](#ongoing-up-to-date)
+  - [to come and to see](#to-come-and-to-see)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -56,9 +56,9 @@
 
 ## asia+occident
 \* bl (side couple) <!-- -->  
-\*\* avec acteurs de bl <!-- -->  
-\*\*\*  autre asie<!-- -->  
-## terminé
+\*\* with bl's actors <!-- -->  
+\*\*\*  other asia<!-- -->  
+## finished
  
 |titre|titre officiel|nb ep|categorie|pays|
 | --- | --- | :---: | --- | --- |
@@ -293,7 +293,7 @@
 ||||||<!--  -->
 ||||||<!--  -->
 
-## en cours, a jour
+## ongoing, up-to-date
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
@@ -391,7 +391,7 @@
 \pagebreak 
 </div>
 
- ## non commencée, a venir
+ ## to come and to see
  
 |titre|titre officiel|nb ep|categorie|pays|nb vu|
 | --- | --- | :---: | --- | --- | --- |
